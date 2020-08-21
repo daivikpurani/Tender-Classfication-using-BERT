@@ -1,0 +1,492 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/705220
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 13:00:00
+
+Bid Opening Date/Time 20-07-2020 13:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 15 (Days)
+
+Ministry/State Name Niti Aayog - National Institution For Transforming
+India
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Niti Aayog
+
+Total Quantity 3
+
+Item Category Business intelligence and data analysis software (
+PAC Only ) 
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Business Intelligence And Data Analysis Software ( 3 pieces ) ( Under PAC
+) 
+
+                               1 / 5
+
+
+
+ 
+
+Make tableau
+
+Model tableau
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+BASIC INFORMATION
+OF BUSINESS
+INTELLIGENCE AND
+DATA ANALYSIS
+SOFTWARE(GOLDEN)
+
+Name of Software Tableau Creator *
+
+Name of the OEM Tableau *
+
+OEM Model / Part No. Tableau Creator *
+
+Product Id of OEM Tableau Creator *
+
+Software Description one Creator license *
+
+Software Version /
+Name
+
+Tableau Creator *
+
+Date of Launch of
+Version
+
+01/01/2018 *
+
+FEATURES AND
+FUNCTIONALITY
+PARAMETERS
+(GOLDEN)
+
+Budgeting &
+Forecasting
+
+Yes Yes
+
+Operational
+Research Capability
+
+Yes Yes
+
+Statistical Capability Yes Yes
+
+Text Analytics Yes Yes
+
+Fraud analytics Yes Yes
+
+Architecture aware
+in memory multiple
+data source support
+meta data
+management
+features
+
+Yes Yes
+
+Support Data
+Connectors
+
+Yes Yes
+
+If yes, type of support
+data connectors
+
+More than 60 *
+
+Predictive Analytics Yes Yes
+
+Single Sign On Yes Yes
+
+Product updates Yes Yes
+
+Deployment options Both Both
+
+Installation and
+Demonstration
+
+Yes Yes, No
+
+No. of days Training
+Provided at Site
+
+Upto 5 0, Upto 5, 6 to 10
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/olOiPkrFDzt3pQoYgc85hbXqhTtNaY1Jvw21AmpGeUA
+
+
+ 
+
+Number of Years
+upto which Support
+(warranty) is
+available from OEM /
+Franchise online
+
+1 1
+
+FEATURES AND
+FUNCTIONALITY
+PARAMETERS(GENERIC)
+
+Master Data
+Management
+
+Yes *
+
+Data Governance Yes *
+
+Application Security Yes *
+
+Authentication &
+Security
+
+Yes *
+
+Collaboration Analytics Yes *
+
+Customizable Fields Yes *
+
+Customizable Reporting Yes *
+
+Dashboard Creation Yes *
+
+Data Storage
+Management
+
+Yes *
+
+Interactive Content Yes *
+
+Interactive Reporting Yes *
+
+Mobile Integration Yes *
+
+Supports OLAP (Online
+Analytical Processing)
+functions
+
+Yes *
+
+Real Time Analytics Yes *
+
+Social Media Analytics Yes *
+
+Visual Analytics Yes *
+
+Geospatial support
+features
+
+Yes *
+
+Automatic date
+dimension features
+
+Yes *
+
+Intuitive interface
+custom charting
+features
+
+Yes *
+
+Activity Dashboard Yes *
+
+Access Control Yes *
+
+API Yes *
+
+Ad hoc Analysis Yes *
+
+Ad hoc Query/ Data
+Query
+
+Yes *
+
+Ad hoc Reporting Yes *
+
+Alerts & Intelligence Yes *
+
+Categorizing/ Hierarchy Yes *
+
+                               3 / 5
+
+
+
+ 
+
+Content Analytics Yes *
+
+Conversion Analytics Yes *
+
+Version Control Yes *
+
+Cross-device data Yes *
+
+Data Extraction Yes *
+
+Data Filtering Yes *
+
+Data Analysis Yes *
+
+Data Visualization Yes *
+
+Data Import/Export Yes *
+
+Drag & Drop Interface Yes *
+
+Data Manipulation Yes *
+
+Graphical Data
+Presentation
+
+Yes *
+
+Metadata Management Yes *
+
+Supports Multiple Data
+Sources
+
+Yes *
+
+Performance Reporting
+/ Monitoring
+
+Yes *
+
+Permission
+Management
+
+Yes *
+
+Product Integrations Yes *
+
+Trend Tracking /
+Problem indication and
+Analysis
+
+Yes *
+
+Widgets Embedding support *
+
+SUPPORTED
+HARDWARE
+REQUIREMENT
+PARAMETERS
+
+Minimum Hard Disk
+Space Required
+
+50GB *
+
+RAM Size required 4GB *
+
+Server requirements Yes *
+
+CPU required i3 *
+
+Operating Systems
+supported
+
+Windows, Mac *
+
+Supported Devices Laptop & Desktops *
+
+Supported Servers Windows, Linux, Mac *
+
+Supported Web
+browsers
+
+Firefox, Chrome & ie *
+
+Supported Database 70+ *
+
+GENERIC PARAMETERS
+OF BUSINESS
+INTELLIGENCE AND
+DATA ANALYSIS
+SOFTWARE
+
+Free Upgradation to
+Higher Version
+
+Yes *
+
+Valid Licence copy to
+be provided
+
+For Subscription Yes, For perpetual, For
+Subscription, For
+Renewal
+
+                               4 / 5
+
+
+
+ 
+
+Software supplied
+through
+
+URL Link *
+
+Certifications /
+Benchmarking of
+Software Products
+
+EU-US/ISAE *
+
+Hyper link to Data
+sheet
+
+www.tableau.com *
+
+No of Softwares sold 150 *
+
+Details of Government
+Department email,
+phone no.Of concerned
+authority where
+Software /Appliance
+installed for above.
+
+BSES Rajdhani *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Satish Kumar 110001,Room No 445, NITI
+Aayog, Sansad Marg
+
+3  15
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+2. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+3.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

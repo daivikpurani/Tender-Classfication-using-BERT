@@ -1,0 +1,2394 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - Bid Document_Tender No. HWT140818506.doc
+
+
+GUJARAT INFORMATICS LIMITED 
+BLOCK NO. 1, 8TH FLOOR, UDYOG BHAVAN, SECTOR‐11, GANDHINAGAR 
+
+ 
+
+1 of 30 
+
+ 
+
+Bid Document 
+ 
+
+ 
+ 
+
+GUJARAT INFORMATICS LIMITED 
+Block No. 1, 8th Floor, Udyog Bhavan, 
+Sector‐11, Gandhinagar 382 010 
+
+Phone No: 079 ‐ 23256022  
+Fax No: 079 ‐ 23238925 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+Pre‐bid meeting: 24.08.2018 on 1500 hours 
+ 
+
+Last Date of Submission of Bid: 06.09.2018 till 1500 hours 
+ 
+
+Last Date of Submission of Bid Processing Fees & EMD: 06.09.2018 till 1500 hours 
+ 
+
+Date of Opening of Technical Bid: 06.09.2018 on 1700 hours 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Bid for Supply, Installation, Commissioning
+and Maintenance of Server, Storage & related 
+
+Equipments for GIS based Application on behalf of 
+Bhaskaracharya Institute for Space Applications 
+
+and Geo‐Informatics (BISAG), Gandhinagar 
+(Tender No. HWT140818506) 
+
+Bid Processing Fee: Rs. 17,700/‐ 
+
+
+
+GUJARAT INFORMATICS LIMITED 
+BLOCK NO. 1, 8TH FLOOR, UDYOG BHAVAN, SECTOR‐11, GANDHINAGAR 
+
+ 
+
+2 of 30 
+
+ 
+
+Introduction 
+ 
+Gujarat Informatics Limited (herein after referred to as GIL), on behalf of Bhaskaracharya Institute for Space 
+Applications and Geo‐Informatics (BISAG), Gandhinagar (herein after referred to as the Purchasers) for their 
+requirements  of  purchase  of  Server,  Storage  &  related  Equipments,  intend  to  invite  your  bid  for  Supply, 
+Installation,  Commissioning  and  Maintenance  of  Server,  Storage  &  related  Equipments  for  GIS  based 
+Application  on  behalf  of  Bhaskaracharya  Institute  for  Space  Applications  and  Geo‐Informatics  (BISAG), 
+Gandhinagar. 
+ 
+
+The selected agency will have to Supply, Install, Commissioning and Maintain the supplied Server, Storage & 
+
+related Equipments as per the scope defined in this bid for the contract period. 
+
+ 
+
+Gujarat  Informatics  Limited,  on  behalf  of  Bhaskaracharya  Institute  for  Space  Applications  and  Geo‐
+
+Informatics  (BISAG), Gandhinagar  has  published  this  bid  for  “for  Supply,  Installation,  Commissioning  and 
+
+Maintenance  of  Server,  Storage  &  related  Equipments  for  GIS  based  Application  on  behalf  of 
+
+Bhaskaracharya  Institute  for  Space Applications and Geo‐Informatics  (BISAG), Gandhinagar”. GIL  invites 
+
+your bid for the same. 
+ 
+
+Proposal  in  the  form  of  BID  are  requested  for  the  items/services  in  complete  accordance  with  the 
+
+documents to be uploaded as per following guidelines. 
+ 
+
+Bidder shall submit their bids on https://www.gil.nprocure.com. 
+ 
+
+The bidder will have to submit Nonrefundable Bid Processing Fees of Rs. 17,700/‐ & Earnest Money Deposit 
+(E.M.D.) of Rs. 8,00,000/‐ (Refundable) on or before date & hours of submission of bid in a sealed cover at 
+GIL  office  with  the  heading  “Bid  processing  Fees  &  EMD  for  E‐tender  no  HWT140818506  for  Supply, 
+Installation,  Commissioning  and  Maintenance  of  Server,  Storage  &  related  Equipments  for  GIS  based 
+Application  on  behalf  of  Bhaskaracharya  Institute  for  Space  Applications  and  Geo‐Informatics  (BISAG), 
+Gandhinagar.” 
+ 
+
+ Bid processing  fees must  be  in  the  form of Demand Draft  in  the name of “Gujarat  Informatics  Ltd.” 
+payable at Gandhinagar along with the covering letter.  
+ 
+
+ EMD  as  mentioned  above,  shall  be  submitted  in  the  form  of  Demand  Draft  OR  in  the  form  of  an 
+unconditional  Bank  Guarantee  (which  should  be  valid  for  6  months  from  the  last  date  of  bid 
+submission)  of  any  Nationalized  Bank  including  the  public  sector  bank  or  Private  Sector  Banks  or 
+Commercial  Banks  or  Co‐Operative  Banks  and  Rural  Banks  (operating  in  India  having  branch  at 
+Ahmedabad/  Gandhinagar)  as  per  the  G.R.  no.  EMD/10/2018/18/DMO  dated  16.04.2018 
+(http://www.gil.gujarat.gov.in/grs/DMO_2173_16_Apr_2018_714.pdf) issued by Finance Department or 
+further instruction issued by Finance department time to time; in the name of “Gujarat Informatics Ltd.” 
+payable at Gandhinagar  (as per prescribed  format given at Annexure A) and must be  submitted along 
+with the covering letter. 
+ 
+
+Please affix the stamp of your company on the overleaf of demand draft. 
+ 
+
+Note:  Failing to submit physical covers of EMD and Bid Processing Fees at GIL on or before the last date & 
+
+  time of submission as given in this bid, may lead to the rejection of the bid. 
+ 
+
+The Bid Processing Fees & EMD Section and Eligibility Section will be opened on the specified date & time in 
+
+the  presence  of  the  committee members  and  representatives  of  the  bidders who  choose  to  attend.  The 
+
+representative will be held responsible for all commitments made on behalf of the bidder and that will be 
+
+considered valid for all further dealings related to this tender process. 
+
+ 
+
+
+
+GUJARAT INFORMATICS LIMITED 
+BLOCK NO. 1, 8TH FLOOR, UDYOG BHAVAN, SECTOR‐11, GANDHINAGAR 
+
+ 
+
+3 of 30 
+
+ 
+
+Once quoted, the bidder shall not make any subsequent price changes, whether resulting or arising out of 
+
+any technical/commercial clarifications sought regarding the bid, even if any deviation or exclusion may be 
+
+specifically stated in the bid. Such price changes shall render the bid liable for rejection. 
+
+ 
+In addition to this bid, the following sections uploaded are part of Bid Documents. 
+ 
+
+Section  Name of Section  Page No. 
+
+Section ‐ 1  Eligibility Criteria  5 
+
+Section ‐ 2  Scope of Work  6 
+
+Section ‐ 3  Instructions to Bidders / General Terms & Conditions  9 
+
+Section ‐ 4  Technical Specifications of Equipments  15 
+
+Section ‐ 5  Financial Bid Format  20 
+
+Section ‐ 6  Annexure  22 
+
+Section ‐ 7  Performa of Compliance letter / Authenticity of Information Provided  24 
+
+Section ‐ 8  Performa of Performance Bank Guarantee & Contract Form  28 
+
+ 
+
+
+
+GUJARAT INFORMATICS LIMITED 
+BLOCK NO. 1, 8TH FLOOR, UDYOG BHAVAN, SECTOR‐11, GANDHINAGAR 
+
+ 
+
+4 of 30 
+
+ 
+
+ 
+The  summary  of  various  activities with  regard  to  this  invitation  of  bids  are  listed  in  the  table 
+below: 
+ 
+
+1  Bid Reference Number  Tender No. HWT140818506 
+
+2  Date of Pre‐Bid Meeting  24.08.2018 on 1500 hours 
+
+3  Venue of Pre‐Bid Meeting  
+
+Bhaskaracharya  Institute  for  Space 
+Application & Geo‐informatics (BISAG) 
+Near  Ch‐0  Circle,  Indulal  Yagnik  Marg, 
+Gandhinagar‐ 382 007 
+
+4 
+Last Date & Time for Submission of Bids 
+electronically on  https://www.gil.nprocure.com 
+
+06.09.2018 till 1500 hours 
+
+5 
+Date & Time of Opening of Bids 
+(Un‐priced Bids) 
+
+06.09.2018 at 1700 hours 
+
+6  Date & Time of Opening of Commercial Stage  
+Will be intimated to the qualified bidders at a 
+later date.  
+
+7  Venue of Opening of Bids  
+Gujarat Informatics Limited 
+Block No. 1, 8th Floor, Udyog Bhavan, 
+Sector‐11, Gandhinagar 382 010 
+
+8  Bid Processing Fees (Non‐refundable) 
+Rs.  17,700/‐  (Rupees  Seventeen  Thousand 
+Seven Hundred Only) 
+
+9  Earnest Money Deposit (E.M.D.)  Rs. 8,00,000/‐ (Rupees Eight Lacs Only) 
+
+10  GIL Contact Person   DGM (Tech.), GIL 
+
+ 
+
+Note: Please specify Tender Number in all your correspondence. 
+ 
+
+ 
+ 
+
+
+
+GUJARAT INFORMATICS LIMITED 
+BLOCK NO. 1, 8TH FLOOR, UDYOG BHAVAN, SECTOR‐11, GANDHINAGAR 
+
+ 
+
+5 of 30 
+
+ 
+
+SECTION I 
+ 
+
+Eligibility Criteria for the bidder: 
+ 
+
+1. The bidder should have a total sum of turnover of Rs. 15 Crore (Minimum) in the last three financial years 
+as on 31st March 2018. The copies of Audited Annual Accounts/Balance Sheet along with Profit & Loss 
+Account and CA Certified Statement for last three financial years as on 31st March 2018 shall be attached 
+along with the bid.  For the Year 2017‐18 if audited accounts are not available then CA certificate can be 
+submitted (Form no. E‐1) 
+
+ 
+
+2. The bidder must have one office in Gujarat. Please attach the copies of any two of the following: Property 
+Tax Bill of last year / Electricity Bills of last one year / Telephone Bills of last one year / VAT Registration / 
+CST Registration / Valid Lease Agreement. (Form no. E‐2). In case, bidder does not have office in Gujarat, 
+bidder  should  give  undertaking  to  open  office  in  Gujarat within  45  days  from  the  date  of  purchase 
+order. 
+
+ 
+
+3. Bidder must ensure that the warranty support & service should be available up to delivery  locations to 
+provide  repairing  cum  replacement  services  of  faulty  equipments  within  24  hrs.  Bidder  is  required  to 
+provide the name & address & contact details of the firm for providing warranty support & repairing cum 
+replacement service up to delivery locations. (Form no. E‐3) 
+
+ 
+
+4. Bidder must have experience of  supply,  installation & maintenance of Server, Storage and Data Centre 
+related  equipments.  Bidder  should  have  received  and  executed  at  least  2  work  orders  of  above 
+mentioned work of minimum value of Rs. 1 Crore each in  last 3 years. Customer references & Purchase 
+orders must be attached along with the bid. (Form no. E‐4) 
+ 
+
+5. The bidder should be authorized by its OEM (for the offered Server & Storage & other Equipments) to 
+quote  this bid  (Form no. E‐5). The bidder  should have a back‐to‐back  support agreement/arrangement 
+for services including supply of spare parts etc. with the Original Equipment Manufacturer (OEMs). Please 
+attach the copy of Authorization on OEM letter head and signed by authorized signatory for the item(s) to 
+be offered in this bid. 
+ 
+
+6. The Manufacturer  of  the  product  (OEM)  should  be  ISO  9001:2008  Process  Certified  for manufacturing 
+(Form no. E‐6). Valid ISO Certificates to be submitted along with the bid.  
+ 
+
+7. Bidder should not be blacklisted by any Ministry of Government of India or by any State Government of 
+India  or  any  of  the  Government  PSUs  at  the  time  of  bidding.  Self‐Declaration  /  Certificate  /  affidavit 
+mentioning that the Bidder is not blacklisted as per the clause should be submitted. 
+ 
+
+8. No  consortium  will  be  allowed.  The  bidder  must  meet  all  the  eligibility  criteria  by  self.  Bidders 
+undertaking should be submitted.  
+ 
+
+9. OEM for Server & Storage should be in the Leadership / Challengers / Visionaries quadrant in the latest 
+available Gartner Magic Quadrant (Magic Quadrant for Modular Servers & General Purpose Disk Arrays) 
+OR should be among the top Five positions in terms of worldwide market share as per latest available IDC 
+report. Documentary proof to be submitted for the same. 
+
+ 
+
+Note: 
+
+1. All  the  details  and  the  supportive  documents  for  the  above mentioned  items  should  be  uploaded  in 
+eligibility section in the bid. 
+
+2. Bidders  who wish  to  participate  in  this  bid  will  have  to  register  on  https://gil.nprocure.com.  Further 
+bidders who wish to participate in online bids will have to procure Digital Certificate as per Information 
+Technology Act 2000 using which they can sign their electronic bids. Bidders can procure the same from 
+(n)  code  solutions  –  a  division  of  GNFC  Ltd.,  or  any  other  agency  licensed  by  Controller  of  Certifying 
+Authority, Govt. of  India. Bidders who already have a  valid Digital Certificate need not procure a new 
+Digital Certificate. 
+
+
+
+GUJARAT INFORMATICS LIMITED 
+BLOCK NO. 1, 8TH FLOOR, UDYOG BHAVAN, SECTOR‐11, GANDHINAGAR 
+
+ 
+
+6 of 30 
+
+SECTION II 
+ 
+
+Scope of Work 
+ 
+Bidder is required to Supply, Install, Testing, Commissioning and Maintenance (for the contract period of 5 
+years)  of  Server,  Storage &  related Equipments  (with necessary  software &  licenses)  and  Integration with 
+existing BISAG Setup for  the  required Solution Architecture  for GIS based Application at BISAG, as per  the 
+specifications mentioned  in the Bid document. Complete System should be  Integrated with existing BISAG 
+Setup. 
+ 
+
+The bidder shall be responsible for implementation of the work as defined in the bid document. Bidders also 
+have to provide training to BISAG persons for the equipments to be supply under this bid. 
+ 
+
+Unit  cost  is  required  to  be  offered  for  all  the  items  as  requested. GIL/GoG does  not  guarantee  any  fixed 
+quantity of any item as mentioned in bid, at the time of awarding the order. The quantity of any item may 
+vary depending upon the change in the requirements/grants available with the purchaser(s), which shall be 
+binding  to  the  bidder.  The  rates  should  be  valid  for  a  period  of  180  days  from  the  date  of  financial  bid 
+opening. 
+ 
+
+All goods or materials shall be supplied strictly in accordance with the specifications, drawings, datasheets, 
+other documents and conditions stated in the Bid / Work order.  All materials supplied by the Bidder shall be 
+guaranteed  to  be  of  the  best  quality  of  their  respective  kinds  and  shall  be  free  from  faulty  design, 
+workmanship and materials. 
+ 
+
+Documents: The Bidder shall provide 1 set of documents and manuals along with related software & their 
+updates  for  the  items they supply at  the time of delivery  (hard copy, soft copy with each  item of the unit 
+supplied.) 
+ 
+
+Installation & Training: Onsite training is to be given by the Bidder to BISAG persons for the equipments to 
+be supply, on operation and troubleshooting during the time of supply. 
+ 
+GENERAL: 
+ 
+
+a. The  bidder  should  produce  letter  of  authorization  for  the  items  to  be  quoted  from  their  respective 
+OEMs. 
+
+b. It  will  be  joint  responsibility  of  the  bidder  &  OEM  to  ensure  after‐sale  support  and  warranty  for  all 
+component/ equipment. 
+
+c. Any  substandard equipment  included  in  the offer may cause  rejection of  the  complete offer with  the 
+sole responsibility of bidder. 
+
+d. Bidder should include required components like LAN Switch, PDU, Cable, Connector etc. for integration 
+with existing BISAG Setup. 
+
+e. The  bidder will  have  to  carry  out  the  complete  LAN work &  Fiber  cabling  installation work  (including 
+laying, HDPE pipe, PVC pipe, Cable Tray, Duct across floors/campus/building) with Casing Caping as per 
+the  requirements  considering  the  industry  standard practice. Necessary Fiber  Cable,  LAN Cable, Patch 
+Cords etc. to be consider by bidder to meet the requirements as defined in the scope of work.   
+
+f. Necessary Labelling and Dressing to be done  for LAN & Fiber cables. Fixing, Splicing & OTDR test with 
+report to be done for Fiber Cable at a time completion of installation work. The necessary document to 
+be submitted along with final installation report. 
+
+g. The bidder will have to connect the two sites i.e. Site A and Site B (within same campus) using 6 Core 
+OM4 MM  Fiber  cable  with  2  Separate  routes  in  consultation  with  BISAG.  However,  at  a  time  of 
+awarding of purchase order bidder has to provide estimated bill of material for passive components. 
+
+h. Bidder  should  include  any  other  components  like  software  updates,  software  licenses,  pertaining  to 
+Hardware  items  including  Storage  System  if  needed  for  integration  with  existing  BISAG  System.  The 
+bidder has  to provide updates  / up‐gradation of all  the software  free of charges during the validity of 
+support contract. 
+
+
+
+GUJARAT INFORMATICS LIMITED 
+BLOCK NO. 1, 8TH FLOOR, UDYOG BHAVAN, SECTOR‐11, GANDHINAGAR 
+
+ 
+
+7 of 30 
+
+i. The bidder should ensure that the offered system is not an “end of life” product and the necessary spare 
+component is available for next 3 Years after the completion of the warranty/guarantee period. 
+
+j. The proposed equipment’s (like Server, Storage, SAN Switch & Network Switch) should not be declared 
+End‐of‐Production for next 2 years and End‐of‐Support for next 5 years from the date of end of sale. 
+
+k. The  successful  bidder  will  have  to  supply  set  of  printed  technical,  user  and  installation  manual  and 
+connectivity schematic with respect to equipment and whole solution. 
+
+l. Each of the items of this bid must have to be quoted with 5 years of back to back OEM comprehensive 
+OEM warranty. 
+
+m. The delivery period should be within 6 weeks from the date of placement of purchase order. Installation, 
+Configuration & Integration with existing BISAG Infrastructure to be complete within 2 weeks from the 
+go ahead given by BISAG after delivery of  the material. This also  includes on‐site  training and on site‐
+support. 
+
+n. The  bidder  has  to  offer  Operation  and Maintenance  Training  to  Engineers  or  other  concern  persons 
+recommended  by  BISAG,  Gandhinagar  at  the  installation  site  immediately  after  completion  of 
+installation. The training should include the troubleshooting of the equipments delivered. 
+
+o. The bidder will have to provide onsite service, support and warranty of the supplied equipments for the 
+warranty period of 5 years from the date of successful completion of FAT (Final Acceptance Test). 
+
+p. Bidder may advice to visit to BISAG for further clarification and technical discussion if any before pre‐bid 
+meeting. 
+
+q. The bidder has to offer trainings as given below: 
+
+i. Operation & Maintenance Training: The bidder has to offer Operation and Maintenance Training to 
+Engineers  or  other  concern  persons  recommended  by  BISAG,  Gandhinagar  at  the  installation  site 
+immediately after completion of installation. 
+
+a. The  successful  bidder  is  responsible  for  complete  knowledge  transfer,  Operating  Manuals, 
+SOP’s including, but not limited to: 
+
+i. Installation and configuration details of solution deployed by the bidder 
+
+ii. Contact details of OEM and bidder representative for warranty and OEM support. 
+
+iii. Any other details that may be required/asked by BISAG 
+
+ii. On‐site Support: The bidder should offer on‐site support for 7 days immediately after commissioning 
+and as and when required during the warrantee period of 5 years. 
+
+r. MIS Reports 
+
+The  bidder  shall  ensure  that  the  system  is  able  to  provide  following  reports  and  would  require  to 
+configure the same at the time of installation. 
+
+Sr. No.  Types of Reports  Periodicity 
+
+1 
+
+ System  performance  report  which  includes  utilization/available  CPU, 
+memory, Cache, disks, etc. 
+
+ All type of event reports 
+ Backup status reports 
+ SLA Compliance report 
+ Reports as directed by the State for SLA calculation 
+ Summary of system reboot 
+ Summary of issues / complaints logged with the OEMs. 
+ Patch update status as notified by the OEM 
+
+Weekly, Monthly, 
+Quarterly 
+
+
+
+GUJARAT INFORMATICS LIMITED 
+BLOCK NO. 1, 8TH FLOOR, UDYOG BHAVAN, SECTOR‐11, GANDHINAGAR 
+
+ 
+
+8 of 30 
+
+2 
+
+ Log of preventive / scheduled maintenance undertaken 
+ Details of Patch, updates, Vulnerability fixes released and implementation 
+
+status of same 
+ Details of break‐fix maintenance undertaken 
+
+Monthly, 
+Quarterly 
+
+3   Any other report 
+As and when 
+required 
+
+ 
+ 
+ 
+
+The indicative of required Solution Architecture is as below: 
+ 
+
+ 
+
+ 
+
+ 
+
+ Site A and Site B will be in same campus.  
+ Site  A  and  Site  B  will  be  connected  through  OM4 MM  Fiber  cable  with  2  Separate  routes.  The 
+
+approximate fiber laying distance will be around 500 Mtrs. 
+
+ FC Patch Panel will be deployed at both the locations. 
+ Primarily  24  Port  FC  SAN  Switch  to  be  deploy  at  Site  A.  Site  B  will  be  connected  to  SAN  Switch 
+
+through FC Patch Panel. 
+
+ Server is directly connected to Local SAN Storage. 
+ Both the location Servers will access both the SAN Storage as and when required. 
+ Existing Storage of Site A will be connected to Storage of Site B with Sync or Async replication with 1 
+
+Gbps connectivity as per requirement in consultation with BISAG. 
+
+
+
+GUJARAT INFORMATICS LIMITED 
+BLOCK NO. 1, 8TH FLOOR, UDYOG BHAVAN, SECTOR‐11, GANDHINAGAR 
+
+ 
+
+9 of 30 
+
+SECTION III 
+ 
+
+Instructions to the Bidders / General Terms & Conditions 
+ 
+
+1. The last date of submission of bid on the website https://gil.nprocure.com is 06.09.2018 up to 1500 Hrs. 
+No physical bids will be accepted under normal circumstances. However, GIL reserves the right to ask the 
+bidders to submit the bid and/or any other documents in physical form. 
+
+2. The bid is non‐transferable. 
+
+3. The  Bidder  may  quote  only  one  option  (i.e.  only  one  product  can  be  quoted)  against  each  item. 
+Bidders are required to mention make & model of  the product.  (Do not write “OEM” against  items as 
+bidders are expected to give make & model of the product). 
+
+4. The successful bidder will have to Supply, Install, Commissioning and Maintain and provide operational 
+training for supplied hardware and peripherals and to configuration / reconfiguration as per the scope of 
+work and to carry out necessary integration with existing BISAG Infrastructure. 
+
+5. If  in  any  case  the  quoted  Item  is  not  available  in  the market,  the  bidder  will  have  to  supply  Higher 
+Version/replacement of that  Item in the quoted cost  in the same time duration with prior approval of 
+GIL/Purchaser. No “End of Life / End of Support” product should be quoted to minimize such instances.  
+(Make  &  Model  quoted  by  the  bidder  should  be  available  till  the  bid  validity,  duly  supported  for 
+spares/OEM support for warranty period). 
+
+6. The Bidder shall bear all the costs associated with the preparation and submission of its bid, and GIL in 
+no case will be responsible or liable for these costs, regardless of conduct or outcome of bidding process. 
+
+7. Technical specifications indicated are minimum specification. Bidder may quote for better solution. The 
+bidder should provide following with the technical bid: 
+
+ Make & Model Number 
+
+ Name of Manufacturer 
+
+ Technical Literature 
+
+ Manufacturer’s Data Sheet 
+
+ Compliance statement from the OEM of the product 
+
+8. The bidder has to upload the compliance letter on its letter head duly signed by the authorized signature 
+& other supporting documents as asked for in the bid in scanned format. Failing to submit the same or 
+non‐compliance  /  deviation  from  any  bid  terms  and  conditions,  eligibility  criteria  or  technical 
+specifications may result in rejection of the bid. 
+
+9. The  Bidder  has  to  examine  all  instructions,  forms,  terms,  conditions  and  specifications  in  the  bidding 
+documents. Failure to furnish all information required by the bidding documents or submission of a bid 
+not substantially responsive to the biding documents in every respect will be at the Bidder’s risk and may 
+result in rejection of its bid. 
+
+10. Amendment of Bidding Documents (Corrigendum) 
+
+10.1. At any time prior to the deadline for submission of bids, GIL may, for any reason, whether its own 
+initiative or  in  response  to  the  clarification  request by  a prospective bidder, modify  the bidding 
+documents. 
+
+10.2. The corrigendum will be published on website https://gil.nprocure.com & www.gil.gujarat.gov.in.   
+
+10.3. In order to allow prospective bidders reasonable time to take into consideration the amendments 
+while preparing their bids GIL, at its discretion, may extend the deadline for the submission of bids. 
+
+11. Bid Currency  ‐ Prices shall be quoted  in  Indian Rupees only. Payment  for  the supply of equipments as 
+specified in the agreement shall be made in Indian Rupees only. 
+
+12. The bidder will have to submit Bid Processing Fees (Nonrefundable) of Rs. 17,700/‐ & Earnest Money 
+Deposit (E.M.D.) of Rs. 8,00,000/‐ (Rupees Eight Lacs Only) (Refundable) on or before date & hours of 
+submission of bid  in a  sealed cover at GIL office with  the heading “Bid processing Fees & EMD  for E‐
+
+
+
+GUJARAT INFORMATICS LIMITED 
+BLOCK NO. 1, 8TH FLOOR, UDYOG BHAVAN, SECTOR‐11, GANDHINAGAR 
+
+ 
+
+10 of 30 
+
+tender no HWT140818506 for Supply, Installation, Commissioning & Maintenance of Servers, Storage 
+& related Equipments for GIS based Application on behalf of BISAG, Gandhinagar. 
+
+ Bid processing  fees must be  in  the  form of Demand Draft  in  the name of  “Gujarat  Informatics  Ltd.” 
+payable at Gandhinagar along with the covering letter.  
+
+ EMD  as  mentioned  above,  shall  be  submitted  in  the  form  of  Demand  Draft OR  in  the  form  of  an 
+unconditional  Bank  Guarantee  (which  should  be  valid  for  6  months  from  the  last  date  of  bid 
+submission)  of  any  Nationalized  Bank  including  the  public  sector  bank  or  Private  Sector  Banks  or 
+Commercial  Banks  or  Co‐Operative  Banks  and  Rural  Banks  (operating  in  India  having  branch  at 
+Ahmedabad/  Gandhinagar)  as  per  the  G.R.  no.  EMD/10/2018/18/DMO  dated  16.04.2018 
+(http://www.gil.gujarat.gov.in/grs/DMO_2173_16_Apr_2018_714.pdf)  issued  by  Finance Department 
+or further instruction issued by Finance department time to time; in the name of “Gujarat Informatics 
+Ltd.” payable at Gandhinagar (as per prescribed format given at Annexure A) and must be submitted 
+along with the covering letter. 
+
+  Please affix the stamp of your company on the overleaf of demand draft. 
+
+  Note: Failing to submit physical covers of EMD and bid processing fees at GIL on or before last date of 
+bid submission date & time may lead to the rejection of the bid. 
+
+13. In case of non‐receipt of Bid processing fees & EMD as mentioned above in your bid will be rejected by GIL 
+as non‐responsive. 
+
+14. Unsuccessful bidder's E.M.D. will be returned as promptly as possible after the expiration of the period 
+of bid validity OR upon the successful Bidder signing the Contract, and furnishing the Performance Bank 
+Guarantee as prescribed by GIL, whichever is earlier. 
+
+15. In  exceptional  circumstances,  GIL  may  solicit  the  Bidder’s  consent  to  an  extension  of  the  period  of 
+validity. The request and the responses thereto shall be made in writing.  Bidder may refuse the request 
+without forfeiting its E.M.D. A Bidder granting the request will not be permitted to modify its bid. 
+
+16. The Successful bidder has to submit Performance Bank Guarantee @ 10 % of total order value within 15 
+days from the date of issue of Purchase order for the duration of contract period + extra 3 months from 
+any Nationalized Bank including the public sector bank or Private Sector Banks or Commercial Banks or 
+Co‐Operative Banks and Rural Banks (operating in India having branch at Ahmedabad / Gandhinagar) as 
+per  the  G.R.  no.  EMD/10/2018/18/DMO  dated  16.04.2018 
+(http://www.gil.gujarat.gov.in/grs/DMO_2173_16_Apr_2018_714.pdf) issued by Finance Department or 
+further  instruction  issued  by  Finance  department  time  to  time.  (The  draft  of  Performance  Bank 
+Guarantee is attached herewith. 
+
+17. Successful Bidder will have to sign the contract upon receiving the confirmed purchase order with the 
+purchaser(s) within 15 working days from the date of confirmed purchase order. (The draft is attached 
+herewith). 
+
+18. The successful Bidder's E.M.D. will be returned upon the Bidder signing the Contract, and furnishing the 
+Performance  Bank Guarantee @  10% of  the  total  order  value  and  offer  of  inspection  of  the  ordered 
+material. 
+
+19. The E.M.D. may be forfeited at the discretion of GoG / GIL, on account of one or more of the following 
+reasons: 
+
+(a) If a Bidder withdraws its bid during the period of bid validity. 
+
+(b) If Bidder does not respond to requests for clarification of their Bid 
+
+(c) If Bidder fails to co‐operate in the Bid evaluation process, and 
+
+(d) In case of a successful Bidder, if the Bidder fails: 
+
+        (i) To sign the Contract as mentioned above or 
+
+        (ii) To furnish performance bank guarantee as mentioned above or 
+
+        (iii) If the bidder is found to be involved in fraudulent practices. 
+
+20. Termination for Default: 
+
+20.1. The Purchaser may, without prejudice to any other remedy for breach of contract, by written notice 
+of default sent to the Bidder. Bidder will be given notice/cure period of 30 days, after that purchaser 
+will terminate the Contract in whole or part after: 
+
+
+
+GUJARAT INFORMATICS LIMITED 
+BLOCK NO. 1, 8TH FLOOR, UDYOG BHAVAN, SECTOR‐11, GANDHINAGAR 
+
+ 
+
+11 of 30 
+
+a) If the bidder fails to deliver any or all of the Goods as per the delivery schedule mentioned in 
+the bid, or within any extension thereof granted by the Purchaser or 
+
+b) If the Bidder fails to perform any other obligation(s) under the Contract/Purchase order. 
+
+c) If  the  Bidder,  in  the  judgment  of  the  Purchaser  has  engaged  in  corrupt  or  fraudulent 
+practices in competing for or in executing the Contract. 
+
+For the purpose of this clause: 
+
+“Corrupt practice” means the offering, giving, receiving or soliciting of anything of value of influence 
+the action of a public official in the procurement process or in contract execution. 
+
+“Fraudulent practice:  a misrepresentation of  facts  in order  to  influence a procurement process or 
+the execution of a contract to the detriment of the purchaser, and includes collusive practice among 
+Bidders (prior to or after bid submission) designed to establish bid prices at artificial non‐competitive 
+levels and to deprive the purchaser of the benefits of free and open competition;” 
+
+20.2. In  the  event  the  Purchaser  terminates  the  Contract  in  whole  or  in  part,  pursuant  to  Clause  20.1 
+above, the Purchaser may procure, upon such terms and in such manner, as  it deems appropriate, 
+Goods or Services similar  to  those undelivered, and the Bidder  shall be  liable  to the Purchaser  for 
+any  excess  costs  for  such  similar  Goods  or  Services.  However,  the  Bidder  shall  continue  the 
+performance of the contract to the extent not terminated. 
+
+21. If the successful bidder fails to submit the Performance Bank Guarantee & sign the Contract Form within 
+prescribed time  limit, the EMD of the successful bidder will be forfeited. GIL also reserves the right to 
+blacklist such bidder from participating in future tenders if sufficient cause exists. 
+
+22. Price  shall  be  inclusive  of  all  freight,  forwarding,  transit  insurance,  installation,  warranty  and 
+maintenance charges. 
+
+23. Prices shall be in Indian Rupees. The prices shall strictly be submitted in the given format. Quoted prices 
+shall be inclusive of all taxes except GST. The tax components like GST as applicable shall be mentioned 
+separately in the respective columns.   
+
+24. Late Bids: The bidder will not be able to submit the bid after final submission date and time. 
+
+25. Modification and Withdrawal of Bids 
+
+25.1. The Bidder may modify or withdraw its bid before the due date of bid submission. 
+
+25.2. No bid will be allowed to be modified subsequent to the final submission of bids. 
+
+25.3. No bid will be allowed to be withdrawn in the interval between the deadline for submission of 
+bids and the expiry of the bid validity.  Withdrawal of a bid during this interval will result in the 
+forfeiture of bidder’s E.M.D. 
+
+26. Bids will be opened with the buyer’s private digital key in the presence of Bidder’s representatives, who 
+choose to attend. The Bidder’s  representatives who are present shall  sign a  register/attendance sheet 
+evidencing their attendance. The representative will be held responsible for all commitments made on 
+behalf of the bidder and that will be considered valid for all further dealings related to this bid process. 
+In  the  absence  of  the  bidder(s),  the  Tender  Committee  may  choose  to  open  the  bids  as  per  the 
+prescribed schedule.  
+
+27. The  Bidder’s  names,  bid  modifications  or  withdrawals,  discounts  and  the  presence  or  absence  of 
+relevant  E.M.D.  and  such  other  details  as  GIL/GOG  officer(s)  at  their  discretion,  may  consider 
+appropriate, will be announced at the opening. 
+
+28. Evaluation  of  the  Bids:  After  the  closing  time  of  submission,  GIL  /  GoG  committee  will  verify  the 
+submission  of  Bid  Processing  Fees  &  EMD  as  per  bid  terms  and  conditions.  The  eligibility  criteria 
+evaluation will be carried out of the responsive bids. The technical bids of the bidders who are complying 
+with all the eligibility criteria will be opened and evaluated next. GIL will seek clarifications if required on 
+eligibility &  technical  section. The  financial bid of  the  technically qualified bidders will be opened and 
+financially  L1  bidder  will  be  decided  from  the  sum  total  of  prices  for  all  line  items  without  tax  with 
+warranty and then called for further negotiations if required. 
+
+
+
+GUJARAT INFORMATICS LIMITED 
+BLOCK NO. 1, 8TH FLOOR, UDYOG BHAVAN, SECTOR‐11, GANDHINAGAR 
+
+ 
+
+12 of 30 
+
+29. As per  the provision  in Electronics &  IT/ITeS Start‐up Policy Resolution No.  ITS/10/2015/5284/IT dated 
+6th June, 2016 issued by Department of Science & Technology; in e‐Governance project undertaken by 
+Government  Departments  or  its  Boards,  Corporations  or  parastatal  bodies  getting  grants  from  the 
+Government, the chosen solution provider or system integrator will pass on job work or will outsource 
+part of the work of a value ranging between 5% to 10% of the contract value to the eligible start‐ups and 
+to  students  of  shortlisted  Technical  Colleges  in  Gujarat.  In  such  arrangements,  the  responsibility  of 
+meeting SLAs (Service Level Agreements) will continue to belong to the solution provider or the system 
+integrator. 
+
+30. The bidder will have  to offer  the  inspection  in  the manner as decided by GIL before delivering  to  the 
+respective site or at customer sites. The cost of the same has to be borne by the supplier. Any deviation 
+found in the specification of the produced goods from the bid specification will lead to the cancellation 
+of  the  order,  forfeiture  of  EMD/PBG  and  prohibition  in  the  participation  in  the  future  purchase  of 
+Government of Gujarat. GIL/GoG will not be responsible for any time delay which may arise due to any 
+deviation  from  the  bid  technical  specification  found  at  the  time  of  inspection  and  the  bidder  has  to 
+deliver and  install  the ordered goods within prescribed  time  limit. At  the  time of  inspection, bidder  is 
+required to produce OEM’s confirmation on OEM’s letter head for back to back warranty support as per 
+tender terms & conditions. 
+
+31. The  Indenter’s  right  to  inspect,  test and, where necessary,  reject  the Goods after  the Goods arrival at 
+Customer  Site  shall  in  no  way  be  limited  or  waived  by  reason  of  the  Goods  having  previously  been 
+inspected, tested and passed by the Purchaser or its representative prior to the Goods shipment. 
+
+32. Delivery: Within 6 weeks from the date of confirmed purchase order. 
+
+Installation, Configuration & Integration: Within 2 weeks from the go ahead given by the department 
+after delivery of the material. 
+
+33. In case of successful bidder is found in breach of any condition(s) of bid or supply order/work order, at 
+any stage during the course of supply / installation or warranty period, the legal action as per rules/laws, 
+shall be  initiated against  the successful bidder and EMD/PBG shall be  forfeited, besides debarring and 
+blacklisting the bidder concerned for the time period as decided by Govt., for further dealings with GoG. 
+
+34. Bid validity will be of 180 days after the date of financial bid opening. A bid valid for shorter period shall 
+be rejected as non‐responsive. If required, GIL may extend the bid validity for further period from the 
+date of expiry of bid validity in consultation with the successful bidder. 
+
+35. Bidders  are  required  to  quote  all  items  including  optional  add‐ons  as  well.  Incomplete  bids  will  be 
+treated as non‐responsive and will be rejected. 
+
+36. Warranty  
+
+36.1. Warranty:  Comprehensive  onsite  warranty  for  minimum  5  Year  from  the  date  of  installation  & 
+completion of successful FAT of procured equipments. 
+
+36.2. If any equipment gives continuous trouble, say 3 times in one month during the warranty period, the 
+bidder shall replace the same with new equipments without any additional cost to the purchaser. 
+
+36.3. If any manufacturing or other technical defects are found within the warranty period, the same will 
+have to be replaced or rectified free of cost by the bidder. 
+
+36.4. Maintenance service: Free maintenance services shall be provided by the Bidder during the period of 
+warranty. 
+
+36.5. In case, bidder is not providing satisfactory support & doing unwarranted delay in providing warranty 
+support, Government offices reserves right to repair the equipment at risk & cost of the bidder. 
+
+36.6. The  Bidder  /  System  Integrator  will  be  required  to  co‐ordinate  with  software  vendor  and  /  or  do 
+liasioning with other service provider to achieve the end‐to‐end connectivity. 
+
+37. Penalty Clause 
+
+37.1. Penalties for delay in delivery and installation: 
+
+a) If the bidder fails to deliver and install the requisite hardware and software within 6 weeks from the 
+issue  of  the  confirmed  purchase  order,  then  a  sum  equivalent  to  one  percent  (1 %)  of  the  total 
+contract value shall be deducted from the payment for each calendar week of delay or part thereof. 
+
+
+
+GUJARAT INFORMATICS LIMITED 
+BLOCK NO. 1, 8TH FLOOR, UDYOG BHAVAN, SECTOR‐11, GANDHINAGAR 
+
+ 
+
+13 of 30 
+
+b) The amount of penalties for delay in delivery shall be subject to a maximum limit of 10% of the total 
+contract value. 
+
+c) Delay in excess of 5 weeks will be sufficient to cause for termination of the contract. In that case the 
+Performance Bank Guarantee of the bidder will be forfeited. 
+
+d) The  successful  bidder will  have  to  carry  out  the  Installation,  Configuration &  Integration within  2 
+weeks from the go ahead given by the department after delivery of the material. The delay  in the 
+Installation,  Configuration  &  Integration  will  attract  the  penalty  of  Rs.  5,000/‐  per  day  delay  in 
+addition to any penalty for the delay in delivery. 
+
+a) In case, the selected bidder does not supply the ordered items for any reason, he will be liable to pay 
+the  difference  amount  to  the  purchaser,  over  and  above  the  Performance  Guarantee,  which 
+indenter  departments\Boards\Corporations  have  to  pay  to  the  next  or  other  selected  bidder  for 
+purpose of the said items. 
+
+37.2. Operational / Warranty period Penalties: 
+
+a) During  warranty  period,  bidder  will  have  to  response  the  call  within  4  hours  and  resolve  the 
+complaint within 24 hours. If the complaint is not resolved within 24 hrs, the penalty of Rs. 1,000 
+per  hour  delay will  be  levied  for  Server,  Storage,  SAN  Switch.  If  the  complaint  is  not  resolved 
+within 48 hrs regarding other items like FC Panel and other supplied components, the penalty of 
+Rs. 500 per day delay will be  levied. However,  if  the complaints are not resolved within 7 days 
+then from 8th day till 14th day, the penalty would be levied @ 150% and from 15th day onwards 
+the penalty @ 200% of the above rates would be levied. The amount of penalty will be recovered 
+from the Performance bank guarantee during warranty period. 
+
+b) The amount of Operational/Warranty period Penalty shall be subject to a maximum limit of 10% 
+of the total contract value. 
+
+c) Successful bidder should submit the Performance Bank Guarantee @ 10% of total order value for 
+the  duration  of  Warranty  Period  +  3  months  as  per  bid  requirements.  In  any  case,  bidder  is 
+required  to maintain 10% PBG at  all  time during  the period of  contract.  In  case of  any penalty 
+claimed from the submitted PBG during the contract period, the successful bidder is required to 
+submit the additional PBG of the amount equal to the penalty claimed for the duration up to the 
+validity of original Bank Guarantee. For example,  “X” amount of penalty will be claimed during 
+the  5th month  of  contract  period,  then  bidder  is  required  to  submit  the  additional  PBG  of  “X” 
+amount for the period of 58 months i.e. 63 months ‐ 5 months. 
+
+38. Payment:  Payment for Goods and Services shall be made by Purchasing Department in Indian Rupees 
+as follows: 
+
+38.1. No advance payment will be made. 
+
+38.2. 70  %  payment  (of  Table  A  ‐  as  defined  in  Financial  Bid  Format)  after  successful  inspection  / 
+physical  verification  &  delivery  of  the  ordered  goods  at  specified  locations.  The  inspection  / 
+physical verification will be done as decided by GIL/BISAG. 
+
+38.3. 20 % payment (of Table A ‐ as defined in Financial Bid Format) will be made after completion of 
+installation, commissioning, integration & user’s functional training as per the scope of work. 
+
+38.4. Balance 10% payment (of Table A ‐ as defined in Financial Bid Format) will be made after three 
+months from the date of successful completion of FAT. 
+
+38.5. AMC Cost (Table B ‐ as defined in Financial Bid Format) of the System will be released every year 
+in advance. 
+
+39. GIL reserves the right to change any bid condition of any item even after inviting the bids, with/without 
+prior notification. 
+
+40. GoG / GIL’s Right to accept any Bid and to reject any or all Bids – GoG / GIL reserves the right to accept 
+or reject any bid, and to annul the bidding process and reject all bids at any time prior to awarding the 
+Contracts, without thereby  incurring any  liability to the affected Bidder or bidders or any obligation to 
+inform the affected Bidder or bidders of the grounds for such decision.  
+
+41. The bid quantities are estimated based on the receipt of the requirement from Indenting Department. 
+The quantities may decrease up to 50% of the bid quantity or increase up to 30% of the bid quantity at 
+
+
+
+GUJARAT INFORMATICS LIMITED 
+BLOCK NO. 1, 8TH FLOOR, UDYOG BHAVAN, SECTOR‐11, GANDHINAGAR 
+
+ 
+
+14 of 30 
+
+the  time  of  finalization,  depending  upon  the  change  in  the  requirements/grants  available  with  the 
+purchaser(s), which shall be binding to the bidder. 
+
+42. Limitation of Vendor’s Liability: Vendor’s cumulative liability for its obligations under the contract shall 
+not exceed the contract value and the vendor shall not be liable for incidental, consequential, or indirect 
+damages including loss of profit or saving. 
+
+43. All correction/addition/deletion shall require authorized countersign. 
+
+44. Force Majeure Shall mean and be limited to the following: 
+
+a) Fire, explosion, cyclone, earthquake, flood, tempest, lightening or other natural physical disaster; 
+
+b) War / hostilities, revolution, acts of public enemies, blockage or embargo; 
+
+c) Any  law, order, Riot or Civil commotion, proclamation, ordinance, demand or requirements of any 
+Government  or  authority  or  representative  of  any  such  Government  including  restrictive  trade 
+practices or regulations; 
+
+d) Strikes, shutdowns or labor disputes which are not instigated for the purpose of avoiding obligations 
+herein, or; 
+
+e) Restrictions  imposed  by  the  Government  or  other  statutory  bodies  which  prevents  or  delays  the 
+execution of the order; 
+
+f) Any other circumstances beyond the control of the party affected; 
+
+The  BIDDER  shall  intimate  Purchaser  by  a  registered  letter  duly  certified  by  the  local  statutory 
+authorities,  the  beginning  and  end  of  the  above  causes  of  delay  within  seven  (7)  days  of  the 
+occurrence and cessation of such Force Majeure Conditions.  In the event of delay  lasting over two 
+months, if arising out of causes of Force Majeure, Purchaser reserves the right to cancel the order. 
+
+Delivery & Installation period may be extended due to circumstances relating to Force Majeure by 
+the Purchaser. Bidder shall not claim any further extension for delivery & installation or completion 
+of work. Purchase / GoG shall not be liable to pay extra costs under any circumstances. 
+
+The  BIDDER  shall  categorically  specify  the  extent  of  Force  Majeure  conditions  prevalent  in  their 
+works at the time of submitting their bid and whether the same have been taken in to consideration 
+or not in their quotations. In the event of any Force Majeure cause, the BIDDER shall not be liable for 
+delays in performing their obligations under this order and the delivery dates can be extended to the 
+BIDDER without being subject to price reduction for delayed deliverables, as stated elsewhere. 
+
+It will be prerogative of Purchaser / GoG to take the decision on force major conditions and Purchaser 
+decision will be binding to the bidder. 
+
+45. The Clarifications if any should be submitted in writing to GIL at least on or before 1 days of pre‐bid 
+meeting date. Thereafter the clarifications received from the bidders will not be entertained.  
+
+Your bid should be submitted on website https://gil.nprocure.com on or before 15:00 Hours, 06.09.2018. 
+
+Proposals after due time period will not be accepted. 
+ 
+The  Technical  Bids  will  be  opened  on  06.09.2018  at  17:00  Hours  at  GIL,  Block  No.  1,  8th  Floor,  Udyog 
+Bhavan, in the presence of the committee members and representatives of the bidders, who have submitted 
+valid  bids.  Only  one  representative  from  each  bidder  will  be  allowed  to  attend  the  tender  opening.  The 
+representative will be held responsible for all commitments made on behalf of the bidder and that will be 
+considered valid for all further dealings related to this tender process. 
+ 
+Please address all queries and correspondence to 
+
+Shri Vivek Upadhyay, DGM (Tech.),  
+Gujarat Informatics Limited 
+
+Block No. 1, 8th Floor, Udyog Bhavan, Gandhinagar ‐ 382010  
+Phone No. 079‐23259239, Fax No. 079‐23238925,  
+
+E‐mail: viveku@gujarat.gov.in; vijayb@gujarat.gov.in  
+ 
+
+Fax / Email should be followed by post confirmation copy. 
+ 
+
+
+
+GUJARAT INFORMATICS LIMITED 
+BLOCK NO. 1, 8TH FLOOR, UDYOG BHAVAN, SECTOR‐11, GANDHINAGAR 
+
+ 
+
+15 of 30 
+
+ 
+
+SECTION IV 
+Minimum Technical Specification 
+ 
+
+Sr. 
+No. 
+
+Item Minimum Specifications 
+Matched/ 
+
+Not Matched 
+Remarks 
+(If any) 
+
+Item No. 1: Rack based Server 
+
+1 
+
+Parameter  Functionality     
+
+Chassis  2U Rack Mountable     
+
+CPU 
+Intel®  Xeon®  Silver  4114  Processor  (2.20GHz,  10  Core) 
+Processor or higher. 
+
+   
+
+Motherboard 
+Latest compatible Intel Chipset on Intel or equivalent OEM 
+motherboard for above CPU 
+
+   
+
+Slots  Should support minimum 2 numbers of PCIe slots     
+
+Memory  Minimum 256 GB DDR4‐2666 Registered (RDIMM) memory     
+
+Memory 
+Protection 
+
+Advanced ECC, Online Spare, Mirrored Memory     
+
+HDD for OS  8 x 1.8 TB SAS 10K RPM      
+
+RAID 
+Controller 
+
+RAID  controller  for  RAID  0,  RAID  1,  RAID  5  and  RAID  10 
+configurations with 2GB cache memory 
+
+   
+
+Network 
+Controller 
+
+2  *  10  Gbps  BASE  T  Ethernet  ports  &  4  *  1  Gbps  Base  T 
+Ethernet ports 
+
+   
+
+Fiber  Channel 
+HBA 
+
+One 2x16Gbps FC HBA for Storage Connectivity      
+
+Graphic  / 
+Video Memory  
+
+Integrated Graphic with external VGA port     
+
+Ports  Minimum 2 USB ports (with Min 1 USB 3.0 port)     
+
+Driver  / 
+Software 
+Utility 
+
+Server  OEM's  System  Management  utilities  with  all 
+required device driver  software asper  above configuration 
+for  OS  Installation,  System  Configuration  and  for  server 
+management. 
+
+   
+
+Redundancy 
+No  single  point  of  failure  for  Disks,  Cache  memory,  I/O 
+Ports, Power Supply, Fan etc. 
+
+   
+
+System 
+Management 
+
+1 Remote Management Port (TCP\IP based)     
+
+Operating 
+System 
+
+Windows Server 2016 Standard Edition     
+
+OS Support  Microsoft Windows Server, Linux, VMWare  ESXi     
+
+Certifications 
+RoHS,  UL,  CE/FCC  or  equivalent  third  party  certification 
+from reputed Agency, Windows Certification 
+
+   
+
+Others 
+Should be supplied with Indian standard Power cables and 
+all other required accessories  like patch cords, connectors, 
+interfaces, licenses etc. 
+
+   
+
+Warranty  5 Years Comprehensive Onsite Warranty     
+
+ 
+
+
+
+GUJARAT INFORMATICS LIMITED 
+BLOCK NO. 1, 8TH FLOOR, UDYOG BHAVAN, SECTOR‐11, GANDHINAGAR 
+
+ 
+
+16 of 30 
+
+ 
+
+Sr. 
+No. 
+
+Item Minimum Specifications 
+Matched/ 
+
+Not Matched 
+Remarks 
+(If any) 
+
+Item No. 2: Storage System 
+
+2 
+
+Parameter  Specification     
+
+Capacity 
+
+ Total Usable capacity should be 500 TB from Day one. 
+ The Storage capacity mentioned is the Usable capacity in 
+
+RAID 6 Configuration. 
+
+ Disks should be minimum of 10K or higher RPM with 6TB 
+SAS drives  
+
+ Should have at least 2 Boot SSD / Flash drives to run and 
+protect the OS and storage system metadata. 
+
+ Proposed  solution  should  have  minimum  10  Gbps 
+throughput. 
+
+   
+
+High 
+Availability 
+
+ Controllers  should work  in  Active‐Active mode  from  day 
+one. 
+
+ The storage should not have any single point of failure on 
+components  like  controllers,  disks,  cache  memory,  I/O 
+Ports, Power supply, Fan, etc. 
+
+ Should have self‐healing design to protect against disk or 
+controller failure. 
+
+   
+
+Cache 
+
+ Each storage Controller should be supplied with minimum 
+64 GB Cache and scalable up to 128 GB. 
+
+ The  storage  array must  have  complete  cache  protection 
+mechanism either by de‐staging data to disk or providing 
+complete  cache  data  protection with  battery  backup  for 
+minimum 4 hours. 
+
+ Reclaiming of Cache utilization (manual and automatic) by 
+De‐provisioning/removal of capacity. 
+
+   
+
+Compatibility 
+
+ Should  support  SAS/NL‐SAS  drives  within  same  storage 
+system 
+
+ Should support Windows and Linux operating systems. 
+ Modular  design  to  support  controllers  and  disk  drives 
+
+expansion 
+
+ Should be Rack Mountable 
+ should support remote management 
+
+   
+
+RAID 
+ The solution must support different RAID groups (RAID 0, 
+
+1, 5, 6 and 10) 
+   
+
+Storage 
+management 
+software 
+
+ Licenses  for  the  storage  management  software  should 
+include disc capacity/count of the complete solution and 
+any  additional  disks  to  be  plugged  in  the  future,  up  to 
+max capacity of the existing controller/units. 
+
+   
+
+
+
+GUJARAT INFORMATICS LIMITED 
+BLOCK NO. 1, 8TH FLOOR, UDYOG BHAVAN, SECTOR‐11, GANDHINAGAR 
+
+ 
+
+17 of 30 
+
+Management 
+Console 
+
+ A single command console for entire storage system. 
+ The Solution should allow role‐based access for auditing, 
+
+monitoring  and  other  general  operations  and 
+administration capabilities through GUI/CLI 
+
+ Minimum features of Management software should be: 
+ System  status  i.e.  CPU, Memory,  Disks,  Network 
+
+resources, Cache, etc 
+ Display total, allocated and utilized capacity 
+ Role  based  user  access management,  disk  quota 
+
+management, user groups 
+ Dynamic allocation of disk quota 
+ Backup and Restore, 
+ Firmware upgrade 
+ Hardware  details  of  drives,  controller, 
+
+connectivity, ports, etc. 
+ Overall status of compaction of data 
+ System audit Logs 
+ Should generate alert/notification 
+ Reports – Scheduled and Manual 
+ Historical graphs of storage utilization 
+
+ Should  display  Reports  like  capacity  utilization,  RAID, 
+Alarms, event and notifications as defined under the MIS 
+report section of this RFP. 
+
+   
+
+Monitoring 
+
+ It  should  have  the  functionality  of  performance, 
+utilization  monitoring  of  storage,  disk  drives  and 
+management software 
+
+ Auto  Alerts  on  Failure  of  physical  components  like  CPU, 
+Disk, Memory etc.  
+
+ Should support real time monitoring of software version, 
+hardware status and system capacity usage. 
+
+   
+
+Network Ports 
+ Minimum 4 x 16Gb FC, 4 x 10Gbps ISCSI and 4 x 10Gbps IP 
+
+(Ports  for  file  operations)  host  ports  for  connectivity  to 
+servers. 
+
+   
+
+Connectivity & 
+Protocols 
+
+ HTTP, FTP, SFTP, NFS, CIFS/SMB, FC, iSCSI, NDMP 
+ SNMP, ICMP, NTP, IPv4, IPv6 
+
+   
+
+Compatibility 
+
+ Offered  storage  shall  provide  Synchronous  and 
+Asynchronous  Replication  features  with  Existing  BISAG 
+SAN  Storage.  Any  additional  Hardware  or  Software 
+Licenses to be consider if required for the same. 
+
+ Bidder should provide undertaking for the integration and 
+operational compatibility with existing setup. 
+
+   
+
+Others 
+
+ The proposed  solution  should be  supplied with  required 
+SAN Switch,  cables,  Indian  standard power  cords  and  all 
+other  required  accessories  like  patch  cords,  connectors, 
+interfaces, licenses etc. 
+
+   
+
+ 
+Note:  Currently  bidder  will  have  to  consider  the  BoQ  only  for  the  current  capacity  (500  TB  Usable 
+
+Capacity & 64 GB Cache) as asked in the specifications and quote the cost accordingly. No upfront 
+cost to be consider for the scalability.  
+
+ 
+
+
+
+GUJARAT INFORMATICS LIMITED 
+BLOCK NO. 1, 8TH FLOOR, UDYOG BHAVAN, SECTOR‐11, GANDHINAGAR 
+
+ 
+
+18 of 30 
+
+ 
+Sr. 
+No. 
+
+Item Minimum Specifications 
+Matched/ 
+
+Not Matched 
+Remarks 
+(If any) 
+
+Item No. 3: 24 Port L2 Switch 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+
+Layer  2  Switch with minimum  24x1G  port,  2x1G with  SFP  and  2x10G  ports 
+(Duplex: Full, Half) 
+
+     
+
+Should have minimum switching capacity of 40 Gbps     
+
+Should be IPv4 and IPv6 ready from day one     
+
+Should support minimum 4000 MAC address entries     
+
+Should  support  protocols  like MSTP,  STP,  RSTP,  dot1q  VLAN‐tagging,  LACP, 
+NTP 
+
+   
+
+Should  have  features  like  port‐security,  auto‐negotiate,  flow  control,  MAC 
+filtering 
+
+   
+
+Should have a dedicated OOB Management port using CLI(SSH) / WebUI (SSL), 
+SNMP (V1, V2, V3), TFTP, etc. 
+
+   
+
+Switch should support AAA features using TACACS+, Radius / LDAP, etc.     
+
+All  necessary  SFP's,  interfaces,  connectors,  patch  cords  (if  any)  &  licenses 
+must be delivered along with the switch from day one. 
+
+   
+
+The Switch should be Rack mountable & the switch should be supplied with 
+Indian standard AC power cord. 
+
+   
+
+ 
+
+Item No. 4: ‐  42U Network cum Server Rack (with all accessories) 
+
+Sr. 
+No. 
+
+Item 
+Matched/
+
+Not Matched 
+Remarks
+(If any) 
+
+4 
+
+42U Rack (Rack Dimension: 800W *1200D)     
+
+Door Steel Ful Prf 800W x 42U, Dual front, Dual rear     
+
+Fan housing unit 4 fan position     
+
+4 x Fan 230 Vac 90 CFM     
+
+Castor with ft break (2+2)     
+
+Captive Mounting Hardware of 20     
+
+3 x Shelf Stationery 725mmD     
+
+Sliding Tray     
+
+Should have sufficient perforation for ventilation of air     
+
+Necessary Cable Manager     
+
+ROHS complied     
+
+Necessary PDU to be provided according to the Server, Storage, SAN Switch, 
+LAN Switch port type and power consumption. 
+
+   
+
+
+
+GUJARAT INFORMATICS LIMITED 
+BLOCK NO. 1, 8TH FLOOR, UDYOG BHAVAN, SECTOR‐11, GANDHINAGAR 
+
+ 
+
+19 of 30 
+
+ 
+ 
+
+Sr. 
+No. 
+
+Item Minimum Specifications 
+Matched/ 
+
+Not Matched 
+Remarks 
+(If any) 
+
+Item No. 5 & 6 : Passive Fiber Components (Including supply, installation, laying, digging, mounting, splicing, 
+OTDR testing Labelling & Dressing etc. as per requirements. 
+
+5 
+
+24 Port Rack Mount FC Patch Panel / LIU. 
+Loaded with adapter plate with LC/LC MM Quad Adaptor, Agnment Sleeve, 
+Snap Mount. 
+LC Pigtail, MM, 50/125, Metal, 900 microns. 
+24F Splice Holder (if required)       
+
+6 
+6 core outdoor armoured 50/125 Multimode, OM4 – UniTube (in Mtrs) 
+Required HDPE / PVC Conduit pipe  (ISI  standard)  to be supplied  for cabling 
+between Building A & Building B as per actual requirements. 
+
+     
+
+ 
+
+Sr. 
+No. 
+
+Item Minimum Specifications 
+Matched/ 
+
+Not Matched 
+Remarks 
+(If any) 
+
+Item No. 7: 24 Port Cat 6 UTP Shuttered Patch Panel (Including supply, installation, laying, mounting, Casing 
+Caping, Labelling & Dressing etc. as per requirements. 
+
+7 
+
+Port Patch Panel With Rack Mount: 24 Ports Cat6, all 24 ports Fully loaded 
+I/Os Individually replaceable, Built‐in Shutter. 
+
+     
+
+Compatible with 23 ‐ 24 AWG solid Conductor UTP cable. 
+   
+
+Should conform or exceed the EIA/TIA 568 B.2‐1 standards for CAT6. 
+   
+
+Metallic  high  strength  and  1RU  height,  Should  have  routing  rings,  ties, 
+labeling strips for identification.     
+
+Should have protection on each port to protect from dust  ingress and such 
+particles by having shutter or cap.     
+
+UL / ETL Verified 
+   
+
+ 
+ 
+ 
+
+
+
+GUJARAT INFORMATICS LIMITED 
+BLOCK NO. 1, 8TH FLOOR, UDYOG BHAVAN, SECTOR‐11, GANDHINAGAR 
+
+ 
+
+20 of 30 
+
+SECTION V 
+ 
+
+FINANCIAL BID FORMAT 
+ 
+
+Table A 
+ 
+
+Sr. 
+No. 
+
+ITEM 
+Qty. 
+
+(In Nos.) 
+
+Unit Price 
+(In Rs. 
+
+Without tax) 
+
+Total Price
+(In Rs. 
+
+Without tax) 
+
+Rate of 
+GST (%) 
+
+A  B  C  D  E = C*D  F 
+
+1  Rack based Server  1       
+
+2  Storage System  1       
+
+3  24 Port L2 Switch  2       
+
+4 
+42U  Network  cum  Server  Rack  (with  all 
+accessories) 
+
+1       
+
+5 
+24  Port  Rack  Mount  FC  Patch  Panel  /  LIU 
+Loaded  with  adapter  plate  (with Multi Mode 
+Adapters) 
+
+2       
+
+6 
+6  Core  Outdoor Multi‐Mode  OM4  OFC  Cable 
+(in Mtrs) 
+
+500 *       
+
+7  24 Port Cat 6 UTP Shuttered Patch Panel   1       
+
+Total of Table A     
+
+ 
+TABLE B 
+
+ 
+
+Sr. No.  ITEM 
+Price (In Rs. 
+Without tax) 
+
+Rate of GST 
+(%) 
+
+A  B  D  F 
+
+1  1st Year AMC of System defined in Table A     
+
+2  2nd Year AMC of System defined in Table A    
+
+3  3rd Year AMC of System defined in Table A    
+
+4  4th Year AMC of System defined in Table A    
+
+5  5th Year AMC of System defined in Table A    
+
+Total of Table B     
+
+ 
+ 
+
+Grad Total (Total of Table A + Total of Table B) (In Rs. Without tax)   
+
+ 
+ 
+ 
+
+
+
+GUJARAT INFORMATICS LIMITED 
+BLOCK NO. 1, 8TH FLOOR, UDYOG BHAVAN, SECTOR‐11, GANDHINAGAR 
+
+ 
+
+21 of 30 
+
+ 
+Note:  
+
+ L1 will be the lowest sum total of rates of all line items without tax i.e. Grand Total (Total of Table A 
++ Total of Table B). 
+
+ * The above mentioned quantity of the item is estimated and for evaluation purpose only. However, 
+at the time of billing, the actual quantity will be considered based on the actual requirements. 
+
+ The Bidder shall explicitly mention the applicable rate of tax. 
+
+ Supply, installation, integration & services mentioned in scope of work should be carried out by the 
+successful bidder at BISAG, Gandhinagar. 
+
+ For  Passive  Fiber  Components,  the  successful  bidder  will  have  to  carry  out  supply,  installation, 
+laying,  digging,  mounting,  splicing,  OTDR  testing  Labelling  &  Dressing  etc.  as  per  requirements. 
+Necessary cost to be consider by the bidder. 
+
+ For Passive LAN Components, the successful bidder will have to carry out supply, installation, laying, 
+mounting,  Casing  Caping,  Labelling  &  Dressing  etc.  as  per  requirements.  Necessary  cost  to  be 
+consider by the bidder. 
+
+ Bidder  will  have  to  consider  all  the  necessary  additional  hardware,  software  /  licenses  for  the 
+mentioned activities to achieve the requirements as defined in scope of the work for the integration 
+with the existing infrastructure of BISAG. 
+
+ The costs must be valid for a period of 180 days from the date of financial bid opening. It should be 
+quoted in Indian rupees only. 
+
+ Costs must include cost of delivery at designated locations including transit insurance.  
+
+ Bidder may visit BISAG with prior appointment and may undertake the survey for more information 
+regarding the existing infrastructure with which the proposed equipments required to be integrated 
+before pre‐bid meeting and quoting the bid. 
+
+ 
+
+
+
+GUJARAT INFORMATICS LIMITED 
+BLOCK NO. 1, 8TH FLOOR, UDYOG BHAVAN, SECTOR‐11, GANDHINAGAR 
+
+ 
+
+22 of 30 
+
+SECTION VI 
+ 
+
+Bid Processing Fees & Earnest Money Deposit Details 
+ 
+
+Sr. No.  Item  Amount (In Rs.) 
+Name of the Bank & 
+
+Branch 
+Demand Draft No. 
+
+1  Bid Processing Fees       
+
+2  Earnest Money Deposit (E.M.D.)       
+ 
+ 
+
+ELIGIBILITY CRITERIA 
+ 
+
+Form No. E1:  Financial strength of the bidder 
+   
+
+Financial Year  Turnover (Rs. In Crores)  Audited Accounts uploaded? (Yes/No) 
+
+2015‐16     
+
+2016‐17     
+
+2017‐18     
+
+Grand Total     
+
+Note:  Please fill this form and upload the Audited Annual Accounts / Balance Sheet along with Profit & 
+  Loss Account and CA Certificate for the last three financial years. 
+ 
+
+Form No. E2:  Office in GUJARAT  
+ 
+
+Sr. No.  Address  Contact Person  Contact Nos. 
+Type of supporting 
+document attached 
+
+1         
+
+2         
+
+Note:  You may mention  more  than  one  office  (if  applicable)  by  adding  multiple  rows  which  may  be 
+added by “NUMBER OF ROWS TO ADD”. 
+
+ 
+
+Form No. E3:  Warranty Support & repairing cum replacement service up to delivery locations 
+ 
+
+Sr. No.  Address  Contact Person  Contact Nos. 
+Type of supporting 
+document attached 
+
+1         
+
+2         
+
+.         
+
+Note:  Please fill this form and upload the supporting documents. 
+ 
+Form No. E4:  Experience  Details  for  Servers,  Storage  and  Data  Centre  related  equipments  (Customer 
+
+References) 
+
+Sr. 
+No. 
+
+Name of the 
+Organization 
+
+Contact 
+Person 
+Name 
+
+Contact 
+Details 
+
+Date of 
+PO 
+
+Value of 
+Order 
+
+Description 
+of Works 
+
+Carried Out 
+
+Type of 
+Supporting 
+Document 
+Attached 
+
+1               
+
+2               
+
+.               
+
+Note:  Please fill this form and submit the supporting documents for each customer reference in scanned 
+format.  Failing  the  same  may  lead  to  the  rejection  of  the  bid.  You  may  add  the  customer 
+references by adding multiple rows which may be added by “NUMBER OF ROWS TO ADD”. 
+
+ 
+ 
+ 
+
+
+
+GUJARAT INFORMATICS LIMITED 
+BLOCK NO. 1, 8TH FLOOR, UDYOG BHAVAN, SECTOR‐11, GANDHINAGAR 
+
+ 
+
+23 of 30 
+
+Form No. E5:  Authorization Letters 
+
+Sr. 
+No. 
+
+Item  Make & Model 
+Name of 
+OEM 
+
+Authorization 
+letter Submitted? 
+
+(Yes/No) 
+
+1  Rack based Server       
+
+2  Storage System       
+
+3  24 Port L2 Switch       
+
+4  42U Network cum Server Rack        
+
+5  24 Port Rack Mount FC Patch Panel / LIU        
+
+6  6 Core Outdoor Multi‐Mode OM4 OFC Cable       
+
+7  24 Port Cat 6 UTP Shuttered Patch Panel        
+
+Note:  Please fill this form and upload the OEM Authorization Letter in scanned format. 
+ 
+
+Form No. E6:  ISO 9001:2008 Certification for Manufacturing 
+
+Sr. 
+No. 
+
+Item 
+Make & 
+Model 
+
+Name of OEM 
+ISO 
+
+Certificate 
+Valid up to 
+
+ISO 
+Certificate 
+Submitted? 
+(Yes/No) 
+
+1  Rack based Server         
+
+2  Storage System         
+
+3  24 Port L2 Switch         
+
+4  42U Network cum Server Rack          
+
+5  24 Port Rack Mount FC Patch Panel / LIU         
+
+6 
+6  Core  Outdoor  Multi‐Mode  OM4  OFC 
+Cable  
+
+       
+
+7  24 Port Cat 6 UTP Shuttered Patch Panel          
+
+Note:  Please fill this form and upload the ISO Certificates in scanned format. 
+ 
+ 
+
+Note:  You may quote only one option against any item. 
+
+
+
+GUJARAT INFORMATICS LIMITED 
+BLOCK NO. 1, 8TH FLOOR, UDYOG BHAVAN, SECTOR‐11, GANDHINAGAR 
+
+ 
+
+24 of 30 
+
+SECTION VII 
+Performa of Compliance letter/Authenticity of Information Provided 
+
+ 
+(On Non judicial Stamp paper of Rs. 100/‐ duly attested by the First class Magistrate/Notary Public) 
+
+ 
+                  Date: 
+ 
+To, 
+DGM (Tech.) 
+Gujarat Informatics Ltd. 
+Block‐1, 8th Floor, Udyog Bhavan, 
+Gandhinagar 
+ 
+Sub: Compliance with the tender terms and conditions, specifications and Eligibility Criteria 
+
+ 
+Ref:  Bid  for  Supply,  Installation,  Commissioning  and  Maintenance  of  Server,  Storage  &  related 
+
+Equipments for GIS based Application on behalf of Bhaskaracharya Institute for Space Applications 
+and Geo‐Informatics (BISAG), Gandhinagar (Tender No. HWT140818506). 
+
+ 
+Dear Sir, 
+ 
+With  reference  to  above  referred  tender,  I,  undersigned  <<Name  of  Signatory>>,  in  the  capacity  of 
+<<Designation of Signatory>>, is authorized to give the undertaking on behalf of <<Name of the bidder>>. 
+ 
+We wish to inform you that we have read and understood the technical specification and total requirement 
+of the above mentioned bid submitted by us on DD.MM.YYYY. 
+ 
+We hereby confirm that all our quoted items meet or exceed the requirement and are absolutely compliant 
+with specifications mentioned in the bid document.  
+ 
+We  also  explicitly  understand  that  all  quoted  items  meet  technical  specification  of  the  bid  &  that  such 
+technical  specification  overrides  the  brochures/standard  literature  if  the  same  contradicts  or  is  absent  in 
+brochures. 
+ 
+In case of breach of any tender terms and conditions or deviation from bid specification other than already 
+specified as mentioned above, the decision of GIL Tender Committee for disqualification will be accepted by 
+us. 
+ 
+The Information provided in our submitted bid is correct. In case any information provided by us are found 
+to  be  false  or  incorrect,  you  have  right  to  reject  our  bid  at  any  stage  including  forfeiture  of  our  EMD/ 
+PBG/cancel the award of contract. In this event, GIL reserves the right to take legal action on us. 
+ 
+Thanking you, 
+
+Dated this _________ day of____________YYYY 
+ 
+            Signature: ______________________________ 
+            (In the Capacity of) :______________________ 
+            Duly authorized to sign bid for and on behalf of 
+            _______________________________________ 
+ 
+ 
+ 
+Note: This form should be signed by authorized signatory of bidder   
+
+
+
+GUJARAT INFORMATICS LIMITED 
+BLOCK NO. 1, 8TH FLOOR, UDYOG BHAVAN, SECTOR‐11, GANDHINAGAR 
+
+ 
+
+25 of 30 
+
+ 
+ 
+
+PERFORMA OF UNDERTAKING  
+ 
+
+Undertaking of Authenticity for the proposed Solution 
+ 
+
+This  has  reference  to  Solution  being  quoted  to  you  vide  your  tender  no.  HWT140818506  dated 
+____________ 
+ 
+We hereby undertake  that  the Solution quoted by us of  in  this  bid will  be  able  to  communicate with  the 
+existing BISAG Setup for GIS based Application at BISAG as per the scope defined in the bid document. 
+ 
+If any additional Hardware / Module/ Software Licenses required for the integration with the existing setup 
+of  BISAG,  then  the  necessary  arrangement  will  be  provided  by  us  without  any  additional  cost  to  BISAG, 
+Government of Gujarat. 
+ 
+ 
+Authorized Signatory 
+ 
+ 
+Name: 
+ 
+ 
+Designation: 
+
+ 
+ 
+
+Note: The signing Authority should be no lower than Company Secretary. 
+ 
+ 
+
+
+
+GUJARAT INFORMATICS LIMITED 
+BLOCK NO. 1, 8TH FLOOR, UDYOG BHAVAN, SECTOR‐11, GANDHINAGAR 
+
+ 
+
+26 of 30 
+
+ 
+
+Annexure A 
+Format of Earnest Money Deposit in the form of Bank Guarantee 
+
+ 
+Ref:                Bank Guarantee No. 
+                Date: 
+ 
+To, 
+
+DGM (Technical) 
+
+Gujarat Informatics Limited 
+
+8th Floor, Block ‐1, Udyog Bhavan,  
+
+Sector ‐ 11, Gandhinagar ‐ 382010 
+
+Gujarat, India 
+
+ 
+Whereas  ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐  (here  in after  called  "the Bidder") has  submitted  its 
+bid dated ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐ in response to the Tender no: HWT140818506 for Supply, Installation, Commissioning 
+and  Maintenance  of  Server,  Storage  &  related  Equipments  for  GIS  based  Application  on  behalf  of 
+Bhaskaracharya Institute for Space Applications and Geo‐Informatics (BISAG), Gandhinagar KNOW ALL MEN 
+by these presents that WE ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐ ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
+‐‐‐‐‐ having our registered office at ‐‐‐‐‐‐‐‐‐‐‐‐ ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐ ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐ (hereinafter called "the 
+Bank") are bound unto the Gujarat  Informatics Limited    in the sum of  ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐  for which payment 
+well and truly to be made to Gujarat Informatics Limited, the Bank binds itself, its successors and assigns by 
+these presents. Sealed with  the Common Seal of  the said Bank  this  ‐‐‐‐‐‐‐‐‐‐‐‐‐‐day of  ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐  ‐‐‐‐
+YYYY. 
+ 
+THE CONDITIONS of this obligation are: 
+ 
+1. The E.M.D. may be forfeited:     
+
+a. if a Bidder withdraws its bid during the period of bid validity  
+
+b. Does not accept the correction of errors made in the tender document;  
+
+c. In case of a successful Bidder, if the Bidder fails:       
+
+(i) To sign the Contract as mentioned above within the time limit stipulated by purchaser or   
+
+(ii) To furnish performance bank guarantee as mentioned above or       
+
+(iii) If the bidder is found to be involved in fraudulent practices. 
+
+(iv) If the bidder fails to submit the copy of purchase order & acceptance thereof. 
+
+(v) If the successful bidder fails to submit the Performance Bank Guarantee & sign the Contract 
+Form within prescribed  time  limit,  the EMD of  the  successful bidder will be  forfeited. GIL also 
+reserves the right to blacklist such bidder from participating in future tenders if sufficient cause 
+exists. 
+
+ 
+We undertake to pay to the GIL/Purchaser up to the above amount upon receipt of its first written demand, 
+without GIL/ Purchaser having to substantiate  its demand, provided that  in  its demand GIL/ Purchaser will 
+specify  that  the amount claimed by  it  is due  to  it owing  to  the occurrence of any of  the abovementioned 
+conditions, specifying the occurred condition or conditions.  
+ 
+This guarantee will remain valid up to 9 months from the last date of bid submission. The Bank undertakes 
+not to revoke this guarantee during  its currency without previous consent of the OWNER/PURCHASER and 
+further  agrees  that  if  this  guarantee  is  extended  for  a  period  as  mutually  agreed  between  bidder  & 
+owner/purchaser, the guarantee shall be valid for a period so extended provided that a written request for 
+such extension is received before the expiry of validity of guarantee. 
+ 
+
+
+
+GUJARAT INFORMATICS LIMITED 
+BLOCK NO. 1, 8TH FLOOR, UDYOG BHAVAN, SECTOR‐11, GANDHINAGAR 
+
+ 
+
+27 of 30 
+
+ 
+The  Bank  shall  not  be  released  of  its  obligations  under  these  presents  by  any  exercise  by  the  OWNER  / 
+PURCHAER of its liability with reference to the matters aforesaid or any of them or by reason or any other 
+acts of omission or commission on the part of the OWNER/PURCHASER or any other indulgence shown by 
+the OWNER/PURCHASER or by any other matter or things. 
+ 
+The Bank also agree  that  the OWNER/PUCHASER at  its  option  shall be entitled  to enforce  this Guarantee 
+against the Bank as a Principal Debtor,  in the first instance without proceeding against the SELLER and not 
+withstanding  any  security  or  other  guarantee  that  the  OWNER/PURCHASER may  have  in  relation  to  the 
+SELLER’s liabilities. 
+ 
+Dated at _______________ on this _________ day of ___________YYYY. 
+ 
+____________________ 
+ 
+Signed and delivered by 
+_____________________ 
+ 
+ For & on Behalf of  
+ 
+ 
+ 
+Name of the Bank & Branch & 
+Its official Address         
+ 
+ 
+Approved  Bank:  All  Nationalized  Bank  including  the  public  sector  bank  or  Private  Sector  Banks  or 
+Commercial  Banks  or  Co‐Operative  &  Rural  Banks  (operating  in  India  having  branch  at  Ahmedabad/ 
+Gandhinagar)  as  per  the  G.R.  no.  EMD/10/2018/18/DMO  dated  16.04.2018 
+(http://www.gil.gujarat.gov.in/grs/DMO_2173_16_Apr_2018_714.pdf)  issued  by  Finance  Department  or 
+further instruction issued by Finance department time to time. 
+
+
+
+GUJARAT INFORMATICS LIMITED 
+BLOCK NO. 1, 8TH FLOOR, UDYOG BHAVAN, SECTOR‐11, GANDHINAGAR 
+
+ 
+
+28 of 30 
+
+SECTION VIII 
+ 
+
+Performa of Contract‐cum‐Equipment 
+Performance Bank Guarantee 
+
+(To be stamped in accordance with Stamp Act) 
+ 
+ 
+Ref:                Bank Guarantee No. 
+                Date: 
+ 
+ 
+To 
+Name & Address of the Purchaser/Indenter 
+____________________________ 
+ 
+____________________________ 
+ 
+ 
+Dear Sir, 
+ 
+In  consideration  of  Name  &  Address  of  the  Purchaser/Indenter,  Government  of  Gujarat,  Gandhinagar 
+(hereinafter referred to as the OWNER/PURCHASER which expression shall unless repugnant to the context 
+or  meaning  thereof  include  successors,  administrators  and  assigns)  having  awarded  to  M/s 
+………………………………………………………………………………………………………………  having  Principal  Office  at 
+…………………………………………………………………… (Hereinafter referred to as the “SELLER” which expression shall 
+unless  repugnant  to  the  context  or  meaning  thereof  include  their  respective  successors,  administrators, 
+executors and assigns) the supply of ____________________by issue of Purchase Order No………………. Dated 
+………… issued by <<GoG Department>> for and on behalf of the OWNER/PURCHASER and the same having 
+been accepted by the SELLER resulting into CONTRACT for  supplies of materials/equipments as mentioned 
+in the said purchase order and the SELLER having agreed to provide a Contract Performance and Warranty 
+Guarantee  for  faithful  performance  of  the  aforementioned  contract  and  warranty  quality  to  the 
+OWNER/PURCHASER,  __________________________________having  Head Office  at  (hereinafter  referred 
+to  as  the  ‘Bank’  which  expressly  shall,  unless  repugnant  to  the  context  or  meaning  thereof  include 
+successors,  administrators,  executors  and  assigns)  do  hereby  guarantee  to  undertake  to  pay  the  sum  of 
+Rs._______________(Rupees________________________)  to  the  OWNER/PURCHASER  on  demand  at  any 
+time  up  to________________  without  a  reference  to  the  SELLER.    Any  such  demand  made  by  the 
+OWNER/PURCHASER on the Bank shall be conclusive and binding notwithstanding any difference between 
+Tribunals, Arbitrator or any other authority. 
+ 
+The  Bank  undertakes  not  to  revoke  this  guarantee  during  its  currency  without  previous  consent  of  the 
+OWNER/PURCHASER  and  further  agrees  that  the  guarantee  herein  contained  shall  continue  to  be 
+enforceable  till  the  OWNER/PURCHASER  discharges  this  guarantee.    OWNER/PURCHASER  shall  have  the 
+fullest liberty without affecting in any way the liability of the Bank under this guarantee from time to time to 
+extend  the  time  for  performance  by  the  SELLER  of  the  aforementioned  CONTRACT.    The  OWNER/ 
+PURCHASER shall have  the  fullest  liberty, without affecting this guarantee,  to postpone from time to  time 
+the exercise of any powers vested in them or of any right which they might have against the SELLER, and to 
+exercise the same at any time  in any manner, and either to enforce to  forebear to enforce any covenants 
+contained or  implied,  in the aforementioned CONTRACT between the OWNER/PURCHASER and the SELLER 
+or any other course of or remedy or security available to the OWNER/PURCHASER. 
+ 
+The  Bank  shall  not  be  released  of  its  obligations  under  these  presents  by  any  exercise  by  the 
+OWNER/PURCHAER of its liability with reference to the matters aforesaid or any of them or by reason or any 
+other acts of omission or commission on the part of the OWNER/PURCHASER or any other indulgence shown 
+by the OWNER/PURCHASER or by any other matter or things. 
+ 
+ 
+
+
+
+GUJARAT INFORMATICS LIMITED 
+BLOCK NO. 1, 8TH FLOOR, UDYOG BHAVAN, SECTOR‐11, GANDHINAGAR 
+
+ 
+
+29 of 30 
+
+ 
+ 
+The Bank also agree  that  the OWNER/PUCHASER at  its  option  shall be entitled  to enforce  this Guarantee 
+against the Bank as a Principal Debtor,  in the first instance without proceeding against the SELLER and not 
+withstanding  any  security  or  other  guarantee  that  the  OWNER/PURCHASER may  have  in  relation  to  the 
+Seller’s liabilities. 
+ 
+Notwithstanding  anything  contained  herein  above  our  liability  under  this  Guarantee  is  restricted  to  Rs. 
+_________________ (Rupees _________________________) and it shall remain in force up to and including 
+________________  and  shall  be  extended  from  time  to  time  for  such  period  as  may  be  desired  by  the 
+SELLER on whose behalf this guarantee has been given. 
+ 
+Dated at _______________ on this _________ day of ___________YYYY. 
+ 
+ 
+_____________________ 
+Signed and delivered by 
+ 
+_____________________ 
+   
+For & on Behalf of  
+ 
+ 
+Name of the Bank & Branch & 
+Its official Address         
+ 
+ 
+List of approved Banks 
+ 
+Approved  Bank:  All  Nationalized  Bank  including  the  public  sector  bank  or  Private  Sector  Banks  or 
+Commercial  Banks  or  Co‐Operative  &  Rural  Banks  (operating  in  India  having  branch  at  Ahmedabad/ 
+Gandhinagar)  as  per  the  G.R.  no.  EMD/10/2018/18/DMO  dated  16.04.2018 
+(http://www.gil.gujarat.gov.in/grs/DMO_2173_16_Apr_2018_714.pdf)  issued  by  Finance  Department  or 
+further instruction issued by Finance department time to time. 
+
+
+
+GUJARAT INFORMATICS LIMITED 
+BLOCK NO. 1, 8TH FLOOR, UDYOG BHAVAN, SECTOR‐11, GANDHINAGAR 
+
+ 
+
+30 of 30 
+
+ 
+
+CONTRACT FORM 
+ 
+
+THIS  AGREEMENT  made  the  __________  day  of  ____________________,  YYYY  ____  Between 
+_______________________  (Name  of  purchaser)  of  _________________________________  (Country  of 
+Purchaser)  hereinafter  “the  Purchaser”  of  the  one  part  and  ____________________________________ 
+(Name of Supplier) of  ___________________________ (City and Country of Supplier) hereinafter called “the 
+Supplier” of the other part : 
+WHEREAS  the  Purchaser  is  desirous  that  certain  Goods  and  ancillary  services  viz., 
+__________________________________________________________________________________  (Brief 
+Description of Goods and Services) and has accepted a bid by the Supplier for the supply of those goods and 
+services in the sum of __________________________________________________ (Contract Price in Words 
+and Figures) hereinafter  called “the Contract Price  in Words and Figures” hereinafter  called “the Contract 
+Price.” 
+ 
+NOW THIS AGREEMENT WITHNESSETH AS FOLLOWS: 
+
+1 In  this  Agreement  words  and  expressions  shall  have  the  same  meanings  as  are  respectively 
+assigned to them in the Conditions of Contract referred to. 
+
+2 The  following  documents  shall  be  deemed  to  form  and  be  read  and  construed  as  part  of  this 
+Agreement, viz.: 
+
+2.1 the Bid Form and the Price Schedule submitted by the Bidder; 
+
+2.2 terms and conditions of the bid 
+
+2.3 the Purchaser’s Notification of Award 
+
+3 In  consideration  of  the  payments  to  be made  by  the  Purchaser  to  the  Supplier  as  hereinafter 
+mentioned, the Supplier hereby covenants with the Purchaser to provide the goods and services 
+and to remedy defects therein in conformity in all respects with the provisions of the Contract. 
+
+4 The  Purchaser  hereby  covenants  to  pay  the  Supplier  in  consideration  of  the  provision  of  the 
+goods and services and the remedying of defects therein, the Contract Price or such other sum as 
+may  become  payable  under  the  provisions  of  the  Contract  at  the  times  and  in  the  manner 
+prescribed by the Contract. 
+
+5 Particulars of  the goods and  services which  shall be  supplied  / provided by  the Supplier are  as 
+enlisted in the enclosed annexure: 
+ 
+
+TOTAL VALUE: 
+ 
+DELIVERY SCHEDULE: 
+ 
+IN WITNESS whereof the parties hereto have caused this Agreement to be executed in accordance with their 
+respective laws the day and year first above written. 
+ 
+Signed, Sealed and Delivered by the 
+
+Said __________________________________ (For the Purchaser) 
+
+In the presence of ________________________ 
+
+Signed, Sealed and Delivered by the 
+
+Said __________________________________ (For the Supplier) 
+
+In the presence of _______________________ 
+
+

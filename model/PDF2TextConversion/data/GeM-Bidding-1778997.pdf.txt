@@ -1,0 +1,650 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/703542
+
+  Dated: 09-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 14:00:00
+
+Bid Opening Date/Time 20-07-2020 14:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Ministry Of Human Resource Development
+
+Department Name Department Of Higher Education
+
+Organisation Name University Grants Commission (ugc)
+
+Office Name Govt College For Women M A Road
+
+Total Quantity 1
+
+Item Category Video Conferencing End Point
+
+Bidder Turnover (Last 3 Years)  4 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  28 Lakh (s)
+
+Experience Criteria  2 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,OEM Authorization Certificate,OEM Annual
+Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  10 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+Estimated Bid Value  700000
+
+EMD Detail
+
+Advisory Bank HDFC Bank
+
+EMD Percentage(%) 1.00
+
+EMD Amount 7000
+
+                               1 / 8
+
+
+
+ 
+
+ePBG Detail
+
+Required No
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+Assistant Professor
+Govt College for Women M A Road, Srinagar - 190001
+(Rashid Ashraf Malik)
+
+Splitting
+
+ Bid splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 10% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Video Conferencing End Point ( 1 pieces )
+
+Technical Specifications
+
+                               2 / 8
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Specification Type of End Point 1+5 Multiparty Full HD 1+5 Multiparty Full HD
+
+Does it require
+mandatory registration
+with MCU
+
+NA *
+
+Video Conferencing
+System Resolution
+
+1080p, 60 fps 1080p, 60 fps, 4K, 30
+fps, 4K, 60 fps Or
+higher
+
+Minimum Bandwidth
+Required for Specified
+video quality at End
+point/far-site end
+(Kbps)
+
+2048 *
+
+Type of Camera PTZ PTZ Or higher
+
+Camera Positioning
+System
+
+Preset Automatic Voice
+Activated, Face
+Detection, Preset Or
+higher
+
+Type of sensor CMOS *
+
+Camera Control
+(focusing, brightness,
+and white balance)
+
+Automatic *
+
+Multiple Camera
+System in case of
+Automatic Voice
+activated
+CameraTracking
+
+NA *
+
+Optical zoom 10X 10X, 12X, 20X, 22X,
+30X Or higher
+
+Digital zoom NA *
+
+Field of View at zoom
+(Degree)
+
+65 *
+
+Pan range Minimum to
+Maximum (+/- Degree)
+
+100,-100 *
+
+Tilt Range (Degree) 20,-30 *
+
+Cord and Connector to
+be supplied
+
+Yes *
+
+System delivers Full HD
+video and voice & Full
+HD content for an
+overall Full HD
+experience at specified
+bandwidth
+
+Yes *
+
+Video coding support
+Protocol
+
+H.263,H.264AVC,H.264
+SVC,H.264 High Profile
+
+*
+
+                               3 / 8
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/CX88odiFVYFew64Aag1ykwxfOcsBQKdhMcnzHrQahIs
+
+
+ 
+
+System has G-722/
+G-711/ G-729 or
+equivalent nt wideband
+audio coding support
+
+Yes *
+
+System supports
+sharing of video and
+graphics content
+during the video call
+
+1080p, 30fps 1080p, 30fps, 1080p,
+60fps, 4k, 30fps, 4k,
+60fps Or higher
+
+It is possible to see
+both the near and far
+site on one Screen thus
+making most efficient
+use of a single display
+area
+
+Yes *
+
+System is equipped
+with one or more Omni
+directional High
+Definition Microphones
+as required to cover
+large conference room
+
+Yes *
+
+Number of microphone
+supported
+
+4 *
+
+Number of
+microphone supplied
+
+1 1, 2, 3, 4, 5, 6, 7, 8 Or
+higher
+
+Number of camera
+support from the same
+OEM
+
+1 *
+
+Number of Ethernet
+connection points for
+System supports for
+RJ-45, 10/100/1000
+Mbps Base-T Ethernet
+connection
+
+1 *
+
+Wi Fi Connectivity No Yes, No Or higher
+
+If Yes, Type of Wi Fi
+Connectivity
+
+NA Integrated, External,
+NA Or higher
+
+System supports AES
+encryption video calls;
+System has Encryption
+On and Off capability
+
+Yes *
+
+Video Codec shall
+support 16:9 format
+
+Yes *
+
+Power supply: 230 + or
+- 10% volts, 50 Hz
+
+Yes *
+
+Shall come with easy to
+use infra-red hand held
+remote control / Touch
+Panel with operating
+distance
+
+Yes *
+
+                               4 / 8
+
+
+
+ 
+
+All equipment are in
+compliance with the
+requirements of ITU-T
+(SIP Protocol & H Dot
+323) Standard related
+to Video Conferencing
+
+Yes *
+
+System to be IPv6
+ready from day one
+
+Yes *
+
+System uses standards
+based protocols & the
+offered system is inter
+operable with any
+existing H-323
+AVC/SVC based VC
+equipment in a P to P
+call on VC end point; All
+H/W and S/W required
+to make it
+interoperable is
+included in the scope of
+supply
+
+Yes *
+
+Number of Input DVI
+Ports
+
+0 *
+
+Number of Input HDMI
+or equivalent Ports
+
+2 *
+
+Number of Input USB
+Ports
+
+2 *
+
+Number of Output DVI
+Port
+
+0 *
+
+Number of Output
+HDMI or equivalent Port
+
+2 *
+
+Number of output USB
+Port
+
+0 *
+
+Calendering Feature Yes *
+
+Recording @1080p
+on the end point
+
+No Yes, No Or higher
+
+System supplied
+complete with the
+following components
+from the same OEM (a)
+Codec (b) Camera (c)
+At least one
+Microphones with
+suitable connectivity
+(d) Remote
+Control/Touch Panel (e)
+Data sharing capability
+using H/W or S/W (f)
+Necessary Cables
+
+Yes *
+
+Type of Microphone Omni Directional *
+
+                               5 / 8
+
+
+
+ 
+
+System is also
+tropicalized and report
+available from
+ILAC/NABL/Govt Lab
+with all add on
+including
+Environmental
+Sequence
+
+No *
+
+(a) Dry Heat- For 16 hrs
+at 55 deg C as per IS:9
+000/pt-3/sec-5/1977(b)
+Cold-For 4 hrs at 0 deg
+C as per
+IS:9000/pt-2/sec-4/197
+7 (c) Damp Heat- For 2
+Cycles of 24 h each at
+40 deg C & 95% RH as
+per IS:9000/pt-
+5/sec-1/1991 (All
+Reaffirmed 2007)
+
+No *
+
+After each
+environmental test and
+a recovery period of
+two hours, the video
+conferencing system
+has been checked for
+complete functional
+parameters, and the
+results found
+satisfactory
+
+No *
+
+Type Test Report from
+ILAC/NABL/Govt lab
+confirming
+conformance to above
+technical specifications
+- to be made available
+to buyer
+
+No *
+
+BIS Registration under
+CRS of Meity
+
+NA *
+
+BIS Registration
+Number and its Validity
+
+- *
+
+UL/CE certification Yes *
+
+If Yes, UL/CE certificate
+Number
+(Corresponding UL/CE
+Certificate to be
+furnished when
+demanded by the
+buyer)
+
+- *
+
+Minimum Operating
+temperature (Degree
+C)
+
+0 *
+
+                               6 / 8
+
+
+
+ 
+
+Maximum Operating
+Temperature (Degree
+C)
+
+40 *
+
+Minimum Operating
+humidity (%RH)
+
+15 *
+
+Maximum Operating
+humidity (%RH)
+
+80 *
+
+Free installation and
+commissioning
+
+Yes *
+
+On Site OEM
+Warranty (Year)
+
+1 1, 3, 5 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Rashid Ashraf
+Malik
+
+190001,Govt College for
+Women Maulana Azad Road,
+Srinagar, Jammu & Kashmir,
+190001
+
+1  25
+
+Bid Specific Additional Terms and Conditions
+
+1.Without prejudice to Buyer’s right to price adjustment by way of discount or any other right
+or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a
+written notice to the Seller, if:
+i) The Seller fails to comply with any material term of the Contract.
+ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within
+the stipulated Delivery Period or such inability otherwise becomes apparent.
+iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery
+Period and/or to replace/rectify any rejected or defective Material(s) promptly.
+iv) The Seller becomes bankrupt or goes into liquidation.
+v) The Seller makes a general assignment for the benefit of creditors.
+vi) A receiver is appointed for any substantial property owned by the Seller.
+vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has
+placed the Purchase Order on the Seller.
+
+2. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+3.Bidders can also submit the EMD with Account Payee Demand Draft in favour of Principal
+Govt. College for Women M.A Road Srinagar payable at Srinagar.
+Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure
+delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date.
+
+4.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+                               7 / 8
+
+
+
+ 
+
+5.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents
+sought in the Bid document, ATC and Corrigendum if any.
+
+6.To be eligible for award of contract, Bidder / OEM must possess following Certificates / Test
+Reports on the date of bid opening (to be uploaded with bid): All Certificates.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               8 / 8
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

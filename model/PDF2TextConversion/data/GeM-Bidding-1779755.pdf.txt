@@ -1,0 +1,367 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/704247
+
+  Dated: 09-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 16:00:00
+
+Bid Opening Date/Time 20-07-2020 16:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 45 (Days)
+
+Ministry/State Name Ministry Of Coal
+
+Department Name Materials Management
+
+Organisation Name Nlc
+
+Office Name Materials Management
+
+Total Quantity 17
+
+Item Category insulation tester
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  Yes
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 10.00
+
+Duration of ePBG required (Months). 21
+(a). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+
+                               1 / 4
+
+
+
+ 
+
+CGM/MM
+Materials Management, Materials Management, NLC, Ministry of Coal
+(N.karthigai)
+
+Splitting
+
+  Bid splitting not applied.  
+
+Insulation Tester ( 17 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+OTHER MEASUREMENT AC/DC Voltage
+Measurement (Volt)
+
+600 *
+
+AC/DC Voltage
+Measurement
+Resolution ( Volts )
+
+0.1 *
+
+AC/DC Voltage
+Measurement Accuracy
+(%)
+
+2.0 *
+
+PERFORMANCE Type Hand Held Hand Held, Portable
+
+Measurement Range 200 K Ohm to 1 T Ohm 0.01 M Ohm to 10 G
+Ohm, 200 K Ohm to 1 T
+Ohm
+
+Measurement
+Accuracy
+
+4 2, 4, 8
+
+Measurement
+Resolution
+
+1 0.01, 0.1, 1
+
+Test Voltage 5000 50, 100, 250, 500,
+1000, 2500, 5000
+
+Test Current 2 1, 2
+
+FEATURES Pass Fail Function Yes *
+
+Data Logging More than 99 locations *
+
+PC interface along with
+suitable & driven
+software
+
+Available *
+
+Live Circuit Detection live circuit indicator 30
+V to 600 V , 50 Hz
+
+*
+
+Auto Discharge Time
+(Second)
+
+Less than 0.5 *
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/YrZ1iOsReXUHRhR30gC3MmZ5rjWIKz4MApXJVKiw_wg
+
+
+ 
+
+Any Other Features - *
+
+GENERIC Dimensions ( mm x mm
+x mm )
+
+- *
+
+Weight 900 *
+
+SAFETY Safety rating Category III 1000 V of
+IEC 61010
+
+Category III 600 V of
+IEC 61010, Category III
+1000 V of IEC 61010
+
+POWER REQUIREMENT Power Requirements Battery Operated *
+
+Type of Battery Rechargeable *
+
+if rechargeable , then
+chemistry of the
+battery
+
+lithium ion *
+
+if Non-rechargeable ,
+then size of the battery
+/ cell
+
+NA *
+
+Number of non-
+rechargeable the
+battery / cell
+
+NA *
+
+Voltage of
+rechargeable Battery
+
+9.6 *
+
+Capacity of
+rechargeable battery
+(milli ampere hour)
+
+1000 *
+
+ACCESSORIES Standard Accessories
+Supplied with the
+Equipment
+
+- *
+
+WARRANTY Warranty 1 1, 2, 3
+
+OPERATING CONDITION Minimum Operating
+Temperature
+
+-20 *
+
+Maximum Operating
+Temperature
+
+50 *
+
+Operating Humidity
+(RH)
+
+90 *
+
+TEST REPORT DETAILS The equipment
+supplied with
+calibration certificate
+
+YES *
+
+conformity to Dry Heat
+for 16 hrs at a specified
+maximum temp
+
+Yes *
+
+conformity to Cold Test
+for 4 hrs at a specified
+minimum temp in
+accordance with IS:900
+0/part-2/section-4/1977
+latest
+
+Yes *
+
+conformity to Damp
+Heat (Cyclic)Test for 2
+
+Yes *
+
+                               3 / 4
+
+
+
+ 
+
+Cycles of 24 hours each
+at a temp of 40 degree
+C & 95% RH
+
+Availability of Test
+Reports from Central
+Govt/NABL/ILAC
+approved accredited
+lab to prove conformity
+to the specification
+
+Yes *
+
+Test Report Number
+and date for the
+specification test
+
+- *
+
+Name and address of
+the Lab for the
+specification test
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Kulothungan
+Kasinathan
+
+607807,PERMANENT
+CENTRAL STORES, NLC
+INDIA LIMITED, NEYVELI
+607807
+
+17  45
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

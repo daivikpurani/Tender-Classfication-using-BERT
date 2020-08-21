@@ -1,0 +1,456 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/710948
+
+  Dated: 15-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 12:00:00
+
+Bid Opening Date/Time 27-07-2020 12:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Health And Family Welfare
+
+Department Name Department Of Health And Family Welfare
+
+Organisation Name All India Institute Of Speech And Hearing (aiish)
+Mysore
+
+Office Name Headquarters Mysore
+
+Total Quantity 1
+
+Item Category Multifunction Machines MFM
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Multifunction Machines MFM ( 1 pieces )
+
+Technical Specifications
+
+                               1 / 5
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Ungrouped Print Technology Laser Laser
+
+Type of Machine Multifunction Machine Multifunction Machine
+
+Type of Printing Colour Colour
+
+Cartridge
+Technology
+
+Composite Cartridge Composite Cartridge,
+Separate Drum and
+Toner (Mono
+Component), Separate
+Drum and Toner (Dual
+Component) Or higher
+
+Developer Unit No *
+
+Platen/Flatbed Size A4 A4, A3, Legal Or higher
+
+Paper Size
+(Original/Image)
+
+A4/A4 A4/A4
+
+RAM size (MB) 1024 1024, 2048, 4096,
+6144, 3072, 1536,
+1500, 1250, 2560,
+7168, 5120, 8192,
+16384, 2816, 4000,
+2000, 10240 Or higher
+
+Hard Disk
+Capacity(GB)
+
+0 0, 8, 128, 160, 256,
+320, 500, 1024, 250,
+640, 32, 1000, 2000,
+3000 Or higher
+
+Minimum Speed per
+Minute as per
+ISO/IEC 24734 in A4
+Size-Mono
+
+21 22, 23, 24, 25, 26, 27,
+28, 30, 31, 35, 36, 38,
+40, 43, 45, 46, 47, 50,
+52, 55, 60, 61, 65, 70,
+71, 75, 80, 90, 95, 100,
+105, 110, 51, 56, 41,
+120, 130, 160, 57, 33,
+34, 32, 85, 81, 21, 53
+Or higher
+
+Minimum Speed per
+Minute as per
+ISO/IEC 24734 in A4
+Size-Colour
+
+21 22, 23, 24, 25, 26, 27,
+28, 30, 31, 35, 36, 40,
+50, 60, 46, 120, 130,
+160, 65, 45, 34, 55, 38,
+56, 75, 81, 71, 21, 53
+Or higher
+
+Minimum Speed per
+Minute as per ISO/IEC
+24734 in A3 Size-Mono
+
+0 *
+
+Minimum Speed per
+Minute as per ISO/IEC
+24734 in A3 Size-
+Colour
+
+0 *
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/cJZi6hdIl0exwJXP2icjSgGN4vhodl4Y4eUdgQQk-Xc
+
+
+ 
+
+Scanning Feature
+Availability
+
+Yes Yes Or higher
+
+Duplexing Feature
+Availability
+
+Yes Yes Or higher
+
+Faxing Feature
+Availability
+
+No Yes, No Or higher
+
+Speed of Fax, If Fax
+Feature is available
+
+33.6 kbps *
+
+Networking Feature
+Availability
+
+Yes Yes Or higher
+
+If yes, Type of Network
+Interface
+
+Ethernet 10/100/1000 *
+
+Wi-Fi Availability Yes Yes Or higher
+
+If yes,Wi-Fi Type Wi fi 802.11 b/g/n & Wi
+Fi Direct
+
+*
+
+Original Document
+Feeder Type
+
+ADF ADF, DADF/RADF, SPDF
+Or higher
+
+Feeder Capacity
+(Number)
+
+50 *
+
+Number of Main
+Paper Tray
+
+1 1, 2, 3, 4, 5 Or higher
+
+Each Main Paper Tray
+Capacity (Number)
+
+250 *
+
+Bypass Facility Yes Yes Or higher
+
+If Yes, Bypass Tray
+Capacity
+
+1 *
+
+Yield of the
+cartridge/Ink Tank/Ink
+Pack supplied with
+Machine as per ISO/IEC:
+19798/2007(E) for
+Cyan colour (Number of
+prints)
+
+625 *
+
+Yield of the
+cartridge/Ink Tank/Ink
+Pack supplied with
+Machine as per ISO/IEC:
+19798/2007(E) for
+Yellow colour (Number
+of prints)
+
+625 *
+
+Yield of the
+cartridge/Ink Tank/Ink
+Pack supplied with
+Machine as per ISO/IEC:
+19798/2007(E) for
+Magenta colour
+(Number of prints)
+
+625 *
+
+Yield of the 1200 *
+
+                               3 / 5
+
+
+
+ 
+
+cartridge/Ink Tank/Ink
+Pack supplied with
+Machine as per ISO/IEC:
+19752/2004(E) for
+Black (Number of
+prints)
+
+Life of Drum in terms of
+number of Prints in
+case of Separate Drum
+and Toner cartridge
+technology - Cyan
+(Number of Prints)
+
+0 *
+
+Life of Drum in terms of
+number of Prints in
+case of Separate Drum
+and Toner cartridge
+technology - Yellow
+(Number of Prints)
+
+0 *
+
+Life of Drum in terms of
+number of Prints in
+case of Separate Drum
+and Toner cartridge
+technology - Magenta
+(Number of Prints)
+
+0 *
+
+Life of Drum in terms of
+number of Prints in
+case of Separate Drum
+and Toner cartridge
+technology - Black
+(Number of Prints)
+
+0 *
+
+Duty Cycle (No of
+Prints/month)
+
+30000 *
+
+Minimum Operating
+Temperature (Degree
+C)
+
+10 *
+
+Maximum Operating
+Temperature (Degree
+C)
+
+30 *
+
+Minimum Operating
+Humidity (%RH)
+
+20 *
+
+Maximum Operating
+Humidity (%RH)
+
+80 *
+
+BIS Registration under
+CRS of Meity
+
+Yes *
+
+BIS Registration
+Number
+
+- *
+
+Other Certifications
+Available
+
+RoHS *
+
+Dimension (mm x mm
+x mm)
+
+- *
+
+                               4 / 5
+
+
+
+ 
+
+Weight (Kg) - *
+
+On Site OEM
+Warranty (Year)
+
+1 1, 2, 3, 4, 5 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Reji Unnikrishnan
+K
+
+570006,NAIMISHAM CAMPUS
+Manasagangothri
+
+1  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Experience Certificate for the supply of the same to any Govt/ PSU/ any renowned private
+organisation along with Supply/ Purchase Order.
+
+2. If the agency is registered under MSME or NSIC, then EMD exemption certificate needs to be
+enclosed.
+
+3.Make in india specific authorisation certificate needs to be enclosed.
+4.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+
+Commissioning of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,665 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/696123
+
+  Dated: 06-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 16-07-2020 10:00:00
+
+Bid Opening Date/Time 16-07-2020 10:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Human Resource Development
+
+Department Name Department Of Higher Education
+
+Organisation Name Indian Institute Of Science Education And Research
+(iisers)
+
+Office Name Pune 411008
+
+Total Quantity 1
+
+Item Category Refrigerated Centrifuge For General And Research
+Purpose ( PAC Only ) 
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Certificate (Requested in ATC),OEM Authorization
+Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+Estimated Bid Value  510000
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 2.00
+
+EMD Amount 10200
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+                               1 / 7
+
+
+
+ 
+
+ePBG Percentage(%) 10.00
+
+Duration of ePBG required (Months). 12
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+Director
+Dr Homi Bhabha Road, Pashan, Pune - 411008
+(Director, Indian Institute Of Science Education And Research Pune)
+
+Splitting
+
+ Bid splitting not applied.
+
+Refrigerated Centrifuge For General And Research Purpose ( 1 pieces ) (
+Under PAC ) 
+
+Make eppendorf
+
+Model eppendorfrefrigeratedcentrifuge5804r
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Conformity to
+standards
+
+European CE (Notified
+Body)With 4 Digit
+Notified Body No.
+
+*
+
+Certificate date and
+number
+
+CE 18 Sep 2017 *
+
+Performance
+Parameters
+
+Purpose To Centrifuge different
+kinds of samples in
+different Testing Labs
+and research Labs at
+room Temperature
+
+*
+
+Centrifuge design Bench Top *
+
+Weight including Rotor
+in kgs
+
+100 *
+
+Maximum RPM with no 20000 *
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/IOFiXtpEZsjQXRTvDRr-AC4WKezhh0gmhYqJ8ILlXwA
+
+
+ 
+
+load
+
+"Number of steps of
+RPM Variation available
+in the settings
+(correspondingly RCF
+also varies) "
+
+10 *
+
+RPM setting accuracy plus minus 5% *
+
+Type of Motor Brushless(without
+carbons)
+
+Brushless(without
+carbons)
+
+Accessories Spanner to tight or
+loose Nut of Rotor on
+Motor shaft head
+puller,spare rotor nuts
+,fuse-2, Instruction
+Manual Book
+,installation CD
+
+*
+
+Type of lid lock Electronic lid locking
+with automatic lid
+opening at end of run
+
+Electronic lid locking
+with automatic lid
+opening at end of run
+
+Maximum Noise level
+whemn working at 1
+meter distance in db
+
+58 *
+
+Ambient operating
+Temperature range in
+Degree centigrade
+Celsius and humidity
+range
+
+0 to 50 and Relative
+humidity 15 to 90%
+
+*
+
+Rotor imbalance
+diagnostics and
+automatic stop if
+required
+
+Yes *
+
+No of acceleration
+and deceleration
+profiles in built for
+rotor speed while
+automatic braking
+
+Acceleration &
+Deceleration time to be
+less than 15 sec
+
+Acceleration &
+Deceleration time to be
+less than 15 sec
+
+Maximum timer set
+point
+
+60 minutes *
+
+Parameters to be
+displayed by the digital
+display
+
+RPM,RCF,Set time,Run
+time,Rotor running
+indication ,imbalancing
+if any
+
+*
+
+Display Type LCD *
+
+Speed controller Microprocessor
+controlled pre
+programmed speed
+controller which can
+control RPM as well as
+RCF
+
+*
+
+Speed Control 5 *
+
+                               3 / 7
+
+
+
+ 
+
+tolerance in case of set
+speed (Plus minus RPM
+) in percentage
+
+Temperature controller Micro processor based
+PID Digital temperature
+controller cum
+Indicator, (With LCD
+Display) to control the
+Temperature from
++40° C up to -20°C
+
+*
+
+Configuration of
+Rotor supplied with
+centrifuge machine
+
+Angle rotor Angle rotor
+
+Rotor Feature with
+reference to
+Autoclavability
+
+Autoclavable Rotor
+@121 Degree Celsius
+
+*
+
+Type of Tubes which
+can be used with
+centrifuge machine
+
+Polypropylene
+Centrifuge tubes and
+Glass centrifuge tubes
+
+*
+
+Size of rotor
+supplied with
+centrifuge in ml
+
+"6x50 mL(for angle
+rotor) RPM
+13000","24x1.5ml(for
+angle rotor) RPM
+16000"
+
+"24x1.5ml(for angle
+rotor) RPM 16000",
+"6x50 mL(for angle
+rotor) RPM 13000"
+
+Maximum RCF 20913 *
+
+Power supply 220 Volts 50 Hz AC ±
+10%
+
+*
+
+Power consumption in
+watts
+
+1650 *
+
+Length of the
+Centrifuge in mm
+
+550 *
+
+Width of the Centrifuge
+in mm
+
+640 *
+
+Height of of the
+Centrifuge in mm
+
+340 *
+
+Length of Power cord in
+meters
+
+3 *
+
+Refrigerant should be
+CFC free
+
+Yes *
+
+Temperature of
+refrigerator in degree
+Celsius
+
+upto -20°C *
+
+Cooling arrangement Through suitable
+compressor, radiator,
+Cooling fan and its
+Cooling Kit
+
+*
+
+Temperature control
+accuracy
+
+± 2°C *
+
+                               4 / 7
+
+
+
+ 
+
+Warranty period for
+equipment & Rotor
+(on site and
+comprehensive
+warranty) in years
+
+1 1
+
+Maximum Noise level
+when working at 1
+meter distance in db
+
+58 *
+
+Material Parameters Assembly Material for
+manufacture of
+Centrifuge
+
+Die cast Aluminum,
+Aluminum sheet,
+Stainless Steel, CRC
+Steel,Plastic and
+Rubber
+
+*
+
+"Lid Material of
+Centrifuge "
+
+CRC Steel finish with
+powder coating or
+stove painting or ABS
+Plastic of injection
+moulding
+
+*
+
+Body material of
+Centrifuge
+
+C.R.C Steel Finish with
+Powder Coating/ Stove
+Painting.
+
+*
+
+Front Panel of
+centrifuge
+
+CRC Steel finish with
+powder coating or
+stove painting or ABS
+Plastic of injection
+moulding
+
+*
+
+Centrifuge Bowl
+material in Centrifuge
+
+Double walled with PUF
+Insulation to avoid loss
+of Cooling. Inner
+Chamber made of 304
+Quality Stainless Steel
+Moulded
+
+*
+
+Material of Rotor Aluminium *
+
+Additional Parameters Condensed Water
+Drainage System
+
+Yes Yes
+
+The Equipment shall
+be installed and
+demonstrated before
+Acceptance
+
+No(No installation and
+demonstration required
+and consignee can
+install)
+
+No(No installation and
+demonstration required
+and consignee can
+install)
+
+Servo Controller
+Voltage Stabilizer
+supplied with Item
+
+No No
+
+Servo stabilizer
+ratings in KVA
+
+Not supplied Not supplied
+
+Warranty of
+stabilizer in years
+
+NA(If no stabilizer
+provided)
+
+NA(If no stabilizer
+provided)
+
+Auto cut off Yes *
+
+Timer provided Yes *
+
+Reports Certifications of ISO 9001:2015 *
+
+                               5 / 7
+
+
+
+ 
+
+Manufacturer
+
+ISO Certificate date and
+number
+
+ISO 9001 June 2018 *
+
+Copies of all
+certifications and
+reports to be provided
+to buyer on demand at
+time of supplies
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 John Albert K 411008,Indian Institute of
+Science Education and
+Research, Pune (IISER)
+Dr.Homi Bhabha Road ,
+Pashan Pune 411008 Email:
+purchase@iiserpune.ac.in
+For Payment Status: 020
+2590 8180/8452 For
+Delivery Status : 020 2590
+8246, PUNE CITY, 411008
+
+1  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Bidders can also submit the EMD with Account Payee Demand Draft in favour of Director
+Indian Institute of Science Education and Research Pune. payable at Pune.
+Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure
+delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date.
+
+2.Bidders can also submit the EMD with Payment online through RTGS / internet banking in
+Beneficiary name Director Indian Institute of Science Education and Research Pune. Account
+No. 30042605732 IFSC Code SBIN0003552 Bank Name State Bank of India Branch address 
+NCL Campus Branch, PUNE 411008.
+ Bidder to indicate bid number and name of bidding entity in the transaction details field at
+the time of on-line transfer. Bidder has to upload scanned copy / proof of the Online Payment
+Transfer along with bid.
+
+3.OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be
+ordered up to 25 percent at the time of placement of contract. The purchaser also reserves
+the right to increase the ordered quantity by up to 25% of the contracted quantity during the
+currency of the contract at the contracted rates. Bidders are bound to accept the orders
+accordingly.
+
+4.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+5.Successful Bidder can submit the Performance Security in the form of Account Payee
+Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in
+favour of Director Indian Institute of Science Education and Research Pune. payable at Pune.
+After award of contract, Successful Bidder can upload scanned copy of the DD in place of
+
+                               6 / 7
+
+
+
+ 
+
+PBG and has to ensure delivery of hard copy to the original DD to the Buyer within 15 days
+of award of contract.
+
+6.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+7.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+8.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+9.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 10 days time limit. If the Seller fails to complete
+service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product
+shall be charged as penalty for each week of delay from the seller. Seller can deposit the
+penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty
+amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than
+10% of the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+10.The buyer organization is an institution eligible for concessional rates of GST as notified by
+the Government of India. The goods for which bids have been invited fall under classification
+of GST concession and the conditions for eligibility of concession are met by the institution.
+A certificate to this effect will be issued by Buyer to the Seller after award of the Contract.
+Sellers are requested to submit their bids after accounting for the Concessional rate of GST.
+Applicable Concessional rate of GST : 5%
+Notification No.and date : 45/2017-Central Tax (Rate) New Delhi dated 14/11/2017
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

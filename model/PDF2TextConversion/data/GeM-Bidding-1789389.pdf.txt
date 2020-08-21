@@ -1,0 +1,414 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/713015
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 17:00:00
+
+Bid Opening Date/Time 27-07-2020 17:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Railways
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Western Railway
+
+Total Quantity 1
+
+Item Category Layer 3 - Access Switch
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Layer 3 - Access Switch ( 1 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Specification Maximum Number of
+Access /Downlink Ports
+
+48 8, 12, 24, 48, 0, 2, 4, 16, 32
+Or higher
+
+Type of Switch PoE+ Non PoE, PoE, PoE+, UPoE,
+PoE++ Or higher
+
+                               1 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/JU7OLwFpjXbgSwxsZzjdfJupRM4NQtw7CCprP0dMAeA
+
+
+ 
+
+Number of 10/100/1000
+Base-T Ports
+
+48 24, 48, 32 Or higher
+
+Number of Multi-Gigabit
+Ports
+
+0 0, 4, 8, 12, 24, 48, 2, 16, 32
+Or higher
+
+Number of 1 G Base T
+Ports (Uplink)
+
+0 0, 2, 4, 8, 12, 16, 24, 32, 48
+Or higher
+
+Number of 1 G SFP /
+Base X Port (Uplink)
+
+4 4, 8, 12, 16, 24, 32, 48 Or
+higher
+
+Number of 10 G Base T
+Port (Uplink)
+
+0 0, 2, 4, 8, 12, 16, 24, 32, 48
+Or higher
+
+Number of 10 G SFP+
+Port (Uplink)
+
+4 0, 2, 4, 8, 12, 16, 24, 32, 48
+Or higher
+
+Number of 40 G QSFP+
+Port (Uplink)
+
+0 0, 2, 4, 8, 12, 16, 24, 32, 48
+Or higher
+
+Number of 100 G QSFP
+28 Port (Uplink)
+
+0 0, 1, 2, 4, 6, 8, 12, 16, 24,
+48 Or higher
+
+Management Port (RJ
+45/RS 232/USB)
+
+Yes Yes Or higher
+
+RAM (MB) 1024 *
+
+Flash Memory (MB) 512 *
+
+9K MTU Supported
+(Minimum)
+
+Yes *
+
+Console Port Yes *
+
+Redundant Power supply Yes Yes, No Or higher
+
+Redundant Power Supply
+Type
+
+Internal *
+
+Redundant Power Supply
+(Hot Swappable)
+
+Yes *
+
+Redundant Fan Yes Yes Or higher
+
+Redundant Fan (Hot
+Swappable)
+
+Yes *
+
+Number of Open slot for
+additional Interface Card
+
+0 *
+
+Operating System Yes *
+
+Dedicated Stacking Yes *
+
+Stacking Bandwidth (Gbps) 320 *
+
+Switching Capacity /
+Forwarding Bandwidth
+(Non Blocking / Line Rate
+/Wired Speed) 2x
+(Numbers of access ports
++ Number of Uplink
+Ports) (Gbps)
+
+656 Any applicable numeric
+value
+
+Throughtput /
+Forwarding Performance
+(MPPS)
+
+462 Any applicable numeric
+value
+
+Layer 2 Protocols 802.1Q VLAN,LAG,LACP,STP,
+MSTP,RSTP,VxLAN,IEEE
+802.3x,VLAN
+
+*
+
+Number of VLAN Supported 4000 *
+
+Number of VLAN IDs
+Supported
+
+4000 *
+
+                               2 / 4
+
+
+
+ 
+
+Number of IPV4 Routes 30000 *
+
+Number of IPV6 Routes 5000 *
+
+Number of Mac Address
+Supported (k)
+
+128 *
+
+Basic Layer-3 Protocol from
+day 1
+
+Static Routing,RIPv1,RIPv2,B
+GP,OSPFv2,OSPFv3,RIPng
+
+*
+
+Advance Layer-3 Protocol
+from day 1
+
+OSPFv2,OSPFv3,BGP,BGP4,P
+IM-SM,PIM-SSM
+
+*
+
+Premium Layer-3 Protocol
+from day 1
+
+BGP,BGP4,IS-IS,PIM-SM,PIM-
+SSM,VRF Lite,VRF,VXLAN,VR
+RP,VxLAN,DCBX
+
+*
+
+Security Feature RA Guard,,DHCP
+Snooping,Dynamic ARP Insp
+ection,ACL,802.1x,RADIUS/
+TACACS,Port Security,BPDU
+Guard,VRF Lite,IGMP
+snooping
+
+*
+
+Management Protocol GUI,CLI,Telnet,TFTP,,SNMPv
+1,SNMPv2/
+V2C,SNMPv3,NTP,Openflow
+1.3,RMON,SSHv2,Single IP
+Management,ISSU and hot
+patching,Hitless patch
+upgrades,DLDP/UDLD
+
+*
+
+QoS 802.1p,SP,Queues per
+port,WRED/ WTD,Sflow,SNTP
+,Shapincg,Policing / Rate
+Limiting,Strict Priority
+Queueing or Low Latency
+Queueing
+
+*
+
+PoE Power Budget (Watt) 720 *
+
+Dimension / Form Factor
+(RU)
+
+1 *
+
+Certification RoHS *
+
+MTBF (Year) 7 *
+
+Minimum Operating
+Temperature (Degree C)
+
+-5 *
+
+Maximum Operating
+Temperature (Degree C)
+
+55 *
+
+Minimum Operating
+Humidity (%RH)
+
+5 *
+
+Maximum Operating
+Humidity (%RH)
+
+95 *
+
+IPv6 Ready from day 1 Yes *
+
+On Site OEM Warranty
+(Year)
+
+5 5 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+                               3 / 4
+
+
+
+ 
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Chandrashekhar
+Bhagwat Mahajan
+
+400008,SENIOR SECTION
+ENGINEER, TELECOM STORE,
+RAJDHANI POH BUILDING, 3RD
+FLOOR, MUMBAI CENTRAL - E,
+NEAR DRM OFFICE, 400008
+
+1  15
+
+Bid Specific Additional Terms and Conditions
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of
+
+Goods
+2.Preference to Make In India products (For bids less than 200 Crore):Preference shall be given to Class 1 local
+
+supplier as defined in public procurement (Preference to Make in India), Order 2017 as amended from time to
+time and its subsequent Orders/Notifications issued by concerned Nodal Ministry for specific Goods/Products. The
+minimum local content to qualify as a Class 1 local supplier is denoted in the bid document 50%. If the bidder
+wants to avail the Purchase preference, the bidder must upload a certificate from the OEM regarding the
+percentage of the local content and the details of locations at which the local value addition is made along with
+their bid, failing which no purchase preference shall be granted. In case the bid value is more than Rs 10 Crore,
+the declaration relating to percentage of local content shall be certified by the statutory auditor or cost auditor, if
+the OEM is a company and by a practicing cost accountant or a chartered accountant for OEMs other than
+companies as per the Public Procurement (preference to Make-in -India) order 2017 dated 04.06.2020. Only
+Class-I and Class-II Local suppliers as per MII order dated 4.6.2020 will be eligible to bid. Non - Local suppliers as
+per MII order dated 04.06.2020 are not eligible to participate. In case Buyer has selected Purchase preference to
+Micro and Small Enterprises clause in the bid, the same will get precedence over this clause.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

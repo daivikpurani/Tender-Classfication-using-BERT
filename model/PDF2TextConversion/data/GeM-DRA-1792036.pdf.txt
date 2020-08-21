@@ -1,0 +1,677 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   RA Number: GEM/2020/RA/45505
+
+  Dated: 17-07-2020
+
+  
+
+RA Document
+RA Details
+
+RA Technical End Date/Time 27-07-2020 18:00:00
+
+RA Opening Date/Time 27-07-2020 18:30:00
+
+RA Life Cycle (From Publish Date) 90 (Days)
+
+RA Offer Validity (From End Date) 80 (Days)
+
+Ministry/State Name Ministry Of Power
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name New Delhi
+
+Total Quantity 2
+
+Item Category  Network / web security software appliances
+
+Average Turnover (Last 3 Years)  245 Lakh (s)
+
+Experience Criteria  2 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  50 %
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank HDFC Bank
+
+EMD Percentage(%) 2.00
+
+EMD Amount 978000
+
+ePBG Detail
+
+Advisory Bank HDFC Bank
+
+                               1 / 7
+
+
+
+ 
+
+ePBG Percentage(%) 10.00
+
+Duration of ePBG required (Months). 39
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+COMPANY
+URJANIDHI, 1, BARAKHAMBA LANE, CP, NEW DELHI - 110 001
+(Power Finance Corporation Limited)
+
+Splitting
+
+ RA splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 50% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+ Network / Web Security Software Appliances ( 2 pieces ) ( Under PAC ) 
+
+Make trendmicro
+
+Model deepdiscovery4000andanalyser
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/0xvj4BToTcj1nwhwYaNN_6m0_GIfsOlGwLYIEe5NJLA
+
+
+ 
+
+BASIC INFORMATION
+(GOLDEN)
+
+Category Appliance Appliance
+
+Software/ Appliance
+Domain
+
+Web Security,Web
+Application Security
+
+Web Security, Web
+Application Security
+
+Software/ Appliance
+Type
+
+Client-server model Client-server model
+
+Type of License Subscription Subscription
+
+Name of Software /
+Appliance
+
+DDI 4K_ DDAN *
+
+Name of the OEM Trend Micro *
+
+OEM Model / Part No DDI4k *
+
+Software / Appliance
+Description
+
+Deep Discovery *
+
+Software / Appliance
+Version
+
+Latest *
+
+Date of Launch of
+Version
+
+latest *
+
+FEATURES &
+FUNCTIONALITY
+PARAMETERS
+(GOLDEN)
+
+Throughput for
+Appliance
+
+IPS/IDS IPS/IDS
+
+SSL Decryption
+Throughput
+
+NA upto 30 Gbps, NA
+
+No of physical
+interfaces for 1 Gbps
+
+upto 4 upto 4
+
+No of physical
+interfaces for 10
+Gbps
+
+upto 4 upto 4
+
+No of physical
+interfaces for 40
+Gbps
+
+NA upto 2, NA
+
+Threat Intelligence
+sharing open
+platforms
+
+Yes Yes
+
+Static & Dynamic
+code analysis of files
+
+Yes Yes
+
+Request per second
+for web traffic HTTP/
+HTTPS
+
+NA NA
+
+No of Virtual
+Network Intrusion
+Prevention System
+supported
+
+NA NA
+
+Light simulation of
+web pages
+
+No No
+
+No of network
+interfaces supported
+for software based
+
+NA NA
+
+If limited, no of ports NA *
+
+                               3 / 7
+
+
+
+ 
+
+supported
+
+Amount of
+throughput
+supported for
+software based
+
+NA NA
+
+If limited, then declare
+maximum bandwidth
+supported
+
+NA *
+
+IPv6 supported Yes Yes
+
+Machine Access
+Code Filtering
+
+No No
+
+Network Access
+Control (NAC)
+
+No No
+
+If yes, no of users
+supported
+
+unlimited *
+
+High availability
+Cluster
+
+Yes Yes
+
+Distributed Denial of
+service (DDOS)
+
+NA NA
+
+Type of VPN Security
+capability
+
+NA NA
+
+Centralized
+Management
+
+Yes Yes
+
+Installation and
+Demonstration
+
+Yes Yes
+
+No of days Training
+Provided at Site
+
+3 3
+
+Number of Years
+upto which Support
+is available from
+OEM / Franchise
+online
+
+3 3
+
+FEATURES &
+FUNCTIONALITY
+PARAMETERS
+(GENERIC)
+
+Anti-virus feature Yes *
+
+Anti-malware feature Yes *
+
+Network Firewall No *
+
+Network Attack Blocker No *
+
+Web Control / URL
+filtering
+
+Yes *
+
+Web Application
+firewall (WAF)
+
+No *
+
+Intrusion Detection /
+Prevention System
+(IDS/IPS)
+
+No *
+
+Application Control No *
+
+E-mail attachment
+protection
+
+Yes *
+
+                               4 / 7
+
+
+
+ 
+
+Internet usage
+monitoring capability
+
+No *
+
+Multi factor
+Authentication
+capability
+
+No *
+
+IP Protection Yes *
+
+Web Threat
+Management
+
+Yes *
+
+Web Traffic Reporting No *
+
+Spyware Removal
+capability
+
+No *
+
+Threat Emulation
+capability
+
+Yes *
+
+Threat Extraction
+capability
+
+Yes *
+
+Anti-Bot capability Yes *
+
+Zero-day protection
+capability
+
+Yes *
+
+Network segmentation
+capability
+
+No *
+
+Next Generation
+Firewall (NGFW)
+
+No *
+
+Encryption / Decryption
+capability
+
+No *
+
+Wireless Network
+Security capability
+
+No *
+
+SUPPORTED
+HARDWARE
+REQUIREMENT
+PARAMETERS
+
+Hard Disk Space
+Required
+
+na *
+
+RAM Size required na *
+
+CPU required na *
+
+Operating Systems
+supported (Driver)
+
+microsoft *
+
+Supported Servers na *
+
+Min Processor bench
+mark score required
+
+na *
+
+GENERIC PARAMETERS Free Upgradation to
+Higher Version
+within support
+period
+
+Yes Yes
+
+CAP on maximum no of
+users
+
+unlimited *
+
+CAP on concurrent no
+of connections
+
+na *
+
+Valid Licence copy to
+be provided
+
+Yes *
+
+                               5 / 7
+
+
+
+ 
+
+Software supplied
+through
+
+Pre-loaded *
+
+Certifications /
+Benchmarking of
+Software Products
+
+NSS *
+
+List of items included in
+the package
+
+applaince *
+
+Hyper link to Data
+sheet
+
+www.trendmicro.com *
+
+No of Software /
+Appliances sold
+
+10 *
+
+Number of User
+Referance within
+Government
+Department
+email,phone no Of
+concerned authority
+
+2 *
+
+Details of Government
+Department email,
+phone no Of concerned
+authority where
+Software /Appliance
+installed for above
+
+HPSEB *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignee/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Shirshendu Sahoo
+N
+
+110001,Power Finance
+Corporation Limited,
+Urjanidhi, 1, Barakhamba
+Lane, Connaught Place, New
+Delhi -110001
+
+2  15
+
+Bid Specific Additional Terms and Conditions
+
+1.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+2.Malicious Code Certificate:
+
+The seller should upload following certificate in the bid:-
+(a) This is to certify that the Hardware and the Software being offered, as part of the
+
+                               6 / 7
+
+
+
+ 
+
+contract, does not contain Embedded Malicious code that would activate procedures to :-
+  (i) Inhibit the desires and designed function of the equipment.
+  (ii) Cause physical damage to the user or equipment during the exploitation.
+  (iii) Tap information resident or transient in the equipment/network.
+(b) The firm will be considered to be in breach of the procurement contract, in case physical
+damage, loss of information or infringements related to copyright and Intellectual Property
+Right (IPRs) are caused due to activation of any such malicious code in embedded software.
+
+3. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+4.Bidders can also submit the EMD with Payment online through RTGS / internet banking in
+Beneficiary name POWER FINANCE CORPORATION LIMITED Account No. 00030350000790
+IFSC Code HDFC0000003 Bank Name HDFC BANK Branch address K G MARG NEW DELHI.
+ Bidder to indicate bid number and name of bidding entity in the transaction details field at
+the time of on-line transfer. Bidder has to upload scanned copy / proof of the Online Payment
+Transfer along with bid.
+
+5.Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt
+also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in
+the name of POWER FINANCE CORPORATION LIMITED NEW DELHI A/C (Name of the Seller).
+The bank should certify on it that the deposit can be withdrawn only on the demand or with
+the sanction of the pledgee. For release of Security Deposit, the FDR will be released in
+favour of bidder by the Buyer after making endorsement on the back of the FDR duly signed
+and stamped along with covering letter. Successful Bidder has to upload scanned copy of
+the FDR document in place of PBG and has to ensure delivery of hard copy of Original FDR to
+the Buyer within 15 days of award of contract.
+
+6.Successful Bidder can submit the Performance Security in the form of Payment online
+through RTGS / internet banking also (besides PBG which is allowed as per GeM GTC). On-
+line payment shall be in Beneficiary name POWER FINANCE CORPORATION LIMITED Account
+No. 00030350000790 IFSC Code HDFC0000003 Bank Name HDFC BANK Branch address K G
+MARG NEW DELHI. Successful Bidder to indicate Contract number and name of Seller entity
+in the transaction details field at the time of on-line transfer. Bidder has to upload scanned
+copy / proof of the Online Payment Transfer in place of PBG within 15 days of award of
+contract.
+
+7.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+8.The Bidder / OEM {themselves or through reseller(s)}, should have executed project for
+supply and installation / commissioning of same or similar Category Products during
+preceding 3 financial years (i.e. current year and three previous financial years) as on
+opening of bid, as per following criteria:
+ 
+(i) Single order of at least 35% of estimated bid value; or
+(ii) Two orders of at least 20% each of estimated bid value; or
+(iii) Three orders of at least 15% each of estimated bid value.
+Satisfactory Performance certificate issued by respective Buyer Organization for the above
+Orders should be uploaded with bid. In case of bunch bids, the Category related to primary
+product having highest bid value should meet this criterion
+
+9.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+This RA is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

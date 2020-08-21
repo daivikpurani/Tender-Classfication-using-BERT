@@ -1,0 +1,741 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/703107
+
+  Dated: 08-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 18-07-2020 21:00:00
+
+Bid Opening Date/Time 18-07-2020 21:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Uttarakhand
+
+Department Name Urban Development Directorate Of Uttarakhand
+
+Organisation Name Nagar Palika
+
+Office Name Nagar Palika Mahuakhera
+
+Total Quantity 125
+
+Item Category LED Luminaire (For Road and Street Lights) ( PAC
+Only ) 
+
+OEM Average Turnover (Last 3 Years)  3 Lakh (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  10 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+                               1 / 9
+
+
+
+ 
+
+  Bid splitting not applied.  
+
+1. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+2. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 10% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+LED Luminaire (For Road And Street Lights) ( 125 pieces ) ( Under PAC ) 
+
+Make surya
+
+Model 45wledstreetlightsurya-srlg
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+STANDARDS LED Luminaire
+conformity to
+IS:10322/Part 5/Section
+3/2012 latest and IS:
+16107 (Part 2/Sec
+1):2012 latest
+
+Yes *
+
+Photo biological safety
+of LEDs used shall be
+as per IS:16108/2012
+(exempt group)
+
+Yes *
+
+Types of LED Luminaire
+as per the IS:
+16107(Part-2/
+Sec.-1)/2012
+
+Type B *
+
+Types of LED Modules
+as per the IS:IS:
+16103(Part-2)/2012
+
+Type 3 *
+
+                               2 / 9
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/Afg8hfjsl5ZeAQCH1eK7rv8jQR_cYKPx-F43ZlLaoUA
+
+
+ 
+
+LED Rating (in
+Watts)/System
+Wattage/Rated
+Power
+
+45W 45W
+
+Luminaire System
+Efficacy (Lumen/watt)
+
+>/= 100 Lm/Watt *
+
+Ingress Protection (IP
+Rating) as per IS:10322
+(Part 1):1982 latest
+
+IP65 *
+
+Warranty for free
+replacement (in
+years)
+
+2 2, 3
+
+ELECTRICAL
+EFFICIENCY
+
+Input operating Voltage
+range and frequency
+
+140 to 270 V olts AC at
+50 Hz+/-2 with auto
+cutt off at below 120V
+
+*
+
+Automatic Higher Cut
+off voltage above 300
+volt
+
+Yes *
+
+Rated voltage 230 V AC 50 Hz *
+
+AC Power Factor at full
+load
+
+≥ 0.95 *
+
+Driver Efficiency (in
+%age) Upto 100W:
+≥85%, Above 100W:
+>/=90%
+
+Yes *
+
+Total Harmonics
+Distortion
+
+≤ 10 *
+
+"The total circuit power
+shall not be more than
+110 percent of the
+value declared by the
+manufacturer (as per
+Cl. 8 of IS:16104:2012
+lates)"
+
+Yes *
+
+OPTICAL LED chip Efficacy ≥130 Lm/Watt *
+
+Colour temperature 6000+/-500K *
+
+Working life for LED
+(Minimum 50,000
+burning hours as per
+LM-80 and LM 21
+reports)
+
+Yes *
+
+Colour Rendering
+Index(CRI)
+
+≥70 *
+
+LED Beam Angle ≥120 *
+
+Optic lense materal (UV
+stabilised)
+
+Poly carbonate lense *
+
+THERMAL
+MANAGEMENT
+
+Heat sink should be die-
+cast aluminium along
+
+Yes *
+
+                               3 / 9
+
+
+
+ 
+
+with sufficient heat sink
+fins to dissipate heat
+effectively
+
+Junctiojn / Soldering
+point temperature shall
+not exceed 85 deg.c as
+per LM 80 report
+
+Yes *
+
+Capacitor shall be rated
+for a temperature of
+105 deg. celsius or
+better
+
+Yes *
+
+Operating
+temperature range
+
+-10 deg C to +50 deg C -20 deg. C to +50 deg.
+C, -10 deg C to +50
+deg C, -10 deg C to
++55 deg C
+
+Operating Humidity
+Range
+
+10 % to 95% RH *
+
+PROTECTION Short circuit Protection Yes *
+
+Over load protecton Yes *
+
+Over Voltage protection Yes *
+
+Reverse polarity Yes *
+
+High voltage test (1.5
+KV for one minute
+between supply
+terminals and body of
+the unit)
+
+Yes *
+
+Insulation resistance
+between earth and
+current carrying part
+
+>100 M Ohm *
+
+The luminaire shall be
+protected against
+surges and transients (
+Internal)
+
+>/=4KV *
+
+The luminaire shall be
+protected against
+surges and transients
+of >/=10KV (External)
+
+Yes *
+
+CONSTRUCTIONAL The Luminaires
+casing/housing (single
+piece housing) shall be
+pressure die casted
+aluminium alloy with
+higher thermal
+conductivity
+
+Yes *
+
+The luminaire body
+must be corrosion
+resistant powder
+coated
+
+Yes *
+
+All fastners must be of Yes *
+
+                               4 / 9
+
+
+
+ 
+
+stainless steel
+
+Protection of the entire
+housing (both LED
+section and driver
+section) as per
+IS:10322 (Part 1):1982
+latest
+
+IP66 *
+
+Extruded silicon loop
+gasket shall be
+provided in the lantern
+body to ensure a
+weather proof seal
+between the UV Glass
+cover and the metal
+housing to exclude the
+entry of the dust,
+water, insects etc.,
+
+Yes *
+
+Luminaries light
+transparency should be
+of Toughened glass
+
+Yes *
+
+Toughned transparent
+glass cover thickness
+
+>/=4 mm *
+
+Toughned Glass shall
+not get discoloured
+shall not suffer
+degration due to heat
+and ageing within
+warranty period
+
+Yes *
+
+Number of electronic
+control gear (power
+supplies)
+
+3 Nos. 1 No., 2 Nos., 3 Nos., 4
+Nos.
+
+Light Source SMD LED Chip as per
+LM 80/IS16106
+
+*
+
+Driver components
+shall be industrial
+grade or above
+
+Yes *
+
+PCB shall be FR4 grade
+minimum 0.8 to 1.0
+mm thick or more
+
+Yes *
+
+The Luminaires works
+on single phase three
+wires system (Phase,
+Neutral and Earth)
+
+Yes *
+
+Suitable connector
+shall be provided for
+LED connection
+between driver output
+and LED
+
+Yes *
+
+Length of ISI marked
+three core wire
+(shall be provided
+
+100 cm 50 cm, 100 cm
+
+                               5 / 9
+
+
+
+ 
+
+along with supply of
+material)
+
+MARKING "Manufactures Name
+and and brand on the
+aluminium die cast
+body "
+
+Engraved/Embossed *
+
+Manufacturer’s name,
+model number, serial
+number
+
+Yes *
+
+Date of manufacture
+(month-year), and lot
+number as
+identification mark
+inside each unit and
+the outside of each
+packaging box
+
+Yes *
+
+The operation
+characteristics voltage
+and power be marked
+inside of each LED
+luminaire unit
+
+Yes *
+
+Diameter of pole
+Luminiare suitable for:
+(upto 45W Pole OD:
+shall be 40mm),
+(>45W<120W Pole OD:
+Shall be 50 mm),
+(above 120W: OD shall
+be 60 mm for which
+luminiare is suitable
+
+Yes *
+
+REPORTS AND
+CERTIFICATIONS
+
+LED Make OSRAM / NICHIA / CREE
+/ SAMSUNG / SEOUL /
+LUMILEDS / PHILIPS /
+SYSKA / LUMENMAX /
+EVERLIGHT / EDISON /
+BRIDGELUX /
+NATIONSTAR / REFOND
+
+*
+
+System must have
+EMI/EMC compliance as
+applicable (Test reports
+shall be furnish to the
+buyer / consignee on
+demand)
+
+Yes *
+
+LM 79 (Photometry)
+(Ref.IS:16106:2012)
+report from Central
+Government Lab
+/NABL/ILAC accrediated
+lab. Reports shall be
+furnish to the buyer /
+consignee on demand
+(LM-79 report shall
+have total lumen
+
+Yes *
+
+                               6 / 9
+
+
+
+ 
+
+output, power, PF,
+Current in Amps, CRI &
+CCT etc.,)
+
+LM 80 & TM 21 (Ref.
+IS:16105:2012) Report
+and Photo biological
+report for LED report
+from Central
+Government Lab
+/NABL/ILAC accrediated
+lab. Reports shall be
+furnish to the buyer /
+consignee on demand
+(LM-80 report shall
+have the Pohoto
+Biological report of the
+LED Chip being used in
+the luminaire)
+
+Yes *
+
+Availability of test
+Report from Central
+Government Lab
+/NABL/ILAC accrediated
+lab to Indian Standrad
+IS:10322/part
+5/sec-3/2012 and IS
+16107 (Part 2/Sec 1) :
+2012
+
+Yes *
+
+Seller shall furnish the
+Type test reports to the
+buyer / consignee on
+demand
+
+Yes *
+
+DC or AC supplied
+electronic control gear
+for LED Module shall
+comlpy as per IS:15885
+(Part 2/Sec.13)
+
+Yes *
+
+LED Luminaire for road
+and street lighting shall
+comply with
+Complusory
+Registration(CRS) of
+BIS for safety as per IS
+10322 (Part 5/Section
+3): 2012 as applicable
+on date
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+                               7 / 9
+
+
+
+ 
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Ibne Hasan 244713,NAGAR PALIKA
+PARISHAD
+MAHUAKHERAGANJ
+
+125  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+3.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial
+year, should be as indicated in the bid document. Documentary evidence in the form of
+certified Audited Balance Sheets of relevant periods or a certificate from the Chartered
+Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than
+3 year old, the average turnover in respect of the completed financial years after the date of
+constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of
+CATEGORY RELATED TO primary product having highest bid value should meet this criterion.
+
+4. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+5.Bid reserved for Make In India products: Procurement under this bid is reserved for purchase
+from Class 1 local suppliers as defined in public procurement (Preference to Make in India),
+Order 2017 as amended from time to time and its subsequent Orders/Notifications issued by
+concerned Nodal Ministry for specific Goods/Products. The minimum local content to qualify
+as a class 1 local supplier is denoted in the bid document 50%. All bidders must upload a
+certificate from the OEM regarding the percentage of the local content and the details of
+locations at which the local value addition is made along with their bid, failing which the bid
+is liable to be rejected. In case the bid value is more than Rs 10 Crore, the declaration
+relating to percentage of local content shall be certified by the statutory auditor or cost
+auditor, if the OEM is a company and by a practicing cost accountant or a chartered
+accountant for OEMs other than companies as per the Public Procurement (preference to
+Make-in -India) order 2017 dated 04.06.2020 . In case Buyer has selected Purchase
+preference to Micro and Small Enterprises clause in the bid, the same will get precedence
+over this clause.
+
+6.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+7.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+8.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents
+sought in the Bid document, ATC and Corrigendum if any.
+
+9.The bidder is required to upload, along with the bid, all relevant certificates such as BIS
+
+                               8 / 9
+
+
+
+ 
+
+licence, type test certificate, approval certificates and other certificates as prescribed in the
+Product Specification given in the bid document.
+
+10.Warranty period of the supplied products shall be 2 years from the date of final acceptance
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               9 / 9
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

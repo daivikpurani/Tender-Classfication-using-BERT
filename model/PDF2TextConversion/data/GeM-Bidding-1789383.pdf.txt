@@ -1,0 +1,890 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/713010
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 20:00:00
+
+Bid Opening Date/Time 27-07-2020 20:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 70 (Days)
+
+Ministry/State Name Madhya Pradesh
+
+Department Name General Administration Department Madhya Pradesh
+
+Organisation Name N/a
+
+Office Name Jabalpur Division
+
+Total Quantity 11
+
+Item Category aadhaar enrolment kit
+
+Bidder Turnover (Last 3 Years)  8 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  66 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years Of Experience and
+Turnover
+
+ Yes
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM Authorization
+Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the
+buyer
+
+Past Performance  80 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM {themselves or
+
+                               1 / 8
+
+
+
+ 
+
+through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central
+/ State Govt Organization / PSU / Public Listed Company for number of years as indicated in the bid document before the
+bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some
+quantity during each of the year. In case of bunch bids, the category of primary product having highest value should
+meet this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product during the
+last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document.
+Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the
+Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with
+the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have supplied same or similar
+Category Products for 80% of bid quantity, in at least one of the last three years before the bid opening date to any
+Central / State Govt Organization / PSU / Public Listed Company. Copies of relevant contracts (proving supply of
+cumulative order quantity in any one year) to be submitted along with bid in support of quantity supplied in the relevant
+year. In case of bunch bids, the category related to primary product having highest bid value should meet this criterion.
+
+Aadhaar Enrolment Kit ( 11 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Specification Aadhar Enrollment Kit It consists of set of
+hardware Devices required
+to carry out successful
+Aadhar enrolment &
+update.Set comprises of
+:Computer, Monitor,
+Multifunction Printer, IRIS
+Scanner, Camera, Slap
+Scanner, GPS device, White
+Light, Focus Light, Surge
+Protector Sppike,
+
+*
+
+Computer Computer OEM Brand - from Top 5
+vendors as per latest IDC
+report
+
+OEM Brand - from Top 5
+vendors as per latest IDC
+report
+
+Form Factor Desktop Desktop
+
+CPU 3.2 GHz Base Frequency,
+Quad Core or higher for
+Desktop
+
+*
+
+Display / Monitor Minimum 14" HD Anti-Glare
+(16:9)
+
+*
+
+Connectivity Ethernet (10/1000 Base-T)
+for Desktop
+
+*
+
+Memory 8-GB DDR4 RAM or higher,
+expandable up to 16-GB
+with 1DIMM SLOT FREE
+
+*
+
+Webcam Built-in webcam with
+minimum High Definition
+720p
+
+*
+
+HDD Minimum 500GB (or Higher)
+@ 7200rpm
+
+*
+
+Input / Output Ports One HDMI, One Ethernet
+(RJ-45), Dedicated Minimum
+5 USB 2.0 port ( In case the
+
+*
+
+                               2 / 8
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/4_Dg-lsT5x92zQt4IObAVgb1BbyiySUN5MB0KpkPeAY
+
+
+ 
+
+laptop has less than 5 USB
+2.0 ports, then a USB Hub
+with multiple USB
+connections (enabling 5
+devices plug-in through USB
+port) should be provided at
+no extra cost)
+
+Chipset Integrated with CPU or
+equivalent
+
+*
+
+Graphics Integrated Graphics *
+
+Power Source UPS -0.5 KVA with Backup
+time minimum 30 Minutes in
+case of Desktop
+
+*
+
+Keyboard Standard in case of Desktop *
+
+Touchpad Mouse in case of Desktop *
+
+Preloaded OS Windows 10 professional *
+
+In Built Microphone in case
+of Laptop
+
+NA in case of Desktop *
+
+Carry Case for Laptop NA in case of Desktop *
+
+Anti Virus For End Point Security *
+
+Monitor Monitor Among the “Leaders”
+Quadrant in the India region
+in any of the previous two
+Quarters as published in IDC
+/ Gartner / Frost and
+Sullivan report for the PC /
+Laptop / Monitors
+
+Among the “Leaders”
+Quadrant in the India region
+in any of the previous two
+Quarters as published in IDC
+/ Gartner / Frost and
+Sullivan report for the PC /
+Laptop / Monitors
+
+Type LCD *
+
+Size 15-16 inch or higher *
+
+Resolution (Pixel) 1024 x 768 or above *
+
+Multi Function Device Multi Functional Device
+(MFD)
+
+From Top 5 vendors as per
+latest IDC report
+
+From Top 5 vendors as per
+latest IDC report
+
+Function Print, Copy, Scan *
+
+Duty Cycle (Pages per
+month)
+
+3000 or more *
+
+Print Speed– Black (A4)
+(PPM)
+
+18 or more *
+
+Print Resolution (DPI) 600 x 600 *
+
+Scan Resolution (Pixel) 600 x 600 Optical *
+
+Bit/Colour Depth (Bits) 24 *
+
+Copying Speed (CPM) 18 *
+
+Copy Resolution (DPI) 600 x 600 *
+
+Medium Used Ink Tank *
+
+Custom Media Size Upto Legal *
+
+Standard Operating System
+Supported
+
+Compatible with Windows 8,
+Windows 10 and earlier
+versions of Windows (XP,
+Vista) and Linux
+
+*
+
+IRIS Device IRIS Device Available Available
+
+Device Characteristics Hand-held (Operator
+operates and hold the
+camera and subject is
+
+*
+
+                               3 / 8
+
+
+
+ 
+
+stationary)
+
+Mounting NA *
+
+Iris Diameter (mm) 211 *
+
+Spatial resolution @ 4
+Lp/mm (%)
+
+61 *
+
+Pixel Resolution (Pixels/mm) 17 *
+
+Number of simultaneous
+captured eyes (number)
+
+2 *
+
+View finder , Capture
+Volume & Exposure Time
+
+Internal with Capture
+Distance >50mm, Capture
+volume (width/height/depth)
+> 20x15x12 mm and
+Exposure Time <33 ms
+
+*
+
+Imaging wavelength (nm) 700-900 *
+
+Special Spread - Power in
+any 100nm band
+
+35 *
+
+Scan type Progressive *
+
+Image margins -Left & right
+(mm)
+
+0.50 x iris diameter *
+
+Image margins -Top &
+bottom (mm)
+
+0.25 x iris diameter *
+
+Pixel Depth (bits/pixel) 9 *
+
+Image evaluation frame rate >5 frames/sec, continuous
+image capture
+
+*
+
+Capture mode Auto capture with built-in
+quality check (incorporates
+NIST quality considerations)
+
+*
+
+Sensor signal to noise ratio
+(dB)
+
+37 *
+
+Connectivity (Total of only 1
+USB port will be available
+for connectivity and power)
+
+USB, USB-IF certified or
+Networked (TCP/IP)
+
+*
+
+Operating System
+Compatibility
+
+Linux /Windows *
+
+Power USB or Independent Power
+Supply
+
+*
+
+Weight NA for Stationary and less
+than 1 kg for Hand Held
+
+*
+
+Dimensions (mm x mm x
+mm)
+
+Max. 300 x100 x300 *
+
+Operating temperature
+Range (Degree C)
+
+0 - 49 *
+
+Operating Humidity (%RH) 10 – 90% non-condensing *
+
+Durability/Shock Resistant Yes *
+
+Degree of Protection
+(MInimum)
+
+IP 54 *
+
+Safety Standard FCC Class A, RoHS (Exempt
+Group per IEC
+62471:2006-07)
+
+*
+
+Software API Compliant with latest UIDAI
+Device Capture
+Specifications
+
+*
+
+                               4 / 8
+
+
+
+ 
+
+Linux/Windows 64 bit VDM
+ready certified by UIDAI
+
+Availability of Device
+Certification from STQC
+
+Yes *
+
+STQC Certificate number - *
+
+STQC Certificate Date - *
+
+Camera Camera Available Available
+
+Camera's Capture Type Plain live capture *
+
+Camera's Image Quality Full Frontal (0x01) as per
+ISO/IEC 19794-5
+
+*
+
+Camera's Image Resolution
+(Pixels)
+
+800 x 600 *
+
+Camera's Capture mode Manual Capture with Auto
+Focus, Auto Lighting
+Adjustment
+
+*
+
+Camera's Auto Lighting
+Adjustment
+
+Available *
+
+Camera's Native Sensor
+Resolution
+
+2.5 *
+
+Camera Connectivity High Speed USB 2.0, USB-IF
+certified
+
+*
+
+Camera Lens Fixed, SLR *
+
+Camera Power Supply Through USB *
+
+Camera Mount Tripod *
+
+Camera's Operating
+Temperature Range (
+Degree C )
+
+0 – 50 *
+
+Camera's Operating
+Humidity (%RH)
+
+10 - 90 *
+
+Camera's Durability (Shock
+Resistant)
+
+Yes *
+
+Camera Safety Standard UL *
+
+Camera's Software API Compliant with UIDAI Device
+Capture API specification
+V1.0 RC 3
+
+*
+
+Camera Operating System
+Compatibility
+
+Windows *
+
+Finger Print Device Finger Print Device Available Available
+
+Finger Print Device Capture
+Mode
+
+Plain live scan capture *
+
+Image acquisition
+Requirements
+
+Setting level 31 or higher *
+
+Finger Print Device Image
+evaluation frame rate
+
+>3 frames/sec *
+
+Finger Print Device Capture Auto capture with built-0in
+quality check (incorporates
+NIST QUALITY
+CONSIDERATIONS)
+
+*
+
+Finger Print Device Capture
+Area (mm x mm)
+
+More than 76 x 80 *
+
+Finger Print Device
+Connectivity
+
+USB 2.0, USB-IF certified *
+
+                               5 / 8
+
+
+
+ 
+
+Finger Print Device Power Through USB *
+
+Finger Print Device
+Dimension (W X H X D) (mm
+x mm x mm)
+
+160 x 160 x 160 *
+
+Finger Print Device Weight
+(Kg)
+
+less than 2.5 Kg *
+
+Finger Print Device
+Operating Temperature
+Range (Degree C)
+
+0 – 50 *
+
+Humidity (%RH) Non
+Condensing
+
+10 - 90 *
+
+Finger Print Device
+Durability (Shock Resistant)
+
+Yes *
+
+Finger Print Device Ingress
+Protection Rating (Minimum)
+
+IP 54 *
+
+Finger Print Device ,
+Availability of Device
+Certification from STQC
+
+Yes *
+
+Finger Print Device, STQC
+Certificate number
+
+- *
+
+Finger Print Device, STQC
+Certificate Date
+
+- *
+
+Finger Print Device, Safety
+Standards
+
+UL certified (if applicable) *
+
+Finger Print Device ,
+Software API
+
+Compliant with UIDAI Device
+Capture API specification
+V1.0 RC3
+
+*
+
+Finger Print Device
+Operating System
+Compatibility
+
+Windows *
+
+White Screen White Screen Available Available
+
+White Screen Size 4 x 5 Feet *
+
+No Reflecting Yes *
+
+Opaque Yes *
+
+White Screen Mounting Stand mountable *
+
+Focus Light Focus Light Available Available
+
+Focus Light Rating 60 W *
+
+Focus Light Accessories Stand, 2Mrts Wire and on/off
+Switch near the operator
+
+*
+
+Surge Protector Spike Surge Protector Spike Available Available
+
+General 6 nos. of 5A sockets (4
+Indian style + 2 Style),
+Fuse, on/off Switch and ISO
+mark
+
+*
+
+GPS Device GPS Device Available UIDAI Certified Available UIDAI Certified
+
+Accessories With all necessary required
+cables and accessories to
+connect to PC/Laptop
+
+*
+
+Special Terms and
+Conditions for Aadhar
+Enrollment Kit
+
+STC 1 -:Installation &
+commissioning:
+
+Bidder shall provide Remote
+support Facility for
+installation of Aadhaar
+Enrollment Kit
+
+*
+
+                               6 / 8
+
+
+
+ 
+
+STC 2 - Delivery Period: Bidder shall complete the
+entire delivery to consignee
+within 30 days from date of
+purchase order
+
+*
+
+STC 3 - Performance bank
+guarantee
+
+Bidder shall submit the PBG
+of 10% of the contract value
+to the purchaser within 10
+days of purchase order
+
+*
+
+STC 4 - Payments 90% of the payment shall
+be made on supply of kit to
+consignee & submission of
+PBG and remaining 10%
+shall be paid after
+acceptance of the Aadhaar
+Enrolment Kit or 15 days,
+whichever is earlier
+
+*
+
+STC 5 - Warranty Warranty for the complete
+kit except white screen,
+Focus light & surge
+protector shall be 3 years
+
+*
+
+STC 6 - SLA In case failing to
+replace/repair of faulty
+equipment’s within 7 days
+(equipment’s within
+warranty), Rs100 penalty
+per day per equipment till
+the replacement/ repair
+shall be deducted from PBG
+
+*
+
+STC 7 - Aadhaar Enrolment
+Kit
+
+Aadhaar Enrolment Kit
+comprising of specific
+make/model of device shall
+be UIDAI certified for its
+working with latest UIDAI’s
+enrolment client (ECMP)
+
+*
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Ramesh Kumar
+Sharma
+
+480001,collectorate Office
+chhindwara MP
+
+11  30
+
+Bid Specific Additional Terms and Conditions
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods
+
+and Training of operators and providing Statutory Clearances required (if any)
+2.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last three
+
+years, ending on 31st March of the previous financial year, should be as indicated in the bid document.
+Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from
+the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution shall be taken into
+account for this criteria.
+
+3.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product
+during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid
+document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a
+
+                               7 / 8
+
+
+
+ 
+
+certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant
+period shall be uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than 3
+year old, the average turnover in respect of the completed financial years after the date of constitution shall be
+taken into account for this criteria. In case of bunch bids, the OEM of CATEGORY RELATED TO primary product
+having highest bid value should meet this criterion.
+
+4.IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered
+office in India to provide after sales service support in India. The certificate to this effect should be submitted.
+
+5.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each
+Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If
+service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one
+within 30 days of award of contract. Payment shall be released only after submission of documentary evidence
+of having Functional Service Centre.
+
+6.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone
+No. for Service Support.
+
+7.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for
+Service Support.
+
+8.ISO 9001: The bidder must have ISO 9001 certification.
+9.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid
+
+document, ATC and Corrigendum if any.
+10.Timely Servicing / rectification of defects during warranty period: After having been notified of the defects /
+
+service requirement during warranty period, Seller has to complete the required Service / Rectification within 6
+days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of
+Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit
+the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the
+Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after
+which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and
+cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service /
+rectification to the Buyer.
+
+11.Bidder financial standing: The bidder should not be under liquidation, court receivership or similar
+proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid.
+
+12.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting the bid, Manufacturers
+Authorisation Form (MAF)/Certificate with OEM details such as name, designation, address, e-mail Id and Phone
+No. required to be furnished along with the bid.
+
+13.Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have regularly,
+manufactured and supplied same or similar Category Products to any Central / State Govt Organization / PSU /
+Public Listed Company for 1 year before the bid opening date. Copies of relevant contracts to be submitted along
+with bid in support of having supplied some quantity during each of the year. In case of bunch bids, the primary
+product having highest value should meet this criterion.
+
+14.Malicious Code Certificate:
+
+The seller should upload following certificate in the bid:-
+(a) This is to certify that the Hardware and the Software being offered, as part of the contract, does not contain
+Embedded Malicious code that would activate procedures to :-
+  (i) Inhibit the desires and designed function of the equipment.
+  (ii) Cause physical damage to the user or equipment during the exploitation.
+  (iii) Tap information resident or transient in the equipment/network.
+(b) The firm will be considered to be in breach of the procurement contract, in case physical damage, loss of
+information or infringements related to copyright and Intellectual Property Right (IPRs) are caused due to
+activation of any such malicious code in embedded software.
+
+15.OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25
+percent at the time of placement of contract. The purchaser also reserves the right to increase the ordered
+quantity by up to 25% of the contracted quantity during the currency of the contract at the contracted rates.
+Bidders are bound to accept the orders accordingly.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               8 / 8
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

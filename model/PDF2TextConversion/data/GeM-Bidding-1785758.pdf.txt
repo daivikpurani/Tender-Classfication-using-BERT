@@ -1,0 +1,593 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/709712
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 17:00:00
+
+Bid Opening Date/Time 27-07-2020 17:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Civil Aviation
+
+Department Name Na
+
+Organisation Name Directorate General Of Civil Aviation (dgca)
+
+Office Name Dgca Hqrs
+
+Total Quantity 2
+
+Item Category breath alcohol analyzers
+
+OEM Average Turnover (Last 3 Years)  1 Lakh (s)
+
+Experience Criteria  1 Year (s)
+
+MSE Exemption for Years Of Experience  Yes
+
+Startup Exemption for Years Of Experience  Yes
+
+Document required from seller  Experience Criteria,Past Performance,Certificate (Requested in
+ATC),OEM Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the
+buyer
+
+Past Performance  50 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM {themselves or
+through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central
+/ State Govt Organization / PSU / Public Listed Company for number of years as indicated in the bid document before the
+bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some
+quantity during each of the year. In case of bunch bids, the category of primary product having highest value should
+meet this criterion.
+
+                               1 / 6
+
+
+
+ 
+
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product during the
+last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document.
+Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the
+Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with
+the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have supplied same or similar
+Category Products for 50% of bid quantity, in at least one of the last three years before the bid opening date to any
+Central / State Govt Organization / PSU / Public Listed Company. Copies of relevant contracts (proving supply of
+cumulative order quantity in any one year) to be submitted along with bid in support of quantity supplied in the relevant
+year. In case of bunch bids, the category related to primary product having highest bid value should meet this criterion.
+
+Breath Alcohol Analyzers ( 2 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+TECHNOLOGY /
+PERFORMANCE
+
+Sensor Technology ElectroChemical - Fuel Cell
+(alcohol specific)
+
+ElectroChemical - Fuel Cell
+(alcohol specific)
+
+Sampling Method Deep Lung Exhalation
+Method
+
+*
+
+Sampling Error Detection Alarm on wrong sampling *
+
+Sampling modes Both Active and Passive *
+
+Measuring Range [mg /
+100 ml BAC (Blood
+Alcohol Concentration)]
+
+0 to 400 0 to 400
+
+Accuracy +/- 5 % or better *
+
+Drift of the breath
+analyzer in 6 months
+period (mg / 100 ml BAC)
+
+0 0.0 - 0.0 Or lower
+
+Easily replaceable
+mouthpiece with Sputum
+Trap
+
+yes *
+
+Sample Taking Duration 4 *
+
+Analytical Response Time
+(At '0' level of Alcohol)
+
+5 *
+
+Analytical Response Time
+for positive result
+
+5 *
+
+Recovery Time at (1/2)
+mg/ltr
+
+2 *
+
+Warm up Time (after putting
+on)
+
+5 *
+
+Time required for re-
+calibration
+
+12 *
+
+Barometric Pressure Range
+(hpa or millibar)
+
+600 *
+
+Shelf Life of Fuel Cell 5 *
+
+RoHS Compliant Yes *
+
+The Equipment meet RFI
+requirement as per
+
+Yes *
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/RKu9aCy7spzW7VepXDStqu9olF4mAUSdgCansWtcBsg
+
+
+ 
+
+EN:5008-1/1992(emission)
+and EN
+50082-1:1997(immunity) or
+equivalent requirements
+
+PHYSICAL Weight 200 *
+
+Size ( mm x mm x mm ) - *
+
+BATTERY OF ANALYZER Power Source Rechargeable Battery and
+also work through
+automobile 12 V DC Power.
+
+*
+
+Chemistry of Rechargeable
+Battery
+
+Li-ion *
+
+Battery Voltage 4.8 *
+
+Battery Backup Time
+(continuous duty)
+
+30 *
+
+Number of Spare
+Rechargeable Batteries
+supplied with the
+instrument
+
+0 *
+
+Low Battery indication yes *
+
+DISPLAY / INDICATOR /
+STORAGE / INTERFACE
+
+Display Type TFT LCD *
+
+Display Size 2 *
+
+Availability of audible
+beeper for over range, low
+battery etc
+
+yes *
+
+Record Entry Through Integrated/Touch
+Screen
+
+Through Integrated/Touch
+Screen
+
+Minimum Record Fields Full Information as per the
+user's requirement such as
+Driver Name, Vehicle
+number, inspector name,
+test report with time, date,
+geolocation, instrument id,
+etc
+
+*
+
+Record Memory
+(Minimum)
+
+20000 20000
+
+Record Data Downloadable
+to PC
+
+yes *
+
+Data Interface USB *
+
+GPS No *
+
+If yes, Capable to display
+the geolocation of test
+inspection / location
+
+NA *
+
+Camera No Yes, No
+
+If yes, Capable to capture
+the clear image of test
+target
+
+NA *
+
+PRINTER Printer With With
+
+Type of Printer Internal Thermal Printer Internal Thermal Printer
+
+Print Resolution (dpi) 200 *
+
+Printer consists of Inbuilt
+Rechargeable Battery,
+Paper for offence printouts,
+Charger
+
+yes *
+
+                               3 / 6
+
+
+
+ 
+
+Minimum number of
+printouts that can be taken
+with the paper available
+with the Printer
+
+100 *
+
+"Minimum number of
+printouts that can be taken
+with single charge of the
+printer battery (Hint:-
+Minimum 60 prints, if 'With
+Printer' May indicate '0' if
+not applicable)"
+
+100 *
+
+Bis Registration number for
+Printer under CRS of MeitY
+
+- *
+
+WARRANTY Warranty 2 2, 3, 4, 5 Or higher
+
+STATUTORY REQUIREMENTS The equipment can be used
+as an evidential instrument
+for Traffic Law Enforcement,
+The instrument is hand
+held, portable and easy to
+operate
+
+Yes *
+
+If Yes, the equipment meets
+the requirements of the
+applicable latest Central
+Motor Vehicle Rules and all
+Govt notifications
+
+yes *
+
+Immunity to RF
+interface,meets
+requirement as per
+EN:5008-/1992(emission)
+and EN:50082-1:1997
+(immunity) or equivalent
+
+yes *
+
+OPERATING CONDITIONS Minimum Operating
+Temperature
+
+-20 *
+
+Maximum Operating
+Temperature
+
+70 *
+
+Relative Humidity Non
+Condensing (%)
+
+90 *
+
+ENVIRONMENTAL /
+CERTIFICATION
+
+Conformity to Dry Heat test
+at 50 degree C for 16 hours
+as per IS :9000 latest
+
+Yes *
+
+Conformity to Damp heat at
+40 degree C - 95% RH
+(cyclic test): two cycles of
+16+8 hours as per IS: 9000
+latest
+
+Yes *
+
+Conformity to Cold test at -
+5 / -10 / - 15 / -20 degree C
+(as applicable) for 4 hours
+as per IS: 9000 latest
+
+Yes *
+
+Availability of Test Reports
+from Central Govt / NABL
+approved / ILAC accredited
+Lab to prove conformity to
+the specification
+
+Yes *
+
+Test Report Number and
+Date
+
+- *
+
+Name of the Lab and
+Address
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+
+                               4 / 6
+
+
+
+ 
+
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Bhagaji Vishram
+Dangat
+
+411028,Govt. Gliding Centre,
+Saswad Road, Hadapsar
+
+2  30
+
+Bid Specific Additional Terms and Conditions
+1.IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered
+
+office in India to provide after sales service support in India. The certificate to this effect should be submitted.
+2.Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection
+
+Agency would be conducting inspection of stores before acceptance:
+Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in
+ATC): Yes
+Post Receipt Inspection at consignee site before acceptance of stores: Yes
+
+3.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid
+document, ATC and Corrigendum if any.
+
+4.ISO 9001: The bidder must have ISO 9001 certification.
+5.Material Test Certificate Should Be Sent Along with The Supply. The Material Will Be Checked by Buyer’s Lab &
+
+the Results of the Lab will be the Sole Criteria for Acceptance of the Item.
+6.The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test
+
+certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid
+document.
+
+7.To be eligible for award of contract, Bidder / OEM must possess following Certificates / Test Reports on the date
+of bid opening (to be uploaded with bid): Yes.
+
+8.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last three
+years, ending on 31st March of the previous financial year, should be as indicated in the bid document.
+Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from
+the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution shall be taken into
+account for this criteria.
+
+9.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product
+during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid
+document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a
+certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant
+period shall be uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than 3
+year old, the average turnover in respect of the completed financial years after the date of constitution shall be
+taken into account for this criteria. In case of bunch bids, the OEM of CATEGORY RELATED TO primary product
+having highest bid value should meet this criterion.
+
+10.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each
+Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If
+service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one
+within 30 days of award of contract. Payment shall be released only after submission of documentary evidence
+of having Functional Service Centre.
+
+11.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone
+No. for Service Support.
+
+12.Bidder / OEM has to give an undertaking that after expiry of warranty period, it will provide AMC Service for next 
+2 years for the offered products at the rate not more than 3 % of contract price per annum. Buyer reserves the
+right to enter into an AMC agreement ( covering preventive maintenance and servicing)with the Successful
+Bidder / OEM after expiry of the Warranty period at rate as mentioned above and the payment for the AMC
+charges would be made Annually after rendering of the AMC Services of the relevant AMC period. Performance
+Security of the successful bidder shall be forfeited if it fails to accept the AMC contract when called upon by the
+buyer. The original Performance Security of contract will be returned only after submission and verification of
+AMC Performance Security for 3% of total AMC value valid up to AMC period plus 2 months (if there is no other
+claim). (Undertaking of acceptance to be uploaded with bid).
+
+13.Bidder / OEM has to give an undertaking that after expiry of warranty period, it will provide Comprehensive
+Maintenance Service for next 2 years for the offered products at the rate not more than 10 % of contract price
+
+                               5 / 6
+
+
+
+ 
+
+per annum. Buyer reserves the right to enter into a CMC agreement with the Successful Bidder / OEM after
+expiry of the Warranty period at above mentioned rate and the payment for the CMC charges would be made 
+Annually after rendering of the CMC Services of the relevant CMC period. Performance Security of the successful
+bidder shall be forfeited if it fails to accept the CMC contract when called upon by the buyer. CMC would include
+cost of 10000 (Upload the undertaking). The original Performance Security of contract will be returned only after
+submission and verification of AMC Performance Security for 3% of total CMC value valid up to CMC period plus 2
+months (if there is no other claim).
+
+14.Purchase preference to Micro and Small Enterprises (MSEs) from the State of Bid Inviting Authority : Purchase
+preference will be given to MSEs as Micro and Small Enterprises from the State of Bid inviting Authority whose
+credentials are validated online through Udyog Aadhaar for that product category. If the bidder wants to avail
+the Purchase preference, the bidder must be the manufacturer of the offered product in case of bid for supply of
+goods. Traders are excluded from the purview of Public Procurement Policy for Micro and Small Enterprises. In
+respect of bid for Services, the bidder must be the Service provider of the offered Service. Relevant documentary
+evidence in this regard shall be uploaded along with the bid in respect of the offered product or service. If L-1 is
+not an MSE and MSE Seller (s) has/have quoted price within L-1+ 10 % of margin of purchase preference /price
+band defined in relevant policy, such Seller shall be given opportunity to match L-1 price and contract will be
+awarded for percentage of 10% of total value as defined/ decided in relevant policy.
+
+15.The Bidder / OEM {themselves or through reseller(s)}, should have executed project for supply and installation /
+commissioning of same or similar Category Products during preceding 3 financial years (i.e. current year and
+three previous financial years) as on opening of bid, as per following criteria:
+ 
+(i) Single order of at least 35% of estimated bid value; or
+(ii) Two orders of at least 20% each of estimated bid value; or
+(iii) Three orders of at least 15% each of estimated bid value.
+Satisfactory Performance certificate issued by respective Buyer Organization for the above Orders should be
+uploaded with bid. In case of bunch bids, the Category related to primary product having highest bid value
+should meet this criterion
+
+16.Warranty period of the supplied products shall be 1 years from the date of final acceptance of goods or after
+completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee
+location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The
+seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller
+should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service
+group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to
+be uploaded along with the bid
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,408 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/705833
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 25-07-2020 17:00:00
+
+Bid Opening Date/Time 25-07-2020 17:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Ministry Of Coal
+
+Department Name Central Mine Planning And Design Institute Limited
+
+Organisation Name Central Mine Planning And Design Institute Limited
+
+Office Name Regional Institute 1
+
+Total Quantity 2
+
+Item Category sound measuring apparatus or decibel meter
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years Of Experience  Yes
+
+Startup Exemption for Years Of Experience  Yes
+
+Document required from seller  Experience Criteria,Past Performance,OEM
+Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  50 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+Estimated Bid Value  100000
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 5
+
+
+
+ 
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 50% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Sound Measuring Apparatus Or Decibel Meter ( 2 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+PERFORMANCE Measuring range
+(dB)
+
+30-130 30-130, 20-140, 50-114
+
+Number of steps 3 *
+
+Type of micro phone condenser piezoelectric,
+condenser, electret,
+dynamic
+
+Resolution (dB) 0.1 0.01, 0.1
+
+Peak sound level (dB) 50 *
+
+Accuracy of dB
+meter (dB)
+
+±1 ±0.5, ±1
+
+Performance
+categories (class) of
+dB meter
+
+Class-1 Class-1
+
+FEATURES Real time clock with
+calendar
+
+No Yes, No
+
+Display LED LCD, LED, TFT, OLED
+
+field calibration unit without with, without
+
+Frequency weightings
+Curve
+
+A-weighting curve,C-
+weighting curve
+
+*
+
+Time weighings fast,slow *
+
+Remote operation
+through serial
+
+Yes Yes
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/4aCrrcPDmOmrxTXKsfUErzTBbBtWk78gob-b_5RmsMQ
+
+
+ 
+
+interface RS
+232/USB,
+Compatibility with
+mini computer using
+terminal software
+
+Storage capacity
+(number of records)
+
+0 *
+
+GENERAL Dimension LxWxH (mm
+x mm x mm)
+
+- *
+
+Weight of dB meter 255 *
+
+Any other features,if
+applicable
+
+- *
+
+POWER/BATTERY Type of battery Alkaline(Non-
+Rechrgeable)
+
+*
+
+Capacity of battery
+(mAH)
+
+- *
+
+Battery back-up in Hrs 70 *
+
+Provision of charger to
+work on AC supply
+
+NA *
+
+Auto cut off on low
+battery
+
+yes *
+
+OPERATING CONDITION Minimum operating
+temperature
+
+0 *
+
+Maximum operating
+temperature
+
+40 *
+
+operating humidity 80 *
+
+ACCESSORIES Standard accessories Battery charger,
+Microphone,Briefcase
+type carrying case,
+Windshield,Operation
+Manual
+
+*
+
+SERVICE Warranty 2 1, 2, 3, 4
+
+CERTIFICATION Indian standard for dB
+meter
+
+Conforming to
+IS:15575/(Pt.1 & Pt2)
+2005
+
+*
+
+ISI marked No Yes, No
+
+CML number 0 *
+
+TEST REPORT DETAILS Availability of Type
+Test Report from
+central Govt/NABL/ILAC
+Accredited Lab to prove
+conformity to the
+specification
+
+No *
+
+Test report No and date
+(Not a part of biddable
+parameter)
+
+- *
+
+                               3 / 5
+
+
+
+ 
+
+Name and Address of
+Lab (Not a part of
+biddable parameter)
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Anand Shekhar 713304,CMPDI LTD.,
+REGIONAL INSTITUTE-1, G.
+T. ROAD (WEST), ASANSOL
+
+2  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+2.Bidder / OEM has to give an undertaking that after expiry of warranty period, it will provide
+AMC Service for next 5 years for the offered products at the rate not more than 10 % of
+contract price per annum. Buyer reserves the right to enter into an AMC agreement (
+covering preventive maintenance and servicing)with the Successful Bidder / OEM after
+expiry of the Warranty period at rate as mentioned above and the payment for the AMC
+charges would be made Annually after rendering of the AMC Services of the relevant AMC
+period. Performance Security of the successful bidder shall be forfeited if it fails to accept
+the AMC contract when called upon by the buyer. The original Performance Security of
+contract will be returned only after submission and verification of AMC Performance Security
+for 10% of total AMC value valid up to AMC period plus 2 months (if there is no other claim).
+(Undertaking of acceptance to be uploaded with bid).
+
+3.Bidders shall quote only those products in the bid which are not obsolete in the market and
+has at least 7 years residual market life i.e. the offered product shall not be declared end-of-
+life by the OEM before this period.
+
+4.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents
+sought in the Bid document, ATC and Corrigendum if any.
+
+5.Successful bidder will have to ensure that adequate number of dedicated technical service
+personals / engineers are designated / deployed for attending to the Service Request in a
+time bound manner and for ensuring Timely Servicing / rectification of defects during
+warranty period, as per Service level agreement indicated in the relevant clause of the bid.
+
+6.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 15 days time limit. If the Seller fails to complete
+service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product
+shall be charged as penalty for each week of delay from the seller. Seller can deposit the
+penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty
+amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than
+
+                               4 / 5
+
+
+
+ 
+
+10% of the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+7.The bidder is required to upload, along with the bid, all relevant certificates such as BIS
+licence, type test certificate, approval certificates and other certificates as prescribed in the
+Product Specification given in the bid document.
+
+8.To be eligible for award of contract, Bidder / OEM must possess following Certificates / Test
+Reports on the date of bid opening (to be uploaded with bid): Authorization Certificate from
+OEM, Undertaking for submission of Calibration Certificate from NABL Accredited Lab along
+with supply of equipment, Undertaking for submission of Manufacturer's Test Reports along
+with supply of equipment, Undertaking that they have not been banned by any Govt / PSU /
+Private entity.
+
+9. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+10.For fulfilling the experience criteria any one of the following documents may be considered
+as valid proof for meeting the experience criteria:
+a. Purchase Order copy along with Invoice(s) with self-certification by the bidder that
+supplies against the invoices have been executed.
+b. Execution certificate by client with order value.
+c. Any other document in support of order execution like Third Party Inspection release note,
+etc.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

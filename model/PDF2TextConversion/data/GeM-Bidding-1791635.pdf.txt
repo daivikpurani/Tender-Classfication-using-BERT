@@ -1,0 +1,493 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/715042
+  Dated: 17-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 16:00:00
+
+Bid Opening Date/Time 27-07-2020 16:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Health And Family Welfare
+
+Department Name Department Of Health And Family Welfare
+
+Organisation Name Central Health Service Ministry Of Health And Family Welfare
+
+Office Name Safdarjung Hospital
+
+Total Quantity 50
+
+Item Category Infusion Pump Volumetric/ Syringe Based
+
+Experience Criteria  1 Year (s)
+
+MSE Exemption for Years Of Experience  Yes
+
+Startup Exemption for Years Of Experience  Yes
+
+Document required from seller  Experience Criteria
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the
+buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank Bank Of Baroda
+
+EMD Percentage(%) 2.00
+
+EMD Amount 49000
+
+ePBG Detail
+
+Advisory Bank Bank Of Baroda
+
+ePBG Percentage(%) 10.00
+
+Duration of ePBG required (Months). 14
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant
+category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for
+Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+
+                               1 / 5
+
+
+
+ 
+
+Medical Superintendent
+Safdarjung Hospital, New Delhi
+(Medical Superintendent)
+
+Splitting
+
+  Bid splitting not applied.  
+
+MSE Purchase Preference
+
+MSE Purchase Preference Yes
+
+ 
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM {themselves or
+through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central
+/ State Govt Organization / PSU / Public Listed Company for number of years as indicated in the bid document before the
+bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some
+quantity during each of the year. In case of bunch bids, the category of primary product having highest value should
+meet this criterion.
+2. Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to MSEs as defined in
+Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued by Ministry of
+Micro, Small and Medium Enterprises and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder
+wants to avail the Purchase preference, the bidder must be the manufacturer of the offered product in case of bid for
+supply of goods. Traders are excluded from the purview of Public Procurement Policy for Micro and Small Enterprises. In
+respect of bid for Services, the bidder must be the Service provider of the offered Service. Relevant documentary
+evidence in this regard shall be uploaded along with the bid in respect of the offered product or service. If L-1 is not an
+MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of purchase preference /price band defined in
+relevant policy, such Seller shall be given opportunity to match L-1 price and contract will be awarded for percentage of
+25% of total value.
+
+Infusion Pump Volumetric/ Syringe Based ( 50 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Availability of any of
+Certification such as ISO
+/ European-CE / US-FDA /
+CE
+
+YES YES
+
+Details of the Certifications
+such as type of
+certification,number,date
+and validity
+
+- *
+
+Conformity to Standards YES *
+
+Performance Parameters Type of Infusion Pump Syringe Infusion Pump Syringe Infusion Pump
+
+Technology (of
+operation)
+
+Programmable Mode Programmable Mode
+
+Flow rate Range with
+increment in ml/hr
+
+0.1 to 240 ml/hr(10 ml
+syringe)
+
+0.1 to 240 ml/hr(10 ml
+syringe)
+
+Infused Volume Range in
+ml
+
+0.1-999(0.1 ml/hr
+increment)
+
+0.1-999(0.1 ml/hr
+increment)
+
+Flow rate & volume flow rate & volume to be
+infused should be
+configured to limit the
+
+*
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/V2FsSEUvjQX7Q63p6R3vZxzJWyA3WotlmxUtrEj7efk
+
+
+ 
+
+maximum allowable range
+
+KVO (Keep Vein Open)
+Rate in ml/hr
+
+5 5
+
+Accuracy in % 1.8 1.8
+
+Bolus Type Auto Bolus (For Syringe
+based)
+
+Auto Bolus (For Syringe
+based)
+
+Bolus Rate Range in
+ml/hr
+
+800 ml/hr for 50 ml syringe 800 ml/hr for 50 ml syringe
+
+Bolus Volume in ml 0.1 ml to 5 ml in 0.1 ml
+increments(auto bolus)
+
+0.1 ml to 5 ml in 0.1 ml
+increments(auto bolus)
+
+Display Type LCD LCD
+
+Size of Display (length x
+width) (mm x mm)
+
+- *
+
+Contents of Display - *
+
+Alphanumeric Programming
+Key Board
+
+NA (for touch screen) *
+
+Operating and
+Transportation Temperature
+range
+
+- *
+
+Humidity Conditions
+(operating and transport &
+storage) (15 to 90%)
+
+YES *
+
+Pressure
+Conditions(operating and
+transport & storage) (50 to
+106 kpa)
+
+YES *
+
+Power sources Battery operated *
+
+Battery Type Reachareable lithium
+polymer
+
+Reachareable lithium
+polymer
+
+Battery Rating - *
+
+Battery run time at normal
+delivery rate in hours
+
+8 *
+
+Battery run time at highest
+delivery rate in hours
+
+2-3 hrs *
+
+Battery recharge time (full
+charge) in hours
+
+10 *
+
+Power Supply 220-240 V AC,
+50 Hz) (3 wire grounded
+system)
+
+YES *
+
+Eectrical Protection (Class I,
+Type CF)
+
+YES *
+
+Fuse Type 220V 2A*2, 12V 2A*2 220V 2A*2, 12V 2A*2
+
+Maximum Power
+Consumption in watt
+
+25 *
+
+Fitting of device on the
+IV bottle and bag
+
+No No
+
+IR Sensor to detect the
+abnormality in IV Bag or
+bottle
+
+No No
+
+Audible and Visual alarm
+facility
+
+Should have an audible and
+visual alarm wtth automatic
+pump stop function for the
+following : pressure drop, air
+
+*
+
+                               3 / 5
+
+
+
+ 
+
+standby, volume infused,
+door open, battery Pre-
+alarm, recall, invalid rate,
+empty etc
+
+Availability of Infusion
+mode setting(rate
+mode,drip mode,wait
+mode,time mode)
+
+Yes Yes
+
+Protection against fluid
+ingress - IP*1 - Protected
+against vertically falling
+drops of water
+
+YES YES
+
+Capability of Motioning
+of empty Intravenous
+bags or bottles
+
+No No
+
+Warranty in Years 1 1
+
+Dimensional & Material
+Parameters
+
+Dimension (Excluding power
+cables)(mm x mm x mm)
+
+- *
+
+Weight(with clamp base)in
+kg
+
+1.8 *
+
+Material (Outer Shell) ABS PLASTIC *
+
+Additional Parameters Pole clamp Multi-function
+mounting clamp
+
+YES *
+
+Quick titration of rate or
+dose with volume timing
+programming
+
+YES *
+
+Compatible with any
+standard (PVC) infusion sets
+available in local indian
+market
+
+YES *
+
+Features : compatible with all standard
+syringes (b) excellent
+injection function and
+operation, even small
+volume injection is accurate
+(c) dual cpu monitoring
+function (d)accurate and
+sensitive pressure sensor
+detects occlusion pressure
+accurately (e) smart
+pulsation compensation
+function
+
+*
+
+No of infusion sets supplied
+with the single unit
+
+0 *
+
+Packing (Individual) YES *
+
+Reports Type tests reports from a
+Central Govt lab OR
+International Laboratory
+Accreditation Cooperation
+(ILAC)or their worldwide
+affiliated/ recognized labs
+OR NABL approved lab
+
+YES *
+
+Test Report No - *
+
+Test Report Date - *
+
+Name and complete address
+of the Lab
+
+- *
+
+Copy of certificates to be YES *
+
+                               4 / 5
+
+
+
+ 
+
+provided to buyer on
+demand after placement of
+order (Applicable if
+availability of test report
+indicated as YES, otherwise
+put NA)
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Shalabh Kumar 110029,OFFICE OF THE MEDICAL
+SUPERINTENDENT SAFDARJUNG
+HOSPITAL NEW DELHI-110029
+
+50  30
+
+Bid Specific Additional Terms and Conditions
+1.If the agency is registered under MSME or NSIC, then EMD exemption certificate needs to be enclosed.
+2.Make in india specific authorisation certificate needs to be enclosed.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

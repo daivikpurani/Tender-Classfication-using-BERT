@@ -1,0 +1,2587 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - TenderforServer+VMWareforNVLI-228
+
+
+Supply & Installation of Server + VMWare Software 
+ 
+
+Page 1 of 26  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Centre for Development of Advanced Computing 
+A Scientific Society of Ministry of Electronics & Information Technology, 
+
+Government of India 
+
+Innovation Park, Panchvati, Pashan, 
+
+Pune 411 008. 
+
+Tel: +91-20-25503108 
+
+www.cdac.in 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tender No: CDAC-IP/Server+VMWare/2018/228 
+
+ 
+
+C-DAC invites ONLINE bids for Supply, Installation & Commissioning of Server: Compute Nodes- 2U Rack 
+Mountable Server and VMWare Software for CDAC Pune. 
+
+ 
+ 
+
+Prospective Bidders may download the Tender Document from www.cdac.in / 
+
+https://eprocure.gov.in/eprocure/app.  Bidders a r e  a d v i s e d  t o  go  through the i n s t r u c t i o n s  
+
+p r o v i d e d  a t  Instructions for online Bid Submission’ and submit duly filled bids online on the website  
+
+https://eprocure.gov.in/eprocure/app as per the schedule given in the Tender Document; along with a 
+
+Tender document fee of Rs. 1,000/- (non-refundable) by Demand Draft favouring C-DAC, Pune payable at 
+
+Pune. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+
+
+Supply & Installation of Server + VMWare Software 
+ 
+
+Page 2 of 26  
+
+ 
+
+TENDER SCHEDULE 
+
+ 
+
+Tender No: CDAC IP/Server+VMWare/2018/228 
+
+Name of the Institute Centre for Development of Advanced Computing, Pune 
+411008. 
+
+Place of Supply, Installation & Commissioning,  
+
+Support etc. 
+Centre For Development of Advanced Computing, 
+
+Innovation Park, Panchvati, Pashan Road, PUNE. 
+
+Last Date of Submission of Bids  June 11,2018 upto  1500 Hrs 
+
+Date of Opening of Technical Bids  June 12, 2018  @ 1530 Hrs 
+
+Place of Opening of Technical Bids C-DAC, Pune 411 008 
+
+Date of Opening of Commercial Bids will be informed later 
+
+ 
+Instruction for Online Bid Submission: 
+
+The bidders are required to submit soft copies of their bids electronically on the CPP Portal, using valid 
+
+Digital Signature Certificates. The instructions given below are meant to assist the bidders in registering 
+
+on the CPP Portal, prepare their bids in accordance with the requirements and submitting their bids 
+
+online on the CPP Portal. More information useful for submitting online bids on the CPP Portal may be 
+
+obtained at:  https://eprocure.gov.in/eprocure/app. 
+
+ 
+
+REGISTRATION: 
+
+• Bidders are required to enrol on the e-Procurement module of the Central Public Procurement 
+
+Portal (URL: https://eprocure.gov.in/eprocure/app) by clicking on the link ̀ Click here to Enrol’. Enrolment 
+
+on the CPP Portal is free of charge. 
+
+• As part of the enrolment process, the bidders will be required to choose a unique username and 
+
+assign a password for their accounts. 
+
+• Bidders are advised to register their valid email address and mobile numbers as part of the registration 
+
+process. These would be used for any further communication from the CPP Portal. 
+
+• Upon enrolment, the bidders will be required to register their valid Digital Signature Certificate (Class II 
+
+or Class III Certificates with signing key usage) issued by any Certifying Authority recognized by CCA India 
+
+with their profile. 
+
+• Only one valid DSC should be registered by a bidder. Please note that the bidders are responsible to 
+
+ensure that they do not lend their DSCs to others, which may lead to misuse. 
+
+• Bidder then logs into the site through the secured login by entering their user ID / password and the 
+
+password of the DSC / eToken. 
+
+ 
+
+SEARCHING FOR TENDER DOCUMENTS: 
+
+• There are various search options built in the CPP Portal, to facilitate bidders to search active tenders 
+
+by several parameters. These parameters could include Tender ID, Organization Name, Location, Date, 
+
+Value, etc. There is also an option of advanced search for tenders, wherein the bidders may combine a 
+
+number of search parameters such as organization name, form of contract, location, date, other 
+
+keywords etc. to search for a tender published on the CPP Portal. 
+
+• Once the bidders have selected the tenders they are interested in, they may download the required 
+
+documents / tender schedules. These tenders can be moved to the respective `My Tenders’ folder. 
+
+This would enable the CPP Portal to intimate the bidders through SMS / E-mail in case there is any 
+
+corrigendum issued to the tender document. 
+
+• The bidder should make a note of the unique Tender ID assigned to each tender, in case they want to 
+
+obtain any clarification / help from the Helpdesk. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Supply & Installation of Server + VMWare Software 
+ 
+
+Page 3 of 26  
+
+ 
+
+ 
+
+ 
+
+ 
+
+PREPARATION OF BIDS: 
+
+ 
+
+• Bidder should take into account corrigendum published if any on the tender document before submitting 
+
+their bids. 
+
+• Please go through the tender advertisement and the tender document carefully to understand the 
+
+documents required to be submitted as part of the bid. Please note the number of covers in which the 
+
+bid documents have to be submitted, the number of documents – including the names and content of 
+
+each of the document that need to be submitted. Any deviations from these may lead to rejection of the 
+
+bid. 
+
+• Bidder, in advance, should get ready the bid documents to be submitted as indicated in the tender 
+
+document / schedule and generally, they can be in PDF / XLS / RAR / DWF formats. Bid documents 
+
+may be scanned with 100dpi with black and white option. 
+
+• To avoid the time and effort required in uploading the same set of standard documents which are 
+
+required to be submitted as a part of every bid, a provision of uploading such standard documents (e.g. 
+
+PAN card copy, annual reports, auditor certificates etc.) has been provided to the bidders. Bidders can 
+
+use `My Space’ area available to them to upload such documents. These documents may be directly 
+
+submitted from the `My Space’ area while submitting a bid, and need not be uploaded repeatedly. This 
+
+will lead to a reduction in the time required for bid submission process. 
+
+ 
+ 
+
+SUBMISSION OF BIDS: 
+ 
+
+• Bidder should log into the site well in advance for bid submission so that he/she upload the bid in time 
+
+i.e. on or before the bid submission time. Bidder will be responsible for any delay due to other issues. 
+
+• The bidder has to digitally sign and upload the required bid documents one by one as indicated in the 
+
+tender document. 
+
+• Bidder has to select the payment option as `offline’ to pay the tender fee / EMD as applicable and enter 
+
+details of the instrument(s). 
+
+• Financial bids to be submitted in PDF format. 
+
+• The server time (which is displayed on the bidders’ dashboard) will be considered as the standard 
+
+time for referencing the deadlines for submission of the bids by the bidders, opening of bids etc. 
+
+The bidders should follow this time during bid submission, 
+
+• All the documents being submitted by the bidders would be encrypted using PKI encryption techniques 
+
+to ensure the secrecy of the data. The data entered cannot be viewed by unauthorized persons until 
+
+the time of bid opening. The confidentiality of the bids is maintained using the secured Socket Layer 
+
+128 bid encryption technology. Data storage encryption of sensitive fields is done. 
+
+• The uploaded tender documents become readable only after the tender opening by the authorized bid 
+
+openers. 
+
+• Upon the successful and timely submission of bids, the portal will give a successful bid submission 
+
+message and a bid summary will be displayed with the bid no. and the date & time of submission 
+
+of the bid with all other relevant details. 
+
+ 
+ 
+
+ASSISTANCE TO BIDDERS: 
+
+ 
+
+• Any queries relating to the tender document and the terms and conditions contained therein should be 
+
+addressed to the Tender Inviting Authority for a tender or the relevant contact person indicated in the 
+
+Tender. 
+
+• Any queries relating to the process of online bid submission or queries relating to CPP Portal in general 
+
+may be directed to the 24*7 CPP Portal Helpdesk. The contact number for the helpdesk is 1800 233 
+
+7315. 
+
+ 
+
+
+
+Supply & Installation of Server + VMWare Software 
+ 
+
+Page 4 of 26  
+
+ 
+
+ 
+ 
+
+GENERAL INSTRUCTIONS TO THE BIDDERS: 
+
+ 
+
+• The tenders will be received online through portal https://eprocure.gov.in/eprocure/app. In the 
+
+Technical Bids, the bidders are required to upload all the documents in .pdf format. 
+
+• Possession of Valid Class II/III Digital Signature Certificate (DSC) in the form of smart card/ e-Token 
+
+in the company’s name is a prerequisite for registration and participating in the bid submission 
+
+activities through  https://eprocure.gov.in/eprocure/app. Digital Signature Certificates can be obtained 
+
+from the authorized certifying agencies, details of which are available in the web site 
+
+https://eprocure.gov.in/eprocure/app under the link `Information about DSC’. 
+
+ 
+
+Tenderers are advised to follow the instructions provided in the `Instructions to the Tenderers for the e-
+
+Submission of the bids online through the Central Public Procurement Portal for e-Procurement at 
+
+https://eprocure.gov.in/eprocure/app. 
+
+
+
+Supply & Installation of Server + VMWare Software 
+ 
+
+Page 5 of 26  
+
+ 
+
+SECTION I: INVITATION FOR BIDS (IFB) 
+
+ 
+
+1. Centre for Development of Advanced Computing (C-DAC) - is a scientific society of Department of 
+Electronics and Information Technology (DeitY) under the administrative control of Ministry of 
+
+Electronics & Information Technology, Government of India. C-DAC invites `ONLINE’ bids from 
+
+eligible bidders for Supply, Installation & Commissioning of Server: Compute Nodes- 2U Rack 
+
+Mountable Server and VMWare Software, as per schedule of requirements, terms and conditions 
+
+stipulated in this document. 
+
+2. Contact information: 
+
+Material Management Group 
+
+Centre for Development of Advanced Computing (C-DAC) Innovation Park 
+
+Panchvati, Pashan, Pune 411 008.  
+
+Maharashtra, INDIA 
+
+Tel No.: +91-20–25503108 
+
+E-mail: mmg@cdac.in  
+ 
+
+3. Two bid System – Online submission through https://www.eprocure.gov.in/eprocure/app 
+
+The two-ebid system will be followed for this tender. In this system, bidder must submit their offer 
+
+- online in separate e-packets as explained below: 
+
+4. Online - Envelope No. 1: "Technical eBid" shall contain: (PDF format only) 
+
+a. Scanned copy of Demand Draft towards tender fee of Rs. 1,000/- (Rupees One Thousand 
+Only) drawn in favour of C-DAC payable at Pune. (The DD must reach physically at the 
+
+place of Opening of the Tender on or before the Due Date & Time of the Tender) 
+
+b. Scanned copy of Demand draft/Bank Guarantee towards Earnest Money Deposit of 
+Rs.90,000/- (Rupees Ninety Thousand only) drawn in favour of C-DAC payable at Pune. (The 
+
+Demand Draft/bank Guarantee must reach physically at the place of Opening of the Tender 
+
+on or before the Due Date & Time of the Tender Submission) 
+
+c. The bidder registered with National Small Industries Corporation (NSIC) may claim 
+exemption from submission of EMD. In this case, the bidder must upload copy of valid 
+
+registration certificate from NSIC (valid for the products required by C-DAC). 
+
+d. Duly filled Technical Bid with proper seal and signature of the authorised person (with 
+name, designation, email id & contact no.) The authority letter, as per the format attached 
+
+at Annexure – D 
+
+e. A copy of Certificate of Incorporation, Partnership Deed / Memorandum and Articles of 
+Association / any other equivalent document showing date and place of incorporation, as 
+
+applicable. 
+
+f. Copy of at least one supply order / installation report in the name of bidder or their principal 
+manufacturer indicating that the bidder/ principal manufacturer has supplied and installed 
+
+successfully in India - Hardware & Software of similar nature in Schedule of Requirement. 
+
+
+
+Supply & Installation of Server + VMWare Software 
+ 
+
+Page 6 of 26  
+
+ 
+
+g. Only the principal manufacturers or their authorised system integrators are allowed to bid for 
+the items as mentioned in the tender document. The specific authorisation letter from 
+
+Principal/s clearly indicating that the bidder is competent to sell & provide services for the 
+
+items mentioned in the Scope of Supply given in this tender document. The undertaking on 
+
+the letterhead of Principal Manufacturer as per format given in Annexure – B must be 
+
+submitted. 
+
+h. The copy of audited balance sheet or the certificate from a Chartered Accountant for the 
+financial year 2015-2016, 2014-2015 and 2013-2014 indicating the annual sales turnover of 
+
+the bidder. 
+
+i. The detailed technical specification, make, model, part number & compliance of each item 
+offered supported by the printed catalogue / leaflet published by the Principal 
+
+Manufacturer. 
+
+j. A photo copy of the commercial bid without prices (prices blocked) and copy of 
+commercial terms & conditions (in details) as included in the commercial bid. C-DAC reserves 
+
+the right to reject the bid in case of discrepancy observed in the un-priced commercial bid 
+
+and the actual commercial bid. 
+
+k. Undertaking from the OEM to the effect that the products offered are not nearing end-of- 
+life / end-of-support five years down the line from the date of bidding. 
+
+l. Undertaking to the effect that a Security Deposit of 5% of the order value will be submitted 
+in case C- DAC decides to place the Purchase Order. 
+
+m. Undertaking to the effect that the terms and conditions, clauses etc. stipulated in this tender 
+are acceptable. (as per Annexure- C attached) 
+
+n. Other documents necessary in support of eligibility criteria, product catalogues, brochures 
+etc. 
+
+ 
+
+Note: C-DAC reserves the right to reject the bid if any of the above listed document/s is not 
+
+submitted. 
+
+5. Online - Envelope 2: “Commercial eBid “shall contain: (PDF format only) 
+The Commercial Bid along with detailed terms and conditions, complete in all respects with proper 
+
+seal and signature of authorised person with name, designation, email id and contact no. 
+
+ 
+
+6. Both the technical bid and commercial e-bid should be addressed to:  
+
+Materials Management Group (MMG) 
+
+Centre for Development of Advanced Computing (C-DAC) Innovation Park, 
+
+Panchvati, Pashan, Pune 411 008, INDIA. 
+
+ 
+
+7.  Date of submission/Due Date of e-bids and opening of the Technical bids – Online. 
+Last date for uploading the ebids: 11th June 2018 up to 1500 Hrs and 
+
+Opening of Tech Bids online on – 12th June 2018 at 15.30 Hrs. at  
+
+ 
+
+Centre for Development of Advanced Computing (C-DAC), 
+
+Innovation Park, Pune 411 008.  Maharashtra, INDIA,  
+
+Tel No.: +91-20–25503108 
+
+ E-mail: mmg@cdac.in  
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Supply & Installation of Server + VMWare Software 
+ 
+
+Page 7 of 26  
+
+ 
+
+8.  Technical ebids will be opened - online on 12th June 2018 at 1530 Hrs at: 
+ 
+
+Centre for Development of Advanced Computing (C-DAC), 
+
+Innovation Park, Pune 411 008.  Maharashtra, INDIA,  
+
+Tel No.: +91-20–25503108 
+
+ E-mail: mmg@cdac.in   
+
+The bids must be submitted on-line. The Tender Fees & EMD/BG/NSIC etc. must be submitted in 
+
+person or through post/ courier (C-DAC shall not be responsible for any postal delays or any other 
+
+reason for not submitting the tender fees/ EMD etc. in the specified time and resulting in 
+
+disqualification / rejection of any bid) so as to reach on or before the due date and time. The 
+
+representatives (maximum two) of bidders are welcome to attend the opening of the `online’ 
+
+technical ebids. 
+
+In case bidder requires any clarifications / information, they may contact C-DAC address given in 
+
+Clause 2 of Section I. 
+
+Note: Please do not put "Commercial Bid" (prices quoted) in the technical bid envelope. If the price 
+
+quoted is submitted / leaked with technical bid, the tender will be rejected at the sole discretion of 
+
+C-DAC. 
+
+9. Opening of commercial ebids – online 
+ 
+
+10. Commercial ebids of the qualified bidders only will be opened, in the presence of the bidders or their 
+authorized representative of the bidders, who choose to attend, at the time place and date to be 
+
+informed later. The authorized representative of bidders, present at the time of opening of the bids 
+
+shall be required to sign an attendance register as a proof of having attended the commercial 
+
+bid opening. 
+
+The bidder‘s name, bid prices, discounts and other appropriate details will be announced at the time 
+
+of the opening of the commercial bids. 
+
+(END OF SECTION I) 
+
+
+
+Supply & Installation of Server + VMWare Software 
+ 
+
+Page 8 of 26  
+
+SECTION II: INSTRUCTIONS TO BIDDERS (ITB) 
+
+ 
+
+1. Locations for the Supply, Installation & Warranty Services 
+
+The entire products as described in Schedule of Requirements must be supplied, installed, 
+
+commissioned & supported at C-DAC Pune. 
+
+2. Delivery Period: 
+
+All the items covered in the Schedule of Requirements (Section – IV) must be supplied within 0 6  
+
+weeks from the date of placement of order.  Supplier should complete the installation within two 
+
+Weeks from the date of supply. 
+
+3. Order Placements: 
+
+The Supply Order shall be released by: 
+
+Centre for Development of Advanced Computing (C-DAC) Innovation Park, 
+
+Panchvati, Pashan, Pune 411008, 
+
+Maharashtra, INDIA. 
+
+ 
+
+The payments shall be released by: 
+
+ 
+
+Centre for Development of Advanced Computing (C-DAC) 
+
+Innovation Park, Panchvati, Pashan, 
+
+Pune – 08. Maharashtra, INDIA 
+
+ 
+
+4. Eligibility Criteria: 
+
+4.1. Bidder should either be a principal manufacturer or authorised system integrator for the 
+items mentioned in the tender document. 
+
+4.2. The Indian agent and the Principal / OEM of Servers cannot bid simultaneously. 
+
+4.3. Bidder should have annual sales turnover of minimum Rs. 75 Lakhs for each of the financial year 
+2015-2016, 2016-2017, 2017-2018. 
+
+4.4. The bidders should upload the required documents / financial instruments as stipulated in 
+Section – I. 
+
+4.5. The bidder must quote for all the items given in Schedule of Requirements – Section IV of this 
+document. 
+
+4.6. The bidder must submit the technical compliance sheet/report as per the technical 
+requirements/features; stating deviations if any. 
+
+4.7. Undertaking to the effect that a Security Deposit of 5% of the order value will be submitted in 
+case C- DAC decides to place the Purchase Order. 
+
+4.8. The bidder must not be blacklisted by C-DAC or any other Educational / R&D / Govt. 
+organizations. A certificate or undertaking to this effect must be submitted. 
+
+4.9. The bidder must submit the applicable documents as stipulated at para 4, Section – I. 
+
+  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Supply & Installation of Server + VMWare Software 
+ 
+
+Page 9 of 26  
+
+4.10. Pre-Qualification Criteria:-  
+
+Special Terms & Conditions- 
+
+1. Hardware should be from original manufacturers and should be shipped in original 
+
+packing with OEM part numbers.  
+
+2. Bidder has to quote entire hardware products from Single OEM. One bidder can 
+
+represent only one OEM. 
+
+3. The OEM should have direct sales & support centre in India to provide technical 
+
+support. Contact details of the support centre should be provided with the offer.  
+
+4. The proposed product OEM must have presence in India for more than 05 year’s 
+
+period. 
+
+5. The Bidder should fill compliance statement against each technical specification 
+
+along with technical documentary proof. Any deviation from above mentioned 
+
+technical specifications should be clearly indicated.  
+
+6. The OEM should have executed min one order (in INDIA) for minimum 500 TB of 
+
+storage and a single order of minimum 08 server nodes, supporting documents 
+
+should be furnished along with the bid  
+
+7. The Proposed hardware should support to Hyper Converged Technology.   
+
+8. Bidder must ISO certified company, document should be attached. 
+
+9. All the quoted Software Licences should be perpetual & No additional charges for 
+
+software at the up-gradation of Storage Capacity in future.  
+
+ 
+
+ Note:  The bidders should provide sufficient documentary evidence to support the eligibility              
+
+             Criteria. C-DAC reserves the right to reject any bid not fulfilling the eligibility criteria. 
+
+5. Amendment to Bidding Documents 
+
+5.1. At any time prior to the deadline for submission of bids, C-DAC may, for any reason, 
+whether on its own initiative or in response to the clarification request by a prospective 
+
+bidder, modify the bid document. 
+
+5.2. The amendments to the tender documents, if any, will be notified by release of 
+Corrigendum Notice on www.eprocure.gov.in/eprocure/app / www.cdac.in/tender against 
+
+this tender. The amendments/ modifications will be binding on the bidders. 
+
+5.3. C-DAC at its discretion may extend the deadline for the submission of bids if it thinks 
+necessary to do so or if the bid document undergoes changes during the bidding period, in 
+
+order to give prospective bidders time to take into consideration the amendments while 
+
+preparing their bids. 
+
+ 
+
+6. Preparation of Bids 
+
+Bidder should avoid, as far as possible, corrections, overwriting, erasures or postscripts in the bid 
+
+documents. In case however, any corrections, overwriting, erasures or postscripts have to be made 
+
+in the bids, they should be supported by dated signatures of the same authorized person signing 
+
+the bid documents. However, bidder shall not be entitled to amend/ add/ delete/ correct the 
+
+clauses mentioned in the entire tender document. 
+
+ 
+
+7. Earnest Money Deposit (EMD) 
+
+7.1. The Earnest Money Deposit (EMD) must be submitted prior to the DUE DATE & TIME of 
+submission of the online technical bid. The EMD is required to be in the form of Demand 
+
+Draft/Bank Guarantee in favour of C-DAC payable at Pune, India, for an amount of Rs. 
+
+90,000/- (Rupees Ninety Thousand Only). 
+
+7.2. The Indian bidders registered with National Small Industries Corporation are exempted from 
+
+
+
+Supply & Installation of Server + VMWare Software 
+ 
+
+Page 10 of 26  
+
+payment of EMD. In this case, the bidders must submit the copy of valid NSIC registration 
+
+certificate for the required items, valid till the date of completion of all obligations/ 
+
+responsibilities of both parties. The bid submitted without EMD/BG/NSIC shall stand 
+
+rejected. No interest shall be payable on EMD. 
+
+7.3. The EMD/BG will be returned to the bidder(s) whose offer is not accepted, within 30 days from 
+the date of opening of commercial bid(s). In case of the bidder whose offer is accepted, the 
+
+EMD will be returned on submission of Security Deposit (Refer Clause 5 of Section III). However, 
+
+if the return of EMD is delayed for any reason, no interest/ penalty shall be payable to the 
+
+bidder. 
+
+7.4. The successful bidder, on award of contract / order, must send the contract/ order acceptance 
+in writing, within 7 days of award of contract/ order, failing which the EMD will be forfeited 
+
+and the order will be cancelled. 
+
+7.5. The EMD may be forfeited: 
+
+o If the bidder withdraws the bid during the period of bid validity specified in the tender. 
+
+o In case a successful bidder, fails to furnish the Performance Bank Guarantee (Refer Clause 6 
+of Section III). 
+
+o If the bidder fails to furnish the acceptance in writing, within 7 days of award of contract/ 
+order. 
+
+ 
+
+8. Period of validity of bids 
+ 
+
+8.1. Bids shall be valid for minimum 120 days from the date of submission. A bid valid for a 
+shorter period shall stand rejected. 
+
+8.2. C-DAC may ask for the bidder’s consent to extend the period of validity. Such request and 
+the response shall be made in writing only. The bidder is free not to accept such request 
+
+without forfeiting the EMD/BG. A bidder agreeing to the request for extension will not be 
+
+permitted to modify his bid. 
+ 
+
+9. Submission of Bids- Online PDF format only. 
+
+The Bid documents shall be neatly arranged. They should not contain any terms and conditions, 
+
+printed or otherwise, which are not applicable to the Bid. The conditional bid will be summarily 
+
+rejected. Insertions, postscripts, additions and alterations shall not be recognized, unless 
+
+confirmed by bidder’s signature. 
+ 
+
+10. Deadline for Submission of Bids – Online Only 
+
+10.1. Bids must be received by C-DAC before the due date and time at the address specified in the 
+tender document. 
+
+10.2. C-DAC may extend this deadline for submission of bids by amending the bid documents and the 
+same shall be suitably notified in the media. 
+
+ 
+
+11. Late Bids 
+
+C-DAC shall not be responsible and liable for the delay in receiving the bid for whatsoever 
+
+reason. 
+ 
+
+12. Bid Opening & Evaluation of Bids 
+12.1. The technical bids will be evaluated in two steps. 
+
+• The bids will be examined based on eligibility criteria stipulated at Para 4 of Section II to 
+shortlist the eligible bidders. 
+
+• The technical bids of only the short listed eligible bidders shall be evaluated based on 
+technical specifications stipulated at Section – IV. 
+
+ 
+
+
+
+Supply & Installation of Server + VMWare Software 
+ 
+
+Page 11 of 26  
+
+12.2. The bidders whose technical bid is found to meet both the requirements as specified above 
+will qualify for opening of the commercial bid and will be informed about the date and time 
+
+of the opening of the commercial bid. 
+
+12.3. The duly constituted Tender Evaluation Committee (TEC) shall evaluate the bids. The TEC 
+shall be empowered to take appropriate decisions on minor deviations, if any. 
+
+12.4. The bidder’s name, bid prices, discounts and such other details considered as appropriate by 
+C-DAC, will be announced at the time of opening of the commercial bids. 
+
+ 
+
+13. Comparison of Bids 
+ 
+
+Only the short-listed bids from the technical evaluation shall be considered for commercial 
+
+comparison. 
+ 
+
+14. Award of Contract 
+ 
+
+14.1. C-DAC shall award the contract to the eligible bidder whose technical bid has been accepted 
+and determined as the lowest evaluated commercial bid based on the Grand Total calculated 
+
+of all items + taxes etc. of the Commercial Bids. However, C-DAC reserves the right and 
+
+has sole discretion to reject the lowest evaluated bid. 
+
+14.2. If more than one bidder happens to quote the same lowest price, C-DAC reserves the right 
+to decide the criteria and further process for awarding the contract, decision of C- DAC shall 
+
+be final for awarding the contract. 
+ 
+
+15. End User Certificate (if applicable) 
+
+C-DAC can provide end user certificate in advance in order to save on time/ delivery period. However, 
+
+this does not mean that the order shall be placed on the same bidder. The bidder may submit the 
+
+format of end user certificate at the earliest, preferably along with the technical bid. 
+
+ 
+
+16. Purchaser’s Right to amend / cancel 
+ 
+
+16.1. C-DAC reserves the right to amend the eligibility criteria, commercial terms & conditions, Scope 
+of Supply, technical specifications etc. 
+
+16.2. C-DAC reserves the right to cancel the entire tender without assigning any reasons thereof. 
+
+16.3. C-DAC reserves right to place part orders. 
+ 
+
+17. Corrupt or Fraudulent Practices 
+ 
+
+17.1. It is expected that the bidders who wish to bid for this project have highest standards of ethics. 
+
+17.2. C-DAC will reject bid if it determines that the bidder recommended for award has engaged in 
+corrupt or fraudulent practices while competing for this contract. 
+
+17.3. C-DAC may declare a vendor ineligible, either indefinitely or for a stated duration, to be 
+awarded a contract if it at any time determines that the vendor has engaged in corrupt 
+
+and fraudulent practices during the award / execution of contract. 
+
+ 
+
+18. Interpretation of the clauses in the Tender Document / Contract Document 
+
+In case of any ambiguity/ dispute in the interpretation of any of the clauses in this Tender 
+
+Document, the interpretation of the clauses by Director General, C-DAC shall be final and 
+
+binding on all parties. 
+
+ (END OF SECTION II) 
+
+
+
+Supply & Installation of Server + VMWare Software 
+ 
+
+Page 12 of 26  
+
+ 
+
+SECTION III: SPECIAL CONDITIONS OF CONTRACT (SCC) 
+
+ 
+
+1. Prices 
+ 
+
+1.1. The price quoted shall be considered firm and no price escalation will be permitted   
+    ( except Govt. Statutory Levies). 
+
+1.2. Bidder can quote in INR only.  
+
+1.3. The prices quoted must be on “all-inclusive till destination” basis.  
+
+1.4. The exact rate of taxes, charges currently applicable must be mentioned in the 
+        `Commercial bid format’. 
+
+2. Software Licenses 
+ 
+
+The software licenses, if any, shall be required in the name of user. The licenses shall contain paper 
+
+licenses and at least one set of media (CDs) – wherever applicable. All software licenses quoted should 
+
+be of perpetual. 
+
+ 
+
+3. Security Deposit (SD) 
+ 
+
+The successful bidder will be required to furnish the Security Deposit in INR equivalent to 05% of the 
+
+order value within 07 days of receipt of Supply Order. The Security Deposit should be submitted 
+
+in the form of Demand Draft/Bank Guarantee drawn in favour of C-DAC payable at Pune. The 
+
+Security Deposit from Indian representative in INR is acceptable. The Security Deposit will be 
+
+returned upon completion of installation & commissioning and on submission of Performance Bank 
+
+Guarantee (PBG). 
+
+ 
+
+4. Performance Bank Guarantee (PBG) 
+ 
+
+The successful bidder will be required to furnish the Performance Guarantee towards the Hardware 
+
+& Software supplied, in the form of a Bank Guarantee  in INR equivalent to 10% amount of 
+
+the Supply Order value, as per the format attached to this document (Annexure – A). This bank 
+
+guarantee should be submitted along with the invoice after successful installation. The Bank 
+
+Guarantee shall remain valid for the period of 37 months from the date of installation. The PBG 
+
+must be negotiable at a branch of issuing bank in India. The PBG from Indian representative is 
+
+acceptable. In case of no warranty claims towards the item under warranty, the PBG will be 
+
+returned on completion of warranty period. 
+
+ 
+
+5. Completeness Responsibility 
+ 
+
+Notwithstanding the scope of work, engineering, supply and services stated in bid document, any 
+
+equipment or material, engineering or technical services which might not be even specifically 
+
+mentioned under the scope of supply of the bidder and which are not expressly excluded there 
+
+from but which – in view of the bidder - are necessary for the performance of the equipment in 
+
+accordance with the specifications are treated to be included in the bid and has to be performed 
+
+by bidder. The items which are over & above the scope of supply specified in the Schedule of 
+
+Requirements may be marked as “Optional Items”. 
+
+ 
+
+6. Warranty 
+ 
+
+The Supplier warrants that all the Goods are new, unused, and of the most recent or current 
+
+models, and that they incorporate all recent improvements in design and materials, unless 
+
+provided otherwise in the Contract. The supplier further warrants that all Goods supplied under 
+
+
+
+Supply & Installation of Server + VMWare Software 
+ 
+
+Page 13 of 26  
+
+this contract shall have no defect arising from design, materials or workmanship (except when the 
+
+design and/or material is required by the Purchaser’s specifications) or from any act or omission of 
+
+the supplier. The warranty should be comprehensive on site, repair/replacement basis free of cost. 
+
+ 
+
+All the equipment’s and components supplied must have 03 (Three) years onsite comprehensive 
+
+warranty with 24x7 support along with 4 hours’ response time and resolution time  within  48 hrs. 
+
+from the time of call logging covering all parts & labour starting from the date after the successful 
+
+installation, during the warranty period, Bidder will have to undertake comprehensive 
+
+maintenance of the entire hardware components, equipment, support and accessories supplied 
+
+by the Bidder at the place of installation of the equipment. 
+
+ 
+
+The defects, if any, during the guarantee/warranty period are to be rectified free of charge by 
+
+arranging free replacement wherever necessary.  
+
+ 
+
+Goods requiring warranty replacements must be replaced on free of cost basis. 
+
+ 
+
+Collecting of faulty Hardware from onsite and provisioning the replacement of Hardware under 
+
+warranty at onsite shall be the responsibility of the supplier. 
+
+ 
+
+CDAC reserves the right to invoke the Performance Bank Guarantee submitted by bidder, in case 
+
+of the following: 
+
+ 
+
+a. Supplied Hardware & Software components fail to achieve the performance as stipulated in 
+this document. 
+
+ 
+
+b. The bidder fails to provide the warranty and other services in scheduled time frame, as 
+stipulated in this document, penalty clauses mentioned under point 9 of this tender shall be 
+
+applicable. 
+
+ 
+
+7. Payments 
+ 
+
+Payment by NEFT – 90% after Delivery and installation and acceptance by CDAC within 30 Days and 
+
+10% against Performance Bank Guarantee for Warranty period. 
+
+    
+
+8. Bill to/ Ship to:  
+ 
+  Centre for Development of Advanced Computing (C-DAC) 
+
+           Innovation Park, Pashan, Pune 411 008, Maharashtra, INDIA 
+
+ 
+9. Penalty for delayed Delivery: 
+
+ 
+
+C-DAC reserves the right to levy penalty @ of 0.5 % of order value per week of delay beyond the 
+
+scheduled deliveries Within 06 weeks- as mentioned in this tender doc.) / execution of the order 
+
+successfully, subject to maximum of 05 % of the order value. 
+
+ 
+
+C-DAC reserves the right to cancel the order in case the delay is more than 06 weeks. 
+
+ 
+
+The delay in delivery and/or installation not attributed to supplier viz. delay in site preparation, delay 
+
+in submission of required documents (by C-DAC) etc. and the conditions arising out of Force Majeure 
+
+will not be considered for the purpose of calculating penalties. 
+
+  
+
+  
+
+
+
+Supply & Installation of Server + VMWare Software 
+ 
+
+Page 14 of 26  
+
+  
+
+10. Jurisdiction 
+ 
+
+The disputes, legal matters, court matters, if any shall be subject to Pune jurisdiction only. 
+
+ 
+
+11. Force Majeure 
+ 
+
+C-DAC may consider relaxing the penalty and delivery requirements, as specified in this document, 
+
+if and to the extent that, the delay in performance or other failure to perform its obligations under 
+
+the contract is the result of an Force Majeure. Force Majeure is defined as an event of effect that 
+
+cannot reasonably be anticipated such as acts of God (like earthquakes, floods, storms etc.), acts 
+
+of states / state agencies, the direct and indirect consequences of wars (declared or undeclared), 
+
+hostilities, national emergencies, civil commotion and strikes at successful Bidder’s premises or any 
+
+other act beyond control of the bidder. 
+
+ 
+
+12. Arbitration 
+
+All disputes/clams of any kind arising out of supply, commissioning, acceptance, warranty 
+
+maintenance etc. under this Contract, shall be referred by either party (C-DAC or the bidder) after 
+
+issuance of 30 days’ notice in writing to the other party clearly mentioning the nature of dispute to 
+
+the Sole Arbitrator appointed by C-DAC. The venue for arbitration shall be specified in the purchase 
+
+order/agreement. The arbitration proceedings shall be conducting in English and as per the provisions 
+
+of Indian Arbitration and Conciliation Act, 1996. The decision of the Arbitrator shall be final and 
+
+binding on both the parties. 
+
+ 
+
+13. Risk and Ownership 
+
+Upon 80% of payment, C-DAC shall become owners of goods ordered but all risks, 
+
+responsibilities; liabilities thereof in all goods shall remain with selected bidder till delivery of all 
+
+goods to all end users. Part deliveries shall not be treated as deliveries. Only full deliveries of all items 
+
+ordered will be considered as delivery. 
+
+ 
+
+14. Indemnity 
+
+Selected bidder shall save, indemnify and hold harmless C-DAC from any third- p a r t y  Govt. 
+
+Claims, losses penalties, if any, arising in connection with this Contract. 
+
+ 
+
+15. Assignment 
+
+Selected bidder/ Party shall not assign, delegate or otherwise deal with any of its rights or 
+
+obligation under this Contract without prior written permission of C-DAC. 
+
+ 
+
+16. Severability: 
+
+If any provision of this Contract is determined to be invalid or unenforceable, it will be deemed to 
+
+be modified to the minimum extent necessary to be valid and enforceable. If it cannot be so modified, 
+
+it will be deleted and the deletion will not affect the validity or enforceability of any other provision. 
+
+ 
+
+(END OF SECTION III) 
+
+
+
+Supply & Installation of Server + VMWare Software 
+ 
+
+Page 15 of 26 
+
+ 
+
+ 
+
+ 
+
+Section – IV: Schedule of Requirements 
+
+ 
+
+                                                                                           Section A 
+
+                                                                   Hardware and associated software specification  
+
+ 
+
+Annexure – 01 
+ 
+
+Server: Compute Nodes - 2U Rack Mountable Server – Qty - 02 Nos 
+
+Item Description of Requirement 
+
+Server Compute Nodes - 2U Rack Mountable Server  
+
+CPU 2 x Intel Xeon E5-2699v4 (22c @ 2.2GHz) CPUs or Higher Processor  
+
+Memory Should be configured with 384GB DDR4 @ 2400 MHz  
+
+DIMM slots The offered Server should be with 24 numbers of DIMM slots. 
+
+Memory Protection Advanced ECC with multi-bit error protection  
+
+HDD Bays Internal hard drive bay and hot-plug backplane: 
+Up to 16 x 2.5” HDD: SAS, SATA, near line SAS SSD: SAS, SATA  
+
+Hard disk drive   Should be configured with 3 x 600GB SAS 10k  
+
+Optical drive Bay One internal DVD-RW to be offered 
+
+Controller PCIe 3.0 based 12Gb/s SAS Raid Controller with RAID 0/1/1+0/5/6/10 support. 
+
+The offered Controller should be with 2GB cache (on-board or in a PCI Express 
+
+slot) 
+
+1G Networking 
+
+features 
+4 x 1 Gbps  Copper Ethernet with Additional Dedicated Mgmt. Ethernet interface 
+
+port with 3 mts. Length factory crimped copper Ethernet  patch cords for each 
+
+port including mgmt. port 
+
+10G Networking 
+
+features 
+4 x 10G Copper Ethernet ports with 3 mts. length 10G factory crimped copper 
+
+Ethernet patch cords for each port 
+
+FC HBA Dual port 16 Gbps FC HBA with two no. of each 3 mts. FC patch cables, Quoted 
+HBA should support quoted SAN Switch and Storage 
+
+Interfaces USB 3.0 support with 2 rear, 1 front, 2 internal USB ports 
+
+Bus Slots Three PCI-Express 3.0 slots, at least two x16 slots 
+
+Power Supply Redundant platinum grade Power Supplies 
+
+Fans Redundant hot-plug system fans 
+
+Graphics Integrated graphics controller   
+
+Monitor LED-backlit monitor - 28.8", Native Resolution 2560 x 1080 at 60 Hz, Full HD, Ultra-
+
+wide. Indian standard power supply. 
+
+Industry Standard 
+
+Compliance 
+
+ACPI 2.0b Compliant; PCIe 3.0 Compliant; PXE Support; WOL Support; 
+
+Microsoft® Logo certifications; USB 3.0 Support; Energy Star. 
+
+Embedded system 
+
+management 
+Should support monitoring ongoing management, service alerting, reporting and 
+
+remote management with embedded dedicated Gigabit out of band 
+
+management port.  
+Server should support configuring and booting securely with industry standard 
+
+Unified Extensible Firmware. 
+
+System should support RESTful API integration. System should support 
+
+embedded remote support to transmit hardware events directly to OEM or an 
+
+authorized partner for automated phone support. 
+
+Management Ethernet port should be separate and not part of Data ports 
+
+mentioned under 1G and 10G networking features. 
+
+
+
+Supply & Installation of Server + VMWare Software 
+ 
+
+Page 16 of 26 
+
+ 
+
+ 
+
+Operating Systems 
+
+and Virtualization 
+
+Software Support 
+
+Microsoft Windows Server; Canonical Ubuntu ; Red Hat Enterprise Linux (RHEL); 
+
+SUSE Linux Enterprise  Server (SLES) ; VMware ;Citrix XenServer 
+
+Warranty & support Server Warranty (Hardware) includes with 3-year comprehensive warranty with 
+
+no additional cost to C-DAC for change, replacement of parts, labour, 
+
+consumable, shipment, insurance etc. 24x7 support with 4 hours of response time 
+
+& 48-hour resolution time. 
+
+Remote Management 1. System remote management should support browser based graphical remote 
+console along with Virtual Power button, remote media management using 
+
+USB/CD/DVD Drive. It should be capable of offering upgrade of software and 
+
+patches from a remote client using Media/image/folder 
+2. Server should have dedicated 1Gbps remote management port.   
+
+3. Server should support agentless management using the out-of-band remote 
+
+management port. 
+
+4. The server should support monitoring and recording changes in the server 
+
+hardware and system configuration. It assists in diagnosing problems and 
+
+delivering rapid resolution when system failures occur. 
+
+5. Should provide remote firmware update functionality. 
+
+Server Management The Systems Management software should provide Role-based security  
+
+Should help provide proactive notification of actual or impending component 
+
+failure alerts on critical components like CPU, Memory and HDD. Should support 
+
+automatic event handling that allows configuring policies to notify failures via e-
+
+mail etc. 
+
+Supply should include IPMI\ILO\Remote Management capabilities with relevant 
+
+advanced licences. 
+
+Management software should support integration with popular virtualization 
+
+platform management software like VCenter, SCVMM and Red Hat RHEV. 
+
+. 
+
+ 
+
+Acceptance Criteria 
+
+ 
+1. All supplied Hardware should go through POST, Servers should undergo extensive memory test for at least 24 
+
+hrs. 
+
+2. Supplied Servers should able to access Dell Storage SC7020 seamlessly through supplied SAN and ISCSI 
+
+networks. 
+
+3. Vendors has to configure the Servers and integrate the servers with VMware VIO Cloud infrastructure which 
+
+is running on end- to-end solutions from DELL OEM. 
+
+4. Quoted servers should be work with VMware VIO Cloud stack. 
+
+5. Vendor has to separately quote for Part-A and Part-B as mention in Annexure- 02, software component part. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Supply & Installation of Server + VMWare Software 
+ 
+
+Page 17 of 26 
+
+ 
+
+ 
+
+                                                                                    Section B 
+
+                                                                          Software Component 
+
+Annexure – 02 
+
+ 
+Software: VMware and Monitoring -- Qty -01 licensing  
+
+Item VMware Software Component  
+ 
+
+Part -A 
+VMWare vSphere Enterprise Plus socket based License [Total 4 sockets (2 nodes)] with 3-year 
+
+comprehensive warranty with no additional cost to C-DAC for change, shipment etc. Standard 
+
+support for 3 years  
+
+ 
+ 
+ 
+ 
+ 
+
+Part -B 
+
+Monitoring software for cloud 
+
+Monitoring software for 10 nodes (20 sockets Total) licensing required. )] Software to be 
+
+installed on single socket - with 3-year comprehensive warranty with no additional cost to     
+
+C-DAC for change, shipment etc. Standard support for 3 years 
+
+1- Specification - Solution should be able to allow multiple users to 
+
+simultaneously access monitoring and reporting interfaces. 
+
+2- Solution should be able to collect data agentlessly from hosts, management 
+
+servers and failover clusters. 
+
+3- Solution supports VMware and Hyper-V 
+
+4- Solution should be able to monitor and report on one or more vCenter 
+
+Servers,  
+
+5- Solution is able to monitor and report on one or more standalone Hyper-V 
+
+hosts, more Failover Clusters, including specific alarms, reports and charts for 
+
+Cluster Shared Volumes (CSVs). 
+
+6- Solution should support comprehensive, single-product licensing that can be 
+
+easily tracked and managed, e.g. on a per-socket basis. 
+
+7- Solution should deploy quickly and without the use of professional services. 
+
+Solution should include out-of-the-box features, like automatically triggered 
+
+data collection, prebuilt alarms, and predefined dashboards and reports that 
+
+allow users to begin monitoring and reporting immediately after installation. 
+
+8- Solution's database can be located on either a local or remote database 
+
+server. 
+
+9- Solution initiates and manages performance data collection automatically 
+
+upon deployment. 
+
+10- Solution retains historical performance data for up to 3 years. 
+
+11- Solution collects data on an interval that allows users to monitor all major 
+
+performance metrics in real-time. 
+
+12- Solution should support alarms with default notification actions for all virtual 
+
+infrastructure objects. 
+
+13- Solution should offer reports covering all aspects of the virtual environment - 
+
+including VM availability (uptime), trend analysis, resource utilization, 
+
+infrastructure documentation and management, and change tracking - for 
+
+every object in the virtual infrastructure. 
+
+14- Solution should present monitoring and reporting data from both technical- 
+
+and business-oriented perspectives. Business-oriented views are based on 
+
+user-defined criteria and can include categorizations such as organizational 
+
+structure, location, SLA, department, etc. 
+
+15- Solution should provide at-a-glance views of health and performance. 
+
+
+
+Supply & Installation of Server + VMWare Software 
+ 
+
+Page 18 of 26 
+
+ 
+
+ 
+
+16- Solution should monitors Datastore utilization and storage clusters 
+
+17- Solution should provide built-in alerts for issuing alarms if virtual disks grow 
+
+beyond configured, over-provisioned limits. 
+
+18- Solution should monitor Datastore I/O counters for keeping tabs on 
+
+performance issues, such as latency and read and write speeds. 
+
+19- Solution should collects data on hardware sensors to provide a single interface 
+
+for monitoring the physical status of ventilation, enclosure, power and other 
+
+subsystems. 
+
+20- Solution should optionally restrict access to monitoring views on a read-only 
+
+basis. 
+
+21- Solution should overlay event data on performance graphs for viewing the 
+
+effect of events on utilization and trends. 
+
+22- Solution should provide visual status indicators on parent objects for at-a-
+
+glance notification of potential problems with underlying objects. 
+
+ 
+
+ 
+
+Support Matrix:  
+ 
+
+1. Support/warranty for All Items (Software & Hardware) will be Onsite Support & it  should provide by same 
+
+OEM (Hardware Supplier)  
+
+2. All Hardware should 03 years’ warranty  
+
+3. All Software should have 03 years’ warranty and standard support.  
+
+4. All quoted licenses should be of perpetual 
+
+5. The OEM should have established support centre in India and details of the same to be furnished with the bid 
+
+with Sales and support office in Pune. Should have support telephone e-Mail facilities and share the escalation 
+
+matrix.   
+
+6. The implementation of the project is to be done by Bidder. 
+
+7. Bidder should provide single point of contact for execution of this project. Should also provide call login 
+
+mechanism through phone, e-Mail and escalation matrix. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+
+
+Supply & Installation of Server + VMWare Software 
+ 
+
+Page 19 of 26 
+
+ 
+
+ 
+
+PRICE BID FORMAT (Section A) 
+ 
+
+Server + VMWare Software 
+
+ 
+
+Sr. No 
+ 
+
+Name and Specification 
+
+of the Item 
+
+ 
+
+Make / 
+
+Model No / 
+
+Part No 
+
+Unit 
+
+Cost  in 
+
+INR 
+
+ 
+Qty. 
+
+GST 
+
+applicable 
+
+(%) 
+
+Other 
+
+levies 
+
+applicable 
+
+(%) 
+
+Total 
+
+Cost in  
+
+IN R  
+
+ Section A       
+
+1.  
+
+Server: Compute Nodes – 
+
+2U Rack Mountable  
+
+Server 
+
+  02    
+
+2.  
+
+Any Hardware / software /
+
+cables Etc. needed to 
+
+complete the solution has to 
+
+include 
+
+      
+
+ Other Charges (if applicable) In INR Only.    
+
+ 
+Total Section A   (F.O.R. C-DAC, Pune)     
+
+ 
+
+ 
+
+PRICE BID FORMAT (Section B) 
+ 
+
+ Server + VMWare Software 
+
+ 
+
+Sr. 
+
+No 
+
+ 
+
+Name and Specification 
+
+of the Item 
+
+ 
+
+Make / 
+
+Model No / 
+
+Part No 
+
+Unit 
+
+Cost  in 
+
+INR 
+
+ 
+Qty. 
+
+GST 
+
+applicable 
+
+(%) 
+
+Other 
+
+levies 
+
+applicabl
+
+e (%) 
+
+Total 
+
+Cost in  
+
+IN R  
+
+ Section - B       
+
+Part - A 
+
+1 VMware VSphere ESXi 
+
+server (2 nodes ) 
+
+  01     
+
+Part - B 
+
+1 Monitoring software for 
+
+cloud 
+
+  01    
+
+ Total Section B (F.O.R.  
+
+C-DAC, Pune)     
+
+      
+
+Grand Total Price under Section C (Section A + Section B) (F.O.R.  CDAC Pune)  
+
+Note – 
+
+1. Commercial bids must be offered in the format above. 
+
+2. The applicable exact rates of Taxes will be added as per above columns. 
+
+3. In case of any mistake or error in calculations or any discrepancy in price quoted in word and figures, the 
+LOWEST amount will be considered for comparison. If this lowest price is not acceptable to the bidder, 
+
+their bid will be rejected. In this case, C-DAC reserves the right to forfeit their EMD. 
+
+4. L1 is calculated based on the Grand total price under Section C = (Section A + Section B) 
+
+5. C-DAC reserves the right to place part orders.
+
+
+
+Supply & Installation of Server + VMWare Software 
+ 
+
+Page 20 of 26 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+To, 
+
+ANNEXURE A - PROFORMA OF BANK GUARANTEE 
+
+(on non-judicial paper of appropriate value) 
+
+ 
+
+Centre for Development of Advanced Computing 
+
+Innovation Park, Panchvati, Pashan, 
+
+Pune 411 008. 
+
+ 
+
+BANKS GUARANTEE NO: 
+
+DATE: 
+
+Dear Sir(S) 
+
+This has reference to the Purchase Order No. Dated  been placed by Centre for 
+
+Development of Advanced Computing(C-DAC), Pune on M/s   (Name & Address of Bidder) 
+
+for supply, installation, commissioning and warranty of  (description of items) at client’s site. 
+
+The conditions of this order provide that the Bidder shall, 
+
+1. Arrange to deliver the items listed in the said order to the consignee, as per details given in said 
+order, and 
+
+2. Arrange to install and commission the items listed in said order at client’s site, to the entire 
+satisfaction of C-DAC  and 
+
+3. Arrange for the comprehensive warranty service support towards the items supplied by Bidder on 
+site as per the warranty clause in said purchase order. 
+
+M/s (Name of bidder) has accepted the said purchase order with the terms and conditions stipulated 
+
+therein and have agreed to issue the performance bank guarantee on their part, towards promises and 
+
+assurance of their contractual obligations vide the Supply Order No. M/s. (name of 
+
+vendor) holds an account with us and has approached us and at their request and in consideration of the 
+
+promises, we hereby furnish such guarantees as mentioned hereinafter. 
+
+C-D DAC shall be at liberty without reference to the Bank and without affecting the full liability of the Bank 
+hereunder to take any other undertaking of   security in respect of the suppliers obligations and  / or 
+
+liabilities under or in connection with the said contract or to vary the terms vis-a – vis the supplier or the 
+
+said contract or to grant time and or indulgence to the supplier or to reduce or to increase or otherwise 
+
+vary the prices or the total contract value or to forebear from enforcement of all or any of the obligations 
+
+of the supplier under the said contract and/or the remedies of C-DAC under any security now, or hereafter 
+
+held by C-DAC and no such dealing(s) with the supplier or release or forbearance whatsoever shall have the 
+
+effect of releasing the bank from its full liability of C-DAC hereunder or of prejudicing right of C-DAC against 
+
+the bank. 
+
+This undertaking guarantee shall be a continuing undertaking guarantee and shall remain valid and 
+
+irrevocable for all claims of C-DAC and liabilities of the supplier arising up to and until (date) 
+
+This undertaking guarantee shall be in addition to any other undertaking or guarantee or security 
+
+whatsoever the that C-DAC may now or at any time have in relation to its claims or the supplier’s 
+
+obligations/liabilities under and / or in connection with the said contract and C-DAC shall have the full 
+
+authority to take recourse to or enforce this undertaking guarantee in preference to the other undertaking 
+
+or security (ies) at its sole discretion and no failure on the part of C-DAC in enforcing or requiring 
+
+enforcement of any other undertaking or security shall have the effect of releasing the bank from its full 
+
+liability hereunder. 
+
+We (Name of Bank) hereby agree and irrevocably undertake and promise 
+
+that if in your (C-DAC’s)  opinion any default is made by M/s (Name of bidder) in performing 
+
+
+
+Supply & Installation of Server + VMWare Software 
+ 
+
+Page 21 of 26 
+
+ 
+
+ 
+
+ 
+
+any of the terms and /or conditions of the agreement or if in your opinion they commit any breach of the 
+
+contract or there is any demand by you against M/s (Name of bidder), then on notice to us by 
+
+you, we shall on demand and without demur and without reference to M/s (Name of bidder), 
+
+pay  you,  in  any  manner  in  which  you  may  direct,  the  amount  of  Rs.  /- ( Rupees 
+
+  Only ) or  such portion  thereof as may be demanded  by you  not 
+
+exceeding the said sum and as you may from time to time require. Our liability to pay is not dependent or 
+
+conditional on your proceeding against M/s (Name of b i d d e r ) and we shall be liable 
+
+& obligated to pay the aforesaid amount as and when demanded by you merely on an intimation being given 
+
+by you and even before any legal proceedings, if any, are taken against M/s (Name of 
+
+b i d d e r ) 
+
+The Bank hereby waives all rights at any time inconsistent with the terms of this undertaking guarantee and 
+
+the obligations of the bank in terms hereof shall not be anywise affected or suspended by reason of any 
+
+dispute or disputes having been raised by the supplier (whether or not pending before any arbitrator, 
+
+Tribunal or Court) or any denial of liability by the supplier or any order or any order or communication 
+
+whatsoever by the supplier stopping or preventing or purporting to stop or prevent payment by the Bank 
+
+to C-DAC hereunder. 
+
+The amount stated in any notice of demand addressed by C-DAC to the Bank as claimed by C-DAC from the 
+
+supplier or as suffered or incurred by C-DAC on the account of any losses or damages or costs, charges 
+
+and/or expenses shall as between the Bank and C-DAC be conclusive of the amount so claimed or liable to 
+
+be paid to C-DAC or suffered or incurred by C-DAC, as the case may be and payable by the Bank to C-DAC in 
+
+terms hereof. 
+
+You (C-DAC’s) shall full liberty without reference to us and without affecting this guarantee, postpone for 
+
+any time or from time to time the exercise of any of the powers and rights conferred on you under the 
+
+contact with the said M/s (Name of bidder) and to enforce or to forbear from endorsing 
+
+any power or rights or by reason of time being given to the said M/s (name of bidder) 
+
+which under law relating to the sureties would but for the provisions have the effect of releasing us. 
+
+You will have full liberty without reference to us and without affecting this guarantee, postpone for any 
+
+time or from time to time the exercise of any of the powers and rights conferred on you under the contract 
+
+with the said M/s (Name of bidder) and to enforce or to forbear from endorsing any power or 
+
+rights or by reason of time being given  to the said  M/s (Name of bidder) which under law 
+
+relating to the sureties would but for the provisions have the effect of releasing us. 
+
+Your right to recover the said sum of Rs. _/- (Rupees only) 
+
+from us in manner aforesaid will not be affected/ or suspended by reason of the fact that any dispute or 
+
+disputes have been raised the said M/s  (Name of b i d d e r ) and/ or that any dispute or 
+
+disputes are pending before any officer, tribunal or court or Arbitrator. 
+
+The guarantee herein contained shall not be determined or affected by the liquidation or winding up, 
+
+dissolution or change of constitution or insolvency of the said M/s (Name of bidder) but shall in 
+
+all respects and for all purposes be binding and operative until payment of all dues to C-DAC in respect of 
+
+such liability or liabilities. 
+
+Our      liability      under      this      guarantee      is      restricted      to       Rs. /-      (Rupees 
+
+  Only). Our guarantee shall remain in force until unless a suit action to enforce a 
+
+claim under guarantee is filed against us within six months from (which is date of expiry of guarantee) all 
+
+your rights under the said guarantee shall be forfeited and we shall be relieved and discharged from all 
+
+liabilities there under. 
+
+We have power to issue this guarantee in your favour under Memorandum and Articles of Association of 
+
+our Bank and the undersigned has full power to do under the power of Attorney dated. 
+
+
+
+Supply & Installation of Server + VMWare Software 
+ 
+
+Page 22 of 26 
+
+ 
+
+ 
+
+ 
+
+Notwithstanding anything contained herein: 
+
+A. Our liability under this guarantee shall not exceed Rs (in words) 
+
+B. This bank guarantee shall be valid up to & unless a suit for action to enforce a claim under 
+guarantee is filed against us within six months from the date of expiry of guarantee. All your rights 
+
+under the said guarantee shall be forfeited and we shall be relieved and discharged from all 
+
+liabilities there after i.e. after six months from the date of expiry of this Bank guarantee 
+
+C. We are liable to pay the guaranteed amount or any parts thereof under this bank guarantee only 
+and only if you serve upon us a written claim or demand or before    
+
+D. The Bank guarantee will expire on (Min 37 months from the date of successful installations of the 
+items in the order)    
+
+ 
+ 
+
+Granted by the Bank 
+
+Yours faithfully, 
+
+For (Name of Bank) 
+ 
+
+SEAL OF THE BANK  
+Authorised Signatory 
+
+
+
+Supply & Installation of Server + VMWare Software 
+ 
+
+Page 23 of 26 
+
+ 
+
+ 
+
+ 
+
+ANNEXURE B – Undertaking by Principal Manufacturer(s) 
+
+(To be submitted in Original on Letterhead) 
+
+ 
+
+Date: 
+
+The Director General, 
+
+Centre for Development of Advanced Computing 
+
+Innovation Park, Panchvati, Pashan, 
+
+Pune 411 008. 
+
+Subject: Undertaking by Principal Manufacturer against tender no. –  
+
+                CDAC-IP/Server+VMWare/2018/228, dated 17/05/2018 for Supply, Installation &  
+
+               Commissioning of Server: Compute Nodes- 2U Rack Mountable Server and VMWare Software. 
+
+ 
+
+Dear Sir, 
+
+We, M/s (Name     of     the     manufacturer)     having     registered     office     at    
+
+   (address  of  the  manufacturer)  by  virtue  of  being  manufacturer  for
+
+ (Name of the product/s), hereby authorise M/s (Name of the 
+
+bidder) having their office at (Address  of  bidder) to submit quote, supply, install  and  
+
+provide  after sales  support  for our  range of  products quoted by them to meet the above mentioned 
+
+tender requirements. 
+
+ 
+
+M/s (Name of the manufacturer) within the scope of requirement as per the tender 
+
+mentioned above undertake to provide technical & other support towards fulfilling the requirements of 
+
+installation, commissioning, benchmarking, acceptance criteria and product warranty services of Server + 
+
+VMWare Software to be supplied and installed at C-DAC, Pune by our authorised representative M/s. 
+
+(Name of bidder) against said tender. 
+
+ 
+
+The undersigned is authorised to issue such authorisation on behalf of M/s (Name of the 
+
+manufacturer). 
+
+ 
+
+For M/s (Name of the manufacturer) 
+
+ 
+
+Signature & company seal 
+
+Name 
+
+Designation 
+
+Email 
+
+Mobile No. 
+
+
+
+Supply & Installation of Server + VMWare Software 
+ 
+
+Page 24 of 26 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ANNEXURE C: TENDER ACCEPTANCE LETTER 
+ 
+
+ 
+
+ 
+To: 
+
+(To be submitted on Company Letter Head).  
+Date: 
+
+Centre for Development of Advanced Computing 
+
+Innovation Park, Panchvati, Pashan, 
+
+Pune 411 008. 
+
+ 
+
+SUB: Acceptance of Terms & Conditions of Tender. 
+
+ 
+
+Tender Reference No: CDAC-IP/Server+VMWare/2018/228 
+
+Name of Tender / Work: Supply, Installation & Commissioning of Server: Compute Nodes- 2U Rack  
+
+                                              Mountable Server and VMWare Software. 
+
+ 
+
+Dear Sir, 
+
+ 
+
+1. I / We have downloaded / obtained the tender document(s) for the above mentioned `Tender/Work’ 
+
+from the web site(s) namely: www.cdac.in / www.eprocure.gov.in etc.; as per your NIT / advertisement, 
+
+given in the above-mentioned website(s). 
+
+2. I / We hereby certify that I / We have read the entire terms and conditions of the tender documents 
+
+from Page No.1 to 26  (including all documents like annexure(s), schedules(s), etc.), which form part of 
+
+the contract agreement and I / We shall abide hereby by the terms / conditions/ clauses contained 
+
+therein. 
+
+3. The corrigendum(s) issued from time to time by your department / organization too has also been 
+
+taken into consideration, while submitting this acceptance letter. 
+
+4. I / We hereby unconditionally accept the tender conditions of above mentioned tender document(S) / 
+
+corrigendum(s) in its totality / entirety. 
+
+5. I / We do hereby declare that our Firm has not been blacklisted / debarred by any Govt. 
+
+Department/Public sector undertaking. 
+
+6. I / We certify that all information furnished by our Firm is true & correct and in the event that the 
+
+information is found to be incorrect/untrue or found violated, then your department/ organization 
+
+shall without giving any notice or reason therefore or summarily reject the bid or terminate the 
+
+contract, without prejudice to any other rights or remedy including the forfeiture of the fully said 
+
+earnest money deposit absolutely. 
+
+ 
+
+Yours Faithfully, 
+
+ 
+
+ 
+
+ 
+
+Authorized Signatory. 
+
+(Signature of the Bidder, with Official Seal) 
+
+Email id for correspondence. 
+
+
+
+Supply & Installation of Server + VMWare Software 
+ 
+
+Page 25 of 26 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ Summary Information Sheet  
+
+Tender No.: CDAC-IP/Server+VMWare/2018/228 
+
+Sr. No. Information heading Details 
+
+ 
+1 
+
+ 
+
+Name of the Vendor 
+ 
+
+ 
+
+2 
+
+Name of the person(s) to whom, all 
+
+references shall be made, regarding this 
+
+TENDER/PROJECT (Authorized 
+
+Signatory) 
+
+ 
+
+ 
+
+ 
+3 
+
+ 
+
+ 
+Address of the Contact Person 
+
+ 
+
+4 Designation of the Contact Person  
+
+5 
+Telephone n u m b e r (s) o f  t h e  
+
+C o n t a c t  Person. 
+
+ 
+
+6 Mobile number of the Contact Person 
+ 
+
+ 
+
+7 
+ 
+
+Fax number of the Contact Person 
+ 
+
+ 
+8 
+
+ 
+Email ID(s) of the Contact Person 
+
+ 
+
+ 
+9 
+
+Annual Turnover (in Lakhs): Last three 
+
+Years (In INR) 
+
+1 
+
+2 
+
+3 
+
+10 Years of Operation (in Years):  
+
+11 PAN Number  
+
+12 GST  Registration Number 
+ 
+
+
+
+Supply & Installation of Server + VMWare Software 
+ 
+
+Page 26 of 26 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Annexure – D 
+
+ 
+
+ 
+
+Authority Letter 
+
+ 
+ 
+
+AUTHORIZATION 
+
+ 
+
+ 
+
+We (name of the bidder) hereby authorise Shri / Smt. (name of the authorised person) to sign and 
+
+submit the bid to Centre for Development of Advanced Computing against their tender No CDAC-
+
+IP/Server+VMWare/2018/228. Shri / Smt.  - (name)  __________  is also authorised to negotiate 
+
+the terms and conditions pertaining to the said tender on behalf of M/s (name of bidder). The 
+
+specimen signature of Shri / Smt. (name) is appended below. 
+
+ 
+
+ 
+
+ 
+
+Specimen Signature: 
+
+Name: 
+
+ 
+
+ 
+
+ 
+
+The undersigned is authorised to delegate the authority on behalf of M/s (name of bidder), 
+
+as stipulated above 
+
+ 
+
+ 
+
+ 
+
+For (name of bidder) 
+
+ 
+
+ 
+
+Signature & company seal 
+
+Name 
+
+Designation 
+
+Email 
+
+Mobile No. 
+
+

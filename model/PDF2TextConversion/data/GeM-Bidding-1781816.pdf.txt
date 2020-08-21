@@ -1,0 +1,555 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/706112
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 17:00:00
+
+Bid Opening Date/Time 20-07-2020 17:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Tamil Nadu
+
+Department Name Tamil Development And Information Department
+Tamil Nadu
+
+Organisation Name Tamil University Thanjavur
+
+Office Name Thanjavur
+
+Total Quantity 15
+
+Item Category LED Luminaire (Recessed Luminaire)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  70 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 6
+
+
+
+ 
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 70% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+LED Luminaire (Recessed Luminaire) ( 15 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+STANDARDS Conformity to Indian
+Standard
+
+IS:10322/part
+5/sec-2/2012 and IS
+16107 (Part 2/Sec 1) :
+2012 for Recess type
+
+*
+
+Photo biological safety
+of LEDs used shall be
+as per IS:16108/2012
+(exempt group)
+
+Yes *
+
+DC or AC supplied
+electronic control gear
+for LED Module shall
+comlpy as per IS:15885
+(Part 2/Sec.13)
+
+Yes *
+
+Luminaire Class (as per
+Cl. 2.1 Section 2 of IS:
+10322 (Part-1)
+
+Class I *
+
+Types of LED Modules
+as per the IS:
+16103(Part-2)/2012
+
+Type 3 *
+
+Rating of Recess
+type LED
+Luminaire/System
+Wattage/Rated
+Power
+
+36W 36W
+
+Light Intensity(System Yes *
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/FQANYcKxKF_9TysfVza3LoFTOhDt6FmSrrdw0Z3xSOs
+
+
+ 
+
+Lumens) 80 Lm/Watt
+for 3000 deg K, 90
+Lm/Watt for 4000 deg
+K, 100 Lm/Watt for
+6000 deg K
+
+Color temeprature (+/-
+500 K)
+
+3000 deg K *
+
+Type of fixture (in
+feet)
+
+2x2(30W to 48W) 2x2(30W to 48W)
+
+CONSTRUCTIONAL Ingress Protection (IP
+Rating) as per IS:10322
+(Part 1):1982 latest
+(Minimum)
+
+IP20 *
+
+Mounting type Recess type *
+
+Diffuser material Poly carbonate (UV
+stabilised)
+
+*
+
+The luminaire body
+must be corrosion
+resistant epoxy powder
+coated / anadozing
+
+Yes *
+
+All fastners must be of
+nickel/chrome plated
+
+Yes *
+
+Number of electronic
+control gear (power
+supplies)
+
+2 *
+
+Light Source SMD LED Chip as per
+LM 80/IS16106
+
+*
+
+Warranty for free
+replacement
+
+2 Years *
+
+ELECTRICAL
+EFFICIENCY
+MANAGEMENT
+
+Operating Voltage and
+frequency range
+
+140V to 280 V at 50 Hz
+AC
+
+*
+
+Rated voltage 230 V AC 50 Hz *
+
+AC Power Factor ≥ 0.90 *
+
+Driver Efficiency ≥85 *
+
+Total Harmonics
+Distortion ( ≤ 20% (for
+upto 20W) (</=10%
+(for above 20W)
+
+Yes *
+
+The total circuit power
+shall not be more than
+110 percent of the
+value declared by the
+manufacturer (as per Cl
+8 of IS:16104:2012
+lates)
+
+Yes *
+
+OPTICAL MANAGEMENT LED chip Efficacy
+(≥130 Lm/Watt for
+6000 deg K, >/=120
+
+Yes Yes
+
+                               3 / 6
+
+
+
+ 
+
+Lm/Watt for 4000
+deg K, >/=110
+Lm/Watt for 3000
+deg K)
+
+Working life for LED :
+(Minimum 50,000
+burning hours as per
+LM-80 report)
+
+Yes *
+
+Colour Rendering
+Index(CRI)
+
+≥80 *
+
+Beam Angle ≥120 *
+
+Reflector type Diffuser *
+
+THERMAL
+MANAGEMENT
+
+Fixture / Luminaire
+should be die-cast
+aluminium
+/CRCA/Extruded
+aluminium
+
+Yes *
+
+Capacitor shall be rated
+for a temperature of
+105 deg. celsius or
+better
+
+Yes *
+
+Junction temperature /
+soldering temperature
+
+< 85 deg C *
+
+Operating temperature
+range
+
+-10 deg. C to +50 deg.
+C
+
+*
+
+Humidity Range 10 % to 95% RH *
+
+PROTECTION Short circuit Protection Yes *
+
+Over load protecton Yes *
+
+High voltage test (1.5
+KV for one minute
+between supply
+terminals and body of
+the unit)
+
+Yes *
+
+Insulation resistance
+between earth and
+current carrying part
+
+>100 M ohm *
+
+The luminaire shall be
+protected against
+surges and transients
+of >/=2.5 KV
+
+Yes *
+
+MARKING Manufactures Name
+and brand shall
+available on the body
+of the Luminaire
+
+Engraved/Embssed *
+
+Each LED liminaire
+shall have the
+manufacturer’s name,
+model number, serial
+number, date of
+
+Yes *
+
+                               4 / 6
+
+
+
+ 
+
+manufacture (month-
+year), and lot number
+as identification mark
+inside each unit and
+the outside of each
+packaging box
+
+The operation
+characteristics such as
+rated voltage and rated
+power in watts shall be
+marked inside each
+LED luminaire unit
+
+Yes *
+
+REPORTS AND
+CERTIFICATIONS
+
+LED Make Other than EVERLIGHT
+/ EDISON / BRIDGELUX /
+NATIONSTAR / SEOUL /
+SAMSUNG / OSRAM /
+REFOND / NICHIA /
+CREE / LUMILEDS /
+PHILIPS / SYSKA /
+LUMENMAX
+
+*
+
+LM 79 (Photometry)
+(Ref.IS:16106:2012)
+report from Central
+Government LAB
+/NABL/ILAC accrediated
+lab. Reports shall be
+furnish to the buyer on
+demand (LM-79 report
+shall have total lumen
+output, power, PF,
+Current in Amps, CRI &
+CCT etc.,)
+
+Yes *
+
+LM 80 &TM21(Ref.
+IS:16105:2012) Report
+and Photo biological
+report for LED report
+from Central
+Government Lab
+/NABL/ILAC accrediated
+lab. Reports shall be
+furnish to the buyer on
+demand (LM-80 report
+shall have the Photo
+Biological report of the
+LED Chip being used in
+the luminaire)
+
+Yes *
+
+Availability of test
+Report from Central
+Government Lab
+/NABL/ILAC accrediated
+lab to Indian Standrad
+IS:10322/part
+5/sec-2/2012 and IS
+16107 (Part 2/Sec 1) :
+2012
+
+Yes *
+
+                               5 / 6
+
+
+
+ 
+
+Seller has to furnish
+Type test report to the
+buyer on demand
+
+Yes *
+
+DC or AC supplied
+electronic control gear
+for LED Module shall
+comlpy as per IS:15885
+(Part 2/Sec.13)
+
+Yes *
+
+LED Luminaire for rcess
+type shall comply with
+Complusory
+Registration(CRS) of
+BIS for safety as per IS
+10322 (Part 5/Section
+2): 2012 as applicable
+on date
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Gunasekaran
+Ramasamy
+
+613010,no.1, vallam road,
+Tamil University, Thanjavur.
+
+15  15
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2.Timely Servicing / rectification of defects during warranty period: After having been notified
+
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 7 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

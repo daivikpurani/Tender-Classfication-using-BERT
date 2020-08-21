@@ -1,0 +1,376 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/685409
+
+  Dated: 24-06-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 04-07-2020 17:00:00
+
+Bid Opening Date/Time 2020-07-04 17:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Andaman & Nicobar
+
+Department Name Health Department Andaman & Nicobar
+
+Organisation Name N/a
+
+Office Name Directorate Of Health Services
+
+Total Quantity 4
+
+Item Category Smart Phone
+
+Experience Criteria  1 Year (s)
+
+MSE Exemption for Years Of Experience  Yes
+
+Startup Exemption for Years Of Experience  Yes
+
+Document required from seller  Experience Criteria
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  Yes
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+
+                               1 / 4
+
+
+
+ 
+
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+
+Smart Phone ( 4 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+MEMORY Storage Expandable
+up to (in GB)
+
+128 16, 32, 64, 128, 256,
+512, NA, 16 GB with 16
+GB SD Card, 32 GB with
+32 GB SD Card, 64 GB
+with 64 GB SD Card
+
+GENERIC Technology GSM *
+
+Processor core Quad core Dual core, Quad core,
+Octa core, Hexa core,
+Deca core
+
+Operating system Android 8.x Oreo GMS
+certified
+
+iOS 10 or higher,
+Android 4.x Kitkat GMS
+certified, Android 5.x
+Lollipop GMS certified,
+Android 6.x
+Marshmallow GMS
+certified, Android 7.x
+Neuget GMS certified,
+Android 8.x Oreo GMS
+certified
+
+Chipset Qualcomm / Mediatek /
+Apple / Exynos /
+Snapdragon /
+Spreadtrum
+
+*
+
+DISPLAY Display type LCD Touch Screen /
+LED Backlit Touch
+Screen / Amoled Touch
+Screen / Retina / Retina
+HD / IPS Touch/TFT(24b
+its/16points)
+
+LCD Touch Screen, LED
+Backlit Touch Screen,
+Amoled Touch Screen,
+Retina, Retina HD, IPS
+Touch,
+TFT(24bits16points)
+
+Display Resolution
+(Horizontal x
+Vertical) (Pixel)
+
+q HD (Minimum 960 x
+540)
+
+q HD (Minimum 960 x
+540), HD (Minimum
+1280 x 720), FHD
+(Minimum 1920 x
+1080), UHD (Minimum
+2560 x 1440),
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/YVlrJYCOk8CKJ8UTcJiqwwFz3gZ5OFYGImwBK9Pmfdo
+
+
+ 
+
+FWVGA(Minimum
+854x480),
+FWVGA(Minimum
+800x480)
+
+Sun light readability
+(Nits)
+
+> 300 < / = 350 < / = 300, > 300 < / =
+350, > 350 < / = 400,
+> 400
+
+Display protection Corning Gorilla Glass 3
+or equivalent
+
+Corning Gorilla Glass 3
+or equivalent, Corning
+Gorilla Glass 4 or
+equivalent, Corning
+Gorilla Glass 5 or
+equivalent, Ion -
+Strengthened Glass,
+Scratch Resistant Glass
+
+FEATURES Response time of
+touch screen (in milli
+seconds)
+
+< / = 35 milli second < / = 35 milli second, >
+35 </= 45 milli second
+
+Life of touch screen
+Minimum 10 lakhs
+touches
+
+Yes *
+
+Touch support Multi touch Single touch, Multi
+touch
+
+Rear Camera
+Resolution (Mega
+Pixel)
+
+>/=8 >/=5, >/=8, >/=12,
+>/=16, >/=20, >/=24
+
+Front Camera
+Resolution (Mega
+Pixels)
+
+5 2, 5, 8, 12, 13, 16, 20,
+24
+
+SIM Card Slots Dual (SIM+SIM
++Memory card slot)
+
+Single, Dual
+(SIM+SIM/Memory
+card)/Dual (SIM+SIM +
+Memory card, Dual
+(SIM+SIM/Memory
+card), Dual (SIM+SIM
++Memory card slot)
+
+Type of SIM Micro Standard, Mini, Micro,
+Nano
+
+SAR Value (Watt/Kg) < 1.6 Watt/Kg *
+
+OTG support Yes with cable Yes with cable, No
+
+CONNECTIVITY Connectivity 4G LTE 2G, 3G, 4G, 4G LTE, 4G
+VoLTE
+
+Wi-fi Connectivity 802.11b/g/n 802.11b/g/n,
+802.11a/b/g/n,
+802.11a/b/g/n/ac,
+802.11b/g/n/ac/2.4
+GHz+5.0 GHz
+
+Bluetooth
+Connectivity
+
+4.2 or higher 3.0 or higher, 4.0 or
+higher, 4.1 or higher,
+4.2 or higher, 4.3 or
+
+                               3 / 4
+
+
+
+ 
+
+higher
+
+BATTERY Battery Capacity
+(mAH) Minimum
+
+2600 *
+
+Type of Battery Lithium-ion / Lithium
+Polymer / Nickel
+Cadmium (NiCd)
+
+Lithium-ion (Li-ion),
+Lithium Polymer (Li-
+pol), Nickel Cadmium
+(NiCd), NiMH (NiMH)
+
+ACCESSORIES Accessories: Mobile
+cover
+
+No Flip cover, Back cover,
+No, Semi-rugged Back
+cover
+
+Accessories:
+Tempered glass
+
+No Yes, No, No, but with
+Screen protector
+
+CERTIFICATIONS BIS Registration
+conforming to IS:13252
+Part 1 with latest
+revision
+
+Yes *
+
+BIS Registration
+Number
+
+- *
+
+Warranty service Carry-in On-site, Carry-in
+
+Accessories
+
+Additional Features
+
+Colour
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Sandeep Bedi 744104,Procurement Cell,
+Directorate of Health
+Services (Near Cellular Jail),
+Atlanta Point, Port Blair
+
+4  60
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

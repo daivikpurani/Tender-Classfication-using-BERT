@@ -1,0 +1,741 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/691855
+
+  Dated: 30-06-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 21-07-2020 11:00:00
+
+Bid Opening Date/Time 2020-07-21 11:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Ministry Of Petroleum And Natural Gas
+
+Department Name Na
+
+Organisation Name Oil And Natural Gas Corporation Limited
+
+Office Name Assam Mm
+
+Total Quantity 1
+
+Item Category C ARM FLUOROSCOPE X RAY MACHINE
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 1.00
+
+EMD Amount 22650
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 10.00
+
+Duration of ePBG required (Months). 16
+
+                               1 / 8
+
+
+
+ 
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+Sr. MM Officer
+ASSAM MM, NA, Oil and Natural Gas Corporation Limited, Ministry of Petroleum and Natural Gas
+(Manuranjan Gogoi)
+
+Splitting
+
+ Bid splitting not applied.
+
+C ARM FLUOROSCOPE X RAY MACHINE ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Conformity to
+Certifications
+
+- *
+
+Certification Number
+and Date
+
+- *
+
+Type test approval
+from AERB required
+
+Yes *
+
+Type test certificate
+date and number
+
+- *
+
+Conformity to Safety
+Standards
+
+IEC 60601-2-54 or BIS
+equivalent
+
+*
+
+Performance
+Parameters
+
+Purpose C arms fluoroscopes
+are used in a variety of
+general surgical,
+cardiac, and
+neurological
+applications, including
+aneurysm repair,
+pacemaker
+implantation, hip
+replacement, fracture
+reduction, foreign-body
+
+*
+
+                               2 / 8
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/rMvN3VfeIlguRX3JwkpZouW__yA-0Vh-lF8yBzZqOCk
+
+
+ 
+
+location, needle biopsy,
+catheter placement,
+pain management, per-
+cutaneous lithotripsy,
+and brachytherapy
+
+UMDNS Name and
+Code
+
+1. Fluoroscopic Units,
+Portable - 18-434 2.
+Radio
+graphic/Fluoroscopic
+Units, Mobile - 11-758
+3. Radio
+graphic/Fluoroscopic
+Units, Extremity -
+18-435
+
+*
+
+The System should be
+microprocessor
+controlled, compact
+and mobile offering
+excellent Image details
+
+Yes *
+
+Type of Mechanical
+Motion of C Arm
+
+Motorized Motorized
+
+Horizontal movement
+Of C Arm in mm
+
+200 *
+
+Vertical Movement Of C
+Arm in mm
+
+450 *
+
+Angulation
+Movement of C Arm
+in degrees
+
+± 180 ± 180
+
+Radius (Immersion
+Depth)of C arm in mm
+
+630 *
+
+Source to Image
+Distance in mm
+
+950-1000 950-1000
+
+Arc Orbital
+Movement of C Arm
+
+At least +90° - 30° At least +90° - 30°
+
+Total width of C Arm in
+mm( Free space of C
+arm)
+
+761 *
+
+Panning Movement
+of C Arm ( Swivel
+movement)
+
+±12.5º ±12.5º
+
+Safety Feature
+available for C Arm
+Movement
+
+a. Locks for all the
+movements. b. Control
+Stand foot lock. c.
+Steering wheel for easy
+steering & movement
+
+*
+
+Range of Frequency
+of X ray Generator in
+khz
+
+31-40 31-40
+
+Generator Power
+output in Kw
+
+3.5 3.5
+
+                               3 / 8
+
+
+
+ 
+
+Fluoroscopy Range
+in kvp
+
+40-110 40-110
+
+Fluoroscopy mA
+range, maximum in
+mA
+
+0.2 to 7 0.2 to 7
+
+Dual focus Rotating
+Anode X-Ray Tube of
+focal spot
+
+0.6mm² (small) &
+1.5mm² (large)
+
+0.6mm² (small) &
+1.5mm² (large)
+
+Anode heat storage
+capacity with
+tolerance ±10%
+
+40KHU 40KHU
+
+Modes Available Continuous fluoro,
+Pulsed Fluoro,
+Radiographic Mode
+
+*
+
+Pulses per sec 1 to 5 1 to 5
+
+Mode selection for
+Kv and mA
+
+Automatic Automatic
+
+Type of Image
+Intensifier
+
+9 " triple Field 9 " triple Field
+
+Number of Monitors
+provided on
+intensifier system
+
+2 (One for LIH and one
+for memory display )
+
+2 (One for LIH and one
+for memory display )
+
+Type of monitor to
+be provided with
+intensifier system
+
+LCD LCD
+
+Size of Monitors in
+inch
+
+17-20 17-20
+
+Type of Collimator
+controlled
+
+Both Fixed Collimation
+Slot & Motorized IRIS
+
+Both Fixed Collimation
+Slot & Motorized IRIS
+
+Type of Camera CMOS Camera CMOS Camera
+
+Camera Resolution
+in pixels
+
+1K x 1K 1K x 1K
+
+Acquisition of
+Camera
+
+10 bits 10 bits
+
+Contrast ratio of
+intensifier unit
+
+10:1 to 30:1 *
+
+Image storage
+capacity in images
+
+Above 100000 Above 100000
+
+Image reversal Yes *
+
+Zoom function
+available
+
+3x 3x
+
+Monitor with trolley Yes *
+
+Sterile covers for C-
+Arm/X-Ray tube/ Image
+Intensifier
+
+Yes *
+
+DICOM Compatibility Yes Yes
+
+                               4 / 8
+
+
+
+ 
+
+The system should
+be ready to connect
+with HIS/ PACS
+
+Yes Yes, No
+
+Data transfer Both USB and CD?DVD Both USB and CD?DVD
+
+Lead Aprons - Full body
+and Skirt type
+
+(0.5pb) 4 number each *
+
+No of Thyroid shield
+and Gonald Shield
+
+4 number each *
+
+Radiation/Fuoro
+Exposure delivery
+Switch
+
+Hand Switch and Foot
+Switch
+
+*
+
+Display of mA, KV and
+other safety features
+on C - arm Console
+
+Yes *
+
+Radiography
+through Cassette
+with holder
+
+Yes Yes, No
+
+Size of Cassette
+holder provided (for
+radiographic mode)
+in inch x inch
+
+10 x 12 14 x 17, 12 x 12, 10 x
+12, 8 x 10, Not
+provided
+
+Patient demographic
+detail entry facility
+
+Yes *
+
+Upgradable option
+to digital substration
+of angigraphy and
+peripheral
+angiography
+
+No Yes, No
+
+"Automatic image
+parameter selection
+with capability of
+switching on to manual
+selection"
+
+Yes *
+
+Operating temperature
+& humidity
+
+0 to 25 deg C and
+relative humidity of
+15-90%
+
+*
+
+Type of Power Supply Single phase, 220- 240
+Vac, 50Hz-16 Amps
+Socket
+
+*
+
+UPS Availability External External
+
+UPS backup time in
+minutes
+
+15 15
+
+Servo Stabilizer
+supplied
+
+Yes Yes
+
+Rating of Servo
+Stabilizer
+
+5 KVA 5 KVA
+
+User/Technical/Mainten
+ance manuals to be
+
+Yes *
+
+                               5 / 8
+
+
+
+ 
+
+supplied in English in
+hard and soft copy
+
+Installation,
+Demonstration and
+training to be provided
+at consignee end
+
+Yes *
+
+The Principal
+Manufacturer Must
+Have Direct
+Presence/approved
+service center In India
+
+Yes *
+
+Comprehensive
+Warranty in Years
+
+5 5
+
+QA, QC and other tests
+as per NABH shall be
+carried out by OEM or
+authorized agency of
+OEM
+
+Yes *
+
+Reports Confirmity to
+Manufacturing
+Standards
+
+ISO 13485 ISO 13485
+
+Certification number
+and date
+
+- *
+
+Copies of all calibration
+and test reports and
+certifications to be
+submitted at the time
+of Supply of Machine
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Tukheswar
+Buragohain
+
+785640,CENTRAL STORES,
+ONGC, SIVASAGAR
+
+1  60
+
+Special terms and conditions for category C ARM FLUOROSCOPE X RAY MACHINE 
+
+1.Comprehensive warrantyComprehensive warranty shall include preventive maintenance
+including calibration as per technical/ service /operational manual of the manufacturer,
+service charges and spares,. During the warranty period commencing from date of the
+successful completion of warranty period, Service personnel shall visit each consignee site
+
+                               6 / 8
+
+
+
+ 
+
+as recommended in the manufacturer’s technical/ service /operational manual, at least once
+in six months. warranty shall not be including the consumables .Further there will be 98%
+uptime warranty during warranty period on 24 (hrs) X 7 (days) X 365 (days) basis, with
+penalty, to extend warranty period by double the downtime period.Service centresDetails of
+Service outlets in India to render services for equipment to be furnished to buyer/consignees
+with complete address ,telephone numbers, e mails etc at time of making the supplies .It
+shall be the responsibility of seller to ensure that authorized service centres are available to
+cater to the areas where supplies are made within reasonable distance from where the
+service calls can be handled .Details of toll free numbers for service call and online
+registration of service requests also to be provided buyer/consignee at the time of
+supplies.Source of supplyIt shall be responsibility of seller to provide Documents regarding
+source of equipments such as copy of Performa invoice or any other documents to establish
+that the products supplied are manufactured by OEM indicated and sourced from
+them.Packing and MarkingMedical equipments being very delicate and sensitive packing for
+the goods should be strong and durable enough to withstand transit including transhipment
+(if any), rough handling, open storage etc. without any damage, deterioration etc. .The size,
+weights and volumes of the packing cases, remoteness of the final destination of the goods,
+availability or otherwise of transport and handling facilities at all points during transit up to
+final destination,. Quality of packing, the manner of marking within & outside the packages
+and provision of accompanying documentation shall take in to consideration the type of
+medical equipments being supplied. The accessories shall be suitably labelled and packed
+.Each of the package shall be marked on three sides with indelible paint of proper quality:
+indicating contract number and date , brief description of goods including quantity ,. Packing
+list reference number , country of origin of goods and any other relevant details.Spare
+PartsSeller shall provide materials, information etc. pertaining to spare parts manufactured
+and supplied by the OEM . It shall be ensured that the required spares are available for
+purchase at least for 10 years from date of supplies .In case due to any reasons the
+production of the spare parts is discontinued sufficient advance notice should be given to
+the buyer/consignee before such discontinuation to provide adequate time to purchase the
+required spare parts etc. Further, OEM and their service centres/dealers shall carry sufficient
+inventories to assure ex-stock supply of consumables and spares for the equipments so that
+the same are available.OEM or reseller shall always accord most favoured client status to
+the buyer/consignee and shall give the most competitive price for spares and consumables
+of its machines/equipments supplied.Installation, Training, ManualsSeller shall be
+responsible to carry out Installation & commissioning, Supervision and Demonstration of the
+goods. They shall provide required jigs and tools for assembly, minor civil works for the
+completion of the installation and Training of Consignee’s representatives for operating and
+maintaining the equipment and Supplying required number of operation & maintenance
+manual for the goods. In case the category parameters are specifying any requirements
+regarding the installations , training and manuals the same shall also be applicable.
+Electrical safety checkingSellers are required to make sure that they furnish the list of
+equipments for carrying out routine and preventive maintenance to buyer/consignee. They
+should make sure to periodically check the electrical safety aspects as per BIS Safety
+Standards or equivalent .In case they do not have required equipment for such testing
+should ensure that the equipments checked for electrical safety compliance through labs
+with facilities for such checking during every preventive maintenance call. Software All
+software updates should be provided free of cost during warranty period.
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+2.Nominated Inspection Agency: On behalf of the Buyer organization, any one of the
+following Inspection Agency would be conducting inspection of stores before acceptance:
+Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause
+has been selected in ATC): AT DESTINATION, CENTRAL STORES, ONGC, SIVASAGAR
+Post Receipt Inspection at consignee site before acceptance of stores: AT DESTINATION,
+
+                               7 / 8
+
+
+
+ 
+
+CENTRAL STORES, ONGC, SIVASAGAR
+
+3.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 10 days time limit. If the Seller fails to complete
+service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product
+shall be charged as penalty for each week of delay from the seller. Seller can deposit the
+penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty
+amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than
+10% of the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+4.Successful Bidder can submit the Performance Security in the form of Payment online
+through RTGS / internet banking also (besides PBG which is allowed as per GeM GTC). On-
+line payment shall be in Beneficiary name ONGC, SIVASAGAR, ASSAM Account No.
+10637162283 IFSC Code SBIN0004797 Bank Name STATE BANK OF INDIA Branch address
+ONGC COLONY SIVASAGAR BRANCH-785640. Successful Bidder to indicate Contract number
+and name of Seller entity in the transaction details field at the time of on-line transfer.
+Bidder has to upload scanned copy / proof of the Online Payment Transfer in place of PBG
+within 15 days of award of contract.
+
+5.Bidders can also submit the EMD with Account Payee Demand Draft in favour of F&AO,
+ONGC, SIVASAGAR payable at AT SIVASAGAR.
+Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure
+delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date.
+
+6.Bidders can also submit the EMD with Banker’s Cheque in favour of F&AO, ONGC,
+SIVASAGAR payable at SIVASAGAR.
+Bidder has to upload scanned copy / proof of the BC along with bid and has to ensure
+delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date.
+
+7.Bidders can also submit the EMD with Payment online through RTGS / internet banking in
+Beneficiary name ONGC, SIVASAGAR, ASSAM Account No. 10637162283 IFSC Code
+SBIN0004797 Bank Name STATE BANK OF INDIA Branch address ONGC COLONY SIVASAGAR
+BRANCH-785640.
+ Bidder to indicate bid number and name of bidding entity in the transaction details field at
+the time of on-line transfer. Bidder has to upload scanned copy / proof of the Online Payment
+Transfer along with bid.
+
+8.Successful Bidder can submit the Performance Security in the form of Account Payee
+Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in
+favour of F&AO, ONGC, SIVASAGAR payable at AT SIVASAGAR. After award of contract,
+Successful Bidder can upload scanned copy of the DD in place of PBG and has to ensure
+delivery of hard copy to the original DD to the Buyer within 15 days of award of contract.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               8 / 8
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

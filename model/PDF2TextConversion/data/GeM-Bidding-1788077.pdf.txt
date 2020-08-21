@@ -1,0 +1,691 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/711814
+
+  Dated: 15-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 25-07-2020 19:00:00
+
+Bid Opening Date/Time 25-07-2020 19:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Uttar Pradesh
+
+Department Name Urban Development Department Uttar Pradesh
+
+Organisation Name N/a
+
+Office Name Nagar Palika Parishad Kairana
+
+Total Quantity 1000
+
+Item Category LED Luminaire (For Road and Street Lights)
+
+Bidder Turnover (Last 3 Years)  14 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Bidder Turnover,Certificate
+(Requested in ATC),OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  Yes
+
+Inspection to be carried out by Buyers own
+empanelled agency
+
+ Yes
+
+Type Of Inspection  Post Dispatch
+
+Name of the Empanelled Inspection
+Agency/ Authority
+
+ Board of Officers
+
+Quality Assurance Plan document 1594818825.pdf
+
+Estimated Bid Value  2800000
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+                               1 / 8
+
+https://bidplus.gem.gov.in/resources/upload/bidding/biddoc/bid-1788077/1594818825.pdf
+
+
+ 
+
+EMD Percentage(%) 1.50
+
+EMD Amount 42000
+
+ePBG Detail
+
+Required No
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+Nagar Palika Parishad, Kairana
+nagar palika parishad kairana, Urban Development Department Uttar Pradesh, N/A,
+(Executive Officer)
+
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+
+LED Luminaire (For Road And Street Lights) ( 1000 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+STANDARDS LED Luminaire
+conformity to
+IS:10322/Part 5/Section
+3/2012 latest and IS:
+16107 (Part 2/Sec
+1):2012 latest
+
+Yes *
+
+                               2 / 8
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/Jcoq8t-a1B99Hc5TrvaddnCC6UuTWYm1rW8_kch8140
+
+
+ 
+
+Photo biological safety
+of LEDs used shall be
+as per IS:16108/2012
+(exempt group)
+
+Yes *
+
+Types of LED Luminaire
+as per the IS:
+16107(Part-2/
+Sec.-1)/2012
+
+Type B *
+
+Types of LED Modules
+as per the IS:IS:
+16103(Part-2)/2012
+
+Type 3 *
+
+LED Rating (in
+Watts)/System
+Wattage/Rated
+Power
+
+45W 45W
+
+Luminaire System
+Efficacy (Lumen/watt)
+
+>/= 100 Lm/Watt *
+
+Ingress Protection (IP
+Rating) as per IS:10322
+(Part 1):1982 latest
+
+IP66 *
+
+Warranty for free
+replacement (in
+years)
+
+2 2, 5
+
+ELECTRICAL
+EFFICIENCY
+
+Input operating Voltage
+range and frequency
+
+90 to 300 Volts AC at
+50 Hz+/-2
+
+*
+
+Automatic Higher Cut
+off voltage above 300
+volt
+
+Yes *
+
+Rated voltage 230 V AC 50 Hz *
+
+AC Power Factor at full
+load
+
+≥ 0.95 *
+
+Driver Efficiency (in
+%age) Upto 100W:
+≥85%, Above 100W:
+>/=90%
+
+Yes *
+
+Total Harmonics
+Distortion
+
+≤ 10 *
+
+"The total circuit power
+shall not be more than
+110 percent of the
+value declared by the
+manufacturer (as per
+Cl. 8 of IS:16104:2012
+lates)"
+
+Yes *
+
+OPTICAL LED chip Efficacy ≥130 Lm/Watt *
+
+Colour temperature 6000+/-500K *
+
+Working life for LED
+(Minimum 50,000
+burning hours as per
+
+Yes *
+
+                               3 / 8
+
+
+
+ 
+
+LM-80 and LM 21
+reports)
+
+Colour Rendering
+Index(CRI)
+
+≥70 *
+
+LED Beam Angle ≥120 *
+
+Optic lense materal (UV
+stabilised)
+
+Poly carbonate lense *
+
+THERMAL
+MANAGEMENT
+
+Heat sink should be die-
+cast aluminium along
+with sufficient heat sink
+fins to dissipate heat
+effectively
+
+Yes *
+
+Junctiojn / Soldering
+point temperature shall
+not exceed 85 deg.c as
+per LM 80 report
+
+Yes *
+
+Capacitor shall be rated
+for a temperature of
+105 deg. celsius or
+better
+
+Yes *
+
+Operating
+temperature range
+
+-10 deg C to +50 deg C -20 deg. C to +50 deg.
+C, -10 deg C to +50
+deg C, -10 deg C to
++55 deg C
+
+Operating Humidity
+Range
+
+10 % to 95% RH *
+
+PROTECTION Short circuit Protection Yes *
+
+Over load protecton Yes *
+
+Over Voltage protection Yes *
+
+Reverse polarity Yes *
+
+High voltage test (1.5
+KV for one minute
+between supply
+terminals and body of
+the unit)
+
+Yes *
+
+Insulation resistance
+between earth and
+current carrying part
+
+>100 M Ohm *
+
+The luminaire shall be
+protected against
+surges and transients (
+Internal)
+
+>/=5KV *
+
+The luminaire shall be
+protected against
+surges and transients
+of >/=10KV (External)
+
+Yes *
+
+CONSTRUCTIONAL The Luminaires
+casing/housing (single
+
+Yes *
+
+                               4 / 8
+
+
+
+ 
+
+piece housing) shall be
+pressure die casted
+aluminium alloy with
+higher thermal
+conductivity
+
+The luminaire body
+must be corrosion
+resistant powder
+coated
+
+Yes *
+
+All fastners must be of
+stainless steel
+
+Yes *
+
+Protection of the entire
+housing (both LED
+section and driver
+section) as per
+IS:10322 (Part 1):1982
+latest
+
+IP66 *
+
+Extruded silicon loop
+gasket shall be
+provided in the lantern
+body to ensure a
+weather proof seal
+between the UV Glass
+cover and the metal
+housing to exclude the
+entry of the dust,
+water, insects etc.,
+
+Yes *
+
+Luminaries light
+transparency should be
+of Toughened glass
+
+Yes *
+
+Toughned transparent
+glass cover thickness
+
+>/=4 mm *
+
+Toughned Glass shall
+not get discoloured
+shall not suffer
+degration due to heat
+and ageing within
+warranty period
+
+Yes *
+
+Number of electronic
+control gear (power
+supplies)
+
+1 No. 1 No., 2 Nos., 3 Nos., 4
+Nos.
+
+Light Source SMD LED Chip as per
+LM 80/IS16106
+
+*
+
+Driver components
+shall be industrial
+grade or above
+
+Yes *
+
+PCB shall be FR4 grade
+minimum 0.8 to 1.0
+mm thick or more
+
+Yes *
+
+The Luminaires works
+on single phase three
+
+Yes *
+
+                               5 / 8
+
+
+
+ 
+
+wires system (Phase,
+Neutral and Earth)
+
+Suitable connector
+shall be provided for
+LED connection
+between driver output
+and LED
+
+Yes *
+
+Length of ISI marked
+three core wire
+(shall be provided
+along with supply of
+material)
+
+100 cm 50 cm, 100 cm
+
+MARKING "Manufactures Name
+and and brand on the
+aluminium die cast
+body "
+
+Engraved/Embossed *
+
+Manufacturer’s name,
+model number, serial
+number
+
+Yes *
+
+Date of manufacture
+(month-year), and lot
+number as
+identification mark
+inside each unit and
+the outside of each
+packaging box
+
+Yes *
+
+The operation
+characteristics voltage
+and power be marked
+inside of each LED
+luminaire unit
+
+Yes *
+
+Diameter of pole
+Luminiare suitable for:
+(upto 45W Pole OD:
+shall be 40mm),
+(>45W<120W Pole OD:
+Shall be 50 mm),
+(above 120W: OD shall
+be 60 mm for which
+luminiare is suitable
+
+Yes *
+
+REPORTS AND
+CERTIFICATIONS
+
+LED Make OSRAM / NICHIA / CREE
+/ SAMSUNG / SEOUL /
+LUMILEDS / PHILIPS /
+SYSKA / LUMENMAX /
+EVERLIGHT / EDISON /
+BRIDGELUX /
+NATIONSTAR / REFOND
+
+*
+
+System must have
+EMI/EMC compliance as
+applicable (Test reports
+shall be furnish to the
+buyer / consignee on
+demand)
+
+Yes *
+
+                               6 / 8
+
+
+
+ 
+
+LM 79 (Photometry)
+(Ref.IS:16106:2012)
+report from Central
+Government Lab
+/NABL/ILAC accrediated
+lab. Reports shall be
+furnish to the buyer /
+consignee on demand
+(LM-79 report shall
+have total lumen
+output, power, PF,
+Current in Amps, CRI &
+CCT etc.,)
+
+Yes *
+
+LM 80 & TM 21 (Ref.
+IS:16105:2012) Report
+and Photo biological
+report for LED report
+from Central
+Government Lab
+/NABL/ILAC accrediated
+lab. Reports shall be
+furnish to the buyer /
+consignee on demand
+(LM-80 report shall
+have the Pohoto
+Biological report of the
+LED Chip being used in
+the luminaire)
+
+Yes *
+
+Availability of test
+Report from Central
+Government Lab
+/NABL/ILAC accrediated
+lab to Indian Standrad
+IS:10322/part
+5/sec-3/2012 and IS
+16107 (Part 2/Sec 1) :
+2012
+
+Yes *
+
+Seller shall furnish the
+Type test reports to the
+buyer / consignee on
+demand
+
+Yes *
+
+DC or AC supplied
+electronic control gear
+for LED Module shall
+comlpy as per IS:15885
+(Part 2/Sec.13)
+
+Yes *
+
+LED Luminaire for road
+and street lighting shall
+comply with
+Complusory
+Registration(CRS) of
+BIS for safety as per IS
+10322 (Part 5/Section
+3): 2012 as applicable
+
+Yes *
+
+                               7 / 8
+
+
+
+ 
+
+on date
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Rakesh Kumar 247774,Nagar Palika
+Parishad Kairana Moh.
+Begumpura Kairana
+
+1000  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               8 / 8
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,738 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/708845
+
+  Dated: 13-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 24-07-2020 12:00:00
+
+Bid Opening Date/Time 24-07-2020 12:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Human Resource Development
+
+Department Name Department Of Higher Education
+
+Organisation Name Indian Institute Of Technology (iit)
+
+Office Name North Zone Roorkee
+
+Total Quantity 1
+
+Item Category Workstation
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Certificate (Requested in ATC),OEM Authorization
+Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+                               1 / 7
+
+
+
+ 
+
+Workstation ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Processor Processor Make Intel Intel, AMD
+
+Processor
+Generation
+
+NA 7, 8, 9, NA, 10 Or
+higher
+
+Number of Cores per
+Processor
+
+20 *
+
+Processor Base
+Frequency (GHz)
+
+2.1 *
+
+Processor Turbo
+Frequency (GHz)
+
+3.9 *
+
+Processor
+Description
+
+Intel Xeon Gold Series *
+
+Processor Number Intel Xeon Gold 6230 *
+
+Number of sockets
+available on the
+motherboard
+
+2 *
+
+Number of Sockets
+populated with the
+Processors
+
+2 1, 2 Or higher
+
+Cache (MB) 27.5 1 - 64
+
+Out of Band
+Management
+
+Intel vPro *
+
+Type Form Factor Desktop Mobile - Standard,
+Mobile - Detachable,
+Mobile - Convertible,
+Mobile - Ultra Small
+Form Factor, Desktop,
+Rack - 1U, Rack - 2U
+
+Motherboard Chipset Number Intel C621 *
+
+Expansion Slots (PCIe x
+1) (Number)
+
+0 *
+
+Expansion Slots (PCIe x
+4) (Number)
+
+1 *
+
+Expansion Slots (PCIe x
+8) (Number)
+
+1 *
+
+Expansion Slots (PCIe x
+16) (Number)
+
+3 *
+
+Expansion Slots (PCI)
+(Number)
+
+1 *
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/uMcOeILzhrhTQCbFg6QnoT7z5H4RT9a_jmkMqydHRRY
+
+
+ 
+
+Graphics Graphics Type Dedicated/Discrete Integrated,
+Dedicated/Discrete
+
+Number of Graphic
+Cards
+
+1 0, 1, 2, 3, 4 Or higher
+
+Graphic Card
+Description
+
+nVIDIA Quadro P2000
+5GB
+
+*
+
+Operating System Operating System
+(Factory Pre-Loaded)
+
+Windows 10
+Professional 64 bit
+
+Windows 10
+Professional 64 bit,
+Ubuntu Linux, Redhat
+Linux, DOS
+
+Recovery Image Media NA *
+
+OS Certification Windows,Redhat Linux *
+
+Applications Applications
+Compatible with the
+Workstation (Requisite
+document may be
+furnished as and when
+demanded by the
+buyer)
+
+Adobe After Effects
+CS/CC,Adobe Premiere
+Pro CS/CC
+
+*
+
+Memory RAM Type DDR4 *
+
+RAM Speed (MHz) 2666 *
+
+Type of Memory ECC RDIMM *
+
+RAM Size (GB) 256 *
+
+Total Numbers of DIMM
+Slots Available
+
+12 *
+
+Number of DIMM Slots
+Populated
+
+4 *
+
+RAM Expandability
+upto using spare
+DIMM Slots (GB)
+
+768 *
+
+Primary Storage /Boot
+Drive
+
+Type of Drives used
+to populate the
+internal Bays
+
+SSD SATA, SAS, SSD, PCle,
+NA
+
+Number of Drives 1 *
+
+RAID for Operating
+System
+
+0 0, 1, NA
+
+Capacity of each
+Drive (GB)
+
+512 *
+
+Secondary Storage Type of Drives used
+to populate the
+Internal Bays
+
+SATA SATA, SAS, SSD, PCIe,
+NA
+
+Total number of
+Internal Bays available
+for SATA Drive
+
+4 *
+
+Number of Internal
+Bays populated with
+
+1 *
+
+                               3 / 7
+
+
+
+ 
+
+SATA Drive
+
+Each SATA Drive
+Capacity (GB)
+
+4000 500, 1000, 2000, 4000,
+8000, 0, 6000 Or
+higher
+
+Speed of each SATA
+Drive (RPM)
+
+7200 *
+
+Total SATA Drive
+Capacity (GB)
+
+4000 *
+
+Total number of
+Internal Bays available
+for SAS Drive
+
+0 *
+
+Number of Internal
+Bays populated with
+SAS Drive
+
+0 *
+
+Capacity of each SAS
+Drive (GB)
+
+0 300, 600, 900, 1200,
+1800, 800, 0, 4000 Or
+higher
+
+Speed of each SAS
+Drive (RPM)
+
+0 *
+
+Total SAS Drive
+Capacity (GB)
+
+0 300, 600, 900, 1200,
+1800, 2100, 0, 4000 Or
+higher
+
+Total number of
+Internal Bays available
+for SSD
+
+1 *
+
+Number of Internal
+Bays populated with
+SSD Drive
+
+1 *
+
+Capacity of each SSD
+Drive (GB)
+
+512 128, 256, 512, 1024,
+2048, 800, 0 Or higher
+
+Total SSD Capacity
+(GB)
+
+512 128, 256, 384, 512,
+768, 1024, 2048, 4096,
+0, 5120 Or higher
+
+Total number of
+Internal Bays available
+for PCIe SSD
+
+0 *
+
+Number of Internal
+Bays populated with
+PCIe Drive
+
+0 0, 1, 2, 3, 4, 5, 6, 7, 8
+Or higher
+
+Capacity of each
+PCIe Drive (GB)
+
+0 128, 256, 512, 1024,
+2048, 0 Or higher
+
+Total PCIe Drive
+Capacity (GB)
+
+0 128, 256, 512, 1024,
+2048, 4096, 0, 1536 Or
+higher
+
+Class of PCIe Drives NA *
+
+RAID RAID level 0 *
+
+Number of RAID 8 2, 3, 4, 5, 6, 7, 8, 10, 0
+
+                               4 / 7
+
+
+
+ 
+
+Controller Ports Or higher
+
+Speed of RAID
+Controller Ports
+(Gbps)
+
+6 6, 12, 0 Or higher
+
+RAID Controller Cache
+(GB)
+
+0 *
+
+Connectivity Type of Ethernet Ports Dual Gigabit NIC
+10/100/1000
+
+*
+
+Number of Ethernet
+Ports
+
+2 1, 2, 3, 4, 6 Or higher
+
+Wireless
+Connectivity
+
+Yes Yes, No Or higher
+
+If Yes, Type of
+Wireless
+Connectivity
+
+Wi-Fi 802.11ac Wi-Fi 802.11b/g/n, Wi-Fi
+802.11ac, NA Or higher
+
+Bluetooth
+Connectivity
+
+Yes Yes, No Or higher
+
+If Yes, Version of
+Bluetooth Available
+
+4.2 4, 4.1, 4.2, 5, 0 Or
+higher
+
+Ports Number of USB Version
+2 Point 0 Ports
+
+2 *
+
+Number of USB Version
+3 point 0 / 3 point 1,
+Gen 1 Ports
+
+8 *
+
+Number of USB Version
+3 point 1, Gen 2 Ports
+
+0 *
+
+Number of USB Type C
+Ports
+
+0 *
+
+Number of VGA Ports 0 *
+
+Number of HDMI Ports 0 *
+
+Number of Mini DP
+Ports
+
+0 *
+
+Number of DP Ports 4 *
+
+Display Display Availability Monitor Integrated, Monitor, NA
+
+Display Size (cm) 68- 71 *
+
+Display Type Non Touch Non Touch, Touch, NA
+Or higher
+
+Panel Type Flat Flat, Curved, NA Or
+higher
+
+Panel Technology IPS IPS, TN, VA, OLED, NA
+Or higher
+
+Display Resolution
+(Pixels)
+
+3840 x 2160 *
+
+LED Backlit Yes *
+
+                               5 / 7
+
+
+
+ 
+
+TCO Compliance for
+Monitor
+
+TCO 07 *
+
+Colour Gamut 72% Color Gamut *
+
+Monitor Stand Standard *
+
+Power Maximum Power
+(Watts)
+
+900 *
+
+Minimum Power
+Efficiency (%)
+
+- *
+
+Power Management
+Unit
+
+Yes *
+
+Redundant Power
+Supply
+
+No Yes, No Or higher
+
+Input Devices Mouse Connectivity, If
+available
+
+Wired *
+
+Type of Mouse, If
+available
+
+Optical Scroll *
+
+Keyboard Connectivity,
+if available
+
+Wired *
+
+Type of Keyboard, if
+available
+
+Standard *
+
+Type of Keyboard in
+case of Mobile
+Workstation
+
+NA *
+
+Generic Optical Drive - *
+
+Number of External
+Bays
+
+2 *
+
+Security S/W Based *
+
+Docking Station for
+Mobile Workstation
+
+No *
+
+Availability of Bundled
+Software
+
+Yes *
+
+Type of Bundled
+Software
+
+Standard Performance
+Improvement Software
+
+*
+
+Finger Print Reader in
+case of Mobile
+Workstation
+
+NA *
+
+Carry Case in case of
+Mobile Workstation
+
+NA *
+
+Certification BIS Registration under
+CRS of Meity (Requisite
+certificate may be
+furnished as and when
+demanded by the
+buyer)
+
+Yes *
+
+BIS Registration
+Number and its Validity
+
+- *
+
+                               6 / 7
+
+
+
+ 
+
+ROHS Compliance Yes *
+
+Other Certification
+Available (Requisite
+certificate may be
+furnished as and when
+demanded by the
+buyer)
+
+- *
+
+Operating Conditions Minimum Operating
+Temperature (Degree
+C)
+
+10 *
+
+Maximum Operating
+Temperature (DEgree
+C)
+
+35 *
+
+Minimum Operating
+Humidity (%RH)
+
+35 *
+
+Maximum Operating
+Humidity (%RH)
+
+90 *
+
+Warranty Battery Warranty in
+case of Mobile
+Workstation
+
+0 *
+
+On Site OEM
+Warranty (Year)
+
+3 1, 2, 3, 4, 5 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Mohd Ashraf Iqbal 247667,INDIAN INSTITUTE
+OF TECHNOLOGY ROORKEE,
+ROORKEE
+
+1  40
+
+Bid Specific Additional Terms and Conditions
+
+1.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents
+sought in the Bid document, ATC and Corrigendum if any.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

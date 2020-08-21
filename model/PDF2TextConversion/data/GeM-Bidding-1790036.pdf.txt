@@ -1,0 +1,940 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/713616
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 17:00:00
+
+Bid Opening Date/Time 27-07-2020 17:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 65 (Days)
+
+Ministry/State Name Ministry Of Health And Family Welfare
+
+Department Name Department Of Health And Family Welfare
+
+Organisation Name Post Graduate Institute Of Medical Education And Research
+Chandigarh
+
+Office Name Pgimer
+
+Total Quantity 2
+
+Item Category Echo Cardiography Scanning Machine
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Document required from seller  OEM Authorization Certificate
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the
+buyer
+
+Bid to RA enabled  Yes
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 2.00
+
+EMD Amount 100800
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 10.00
+
+Duration of ePBG required (Months). 62
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant
+category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for
+Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+                               1 / 9
+
+
+
+ 
+
+Beneficiary: 
+ASST. PURCHASE OFFICER
+Pgimer, Department of Health and Family Welfare, Post Graduate Institute of Medical Education and Research
+Chandigarh, Ministry of Health and Family Welfare
+(Yogesh Kumar Sharma)
+
+Splitting
+
+  Bid splitting not applied.  
+
+Echo Cardiography Scanning Machine ( 2 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Product certification - *
+
+Certification number and
+date
+
+- *
+
+Confirmity to
+Manufacturer's
+Certification
+
+ISO 9001 AND ISO 13845
+BOTH
+
+ISO 9001 AND ISO 13845
+BOTH
+
+Confirmity to Performance
+and safety standards
+specific to the device
+
+IEC 60601-2-27 or
+equivalent BIS
+
+*
+
+Performance Parameters Product Description Cardiac ultrasonic scanning
+systems
+
+*
+
+Scope of supply Cardiac ultrasonic scanning
+systems are designed for
+real-time, noninvasive
+assessment of heart
+structures and function.
+They are used to evaluate
+cardiac wall motion and
+valve function to detect
+such conditions as mitral
+valve prolapse and aortic
+valve stenosis, to determine
+the extent of damage from
+suspected myocardial
+infarction, and to diagnose
+congenital cardiac defects
+
+*
+
+UMDNS Code and
+names(Hint: This is for
+indicating the relevant
+universal medical devices
+nomenclature for the
+category of prouct )
+
+Scanning Systems,
+Ultrasonic, Cardiac [17-422]
+Scanning Systems,
+Ultrasonic, Intravascular
+[17-746]V
+
+*
+
+Types of Probes & Features Echocardiography Scanning
+System shouls have an
+option of Cardiac (adult,
+pediatric), intraoperative,
+small organs, TEE, vascular
+
+YES *
+
+                               2 / 9
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/odj7JwzhBtOmFtp1qNJSSbgDCwxVNu64Tjz1OXMAnnw
+
+
+ 
+
+Cardiac and Vascular
+Probes Configuration
+
+TTE AND LINEAR TTE AND LINEAR
+
+TTE Probe Type Adult and Pediatric Adult and Pediatric
+
+Adult TTE probe Frequency
+in MHz
+
+3-5 MHz (±2) *
+
+Pediatric TTE probe
+Frequency in MHz
+
+5-7.5 MHZ (±2) *
+
+TEE Adult Probe biplane
+and Multiplane
+frequency, in MHz
+
+Not Applicable Not Applicable
+
+TEE Pediatric Probe
+Supplied
+
+No No
+
+TEE Pediatric Probe
+frequency, in MHz
+
+Not Applicable Not Applicable
+
+Linear Probe for linear/
+vascular applications
+
+Yes Yes
+
+Adult/Pediatric Linear
+probe frequency in MHz
+
+5 - 14 MHz (±2) 5 - 14 MHz (±2)
+
+No of Adult TTE Probes
+supplied
+
+1 *
+
+No of Pediatric TTE
+Probes supplied
+
+1 1
+
+No of Adult TEE Probes
+supplied
+
+NA NA
+
+No of Pediatric TEE Probes
+supplied
+
+NA *
+
+No of Adult/pediatric
+Linear Probes supplied
+
+1 1
+
+Dedicated 3D/4D volume
+imaging for cadiology
+TTE ad TEE
+
+No No
+
+Live 3 D imaging in color
+doppler system
+
+No No
+
+Colour Doppler system
+with all application
+packages ,Quad loop for
+serial studies with high
+frame rate revies,
+harmonic imaging
+capability in all modes
+and integrated stress
+echo package digital
+storage and retrieval
+
+No No
+
+Number of grey shades for
+sharp contrast resolutions in
+db
+
+256 Or more *
+
+High-definition acoustic
+zoom provision for enlarging
+sections of 2D and Colour
+flow images with more
+acoustic information for
+greater clarity and detail
+while maintaining an
+optimal frame rate
+
+YES *
+
+Colour Flow Imaging Optin YES *
+
+Provision of Tissue No No
+
+                               3 / 9
+
+
+
+ 
+
+Colorization (B-Colour)
+for improved contrast
+resolution
+
+Application software Adult,Pediatric & Vascular
+applications
+
+Adult,Pediatric & Vascular
+applications
+
+All application packages
+should be inbuilt into the
+system
+
+YES *
+
+Cine Loop Features Yes Yes
+
+Cine Loop Memory in
+Frames
+
+255 *
+
+Frame grabber facility
+for post analysis
+
+Yes Yes
+
+Facility of Various maps
+for pre and post
+processing
+
+Yes Yes
+
+ECG trigger facility No No
+
+User defined system and
+application presets for multi-
+user department
+
+YES *
+
+"Dedicated integrated
+dynamic stress echo
+package for flexible user
+defined protocols with
+stacked sub loops facility
+and contrast stress
+protocol usable for
+stress
+echocardiography"
+
+No No
+
+Provision of Tissue
+movement colorization with
+quantification possibility for
+IHD/CAD/Heart Failure
+patients
+
+YES *
+
+Number of
+transducer/probe ports
+
+3 3
+
+Scan Modes and
+Performance Parameters
+
+Cardiac 3-D freehand
+Option
+
+No No
+
+Cardiac 3D/4D automatic
+Option
+
+No No
+
+B-mode YES *
+
+M MODE YES *
+
+Contrast Harmonic/Agent
+Imaging with angio mode
+
+Yes Yes
+
+Tissue harmonic imaging
+mode
+
+YES *
+
+Provision of Harmonic
+imaging in TTE, TEE and
+Linear Probes
+
+Yes Yes
+
+Color Doppler imaging (CDI) YES *
+
+Color Doppler 3-D/4-D
+option
+
+No No
+
+Power Doppler imaging
+(PDI)
+
+YES *
+
+Power Dopple 3-D/4-D No No
+
+                               4 / 9
+
+
+
+ 
+
+option
+
+Continuous wave YES *
+
+Pulsed wave YES *
+
+Duplex mode YES *
+
+Triplex mode YES *
+
+Tissue Doppler imaging YES *
+
+Contrast-enhanced
+ultrasound (CEUS) option
+
+No No
+
+Tissue synchronization,
+tissue velocity
+
+Yes Yes
+
+Cardiac Shear wave
+elastography
+
+No No
+
+Cardiac compression
+elastography
+
+No No
+
+Gain control in two
+dimensions for additional
+level of flexibility for image
+quality control
+
+YES *
+
+"Provision for higher
+resolution "
+
+Real time high frequency 2D *
+
+Probes supplied shall be in
+latest generation bandwidth
+
+YES *
+
+Provision for higher
+sensitivity for low
+frequency doppler in all
+probes
+
+Yes Yes
+
+Latest generation
+Electronic Phased/sector
+array Colour Doppler
+system
+
+Yes Yes
+
+Number of Channels in
+color doppler system
+
+128 or more (if channels are
+being designated as
+physical channels)
+
+128 or more (if channels are
+being designated as
+physical channels)
+
+System should be
+capable of generating
+real time live 3- D
+images
+
+NO NO
+
+Provision of
+Echocardiographic strain
+and strain-rate imaging with
+2 D imaging
+
+No *
+
+Provision of
+Echocardiographic strain
+and strain-rate imaging with
+3 D imaging
+
+No *
+
+Image display and
+processing
+
+DICOM THREE POINT
+ZERO COMPLIANT
+
+No No
+
+Adjustable transmit focus YES *
+
+Automated B-mode (2-D)
+image
+
+Yes Yes
+
+Automated CDI image
+optimization
+
+Yes Yes
+
+Automated PW Doppler
+image optimization
+
+Yes Yes
+
+                               5 / 9
+
+
+
+ 
+
+Dynamic receive focus YES *
+
+Grayscale levels 256 *
+
+Image magnification (zoom) YES *
+
+Real-time image YES *
+
+Frozen image YES *
+
+TOUCH SCREEN NO NO
+
+HIGH RESOLUTION
+MONITOR
+
+YES *
+
+"Provision of Tilt and Swivel
+monitor should be able to
+view in all angles and all
+light conditions"
+
+YES *
+
+Monitor display size, cm
+(in)
+
+12 Inch(±1) 12 Inch(±1)
+
+Split screen TWIN VIEW TWIN VIEW
+
+Single/dual monitors SINGLE SINGLE
+
+Depth, cm ≥30 (11.8) *
+
+PREPROCESSING YES *
+
+POST PROCESSING YES *
+
+SELECTABLE DYNAMIC
+RANGE
+
+YES *
+
+SPECTRUM ANALYZER YES *
+
+DIGITAL IMAGE STORAGE YES *
+
+CINE LOOP PLAYBACK YES *
+
+Max number frames 600 *
+
+HARD DRIVE STORAGE
+CAPACITY , GB
+
+>=500 GB *
+
+Speckle-tracking strain
+and strain rate
+
+No No
+
+Stress echo No No
+
+EXAM PROTOCOL YES *
+
+Analysis and calculation
+packages
+
+NO NO
+
+Automated YES *
+
+Digital calipers YES *
+
+EXAM PRESETS YES *
+
+Customizable presets YES *
+
+On-screen annotation YES *
+
+DVD/CD Writer No No
+
+Flash Memory YES *
+
+USB connector YES *
+
+Type of printer provided
+with the echo cardio
+machine
+
+THERMAL PRINTER THERMAL PRINTER
+
+"Facility for high definition
+digital acquisition, review
+and editing of complete
+patient studies"
+
+YES *
+
+                               6 / 9
+
+
+
+ 
+
+Connectivity to PC and Echo
+cardiography machine
+
+THROGH IMS SOFTWARE *
+
+Provision of PC with echo
+cardio gram machine
+
+No No
+
+Type of processor 1.7 OR LATEST 1.7 OR LATEST
+
+RAM capacity of PC in GB
+(hint: In caase PC not
+provided put zero)
+
+NA NA
+
+Processor speed in GHZ NA NA
+
+Frame Grabber
+incorporated
+
+No No
+
+Conectivity between
+Echo cardiogram and PC
+
+NA NA
+
+PC with all software
+inclusive interfaced with
+echocardiograph
+machine
+
+NA NA
+
+laser Color printer
+provided with computer
+for rerporting
+
+No No
+
+Inkjet printer provided
+with computer for
+reporting
+
+No No
+
+CD/DVD Produced should
+be playable on any
+system
+
+No cd/dvd Writer provided No cd/dvd Writer provided
+
+Glossy Colour Print
+Paper supplied
+
+Not provided Not provided
+
+ECG Cable NA NA
+
+Echo cardiography sytem
+to be DICOM Ready
+
+No No
+
+Dicom Interfacability to
+HIS
+
+No No
+
+Dicom Interfacability
+Dicom to PACS
+
+No No
+
+Interfacability Dicom to
+RIS
+
+No No
+
+Echo Cardiography sytem
+supplied should be
+upgradable to next
+generation system on site
+
+YES *
+
+Power Requriments Power input, VAC 220-240VAC, 50Hz fitted
+with Indian plug
+
+*
+
+Resettable over current
+breaker shall be fitted
+for protection
+
+No No
+
+Power bakup INBUILT BATTERY INBUILT BATTERY
+
+Back up time in minutes 60 60
+
+Suitable Servo Controlled
+Stabilizer / CVT should be
+provided
+
+YES *
+
+Miscellaneous Parameters Warranty in years 5 5
+
+Number of installations MORE THAN 3 MORE THAN 3
+
+                               7 / 9
+
+
+
+ 
+
+of the echo cardiogram
+machines in Central
+/State/PSU Govt
+Hospitals( Note: Seller
+should supply a
+performace certificate of
+the device to the buyer if
+demanded after
+placement of order)
+
+User/Technical/Maintenance
+manuals to be supplied in
+English in hard and soft
+copy
+
+YES *
+
+Demonstration of
+equipment and training to
+be provided after
+completing supplies &
+Installation before
+acceptance
+
+YES *
+
+The Principal Manufacturer
+must have direct
+Presence/approved service
+center In India
+
+YES *
+
+Copies of reports and
+certifications to be furnished
+to buyer on demand at time
+of supplies
+
+YES *
+
+Attach certificate from the
+principal that spare parts
+will be available for next 10
+years
+
+YES *
+
+QA, QC Or other Calibration
+tests(6 months/ 1 year as
+per NABH/JCI)
+
+YES *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Ramesh Lal 160012,Store Officer Central
+Stores Nehru Hospital POST
+GRADUATE INSTITUTE OF
+MEDICAL EDUCATION AND
+RESEARCH, sector 12
+CHANDIGARH
+
+2  30
+
+Bid Specific Additional Terms and Conditions
+1.If the agency is registered under MSME or NSIC, then EMD exemption certificate needs to be enclosed.
+2.Make in india specific authorisation certificate needs to be enclosed.
+3.IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered
+
+office in India to provide after sales service support in India. The certificate to this effect should be submitted.
+4.SLBR52
+5.Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods
+
+and Training of operators and providing Statutory Clearances required (if any)
+6.ISO 9001: The bidder must have ISO 9001 certification.
+
+                               8 / 9
+
+
+
+ 
+
+7.The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test
+certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid
+document.
+
+8.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each
+Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If
+service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one
+within 30 days of award of contract. Payment shall be released only after submission of documentary evidence
+of having Functional Service Centre.
+
+9.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone
+No. for Service Support.
+
+10.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for
+Service Support.
+
+11.Warranty period of the supplied products shall be 5 years from the date of final acceptance of goods or after
+completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee
+location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The
+seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller
+should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service
+group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to
+be uploaded along with the bid
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               9 / 9
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

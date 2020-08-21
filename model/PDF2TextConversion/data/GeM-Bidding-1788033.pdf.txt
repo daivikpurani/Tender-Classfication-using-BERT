@@ -1,0 +1,384 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/711774
+
+  Dated: 15-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 25-07-2020 17:00:00
+
+Bid Opening Date/Time 25-07-2020 17:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 70 (Days)
+
+Ministry/State Name Ministry Of Coal
+
+Department Name Materials Management
+
+Organisation Name Northern Coalfields Limited
+
+Office Name Nagpur
+
+Total Quantity 1
+
+Item Category Electronic Weighing Scales
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+Estimated Bid Value  60000
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Electronic Weighing Scales ( 1 pieces )
+
+Technical Specifications
+
+                               1 / 4
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+PERFORMANCE
+PARAMETERS
+
+Type of Electronic
+Weighing Machine
+
+electronic weighing
+scale
+
+electronic weighing
+scale
+
+Rated Load/
+Capacity(kg)
+
+20 kg 20 kg
+
+Resolution(gms) 1 g 1 g
+
+Class type Class-I Class-I
+
+Display lcd lcd
+
+Number of Display single single
+
+Speed of
+measurement
+
+2 More than 1.0 Or
+higher
+
+Internal calibration No Yes, No
+
+Number of scale
+division
+
+- *
+
+Tare provision Manual Manual
+
+Connectivity to
+Computer
+
+Yes Yes
+
+Number of USB ports 1 *
+
+Number of RS232
+ports
+
+1 1
+
+Power Requirement mains operated mains operated
+
+Power Supply Single Phase Single Phase
+
+DC Operating voltage
+in Volts
+
+230 *
+
+Battery Backup No No
+
+Backup time(hour) NA NA
+
+Battery type Non-rechargeable Non-rechargeable
+
+Battery rating - *
+
+Type of Sensing
+Element
+
+Load Cell Load Cell, EMFC
+
+Number of load cell/
+EMFC
+
+1 *
+
+Class of Protection IP 65 *
+
+Warranty in Years 1 1
+
+STANDARDS Conformity to Indian
+Standrad, IS:9281-3
+(1981) part I,II, III &
+Part IV (latest)
+
+Yes Yes
+
+BIS Marked No No
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/bSj6AqxBeF-9Y7d3GHmFYv9LfmKOjCiYnpeuE8wC_wI
+
+
+ 
+
+CM/L No if Yes
+otherwise Put NA
+
+- *
+
+CE Certified No No
+
+If CE certified then
+provide no and date,
+otherwise put NA
+
+- *
+
+DIMENSIONAL &
+MATERIAL
+PARAMETERS
+
+Material of platform - *
+
+Pan/ Platform Shape circular circular
+
+Pan/ Platform Size 100 mm dia 100 mm dia
+
+Dimensions of weighing
+machine (L X W X H ) in
+mm x mm x mm
+
+- *
+
+Weight of Weighing
+Machine
+
+- *
+
+ADDITIONAL FEATURES Overcharging
+protection
+
+Yes *
+
+Alarm for overload &
+Malfunctioning
+
+- *
+
+Operating Temperature
+Range
+
+- *
+
+Relative Humidity - *
+
+GPRS Module facility No *
+
+RFID Module No *
+
+RFID Wrist Band No *
+
+Bluetooth Module No *
+
+Back Grill No *
+
+Details of the optional
+Accessories provided
+with weighing scale
+
+- *
+
+Dust Proof Cover Yes *
+
+REPORTS Model approval
+certificate for each
+model from Director
+Legal Metrology
+
+Yes *
+
+Model approval
+certificate No & Date
+for each model
+
+- *
+
+Type Test Certificate
+including Environment
+conditions from
+Regional Reference and
+Standard Laboratory
+(RRSL)
+
+Yes *
+
+Availability of test
+certificate from
+
+Yes *
+
+                               3 / 4
+
+
+
+ 
+
+Government/ NABL/
+ILAC acredited lab to
+prove confirmity of
+specification as per (IS:
+9281-2 (1979)
+
+Test Report No & date - *
+
+Name of Lab - *
+
+Address of Lab - *
+
+Each weighing machine
+shall be supplied with
+calibration certificate
+under weights and
+measures act
+
+Yes *
+
+Model approval
+certificate,Type test
+and calibration
+certificate to be
+furnished if asked by
+buyer at the time of
+supplies
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Abhay Kumar 440015,CMPDI CAMPUS,
+KASTURBA NAGAR,
+JARIPATKA, NAGPUR
+
+1  60
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

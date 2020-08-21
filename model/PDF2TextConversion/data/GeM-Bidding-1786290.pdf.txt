@@ -1,0 +1,554 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/710209
+
+  Dated: 14-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 24-07-2020 17:00:00
+
+Bid Opening Date/Time 24-07-2020 17:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Health And Family Welfare
+
+Department Name Department Of Health And Family Welfare
+
+Organisation Name N/a
+
+Office Name Chandigarh
+
+Total Quantity 1
+
+Item Category Refrigerated Centrifuge For General And Research
+Purpose
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Refrigerated Centrifuge For General And Research Purpose ( 1 pieces )
+
+Technical Specifications
+
+                               1 / 6
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Conformity to
+standards
+
+- *
+
+Certificate date and
+number
+
+- *
+
+Performance
+Parameters
+
+Purpose To Centrifuge different
+kinds of samples in
+different Testing Labs
+and research Labs at
+room Temperature
+
+*
+
+Centrifuge design Bench Top *
+
+Weight including Rotor
+in kgs
+
+55 *
+
+Maximum RPM with no
+load
+
+20000 *
+
+"Number of steps of
+RPM Variation available
+in the settings
+(correspondingly RCF
+also varies) "
+
+10 *
+
+RPM setting accuracy plus minus 5% *
+
+Type of Motor Brushless(without
+carbons)
+
+Brushless(without
+carbons)
+
+Accessories Spanner to tight or
+loose Nut of Rotor on
+Motor shaft head
+puller,spare rotor nuts
+,fuse-2, Instruction
+Manual Book
+,installation CD
+
+*
+
+Type of lid lock Both Manual and
+Electronic
+
+Both Manual and
+Electronic
+
+Maximum Noise level
+whemn working at 1
+meter distance in db
+
+60 *
+
+Ambient operating
+Temperature range in
+Degree centigrade
+Celsius and humidity
+range
+
+0 to 50 and Relative
+humidity 15 to 90%
+
+*
+
+Rotor imbalance
+diagnostics and
+automatic stop if
+required
+
+Yes *
+
+No of acceleration
+and deceleration
+
+"Programmable from
+50 to 200 Seconds in
+
+"Programmable from
+50 to 200 Seconds in
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/THPBIIGzOKHt3K3mNgRnwY9VjeJGCPum9D3BuPFJtlc
+
+
+ 
+
+profiles in built for
+rotor speed while
+automatic braking
+
+Interval of 5 Seconds" Interval of 5 Seconds"
+
+Maximum timer set
+point
+
+60 minutes *
+
+Parameters to be
+displayed by the digital
+display
+
+RPM,RCF,Set time,Run
+time,Rotor running
+indication ,imbalancing
+if any
+
+*
+
+Display Type LCD *
+
+Speed controller Microprocessor
+controlled pre
+programmed speed
+controller which can
+control RPM as well as
+RCF
+
+*
+
+Speed Control
+tolerance in case of set
+speed (Plus minus RPM
+) in percentage
+
+2 *
+
+Temperature controller Micro processor based
+PID Digital temperature
+controller cum
+Indicator, (With LCD
+Display) to control the
+Temperature from
++40° C up to -20°C
+
+*
+
+Configuration of
+Rotor supplied with
+centrifuge machine
+
+swing out and angle
+rotor
+
+swing out and angle
+rotor
+
+Rotor Feature with
+reference to
+Autoclavability
+
+Autoclavable Rotor
+@121 Degree Celsius
+
+*
+
+Type of Tubes which
+can be used with
+centrifuge machine
+
+Polypropylene
+Centrifuge tubes and
+Glass centrifuge tubes
+
+*
+
+Size of rotor
+supplied with
+centrifuge in ml
+
+"24X2 ml(for angle
+rotor) RPM 16000"
+
+"24X2 ml(for angle
+rotor) RPM 16000"
+
+Maximum RCF 23000 *
+
+Power supply 220 Volts 50 Hz AC ±
+10%
+
+*
+
+Power consumption in
+watts
+
+220 *
+
+Length of the
+Centrifuge in mm
+
+635 *
+
+Width of the Centrifuge
+in mm
+
+508 *
+
+Height of of the 355.6 *
+
+                               3 / 6
+
+
+
+ 
+
+Centrifuge in mm
+
+Length of Power cord in
+meters
+
+3 *
+
+Refrigerant should be
+CFC free
+
+Yes *
+
+Temperature of
+refrigerator in degree
+Celsius
+
+upto -20°C *
+
+Cooling arrangement Through suitable
+compressor, radiator,
+Cooling fan and its
+Cooling Kit
+
+*
+
+Temperature control
+accuracy
+
+± 2°C *
+
+Warranty period for
+equipment & Rotor
+(on site and
+comprehensive
+warranty) in years
+
+1 1
+
+Maximum Noise level
+when working at 1
+meter distance in db
+
+60 *
+
+Material Parameters Assembly Material for
+manufacture of
+Centrifuge
+
+Die cast Aluminum,
+Aluminum sheet,
+Stainless Steel, CRC
+Steel,Plastic and
+Rubber
+
+*
+
+"Lid Material of
+Centrifuge "
+
+CRC Steel finish with
+powder coating or
+stove painting or ABS
+Plastic of injection
+moulding
+
+*
+
+Body material of
+Centrifuge
+
+C.R.C Steel Finish with
+Powder Coating/ Stove
+Painting.
+
+*
+
+Front Panel of
+centrifuge
+
+CRC Steel finish with
+powder coating or
+stove painting or ABS
+Plastic of injection
+moulding
+
+*
+
+Centrifuge Bowl
+material in Centrifuge
+
+Double walled with PUF
+Insulation to avoid loss
+of Cooling. Inner
+Chamber made of 304
+Quality Stainless Steel
+Moulded
+
+*
+
+Material of Rotor Aluminium *
+
+Additional Parameters Condensed Water
+Drainage System
+
+Yes Yes, No
+
+                               4 / 6
+
+
+
+ 
+
+The Equipment shall
+be installed and
+demonstrated before
+Acceptance
+
+Yes Yes
+
+Servo Controller
+Voltage Stabilizer
+supplied with Item
+
+No Yes, No
+
+Servo stabilizer
+ratings in KVA
+
+Not supplied 1, 2, Not supplied
+
+Warranty of
+stabilizer in years
+
+NA(If no stabilizer
+provided)
+
+3, 4, 5, NA(If no
+stabilizer provided)
+
+Auto cut off Yes *
+
+Timer provided Yes *
+
+Reports Certifications of
+Manufacturer
+
+ISO 9001:2015 *
+
+ISO Certificate date and
+number
+
+- *
+
+Copies of all
+certifications and
+reports to be provided
+to buyer on demand at
+time of supplies
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Sandeep Kumar 160038,Punjab State AIDS
+Control Society (PSACS)
+Prayaas Building, 4th Floor,
+Sector-38 B, Chandigarh.
+
+1  15
+
+Bid Specific Additional Terms and Conditions
+
+1.Authorised Service Centre within the state of Odisha, along with a dedicated contact person
+with telephone number for technical solution in a fast track basis at this institution as and
+when required basis.
+
+2.Experience Certificate for the supply of the same to any Govt/ PSU/ any renowned private
+organisation along with Supply/ Purchase Order.
+
+3. If the agency is registered under MSME or NSIC, then EMD exemption certificate needs to be
+enclosed.
+
+4.Make in india specific authorisation certificate needs to be enclosed.
+
+                               5 / 6
+
+
+
+ 
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

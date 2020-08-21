@@ -1,0 +1,495 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/713243
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 15:00:00
+
+Bid Opening Date/Time 27-07-2020 15:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence Production
+
+Organisation Name Indian Ordnance Factories
+
+Office Name ***********
+
+Total Quantity 1
+
+Item Category Video Conferencing End Point
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Video Conferencing End Point ( 1 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Specification Type of End Point 1+5 Multiparty Full HD 1+5 Multiparty Full HD
+
+Does it require mandatory
+registration with MCU
+
+NA *
+
+                               1 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/7H3gsdmjUB_7DrXzlA1JtZN5wwrBh1oJ3Hmu_E9Hlvo
+
+
+ 
+
+Video Conferencing
+System Resolution
+
+1080p, 60 fps 1080p, 60 fps, 4K, 30 fps,
+4K, 60 fps Or higher
+
+Minimum Bandwidth
+Required for Specified video
+quality at End point/far-site
+end (Kbps)
+
+2048 *
+
+Type of Camera PTZ PTZ Or higher
+
+Camera Positioning
+System
+
+Preset Automatic Voice Activated,
+Face Detection, Preset Or
+higher
+
+Type of sensor CMOS *
+
+Camera Control (focusing,
+brightness, and white
+balance)
+
+Automatic *
+
+Multiple Camera System in
+case of Automatic Voice
+activated CameraTracking
+
+NA *
+
+Optical zoom 10X 10X, 12X, 20X, 22X, 30X Or
+higher
+
+Digital zoom NA *
+
+Field of View at zoom
+(Degree)
+
+65 *
+
+Pan range Minimum to
+Maximum (+/- Degree)
+
+100,-100 *
+
+Tilt Range (Degree) 20,-30 *
+
+Cord and Connector to be
+supplied
+
+Yes *
+
+System delivers Full HD
+video and voice & Full HD
+content for an overall Full
+HD experience at specified
+bandwidth
+
+Yes *
+
+Video coding support
+Protocol
+
+H.263,H.264AVC,H.264SVC,
+H.264 High Profile
+
+*
+
+System has G-722/ G-711/
+G-729 or equivalent nt
+wideband audio coding
+support
+
+Yes *
+
+System supports sharing
+of video and graphics
+content during the video
+call
+
+1080p, 30fps 1080p, 30fps, 1080p, 60fps,
+4k, 30fps, 4k, 60fps Or
+higher
+
+It is possible to see both the
+near and far site on one
+Screen thus making most
+efficient use of a single
+display area
+
+Yes *
+
+System is equipped with
+one or more Omni
+directional High Definition
+Microphones as required to
+cover large conference
+room
+
+Yes *
+
+Number of microphone
+supported
+
+4 *
+
+Number of microphone 1 1, 2, 3, 4, 5, 6, 7, 8 Or
+
+                               2 / 5
+
+
+
+ 
+
+supplied higher
+
+Number of camera support
+from the same OEM
+
+1 *
+
+Number of Ethernet
+connection points for
+System supports for RJ-45,
+10/100/1000 Mbps Base-T
+Ethernet connection
+
+1 *
+
+Wi Fi Connectivity No Yes, No Or higher
+
+If Yes, Type of Wi Fi
+Connectivity
+
+NA Integrated, External, NA Or
+higher
+
+System supports AES
+encryption video calls;
+System has Encryption On
+and Off capability
+
+Yes *
+
+Video Codec shall support
+16:9 format
+
+Yes *
+
+Power supply: 230 + or -
+10% volts, 50 Hz
+
+Yes *
+
+Shall come with easy to use
+infra-red hand held remote
+control / Touch Panel with
+operating distance
+
+Yes *
+
+All equipment are in
+compliance with the
+requirements of ITU-T (SIP
+Protocol & H Dot 323)
+Standard related to Video
+Conferencing
+
+Yes *
+
+System to be IPv6 ready
+from day one
+
+Yes *
+
+System uses standards
+based protocols & the
+offered system is inter
+operable with any existing
+H-323 AVC/SVC based VC
+equipment in a P to P call on
+VC end point; All H/W and
+S/W required to make it
+interoperable is included in
+the scope of supply
+
+Yes *
+
+Number of Input DVI Ports 0 *
+
+Number of Input HDMI or
+equivalent Ports
+
+2 *
+
+Number of Input USB Ports 2 *
+
+Number of Output DVI Port 0 *
+
+Number of Output HDMI or
+equivalent Port
+
+2 *
+
+Number of output USB Port 0 *
+
+Calendering Feature Yes *
+
+Recording @1080p on
+the end point
+
+No Yes, No Or higher
+
+System supplied complete
+with the following
+components from the same
+OEM (a) Codec (b) Camera
+
+Yes *
+
+                               3 / 5
+
+
+
+ 
+
+(c) At least one Microphones
+with suitable connectivity
+(d) Remote Control/Touch
+Panel (e) Data sharing
+capability using H/W or S/W
+(f) Necessary Cables
+
+Type of Microphone Omni Directional *
+
+System is also tropicalized
+and report available from
+ILAC/NABL/Govt Lab with all
+add on including
+Environmental Sequence
+
+No *
+
+(a) Dry Heat- For 16 hrs at
+55 deg C as per
+IS:9000/pt-3/sec-5/1977(b)
+Cold-For 4 hrs at 0 deg C as
+per IS:9000/pt-2/sec-4/1977
+(c) Damp Heat- For 2 Cycles
+of 24 h each at 40 deg C &
+95% RH as per IS:9000/pt-
+5/sec-1/1991 (All Reaffirmed
+2007)
+
+No *
+
+After each environmental
+test and a recovery period
+of two hours, the video
+conferencing system has
+been checked for complete
+functional parameters, and
+the results found
+satisfactory
+
+No *
+
+Type Test Report from
+ILAC/NABL/Govt lab
+confirming conformance to
+above technical
+specifications - to be made
+available to buyer
+
+No *
+
+BIS Registration under CRS
+of Meity
+
+NA *
+
+BIS Registration Number
+and its Validity
+
+- *
+
+UL/CE certification Yes *
+
+If Yes, UL/CE certificate
+Number (Corresponding
+UL/CE Certificate to be
+furnished when demanded
+by the buyer)
+
+- *
+
+Minimum Operating
+temperature (Degree C)
+
+0 *
+
+Maximum Operating
+Temperature (Degree C)
+
+40 *
+
+Minimum Operating
+humidity (%RH)
+
+15 *
+
+Maximum Operating
+humidity (%RH)
+
+80 *
+
+Free installation and
+commissioning
+
+Yes *
+
+On Site OEM Warranty
+(Year)
+
+3 3, 5 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+
+                               4 / 5
+
+
+
+ 
+
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********TIRUVALLUR 1  180
+
+Bid Specific Additional Terms and Conditions
+1.Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have regularly,
+
+manufactured and supplied same or similar Category Products to any Central / State Govt Organization / PSU /
+Public Listed Company for 1 year before the bid opening date. Copies of relevant contracts to be submitted along
+with bid in support of having supplied some quantity during each of the year. In case of bunch bids, the primary
+product having highest value should meet this criterion.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

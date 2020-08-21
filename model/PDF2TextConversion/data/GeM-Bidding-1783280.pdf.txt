@@ -1,0 +1,380 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/707460
+
+  Dated: 12-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 22-07-2020 20:00:00
+
+Bid Opening Date/Time 22-07-2020 20:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Railways
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Central Railway Hq Stores Deptt.
+
+Total Quantity 20
+
+Item Category true rms clamp meter
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+True Rms Clamp Meter ( 20 pieces )
+
+Technical Specifications
+
+                               1 / 4
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERAL FEATURES Type Hand Held Hand Held
+
+Display 3.5 digit Backlit LCD 3.5 digit Backlit LCD
+
+Measurement Type True RMS True RMS
+
+count 4000 4000
+
+MEASUREMENT
+FEATURES
+
+Resistance
+Measurement Range
+
+1000 1000.0
+
+Resistance
+Measurement
+Accuracy (+/-)
+
+0.5 0.5
+
+Frequency
+Measurement Range
+
+100 100.0
+
+Frequency
+Measurement
+Accuracy (+/-)
+
+0.1 0.1
+
+AC Current
+Measurement Range
+
+1000 1000.0
+
+AC Current
+Measurement
+Accuracy (+/-)
+
+2.5 2.5
+
+AC Voltage
+Measurement Range
+
+600 600.0
+
+AC Voltage
+Measurement
+Accuracy (+/-)
+
+2 2.0
+
+DC Current
+Measurement Range
+
+1000 1000.0
+
+DC Current
+Measurement
+Accuracy (+/-)
+
+2 2.0
+
+DC Voltage
+Measurement Range
+
+400 400.0
+
+DC Voltage
+Measurement
+Accuracy (+/-)
+
+1 1.0
+
+Other features,if
+applicable
+
+- *
+
+GENERIC Jaw Size (Dia in Closed
+State)
+
+51 *
+
+Dimensions (H x W x L)
+(mm x mm x mm)
+
+- *
+
+Weight 400 *
+
+POWER REQUIREMENTS Power Requirements Battery Operated *
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/Omfx0TbnrNo1rJrv6AIW73RzeqP_9vHYutD0L3P6SCc
+
+
+ 
+
+Type of Battery Non- Rechargeable
+(Alkaline)
+
+*
+
+if rechargeable , then
+chemistry of the
+battery
+
+NA *
+
+if Non-rechargeable ,
+then size of the battery
+/ cell
+
+9-V rectangular battery *
+
+Number of non-
+rechargeable the
+battery / cell
+
+1 *
+
+Voltage of
+rechargeable Battery
+milliamphere hour
+
+0 *
+
+Suitable
+charger/adaptor
+provided
+
+NA *
+
+OPERATING CONDITION Minimum Operating
+Temperature
+
+0 *
+
+Maximum Operating
+Temperature
+
+45 *
+
+Operating Humidity
+(RH)
+
+80 *
+
+SAFETY Safety Certification CE *
+
+Safety Rating CAT IV 300 V of IEC
+61010 -2-D31
+
+CAT IV 300 V of IEC
+61010 -2-D31
+
+ACCESSORIES Details of the Standard
+Accessories Supplied
+with the Equipment
+
+- *
+
+SERVICE Warranty 1 1.0
+
+TEST REPORT DETAILS
+& TESTS
+
+The equipment
+supplied with
+calibration certificate
+
+yes *
+
+conformity to Dry Heat
+for 16 hrs at a specified
+maximum temp
+
+Yes *
+
+conformity to Cold Test
+for 4 hrs at a specified
+minimum temp in
+accordance with IS:900
+0/part-2/section-4/1977
+latest
+
+Yes *
+
+conformity to Damp
+Heat (Cyclic)Test for 2
+Cycles of 24 h each at
+a temp of 40 degree C
+& 95% RH
+
+Yes *
+
+Availability of Test No *
+
+                               3 / 4
+
+
+
+ 
+
+Reports from Central
+Govt/NABL/ILAC
+approved accredited
+lab to prove conformity
+to the specification
+
+Test Report Number
+and date for the
+specification test
+
+- *
+
+Name and address of
+the Lab for the
+specification test
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 M. Chellam 411001,Sr.DMM Office 2nd
+floor, Divisional Railway
+Manager Office. Le Meridian
+Hotel RBM Road
+
+20  22
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

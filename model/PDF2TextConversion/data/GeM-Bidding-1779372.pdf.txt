@@ -1,0 +1,862 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/703892
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 13:00:00
+
+Bid Opening Date/Time 20-07-2020 13:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Culture
+
+Department Name Na
+
+Organisation Name Sangeet Natak Akademi
+
+Office Name Delhi
+
+Total Quantity 1
+
+Item Category Workstation ( PAC Only ) 
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Workstation ( 1 pieces ) ( Under PAC ) 
+
+Make hp
+
+Model hpz4g4w-2102win10p32512pcie4hdd3amdwx32
+004gbp244
+
+                               1 / 9
+
+
+
+ 
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Processor Processor Make Intel Intel
+
+Processor
+Generation
+
+NA NA, 10 Or higher
+
+Number of Cores per
+Processor
+
+4 4, 6, 8, 10, 12, 14, 16,
+18, 20, 22, 24, 26, 28,
+30, 32 Or higher
+
+Processor Base
+Frequency (GHz)
+
+2.9 2.9, 3, 3.1, 3.2, 3.3,
+3.4, 3.5, 3.6, 3.7, 3.8,
+3.9, 4, 4.1, 4.2, 4.3 Or
+higher
+
+Processor Turbo
+Frequency (GHz)
+
+0 *
+
+Processor
+Description
+
+Intel Xeon W Series Intel Xeon W Series,
+Intel Xeon Bronze
+Series, Intel Xeon Silver
+Series, Intel Xeon Gold
+Series, Intel Xeon
+Platinum Series Or
+higher
+
+Processor Number Intel Xeon W-2102 Intel Xeon E-2124, Intel
+Xeon E-2124G, Intel
+Xeon E-2126G, Intel
+Xeon E-2134, Intel
+Xeon E-2136, Intel
+Xeon E-2144G, Intel
+Xeon E-2146G, Intel
+Xeon E-2174G, Intel
+Xeon E-2186G, Intel
+Xeon W-2104, Intel
+Xeon W-2123, Intel
+Xeon W-2133, Intel
+Xeon W-2135, Intel
+Xeon W-2145, Intel
+Xeon W-2155, Intel
+Xeon W-2175, Intel
+Xeon W-2195, Intel
+Xeon E-2224, Intel
+Xeon E-2226G, Intel
+Xeon E-2234, Intel
+Xeon E-2236, Intel
+Xeon E-2246G, Intel
+Xeon E-2276G, Intel
+Xeon E-2278G, Intel
+Xeon E-2286G, Intel
+Xeon E-2288G, Intel
+
+                               2 / 9
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/jngPzqLNpOlxQtxaA1Db4MJ2arQN2WiN7u67NY8vlfc
+
+
+ 
+
+Xeon E-2176G, Intel
+Xeon E-2244G, Intel
+Xeon E-2274G, Intel
+Xeon W-3223, Intel
+Xeon W-3225, Intel
+Xeon W-3235, Intel
+Xeon W-3245, Intel
+Xeon W-3245M, Intel
+Xeon W-3265, Intel
+Xeon W-3265M, Intel
+Xeon W-3275, Intel
+Xeon W-3275M, Intel
+Xeon W-2235, Intel
+Xeon W-2255, Intel
+Xeon W 10855M, Intel
+Xeon W 10885M, Intel
+Xeon W 1290P, Intel
+Xeon W 1290, Intel
+Xeon W 1270P, Intel
+Xeon W 1270, Intel
+Xeon W 1250P, Intel
+Xeon W 1250 Or higher
+
+Number of sockets
+available on the
+motherboard
+
+1 *
+
+Number of Sockets
+populated with the
+Processors
+
+1 1, 2 Or higher
+
+Cache (MB) 8.25 8.25 - 64.0 Or higher
+
+Out of Band
+Management
+
+Intel vPro *
+
+Type Form Factor Desktop Desktop
+
+Motherboard Chipset Number Intel C422 Intel C422, Intel C621,
+Intel C622, Intel C624,
+Intel X99, Intel X299 Or
+higher
+
+Expansion Slots (PCIe x
+1) (Number)
+
+0 *
+
+Expansion Slots (PCIe x
+4) (Number)
+
+2 *
+
+Expansion Slots (PCIe x
+8) (Number)
+
+1 *
+
+Expansion Slots (PCIe x
+16) (Number)
+
+2 *
+
+Expansion Slots (PCI)
+(Number)
+
+0 *
+
+Graphics Graphics Type Dedicated/Discrete Dedicated/Discrete
+
+Number of Graphic
+Cards
+
+1 1, 2, 3, 4 Or higher
+
+Graphic Card AMD Radeon Pro AMD Radeon Pro
+
+                               3 / 9
+
+
+
+ 
+
+Description WX3200 WX3200, AMD Radeon
+Pro WX4100, AMD
+Radeon Pro WX4170,
+AMD Radeon Pro
+WX5100, AMD Radeon
+Pro WX7100, AMD
+Radeon Pro WX7130,
+AMD Radeon Pro
+WX9100, AMD Radeon
+Pro WX4150 Or higher
+
+Operating System Operating System
+(Factory Pre-Loaded)
+
+Windows 10
+Professional 64 bit
+
+Windows 10
+Professional 64 bit
+
+Recovery Image Media CD from the OEM /
+Stored in Partition of
+the Hard Disk / USB
+Drive from the OEM /
+On Line / Cloud
+
+*
+
+OS Certification Windows,Ubuntu
+Linux,Redhat
+Linux,Suse Linux
+
+*
+
+Applications Applications
+Compatible with the
+Workstation (Requisite
+document may be
+furnished as and when
+demanded by the
+buyer)
+
+Avid Media
+Composer,Dassault
+Systèmes
+SolidWorks,Dassault
+Systèmes CATIA,PTC
+Creo,Siemens NX
+
+*
+
+Memory RAM Type DDR4 *
+
+RAM Speed (MHz) 2933 *
+
+Type of Memory ECC *
+
+RAM Size (GB) 32 32, 64, 128, 256, 512,
+1024, 2048, 3072,
+4096, 48, 96, 192, 384,
+768, 1536 Or higher
+
+Total Numbers of DIMM
+Slots Available
+
+8 *
+
+Number of DIMM Slots
+Populated
+
+2 *
+
+RAM Expandability
+upto using spare
+DIMM Slots (GB)
+
+256 256, 512, 1024, 3072,
+4096, 384, 1536, 2048,
+768 Or higher
+
+Primary Storage /Boot
+Drive
+
+Type of Drives used
+to populate the
+internal Bays
+
+PCle PCle
+
+Number of Drives 1 *
+
+RAID for Operating
+System
+
+NA NA
+
+Capacity of each
+Drive (GB)
+
+512 512, 600, 768, 800,
+900, 1000, 1024, 1200,
+
+                               4 / 9
+
+
+
+ 
+
+1800, 2000, 2048,
+4000, 4096, 8000,
+6000 Or higher
+
+Secondary Storage Type of Drives used
+to populate the
+Internal Bays
+
+SATA,PCIe SATA, PCIe
+
+Total number of
+Internal Bays available
+for SATA Drive
+
+2 *
+
+Number of Internal
+Bays populated with
+SATA Drive
+
+1 1, 2, 3, 4, 5, 6, 7, 8, 9,
+10 Or higher
+
+Each SATA Drive
+Capacity (GB)
+
+4000 4000, 8000, 6000 Or
+higher
+
+Speed of each SATA
+Drive (RPM)
+
+7200 *
+
+Total SATA Drive
+Capacity (GB)
+
+4000 4000, 8000, 5000,
+6000, 7000, 9000,
+12000, 16000, 20000,
+24000, 28000, 32000
+Or higher
+
+Total number of
+Internal Bays available
+for SAS Drive
+
+0 *
+
+Number of Internal
+Bays populated with
+SAS Drive
+
+0 0, 1, 2, 3, 4, 5, 6, 7, 8,
+9, 10 Or higher
+
+Capacity of each SAS
+Drive (GB)
+
+0 300, 600, 900, 1200,
+1800, 800, 0, 4000 Or
+higher
+
+Speed of each SAS
+Drive (RPM)
+
+0 *
+
+Total SAS Drive
+Capacity (GB)
+
+0 300, 600, 900, 1200,
+1800, 2100, 0, 4000 Or
+higher
+
+Total number of
+Internal Bays available
+for SSD
+
+0 *
+
+Number of Internal
+Bays populated with
+SSD Drive
+
+0 0, 1, 2, 3, 4, 5, 6, 7, 8,
+9, 10 Or higher
+
+Capacity of each SSD
+Drive (GB)
+
+0 128, 256, 512, 1024,
+2048, 800, 0 Or higher
+
+Total SSD Capacity
+(GB)
+
+0 128, 256, 384, 512,
+768, 1024, 2048, 4096,
+0, 5120 Or higher
+
+Total number of
+Internal Bays available
+for PCIe SSD
+
+1 *
+
+                               5 / 9
+
+
+
+ 
+
+Number of Internal
+Bays populated with
+PCIe Drive
+
+1 1, 2, 3, 4, 5, 6, 7, 8 Or
+higher
+
+Capacity of each
+PCIe Drive (GB)
+
+512 512, 1024, 2048 Or
+higher
+
+Total PCIe Drive
+Capacity (GB)
+
+512 512, 1024, 2048, 4096,
+1536 Or higher
+
+Class of PCIe Drives Class 40 *
+
+RAID RAID level 0,1,5,1+0 *
+
+Number of RAID
+Controller Ports
+
+6 6, 7, 8, 10 Or higher
+
+Speed of RAID
+Controller Ports
+(Gbps)
+
+6 6, 12 Or higher
+
+RAID Controller Cache
+(GB)
+
+0 *
+
+Connectivity Type of Ethernet Ports Dual Gigabit NIC
+10/100/1000
+
+*
+
+Number of Ethernet
+Ports
+
+2 2, 3, 4, 6 Or higher
+
+Wireless
+Connectivity
+
+No Yes, No Or higher
+
+If Yes, Type of
+Wireless
+Connectivity
+
+NA Wi-Fi 802.11b/g/n, Wi-Fi
+802.11ac, NA Or higher
+
+Bluetooth
+Connectivity
+
+No Yes, No Or higher
+
+If Yes, Version of
+Bluetooth Available
+
+0 4, 4.1, 4.2, 5, 0 Or
+higher
+
+Ports Number of USB Version
+2 Point 0 Ports
+
+0 *
+
+Number of USB Version
+3 point 0 / 3 point 1,
+Gen 1 Ports
+
+10 *
+
+Number of USB Version
+3 point 1, Gen 2 Ports
+
+0 *
+
+Number of USB Type C
+Ports
+
+0 *
+
+Number of VGA Ports 0 *
+
+Number of HDMI Ports 0 *
+
+Number of Mini DP
+Ports
+
+3 *
+
+Number of DP Ports 1 *
+
+Display Display Availability Monitor Monitor
+
+Display Size (cm) 58- 61 58- 61, 63 - 67, 68- 71,
+
+                               6 / 9
+
+
+
+ 
+
+72- 81, 82 - 87, 88 - 93,
+94 - 97, 98 - 105, 107 -
+110, 111 - 115, 116 -
+120, 121 - 125, 126 -
+130 Or higher
+
+Display Type Non Touch Non Touch, Touch Or
+higher
+
+Panel Type Flat Flat, Curved Or higher
+
+Panel Technology IPS IPS, OLED Or higher
+
+Display Resolution
+(Pixels)
+
+1920x1080 1920x1080, 1920 x
+1200, 3200x1800,
+3840 x 2160, 2560 x
+1080, 2560 x 1440,
+2560 x 1600, 3440 x
+1440, 3840 x 1600,
+5120 x 1440, 7680 x
+4320 Or higher
+
+LED Backlit Yes *
+
+TCO Compliance for
+Monitor
+
+TCO 07 *
+
+Colour Gamut 72% Color Gamut *
+
+Monitor Stand Standard *
+
+Power Maximum Power
+(Watts)
+
+465 *
+
+Minimum Power
+Efficiency (%)
+
+90 *
+
+Power Management
+Unit
+
+Yes *
+
+Redundant Power
+Supply
+
+No Yes, No Or higher
+
+Input Devices Mouse Connectivity, If
+available
+
+Wired *
+
+Type of Mouse, If
+available
+
+Optical Scroll *
+
+Keyboard Connectivity,
+if available
+
+Wired *
+
+Type of Keyboard, if
+available
+
+Standard *
+
+Type of Keyboard in
+case of Mobile
+Workstation
+
+NA *
+
+Generic Optical Drive DVD R/W *
+
+Number of External
+Bays
+
+2 *
+
+Security H/W Based *
+
+Docking Station for No *
+
+                               7 / 9
+
+
+
+ 
+
+Mobile Workstation
+
+Availability of Bundled
+Software
+
+Yes *
+
+Type of Bundled
+Software
+
+Remote Collaboration
+Software &
+Performance Advisor
+
+*
+
+Finger Print Reader in
+case of Mobile
+Workstation
+
+NA *
+
+Carry Case in case of
+Mobile Workstation
+
+NA *
+
+Certification BIS Registration under
+CRS of Meity (Requisite
+certificate may be
+furnished as and when
+demanded by the
+buyer)
+
+Yes *
+
+BIS Registration
+Number and its Validity
+
+R-41000655 *
+
+ROHS Compliance Yes *
+
+Other Certification
+Available (Requisite
+certificate may be
+furnished as and when
+demanded by the
+buyer)
+
+UL/EN/CE/IEC-60950 for
+Safety,CE/FCC for EMC
+& Immunity,UL,CE,FCC,
+WEEE for Waste
+management
+
+*
+
+Operating Conditions Minimum Operating
+Temperature (Degree
+C)
+
+5 *
+
+Maximum Operating
+Temperature (DEgree
+C)
+
+35 *
+
+Minimum Operating
+Humidity (%RH)
+
+10 *
+
+Maximum Operating
+Humidity (%RH)
+
+85 *
+
+Warranty Battery Warranty in
+case of Mobile
+Workstation
+
+0 *
+
+On Site OEM
+Warranty (Year)
+
+3 3, 4, 5 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+                               8 / 9
+
+
+
+ 
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Bikram Keshori
+Singh
+
+110001,Sangeet Natak
+Akademi Ravindra Bhawan,
+Feroze Shah Road New Dehi
+
+1  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+2.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+3.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               9 / 9
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

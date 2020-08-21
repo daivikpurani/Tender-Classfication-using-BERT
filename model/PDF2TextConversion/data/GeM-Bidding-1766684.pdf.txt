@@ -1,0 +1,1202 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/692350
+
+  Dated: 01-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 21-07-2020 14:00:00
+
+Bid Opening Date/Time 2020-07-21 14:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Ministry Of Health And Family Welfare
+
+Department Name Department Of Health And Family Welfare
+
+Organisation Name North Eastern Indira Gandhi Regional Institute Of
+Health And Medical Sciences (neigrihms)
+
+Office Name Neigrihms, Shillong
+
+Total Quantity 1
+
+Item Category Echo Cardiography Scanning Machine
+
+Bidder Turnover (Last 3 Years)  8 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  8 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Turnover  Yes
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  30 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank Bank Of Baroda
+
+EMD Percentage(%) 1.00
+
+EMD Amount 22000
+
+                             1 / 13
+
+
+
+ 
+
+ePBG Detail
+
+Advisory Bank Bank Of Baroda
+
+ePBG Percentage(%) 5.00
+
+Duration of ePBG required (Months). 38
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+NEIGRIHMS, Shillong
+Neigrihms, Shillong, Department of Health and Family Welfare, North Eastern Indira Gandhi Regional
+Institute of Health and Medical Sciences (NEIGRIHMS), Ministry of Health and Family Welfare
+(Deputy Director Admin)
+
+Splitting
+
+ Bid splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 30% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+                             2 / 13
+
+
+
+ 
+
+Echo Cardiography Scanning Machine ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Product certification - *
+
+Certification number
+and date
+
+- *
+
+Confirmity to
+Manufacturer's
+Certification
+
+ISO13845 ISO13845
+
+Confirmity to
+Performance and safety
+standards specific to
+the device
+
+IEC 60601-2-27 or
+equivalent BIS
+
+*
+
+Performance
+Parameters
+
+Product Description Cardiac ultrasonic
+scanning systems
+
+*
+
+Scope of supply Cardiac ultrasonic
+scanning systems are
+designed for real-time,
+noninvasive
+assessment of heart
+structures and function.
+They are used to
+evaluate cardiac wall
+motion and valve
+function to detect such
+conditions as mitral
+valve prolapse and
+aortic valve stenosis, to
+determine the extent of
+damage from
+suspected myocardial
+infarction, and to
+diagnose congenital
+cardiac defects
+
+*
+
+UMDNS Code and
+names(Hint: This is for
+indicating the relevant
+universal medical
+devices nomenclature
+for the category of
+prouct )
+
+Scanning Systems,
+Ultrasonic, Cardiac
+[17-422] Scanning
+Systems, Ultrasonic,
+Intravascular [17-746]V
+
+*
+
+Types of Probes &
+Features
+
+Echocardiography
+Scanning System
+shouls have an option
+of Cardiac (adult,
+pediatric),
+intraoperative, small
+
+YES *
+
+                             3 / 13
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/8sSQ9NJjPyHrYMc2M0BVZZr5mQ-jQRCXu12cqH2yhjM
+
+
+ 
+
+organs, TEE, vascular
+
+Cardiac and Vascular
+Probes Configuration
+
+Phased sector array or
+TTE probe
+
+Phased sector array or
+TTE probe, TTE AND
+TEE PROBE, TTE AND
+LINEAR
+
+TTE Probe Type Adult Adult
+
+Adult TTE probe
+Frequency in MHz
+
+3-5 MHz (±2) *
+
+Pediatric TTE probe
+Frequency in MHz
+
+5-7.5 MHZ (±2) *
+
+TEE Adult Probe
+biplane and
+Multiplane
+frequency, in MHz
+
+Not Applicable 2 - 7.5 MHz (±2), Not
+Applicable
+
+TEE Pediatric Probe
+Supplied
+
+No Yes, No
+
+TEE Pediatric Probe
+frequency, in MHz
+
+Not Applicable 3 - 8 MHz (±2), Not
+Applicable
+
+Linear Probe for
+linear/ vascular
+applications
+
+No Yes, No
+
+Adult/Pediatric
+Linear probe
+frequency in MHz
+
+Not Applicable 5 - 14 MHz (±2),
+5-10MHz (±1), Not
+Applicable
+
+No of Adult TTE Probes
+supplied
+
+NA *
+
+No of Pediatric TTE
+Probes supplied
+
+NA 1, NA
+
+No of Adult TEE
+Probes supplied
+
+NA 1, NA
+
+No of Pediatric TEE
+Probes supplied
+
+NA *
+
+No of Adult/pediatric
+Linear Probes
+supplied
+
+1 1
+
+Dedicated 3D/4D
+volume imaging for
+cadiology TTE ad TEE
+
+No Yes, No
+
+Live 3 D imaging in
+color doppler system
+
+No Yes, No
+
+Colour Doppler
+system with all
+application packages
+,Quad loop for serial
+studies with high
+frame rate revies,
+harmonic imaging
+capability in all
+
+Yes Yes
+
+                             4 / 13
+
+
+
+ 
+
+modes and
+integrated stress
+echo package digital
+storage and retrieval
+
+Number of grey shades
+for sharp contrast
+resolutions in db
+
+256 Or more *
+
+High-definition acoustic
+zoom provision for
+enlarging sections of
+2D and Colour flow
+images with more
+acoustic information for
+greater clarity and
+detail while
+maintaining an optimal
+frame rate
+
+YES *
+
+Colour Flow Imaging
+Optin
+
+YES *
+
+Provision of Tissue
+Colorization (B-
+Colour) for improved
+contrast resolution
+
+Yes Yes
+
+Application software Adult,Pediatric &
+Vascular applications
+
+Adult,Pediatric &
+Vascular applications
+
+All application
+packages should be
+inbuilt into the system
+
+YES *
+
+Cine Loop Features Yes Yes
+
+Cine Loop Memory in
+Frames
+
+1001 *
+
+Frame grabber
+facility for post
+analysis
+
+No Yes, No
+
+Facility of Various
+maps for pre and
+post processing
+
+Yes Yes
+
+ECG trigger facility Yes Yes
+
+User defined system
+and application presets
+for multi-user
+department
+
+YES *
+
+"Dedicated
+integrated dynamic
+stress echo package
+for flexible user
+defined protocols
+with stacked sub
+loops facility and
+contrast stress
+
+Yes Yes
+
+                             5 / 13
+
+
+
+ 
+
+protocol usable for
+stress
+echocardiography"
+
+Provision of Tissue
+movement colorization
+with quantification
+possibility for
+IHD/CAD/Heart Failure
+patients
+
+YES *
+
+Number of
+transducer/probe
+ports
+
+1 1
+
+Scan Modes and
+Performance
+Parameters
+
+Cardiac 3-D freehand
+Option
+
+No Yes, No
+
+Cardiac 3D/4D
+automatic Option
+
+No Yes, No
+
+B-mode YES *
+
+M MODE YES *
+
+Contrast
+Harmonic/Agent
+Imaging with angio
+mode
+
+Yes Yes
+
+Tissue harmonic
+imaging mode
+
+YES *
+
+Provision of
+Harmonic imaging in
+TTE, TEE and Linear
+Probes
+
+Yes Yes
+
+Color Doppler imaging
+(CDI)
+
+YES *
+
+Color Doppler
+3-D/4-D option
+
+No Yes, No
+
+Power Doppler imaging
+(PDI)
+
+YES *
+
+Power Dopple
+3-D/4-D option
+
+No Yes, No
+
+Continuous wave YES *
+
+Pulsed wave YES *
+
+Duplex mode YES *
+
+Triplex mode YES *
+
+Tissue Doppler imaging YES *
+
+Contrast-enhanced
+ultrasound (CEUS)
+option
+
+No Yes, No
+
+Tissue
+synchronization,
+tissue velocity
+
+Yes Yes
+
+                             6 / 13
+
+
+
+ 
+
+Cardiac Shear wave
+elastography
+
+No Yes, No
+
+Cardiac compression
+elastography
+
+No Yes, No
+
+Gain control in two
+dimensions for
+additional level of
+flexibility for image
+quality control
+
+YES *
+
+"Provision for higher
+resolution "
+
+Real time high
+frequency 2D
+
+*
+
+Probes supplied shall
+be in latest generation
+bandwidth
+
+YES *
+
+Provision for higher
+sensitivity for low
+frequency doppler in
+all probes
+
+Yes Yes
+
+Latest generation
+Electronic
+Phased/sector array
+Colour Doppler
+system
+
+Yes Yes
+
+Number of Channels
+in color doppler
+system
+
+50000 or more (If
+channels are being
+designated as digital
+channels)
+
+50000 or more (If
+channels are being
+designated as digital
+channels)
+
+System should be
+capable of
+generating real time
+live 3- D images
+
+NO YES, NO, Yes with MV
+No Analysis
+
+Provision of
+Echocardiographic
+strain and strain-rate
+imaging with 2 D
+imaging
+
+Yes *
+
+Provision of
+Echocardiographic
+strain and strain-rate
+imaging with 3 D
+imaging
+
+No *
+
+Image display and
+processing
+
+DICOM THREE POINT
+ZERO COMPLIANT
+
+Yes Yes
+
+Adjustable transmit
+focus
+
+YES *
+
+Automated B-mode
+(2-D) image
+
+Yes Yes
+
+Automated CDI
+image optimization
+
+Yes Yes
+
+                             7 / 13
+
+
+
+ 
+
+Automated PW
+Doppler image
+optimization
+
+No Yes, No
+
+Dynamic receive focus YES *
+
+Grayscale levels 256 *
+
+Image magnification
+(zoom)
+
+YES *
+
+Real-time image YES *
+
+Frozen image YES *
+
+TOUCH SCREEN YES YES
+
+HIGH RESOLUTION
+MONITOR
+
+YES *
+
+"Provision of Tilt and
+Swivel monitor should
+be able to view in all
+angles and all light
+conditions"
+
+YES *
+
+Monitor display size,
+cm (in)
+
+15 Inch(±1) 15 Inch(±1)
+
+Split screen TWIN VIEW TWIN VIEW
+
+Single/dual monitors SINGLE SINGLE
+
+Depth, cm ≥30 (11.8) *
+
+PREPROCESSING YES *
+
+POST PROCESSING YES *
+
+SELECTABLE DYNAMIC
+RANGE
+
+YES *
+
+SPECTRUM ANALYZER YES *
+
+DIGITAL IMAGE
+STORAGE
+
+YES *
+
+CINE LOOP PLAYBACK YES *
+
+Max number frames 1001 *
+
+HARD DRIVE STORAGE
+CAPACITY , GB
+
+>=500 GB *
+
+Speckle-tracking
+strain and strain
+rate
+
+Yes Yes
+
+Stress echo Yes Yes
+
+EXAM PROTOCOL YES *
+
+Analysis and
+calculation packages
+
+NO 2-D wall motion
+tracking, 3-D wall
+motion tracking,
+cardiac, mitral valve
+analysis, user-
+programmable
+
+                             8 / 13
+
+
+
+ 
+
+calculations, NO
+
+Automated YES *
+
+Digital calipers YES *
+
+EXAM PRESETS YES *
+
+Customizable presets YES *
+
+On-screen annotation YES *
+
+DVD/CD Writer Yes Yes
+
+Flash Memory YES *
+
+USB connector YES *
+
+Type of printer
+provided with the
+echo cardio machine
+
+THERMAL PRINTER THERMAL PRINTER,
+LASER PRINTER
+
+"Facility for high
+definition digital
+acquisition, review and
+editing of complete
+patient studies"
+
+YES *
+
+Connectivity to PC and
+Echo cardiography
+machine
+
+THROGH IMS
+SOFTWARE
+
+*
+
+Provision of PC with
+echo cardio gram
+machine
+
+No Yes, No
+
+Type of processor NA 1.7 OR LATEST, NA
+
+RAM capacity of PC
+in GB (hint: In caase
+PC not provided put
+zero)
+
+NA >=4, NA
+
+Processor speed in
+GHZ
+
+NA >=3, NA
+
+Frame Grabber
+incorporated
+
+No Yes, No
+
+Conectivity between
+Echo cardiogram and
+PC
+
+NA Through
+IMS/EQUIVALENT
+SOFTWARE, NA
+
+PC with all software
+inclusive interfaced
+with
+echocardiograph
+machine
+
+NA YES, NA
+
+laser Color printer
+provided with
+computer for
+rerporting
+
+No Yes, No
+
+Inkjet printer
+provided with
+computer for
+
+No Yes, No
+
+                             9 / 13
+
+
+
+ 
+
+reporting
+
+CD/DVD Produced
+should be playable
+on any system
+
+YES YES
+
+Glossy Colour Print
+Paper supplied
+
+Not provided 500 sheets, 1000
+sheets, Not provided
+
+ECG Cable 2 2
+
+Echo cardiography
+sytem to be DICOM
+Ready
+
+Yes Yes
+
+Dicom Interfacability
+to HIS
+
+Yes Yes
+
+Dicom Interfacability
+Dicom to PACS
+
+Yes Yes
+
+Interfacability Dicom
+to RIS
+
+No Yes, No
+
+Echo Cardiography
+sytem supplied should
+be upgradable to next
+generation system on
+site
+
+YES *
+
+Power Requriments Power input, VAC 220-240VAC, 50Hz
+fitted with Indian plug
+
+*
+
+Resettable over
+current breaker shall
+be fitted for
+protection
+
+No Yes, No
+
+Power bakup INBUILT BATTERY INBUILT BATTERY
+
+Back up time in
+minutes
+
+60 60
+
+Suitable Servo
+Controlled Stabilizer /
+CVT should be provided
+
+YES *
+
+Miscellaneous
+Parameters
+
+Warranty in years 3 3
+
+Number of
+installations of the
+echo cardiogram
+machines in Central
+/State/PSU Govt
+Hospitals( Note:
+Seller should supply
+a performace
+certificate of the
+device to the buyer
+if demanded after
+placement of order)
+
+MORE THAN 3 MORE THAN 3
+
+User/Technical/Mainten
+ance manuals to be
+supplied in English in
+
+YES *
+
+                            10 / 13
+
+
+
+ 
+
+hard and soft copy
+
+Demonstration of
+equipment and training
+to be provided after
+completing supplies &
+Installation before
+acceptance
+
+YES *
+
+The Principal
+Manufacturer must
+have direct
+Presence/approved
+service center In India
+
+YES *
+
+Copies of reports and
+certifications to be
+furnished to buyer on
+demand at time of
+supplies
+
+YES *
+
+Attach certificate from
+the principal that spare
+parts will be available
+for next 10 years
+
+YES *
+
+QA, QC Or other
+Calibration tests(6
+months/ 1 year as per
+NABH/JCI)
+
+YES *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Khrawkupar Jithod
+Katrai
+
+793018,P.O. NEIGRIHMS,
+Mawdiangdiang, Shillong
+
+1  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Experience Certificate for the supply of the same to any Govt/ PSU/ any renowned private
+organisation along with Supply/ Purchase Order.
+
+2.Make in india specific authorisation certificate needs to be enclosed.
+3.OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be
+
+ordered up to 25 percent at the time of placement of contract. The purchaser also reserves
+the right to increase the ordered quantity by up to 25% of the contracted quantity during the
+currency of the contract at the contracted rates. Bidders are bound to accept the orders
+accordingly.
+
+4.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+
+                            11 / 13
+
+
+
+ 
+
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+5.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+6. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+7.Preference to Make In India products (For bids less than 200 Crore):Preference shall be given
+to Class 1 local supplier as defined in public procurement (Preference to Make in India),
+Order 2017 as amended from time to time and its subsequent Orders/Notifications issued by
+concerned Nodal Ministry for specific Goods/Products. The minimum local content to qualify
+as a Class 1 local supplier is denoted in the bid document 50%. If the bidder wants to avail
+the Purchase preference, the bidder must upload a certificate from the OEM regarding the
+percentage of the local content and the details of locations at which the local value addition
+is made along with their bid, failing which no purchase preference shall be granted. In case
+the bid value is more than Rs 10 Crore, the declaration relating to percentage of local
+content shall be certified by the statutory auditor or cost auditor, if the OEM is a company
+and by a practicing cost accountant or a chartered accountant for OEMs other than
+companies as per the Public Procurement (preference to Make-in -India) order 2017 dated
+04.06.2020. Only Class-I and Class-II Local suppliers as per MII order dated 4.6.2020 will be
+eligible to bid. Non - Local suppliers as per MII order dated 04.06.2020 are not eligible to
+participate. In case Buyer has selected Purchase preference to Micro and Small Enterprises
+clause in the bid, the same will get precedence over this clause.
+
+8.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+9.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+10.The bidder is required to upload, along with the bid, all relevant certificates such as BIS
+licence, type test certificate, approval certificates and other certificates as prescribed in the
+Product Specification given in the bid document.
+
+11.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 3 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+12.The Bidder / OEM {themselves or through reseller(s)}, should have executed project for
+supply and installation / commissioning of same or similar Category Products during
+preceding 3 financial years (i.e. current year and three previous financial years) as on
+opening of bid, as per following criteria:
+ 
+(i) Single order of at least 35% of estimated bid value; or
+(ii) Two orders of at least 20% each of estimated bid value; or
+(iii) Three orders of at least 15% each of estimated bid value.
+Satisfactory Performance certificate issued by respective Buyer Organization for the above
+Orders should be uploaded with bid. In case of bunch bids, the Category related to primary
+
+                            12 / 13
+
+
+
+ 
+
+product having highest bid value should meet this criterion
+13.Successful Bidder can submit the Performance Security in the form of Payment online
+
+through RTGS / internet banking also (besides PBG which is allowed as per GeM GTC). On-
+line payment shall be in Beneficiary name NEIGRIHMS EMD SECURITY DEPOSITS Account No.
+30270200000027 IFSC Code BARB0MAWDIA Bank Name BANK OF BARODA Branch address
+MAWDIANGDIANG, SHILLONG-793018, MEGHALAYA. Successful Bidder to indicate Contract
+number and name of Seller entity in the transaction details field at the time of on-line
+transfer. Bidder has to upload scanned copy / proof of the Online Payment Transfer in place
+of PBG within 15 days of award of contract.
+
+14.Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt
+also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in
+the name of NEIGRIHMS EMD SECURITY DEPOSITS A/C (Name of the Seller). The bank should
+certify on it that the deposit can be withdrawn only on the demand or with the sanction of
+the pledgee. For release of Security Deposit, the FDR will be released in favour of bidder by
+the Buyer after making endorsement on the back of the FDR duly signed and stamped along
+with covering letter. Successful Bidder has to upload scanned copy of the FDR document in
+place of PBG and has to ensure delivery of hard copy of Original FDR to the Buyer within 15
+days of award of contract.
+
+15.Bidders can also submit the EMD with Account Payee Demand Draft in favour of NEIGRIHMS
+EMD SECURITY DEPOSITS payable at SHILLONG, MEGHALAYA.
+Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure
+delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date.
+
+16.Bidders can also submit the EMD with Fixed Deposit Receipt made out or pledged in the
+name of NEIGRIHMS EMD SECURITY DEPOSITS A/C (Name of the Seller). The bank should
+certify on it that the deposit can be withdrawn only on the demand or with the sanction of
+the pledgee. For release of EMD, the FDR will be released in favour of bidder by the Buyer
+after making endorsement on the back of the FDR duly signed and stamped along with
+covering letter.
+Bidder has to upload scanned copy / proof of the FDR along with bid and has to ensure
+delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date.
+
+17.Bidders can also submit the EMD with Payment online through RTGS / internet banking in
+Beneficiary name NEIGRIHMS EMD SECURITY DEPOSITS Account No. 30270200000027 IFSC
+Code BARB0MAWDIA Bank Name BANK OF BARODA Branch address MAWDIANGDIANG,
+SHILLONG-793018, MEGHALAYA.
+ Bidder to indicate bid number and name of bidding entity in the transaction details field at
+the time of on-line transfer. Bidder has to upload scanned copy / proof of the Online Payment
+Transfer along with bid.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                            13 / 13
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

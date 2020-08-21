@@ -1,0 +1,623 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/704366
+
+  Dated: 09-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 17:00:00
+
+Bid Opening Date/Time 20-07-2020 17:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Steel
+
+Department Name Nmdc Limited
+
+Organisation Name Nmdc Limited
+
+Office Name Hyderabad
+
+Total Quantity 7
+
+Item Category buses
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Buses ( 7 pieces )
+
+Technical Specifications
+
+                               1 / 7
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Generic Parameters Vehicle Seating
+Capacity (Nos.)
+
+57 57.0 - 60.0 Or higher
+
+Type of Fuel Diesel Diesel
+
+Vehicle Emission
+Complaince
+
+BS-VI *
+
+Colour of the Vehicle - *
+
+Vehicle Colour Type Solid Solid
+
+Vehicle Mileage (
+declared by OEM as
+certified by Test
+Agency under Rule
+115of CMVR 1989)
+
+6.71 6.71 - 50.0 Or higher
+
+Top Speed (Kmph) 80 *
+
+Acceleration
+(0-100KmPH) (sec)
+
+67.23 *
+
+Gradeability of Vehicle
+(Degree)
+
+- *
+
+Air Conditioning Without Without
+
+Engine BHP@rpm
+(Hp@rpm)
+
+- 180hp2200rpm
+
+Engine Torque
+Max@rpm (N-
+m@rpm)
+
+- 590nm1000-2000rpm
+
+No. of Cylinder in
+Engine (Nos.)
+
+4 More than 4.0 Or
+higher
+
+Type of Vehicle Body Chassis Frame Chassis Frame
+
+No. of Doors (Nos.) 1 *
+
+Fuel Tank Capacity
+(Ltrs.)
+
+250 *
+
+Length of Vehicle
+Body (mm)
+
+11745 More than 11745.0 Or
+higher
+
+Width of Vehicle
+Body (mm)
+
+2600 More than 2600.0 Or
+higher
+
+Height of Vehicle
+Body (mm)
+
+3280 More than 3280.0 Or
+higher
+
+Ground Clearance
+(mm)
+
+240 More than 240.0 Or
+higher
+
+Wheel Base (mm) 5700 More than 5700.0 Or
+higher
+
+Boot Space
+Availability
+
+Yes Yes
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/zZUn3QAbS48G-xqCgcEjsmg1PHTT-HvxFhQF0u64fOE
+
+
+ 
+
+Boot Space (if Yes)
+(Ltrs.)
+
+2250 *
+
+Kerb Weight (Kg) 9620 9620.0
+
+Gross Vehicle Weight
+(Kg)
+
+16200 *
+
+Size Of Tyre (mm) - *
+
+Size of Wheel (mm) - *
+
+Vehicle Transmission
+System
+
+Manual Manual
+
+No. of Speed/
+Forward Gears
+(Nos.)
+
+6 More than 6.0 Or
+higher
+
+Type of Wheel drive Two Wheel Drive (Rear
+Wheel)
+
+Two Wheel Drive (Rear
+Wheel)
+
+Drive Axle Rear Rear
+
+Type of Steering Power Power
+
+Turning Radius (mm) 10600 Less than 10600.0 Or
+lower
+
+Vehicle Brake ABS
+Fitted
+
+Yes Yes
+
+Front Vehicle Brake Drum Brake *
+
+Rear Vehicle Brake Drum Brake *
+
+Vehicle Air Intake
+System
+
+TurboCharged TurboCharged
+
+Speed Governor with
+valid certification
+
+Yes *
+
+Performance
+Parameters
+
+Low Fuel warning Light Yes *
+
+Battery Warranty
+(Month)
+
+12 More than 12.0 Or
+higher
+
+Warranty Time
+(Month)
+
+12 More than 12.0 Or
+higher
+
+Unlimited Warranty
+Distance (Km)during
+warranty period
+
+No No
+
+Warranty Distance
+(Km) If not Unlimited
+during warranty period
+
+100000 *
+
+No. Of Free Service 3 *
+
+Transportation
+Charges including
+transient insurance
+and temporary
+registration (Rs/Km)
+
+- 18
+
+Certification Vehicle Certification
+ARAI/VRDE/ICAT No
+
+- aapn0263date19.03.20
+20
+
+                               3 / 7
+
+
+
+ 
+
+Conformity to GSR
+287(E)
+
+Yes Yes
+
+Constructional
+Parameters
+
+Body Specification - *
+
+Hat type tube diameter 0 *
+
+Hat type tube
+diameter/or other
+frame( thickness)
+
+0 *
+
+Base Frame Structure
+ISMC/ for Monocoque
+
+yes *
+
+Exterior Panel
+thickness of side body
+and roof/ for
+Monocoque
+
+0.95 *
+
+Interior Panel thickness
+of side body and roof/
+for Monocoque
+
+0.72 *
+
+Flooring Made Out from
+ISI Marked 12 mm thick
+BWR grade plywood
+covered with
+vinyle/Aluminium sheet
+
+Yes *
+
+Seating Plan Yes *
+
+Doors Yes *
+
+Glasses No *
+
+Top portion of fixed
+glass window & bottom
+portion in two halves in
+sliding pattern
+
+Yes *
+
+Passenger
+Compartment - Roof
+light
+
+Yes *
+
+Over Head Storage
+cabinet/Railing,
+
+Yes *
+
+Hand Rail,Hanging
+Hook,
+
+Yes *
+
+Day and Night View
+Mirror
+
+No *
+
+Fire Extingusher Yes *
+
+BIS marked
+Pneumatic Tyres and
+tubes for both front
+and rear
+
+Yes Yes
+
+Driver Airbag No *
+
+Exhaust Fan No *
+
+Central Locking No *
+
+First Aid Box, Swiveling Yes *
+
+                               4 / 7
+
+
+
+ 
+
+Fan, etc
+
+Other fitments:-
+Electric bell and Siren
+
+No *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Mohammad
+Mehboob Ullah
+
+494556,NMDC LTD,
+KIRANDUL COMPLEX,
+BAILADILA,KIRANDUL PO,
+CHATTISGARH
+
+7  60
+
+Special terms and conditions for category buses 
+
+1.Following Special Terms and Conditions (STC) would supersede the General Terms and
+Conditions (GTC) in respect of items under these categories as notified in the respective
+product category specifications
+
+1.SELLER
+1.Net Dealer Price (NDP), Discount on NDP and Total Price inclusive of Mark-up
+
+and all taxes will be indicated by Seller while offering these products on GeM.
+The mark up will not be applicable for Defence Buyer for vehicles exclusively
+offered for Defence buyer. The vehicle for Defence Buyer will be quoted
+separately with suffix Defence against each model.
+
+2.The Buyer must arrange for and provide Road Permit/s as necessary for entry
+of goods into the State where the consignee is located. The Buyer /
+Consignee should also provide the Seller with necessary Octroi Exemption
+Certificate immediately after issue of Contract to avoid payment of Town
+Duty / Octroi. Road Toll Tax, Entry Tax and / or any other Local Taxes and
+Duties such as Octroi / Sales Tax if paid by the Seller will be reimbursed by
+the paying authority against production of relevant payment receipt/s.
+
+3.The freight charges will be extra and shall be calculated by seller at the time
+of invoicing by multiplying distance with freight per KM indicated in contract
+specification.
+
+4.Sellers must give below mentioned minimum discount on the prevailing MRP
+while offering their products on GeMTractors - 20%Ambulances - 12%Buses -
+20%Automotive Chassis Fitted with Engine - 15%Built up Trucks - 15%Prison
+Van Police Vehicles - 15%Troop Carrier Police Vehicles - 15%Water Truck
+Cabin Truck with Water Tank - 15%Cars - 12%Utility Vehicles - 12%Electric
+Cars - 12%Motor cycles - 12%
+
+5.Delivery Period shall be 90 days. Delivery period for Built-up Vehicles like
+Troop Carriers, Water Tankers and Buses shall be 120 days considering extra
+time involved in fabrication.
+
+6.OEMs shall ensure that the prices offered on GeM by them for a particular
+model is the lowest and no supply shall be made to any Buyer, Government
+or Private, at a price lower or equal to that of GeM. In case of violation of this,
+GeM administration will review for removal of the model from GeM including
+other action as stipulated in General Terms and Conditions of GeM.
+
+                               5 / 7
+
+
+
+ 
+
+7.All manufacturers of Automobiles having ARAI,VRDE, ICAT etc of offered
+model may upload their vehicles on GeM as per above guidelines. These
+guidelines are applicable only on GeM and Government Buyers shall utilize
+the portal for making on-line purchases through GeM.
+
+2.BUYER
+1.The total price inclusive of all does not include freight charge and, therefore,
+
+it shall be extra and to be calculated on freight per KM indicated in Contract
+Specifications.
+
+2.The Contract will indicate the total amount inclusive of all taxes only without
+freight charges. Therefore, while blocking the amount 5% additional amount
+will be blocked over and above the total price inclusive of all taxes to cover
+the fund requirement for freight charges on approximate basis.
+
+3.After supply of vehicles, the Seller while submitting the invoice will indicate
+the freight amount at actual or calculate as mentioned above on per KM basis
+whichever is lower and the same should be verified by the Buyer, before
+payment.
+
+4.Defence Buyer will select the vehicle offered with suffix Defence for placing
+their Contract. The total price for Defence Buyer for a particular model does
+not include mark-up.
+
+5.No Buyer other than Defence Buyer will select vehicle with suffix Defence. In
+case Buyer does so, the responsibility for non-supply of vehicle rest with
+Buyer.
+
+6.No Government Buyer Central/State/PSU/Autonomous body/Academic
+Institute/Local Bodies etc. shall place any order at GeM prices outside GeM.
+Buyers shall note that prices on GeM are only applicable, if the procurement
+is made through GeM portal. Using GeM prices for procurement outside GeM
+portal is strictly prohibited. Such action will violate the basic principles of
+transparency and accountability enshrined in GeM. If done outside GeM the
+laid down procedure for tendering should be followed.
+
+7.For any bulk purchases, a comparison of rates and discounts may be made
+for similar vehicles and bidding may be considered as the preferred option.
+
+8.Ceiling of direct buying for PAC as mentioned in GTC will not be applicable for
+Vehicles under above mentioned categories as in these categories, only
+those models are up loaded on GeM for which manufactures agreed to accept
+discount on MRP negotiated time to time as mentioned above against each
+type of Vehicle. As such, Buyer may go for Direct Purchase even beyond Rs.
+50,000/- for Vehicles under these categories. However, if Buyer decides to go
+for bidding for these products on account of large quantity or for any other
+reason, the manufactures of the vehicles are exempted from submission of
+Earnest Money Deposit and Performance Security.
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+3.Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be
+given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs)
+Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises
+and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to
+avail the Purchase preference, the bidder must be the manufacturer of the offered product
+in case of bid for supply of goods. Traders are excluded from the purview of Public
+Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder
+
+                               6 / 7
+
+
+
+ 
+
+must be the Service provider of the offered Service. Relevant documentary evidence in this
+regard shall be uploaded along with the bid in respect of the offered product or service. If L-1
+is not an MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of
+purchase preference /price band defined in relevant policy, such Seller shall be given
+opportunity to match L-1 price and contract will be awarded for percentage of 20% of total
+value.
+
+4.Pre-dispatch inspection at Seller premises (Fee/Charges to be borne by the BUYER): Before
+dispatch, the goods will be inspected by Buyer / Consignee or their Authorized
+Representative or by Nominated External Inspection Agency (independently or jointly with
+Buyer or Consignee as decided by the Buyer) at Seller premises (or at designated place for
+inspection as declared / communicated by the seller) for their compliance to the contract
+specifications. Fee/Charges taken by the External inspection Agency and any external
+laboratories testing charges shall be borne by the Buyer. For in-house testing, the Sellers will
+provide necessary facilities free of cost. Seller shall notify the Buyer through e-mail about
+readiness of goods for pre-dispatch inspection and Buyer will notify the Seller about the
+Authorized Representative/ Nominated External Inspection Agency and the date for testing.
+The goods would be dispatched to consignee only after clearance in pre-dispatch inspection.
+Consignee's right of rejection as per GTC in respect of the goods finally received at his
+location shall in no way be limited or waived by reason of the goods having previously been
+inspected, tested and passed by Buyer/ Consignee or its Nominated External Inspection
+Agency prior to the goods' shipment. While bidding, the sellers should take into account 7
+days for inspection from the date of email offering the goods for inspection. Any delay in
+inspection beyond 7 days shall be on the part of the buyer and shall be regularised without
+Liquidated Damages.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

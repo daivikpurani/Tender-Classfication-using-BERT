@@ -1,0 +1,317 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/700700
+
+  Dated: 07-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 22-07-2020 14:00:00
+
+Bid Opening Date/Time 22-07-2020 14:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Army
+
+Office Name ***********
+
+Total Quantity 15
+
+Item Category thin client computers
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  Yes
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 4
+
+
+
+ 
+
+Thin Client Computers ( 15 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Configuration Type Desktop Thin Client Desktop Thin Client
+
+Processor make Intel Intel
+
+Chipset Intel *
+
+Operating system,
+Number of Core &
+Processor Speed
+
+Windows 10 IoT
+Enterprise with
+browser, Dual Core,
+Min 1.2 Ghz
+
+Windows 10 IoT
+Enterprise with
+browser, Dual Core,
+Min 1.2 Ghz
+
+Graphics Integrated Integrated
+
+Type of RAM DDR4 *
+
+RAM Size (GB) 4 4, 8, 16 Or higher
+
+Storage (Powered
+Flash) (GB)
+
+32 32, 64, 128, 256, 512
+Or higher
+
+Printer support Local and Network *
+
+Wi-Fi Connectivity NA NA
+
+Display/Monitor Display / Monitor Available Available
+
+Display Type Discrete in case of
+Desktop Thin Client
+
+Discrete in case of
+Desktop Thin Client
+
+Display Size (Inch) 19.5 19.5
+
+Display Resolution
+(Pixels)
+
+- *
+
+Ports USB port 2.0 (Nos) 4 *
+
+USB port 3.0 or higher
+(Nos)
+
+2 *
+
+Serial Port 0 *
+
+Parallel Port 0 *
+
+USB C 0 *
+
+VGA Port 1 *
+
+DVI Port 0 *
+
+Audio Mic in and speaker out *
+
+Display Port 0 *
+
+HDMI 1 *
+
+Networking port Ethernet 10/100/1000 *
+
+Input Output Devices Keyboard Standard With USB
+Interface
+
+*
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/5m_YphdCNuV0z0amAyGc5xWQMmFv1gMoiURxv2g0TWY
+
+
+ 
+
+Mouse 2 button scroll optical
+mouse with USB
+interface
+
+*
+
+Certifications BIS Registration under
+CRS of Meity
+
+Yes *
+
+BIS Registration
+Number
+
+- *
+
+Miscellaneous Networking Protocols TCP/IP with DNS and
+DHCP, twisted pair
+(RJ-45), point to point
+protocol (PPP), PPP over
+ethernet (PPPoE), point
+to ponit tunneling
+protocol (PPTP), wake
+on LAN
+
+*
+
+Terminal server
+protocols
+
+X RDP / X ICA/X 11R6 /
+REXEC/VM Ware
+
+*
+
+Operating System &
+Management Software
+
+Windows 10 IoT
+Enterprise with IE 10.0
+browser or higher with
+enterprise client
+management software
+
+*
+
+Additional features DHCP/FTP enabled
+flash upgrade, VNC
+server & txtpad, multi
+user/ single user log on
+support locally.
+
+*
+
+Power Supply (Watts) 65 *
+
+Carry case No *
+
+On Site OEM
+Warranty (Year)
+
+3 3, 5 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********JAISALMER 15  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+
+                               3 / 4
+
+
+
+ 
+
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+2.Non return of Hard Disk: As per Buyer organization’s Security Policy,Faulty Hard Disk of
+Servers/Desktop Computers/ Laptops etc. will not be returned back to the OEM/supplier
+against warranty replacement.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,531 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/712811
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 13:00:00
+
+Bid Opening Date/Time 27-07-2020 13:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 15 (Days)
+
+Ministry/State Name Andhra Pradesh
+
+Department Name Municipal Administration And Urban Development Department
+Andhra Pradesh
+
+Organisation Name Commissioner And Director Of Municipal Administration (c &
+Dma)
+
+Office Name Sattenapalle Municipality
+
+Total Quantity 1
+
+Item Category e rickshaw for carrying goods
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Document required from seller  Past Performance
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the
+buyer
+
+Past Performance  10 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+1. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have supplied same or similar
+Category Products for 10% of bid quantity, in at least one of the last three years before the bid opening date to any
+Central / State Govt Organization / PSU / Public Listed Company. Copies of relevant contracts (proving supply of
+cumulative order quantity in any one year) to be submitted along with bid in support of quantity supplied in the relevant
+year. In case of bunch bids, the category related to primary product having highest bid value should meet this criterion.
+
+                               1 / 5
+
+
+
+ 
+
+E Rickshaw For Carrying Goods ( 1 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Certification Parameters Vehicle Certification others VRDE, ARAI, ICAT, others
+
+Vehicle Certification
+Number and Date
+
+- *
+
+If Vehicle Certification from
+Others Agency ,Name of the
+Agency otherwise put NA
+
+- *
+
+Generic Parameters Type of E Cart Fully Electric, Battery
+Operated Motor Driven for
+Carrying Goods
+
+Fully Electric, Battery
+Operated Motor Driven for
+Carrying Goods
+
+Model Number of E- Cart - *
+
+Colour of E cart - *
+
+The E Cart Must Fabricated
+From Good Quality Steel
+properly Painted to avoid
+Rusting for more than 5
+Years,
+
+- *
+
+Name and Grade of Steel
+from which E Cart Body
+Framed
+
+- *
+
+Kerb Weight of E- Cart
+(kg)
+
+700 Any applicable numeric
+value
+
+Goods Carrying Capacity
+(kg)
+
+240 Up to 310
+
+Run Distance ( for a Full
+Charge of Battery , to be
+tested with full load at
+maximum AIS-040 (km)
+
+80 50 - 9999999
+
+Type of Chassis for E cart - *
+
+Ground Clearance as per
+IS : 9435
+
+180 180 - 9999999
+
+Wheel Base (mm) 2400 Any applicable numeric
+value
+
+Turning Radius (mm) 6000 Any applicable numeric
+value
+
+Power Transmission from
+Motor Shaft to Wheels
+
+Other Mechanical
+Mechanisms
+
+Direct Mounting, Chain,
+Sprocket Type, Other
+Mechanical Mechanisms
+
+Please Specify the
+Mechanical Mechanism
+otherwise Put NA
+
+- *
+
+Type of Battery as per
+AIS-048
+
+Lead Acid , EV Grade ,
+Tubular Deep Discharge
+
+Lead Acid , EV Grade ,
+Tubular Deep Discharge,
+Lithium ion
+
+Capacity of the Battery
+approved by ICAT/ARAI
+(Ah)
+
+165 0 - 9999999
+
+Battery Voltage ,Nominal 48V 48V, 60 V
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/_BnIRy3s-BqNE8jQcVWo9QUlxbnueLmic8fiK6YlBBM
+
+
+ 
+
+Maximum Overall
+Dimensions of the Battery (
+L x Wx H )(mm3)
+
+- *
+
+Nominal Filled Weight of
+the Battery (kg)
+
+30 Any applicable numeric
+value
+
+Motor Controller ( Must
+Suitable for starting,
+accelerating, decelerating,
+driving , and stopping of E
+Cart
+
+- *
+
+Battery Charger 220/230 V Nominal Input
+Voltage , High Efficiency
+Type
+
+220/230 V Nominal Input
+Voltage , High Efficiency
+Type
+
+Charging Current (A) 180 Any applicable numeric
+value
+
+Type of Motor Brushless DC Motor Brushless DC Motor
+
+Motor Output Power
+,48V/60V at Full Load
+(watt)
+
+1200 850 - 2000
+
+Overall Efficiency of the
+E Cart to be tested at
+Full Load with maximum
+speed as per Concerned
+AIS standards (%)
+
+92 75 - 100
+
+Gradeability of E-cart to
+be tested at full
+procedure as per AIS
+-003 Load (Degree)
+
+40 Any applicable numeric
+value
+
+Thickness of Material of
+Sheet used for Roof of E-
+Cart (mm)
+
+2 0 - 9999999
+
+Material of the roof of E-
+Cart, if Enclosed
+Otherwise Put NA
+
+Fibre Glass of Good Quality Aluminium, MS, Fibre Glass
+of Good Quality,
+Combination of Fibre Glass
+with good Quality Metal,
+others
+
+Constructional Parameters Seating Facility Front For Driver only For Driver only
+
+Length of E -cart as per
+Gazette Notification by
+Ministry of Road and
+Transport Oct , 2014
+(metres)
+
+2.7 Up to 2.8
+
+Width of E -Cart as per
+Gazette Notification by
+Ministry of Road and
+Transport Oct, 2014
+(meters)
+
+0.9 Up to 1
+
+Height of E -Cart as per
+Gazette Notification by
+Ministry of Road and
+Transport Oct , 2014
+(meters)
+
+1.7 Up to 1.8
+
+Dimensions of the cabin
+Provided for Transport of
+Goods (mm x mm x mm)
+(mm3)
+
+- *
+
+Size of Front Tyre (mm) - *
+
+                               3 / 5
+
+
+
+ 
+
+Size of Rear Tyre (mm) - *
+
+Brake Type (Front ) - *
+
+Brake Type ( Rear ) - *
+
+Suspension System ( Rear ) - *
+
+Suspension System (Front) - *
+
+Reverse Gear Facility Yes Yes
+
+The Mounting of
+Batteries
+
+Yes Yes
+
+Vehicle lighting System LED Based Filament Type, LED Based,
+LCD Based
+
+Instrument Panel
+Containing Speedometer
+and Battery Charging
+Indicator
+
+Yes Yes
+
+Glass Windshield with
+wiper motor as approved
+by ICAT/ARAI
+
+No Yes, No
+
+Battery Make as per AIS
+:048:2009
+
+Exide Okaya, Exide, Ceil, Amaron,
+others
+
+If others please specify the
+material Otherwise put NA
+
+- *
+
+Equipped with Start and
+Stop Button, parking
+Lights , Back lights with
+Reverse Gear Facility
+
+Yes Yes
+
+Equipped with Fire
+Extinguisher
+
+No Yes, No
+
+Equipped with First Aid
+Box
+
+Yes Yes, No
+
+Yellow Color reflective
+tape on Front and Rear
+Side of the E Cart
+
+Yes Yes
+
+E Cart Integration , Yes Yes
+
+Type of Cabin used for
+Transportation of Goods
+
+Open Open, Closed
+
+If others please specify the
+Name of Brand ,Otherwise
+put NA( as per AIS
+:048:2009)
+
+- *
+
+Performance Parameters Speed of the E-Cart as
+per CMVR -2014 with
+latest amndmt (to be
+tested with Full Load )
+(kmph)
+
+21 20 - 25
+
+Battery Warranty in
+years (Years)
+
+1 1, 2, 3
+
+No. Of Free Service 1 *
+
+Complaince of Centre of
+Gravity of E Cart as a
+Compulsory Norms for
+Safety
+
+Yes Yes
+
+Confirming to Applicable
+Environmental Test
+
+Yes Yes
+
+                               4 / 5
+
+
+
+ 
+
+Noise level must be Low
+during Operation
+
+Yes Yes
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Boyapati
+Madhusudhan Rao
+
+522403,Municipal office,Bypass
+road
+
+1  15
+
+Bid Specific Additional Terms and Conditions
+1.Bidder / OEM has to give an undertaking that after expiry of warranty period, it will provide AMC Service for next 
+
+3 years for the offered products at the rate not more than 5 % of contract price per annum. Buyer reserves the
+right to enter into an AMC agreement ( covering preventive maintenance and servicing)with the Successful
+Bidder / OEM after expiry of the Warranty period at rate as mentioned above and the payment for the AMC
+charges would be made Quarterly after rendering of the AMC Services of the relevant AMC period. Performance
+Security of the successful bidder shall be forfeited if it fails to accept the AMC contract when called upon by the
+buyer. The original Performance Security of contract will be returned only after submission and verification of
+AMC Performance Security for 2% of total AMC value valid up to AMC period plus 2 months (if there is no other
+claim). (Undertaking of acceptance to be uploaded with bid).
+
+2.Successful bidder will have to ensure that adequate number of dedicated technical service personals / engineers
+are designated / deployed for attending to the Service Request in a time bound manner and for ensuring Timely
+Servicing / rectification of defects during warranty period, as per Service level agreement indicated in the
+relevant clause of the bid.
+
+3.Timely Servicing / rectification of defects during warranty period: After having been notified of the defects /
+service requirement during warranty period, Seller has to complete the required Service / Rectification within 15
+days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of
+Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit
+the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the
+Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after
+which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and
+cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service /
+rectification to the Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

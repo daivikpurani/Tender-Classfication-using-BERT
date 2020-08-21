@@ -1,0 +1,388 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/702224
+
+  Dated: 08-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 23-07-2020 13:00:00
+
+Bid Opening Date/Time 23-07-2020 13:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Communications
+
+Department Name Department Of Posts
+
+Organisation Name Department Of Posts
+
+Office Name Office Of Chief Postmaster General Uttar Pradesh
+Circle Lucknow
+
+Total Quantity 10
+
+Item Category Computer Printers
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Computer Printers ( 10 pieces )
+
+Technical Specifications
+
+                               1 / 5
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Specifications Cartridge
+Technology
+
+Composite Cartridge Composite Cartridge,
+separate toner and
+drum Or higher
+
+Printing Technology Laser Laser
+
+Type of Printing Mono Mono
+
+Paper Size A4 A4, A3 Or higher
+
+Print Speed per
+minute as per
+ISO/IEC 24734 in
+(A4) Size - Mono
+
+12 12, 15, 16, 18, 20, 21,
+22, 25, 27, 28, 30, 35,
+38, 40, 43, 45, 47, 50,
+52, 55, 60, 61, 65, 70,
+71, 75, 80, 85, 90, 95,
+100, 105, 110, 26, 31,
+32, 13, 14.5, 24, 62,
+33, 41, 46, 56, 29, 34,
+19, 14 Or higher
+
+Print Speed per
+minute as per
+ISO/IEC 24734 in
+(A4) - Color
+
+0 4, 7, 8, 10, 12, 15, 16,
+18, 20, 25, 30, 35, 40,
+45, 50, 55, 60, 65, 70,
+75, 80, 85, 90, 95, 100,
+105, 110, 26, 27, 31,
+38, 4.4, 5, 5.7, 5.8, 6.8,
+10.4, 15.5, 21, 24, 33,
+46, 34, 19, 0, 14 Or
+higher
+
+Resolution (Dpi) 600x600 *
+
+Memory (MB) 2 *
+
+Hard Disk Capacity
+(GB)
+
+0 *
+
+Processor Speed 0 *
+
+Duplexing Feature No Yes, No Or higher
+
+Duplex Print Speed (
+IPM)
+
+0 *
+
+Network Connectivity No *
+
+Network Interface, if
+available
+
+NA *
+
+Wireless
+Connectivity
+
+No Yes, No Or higher
+
+If Yes, Type of Wireless
+Connectivity
+
+NA *
+
+USB Port Yes *
+
+Number of Main
+Paper Trays
+
+1 1, 2, 3, 4, 5 Or higher
+
+Each Main Paper Tray 150 *
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/7KwLyKqF68qO7U1SrreDlL431YSwH_xJCivVr1PARe8
+
+
+ 
+
+Capacity
+
+Bypass Tray Facility No Yes, No Or higher
+
+If Yes, Bypass Tray
+Capacity
+
+1 *
+
+Yield of the
+cartridge/Ink Tank/Ink
+Pack supplied with
+Machine as per ISO/IEC:
+19798/2007(E) for
+Cyan colour (Number of
+prints)
+
+0 *
+
+Yield of the
+cartridge/Ink Tank/Ink
+Pack supplied with
+Machine as per ISO/IEC:
+19798/2007(E) for
+Yellow colour (Number
+of prints)
+
+0 *
+
+Yield of the
+cartridge/Ink Tank/Ink
+Pack supplied with
+Machine as per ISO/IEC:
+19752/2004(E) for
+Black (Number of
+prints)
+
+2000 *
+
+Life of Drum in terms of
+number of Prints in
+case of Separate Drum
+and Toner cartridge
+technology -Cyan
+
+0 *
+
+Life of Drum in terms of
+number of Prints in
+case of Separate Drum
+and Toner cartridge
+technology - Yellow
+
+0 *
+
+Life of Drum in terms of
+number of Prints in
+case of Separate Drum
+and Toner cartridge
+technology - Magenta
+
+0 *
+
+Life of Drum in terms of
+number of Prints in
+case of Separate Drum
+and Toner cartridge
+technology - Black
+
+3000 *
+
+Duty Cycle (No of
+Prints/month)
+
+10000 *
+
+Minimum Operating
+Temperature (Degree
+C)
+
+15 *
+
+Maximum Operating 70 *
+
+                               3 / 5
+
+
+
+ 
+
+Temperature (Degree
+C)
+
+Minimum Operating
+Humidity (%RH)
+
+45 *
+
+Maximum Operating
+Humidity (% RH)
+
+95 *
+
+BIS Registration under
+CRS of Meity
+
+Yes *
+
+BIS Registration no - *
+
+Other Certifications
+Available
+
+RoHS,UL,CE,FCC *
+
+Dimensions(In mm x
+mm x mm )
+
+- *
+
+Weight (In kg) - *
+
+On site OEM
+warranty (Years)
+
+1 1, 3, 5, 2, 4 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Manoj Kumar 247001,RMS SH Division
+Saharanpur
+
+10  15
+
+Bid Specific Additional Terms and Conditions
+
+1.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 3 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+                               4 / 5
+
+https://gem.gov.in/termsCondition
+
+
+ 
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+http://www.tcpdf.org
+

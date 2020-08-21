@@ -1,0 +1,792 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/706100
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 17:00:00
+
+Bid Opening Date/Time 20-07-2020 17:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Ministry Of Home Affairs
+
+Department Name Department Of Home
+
+Organisation Name New Delhi Municipal Council, Ndmc
+
+Office Name New Delhi Municipal Council
+
+Total Quantity 10
+
+Item Category BACKUP AND REPLICATION SOFTWARE BACKUP OR
+ARCHIVAL SOFTWARE (VERSION 2.0) ( PAC Only ) 
+
+Bidder Turnover (Last 3 Years)  7 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  58 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years Of Experience and
+Turnover
+
+ Yes
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Bidder Turnover,Certificate
+(Requested in ATC),OEM Authorization
+Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 2.00
+
+EMD Amount 28760
+
+                               1 / 9
+
+
+
+ 
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 10.00
+
+Duration of ePBG required (Months). 28
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+Secretary,NDMC
+New Delhi Municipal Council, Department of Home, New Delhi Municipal Council, NDMC, Ministry of
+Home Affairs
+(Secretary,ndmc)
+
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+
+BACKUP AND REPLICATION SOFTWARE BACKUP OR ARCHIVAL SOFTWARE
+(VERSION 2.0) ( 10 pieces ) ( Under PAC ) 
+
+Make veritas
+
+Model netbackupsoftwareessentialsupport
+
+Technical Specifications
+
+                               2 / 9
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+BASIC INFORMATION Domain type Backup and Recovery
+Software
+
+Backup and Recovery
+Software
+
+Configured usable
+capacity of offered
+Purpose Built
+Backup Appliance (in
+TB) (Hint :- Select '0'
+if not applicable )
+
+0 0.0 - 1000.0 Or higher
+
+Configured usable
+capacity of Purpose
+Built Backup
+Appliance with
+Backup and
+Recovery Software
+(in TB) (Hint :- Select
+'0' if not applicable )
+
+0 0.0 - 1000.0 Or higher
+
+Maximum Scalable
+Capacity (TB) (Hint :-
+Select '0' if not
+applicable )
+
+0 0 - 1000
+
+OEM Model / Part No 23369-M3-23 *
+
+Software Description Netbackup Software *
+
+Software Version 8.3 *
+
+Date of Launch of
+Version
+
+2020 *
+
+SCOPE OF LICENCE Types of Licence NA NA
+
+" Duration of
+Subscription (in
+Years) (Hint :- Select
+'0' if not applicable)"
+
+0 0.0 - 5.0 Or higher
+
+OEM Licensing policy Per TB Per TB
+
+Licence Delivery Mode Electronic License *
+
+Hosting Enviroment/
+Deplyment Option
+
+On Premise On Premise
+
+The offered product
+have support from
+OEM for
+
+Unlimited updation for
+Patches and Bug fixes
+within maintenance &
+support
+period,Unlimited
+upgradation of version
+within support period
+
+Unlimited updation for
+Patches and Bug fixes
+within maintenance &
+support period,
+Unlimited upgradation
+of version within
+support period
+
+Number of Years for
+OEM support for
+
+1 1.0 - 5.0 Or higher
+
+                               3 / 9
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/KXAUIRYEEJ6FekR6Ikdk8-k6FNqVHVGWqSocMp-mRdk
+
+
+ 
+
+updation (Patches
+and Bug fixes) is
+included in the
+scope of supply (Hint
+:- Select '0' if not
+applicable)
+
+Number of Years for
+OEM support for
+Upgradation of
+version is included
+in the scope of
+supply (Hint :- Select
+'0' if not applicable)
+
+1 1.0 - 5.0 Or higher
+
+Training Options NA NA
+
+No of days Training
+Provided (Hint :-
+Select '0' if not
+applicable)
+
+0 0.0 - 30.0 Or higher
+
+BACKUP APPLIANCE Max rated Appliance
+Throughput without
+Source/Client-side
+Deduplication (in TB
+/hour)(Hint :- Select
+'0' if not applicable )
+
+0 0.0 - 100.0 Or higher
+
+Max rated Appliance
+Throughput with
+Source/Client-side
+Deduplication (in TB
+/hour)(Hint :- Select
+'0' if not applicable )
+
+0 0.0 - 100.0 Or higher
+
+Rack space (U) 0 0.0 - 0.0 Or lower
+
+Type of Disk in Backup
+Appliance
+
+NA *
+
+Number of 1G
+Ethernet Ports (Hint
+:- Select '0' if not
+applicable)
+
+0 0.0 - 20.0 Or higher
+
+Number of 10G
+Ethernet Base-T
+Ports (Hint :- Select
+'0' if not applicable)
+
+0 0.0 - 20.0 Or higher
+
+Number of 10G
+SFP/SFP+ Ports (Hint
+:- Select '0' if not
+applicable)
+
+0 0.0 - 20.0 Or higher
+
+Total Throughput of
+Fiber Channel ( in
+Gbps) in the offered
+product (Hint :-
+Select '0' if not
+applicable)
+
+0 0.0 - 128.0 Or higher
+
+                               4 / 9
+
+
+
+ 
+
+Number of 8G Fiber
+channel ports (Hint :-
+Select '0' if not
+applicable)
+
+0 *
+
+Number of 16G Fiber
+channel ports (Hint :-
+Select '0' if not
+applicable)
+
+0 *
+
+RAID Level Inbuilt in
+the offered product
+(Hint :- Select '0' if
+not applicable)
+
+NA NA
+
+Source data backup
+capacity in TB (Hint :-
+Select '0' if not
+applicable)
+
+0 *
+
+Retaintion policy of the
+offered product ( in
+Months) (Hint :- Select
+'0' if not applicable)
+
+0 *
+
+Protocol supported
+by Backup appliance
+
+NA NA
+
+Replication
+capability of the
+backup appliance
+
+NA NA
+
+Additional features of
+Backup Appliance
+
+NA *
+
+SCHEDULING Backup schedule
+supported by offered
+product
+
+Daily,Weekly,Monthly,Q
+uartley,Yearly
+
+*
+
+Scheduling Features The proposed software
+should have inbuilt
+calender based
+scheduling
+system.,Proposed back
+up software should
+support various level of
+backup eg. full,
+incremental ,
+differential , synthetic
+full.
+
+*
+
+GRAPHICAL USER
+INTERFACE
+
+Graphical User
+Interface Features
+
+The offered product to
+have web based
+Graphical User
+Interface (GUI) so that
+all backup can be
+managed centrally,
+regardless of
+location.,,GUI to be
+same across
+heterogeneous
+platform to ensure easy
+
+*
+
+                               5 / 9
+
+
+
+ 
+
+administration.
+
+RECOVERY Recovery Features The offered product
+have a capability to
+maintain a database for
+all backup jobs, policy
+jobs meta-data etc.,
+and to have the
+capability of re-creating
+master system in case
+of disaster using this
+database
+
+*
+
+DE- DUPLICATION De- Duplication
+Features
+
+The offered product
+have a capability to
+support target based
+de-duplication along
+with source base de-
+duplication for
+improved backup
+window and lesser
+footprint.,NA
+
+*
+
+TAPEOUT CAPABILITIES Tapeout Capabilites
+Features
+
+The offered product
+have capability to
+transfer all data that is
+backed up on disk to
+tape without client
+server
+intervention.,,Backup
+software capable to
+retrieve data from tape
+to client server directly
+
+*
+
+REPORTING CAPABILITY Reporting Capabilites
+Features
+
+Full job completion
+report:- Overview of
+the full backup jobs
+that are successful,
+partially successful and
+failed for each day
+
+*
+
+IMAGE LEVEL BACKUP
+CAPABILITY
+
+Image level backup
+Capability Features
+
+To support image level
+backup on
+host/hypervisor level
+for multiple vendors,To
+support source based
+deduplication while
+image level backup,To
+support granular
+recovery from image
+level backup
+
+*
+
+REPLICATION
+CAPABILITY
+
+Replication Capability
+Features
+
+Subsequent Replication
+to be transfered only
+difference data from
+previous successful
+replication.,Replication
+to provide the flexibility
+to transfer only dedup
+data.,The offered
+
+*
+
+                               6 / 9
+
+
+
+ 
+
+product to support bi-
+directional, many-to-
+one, one-to-many, and
+one-to-one
+replication.,,The
+offered product to
+support encryption with
+128 bit or 256 bit
+Advanced Encryption
+Standard (AES)
+algorithms
+
+GENERIC FEATURES Backup Appliance
+Features
+
+NA *
+
+Backup and Recovery
+Software Features
+
+LAN and LAN-free
+Backup,Protection of
+heterogeneous Server 
+environments,Agentles
+s/ API support,Instant
+Access/ Instant
+Restore,Single Web-
+Console for Backup and
+Recovery & Centralized
+Management,Granular
+Recovery of both
+Physical and Virtual
+environments,Separate
+Framework for
+Application Consistent
+Backup and Crash
+Consistent
+Backup.,Support for
+NDMP Protocol,Backup
+to Tape and Purpose
+Built Backup
+Appliance,Automatic
+Backup Management
+features,Customized
+Reporting,Separate
+agents availability for
+operating system,
+database &
+applications,Standlaon
+e Tape Drive and
+Robotic Tape Library
+backup support,Tape
+Cloning And Offsite
+Tape
+Vaulting.,Optimized
+Synthetic
+Backups,Backup
+Replication And Staging
+
+*
+
+Generic Features Database Backup and
+Recovery,Application
+Backup and
+Recovery,Virtual
+Machine Backup and
+
+*
+
+                               7 / 9
+
+
+
+ 
+
+Recovery,Backup data
+integrity
+checksum,Encryption-
+data at rest and data in
+flight,Policy-based
+Backup /
+Scheduling,Customized
+Reporting,Cloud
+Backup,Optimized
+deduplicated Backup
+To Cloud,Integrated
+Backup and
+Recovery,Dissimilar
+Hardware
+Recovery,Server
+Backup and
+Recovery,Client Backup
+and Recovery,Unified
+Backup For Physical
+And Virtual
+Environment,Data
+Compression,Data
+Encryption,Incremental
+and Differential
+Backups
+
+HARDWARE /
+SOFTWARE
+REQUIREMENTS AT
+BUYER END
+
+Database supported by
+the offered product
+
+Oracle,,DB2,Sybase,My
+SQL,PostgreSQL,MSSQL
+,NOSQL
+
+*
+
+Supported Operating
+System by the offered
+product
+
+Windows,Linux,Unix,HP
+- UX
+
+*
+
+Platform supported for
+Bare Metal Recovery
+
+Windows OS,Linux
+OS,UNIX OS,HP- UX
+
+*
+
+Server/CPU
+configuration
+requirements
+
+As per Enviornment *
+
+Certifications /
+Benchmarking of
+Software Products
+
+FIPS-140 *
+
+Hyper link to Data
+sheet ( 30 characters )
+
+www.veritas.com *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+                               8 / 9
+
+
+
+ 
+
+1 Abdul Wahid
+Ansari
+
+110001,ROOM NO-7001,
+7TH FLOOR,NDMC PALIKA
+KENDRA,PARLIAMENT
+STREET,NEW DELHI
+
+10  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+2.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+3.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial
+year, should be as indicated in the bid document. Documentary evidence in the form of
+certified Audited Balance Sheets of relevant periods or a certificate from the Chartered
+Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than
+3 year old, the average turnover in respect of the completed financial years after the date of
+constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of
+CATEGORY RELATED TO primary product having highest bid value should meet this criterion.
+
+4.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+5.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+6.Bidders can also submit the EMD with Account Payee Demand Draft in favour of 
+Secretary,NDMC payable at Secretary,NDMC New Delhi.
+Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure
+delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date.
+
+7.Bidders can also submit the EMD with Banker’s Cheque in favour of Secretary,NDMC payable
+at Secretary,NDMC New Delhi.
+Bidder has to upload scanned copy / proof of the BC along with bid and has to ensure
+delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               9 / 9
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,995 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/699421
+
+  Dated: 07-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 22-07-2020 15:00:00
+
+Bid Opening Date/Time 22-07-2020 15:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 65 (Days)
+
+Ministry/State Name Ministry Of Coal
+
+Department Name Materials Management
+
+Organisation Name Northern Coalfields Limited
+
+Office Name Ri V, Cmpdi, Bilaspur (cg), Central Zone
+
+Total Quantity 2
+
+Item Category Water Quality Meters / Analyzers
+
+Experience Criteria  1 Year (s)
+
+MSE Exemption for Years Of Experience  Yes
+
+Startup Exemption for Years Of Experience  Yes
+
+Document required from seller  Experience Criteria
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+Estimated Bid Value  140000
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                             1 / 10
+
+
+
+ 
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+
+Water Quality Meters / Analyzers ( 2 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+TYPE / NOMENCLATURE
+/ PROTECTION
+
+Type of Meter /
+Analyzer
+
+Handheld Handheld
+
+Functional
+nomenclature
+
+Turbidity Meter Turbidity Meter
+
+Ingress Protection
+(Main Unit)
+
+IP 67 IP 67
+
+Calibration Manual Manual
+
+MEASURED WATER
+QUALITY PARAMETERS
+
+Dissolved Oxygen
+(DO)
+
+No No
+
+DO % Stauration No No
+
+Conductivity No No
+
+Resistivity No No
+
+Salinity No No
+
+Total Dissolved
+Solids (TDS)
+
+No No
+
+pH No No
+
+Oxidation Reduction
+Potential (ORP)
+
+No No
+
+Ammonium No No
+
+Nitrate No No
+
+Chloride No No
+
+Turbidity Yes Yes
+
+Depth No No
+
+Temperature No No
+
+Atmospheric
+Pressure
+
+No No
+
+                             2 / 10
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/PBvjk2nRxkO-9DRvkJLEvcDw3WPQOs-SCe_A9e9fsTo
+
+
+ 
+
+MEASUREMENT OF
+DISSOLVED OXYGEN
+(DO) / DO % Saturation
+
+Dissolved Oxygen
+(DO) measurement
+Principle
+
+NA NA
+
+Sensor / Probe/
+Electrode Type
+
+NA Lifetime Luminiscent
+for Optical,
+Polarographic for
+Electro Chemical,
+Galvanic for Electro
+Chemical, NA
+
+Measurement Range
+for DO Content ( in
+ppm or mg/l )
+
+NA NA
+
+Resolution ( in ppm or
+mg/l )
+
+NA *
+
+DO Accuracy ( +/- ) 0 *
+
+Measurement Range
+for DO % Saturation
+( in % )
+
+NA NA
+
+Resolution ( in % ) NA *
+
+DO % Accuracy (+/- ) 0 *
+
+MEASUREMENT OF
+CONDUCTIVITY (EC)
+
+Conductivity
+measurement
+principle
+
+NA NA
+
+Sensor/
+Probe/Electrode
+Type
+
+NA NA
+
+Material of Electrode NA NA
+
+Measurement Range
+( in µS/cm )
+
+NA NA
+
+Resolution ( in mho or
+µS/cm )
+
+NA *
+
+EC Accuracy ( +/- ) 0 *
+
+MEASUREMENT OF
+RESISTIVITY
+
+Resitivity
+measurement
+principle
+
+NA NA
+
+Lowest
+Measurement Value
+for Resistivity (in
+ohm-cm)
+
+NA NA
+
+Highest
+Measurement Value
+for Resistivity (in
+Mega ohm-cm)
+
+NA NA
+
+Resolution ( in ohm-
+cm)
+
+NA *
+
+Resistivity Accuracy(+/-
+)
+
+0 *
+
+                             3 / 10
+
+
+
+ 
+
+MEASUREMENT OF
+SALINITY
+
+Salinity
+measurement
+principle
+
+NA NA
+
+Measurement Range
+( in parts per
+thousand or g/l or
+PSU)
+
+NA NA
+
+Resolution (in g/l) NA *
+
+Salinity Accuracy ( +/- ) 0 *
+
+MEASUREMENT OF
+TOTAL DISSOLVED
+SOLIDS (TDS)
+
+TDS measurement
+principle
+
+NA NA
+
+TDS Measurement
+Range ( in parts per
+thousand or g/l )
+
+NA NA
+
+Resolution ( in g/l ) NA *
+
+TDS Accuracy ( +/- ) 0 *
+
+MEASUREMENT OF pH pH measurement
+principle
+
+NA NA
+
+Sensor / Probe /
+Electrode Type
+
+NA NA
+
+Number of Sensors /
+Electrodes
+
+NA NA
+
+pH Measurement
+Range
+
+NA NA
+
+Resolution ( in pH
+number )
+
+NA *
+
+pH Accuracy ( +/- ) 0 *
+
+MEASUREMENT OF
+OXIDATION REDUCTION
+POTENTIAL (ORP)
+
+ORP measurement
+principle
+
+NA NA
+
+Sensor / Probe/
+Electrode Type
+
+NA NA
+
+Number of Sensors
+/Electrodes
+
+NA NA
+
+Lowest
+Measurement Value
+for ORP (in mV )
+
+NA NA
+
+Highest
+Measurement Value
+for ORP (in mV )
+
+NA NA
+
+Resolution ( in ± mV ) NA *
+
+ORP Accuracy ( +/- ) 0 *
+
+MEASUREMENT OF
+AMMONIUM
+
+Sensor / Probe/
+Electrode Type
+
+NA Ion Selective Electrode,
+NA
+
+Measurement Range
+( in ppm or mg/l )
+
+NA NA
+
+                             4 / 10
+
+
+
+ 
+
+Resolution ( in ppm or
+mg/l )
+
+NA *
+
+Ammonium Accuracy (
++/- )
+
+0 *
+
+MEASUREMENT OF
+NITRATE
+
+Sensor / Probe/
+Electrode Type
+
+NA Ion Selective Electrode,
+NA
+
+Measurement Range
+( in ppm or mg/l )
+
+NA 0-100, 0-200, 0-300,
+0-400, 0-500, 0-600,
+NA
+
+Resolution ( in ppm or
+mg/l )
+
+NA *
+
+Nitrate Accuracy ( +/- ) 0 *
+
+MEASUREMENT OF
+CHLORIDE
+
+Sensor/Probe/Electro
+de Type
+
+NA NA
+
+Measurement Range
+( in ppm or mg/l )
+
+NA 0-400, 0-600, 0-800,
+0-1000, 0-1200,
+0-1500, NA
+
+Resolution ( in ppm or
+mg/l )
+
+NA *
+
+Chloride Accuracy ( +/-
+)
+
+0 *
+
+MEASUREMENT OF
+TURBIDITY
+
+Turbidity
+measurement
+principle
+
+Nephelometric
+measurement
+according to ISO 7027
+
+Nephelometric
+measurement
+according to ISO 7027
+
+Light Source Infrared Led Infrared Led
+
+Measurement of
+scattered light
+
+30 degree scatter
+nephelometer
+
+30 degree scatter
+nephelometer
+
+Lowest
+Measurement Value
+for Turbidity (in FNU
+or NTU )
+
+0.01 0.01
+
+Highest
+Measurement Value
+for Turbidity (in FNU
+or NTU )
+
+1200 1200
+
+Resolution ( in FNU or
+FTU )
+
+0.01 *
+
+Turbidity Accuracy ( +/-
+)
+
+2 *
+
+MEASUREMENT OF
+TEMPERATURE
+
+Sensor/Probe Type NA NA
+
+Lowest
+Measurement Value
+for Temperature (˚C)
+
+NA NA
+
+Highest
+Measurement Value
+for Temperature (˚C)
+
+NA NA
+
+                             5 / 10
+
+
+
+ 
+
+Resolution (˚C) NA *
+
+Temperature Accuracy
+( +/- )
+
+0 *
+
+MEASUREMENT OF
+PRESSURE
+
+Sensor /Probe Type NA NA
+
+Lowest
+Measurement Value
+for Pressure (in
+mmHg )
+
+NA NA
+
+Highest
+Measurement Value
+for Pressure (in
+mmHg )
+
+NA NA
+
+Resolution ( in mmHg ) NA *
+
+Pressure Accuracy ( +/-
+)
+
+0 *
+
+MEASUREMENT OF
+DEPTH
+
+Measurement
+Method
+
+NA NA
+
+Depth Measurement
+Range (in meters)
+
+NA NA
+
+Length of Cable
+connecting peobe
+(inclusive in the
+scope of supply)
+
+0 0.0
+
+COMPENSATION /
+CORRECTION
+
+Temperature
+correction
+
+NA NA
+
+Salinity Correction NA NA
+
+Barometric Pressure
+correction
+
+NA NA
+
+DISPLAY / STORAGE Type of Display LCD *
+
+Display Digit Size 0 *
+
+Number of Digits in
+Display
+
+3 *
+
+Number of parameters
+diplayed
+simultaneously
+
+1 *
+
+Memory (in Data Sets) 0 *
+
+Internal memory (GB) 0 *
+
+In-built GPS No *
+
+Date /time Stamp in
+Entries
+
+No *
+
+Connectivity interface NA *
+
+POWER SOURCE Power Source Rechargeable Battery *
+
+Battery Size, if Non
+Rechargeable Battery
+
+NA *
+
+                             6 / 10
+
+
+
+ 
+
+Battery Chemistry, if
+Rechargeable Battery
+
+NA *
+
+Voltage of each Battery 0 *
+
+Number of Batteries
+required for operation
+
+0 *
+
+Number of Batteries
+Inclusive in the Scope
+of Supply
+
+0 *
+
+Battery Capacity (mAh) 0 *
+
+Battery Life 0 *
+
+Suitable Adapter to be
+supplied to make the
+equipment Work on
+230 V ± 10 %, 50 Hz
+
+No *
+
+GENERIC Armour housing of
+Sensor / Probe
+
+Plastic *
+
+Probe / Sensor /
+Electrode supplied with
+equipment
+
+No *
+
+Number of elctrodes
+supplied
+
+0 *
+
+Weight 0 *
+
+Dimensions ( mm x mm
+x mm )
+
+- *
+
+Carry Case included in
+the scope of supply
+
+No *
+
+Any other features - *
+
+List of Items and
+Quantity of each item
+included in the offer
+
+- *
+
+OPERATING
+CONDITIONS
+
+Minimum Operating
+Temperature
+
+0 0.0
+
+Maximum Operating
+Temperature
+
+50 50.0
+
+Operating Humidity,
+Rh at 40 deg C
+
+65 65.0
+
+WARRANTY Warranty on
+Equipment
+
+1 1.0
+
+Warranty on Probe /
+Electrode
+
+6 6.0
+
+Warranty on Cables
+for Connecting Probe
+
+1 1.0
+
+CERTIFICATION Availability of Test
+Reports from Central
+Govt / NABL
+approved / ILAC
+
+No No
+
+                             7 / 10
+
+
+
+ 
+
+accredited Lab to
+prove conformity to
+the specification
+
+If Yes, Test Report to
+be furnished to the
+Buyer on demand
+
+NA *
+
+Test Report No and
+Date
+
+- *
+
+Name of the Lab and
+Address
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Bandi Joseph Anil
+Kumar
+
+495006,REGIONAL
+INSTITUTE V, CENTRAL MINE
+PLANNING &amp; DESIGN
+INSTITUTE LIMITED, SECL
+COMPLEX, SIPAT ROAD
+
+2  30
+
+Bid Specific Additional Terms and Conditions
+
+1.End User Certificate: Wherever Bidders are insisting for End User Certificate from the
+Buyer, same shall be provided in Buyer’s standard format only.
+
+2.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+3.Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid
+documents. Buyers can match and verify the Data Sheet with the product specifications
+offered. In case of any unexplained mismatch of technical parameters, the bid is liable for
+rejection.
+
+4.OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be
+ordered up to 25 percent at the time of placement of contract. The purchaser also reserves
+the right to increase the ordered quantity by up to 25% of the contracted quantity during the
+currency of the contract at the contracted rates. Bidders are bound to accept the orders
+accordingly.
+
+5.The successful bidder has to supply all essential accessories required for the successful
+installation and commissioning of the goods supplied. Besides standard accessories as per
+normal industry practice, following accessories must be part of supply and cost should be
+included in bid price: Rechargeable battery with charger.
+
+6.Without prejudice to Buyer’s right to price adjustment by way of discount or any other right
+or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a
+written notice to the Seller, if:
+i) The Seller fails to comply with any material term of the Contract.
+ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within
+the stipulated Delivery Period or such inability otherwise becomes apparent.
+
+                             8 / 10
+
+
+
+ 
+
+iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery
+Period and/or to replace/rectify any rejected or defective Material(s) promptly.
+iv) The Seller becomes bankrupt or goes into liquidation.
+v) The Seller makes a general assignment for the benefit of creditors.
+vi) A receiver is appointed for any substantial property owned by the Seller.
+vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has
+placed the Purchase Order on the Seller.
+
+7. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+8.Nominated Inspection Agency: On behalf of the Buyer organization, any one of the
+following Inspection Agency would be conducting inspection of stores before acceptance:
+Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause
+has been selected in ATC): Not Required
+Post Receipt Inspection at consignee site before acceptance of stores: By our inspection
+team
+
+9.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+10.Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be
+given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs)
+Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises
+and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to
+avail the Purchase preference, the bidder must be the manufacturer of the offered product
+in case of bid for supply of goods. Traders are excluded from the purview of Public
+Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder
+must be the Service provider of the offered Service. Relevant documentary evidence in this
+regard shall be uploaded along with the bid in respect of the offered product or service. If L-1
+is not an MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of
+purchase preference /price band defined in relevant policy, such Seller shall be given
+opportunity to match L-1 price and contract will be awarded for percentage of 50% of total
+value.
+
+11.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+12.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+13.Over and above the normal Warranty terms as per GeM GTC, the successful bidder / OEM
+shall have to provide Comprehensive Warranty during the entire Standard warranty period
+as per contract. : The comprehensive warranty shall be covering the following scope 
+Replacement of all defective parts free of cost (Upload an undertaking with the bid
+confirming compliance by the bidder if Bidder is taking onus of this compliance. In case OEM
+is taking onus of this compliance, OEM undertaking is to be uploaded along with Bidder
+undertaking)
+
+14.Successful bidder will have to ensure that adequate number of dedicated technical service
+personals / engineers are designated / deployed for attending to the Service Request in a
+time bound manner and for ensuring Timely Servicing / rectification of defects during
+warranty period, as per Service level agreement indicated in the relevant clause of the bid.
+
+15.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 15 days time limit. If the Seller fails to complete
+service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product
+shall be charged as penalty for each week of delay from the seller. Seller can deposit the
+penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty
+amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than
+10% of the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+
+                             9 / 10
+
+
+
+ 
+
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+16.Warranty period of the supplied products shall be 1 years from the date of final acceptance
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+17.Purchase preference to Micro and Small Enterprises (MSEs) from the State of Bid Inviting
+Authority : Purchase preference will be given to MSEs as Micro and Small Enterprises from
+the State of Bid inviting Authority whose credentials are validated online through Udyog
+Aadhaar for that product category. If the bidder wants to avail the Purchase preference, the
+bidder must be the manufacturer of the offered product in case of bid for supply of goods.
+Traders are excluded from the purview of Public Procurement Policy for Micro and Small
+Enterprises. In respect of bid for Services, the bidder must be the Service provider of the
+offered Service. Relevant documentary evidence in this regard shall be uploaded along with
+the bid in respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s)
+has/have quoted price within L-1+ 15 % of margin of purchase preference /price band
+defined in relevant policy, such Seller shall be given opportunity to match L-1 price and
+contract will be awarded for percentage of 50% of total value as defined/ decided in relevant
+policy.
+
+18.For fulfilling the experience criteria any one of the following documents may be considered
+as valid proof for meeting the experience criteria:
+a. Purchase Order copy along with Invoice(s) with self-certification by the bidder that
+supplies against the invoices have been executed.
+b. Execution certificate by client with order value.
+c. Any other document in support of order execution like Third Party Inspection release note,
+etc.
+
+19.The Bidder / OEM {themselves or through reseller(s)}, should have executed project for
+supply and installation / commissioning of same or similar Category Products during
+preceding 3 financial years (i.e. current year and three previous financial years) as on
+opening of bid, as per following criteria:
+ 
+(i) Single order of at least 35% of estimated bid value; or
+(ii) Two orders of at least 20% each of estimated bid value; or
+(iii) Three orders of at least 15% each of estimated bid value.
+Satisfactory Performance certificate issued by respective Buyer Organization for the above
+Orders should be uploaded with bid. In case of bunch bids, the Category related to primary
+product having highest bid value should meet this criterion
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                            10 / 10
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

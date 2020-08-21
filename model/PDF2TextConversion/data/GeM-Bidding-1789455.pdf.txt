@@ -1,0 +1,458 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/713074
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 14:00:00
+
+Bid Opening Date/Time 27-07-2020 14:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Railways
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Office Of Principal Chief Materials Manager, South Western
+Railway, Hubli
+
+Total Quantity 2
+
+Item Category inverters solar inverter
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Document required from seller  Certificate (Requested in ATC)
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the
+buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Inverters Solar Inverter ( 2 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+                               1 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/Eze08nJNV6YEclDzlfrcwrJytRWv-pLaErJOUyrIFrw
+
+
+ 
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC Rating of inverter (KVA) 5.0 KVA 1.0 KVA, 1.10 KVA, 1.20
+KVA, 1.50 KVA, 1.60 KVA,
+2.0 KVA, 3.0 KVA, 4.0 KVA,
+5.0 KVA
+
+ISI marked Yes Yes
+
+If ISI marked yes, CM/L No.
+must declare. If ISI mark No
+write NA
+
+- *
+
+Nos. of phase single single
+
+Inverter output wave
+form
+
+Pure sine wave Pure sine wave
+
+Ingress protection rating
+of inverter
+
+IP 65 for outdoor use IP 65 for outdoor use
+
+Built in protection for AC
+high/low voltage and
+frequency if connected
+to AC mains
+
+IP 65 for outdoor use IP 65 for outdoor use
+
+Display Type LED LED
+
+Area required for installation
+of Solar panels with
+mounting structure (sq. mt)
+
+- *
+
+Material of mounting
+structure
+
+Galvanised steel Galvanised steel
+
+CONSTRUCTIONAL Mode of operation Stand-alone *
+
+Switching device MOSFET IGBT, MOSFET
+
+Maximum power point
+tracking (MPPT)
+
+yes *
+
+Galvanic isolation between
+input DC and output AC
+
+yes *
+
+By-pass facility if connected
+to AC mains
+
+IP 65 for outdoor use *
+
+Display parameters like DC
+voltage (V) DC current (A)
+AC voltage(V)
+
+YES *
+
+Sequence of power drawing (1) SPV (2) AC MAINS (IF
+CONNECTED WITH AC
+POWER) (3) BATTERY BANK
+
+*
+
+Nos. of modules in an array
+(NOS.)
+
+- *
+
+Rating of individual PV
+module (Wp)
+
+- *
+
+Salt mist corrosion
+resistant material for
+body and frame of SPV
+module
+
+Galvanized steel Galvanized steel
+
+Provision for Solar
+generation meter
+
+yes *
+
+Provision for bidirectional
+meter (Net Meter)
+
+yes *
+
+Provision of anti rusting/
+non corrosive mounting
+structure
+
+yes *
+
+                               2 / 5
+
+
+
+ 
+
+Sustainability of wind
+speed. (KM/Hr)
+
+150 150
+
+Type of battery (KM/Hr) Tubular Gel Tubular Gel
+
+Capacity of battery bank
+(VAH)
+
+- *
+
+3 stage battery charging
+(float, boost and equalize
+stage) for long life of the
+battery
+
+yes *
+
+Reverse polarity protection yes *
+
+Complete installation work
+to be done by supplier
+
+yes *
+
+Gross weight of the inverter
+(kg)
+
+- *
+
+Reverse polarity protection
+for PV modules
+
+yes *
+
+FUNCTIONAL Inverter efficiency - *
+
+Total Harmonic distortion
+(%)
+
+- *
+
+Operating AC voltage range
+(Volts)
+
+- *
+
+Operating frequency range
+(Hz)
+
+- *
+
+Operating Temperature
+(degree cel)
+
+- *
+
+Operating relative humidity
+(%)
+
+- *
+
+Load power factor - *
+
+Output regulation at rated
+voltage
+
+Yes *
+
+Over load Protection 110%
+for 60 Seconds ,125% for 30
+Seconds and 150% for 5
+seconds
+
+yes *
+
+Efficiency of Solar panel (%) - *
+
+Battery backup time at
+rated load (Hour)
+
+4 4
+
+Battery bank Voltage (Volt) - *
+
+CERTIFICATIONS Conformity of inverter to
+environmental testing
+conditions as per IEC
+600688-2 (1,2,14,30) or
+equivalent BIS standard
+
+YES *
+
+90% performance warranty
+for SPV (years)
+
+10 *
+
+80% performance warranty
+for SPV (years)
+
+25 *
+
+TTC for PV module from any
+MNRE lab as per MNRE
+2015-2016
+
+yes *
+
+OEM test report for
+indigenously produced PV
+module (s)
+
+yes *
+
+                               3 / 5
+
+
+
+ 
+
+Availability of Type test
+report for inverter including
+environmental tests from
+Central
+government/NABL/ILAC
+accridiated laboratory to
+prove conformity to the
+specification
+
+yes *
+
+Test report number - *
+
+Date of test report - *
+
+Name and address of
+laboratory
+
+- *
+
+Type test report to be
+furnished on buyers
+demand
+
+yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Digvijay M Singh 560009,O/o Divisional Railway
+Manager, Office Complex, South
+Western Railway Divisional Office,
+Bangalore.
+
+2  30
+
+Bid Specific Additional Terms and Conditions
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods
+
+and Training of operators and providing Statutory Clearances required (if any)
+2.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each
+
+Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If
+service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one
+within 30 days of award of contract. Payment shall be released only after submission of documentary evidence
+of having Functional Service Centre.
+
+3.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone
+No. for Service Support.
+
+4.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for
+Service Support.
+
+5.Successful bidder will have to ensure that adequate number of dedicated technical service personals / engineers
+are designated / deployed for attending to the Service Request in a time bound manner and for ensuring Timely
+Servicing / rectification of defects during warranty period, as per Service level agreement indicated in the
+relevant clause of the bid.
+
+6.Timely Servicing / rectification of defects during warranty period: After having been notified of the defects /
+service requirement during warranty period, Seller has to complete the required Service / Rectification within 5
+days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of
+Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit
+the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the
+Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after
+which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and
+cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service /
+rectification to the Buyer.
+
+7.The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test
+certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid
+document.
+
+This Bid is also governed by the General Terms and Conditions
+
+                               4 / 5
+
+https://gem.gov.in/termsCondition
+
+
+ 
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+http://www.tcpdf.org
+

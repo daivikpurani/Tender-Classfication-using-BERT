@@ -1,0 +1,401 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/714727
+  Dated: 17-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 14:00:00
+
+Bid Opening Date/Time 27-07-2020 14:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Railways
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name North Western Railway
+
+Total Quantity 1
+
+Item Category Multifunction Machines MFM
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Multifunction Machines MFM ( 1 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Ungrouped Print Technology Laser Laser
+
+Type of Machine Multifunction Machine Multifunction Machine
+
+Type of Printing Mono Mono
+
+                               1 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/fMCseDdQyGxYXdeuNyjq6wH3lAJcQ8O6ehQp-QmUlDY
+
+
+ 
+
+Cartridge Technology Separate Drum and Toner
+(Dual Component)
+
+Composite Cartridge,
+Separate Drum and Toner
+(Mono Component),
+Separate Drum and Toner
+(Dual Component) Or higher
+
+Developer Unit Yes *
+
+Platen/Flatbed Size A3 A3 Or higher
+
+Paper Size
+(Original/Image)
+
+A3/A3 A3/A3
+
+RAM size (MB) 512 128, 256, 512, 1024, 2048,
+4096, 6144, 3072, 320, 768,
+1536, 1500, 758, 1250,
+2560, 7168, 5120, 8192,
+16384, 2816, 4000, 2000,
+10240 Or higher
+
+Hard Disk Capacity(GB) 0 0, 8, 128, 160, 256, 320,
+500, 1024, 250, 640, 32,
+1000, 2000, 3000 Or higher
+
+Minimum Speed per
+Minute as per ISO/IEC
+24734 in A4 Size-Mono
+
+23 23, 24, 25, 26, 27, 28, 30,
+31, 35, 36, 38, 40, 43, 45,
+46, 47, 50, 52, 55, 60, 61,
+65, 70, 71, 75, 80, 90, 95,
+100, 105, 110, 51, 56, 41,
+120, 130, 160, 57, 33, 34,
+32, 85, 81, 53 Or higher
+
+Minimum Speed per
+Minute as per ISO/IEC
+24734 in A4 Size-Colour
+
+0 12, 15, 16, 18, 20, 22, 23,
+24, 25, 26, 27, 28, 30, 31,
+35, 36, 4, 4.4, 5, 5.7, 5.8,
+6.8, 10, 10.4, 15.5, 40, 50,
+60, 5.5, 11, 46, 120, 130,
+160, 65, 45, 7, 34, 55, 38,
+56, 75, 81, 19, 71, 0, 21, 53
+Or higher
+
+Minimum Speed per Minute
+as per ISO/IEC 24734 in A3
+Size-Mono
+
+14 *
+
+Minimum Speed per Minute
+as per ISO/IEC 24734 in A3
+Size-Colour
+
+0 *
+
+Scanning Feature
+Availability
+
+Yes Yes Or higher
+
+Duplexing Feature
+Availability
+
+Yes Yes Or higher
+
+Faxing Feature
+Availability
+
+No Yes, No Or higher
+
+Speed of Fax, If Fax Feature
+is available
+
+NA *
+
+Networking Feature
+Availability
+
+Yes Yes Or higher
+
+If yes, Type of Network
+Interface
+
+Ethernet 10/100 *
+
+Wi-Fi Availability Yes Yes Or higher
+
+If yes,Wi-Fi Type Wi fi 802.11 b/g/n *
+
+Original Document
+Feeder Type
+
+DADF/RADF DADF/RADF Or higher
+
+Feeder Capacity (Number) 50 *
+
+                               2 / 4
+
+
+
+ 
+
+Number of Main Paper
+Tray
+
+1 1, 2, 3, 4, 5 Or higher
+
+Each Main Paper Tray
+Capacity (Number)
+
+250 *
+
+Bypass Facility Yes Yes Or higher
+
+If Yes, Bypass Tray Capacity 100 *
+
+Yield of the cartridge/Ink
+Tank/Ink Pack supplied with
+Machine as per ISO/IEC:
+19798/2007(E) for Cyan
+colour (Number of prints)
+
+0 *
+
+Yield of the cartridge/Ink
+Tank/Ink Pack supplied with
+Machine as per ISO/IEC:
+19798/2007(E) for Yellow
+colour (Number of prints)
+
+0 *
+
+Yield of the cartridge/Ink
+Tank/Ink Pack supplied with
+Machine as per ISO/IEC:
+19798/2007(E) for Magenta
+colour (Number of prints)
+
+0 *
+
+Yield of the cartridge/Ink
+Tank/Ink Pack supplied with
+Machine as per ISO/IEC:
+19752/2004(E) for Black
+(Number of prints)
+
+37000 *
+
+Life of Drum in terms of
+number of Prints in case of
+Separate Drum and Toner
+cartridge technology - Cyan
+(Number of Prints)
+
+0 *
+
+Life of Drum in terms of
+number of Prints in case of
+Separate Drum and Toner
+cartridge technology -
+Yellow (Number of Prints)
+
+0 *
+
+Life of Drum in terms of
+number of Prints in case of
+Separate Drum and Toner
+cartridge technology -
+Magenta (Number of Prints)
+
+0 *
+
+Life of Drum in terms of
+number of Prints in case of
+Separate Drum and Toner
+cartridge technology - Black
+(Number of Prints)
+
+120000 *
+
+Duty Cycle (No of
+Prints/month)
+
+75000 *
+
+Minimum Operating
+Temperature (Degree C)
+
+10 *
+
+Maximum Operating
+Temperature (Degree C)
+
+30 *
+
+Minimum Operating
+Humidity (%RH)
+
+20 *
+
+Maximum Operating
+Humidity (%RH)
+
+80 *
+
+BIS Registration under CRS
+of Meity
+
+Yes *
+
+                               3 / 4
+
+
+
+ 
+
+BIS Registration Number - *
+
+Other Certifications
+Available
+
+RoHS *
+
+Dimension (mm x mm x
+mm)
+
+- *
+
+Weight (Kg) - *
+
+On Site OEM Warranty
+(Year)
+
+2 1, 2, 3, 4, 5 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Ashok Dadhich 305001,DRM OFFICE, GLO
+Complex, Mall Road, AJMER
+
+1  15
+
+Bid Specific Additional Terms and Conditions
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of
+
+Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

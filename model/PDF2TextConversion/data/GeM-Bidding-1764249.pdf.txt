@@ -1,0 +1,361 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/690126
+
+  Dated: 04-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 14:00:00
+
+Bid Opening Date/Time 20-07-2020 14:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Ministry Of Shipping
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Materials Management Division
+
+Total Quantity 1
+
+Item Category night vision device - night vision equipment
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Night Vision Device - Night Vision Equipment ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+                               1 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/HiwF1XIJtkfxFqw6Tnp5gj3YHyKLqZtwsNj32IAZSG4
+
+
+ 
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC Type/category Binocular Binocular
+
+Magnification 4 4
+
+Field of view 7 *
+
+Adjustable Inter
+pupil distance (IPD)
+
+yes yes
+
+Dioptre adjustment
+range
+(Dioptres)[lower
+limit]
+
+-4 -4.0
+
+Dioptre adjustment
+range
+(Dioptres)[upper
+limit]
+
+4 4.0
+
+weight (including
+battery) (grams)
+
+850 0.0 - 850.0 Or lower
+
+IMAGE INTENSIFIER
+TUBE DETAILS
+
+Image intensifier tube (
+I I Tube) make
+
+- *
+
+Image intensifier tube (
+I I Tube) model
+
+- *
+
+I I Tube - Resolution
+(linear pairs / mm)
+
+64 *
+
+I I Tube - Signal to
+noise ratio measured at
+108 micro lux
+
+22 *
+
+I I Tube - Mean time
+between failure(MTBF)
+(Operation hours)
+
+10000 *
+
+I I Tube grade Military grade *
+
+I I Tube- In built Bright
+source protection (BSP)
+
+yes *
+
+I I Tube- In built
+Automatic Gain control
+(AGC)
+
+yes *
+
+DETECTION Detection Range in
+Star lit conditions
+without moon for
+Human being
+
+400 400.0 - 9999999.0 Or
+higher
+
+Detection Range in
+Star lit conditions
+without moon for
+Light commercial
+vehicles
+
+500 500.0 - 999999.0 Or
+higher
+
+RECOGNITION Recognition range
+Range in Star lit
+conditions without
+moon for Human
+
+300 300.0 - 99999999.0 Or
+higher
+
+                               2 / 4
+
+
+
+ 
+
+being
+
+Recognition Range
+in Star lit conditions
+without moon for
+Light commercial
+vehicles
+
+400 400.0 - 9999999.0 Or
+higher
+
+POWER/BATTERY Power source / Battery - *
+
+Low battery indication YES *
+
+SERVICE Guarantee /
+Warranty
+
+3 3, 4, 5 Or higher
+
+VARIOUS TEST DETAILS Water Resistance when
+the Total equipment
+immersed in water of 1
+meter depth
+
+30 *
+
+Humidity test
+confirming to ISS
+55555 or MiL std 810 -F
+latest
+
+yes *
+
+Shock test confirming
+to ISS 55555 or MiL std
+810 -F latest
+
+yes *
+
+Vibration test
+confirming to ISS
+55555 or MiL std 810 -F
+
+yes *
+
+Rain test confirming to
+ISS 55555 or MiL std
+810 -F latest
+
+yes *
+
+OPERATING RANGE Operating temperature
+range (degrees)
+
+- 30 c to 55c degrees *
+
+ACCESSORIES Miscellaneous
+Accessories ( water
+proof carrying case,
+Purging kit, one
+additional set of
+battery, cleaning kit,
+list of supporting test
+equipment and their
+rates, undertaking to
+provide spare parts for
+next 10 years from the
+date of supply,
+technical manual,
+operational manual,
+Repair & maintenance
+training)
+
+yes *
+
+TEST REPORT DETAILS Availability of test
+reports from Central
+Govt /NABL / ILAC
+accredited Lab
+covering all the
+parameters as per
+
+yes *
+
+                               3 / 4
+
+
+
+ 
+
+specifications
+
+Test Report Number
+and date(Not a part of
+biddable parameter)
+
+- *
+
+Name and Address of
+Test lab (Not a part of
+biddable parameter)
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Sriharse Sahu 754142,material
+management division
+PARADIP-754142
+
+1  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

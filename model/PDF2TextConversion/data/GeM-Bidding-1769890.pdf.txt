@@ -1,0 +1,584 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/695271
+
+  Dated: 02-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 22-07-2020 11:00:00
+
+Bid Opening Date/Time 22-07-2020 11:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence Reseach & Development
+
+Organisation Name Office Of Dg (ace)
+
+Office Name ***********
+
+Total Quantity 1
+
+Item Category E-Tourist Vehicle
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  Yes
+
+Inspection Required  No
+
+Estimated Bid Value  550000
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+                               1 / 7
+
+
+
+ 
+
+E-Tourist Vehicle ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Generic Parameters Type of E-Vehicle Fully Electric, Battery
+Operated, Motor
+Driven.
+
+Fully Electric, Battery
+Operated, Motor
+Driven.
+
+Make and Model
+Number of Tourist E-
+Vehicle
+
+- *
+
+The vehicle Must
+Fabricated From Good
+Quality Steel properly
+Painted to avoid
+Rusting for more than 5
+Years,
+
+Yes *
+
+Name and Grade of
+Steel from which
+vehicle Body Framed as
+per IS:2062 (Latest)
+
+- *
+
+Kerb Weight 670 670.0
+
+Laden Weight ( Kerb
+Weight + Loading
+Capacity including
+driver , passenger ,
+and luggage) (kg)
+
+1350 1350.0
+
+Run Distance (for a
+Full Charge of
+Battery , to be
+tested with full load
+at maximum AIS-040
+))
+
+70 70.0
+
+Power Transmission
+from Motor Shaft to
+Wheels
+
+Direct Mounting Direct Mounting
+
+If others, please
+Specify the Mechanical
+Mechanism otherwise
+Put NA
+
+- *
+
+Material of the roof
+of BOV
+
+Fibre glass of good
+quality
+
+Fibre glass of good
+quality
+
+If others please specify
+the material Otherwise
+put NA
+
+- *
+
+Thickness of Material of
+Sheet used for Roof of
+
+3 *
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/5pLf7meKjfmLIumbnMc7BPeCPYP0B5IITVA5D77Ay9c
+
+
+ 
+
+vehicle
+
+Type of Battery as
+per AIS-048
+
+Lead Acid Lead Acid
+
+Capacity of the
+Battery approved by
+ICAT/ARAI (Ah)
+
+165 165
+
+Battery Bank
+Voltage ,Nominal
+
+48 48.0
+
+Nominal Filled
+Weight of the
+Battery
+
+168 168.0
+
+Motor Controller ( Must
+Suitable for starting,
+accelerating,
+decelerating, driving ,
+and stopping of E
+Vehicle
+
+- *
+
+Battery Charger 220/230V nominal
+input voltage, high
+efficiency type
+
+*
+
+Charging Current 20 *
+
+Type of Motor Brushless DC Motor Brushless DC Motor
+
+Motor Output Power
+,48V at Full Load
+
+2000 2000.0
+
+Instrument Panel
+Containing
+Speedometer and
+Battery Charging
+Indicator
+
+Yes *
+
+Overall Efficiency of
+the e-vehicle ( to be
+tested at Full Load
+with maximum
+speed as per
+Concerned AIS
+standards (%)
+
+90 90
+
+Gradeability of e-
+vehicle , 30 Gradient
+-Start and Move with a
+speed of 5kmph or
+above 70 Gradient -
+ability to start and
+Move ( to be tested at
+full procedure as per
+AIS -003 Load (degree)
+
+Yes *
+
+Glass Windshield with
+wiper motor as
+approved by ICAT/ARAI
+
+Yes *
+
+Numbers for Roof
+Handles to ease
+
+5 *
+
+                               3 / 7
+
+
+
+ 
+
+passengers entry and
+Ride
+
+Vehicle Integration
+,packing of Electrical
+and electronics wires
+and devices shall be
+such that the vehicle
+can run in rainy Season
+without any problem
+
+Yes *
+
+Seat Must be Good
+Quality with Proper
+cushioning
+
+Yes *
+
+Vehicle lighting System Filament based *
+
+Reverse Gear Facility Yes *
+
+Yellow Color reflective
+tape on Front and Rear
+Side of the Vehicle
+
+Yes *
+
+Equipped with First Aid
+Box
+
+Yes *
+
+Equipped with Fire
+Extinguisher
+
+Yes *
+
+Equipped with Start
+and Stop Button,
+parking Lights , Back
+lights with Reverse
+Gear Facility
+
+Yes *
+
+Certification Vehicle Certification
+from VRDE, ICAT, ARAI
+
+No *
+
+Vehicle Certification
+Number and Date
+
+- *
+
+If No, Vehicle
+Certification from
+Others Agency ,Name
+of the Agency and
+Certificate number with
+date
+
+- *
+
+Constructional
+Parameters
+
+The Mounting of
+Batteries in E- vehicles
+shall be such that they
+are not displaced from
+their place and there is
+no spillage of
+electrolyte when
+vehicle is driven on
+Gradient or any aother
+type of road
+
+Yes *
+
+Seating Capacity
+(including driver)
+
+6 6
+
+Length of vehicle 4170 4.17
+
+                               4 / 7
+
+
+
+ 
+
+Width of vehicle 1200 1.2
+
+Height of vehicle 1800 1.8
+
+Ground Clearance as
+per IS : 9435
+
+180 180.0
+
+Turning Radius 4500 4500.0
+
+Wheel Base 3140 3140.0
+
+No of Wheels 4 *
+
+Size of Front Tyre (mm) - *
+
+Size of Rear Tyre (mm) - *
+
+Brake Type ( Front ) - *
+
+Brake Type ( Rear ) - *
+
+Suspension System (
+Front)
+
+- *
+
+Suspension System (
+Rear )
+
+- *
+
+Maximum Overall
+Dimensions of the
+Battery ( L x Wx H )
+(mm3)
+
+- *
+
+Battery Make as per
+AIS :048:2009
+
+Others Others
+
+If others please specify
+the Name of Brand
+,Otherwise put NA (as
+per AIS :048:2009)
+
+- *
+
+Performance
+Parameters
+
+Compliance to AIS- 038
+for Battery operated
+vehicles
+
+Yes *
+
+Compliance to CMVR
+rules
+
+Yes *
+
+Speed of the e-
+vehicle (to be tested
+with Full Load )
+(kmph)
+
+25 25
+
+Battery Warranty 1 *
+
+No Of Free Service 4 *
+
+Complaince of Centre
+of Gravity of Vehicle as
+a Compulsory Norms
+for Safety
+
+Yes *
+
+Confirming to
+Applicable
+Environmental Test
+
+Yes *
+
+Noise level must be
+Low during Operation
+
+Yes *
+
+                               5 / 7
+
+
+
+ 
+
+Warranty 12 *
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********PUNE 1  120
+
+Bid Specific Additional Terms and Conditions
+
+1. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+2.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+3.Preference to Make In India products (for bids greater than 200 Crore) (can also be used in
+Bids less than 200 Crore but only after exemption by competent authority as defined in
+Deptt of Expenditure OM dated 28.5.2020): Preference shall be given to Class 1 local
+supplier as defined in public procurement (Preference to Make in India), Order 2017 as
+amended from time to time and its subsequent Orders/Notifications issued by concerned
+Nodal Ministry for specific Goods/Products. The minimum local content to qualify as a Class 1
+local supplier is denoted in the bid document 50%. If the bidder wants to avail the Purchase
+preference, the bidder must upload a certificate from the OEM regarding the percentage of
+the local content and the details of locations at which the local value addition is made along
+with their bid, failing which no purchase preference shall be granted. In case the bid value is
+more than Rs 10 Crore, the declaration relating to percentage of local content shall be
+certified by the statutory auditor or cost auditor, if the OEM is a company and by a practicing
+cost accountant or a chartered accountant for OEMs other than companies as per the Public
+Procurement (preference to Make-in -India) order 2017 dated 04.06.2020. In case Buyer has
+selected Purchase preference to Micro and Small Enterprises clause in the bid, the same will
+get precedence over this clause.
+
+4.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+5.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+6.Warranty period of the supplied products shall be 1 years from the date of final acceptance
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+
+                               6 / 7
+
+
+
+ 
+
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

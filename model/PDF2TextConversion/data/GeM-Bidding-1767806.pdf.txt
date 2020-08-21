@@ -1,0 +1,556 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/693379
+
+  Dated: 01-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 11-07-2020 14:00:00
+
+Bid Opening Date/Time 2020-07-11 14:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Steel
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Chandrapur
+
+Total Quantity 1
+
+Item Category Access Controlled Handle Door Lock
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+Estimated Bid Value  25960
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+
+Splitting
+
+ Bid splitting not applied.
+
+Access Controlled Handle Door Lock ( 1 pieces )
+
+Technical Specifications
+
+                               1 / 6
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC Usage / Application for
+Door security locking
+with authorised in out
+control
+
+Yes *
+
+Should be Ideal for
+Wooden door – Glass
+door – Metal door –
+Steel door
+
+Yes *
+
+Door Handle should be
+Backset adjustable
+single latch
+design/Reversible type
+
+Yes *
+
+Lock type Multipoint Locking
+system
+
+Multipoint Locking
+system
+
+Access Control
+Hardware
+Architecture (Device
+with)
+
+In built Controller In built Controller
+
+Access control
+software
+Architecture
+
+Stand Alone Stand Alone
+
+Types of Access
+Control Credentials /
+Device
+
+Fingerprint + RFID card
++ Pin based Access
+Control
+
+Fingerprint + RFID card
++ Pin based Access
+Control
+
+Finger Sensor
+Design
+
+Passive capacitance
+and active capacitance
+
+Passive capacitance
+and active capacitance
+
+RFID sensing Design Electromagnetic sensor Electromagnetic sensor
+
+Type of RFID card
+supported
+
+Mifare Mifare
+
+Screen type Touch Touch
+
+Optical/RFID sensing
+area
+
+1 inch X 1 inch *
+
+Optical sensor
+Resolution ± 1 %
+
+500 DPI *
+
+Fingerprint
+Identification time
+
+<1 second *
+
+Fingerprint gathering
+time
+
+<2 second *
+
+Fingerprint templates
+remain intact after
+power failure
+
+Yes *
+
+Authentication speed ≤ 0.1 % *
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/PWjOY1Gxq4J1Wnsf9lY9TdswWxnrEPbTJc5YhVNay4U
+
+
+ 
+
+(FAR – False
+acceptance rate)
+
+Authentication speed
+(FRR – False rejection
+rate)
+
+≤ 0.0001 % *
+
+Total Rotational angle 360 degree *
+
+Automatic Template
+Distribution of
+Biometric Templates on
+Assigned Devices to
+User
+
+Yes *
+
+Operating temperature 0 degree centigrade to
+45 degree centigrade
+
+*
+
+Operating Environment Humidity RH 48 % to
+80 %
+
+*
+
+Fingerprint
+memory/storage
+capacity
+
+Support upto 120
+fingerprint
+
+Support upto 120
+fingerprint
+
+Number of digits for
+input password/pin
+code
+
+Capable of 6 digit input
+pin code
+
+Capable of 6 digit input
+pin code
+
+Facility of RFID card
+registration
+
+Upto 100 RFID cards Upto 100 RFID cards
+
+Auto locking Facility Yes *
+
+Remote facility Yes – can be operated
+within defined
+distances
+
+*
+
+Provision of Super
+administrator and
+administrator – who
+can enroll and delete
+
+Yes *
+
+Provision of flexible
+user pin
+
+Yes *
+
+Working power/Power
+input
+
+4 x 1.5V AAA alkaline
+cell
+
+*
+
+Dynamic state power
+consumed
+
+- *
+
+Static state power
+consumed
+
+- *
+
+Dead bolt error
+alarm
+
+Yes Yes
+
+Fire sensor No No
+
+Alarm provision –
+when door is not
+closed properly
+
+Yes Yes
+
+Tamper detection
+(Security alarm –
+
+Yes Yes
+
+                               3 / 6
+
+
+
+ 
+
+when the invalid
+operation is made
+frequently by other
+than user)
+
+Low Battery warning voltage <4.8 volt *
+
+Customized Report
+Generation Facility
+
+Yes Yes
+
+Back up unlock
+mechanism
+
+Yes *
+
+Installation and
+Commissioning is
+included in the
+scope of supply
+
+Yes Yes
+
+MATERIAL Body material Zinc alloy Zinc alloy
+
+Thickness of body
+material
+
+2 mm 2 mm
+
+Suitable for Door
+thickness
+
+- *
+
+Front panel material Zinc alloy Zinc alloy
+
+DIMENSION Back set length/Case
+size
+
+57 mm/76 mm 57 mm/76 mm
+
+Outside Trim
+dimensions – to be
+declared by seller
+
+- *
+
+FINISH Finish type Matt finish Matt finish
+
+Front panel colors Black Black
+
+WARRANTY Warranty 3 3 Or higher
+
+Warranty in years for
+Battery life
+
+1 *
+
+CERTIFICATION BIS registration under
+CRS of Meity
+
+No *
+
+BIS registration number
+and its validity (write
+Not Applicable – if not
+applicable)
+
+- *
+
+RoHS compliance
+certification
+
+No *
+
+Type Test Certificate
+Covering (TCC) all
+parameters and
+environmental tests
+from STQC certified
+lab
+
+No No
+
+Test reports to be
+furnished to buyer on
+demand, if claimed to
+be available
+
+- *
+
+                               4 / 6
+
+
+
+ 
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Sidharth
+Namdeorao Fuley
+
+442401,SAIL-Chandrapur
+Ferro Alloy Plant, Mul Road,
+Chandrapur
+
+1  90
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+2.Bid reserved for Make In India products: Procurement under this bid is reserved for purchase
+from Class 1 local suppliers as defined in public procurement (Preference to Make in India),
+Order 2017 as amended from time to time and its subsequent Orders/Notifications issued by
+concerned Nodal Ministry for specific Goods/Products. The minimum local content to qualify
+as a class 1 local supplier is denoted in the bid document 50%. All bidders must upload a
+certificate from the OEM regarding the percentage of the local content and the details of
+locations at which the local value addition is made along with their bid, failing which the bid
+is liable to be rejected. In case the bid value is more than Rs 10 Crore, the declaration
+relating to percentage of local content shall be certified by the statutory auditor or cost
+auditor, if the OEM is a company and by a practicing cost accountant or a chartered
+accountant for OEMs other than companies as per the Public Procurement (preference to
+Make-in -India) order 2017 dated 04.06.2020 . In case Buyer has selected Purchase
+preference to Micro and Small Enterprises clause in the bid, the same will get precedence
+over this clause.
+
+3. Indian suppliers of this item are not allowed to participate and/ or compete in procurement
+by some foreign governments. Bidders / products from such countries are not eligible / not
+allowed to participate in this bid in terms of clause 1 (d) of Public Procurement (Preference
+to Make in India) Order, 2017
+
+4.Procurement under this bid is reserved for purchase from Micro and Small Enterprises whose
+credentials are validated online through Udyog Aadhaar for that product category. If the
+bidder wants to avail the reservation benefit, the bidder must be the manufacturer of the
+offered product in case of bid for supply of goods. Traders are excluded from the purview of
+Public Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the
+bidder must be the Service provider of the offered Service. Relevant documentary evidence
+in this regard shall be uploaded along with the bid in respect of the offered product or
+service.
+
+5.Preference to Make In India products (For bids less than 200 Crore):Preference shall be given
+to Class 1 local supplier as defined in public procurement (Preference to Make in India),
+Order 2017 as amended from time to time and its subsequent Orders/Notifications issued by
+concerned Nodal Ministry for specific Goods/Products. The minimum local content to qualify
+as a Class 1 local supplier is denoted in the bid document 50%. If the bidder wants to avail
+the Purchase preference, the bidder must upload a certificate from the OEM regarding the
+percentage of the local content and the details of locations at which the local value addition
+is made along with their bid, failing which no purchase preference shall be granted. In case
+the bid value is more than Rs 10 Crore, the declaration relating to percentage of local
+
+                               5 / 6
+
+
+
+ 
+
+content shall be certified by the statutory auditor or cost auditor, if the OEM is a company
+and by a practicing cost accountant or a chartered accountant for OEMs other than
+companies as per the Public Procurement (preference to Make-in -India) order 2017 dated
+04.06.2020. Only Class-I and Class-II Local suppliers as per MII order dated 4.6.2020 will be
+eligible to bid. Non - Local suppliers as per MII order dated 04.06.2020 are not eligible to
+participate. In case Buyer has selected Purchase preference to Micro and Small Enterprises
+clause in the bid, the same will get precedence over this clause.
+
+6.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+7.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+8.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+9.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 5 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

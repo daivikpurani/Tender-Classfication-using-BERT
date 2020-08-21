@@ -1,0 +1,598 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/709500
+
+  Dated: 14-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 24-07-2020 13:00:00
+
+Bid Opening Date/Time 24-07-2020 13:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Railways
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Office Of Principal Chief Materials Manager, South
+Western Railway, Hubli
+
+Total Quantity 16
+
+Item Category Desktop Computers
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Desktop Computers ( 16 pieces )
+
+Technical Specifications
+
+                               1 / 6
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Processor Processor Make Intel Intel
+
+Processor
+Generation
+
+8 8.0 Or higher
+
+Number of Cores per
+Processor
+
+6 6, 8 Or higher
+
+Processor Base
+Frequency (GHz)
+
+3.2 *
+
+Processor
+Description
+
+Intel Core i7 Intel Core i7, Intel Core
+i9 Or higher
+
+Processor Number Intel Core i7 8700 Intel Core i7 8700, Intel
+Core i7 8700K, Intel
+Core i9 9900, Intel Core
+i7 9700K, Intel Core i9
+9900K, Intel Core i9
+9900KS, Intel Core i9
+9900KF, Intel Core i7
+9700KF Or higher
+
+Out of Band
+Management
+
+NA *
+
+Cache (MB) 12 *
+
+Motherboard Chipset Series Intel B Series Intel H Series, Intel B
+Series, Intel Q Series Or
+higher
+
+Expansion Slots (PCIe x
+1) (Number)
+
+2 *
+
+Chipset Number Intel B360 Intel H310, Intel H370,
+Intel B360, Intel Q 250,
+Intel Q 270, Intel Q
+370, Intel B 365 Or
+higher
+
+Expansion Slots (PCIe x
+4) (Number)
+
+0 *
+
+Expansion Slots (PCIe x
+16) (Number)
+
+1 *
+
+Expansion Slots (PCI)
+(Number)
+
+1 *
+
+Expansion Slots (M Dot
+2)
+
+1 *
+
+Graphics Graphics Type Integrated *
+
+Graphic Card
+Description
+
+- *
+
+Size of Memory in Case
+of Dedicated Graphic
+Card (GB)
+
+0 *
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/ol4lcs1unTHPiwvIErMDhzmwlX8CrFvXsYa_srG96Vg
+
+
+ 
+
+Size of VRAM in case of
+Integrated Graphics
+(MB)
+
+- *
+
+Operating System Operating System
+(Factory Pre-Loaded)
+
+Windows 10
+Professional
+
+Windows 10
+Professional
+
+Recovery Image Media - *
+
+OS Certification Windows *
+
+Memory Type of RAM DDR4 *
+
+RAM Size (GB) 8 8, 16, 32, 64 Or higher
+
+RAM Speed (MHz) 2400 *
+
+Total Numbers of DIMM
+Slots Available
+
+2 *
+
+Number of DIMM Slots
+populated
+
+1 *
+
+RAM Expandability
+up to( using spare
+DIMM Slots in GB)
+
+32 32, 64, 128 Or higher
+
+Storage Total Number of
+Internal Bays available
+
+1 *
+
+Number of 2 point 5
+inches internal Bays
+
+0 *
+
+Number of 3 point 5
+inches Internal Bays
+
+1 *
+
+Number of 2 point 5
+Inches Internal Bays
+Populated
+
+1 *
+
+Number of 3 point 5
+Inches Internal Bays
+Populated
+
+0 *
+
+Type of Drives used
+to populate the
+Internal Bays
+
+HDD HDD
+
+Number of Internal
+Bays populated with
+HDD
+
+1 *
+
+Capacity of each HDD
+(GB)
+
+1000 @7200 rpm *
+
+Total HDD Capacity
+(GB)
+
+1000 1000, 1500, 2000,
+2500, 3000 Or higher
+
+Number of Internal
+Bays populated with
+SSD
+
+0 *
+
+Capacity of each SSD
+(GB)
+
+0 *
+
+Total SSD Capacity
+(GB)
+
+0 128, 256, 384, 512,
+768, 0, 1024, 2048 Or
+
+                               3 / 6
+
+
+
+ 
+
+higher
+
+Number of Internal
+Bays populated with
+SSHD
+
+0 *
+
+Capacity of each SSHD
+(GB)
+
+NA *
+
+Total SSHD Capacity
+in addition to 8 GB
+Flash (GB)
+
+0 500, 1000, 2000, 0 Or
+higher
+
+Optane Memory (GB) 0 *
+
+Cabinet Cabinet Form Factor Tower (13.1 to 26
+Litres)
+
+Tower (13.1 to 26
+Litres)
+
+Cabinet Volume (Litres) - *
+
+External Bays
+(Number)
+
+1 *
+
+Optical Drive DVD R/W *
+
+Internal Speaker Yes *
+
+Audio-in Yes *
+
+Audio-out Yes *
+
+Headphone out Yes *
+
+Microphone-in Yes *
+
+Connectivity Wireless Connectivity No *
+
+If Yes, Type of Wireless
+Connectivity
+
+NA *
+
+Number of Ethernet
+Ports
+
+1 *
+
+Type of Ethernet Ports 10/100/1000 on board
+Integrated Gigabit Port
+
+*
+
+Bluetooth Connectivity No *
+
+If Yes, Version of
+Bluetooth Available
+
+0 *
+
+Ports Number of USB Version
+2 Point 0 Ports
+
+4 *
+
+Number of USB Version
+3 point 0 / 3 point 1,
+Gen 1 Ports
+
+4 *
+
+Number of USB Version
+3 point 1, Gen 2 Ports
+
+0 *
+
+Number of USB Type C
+Ports
+
+0 *
+
+Number of Serial Ports 1 *
+
+Number of Parallel
+Ports
+
+0 *
+
+                               4 / 6
+
+
+
+ 
+
+Number of VGA Ports 1 *
+
+Number of HDMI Ports 1 *
+
+Number of DP Ports 0 *
+
+Monitor Model of the Monitor - *
+
+Monitor Technology TN IPS, TN, VA Or higher
+
+LED Backlit Monitor
+Size (INCHES)
+
+21.5 21.5, 22, 23, 24, 27,
+23.8 Or higher
+
+Monitor Resolution
+(PIXELS)
+
+1920x1080 1920x1080, 1920 x
+1200, 3200x1800,
+3840 x 2160, 2560 x
+1440 Or higher
+
+TCO Certification for
+Monitor
+
+- *
+
+Number of VGA Ports in
+the Monitor
+
+1 *
+
+Number of HDMI Ports
+in the Monitor
+
+0 *
+
+Number of Display
+Ports in the Monitor
+
+0 *
+
+Availability of Webcam
+integrated with Monitor
+
+No *
+
+If Yes, Resolution of
+Webcam
+
+NA *
+
+Availability of Speakers
+integrated with Monitor
+
+No *
+
+If Yes, Number of
+Speakers available
+
+0 *
+
+Power Power Supply Capacity
+(Watt)
+
+- *
+
+Minimum Power
+Efficiency Range (%)
+
+85 - 89 *
+
+Certification ROHS Compliance Yes *
+
+BEE / Energy Star for
+the given Model
+
+Yes *
+
+Input Devices Mouse Connectivity Wired *
+
+Type of Mouse Optical Scroll *
+
+Keyboard Connectivity Wired *
+
+Type of Keyboard Standard *
+
+Operating Conditions Minimum Operating
+Temperature
+
+10 *
+
+Maximum Operating
+Temperature
+
+40 *
+
+Minimum Operating
+Humidity (%RH)
+
+10 *
+
+                               5 / 6
+
+
+
+ 
+
+Maximum Operating
+Humidity (%RH)
+
+90 *
+
+Warranty On Site OEM
+Warranty (Year)
+
+3 3, 5, 4 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Sreenivasulu J 570001,O/o Divisional
+Railway Manager, Office
+Complex, South Western
+Railway Divisional Office,
+Mysore.
+
+16  30
+
+Special terms and conditions for category Desktop Computers 
+
+1.As per notification of MEITY circulated vide letter no. F.No.33(1)/2017-IPHW..dated
+:14/09/2017, the minimum local content should be 45.percent to qualify as local or domestic
+manufacturer.\n\nSeller has to ensure that operating system software etc comes preloaded
+with machine from respective OEM . Any deviation in respect of genuinity and authenticity of
+OS will attract severe penalty on part of seller as law of the land and contractual provisions.
+Buyer are also requested to verify the key no of OS etc with server of Microsoft/Linux before
+accepting machines to avoid complexity at latter stage.
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,486 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/708131
+
+  Dated: 13-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 23-07-2020 14:00:00
+
+Bid Opening Date/Time 23-07-2020 14:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Agriculture And Farmers Welfare
+
+Department Name Department Of Agricultural Research And Education
+(dare)
+
+Organisation Name Indian Council Of Agricultural Research (icar)
+
+Office Name Central Marine Fisheries Research Institute
+
+Total Quantity 1
+
+Item Category DSLR/ COMPACT / HANDHELD CAMCORDER or VIDEO
+CAMERAS
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+DSLR/ COMPACT / HANDHELD CAMCORDER Or VIDEO CAMERAS ( 1 pieces )
+
+Technical Specifications
+
+                               1 / 5
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+TYPE Classification of
+Camera
+
+Video Video
+
+Type of Camera DSLR Full Frame
+Format
+
+DSLR Full Frame
+Format, DSLR APS
+Format
+
+IMAGE SENSOR Image Sensor CMOS CMOS
+
+Sensor Size for Fixed
+Lens Camera (inch)
+
+1/2.8 1/2.8
+
+Sensor Size for
+Interchangeable
+Lens Camera
+(mmxmm)
+
+17.3 x 13.0 17.3 x 13.0
+
+Effective Pixels
+(Mega Pixels)
+
+24 24, 26
+
+ISO (Sensitivity of
+the image Sensor)
+Max
+
+800 800, 1600, 3200, 6400,
+12800, 25600, 32000,
+40000, 51200 Or
+higher
+
+Supported Picture or
+image format
+
+JPEG *
+
+OPTICS Lens Mounting Detachable Detachable
+
+Mount type - *
+
+Type of Lens Prime Lens *
+
+Minimum Focal
+Length
+
+18 18.0
+
+Maximum Focal
+Length
+
+140 140.0
+
+Minimum Lens
+Aperture (f/number)
+
+2 2
+
+Maximum Lens
+Aperture (f/number)
+
+22 22
+
+Optical Zoom 3X to 5X 3X to 5X
+
+Digital Zoom (X) 400 *
+
+Maximum Field of View 180 *
+
+Focus Mode Auto *
+
+Video Recording Video Recoding Yes Yes
+
+Maximum Recording
+Resolution (Pixels)
+
+Full HD (1920 x 1080) Full HD (1920 x 1080)
+
+Frame Rate 24 24
+
+Video Compression
+Format
+
+H.264 *
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/-NUeCOsI6iCEaAThtAC4lammonQJqf4l3JvG9nU99b4
+
+
+ 
+
+Live Video
+Streaming
+
+Yes Yes
+
+Video Output Port Mini HDMI,HDMI *
+
+Video file format MOV *
+
+AUDIO Audio Recording Yes Yes
+
+Audio Recording Type Buit-in *
+
+Number of Audio Input
+Port
+
+1 *
+
+Type of Audio input
+Port
+
+3.5 mm (Stero mini
+jack)
+
+*
+
+Audio Output Yes Yes
+
+Number of Audio
+Output Port
+
+1 *
+
+Type of Audio output
+Port
+
+3.5 mm (Stero mini
+jack)
+
+*
+
+DISPLAY Display Yes Yes
+
+Display Type LCD *
+
+Touch Screen Yes Yes
+
+Display Size (inch) 2.1 - 2.5 2.1 - 2.5
+
+Vari Angle Screen No No
+
+View Finder No No
+
+FEATURES Flash Built-in Built-in
+
+GPS coordinates
+Stamping onto Videos /
+photographs
+
+Yes *
+
+Gyro Sensor Yes *
+
+Voice Control Yes *
+
+Connectivity Interface USB *
+
+Control Remote *
+
+Supported Operating
+Systems for App
+
+Android,iOs *
+
+Picture control system Auto *
+
+Noise reduction
+Feature
+
+Yes *
+
+Flash modes Auto *
+
+Shutter type electronically
+controlled
+
+*
+
+Minimum Shutter
+Speed
+
+50 *
+
+Maximum Shutter
+Speed
+
+0.4 *
+
+                               3 / 5
+
+
+
+ 
+
+Drive modes Countinous Shooting *
+
+STORAGE Storage Type Micro SD *
+
+Dual Slot Yes *
+
+SD Card Memory
+inclusive in the scope
+of supply (GB)
+
+16 *
+
+Memory Card
+expandable upto (GB)
+
+128 *
+
+In-built Memory(GB) 16 *
+
+BATTERY Power Source Rechargeable Battery *
+
+Battery Size, if Non
+Rechargeable Battery
+
+9 - V Rectangular
+Battery
+
+*
+
+Battery Chemistry, if
+Rechargeable Battery
+
+Li-Ion *
+
+Number of Batteries
+required for operation
+
+1 *
+
+Number of Batteries
+supplied (Inclusive in
+the Scope of Supply)
+
+1 *
+
+BATTERY CAPACITY
+(mAh)
+
+3000 *
+
+Battery Charger for
+Rechargeable Batteries
+
+Yes *
+
+OPERATING
+CONDITIONS
+
+Minimum Operating
+Temperature (for
+land use)
+
+0 0.0
+
+Maximum Operating
+Temperature (for
+land use)
+
+70 70.0
+
+Operating Humidity,
+Rh at 40 deg C
+
+80 80.0
+
+GENERIC Housing
+construction
+
+Polycarbonate Polycarbonate,
+Composite
+polycarbonate outer
+shell with metallic
+internal chassis
+
+IP Protection IP 21 IP 21
+
+Carry Case inclusive No No
+
+Weight 840 *
+
+Dimension (WxHxD)
+(mmxmmxmm)
+
+- *
+
+List of Items and
+Quantity of each item
+included in the offer
+
+- *
+
+WARRANTY Warranty 1 1.0
+
+                               4 / 5
+
+
+
+ 
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Ambarish P Gop 695521,Vizhinjam Research
+Centre of CMFRI Harbour
+Road Vizhinjam .P.O
+
+1  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Purchase preference to Micro and Small Enterprises (MSEs) from the State of Bid Inviting
+Authority : Purchase preference will be given to MSEs as Micro and Small Enterprises from
+the State of Bid inviting Authority whose credentials are validated online through Udyog
+Aadhaar for that product category. If the bidder wants to avail the Purchase preference, the
+bidder must be the manufacturer of the offered product in case of bid for supply of goods.
+Traders are excluded from the purview of Public Procurement Policy for Micro and Small
+Enterprises. In respect of bid for Services, the bidder must be the Service provider of the
+offered Service. Relevant documentary evidence in this regard shall be uploaded along with
+the bid in respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s)
+has/have quoted price within L-1+ 1 % of margin of purchase preference /price band defined
+in relevant policy, such Seller shall be given opportunity to match L-1 price and contract will
+be awarded for percentage of 1% of total value as defined/ decided in relevant policy.
+
+2.Procurement under this bid is reserved for purchase from Micro and Small Enterprises from
+the State of Bid Inviting Authority whose credentials are validated online through Udyog
+Aadhaar for that product category. If the bidder wants to avail the reservation benefit, the
+bidder must be the manufacturer of the offered product in case of bid for supply of goods.
+Traders are excluded from the purview of Public Procurement Policy for Micro and Small
+Enterprises. In respect of bid for Services, the bidder must be the Service provider of the
+offered Service. Relevant documentary evidence in this regard shall be uploaded along with
+the bid in respect of the offered product or service.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

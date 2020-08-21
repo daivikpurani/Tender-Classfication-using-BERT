@@ -1,0 +1,559 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/689535
+
+  Dated: 29-06-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 09-07-2020 18:00:00
+
+Bid Opening Date/Time 2020-07-09 18:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 80 (Days)
+
+Ministry/State Name Ministry Of Power
+
+Department Name Contracts And Materials
+
+Organisation Name Ntpc Ltd
+
+Office Name Western Region I Shared Services Centre
+
+Total Quantity 1
+
+Item Category High Pressure Breathing Air Compressor Motor Driven
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  Yes
+
+Inspection to be carried out by Buyers own
+empanelled agency
+
+ Yes
+
+Type Of Inspection  Pre Dispatch
+
+Name of the Empanelled Inspection
+Agency/ Authority
+
+ Board of Officers
+
+Quality Assurance Plan document 1593255436.pdf
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+
+Splitting
+
+ Bid splitting not applied.
+
+                               1 / 6
+
+https://bidplus.gem.gov.in/resources/upload/bidding/biddoc/bid-1763622/1593255436.pdf
+
+
+ 
+
+High Pressure Breathing Air Compressor Motor Driven ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC Objective of Portable
+High Pressure
+Breathing Air
+Compressor 9-10 cfm
+Motor Driven
+
+Portable High Pressure
+Breathing Air
+Compressor Motor
+Driven for SCUBA
+Diving, Fire Fighting &
+Rescue Services
+Industrial Breathing Air
+Safety System
+,Military,Paintball High
+Pressure Pneumatic
+Testing of Valves and
+similar components
+
+Portable High Pressure
+Breathing Air
+Compressor Motor
+Driven for SCUBA
+Diving, Fire Fighting &
+Rescue Services
+Industrial Breathing Air
+Safety System
+,Military,Paintball High
+Pressure Pneumatic
+Testing of Valves and
+similar components
+
+Referred Indian
+Standard
+Specification
+
+Generally Conforming
+to IS 15879 latest
+
+Generally Conforming
+to IS 15879 latest
+
+CONSTRUCTION Selectable pressure
+control switch on
+compressor
+
+YES *
+
+Pressure switch Type Dial Gauge Pressure
+Switch on Compressor
+
+*
+
+Charging adapter for
+fire fighting
+
+Standard DIN adapter
+of 300 bar for charging
+for fire fighting
+breathing apparatus
+cylinder
+
+Standard DIN adapter
+of 300 bar for charging
+for fire fighting
+breathing apparatus
+cylinder
+
+Charging adapter for
+under water diving
+
+Special adopter of 232
+bar to charge under
+water diving breathing
+air cylinder
+
+Special adopter of 232
+bar to charge under
+water diving breathing
+air cylinder
+
+Built in Immediate and
+Final Pressure safety
+valve
+
+YES *
+
+Two charging hoses,
+one with adopter for
+300 bar and other with
+adopter of 200 bar
+along with special
+adopter for 232 bar
+with safety valves
+suitable to fill two
+cylinders at 200 bar or
+
+YES *
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/0qq83EO3AuF4kVkL5ugSKLidJ3nhcTXd-b2NLeXk3K0
+
+
+ 
+
+one at 300 bar and one
+at 232 bar
+
+Repair / Tool Kit YES *
+
+Compressor lubricating
+system
+
+pump type *
+
+Provision of full range
+of automated controled
+devices to monitor both
+compressor and
+working conditions
+
+YES *
+
+Start, Stop and
+Emergency Stop butons
+on control panel of
+compressor
+
+YES *
+
+Shut-Down Switches for
+ease of system
+diagnosis and
+maintenance, the low
+oil pressure and high
+pressure air shut-down
+switches shall be
+equipped with suitable
+connectors
+
+YES *
+
+Feature for auto drain
+of Moisture/ Oil in the
+system to drain in a
+tank at regular interval
+without release of Oil
+Contaminated air to
+atmosphere
+
+YES *
+
+Interstage control
+device
+
+YES *
+
+Final stage pressure
+gauge
+
+YES *
+
+Power supply 3
+phase/400-415V/50Hz
+
+*
+
+Prime Mover-Electrical
+Motor
+
+AC electric motor be as
+per IS996 or IS 325
+latest or equivalent
+standard
+
+*
+
+Electric Motor Power
+(must declare)
+
+10 *
+
+Type / Class of Motor
+enclosure
+
+- *
+
+Degree of protection (IP
+Rating) of Motor
+
+- *
+
+Spare filter cartridge 2 SETS *
+
+One oil Refill YES *
+
+General arrangement YES *
+
+                               3 / 6
+
+
+
+ 
+
+drawing to be provided
+
+Commissioning and
+Training at site
+
+YES *
+
+Operation manual with
+maintenance and
+repair instruction to be
+included
+
+YES *
+
+Timer with inbuilt
+temp sensor for
+checking or
+indicating filter life
+
+No No
+
+PERFORMANCE Maximum Operating
+Pressure(must
+declare)
+
+140 140.0
+
+Cylinder Charging
+Range
+
+200 bar , 232 bar, 300
+bar selectable
+
+200 bar , 232 bar, 300
+bar selectable
+
+Cylinder charging
+Rate
+
+9-10 cmf (260 ≤ N≤
+300 lpm)
+
+9-10 cmf (260 ≤ N≤
+300 lpm)
+
+Breathing air filteration
+system
+
+to be provided at
+intake and at final point
+of use to ensure
+highest level of purity
+of air delivered as per
+DIN12021 or CGA-E or
+any equivalent
+international standard
+
+*
+
+O2 concentration by
+volume in Breathing air
+(%)
+
+21 *
+
+Carbon mono oxide in
+Breathing air (ppm)
+
+5 *
+
+Watervapor in
+Breathing Air
+
+35 ppm at cylinder
+outlet (cylinder
+pressure >20 MPa (g)
+
+*
+
+Oil components
+(Condensed
+hydrocatbons) (mg/m³)
+
+0.5 *
+
+Odour,flavour
+substances and taste
+
+Free of any significant
+odour or taste
+
+*
+
+Light weight,
+Rugged,Transportable
+equipment of modular
+design
+
+YES *
+
+Equipment weight
+(must declare)
+
+180 180.0
+
+Noise level at one
+meter distanc (dba)
+
+80 *
+
+CERTIFICATION Availability of Type
+Test Report to prove
+
+YES *
+
+                               4 / 6
+
+
+
+ 
+
+conformity of declared
+parameters to the
+specification from any
+ILAC/NABL
+accredited/Central Govt
+Lab
+
+Test Report Number
+and Date
+
+- *
+
+Name of the Lab where
+test Conducted
+
+- *
+
+Product Warranty
+(Years)
+
+2 2
+
+Service Warranty for
+Parts from date
+installation (Years)
+
+5 5
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Manish Kumar
+Sethi
+
+325209,NTPC Limited, Anta
+Gas Power Station, PO Anta
+
+1  84
+
+Bid Specific Additional Terms and Conditions
+
+1.Nominated Inspection Agency: On behalf of the Buyer organization, any one of the
+following Inspection Agency would be conducting inspection of stores before acceptance:
+Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause
+has been selected in ATC): PDI at Manufacturer's works will be done by CISF fire
+representative as per NTPC approved MQP.
+Post Receipt Inspection at consignee site before acceptance of stores: NTPC ANTA C&M
+STORE
+
+2.Pre-dispatch inspection at Seller premises (Fee/Charges to be borne by the BUYER): Before
+dispatch, the goods will be inspected by Buyer / Consignee or their Authorized
+Representative or by Nominated External Inspection Agency (independently or jointly with
+Buyer or Consignee as decided by the Buyer) at Seller premises (or at designated place for
+inspection as declared / communicated by the seller) for their compliance to the contract
+specifications. Fee/Charges taken by the External inspection Agency and any external
+laboratories testing charges shall be borne by the Buyer. For in-house testing, the Sellers will
+provide necessary facilities free of cost. Seller shall notify the Buyer through e-mail about
+readiness of goods for pre-dispatch inspection and Buyer will notify the Seller about the
+Authorized Representative/ Nominated External Inspection Agency and the date for testing.
+The goods would be dispatched to consignee only after clearance in pre-dispatch inspection.
+
+                               5 / 6
+
+
+
+ 
+
+Consignee's right of rejection as per GTC in respect of the goods finally received at his
+location shall in no way be limited or waived by reason of the goods having previously been
+inspected, tested and passed by Buyer/ Consignee or its Nominated External Inspection
+Agency prior to the goods' shipment. While bidding, the sellers should take into account 7
+days for inspection from the date of email offering the goods for inspection. Any delay in
+inspection beyond 7 days shall be on the part of the buyer and shall be regularised without
+Liquidated Damages.
+
+3.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

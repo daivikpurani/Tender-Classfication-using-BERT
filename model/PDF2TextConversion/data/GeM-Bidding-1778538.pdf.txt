@@ -1,0 +1,640 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/703123
+
+  Dated: 08-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 18-07-2020 18:00:00
+
+Bid Opening Date/Time 18-07-2020 18:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Rajasthan
+
+Department Name Animal Husbandry Department Rajasthan
+
+Organisation Name Rajasthan Cooperative Dairy Federation(rcdf)
+
+Office Name Jaipur
+
+Total Quantity 1
+
+Item Category Electronic Milk Analyser with adulteration testing
+equipment
+
+Bidder Turnover (Last 3 Years)  2 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  10 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  80 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+                               1 / 7
+
+
+
+ 
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 80% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Electronic Milk Analyser With Adulteration Testing Equipment ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Construction Maximum Operating
+temperature
+
+40 *
+
+Minimum Operating
+temperature
+
+5 *
+
+Width 252 *
+
+Body Material Polycarbonate *
+
+Length 194 *
+
+Height 207 *
+
+Weight 4.1 *
+
+Functional Parameters Sample Volume, ml =<5 *
+
+Caliberated Urea,Detergent,Ammon Urea, Detergent,
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/NmqQx0DCso2M0ahdrLQCqKuMrerOcEGkZIWVB2SdWEE
+
+
+ 
+
+Adulterants ium
+Sulphate,Salt,Hydrogen
+Peroxide,Sodium Bi-
+carbonate,Caustic Soda
+,Maltodextrin,Sucrose,A
+dded water,Sorbitol,Mel
+amine,Sodium Citrate,S
+tarch,Formaldehyde,So
+dium
+Carbonate,Vegetable
+oil with chemical
+emulsifers,milk
+abnormality,nitrate
+
+Ammonium Sulphate,
+Salt, Hydrogen
+Peroxide, Sodium Bi-
+carbonate, Caustic
+Soda, Maltodextrin,
+Sucrose, Added water,
+Sorbitol, Melamine,
+Sodium Citrate, Starch,
+Formaldehyde, Sodium
+Carbonate, Vegetable
+oil with chemical
+emulsifers, milk
+abnormality, nitrate
+
+Minimum temperature
+of Sample raw milk
+
+5 *
+
+Maximum temperature
+of Sample raw milk
+
+40 *
+
+Measuring Analysis
+speed per Sample
+
+45 *
+
+Measured
+Parameters
+
+Fat,SNF,Protein,Protein Fat, SNF, Protein
+
+Performance
+Parameters
+
+Detection Limit for
+Hydrogen Peroxide
+
+NA *
+
+Detection Limit for
+Ammonium Sulphate
+
+=<0.1% *
+
+Accuracy of Density
+Measurement
+
+NA *
+
+Maximum Measuring
+limit for Added Water
+
+70%-75% *
+
+Minimum Measuring
+limit for Added Water
+(%) (Hint- Mention
+minimum detection
+limit)
+
+20%-25% *
+
+Accuracy of Lactose
+Measurement
+
+NA *
+
+Accuracy of Protein
+Measurement
+
+0.05%-0.1% *
+
+Maximum Measuring
+limit for Protein
+
+8% *
+
+Maximum Measuring
+limit for
+Density(Kg/m3)
+
+NA *
+
+Detection Limit for
+Added Water
+
+>=20% *
+
+Detection Limit for
+salt(Sodium Chloride)
+
+NA *
+
+Detection Limit for
+Detergent
+
+NA *
+
+                               3 / 7
+
+
+
+ 
+
+Minimum Measuring
+limit for Lactose
+
+NA *
+
+Minimum Measuring
+limit for Protein
+
+=<1% *
+
+Maximum Measuring
+limit for SNF
+
+10%-15% *
+
+Detection Limit for
+Sucrose
+
+>=0.4% *
+
+Detection Limit for
+Sodium Bi-Carbonate
+
+NA *
+
+Detection Limit for
+Urea
+
+>=0.1% *
+
+Maximum Measuring
+limit for Lactose
+
+NA *
+
+Accuracy of SNF
+Measurement
+
+0.1%-0.15% *
+
+Maximum Measuring
+limit for Fat
+
+12%-15% *
+
+Accuracy of Added
+Water Measurement
+
+NA *
+
+Minimum Measuring
+limit for
+Density(Kg/m3)
+
+NA *
+
+Minimum Measuring
+limit for SNF
+
+=<1% *
+
+Accuracy of Fat
+Measurement
+
+0.10%-0.15% *
+
+Minimum Measuring
+limit for Fat
+
+=<0.01% *
+
+Detection Limit for
+Maltodextrin
+
+>=0.6% *
+
+Detection Limit for
+Caustic Soda
+
+NA *
+
+Detection limit of
+melamine
+
+NA *
+
+Detection Limit of
+Nitrate
+
+NA *
+
+Generic Parameters Count of Samples for
+which reagents,cons
+umables,spares &
+acccessories are
+provided with
+Instrument
+
+10000 10000
+
+AC Power Supply 220-240V AC - 50 Hz *
+
+Supplier capable of
+supply of samples,reag
+
+Yes *
+
+                               4 / 7
+
+
+
+ 
+
+ent,consumables &
+accessories as & when
+required
+
+Built In Diagnostics to
+ensure accurate & error
+free opertions
+
+Yes *
+
+DC Power Supply 12V *
+
+Rated Power, Watt 20-30 *
+
+Communication
+Interface data transfer
+modes
+
+RS-232,SD Card,Cloud *
+
+Display Type LCD *
+
+POS Printer Provided
+with Instrument
+
+Yes Yes
+
+PC Based software
+provided for Data
+analysis
+
+Yes *
+
+Caliberation feature
+Available
+
+Reference Sample *
+
+User Manual Provided SoftCopy,Hard Copy *
+
+Installation & training No. of days of training
+program
+
+2 *
+
+No of people to be
+trained in training
+program
+
+10-15 *
+
+Spares and Preventive
+Maintainance kits and
+Accessories for routine
+operation
+
+Yes *
+
+No of training sessions
+executed
+
+10 *
+
+Warranty & services Ability of supplier to
+provide
+spares/consumables
+upto 10 years of
+supply(Separate
+purchases not included
+in this purchase)
+
+Yes *
+
+No. of On Site
+Preventive
+Maintainance visit
+during warranty Period
+
+2 *
+
+All test report &
+documents to be
+submitted on Buyer
+demand
+
+Yes *
+
+Warranty Extension
+in case of
+
+Yes Yes
+
+                               5 / 7
+
+
+
+ 
+
+Breakdown for more
+than 30 days due to
+Manufacturing
+Defects/Faulty
+Spares
+
+Warranty from date
+of
+installation(System
+& all other parts) in
+years
+
+1 1.0
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Om Prakash
+Sukharia
+
+344001,OPP.KRISHI UPAJ
+MANDI, N.H.-15 BARMER
+(RAJ.)
+
+1  10
+
+Bid Specific Additional Terms and Conditions
+
+1.The Bidder / OEM {themselves or through reseller(s)}, should have executed project for
+supply and installation / commissioning of same or similar Category Products during
+preceding 3 financial years (i.e. current year and three previous financial years) as on
+opening of bid, as per following criteria:
+ 
+(i) Single order of at least 35% of estimated bid value; or
+(ii) Two orders of at least 20% each of estimated bid value; or
+(iii) Three orders of at least 15% each of estimated bid value.
+Satisfactory Performance certificate issued by respective Buyer Organization for the above
+Orders should be uploaded with bid. In case of bunch bids, the Category related to primary
+product having highest bid value should meet this criterion
+
+2.Malicious Code Certificate:
+
+The seller should upload following certificate in the bid:-
+(a) This is to certify that the Hardware and the Software being offered, as part of the
+contract, does not contain Embedded Malicious code that would activate procedures to :-
+  (i) Inhibit the desires and designed function of the equipment.
+  (ii) Cause physical damage to the user or equipment during the exploitation.
+  (iii) Tap information resident or transient in the equipment/network.
+(b) The firm will be considered to be in breach of the procurement contract, in case physical
+damage, loss of information or infringements related to copyright and Intellectual Property
+Right (IPRs) are caused due to activation of any such malicious code in embedded software.
+
+3.OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be
+
+                               6 / 7
+
+
+
+ 
+
+ordered up to 25 percent at the time of placement of contract. The purchaser also reserves
+the right to increase the ordered quantity by up to 25% of the contracted quantity during the
+currency of the contract at the contracted rates. Bidders are bound to accept the orders
+accordingly.
+
+4.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 7 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+5.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+6.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial
+year, should be as indicated in the bid document. Documentary evidence in the form of
+certified Audited Balance Sheets of relevant periods or a certificate from the Chartered
+Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than
+3 year old, the average turnover in respect of the completed financial years after the date of
+constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of
+CATEGORY RELATED TO primary product having highest bid value should meet this criterion.
+
+7.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

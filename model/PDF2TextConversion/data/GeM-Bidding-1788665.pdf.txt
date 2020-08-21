@@ -1,0 +1,562 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/712358
+  Dated: 17-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 18:00:00
+
+Bid Opening Date/Time 27-07-2020 18:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Madhya Pradesh
+
+Department Name Public Health And Family Welfare Department Madhya Pradesh
+
+Organisation Name National Rural Health Mission (nrhm)
+
+Office Name Chief Medical And Health Office
+
+Total Quantity 54
+
+Item Category Tablet Computers
+
+Bidder Turnover (Last 3 Years)  5 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  45 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM Authorization
+Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the
+buyer
+
+Past Performance  80 %
+
+Bid to RA enabled  No
+
+Inspection Required  Yes
+
+Inspection to be carried out by Buyers own
+empanelled agency
+
+ Yes
+
+Type Of Inspection  Pre Dispatch
+
+Name of the Empanelled Inspection Agency/
+Authority
+
+ Board of Officers
+
+Estimated Bid Value  1161000
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 5.00
+
+EMD Amount 58050
+
+                               1 / 6
+
+
+
+ 
+
+ePBG Detail
+
+Required No
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant
+category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for
+Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+DHS NHM
+Chief Medical And Health Office, Public Health and Family Welfare Department Madhya Pradesh, National Rural Health
+Mission (NRHM),
+(Chief Medical And Health Officer Chhatarpur)
+
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM {themselves or
+through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central
+/ State Govt Organization / PSU / Public Listed Company for number of years as indicated in the bid document before the
+bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some
+quantity during each of the year. In case of bunch bids, the category of primary product having highest value should
+meet this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product during the
+last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document.
+Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the
+Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with
+the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have supplied same or similar
+Category Products for 80% of bid quantity, in at least one of the last three years before the bid opening date to any
+Central / State Govt Organization / PSU / Public Listed Company. Copies of relevant contracts (proving supply of
+cumulative order quantity in any one year) to be submitted along with bid in support of quantity supplied in the relevant
+year. In case of bunch bids, the category related to primary product having highest bid value should meet this criterion.
+
+Tablet Computers ( 54 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Operating System Operating System
+Details
+
+Android Oreo 8.0 or Higher Android Oreo 8.0 or Higher,
+iOS 12.0 or Higher Or higher
+
+Display Display Size (Minimum)
+(Inch)
+
+10 10, 10.5, 11, 11.5, 12, 12.5,
+12.9, 10.2 Or higher
+
+Display Resolution
+(Pixels)
+
+1920 x 1080 1920 x 1080, 2048 x 1536,
+1800 x 1200, 2560 x 1600,
+2732 x 2048, 2388 x 1668,
+2224 x 1668, 2160vx 1620
+Or higher
+
+Display Type TFT *
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/_DRGcvIFRn7nDyPs7FXwr-FBdHrIFYLpzD09vXQ8qvU
+
+
+ 
+
+Type of Touch Screen Capacitive *
+
+Display Colour 16 Million *
+
+Multitouch Support Yes *
+
+Brightness (Minimum)
+(Nits)
+
+400 *
+
+Technology Mobile Commn Technology GSM *
+
+Connectivity Connectivity Type Wifi + Cellular Wifi + Cellular Or higher
+
+Cellular Data Support 4G / LTE 4G / LTE, VoLTE Or higher
+
+GPS Yes Yes Or higher
+
+AGPS Yes Yes Or higher
+
+Number of GSM SIM
+Available
+
+1 1, 2 Or higher
+
+Cellular Voice Calling Yes Yes
+
+Wi-Fi Connectivity Type 802.11 ac *
+
+Bluetooth Connectivity
+(Minimum Version)
+
+5 *
+
+Processor Processor Speed
+(Minimum) (GHz)
+
+1.51 to 1.8 1.51 to 1.8, 1.8 to 1.99, 2.0
+& higher Or higher
+
+Processor Core (Number) 8 8 Or higher
+
+Processor Architecture 64 Bit *
+
+Processor Make Exynos *
+
+Memory RAM Type LPDDR4 *
+
+RAM Size (GB) 2 1.5, 2, 3, 4, 8 Or higher
+
+Storage Internal Storage
+Capacity (GB)
+
+32 8, 16, 32, 64, 128, 256, 512,
+1024 Or higher
+
+Micro SD Card Support Yes *
+
+Storage upgradable upto
+(Through Micro SD Card)
+(GB)
+
+128 or higher *
+
+Camera Rear Camera (Mega
+Pixel)
+
+8 5, 8, 12, 13 Or higher
+
+Front Camera (Mega
+Pixel)
+
+5 2, 5, 7, 8 Or higher
+
+Video Recording Resolution 1080p *
+
+Video Recording Frame Rate
+(fps)
+
+30 *
+
+Digital Zoom Yes *
+
+Geotagging Feature Yes *
+
+General Battery Capacity
+(minimum) (mAH)
+
+6001 - 7000 6001 - 7000, 7001 & higher
+Or higher
+
+Weight including Battery
+(max) (Grams)
+
+500 *
+
+Dimensions (Length x
+Breadth x Thickness) (mm x
+mm x mm)
+
+- *
+
+Docking Compatibility No *
+
+Certification Specific Absorption Rate
+(SAR)
+
+</= 1.6 Watts/Kg *
+
+                               3 / 6
+
+
+
+ 
+
+BIS Registration Under CRS
+of Meity for Tablet alongwith
+Battery
+
+Yes *
+
+BIS Regn number And its
+validity
+
+- *
+
+Google Mobile Service
+Certification for Android OS
+
+Yes *
+
+Other Certifications
+Available (Details of the
+relevant certificate number
+and the name/ID of
+corresponding notified
+Bodies shall be provided as
+and when demanded by the
+buyer)
+
+UL/CB,CE,FCC,RoHS *
+
+Standard Accessories Standard Accessories to be
+supplied with the Tablet
+
+USB Cable & Charger *
+
+Additional Accessories (OEM
+/ Third Party)
+
+OTG Cable No Yes, No Or higher
+
+Docking Station No Yes, No Or higher
+
+Compatible Carry Case Yes Yes Or higher
+
+Compatible Smart Cover No Yes, No Or higher
+
+Compatible Active Stylus No Yes, No Or higher
+
+Ear Phone Yes Yes Or higher
+
+Miscellaneous USB Ports Type C *
+
+Audio Port 3.5mm Jack *
+
+Additional Features Accelerometer *
+
+Inbuilt Speaker Yes *
+
+If Yes, Type of Inbuilt
+Speaker
+
+Stereo *
+
+Other Options Availability of Mobile
+Device Management
+(MDM) Support
+
+Yes Yes
+
+Mobile Device
+Management (MDM)
+License and Support
+(Year)
+
+1 1, 2, 3 Or higher
+
+Mobile Device
+Management Hosting
+(MDM)
+
+Cloud Based Cloud Based
+
+Device Enrolment
+Program (DEP) for
+automation of MDM and
+Supervision of iOS
+devices
+
+NA Yes, No, NA
+
+Device Enrolment
+Program (DEP) License
+and Support (Year)
+
+0 0, 1, 2, 3 Or higher
+
+Operating Conditions Minimum Operating
+Temperature (Degree C)
+
+- *
+
+Maximum Operating
+Temperature (Degree C)
+
+- *
+
+Minimum Operating
+Humidity (%RH)
+
+- *
+
+                               4 / 6
+
+
+
+ 
+
+Maximum Operating
+Humidity (%RH)
+
+- *
+
+Warranty Availabiliy of Service
+Centre for Warranty
+Obligation
+
+District Level State Level, District Level Or
+higher
+
+OEM Warranty including
+Battery
+
+Carry In *
+
+OEM Warranty Period for
+Battery (Year)
+
+2 2 Or higher
+
+OEM Warranty Period for
+Tablet (Year)
+
+2 2 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Avnish Prakash
+Pateriya
+
+471001,CMHO OFFICE IN FRONT
+OF MAHARAJA COLLEGE PANNA
+ROAD CHHATARPUR
+
+54  15
+
+Bid Specific Additional Terms and Conditions
+1.Pre-dispatch inspection at Seller premises (Fee/Charges to be borne by the BUYER): Before dispatch, the goods
+
+will be inspected by Buyer / Consignee or their Authorized Representative or by Nominated External Inspection
+Agency (independently or jointly with Buyer or Consignee as decided by the Buyer) at Seller premises (or at
+designated place for inspection as declared / communicated by the seller) for their compliance to the contract
+specifications. Fee/Charges taken by the External inspection Agency and any external laboratories testing
+charges shall be borne by the Buyer. For in-house testing, the Sellers will provide necessary facilities free of cost.
+Seller shall notify the Buyer through e-mail about readiness of goods for pre-dispatch inspection and Buyer will
+notify the Seller about the Authorized Representative/ Nominated External Inspection Agency and the date for
+testing. The goods would be dispatched to consignee only after clearance in pre-dispatch inspection. Consignee's
+right of rejection as per GTC in respect of the goods finally received at his location shall in no way be limited or
+waived by reason of the goods having previously been inspected, tested and passed by Buyer/ Consignee or its
+Nominated External Inspection Agency prior to the goods' shipment. While bidding, the sellers should take into
+account 7 days for inspection from the date of email offering the goods for inspection. Any delay in inspection
+beyond 7 days shall be on the part of the buyer and shall be regularised without Liquidated Damages.
+
+2.After award of contract – Successful Bidder shall have to get advance sample approved from buyer before bulk
+manufacturing / starting bulk supplies. Successful Bidder shall submit 1 samples for Buyer's approval, within 7
+days of award of contract. Buyer shall, as per contract specifications framework, either approve the advance
+sample or will provide complete list of modification required in the sample within 7 days of receipt of advance
+sample. Seller shall be required to ensure supply as per approved sample with modifications as communicated
+by Buyer. If there is delay from buyer side in approval of advance sample – the delivery period shall be refixed
+without LD for the period of delay in sample approval. In case, the sample is found to have major deviations / not
+conforming to the Contract specifications, the buyer at its discretion may call for fresh samples for approval
+before allowing bulk supplies or may terminate the contract after notifying the deviations to the seller.
+Unless otherwise provided in the contract, all samples required for test shall be supplied by the contractor free of
+cost. Where under the contract, the contractor is required to submit an advance sample, any expenses incurred
+by the contractor on or in connection with the production of stores in bulk, before the sample has been approved
+unconditionally shall be borne by the Seller and he shall not claim any compensation in the event of such sample
+being found unacceptable by the Buyer / Consignee.
+
+3.For clothing and allied items, if pre-dispatch Inspection clause has been selected in the Bid, the Inspection
+Agency shall forward sample from the accepted lot duly identified/ sealed by it, as Reference Sample to each
+consignee (one reference sample per consignee) for comparing the lot received at consignee end with such
+reference sample. Such reference samples will be treated as part of supplied quantity from the lot and cost shall
+be borne by the Buyer.
+
+4.Bidders can also submit the EMD with Account Payee Demand Draft in favour of Chief Medical And Health Officer
+Chhatarpur payable at Chhatarpur.
+
+                               5 / 6
+
+
+
+ 
+
+Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure delivery of hardcopy to the
+Buyer within 5 days of Bid End date / Bid Opening date.
+
+5.Bidders can also submit the EMD with Fixed Deposit Receipt made out or pledged in the name of Chief Medical
+And Health Officer A/C (Name of the Seller). The bank should certify on it that the deposit can be withdrawn only
+on the demand or with the sanction of the pledgee. For release of EMD, the FDR will be released in favour of
+bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with
+covering letter.
+Bidder has to upload scanned copy / proof of the FDR along with bid and has to ensure delivery of hardcopy to
+the Buyer within 5 days of Bid End date / Bid Opening date.
+
+6.Bidders can also submit the EMD with Banker’s Cheque in favour of Chief Medical And Health Officer Chhatarpur
+payable at Chhatarpur.
+Bidder has to upload scanned copy / proof of the BC along with bid and has to ensure delivery of hardcopy to the
+Buyer within 5 days of Bid End date / Bid Opening date.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

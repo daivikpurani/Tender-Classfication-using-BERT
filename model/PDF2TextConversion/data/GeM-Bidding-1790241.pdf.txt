@@ -1,0 +1,443 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/713804
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 19:00:00
+
+Bid Opening Date/Time 27-07-2020 19:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Haryana
+
+Department Name General Administration And Administrative Reforms Department
+Haryana
+
+Organisation Name N/a
+
+Office Name Municipal Corporation Gurugram
+
+Total Quantity 20
+
+Item Category Tablet Computers ( PAC Only ) 
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Tablet Computers ( 20 pieces ) ( Under PAC ) 
+
+Make lenovo
+
+Model lenovotabm8(tb-8505x)
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+
+                               1 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/oTe6ygtctFRfxVkAf4Qje1gplVpxqNPW1ayuLxH-Prs
+
+
+ 
+
+(Allowed Values)
+
+Operating System Operating System
+Details
+
+Android Oreo 8.0 or Higher Android Oreo 8.0 or Higher,
+iOS 12.0 or Higher Or higher
+
+Display Display Size (Minimum)
+(Inch)
+
+8 8, 9, 9.5, 10, 10.5, 11, 11.5,
+12, 12.5, 7.9, 9.7, 12.9, 10.2
+Or higher
+
+Display Resolution
+(Pixels)
+
+1280 x 800 1280 x 720, 1280 x 800,
+1366 x 768, 1920 x 1080,
+2048 x 1536, 1800 x 1200,
+2560 x 1600, 2732 x 2048,
+2388 x 1668, 2224 x 1668,
+2160vx 1620 Or higher
+
+Display Type IPS *
+
+Type of Touch Screen Capacitive *
+
+Display Colour 16 Million *
+
+Multitouch Support Yes *
+
+Brightness (Minimum)
+(Nits)
+
+390 390, 400, 412, 450, 500,
+600 Or higher
+
+Technology Mobile Commn Technology GSM *
+
+Connectivity Connectivity Type Wifi + Cellular Wifi + Cellular Or higher
+
+Cellular Data Support 4G / LTE 4G / LTE, VoLTE Or higher
+
+GPS Yes Yes Or higher
+
+AGPS Yes Yes Or higher
+
+Number of GSM SIM
+Available
+
+1 1, 2 Or higher
+
+Cellular Voice Calling Yes Yes
+
+Wi-Fi Connectivity Type 802.11a/b/g/n *
+
+Bluetooth Connectivity
+(Minimum Version)
+
+5 *
+
+Processor Processor Speed
+(Minimum) (GHz)
+
+2.0 & higher 2.0 & higher Or higher
+
+Processor Core (Number) 4 4, 6, 8 Or higher
+
+Processor Architecture 64 Bit *
+
+Processor Make Mediatek *
+
+Memory RAM Type LPDDR3 *
+
+RAM Size (GB) 2 1.5, 2, 3, 4, 8 Or higher
+
+Storage Internal Storage
+Capacity (GB)
+
+32 32, 64, 128, 256, 512, 1024
+Or higher
+
+Micro SD Card Support Yes *
+
+Storage upgradable upto
+(Through Micro SD Card)
+(GB)
+
+128 or higher *
+
+Camera Rear Camera (Mega
+Pixel)
+
+8 5, 8, 12, 13 Or higher
+
+Front Camera (Mega
+Pixel)
+
+2 2, 5, 7, 8 Or higher
+
+Video Recording Resolution 1080p *
+
+Video Recording Frame Rate
+(fps)
+
+30 *
+
+                               2 / 4
+
+
+
+ 
+
+Digital Zoom Yes *
+
+Geotagging Feature Yes *
+
+General Battery Capacity
+(minimum) (mAH)
+
+5001 - 6000 5001 - 6000, 6001 - 7000,
+7001 & higher Or higher
+
+Weight including Battery
+(max) (Grams)
+
+350 *
+
+Dimensions (Length x
+Breadth x Thickness) (mm x
+mm x mm)
+
+199.1 x 121.8 x 8.15 *
+
+Docking Compatibility No *
+
+Certification Specific Absorption Rate
+(SAR)
+
+</= 1.6 Watts/Kg *
+
+BIS Registration Under CRS
+of Meity for Tablet alongwith
+Battery
+
+Yes *
+
+BIS Regn number And its
+validity
+
+R-41007986&27.05.20 *
+
+Google Mobile Service
+Certification for Android OS
+
+Yes *
+
+Other Certifications
+Available (Details of the
+relevant certificate number
+and the name/ID of
+corresponding notified
+Bodies shall be provided as
+and when demanded by the
+buyer)
+
+UL/CB,CE,FCC,RoHS *
+
+Standard Accessories Standard Accessories to be
+supplied with the Tablet
+
+USB Cable & Charger *
+
+Additional Accessories (OEM
+/ Third Party)
+
+OTG Cable Yes Yes Or higher
+
+Docking Station No Yes, No Or higher
+
+Compatible Carry Case Yes Yes Or higher
+
+Compatible Smart Cover No Yes, No Or higher
+
+Compatible Active Stylus No Yes, No Or higher
+
+Ear Phone Yes Yes Or higher
+
+Miscellaneous USB Ports Micro *
+
+Audio Port 3.5mm Jack *
+
+Additional Features Accelerometer *
+
+Inbuilt Speaker Yes *
+
+If Yes, Type of Inbuilt
+Speaker
+
+Stereo *
+
+Other Options Availability of Mobile
+Device Management
+(MDM) Support
+
+No Yes, No
+
+Mobile Device
+Management (MDM)
+License and Support
+(Year)
+
+0 0, 1, 2, 3 Or higher
+
+Mobile Device
+Management Hosting
+(MDM)
+
+NA NA
+
+Device Enrolment NA NA
+
+                               3 / 4
+
+
+
+ 
+
+Program (DEP) for
+automation of MDM and
+Supervision of iOS
+devices
+
+Device Enrolment
+Program (DEP) License
+and Support (Year)
+
+0 0, 1, 2, 3 Or higher
+
+Operating Conditions Minimum Operating
+Temperature (Degree C)
+
+-10 *
+
+Maximum Operating
+Temperature (Degree C)
+
+55 *
+
+Minimum Operating
+Humidity (%RH)
+
+10 *
+
+Maximum Operating
+Humidity (%RH)
+
+95 *
+
+Warranty Availabiliy of Service
+Centre for Warranty
+Obligation
+
+District Level State Level, District Level Or
+higher
+
+OEM Warranty including
+Battery
+
+Carry In *
+
+OEM Warranty Period for
+Battery (Year)
+
+1 1, 2 Or higher
+
+OEM Warranty Period for
+Tablet (Year)
+
+1 1, 2 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Mahender Singh 122001,GTPL Building C1, Infocity,
+Sector 34 Gurugram
+
+20  15
+
+Bid Specific Additional Terms and Conditions
+1.IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered
+
+office in India to provide after sales service support in India. The certificate to this effect should be submitted.
+2.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each
+
+Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If
+service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one
+within 30 days of award of contract. Payment shall be released only after submission of documentary evidence
+of having Functional Service Centre.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

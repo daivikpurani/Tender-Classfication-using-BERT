@@ -1,0 +1,524 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/705864
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 16:00:00
+
+Bid Opening Date/Time 20-07-2020 16:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 80 (Days)
+
+Ministry/State Name Ministry Of Heavy Industries And Public Enterprises
+
+Department Name Department Of Heavy Industry
+
+Organisation Name Cement Corporation Of India Limited (cci)
+
+Office Name Assam
+
+Total Quantity 2
+
+Item Category Face Recognition Biometric Attendance System
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Face Recognition Biometric Attendance System ( 2 pieces )
+
+Technical Specifications
+
+                               1 / 6
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Type Face Recognition
+Technology
+
+Standalone Device Local Server Based,
+Standalone Device
+
+Type of Face
+Recognition
+Biometric
+Attendance System
+
+Embedded Linux Based Android Based,
+Embedded Linux Based
+
+Face Storage
+Capacity
+
+3000 3000
+
+Fingerprint Scanning
+Feature
+
+Yes *
+
+If Yes, Fingerprint
+Storage Capacity
+
+5000 5000, 10000, 15000,
+20000 Or higher
+
+Maximum Attendance
+Log
+
+300000 *
+
+Management Log 10000 *
+
+HARDWARE
+SPECIFICATION
+
+Screen Size (Minimum) 4 *
+
+Screen Type Non Touch *
+
+Screen Resolution 800 x 600 320 x 240, 400 x 240,
+480 x 320, 640 x 480,
+768 x 480, 800 x 600
+Or higher
+
+Processor Speed
+(GHz)
+
+1 1
+
+RAM 256 256 Or higher
+
+Storage 1024 512, 1024, 2048 Or
+higher
+
+Micro SD Card Support No *
+
+If Yes, Storage
+Expandibility (through
+Micro SD Card)
+
+4 *
+
+Number of USB Ports 1 *
+
+Number of Micro USB
+Ports
+
+1 *
+
+Front Camera
+(Megapixel)
+
+1.3 *
+
+Power over Ethernet
+(PoE)
+
+Yes (IEEE 802.11 af) *
+
+Network Connectivity LAN + Wi Fi *
+
+Audio Output Voice
+Interface
+
+Yes *
+
+Biometric Attendance Identify Mode Face and Fingerprint Face and Fingerprint
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/amkFI_R23Wf3fBj_L0yk5mo5cvh5Rwt--JFxpkMJD0Y
+
+
+ 
+
+System Specification Both Both Or higher
+
+Display Language English *
+
+Communication TCP/IP *
+
+Encryption (AES) 128 *
+
+Liveness Detection
+Method
+
+Texture Based *
+
+Identification Time
+(Maximum)
+
+1 *
+
+Matching Modes 1:1 *
+
+Enrolment Time 2 2 Or higher
+
+False Acceptance Rate
+(FAR)
+
+≤ 0.01% *
+
+False Rejection Rate
+(FRR)
+
+≤ 1% *
+
+Minimum Face Size for
+Detection (Pixel)
+
+40 x 40 *
+
+Minimum Face Size for
+Recognition
+
+100 x 100 *
+
+Registration Face
+Template Size (KB)
+
+10 *
+
+Recognition Face
+Template Size (KB
+
+10 *
+
+Partial Facial Occlusion
+Recognition
+
+No *
+
+Beards and Hairstyles
+Recognition
+
+Yes *
+
+Sunglasses Recognition No *
+
+Irregular Lighting
+Recognition
+
+Yes *
+
+STQC Certified Finger
+print Scanner
+
+No *
+
+If Yes, STQC Certificate
+number for Fingerprint
+Scanner
+
+- *
+
+If Yes, STQC Certificate
+Date & Validity for
+Fingerprint Scanner
+
+- *
+
+Fool Proof System
+based on novel liveness
+detection algorithms to
+avoid
+impersonation/fraud
+
+Yes *
+
+Application Supported
+on Device bundled with
+Face Recognition
+Software
+
+Yes *
+
+                               3 / 6
+
+
+
+ 
+
+Device Operating
+System
+
+Linux *
+
+Casing Case with Locking
+Facility
+
+Yes *
+
+Device Casing Material Polycarbonate *
+
+Ingress Protection
+Rating (IP)
+
+54 *
+
+Drop Test Compliance
+for Casing from a
+height of 1 meters
+
+No *
+
+MISCELLANEOUS RoHS Compliance Yes *
+
+BIS Registration under
+CRS of Meity
+
+Yes *
+
+If Yes, BIS Registratin
+number, date and its
+validity
+
+- *
+
+Other Certifications
+available
+
+- *
+
+Minimum Operating
+Temperature
+
+0 *
+
+Maximum Operating
+Temperature
+
+45 *
+
+Minimum Storage
+Temperature
+
+0 *
+
+Maximum Storage
+Temperature
+
+45 *
+
+Minimum Operating
+Humidity (RH) (%)
+
+20 *
+
+Maximum Operating
+Humidity (RH) (%)
+
+80 *
+
+Power Source 230 V +/- 10% V AC, 50
+Hz
+
+230 V +/- 10% V AC, 50
+Hz
+
+Battery Required Yes *
+
+If Yes Battery Capacity
+(mAH)
+
+2000 *
+
+If Yes, Indicative
+Battery Backup Time
+
+3 *
+
+Dimensions (mm x mm
+x mm)
+
+- *
+
+Weight 250 *
+
+Type Test Certificate
+Covering all
+parameters and
+Environmental tests
+from STQC certified lab
+
+No *
+
+                               4 / 6
+
+
+
+ 
+
+If Yes, TTC number and
+Date
+
+- *
+
+If Yes, Name of the Lab - *
+
+If Yes, Address of the
+Lab
+
+- *
+
+OTHER OPTIONS Availability of Mobile
+Device Management
+(MDM) Support
+
+No *
+
+Mobile Device
+Management (MDM)
+License and Support
+
+1 Year 1 Year, 2 Year, 3 Year
+Or higher
+
+Mobile Device
+Management
+Hosting (MDM)
+
+Cloud Based Cloud Based Or higher
+
+WARRANTY On Site OEM
+Warranty (Year)
+
+1 1, 2, 3 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Vipin Kumar 782490,CEMENT
+CORPORATION OF INDIA
+LIMITED BOKAJAN CEMENT
+FACTORY
+
+2  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+2.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+3.Warranty period of the supplied products shall be 2 years from the date of final acceptance
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+                               5 / 6
+
+https://gem.gov.in/termsCondition
+
+
+ 
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+http://www.tcpdf.org
+

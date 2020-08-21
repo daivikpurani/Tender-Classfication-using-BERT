@@ -1,0 +1,1017 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/707987
+
+  Dated: 13-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 23-07-2020 14:00:00
+
+Bid Opening Date/Time 23-07-2020 14:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence Reseach & Development
+
+Organisation Name Aeronautical Development Agency
+
+Office Name ***********
+
+Total Quantity 4
+
+Item Category Workstation
+
+Bidder Turnover (Last 3 Years)  25 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  200 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years Of Experience and
+Turnover
+
+ Yes
+
+Startup Exemption for Years Of Experience
+and Turnover
+
+ Yes
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  50 %
+
+Bid to RA enabled  Yes
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 2.00
+
+EMD Amount 100000
+
+                             1 / 11
+
+
+
+ 
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 10.00
+
+Duration of ePBG required (Months). 38
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+Senior Admin Officer II
+Bangalore/south, Department of Defence Reseach & Development, AERONAUTICAL DEVELOPMENT
+AGENCY, Ministry of Defence
+(Balasubramanyam H S)
+
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 50% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Workstation ( 4 pieces )
+
+                             2 / 11
+
+
+
+ 
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Processor Processor Make Intel Intel
+
+Processor
+Generation
+
+NA 7, 8, 9, NA, 10 Or
+higher
+
+Number of Cores per
+Processor
+
+18 18, 20, 22, 24, 26, 28,
+30, 32 Or higher
+
+Processor Base
+Frequency (GHz)
+
+3.1 3.1, 3.2, 3.3, 3.4, 3.5,
+3.6, 3.7, 3.8, 3.9, 4,
+4.1, 4.2, 4.3 Or higher
+
+Processor Turbo
+Frequency (GHz)
+
+4 *
+
+Processor
+Description
+
+Intel Xeon Gold Series Intel Xeon Gold Series,
+Intel Xeon Platinum
+Series Or higher
+
+Processor Number Intel Xeon Gold 6254 Intel Xeon Platinum
+8168, Intel Xeon
+Platinum 8170, Intel
+Xeon Platinum 8176,
+Intel Xeon Platinum
+8180, Intel Xeon Gold
+6252, Intel Xeon Gold
+6254, Intel Xeon
+Platinum 8260, Intel
+Xeon Platinum 8260L,
+Intel Xeon Platinum
+8260M, Intel Xeon
+Platinum 8268, Intel
+Xeon Platinum 8270,
+Intel Xeon Platinum
+8276, Intel Xeon
+Platinum 8276L, Intel
+Xeon Platinum 8276M,
+Intel Xeon Platinum
+8280, Intel Xeon
+Platinum 8280L, Intel
+Xeon Platinum 8280M,
+Intel Xeon Platinum
+8260Y Or higher
+
+Number of sockets
+available on the
+motherboard
+
+2 *
+
+Number of Sockets
+populated with the
+Processors
+
+2 2 Or higher
+
+Cache (MB) 24.75 24.75 - 64.0 Or higher
+
+                             3 / 11
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/XywpS0DToC09Cz7lmrJg8Oqo4iWMFtmZwGvKrpZqeKo
+
+
+ 
+
+Out of Band
+Management
+
+NA *
+
+Type Form Factor Desktop Desktop
+
+Motherboard Chipset Number Intel C621 Intel C621, Intel C622,
+Intel C624, Intel X99,
+Intel X299 Or higher
+
+Expansion Slots (PCIe x
+1) (Number)
+
+1 *
+
+Expansion Slots (PCIe x
+4) (Number)
+
+1 *
+
+Expansion Slots (PCIe x
+8) (Number)
+
+1 *
+
+Expansion Slots (PCIe x
+16) (Number)
+
+4 *
+
+Expansion Slots (PCI)
+(Number)
+
+0 *
+
+Graphics Graphics Type Dedicated/Discrete Dedicated/Discrete
+
+Number of Graphic
+Cards
+
+1 1, 2, 3, 4 Or higher
+
+Graphic Card
+Description
+
+nVIDIA Quadro RTX
+5000 16GB
+
+nVIDIA Quadro P5000
+16GB, nVIDIA Quadro
+RTX 5000 16GB, nVIDIA
+Quadro P6000 24GB,
+nVIDIA Quadro GP100
+16GB, nVIDIA Quadro
+RTX 6000 24GB, nVIDIA
+Quadro RTX 8000
+48GB, nVIDIA Quadro
+GV100 32GB, nVIDIA
+Tesla V100 SXM2 32GB
+Or higher
+
+Operating System Operating System
+(Factory Pre-Loaded)
+
+Windows 10
+Professional 64 bit
+
+Windows 10
+Professional 64 bit
+
+Recovery Image Media CD from the OEM /
+Stored in Partition of
+the Hard Disk / USB
+Drive from the OEM /
+On Line / Cloud
+
+*
+
+OS Certification Windows,Ubuntu
+Linux,Redhat Linux
+
+*
+
+Applications Applications
+Compatible with the
+Workstation (Requisite
+document may be
+furnished as and when
+demanded by the
+buyer)
+
+Adobe After Effects
+CS/CC,Adobe Illustrator
+CC,Adobe Media
+Encoder CS/CC,Adobe
+Photoshop
+CS/CC,Adobe Premiere
+Pro CS/CC,Adobe
+SpeedGrade
+CC,Autodesk
+AutoCAD,Autodesk
+
+*
+
+                             4 / 11
+
+
+
+ 
+
+Inventor,Autodesk
+Maya,Autodesk
+MotionBuilder,Autodesk
+Mudbox,Avid Media
+Composer,Dassault
+Systèmes
+SolidWorks,Dassault
+Systèmes CATIA,PTC
+Creo,Siemens
+NX,Bentley
+MicroStation,ANSYS
+Fluent,ANSYS
+Workbench,Sonar
+Cakewalk,Maxon
+Cinema 4D,Landmark
+DecisionSpace,G1
+Autodesk
+Revit,Autodesk 3ds
+Max,Unreal Engine 4 by
+Epic Games
+
+Memory RAM Type DDR4 *
+
+RAM Speed (MHz) 2933 *
+
+Type of Memory ECC RDIMM *
+
+RAM Size (GB) 256 256, 512, 1024, 2048,
+3072, 4096, 384, 768,
+1536 Or higher
+
+Total Numbers of DIMM
+Slots Available
+
+24 *
+
+Number of DIMM Slots
+Populated
+
+4 *
+
+RAM Expandability
+upto using spare
+DIMM Slots (GB)
+
+1024 1024, 3072, 4096,
+1536, 2048 Or higher
+
+Primary Storage /Boot
+Drive
+
+Type of Drives used
+to populate the
+internal Bays
+
+SAS SAS
+
+Number of Drives 3 *
+
+RAID for Operating
+System
+
+NA 0, 1, NA
+
+Capacity of each
+Drive (GB)
+
+4000 4000, 4096, 8000,
+6000 Or higher
+
+Secondary Storage Type of Drives used
+to populate the
+Internal Bays
+
+PCIe PCIe
+
+Total number of
+Internal Bays available
+for SATA Drive
+
+0 *
+
+Number of Internal
+Bays populated with
+SATA Drive
+
+0 *
+
+                             5 / 11
+
+
+
+ 
+
+Each SATA Drive
+Capacity (GB)
+
+0 500, 1000, 2000, 4000,
+8000, 0, 6000 Or
+higher
+
+Speed of each SATA
+Drive (RPM)
+
+0 *
+
+Total SATA Drive
+Capacity (GB)
+
+0 *
+
+Total number of
+Internal Bays available
+for SAS Drive
+
+7 *
+
+Number of Internal
+Bays populated with
+SAS Drive
+
+0 *
+
+Capacity of each SAS
+Drive (GB)
+
+0 300, 600, 900, 1200,
+1800, 800, 0, 4000 Or
+higher
+
+Speed of each SAS
+Drive (RPM)
+
+7200 *
+
+Total SAS Drive
+Capacity (GB)
+
+0 300, 600, 900, 1200,
+1800, 2100, 0, 4000 Or
+higher
+
+Total number of
+Internal Bays available
+for SSD
+
+0 *
+
+Number of Internal
+Bays populated with
+SSD Drive
+
+0 *
+
+Capacity of each SSD
+Drive (GB)
+
+0 128, 256, 512, 1024,
+2048, 800, 0 Or higher
+
+Total SSD Capacity
+(GB)
+
+0 128, 256, 384, 512,
+768, 1024, 2048, 4096,
+0, 5120 Or higher
+
+Total number of
+Internal Bays available
+for PCIe SSD
+
+1 *
+
+Number of Internal
+Bays populated with
+PCIe Drive
+
+1 1, 2, 3, 4, 5, 6, 7, 8 Or
+higher
+
+Capacity of each
+PCIe Drive (GB)
+
+512 512, 1024, 2048 Or
+higher
+
+Total PCIe Drive
+Capacity (GB)
+
+512 512, 1024, 2048, 4096,
+1536 Or higher
+
+Class of PCIe Drives Class 40 *
+
+RAID RAID level 0,1,5,1+0 *
+
+Number of RAID
+Controller Ports
+
+8 8, 10 Or higher
+
+Speed of RAID 12 12 Or higher
+
+                             6 / 11
+
+
+
+ 
+
+Controller Ports
+(Gbps)
+
+RAID Controller Cache
+(GB)
+
+0 *
+
+Connectivity Type of Ethernet Ports Dual Gigabit NIC
+10/100/1000
+
+*
+
+Number of Ethernet
+Ports
+
+2 2, 3, 4, 6 Or higher
+
+Wireless
+Connectivity
+
+No Yes, No Or higher
+
+If Yes, Type of
+Wireless
+Connectivity
+
+NA Wi-Fi 802.11b/g/n, Wi-Fi
+802.11ac, NA Or higher
+
+Bluetooth
+Connectivity
+
+No Yes, No Or higher
+
+If Yes, Version of
+Bluetooth Available
+
+0 4, 4.1, 4.2, 5, 0 Or
+higher
+
+Ports Number of USB Version
+2 Point 0 Ports
+
+0 *
+
+Number of USB Version
+3 point 0 / 3 point 1,
+Gen 1 Ports
+
+8 *
+
+Number of USB Version
+3 point 1, Gen 2 Ports
+
+0 *
+
+Number of USB Type C
+Ports
+
+2 *
+
+Number of VGA Ports 0 *
+
+Number of HDMI Ports 0 *
+
+Number of Mini DP
+Ports
+
+0 *
+
+Number of DP Ports 4 *
+
+Display Display Availability Monitor Monitor
+
+Display Size (cm) 58- 61 58- 61, 63 - 67, 68- 71,
+72- 81, 82 - 87, 88 - 93,
+94 - 97, 98 - 105, 107 -
+110, 111 - 115, 116 -
+120, 121 - 125, 126 -
+130 Or higher
+
+Display Type Non Touch Non Touch, Touch Or
+higher
+
+Panel Type Flat Flat, Curved, NA Or
+higher
+
+Panel Technology IPS IPS, OLED Or higher
+
+Display Resolution
+(Pixels)
+
+3840 x 2160 3840 x 2160, 7680 x
+4320 Or higher
+
+                             7 / 11
+
+
+
+ 
+
+LED Backlit Yes *
+
+TCO Compliance for
+Monitor
+
+TCO 07 *
+
+Colour Gamut 99% sRGB *
+
+Monitor Stand Height Adjustable *
+
+Power Maximum Power
+(Watts)
+
+1400 *
+
+Minimum Power
+Efficiency (%)
+
+- *
+
+Power Management
+Unit
+
+Yes *
+
+Redundant Power
+Supply
+
+No Yes, No Or higher
+
+Input Devices Mouse Connectivity, If
+available
+
+Wired *
+
+Type of Mouse, If
+available
+
+Optical Scroll *
+
+Keyboard Connectivity,
+if available
+
+Wired *
+
+Type of Keyboard, if
+available
+
+Standard with Rupee
+Symbol
+
+*
+
+Type of Keyboard in
+case of Mobile
+Workstation
+
+NA *
+
+Generic Optical Drive - *
+
+Number of External
+Bays
+
+2 *
+
+Security S/W Based *
+
+Docking Station for
+Mobile Workstation
+
+No *
+
+Availability of Bundled
+Software
+
+Yes *
+
+Type of Bundled
+Software
+
+Artificial Intelligence
+Based Performance
+Improvement Software
+
+*
+
+Finger Print Reader in
+case of Mobile
+Workstation
+
+NA *
+
+Carry Case in case of
+Mobile Workstation
+
+NA *
+
+Certification BIS Registration under
+CRS of Meity (Requisite
+certificate may be
+furnished as and when
+demanded by the
+buyer)
+
+Yes *
+
+                             8 / 11
+
+
+
+ 
+
+BIS Registration
+Number and its Validity
+
+- *
+
+ROHS Compliance Yes *
+
+Other Certification
+Available (Requisite
+certificate may be
+furnished as and when
+demanded by the
+buyer)
+
+- *
+
+Operating Conditions Minimum Operating
+Temperature (Degree
+C)
+
+10 *
+
+Maximum Operating
+Temperature (DEgree
+C)
+
+35 *
+
+Minimum Operating
+Humidity (%RH)
+
+20 *
+
+Maximum Operating
+Humidity (%RH)
+
+80 *
+
+Warranty Battery Warranty in
+case of Mobile
+Workstation
+
+0 *
+
+On Site OEM
+Warranty (Year)
+
+3 3, 4, 5 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********BANGALORE 4  30
+
+Bid Specific Additional Terms and Conditions
+
+1. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+2.Malicious Code Certificate:
+
+The seller should upload following certificate in the bid:-
+
+                             9 / 11
+
+
+
+ 
+
+(a) This is to certify that the Hardware and the Software being offered, as part of the
+contract, does not contain Embedded Malicious code that would activate procedures to :-
+  (i) Inhibit the desires and designed function of the equipment.
+  (ii) Cause physical damage to the user or equipment during the exploitation.
+  (iii) Tap information resident or transient in the equipment/network.
+(b) The firm will be considered to be in breach of the procurement contract, in case physical
+damage, loss of information or infringements related to copyright and Intellectual Property
+Right (IPRs) are caused due to activation of any such malicious code in embedded software.
+
+3.Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt
+also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in
+the name of Aeronautical Development Agency, Bengaluru A/C (Name of the Seller). The
+bank should certify on it that the deposit can be withdrawn only on the demand or with the
+sanction of the pledgee. For release of Security Deposit, the FDR will be released in favour of
+bidder by the Buyer after making endorsement on the back of the FDR duly signed and
+stamped along with covering letter. Successful Bidder has to upload scanned copy of the
+FDR document in place of PBG and has to ensure delivery of hard copy of Original FDR to the
+Buyer within 15 days of award of contract.
+
+4.Bidders can also submit the EMD with Account Payee Demand Draft in favour of Aeronautical
+Development Agency, Bengaluru payable at Bengaluru.
+Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure
+delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date.
+
+5.Bidders can also submit the EMD with Fixed Deposit Receipt made out or pledged in the
+name of Aeronautical Development Agency, Bengaluru A/C (Name of the Seller). The bank
+should certify on it that the deposit can be withdrawn only on the demand or with the
+sanction of the pledgee. For release of EMD, the FDR will be released in favour of bidder by
+the Buyer after making endorsement on the back of the FDR duly signed and stamped along
+with covering letter.
+Bidder has to upload scanned copy / proof of the FDR along with bid and has to ensure
+delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date.
+
+6.Bidders can also submit the EMD with Banker’s Cheque in favour of Aeronautical
+Development Agency, Bengaluru payable at Bengaluru.
+Bidder has to upload scanned copy / proof of the BC along with bid and has to ensure
+delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date.
+
+7.Successful Bidder can submit the Performance Security in the form of Account Payee
+Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in
+favour of Aeronautical Development Agency, Bengaluru payable at Bengaluru. After award of
+contract, Successful Bidder can upload scanned copy of the DD in place of PBG and has to
+ensure delivery of hard copy to the original DD to the Buyer within 15 days of award of
+contract.
+
+8.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+9.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+10.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial
+year, should be as indicated in the bid document. Documentary evidence in the form of
+certified Audited Balance Sheets of relevant periods or a certificate from the Chartered
+Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than
+3 year old, the average turnover in respect of the completed financial years after the date of
+constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of
+
+                            10 / 11
+
+
+
+ 
+
+CATEGORY RELATED TO primary product having highest bid value should meet this criterion.
+11.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+12.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+13.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+14.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 3 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+15.Warranty period of the supplied products shall be 3 years from the date of final acceptance
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+16.The Bidder / OEM {themselves or through reseller(s)}, should have executed project for
+supply and installation / commissioning of same or similar Category Products during
+preceding 3 financial years (i.e. current year and three previous financial years) as on
+opening of bid, as per following criteria:
+ 
+(i) Single order of at least 35% of estimated bid value; or
+(ii) Two orders of at least 20% each of estimated bid value; or
+(iii) Three orders of at least 15% each of estimated bid value.
+Satisfactory Performance certificate issued by respective Buyer Organization for the above
+Orders should be uploaded with bid. In case of bunch bids, the Category related to primary
+product having highest bid value should meet this criterion
+
+17.The buyer organization is an institution eligible for concessional rates of GST as notified by
+the Government of India. The goods for which bids have been invited fall under classification
+of GST concession and the conditions for eligibility of concession are met by the institution.
+A certificate to this effect will be issued by Buyer to the Seller after award of the Contract.
+Sellers are requested to submit their bids after accounting for the Concessional rate of GST.
+Applicable Concessional rate of GST : 5%
+Notification No.and date : 45/2017 or 47/2017 dated 14/11/2017
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                            11 / 11
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

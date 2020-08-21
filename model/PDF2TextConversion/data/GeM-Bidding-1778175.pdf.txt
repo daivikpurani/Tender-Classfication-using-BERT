@@ -1,0 +1,435 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/702803
+
+  Dated: 08-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 21-07-2020 16:00:00
+
+Bid Opening Date/Time 21-07-2020 16:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Madhya Pradesh
+
+Department Name Science And Technology (information Technology)
+Department Madhya Pradesh
+
+Organisation Name N/a
+
+Office Name Degs Harda
+
+Total Quantity 1
+
+Item Category Multifunction Machines MFM ( PAC Only ) 
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Multifunction Machines MFM ( 1 pieces ) ( Under PAC ) 
+
+Make hp
+
+Model hplaserjetpromfpm427dwprinterwith1yearswarr
+anty
+
+                               1 / 5
+
+
+
+ 
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Ungrouped Print Technology Laser Laser
+
+Type of Machine Multifunction Machine Multifunction Machine,
+Digital Copier
+
+Type of Printing Mono Mono
+
+Cartridge
+Technology
+
+Composite Cartridge Composite Cartridge,
+Separate Drum and
+Toner (Mono
+Component), Separate
+Drum and Toner (Dual
+Component), Ink Or
+higher
+
+Developer Unit No *
+
+Platen/Flatbed Size A4 A4, A3, Legal Or higher
+
+Paper Size
+(Original/Image)
+
+Legal/Legal A3/A3, A4/A4,
+Legal/Legal
+
+RAM size (MB) 256 *
+
+Hard Disk
+Capacity(GB)
+
+0 *
+
+Minimum Speed per
+Minute as per
+ISO/IEC 24734 in A4
+Size-Mono
+
+38 *
+
+Minimum Speed per
+Minute as per
+ISO/IEC 24734 in A4
+Size-Colour
+
+0 *
+
+Minimum Speed per
+Minute as per ISO/IEC
+24734 in A3 Size-Mono
+
+0 *
+
+Minimum Speed per
+Minute as per ISO/IEC
+24734 in A3 Size-
+Colour
+
+0 *
+
+Scanning Feature
+Availability
+
+Yes Yes Or higher
+
+Duplexing Feature
+Availability
+
+Yes Yes Or higher
+
+Faxing Feature
+Availability
+
+No Yes, No Or higher
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/VauK8XhI8a18jWOMAKZgdWPxd9FV956QOZXpjnxzaKE
+
+
+ 
+
+Speed of Fax, If Fax
+Feature is available
+
+33.6 kbps *
+
+Networking Feature
+Availability
+
+Yes Yes Or higher
+
+If yes, Type of Network
+Interface
+
+Ethernet 10/100/1000 *
+
+Wi-Fi Availability Yes Yes, No Or higher
+
+If yes,Wi-Fi Type Wi Fi Direct *
+
+Original Document
+Feeder Type
+
+ADF ADF, DADF/RADF, SPDF
+Or higher
+
+Feeder Capacity
+(Number)
+
+50 *
+
+Number of Main
+Paper Tray
+
+1 1, 2, 3, 4, 5 Or higher
+
+Each Main Paper Tray
+Capacity (Number)
+
+250 *
+
+Bypass Facility Yes Yes, No Or higher
+
+If Yes, Bypass Tray
+Capacity
+
+100 *
+
+Yield of the
+cartridge/Ink Tank/Ink
+Pack supplied with
+Machine as per ISO/IEC:
+19798/2007(E) for
+Cyan colour (Number of
+prints)
+
+0 *
+
+Yield of the
+cartridge/Ink Tank/Ink
+Pack supplied with
+Machine as per ISO/IEC:
+19798/2007(E) for
+Yellow colour (Number
+of prints)
+
+0 *
+
+Yield of the
+cartridge/Ink Tank/Ink
+Pack supplied with
+Machine as per ISO/IEC:
+19798/2007(E) for
+Magenta colour
+(Number of prints)
+
+0 *
+
+Yield of the
+cartridge/Ink Tank/Ink
+Pack supplied with
+Machine as per ISO/IEC:
+19752/2004(E) for
+Black (Number of
+prints)
+
+3000 *
+
+Life of Drum in terms of
+number of Prints in
+
+0 *
+
+                               3 / 5
+
+
+
+ 
+
+case of Separate Drum
+and Toner cartridge
+technology - Cyan
+(Number of Prints)
+
+Life of Drum in terms of
+number of Prints in
+case of Separate Drum
+and Toner cartridge
+technology - Yellow
+(Number of Prints)
+
+0 *
+
+Life of Drum in terms of
+number of Prints in
+case of Separate Drum
+and Toner cartridge
+technology - Magenta
+(Number of Prints)
+
+0 *
+
+Life of Drum in terms of
+number of Prints in
+case of Separate Drum
+and Toner cartridge
+technology - Black
+(Number of Prints)
+
+0 *
+
+Duty Cycle (No of
+Prints/month)
+
+80000 *
+
+Minimum Operating
+Temperature (Degree
+C)
+
+15 *
+
+Maximum Operating
+Temperature (Degree
+C)
+
+32.5 *
+
+Minimum Operating
+Humidity (%RH)
+
+10 *
+
+Maximum Operating
+Humidity (%RH)
+
+80 *
+
+BIS Registration under
+CRS of Meity
+
+Yes *
+
+BIS Registration
+Number
+
+R-41001554 *
+
+Other Certifications
+Available
+
+UL,CE *
+
+Dimension (mm x mm
+x mm)
+
+420 x 390 x 323 mm *
+
+Weight (Kg) 12.86 *
+
+On Site OEM
+Warranty (Year)
+
+1 1, 2, 3, 4, 5 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+                               4 / 5
+
+
+
+ 
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Sushil
+Vishwakarma
+
+461331,Room No. 08,
+Chhipaner Road, Collector
+Office, Harda
+
+1  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

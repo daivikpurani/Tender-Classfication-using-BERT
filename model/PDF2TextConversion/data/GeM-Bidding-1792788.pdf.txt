@@ -1,0 +1,396 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/716084
+  Dated: 18-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 28-07-2020 13:00:00
+
+Bid Opening Date/Time 28-07-2020 13:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Labour And Employment
+
+Department Name Na
+
+Organisation Name Employees State Insurance Corporation (esic)
+
+Office Name Hyderabad
+
+Total Quantity 2000
+
+Item Category ECG Electrodes
+
+Experience Criteria  1 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Document required from seller  Experience Criteria
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the
+buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM {themselves or
+through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central
+/ State Govt Organization / PSU / Public Listed Company for number of years as indicated in the bid document before the
+bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some
+quantity during each of the year. In case of bunch bids, the category of primary product having highest value should
+meet this criterion.
+
+                               1 / 4
+
+
+
+ 
+
+ECG Electrodes ( 2000 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERAL Type Foam ECG Electrodes *
+
+Usage Adult *
+
+Shape - *
+
+Disposable Yes *
+
+PRODUCT INFORMATION Number of Channels 5 5
+
+Number of Leads 5 5
+
+MRI Conditional Yes *
+
+X-ray Translucence Yes *
+
+Integrated Abrader Yes *
+
+Repositionability Yes *
+
+RoHS Compliant Yes *
+
+REACH Compliant Yes *
+
+DIMENSIONAL PARAMETERS Sensor (Eyelet) Diameter
+(mm)
+
+10.59 10.59
+
+Size (excluding grip)
+(mm)
+
+- 57.15
+
+Electrode dia (mm) 38.1 38.1
+
+Electrode Size (mmxmm) 31.75x31.75 31.75x31.75
+
+Total Product Surface
+Area
+
+38.9 38.9
+
+Gel Area 7.79 *
+
+Adhesive Area 38.9 38.9
+
+Substrate Thickness
+(adapter excluded)(mm)
+
+0.127 0.127
+
+Integrated Lead wire Without Without
+
+Integrated Lead Wire
+length (Cm)
+
+NA NA
+
+Integrated Lead Wire color NA *
+
+MATERIAL &
+CHARACTERSTICS
+
+Substrate Material Polyethylene Foam Polyethylene Foam
+
+Foam (Sponge)
+Material of electrode
+(Latex free
+Hypoallergenic medical
+grade)
+
+Polyurethane Reticulated
+Foam
+
+Polyurethane Reticulated
+Foam
+
+Adhesive material,
+medical grade
+
+Foam Foam
+
+Gentle adhesion without risk
+of skin trauma
+
+Yes *
+
+Non-irritant, non-allergic gel
+type
+
+Solid *
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/7UQXkO4dkgxJbPU329T2eGeaORyVVn1R2PB0NJHNQ98
+
+
+ 
+
+Release Liner PET *
+
+Sensor Polymer Ag/AgCl plated ABS *
+
+Adaptor / Connector (Stud) Stainless Steel *
+
+Carbon snap Yes *
+
+ELECTRICAL PERFORMANCE ACZ impedance (before
+defib simulation) @ 10Hz
+(Ohm)
+
+26 26
+
+ACZ impedance repeat
+(after defib simulation)
+(Ohm)
+
+25 25
+
+DC Offset Voltage
+(before defib simulation)
+(mV)
+
+0.38 0.38
+
+SDR Slope (remaining
+potential after defib)
+@30 Sec int (mV/Sec)
+
+0.07 0.07
+
+COIIN: (Combined offset
+instability and inner
+noise) (Micro Volt)
+
+6 6
+
+Bias Current Tolerance
+(DC offset voltage after
+DC loading) (mV)
+
+6 6
+
+STANDARD Product Conformity to
+standard
+
+EU-CE EU-CE
+
+ISI Marked No *
+
+CM/L Number (if product is
+ISI marked)
+
+0 *
+
+PACKING MODE Packing Wrapped in a foil and
+packed in a resealable
+Polyethylene pouch
+
+*
+
+Number of electrodes in a
+pouch
+
+500 *
+
+CERTIFICATIONS Submission of Test Report
+from Central Government
+/NABL/ILAC accredited Lab
+or Manufacture's inhouse
+Test Report to prove the
+conformity to declared
+specification at the time of
+supply
+
+Yes *
+
+Compliance to
+Biocompatibility to ISO
+10993
+
+Yes *
+
+Certification Available - *
+
+Submission of all the
+certifications to the buyer
+along with supplies on
+demand
+
+Yes *
+
+Product Shelf life
+(months)
+
+36 36
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+                               3 / 4
+
+
+
+ 
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Keerthi A 500038,ESIC SSH SANATHNAGAR 2000  15
+
+Bid Specific Additional Terms and Conditions
+1.Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have regularly,
+
+manufactured and supplied same or similar Category Products to any Central / State Govt Organization / PSU /
+Public Listed Company for 1 year before the bid opening date. Copies of relevant contracts to be submitted along
+with bid in support of having supplied some quantity during each of the year. In case of bunch bids, the primary
+product having highest value should meet this criterion.
+
+2.OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25
+percent at the time of placement of contract. The purchaser also reserves the right to increase the ordered
+quantity by up to 25% of the contracted quantity during the currency of the contract at the contracted rates.
+Bidders are bound to accept the orders accordingly.
+
+3.IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered
+office in India to provide after sales service support in India. The certificate to this effect should be submitted.
+
+4.For clothing and allied items, if pre-dispatch Inspection clause has been selected in the Bid, the Inspection
+Agency shall forward sample from the accepted lot duly identified/ sealed by it, as Reference Sample to each
+consignee (one reference sample per consignee) for comparing the lot received at consignee end with such
+reference sample. Such reference samples will be treated as part of supplied quantity from the lot and cost shall
+be borne by the Buyer.
+
+5.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+6.Material Test Certificate Should Be Sent Along with The Supply. The Material Will Be Checked by Buyer’s Lab &
+
+the Results of the Lab will be the Sole Criteria for Acceptance of the Item.
+7.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone
+
+No. for Service Support.
+8.For fulfilling the experience criteria any one of the following documents may be considered as valid proof for
+
+meeting the experience criteria:
+a. Purchase Order copy along with Invoice(s) with self-certification by the bidder that supplies against the
+invoices have been executed.
+b. Execution certificate by client with order value.
+c. Any other document in support of order execution like Third Party Inspection release note, etc.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

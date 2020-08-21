@@ -1,0 +1,382 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/714311
+  Dated: 17-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 12:00:00
+
+Bid Opening Date/Time 27-07-2020 12:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Railways
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Office Of The Principal Chief Materials Manager, East Coast
+Railway, North Block, 2nd Floor, Chandrasekharpur,
+Bhubaneswar-751017.
+
+Total Quantity 5
+
+Item Category diesel generators- DG Sets
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Document required from seller  Past Performance,OEM Authorization Certificate
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the
+buyer
+
+Past Performance  20 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+1. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have supplied same or similar
+Category Products for 20% of bid quantity, in at least one of the last three years before the bid opening date to any
+Central / State Govt Organization / PSU / Public Listed Company. Copies of relevant contracts (proving supply of
+cumulative order quantity in any one year) to be submitted along with bid in support of quantity supplied in the relevant
+year. In case of bunch bids, the category related to primary product having highest bid value should meet this criterion.
+
+                               1 / 4
+
+
+
+ 
+
+Diesel Generators- DG Sets ( 5 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+OUTPUT CAPACITY RATING/
+PHASE
+
+Nominal Rated Capacity
+(KVA)
+
+5 5, 7.5, 10, 15, 20, 25, 30,
+40, 62.5, 82.5, 100, 125,
+160, 180, 200, 250, 320,
+380, 400, 500, 600, 750, 50,
+140, 75 Or higher
+
+No of Phase - Single phase
+
+ENGINE Make of Engine - *
+
+Model Number of Engine - *
+
+Capacity of Engine (cc) - *
+
+Engine Power (kWm) - *
+
+ISI Marking to IS :10001 for
+engine
+
+No *
+
+BIS license No, if applicable - *
+
+Type of Engine cooling Air Cooled Air Cooled
+
+Type of governer Mechanical Mechanical, Electronic Or
+higher
+
+Class of governer A2 A0, A1, A2 Or higher
+
+Number of cylinders (nos) 1 *
+
+No of Strokes (nos) 4 *
+
+Rated RPM of Engine
+(RPM)
+
+- 1500
+
+Overload capacity for one
+hour for every 11 hours
+continuous running at full
+load (%)
+
+10 *
+
+Specific Fuel Consumption
+(gm/kWh)
+
+- *
+
+Starting voltage (volt) 12 *
+
+ALTERNATOR AC
+GENERATOR(ALTERNATOR)
+Make
+
+- *
+
+AC
+GENERATOR(ALTERNATOR)
+model Number
+
+- *
+
+Rating of AC Generator
+(KVA)
+
+5 *
+
+Power Factor of AC
+generator
+
+0.8 *
+
+Efficiency at rated Power
+factor at 75% of full Load
+
+89 *
+
+Compliance of Alternator to
+IS:13364(part-1)
+
+Yes *
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/2tZysZlRrAp3_lin04Jt3LJUSXdPoQAR84zle5S_7eE
+
+
+ 
+
+Type of alternator Brushless *
+
+Voltage Regulation Grade VG 3 *
+
+Alternator IP Rating IP 23 *
+
+Class of Insulation H *
+
+CONTROL PANEL Control Panel Manual Manual
+
+IP Rating of Control Panel IP 54 *
+
+ACOUSTIC ENCLOSURE Sheet Thickness 1.6 1.6, 1.8, 2 Or higher
+
+Thickness of Foam 25 *
+
+Density of Foam for sound
+insulation
+
+28 *
+
+Noise level at 1 meter (dB) 75 *
+
+BATTERY Battery Type & Specification Low Maintenance free to IS:
+14257 for high cranking
+performance
+
+*
+
+Battery capacity (Ah) - *
+
+No of batteries 1 *
+
+TEST REPORTS Availability of Type test
+report for Engine from
+Central govt/NABL/ILAC
+accredited laboratory
+
+Yes *
+
+Test Report number and
+date(Engine)
+
+- *
+
+Name and address of
+laboratory(Engine)
+
+- *
+
+Availability of Type test
+report for Alternator from
+Central
+government/NABL/ILAC
+accredited laboratory
+
+Yes *
+
+Test Report number and
+date(Alternator)
+
+- *
+
+Name and address of
+laboratory(Alternator)
+
+- *
+
+DG set meet requirements
+of
+Environmental(Protection)
+Rules 1986, in respect of
+noise and emission norms,
+as described in STC
+
+Yes *
+
+WARRANTY / INSTALLATION
+& COMMISSIONING
+
+Warranty 1 1.0
+
+Installation &
+Commissioning
+
+Without Installation With Installation, Without
+Installation
+
+Agreed to STC of the
+Product
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+                               3 / 4
+
+
+
+ 
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Biswajit Sahu 751017,Office of the Dy. Chief
+Materials Manager (CRW). East
+Coast Railway, Chandrasekharpur,
+Mancheswar, Bhubaneswar.
+Pin-751017.
+
+5  45
+
+Special terms and conditions for category diesel generators- DG Sets 
+
+1.In addition to General Terms and Conditions of GeM, Special T&C shall be applicable for Diesel Generating
+Set/DG Set. click here to view the Special terms and conditions.
+
+Bid Specific Additional Terms and Conditions
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of
+
+Goods
+2.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each
+
+Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If
+service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one
+within 30 days of award of contract. Payment shall be released only after submission of documentary evidence
+of having Functional Service Centre.
+
+3.Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection
+Agency would be conducting inspection of stores before acceptance:
+Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in
+ATC): RITES
+Post Receipt Inspection at consignee site before acceptance of stores: Consignee for Installation and
+commissioning 
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

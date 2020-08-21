@@ -1,0 +1,518 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/715569
+  Dated: 17-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 19:00:00
+
+Bid Opening Date/Time 27-07-2020 19:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Army
+
+Office Name ***********
+
+Total Quantity 1
+
+Item Category e rickshaw passenger
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the
+buyer
+
+Past Performance  80 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+Estimated Bid Value  150000
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM {themselves or
+through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central
+/ State Govt Organization / PSU / Public Listed Company for number of years as indicated in the bid document before the
+bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some
+quantity during each of the year. In case of bunch bids, the category of primary product having highest value should
+meet this criterion.
+
+                               1 / 5
+
+
+
+ 
+
+2. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have supplied same or similar
+Category Products for 80% of bid quantity, in at least one of the last three years before the bid opening date to any
+Central / State Govt Organization / PSU / Public Listed Company. Copies of relevant contracts (proving supply of
+cumulative order quantity in any one year) to be submitted along with bid in support of quantity supplied in the relevant
+year. In case of bunch bids, the category related to primary product having highest bid value should meet this criterion.
+
+E Rickshaw Passenger ( 1 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+certification Parameters Vehicle Certification ICAT VRDE, ICAT, ARAI, OTHERS
+
+If Vehicle Certification from
+Others Agency ,Name of the
+Agency otherwise put NA
+
+- *
+
+Vehicle Certification
+Number and Date
+
+- *
+
+Generic Parameters Type of E Rickshaw Fully Electric, Battery
+Operated Motor Driven
+
+Fully Electric, Battery
+Operated Motor Driven
+
+Model Number of E-
+Rickshaw
+
+- *
+
+The E rickshaw Must
+Fabricated From Good
+Quality Steel properly
+Painted to avoid Rusting for
+more than 5 Years,
+
+Yes *
+
+Name and Grade of Steel
+from which E Rickshaw Body
+Framed
+
+- *
+
+Kerb Weight of E-
+Rickshaw (kg)
+
+228 228.0
+
+Laden Weight &( Kerb
+Weight + Loading
+Capacity including driver
+passenger and luggage)
+(kg)
+
+725 350 - 3000
+
+Run Distanc( for a Full
+Charge of Battery , to be
+tested with full load at
+maximum AIS-040 ))(km)
+
+76 50 - 9999999
+
+Ground Clearance as per
+IS : 9435 (mm)
+
+200 180 - 9999999
+
+Turning Radius (mm) 2050 Any applicable numeric
+value
+
+Wheel Base (mm) 2010 Any applicable numeric
+value
+
+Power Transmission from
+Motor Shaft to Wheels
+
+Direct Mounting *
+
+Please Specify the
+Mechanical Mechanism
+otherwise Put NA
+
+- *
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/H42l7SmUUZUajaceJKLiPQDRO4PTc2Z8u1ZEENDgBKM
+
+
+ 
+
+Material of the roof of E-
+Rickshaw
+
+others Aluminium, MS, Fibre Glass
+of Good Quality,
+Combination of Fibre Glass
+with good Quality Metal,
+others
+
+Thickness of Material of
+Sheet used for Roof of E-
+Rickshaw (mm)
+
+0 Any applicable numeric
+value
+
+Type of Battery as per
+AIS-048
+
+Lead Acid, EV Grade,Tubular
+Deep Discharge
+
+Lead Acid, EV Grade,Tubular
+Deep Discharge, Lithium ion
+
+Capacity of the Battery
+approved by ICAT/ARAI
+(Ah)
+
+120 0 - 9999999
+
+Battery Voltage ,Nominal
+(Volts)
+
+48V 48V
+
+The Mounting of
+Batteries in E- vehicles
+
+Yes Yes
+
+Maximum Overall
+Dimensions of the Battery (
+L x Wx H ) (mm3)
+
+- *
+
+Nominal Filled Weight of
+the Battery (kg)
+
+150 Any applicable numeric
+value
+
+Motor Controller( Must
+Suitable for starting,
+accelerating, decelerating,
+driving , and stopping of E
+Vehicle
+
+- *
+
+Battery Charger 220/230 V Nominal Input
+Voltage , High Efficiency
+Type
+
+220/230 V Nominal Input
+Voltage , High Efficiency
+Type
+
+Charging Current
+(Ampere)
+
+15 Any applicable numeric
+value
+
+Type of Motor Brushless DC Motor Brushless DC Motor
+
+Motor Output Power 48V
+at Full Load (watt)
+
+1500 850 - 2000
+
+Overall Efficiency of the
+E Rickshaw ( to be tested
+at Full Load with
+maximum speed as per
+Concerned AIS standards
+(%)
+
+76 75 - 100
+
+Gradeability of E-
+Rickshaw
+
+Yes Yes
+
+Material of the roof of E-
+Rickshaw, if others please
+specify the material
+Otherwise put NA
+
+- *
+
+Vehicle Integration
+packing of Electrical and
+electronics
+
+Yes Yes
+
+Seat Must be Good
+Quality with Proper
+cushioning
+
+Yes Yes
+
+Constructional Parameters Seating Capacity
+(Passengers + Driver)
+
+4 +1 4 +1
+
+Length of E -Rickshaw as 2.8 0 - 2.8
+
+                               3 / 5
+
+
+
+ 
+
+per Gazette Notification
+by Ministry of Road and
+Transport Oct , 2014
+(meters)
+
+Width of E -Rickshaw as
+per Gazette Notification
+by Ministry of Road and
+Transport Oct 2014
+(meters)
+
+1 0 - 1
+
+Size of Front Tyre (mm) - *
+
+Size of Rear Tyre (mm) - *
+
+Brake Type ( Rear ) - *
+
+Brake Type (Front) - *
+
+Suspension System (Rear) - *
+
+Suspension System ( Front) - *
+
+Glass Windshield with
+wiper motor as approved
+by ICAT/ARAI
+
+Yes Yes
+
+Battery Make as per AIS
+:048:2009
+
+Exide Okaya, Exide, Ceil, Amaron,
+Others
+
+If others please specify the
+Name of Brand Otherwise
+put NA (as per AIS 048
+2009)
+
+- *
+
+Equipped with Start and
+Stop Button, parking
+Lights , Back lights with
+Reverse Gear Facility
+
+Yes Yes
+
+Equipped with Fire
+Extinguisher
+
+Yes Yes, No
+
+Vehicle lighting System Filament based Filament based, LCD Based,
+LED Based
+
+Reverse Gear Facility Yes Yes
+
+Yellow Color reflective
+tape on Front and Rear
+Side of the Vehicle
+
+Yes Yes
+
+Equipped with First Aid
+Box
+
+Yes Yes, No
+
+Instrument Panel
+Containing Speedometer
+and Battery Charging
+Indicator
+
+Yes Yes
+
+Numbers for Roof
+Handles to ease
+passengers entry and
+Ride
+
+6 4, 5, 6
+
+performance Parameters Speed of the E- Rickshaw as
+per CMVR -2014 with latest
+amndmt (to be tested with
+Full Load ) (kmph)
+
+24 *
+
+Battery Warranty 1 1, 2, 3
+
+No. Of Free Service 1 1, 2, 3, 4, 5
+
+Complaince of Centre of
+Gravity of Vehicle as a
+Compulsory Norms for
+
+Yes Yes
+
+                               4 / 5
+
+
+
+ 
+
+Safety
+
+Confirming to Applicable
+Environmental Test
+
+Yes Yes
+
+Noise level must be Low
+during Operation
+
+Yes Yes
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********JAISALMER 1  15
+
+Bid Specific Additional Terms and Conditions
+1.For fulfilling the experience criteria any one of the following documents may be considered as valid proof for
+
+meeting the experience criteria:
+a. Purchase Order copy along with Invoice(s) with self-certification by the bidder that supplies against the
+invoices have been executed.
+b. Execution certificate by client with order value.
+c. Any other document in support of order execution like Third Party Inspection release note, etc.
+
+2.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last three
+years, ending on 31st March of the previous financial year, should be as indicated in the bid document.
+Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from
+the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution shall be taken into
+account for this criteria.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

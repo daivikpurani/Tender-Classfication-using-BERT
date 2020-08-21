@@ -1,0 +1,923 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   RA Number: GEM/2020/RA/44766
+
+  Dated: 09-07-2020
+
+  
+
+RA Document
+RA Details
+
+RA Technical End Date/Time 20-07-2020 09:00:00
+
+RA Opening Date/Time 20-07-2020 09:30:00
+
+RA Life Cycle (From Publish Date) 90 (Days)
+
+RA Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Uttar Pradesh
+
+Department Name Urban Development Department Uttar Pradesh
+
+Organisation Name E-municipalities - Eservices To Citizens And
+Employees Of Urban Local Bodies Of Uttar Pradesh
+
+Office Name Nagar Palika Baruasagar
+
+Total Quantity 1
+
+Item Category DC SPV Deep Well (Submersible) Pumping Systems
+
+Experience Criteria  1 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  10 %
+
+Inspection Required  No
+
+Estimated RA Value  550122
+
+EMD Detail
+
+Advisory Bank ICICI
+
+EMD Percentage(%) 5.00
+
+EMD Amount 27506
+
+ePBG Detail
+
+                             1 / 11
+
+
+
+ 
+
+Required No
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+Lekh Lipik
+nagar palika baruasagar, Urban Development Department Uttar Pradesh, e-Municipalities -
+eServices to citizens and Employees of Urban Local Bodies of Uttar Pradesh ,
+(Sandeep Singh Sengar)
+
+Splitting
+
+ RA splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 10% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+DC SPV Deep Well (Submersible) Pumping Systems ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+PV ARRAY Operation of SPV
+Pumping System
+
+The SPV water
+pumping system should
+be operated with a
+required PV array
+
+*
+
+                             2 / 11
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/WmoYzE7SvjkmK88m8Ih-r7aHcSgGDYeP2xEXy8y5bew
+
+
+ 
+
+capacity measured
+under Standard Test
+Conditions (STC).
+
+Number of modules in
+series and parallel used
+to obtain the required
+PV array power output
+
+3 *
+
+Power output of
+individual PV modules
+used in the PV array,
+under STC (Watts peak,
+Wp)
+
+320 *
+
+Source of PV Module Indigenously produced
+PV module (s)
+containing mono/ multi
+crystalline silicon solar
+cells
+
+*
+
+PV module certification Certificate as per IEC
+61215 specifications or
+equivalent National or
+International/
+Standards
+
+*
+
+Safety Qualification
+Testing
+
+Modules must qualify
+to IEC 61730 Part I and
+II for safety
+qualification testing
+
+*
+
+Efficiency of the PV
+module (%)
+
+14 *
+
+Fill factor for PV
+module (%)
+
+70 *
+
+The terminal box on
+the module should
+have a provision for
+“Opening” for replacing
+the cable, if required
+
+Yes *
+
+Dimension of PV
+module (mm x mm x
+mm)
+
+- *
+
+Marking On PV module Name Plate fixed inside
+the module which will
+give: a. Name of the
+Manufacturer or
+Distinctive Logo. b.
+Model Number c. Serial
+Number d. Year of
+manufacture
+
+*
+
+GENERIC Deep Well Solar
+Pumping Systems ,
+With DC Motor Pump
+Set with Brushes or
+Brush Less DC(BLDC)
+
+Solar Photovoltaic
+(SPV) Water Pumping
+Systems comprising PV
+Array, DC Motor Pump
+Set, MPPT(Maximum
+Power Point Tracke)
+
+*
+
+                             3 / 11
+
+
+
+ 
+
+,Electronic Protections ,
+Interconnect Cables
+and “On-Off” switch are
+basically for “Irrigation”
+applications. However,
+these may also be used
+for “Drinking Water
+Applications wherever
+such capacities are
+required”
+
+DC Motor Brush Less
+D.C.(B.L.D.C.)
+
+*
+
+Conformity to Indian
+Standard for Shallow
+Well (Surface) Solar
+Pumping System
+
+Ministry of New and
+Renewable Energy
+,Jawaharlal Nehru
+National Solar Mission
+,Solar Photovoltic
+Water Pumping System
+-2015-16
+
+*
+
+Model Number as
+per MNRE
+specification
+
+Model-I Model-I
+
+Solar PV Water
+Pumps with PV
+module capacity may
+be installed on a
+suitable bore-well /
+open well / Water
+Reservoir / Water
+stream etc
+
+1200 Wp 1200 Wp
+
+Motor Pump Set Submersible motor
+pump with controller
+Capacity
+
+1 1.0
+
+Type of DC Motor Brush Less
+D.C.(B.L.D.C.)
+
+*
+
+Numbers of poles of
+motor
+
+2 *
+
+Motor speed (in rpm) 3200 *
+
+Bore Size 100 *
+
+Delivery Size 32 *
+
+Suction Head 100 *
+
+The suction/ delivery
+pipe (GI/HDPE), electric
+cables, floating
+assembly, civil work
+and other fittings
+required to install the
+Motor Pump set
+
+yes, inclusive *
+
+Material of suction Pipe ISI Marked HDPE Pipe
+to IS 4985
+
+*
+
+                             4 / 11
+
+
+
+ 
+
+Length of Suction Pipe 80 *
+
+Material of Delivery
+Pipe
+
+ISI Marked HDPE Pipe
+to IS 4985
+
+*
+
+Length of Delivery Pipe 150 *
+
+Pump material construction of the
+pump be made using
+parts which have a
+much higher durability
+and do not need
+replacement or corrode
+for at least 5 years.
+
+*
+
+Marking on Motor pump The following details
+should be marked
+indelibly on the motor
+pump set a) Name of
+the Manufacturer or
+Distinctive Logo. b)
+Model Number. c)
+Serial Number.
+
+*
+
+MOUNTING
+STRUCTURES AND
+TRACKING SYSTEM
+
+Mounting on metallic
+structures
+
+The PV modules should
+be mounted on metallic
+structures of adequate
+strength and
+appropriate design
+
+*
+
+Mounting Structure
+Type
+
+Pole type structure *
+
+Strength of mounting
+structure
+
+suitable to withstand
+load of modules and
+high wind velocities up
+to 150 km per hour
+
+*
+
+The support structure
+used in the pumping
+system should be hot
+dip galvanized iron with
+minimum 80 micron
+thickness
+
+Yes *
+
+Tracking system Manual Manual
+
+Arrangement for
+seasonal tilt angle
+adjustment
+
+For manual tracking,
+arrangement for
+seasonal tilt angle
+adjustment and three
+times manual tracking
+in a day should be
+provided
+
+*
+
+Type of Controller DC *
+
+Remote monitoring of
+Pump
+
+Provision for remote
+monitoring of the
+installed pumps must
+be made in the
+controllers or the
+inverters either through
+
+*
+
+                             5 / 11
+
+
+
+ 
+
+an integral
+arrangement or
+through an externally
+fitted arrangement
+
+Provision to ascertain
+the daily water output,
+the power generated
+by the PV array, the UP
+TIME of the pump
+during the year,
+Number of days the
+pump was unused or
+under
+breakdown/repairs
+
+Yes *
+
+ELECTRONICS AND
+PROTECTIONS
+
+Maximum Power Point
+Tracker (MPPT)
+
+Maximum Power Point
+Tracker (MPPT) should
+be included to
+optimally use the Solar
+panel and maximize
+the water discharge.
+
+*
+
+Controller for BLDC
+motor driven pumps
+
+The controller must
+have IP 54 protection
+or must be housed in a
+cabinet having at least
+IP 54 protection
+
+*
+
+Adequate protections
+should be incorporated
+against dry operation
+of motor pump set,
+lightning, hails and
+storms
+
+Yes *
+
+Full protection against
+open circuit, accidental
+short circuit and
+reverse polarity should
+be provided
+
+Yes *
+
+ON/OFF Switch A good reliable switch
+suitable for DC use is to
+be provided. Sufficient
+length of cable should
+be provided for
+interconnection of the
+PV array, Controller
+and the motor pump
+set.
+
+*
+
+Spares Required Spares for
+trouble free operation
+during the Warrantee
+period should be
+provided along with the
+system.
+
+*
+
+Operation And
+Maintenance Manual
+
+An Operation and
+Maintenance Manual, in
+
+*
+
+                             6 / 11
+
+
+
+ 
+
+English and the local
+language, should be
+provided with the solar
+PV pumping system.
+The Manual should
+have information about
+solar energy,
+photovoltaic, modules,
+DC motor pump set,
+tracking system,
+mounting structures,
+electronics and
+switches. It should also
+have clear instructions
+about mounting of PV
+module, DO's and
+DONT's and on regular
+maintenance and
+Trouble Shooting of the
+pumping system. Name
+and address of the
+person or Centre to be
+contacted in case of
+failure or complaint
+should also be
+provided. A warranty
+card for the modules
+and the motor pump
+set should also be
+provided to the
+beneficiary.
+
+PERFORMANCE Shut Off Dynamic
+head
+
+45 45.0
+
+Water Output on a
+clear sunny day with
+three times tracking
+of SPV panel, under
+the “Average Daily
+Solar Radiation”
+
+42,000 litres per day
+from a total head of 30
+metres
+
+42,000 litres per day
+from a total head of 30
+metres
+
+Minimum water output
+from a Solar PV Water
+Pumping System For
+DC Motor Pump Set
+with Brushes or Brush
+Less DC(BLDC ) from a
+Total Dynamic Head of
+10 metres (Suction
+head, if applicable,
+minimum of 7 metres)
+and with the shut off
+head being at least 1
+
+100 liters of water per
+watt peak of PV array,
+
+*
+
+Minimum water output
+from a Solar PV Water
+Pumping System For
+DC Motor Pump Set
+
+50 liters of water per
+watt peak of PV array,
+
+*
+
+                             7 / 11
+
+
+
+ 
+
+with Brushes or Brush
+Less DC(BLDC) from a
+Total Dynamic Head of
+20 metres (Suction
+head, if applicable, up
+to a maximum of 7
+metres) and with the
+shut off head being at
+least 25 metres
+
+Minimum water output
+from a Solar PV Water
+Pumping System For
+DC Motor Pump Set
+with Brushes or Brush
+Less DC(BLDC) from a
+Total Dynamic Head of
+30 metres and the shut
+off head being at least
+45 metres
+
+35 liters of water per
+watt peak of PV array
+
+*
+
+Minimum water output
+from a Solar PV Water
+Pumping System For
+DC Motor Pump Set
+with Brushes or Brush
+Less DC(BLDC) from a
+Total Dynamic Head of
+50 metres and the shut
+off head being at least
+70 metres
+
+21 liters of water per
+watt peak of PV array
+
+*
+
+Minimum water output
+from a Solar PV Water
+Pumping System For
+DC Motor Pump Set
+with Brushes or Brush
+Less DC(BLDC ) from a
+Total Dynamic Head of
+70 metres and the shut
+off head being at least
+100 metres
+
+14 liters of water per
+watt peak of PV array
+
+*
+
+Minimum water output
+from a Solar PV Water
+Pumping System For
+DC Motor Pump Set
+with Brushes or Brush
+Less DC(BLDC) from a
+Total Dynamic Head of
+100 metres and the
+shut off head being at
+least 150 metres
+
+9.5 liters of water per
+watt peak of PV array,
+
+*
+
+CERTIFICATION BIS CM/L number and
+validity of ISI marked
+Submersible Pump
+
+- *
+
+Availability of Type
+Test Report to prove
+
+Yes *
+
+                             8 / 11
+
+
+
+ 
+
+conformity of
+parameters as per
+MNRE specification
+form MNRE empanelled
+for solar pump
+laboratory
+
+Test Certificate No and
+Date
+
+- *
+
+Name of the Lab where
+test Conducted
+
+- *
+
+Test Report to be
+furnished to the buyer
+on demand
+
+Yes *
+
+Scope of Supply with errection and
+commissioning at
+consignee end
+
+*
+
+Warranty The PV Modules must
+be warranted for
+output wattage, which
+should not be less than
+90% at the end of 10
+years and 80% at the
+end of 25 years. The
+whole Pumping system
+including pump shall be
+warranted for 5 years.
+
+*
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignee/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Sandeep Singh
+Sengar
+
+284201,nagar palika
+baruasagar jhansi
+
+1  30 N/A
+
+Bid Specific Additional Terms and Conditions
+
+1.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents
+sought in the Bid document, ATC and Corrigendum if any.
+
+2. ISO 9001: The bidder must have ISO 9001 certification.
+3.Material Test Certificate Should Be Sent Along with The Supply. The Material Will Be Checked
+
+by Buyer’s Lab & the Results of the Lab will be the Sole Criteria for Acceptance of the Item.
+4.The bidder is required to upload, along with the bid, all relevant certificates such as BIS
+
+licence, type test certificate, approval certificates and other certificates as prescribed in the
+Product Specification given in the bid document.
+
+5.To be eligible for award of contract, Bidder / OEM must possess following Certificates / Test
+Reports on the date of bid opening (to be uploaded with bid): 1.
+
+                             9 / 11
+
+
+
+ 
+
+6.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+7.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+8.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+9.Bidder / OEM has to give an undertaking that after expiry of warranty period, it will provide
+AMC Service for next 1 years for the offered products at the rate not more than 1 % of
+contract price per annum. Buyer reserves the right to enter into an AMC agreement (
+covering preventive maintenance and servicing)with the Successful Bidder / OEM after
+expiry of the Warranty period at rate as mentioned above and the payment for the AMC
+charges would be made Annually after rendering of the AMC Services of the relevant AMC
+period. Performance Security of the successful bidder shall be forfeited if it fails to accept
+the AMC contract when called upon by the buyer. The original Performance Security of
+contract will be returned only after submission and verification of AMC Performance Security
+for 2% of total AMC value valid up to AMC period plus 2 months (if there is no other claim).
+(Undertaking of acceptance to be uploaded with bid).
+
+10.Bidder / OEM has to give an undertaking that after expiry of warranty period, it will provide
+Comprehensive Maintenance Service for next 1 years for the offered products at the rate not
+more than 1 % of contract price per annum. Buyer reserves the right to enter into a CMC
+agreement with the Successful Bidder / OEM after expiry of the Warranty period at above
+mentioned rate and the payment for the CMC charges would be made Annually after
+rendering of the CMC Services of the relevant CMC period. Performance Security of the
+successful bidder shall be forfeited if it fails to accept the CMC contract when called upon by
+the buyer. CMC would include cost of 1 (Upload the undertaking). The original Performance
+Security of contract will be returned only after submission and verification of AMC
+Performance Security for 2% of total CMC value valid up to CMC period plus 2 months (if
+there is no other claim).
+
+11.Over and above the normal Warranty terms as per GeM GTC, the successful bidder / OEM
+shall have to provide Comprehensive Warranty during the entire Standard warranty period
+as per contract. : The comprehensive warranty shall be covering the following scope 1
+(Upload an undertaking with the bid confirming compliance by the bidder if Bidder is taking
+onus of this compliance. In case OEM is taking onus of this compliance, OEM undertaking is
+to be uploaded along with Bidder undertaking)
+
+12.Successful bidder will have to ensure that adequate number of dedicated technical service
+personals / engineers are designated / deployed for attending to the Service Request in a
+time bound manner and for ensuring Timely Servicing / rectification of defects during
+warranty period, as per Service level agreement indicated in the relevant clause of the bid.
+
+13.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 3 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+14.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+                            10 / 11
+
+
+
+ 
+
+This RA is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                            11 / 11
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

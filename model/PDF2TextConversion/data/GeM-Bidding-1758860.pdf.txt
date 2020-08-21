@@ -1,0 +1,527 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/685218
+
+  Dated: 24-06-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 15-07-2020 16:00:00
+
+Bid Opening Date/Time 2020-07-15 16:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Ministry Of Fisheries Animal Husbandry Dairying
+
+Department Name Department Of Fisheries
+
+Organisation Name Na
+
+Office Name Cifnet Chennai
+
+Total Quantity 24
+
+Item Category Office Suite Software (Version 2.0)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Office Suite Software (Version 2.0) ( 24 pieces )
+
+Technical Specifications
+
+                               1 / 5
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+BASIC INFORMATION Product Type Proprietary Suites Proprietary Suites
+
+Offered Product are 3. Acadamic Edition 3. Acadamic Edition
+
+Name of the OEM - *
+
+OEM Model / Part No - *
+
+Product Id of OEM - *
+
+Software Description - *
+
+Date of Launch of
+Version
+
+- *
+
+SCOPE OF LICENCE "Types of Licence
+(Hint : Select 'NA' if
+not applicable)"
+
+2.Subscription 2.Subscription
+
+"Duration of
+Subscription (in
+Years) (Hint : Select
+'0' if not applicable)"
+
+1 1.0 - 5.0 Or higher
+
+Licencing option 2.Users Based, 2.Users Based,
+
+Number of CORE
+/Users /Socket/
+Device Supported for
+Each licence (Hint : -
+Inline with licence
+option selected)
+
+1 1.0 - 100.0 Or higher
+
+OFFICE SUITE Proprietary Suite 1. Microsoft Office 1. Microsoft Office
+
+"Open Source Suite
+(Hint:- Vendor can
+offer support service
+to open source suite
+on subscription
+basis)"
+
+6. Not Applicable 6. Not Applicable
+
+Components of
+Office Suite covered
+in the offered
+product
+
+1. Word Processor,2.
+Spreadsheet,3.
+Presentation,4. FILE CO
+NVERSION,5.GRAPHICS,
+6. COLLABORATION
+TOOL
+
+1. Word Processor, 2.
+Spreadsheet, 3.
+Presentation, 4. FILE
+CONVERSION,
+5.GRAPHICS, 6.
+COLLABORATION TOOL
+
+Operating Systems
+Supported by the
+offered product
+
+1. Windows,4.
+Android,6. iOS
+
+1. Windows, 4. Android,
+6. iOS
+
+The offered product
+have support from
+OEM for
+
+1. Updation for Patches
+and Bug fixes within
+supoort period.,2.
+Upgradation of version
+within support period .
+
+1. Updation for Patches
+and Bug fixes within
+supoort period., 2.
+Upgradation of version
+within support period .
+
+Number of Years 1 1
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/NZXekNbGnQPOZqse5bYCoWzI7PAPV5J9v8jkBE94Q7s
+
+
+ 
+
+upto which support
+is available from
+OEM/Seller for
+Updation (Patches
+and Bug fixes) within
+support period
+
+Number of Years
+upto which support
+is available from
+OEM/Seller for
+Upgradation of
+version within
+support period
+
+1 1
+
+No of days Training
+Provided at Site
+
+0 0
+
+Word Processor Word Processor
+FEATURES
+
+1. Word,2.Themes,3.
+File Annotation,4.Built
+in Spell Checker/
+Grammer & Style,5.
+Dictionary/
+Theasaurus,6. Utilities
+for manupulating and
+editing text
+
+1. Word, 2.Themes, 3.
+File Annotation, 4.Built
+in Spell Checker/
+Grammer & Style, 5.
+Dictionary/ Theasaurus,
+6. Utilities for
+manupulating and
+editing text
+
+Spreadsheet Spreadsheet
+FEATURES
+
+1. Excel,2.
+Database,3.Open XML
+File Format,5.Queries,7
+.Formula Calculation
+Function,8.Pivot Table/
+Tables
+
+1. Excel, 2. Database,
+3.Open XML File
+Format, 5.Queries,
+7.Formula Calculation
+Function, 8.Pivot Table/
+Tables
+
+Presentation PPT FEATURES 1. Presentation
+Tool,2.Slide Transitions,
+3.Themes,4.Power View
+
+1. Presentation Tool,
+2.Slide Transitions,
+3.Themes, 4.Power
+View
+
+FILE CONVERSION PDF Editor &
+Convertor Features
+
+1. Word to PDF,,3.
+Excel to PDF,,2. PDF to
+word,,5.Scanned
+Images editing
+supported.
+
+1. Word to PDF,, 2. PDF
+to word,, 3. Excel to
+PDF,, 5.Scanned
+Images editing
+supported.
+
+GRAPHICS GRAPHICS FEATURES 1. GRAPHIC TOOL,2.
+Drawings and
+Diagrams,3.Path
+editing tool,4. Raster
+Graphics Editor,5.
+Vector Graphics Editor
+
+1. GRAPHIC TOOL, 2.
+Drawings and
+Diagrams, 3.Path
+editing tool, 4. Raster
+Graphics Editor, 5.
+Vector Graphics Editor
+
+COLLABORATION TOOL COLLABORATION
+TOOL FEATURES
+
+1. Schedule meetings &
+Events,2.
+Relationships,3.Cached
+Exchange Mode Sync,4.
+Slider,5.Exchange
+Server
+Support,6.Outlook
+Social
+Connector,7.People
+
+1. Schedule meetings &
+Events, 2.
+Relationships,
+3.Cached Exchange
+Mode Sync, 4.Slider,
+5.Exchange Server
+Support, 6.Outlook
+Social Connector,
+7.People Pane, 8.PRF
+
+                               3 / 5
+
+
+
+ 
+
+Pane,8.PRF
+Files,9.Video/ Audio
+Conferencing,10.Real
+time Document Co- Aut
+horing,11.Collaboration
+over Same Platform
+Suite
+
+Files, 9.Video/ Audio
+Conferencing, 10.Real
+time Document Co-
+Authoring,
+11.Collaboration over
+Same Platform Suite
+
+GENERIC GENERIC FEATURES
+1
+
+1. Accessibility,2.
+Support for many
+native languages,3. 3rd
+Party Add
+-ons,4.ActiveX
+Control,5.Writing
+Support,6.Gradient and
+pattern tools,7.Files
+and Printing,8. Editing
+and
+Formatting,9.Language
+Tools,11.Forms,12. Rep
+orts,13.Billing,14.Inbuilt
+security for documents
+
+1. Accessibility, 2.
+Support for many
+native languages, 3.
+3rd Party Add -ons,
+4.ActiveX Control,
+5.Writing Support,
+6.Gradient and pattern
+tools, 7.Files and
+Printing, 8. Editing and
+Formatting,
+9.Language Tools,
+11.Forms, 12. Reports,
+13.Billing, 14.Inbuilt
+security for documents
+
+GENERIC FEATURES
+2
+
+15.Compatability with
+SQL/ MySQL
+Integration,16.
+Templates,17. Visual
+Basic
+Language,18.Equation
+Editor,19.Version
+Information,20. Web
+Apps,21. Azure
+Marketplace
+Connector,22.Auto
+Discover,23. Live
+Preview,24.Research
+Button,25. Bug
+report,26. Notetaking
+software,27. Email
+client,28. HTML
+Editor,29. Online
+Editing
+
+15.Compatability with
+SQL/ MySQL
+Integration, 16.
+Templates, 17. Visual
+Basic Language,
+18.Equation Editor,
+19.Version Information,
+20. Web Apps, 21.
+Azure Marketplace
+Connector, 22.Auto
+Discover, 23. Live
+Preview, 24.Research
+Button, 25. Bug report,
+26. Notetaking
+software, 27. Email
+client, 28. HTML Editor,
+29. Online Editing
+
+Cloud storage
+support for
+
+3. One Drive 3. One Drive
+
+Capacity of cloud
+storage support(in
+GB) Hint:- Select'0' if
+not applicable
+
+1000 1000.0 - 10000.0 Or
+higher
+
+SUPPORTED
+HARDWARE
+REQUIREMENTS AT
+USEREND
+
+Processor Supported
+in Bits
+
+32,64 32, 64
+
+Minimum Processor
+Configuration Required
+
+- *
+
+Minimum Hard Disk
+Space Required in GB
+
+4 *
+
+Minimum RAM Size 2 *
+
+                               4 / 5
+
+
+
+ 
+
+required in GB
+
+GENERIC PARAMETERS Valid Licence copy to
+be provided
+
+YES *
+
+Software supplied
+through
+
+URL Link *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 M Ramesh 600013,59, S.N. Chetty
+Street, Royapuram
+
+24  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

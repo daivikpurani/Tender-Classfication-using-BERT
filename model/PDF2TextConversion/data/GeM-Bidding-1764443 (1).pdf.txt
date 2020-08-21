@@ -1,0 +1,733 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/690306
+
+  Dated: 29-06-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 09-07-2020 11:00:00
+
+Bid Opening Date/Time 2020-07-09 11:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Heavy Industries And Public Enterprises
+
+Department Name Department Of Heavy Industry
+
+Organisation Name Cement Corporation Of India Limited (cci)
+
+Office Name Tandur
+
+Total Quantity 8
+
+Item Category Potable water purification system with inbuilt water
+cooler.
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+
+Splitting
+
+  Bid splitting not applied.  
+
+Potable Water Purification System With Inbuilt Water Cooler. ( 8 pieces )
+
+                               1 / 7
+
+
+
+ 
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standard Parameter Certification for the
+product
+
+WQA CE, WQA, NSF, NA
+
+Certification No and
+Date
+
+- *
+
+Manufacturers Quality
+System Certifications
+
+- *
+
+Manufacturers
+Environment
+Management System
+Certifications
+
+- *
+
+Manufacturers Health
+and Safety
+Management System
+Certifications
+
+- *
+
+Conformity to
+Standard for
+Ultraviolet system
+
+IS 14724 (latest) for
+water purification
+system with Ultraviolet
+disinfection
+
+IS 14724 (latest) for
+water purification
+system with Ultraviolet
+disinfection, NA if UV
+not provided
+
+Output Water
+Conforming standard
+
+IS 10500 (latest) *
+
+Performance Parameter Type of water
+purification
+technology
+
+RO RO, UV, RO +UV
+
+Power consumptions
+of system (with ± 5%
+tolerance) (in watt)
+
+775 300, 400, 575, 775,
+950, 1300, 1550, 2200
+
+Maximum Input
+Water TDS allow to
+the system
+
+3000 1000, 2000, 3000
+
+Input water hardness 500 ppm or less *
+
+Input water pH 6.5 to 8.5 *
+
+Input water chlorine 0.2 ppm *
+
+Input water iron 0.2 ppm *
+
+Input water turbidity Less than 5 NTU *
+
+Operation mode Fully automatic with
+auto cut off
+
+Fully automatic with
+auto cut off, Semi
+Automatic with
+External Auto Cut Off
+
+Availability of sediment
+and activated carbon
+
+Yes *
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/w6-w_eFmM2T9XNEz8W6_zSE3mWjoPioPOBZ86iGoVZo
+
+
+ 
+
+filter
+
+Ultraviolet (UV)
+LAMP
+
+No Yes, No Or higher
+
+Ultraviolet (UV) Lamp
+power in watts (Hint
+put zero in case UV is
+not available)
+
+0 *
+
+Provision of Arsenic
+removal
+
+Yes Yes, No Or higher
+
+Provision of Fluoride
+removal
+
+Yes Yes, No Or higher
+
+Provision of Chloride
+removal
+
+Yes Yes, no Or higher
+
+Alkaline filter No Yes, No Or higher
+
+Storage tank In-built *
+
+Material of water
+Storage Tank
+
+Stainless Steel SS 304 Stainless Steel SS 304,
+Clay Pot (Terracotta),
+Copper, ABS Food
+Grade, NA
+
+Storage tank
+capacity up to float
+valve level (in liter)
+
+150 10, 25, 50, 80, 120,
+150, Storage tank
+arranged by buyer
+
+Stages of purification 3 *
+
+No of RO Membranes
+provided
+
+2 *
+
+RO Membrane rating 150 GPD 75 GPD, 80 GPD, 100
+GPD, 150 GPD, NA
+
+RO Membrane
+flushing
+
+Auto flush at every
+start,every stop and
+every one hour for 1
+minutes
+
+Auto flush at every
+start,every stop and
+every one hour for 1
+minutes, NA
+
+No of Particulate filter
+provided
+
+2 *
+
+Particulate Filter
+size
+
+20 inch 10 inch, 20 inch
+
+Particulate Filter
+Porosity
+
+20 micron 5 micron, 10 micron, 20
+micron
+
+No of Activated Carbon
+filter provided
+
+2 *
+
+Activated Carbon
+filter Size
+
+20 Inch 10 Inch, 20 Inch
+
+No of Antiscalant filter
+provided
+
+2 *
+
+Antiscalant- where
+silica is up to 10
+ppm/where Mica is
+up to 100 ppm
+
+No Yes, No Or higher
+
+                               3 / 7
+
+
+
+ 
+
+Nano Silver leaching
+filtration
+
+Yes Yes, No Or higher
+
+Minimum inlet
+pressure
+
+0.3 KG/CM2 0.3 KG/CM2, 0.6
+KG/CM2, 1 KG/CM2
+
+Maximum inlet
+pressure
+
+3.5 KG/CM2 *
+
+Maximum Inlet water
+temperature
+
+40 degree celsius *
+
+Digital display No Yes, No Or higher
+
+Real time TDS
+display
+
+No Yes, No Or higher
+
+Real time pH Display No Yes, No Or higher
+
+High pressure pump Yes Yes, No Or higher
+
+Raw water/Chemical
+Raw water/Chemical
+Cleaning pump
+
+No Yes, No Or higher
+
+Recovery percentage
+at 27 degree
+centigrade
+
+50-60 25-35, 30-40, 50-60,
+70-80, 90-100
+
+Filteration water
+capacity in liter/
+hour
+
+150 25, 35, 50, 80, 100,
+120, 150
+
+TDS removal
+percentage from RO
+Membrane
+
+90% 25%, 50%, 75%, 90%,
+NA for uv only
+
+Pressure vessel
+Sand Filter
+
+Yes Yes, No Or higher
+
+Pressure vessel
+Carbon Filter
+
+Yes Yes, No Or higher
+
+Pressure Vessel Dual
+Media Filter
+
+Yes Yes, No Or higher
+
+Body of filter Stainless Steel ABS Food grade, MS
+Powder Coating,
+Stainless Steel
+
+Membrane Housing Yes Yes, No Or higher
+
+Number of candles 3 2, 3, 4, 5, 6 or more
+
+Cooler Parameters Type of compressor Rotary Rotary, Reciprocating
+
+Refrigerant Used HFC-R-134/A HFC-R-134/A, R22
+
+Refrigeration
+temperature
+
+15 to 17 15 to 17
+
+Type of Condenser Fin type/tube type *
+
+Evaporator material Cooper *
+
+Water Storage tank
+insulation
+
+PUF thermal insulation *
+
+                               4 / 7
+
+
+
+ 
+
+Provision for Hot
+water
+
+No Yes, No Or higher
+
+Number of Cold
+Water Faucets
+
+2 1, 2, 3, NA
+
+Number of Normal
+Water Faucets
+
+2 1, 2, 3, NA
+
+Number of Hot
+Water Faucets
+
+Na 1, 2, 3, Na
+
+Water flow rate
+through Faucets( in
+liter per hour)
+
+50 *
+
+Cooling capacity at
+comfort level (17 ± 1
+degree celsius) (in
+liter per hour)
+
+80 10, 20, 40, 60, 80
+
+Installation Type Floor Mounted Floor Mounted, Floor
+Mounted and Enclosed,
+wall mounted, under
+sink
+
+Power supply SINGLE PHASE ( 230 ±
+10 % VOLT,%0 Hz)
+
+SINGLE PHASE ( 230 ±
+10 % VOLT,%0 Hz),
+Three phase (415 ± 10
+% VOLT,%0 Hz)
+
+Maximum running
+current in ampere at
+rated condition
+
+4.5 ± 10 % *
+
+Warranty in years
+including electronic
+,electric parts,
+replacement of
+filters twice a year)
+
+1 1, 2, 3, NA
+
+Warranty period
+without Filter ,
+electronic and
+electrical parts
+
+1 1, 2, 3, Na
+
+Warranty period
+without Filter &
+inclusive of
+electronic and
+electrical parts
+
+1 1, 2, 3, NA
+
+Additional Parameters Availabilty of type
+test Test REPORT for
+Filtering Size of
+Particles
+
+No Yes, No Or higher
+
+TYPE Test certificate No
+and date for Filtering
+Size of Particles
+
+- *
+
+Name and Address of
+laboratory which
+conducted Test for
+
+- *
+
+                               5 / 7
+
+
+
+ 
+
+Filtering Size of
+Particles:
+
+Availability of Test
+Report on Microbial
+Efficacy from
+Govt/NABL/ilac Lab
+
+No Yes, No Or higher
+
+Test certificate No and
+date for Microbial
+Efficacy
+
+- *
+
+Name of the lab for
+Microbial Efficacy
+
+- *
+
+Avaialbility of type
+test certificate from
+NABL/ILAC Lab
+design evaluation
+report as per IS
+14724
+
+No Yes, No Or higher
+
+Copies of certifications
+and reports to be given
+to buyer at time of
+supplies
+
+Yes *
+
+User/Technical/Mainten
+ance manuals to be
+supplied in English in
+hard and soft copy
+
+Yes *
+
+Availability of toll
+free centres for
+customer support
+
+Yes Yes, No Or higher
+
+Installation and
+Commissioning
+inclusive in the
+scope of Supply*
+
+Yes Yes, no Or higher
+
+Availablity of NABL
+Accredited
+Laboratory Facility
+with OEM
+
+No Yes, No Or higher
+
+Name and Address of
+NABL Accredited lab
+with OEM , If Not
+available put NA
+
+- *
+
+Inlet Pipe & Fitting
+from raw water
+scorces to water
+purification system
+
+to be arranged by
+buyer / consignee
+
+suitable pipe and fitting
+to be provided by seller
+up to 20 feet, to be
+arranged by buyer /
+consignee, Not
+applicable
+
+Pipe & Fitting from
+Out let to purified
+water tank
+
+To be arranged by
+buyer /consignee
+
+to be arranged by
+seller (upto 20 feet), To
+be arranged by buyer
+/consignee, Not
+applicable
+
+                               6 / 7
+
+
+
+ 
+
+Pipe and pipe fitting
+material
+
+PVC *
+
+Electrical fitting and
+plug points
+
+To be arranged by
+buyer /consignee
+
+To be arranged by
+buyer /consignee, To
+be arranged by seller
+
+ISI marked
+Electronic and
+electrical parts
+provided
+
+Yes Yes, No Or higher
+
+Open installation of
+Water pipe fitting and
+waste water pipe line
+fitting provided
+
+Yes *
+
+Scope Civil Work if
+any required during
+installation
+
+All Civil work shall be
+responsibility of buyer
+
+All Civil work shall be
+responsibility of buyer,
+All Civil work shall be
+responsibility of Seller
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Umesh Ranjan
+Behera
+
+501158,Tandur Cement
+factory CCI Tandur Post
+Karankote PIN-501158
+
+8  15
+
+Bid Specific Additional Terms and Conditions
+
+1.OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be
+ordered up to 25 percent at the time of placement of contract. The purchaser also reserves
+the right to increase the ordered quantity by up to 25% of the contracted quantity during the
+currency of the contract at the contracted rates. Bidders are bound to accept the orders
+accordingly.
+
+2.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+3. ISO 9001: The bidder must have ISO 9001 certification.
+4.The bidder is required to upload, along with the bid, all relevant certificates such as BIS
+
+licence, type test certificate, approval certificates and other certificates as prescribed in the
+Product Specification given in the bid document.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

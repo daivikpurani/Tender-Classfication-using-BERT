@@ -1,0 +1,326 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/685535
+
+  Dated: 24-06-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 04-07-2020 18:00:00
+
+Bid Opening Date/Time 2020-07-04 18:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 40 (Days)
+
+Ministry/State Name Ministry Of Railways
+
+Department Name Na
+
+Organisation Name Chittaranjan Locomotive Works (clw)
+
+Office Name 713331
+
+Total Quantity 100
+
+Item Category distribution or control board enclosures ( Distribution
+board for MCBs)
+
+Experience Criteria  2 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 4
+
+
+
+ 
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+
+Distribution Or Control Board Enclosures ( Distribution Board For MCBs) (
+100 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC Reference BIS
+Specification:13032
+
+yes *
+
+Suitable to
+accommodates
+specified Number of
+poles (number)
+
+Single Pole MCBs as
+outgoing and Double
+pole MCB as incoming
+
+Single Pole MCBs as
+outgoing and Double
+pole MCB as incoming
+
+No. of Ways (in
+Number)
+
+8 8
+
+Metalic cover Type MCBs are accessible
+only after opening of
+top cover (Double door)
+
+MCBs are accessible
+only after opening of
+top cover (Double door)
+
+Enclosure category
+(Degree of
+Protection)
+
+IP-43 IP-43
+
+CONSTRUCTIONAL MCB distribution board
+for indoor installation
+
+yes *
+
+Copper Bus bar Rating
+(ampere)
+
+100 Amp. *
+
+Minimum Sheet
+Thickness properly
+pretreated and stove
+enameled/Powder
+Coated (mm)
+
+1.6 mm *
+
+Steel Mounting Rail Top
+Hat as per IS:11039/83
+(35mmX7.5mm)
+
+Yes *
+
+Earth bar Yes *
+
+Neutral bar Yes *
+
+CERTIFICATIONS Availability of the Type
+Test Report from
+
+Yes *
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/r-FoWNcRfvA9KNxNgWUvlfr78y-k8KZX1IXmKef5xYM
+
+
+ 
+
+Central Govt.
+/NABL/ILAC Accredited
+lab to prove conformity
+to the specification.
+
+Type Test Certificate
+No.
+
+- *
+
+Type Test Certificate
+date
+
+- *
+
+Name of Lab - *
+
+Address of Lab - *
+
+Test Report to be
+furnished to the buyer
+on demand
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Ajoy Kumar Hira 713331,GM Building, CMM
+Office, Chittaranjan
+
+100  21
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2.Bid reserved for Make In India products: Procurement under this bid is reserved for purchase
+
+from local supplier as defined in public procurement (Preference to Make in India), Order
+2017 as amended from time to time and its subsequent Orders/Notifications issued by
+concerned Nodal Ministry for specific Goods/Products. The minimum local content to qualify
+as a local supplier, should be as per relevant notification / order issued by the nodal ministry
+as available on the website of Department of Promotion of Industries and Internal Trade
+(DPIIT). All bidders must upload a certificate from the OEM regarding the percentage of the
+local content and the details of locations at which the local value addition is made along with
+their bid, failing which the bid is liable to be rejected. In case the bid value is more than Rs
+10 Crore, the declaration relating to percentage of local content shall be certified by the
+statutory auditor or cost auditor, if the OEM is a company and by a practicing cost
+accountant or a chartered accountant for OEMs other than companies as per the Public
+Procurement (preference to Make-in -India) order 2017 dated 29.5.2019. In case Buyer has
+selected Purchase preference to Micro and Small Enterprises clause in the bid, the same will
+get precedence over this clause.
+
+3. ISO 9001: The bidder must have ISO 9001 certification.
+4.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+
+                               3 / 4
+
+
+
+ 
+
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+5.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+6.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 5 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+7.Procurement under this bid is reserved for purchase from Micro and Small Enterprises from
+the State of Bid Inviting Authority whose credentials are validated online through Udyog
+Aadhaar for that product category. If the bidder wants to avail the reservation benefit, the
+bidder must be the manufacturer of the offered product in case of bid for supply of goods.
+Traders are excluded from the purview of Public Procurement Policy for Micro and Small
+Enterprises. In respect of bid for Services, the bidder must be the Service provider of the
+offered Service. Relevant documentary evidence in this regard shall be uploaded along with
+the bid in respect of the offered product or service.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

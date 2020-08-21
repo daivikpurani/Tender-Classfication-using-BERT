@@ -1,0 +1,666 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/706067
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 18:00:00
+
+Bid Opening Date/Time 20-07-2020 18:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Petroleum And Natural Gas
+
+Department Name Bharat Petroleum Corporation Ltd
+
+Organisation Name Bharat Petroleum Corporation Ltd
+
+Office Name Hrs
+
+Total Quantity 1
+
+Item Category door frame metal detector dfmd security metal
+detector
+
+Experience Criteria  2 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+                               1 / 7
+
+
+
+ 
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+
+Door Frame Metal Detector Dfmd Security Metal Detector ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+TYPE / CAPACITY Type of usage Outdoor Outdoor
+
+Detection Zones Multiple Zone Multiple Zone
+
+Function Detects Ferrous, Non-
+Ferrous and alloy
+metals concealed in the
+body of a person when
+passsed through the
+arch way
+
+*
+
+Number of
+Horizontal Detection
+Zones covering full
+Height
+
+8 8
+
+Capacity / throughput
+rate (person/min)
+
+10 or more *
+
+False Alarm rate (%) 3 *
+
+DIMENSIONS / WEIGHT Passage Height 2000 *
+
+Passage Breadth 750 *
+
+Passage Width 570 *
+
+Weight of the
+equipment
+
+Not more than 80 Kg *
+
+DOOR FRAME
+CONSTRUCTION
+
+Construction of Door
+Frame (Walk-through
+Arch)
+
+Light weight, rigid,
+laminated side panels
+and cross piece with
+ABS plastic boots for
+panel protection
+
+*
+
+Material of Walk-
+through Arch
+
+POLYCARBONATE POLYCARBONATE
+
+Provided with base
+wheels for easy
+mobility
+
+Yes Yes
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/Bi3HeB5in4OIA2_A5u7CI8-6frAEzYtRLFW6LSpHcuM
+
+
+ 
+
+Provided with a floor
+panel to attach both
+side panels to give
+stability & rigidity to
+the structure
+
+Yes Yes
+
+Ramp over the floor
+panel - Covered with
+synthetic carpet for
+long life
+
+Yes Yes
+
+Water proof Yes Yes
+
+Weather proof Yes Yes
+
+DETECTION Metals detectable Ferrous, Non-Ferrous,
+Ferrite & Alloys
+
+*
+
+Uniform Detection from
+top to bottom
+
+Yes *
+
+Capable of Metal
+Detection in all
+orientations
+
+Yes *
+
+Detect multiple objects
+of various size, weight
+and shape in all the
+zones simultaneously
+from head to toe
+
+Yes *
+
+Capable of Metal
+Detection in walking
+speed of interception
+
+Yes *
+
+Performance
+independent of the
+speed of person
+passing through
+
+Yes *
+
+ALARM / INDICATION /
+DISPLAY
+
+Audio-Visual indication
+on detection at side
+panels and control
+panel
+
+Yes *
+
+Audible Alarm on
+detection with
+adjustable volume
+
+Yes *
+
+Bar Display to
+indicate Metal
+location w r t Height
+on person
+
+Yes Yes
+
+Audio-Visual Low
+Battery indication
+
+Yes *
+
+Back-lit Display LED *
+
+SENSITIVITY Operational
+Frequencies
+
+User selectable *
+
+Number of User
+Selectable frequencies
+
+12 *
+
+                               3 / 7
+
+
+
+ 
+
+Adjustable Sensitivity Yes *
+
+Number of Sensitivity
+Levels / Steps
+
+18 *
+
+Uniform Sensitivity in
+all zones
+
+Yes *
+
+Calibration Both manual and Auto
+Calibration
+
+*
+
+SECURITY Provision to secure
+access to the control
+unit by a pass word
+protected alpha
+numeric keypad
+
+Yes *
+
+Re-setting after alarm
+condition
+
+Re-set itself (auto)
+within 3 Seconds
+
+*
+
+Walk / Stop indicator
+for traffic control
+
+Yes *
+
+Control Panel Easy accessible control
+panel, with modular
+design and standard
+plugs and connectors.
+Adjustable controls
+should only be
+activated on insertion
+of a removable key and
+/ or by password.
+
+*
+
+User friendly self-
+testing diagnostics to
+identify faulty condition
+
+Yes *
+
+INTERFERENCE
+SUPPRESSION
+/REJECTION
+
+Automatic
+synchronization for
+DFMDs Do not interfere
+with adjacent installed
+DFMDs located close to
+each other upto a
+distance of
+
+1 *
+
+Static Metal
+Compensation Not
+affected by heavily
+reinforced floors / roof
+tops / walls
+
+Yes *
+
+High discrimination
+between small masses
+and personal metallic
+objects
+
+Yes *
+
+Not affected by
+external RF
+transmission and EMI
+(Electro Magnetic
+Interference)
+
+Yes *
+
+Not affected by by Yes *
+
+                               4 / 7
+
+
+
+ 
+
+interference, which is
+mains-borne or
+radiated by external
+source
+
+Not affected by the
+operation of radio,
+Mobile phones, walkie-
+talkie sets, X-ray
+monitors etc within a
+distance of one meter
+
+Yes *
+
+Not affected by moving
+metallic items such as
+trolleys, opening /
+closing of metallic gate
+etc, one meter away
+from the archway
+
+Yes *
+
+HEALTH & SAFETY Harmless to wearers of
+pacemakers,
+defibrillators or other
+vital support systems,
+pregnant women and
+magnetic storage
+media
+
+Yes *
+
+Not affected by
+infrared, ultraviolet,
+electromagnetic or RF
+radiation
+
+Yes *
+
+Conform to
+international security
+standards of Safety /
+Radiation
+
+Yes *
+
+Harmless to magnetic
+media, electronic
+devices, Film safe and
+Data safe
+
+Yes *
+
+ENVIRONMENTAL Operating
+Temperature Range
+(Degree C)
+
+Minus 20 to Plus 55
+Degree C
+
+Minus 20 to Plus 55
+Degree C
+
+Operating Humidity -
+Non condensing (RH)
+(%)
+
+95 *
+
+POWER SUPPLY /
+BATTERY
+
+Source of Power Operated by AC mains
+supply and
+alternatively by
+rechargeable battery
+
+*
+
+Power Supply 100 to 260 VAC *
+
+Battery Re-chargeable,
+maintenance free,
+internal battery with
+charger
+
+Re-chargeable,
+maintenance free,
+internal battery with
+charger
+
+Battery Back-up in 16 16.0
+
+                               5 / 7
+
+
+
+ 
+
+full function (hours)
+
+ACCESSORIES One Standard Test
+Piecec for each
+machine for testing
+during commissioning /
+maintenance
+
+Inclusive in the scope
+of supply
+
+*
+
+Training tools- Charts,
+slides, training
+brochure, training work
+model, blowup
+diagram, video films on
+demonstration and use
+etc
+
+Inclusive in the scope
+of supply
+
+*
+
+Technical manual
+giving full description
+of the item, user's
+handbook and
+literature
+
+Yes *
+
+Practical training At least one day in
+each quarter of the
+year continuing during
+warranty period
+
+At least one day in
+each quarter of the
+year continuing during
+warranty period
+
+Availability of
+Spares for a period
+of 7 years after the
+warranty period
+
+Yes Yes
+
+Ruggedized
+polypropylene shock
+proof container
+compliant to IP 65 or
+better for safe
+transportation of the
+equipment
+
+Yes Yes
+
+WARRANTY Warranty (Years) 3 3.0
+
+CERTIFICATION Availability of Test
+Report from NABL/
+ILAC accredited or
+Central Government
+Lab to prove
+conformity of
+products to the
+specification
+
+No No
+
+Test Report Number &
+Date
+
+- *
+
+Name & address of the
+Lab
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+                               6 / 7
+
+
+
+ 
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Nityanand
+Mahadev Sawant
+
+700095,BHARAT
+PETROLEUM CORP LIMITED,
+BHARAT BHAVAN, PLOT NO-
+31, PRINCE GULAM MD.
+SHAH ROAD, GOLF GREEN,
+
+1  15
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+2.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+3.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+4.Warranty period of the supplied products shall be 3 years from the date of final acceptance
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+5.For fulfilling the experience criteria any one of the following documents may be considered
+as valid proof for meeting the experience criteria:
+a. Purchase Order copy along with Invoice(s) with self-certification by the bidder that
+supplies against the invoices have been executed.
+b. Execution certificate by client with order value.
+c. Any other document in support of order execution like Third Party Inspection release note,
+etc.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

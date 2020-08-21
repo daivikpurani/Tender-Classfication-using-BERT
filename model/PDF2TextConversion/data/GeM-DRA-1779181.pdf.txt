@@ -1,0 +1,531 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   RA Number: GEM/2020/RA/44772
+
+  Dated: 09-07-2020
+
+  
+
+RA Document
+RA Details
+
+RA Technical End Date/Time 24-07-2020 15:00:00
+
+RA Opening Date/Time 24-07-2020 15:30:00
+
+RA Life Cycle (From Publish Date) 90 (Days)
+
+RA Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Health And Family Welfare
+
+Department Name Department Of Health And Family Welfare
+
+Organisation Name All India Institute Of Medical Sciences (aiims)
+
+Office Name Raipur
+
+Total Quantity 1
+
+Item Category thermal imager
+
+Average Turnover (Last 3 Years)  1 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  1 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years Of Experience
+and Turnover
+
+ Yes
+
+Document required from seller  Experience Criteria,Bidder Turnover,OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+
+Splitting
+
+ RA splitting not applied.
+
+                               1 / 6
+
+
+
+ 
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+
+Thermal Imager ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+LENS MEASUREMENTS
+FEATURES
+
+Horizontal Field of View
+of Standard lens
+(degree)
+
+NA *
+
+Vertical Field of View of
+Standard lens
+
+NA *
+
+Horizental Field of
+View of Telephoto
+lens
+
+NA NA
+
+Vertical Field of
+View of Telephoto
+lens
+
+NA NA
+
+IFOV of Standard lens
+(mRad)
+
+2.1 *
+
+IFOV of Telephoto
+Lens (mRad)
+
+NA NA
+
+IFOV of (Spatial
+resolution) (mRad)
+
+NA *
+
+PERFORMANCE
+FEATURES
+
+Type Hand held *
+
+Detector Resolution
+(minimum) (pixel)
+
+75000 75000
+
+Temperature Range
+of Objects (Degree
+Celsius)
+
+-20 to +250 -20 to +250
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/Dp9Y1_uJenHnUYVacCwd1KNdcWUUNnlGYD03fllXVQ8
+
+
+ 
+
+Temperature
+measuring accuracy
+of reading (or
+better)
+
+± 2% oC ± 2% oC
+
+Minimum Focus
+distance
+
+65 65.0
+
+Image capture
+frequency/ frame rate
+(Hz)
+
+N ≥ 9 *
+
+Image Detector Type Uncooled focal plane
+array (FPA)Vox/
+Asi/BST/Silicon
+
+*
+
+Thermal sensitivity
+(NETD)
+
+0.07 0.07
+
+User selectable
+Emissivity
+setting/correction
+
+Between 0.1 and 1 *
+
+Infrared spectral band
+(micrometer)
+
+Between 8 and 14 *
+
+Image Palettes 3 *
+
+DISPLAY Display Type Color LCD Color LCD
+
+Display size 3 3.0
+
+GENERAL FEATURES Image capture, review
+and save mechanism
+
+One handed image
+capture, review and
+save capability
+
+*
+
+Storage medium SD Memory card *
+
+Size of USB stick 4 *
+
+File formats JPEG *
+
+Built-in digital
+camera/ Visual
+Camera Resolution
+(Mpixel)
+
+NA NA
+
+Details of Operating
+functions
+
+- *
+
+Facility for the
+adjustment/ selection
+of the time/date etc
+
+yes *
+
+Interface for image
+transfer
+
+WiFi *
+
+Focus NA *
+
+other features - *
+
+OPERATING CONDITION Minimum Operating
+Temperature
+
+-5 *
+
+Maximum Operating
+Temperature
+
+65 *
+
+                               3 / 6
+
+
+
+ 
+
+Operating Humidity
+(RH)
+
+95 *
+
+POWER REQUIREMENT Power Requirements Battery Operated *
+
+chemistry of the
+battery
+
+lithium ion *
+
+Voltage of
+rechargeable Battery
+
+3.7 *
+
+Capacity of
+rechargeable battery
+(milliAH)
+
+2600 *
+
+Suitable
+charger/adapter
+provided
+
+yes *
+
+Battery Backup 4 *
+
+Power Management Automatic shut down
+/User Selectable
+
+*
+
+On-screen battery level
+indicator
+
+yes *
+
+CERTIFICATION &
+SAFETY
+
+IP Protection IP54 *
+
+Safety certification UL *
+
+GENERIC Size/ dimension - *
+
+Weight (including
+batteries)
+
+0.575 *
+
+Automatic active
+temperature
+stabilization system of
+camera
+
+yes *
+
+Provision for through-
+the-lens direct
+temperature
+measurement
+capability
+
+yes *
+
+TEST REPORT DETAILS
+& TESTS
+
+The equipment
+supplied with
+calibration certificate
+
+yes *
+
+conformity to Dry Heat
+for 16 hrs at a
+maximum temp in
+accordance with IS:900
+0/part-3/section-5/1977
+latest
+
+Yes *
+
+conformity to Cold Test
+for 4 hrs at a minimum
+temp in accordance
+with IS:9000/part-2/sec
+tion-4/1977 latest
+
+Yes *
+
+conformity to Damp
+Heat (Cyclic)Test for 2
+
+Yes *
+
+                               4 / 6
+
+
+
+ 
+
+Cycles of 24 h each at
+a temp of 40 degree C
+& 95% RH
+
+Availability of the test
+report from Central
+Govt/ NABL/ ILAC
+accredited lab to prove
+conformity to the
+specification
+
+No *
+
+Test Report Number
+and date for the
+specification test (not a
+part of biddable
+parameter)
+
+- *
+
+Name and address of
+the Lab for the
+specification test (not a
+part of biddable
+parameter)
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignee/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Uttam Kant
+Sharma
+
+492001,AIIMS Raipur
+Tatibandh
+
+1  30 N/A
+
+Bid Specific Additional Terms and Conditions
+
+1.Authorised Service Centre within the state of Odisha, along with a dedicated contact person
+with telephone number for technical solution in a fast track basis at this institution as and
+when required basis.
+
+2.Experience Certificate for the supply of the same to any Govt/ PSU/ any renowned private
+organisation along with Supply/ Purchase Order.
+
+3. If the agency is registered under MSME or NSIC, then EMD exemption certificate needs to be
+enclosed.
+
+4.Make in india specific authorisation certificate needs to be enclosed.
+5. ISO 9001: The bidder must have ISO 9001 certification.
+6.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+7.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+
+                               5 / 6
+
+
+
+ 
+
+offered product during the last three years, ending on 31st March of the previous financial
+year, should be as indicated in the bid document. Documentary evidence in the form of
+certified Audited Balance Sheets of relevant periods or a certificate from the Chartered
+Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than
+3 year old, the average turnover in respect of the completed financial years after the date of
+constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of
+CATEGORY RELATED TO primary product having highest bid value should meet this criterion.
+
+8.OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be
+ordered up to 25 percent at the time of placement of contract. The purchaser also reserves
+the right to increase the ordered quantity by up to 25% of the contracted quantity during the
+currency of the contract at the contracted rates. Bidders are bound to accept the orders
+accordingly.
+
+9.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+This RA is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,532 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/691839
+
+  Dated: 30-06-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 10-07-2020 11:00:00
+
+Bid Opening Date/Time 2020-07-10 11:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Coal
+
+Department Name Materials Management
+
+Organisation Name Central Coalfields Limited
+
+Office Name Central Coalfields Limited
+
+Total Quantity 2
+
+Item Category All in One PC
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 6
+
+
+
+ 
+
+All In One PC ( 2 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Processor Processor Make Intel Intel
+
+Processor
+Generation
+
+8 8.0 Or higher
+
+Number of Cores per
+Processor
+
+6 6, 8 Or higher
+
+Processor Base
+Frequency (GHz)
+
+1.7 *
+
+Processor
+Description
+
+Intel Core i5 Intel Core i5, Intel Core
+i7, Intel Core i9 Or
+higher
+
+Processor Number Intel Core i5 8400T Intel Core i5 8400T,
+Intel Core i5 7500, Intel
+Core i5 8500T, Intel
+Core i5 7600, Intel Core
+i5 7600K, Intel Core i5
+8400, Intel Core i5
+8500, Intel Core i5
+8600, Intel Core i5
+8600K, Intel Core i7
+7700T, Intel Core i7
+7700, Intel Core i7
+8700T, Intel Core i7
+7700K, Intel Core i5
+8250U, Intel Core i7
+8700, Intel Core i5
+8700K, Intel Core i5
+Turbo Boost 3.6 GHz,
+Intel Core i5 Turbo
+Boost 4.1 GHz, Intel
+Core i5 Turbo Boost 4.3
+GHz, Intel Core i5
+Turbo Boost 4.6 GHz,
+Intel Core i5 9400, Intel
+Core i5 9500, Intel Core
+i5 9600, Intel Core i7
+9700, Intel Core i9
+9900, Intel Core i5
+9500T, Intel Core i7
+9700T Or higher
+
+Out of Band
+Management
+
+NA *
+
+Cache (MB) 9 *
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/VmTSMuJQrQj-XyL0kNMgJ9kOD0ZiJDBp0fi8A8h-2JM
+
+
+ 
+
+Motherboard Chipset Series Intel H Series Intel H Series, Intel B
+Series, Intel Q Series Or
+higher
+
+Chipset Number Intel H370 Intel H310, Intel H370,
+Intel B360, Intel Q 250,
+Intel Q 270, Intel Q 370
+Or higher
+
+Expansion Slots (M Dot
+2)
+
+2 *
+
+Graphics Graphics Type Dedicated/Discrete *
+
+Graphic Card
+Description
+
+- *
+
+Size of Memory in
+Case of Dedicated
+Graphic Card (GB)
+
+2 2, 3, 4, 8 Or higher
+
+Size of VRAM in case of
+Integrated Graphics
+(MB)
+
+128 *
+
+Operating System Operating System
+(Factory Pre-Loaded)
+
+Windows 10 Home Windows 10
+Professional, Windows
+10 Home
+
+Recovery Image Media CD from the OEM /
+Stored in Partition of
+the Hard Disk / USB
+Drive from the OEM /
+On Line / Cloud,
+
+*
+
+OS Certification Windows *
+
+Memory Type of RAM DDR4 *
+
+RAM Size (GB) 8 8, 16, 32 Or higher
+
+RAM Speed (MHz) 2400 *
+
+Total Numbers of DIMM
+Slots Available
+
+2 *
+
+Number of DIMM Slots
+populated
+
+1 *
+
+RAM Expandability
+up to( using spare
+DIMM Slots in GB)
+
+16 16, 32, 64 Or higher
+
+Storage Type of Drives used
+to populate the
+Internal Bays
+
+HDD HDD
+
+Number of Internal
+Bays populated with
+HDD
+
+1 *
+
+Capacity of each HDD
+(GB)
+
+1000 @7200 rpm *
+
+Total HDD Capacity
+(GB)
+
+1000 1000, 1500, 2000,
+2500, 3000 Or higher
+
+                               3 / 6
+
+
+
+ 
+
+Number of Internal
+Bays populated with
+SSD
+
+0 *
+
+Capacity of each SSD
+(GB)
+
+0 *
+
+Total SSD Capacity
+(GB)
+
+0 128, 256, 384, 512,
+768, 1024, 2048, 4096,
+0 Or higher
+
+Optane Memory (GB) 0 *
+
+Display Display Size
+(INCHES)
+
+23.8 23.6, 23.8, 27, 34, 37.5
+Or higher
+
+Display Type Non Touch Non Touch, Touch Or
+higher
+
+Panel Technology IPS IPS Or higher
+
+Display Resolution
+(PIXELS)
+
+1920x1080 1920x1080, 1920 x
+1200, 3200x1800,
+3840 x 2160, 3440 x
+1440, 4096x2304,
+5120x2880 Or higher
+
+Availability of
+Webcam integrated
+with Display
+
+Yes Yes
+
+If yes, Resolution of
+Webcam
+
+FHD *
+
+Availability of Speakers
+integrated with Display
+
+Yes *
+
+If Yes, Number of
+Speakers available
+
+2 *
+
+Connectivity Wireless Connectivity Yes *
+
+If Yes, Type of Wireless
+Connectivity
+
+Wi-Fi 802.11ac *
+
+Number of Ethernet
+Ports
+
+1 *
+
+Type of Ethernet Ports 10/100/1000 on board
+Integrated Gigabit Port
+
+*
+
+Bluetooth Connectivity Yes *
+
+If Yes, Version of
+Bluetooth Available
+
+4.2 *
+
+Ports Number of USB Version
+2 Point 0 Ports
+
+2 *
+
+Number of USB Version
+3 point 0 / 3 point 1,
+Gen 1 Ports
+
+2 *
+
+Number of USB Version
+3 point 1, Gen 2 Ports
+
+0 *
+
+Number of USB Type C 1 *
+
+                               4 / 6
+
+
+
+ 
+
+Ports
+
+Number of Serial Ports 0 *
+
+Number of VGA Ports 0 *
+
+Number of HDMI Ports 1 *
+
+Number of DP Ports 0 *
+
+Generic Optical Drive DVD R/W *
+
+Audio-in Yes *
+
+Audio-out Yes *
+
+Headphone out Yes *
+
+Microphone-in Yes *
+
+Stand Standard *
+
+Power Power Supply External *
+
+Power Supply Capacity
+(Watt)
+
+150 *
+
+Minimum Power
+Efficiency Range (%)
+
+85 - 90 *
+
+Certification BIS Registration under
+CRS of Meity
+
+Yes *
+
+BIS Registration
+Number and its Validity
+
+- *
+
+ROHS Compliance Yes *
+
+BEE / Energy Star for
+the given Model
+
+Yes *
+
+Other Certification
+Available
+
+UL,CE,FCC *
+
+Input Devices Mouse Connectivity Wireless *
+
+Type of Mouse Optical Scroll *
+
+Keyboard Connectivity Wireless *
+
+Type of Keyboard Standard *
+
+Operating Conditions Minimum Operating
+Temperature
+
+10 *
+
+Maximum Operating
+Temperature
+
+35 *
+
+Minimum Operating
+Humidity (%RH)
+
+10 *
+
+Maximum Operating
+Humidity (%RH)
+
+90 *
+
+Warranty On Site OEM
+Warranty (Year)
+
+3 3, 5 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+                               5 / 6
+
+
+
+ 
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Kathirvel S 829113,Regional Store B
+and K Area CCL Jarangdih,
+PO Jarangdih, Dist Bokaro
+
+2  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

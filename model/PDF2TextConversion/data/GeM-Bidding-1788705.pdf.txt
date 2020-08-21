@@ -1,0 +1,354 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/712393
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 09:00:00
+
+Bid Opening Date/Time 27-07-2020 09:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 15 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Army
+
+Office Name ***********
+
+Total Quantity 2
+
+Item Category Multimedia Projector (MMP)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+Estimated Bid Value  99000
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Multimedia Projector (MMP) ( 2 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Ports and Connectivity Number of HDMI In Port 1 *
+
+                               1 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/85QXqUkt0eqiI8ux3_mXhZ2pBE9oP20yvU-GeaYrl2Q
+
+
+ 
+
+Number of HDMI Out Port 0 *
+
+Number of DVI Port 0 *
+
+Analog RGB In Port (Hours) Yes *
+
+Analog RGB Out Port No *
+
+HD Base T No *
+
+Audio In Yes *
+
+Audio Out No *
+
+Video In Yes *
+
+Storage Media Port No *
+
+if Yes, Supported File
+Formats
+
+H.264/AVC,MPEG-2,VC-1 *
+
+Number of USB Type A 1 *
+
+Number of USB Type B 0 *
+
+Number of USB Type C 0 *
+
+Wi Fi Connectivity No *
+
+Wireless Screen Share No *
+
+LAN Connectivity No *
+
+Technical Specifications Technology One Chip DLP One Chip DLP
+
+Projection Method Front and Rear both *
+
+Native Resolution 1024 x 768 (XGA) 1024 x 768 (XGA), 1280 x
+720 (HD), 1280 x 800
+(WXGA), 1280 x 1024
+(SXGA), 1600 x 1200
+(UXGA), 1920 x 1080 (Full
+HD), 1920 x 1200 (WUXGA),
+3840 x 2160 (UHD 4K),
+2560 x 1600 (WQXGA),
+4096 x 2160 (4K), 5120 x
+3200 (4K+) Or higher
+
+Brightness (Lumens) 4000 3800, 4000, 4200, 4300,
+4500, 5000, 5200, 5500,
+6000, 6200, 6500, 7000,
+7500, 8000, 8500, 9000,
+9500, 10000, 12000, 13000,
+14000, 16000, 18000,
+20000, 22000, 25000,
+30000, 40000, 60000, 5800,
+6600, 6700, 21000 Or
+higher
+
+Contrast Ratio (Minimum)
+(pixels )( X :1 )
+
+22000 *
+
+Optical Zoom No Yes, No Or higher
+
+If Yes, Optical Zoom (%) NA *
+
+Availability of Lens No *
+
+Remotely Controlled No *
+
+If Yes, Type of Projector Short Throw (0.41 to 0.9) Standard Throw (0.91 to
+2.5), Short Throw (0.41 to
+0.9)
+
+Aspect Ratio 16:9 *
+
+Keystone Correction Manual *
+
+Type of Light Source UHP / UHE / UHM UHP / UHE / UHM, LED,
+
+                               2 / 4
+
+
+
+ 
+
+Laser, LED & Laser Hybrid
+
+Minimum Life of Light
+Source (In Normal Mode)
+(Hours)
+
+5000 2000, 4000, 5000, 6000,
+8000, 10000, 15000, 20000,
+25000, 30000 Or higher
+
+Lamp Hour Counter (In-
+Built)
+
+Yes *
+
+Inbuilt Speaker Yes *
+
+If Yes, Wattage of Speaker 2 *
+
+3D Projection Capability No *
+
+Interactive Feature No *
+
+Power Consumption in Sleep
+Mode (Watts)
+
+- *
+
+Power Consumption in
+Normal Mode (Watt)
+
+- *
+
+Noise Level in Echo Mode
+(dB)
+
+2 *
+
+Noise Level in Normal Mode
+(dB)
+
+28 *
+
+Power Supply 210V-240V, 50 Hz *
+
+Battery No *
+
+If Yes, Minimum Battery
+Capacity (mAH)
+
+NA *
+
+If Yes, Battery Backup Time
+(Hour)
+
+NA *
+
+Certificaions BIS Registration under CRS
+of Meity
+
+Yes *
+
+BIS Registration Number - *
+
+Generic Dimensions (Length x
+Breadth x Height) (mm x
+mm x mm)
+
+- *
+
+Weight (Kg) 2.2 *
+
+Minimum Operating
+Temperature (Degree C)
+
+- *
+
+Maximum Operating
+Temperature (Degree C)
+
+- *
+
+Minimum Operating
+Humidity ( % RH)
+
+- *
+
+Maximum Operating
+Humidity ( % RH)
+
+- *
+
+Warranty On Site OEM Warranty
+for Light Source (Time or
+Life in Hours whichever
+is earlier)
+
+1 Year or 5000 Hrs. 1 Year or 1000 Hrs., 1 Year
+or 1200 Hrs., 1 Year or 1500
+Hrs., 1 Year or 2000 Hrs., 1
+Year or 5000 Hrs., 3 Year or
+5000 Hrs., 3 Year or 10000
+Hrs., 3 Year or 12000 Hrs., 3
+Year or 15000 Hrs., 3 Year
+or 30000 Hrs., 5 Year or
+10000 Hrs. Or higher
+
+On Site OEM Warranty 1 1, 2, 3, 5 Or higher
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+                               3 / 4
+
+
+
+ 
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********JAMMU 2  30
+
+Bid Specific Additional Terms and Conditions
+1.Bidder financial standing: The bidder should not be under liquidation, court receivership or similar
+
+proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

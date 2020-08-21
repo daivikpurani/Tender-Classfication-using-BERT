@@ -1,0 +1,1592 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/709437
+
+  Dated: 14-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 24-07-2020 12:00:00
+
+Bid Opening Date/Time 24-07-2020 12:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Border Road Organisation
+
+Office Name ***********
+
+Total Quantity 1
+
+Item Category pabx system-EPABX ( PAC Only ) 
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Pabx System-EPABX ( 1 set ) ( Under PAC ) 
+
+Make coral
+
+Model coraldx2000(s0292)
+
+                             1 / 18
+
+
+
+ 
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+EXTENSION AND
+TRUNK / JUNCTION
+
+EPABX system
+Implementation Tech
+nology/Architecture
+
+Hybrid ( Microprocessor
+based also supporting
+SIP extension )
+
+Conventional (
+Card/microcontroller
+based ), Hybrid (
+Microprocessor based
+also supporting SIP
+extension ), Server
+Based ( Switching
+through Call Server
+Application )
+
+Number of Analogue
+Extensions / FXS
+Ports
+
+96 *
+
+Expandable Upto
+(TDM / FSX Ports)
+
+128 *
+
+Number of Digital
+Extensions
+
+NA 4, 8, 16, 24, 32, 64,
+128, NA
+
+Number of Analogue
+Junction/FXO ports
+
+8 *
+
+Number of SIP
+Extensions
+
+NA *
+
+SIP Extensions
+expandable upto
+
+NA *
+
+Number of SIP
+Trunks
+
+NA 4, 8, 16, 32, 64, 96,
+128, 256, NA
+
+MAIN DISTRIBUTION
+FRAME(MDF)
+
+MDF(Number of pair) 100 *
+
+Integrated
+Protection
+Module(IPM)
+
+Yes Yes, No
+
+If YES,number of
+Integrated
+Protection
+Module(IPMs)
+
+NA *
+
+CARDS CARDS Type of Cards
+Supported
+
+BRI,PRI,E1,E&M,Radio
+Interface,GSM
+
+BRI, PRI, E1, E&M,
+Radio Interface, GSM,
+NA
+
+Number of Ports per
+Card Supported
+
+4 1, 2, 4, 6, 8, 12, 16, 24,
+NA
+
+GATEWAYS Type of Gateways
+Supported
+
+Universal Gateway,SIP,
+FXO,FXS,PRI,Radio,GSM
+,E1,E&M
+
+*
+
+Number of Ports per
+Gateway Supported
+
+NA *
+
+                             2 / 18
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/7s7KfO134d_XkXM3qhYWOtqxOYm8KuB3eajVBD43tpw
+
+
+ 
+
+CONSOLE Type of Operator
+Console
+
+Key phone based PC based, Key phone
+based, Server Based,
+NA
+
+Number of Operator
+Console
+
+1 *
+
+SERVER
+SPECIFICATIONS /
+REQUIREMENTS
+
+Total Number of
+Servers Included in
+the Supply
+
+NA *
+
+"Number of Hot
+Standby Servers out of
+Total Servers, included
+in the Scope of Supply"
+
+0 *
+
+Server Form Factor NA *
+
+Rack Size (RU) / Space
+Required for each
+Server
+
+NA *
+
+Processor Make NA *
+
+Processor Configuration
+& Description
+
+NA *
+
+Total Number of
+processor
+
+NA 1, 2, 4, 6, 8, 10, 12, NA
+
+Number of
+Redundant
+Processors Included
+in the Total Number
+of Processor
+
+NA 1, 2, 4, 6, 8, 10, 12, NA
+
+Number of Cores per
+Processor
+
+NA *
+
+Type of RAM NA *
+
+RAM Size (in GB) NA 4, 8, 16, 32, 64, 128,
+256, NA
+
+T ype of Hard Disk
+Drive
+
+NA *
+
+Capacity of Hard
+Disk Drive (in TB)
+
+NA *
+
+Hot Swap
+Components
+
+NA Power Supply Unit,
+Fans, HDD, NA
+
+Network Interface NA *
+
+SOFTWARES Applcation Software
+Type / Capabilities
+
+NA Call Server Software,
+Hot StandBy Server
+Software, Unified
+Communication Server
+Software, Network
+Management Server
+Software, NA
+
+Type of Licence NA Perpetual, Subscription
+Based, NA
+
+                             3 / 18
+
+
+
+ 
+
+Name of Softwares CORAL DX 2000 *
+
+Name of the OEM CORAL *
+
+OEM Model / Part
+Number
+
+DX 2000 *
+
+Software Description LATEST *
+
+Software Version 01.06.2019 *
+
+Date of Launch of
+Version
+
+01.06.2016 *
+
+Free supports/updates
+during validity of
+license
+
+YES *
+
+SOFTWARE FEATURES Analog
+Extention/FXS ( If
+Yes, Number of
+Software / Licences
+shall be
+Commensurate /
+Equal to the Number
+of Analog
+Extension/FXS
+Offered under
+""EXTENSION AND
+TRUNK / JUNCTION""
+)
+
+NO YES, NO, NA ( For
+Convensional PBX )
+
+"Digital Extension (
+If Yes, Number of
+Software / Licences
+shall be
+Commensurate /
+Equal to the Number
+of Digital Extension
+Offered under
+""EXTENSION AND
+TRUNK / JUNCTION""
+)"
+
+NO YES, NO, NA ( For
+Convensional PBX )
+
+"Analog
+Junction/FXO ( If Yes,
+Number of Software
+/ Licences shall be
+Commensurate /
+Equal to the Number
+of Analog
+Junction/FXO Offered
+under ""EXTENSION
+AND TRUNK /
+JUNCTION"" )"
+
+NO YES, NO, NA ( For
+Convensional PBX )
+
+"SIP extension ( If
+Yes, Number of
+Software / Licences
+shall be
+Commensurate /
+Equal to the Number
+
+NO YES, NO, NA ( For
+Convensional PBX )
+
+                             4 / 18
+
+
+
+ 
+
+of SIP Extension
+Offered under
+""EXTENSION AND
+TRUNK / JUNCTION""
+)"
+
+"SIP trunk ( If Yes,
+Number of Software
+/ Licences shall be
+Commensurate /
+Equal to the Number
+of Offered under
+""EXTENSION AND
+TRUNK / JUNCTION""
+)"
+
+NO YES, NO, NA ( For
+Convensional PBX )
+
+"PRI Trunk ( If Yes,
+Number of Software
+/ Licences shall be
+Commensurate /
+Equal to the Number
+of PRI Trunk Offered
+under ""EXTENSION
+AND TRUNK /
+JUNCTION"" )"
+
+NO YES, NO, NA ( For
+Convensional PBX )
+
+"Radio Interface ( If
+Yes, Number of
+Software / Licences
+shall be
+Commensurate /
+Equal to the Number
+of Radio Interface
+Offered under
+""EXTENSION AND
+TRUNK / JUNCTION""
+)"
+
+NO YES, NO, NA ( For
+Convensional PBX )
+
+"GSM ( If Yes,
+Number of Software
+/ Licences shall be
+Commensurate /
+Equal to the Number
+of GSM Offered
+under ""EXTENSION
+AND TRUNK /
+JUNCTION"" )"
+
+NO YES, NO, NA ( For
+Convensional PBX )
+
+"E1 Trunk ( If Yes,
+Number of Software
+/ Licences shall be
+Commensurate /
+Equal to the Number
+of E1 Trunk Offered
+under ""EXTENSION
+AND TRUNK /
+JUNCTION"" )"
+
+YES YES, NO, NA ( For
+Convensional PBX )
+
+"E&M ( If Yes,
+Number of Software
+
+NO YES, NO
+
+                             5 / 18
+
+
+
+ 
+
+/ Licences shall be
+Commensurate /
+Equal to the Number
+of E&M Offered
+under ""EXTENSION
+AND TRUNK /
+JUNCTION"" )"
+
+GENERAL FEATURES of
+EPABX SYSTEM
+
+Number of
+Conference
+Participants
+Supported
+
+NA 8, 16, 24, 32, 64, NA
+
+Number of Direct
+Station Selection Keys
+per Console
+
+NA *
+
+Number of Media
+Channel/Ports
+Supported
+
+NA 8, 16, 24, 32, 64, 128,
+256, 512, NA
+
+Number of IP-TDM
+Concurrent Calls(2
+users per call)
+Supported
+
+NA *
+
+Call Buffer Memory
+System
+
+Yes Yes, No
+
+If Call Buffer
+Memory
+Available,Number of
+Records
+
+2000 100, 250, 500, 1000,
+2000, NA
+
+Hot Standby
+Redundant CPU
+
+No Yes, No
+
+If YES,Number of Hot
+Standby CPU Cards
+
+NA 1, 2, NA
+
+Hot Standby
+Redundant PSU
+(Power Supply Unit)
+
+No Yes, No
+
+If YES, Number of
+Hot Standby
+Redundant PSU
+Cards
+
+NA 1, 2, NA
+
+Inbuilt Voice Mail for
+EPABX System
+
+No Yes, No
+
+If Voice Mail
+Available, Number of
+Voice Mail Channels
+
+NA 4, 8, 16, 32, 64, NA
+
+Available for Voice
+Mail, Number of
+Hours of Recording
+
+NA 4, 8, 16, 32, 64, 128,
+256, 512, NA
+
+Auto Attendant Facility No *
+
+If Available, Number of
+Auto Attendant
+
+NA *
+
+                             6 / 18
+
+
+
+ 
+
+Channels
+
+ASMDR/CDR Yes Yes, No
+
+Voice Logger NA Inbuilt, Inbuilt External
+Connecting facility, NA
+
+If YES, Number of
+Simultaneous Calls that
+can be Recorded in
+Voice Logger
+
+NA *
+
+Security Feature(for
+server based)
+
+NA *
+
+Supported
+Functionalities (for
+server based)
+
+NA *
+
+Supported Codecs NA *
+
+Any other features IP BASED EXCHANGE *
+
+SYSTEM/EXTENSION/AT
+TENDANT CONSOLE
+FEATURES
+
+System Features Automatic Route
+Selection facility,DID
+facility(Direct inward
+dialing),DOD
+facility(Direct outward
+dialing),DISA
+facility(Direct inward
+station access),DOSA
+facility(Direct outwards
+station access),Multi
+Level Voice DISA
+facility,Privacy of
+Call,Facility for
+connecting recorded
+voice answering,ASMD
+R/CDR,Programmable
+class of service for
+(STD/ISD/LOCAL)
+dialing as per
+need,Caller ID
+information for both
+internal and external
+callers (over Analogue,
+ISDN PRI),unique
+authorization codes for
+every users,Automatic
+call back,Call
+waiting,Music-on-hold
+facility,Call
+budgeting,Least cost
+routing,Mix-mode
+dialing,Provision for
+remote
+logins,Interactive Voice
+Response
+System(IVRS),Extensio
+n to Extension dialing
+
+*
+
+                             7 / 18
+
+
+
+ 
+
+Extension Features Call
+forwarding,Consultatio
+n Hold,Brokers
+Call,Automatic call
+transfer,Conference
+call,Call pick up,Call re
+routing,Auto call
+disconnection,Dynamic
+STD Lock,Paging on
+key phone,Background
+music,Password
+control,Virtual
+Telephony,Howler
+Tone,Call parking,Auto
+answer/Auto
+off,Emergency call facili
+ty,Missed/Dialed/Receiv
+ed Call Lists,Last Caller
+Call back,Password
+display
+suppression,Personal
+Identification
+Number,Hotline,Preset
+Conference Calls,Direct
+Call billing in
+rupees,Call billing
+printout,Calling line
+identification(CLI)
+
+*
+
+Attendant Console
+Features
+
+Answering an incoming
+call,Call queuing,Serial
+Call,Call waiting
+display,Automatic Call
+Distribution,Call
+Hold,Trunk
+offering,Night
+service,Head phone
+connectivity,Other
+Attendants console
+Features
+
+Answering an incoming
+call, Call queuing,
+Serial Call, Call waiting
+display, Automatic Call
+Distribution, Call Hold,
+Trunk offering, Night
+service, Head phone
+connectivity, Other
+Attendants console
+Features
+
+Voice Prompts and
+Announcement
+
+No *
+
+If yes, Number of
+Levels of IVRS
+
+NA 1, 2, 3, 4, 5, 6, 7, 8, NA
+
+POWER SOURCE Supply Voltage 230V AC,50HZ 230V AC,50HZ, 48V
+DC, NA
+
+Provision for Inbuilt
+Battery Charging
+Arrangement for
+providing Battery
+Backup
+
+YES *
+
+FCBC NO YES, NO, NA
+
+If YES, minimum
+current Rating of
+
+NA 10A, 12.5A, 25A, 50A,
+NA
+
+                             8 / 18
+
+
+
+ 
+
+FCBC at chrging
+voltage of 48V
+(Ampere)
+
+Protection against over
+current and accidental
+reversal of polarity on
+the input side and
+against over current,
+over voltage on the
+output side
+
+YES *
+
+OPERATING
+CONDITIONS
+
+Minimum Operating
+Temperature
+(Degree C)
+
+0 10, 5, 0, -5, -10
+
+Maximum Operating
+Temperature
+(Degree C)
+
+45 35, 40, 45, 50, 55
+
+Operating Humidity
+(RH) (% )
+
+85 80, 85, 90, 95
+
+TEST REPORT DETAILS
+AND TESTS
+
+TEC approval as per
+the latest TEC
+specifications
+
+YES *
+
+TEC approval
+Certificate number
+
+TEC/NR/I/PBX-004/03/1
+16.APR17
+
+*
+
+Availability of the test
+report from Central
+Government/ NABL/
+ILAC acredited lab to
+prove conformity to the
+specification including
+Environmental Test
+Sequence
+
+Yes *
+
+Test Report Number
+and date (not a part of
+biddable parameter)
+
+ERTL(N)/90(04)-2016-1
+7/Q0531 DATE
+16-MAR-2017
+
+*
+
+Name and Address of
+the Test lab(not a part
+of biddable parameter)
+
+ELECTRONICS
+REGIONAL TEST
+LABORATORY(NORTH)
+
+*
+
+Test reports consist of
+verification of all the
+features & functional
+parameters &
+environmental tests
+
+Yes *
+
+conformity to Dry
+Heat for 16 hours at
+maximum specified
+temperature degree
+C in accordance with
+IS:9000/part-3/sectio
+n-5/1977 latest
+
+Yes Yes, No
+
+conformity to Cold
+Test for 4 hours at
+
+Yes Yes, No
+
+                             9 / 18
+
+
+
+ 
+
+minimum specified
+temperature degree
+C in accordance with
+IS:9000/part-2/sectio
+n-4/1977 latest
+
+conformity to Damp
+Heat (Cyclic)Test for
+2 Cycles of 24 h each
+at a temperature of
+40 degree C & 95%
+RH in accordance
+with IS:9000/part-5/s
+ection-1/ 1991 latest
+
+Yes Yes, No
+
+INSTALLATION AND
+MAINTENANCE
+
+Installation and
+Commissioning
+
+With With, Without
+
+Chemical Earthing to
+achieve resistance <
+2ohm
+
+No Yes, No
+
+Recommendation /
+Information regarding
+Supporting Hardware
+Required to meet the
+Performance /
+Capabilities of the
+System
+
+DUST FREE
+ENVIRONMENT WITH
+PROPER POWER
+SUPPLY
+
+*
+
+OPERATION &
+MAINTENANCE
+SUPPORT
+
+The scope of supply
+include one set of
+operation and
+maintenance manual
+for each equipment
+
+YES *
+
+Operation &
+Maintenance terminal
+
+Provided *
+
+Training provided to
+buyers
+
+Yes Yes, No
+
+If YES,Details of
+training
+
+On site training for 3
+days
+
+On site training for 3
+days, On site training
+for 5 days, NA
+
+Packing List EXCHANGE WITH BASIC
+ACCESSORIES
+
+*
+
+SERVICES Warranty 1 1, 2, 3, 4, 5, 6, 7, 8, 9,
+10 Or higher
+
+Recommendation /
+Information regarding
+Supporting Hardware
+Required to meet the
+Performance /
+Capabilities of the
+System,
+
+YES *
+
+Compliance to STC of
+the Product
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+
+                            10 / 18
+
+
+
+ 
+
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********PAPUM PARE 1  45
+
+Special terms and conditions for category pabx system-EPABX 
+
+1.STC FOR pabx system - EPABX In addition to general terms and conditions of the GeM
+following special T&C shall be applicable:
+
+1.SYSTEM FEATURES FOR EPABX SYSTEM :
+1.The EPABX System is Digital PCM/TDM (non-blocking) technology.
+2.  Tone and Ringing: The System to provide the standard tones and ringing
+
+current as in the Public Telephone Network as follows :
+1.Ringing 75 V AC , 25 Hz.
+2.Ring back tone 400 Hz. 0.4 sec ON, 0.4 sec OFF.
+3.  Dial tone 400 Hz modulated by 25 Hz.
+4.  Busy tone 400 Hz, 0.75 sec ON, 0.75 sec OFF.
+5.  Line feed voltage 48 V +/- 4 V DC.
+
+3.The equipment and circuits for tones and ringing are part of main PABX
+equipment.
+
+1.The equipment is with Automatic Route Selection facility to determine
+least cost route automatically based on class of service.
+
+4.Extension-to-Extension Dialing: It is possible to establish internal calls
+automatically by dialing any number without assistance of the attendant.
+
+5.Direct Outward Dialing: It is possible to establish external calls automatically
+by dialing any number without the assistance of the attendant (subject to
+class of service).
+
+6.Provision of DID & DISA: It has facility for direct inward dialing and direct
+inward station access.
+
+7.Direct Outwards Station Access (DOSA): Any Extension can access the trunk
+lines of the System through personal pass code to make outward calls. All
+DOSA calls remain in account of that particular Extension.
+
+8.Direct Station Selection (DSS): Just pressing a single key the operator or
+extension can directly call an extension or access the trunk line without
+hassles of pressing multiple digits.
+
+9.Multi Level Voice DISA: When ordered as an extra feature/card, this will
+enable the systems to provide auto attendant service to outside callers to
+directly access the desired extension by surpassing the operator. The caller is
+to be step wise guided by multi-level voice messages.
+
+10.Access To Exchange Network: It is possible for an extension to get access to
+public network with or without the attendant in such cases, facility to exist for
+the attendant to either dial the required No. or to merely extend the junction
+to the extension and permit the subscriber to dial the number.
+
+11.Privacy Of Call: Full privacy of conversation is available on all calls whether
+
+                            11 / 18
+
+
+
+ 
+
+established directly or by the attendant. A warning tone of a specified
+frequency is applied when trunk-offering facility is exercised by the attendant
+on an extension user.
+
+12.Class Of Service: It is possible to allow an extension control over the
+telephone usage by providing him suitable class of service.
+
+13.The coding technique to be used is ALAW/CODEC per channel.
+14.During night, when the board is shut, external lines is be linked to any pre-
+
+defined extensions.
+15.Provision for connecting recorded voice / answering to make available
+
+extensions to an incoming call without the help of operator.
+16.Flexible Numbering Scheme: System has provision for flexible numbering
+
+plan up to four digits/six digits for extensions.
+17.  Trunk Support: The system supports Analog trunks,GSMtrunks,ISDN BRI,VOIP
+
+and SIP trunks.Generally,system supporting ISDN PRI is also compatible to E1
+connectivity.
+
+18.Universal slots Configuration: All slots of the System are identical to facilitate
+flexible configuration of the System as per user needs.
+
+19.Discriminate Ringing: The System supports discriminate ringing to indicate
+internal &external calls.
+
+20.Multiple Consoles: The System supports multiple numbers of consoles for
+large EPBAX Systems.
+
+21.Mixed Station Dialing: To support all the features irrespective of type of
+telephone instruments i.e., DTMF or DECADIC.
+
+22.Versatile ASMDR/ CDRThe System supports ASMDR/CDR, which is a call
+accounting application that can record suitable number of calls and print as
+applicable without dedicated printer.
+
+23.Power Failure Transfer: In the case of power failure all P&T / CO lines become
+available on the pre-set Extensions. Provision for Availability of Junction Lines
+are as under: System of 4 & 8 Junctions: Availability of 2 Junctions System of
+24 & 32 Junctions: Availability of 4 Junctions System of 64 Junctions:
+Availability of 8 Junctions.
+
+24.Programmable Class Of Service: The System supports programmable class of
+service for P&T (STD/ISD/LOCAL) dialing as per need.
+
+1.  Direct Call Billing In Rupees: The System supports direct call billing
+(near value) through parallel/serial port printer without computer or
+through Call billing software with computer.
+
+2.Call Billing Printout Options: The System supports versatile multiple
+combinations of direct printout options with total amount viz.,
+Extension wise, Trunk wise. Todays call print out, Group wise printout,
+Particular date, Particular Month, Particular Time, Particular Phone
+etc.
+
+3.  This is an optional feature and when ordered it enables the incoming
+calling No. is displayed on Key/Analog Phone even if the call is
+transferred by the operator, it is compatible to DTMF (Optional).
+
+4.  Remote Maintenance: The System programming can even be done
+from remote locations.
+
+25.PABX System is suitable for flexible numbering scheme. It is support at least
+6 digits numbering scheme. System also allow mixed numbering scheme.
+
+26.System has abbreviated dialing feature configurable for system wise and
+individual user basis.
+
+27.Caller ID information for both internal and external callers (over Analogue,
+ISDN PRI) is available to endpoint users. It is possible to capture the CLI
+coming from the digital and analog trunks in the Network and display the
+same on following :
+
+1.  IP Phones
+2.  Digital Phones.
+3.  Analog Phones with DTMF and FSK CLI with Name unit (inbuilt CLI
+
+                            12 / 18
+
+
+
+ 
+
+unit). It is possible to provide CLI on all analog extensions
+simultaneously without any limitation on the number of extensions on
+which this facility would be available.
+
+28.  Every subscriber has his own authorization code to make outgoing calls
+thereby ensuring no misuse of the system. Unique authorization codes is
+possible for every subscriber & the user to have a complete flexibility to dial
+his identification or authentication code from any location & thus utilize all his
+facilities from there.
+
+29.Automatic call back for any of the dialed extension within the exchange in
+case of busy.
+
+30.Direct seizure of PSTN junction using a code or a key of digital phone.
+31.Reservation of access to PSTN junction line for certain user.
+32.Limitation for certain user to access PSTN junction line depending on time of
+
+the day.
+33.  Fully Restricted Extensions - Extensions must be able to be barred from all
+
+forms of outgoing access, except calls to Emergency Service like Helpdesk,
+Fault Control, Fire service through class of service programming. This will
+restrict the extension to receiving incoming calls only.
+
+34.Time Based disconnection on PSTN calls which can be user group based.
+35.The system may have option to support connectivity to third party
+
+applications like call billing system, voice mail, IVR (Interactive Voice
+Response) System etc.
+
+36.Class of restriction facility to define different class of call origination and
+termination facilities.
+
+37.  Call Waiting - System allow users to have "Call waiting" for internal caller
+and external caller or operator. Subscribers with digital or IP- telephones with
+display is able to override an ongoing call for a waiting call. In the busy state,
+the callers receive the call connect signal, the subscriber receives an alerting
+tone and the caller ID is shown on the display. Without terminating the
+existing call, it is possible to take the waiting call and toggle between the two
+calls. The caller hear a call waiting tone in case to be informed about his call
+waiting.
+
+38.System has built-in music-on-hold facility. The system provide
+internal/external music and recorded announcement information to callers on
+hold.
+
+39.Voice Prompts and Announcement - The system supports a plug-in voice
+announcement board with minimum 30 announcements.
+
+40.Call Detail Recording - System supports versatile call charging system.
+Details of extension numbers date, time, called number, duration of call and
+call charges to be provided. The system has an inbuilt billing system, which is
+capable of calculating the call charges without the need for any additional
+external hardware or software systems.
+
+41.Call Budgeting - The system has call budgeting feature, wherein the call
+charge budget for each extension of the system can be defined and if for any
+user, the budget exceeds, all outgoing trunk calls will be barred. This feature
+is inbuilt in the system.
+
+42.Least Cost Routing - The system has inbuilt Least Cost routing (LCR) which
+can be configured as Dialed number based or Time based or call charges
+based.
+
+43.Multiple Operator Positions. - Multiple Operator positions to be provided, and
+Exchange lines and functions may be grouped to be handled by one or more
+operator positions. The system has a provision to support operator consoles
+as per the capacity and configuration. The operator consoles to be equipped
+with PC based consoles with headgears.
+
+44.The system has the function of gateway and gatekeeper for IP telephony. The
+hardware should be on board capable of going into any universal slot.
+
+45.  The system supports mix-mode dialing. The system automatically detect the
+
+                            13 / 18
+
+
+
+ 
+
+type of analog phone connected to the subscriber card and support
+PULSE/DTMF dial without changing the parameters in the switch.
+
+46.The system has provision for remote logins for maintenance. These Logins
+are password protected. Also there it is possible to create different
+maintenance logins with different privileges.
+
+47.The system administration and maintenance should be using GUI based
+software.
+
+48.  Closed User Group : The system may at least 16 closed user group with
+maximum of 30 subscribers in each group.
+
+2.EXTENSION FEATURES FOR EPABX SYSTEM :
+1.Automatic Call Back: Facility exist for an extension user on encountering a
+
+busy signal on a called extension, to invoke the automatic call back feature
+by dialing a code before hanging up. When both the calling and called parties
+are free, the call is be automatically put through and in case of no-answer the
+call may be disconnected after a specified period.
+
+2.Call Forwarding: An extension with this class of service is able to transfer all
+incoming calls, temporarily to another pre-selected extension. Such requests
+to be registered by dialing a code followed by the extension No. Facility also
+exist for cancellation of a request registered earlier.
+
+3.Consultation Hold: An extension engaged on an external call (incoming or
+outgoing) is able to hold the call while making internal call for private
+consultation. The external subscriber not to overhear such consultation.
+There must be facility of music during hold condition.
+
+4.Brokers Call: An extension engaged on an external call (incoming or
+outgoing) is able to hold the call while making another call than alternate
+between the two. The other party not to over hear such consultation. There
+must be facility of music during hold condition.
+
+5.Automatic Call Transfer: It is possible for an extension user to transfer
+incoming calls to another extension with or without help of the attendant.
+
+6.Executive/Secretary: A combination of call forwarding, consultation & hold to
+provide for executive to selectively/answer calls.
+
+7.Executive Over-Ride: There must be facility offering priority to 5 minimum
+extensions to over-ride on going conversations.
+
+8.Conference Call: It is possible for an extension user to set up a conference
+call with other extension users or outside callers as per system capacity and
+configuration. One of the extension user or by the attendant may set up the
+conference call.
+
+9.Call Pick-Up : It is possible for an extension user to pick-up incoming calls
+ringing on another extension without the help of the attendant. The system is
+support the following types of call pickup :
+
+1.  Group Call Pickup
+2.Directed call pick-up.
+
+10.Call Re-Routing : It is possible for a call to be re-routed, without help of the
+attendant, to other pre-defined extensions when certain conditions apply.
+
+11.Auto Call Disconnection: System to facilitate to fix the time of call beyond
+which it will be automatically disconnected.
+
+12.Dynamic STD Lock : The System supports individual extension that can lock
+outward dialing (STD/ISD/LOCAL) by a personal secret pass code to prevent
+misuse by others.
+
+13.Paging On Key Phone: The caller can activate speaker phone of the called
+extension to communicate in urgency in own voice when Extension is idle.
+
+14.Call Name & Extension number on Display (Internal CLI): Name as well as
+Extension No. of the caller is displayed on the Key Phone, facilitating to
+respond accordingly.
+
+15.Background Music: The Key Phone user can enjoy the light background
+music.
+
+16.Auto-Answer / Auto-Off : Key Phone can be programmed for auto-answer after
+
+                            14 / 18
+
+
+
+ 
+
+pre-set number of incoming rings. The Key Phone is automatically
+disconnected when caller disconnects.
+
+17.Extension to extension calls, Operator assisted calls
+18.Direct inward dialing (DID), Direct outward dialing
+19.Programmable Class of Service features for local/STD/ISD dialing as well as
+
+for system features with dynamic locking facility.
+20.  Discriminative ringing for internal, external and VIP calls.
+21.Abbreviate dialing - Individual extensions are able to at least program 10
+
+abbreviated call numbers for regularly called numbers.
+22.Call Transfer -
+
+1.Transferring external calls
+2.Transferring internal calls
+
+23.Camp On -
+1.Camp On Busy
+2.Camp On Idle
+
+24.Call Parking - It is possible to park calls and retrieve from both analog and
+digital/IP extensions.
+
+25.  Line â€“ lockout
+26.Trunk camp on, Wake up alarm, Do not disturb
+27.Last number redial
+28.Voice mail interface server
+29.Emergency Call - The system has the facility for the user to broadcast
+
+simultaneously on at least 5 end point users irrespective of their state in
+event of any emergency through message dialing a feature code.
+
+30.Missed/Dialed/Received Call Lists - It should be possible to view at least last
+eight dialed/received/missed calls on display equipped terminals.
+
+31.Last Caller Call back - For an analog subscriber without CLI phone, it is
+possible to dial the last incoming caller, by dialing a specific code. This would
+enable the analog subscriber to call back any missed call on his/her
+extension.
+
+32.  Hotline - Direct inward system access
+33.Password Display Suppression - When a password is entered in a display
+
+equipped terminal the display should suppress the digits so that no one
+present can deduce the password.
+
+34.Personal Identification Number - This feature is also called as Floating
+Password. Through this feature subscribers is able to go to any extension in
+and across the network and make that extension as his extension for a Call or
+for certain time period.
+
+35.  Password Control - It is possible to assign Passwords to telephone from both
+Maintenance Terminals as well as telephone to prevent misuse of telephone.
+
+36.  Virtual Telephony - It is possible to give subscribers a virtual account code,
+which can be used for making outgoing calls from any extension. All such
+calls made are to be accounted to the virtual account.
+
+37.Hunt Groups - It is possible to have both Cyclic and Linear Hunting of
+extensions.
+
+38.  Howler Tone - It is possible to give a howler tone on the extension in case
+the handset is kept off hook after a timeout.
+
+39.  One Number Service - The system supports One Number Service. This
+feature allows the calls coming in to extension to ring after administered
+numbers of rings (follow me) at a predefined Mobile phone number or PSTN
+Number. It is then be possible to use the predefined handset as a remote
+extension.
+
+40.Add on conference (three parties)
+41.Preset Conference Calls: It is possible to dial out a pre-defined group of
+
+participants/numbers by simply pressing the pre-assigned key on the digital
+phone or by code from any of the analog phone. It is also possible to have
+multiple such groups. Additionally, each preset conference must have its own
+
+                            15 / 18
+
+
+
+ 
+
+unique dial number. When this group number is dialed, all the number
+stations will ring simultaneously. As members join the conference, all actively-
+participating members will hear a warning tone indicating that another
+participant has entered the conference. Stations that go un-answered will
+continue ringing without disturbing the conference until the ring time out is
+completed.
+
+3.ATTENDANTS CONSOLE FEATURES FOR EPABX SYSTEM:
+1.Stand-alone or P.C. based Attendant Console with the following features :
+
+1.The operator console has easy to view display,multiple keys and busy
+lamp field for extensions. It has easy handling facility for all internal &
+external calls.
+
+2.Answering an Incoming Call: Facility exist for answering an incoming
+call, whether from an internal extensions or external junction. It is
+possible to identify the type of call that is internal, external line etc.,
+
+3.Call Queuing : All incoming calls are presented to the console in order
+of the arrival. Facility exist for giving preference to junction calls over
+calls from internal extensions.
+
+4.Serial Call : Facility exist in Large systems to extend an incoming call
+as serial call, which is come back to attendant on completion of call
+and permitting the attendant to route the call to another extension
+and so on.
+
+5.Call Waiting Display : An indication is be given when there is an
+unanswered call waiting in the queue.
+
+6.Call Selection : Facility exist to the attendant to select which incoming
+call to be answered first.
+
+7.Call Hold Facility : It is possible for the attendant to place an incoming
+junction call on hold pending further processing.
+
+8.  Setting Up External Calls : Facility exist for enabling the attendant to
+set up the external calls for the extensions, which are allowed to
+access the public network. The attendant may either dial the number
+himself or merely extend the junction to the authorized extension
+user.
+
+9.Trunk Offering : The attendant is able to offer an incoming call to busy
+extension. A tone however, alert the talking parties when the
+attendant barges-in on a connection.
+
+10.  Position Busy : When a console is too busy, all the waiting calls
+queued for the particular console are transferred to other
+console/extensions. Incoming calls in cases where two consoles exist
+are equally distributed. Facility exist during absence of the attendants
+for incoming external calls to be forwarded to one common or several
+individual extensions.
+
+11.Night Service : It is possible for all incoming calls to be transferred to
+certain pre-fixed extensions, in case this option has been exercised
+during the night.
+
+12.  Head Phone Connectivity : The operators can plug-in headphone to
+handle the call traffic efficiently while keeping her/his hands free for
+other jobs.
+
+4.SERVICE OBJECTIVES FOR EPABX SYSTEM:
+1.Following service objectives are to be met:
+
+1.Under overload conditions, the lost call figure applicable is one in 200
+for extensions to extensions call and one call in 100 for junction calls,
+overload being defined as 10% increase in occupancy of speech
+network and simultaneous 25% increase in the number of calls.
+
+2.The selection time under full load is defined as the time interval
+between the instant at which the required information for selection of
+the outlet has been received at the inlet and the instant at which
+outlet is ceased not to exceed in 99% of the cases under traffic
+
+                            16 / 18
+
+
+
+ 
+
+overload 1.5 seconds.
+3.  The assumption to be made while deciding the dimension of the
+
+links, junctions and attendants console are following :
+1.Total junction traffic per extension 0.1 erlang during peak
+
+busy hour.
+2.Average holding time of calls 0.90 seconds.
+3.  The switching network provides access to the links & junction
+
+on fully non-blocking basis.
+4.  The equipment design is such that any special case and
+
+precaution on the part of maintenance personnel are kept to
+an absolute min. And no preventive maintenance is required.
+
+5.The System has inherent capability to monitor its own
+performance and to detect, analyze and locate faults.
+
+6.Fault repair at site normally consist of only replacing the faulty
+card or plug-in modules.
+
+7.  The System has remote maintenance facility.
+5.GENERAL FEATURES FOR VOICE MAIL:
+
+1.System to be provided with in-skin voice mail system or Standalone
+(Integrated with software) or PC based voice mail system. The Voice Mail
+System with necessary Hardware and Software to work in conjunction with
+the Hybrid PABX is part of the system. The Voice Mail has all the traditional
+voice mail features as follows :
+
+1.To record, delete, play, forward and reply to voice messages.
+2.To send group messages for many mail boxes simultaneously.
+3.Personal Greetings (Name or Mail Box Number). Users are able to
+
+record/change their names, greetings etc from their phone itself
+4.Different Greetings to External & Internal Caller.
+5.Password or Personal Identification Number (PIN) to access VM boxes.
+6.To select next message and previous message.
+7.The system inform/indicate the availability of messages in the Mail
+
+Boxes to the users either -
+1.  Audibly - Tone/Voice Prompt.
+2.Visually - by illuminating the message waiting lamp on the
+
+telephones.
+8.Programming/reconfiguration and creation of mailboxes of the VM
+
+system is possible by utilizing the maintenance administration
+terminal.
+
+9.Administration Interface- The system provides direct access to the
+system database through a PC interface, from which traffic and usage
+reports can be generated.
+
+10.Automatic Message Scan - The system allows the subscribers to scan
+all message headers and/or messages by simple feature codes.
+
+11.Call Answer - The system provides the facility of answering calls and
+recording messages for unavailable or busy subscribers. It also enable
+the subscribers to listen to or intercept call answers as they are being
+left by callers.
+
+6.SCOPE OF INSTALLATION AND COMMISSIONING FOR EPABX SYSTEM:-
+1.Mounting/Fitting of the EPABX System.
+2.Suitable electric wiring up to 3 meters length between EPABX and Power
+
+Socket.
+3.Suitable connection of extension and trunk lines between MDF and EPABX
+
+with in 3 meters length.
+4.Connection of telephone instruments and demonstration of extension
+
+features/working of EPABX to the buyers.
+7.BUYER OBLIGATION :
+
+Bid Specific Additional Terms and Conditions
+
+                            17 / 18
+
+
+
+ 
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                            18 / 18
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,480 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/707880
+
+  Dated: 13-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 23-07-2020 13:00:00
+
+Bid Opening Date/Time 23-07-2020 13:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Science And Technology
+
+Department Name Department Of Science And Technology (dst)
+
+Organisation Name Indian Institute Of Astrophysics (iia)
+
+Office Name Bengaluru
+
+Total Quantity 11
+
+Item Category Portable Fire extinguishers as per IS 15683 (2018)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Portable Fire Extinguishers As Per IS 15683 (2018) ( 11 pieces )
+
+Technical Specifications
+
+                               1 / 5
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Generic Conformity to Standard IS: 15683: 2018 (Latest
+amendments)
+
+*
+
+Type Stored Pressure Stored Pressure
+
+Extinguishing Media Powder Based (as per
+IS 4308 )
+
+Powder Based (as per
+IS 4308 )
+
+Expellant Medium N2 Based (Stored
+Pressure)
+
+N2 Based (Stored
+Pressure)
+
+Constructional Material Type of Extinguisher Low Pressure
+Extinguisher (Service
+Pressure ≤19 bar)
+
+Low Pressure
+Extinguisher (Service
+Pressure ≤19 bar)
+
+Material
+Specification for the
+body of High
+Pressure
+Extinguisher (Hint:
+Select NA Low
+Pressure
+Extinguisher)
+
+NA NA
+
+Material
+Specification for the
+body of Low
+Pressure
+Extinguisher (Hint:
+Select NA High
+Pressure
+Extinguisher)
+
+Welded low carbon
+steel cylinders (as per
+Clause 9.2.5 of IS
+15683)
+
+Welded low carbon
+steel cylinders (as per
+Clause 9.2.5 of IS
+15683)
+
+Construction Foam Based
+Extinguishing Media
+(Hint: Select NA for
+Extinguishing Media
+other than Foam
+Based)
+
+NA NA
+
+Powder Based
+Extinguishing Media
+(Hint: Select NA for
+Extinguishing Media
+other than Powder
+Based)
+
+ABC ABC
+
+Type of Clean Agent
+for Clean Agent
+Based Fire
+Extinguisher (as per
+CL 5-1-3) (HINT:
+Select NA for other
+Extinguishing Media)
+
+NA NA
+
+Name of Clean Agent
+as per (CL 3-13) (HINT:
+
+- *
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/AVzM1yLcsPiqgE4_P98qT_TGWdmRfW4U8lSSkeSg_w0
+
+
+ 
+
+Type NA for other
+Extinguishing Media)
+
+Foam Based Fire
+Extinguisher
+Capacity in Liters
+(Hint: Select NA for
+Extinguisher
+Capacity other than
+Foam Based)
+
+NA NA
+
+Powder Based Fire
+Extinguisher
+Capacity in Kg (Hint:
+Select NA for
+Extinguisher
+Capacity other than
+Powder Based)
+
+6 6
+
+Carbon Dioxide
+Based Fire
+Extinguisher
+Capacity in Kg (Hint:
+Select NA for
+Extinguisher
+Capacity other than
+CO2 Based)
+
+NA NA
+
+Water Based Fire
+Extinguisher
+Capacity in Liters
+(Hint: Select NA for
+Extinguisher
+Capacity other than
+Water Based)
+
+NA NA
+
+Clean Agents Fire
+Extinguisher
+Capacity in Kg (Hint:
+Select NA for
+Extinguisher
+Capacity other than
+Clean Agents Based)
+
+NA NA
+
+Water Mist Fire
+Extinguisher
+Capacity in Liters
+(Hint: Select NA for
+Extinguisher
+Capacity other than
+Water Mist Based)
+
+NA NA
+
+Weight of Filled
+Portable Fire
+Extinguisher
+
+9 *
+
+Features of Fire
+Extinguisher
+
+Carrying Handle
+(Mandatory If
+Extinguisher having
+mass ≥1.5Kg or
+Cylinder
+
+Carrying Handle
+(Mandatory If
+Extinguisher having
+mass ≥1.5Kg or
+Cylinder diameter,
+
+                               3 / 5
+
+
+
+ 
+
+diameter,Safety
+Devices (Mandatory for
+High Pressure Extinguis
+her),Rechargeable,Hos
+e Assemblies
+(Mandatory If mass or
+volume of
+Extinguishing medium
+> 3 Kg or Litres)
+
+Safety Devices
+(Mandatory for High
+Pressure Extinguisher),
+Rechargeable, Hose
+Assemblies (Mandatory
+If mass or volume of
+Extinguishing medium
+> 3 Kg or Litres)
+
+Marking As per clause 10.2 of IS
+15683 (latest)
+
+*
+
+Colour Coding Band (As
+per CL 10-1)
+
+Blue (Powder) *
+
+Presssure Gauge Range
+for Low-Pressure
+Extinguishers (Hint:
+must be ≤ 20 and type
+0 for High-Pressure
+Extinguishers)
+
+15 *
+
+Class of fire for
+which Fire
+Extinguisher is
+suitable
+
+Class -A Class -A
+
+Performance Operating Temperature
+(°C)
+
+-30°C to +60°C *
+
+Test Pressure for all
+Fire extinguisher
+except CO2 (Hint: must
+be ≥ 35 and type 0 for
+CO2 based Fire
+Extinguishers)
+
+35 *
+
+Burst Pressure for all
+Fire extinguisher
+except CO2 (Hint: must
+be ≥ 55 and type 0 for
+CO2 based Fire
+Extinguishers)
+
+55 *
+
+Minimum Effective
+discharge time for
+Fire Extinguisher
+
+25 25.0
+
+Fire Rating of
+different class of
+fires (Hint: Higher is
+better)
+
+4A 4A
+
+Discharge Range of
+Class-A and Class-B
+Fire Extinguisher (As
+per table 1 of CL 7-2-2)
+(Hint : ≥ 2 in case
+applicable on Class-A
+or Class A & B both /
+≥1 in case applicable
+
+4 *
+
+                               4 / 5
+
+
+
+ 
+
+on Class-B only)
+
+Certification BIS Marking Yes *
+
+CM/L No With Validity
+Period
+
+- *
+
+Availability of Test
+Report from Central
+Govt/NABL/ILAC
+accredited lab to prove
+conformity to
+specification
+
+Availability of Test
+Report from NABL
+accredited Laboratory
+
+*
+
+Test Report No - *
+
+Test Report Date - *
+
+Name of the lab - *
+
+Address of the lab - *
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Keshava Murthy R
+S
+
+562114,Centre for Research
+and Education in Science &
+Technology Indian Institute
+of Astrophysics Shidlaghatta
+Road, Hosakote 562 114,
+INDIA
+
+11  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2.The buyer organization is an institution eligible for concessional rates of GST as notified by
+
+the Government of India. The goods for which bids have been invited fall under classification
+of GST concession and the conditions for eligibility of concession are met by the institution.
+A certificate to this effect will be issued by Buyer to the Seller after award of the Contract.
+Sellers are requested to submit their bids after accounting for the Concessional rate of GST.
+Applicable Concessional rate of GST : 5%
+Notification No.and date : 47/2017 dated 14/11/2017
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,683 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/702985
+
+  Dated: 13-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 23-07-2020 16:00:00
+
+Bid Opening Date/Time 23-07-2020 16:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Karnataka
+
+Department Name Urban Development Department Karnataka
+
+Organisation Name Karnataka Urban Infrastructure Development And
+Finance Corporation (kuidfc)
+
+Office Name Davanagere Smart City Limited
+
+Total Quantity 1
+
+Item Category Emergency lighting and accessories (Portable
+Emergency Lighting System Tower type with Battery
+Bank
+
+Bidder Turnover (Last 3 Years)  1 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  7 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,OEM Authorization Certificate,OEM Annual
+Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  50 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+                               1 / 8
+
+
+
+ 
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 50% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Emergency Lighting And Accessories (Portable Emergency Lighting
+System Tower Type With Battery Bank ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC Portable emergency
+lighting system
+consisting
+Rechargeable Battery
+Bank , Charging unit
+with charging cables, ,
+Mobile (from vehicle)
+charging kit and cables,
+Tower/Telescopic
+collapsible
+mast/Vertical mast,
+LED Luminaire,
+
+Yes *
+
+                               2 / 8
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/4SK0jft098BEBv1RvcfIaBD1-fosOtU7MXOBrTSaIww
+
+
+ 
+
+Supporting kits, Tool
+Kits,
+
+Type of battery Rechargeable *
+
+Chemistry of battery SMF Lead acid battery SMF Lead acid battery,
+Lithium ion
+
+Battery capacity
+(minimum)
+
+12 Ah *
+
+Minimum continuous
+working hours
+
+2 hours 2 hours, 4 hours, 8
+hours, 10 hours, 12
+hours, 18 hours
+
+Minimum System
+Lumens
+
+3000 *
+
+IP rating of LED
+Luminaire
+
+IP54 IP54, IP65, IP66, IP67,
+IP68
+
+Ruggedised Storage
+Box for main
+equipment
+
+Yes *
+
+TOWER
+CONSTRUCTION
+
+Minimum height of
+Tower/telescopic
+collapsible
+mast/Vertical Mast
+with light source (in
+meters from base
+ground level)
+
+2 metre 1 metre, 2 metre, 3
+metre, 4 metre, 5
+metre, 6 metre, 8
+metre
+
+Material of Tower/lel
+escopic/Vertical
+Mast
+
+Fiber Aluminium, Mild steel,
+Galvanised Iron, Fiber,
+Stainless steel
+
+Minimum thickness
+of Tower/lelescopic
+collapsible
+mast/Vertical Mast
+material (+/-5%)
+
+4 mm 3 mm, 4 mm, 5 mm,
+>5 mm
+
+Method of step up
+and step down of To
+wer/lelescopic/Vertic
+al Mast
+
+Winch mechanism Pnumatic, Hydraulic,
+Motorised, Winch
+mechanism
+
+Step up and step down
+time of Tower/lelescopi
+c/Vertical Mast
+
+</=30 sec *
+
+The strength of the
+Tower/telescopic
+collapsible
+mast/Vertical Mast
+tower is to provide
+support for it to
+remain erect at wind
+speed of
+
+40 km/hr 20 Km/hr, 40 km/hr, 50
+Km/hr, 80 Km/hr
+
+BATTERY
+CONSTRUCTION
+
+Number of battery 1 1, 2, 3, 4, 6, 8, 10, 12,
+16, 20
+
+                               3 / 8
+
+
+
+ 
+
+Battery voltage 12 Volt *
+
+Battery bank
+construction shall have
+inbuilt charging
+arrangement with
+charging cables
+
+Yes *
+
+System must have
+Battery charging
+arrangement with AC
+power source input and
+with DC power source
+input with necessary
+cables
+
+Yes *
+
+Additional charging
+cable and kits for
+battery charging from
+automobile vehicles
+(Mobile charging
+option)
+
+Yes *
+
+Warranty card for
+battery
+
+1 Year 1 Year, 2 Years, 3
+Years, 4 Years, 5 Years
+
+System shall also work
+on 220/240V, 50 Hz AC
+supply and for
+connecting to the
+mains shall have
+provision for 15 Amps 3
+Pin/2 pin Socket and a
+suitable lead wire with
+plugs at both ends
+
+Yes *
+
+LED LUMINAIRE
+CONSTRUCTION
+
+LED Luminaire
+conformity to
+IS:10322/Part 5/Section
+5/2012 latest and IS:
+16107 (Part 2/Sec
+1):2012 latest
+
+Yes *
+
+Photo biological safety
+of LEDs used shall be
+as per IS:16108/2012
+(exempt group)
+
+Yes *
+
+LED Modules as per the
+IS: 16103(Part-2)/2012
+
+Yes *
+
+Luminaire System
+Efficacy (Lumen/watt)
+
+>/= 100 Lm/Watt *
+
+LED chip Efficacy ≥130 Lm/Watt *
+
+Colour temperature
+(+/-500K)
+
+4000K 6000K, 5000K, 4000K
+
+Working life for LED
+(Minimum 50,000
+burning hours as per
+LM-80 report)
+
+>/= 50,000 burning
+hours
+
+*
+
+                               4 / 8
+
+
+
+ 
+
+Colour Rendering
+Index(CRI)
+
+≥70 *
+
+Optic lense materal (UV
+stabilised)
+
+Poly carbonate lense *
+
+The Luminaires
+casing/housing (single
+piece housing) shall be
+pressure die casted
+aluminium alloy with
+higher thermal
+conductivity
+
+Yes *
+
+The luminaire body
+must be corrosion
+resistant powder
+coated
+
+Yes *
+
+All fastners must be of
+stainless steel
+
+Yes *
+
+Protection of the
+entire housing (both
+LED section and
+driver section) as
+per IS:10322 (Part
+1):1982 latest
+
+IP67 IP66, IP67
+
+Extruded silicon loop
+gasket shall be
+provided in the lantern
+body to ensure a
+weather proof seal
+between the UV Glass
+cover / polycarbonate
+and the metal housing
+to exclude the entry of
+the dust, water, insects
+etc.,
+
+Yes *
+
+Luminaries light
+transparency should be
+of Toughened glass
+
+Yes *
+
+Toughned transparent
+glass / poly carbonate
+cover thickness
+
+>/=4 mm *
+
+Toughned Glass /
+polycarbonate shall not
+get discoloured shall
+not suffer degration
+due to heat and ageing
+within warranty period
+
+Yes *
+
+Heat sink should be die-
+cast aluminium along
+with sufficient heat sink
+fins to dissipate heat
+effectively
+
+Yes *
+
+                               5 / 8
+
+
+
+ 
+
+Operating
+temperature range
+
+-20 deg. C to +50 deg.
+C
+
+-20 deg. C to +50 deg.
+C, -10 deg C to +50
+deg C
+
+"Manufactures Name
+and and brand on the
+aluminium die cast
+body "
+
+Engraved/Embossed *
+
+Date of manufacture
+(month-year), and lot
+number as
+identification mark
+inside each unit and
+the outside of each
+packaging box
+
+Yes *
+
+REPORTS AND
+CERTIFICATION
+
+Availability of type tet
+reports from Central
+Government
+Laboratory/NABL
+Accrediated/ILAC
+Laboratory for
+complete Portable
+emergency lighting
+system including for
+Engine, Alternator and
+Luminaires as per
+relevant IS
+specifications as
+applicable
+
+Yes *
+
+Luminaire System must
+have EMI/EMC
+compliance as
+applicable (Test reports
+shall be furnish on
+demand by
+buyer/consignee)
+
+Yes *
+
+Availability for LM 79
+(Photometry)
+(Ref.IS:16106:2012)
+report from Central
+Government
+/NABL/ILAC accrediated
+lab. (Reports shall be
+furnish on demany by
+buyer /Consignee)
+
+Yes *
+
+Availability of LM 80 &
+TM 21 (Ref.
+IS:16105:2012) Report
+and Photo biological
+report for LED report
+from Central
+Government
+/NABL/ILAC accrediated
+lab. (LM-80 report shall
+have the Pohoto
+
+Yes *
+
+                               6 / 8
+
+
+
+ 
+
+Biological report of the
+LED Chip being used in
+the luminaire
+
+LED Luminaire shall
+have Complusory
+Registration(CRS) of
+BIS for safety as per IS
+10322 (Part 5/Section
+5): 2012 or as
+applicable for portable
+emergency lighting
+system as on date
+
+Yes *
+
+Total Weight of
+complete system (Must
+declare) in Kg
+
+</=50 Kg *
+
+Warranty for
+complete system
+
+1 Year 1 Year, 2 Years, 3
+Years, 4 Years, 5 Years
+
+Storage battery shall
+have Complusory
+Registration(CRS) of
+BIS as per IS 16270 :
+2014 as applicable as
+on date
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Prashanth H Y 577004,#1776/A85/A86,
+Siddaveerappa layout,
+Shamanur Road,
+Davanagere
+
+1  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+2.Nominated Inspection Agency: On behalf of the Buyer organization, any one of the
+following Inspection Agency would be conducting inspection of stores before acceptance:
+Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause
+has been selected in ATC): REQUIRED
+Post Receipt Inspection at consignee site before acceptance of stores: REQUIRED
+
+                               7 / 8
+
+
+
+ 
+
+3.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+4.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+5.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial
+year, should be as indicated in the bid document. Documentary evidence in the form of
+certified Audited Balance Sheets of relevant periods or a certificate from the Chartered
+Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than
+3 year old, the average turnover in respect of the completed financial years after the date of
+constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of
+CATEGORY RELATED TO primary product having highest bid value should meet this criterion.
+
+6.Bidder financial standing: The bidder should not be under liquidation, court receivership
+or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect
+with bid.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               8 / 8
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

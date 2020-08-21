@@ -1,0 +1,342 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/707847
+
+  Dated: 13-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 23-07-2020 14:00:00
+
+Bid Opening Date/Time 23-07-2020 14:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Human Resource Development
+
+Department Name Department Of Higher Education
+
+Organisation Name Central Universities Ministry Of Human Resource
+Development
+
+Office Name Rajiv Gandhi University
+
+Total Quantity 10
+
+Item Category Embedded Linux Based Biometric Attendance
+System ( PAC Only ) 
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 4
+
+
+
+ 
+
+Embedded Linux Based Biometric Attendance System ( 10 pieces ) (
+Under PAC ) 
+
+Make cpplus
+
+Model cp-vta-m1143
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Specification Type Embedded Linux Based
+Biometic Attendance
+System
+
+*
+
+Screen Size (Inch) 3 ≤ N < 5 *
+
+Screen Resolution
+(Pixels)
+
+800 x 480 *
+
+Processor Speed
+(MHz)
+
+800 800
+
+RAM (GB) 0.5 0.5
+
+Internal storage (GB) 4 4
+
+USB Port (Numbers) 1 *
+
+Micro USB Port No *
+
+Battery Back up Yes *
+
+Network
+Connectivity
+
+LAN(Ethernet) Interface
+only
+
+LAN(Ethernet) Interface
+only
+
+Mifare Card Support No No
+
+GPRS No *
+
+Internal Speakers Yes *
+
+Queue Throughput
+(Number of people to
+mark attendance within
+one minute) (Number)
+
+20 *
+
+STQC Certified
+Biometric Identification
+Device
+
+Single Fingerprint
+Scanner
+
+*
+
+Operational Endurance 24 x 7 *
+
+Device Casing Material Thick Plastic *
+
+Casing Thickness (mm) 1 *
+
+Ingress Protection NA *
+
+API/SDK STQC *
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/jQQRRGFr2mAACc0t3O0jbOdjSJF425Lg5LHMikUVoaQ
+
+
+ 
+
+UIDAI Certified Register
+Device (Copy of the
+certificate to be
+furnished , if demanded
+by the buyer)
+
+Yes *
+
+Finger Placement The fingerprint scanner
+should be
+ergonomically placed
+to support ease of
+usage for biometric
+attendance in standing
+posture of the user
+
+*
+
+Drop Test Compliance
+for Casing from a
+height of 1 meters
+
+Yes *
+
+Drop Test Compliance
+for Casing from a
+height of 2 meters
+
+Yes *
+
+Separate Charging Non
+USB Port Availabilty
+with AC Adaptor
+
+Yes *
+
+ROHS Compliant
+Certificate
+
+Yes *
+
+Minimum Operating
+Temperature (Degree
+C)
+
+0 *
+
+Maximum Operating
+Temperature (Degree
+C)
+
+60 *
+
+Minimum Storage
+Temperature (Degree
+C)
+
+0 *
+
+Maximum Storage
+Temperature (Degree
+C)
+
+61 *
+
+BIS Under CRS of Meity Yes *
+
+BIS Registration
+Number
+
+Under Process *
+
+Type Test Certificate
+Covering all
+parameters and
+Environmental tests
+from STQC certified lab
+
+No *
+
+If yes ,TTC Number and
+Date
+
+Na *
+
+If yes ,Name of the Lab Na *
+
+If yes ,Address of the
+Lab
+
+Na *
+
+                               3 / 4
+
+
+
+ 
+
+On Site OEM
+Warranty
+
+3 3
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Tsering Dorjee
+Megeji
+
+791112,Rono Hills, Doimukh 10  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

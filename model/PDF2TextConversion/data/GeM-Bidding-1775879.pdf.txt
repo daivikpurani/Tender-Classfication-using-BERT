@@ -1,0 +1,490 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/700724
+
+  Dated: 07-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 22-07-2020 13:00:00
+
+Bid Opening Date/Time 22-07-2020 13:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Human Resource Development
+
+Department Name Department Of Higher Education
+
+Organisation Name Mizoram University
+
+Office Name Aizawl Mizoram
+
+Total Quantity 1
+
+Item Category SPECTROPHOTOMETER
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+SPECTROPHOTOMETER ( 1 pieces )
+
+                               1 / 5
+
+
+
+ 
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+LIGHT SOURCE Light Source Deuterium
+Lamp,Tungsten
+Halogen Lamp
+
+Halogen Lamp,
+Deuterium Lamp, LED,
+Tungsten Halogen
+Lamp, Xenon Flash
+
+Diffraction Grating
+(lines/mm)
+
+1200 600, 800, 1000, 1200,
+1400, 1600, 1800
+
+Switching of Light
+Source
+
+Automatic Automatic, Mannual,
+NA
+
+Wavelength Setting
+And Scanning
+
+Automatic Automatic, Mannual
+
+TYPE Type of
+Spectrophotometer
+
+UV - VISIBLE UV - VISIBLE, VISIBLE,
+UV - VISIBLE - IR, NIR
+
+Type of Optical
+System
+
+Double Beam Single Beam, Split
+Beam, Double Beam
+
+Monochromator
+Type
+
+Holographic Grating Reflexive Grating,
+Holographic Grating,
+Czerny-turner, NA,
+Scanning grating
+
+Detector Type Photodiode Photo Multiplier Tube
+(PMT), Photodiode,
+CMOS, Diode array,
+Silicon, Silicon & Lead
+Sulfide, Indium Gallium
+Arsenide (InGaAs)
+
+Spectral Bandwidth
+Type
+
+Variable Bandwidth Fixed Bandwidth,
+Variable Bandwidth
+
+OPTICAL
+PERFORMANCE
+
+Source Wavelength -
+Minimum
+
+190 *
+
+Source Wavelength -
+Maximum
+
+1500 *
+
+Resolution 0.3 0.002, 0.3, 0.5, 1, 1.25,
+1.5, 1.7, 2, 0.2, 0.01
+
+Wavelength
+Accuracy (+/-)
+
+0.3 0.1, 0.3, 0.5, 0.8, 1,
+1.5, 2, 2.5, 0.05
+
+Bandwidth (nm) 0.5,1,2.0,4.0 *
+
+If variable band width,
+Specify the incremental
+step value(mm)
+
+NA *
+
+Scanning Speed
+(nm/min)
+
+500 *
+
+Focal length (mm) 300 and above 0 to 49, 50 to 99, 100
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/Q-zCG4uFZTEiyuhxF2J9yutsVoApat99reg1z_KL8CQ
+
+
+ 
+
+to 149, 150 to 199, 200
+to 249, 250 to 299, 300
+and above
+
+Photometric
+measurement modes
+
+Transmittance,Absorba
+nce,Concentration
+(Wavelength, time)
+
+Transmittance,
+Absorbance,
+Concentration
+(Wavelength, time),
+Reflectance, Energy,
+Polarisation
+
+Photometric
+Absorbance (Max)
+(Abs) (+/-)
+
+3 0.2 - 8
+
+Photometric
+Absorbance
+Accuracy (Max) (+/-)
+
+0.3 0.001 - 0.5
+
+Photometric
+Transmittance (Max)
+(+/-)
+
+100 0 - 100
+
+Photometric
+Transmittance
+Accuracy (Max) (+/-)
+
+0.3 0 - 0.5
+
+Photometric
+Reflectance (Max)
+(+/-)
+
+0.2 0 - 100
+
+Photometric
+Reflectance Accuracy
+(Max) (+/-)
+
+0.3 *
+
+Stray Light Correction Automatic *
+
+Baseline Correction Automatic *
+
+GENERIC Display In-built display In-built display,
+Through PC
+
+Display type LCD with Backlight LCD with Backlight,
+LED, LCD touchscreen,
+TFT, NA
+
+Display Size 4 0 - 30
+
+Test result printing Through external
+printer
+
+Through inbuilt Printer,
+Through external
+printer
+
+If inbuilt printer,
+Type of printer
+
+N/A Thermal printer, Dot
+matrix, Laser b/w,
+Inkjet b/w, Color laser,
+Color inkjet, N/A
+
+Suitable software for
+connecting PC & Printer
+
+Yes *
+
+Connectivity USB,RS 232 *
+
+Internal storage(GB) 0 0 - 80
+
+Sample
+switching/selection
+
+Automatic *
+
+                               3 / 5
+
+
+
+ 
+
+Capacity of Sample
+holder / Sample
+Carousel
+
+8 *
+
+Mximum Path Length
+of sample
+
+10 0 - 120
+
+Number of Cuvettes
+supplied-inclusive in
+the scope of supply
+
+10 *
+
+Power Supply 230 V ± 10, 50 Hz *
+
+Any other
+features/accesories
+covered in scope of
+supply
+
+- *
+
+Spares and
+Consumables
+inclusive in the
+scope of supply
+
+Yes Yes, No
+
+List of Items and
+Quantity of each item
+included in the offer
+
+- *
+
+OPERATING
+CONDITIONS
+
+Minimum Operating
+Temperature
+
+10 -5, -10, 0, 5, 10
+
+Maximum Operating
+Temperature
+
+45 35, 40, 45, 50, 55, 60
+
+Operating Humidity
+(RH) (%) at 40
+degree C
+
+80 80, 85, 90, 95
+
+WARRANTY Onsite Warranty 1 1, 2, 3, 4, 5
+
+Availability of
+Spares (at extra
+cost)
+
+5 2, 3, 4, 5, 6, 7, 8, 10
+
+Certification Availability of UL/CE
+Certification as per
+EN 61010-1:2010
+Safety requirements
+for electrical
+equipment for
+measurement,
+control, and
+laboratory use
+General
+requirements
+
+Yes Yes, No
+
+Conformance to
+EMC/EMI as per EN
+61326-1:2013
+Electrical equipment
+for measurement,
+control and
+laboratory use
+
+No Yes, No
+
+                               4 / 5
+
+
+
+ 
+
+Availability of Test
+Reports from Central
+Govt / NABL
+approved / ILAC
+acredited lab to
+prove conformity to
+the specification
+
+Yes Yes, No
+
+If yes test report to
+furnished,to the buyer
+on demand
+
+N/A *
+
+Test Report number
+and date
+
+- *
+
+Name and address of
+the Lab
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 F.KAPMAWII 796004,Mizoram University,
+Tanhril, Aizawl, Mizoram
+
+1  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+2. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+3. ISO 9001: The bidder must have ISO 9001 certification.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

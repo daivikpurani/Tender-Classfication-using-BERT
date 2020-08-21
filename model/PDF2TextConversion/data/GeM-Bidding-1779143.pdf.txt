@@ -1,0 +1,495 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/703677
+
+  Dated: 11-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 21-07-2020 13:00:00
+
+Bid Opening Date/Time 21-07-2020 13:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Home Affairs
+
+Department Name Central Armed Police Forces
+
+Organisation Name Sashastra Seema Bal (ssb)
+
+Office Name Fhq Ssb New Delhi
+
+Total Quantity 1
+
+Item Category Semi Automatic Bio Chemistry Analyser
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+Estimated Bid Value  220000
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Semi Automatic Bio Chemistry Analyser ( 1 pieces )
+
+Technical Specifications
+
+                               1 / 5
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Configuration &
+Physical Characteristics
+
+Usage: The equipment; Semi
+automatic bio
+chemistry analyser is
+used for measurements
+of bio-chemistry tests,
+using wet chemistry
+reagent(s) and have
+ability to use external
+cuvettes and
+integrated flow cell.
+Semi automated Bio
+Chemistry Analyser is
+with built in software
+for the calculation and
+curve plotting .
+
+*
+
+User Interface: LCD display with Touch
+Key board
+
+LCD display with Touch
+Key board
+
+Flow cell type: Permanent flow cell Permanent flow cell
+
+Light Source: Halogen Lamp *
+
+Wavelength
+Selection &
+Measurement range
+(wavelengths):
+
+Automatic
+(wavelength) selection
+facility with 8 position
+filter wheel (with all
+filters in position),
+covers standard
+wavelengths in the
+range of 340 to 700 nm
+6 fixed and 2 free
+positions
+
+Automatic
+(wavelength) selection
+facility with 8 position
+filter wheel (with all
+filters in position),
+covers standard
+wavelengths in the
+range of 340 to 700 nm
+6 fixed and 2 free
+positions, Automatic
+Wavelength selection
+facility with 6 position
+static photometer
+covers standard
+wavelength in the
+range of 340 to 630
+nm, Automatic
+Wavelength selection
+facility with 8 position
+static photometer
+covers standard
+wavelength in the
+range of 340 to 700 nm
+6 fixed and 2 free
+positions Or higher
+
+Absorbance range: 0 to 3 unit 0 to 3 unit Or higher
+
+Analyzer resolution: 0.0001 absorbance unit
+or better
+
+*
+
+Measurement range
+(temperature):
+
+25, 30, 37 degree
+Celsius with 1 degree
+
+*
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/GL30edDkVigt9t7bXQOV4fwZRt9rmsVBps92oef3T68
+
+
+ 
+
+increment, Peltier
+
+Memory for storing test
+results, sufficient for:
+
+>= 200 test results
+and 5000 patient
+results
+
+*
+
+Heat Dissipation ability: Analyser shall maintain
+nominal temperature,
+with suitable heat
+dissipation/ cooling
+mechanism.
+
+*
+
+Installation Type: Stationary installation
+in laboratory
+
+*
+
+Number of
+programmable
+Channels for
+chemistries:
+
+>= 200 >= 200 Or higher
+
+Assay /Calculation
+types available in
+analyser:
+
+End point with factor or
+standard,Fixed time
+with factor or
+standard,Kinetic;
+Enzyme kinetics with
+factor or standard,Abso
+rbance,Sample
+blanking,Differential
+mode with factor or
+standard
+
+End point with factor or
+standard, Fixed time
+with factor or standard,
+Kinetic; Enzyme
+kinetics with factor or
+standard, Absorbance,
+Sample blanking,
+Differential mode with
+factor or standard
+
+Calibration Types
+available:
+
+Linear factor,Multi
+point,Point to point,Log-
+Logit,Spline,1- point
+calibration,2-point
+calibration,Polygonal
+multi standard
+(Calibration Curve )
+
+Linear factor, Multi
+point, Point to point,
+Log-Logit, Spline, 1-
+point calibration,
+2-point calibration,
+Polygonal multi
+standard (Calibration
+Curve )
+
+3 levels control
+facility with day to
+day Levy-Jennings
+curve stored and
+displayed, available:
+
+Yes Yes
+
+Sample incubator
+facility available:
+
+No No
+
+Flow Cell Flow cell material Quartz Quartz
+
+Flow Cell
+Volume(minimum):
+
+- *
+
+Flow Cell Optical Path: 10 mm *
+
+Aspiration Volume - *
+
+ENERGY SOURCE Power Source: Compatible with
+electric power from by
+220V-240V 50Hz
+(+/-10%) AC source
+
+*
+
+Power Back up with At least 30 minutes *
+
+                               3 / 5
+
+
+
+ 
+
+provision of UPS (with
+maintenance fee
+batteries) for each
+equipment unit:
+
+power back up
+
+CONSUMABLES Equipment is
+suitable for use of
+consumables under:
+
+Open System Open System Or higher
+
+ACCESSORIES Accessories to be
+supplied with each unit
+of Analyser equipment
+:
+
+Micro pipettes (5 No.) -
+2 variable (5-50 ),
+(100-1000) , Small
+Tips- 500 nos. & Large
+Tips- 500 nos.
+
+*
+
+OPERATING
+CONDITIONS
+
+Operating & Storage
+Conditions:
+
+Equipment is suitable
+for storage and capable
+of operating
+continuously in
+ambient room
+temperature of 8
+degree C to 37 degree
+C and relative humidity
+of 15 to 90% in ideal
+circumstances.
+
+*
+
+Parts of the Device that
+are designed to come
+into contact with the
+patient or the operator
+should either be
+capable of easy
+disinfection or be
+protected by a single
+use/disposable cover:
+
+Yes *
+
+PRINTER AND COMPUT
+ER/LABORATORY
+INTERFACE
+
+Printer facility: Yes, In-built Thermal
+Printer
+
+*
+
+Computer interface: By RS232
+port/USB/HDMI port
+facility
+
+*
+
+Lab Interface system
+(LIS) compatible viz
+analyser equipment
+preloaded with
+Software needed for
+lab interface:
+
+No No
+
+Quality Certifications &
+Warranty
+
+Certification available
+for the product:
+
+- *
+
+Equipment shall
+meet internationally
+recognised for
+Electromagnetic
+Compatibility (EMC)
+for electro medical
+equipment: 61326-1
+and certified to be
+compliant with IEC
+
+Yes Yes
+
+                               4 / 5
+
+
+
+ 
+
+61010-1, IEC
+61010-2-281
+
+Equipment
+Manufacturer have
+ISO 13485
+certification for
+quality standards:
+
+- No
+
+Warranty Period: 5 year 5 year Or higher
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 P Lakshmi
+Narasimha Rajulu
+
+842005,O/O The
+Commandant, 32nd Bn SSB
+Bela, PO and PS . MIC Bela
+
+1  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 3 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

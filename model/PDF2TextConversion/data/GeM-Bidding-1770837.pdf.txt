@@ -1,0 +1,461 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/696137
+
+  Dated: 03-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 11:00:00
+
+Bid Opening Date/Time 20-07-2020 11:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Ministry Of Power
+
+Department Name Na
+
+Organisation Name Central Power Research Institute (cpri) Bangalore
+Karnataka
+
+Office Name Bengaluru
+
+Total Quantity 1
+
+Item Category CALIPERS
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+                               1 / 5
+
+
+
+ 
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+
+CALIPERS ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+TYPE / MATERIAL Caliper Type Digital Calipers Vernier Calipers, Dial
+Calipers, Digital
+Calipers
+
+Jaw Type Type B - With jaws on
+one side for external
+and internal
+measurements
+
+Type A - With jaws on
+both sides for external
+and internal
+measurements., Type B
+- With jaws on one side
+for external and
+internal measurements
+
+Provided with blade
+for depth
+measurement
+
+No Yes, No
+
+Provided with Step-
+Measuring Faces
+
+No Yes, No
+
+PERFORMANCE External
+Measurement Range
+(mm)
+
+0-1000 *
+
+Minimum ID
+Measurement
+
+- *
+
+Least Count /
+Resolution
+
+0.01 0.01, 0.02, 0.025, 0.05,
+0.1 Or lower
+
+Accuracy (Maximum
+error in reading) at
+20 deg C (±)
+
+0.05 *
+
+Jaw Length 100 *
+
+Length of Faces (Knife
+edge ) for Internal
+measurement
+
+18 *
+
+Range Per
+Revolution of the
+
+NA for Vernier / Digital
+type Calipers
+
+1, 2, 2.5, 5, NA for
+Vernier / Digital type
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/hMU64mKFR2OJf2hBoH4AHc5g4S7ZHLGiEY4bXlrW40Q
+
+
+ 
+
+Dial, in case of Dial
+Caliper (mm)
+
+Calipers
+
+DISPLAY / DATA
+OUTPUT
+
+Type of Display LCD LCD, LED, OLED,
+Graduated Scale for
+Vernier / Dial type
+Calipers
+
+"Number of Digits in
+Display(May indicate '0'
+for Veriner / Dial type
+calipers)
+
+3 *
+
+"Display digit Size(May
+indicate '0' for Veriner /
+Dial type calipers)
+
+- *
+
+Data Output to other
+devices
+
+Yes Yes, No
+
+BATTERY Power Source Alkaline Batteries (Non-
+Rechargeable)
+
+*
+
+Battery Size, if Non
+Rechargeable Battery
+
+CR 2032 *
+
+Battery Chemistry Alkaline *
+
+Number of Batteries
+required for operation
+(May Indicate '0' for
+Vernier / Dial type
+Calipers )
+
+1 *
+
+Number of Batteries
+supplied (May
+Indicate '0' for
+Vernier / Dial type
+Calipers )
+
+1 0, 1, 2, 4, 6, 8
+
+Battery Life (Approx)
+under normal use
+(May Indicate '0' for
+Analog type
+micrometer)"
+
+1 0, 1, 2, 2.5, 3, 3.5, 4, 5
+Or higher
+
+SALIENT FEATURES /
+FUNCTIONS
+
+salient Features /
+Functions
+
+Inch / Metric
+conversion,Manual
+ON/OFF,Auto Power
+OFF,Zero-setting
+
+*
+
+ACCESSORIES Standard
+accessories inclusive
+in the scope of
+supply
+
+instruction
+booklet,Carrying case
+
+Data outpt cable (1 m),
+Data output cable (2
+m), Centerline
+attachment, Pointed ID
+measuring attachment,
+Data transfer software,
+Solar Cell, instruction
+booklet, Carrying case
+
+GENERIC Material of the main
+parts of Callipers
+such as beam,
+
+Hardened Stainless
+Steel
+
+Hardened Stainless
+Steel, Hardened Carbon
+Steel, Carbon Fiber
+
+                               3 / 5
+
+
+
+ 
+
+sliding jaw and
+depth measuring
+blade
+
+Reinforced Composites
+/ Plastics
+
+Quality of the main
+parts of Callipers such
+as beam, sliding jaw
+and depth measuring
+blade
+
+Generally conforming
+to IS: 3651 (latest) for
+metallic parts
+
+*
+
+Finish Polished *
+
+Weight - *
+
+Dimensions (mm x mm
+x mm)
+
+- *
+
+Additional features, if
+any
+
+- *
+
+List of Items and
+Quantity of each item
+included in the offer
+
+- *
+
+OPERATING
+CONDITIONS / INGRESS
+PROTECTION
+
+Minimum Operating
+Temperature
+
+-5 0, -5, -10
+
+Maximum Operating
+Temperature
+
+60 50, 55, 60, 70 Or
+higher
+
+Maximum Operating
+Humidity at 40 deg C
+(Rh)
+
+80 70, 75, 80, 85, 90, 95
+Or higher
+
+Ingress Protection NA *
+
+WARRANTY Warranty 2 1, 2, 3, 5, 8, 10 Or
+higher
+
+CALIBRATION Calibration Certificate
+for each Micrometer
+Provided to the buyer
+along with supplies
+
+Yes *
+
+Calibration
+Certificate issuing
+authority
+
+NABL / ILAC accredited
+agency
+
+OEM Certificate, NPL,
+NABL / ILAC accredited
+agency
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Manohar Nagula 560080,CENTRAL POWER
+RESEARCH INSTITUTE PROF
+
+1  30
+
+                               4 / 5
+
+
+
+ 
+
+SIR C V RAMAN ROAD
+SADASHIVANAGAR POST
+OFFICE P B NO 8066
+BANGALORE 560080 INDIA
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2.Warranty period of the supplied products shall be 1 years from the date of final acceptance
+
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

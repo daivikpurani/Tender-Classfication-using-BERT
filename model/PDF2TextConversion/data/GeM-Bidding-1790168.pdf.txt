@@ -1,0 +1,365 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/713735
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 18:00:00
+
+Bid Opening Date/Time 27-07-2020 18:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Steel
+
+Department Name Nmdc Limited
+
+Organisation Name Nmdc Limited
+
+Office Name Hyderabad
+
+Total Quantity 1
+
+Item Category Hot air oven
+
+Bidder Turnover (Last 3 Years)  1 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  8 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years Of Experience and
+Turnover
+
+ Yes
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder Turnover,OEM
+Annual Turnover
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the
+buyer
+
+Past Performance  10 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM {themselves or
+through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central
+/ State Govt Organization / PSU / Public Listed Company for number of years as indicated in the bid document before the
+bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some
+
+                               1 / 4
+
+
+
+ 
+
+quantity during each of the year. In case of bunch bids, the category of primary product having highest value should
+meet this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product during the
+last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document.
+Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the
+Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with
+the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have supplied same or similar
+Category Products for 10% of bid quantity, in at least one of the last three years before the bid opening date to any
+Central / State Govt Organization / PSU / Public Listed Company. Copies of relevant contracts (proving supply of
+cumulative order quantity in any one year) to be submitted along with bid in support of quantity supplied in the relevant
+year. In case of bunch bids, the category related to primary product having highest bid value should meet this criterion.
+
+Hot Air Oven ( 1 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Conformity to Standards - *
+
+Certification number and
+date
+
+- *
+
+Confirming Standards for
+Electrical Safety
+
+IEC- 60601 with latest
+amendments or IS 13450
+with latest amendments
+
+*
+
+Compliance of Quality
+Systems for medical devices
+
+ISO 13485 *
+
+Performance Parameters Purpose Hot Air Oven is commonly
+used for dry heat
+sterilization which is a
+method of controlling micro-
+organisms
+
+*
+
+Capacity in litres More than 200 More than 200
+
+Power ratings in watts 2500 2500
+
+Should provide 3 heating
+elements ob 3 sides of
+equioment to ensure
+uniform temperature on all
+shelves
+
+Yes *
+
+Ambient temperature
+range in ᵒC
+
+Ambient to 250ᵒC Ambient to 250ᵒC
+
+Temperature Accuracy in
+ᵒC
+
+±2ᵒC ±2ᵒC
+
+Insulation Glass wool Glass wool
+
+Controller Microprocessor based PID
+control
+
+*
+
+Type of Display LCD LCD
+
+Parameters displayed Time,Temperature settings
+and temperature reading
+
+*
+
+Type of Temperature sensor PT 100 *
+
+Power supply 220 V , 50 Hz Single Phase *
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/jbaMVVUznos0A7sVqdKDHaLNTdOkcRBvkGfN6zbDkfc
+
+
+ 
+
+Door shall be insulated Yes *
+
+Door shall be fitted with
+heavy hinges
+
+Yes *
+
+Availability of Double
+glass window on door
+
+Yes Yes
+
+Door should have locking
+facility
+
+Yes *
+
+Type of Shelves Removable Removable
+
+Number of shelves 5 5
+
+Air Circulation Motorized Blower for forced
+air circulation
+
+*
+
+Blower Motor power in HP 0.5 *
+
+Blower motor shall be
+totally enclosed
+
+Yes *
+
+Blower motor shall be air
+cooled
+
+Yes *
+
+Weight in kgs 82 *
+
+Length of power cord fitted
+with compatible Indian plug
+in meters
+
+3 *
+
+Operating temperature and
+humidity
+
+10 to 40 degree centigrade
+and 15-90% humidity
+
+*
+
+Over temperature
+protection
+
+Yes *
+
+Safety alarm system Yes *
+
+Instruction manual to be
+provided
+
+Yes *
+
+Oven should be corrosion
+resistant
+
+Yes *
+
+Warranty in Years 2 2
+
+Material Parameters Material of Inner Chambers SS 304 *
+
+Material of Outer
+Chamber
+
+MS with powder coated
+paint
+
+MS with powder coated
+paint
+
+Material of Shelves SS wire mesh SS wire mesh
+
+Reports ISO certification for
+manufacturer
+
+ISO 9001 *
+
+ISO certification date and
+number
+
+- *
+
+Copies of all certifications
+and reports to be provided
+to buyer on demand at time
+of supplies
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+                               3 / 4
+
+
+
+ 
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Tadiparthi Jayakumar 500007,NMDC LTD R AND D
+UPPAL HYDERABAD
+
+1  15
+
+Bid Specific Additional Terms and Conditions
+1.ISO 9001: The bidder must have ISO 9001 certification.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

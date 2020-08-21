@@ -1,0 +1,503 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/708118
+
+  Dated: 13-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 24-07-2020 11:00:00
+
+Bid Opening Date/Time 24-07-2020 11:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Railways
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Eastern Railway
+
+Total Quantity 3
+
+Item Category Non Invasive Ventilator BiPAP
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Certificate (Requested in
+ATC),OEM Authorization Certificate,OEM Annual
+Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  Yes
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 6
+
+
+
+ 
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+
+Non Invasive Ventilator BiPAP ( 3 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Certification for product - *
+
+Confirmity to QMS ISO 13485 & ISO 9001 *
+
+Conformity to safety
+Standards
+
+"IEC-60601-1-2:2007;
+IEC 60601-1-8-2006;
+IEC 60601-1-SER-Ed
+1.0-2011; or equivalent
+BIS standard"
+
+*
+
+Certification No and
+date
+
+- *
+
+Performance
+Parameters
+
+Purpose A BiLevel(BiPAP or
+VPAP) machine is
+typically used for
+people who cannot
+tolerate typical CPAP
+due primarily to
+pressure settings.
+BiLevel machines
+provide a variable
+inspiratory pressure
+(inhalation pressure)
+and a lower expiratory
+pressure (exhalation
+pressure ).
+
+*
+
+Airflow generator
+pressure(IPAP
+pressure)
+
+4 to 25 cm of H2O or
+more
+
+*
+
+Airflow generator
+pressure(EPAP
+pressure)
+
+4 to 15 cm of H2O or
+more
+
+*
+
+Mode of operation Automatic Automatic
+
+Modes available spontaneous,Timed,Vol *
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/_IdN7u8yEqHrHxiOYqG8e-AJ3b5DYpUOhKREe8kbbE0
+
+
+ 
+
+ume assured pressure
+support,PAC
+
+Range of Back up
+respiratory rate(in BPM)
+
+5-30 or more *
+
+Sensitivity settings Appropriate triggering
+and cycling setting
+available for better
+patient synchronization
+
+*
+
+Range of Minimum
+Respiration time(sec)
+
+0.1-0.3 *
+
+Maximum Respiration
+Time(sec)
+
+0.3-3.00 *
+
+Range of Rise Time(in
+ms)
+
+150-600 *
+
+Humidifier provided Yes *
+
+Inspiration trigger for
+auto start
+
+Yes *
+
+Provision of Auto stop
+option when put-off
+mask
+
+Yes *
+
+Provision ofInspiratory
+and expiratory trigger
+sensitivity adjustment
+
+Yes *
+
+Provision of Inspiratory
+and expiratory slope
+adjustment provided
+
+Yes *
+
+Alarms available Power off Alarms and
+Disconnection
+Alarms,High
+leak,Apnea,Low minute
+ventilation,Low tidal
+volume,Auto EPAP
+
+*
+
+Unit should be
+compatible for OSA /
+Obesity hypo
+ventilation therapy
+
+Yes *
+
+Heated tube for
+flexibility and patient
+comfort provided
+
+Yes *
+
+Leakage compensation Yes *
+
+Humidification Integrated DC
+humidifier or
+equivalent with anti
+counter current water
+trap
+
+*
+
+Memory Storage Embedded memory
+storage for full raw
+data and facility for
+longer storage
+
+*
+
+                               3 / 6
+
+
+
+ 
+
+Ramp Setting for BiPAP
+pressure
+
+Yes *
+
+The range of RAMP (in
+minutes)
+
+0-45 or more *
+
+Sound level 30 *
+
+Mask size check
+feature
+
+Yes *
+
+Type of display LCD *
+
+Display size 2 *
+
+Battery provided External *
+
+Minimum Battery
+backup time
+
+2 *
+
+Size of Positive Airway
+Pressure Unit (L x H x
+W) in mm x mm x mm
+
+- *
+
+Weight of Positive
+Airway Pressure Unit
+
+2.1 *
+
+Miscellaneous
+Parameters
+
+Warranty in years 2 2
+
+Warning signs should
+be adequately
+displayed
+
+Yes *
+
+OEM/Reseller ( if
+supplied by reseller
+shall ensure
+uninterputed
+availability of all spares
+for 10 years)
+
+Yes *
+
+Availability of toll free
+facility for technical
+support maintained by
+OEM or authorized
+agencies
+
+Yes *
+
+User/Technical/Mainten
+ance manuals to be
+supplied in English in
+hard and soft copy
+
+Yes *
+
+Demonstration of
+equipment and training
+to be provided after
+completing supplies
+before acceptance
+
+Yes *
+
+The Principal
+Manufacturer must
+have direct
+Presence/approved
+service center In India
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+
+                               4 / 6
+
+
+
+ 
+
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Arunangshu
+Sarkar
+
+711101,ORTHOPEDIC
+HOSPITAL,EASTERN
+RAILWAY,222 CHURCH
+ROAD,HOWRAH 711101
+
+3  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+2.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+3.Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have
+regularly, manufactured and supplied same or similar Category Products to any Central /
+State Govt Organization / PSU / Public Listed Company for 3 years before the bid opening
+date. Copies of relevant contracts to be submitted along with bid in support of having
+supplied some quantity during each of the year. In case of bunch bids, the primary product
+having highest value should meet this criterion.
+
+4.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+5.Procurement under this bid is reserved for purchase from Micro and Small Enterprises from
+the State of Bid Inviting Authority whose credentials are validated online through Udyog
+Aadhaar for that product category. If the bidder wants to avail the reservation benefit, the
+bidder must be the manufacturer of the offered product in case of bid for supply of goods.
+Traders are excluded from the purview of Public Procurement Policy for Micro and Small
+Enterprises. In respect of bid for Services, the bidder must be the Service provider of the
+offered Service. Relevant documentary evidence in this regard shall be uploaded along with
+the bid in respect of the offered product or service.
+
+6.Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be
+given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs)
+Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises
+and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to
+avail the Purchase preference, the bidder must be the manufacturer of the offered product
+in case of bid for supply of goods. Traders are excluded from the purview of Public
+Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder
+must be the Service provider of the offered Service. Relevant documentary evidence in this
+regard shall be uploaded along with the bid in respect of the offered product or service. If L-1
+is not an MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of
+purchase preference /price band defined in relevant policy, such Seller shall be given
+opportunity to match L-1 price and contract will be awarded for percentage of 20% of total
+value.
+
+7.Purchase preference to Micro and Small Enterprises (MSEs) from the State of Bid Inviting
+Authority : Purchase preference will be given to MSEs as Micro and Small Enterprises from
+
+                               5 / 6
+
+
+
+ 
+
+the State of Bid inviting Authority whose credentials are validated online through Udyog
+Aadhaar for that product category. If the bidder wants to avail the Purchase preference, the
+bidder must be the manufacturer of the offered product in case of bid for supply of goods.
+Traders are excluded from the purview of Public Procurement Policy for Micro and Small
+Enterprises. In respect of bid for Services, the bidder must be the Service provider of the
+offered Service. Relevant documentary evidence in this regard shall be uploaded along with
+the bid in respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s)
+has/have quoted price within L-1+ 15 % of margin of purchase preference /price band
+defined in relevant policy, such Seller shall be given opportunity to match L-1 price and
+contract will be awarded for percentage of 20% of total value as defined/ decided in relevant
+policy.
+
+8.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

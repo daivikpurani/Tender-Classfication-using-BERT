@@ -1,0 +1,334 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/674326
+
+  Dated: 16-06-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 29-06-2020 11:00:00
+
+Bid Opening Date/Time 2020-06-29 11:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Communications
+
+Department Name Department Of Posts
+
+Organisation Name Tamil Nadu Postal Circle Department Of Posts
+
+Office Name Office Of The Chief Postmaster General Tamilnadu
+Circle Chennai 600002
+
+Total Quantity 5
+
+Item Category Bankbook or Passbook Update Machines-printer
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Bankbook Or Passbook Update Machines-printer ( 5 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+                               1 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/Scr28zd6l9mgbAjwKKqTC5lFMJM5vNZX9s1fHPYkP4U
+
+
+ 
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Specifications Type Dot Matrix *
+
+No. of Pins (Nos.) 24 Pins *
+
+Printable Column(Pitch)  94 @ 10cpi/112 @
+12cpi
+
+*
+
+Color Black *
+
+Input Data Buffer
+(Kbyte)
+
+8 8
+
+Print Speed in High
+Speed Draft Mode
+@10cpi (Characters
+per second)
+
+530 530
+
+Print Speed in Draft
+Mode @10cpi
+(Characters per
+second)
+
+400 400
+
+Print Speed in NLQ
+Mode @10cpi
+(Characters per
+second)
+
+150 150
+
+Print Speed in LQ
+Mode @10cpi
+(Characters per
+second)
+
+100 100
+
+Paper Path( Manual
+Insertion )
+
+front in, front out *
+
+Bi-directional parallel
+interface
+
+Yes *
+
+Serial Interface Yes *
+
+USB Interface Yes *
+
+Ribbon Cartridge
+Life in Draft Mode @
+10cpi, 24 dots per
+character)(Minimum)
+
+3.5 3.5
+
+Vertical and Horizontal
+Passbook Handling
+
+Yes *
+
+Automatic Feed Gap
+Adjustment
+
+Yes *
+
+Automatic Sheet
+Alignment
+
+Yes *
+
+Automatic Print Head
+Adjustment
+
+Yes *
+
+Print Characters International PC-437 *
+
+Feeding Format Friction Feed (Front
+Manual)
+
+*
+
+                               2 / 4
+
+
+
+ 
+
+Pass Book Size:
+Horizontal (W x L)
+
+- *
+
+Pass Book Size: Vertical
+(W x L) (mm)
+
+- *
+
+Pass Book Thickness
+(Open Passbook) (mm)
+
+- *
+
+Maximum Power
+Consumption - In
+Standby Mode (In watt)
+
+13 *
+
+Maximum Power
+Consumption in Print
+Mode
+
+80 *
+
+Power Supply 230 V+/- 10%, 50 Hz *
+
+Overall Dimensions
+(Length x Width x
+Height) ( mm x mm x
+mm )
+
+- *
+
+Weight(Kg) 9.5 *
+
+BIS Registration under
+CRS of Meity
+
+Yes *
+
+BIS Registration
+number
+
+- *
+
+Availability of Test
+Reports from Central
+Govt/NABL/ILAC
+accredited Lab showing
+Conformity to the
+specifications
+
+No *
+
+If Yes, Test Report
+Number
+
+- *
+
+If Yes, Test Report Date - *
+
+If Yes, Name of Test
+Lab
+
+- *
+
+If Yes,Address of the
+Test Lab
+
+- *
+
+On Site OEM
+Warranty (Year)
+
+1 1
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti Address Quantity Delivery Days
+
+                               3 / 4
+
+
+
+ 
+
+ng Officer
+
+1 JAYANTHI MURALI 600017,Office of the SSPOs
+Chennai City Central Dn
+Chennai 600017
+
+5  15
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

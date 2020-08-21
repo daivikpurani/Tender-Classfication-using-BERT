@@ -1,0 +1,349 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/708126
+
+  Dated: 13-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 23-07-2020 14:00:00
+
+Bid Opening Date/Time 23-07-2020 14:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 15 (Days)
+
+Ministry/State Name Haryana
+
+Department Name Cooperation Department Haryana State
+
+Organisation Name The Fatehabad Central Cooperative Bank Ltd
+
+Office Name Fatehabad
+
+Total Quantity 3
+
+Item Category Bankbook or Passbook Update Machines-printer
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+Estimated Bid Value  78297
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Bankbook Or Passbook Update Machines-printer ( 3 pieces )
+
+Technical Specifications
+
+                               1 / 4
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Specifications Type Dot Matrix *
+
+No. of Pins (Nos.) 24 Pins *
+
+Printable Column(Pitch)  94 @ 10cpi/112 @
+12cpi
+
+*
+
+Color Black *
+
+Input Data Buffer
+(Kbyte)
+
+64 8, 64, 128
+
+Print Speed in High
+Speed Draft Mode
+@10cpi (Characters
+per second)
+
+480 Any applicable numeric
+value
+
+Print Speed in Draft
+Mode @10cpi
+(Characters per
+second)
+
+360 Any applicable numeric
+value
+
+Print Speed in NLQ
+Mode @10cpi
+(Characters per
+second)
+
+180 Any applicable numeric
+value
+
+Print Speed in LQ
+Mode @10cpi
+(Characters per
+second)
+
+120 Any applicable numeric
+value
+
+Paper Path( Manual
+Insertion )
+
+front in, front out / front
+in, rear out
+
+*
+
+Bi-directional parallel
+interface
+
+Yes *
+
+Serial Interface Yes *
+
+USB Interface Yes *
+
+Ribbon Cartridge
+Life in Draft Mode @
+10cpi, 24 dots per
+character)(Minimum)
+
+10 Any applicable numeric
+value
+
+Vertical and Horizontal
+Passbook Handling
+
+Yes *
+
+Automatic Feed Gap
+Adjustment
+
+Yes *
+
+Automatic Sheet
+Alignment
+
+Yes *
+
+Automatic Print Head
+Adjustment
+
+Yes *
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/0ClxDV7rDTa3YtP-y2h85vLuv1F_c95Uk0yllIXDyWY
+
+
+ 
+
+Print Characters International PC-437 *
+
+Feeding Format Friction Feed (Front
+Manual)
+
+*
+
+Pass Book Size:
+Horizontal (W x L)
+
+- *
+
+Pass Book Size: Vertical
+(W x L) (mm)
+
+- *
+
+Pass Book Thickness
+(Open Passbook) (mm)
+
+- *
+
+Maximum Power
+Consumption - In
+Standby Mode (In watt)
+
+8 *
+
+Maximum Power
+Consumption in Print
+Mode
+
+60 *
+
+Power Supply 230 V+/- 10%, 50 Hz *
+
+Overall Dimensions
+(Length x Width x
+Height) ( mm x mm x
+mm )
+
+- *
+
+Weight(Kg) 7.7 *
+
+BIS Registration under
+CRS of Meity
+
+Yes *
+
+BIS Registration
+number
+
+- *
+
+Availability of Test
+Reports from Central
+Govt/NABL/ILAC
+accredited Lab showing
+Conformity to the
+specifications
+
+No *
+
+If Yes, Test Report
+Number
+
+- *
+
+If Yes, Test Report Date - *
+
+If Yes, Name of Test
+Lab
+
+- *
+
+If Yes,Address of the
+Test Lab
+
+- *
+
+On Site OEM
+Warranty (Year)
+
+2 1, 2, 3, 4, 5
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+                               3 / 4
+
+
+
+ 
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Rajesh Kumar
+Nagal
+
+125050,Opp M.M Collage of
+Education Sirsa Road
+
+3  15
+
+Bid Specific Additional Terms and Conditions
+
+1. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

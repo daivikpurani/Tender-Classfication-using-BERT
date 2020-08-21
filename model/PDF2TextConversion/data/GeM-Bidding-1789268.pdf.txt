@@ -1,0 +1,566 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/712902
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 16:00:00
+
+Bid Opening Date/Time 27-07-2020 16:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Gujarat
+
+Department Name Health & Family Welfare Department Gujarat
+
+Organisation Name National Rural Health Mission (nrhm) State Health Society
+
+Office Name Commissionarate Of Health
+
+Total Quantity 28
+
+Item Category Portable Ventilator
+
+Bidder Turnover (Last 3 Years)  70 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM Authorization
+Certificate
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the
+buyer
+
+Past Performance  50 %
+
+Bid to RA enabled  Yes
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM {themselves or
+through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central
+/ State Govt Organization / PSU / Public Listed Company for number of years as indicated in the bid document before the
+
+                               1 / 6
+
+
+
+ 
+
+bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some
+quantity during each of the year. In case of bunch bids, the category of primary product having highest value should
+meet this criterion.
+2. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have supplied same or similar
+Category Products for 50% of bid quantity, in at least one of the last three years before the bid opening date to any
+Central / State Govt Organization / PSU / Public Listed Company. Copies of relevant contracts (proving supply of
+cumulative order quantity in any one year) to be submitted along with bid in support of quantity supplied in the relevant
+year. In case of bunch bids, the category related to primary product having highest bid value should meet this criterion.
+
+Portable Ventilator ( 28 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards UMDNS Code 18-098 *
+
+Certifications for the
+product
+
+- *
+
+Certification number and
+date
+
+- *
+
+Confirmity to quality
+management standards
+
+ISO 9001 & ISO 13485 *
+
+Confirmity to electrical
+safety standards
+
+IEC 60601-1 or ISO
+80601-2-12 or BIS
+equivalent
+
+*
+
+Vibration resistance
+certification
+
+EN 794-3 EN 794-3
+
+Aviation Standards: Should have airworthiness
+as per RTCA DO-160D
+aviation standards
+
+Should have airworthiness
+as per RTCA DO-160D
+aviation standards, NA in
+case not compatible for air
+craft use
+
+Performance Parameters Scope of item Portable transport
+ventilators are defined as
+mechanical ventilators that
+are specifically designed to
+facilitate intrahospital
+and/or interfacility transport
+of ventilated patients. These
+devices are relatively small
+and lightweight, and can be
+hand-carried if necessary
+during transport. Transport
+ventilators may provide
+basic or advanced modes of
+ventilation for neonatal,
+pediatric, and/or adult
+patients
+
+*
+
+Clinical application Portable transport
+ventilators are designed to
+take the place of manual
+ventilation or "bagging"
+during emergency or
+transport situations
+
+*
+
+Patient type Pediatric and neonatal Pediatric and neonatal
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/qqwv2kOtXE9Rbp1RcsGj5YLajyuKjbWhtjK2TG0pGLU
+
+
+ 
+
+Tidal volume in ml 20 ml or less- 300 ml or
+more
+
+50 ml or less - 1500 ml or
+more, 20 ml or less- 300 ml
+or more
+
+Respiration rate,
+breaths/min
+
+Upto 80 *
+
+Trigger mechanism Pressure or flow *
+
+FiO2 % 21-100 *
+
+Inspiratory flow rate, L/min Upto 120 *
+
+Inspiratory pressure, cm
+H2O
+
+Upto 50 *
+
+IE ratio Adjustable or infinitely
+variable
+
+1:3 to 1:1, Adjustable or
+infinitely variable
+
+PEEP/CPAP, cm H2O 0-20 *
+
+Pressure support, cm H2O Upto 35 or more *
+
+Panel lock Yes *
+
+Operating modes Assist/control modes A/C volume breaths and A/C
+pressure breaths
+
+*
+
+SIMV modes SIMV volume breaths , SIMV
+pressure breaths,
+Spontaneous/CPAP mode ,
+CPAP pressure support , Non-
+invasive ventilation , Apnea-
+backup vent mode
+
+*
+
+Monitored/ Displayed
+Parameters
+
+Peak inspiratory pressure,
+Mean airway pressure, PEEP
+pressure, Tidal volume,
+Minute volume, FiO2,
+Respiratory rate, Inspiratory
+time, Expiratory time, IE
+ratio
+
+*
+
+Patient Alarms Low/high FiO2, Low/high
+minute volume , Low
+inspiratory pressure , High
+pressure, Low PEEP , High
+PEEP , Apnea, Continuous
+high pressure/occlusion,
+Inverse IE, High respiratory
+rate, Breathing circuit
+disconnect
+
+*
+
+Equipment Alarms Gas-supply failure , Power
+failure, Vent inoperative,
+Low battery, Self-diagnostic
+
+*
+
+Type of display LED LCD, LED, TFT
+
+Size of display in inches 4 *
+
+Patient Transport Capability Mounting of the
+equipment
+
+Rail mounted Rail mounted, Trolley
+mounted
+
+Rail mount or trolley mount
+should be of the same OEM
+
+Yes *
+
+Hand carrying during
+transport
+
+Yes *
+
+MRI compatibility of
+equipment
+
+Yes Yes, No
+
+Magnetic field strength ,
+T
+
+3 T 3 T, NA for non MRI
+compatible
+
+                               3 / 6
+
+
+
+ 
+
+Guass line restriction in G
+(in case of non MRI
+compatible put NA)
+
+- *
+
+Built in air source Air compressor Air compressor, Turbine
+
+Should work with External high pressure
+source/cylinders and low
+flow Oxygen supply
+
+*
+
+Power source Mains and battery operated Mains and battery operated
+
+Battery type Li-ion *
+
+Should be able to work
+with car / ambulance
+battery
+
+Yes Yes
+
+Power supply NA for battery operated 220-240 V , 50 Hz AV single
+phase, NA for battery
+operated
+
+Operating time in hrs More than 5 hrs More than 3 hrs, More than
+5 hrs
+
+Weight (including battery) in
+kgs
+
+3.75 *
+
+Warranty in years 5 5
+
+Additional Accessories Reusable silicon
+breathing circuits
+
+2 adult, 2 pediatric , 2
+neonatal
+
+2 adult, 2 pediatric , 2
+neonatal
+
+NV mask 2 adult, 2 pediatric , 2
+neonatal
+
+2 adult, 2 pediatric , 2
+neonatal
+
+Length of Power cord in m 3 m *
+
+Charging adapter to be
+supplied
+
+Yes *
+
+Reports Number of supplies in
+Central /State/PSU Govt
+Hospitals ( Hint: Seller
+should supply a performace
+certificate of the device to
+the buyer incase
+demaneded after placement
+of order)
+
+>3 *
+
+OEM/Reseller ( if supplied by
+reseller shall ensure
+uninterputed availabilty of
+all spares for 10 years)
+
+Yes *
+
+Availability of toll free
+facility for technical support
+maintened by OEM or
+authorized agencies
+
+Yes *
+
+User/Technical/Maintenance
+manuals to be supplied in
+English in hard and soft
+copy
+
+Yes *
+
+Demonstration of
+equipment and training to
+be provided after
+completing supplies before
+acceptance
+
+Yes *
+
+The Principal Manufacturer
+must have direct
+Presence/approved service
+center In India
+
+Yes *
+
+                               4 / 6
+
+
+
+ 
+
+Copies of reports and
+certifications to be furnished
+to buyer on demand at time
+of supplies
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Ashish Kumar Muley 382010,GVK Emergency
+Management and Research
+Institute Gujarat – 108 Emergency
+Management Centre, Naroda-
+Kathwada Road, Naroda,
+Ahmedabad, Pin 382 330, Gujarat,
+India.
+
+28  30
+
+Bid Specific Additional Terms and Conditions
+1.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting the bid, Manufacturers
+
+Authorisation Form (MAF)/Certificate with OEM details such as name, designation, address, e-mail Id and Phone
+No. required to be furnished along with the bid.
+
+2.Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid documents. Buyers can
+match and verify the Data Sheet with the product specifications offered. In case of any unexplained mismatch of
+technical parameters, the bid is liable for rejection.
+
+3.Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have regularly,
+manufactured and supplied same or similar Category Products to any Central / State Govt Organization / PSU /
+Public Listed Company for 3 years before the bid opening date. Copies of relevant contracts to be submitted
+along with bid in support of having supplied some quantity during each of the year. In case of bunch bids, the
+primary product having highest value should meet this criterion.
+
+4.OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25
+percent at the time of placement of contract. The purchaser also reserves the right to increase the ordered
+quantity by up to 25% of the contracted quantity during the currency of the contract at the contracted rates.
+Bidders are bound to accept the orders accordingly.
+
+5.Without prejudice to Buyer’s right to price adjustment by way of discount or any other right or remedy available
+to Buyer, Buyer may terminate the Contract or any part thereof by a written notice to the Seller, if:
+i) The Seller fails to comply with any material term of the Contract.
+ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within the stipulated
+Delivery Period or such inability otherwise becomes apparent.
+iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery Period and/or to
+replace/rectify any rejected or defective Material(s) promptly.
+iv) The Seller becomes bankrupt or goes into liquidation.
+v) The Seller makes a general assignment for the benefit of creditors.
+vi) A receiver is appointed for any substantial property owned by the Seller.
+vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has placed the Purchase
+Order on the Seller.
+
+6.Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods
+and Training of operators and providing Statutory Clearances required (if any)
+
+7.IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered
+office in India to provide after sales service support in India. The certificate to this effect should be submitted.
+
+8.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each
+Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If
+service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one
+within 30 days of award of contract. Payment shall be released only after submission of documentary evidence
+of having Functional Service Centre.
+
+9.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone
+No. for Service Support.
+
+10.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for
+Service Support.
+
+11.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid
+
+                               5 / 6
+
+
+
+ 
+
+document, ATC and Corrigendum if any.
+12.The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test
+
+certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid
+document.
+
+13.Timely Servicing / rectification of defects during warranty period: After having been notified of the defects /
+service requirement during warranty period, Seller has to complete the required Service / Rectification within 3
+days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of
+Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit
+the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the
+Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after
+which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and
+cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service /
+rectification to the Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

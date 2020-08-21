@@ -1,0 +1,351 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/705066
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 12:00:00
+
+Bid Opening Date/Time 20-07-2020 12:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Finance
+
+Department Name Department Of Financial Services
+
+Organisation Name Lic - Life Insurance Corporation Of India
+
+Office Name Kolhapur Divisional Office
+
+Total Quantity 2
+
+Item Category Deposit Safe ( PAC Only ) 
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Deposit Safe ( 2 pieces ) ( Under PAC ) 
+
+Make methodex
+
+Model methodexdepositsafemethosafecclass41
+
+                               1 / 4
+
+
+
+ 
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC Class of Safe as per
+IS:550 Part1
+
+Class-C (Door with tool
+resistance capacity of
+30 minutes, other five
+sides with tool resisting
+capacity of 10 min
+each and safe with fire
+resisting capacity of 30
+min)
+
+*
+
+Size as per IS:550 850-S SINGLE DOOR 470 SINGLE DOOR, 580
+SINGLE DOOR, 850-S
+SINGLE DOOR, 850-L
+SINGLE DOOR, 1030
+SINGLE DOOR, 1340
+SINGLE DOOR, 1640
+SINGLE DOOR, 1860
+SINGLE DOOR, 1340
+DOUBLE DOOR, 1600
+DOUBLE DOOR
+
+DIMENSION Inside dimension of
+safe
+
+as per IS:550 Part 1
+table-2
+
+*
+
+Height of Deposit safe 850 *
+
+Width of Deposit Safe 415 *
+
+Depth of Deposit Safe 365 *
+
+Total Thickness of
+outer body plate and
+inner plate (in mm)
+
+8 *
+
+Thickness of door slab
+(Thickness over rebate)
+in mm
+
+18 *
+
+Thickness of door over
+bolt work (in mm)
+
+25 *
+
+Thickness of drill
+resistance Iaycr,
+shielding bolt work and
+lock (in mm)
+
+6 *
+
+Size of each bolt
+(Minimum Area of bolt
+section) in Square
+Milimeter
+
+950 *
+
+Depth of engagements
+of the bolts, in mm
+
+25 *
+
+TOLERANCES IN AS PER IS 550 *
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/x2DVT964RUmxZf4hEX83ERlC_bc26XdJG34z_HxWtKQ
+
+
+ 
+
+DIMENSIONS
+
+CERTIFICATION ISI marked (IS:550,
+Part 1)
+
+Yes Yes, NO
+
+CM/L NO 2612344 *
+
+Test reports to be
+furnished to buyer on
+demand
+
+YES *
+
+MISC Anchoring arrangement Without *
+
+Color Grey *
+
+COMBINATION LOCK IN
+ADDITION TO NUMBER
+OF KEY LOCKS GIVEN
+IN IS 550
+
+NO ADDITIONAL LOCK *
+
+Provision for retrofitting
+time lock
+
+NO *
+
+NUMBER OF LEVERS IN
+MAIN LOCK
+
+10 *
+
+THICKNESS OF LEVERS
+IN mm
+
+2.0 *
+
+Number of bolts on
+hinge side
+
+4 *
+
+Number of bolts on side
+opposite of hinge side
+
+4 *
+
+Number of bolts at the
+top
+
+NO BOLTS AT TOP *
+
+Number of bolts at the
+bottom
+
+NO BOLTS AT BOTTOM *
+
+Number of Adjustable
+shelves
+
+2 *
+
+Number of Drawers 2 *
+
+Handle Material Stainless Steel *
+
+WARANTEE WARANTEE PERIOD
+IN NUMBER OF
+YEARS
+
+2 1, 2, 3, 4, 5, 6, 7, 8, 9,
+10
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+                               3 / 4
+
+
+
+ 
+
+1 Satish Dinkar
+Raorane
+
+416219,LIC OF INDIA
+MURGUD BRANCH
+NAGARPALIKA BUILDING
+MURGUD TAL.BHUDARGAD
+DIST.KOLHAPUR
+
+2  30
+
+Bid Specific Additional Terms and Conditions
+
+1.The Bidder / OEM {themselves or through reseller(s)}, should have executed project for
+supply and installation / commissioning of same or similar Category Products during
+preceding 3 financial years (i.e. current year and three previous financial years) as on
+opening of bid, as per following criteria:
+ 
+(i) Single order of at least 35% of estimated bid value; or
+(ii) Two orders of at least 20% each of estimated bid value; or
+(iii) Three orders of at least 15% each of estimated bid value.
+Satisfactory Performance certificate issued by respective Buyer Organization for the above
+Orders should be uploaded with bid. In case of bunch bids, the Category related to primary
+product having highest bid value should meet this criterion
+
+2.Without prejudice to Buyer’s right to price adjustment by way of discount or any other right
+or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a
+written notice to the Seller, if:
+i) The Seller fails to comply with any material term of the Contract.
+ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within
+the stipulated Delivery Period or such inability otherwise becomes apparent.
+iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery
+Period and/or to replace/rectify any rejected or defective Material(s) promptly.
+iv) The Seller becomes bankrupt or goes into liquidation.
+v) The Seller makes a general assignment for the benefit of creditors.
+vi) A receiver is appointed for any substantial property owned by the Seller.
+vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has
+placed the Purchase Order on the Seller.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

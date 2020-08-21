@@ -1,0 +1,476 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/715125
+  Dated: 17-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 18:00:00
+
+Bid Opening Date/Time 27-07-2020 18:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Odisha
+
+Department Name Home Department Odisha
+
+Organisation Name State Forensic Science Laboratory Bhubaneswar
+
+Office Name Bhubaneswar
+
+Total Quantity 1
+
+Item Category SPECTROPHOTOMETER
+
+Experience Criteria  1 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM Authorization
+Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the
+buyer
+
+Past Performance  10 %
+
+Bid to RA enabled  Yes
+
+Inspection Required  Yes
+
+Inspection to be carried out by Buyers own
+empanelled agency
+
+ Yes
+
+Type Of Inspection  Post Dispatch
+
+Name of the Empanelled Inspection Agency/
+Authority
+
+ Board of Officers
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 2.00
+
+EMD Amount 35000
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 5.00
+
+                               1 / 5
+
+
+
+ 
+
+Duration of ePBG required (Months). 36
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant
+category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for
+Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+Deputy Director
+BHUBANESWAR, Home Department Odisha, State Forensic Science Laboratory Bhubaneswar,
+(Pramod Kumar Maharana)
+
+Splitting
+
+ Bid splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM {themselves or
+through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central
+/ State Govt Organization / PSU / Public Listed Company for number of years as indicated in the bid document before the
+bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some
+quantity during each of the year. In case of bunch bids, the category of primary product having highest value should
+meet this criterion.
+2. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have supplied same or similar
+Category Products for 10% of bid quantity, in at least one of the last three years before the bid opening date to any
+Central / State Govt Organization / PSU / Public Listed Company. Copies of relevant contracts (proving supply of
+cumulative order quantity in any one year) to be submitted along with bid in support of quantity supplied in the relevant
+year. In case of bunch bids, the category related to primary product having highest bid value should meet this criterion.
+
+SPECTROPHOTOMETER ( 1 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+LIGHT SOURCE Light Source Halogen Lamp,Deuterium
+Lamp
+
+Halogen Lamp, Deuterium
+Lamp, LED, Tungsten
+Halogen Lamp, Xenon Flash
+
+Diffraction Grating
+(lines/mm)
+
+1200 600, 800, 1000, 1200, 1400,
+1600, 1800
+
+Switching of Light
+Source
+
+Automatic Automatic, Mannual, NA
+
+Wavelength Setting And
+Scanning
+
+Automatic Automatic, Mannual
+
+TYPE Type of
+Spectrophotometer
+
+UV - VISIBLE UV - VISIBLE, VISIBLE, UV -
+VISIBLE - IR, NIR
+
+Type of Optical System Double Beam Single Beam, Split Beam,
+Double Beam
+
+Monochromator Type Czerny-turner Reflexive Grating,
+Holographic Grating, Czerny-
+turner, NA, Scanning grating
+
+Detector Type Photodiode Photo Multiplier Tube (PMT),
+Photodiode, CMOS, Diode
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/9mzU9btZCyVtp6k-jyWCbYnp-xQP-pIze8OQ8Xff0m4
+
+
+ 
+
+array, Silicon, Silicon & Lead
+Sulfide, Indium Gallium
+Arsenide (InGaAs)
+
+Spectral Bandwidth Type Variable Bandwidth Fixed Bandwidth, Variable
+Bandwidth
+
+OPTICAL PERFORMANCE Source Wavelength -
+Minimum
+
+190 *
+
+Source Wavelength -
+Maximum
+
+1100 *
+
+Resolution 0.2 0.002, 0.3, 0.5, 1, 1.25, 1.5,
+1.7, 2, 0.2, 0.01
+
+Wavelength Accuracy
+(+/-)
+
+0.1 0.1, 0.3, 0.5, 0.8, 1, 1.5, 2,
+2.5, 0.05
+
+Bandwidth (nm) 0.2 *
+
+If variable band width,
+Specify the incremental step
+value(mm)
+
+0.2 *
+
+Scanning Speed (nm/min) 5000 *
+
+Focal length (mm) 100 to 149 0 to 49, 50 to 99, 100 to
+149, 150 to 199, 200 to
+249, 250 to 299, 300 and
+above
+
+Photometric
+measurement modes
+
+Transmittance,Absorbance,
+Concentration (Wavelength,
+time),Reflectance
+
+Transmittance, Absorbance,
+Concentration (Wavelength,
+time), Reflectance, Energy,
+Polarisation
+
+Photometric Absorbance
+(Max) (Abs) (+/-)
+
+3 0.2 - 8
+
+Photometric Absorbance
+Accuracy (Max) (+/-)
+
+0.003 0.001 - 0.5
+
+Photometric
+Transmittance (Max)
+(+/-)
+
+100 0 - 100
+
+Photometric
+Transmittance Accuracy
+(Max) (+/-)
+
+0.002 0 - 0.5
+
+Photometric Reflectance
+(Max) (+/-)
+
+100 0 - 100
+
+Photometric Reflectance
+Accuracy (Max) (+/-)
+
+0.5 *
+
+Stray Light Correction Automatic *
+
+Baseline Correction Automatic *
+
+GENERIC Display Through PC In-built display, Through PC
+
+Display type LED LCD with Backlight, LED,
+LCD touchscreen, TFT, NA
+
+Display Size 17 0 - 30
+
+Test result printing Through external printer Through inbuilt Printer,
+Through external printer
+
+If inbuilt printer, Type of
+printer
+
+N/A Thermal printer, Dot matrix,
+Laser b/w, Inkjet b/w, Color
+laser, Color inkjet, N/A
+
+Suitable software for
+connecting PC & Printer
+
+Yes *
+
+                               3 / 5
+
+
+
+ 
+
+Connectivity USB *
+
+Internal storage(GB) 80 0 - 80
+
+Sample switching/selection Manual *
+
+Capacity of Sample holder /
+Sample Carousel
+
+2 *
+
+Mximum Path Length of
+sample
+
+100 0 - 120
+
+Number of Cuvettes
+supplied-inclusive in the
+scope of supply
+
+10 *
+
+Power Supply 230 V ± 10, 50 Hz *
+
+Spares and Consumables
+inclusive in the scope of
+supply
+
+No Yes, No
+
+List of Items and Quantity of
+each item included in the
+offer
+
+- *
+
+OPERATING CONDITIONS Minimum Operating
+Temperature
+
+10 -5, -10, 0, 5, 10
+
+Maximum Operating
+Temperature
+
+35 35, 40, 45, 50, 55, 60
+
+Operating Humidity (RH)
+(%) at 40 degree C
+
+90 80, 85, 90, 95
+
+WARRANTY Onsite Warranty 3 1, 2, 3, 4, 5
+
+Availability of Spares (at
+extra cost)
+
+10 2, 3, 4, 5, 6, 7, 8, 10
+
+Certification Availability of UL/CE
+Certification as per EN
+61010-1:2010 Safety
+requirements for
+electrical equipment for
+measurement, control,
+and laboratory use
+General requirements
+
+Yes Yes, No
+
+Conformance to EMC/EMI
+as per EN 61326-1:2013
+Electrical equipment for
+measurement, control
+and laboratory use
+
+Yes Yes, No
+
+Availability of Test
+Reports from Central
+Govt / NABL approved /
+ILAC acredited lab to
+prove conformity to the
+specification
+
+No Yes, No
+
+If yes test report to
+furnished,to the buyer on
+demand
+
+N/A *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+                               4 / 5
+
+
+
+ 
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Sk Golam Ahmmed 751010,AT/POST- RASULGARH,
+BHUBANESWAR
+
+1  15
+
+Bid Specific Additional Terms and Conditions
+1.IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered
+
+office in India to provide after sales service support in India. The certificate to this effect should be submitted.
+2.Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods
+
+and Training of operators and providing Statutory Clearances required (if any)
+3.ISO 9001: The bidder must have ISO 9001 certification.
+4.Material Test Certificate Should Be Sent Along with The Supply. The Material Will Be Checked by Buyer’s Lab &
+
+the Results of the Lab will be the Sole Criteria for Acceptance of the Item.
+5.The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test
+
+certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid
+document.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

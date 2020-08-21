@@ -1,0 +1,627 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/704215
+
+  Dated: 09-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 11:00:00
+
+Bid Opening Date/Time 20-07-2020 11:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 40 (Days)
+
+Ministry/State Name Ministry Of Coal
+
+Department Name Materials Management
+
+Organisation Name Nlc
+
+Office Name Materials Management
+
+Total Quantity 2
+
+Item Category Multi Gas Detector
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 7
+
+
+
+ 
+
+Multi Gas Detector ( 2 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+TYPE/APPLICATION/TEC
+HNOLOGY
+
+Type Portable /Handheld Portable /Handheld
+
+Technology Electro-Chemical type -
+replaceable sensor and
+Catalytic Type
+
+*
+
+Functions To generate audio
+-visual alarm at Preset
+value along with
+simultaneous digital
+display of i) Lower
+Explosive Limit(LEL) ii)
+O2 iii) H2S iv)Any one
+of the selectable gas
+such as
+(CO/NH3/SO2/CL2 etc)
+
+*
+
+Detactable Gases Combustible Gas-Lower
+Explosive Limit(LEL),Ox
+ygen(O2),Carbon Mono
+oxide(CO),Hydrosulfide
+(H2S)
+
+Combustible Gas-Lower
+Explosive Limit(LEL),
+Oxygen(O2),
+Hydrosulfide(H2S),
+Carbon Monooxide(CO)
+
+Preset Value (To
+generate audio- visual
+alarm )
+
+User Setable *
+
+Gases for which Preset
+value to be set by user
+
+Lower Explosive Limit(L
+EL),Oxygen(O2),Carbon
+Monooxide(CO),Hydros
+ulfide(H2S)
+
+*
+
+AREA OF USE -
+HAZARDOUS AREA
+CLASSIFICATION
+
+Hazardous area
+classification standard
+
+IEC 60079 (latest) *
+
+Area of use -
+Hazardous area
+classification
+
+Intrinsically safe for use
+in hazardous area
+classification
+conforming to Class I,
+Division I, Group A, B, C
+& D or Zone - 0, Group-
+IIA, IIB & IIC
+
+Intrinsically safe for use
+in hazardous area
+classification
+conforming to Class I,
+Division I, Group A, B, C
+& D or Zone - 0, Group-
+IIA, IIB & IIC
+
+MEASUREMENT OF
+Combustible Gas-
+Lower Explosive
+Limit(LEL)
+
+Measurment Range
+of Combustible
+gas(LEL)
+
+0 -100 % 0 -100 %
+
+Resolution of the
+Combustible
+gas(LEL)
+measurement
+
+1 % 1 %
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/lRONVdjYyGiyB099kK9MsgoZFizTV861gboGNXmBJ-E
+
+
+ 
+
+MEASUREMENT OF
+OXYGEN(O2)
+
+Measurment Range
+of Oxygen(O2) gas
+concentration
+
+0 -25 % 0 -25 %
+
+Resolution of the
+Oxygen(O2)
+measurement
+
+0.1 0.1
+
+MEASUREMENT OF
+HYDROGEN SULFIDE
+(H2S)
+
+Measurment Range
+of HYDROGEN
+SULFIDE (H2S) gas
+concentration
+
+0 -100 ppm 0 -100 ppm
+
+Resolution of the
+HYDROGEN SULFIDE
+(H2S) measurement
+
+1 ppm 1 ppm
+
+MEASUREMENT OF
+SELECTABLE
+GAS(CO/NH3/SO2/CL2
+etc)
+
+Measurment Range
+of Selectable
+Gas(CO/NH3/SO2/Cl2
+)
+
+0 -500 ppm 0 -500 ppm
+
+Resolution of the
+Range of Selectable
+Gas(CO/NH3/SO2/Cl2
+) measurement
+
+2 ppm 2 ppm
+
+PERFORMANCE
+PARAMETER OF THE
+DETECTOR
+
+Accuracy +/- 2 % of measured
+value
+
+*
+
+Response time to reach
+to 90% of measured
+value(with Sampling
+pumping house)
+
+30 *
+
+SAMPLING PUMP Sampling Pump NA NA
+
+Remote Sampling
+Accessories in the
+scope of Supply
+
+NA NA
+
+POWER SOURCE Power Source Rechargeable
+Batteries;
+
+Rechargeable
+Batteries;
+
+Battery Size Inbuilt Replaceable
+rechargeable Battery
+
+*
+
+Battery chemistry Li-ion *
+
+"Number of Batteries
+required for operation "
+
+One Number of Inbuilt
+replacable
+rechargeable Batteries
+
+*
+
+Number of Batteries
+Inclusive in the Scope
+of Supply
+
+1 *
+
+Battery capacity (mAH) 2000 *
+
+Operation time on fully
+charged battery(With
+Pump operation)
+
+60 *
+
+Suitable Battery
+Charger operable with
+
+Yes *
+
+                               3 / 7
+
+
+
+ 
+
+230 V + 5%, 50 Hz AC
+inclusive in the scope
+of supply
+
+GENERIC Display Self-illuminating back-
+light digital display
+
+*
+
+Housing Material ABS *
+
+Enclsoure Protection
+rating
+
+IP 67 *
+
+Overall Dimension(W x
+D x H) (mmxmmxmm)
+
+- *
+
+Weight(Including
+Battery & Sampling
+pump
+
+< 500 gram(Handheld/
+Portable)
+
+*
+
+Connectivity interface USB *
+
+Weight of
+Eqiupment(Including
+Battery & Sampling
+pump)
+
+6 - 8 kg *
+
+RF Protection Compliant with EMC
+directive against
+EMI/RF interferences
+
+*
+
+Application - *
+
+FEATURES Salient Features Two Levels of alarms
+for TWA (Time
+Weighted Average) &
+STEL (Short Term
+Exposure Limit),Low
+battery indication,The
+Set Points are
+adjustable over entire
+Range,Calibration due
+date indication,Data
+logging,Hand free
+Operation
+
+*
+
+Display Features Simultaneous Display
+for all four gases
+
+*
+
+Audio Visual Alarm configurable alarm
+patterns frequencies
+and volumes
+
+*
+
+ACCESSORIES Accessories in the
+scope of supply
+
+Calibration
+cup/adaptor/calibration
+tubing to facilitate
+calibration
+locally,Operation
+Manual
+
+*
+
+WARRANTY/SERVICE Warranty on
+Equipment
+
+24 24 Or higher
+
+Warranty on Sensor 24 24 Or higher
+
+Maximum Time period two weeks ( from *
+
+                               4 / 7
+
+
+
+ 
+
+within which any
+defects reported be
+rectified, at the
+buyer/consigne site,
+without any extra cost
+during warranty period
+of equipment
+
+reporting of the defect)
+
+OPERATING
+ENVIRONMENT
+
+Minimum Operating
+Temperature
+
+-20 *
+
+Maximum Operating
+Temperature
+
+50 *
+
+Opeating Humidity Up to 90%(Non-
+Condensing)
+
+*
+
+GENERAL TECHNICAL
+REQUIREMENTS (GTR)
+
+Other General
+Requirement
+
+a) Agreed to provide
+Declaration on the
+cross-sensitivity of
+sensor with other
+gasses, to the buyer at
+the time of supply. b)
+Agreed to pre despatch
+inspection of the
+material by byuer/
+buyer's authorized
+Inspection Agency, if
+applicable. c) Agreed to
+provide details
+regading frequency of
+calibration as
+recommendad by OEM
+or calibration frequency
+is once in six month
+whichever is earlier. d)
+Agreed to provide
+certificate for area of
+use ( hazardous area)
+and Enclosure
+Protection Rating
+Certificate by
+accredited agencies
+like FM/UL/CENELEC/BA
+SSEFA/ ATEX/CIMFR/IEC
+Ex/CSA/SAA/TIIS/INMET
+RO/CUTR etc. e) Agreed
+to provide PESO
+approval Certificate to
+the buyer at the time of
+supply. f) Agreed to
+provide 2 free
+calibration services per
+year during warranty
+period. g) Agreed to
+provide authorized
+supplier having valid
+authorization from
+OEM. All other details
+
+*
+
+                               5 / 7
+
+
+
+ 
+
+shall be as per ANSI/ISA
+92.0.01 to 92.06.01 or
+equivalent IEC
+standards(In Case of
+Reseller). h)Agreed to
+provide relevant
+technical literature of
+the offered instrument
+with make & model
+with copy of relevant
+approval, including
+sensor specification
+sheet for sensor used
+in the instrument.
+
+CALIBRATION
+CERTIFICATE
+
+Calibration Certificate
+provided
+
+Yes *
+
+Calibration Certificate
+issuing authority
+
+OEM Certificate *
+
+TEST REPORT Type of lab which
+carried out Test of
+Complete Product to
+prove the conformity of
+product as per
+specification
+
+OEM *
+
+Test Report Number
+and Date
+
+- *
+
+Name and address of
+the Lab where Test
+conducted
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Meganathan
+Rajangam
+
+607807,MINES SUB STORES,
+NEW SERVICE UNIT, NLC
+INDIA LIMITED, NEYVELI
+
+2  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+                               6 / 7
+
+https://gem.gov.in/termsCondition
+
+
+ 
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+http://www.tcpdf.org
+

@@ -1,0 +1,495 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/701714
+
+  Dated: 07-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 16:00:00
+
+Bid Opening Date/Time 20-07-2020 16:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Human Resource Development
+
+Department Name Department Of Higher Education
+
+Organisation Name National Institute Of Technology (nit)
+
+Office Name Motilal Nehru National Institute Of Technology
+Allahabad
+
+Total Quantity 10
+
+Item Category Microcontroller Educational Kit
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+MSE Purchase Preference
+
+MSE Purchase Preference Yes
+
+ 
+
+1. Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to
+MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012
+
+                               1 / 6
+
+
+
+ 
+
+dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and its subsequent
+Orders/Notifications issued by concerned Ministry. If the bidder wants to avail the Purchase
+preference, the bidder must be the manufacturer of the offered product in case of bid for supply of
+goods. Traders are excluded from the purview of Public Procurement Policy for Micro and Small
+Enterprises. In respect of bid for Services, the bidder must be the Service provider of the offered
+Service. Relevant documentary evidence in this regard shall be uploaded along with the bid in
+respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s) has/have quoted
+price within L-1+ 15% of margin of purchase preference /price band defined in relevant policy, such
+Seller shall be given opportunity to match L-1 price and contract will be awarded for percentage of
+25% of total value.
+
+Microcontroller Educational Kit ( 10 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+FEATURES AND
+FUNCTIONALITY
+PARAMETERS OF
+MICROCONTROLLER
+EDUCATIONAL KIT
+
+Name of
+Microcontroller kit
+
+8051 8051
+
+Onboard study cards
+included in the
+scope of supply
+
+Other study cards Other study cards
+
+If other then indicate
+name/no of onboard
+study card
+
+- *
+
+Availabilty of Power
+supply section
+
+Yes *
+
+Availabilty of Interface
+section
+
+Yes *
+
+Availabilty of I/O
+Interface
+
+Yes *
+
+Availabilty of
+interfacing present
+on microcontroller
+kit
+
+Other Other
+
+If Other in above
+parameter then
+indicate types of
+interfacing
+
+- *
+
+Availabilty of
+memory storage
+devices present on
+microcontroller kit
+
+Other Other
+
+If Other in above
+parameter then
+indicate types of
+
+- *
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/AKzyLE4VC1MepI3Kc4lIh6RgyTJtaiAbLAZPxTvL-z4
+
+
+ 
+
+memory storage
+devices
+
+Memory capacity of
+Monitor EEPROM
+
+4 4
+
+Provision of CD (Soft
+Copy) with sample
+project code,
+Programmer software
+& useful documents
+
+No *
+
+Number of I/O Pins
+for External
+Interface
+
+8 8
+
+Availabilty for Onboard
+7 Segment multiplexed
+display
+
+No *
+
+Availabilty for Onboard
+LCD/LED display
+
+No *
+
+If yes, then Size of
+LCD/LEDdisplay (in
+character)
+
+NA *
+
+Number of Onboard
+switches available
+
+4 4
+
+Availabilty for Onboard
+FRC(Flat ribbon
+connector) for Bus
+Extension
+
+No *
+
+Availabilty for Onboard
+DB connector for UART
+(RS232) interface
+
+No *
+
+Operating Frequency in
+Hertz
+
+- *
+
+Availabilty of Watchdog
+timer to automatically
+reset an embedded
+device that hangs
+because of a software
+or hardware fault
+
+No *
+
+Availabilty of Digital
+Temperature sensor
+
+No *
+
+Availabilty of two
+pushbuttons for
+interrupts study
+
+Yes *
+
+Indicate the details of
+Interrupts present in
+microcontroller kit
+
+- *
+
+Availabilty for Real
+Time Applications with
+sensor
+
+No *
+
+Facility to interface No *
+
+                               3 / 6
+
+
+
+ 
+
+external modules
+
+Connection Cable used NA *
+
+OPEARTING CONDITION Minimum Operating
+tempature for
+microcontroller kit in
+degree celsius
+
+0 *
+
+Maximum Operating
+tempature for
+microcontroller kit in
+degree celsius
+
+45 *
+
+Operating Humidity for
+microcontroller kit (RH)
+
+90% *
+
+TEST CERTIFICATION
+AND PAST EXPERIENCE
+
+Whether the offered
+kit tested at Central
+Govt / NABL
+approved / ILAC
+accredited Lab, any
+NABL accredited lab,
+govt
+lab/international lab
+to prove conformity
+to the specification
+
+No No
+
+If Yes, Test Report to
+be furnished to the
+Buyer on demand
+
+Yes *
+
+If yes, then indicate the
+name of the lab
+
+- *
+
+If yes, then indicate the
+test certificate number
+& date
+
+- *
+
+Whether manufacturer
+of offered product has
+national/international
+certification (such as
+ISO, TUV, etc )
+
+No *
+
+If yes, then indicate
+name of certification &
+certificate number and
+date
+
+- *
+
+Institute where the
+offered microcontroller
+kit supplied in the past(
+Non biddable
+parameter)
+
+NIT *
+
+Specify the names of
+the institute where the
+microcontroller kit
+supplied in the past
+with complete address
+
+- *
+
+GENERIC PARAMETERS Installation and No *
+
+                               4 / 6
+
+
+
+ 
+
+Demonstration
+included in the scope of
+supply
+
+List of items and its
+number included in the
+offered package
+
+- *
+
+Supplied with
+comprehensive user
+manual
+
+Yes *
+
+Warranty of
+Microcontroller kit
+
+1 1
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Mohd Danish
+Ansari
+
+211004,Motilal Nehru
+National Institute of
+Technology Allahabad
+
+10  42
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+2.The buyer organization is an institution eligible for concessional rates of GST as notified by
+the Government of India. The goods for which bids have been invited fall under classification
+of GST concession and the conditions for eligibility of concession are met by the institution.
+A certificate to this effect will be issued by Buyer to the Seller after award of the Contract.
+Sellers are requested to submit their bids after accounting for the Concessional rate of GST.
+Applicable Concessional rate of GST : 5%
+Notification No.and date : 47/2017-Integrated Tax (Rate) dated 14/11/2017
+
+3.Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be
+given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs)
+Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises
+and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to
+avail the Purchase preference, the bidder must be the manufacturer of the offered product
+in case of bid for supply of goods. Traders are excluded from the purview of Public
+Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder
+must be the Service provider of the offered Service. Relevant documentary evidence in this
+regard shall be uploaded along with the bid in respect of the offered product or service. If L-1
+is not an MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of
+purchase preference /price band defined in relevant policy, such Seller shall be given
+opportunity to match L-1 price and contract will be awarded for percentage of 20% of total
+value.
+
+                               5 / 6
+
+
+
+ 
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

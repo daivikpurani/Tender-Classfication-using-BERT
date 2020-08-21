@@ -1,0 +1,455 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/710530
+
+  Dated: 14-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 24-07-2020 19:00:00
+
+Bid Opening Date/Time 24-07-2020 19:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Kerala
+
+Department Name Local Self Government Department Kerala
+
+Organisation Name N/a
+
+Office Name Kerala Institute Of Local Administration (kila)
+
+Total Quantity 1
+
+Item Category Multifunction Machines MFM
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Multifunction Machines MFM ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+                               1 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/OjiWuvke0Xm2y1uDJmoKWH-fBp5sV7eaT-g5IIoAap4
+
+
+ 
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Ungrouped Print Technology Inkjet Inkjet
+
+Type of Machine Multifunction Machine Multifunction Machine
+
+Type of Printing Colour Mono, Colour
+
+Cartridge
+Technology
+
+Ink Composite Cartridge,
+Separate Drum and
+Toner (Mono
+Component), Separate
+Drum and Toner (Dual
+Component), Ink Or
+higher
+
+Developer Unit No *
+
+Platen/Flatbed Size A3 A4, A3, Legal Or higher
+
+Paper Size
+(Original/Image)
+
+A3/A3 A3/A3
+
+RAM size (MB) 256 128, 256, 512, 1024,
+2048, 4096, 6144,
+3072, 320, 768, 1536,
+1500, 758, 1250, 2560,
+7168, 5120, 8192,
+16384, 2816, 4000,
+2000, 10240 Or higher
+
+Hard Disk
+Capacity(GB)
+
+0 *
+
+Minimum Speed per
+Minute as per
+ISO/IEC 24734 in A4
+Size-Mono
+
+18 *
+
+Minimum Speed per
+Minute as per
+ISO/IEC 24734 in A4
+Size-Colour
+
+10 *
+
+Minimum Speed per
+Minute as per ISO/IEC
+24734 in A3 Size-Mono
+
+10 *
+
+Minimum Speed per
+Minute as per ISO/IEC
+24734 in A3 Size-
+Colour
+
+3 *
+
+Scanning Feature
+Availability
+
+Yes Yes Or higher
+
+Duplexing Feature
+Availability
+
+Yes Yes Or higher
+
+Faxing Feature
+Availability
+
+yes Yes Or higher
+
+Speed of Fax, If Fax
+Feature is available
+
+33.6 kbps *
+
+                               2 / 5
+
+
+
+ 
+
+Networking Feature
+Availability
+
+Yes Yes Or higher
+
+If yes, Type of Network
+Interface
+
+Ethernet 10/100/1000 *
+
+Wi-Fi Availability Yes Yes Or higher
+
+If yes,Wi-Fi Type Wi fi 802.11 b/g/n & Wi
+Fi Direct
+
+*
+
+Original Document
+Feeder Type
+
+ADF ADF, DADF/RADF, SPDF
+Or higher
+
+Feeder Capacity
+(Number)
+
+35 *
+
+Number of Main
+Paper Tray
+
+2 1, 2, 3, 4, 5 Or higher
+
+Each Main Paper Tray
+Capacity (Number)
+
+250 *
+
+Bypass Facility Yes Yes, No Or higher
+
+If Yes, Bypass Tray
+Capacity
+
+1 *
+
+Yield of the
+cartridge/Ink Tank/Ink
+Pack supplied with
+Machine as per ISO/IEC:
+19798/2007(E) for
+Cyan colour (Number of
+prints)
+
+2000 *
+
+Yield of the
+cartridge/Ink Tank/Ink
+Pack supplied with
+Machine as per ISO/IEC:
+19798/2007(E) for
+Yellow colour (Number
+of prints)
+
+2000 *
+
+Yield of the
+cartridge/Ink Tank/Ink
+Pack supplied with
+Machine as per ISO/IEC:
+19798/2007(E) for
+Magenta colour
+(Number of prints)
+
+2000 *
+
+Yield of the
+cartridge/Ink Tank/Ink
+Pack supplied with
+Machine as per ISO/IEC:
+19752/2004(E) for
+Black (Number of
+prints)
+
+6000 *
+
+Life of Drum in terms of
+number of Prints in
+case of Separate Drum
+and Toner cartridge
+
+0 *
+
+                               3 / 5
+
+
+
+ 
+
+technology - Cyan
+(Number of Prints)
+
+Life of Drum in terms of
+number of Prints in
+case of Separate Drum
+and Toner cartridge
+technology - Yellow
+(Number of Prints)
+
+0 *
+
+Life of Drum in terms of
+number of Prints in
+case of Separate Drum
+and Toner cartridge
+technology - Magenta
+(Number of Prints)
+
+0 *
+
+Life of Drum in terms of
+number of Prints in
+case of Separate Drum
+and Toner cartridge
+technology - Black
+(Number of Prints)
+
+0 *
+
+Duty Cycle (No of
+Prints/month)
+
+5000 *
+
+Minimum Operating
+Temperature (Degree
+C)
+
+5 *
+
+Maximum Operating
+Temperature (Degree
+C)
+
+35 *
+
+Minimum Operating
+Humidity (%RH)
+
+10 *
+
+Maximum Operating
+Humidity (%RH)
+
+80 *
+
+BIS Registration under
+CRS of Meity
+
+Yes *
+
+BIS Registration
+Number
+
+- *
+
+Other Certifications
+Available
+
+UL,CE,FCC,RoHS *
+
+Dimension (mm x mm
+x mm)
+
+- *
+
+Weight (Kg) - *
+
+On Site OEM
+Warranty (Year)
+
+1 1, 2, 3, 4, 5 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+                               4 / 5
+
+
+
+ 
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Mirash O S 680581,Kerala Institute of
+Local Administration
+Mulamgunnathukavu P O
+Thrissur
+
+1  20
+
+Bid Specific Additional Terms and Conditions
+
+1.Bidder financial standing: The bidder should not be under liquidation, court receivership
+or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect
+with bid.
+
+2.Consortium: In case of Contracts, wherein the seller alone does not have necessary
+expertise, the seller can form consortium with other sellers for submission of the bid, with
+one of the consortium company as leader. However, each and every member of the
+consortium shall be equally responsible for the complete execution of the project contract.
+An undertaking to this effect is to be uploaded with bid.
+
+3.End User Certificate: Wherever Bidders are insisting for End User Certificate from the
+Buyer, same shall be provided in Buyer’s standard format only.
+
+4. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+5.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

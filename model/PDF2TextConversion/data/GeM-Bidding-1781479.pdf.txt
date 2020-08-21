@@ -1,0 +1,435 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/705801
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 21-07-2020 16:00:00
+
+Bid Opening Date/Time 21-07-2020 16:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Karnataka
+
+Department Name Personnel And Administrative Reforms Department
+Karnataka
+
+Organisation Name N/a
+
+Office Name Karnataka Bhavan New Delhi
+
+Total Quantity 15
+
+Item Category Line Intractive UPS with AVR
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years Of Experience  Yes
+
+Startup Exemption for Years Of Experience  Yes
+
+Document required from seller  Experience Criteria,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+
+                               1 / 5
+
+
+
+ 
+
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+
+Line Intractive UPS With AVR ( 15 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC Rating in KVA/ min
+VAH capacity of
+battery (KVA/VAH)
+
+0.5/84 0.5/84
+
+Technology MOSFET-PWM MOSFET-PWM
+
+Type of battery SMF-VRLA confirming
+to JISC-8702 Pt 1,2 &3
+
+SMF-VRLA confirming
+to JISC-8702 Pt 1,2 &3
+
+Rated Output (Volt) Single Phase Quasi-Sin-
+wave 230 V AC, 50 Hz
+
+Single phase sinewave
+230v AC , 50Hz, Single
+Phase Quasi-Sin-wave
+230 V AC, 50 Hz
+
+Degree of protection IP 20 IP 20
+
+Inverter Efficiency
+(%)
+
+> / = 60% > / = 60%
+
+Warranty for the
+battery from the
+date of delivery
+
+3 Years 3 Years
+
+Warranty for Line
+Interactive UPS
+
+3 Years 3 Years
+
+Installation and
+commissioning
+instructions
+
+Yes *
+
+CONSTRUCTIONAL Type of enclosure ABS *
+
+AC out put for
+printer (not through
+inverter)
+
+Yes Yes
+
+Inverter out put
+socket AC out put for
+printer (not through
+inverter)
+
+3 Three pin 3 Three pin
+
+FUNCTIONAL Total harmonic
+distorsion (%)
+
+< / = 40% *
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/WsCOxMeVOfA_YE5Z5-aL0_qRwt5o64IgO1gA5H8Q0W8
+
+
+ 
+
+Input (Volt) Single phase
+sinewave(160-280v)
+
+*
+
+Switching over time
+(Mili sec)
+
+Maximum 10 milli
+seconds
+
+*
+
+Overload Time
+(Minutes)
+
+> / = 10 minutes > / = 10 minutes
+
+Load power factor > / = 0.6 > / = 0.6
+
+Variation in AVR
+output in AC mode
+(%) AVR (Voltage
+regulation) output
+voltage in AC Mode
+
+230 Volts +/-9%, 50
++/-3 Hz
+
+230 Volts +/-9%, 50
++/-3 Hz
+
+Overload (%) >/=10% *
+
+Variation in output
+voltage in battery
+mode (%) (UPS output
+voltage in battery
+mode)
+
+230 Volts +/- 10% *
+
+Variation on output
+frequency in battery
+mode (Hz)
+
+</=0.5 *
+
+PROTECTION Protection against
+(over discharge)
+discharge per 12v
+battery (Volt)
+
+10.5 *
+
+Protection for outside
+input voltage range: If
+Input voltage goes
+outside the range 160
+to 280 Volts, the
+system shall switch
+over to battery mode
+
+Yes *
+
+Protection against short
+circuit of UPS
+
+Yes *
+
+Protection for over
+voltage and over load
+
+Yes *
+
+REPORTS AND
+CERTIFICATIONS
+
+Damp heat Test at 45
+degree , RH -95% for
+2-cycle as per IS:9000
+pt-5/sec-1
+
+Yes *
+
+Dry heat Test at 45
+degree for 16 Hrs as
+per IS:9000 pt-3/sec-5
+
+Yes *
+
+Cold Test as per
+IS:9000 pt-2/sec-4
+
+Yes *
+
+Availability of the type
+test report from central
+Govt./NABL/ILAC
+Accredited Lab
+
+Yes *
+
+                               3 / 5
+
+
+
+ 
+
+Type Test certificate
+no. and date
+
+- *
+
+Name Of Lab - *
+
+Address of Lab - *
+
+As per Meity
+(Government of India)
+guidelines UPS shall
+have valid BIS CRS
+certifications as
+applicable
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Veena M 110021,KARNATAKA
+BHAVAN,NO-10,KAUTILYA
+MARG,CHANAKYAPURI,NEW
+DELHI
+
+15  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Without prejudice to Buyer’s right to price adjustment by way of discount or any other right
+or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a
+written notice to the Seller, if:
+i) The Seller fails to comply with any material term of the Contract.
+ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within
+the stipulated Delivery Period or such inability otherwise becomes apparent.
+iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery
+Period and/or to replace/rectify any rejected or defective Material(s) promptly.
+iv) The Seller becomes bankrupt or goes into liquidation.
+v) The Seller makes a general assignment for the benefit of creditors.
+vi) A receiver is appointed for any substantial property owned by the Seller.
+vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has
+placed the Purchase Order on the Seller.
+
+2.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+3.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+4.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+5.Warranty period of the supplied products shall be 3 years from the date of final acceptance
+of goods or after completion of installation, commissioning & testing of goods (if included in
+
+                               4 / 5
+
+
+
+ 
+
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+6.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+7.After award of contract – Successful Bidder shall have to get advance sample approved from
+buyer before bulk manufacturing / starting bulk supplies. Successful Bidder shall submit 1
+samples for Buyer's approval, within 15 days of award of contract. Buyer shall, as per
+contract specifications framework, either approve the advance sample or will provide
+complete list of modification required in the sample within 15 days of receipt of advance
+sample. Seller shall be required to ensure supply as per approved sample with modifications
+as communicated by Buyer. If there is delay from buyer side in approval of advance sample
+– the delivery period shall be refixed without LD for the period of delay in sample approval.
+In case, the sample is found to have major deviations / not conforming to the Contract
+specifications, the buyer at its discretion may call for fresh samples for approval before
+allowing bulk supplies or may terminate the contract after notifying the deviations to the
+seller.
+Unless otherwise provided in the contract, all samples required for test shall be supplied by
+the contractor free of cost. Where under the contract, the contractor is required to submit an
+advance sample, any expenses incurred by the contractor on or in connection with the
+production of stores in bulk, before the sample has been approved unconditionally shall be
+borne by the Seller and he shall not claim any compensation in the event of such sample
+being found unacceptable by the Buyer / Consignee.
+
+8.For clothing and allied items, if pre-dispatch Inspection clause has been selected in the Bid,
+the Inspection Agency shall forward sample from the accepted lot duly identified/ sealed by
+it, as Reference Sample to each consignee (one reference sample per consignee) for
+comparing the lot received at consignee end with such reference sample. Such reference
+samples will be treated as part of supplied quantity from the lot and cost shall be borne by
+the Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

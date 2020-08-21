@@ -1,0 +1,378 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/706916
+
+  Dated: 11-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 21-07-2020 15:00:00
+
+Bid Opening Date/Time 21-07-2020 15:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Coal
+
+Department Name Materials Management
+
+Organisation Name South Eastern Coalfields Limited
+
+Office Name Secl Bilaspur Cg
+
+Total Quantity 25
+
+Item Category Vacuum Contactor
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Vacuum Contactor ( 25 pieces )
+
+Technical Specifications
+
+                               1 / 4
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC Conformity to the
+specification
+
+IS/IEC: 60470:2000
+latest
+
+*
+
+Whether product ISI
+Marked
+
+No No
+
+IF ISI marked Yes, BIS
+License Number (CM/L
+Number) - Must declre
+(If Non ISI Marked write
+N/A)
+
+- *
+
+Rated Voltage (in
+KV)
+
+12 12
+
+Rated Operational
+current (in A)
+
+400 400
+
+Rated Frequency (in
+Hz)
+
+50 50
+
+Utilization category AC-4 AC-4
+
+Thermal current (in
+A)
+
+300,320,400,450,800 300, 320, 400, 450,
+800
+
+Rated Short time
+withstand current (in
+KA)
+
+2.4,3.2,5,6,6.3,8 2.4, 3.2, 5, 6, 6.3, 8
+
+Rated duration of
+short circuit (in
+Second)
+
+3 3
+
+Rated peak
+withstand current (in
+KA)
+
+15.8 15.8
+
+Rated short circuit
+making current (in
+KA)
+
+6.3 6.3
+
+Rated short circuit
+breaking current (in
+KA)
+
+8.5 8.5
+
+INSULATION LEVEL Power-frequency
+withstand voltage
+(in KV r.m.s.value)
+
+20 20
+
+Rated lightning
+impulse withstand
+voltage (in KV Peak
+value)
+
+60 60
+
+CONSTRUCTION Additional
+attachment with
+Operating
+mechanism
+
+Mechanical Latch
+attachment
+
+Mechanical Latch
+attachment
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/FLPX93hH-I-n1WOa6_-pOI8AFAq8UwnQ6CBFrbcV2eg
+
+
+ 
+
+Rated duties (in
+Operating cycles per
+hour)
+
+600 600
+
+Mechanical
+Endurance,
+operations (in
+millions)
+
+3 3
+
+Electrical endurance
+(on load), operations
+(in Nos.)
+
+250000 250000
+
+Mounting
+arrangement
+
+Vertical, Wall Mounted Vertical, Wall Mounted
+
+Operating
+temperature range
+(in deg. C)
+
+-25 to +80 -25 to +80
+
+Altitudes <1000 m *
+
+AUXILIARY CONTROL Rated supply'voltage
+of operating devices
+of auxiliary and
+control circuits (DC)
+(in Volts)
+
+24,48,110,220 24, 48, 110, 220
+
+Rated supply'voltage
+of operating devices
+of auxiliary and
+control circuits (AC)
+(in Volts)
+
+110,220,230,240,415 110, 220, 230, 240,
+415
+
+No. of auxilary
+contact
+
+3NO+3NC 3NO+3NC
+
+Closing time (in milli
+second )
+
+< 145 < 145
+
+Opening time (in
+milli second)
+
+80 80
+
+APPLICATION
+CONDITION
+
+Maximum Load for
+Motor (in KW)
+
+5000 5000
+
+Maximum Load for
+Transformer (in KVA)
+
+4000 4000
+
+Maximum Load for
+Capacitor (in KVAR)
+
+3000 3000
+
+CERTIFICATION Availability of Type test
+report from Central
+Government/NABL/ILAC
+accrediated laoratory
+to prove conformity to
+the specification
+
+Yes *
+
+Test report number -
+Must declare
+
+- *
+
+Report date - Must
+declare
+
+- *
+
+                               3 / 4
+
+
+
+ 
+
+Name of lab - Must
+declare
+
+- *
+
+Address of lab - Must
+declare
+
+- *
+
+Agreed to furnish all
+the test reports and
+certificates to the
+buyer/consignee on
+demand
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Mahizhnan 495452,SECL GEVRA AREA 25  45
+
+Bid Specific Additional Terms and Conditions
+
+1.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

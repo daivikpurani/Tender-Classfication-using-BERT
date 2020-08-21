@@ -1,0 +1,530 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/712228
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 20:00:00
+
+Bid Opening Date/Time 27-07-2020 20:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Tourism
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name New Delhi
+
+Total Quantity 3
+
+Item Category Business intelligence and data analysis software ( PAC Only ) 
+
+Bidder Turnover (Last 3 Years)  5 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  34 Lakh (s)
+
+Experience Criteria  2 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder Turnover,OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the
+buyer
+
+Past Performance  10 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM {themselves or
+through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central
+
+                               1 / 5
+
+
+
+ 
+
+/ State Govt Organization / PSU / Public Listed Company for number of years as indicated in the bid document before the
+bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some
+quantity during each of the year. In case of bunch bids, the category of primary product having highest value should
+meet this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product during the
+last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document.
+Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the
+Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with
+the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have supplied same or similar
+Category Products for 10% of bid quantity, in at least one of the last three years before the bid opening date to any
+Central / State Govt Organization / PSU / Public Listed Company. Copies of relevant contracts (proving supply of
+cumulative order quantity in any one year) to be submitted along with bid in support of quantity supplied in the relevant
+year. In case of bunch bids, the category related to primary product having highest bid value should meet this criterion.
+
+Business Intelligence And Data Analysis Software ( 3 pieces ) ( Under PAC ) 
+
+Make ibm
+
+Model ibmspssstatisticspremiumauthorizeduserlicenseswsubscrip
+tionandsupport12months(ibm)(makeibmmodelpartcode-
+d0ejnll)
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+BASIC INFORMATION OF
+BUSINESS INTELLIGENCE
+AND DATA ANALYSIS
+SOFTWARE(GOLDEN)
+
+Name of Software IBM SPSS STATISTICS
+PREMIUM AUTHORIZED
+USER LICENSE + SW
+SUBSCRIPTION and
+SUPPORT 12 MONTHS
+
+*
+
+Name of the OEM IBM *
+
+OEM Model / Part No. D0EJNLL *
+
+Product Id of OEM D0EJNLL *
+
+Software Description The IBM SPSS Statistics
+Premium Edition helps data
+analysts, planners,
+forecasters, survey
+researchers, program
+evaluators and database
+marketers – among others –
+to easily accomplish tasks
+at every phase of the
+analytical process. It
+includes a broad array of
+fully integrated Statistics
+capabilities and related
+products for specialized
+analytical tasks across the
+enterprise. The software will
+improve productivity
+significantly and help
+achieve superior results for
+specific projects and
+business goals.
+
+*
+
+Software Version / Name v 25.0 *
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/EBtQkxLjiv1JxrUwW7pyo2gu_H6z6GAqmK0_BLb3U0Y
+
+
+ 
+
+Date of Launch of Version 18-Jul-2017 *
+
+FEATURES AND
+FUNCTIONALITY
+PARAMETERS (GOLDEN)
+
+Budgeting & Forecasting Yes Yes
+
+Operational Research
+Capability
+
+Yes Yes
+
+Statistical Capability Yes Yes
+
+Text Analytics Yes Yes
+
+Fraud analytics Yes Yes
+
+Architecture aware in
+memory multiple data
+source support meta
+data management
+features
+
+No No
+
+Support Data Connectors Yes Yes
+
+If yes, type of support data
+connectors
+
+Structured *
+
+Predictive Analytics Yes Yes
+
+Single Sign On Yes Yes
+
+Product updates Yes Yes
+
+Deployment options Both Both
+
+Installation and
+Demonstration
+
+Yes Yes
+
+No. of days Training
+Provided at Site
+
+Upto 5 Upto 5
+
+Number of Years upto
+which Support
+(warranty) is available
+from OEM / Franchise
+online
+
+1 1
+
+FEATURES AND
+FUNCTIONALITY
+PARAMETERS(GENERIC)
+
+Master Data Management No *
+
+Data Governance No *
+
+Application Security No *
+
+Authentication & Security Yes *
+
+Collaboration Analytics Yes *
+
+Customizable Fields Yes *
+
+Customizable Reporting Yes *
+
+Dashboard Creation Yes *
+
+Data Storage Management Yes *
+
+Interactive Content Yes *
+
+Interactive Reporting Yes *
+
+Mobile Integration No *
+
+Supports OLAP (Online
+Analytical Processing)
+functions
+
+No *
+
+Real Time Analytics No *
+
+Social Media Analytics Yes *
+
+Visual Analytics No *
+
+Geospatial support features No *
+
+Automatic date dimension No *
+
+                               3 / 5
+
+
+
+ 
+
+features
+
+Intuitive interface custom
+charting features
+
+No *
+
+Activity Dashboard Yes *
+
+Access Control No *
+
+API No *
+
+Ad hoc Analysis No *
+
+Ad hoc Query/ Data Query No *
+
+Ad hoc Reporting No *
+
+Alerts & Intelligence Yes *
+
+Categorizing/ Hierarchy Yes *
+
+Content Analytics Yes *
+
+Conversion Analytics Yes *
+
+Version Control Yes *
+
+Cross-device data Yes *
+
+Data Extraction Yes *
+
+Data Filtering Yes *
+
+Data Analysis Yes *
+
+Data Visualization Yes *
+
+Data Import/Export Yes *
+
+Drag & Drop Interface Yes *
+
+Data Manipulation Yes *
+
+Graphical Data Presentation Yes *
+
+Metadata Management No *
+
+Supports Multiple Data
+Sources
+
+Yes *
+
+Performance Reporting /
+Monitoring
+
+Yes *
+
+Permission Management Yes *
+
+Product Integrations Yes *
+
+Trend Tracking / Problem
+indication and Analysis
+
+Yes *
+
+Widgets Predictive & forecasting
+Data Analysis
+
+*
+
+SUPPORTED HARDWARE
+REQUIREMENT PARAMETERS
+
+Minimum Hard Disk Space
+Required
+
+No specific, it will work on
+Client machine as well as
+server all type
+
+*
+
+RAM Size required No specific, it will work on
+Client machine as well as
+server all type
+
+*
+
+Server requirements No specific, it will work on
+server machine as well as
+server all type
+
+*
+
+CPU required No specific, it will work on
+Client machine as well as
+server all type
+
+*
+
+Operating Systems
+supported
+
+WINDOW, MAC OS, LINUX *
+
+                               4 / 5
+
+
+
+ 
+
+Supported Devices All Type *
+
+Supported Servers All Type *
+
+Supported Web browsers All Type *
+
+Supported Database Structure *
+
+GENERIC PARAMETERS OF
+BUSINESS INTELLIGENCE
+AND DATA ANALYSIS
+SOFTWARE
+
+Free Upgradation to Higher
+Version
+
+Yes *
+
+Valid Licence copy to be
+provided
+
+Yes Yes
+
+Software supplied through URL Link *
+
+Certifications /
+Benchmarking of Software
+Products
+
+YES *
+
+Hyper link to Data sheet https://www-03.ibm.com/sof
+tware/products/sl/spss-stats-
+premium
+
+*
+
+No of Softwares sold 3000 *
+
+Number of User Referance
+no. 1 with in Government
+Department email, phone
+no.Of concerned authority
+where Software/Appliance
+installed
+
+20 *
+
+Details of Government
+Department email, phone
+no.Of concerned authority
+where Software /Appliance
+installed for above.
+
+MOSPI, MoHFW, Min Of Agri,
+Min of Finance, Min of
+Transport
+
+*
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Shyam Babu 110001,Ministry of Tourism
+Government of India Transport
+Bhawan 1, Parliament Street New
+Delhi - 110 001.
+
+3  30
+
+Bid Specific Additional Terms and Conditions
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods
+
+and Training of operators and providing Statutory Clearances required (if any)
+2.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone
+
+No. for Service Support.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,850 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/691782
+
+  Dated: 03-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 14-07-2020 14:00:00
+
+Bid Opening Date/Time 14-07-2020 14:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Petroleum And Natural Gas
+
+Department Name Na
+
+Organisation Name Hindustan Petroleum Corporation Ltd
+
+Office Name Petroleum House
+
+Total Quantity 1
+
+Item Category Distribution Transformer, 3 Phase, 11 KV, > 200 KVA
+Up to and including 2500 KVA
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank ICICI
+
+EMD Percentage(%) 2.00
+
+EMD Amount 57040
+
+ePBG Detail
+
+Advisory Bank ICICI
+
+ePBG Percentage(%) 10.00
+
+Duration of ePBG required (Months). 26
+
+                               1 / 8
+
+
+
+ 
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+Chief Manager-CPO
+Petroleum House, NA, Hindustan Petroleum Corporation Ltd, Ministry of Petroleum and Natural Gas
+(Hindustan Petroleum Corporation Limited)
+
+Splitting
+
+ Bid splitting not applied.
+
+Distribution Transformer, 3 Phase, 11 KV, > 200 KVA Up To And Including
+2500 KVA ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+STANDARDS Conformity of the
+specification
+
+Conformity of the
+specification
+
+*
+
+ISI Marked Yes *
+
+BIS License Number -
+Must declare
+
+- *
+
+Energy efficiency
+level
+
+2 2
+
+BEE Star Rating 4 4
+
+Installation, Testing
+and Demonstration
+
+No No
+
+Minimum warranty
+on receipt of stores
+(in Months)
+
+30 30
+
+Minimum warranty
+from the date of
+installation (in
+Months)
+
+24 24
+
+RATINGS Nominal system
+voltage, HV ( in kV)
+
+11 11
+
+                               2 / 8
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/W2NpotMuCiFW_uqypCEHQ58Gv4oGW5dpvPqSsNhuGM8
+
+
+ 
+
+Nominal system
+voltage, LV ( in V)
+
+415 415
+
+Standard ratings (in
+kVA)
+
+1000 1000
+
+Rated frequency 50 Hz +/-5% *
+
+Minimum basic
+insulation level (in
+kVP)
+
+75 75
+
+No load voltage
+ratios (in Volts)
+
+11000/433-250 11000/433-250
+
+Highest system
+voltage for
+equipment (in kV)
+
+12 12
+
+Rated lightning
+impulse withstand
+voltage (in kV Peak)
+(Refer IS:1180 (Part
+1):2014 Annex-D)
+
+75 75
+
+CONSTRUCTION Core mateial CRGO (as per IS:3024
+latest)
+
+CRGO (as per IS:3024
+latest)
+
+Conductor (Winding)
+material
+
+Copper Copper
+
+Insulating paper Kraft Paper (as per
+IS:9335 latest)
+
+*
+
+Vector Group Dyn-11 *
+
+Type of Mounting Ground Mounted Ground Mounted
+
+Method of system
+earthing
+
+effectively earthed
+system
+
+*
+
+Standard fittings shall
+be provided with each
+distribution transfomer
+
+as per Cl.20.1 of
+IS:1180 (Part 1):2014
+Amdt.1
+
+*
+
+Noise level at rated
+voltage and
+freqeuncy, Maximum
+(in dB)
+
+55 55
+
+TRANSFORMER TANK Transformer tank
+cover construction
+
+Non-sealed, Bolted Non-sealed, Bolted
+
+Tank configuration
+with
+
+With radiator fins With radiator fins
+
+Type of cooling ONAN *
+
+Material of
+transformer tank
+
+Stainless steel Stainless steel
+
+Minimum thickness
+of top and bottom
+material of
+transformer tank (in
+mm)
+
+6 6
+
+                               3 / 8
+
+
+
+ 
+
+Minimum thickness
+of side material of
+transformer tank (in
+mm)
+
+4 4
+
+Material of
+Bolts/Nuts/Wahers
+exposed to
+atmosphere
+
+Stainless steel (for upto
+12 mm size),Brass (for
+upto 12 mm
+size),Electro
+Galvanized (for above
+12 mm size),Hot Dip
+Galvanized (for above
+12 mm size)
+
+Stainless steel (for upto
+12 mm size), Brass (for
+upto 12 mm size),
+Electro Galvanized (for
+above 12 mm size), Hot
+Dip Galvanized (for
+above 12 mm size)
+
+Gaskets wherever
+used shall conform
+to
+
+Type III (as per
+IS:11149) Type C (as
+per IS:4253 (Pt.2)
+
+Type III (as per
+IS:11149) Type C (as
+per IS:4253 (Pt.2)
+
+Provision of
+conservator
+
+Yes , for Non sealed
+type with Plain tank
+construction
+
+Yes , for Non sealed
+type with Plain tank
+construction
+
+Insulating Oil Mineral oil (as per
+IS:335 latest)
+
+*
+
+Quantity of Insulation
+oil required (in litres) -
+Must declare
+
+- *
+
+Transformer to be
+supplied with
+transformer oil
+
+Yes *
+
+Shape of transformer
+tank
+
+Rectangular *
+
+Pressure and Vacuum
+requirements
+
+as per Cl.15.2 of
+IS:1180 (Part 1):2014
+latest
+
+*
+
+Painting Type of painting on
+inside of tank (hint:
+Refer Table 12 of
+IS:1180 (Pt.1):2014)
+
+Oil resistant paint Oil resistant paint
+
+Type of painting on
+External surface of
+tank (hint: Refer
+Table 12 of IS:1180
+(Pt.1):2014)
+
+Epoxy (Primer) Epoxy (Primer)
+
+TAP CHANGER Tap changing
+arrangement
+
+Off circuit , externally
+operated switch with
+mechanical locking
+device and a position
+indicator
+
+*
+
+Winding tapped HV HV
+
+No. of positions (in
+Nos.)
+
+7 7
+
+Voltage variation +5% to -10% in steps
+of 2.5% for variation of
+
++5% to -10% in steps
+of 2.5% for variation of
+
+                               4 / 8
+
+
+
+ 
+
+HV HV
+
+TERMINAL
+ARRANGEMENT
+
+Transformer fitted
+with bushings of
+appropriate voltage
+and curent ratings
+on HV side
+
+Yes. 3 Nos.
+(Conforming to
+IS:2099)
+
+Yes. 3 Nos.
+(Conforming to
+IS:2099)
+
+Transformer fitted
+with bushings of
+appropriate voltage
+and curent ratings
+on LV side
+
+Yes. 4 Nos.
+(Conforming to
+IS:7421)
+
+Yes. 4 Nos.
+(Conforming to
+IS:7421)
+
+Suitable provision
+for adoption of
+cables of suitable
+size on LV side
+
+No No
+
+Cable End Box on HV
+side
+
+Yes Yes
+
+Cable End Box on LV
+side
+
+Yes Yes
+
+AIR CLEARANCE Minimum External air
+clearances between
+bushings mounted on
+transformers
+
+as per Table 10 of
+IS:1180 (Part 1):2014
+latest
+
+*
+
+Minimum air clearances
+in cable box
+
+as per Table 11 of
+IS:1180 (Part 1):2014
+latest
+
+*
+
+Suitable bimetallic
+connectors (clamp
+type) shall be provided
+on both HV and LV side
+in order to ensure
+sound and robust
+connection
+
+Yes. For Bare bushing
+termination
+
+*
+
+MARKING Material of rating
+plate
+
+Anodized aluminium Anodized aluminium
+
+Marking method on
+rating plate
+
+Engraved Engraved
+
+Rating and terminal
+marking plates
+combined into one
+plate
+
+Yes Yes
+
+Dimension of Rating
+Plate, Terminal Marking
+Plate and Combined
+Rating and Terminal
+Plate
+
+as per OEM Specn. *
+
+Agreed to provide
+Departmental
+Logo/Identification
+marking ( shall be
+
+Yes *
+
+                               5 / 8
+
+
+
+ 
+
+engraved on the
+transformer) as
+prescribed by buyer
+separately
+
+OPTIONAL FITTINGS Suitable rating
+lightning arrestors
+
+No No
+
+Bird guard No No
+
+Terminal connectors No No
+
+Oil temperature
+indicator and
+widning temperature
+indicator
+
+Yes Yes
+
+Jacking pads No No
+
+Buchholz relay Yes Yes
+
+Magnetic oil level
+gauge with low oil
+level alarm contact
+
+No No
+
+Non return valve Yes Yes
+
+Protection relay for
+sealed type
+transformers for
+internal parameters
+that is pressure,
+temperature, oil
+level and gas
+detection
+
+No No
+
+Unidirectional flat
+rollers
+
+Yes Yes
+
+Drain cum sampling
+valve
+
+Yes with steel plug (for
+transformers upto 500
+KVA)
+
+Yes with steel plug (for
+transformers upto 500
+KVA)
+
+Self protection /
+disconnection
+devices
+
+No No
+
+Expulsion fuse as
+disconnection device
+
+No No
+
+SERVICE CONDITION Maximum ambient air
+temperature (in deg. C)
+
+50 *
+
+Minimum ambient air
+temperature (in deg. C)
+
+-5 *
+
+Maximum average
+daily ambient air
+temperature (n deg. C)
+
+40 *
+
+Maximum yearly
+weighted average
+ambient temperature
+(in deg. C)
+
+32 *
+
+Min. Relative humidity 26 *
+
+                               6 / 8
+
+
+
+ 
+
+(in % )
+
+Max. Relative humidity
+(in % )
+
+95 *
+
+Max. Wind Pressure
+kg/sq.m
+
+150 *
+
+Maximum altitude <5000 m <5000 m
+
+TEST REPORTS &
+CERTIFICATIONS
+
+Availability of type
+test reports to prove
+the confirmity of the
+specification from
+
+Central Govt. Lab
+(Govt. Of India)
+
+Central Govt. Lab
+(Govt. Of India)
+
+Agreed to furnish type
+test reports to the
+buyer / consingee on
+demand
+
+Yes *
+
+Agreed to furnish routin
+test reports to the
+buyer / consingee on
+demand
+
+Yes *
+
+Agreed to furnish valid
+BIS Licencse certificte
+to buyer / consignee on
+demand
+
+Yes *
+
+Agreed to furnish valid
+Energy Star Rating
+certificte to buyer /
+consignee on demand
+
+Yes *
+
+Agreed to furnish
+complete drawings of
+Distribution
+transformer to the
+buyer / consignee on
+demand
+
+Yes *
+
+The design calculation
+in support of flux
+density shall furnish to
+the buyer / consignee
+
+Yes *
+
+Agreed for stage
+Inspection as
+required by buyer
+
+Yes Yes
+
+The product shall
+comply with all
+relevant Gazette
+notifications of Govt.,
+of India with all latest
+amendments up to
+date, as applicable
+
+Yes *
+
+SPECIAL TEST REPORTS Availability of test
+report for
+Determination of
+sound level test
+
+No No
+
+                               7 / 8
+
+
+
+ 
+
+Availability of test
+report for short
+circuit withstand
+test
+
+No No
+
+Availability of test
+report for No load
+current at 112.5 %
+Voltage
+
+Yes Yes
+
+Availability of test
+report for Paint
+adhesion test
+
+No No
+
+BDV and moisture
+content of oil in the
+transformer
+
+Yes for 1 No. Yes for 1 No.
+
+Other requirements Losses and Impedance
+values as per Cl.7.8
+and Table 6 of IS:1180
+(Part 1):2014
+latest,Limits of
+temeprature-rise as per
+Cl.7.10 of IS:1180 (Part
+1):2014 latest
+
+Losses and Impedance
+values as per Cl.7.8
+and Table 6 of IS:1180
+(Part 1):2014 latest,
+Limits of temeprature-
+rise as per Cl.7.10 of
+IS:1180 (Part 1):2014
+latest
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Akash Kumar
+Singh
+
+124505,HPCL, Bahadurgarh
+LPG Plant, VPO; Asaudha,
+Bahadurgarh,
+Haryana-124505
+
+1  91
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2.Bidders can also submit the EMD with Account Payee Demand Draft in favour of HINDUSTAN
+
+PETROLEUM CORPORATION LIMITED payable at MUMBAI.
+Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure
+delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               8 / 8
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

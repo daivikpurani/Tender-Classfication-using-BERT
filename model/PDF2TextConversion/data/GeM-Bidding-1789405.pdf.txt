@@ -1,0 +1,531 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/713029
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 14:00:00
+
+Bid Opening Date/Time 27-07-2020 14:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Ministry Of Railways
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name North East Frontier Railway
+
+Total Quantity 40
+
+Item Category Analog Transceiver-Handheld
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Document required from seller  OEM Authorization Certificate
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the
+buyer
+
+Bid to RA enabled  Yes
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Analog Transceiver-Handheld ( 40 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+                               1 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/EWL1Qqceyhaci_OIWI6uXKOiqzQZwyrRXdaX1l32Pdg
+
+
+ 
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+PERFORMANCE FEATURES Frequency Range (MHz) 806-890 806-890
+
+Types of Bandwidth UHF Split Band UHF Split Band
+
+Channel Capacity 16 16
+
+Channel Spacing 12.5 *
+
+Frequency Spread without
+degradation in Tx / Rx
+Specification
+
+5 *
+
+Frequency Stability (± ) 5 *
+
+Antenna Impedance 50 *
+
+TRANSMITTER RF Power output setting of
+transmitter
+
+Programmable *
+
+RF Power output Range 1 to 4 Watts (UHF) 1 to 4 Watts (UHF)
+
+Type of Emission 11K0F3 *
+
+Frequency deviation ± 2.5Khz max. for 100% at
+1KHz
+
+*
+
+Modulation Sensitivity 1 to 10mV at 1 KHz at mic.
+Input for +/- 1.5 KHz
+standard deviation
+
+*
+
+Modulation Distortion 5 *
+
+Modulation Fidelity +1, -3 dB of 6dB/ octave pre-
+emphasis charactrestics
+from 350 Hz to 2700 Hz with
+1KHz as reference
+
+*
+
+Spurious & Harmonics
+Suppression (dB)
+
+60 *
+
+VSWR 1.5 *
+
+RECEIVERS Sensitivity at 12 dB SINAD 0.3 *
+
+Squelch Sensitivity of
+receiver
+
+0.25 *
+
+Adjacent Channel Selectivity
+(dB)
+
+60 *
+
+Image Rejection (dB) 65 *
+
+Audio Output, (with less
+than 5 % distortion at 1 KHz
+reference measured at
+specified AF output)
+
+250,500 *
+
+Audio Response +1, -3 dB of 6dB/ octave de-
+emphasis charactrestics
+from 350 Hz to 2700 Hz with
+1KHz as reference
+
+*
+
+ACCESSORIES Antenna Helical Antenna *
+
+Programming kit No *
+
+Technical repairing &
+maintenance manual with
+complete block diagram,
+circuit layout etc in soft as
+well as hard copy
+
+No *
+
+Battery charger Yes *
+
+Output voltage of the
+charger
+
+- *
+
+                               2 / 5
+
+
+
+ 
+
+Battery charger suitable for Lithium-ion *
+
+Charging time for standard
+mode
+
+6 to 14hrs *
+
+Charging time for rapid
+mode
+
+1 tO 3 hrs *
+
+Number of spare
+batteries with each
+Radio Set
+
+NA NA
+
+POWER SOURCE/BATTERY Chemistry of Battery Li-ion *
+
+Voltage rating of the Battery 7.4 *
+
+capacity of Battery (milli
+AH)
+
+2000 *
+
+VARIOUS FEATURES Simple Press to talk yes *
+
+Protection against high
+VSWR
+
+yes *
+
+Low Battery Alert yes *
+
+CTCSS or DCS yes *
+
+Capable of VOX for hands-
+free operation
+
+Yes *
+
+PTT ID Encode Yes *
+
+Busy Channel Lockout Yes *
+
+Channel Scanning with call
+quieting facility
+
+Yes *
+
+Selective Call Decode No *
+
+Capable of being Killed/
+Unkilled
+
+No *
+
+Emergency SOS/SIREN Yes *
+
+LCD Display (Min 4
+characters)
+
+No *
+
+Automatic Number
+Identification (ANI)
+
+No *
+
+Talk-around No *
+
+DTMF Keypad No *
+
+DTMF Microphone No *
+
+Keypad Lock No *
+
+Built-in GPS No *
+
+Battery Strength Bar
+Indicator or Digital Voltage
+read out
+
+No *
+
+Signaling DTMF *
+
+GENERIC Internal Speaker impedance 8 *
+
+External Speaker
+impedance
+
+8 *
+
+Output Termination Others *
+
+Weight of Transceiver with
+Battery
+
+300 *
+
+Other features - *
+
+SAFETY Protections Reverse polarity protection *
+
+                               3 / 5
+
+
+
+ 
+
+& short circuit protection
+
+SERVICE Warranty 1 1.0
+
+OPERATING CONDITION Minimum Operating
+temperature
+
+-10 *
+
+Maximum Operating
+temperature
+
+55 *
+
+Minimum Storage
+temperature
+
+-40 *
+
+Maximum Storage
+temperature
+
+70 *
+
+Humidity non-condensing
+(at +40 oC )
+
+95 *
+
+CERTIFICATION BIS registration under CRS
+of Meity for the battery
+
+- *
+
+BIS registration Number and
+Date for the Battery
+
+- *
+
+TEST REPORT DETAILS conformity to Dry Heat
+for 16 hrs at a maximum
+temp in accordance with 
+IS:9000/part-3/section-5/
+1977 latest
+
+No No
+
+conformity to Cold Test
+for 4 hrs at a minimum
+temp in accordance with 
+IS:9000/part-2/section-4/
+1977 latest
+
+No No
+
+conformity to Damp Heat
+(Cyclic)Test for 2 Cycles
+of 24 h each at a temp of
+40 degree C & 95% RH in
+accordance with
+IS:9000/part-5/section-1/
+1991 latest
+
+No No
+
+Drop Test (in packed
+condition): IS 9000 Part
+VII/SEC,3/1979
+(reaffirmed 2004): Six
+drops one on each face,
+Height of fall 1000 mm
+incase of handheld items
+and 500 mm in case of
+other items
+
+No No
+
+Vibration Test: IS 9000
+Part VIII/1981
+(reaffirmed 2006): 12
+hours, 4 hours along
+with each axis, at 15-150
+Hz and with amplitude of
+0-15 mm/2g
+
+No No
+
+Storage Test: IS 9000
+Part III/SEC 5/1977 &
+Part II/ SEC 4/1977
+(reaffirmed 2004): -40
+deg C for 5 hours, then
+raise the temperature to
+70 deg C for 16 hours
+
+No No
+
+Bump Test: IS 9000 Part
+VII/SEC 2/1979
+(reaffirmed 2004): 4000
+
+No No
+
+                               4 / 5
+
+
+
+ 
+
+bumps at peak
+acceleration of 400 m/s
+sq
+
+Availability of the test
+report from Central Govt/
+NABL/ ILAC accredited
+lab to prove conformity
+to the specification
+
+Yes Yes
+
+If yes test report to
+furnished,to the buyer on
+demand
+
+Yes *
+
+Test Report Number and
+date for the specification
+test
+
+- *
+
+Name and address of the
+Lab for the specification test
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Katikineni Srinivasa
+Rao
+
+854105,DMM/KIR , Office of
+Divisonal Railway Manager ,
+Katihar Division,
+
+40  15
+
+Bid Specific Additional Terms and Conditions
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2.IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered
+
+office in India to provide after sales service support in India. The certificate to this effect should be submitted.
+3.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone
+
+No. for Service Support.
+4.Warranty period of the supplied products shall be 1 years from the date of final acceptance of goods or after
+
+completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee
+location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The
+seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller
+should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service
+group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to
+be uploaded along with the bid
+
+5.ISO 9001: The bidder must have ISO 9001 certification.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

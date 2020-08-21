@@ -1,0 +1,553 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/710563
+
+  Dated: 14-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 25-07-2020 10:00:00
+
+Bid Opening Date/Time 25-07-2020 10:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Railways
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name North Western Railway
+
+Total Quantity 1
+
+Item Category Potable water purification system Reverse Osmosis or
+UV based
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Potable Water Purification System Reverse Osmosis Or UV Based ( 1
+pieces )
+
+Technical Specifications
+
+                               1 / 6
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Certification for the
+product
+
+WQA WQA
+
+Certification number
+and date
+
+- *
+
+Manufacturers
+Quality System
+Certifications
+
+ISO 9001:2015 ISO 9001:2015
+
+Manufacturers
+Environment
+Management System
+Certifications
+
+ISO 14001:2004 ISO 14001:2004
+
+Manufacturers
+Health and Safety
+Management System
+Certifications
+
+ISO 18001:2007 ISO 18001:2007
+
+Performance
+Parameters
+
+Maximum Input
+Water TDS allowed
+to the system
+
+2000 2000
+
+Type of water
+purification
+technology
+
+RO RO
+
+Aavailability of
+sediment and activated
+carbon filter
+
+Yes *
+
+Operation Fully automatic with
+auto cut off
+
+Fully automatic with
+auto cut off
+
+Ultraviolet (UV)
+LAMP
+
+No No
+
+Conformity to
+Standard for
+Ultraviolet system
+
+NA if UV not provided NA if UV not provided
+
+"Ultra Voilet (UV) Lamp
+power in watts (Hint
+put zero in case UV is
+not available)"
+
+10 *
+
+Recovery at 27
+degree Centigrade
+
+25-35 25-35
+
+Output Water
+Conforming standard
+
+IS 10500 (latest) *
+
+Filtration Capacity in
+liter/ hour
+
+25 25
+
+Provision of Arsenic
+removal
+
+Yes Yes
+
+Provision of Floride Yes Yes
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/vKFl5rVDZl3G2szFLhAPm8oY3Fn83agaSa9To7RCkOQ
+
+
+ 
+
+removal
+
+Provision of Chloride
+removal
+
+Yes Yes
+
+Alkaline filter No No
+
+Storage tank Inbuilt Inbuilt
+
+Type of out put
+water Storage Tank
+
+ABS Food Grade ABS Food Grade
+
+Storage Tank
+Capacity (storage
+tank external for
+higher capacity if
+required to be
+arranged by buyer)
+
+25ltr 25ltr
+
+Minimum inlet
+pressure
+
+0.6 KG/CM2 0.6 KG/CM2
+
+Maximum inlet
+pressure
+
+3.5 KG/CM2 *
+
+Maximum inlet
+temperature
+
+35 DEGREE 35 DEGREE
+
+Digital display No No
+
+Real time TDS
+display
+
+No No
+
+Real time pH Display No No
+
+High pressure pump Yes Yes
+
+Raw water/Chemical
+Raw water/Chemical
+Cleaning PUMP
+
+Yes Yes
+
+Micron Filter Yes Yes
+
+Total Dissolved
+Solids Removal
+Percentage from RO
+Membrane
+
+90% 90%
+
+Particulate Filter
+Porosity
+
+10 Micro 10 Micro
+
+Pressure vessel
+Sand Filter
+
+No No
+
+Pressure vessel
+carbon Filter
+
+No No
+
+Pressure Vessel Dual
+Media Filter
+
+Yes Yes
+
+Membrane Housing Yes Yes
+
+Body of filter ABS Food grade ABS Food grade
+
+Auto cut Yes Yes
+
+Number of candles 2 2
+
+                               3 / 6
+
+
+
+ 
+
+Power supply 230 Volt single phase 230 Volt single phase
+
+Installation Type Wall mounted Wall mounted
+
+Miscellaneous
+Parameters
+
+Warranty in years
+including
+replacement of
+filters Sediment &
+carbon twice a year)
+
+1 1
+
+Warranty in years
+free replacement of
+machine
+
+1 1
+
+Antiscalant- where
+silica is up to 10
+ppm/where Mica is
+up to 100 ppm
+
+No No
+
+Availabilty of type
+test Test REPORT for
+Filtering Size of
+micron Particles
+
+Yes Yes
+
+TYPE Test certificate No
+and date for Filtering
+Size of micron Particles
+
+- *
+
+Name and Address of
+laboratory which
+conducted Test for
+Filtering Size of micron
+Particles:
+
+- *
+
+Availability of type Test
+Report on Microbial
+Efficacy from
+Govt/NABL/ilac Lab
+
+- *
+
+Type Test certificate No
+and date for Microbial
+Efficacy
+
+- *
+
+Name of the lab - *
+
+Availability of test
+report from
+Govt/NABL/ilac Lab
+(Design Evalution
+Report as per
+IS:14724
+
+Yes Yes
+
+Test certificate No and
+date
+
+- *
+
+Name and Address of
+laboratory which
+conducted Test
+
+- *
+
+Availability of test
+report from
+Govt/NABL/ilac Lab
+regarding water quality
+as per IS:10500
+
+Yes *
+
+                               4 / 6
+
+
+
+ 
+
+Type Test certificate No
+and date
+
+- *
+
+Name and Address of
+laboratory which
+conducted type Test
+regarding water quality
+
+- *
+
+Copies of certifications
+and reports to be given
+to buyer at time of
+supplies
+
+Yes *
+
+User/Technical/Mainten
+ance manuals to be
+supplied in English in
+hard and soft copy
+
+Yes *
+
+Availability of toll
+free centers for
+customer support
+
+Yes Yes
+
+Installation and
+Commissioning
+inclusive in the
+scope of Supply*
+
+Yes Yes
+
+Availability of NABL
+Accredited
+Laboratory Facility
+with OEM
+
+Yes Yes
+
+Name and Address of
+NABL Accredited lab
+with OEM , If Not
+available put NA
+
+- *
+
+Inlet Pipe & Fitting
+from raw water
+scorces to water
+purification system
+
+Not applicable Not applicable
+
+Pipe & Fitting from
+Out let to purified
+water tank
+
+Not applicable Not applicable
+
+Electrical fitting and
+plug points
+
+To be arranged by
+buyer /consignee
+
+*
+
+Scope Civil Work if any
+required during
+installation
+
+All Civil work shall be
+responsibility of buyer
+
+*
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+                               5 / 6
+
+
+
+ 
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Mohan Lal Gupta 302006,Divisional Stores
+Depot, Opposite Maan
+Industries, Railway Loco
+Colony, NW Railway,
+
+1  15
+
+Bid Specific Additional Terms and Conditions
+
+1.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+2.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents
+sought in the Bid document, ATC and Corrigendum if any.
+
+3.Material Test Certificate Should Be Sent Along with The Supply. The Material Will Be Checked
+by Buyer’s Lab & the Results of the Lab will be the Sole Criteria for Acceptance of the Item.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

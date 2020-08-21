@@ -1,0 +1,430 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/713645
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 17:00:00
+
+Bid Opening Date/Time 27-07-2020 17:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Pmo
+
+Department Name Department Of Atomic Energy
+
+Organisation Name N/a
+
+Office Name Directorate Of Purchase And Stores
+
+Total Quantity 1
+
+Item Category Multifunction Machines MFM
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 10.00
+
+Duration of ePBG required (Months). 12
+(a). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+Regional Director
+Madras Regional Purchase Unit, Directorate Of Purchase And Stores, Department of Atomic Energy, 6th Floor, Shastri
+Bhavan, 4 Haddows Road, Chennai 600006
+(President Of India, Acting Through Regional Director,)
+
+Splitting
+
+ Bid splitting not applied.
+
+Multifunction Machines MFM ( 1 pieces )
+
+                               1 / 4
+
+
+
+ 
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Ungrouped Print Technology Laser Laser
+
+Type of Machine Multifunction Machine Multifunction Machine
+
+Type of Printing Mono Mono
+
+Cartridge Technology Separate Drum and Toner
+(Dual Component)
+
+Composite Cartridge,
+Separate Drum and Toner
+(Mono Component),
+Separate Drum and Toner
+(Dual Component) Or higher
+
+Developer Unit Yes *
+
+Platen/Flatbed Size A3 A3 Or higher
+
+Paper Size
+(Original/Image)
+
+A3/A3 A3/A3
+
+RAM size (MB) 6144 4096, 6144, 3072, 2560,
+7168, 5120, 8192, 16384,
+2816, 4000, 10240 Or
+higher
+
+Hard Disk Capacity(GB) 250 256, 320, 500, 1024, 250,
+640, 1000, 2000, 3000 Or
+higher
+
+Minimum Speed per
+Minute as per ISO/IEC
+24734 in A4 Size-Mono
+
+55 55, 60, 61, 65, 70, 71, 75,
+80, 90, 95, 100, 105, 110,
+56, 120, 130, 160, 57, 85,
+81 Or higher
+
+Minimum Speed per
+Minute as per ISO/IEC
+24734 in A4 Size-Colour
+
+0 12, 15, 16, 18, 20, 22, 23,
+24, 25, 26, 27, 28, 30, 31,
+35, 36, 4, 4.4, 5, 5.7, 5.8,
+6.8, 10, 10.4, 15.5, 40, 50,
+60, 5.5, 11, 46, 120, 130,
+160, 65, 45, 7, 34, 55, 38,
+56, 75, 81, 19, 71, 0, 21, 53
+Or higher
+
+Minimum Speed per Minute
+as per ISO/IEC 24734 in A3
+Size-Mono
+
+27 *
+
+Minimum Speed per Minute
+as per ISO/IEC 24734 in A3
+Size-Colour
+
+0 *
+
+Scanning Feature
+Availability
+
+Yes Yes Or higher
+
+Duplexing Feature
+Availability
+
+Yes Yes Or higher
+
+Faxing Feature
+Availability
+
+Yes Yes Or higher
+
+Speed of Fax, If Fax Feature
+is available
+
+33.6 kbps *
+
+Networking Feature
+Availability
+
+Yes Yes Or higher
+
+If yes, Type of Network
+Interface
+
+Ethernet 10/100/1000 *
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/G7Mfmkz8BWIrvmbvjEHsBG2RohlNqmc6ZIetdOBzVys
+
+
+ 
+
+Wi-Fi Availability No Yes, No Or higher
+
+If yes,Wi-Fi Type NA *
+
+Original Document
+Feeder Type
+
+SPDF ADF, DADF/RADF, SPDF Or
+higher
+
+Feeder Capacity (Number) 300 *
+
+Number of Main Paper
+Tray
+
+4 4, 5 Or higher
+
+Each Main Paper Tray
+Capacity (Number)
+
+500 *
+
+Bypass Facility Yes Yes Or higher
+
+If Yes, Bypass Tray Capacity 150 *
+
+Yield of the cartridge/Ink
+Tank/Ink Pack supplied with
+Machine as per ISO/IEC:
+19798/2007(E) for Cyan
+colour (Number of prints)
+
+0 *
+
+Yield of the cartridge/Ink
+Tank/Ink Pack supplied with
+Machine as per ISO/IEC:
+19798/2007(E) for Yellow
+colour (Number of prints)
+
+0 *
+
+Yield of the cartridge/Ink
+Tank/Ink Pack supplied with
+Machine as per ISO/IEC:
+19798/2007(E) for Magenta
+colour (Number of prints)
+
+0 *
+
+Yield of the cartridge/Ink
+Tank/Ink Pack supplied with
+Machine as per ISO/IEC:
+19752/2004(E) for Black
+(Number of prints)
+
+25000 *
+
+Life of Drum in terms of
+number of Prints in case of
+Separate Drum and Toner
+cartridge technology - Cyan
+(Number of Prints)
+
+0 *
+
+Life of Drum in terms of
+number of Prints in case of
+Separate Drum and Toner
+cartridge technology -
+Yellow (Number of Prints)
+
+0 *
+
+Life of Drum in terms of
+number of Prints in case of
+Separate Drum and Toner
+cartridge technology -
+Magenta (Number of Prints)
+
+0 *
+
+Life of Drum in terms of
+number of Prints in case of
+Separate Drum and Toner
+cartridge technology - Black
+(Number of Prints)
+
+280000 *
+
+Duty Cycle (No of
+Prints/month)
+
+84000 *
+
+Minimum Operating
+Temperature (Degree C)
+
+10 *
+
+Maximum Operating
+Temperature (Degree C)
+
+30 *
+
+                               3 / 4
+
+
+
+ 
+
+Minimum Operating
+Humidity (%RH)
+
+10 *
+
+Maximum Operating
+Humidity (%RH)
+
+65 *
+
+BIS Registration under CRS
+of Meity
+
+Yes *
+
+BIS Registration Number - *
+
+Other Certifications
+Available
+
+CE,RoHS *
+
+Dimension (mm x mm x
+mm)
+
+- *
+
+Weight (Kg) - *
+
+On Site OEM Warranty
+(Year)
+
+1 1, 2, 3, 4, 5 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 S T Esaivani 603102,KALPAKKAM 1  15
+
+Bid Specific Additional Terms and Conditions
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods
+
+and Training of operators and providing Statutory Clearances required (if any)
+2.Bid reserved for Make In India products: Procurement under this bid is reserved for purchase from Class 1 local
+
+suppliers as defined in public procurement (Preference to Make in India), Order 2017 as amended from time to
+time and its subsequent Orders/Notifications issued by concerned Nodal Ministry for specific Goods/Products. The
+minimum local content to qualify as a class 1 local supplier is denoted in the bid document 50%. All bidders must
+upload a certificate from the OEM regarding the percentage of the local content and the details of locations at
+which the local value addition is made along with their bid, failing which the bid is liable to be rejected. In case
+the bid value is more than Rs 10 Crore, the declaration relating to percentage of local content shall be certified
+by the statutory auditor or cost auditor, if the OEM is a company and by a practicing cost accountant or a
+chartered accountant for OEMs other than companies as per the Public Procurement (preference to Make-in
+-India) order 2017 dated 04.06.2020 . In case Buyer has selected Purchase preference to Micro and Small
+Enterprises clause in the bid, the same will get precedence over this clause.
+
+3.Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to MSEs as
+defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012 dated 23.03.2012
+issued by Ministry of Micro, Small and Medium Enterprises and its subsequent Orders/Notifications issued by
+concerned Ministry. If the bidder wants to avail the Purchase preference, the bidder must be the manufacturer of
+the offered product in case of bid for supply of goods. Traders are excluded from the purview of Public
+Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder must be the Service
+provider of the offered Service. Relevant documentary evidence in this regard shall be uploaded along with the
+bid in respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s) has/have quoted price
+within L-1+ 15% of margin of purchase preference /price band defined in relevant policy, such Seller shall be
+given opportunity to match L-1 price and contract will be awarded for percentage of 25% of total value.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

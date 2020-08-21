@@ -1,0 +1,593 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/704513
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 15:00:00
+
+Bid Opening Date/Time 20-07-2020 15:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Labour And Employment
+
+Department Name Na
+
+Organisation Name Employees State Insurance Corporation (esic)
+
+Office Name Esic Regional Office Bihar
+
+Total Quantity 35
+
+Item Category Multifunction Machines MFM
+
+Bidder Turnover (Last 3 Years)  6 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 0.50
+
+EMD Amount 5810
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 2.00
+
+                               1 / 7
+
+
+
+ 
+
+Duration of ePBG required (Months). 3
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+Asstt Director
+Esic Regional Office Bihar, NA, Employees State Insurance Corporation (ESIC), Ministry of Labour and
+Employment
+(Alok Mishra)
+
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+
+Multifunction Machines MFM ( 35 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Ungrouped Print Technology Laser Laser
+
+Type of Machine Multifunction Machine Multifunction Machine
+
+Type of Printing Mono Mono
+
+Cartridge
+Technology
+
+Composite Cartridge Composite Cartridge,
+Separate Drum and
+Toner (Mono
+Component), Separate
+Drum and Toner (Dual
+Component) Or higher
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/RzHlL1P68QIs8AuNlsHUeor6maav2cSDAF0Ev1CVSAE
+
+
+ 
+
+Developer Unit No *
+
+Platen/Flatbed Size A4 A4, A3, Legal Or higher
+
+Paper Size
+(Original/Image)
+
+A4/A4 A4/A4
+
+RAM size (MB) 256 128, 256, 512, 1024,
+2048, 4096, 6144,
+3072, 320, 768, 1536,
+1500, 758, 1250, 2560,
+7168, 5120, 8192,
+16384, 2816, 4000,
+2000, 10240 Or higher
+
+Hard Disk
+Capacity(GB)
+
+0 0, 8, 128, 160, 256,
+320, 500, 1024, 250,
+640, 32, 1000, 2000,
+3000 Or higher
+
+Minimum Speed per
+Minute as per
+ISO/IEC 24734 in A4
+Size-Mono
+
+25 25, 26, 27, 28, 30, 31,
+35, 36, 38, 40, 43, 45,
+46, 47, 50, 52, 55, 60,
+61, 65, 70, 71, 75, 80,
+90, 95, 100, 105, 110,
+51, 56, 41, 120, 130,
+160, 57, 33, 34, 32, 85,
+81, 53 Or higher
+
+Minimum Speed per
+Minute as per
+ISO/IEC 24734 in A4
+Size-Colour
+
+0 12, 15, 16, 18, 20, 22,
+23, 24, 25, 26, 27, 28,
+30, 31, 35, 36, 4, 4.4,
+5, 5.7, 5.8, 6.8, 10,
+10.4, 15.5, 40, 50, 60,
+5.5, 11, 46, 120, 130,
+160, 65, 45, 7, 34, 55,
+38, 56, 75, 81, 19, 71,
+0, 21, 53 Or higher
+
+Minimum Speed per
+Minute as per ISO/IEC
+24734 in A3 Size-Mono
+
+0 *
+
+Minimum Speed per
+Minute as per ISO/IEC
+24734 in A3 Size-
+Colour
+
+0 *
+
+Scanning Feature
+Availability
+
+Yes Yes Or higher
+
+Duplexing Feature
+Availability
+
+Yes Yes Or higher
+
+Faxing Feature
+Availability
+
+Yes Yes Or higher
+
+Speed of Fax, If Fax
+Feature is available
+
+33.6 kbps *
+
+Networking Feature
+Availability
+
+Yes Yes Or higher
+
+                               3 / 7
+
+
+
+ 
+
+If yes, Type of Network
+Interface
+
+Ethernet 10/100 *
+
+Wi-Fi Availability Yes Yes Or higher
+
+If yes,Wi-Fi Type Wi fi 802.11 b/g/n & Wi
+Fi Direct
+
+*
+
+Original Document
+Feeder Type
+
+ADF ADF, DADF/RADF, SPDF
+Or higher
+
+Feeder Capacity
+(Number)
+
+35 *
+
+Number of Main
+Paper Tray
+
+1 1, 2, 3, 4, 5 Or higher
+
+Each Main Paper Tray
+Capacity (Number)
+
+250 *
+
+Bypass Facility Yes Yes Or higher
+
+If Yes, Bypass Tray
+Capacity
+
+10 *
+
+Yield of the
+cartridge/Ink Tank/Ink
+Pack supplied with
+Machine as per ISO/IEC:
+19798/2007(E) for
+Cyan colour (Number of
+prints)
+
+0 *
+
+Yield of the
+cartridge/Ink Tank/Ink
+Pack supplied with
+Machine as per ISO/IEC:
+19798/2007(E) for
+Yellow colour (Number
+of prints)
+
+0 *
+
+Yield of the
+cartridge/Ink Tank/Ink
+Pack supplied with
+Machine as per ISO/IEC:
+19798/2007(E) for
+Magenta colour
+(Number of prints)
+
+0 *
+
+Yield of the
+cartridge/Ink Tank/Ink
+Pack supplied with
+Machine as per ISO/IEC:
+19752/2004(E) for
+Black (Number of
+prints)
+
+1500 *
+
+Life of Drum in terms of
+number of Prints in
+case of Separate Drum
+and Toner cartridge
+technology - Cyan
+(Number of Prints)
+
+0 *
+
+                               4 / 7
+
+
+
+ 
+
+Life of Drum in terms of
+number of Prints in
+case of Separate Drum
+and Toner cartridge
+technology - Yellow
+(Number of Prints)
+
+0 *
+
+Life of Drum in terms of
+number of Prints in
+case of Separate Drum
+and Toner cartridge
+technology - Magenta
+(Number of Prints)
+
+0 *
+
+Life of Drum in terms of
+number of Prints in
+case of Separate Drum
+and Toner cartridge
+technology - Black
+(Number of Prints)
+
+0 *
+
+Duty Cycle (No of
+Prints/month)
+
+30000 *
+
+Minimum Operating
+Temperature (Degree
+C)
+
+14 *
+
+Maximum Operating
+Temperature (Degree
+C)
+
+31 *
+
+Minimum Operating
+Humidity (%RH)
+
+11 *
+
+Maximum Operating
+Humidity (%RH)
+
+79 *
+
+BIS Registration under
+CRS of Meity
+
+Yes *
+
+BIS Registration
+Number
+
+- *
+
+Other Certifications
+Available
+
+UL,CE *
+
+Dimension (mm x mm
+x mm)
+
+- *
+
+Weight (Kg) - *
+
+On Site OEM
+Warranty (Year)
+
+3 3, 4, 5 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+                               5 / 7
+
+
+
+ 
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Alok Mishra 800001,ESIC REGIONAL
+OFFICE PANCHDEEP
+BHAVAN J L NEHRU MARG
+
+35  30
+
+Bid Specific Additional Terms and Conditions
+
+1. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+2.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+3.After award of contract – Successful Bidder shall have to get advance sample approved from
+buyer before bulk manufacturing / starting bulk supplies. Successful Bidder shall submit 1
+samples for Buyer's approval, within 10 days of award of contract. Buyer shall, as per
+contract specifications framework, either approve the advance sample or will provide
+complete list of modification required in the sample within 10 days of receipt of advance
+sample. Seller shall be required to ensure supply as per approved sample with modifications
+as communicated by Buyer. If there is delay from buyer side in approval of advance sample
+– the delivery period shall be refixed without LD for the period of delay in sample approval.
+In case, the sample is found to have major deviations / not conforming to the Contract
+specifications, the buyer at its discretion may call for fresh samples for approval before
+allowing bulk supplies or may terminate the contract after notifying the deviations to the
+seller.
+Unless otherwise provided in the contract, all samples required for test shall be supplied by
+the contractor free of cost. Where under the contract, the contractor is required to submit an
+advance sample, any expenses incurred by the contractor on or in connection with the
+production of stores in bulk, before the sample has been approved unconditionally shall be
+borne by the Seller and he shall not claim any compensation in the event of such sample
+being found unacceptable by the Buyer / Consignee.
+
+4.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+5.Bidder financial standing: The bidder should not be under liquidation, court receivership
+or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect
+with bid.
+
+6.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+7.Bid reserved for Make In India products: Procurement under this bid is reserved for purchase
+from Class 1 local suppliers as defined in public procurement (Preference to Make in India),
+Order 2017 as amended from time to time and its subsequent Orders/Notifications issued by
+concerned Nodal Ministry for specific Goods/Products. The minimum local content to qualify
+as a class 1 local supplier is denoted in the bid document 50%. All bidders must upload a
+
+                               6 / 7
+
+
+
+ 
+
+certificate from the OEM regarding the percentage of the local content and the details of
+locations at which the local value addition is made along with their bid, failing which the bid
+is liable to be rejected. In case the bid value is more than Rs 10 Crore, the declaration
+relating to percentage of local content shall be certified by the statutory auditor or cost
+auditor, if the OEM is a company and by a practicing cost accountant or a chartered
+accountant for OEMs other than companies as per the Public Procurement (preference to
+Make-in -India) order 2017 dated 04.06.2020 . In case Buyer has selected Purchase
+preference to Micro and Small Enterprises clause in the bid, the same will get precedence
+over this clause.
+
+8.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+9.Bidder / OEM has to give an undertaking that after expiry of warranty period, it will provide
+Comprehensive Maintenance Service for next 2 years for the offered products at the rate not
+more than 10 % of contract price per annum. Buyer reserves the right to enter into a CMC
+agreement with the Successful Bidder / OEM after expiry of the Warranty period at above
+mentioned rate and the payment for the CMC charges would be made Annually after
+rendering of the CMC Services of the relevant CMC period. Performance Security of the
+successful bidder shall be forfeited if it fails to accept the CMC contract when called upon by
+the buyer. CMC would include cost of 3000 (Upload the undertaking). The original
+Performance Security of contract will be returned only after submission and verification of
+AMC Performance Security for 2% of total CMC value valid up to CMC period plus 2 months
+(if there is no other claim).
+
+10.Preference to Make In India products (For bids less than 200 Crore):Preference shall be given
+to Class 1 local supplier as defined in public procurement (Preference to Make in India),
+Order 2017 as amended from time to time and its subsequent Orders/Notifications issued by
+concerned Nodal Ministry for specific Goods/Products. The minimum local content to qualify
+as a Class 1 local supplier is denoted in the bid document 50%. If the bidder wants to avail
+the Purchase preference, the bidder must upload a certificate from the OEM regarding the
+percentage of the local content and the details of locations at which the local value addition
+is made along with their bid, failing which no purchase preference shall be granted. In case
+the bid value is more than Rs 10 Crore, the declaration relating to percentage of local
+content shall be certified by the statutory auditor or cost auditor, if the OEM is a company
+and by a practicing cost accountant or a chartered accountant for OEMs other than
+companies as per the Public Procurement (preference to Make-in -India) order 2017 dated
+04.06.2020. Only Class-I and Class-II Local suppliers as per MII order dated 4.6.2020 will be
+eligible to bid. Non - Local suppliers as per MII order dated 04.06.2020 are not eligible to
+participate. In case Buyer has selected Purchase preference to Micro and Small Enterprises
+clause in the bid, the same will get precedence over this clause.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,708 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   RA Number: GEM/2020/RA/45495
+
+  Dated: 17-07-2020
+
+  
+
+RA Document
+RA Details
+
+RA Technical End Date/Time 20-07-2020 17:00:00
+
+RA Opening Date/Time 20-07-2020 17:30:00
+
+RA Life Cycle (From Publish Date) 90 (Days)
+
+RA Offer Validity (From End Date) 80 (Days)
+
+Ministry/State Name Ministry Of Health And Family Welfare
+
+Department Name Department Of Health And Family Welfare
+
+Organisation Name All India Institute Of Medical Sciences (aiims)
+
+Office Name Raipur
+
+Total Quantity 1
+
+Item Category Cardiac Monitor with defibrillator
+
+Average Turnover (Last 3 Years)  2 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  2 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years Of Experience
+and Turnover
+
+ Yes
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,OEM Authorization Certificate,OEM Annual
+Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  50 %
+
+Inspection Required  No
+
+Estimated RA Value  450000
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+
+                               1 / 8
+
+
+
+ 
+
+Splitting
+
+ RA splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 50% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Cardiac Monitor With Defibrillator ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Conformity to
+Certification
+
+- *
+
+Certification number
+and date
+
+- *
+
+Confirmity to
+Manufactures
+Certification
+
+ISO 9001 & ISO 13485 ISO 9001 & ISO 13485
+
+Conformity to Safety
+Standards
+
+IEC 60601-2-4 or
+Equivalent BIS
+
+*
+
+Performance
+Parameters
+
+Capability parameter
+of defibrillator
+
+ECG
+monitoring,external
+defibrillation, external
+pacing
+
+ECG
+monitoring,external
+defibrillation, external
+pacing
+
+                               2 / 8
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/-Zy528hywI0ZTUv9TauUwTb6ZvpjDyj67u5xgMROLpw
+
+
+ 
+
+(transcutaneous),
+internal defibrillation
+and recording
+
+(transcutaneous),
+internal defibrillation
+and recording
+
+Technology of
+defibrillator
+
+Biphasic technology *
+
+Modes in
+defibrillator
+
+Automated external
+defibrillation and
+manual
+
+Automated external
+defibrillation and
+manual
+
+Maximum energy
+selection in joules
+
+200 *
+
+Capability of ECG
+Monitoring
+
+ECG leads , multi
+function electrodes ,
+paddles
+
+*
+
+Number of wave-
+forms
+
+3 3
+
+Patient compatibility
+to defibrillate
+
+Adult ,pediatric
+patients
+
+Adult ,pediatric
+patients
+
+Type of display TFT TFT
+
+Size of display screen
+in inch
+
+7 *
+
+Provision to display
+ECG waveform on
+bright high resolution
+display
+
+Yes *
+
+Facility to have
+synchronized cardio
+version
+
+Yes Yes
+
+Ability to display
+CPR index on screen
+real time
+
+No No
+
+Ability to filter out
+CPR artefacts to see
+organised rhythms
+without interrupting
+chest compression
+
+Yes Yes
+
+Provision of within built
+rechargeable battery
+
+Yes *
+
+Battery backup to
+deliver number of
+shocks at maximum
+energy
+
+100 *
+
+Weight of defibrillator
+with battery and
+paddles in Kg
+
+6 *
+
+Provision of in built
+recorder
+
+Yes Yes
+
+Provision of printing
+ECG trace & stored
+
+Yes Yes
+
+                               3 / 8
+
+
+
+ 
+
+information
+
+Facility of External
+non-invasive pacing
+
+Yes Yes
+
+Type of external
+transcutaneous
+pacing modes
+
+Both Demand mode
+and fixed mode
+
+Both Demand mode
+and fixed mode
+
+Pulse width of
+External non-
+invasive pacing in
+milli seconds
+
+40 40
+
+Ability to measure
+chest compression
+rate and depth in
+real time with visual
+feedback on screen
+with rate and depth
+indicator
+
+Not Provided Not Provided
+
+Facility to monitor
+EtCO2
+
+No No
+
+Facility to monitor
+NIBP
+
+Yes Yes
+
+Facility to monitor
+SPO2
+
+Yes Yes
+
+Upgradability to
+monitor EtCO2
+
+Yes Yes
+
+Upgradability to
+monitor NIBP
+
+Yes Yes
+
+Upgradability to
+monitor SPO2
+
+Yes Yes
+
+ECG monitoring Using 5/6 lead Using 5/6 lead
+
+Provision of user
+selectable alarm
+settings
+
+Yes *
+
+The machine should
+work on mains as well
+as on rechargeable
+battery
+
+Yes *
+
+Ability to select energy
+from paddles
+
+Yes *
+
+Ability to charge and
+discharge through
+paddles as well as from
+main unit
+
+Yes *
+
+Facility for internal
+defibrillation
+
+Yes Yes
+
+Charging time for
+maximum energy in
+seconds
+
+5 *
+
+                               4 / 8
+
+
+
+ 
+
+Mechanism of self test
+of unit
+
+Automatic and manual *
+
+Unit should do self test
+with facility to give
+printout of defibrillator
+testing report and also
+have code ready
+indicator on unit
+
+Yes *
+
+Provision of
+stainless steel
+trolley with lockable
+castors
+
+No No
+
+Suitability of
+defibrillator for
+transport on ground
+(ambulance)
+
+Yes Yes
+
+Defibrillator suitable
+to use at high
+altitudes and in air
+craft
+
+Yes Yes
+
+Defibrillator should
+display selected
+energy
+
+Yes Yes
+
+Defibrillator should
+display delivered
+energy
+
+Yes Yes
+
+Suitability of
+defibrillator for
+transportation in air
+(aircraft)
+
+Yes Yes
+
+Availaibility of
+suitable protection
+for dust and water
+
+Yes Yes
+
+Accessories Li-ion Battery 1 1
+
+ECG cable 1 1
+
+NIBP pediatric cuff
+with hose
+
+1 1
+
+NIBP adult cuff with
+hose
+
+1 1
+
+Reusable airway
+adaptor to be used
+with ETCO2 main
+stream / side stream
+sensor and cable
+
+Not provided Not provided
+
+Disposable airway
+adpater with EtCO2
+mainstream sensor
+and cable
+
+Not provided Not provided
+
+External defibrillator 1 1
+
+                               5 / 8
+
+
+
+ 
+
+paddles (pediatric in
+built in adult)
+
+Multi Function
+Defibrillator &
+Monitoring pads/gel
+sheets
+
+5 5
+
+Recorder paper roll 10 10
+
+Reusable CPR
+feedback sensor/or
+similar product
+reused
+
+Not provided Not provided
+
+Miscellaneous
+Parameters
+
+Warranty in years 5 5
+
+Original User /
+Technical manuals to
+be supplied in English
+in hard and soft copy
+
+Yes *
+
+Original copy of
+operating and service
+manuals to be supplied
+in English in hard and
+soft copy
+
+Yes *
+
+Calibration and
+preventive
+maintenance certificate
+has to be provided as
+per requirement
+
+Yes *
+
+Installation,
+Demonstration and
+training to be provided
+at consignee end at
+any part of country
+
+Yes *
+
+The Principal
+Manufacturer Must
+Have Direct
+Presence/approved
+service center In India
+
+Yes *
+
+Advanced maintenance
+task required shall be
+documented and
+procedures required for
+local calibration and
+routine maintenence
+and list of imp spare
+parts with accessories
+along with part
+numbers to be
+furnished
+
+Yes *
+
+Availabilty of toll free
+facility for technical
+support maintened by
+OEM or authorized
+agencies
+
+Yes *
+
+                               6 / 8
+
+
+
+ 
+
+Provide Certificate from
+the principal that spare
+parts will be available
+from next 10 years at
+the time of supplies to
+the buyer
+
+Yes *
+
+Copies of all
+certifications to be
+provided to buyer on
+demand at time of
+supplies
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignee/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Debashish Bhadra 492001,AIIMS Raipur
+Tatibandh
+
+1  15
+
+Bid Specific Additional Terms and Conditions
+
+1.Experience Certificate for the supply of the same to any Govt/ PSU/ any renowned private
+organisation along with Supply/ Purchase Order.
+
+2.Make in india specific authorisation certificate needs to be enclosed.
+3.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+
+Commissioning of Goods
+4.OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be
+
+ordered up to 25 percent at the time of placement of contract. The purchaser also reserves
+the right to increase the ordered quantity by up to 25% of the contracted quantity during the
+currency of the contract at the contracted rates. Bidders are bound to accept the orders
+accordingly.
+
+5.Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have
+regularly, manufactured and supplied same or similar Category Products to any Central /
+State Govt Organization / PSU / Public Listed Company for 3 years before the bid opening
+date. Copies of relevant contracts to be submitted along with bid in support of having
+supplied some quantity during each of the year. In case of bunch bids, the primary product
+having highest value should meet this criterion.
+
+6.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+7.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+8.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+                               7 / 8
+
+
+
+ 
+
+This RA is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               8 / 8
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

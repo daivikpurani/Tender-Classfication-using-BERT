@@ -1,0 +1,440 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/714282
+  Dated: 17-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 11:00:00
+
+Bid Opening Date/Time 27-07-2020 11:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 80 (Days)
+
+Ministry/State Name Ministry Of Communications
+
+Department Name Department Of Telecommunications (dot)
+
+Organisation Name Bharat Sanchar Nigam Limited Portal(bsnl)
+
+Office Name New Delhi
+
+Total Quantity 4
+
+Item Category All in One PC ( PAC Only ) 
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+All In One PC ( 4 pieces ) ( Under PAC ) 
+
+Make hp
+
+Model hp800g5aioi79700touchwin10p161hdd128ssd3wirelesskb
+dmouse
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+
+                               1 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/q6J54DUfWI2oBOYtNPqW4tUbcx2M9Vb7uF3jAxDOjmc
+
+
+ 
+
+(Allowed Values)
+
+Motherboard Chipset Series Intel Q Series Intel Q Series Or higher
+
+Chipset Number Intel Q 370 Intel Q 370 Or higher
+
+Expansion Slots (M Dot 2) 2 *
+
+Processor Processor Make Intel Intel
+
+Processor Generation 9 9.0 Or higher
+
+Number of Cores per
+Processor
+
+8 8, 10 Or higher
+
+Processor Base Frequency
+(GHz)
+
+3 *
+
+Processor Description Intel Core i7 Intel Core i7, Intel Core i9 Or
+higher
+
+Processor Number Intel Core i7 9700 Intel Core i7 8700, Intel
+Core i7 9700, Intel Core i9
+9900 Or higher
+
+Out of Band Management Intel vPro *
+
+Cache (MB) 12 *
+
+Graphics Graphics Type Dedicated/Discrete *
+
+Graphic Card Description AMD Radeon RX 560X *
+
+Size of Memory in Case
+of Dedicated Graphic
+Card (GB)
+
+4 4, 8 Or higher
+
+Size of VRAM in case of
+Integrated Graphics (MB)
+
+0 *
+
+Operating System Operating System
+(Factory Pre-Loaded)
+
+Windows 10 Professional Windows 10 Professional
+
+Recovery Image Media CD from the OEM / Stored in
+Partition of the Hard Disk /
+USB Drive from the OEM /
+On Line / Cloud,
+
+*
+
+OS Certification Windows *
+
+Memory Type of RAM DDR4 *
+
+RAM Size (GB) 16 16, 32, 64 Or higher
+
+RAM Speed (MHz) 2666 *
+
+Total Numbers of DIMM
+Slots Available
+
+2 *
+
+Number of DIMM Slots
+populated
+
+1 *
+
+RAM Expandability up to(
+using spare DIMM Slots
+in GB)
+
+64 64 Or higher
+
+Storage Type of Drives used to
+populate the Internal
+Bays
+
+HDD,SSD HDD, SSD
+
+Number of Internal Bays
+populated with HDD
+
+1 *
+
+Capacity of each HDD (GB) 1000 @7200 rpm *
+
+Total HDD Capacity (GB) 1000 1000, 1500, 2000, 2500,
+3000 Or higher
+
+Number of Internal Bays 1 *
+
+                               2 / 4
+
+
+
+ 
+
+populated with SSD
+
+Capacity of each SSD (GB) 128 *
+
+Total SSD Capacity (GB) 128 128, 256, 384, 512, 768,
+1024, 2048, 4096 Or higher
+
+Optane Memory (GB) 0 *
+
+Display Display Size (INCHES) 23.8 23.6, 23.8, 27, 34, 37.5 Or
+higher
+
+Display Type Touch Touch Or higher
+
+Panel Technology IPS IPS, WVA Or higher
+
+Display Resolution
+(PIXELS)
+
+1920x1080 1920x1080, 1920 x 1200,
+3200x1800, 3840 x 2160,
+3440 x 1440, 4096x2304,
+5120x2880 Or higher
+
+Availability of Webcam
+integrated with Display
+
+Yes Yes
+
+If yes, Resolution of
+Webcam
+
+FHD *
+
+Availability of Speakers
+integrated with Display
+
+Yes *
+
+If Yes, Number of Speakers
+available
+
+2 *
+
+Connectivity Wireless Connectivity Yes *
+
+If Yes, Type of Wireless
+Connectivity
+
+Wi-Fi 802.11ac *
+
+Number of Ethernet Ports 1 *
+
+Type of Ethernet Ports Intel 10/100/1000
+Integrated Network Ports for
+vPRO
+
+*
+
+Bluetooth Connectivity Yes *
+
+If Yes, Version of Bluetooth
+Available
+
+5 *
+
+Ports Number of USB Version 2
+Point 0 Ports
+
+0 *
+
+Number of USB Version 3
+point 0 / 3 point 1, Gen 1
+Ports
+
+2 *
+
+Number of USB Version 3
+point 1, Gen 2 Ports
+
+4 *
+
+Number of USB Type C Ports 1 *
+
+Number of Serial Ports 0 *
+
+Number of VGA Ports 0 *
+
+Number of HDMI Ports 1 *
+
+Number of DP Ports 1 *
+
+Generic Optical Drive N/A *
+
+Audio-in Yes *
+
+Audio-out Yes *
+
+Headphone out Yes *
+
+Microphone-in Yes *
+
+Stand Height Adjustable *
+
+                               3 / 4
+
+
+
+ 
+
+Power Power Supply Integrated *
+
+Power Supply Capacity
+(Watt)
+
+210 *
+
+Minimum Power Efficiency
+Range (%)
+
+85 - 90 *
+
+Certification BIS Registration under CRS
+of Meity
+
+Yes *
+
+BIS Registration Number
+and its Validity
+
+R-41004987 *
+
+ROHS Compliance Yes *
+
+BEE / Energy Star for the
+given Model
+
+Yes *
+
+Other Certification Available UL,CE,FCC *
+
+Input Devices Mouse Connectivity Wireless *
+
+Type of Mouse Optical Scroll *
+
+Keyboard Connectivity Wireless *
+
+Type of Keyboard Standard with Rupee
+Symbol
+
+*
+
+Operating Conditions Minimum Operating
+Temperature
+
+5 *
+
+Maximum Operating
+Temperature
+
+45 *
+
+Minimum Operating
+Humidity (%RH)
+
+5 *
+
+Maximum Operating
+Humidity (%RH)
+
+90 *
+
+Warranty On Site OEM Warranty
+(Year)
+
+3 3, 5 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 ANKIT GOEL 110001,R.No. 005, CIT cell, Bharat
+Sanchar Bhawan, HC Mathur Lane,
+Janpath
+
+4  15
+
+Bid Specific Additional Terms and Conditions
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of
+
+Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

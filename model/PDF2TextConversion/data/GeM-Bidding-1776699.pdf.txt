@@ -1,0 +1,619 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/701460
+
+  Dated: 08-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 18-07-2020 18:00:00
+
+Bid Opening Date/Time 18-07-2020 18:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Development Of North Eastern Region
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Vigyan Bhawan Annexe, New Delhi
+
+Total Quantity 1
+
+Item Category Video Conferencing End Point ( PAC Only ) 
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Video Conferencing End Point ( 1 pieces ) ( Under PAC ) 
+
+                               1 / 7
+
+
+
+ 
+
+Make cisco
+
+Model cvep-wkit-1y
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Specification Type of End Point 1+3 Multiparty Full HD 1+3 Multiparty Full HD
+
+Does it require
+mandatory registration
+with MCU
+
+NA *
+
+Video Conferencing
+System Resolution
+
+1080p, 60 fps 1080p, 60 fps, 4K, 30
+fps, 4K, 60 fps Or
+higher
+
+Minimum Bandwidth
+Required for Specified
+video quality at End
+point/far-site end
+(Kbps)
+
+1024 *
+
+Type of Camera Non PTZ Non PTZ, PTZ Or higher
+
+Camera Positioning
+System
+
+Automatic Voice
+Activated
+
+Automatic Voice
+Activated, Face
+Detection, Preset Or
+higher
+
+Type of sensor CMOS *
+
+Camera Control
+(focusing, brightness,
+and white balance)
+
+Automatic *
+
+Multiple Camera
+System in case of
+Automatic Voice
+activated
+CameraTracking
+
+Single *
+
+Optical zoom NA 3X, 4X, 5X, 10X, 12X,
+20X, 22X, 30X, 2X, NA
+Or higher
+
+Digital zoom 3X *
+
+Field of View at zoom
+(Degree)
+
+80 *
+
+Pan range Minimum to
+Maximum (+/- Degree)
+
+0 *
+
+Tilt Range (Degree) 0 *
+
+Cord and Connector to
+be supplied
+
+Yes *
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/lIfYdjdTt_krCwM3kF0zi4SNFjPqqvIgKBt-h8AW0RM
+
+
+ 
+
+System delivers Full HD
+video and voice & Full
+HD content for an
+overall Full HD
+experience at specified
+bandwidth
+
+Yes *
+
+Video coding support
+Protocol
+
+H.264AVC,H.265 *
+
+System has G-722/
+G-711/ G-729 or
+equivalent nt wideband
+audio coding support
+
+Yes *
+
+System supports
+sharing of video and
+graphics content
+during the video call
+
+1080p, 30fps 1080p, 30fps, 1080p,
+60fps, 4k, 30fps, 4k,
+60fps Or higher
+
+It is possible to see
+both the near and far
+site on one Screen thus
+making most efficient
+use of a single display
+area
+
+Yes *
+
+System is equipped
+with one or more Omni
+directional High
+Definition Microphones
+as required to cover
+large conference room
+
+Yes *
+
+Number of microphone
+supported
+
+2 *
+
+Number of
+microphone supplied
+
+1 1, 2, 3, 4, 5, 6, 7, 8 Or
+higher
+
+Number of camera
+support from the same
+OEM
+
+1 *
+
+Number of Ethernet
+connection points for
+System supports for
+RJ-45, 10/100/1000
+Mbps Base-T Ethernet
+connection
+
+1 *
+
+Wi Fi Connectivity Yes Yes Or higher
+
+If Yes, Type of Wi Fi
+Connectivity
+
+Integrated Integrated Or higher
+
+System supports AES
+encryption video calls;
+System has Encryption
+On and Off capability
+
+Yes *
+
+Video Codec shall
+support 16:9 format
+
+Yes *
+
+                               3 / 7
+
+
+
+ 
+
+Power supply: 230 + or
+- 10% volts, 50 Hz
+
+Yes *
+
+Shall come with easy to
+use infra-red hand held
+remote control / Touch
+Panel with operating
+distance
+
+Yes *
+
+All equipment are in
+compliance with the
+requirements of ITU-T
+(SIP Protocol & H Dot
+323) Standard related
+to Video Conferencing
+
+Yes *
+
+System to be IPv6
+ready from day one
+
+Yes *
+
+System uses standards
+based protocols & the
+offered system is inter
+operable with any
+existing H-323
+AVC/SVC based VC
+equipment in a P to P
+call on VC end point; All
+H/W and S/W required
+to make it
+interoperable is
+included in the scope of
+supply
+
+Yes *
+
+Number of Input DVI
+Ports
+
+0 *
+
+Number of Input HDMI
+or equivalent Ports
+
+1 *
+
+Number of Input USB
+Ports
+
+0 *
+
+Number of Output DVI
+Port
+
+0 *
+
+Number of Output
+HDMI or equivalent Port
+
+2 *
+
+Number of output USB
+Port
+
+0 *
+
+Calendering Feature No *
+
+Recording @1080p
+on the end point
+
+No Yes, No Or higher
+
+System supplied
+complete with the
+following components
+from the same OEM (a)
+Codec (b) Camera (c)
+At least one
+Microphones with
+
+Yes *
+
+                               4 / 7
+
+
+
+ 
+
+suitable connectivity
+(d) Remote
+Control/Touch Panel (e)
+Data sharing capability
+using H/W or S/W (f)
+Necessary Cables
+
+Type of Microphone Integrated *
+
+System is also
+tropicalized and report
+available from
+ILAC/NABL/Govt Lab
+with all add on
+including
+Environmental
+Sequence
+
+No *
+
+(a) Dry Heat- For 16 hrs
+at 55 deg C as per IS:9
+000/pt-3/sec-5/1977(b)
+Cold-For 4 hrs at 0 deg
+C as per
+IS:9000/pt-2/sec-4/197
+7 (c) Damp Heat- For 2
+Cycles of 24 h each at
+40 deg C & 95% RH as
+per IS:9000/pt-
+5/sec-1/1991 (All
+Reaffirmed 2007)
+
+No *
+
+After each
+environmental test and
+a recovery period of
+two hours, the video
+conferencing system
+has been checked for
+complete functional
+parameters, and the
+results found
+satisfactory
+
+No *
+
+Type Test Report from
+ILAC/NABL/Govt lab
+confirming
+conformance to above
+technical specifications
+- to be made available
+to buyer
+
+No *
+
+BIS Registration under
+CRS of Meity
+
+Yes *
+
+BIS Registration
+Number and its Validity
+
+R *
+
+UL/CE certification No *
+
+If Yes, UL/CE certificate
+Number
+(Corresponding UL/CE
+Certificate to be
+
+NA *
+
+                               5 / 7
+
+
+
+ 
+
+furnished when
+demanded by the
+buyer)
+
+Minimum Operating
+temperature (Degree
+C)
+
+0 *
+
+Maximum Operating
+Temperature (Degree
+C)
+
+40 *
+
+Minimum Operating
+humidity (%RH)
+
+10 *
+
+Maximum Operating
+humidity (%RH)
+
+90 *
+
+Free installation and
+commissioning
+
+Yes *
+
+On Site OEM
+Warranty (Year)
+
+1 1, 3, 5 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Jaya Shah 110011,Vigyan Bhawan
+Annexe, Maulana Azad
+Raod, New Delhi
+
+1  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Bidder financial standing: The bidder should not be under liquidation, court receivership
+or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect
+with bid.
+
+2. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+3.After award of contract – Successful Bidder shall have to get advance sample approved from
+buyer before bulk manufacturing / starting bulk supplies. Successful Bidder shall submit 1
+samples for Buyer's approval, within 5 days of award of contract. Buyer shall, as per contract
+specifications framework, either approve the advance sample or will provide complete list of
+modification required in the sample within 5 days of receipt of advance sample. Seller shall
+be required to ensure supply as per approved sample with modifications as communicated
+by Buyer. If there is delay from buyer side in approval of advance sample – the delivery
+period shall be refixed without LD for the period of delay in sample approval. In case, the
+sample is found to have major deviations / not conforming to the Contract specifications, the
+buyer at its discretion may call for fresh samples for approval before allowing bulk supplies
+
+                               6 / 7
+
+
+
+ 
+
+or may terminate the contract after notifying the deviations to the seller.
+Unless otherwise provided in the contract, all samples required for test shall be supplied by
+the contractor free of cost. Where under the contract, the contractor is required to submit an
+advance sample, any expenses incurred by the contractor on or in connection with the
+production of stores in bulk, before the sample has been approved unconditionally shall be
+borne by the Seller and he shall not claim any compensation in the event of such sample
+being found unacceptable by the Buyer / Consignee.
+
+4. ISO 9001: The bidder must have ISO 9001 certification.
+5.Material Test Certificate Should Be Sent Along with The Supply. The Material Will Be Checked
+
+by Buyer’s Lab & the Results of the Lab will be the Sole Criteria for Acceptance of the Item.
+6.The bidder is required to upload, along with the bid, all relevant certificates such as BIS
+
+licence, type test certificate, approval certificates and other certificates as prescribed in the
+Product Specification given in the bid document.
+
+7.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+8.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+9.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+10.Warranty period of the supplied products shall be 3 years from the date of final acceptance
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

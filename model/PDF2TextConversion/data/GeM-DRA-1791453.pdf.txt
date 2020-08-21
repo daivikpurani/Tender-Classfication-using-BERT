@@ -1,0 +1,486 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   RA Number: GEM/2020/RA/45470
+
+  Dated: 17-07-2020
+
+  
+
+RA Document
+RA Details
+
+RA Technical End Date/Time 20-07-2020 15:00:00
+
+RA Opening Date/Time 20-07-2020 15:30:00
+
+RA Life Cycle (From Publish Date) 90 (Days)
+
+RA Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Delhi
+
+Department Name Health And Family Welfare Department Delhi
+
+Organisation Name N/a
+
+Office Name Ambedkar Nagar Hospital Dakshin Puri Delhi 110062
+
+Total Quantity 1
+
+Item Category Portable X Ray Machine
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+
+Splitting
+
+ RA splitting not applied.
+
+Portable X Ray Machine ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+                               1 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/FrPyrGfIC-F8djA-NLG6Nwa34Bji3Of_wkZO8oRRmrY
+
+
+ 
+
+Standards Certification - *
+
+Certification number
+and date
+
+- *
+
+Type test approval
+from AREB required
+
+Yes *
+
+AREB approval
+certificate number of
+Particular Model
+
+- *
+
+Confirmity to
+manufacturing
+standards
+
+ISO 13485 *
+
+Performance
+Parameters
+
+Purpose Mobile radiographic
+units (Portable X ray
+Machines) are used for
+radiographic imaging of
+patients who cannot be
+moved to the radiology
+department and who
+are in areas, such as
+intensive and critical
+care units or operating
+and emergency rooms.
+These devices are used
+mainly for general
+adult two-dimensional
+(2-D) radiographic
+studies (predominantly
+for chest x-rays) as well
+as pediatric, neonatal,
+and orthopedic imaging
+
+*
+
+UMDNS Name and
+Code
+
+Radiographic Unit,
+Mobile - 13-272
+
+*
+
+Type of frequency
+Generator
+
+High frequency High frequency, Line
+frequency
+
+Frequency generator
+output in kW
+
+4 3.5, 4, 8, 15, 30, 32
+
+Voltage Output
+range in kV
+
+40 to 100 40 to 100, 40 to 120,
+40 to 125, 40 to 130
+
+Tube Current in mA 100 70, 100, 150, 200, 300
+
+Maximum Exposure
+time in milli sec
+
+upto 10 upto 10, upto 15, upto
+20, upto 40
+
+mAs Range 0.5 to 250 0.5 to 200, 0.5 to 250
+
+Nominal focal spot
+size in mm
+
+1 to 2 1 to 2, 1 to 3
+
+Inherent Filtration of x-
+ray
+
+Yes *
+
+Collimator provided Yes *
+
+Type of Collimator Manual Manual, Automatic
+
+                               2 / 5
+
+
+
+ 
+
+Focal Spot size in
+mm
+
+1-2 0.5 - 1, 1-2, 2-3
+
+Heat storage capacity
+in kHU
+
+40.5 *
+
+Automatic exposure
+control device
+provided
+
+No Yes, No
+
+Digital display for kV &
+mAs supplied
+
+Yes *
+
+Electronic timer
+supplied
+
+Yes *
+
+Provision of
+Anatomical
+programming
+radiography(APR)
+
+No Yes, No
+
+X-ray tube system Stationary Anode Rotating anode,
+Stationary Anode
+
+Anode speed in rpm (
+Hint: for rotating anode
+the speed should be
+2500 or more and for
+stationary anode 0)
+
+0 *
+
+The unit should be
+easily positioned (from
+either side of the bed)
+for imaging in all
+possible projections
+
+Yes *
+
+Portable X-ray machine
+shall be easily
+transportable and
+steering on caster
+wheel
+
+Yes *
+
+Provision of effective
+braking system for
+parking,transport and
+emergency braking
+
+Yes *
+
+Lead Aprons - Full body
+and Skirt type
+
+4 No each (0.5pb) *
+
+No of Thyroid shield
+and Gonald Shield
+
+4 No each *
+
+X-ray exposure
+command control
+
+Hand switch *
+
+Power Cable length in
+meter
+
+3 *
+
+X- ray film Cassette
+holder available
+
+Yes Yes, No
+
+X-ray film cassette
+holder size in mm x
+mm
+
+35 x 43 35 x 43, 43 x 43, NA (if
+no cassette holder is
+provided)
+
+                               3 / 5
+
+
+
+ 
+
+Power supply Single Phase AC (
+220-240 V,50 Hz)
+
+*
+
+Power plug (16 amp)
+compatible to standard
+wall outlet shall be
+supplied
+
+Yes *
+
+Tube protection against
+overload provided
+
+Yes *
+
+Portable X ray machine
+should be made in
+small footprint and
+hidden cable design for
+easy and efficient
+cleaning
+
+Yes *
+
+Operating temperature
+and humidity
+
+10 - 28 deg C and
+relative humidity of
+15-90%
+
+*
+
+Number of
+installations of the
+Portable X- ray
+machines in Central
+/State/PSU Govt
+Hospitals( Hint:
+Seller should furnish
+a performance
+certificate of the
+device to the buyer
+if demanded after
+placement of the
+order)
+
+>3 0, <3, >3
+
+OEM and Reseller (if
+supplier is re-seller)
+shall ensure
+uninterrupted
+availability of all spares
+for 10 years
+
+Yes *
+
+Availability of toll
+free facility for
+technical support
+maintened by OEM
+or authorized
+agencies
+
+Yes Yes, No
+
+User/Technical/Mainten
+ance manuals to be
+supplied in English in
+hard and soft copy
+
+Yes *
+
+Demonstration of
+equipment and training
+to be provided after
+completing supplies
+before acceptance
+
+Yes *
+
+Warranty in years 3 3, 4, 5
+
+                               4 / 5
+
+
+
+ 
+
+Reports The Principal
+Manufacturer must
+have direct
+Presence/approved
+service center In India
+
+Yes *
+
+Copies of reports and
+certifications to be
+furnished to buyer on
+demand at time of
+supplies
+
+Yes *
+
+QA, QC and other tests
+as per NABH shall be
+carried out by OEM or
+authorized agency of
+OEM
+
+Yes *
+
+Copies of all calibration
+and test reports to be
+submitted at the time
+of Supply of Machine
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignee/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Sudhir Kumar 110062,AMBEDKAR NAGAR
+HOSPITAL, DAKSHIN PURI,
+NEW DELHI
+
+1  2
+
+Bid Specific Additional Terms and Conditions
+
+1.Provisions for workmen compensation, insurance, public liability, property damage,
+insurance etc. to be ensured by the contractor. Also, safety measures prescribed for working
+in Extra High Voltage & use of personnel protective equipment must be adhered to.
+
+This RA is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

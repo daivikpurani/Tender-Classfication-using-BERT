@@ -1,0 +1,543 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/704894
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 14:00:00
+
+Bid Opening Date/Time 20-07-2020 14:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Air Force
+
+Office Name ***********
+
+Total Quantity 1
+
+Item Category e rickshaw for carrying goods
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+E Rickshaw For Carrying Goods ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+                               1 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/4GevTirEOTcV2Iwlpp5f9ORF_irbFmg1iDZVUQPVGU0
+
+
+ 
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Certification
+Parameters
+
+Vehicle Certification ICAT ICAT
+
+Vehicle Certification
+Number and Date
+
+- *
+
+If Vehicle Certification
+from Others Agency
+,Name of the Agency
+otherwise put NA
+
+- *
+
+Generic Parameters Type of E Cart Fully Electric, Battery
+Operated Motor Driven
+for Carrying Goods
+
+Fully Electric, Battery
+Operated Motor Driven
+for Carrying Goods
+
+Model Number of E-
+Cart
+
+- *
+
+Colour of E cart - *
+
+The E Cart Must
+Fabricated From Good
+Quality Steel properly
+Painted to avoid
+Rusting for more than 5
+Years,
+
+- *
+
+Name and Grade of
+Steel from which E Cart
+Body Framed
+
+- *
+
+Kerb Weight of E-
+Cart (kg)
+
+319 350.0, 319.0
+
+Goods Carrying
+Capacity (kg)
+
+310 310.0
+
+Run Distance ( for a
+Full Charge of
+Battery , to be
+tested with full load
+at maximum AIS-040
+(km)
+
+80 80
+
+Type of Chassis for E
+cart
+
+- *
+
+Ground Clearance as
+per IS : 9435
+
+185 185
+
+Wheel Base (mm) 2200 2200.0
+
+Turning Radius (mm) 2250 2250.0
+
+Power Transmission
+from Motor Shaft to
+Wheels
+
+Direct Mounting Direct Mounting
+
+Please Specify the
+Mechanical Mechanism
+otherwise Put NA
+
+- *
+
+Type of Battery as
+per AIS-048
+
+Lead Acid , EV Grade ,
+Tubular Deep
+
+Lead Acid , EV Grade ,
+Tubular Deep
+
+                               2 / 6
+
+
+
+ 
+
+Discharge Discharge
+
+Capacity of the
+Battery approved by
+ICAT/ARAI (Ah)
+
+130 130
+
+Battery Voltage
+,Nominal
+
+48V 48V
+
+Maximum Overall
+Dimensions of the
+Battery ( L x Wx H
+)(mm3)
+
+- *
+
+Nominal Filled
+Weight of the
+Battery (kg)
+
+136 136.0
+
+Motor Controller ( Must
+Suitable for starting,
+accelerating,
+decelerating, driving ,
+and stopping of E Cart
+
+- *
+
+Battery Charger 220/230 V Nominal
+Input Voltage , High
+Efficiency Type
+
+220/230 V Nominal
+Input Voltage , High
+Efficiency Type
+
+Charging Current (A) 15 15
+
+Type of Motor Brushless DC Motor Brushless DC Motor
+
+Motor Output Power
+,48V/60V at Full
+Load (watt)
+
+1540 1540
+
+Overall Efficiency of
+the E Cart to be
+tested at Full Load
+with maximum
+speed as per
+Concerned AIS
+standards (%)
+
+85 85
+
+Gradeability of E-
+cart to be tested at
+full procedure as per
+AIS -003 Load
+(Degree)
+
+20 20
+
+Thickness of
+Material of Sheet
+used for Roof of E-
+Cart (mm)
+
+2 2
+
+Material of the roof
+of E-Cart, if Enclosed
+Otherwise Put NA
+
+Fibre Glass of Good
+Quality
+
+Fibre Glass of Good
+Quality
+
+Constructional
+Parameters
+
+Seating Facility
+Front
+
+For Driver only For Driver only
+
+Length of E -cart as
+per Gazette
+
+2.8 2.8
+
+                               3 / 6
+
+
+
+ 
+
+Notification by
+Ministry of Road and
+Transport Oct , 2014
+(metres)
+
+Width of E -Cart as
+per Gazette
+Notification by
+Ministry of Road and
+Transport Oct, 2014
+(meters)
+
+1 1
+
+Height of E -Cart as
+per Gazette
+Notification by
+Ministry of Road and
+Transport Oct , 2014
+(meters)
+
+1.8 1.8
+
+Dimensions of the
+cabin Provided for
+Transport of Goods
+(mm x mm x mm)
+(mm3)
+
+- *
+
+Size of Front Tyre (mm) - *
+
+Size of Rear Tyre (mm) - *
+
+Brake Type (Front ) - *
+
+Brake Type ( Rear ) - *
+
+Suspension System (
+Rear )
+
+- *
+
+Suspension System
+(Front)
+
+- *
+
+Reverse Gear
+Facility
+
+Yes Yes
+
+The Mounting of
+Batteries
+
+Yes Yes
+
+Vehicle lighting
+System
+
+Filament Type Filament Type
+
+Instrument Panel
+Containing
+Speedometer and
+Battery Charging
+Indicator
+
+Yes Yes
+
+Glass Windshield
+with wiper motor as
+approved by
+ICAT/ARAI
+
+No No
+
+Battery Make as per
+AIS :048:2009
+
+others others
+
+If others please specify
+the material Otherwise
+put NA
+
+- *
+
+                               4 / 6
+
+
+
+ 
+
+Equipped with Start
+and Stop Button,
+parking Lights , Back
+lights with Reverse
+Gear Facility
+
+Yes Yes
+
+Equipped with Fire
+Extinguisher
+
+Yes Yes
+
+Equipped with First
+Aid Box
+
+No No
+
+Yellow Color
+reflective tape on
+Front and Rear Side
+of the E Cart
+
+Yes Yes
+
+E Cart Integration , Yes Yes
+
+Type of Cabin used
+for Transportation of
+Goods
+
+Open Open
+
+If others please specify
+the Name of Brand
+,Otherwise put NA( as
+per AIS :048:2009)
+
+- *
+
+Performance
+Parameters
+
+Speed of the E-Cart
+as per CMVR -2014
+with latest amndmt
+(to be tested with
+Full Load ) (kmph)
+
+22.21 22.21
+
+Battery Warranty in
+years (Years)
+
+1 1.0
+
+No. Of Free Service 1 *
+
+Complaince of
+Centre of Gravity of
+E Cart as a
+Compulsory Norms
+for Safety
+
+Yes Yes
+
+Confirming to
+Applicable
+Environmental Test
+
+Yes Yes
+
+Noise level must be
+Low during
+Operation
+
+Yes Yes
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+                               5 / 6
+
+
+
+ 
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********CHANDIGARH 1  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Bidder financial standing: The bidder should not be under liquidation, court receivership
+or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect
+with bid.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

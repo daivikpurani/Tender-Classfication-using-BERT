@@ -1,0 +1,468 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/694043
+
+  Dated: 01-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 22-07-2020 17:00:00
+
+Bid Opening Date/Time 2020-07-22 17:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Madhya Pradesh
+
+Department Name Science And Technology (information Technology)
+Department Madhya Pradesh
+
+Organisation Name Madhya Pradesh State Electronics Developement
+Corporation Ltd
+
+Office Name State It Center Arera Hills Bhopal
+
+Total Quantity 2
+
+Item Category Layer 3 - Access Switch
+
+Bidder Turnover (Last 3 Years)  2 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  16 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  50 %
+
+Bid to RA enabled  Yes
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+                               1 / 5
+
+
+
+ 
+
+Required No
+
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 50% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Layer 3 - Access Switch ( 2 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Specification Maximum Number of
+Access /Downlink
+Ports
+
+24 24, 48, 32 Or higher
+
+Type of Switch Non PoE Non PoE, PoE, PoE+,
+UPoE, PoE++ Or higher
+
+Number of
+10/100/1000 Base-T
+Ports
+
+24 24, 48, 32 Or higher
+
+Number of Multi-
+Gigabit Ports
+
+0 0, 4, 8, 12, 24, 48, 2,
+16, 32 Or higher
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/LkLtwl95HUQJzrWpusW_pe1Uwj85EdHLolS7yjOoosM
+
+
+ 
+
+Number of 1 G Base
+T Ports (Uplink)
+
+0 0, 2, 4, 8, 12, 16, 24,
+32, 48 Or higher
+
+Number of 1 G SFP /
+Base X Port (Uplink)
+
+2 2, 4, 8, 12, 16, 24, 32,
+48 Or higher
+
+Number of 10 G Base
+T Port (Uplink)
+
+0 0, 2, 4, 8, 12, 16, 24,
+32, 48 Or higher
+
+Number of 10 G
+SFP+ Port (Uplink)
+
+4 4, 8, 12, 16, 24, 32, 48
+Or higher
+
+Number of 40 G
+QSFP+ Port (Uplink)
+
+0 0, 2, 4, 8, 12, 16, 24,
+32, 48 Or higher
+
+Number of 100 G
+QSFP 28 Port
+(Uplink)
+
+0 0, 1, 2, 4, 6, 8, 12, 16,
+24, 48 Or higher
+
+Management Port
+(RJ 45/RS 232/USB)
+
+Yes Yes Or higher
+
+RAM (MB) 2048 *
+
+Flash Memory (MB) 1024 *
+
+9K MTU Supported
+(Minimum)
+
+Yes *
+
+Console Port Yes *
+
+Redundant Power
+supply
+
+Yes Yes Or higher
+
+Redundant Power
+Supply Type
+
+Internal *
+
+Redundant Power
+Supply (Hot
+Swappable)
+
+Yes *
+
+Redundant Fan Yes Yes Or higher
+
+Redundant Fan (Hot
+Swappable)
+
+Yes *
+
+Number of Open slot
+for additional Interface
+Card
+
+0 *
+
+Operating System Yes *
+
+Dedicated Stacking Yes *
+
+Stacking Bandwidth
+(Gbps)
+
+80 *
+
+Switching Capacity /
+Forwarding
+Bandwidth (Non
+Blocking / Line Rate
+/Wired Speed) 2x
+(Numbers of access
+ports + Number of
+Uplink Ports) (Gbps)
+
+212 More than 212.0 Or
+higher
+
+Throughtput / 158 More than 158.0 Or
+
+                               3 / 5
+
+
+
+ 
+
+Forwarding
+Performance (MPPS)
+
+higher
+
+Layer 2 Protocols 802.1Q VLAN,LAG,LACP
+,STP,MSTP,RSTP,IEEE
+802.3x,VLAN
+
+*
+
+Number of VLAN
+Supported
+
+4000 *
+
+Number of VLAN IDs
+Supported
+
+4000 *
+
+Number of IPV4 Routes 15000 *
+
+Number of IPV6 Routes 5000 *
+
+Number of Mac Address
+Supported (k)
+
+32 *
+
+Basic Layer-3 Protocol
+from day 1
+
+Static Routing,RIPv1,RI
+Pv2,BGP,OSPFv2,OSPFv
+3,PBR
+
+*
+
+Advance Layer-3
+Protocol from day 1
+
+OSPFv2,OSPFv3,PBR,B
+GP,BGP4,IS-IS,IS-
+ISv6,PIM-SM
+
+*
+
+Premium Layer-3
+Protocol from day 1
+
+BGP,BGP4,IS-IS,VRF
+Lite,VRRP
+
+*
+
+Security Feature RA Guard,,DHCP
+Snooping,Dynamic ARP
+Inspection,ACL,802.1x,
+RADIUS/ TACACS,Port
+Security,BPDU
+Guard,VRF Lite,IGMP
+snooping
+
+*
+
+Management Protocol CLI,Telnet,TFTP,,SNMPv
+1,SNMPv2/ V2C,SNMPv
+3,NTP,Openflow
+1.3,RMON,SSHv2,Single
+IP Management
+
+*
+
+QoS 802.1p,Queues per
+port,Sflow,Policing /
+Rate Limiting
+
+*
+
+PoE Power Budget
+(Watt)
+
+0 *
+
+Dimension / Form
+Factor (RU)
+
+1 *
+
+Certification NDPP,PCI,RoHS *
+
+MTBF (Year) 5 *
+
+Minimum Operating
+Temperature (Degree
+C)
+
+0 *
+
+Maximum Operating
+Temperature (Degree
+C)
+
+45 *
+
+                               4 / 5
+
+
+
+ 
+
+Minimum Operating
+Humidity (%RH)
+
+5 *
+
+Maximum Operating
+Humidity (%RH)
+
+95 *
+
+IPv6 Ready from day 1 Yes *
+
+On Site OEM
+Warranty (Year)
+
+5 5 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 K.C Nandanan 462011,State IT Center,
+Arera hils 47A Bhopal
+
+2  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+2.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+3. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

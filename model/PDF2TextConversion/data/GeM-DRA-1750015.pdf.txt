@@ -1,0 +1,385 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   RA Number: GEM/2020/RA/43132
+
+  Dated: 18-06-2020
+
+  
+
+RA Document
+RA Details
+
+RA Technical End Date/Time 29-06-2020 11:00:00
+
+RA Opening Date/Time 29-06-2020 11:30:00
+
+RA Life Cycle (From Publish Date) 90 (Days)
+
+RA Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Navy
+
+Office Name ***********
+
+Total Quantity 1
+
+Item Category Inverter with sine wave output
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Inspection Required  Yes
+
+Inspection to be carried out by Buyers own
+empanelled agency
+
+ Yes
+
+Type Of Inspection  Post Dispatch
+
+Name of the Empanelled Inspection
+Agency/ Authority
+
+ Board of Officers
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ RA splitting not applied.
+
+Inverter With Sine Wave Output ( 1 pieces )
+
+Technical Specifications
+
+                               1 / 5
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC Inverter Governing
+specification
+
+Generally conforming
+to IS:13314
+
+*
+
+Rating in KVA & Min.
+VAH Capacity of
+Battery
+
+2 KVA/8640 VAH 2 KVA/8640 VAH
+
+Technology MOSFET-PWM MOSFET-PWM
+
+Energy Star Rating 3 Star 3 Star
+
+Trolley with trolley with trolley
+
+Type of Battery Tubular battery
+confirming to IS:13369
+
+Tubular battery
+confirming to IS:13369
+
+Backup time (Minutes) Minimum 180 Minutes *
+
+CONSTRUCTIONAL Thickness of sheet for
+trolley (in mm)
+minimum
+
+1.2 *
+
+Trolley Material CRCA Steel *
+
+Type of enclosure CRCA Steel *
+
+Thickness of sheet for
+enclosure ( in mm)
+minimum
+
+1.2 *
+
+Inverter shall have by
+pass facility
+
+Yes *
+
+FUNCTIONAL Total Harmonic
+distortion
+
+</=5% *
+
+Input Single Phase sine
+wave(120 to 260 V)
+
+*
+
+Output Single Phase sine wave
+230 V
+
+*
+
+Inverter Efficiency (%) >/=87% *
+
+Overload Time (in
+Minutes)
+
+>/=10 *
+
+Overload of rated load
+(in %)
+
+>/=10 *
+
+PROTECTION Battery cut-off voltage
+to protect from
+overdischarge (in Volt)
+
+>10.5 *
+
+Degree of protection IP 21 *
+
+METERING AND
+INDICATIONS
+
+The inverters shall be
+provided with output
+voltage and current
+meters conforming to
+IS 2419 : 1979 and of
+an accuracy class not
+
+Yes *
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/gzJV9jcVrML9UcFXxpu00zgwv_54jtndC1cZmVqOps8
+
+
+ 
+
+inferior to 2.5 in
+accordance with IS
+1248 : 1983
+
+CERTIFICATIONS Availability of the Type
+Test Report from
+Central Govt.
+/NABL/ILAC Accredited
+lab
+
+Yes *
+
+Climatic test report as
+per clause 7.10.1 of IS
+13314
+
+yes *
+
+Type Test Certificate
+No.
+
+- *
+
+Name of Lab - *
+
+Type Test Certificate
+date
+
+- *
+
+Address of Lab - *
+
+Inverter shall have
+valid BIS CRS
+certifications for < / =
+10 KVA
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignee/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********VISAKHAPATNAM 1  15 N/A
+
+Bid Specific Additional Terms and Conditions
+
+1. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+2.Malicious Code Certificate:
+
+The seller should upload following certificate in the bid:-
+(a) This is to certify that the Hardware and the Software being offered, as part of the
+contract, does not contain Embedded Malicious code that would activate procedures to :-
+  (i) Inhibit the desires and designed function of the equipment.
+  (ii) Cause physical damage to the user or equipment during the exploitation.
+  (iii) Tap information resident or transient in the equipment/network.
+(b) The firm will be considered to be in breach of the procurement contract, in case physical
+damage, loss of information or infringements related to copyright and Intellectual Property
+
+                               3 / 5
+
+
+
+ 
+
+Right (IPRs) are caused due to activation of any such malicious code in embedded software.
+
+3.OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be
+ordered up to 25 percent at the time of placement of contract. The purchaser also reserves
+the right to increase the ordered quantity by up to 25% of the contracted quantity during the
+currency of the contract at the contracted rates. Bidders are bound to accept the orders
+accordingly.
+
+4.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+5.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial
+year, should be as indicated in the bid document. Documentary evidence in the form of
+certified Audited Balance Sheets of relevant periods or a certificate from the Chartered
+Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than
+3 year old, the average turnover in respect of the completed financial years after the date of
+constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of
+CATEGORY RELATED TO primary product having highest bid value should meet this criterion.
+
+6.Bid reserved for Make In India products: Procurement under this bid is reserved for purchase
+from local supplier as defined in public procurement (Preference to Make in India), Order
+2017 as amended from time to time and its subsequent Orders/Notifications issued by
+concerned Nodal Ministry for specific Goods/Products. The minimum local content to qualify
+as a local supplier, should be as per relevant notification / order issued by the nodal ministry
+as available on the website of Department of Promotion of Industries and Internal Trade
+(DPIIT). All bidders must upload a certificate from the OEM regarding the percentage of the
+local content and the details of locations at which the local value addition is made along with
+their bid, failing which the bid is liable to be rejected. In case the bid value is more than Rs
+10 Crore, the declaration relating to percentage of local content shall be certified by the
+statutory auditor or cost auditor, if the OEM is a company and by a practicing cost
+accountant or a chartered accountant for OEMs other than companies as per the Public
+Procurement (preference to Make-in -India) order 2017 dated 29.5.2019. In case Buyer has
+selected Purchase preference to Micro and Small Enterprises clause in the bid, the same will
+get precedence over this clause.
+
+7. Indian suppliers of this item are not allowed to participate and/ or compete in procurement
+by some foreign governments. Bidders / products from such countries are not eligible / not
+allowed to participate in this bid in terms of clause 1 (d) of Public Procurement (Preference
+to Make in India) Order, 2017
+
+8.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+9.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+10.For clothing and allied items, if pre-dispatch Inspection clause has been selected in the Bid,
+the Inspection Agency shall forward sample from the accepted lot duly identified/ sealed by
+it, as Reference Sample to each consignee (one reference sample per consignee) for
+comparing the lot received at consignee end with such reference sample. Such reference
+samples will be treated as part of supplied quantity from the lot and cost shall be borne by
+the Buyer.
+
+This RA is also governed by the General Terms and Conditions
+
+                               4 / 5
+
+https://gem.gov.in/termsCondition
+
+
+ 
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+http://www.tcpdf.org
+

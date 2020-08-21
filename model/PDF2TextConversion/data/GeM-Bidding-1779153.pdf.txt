@@ -1,0 +1,1012 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/703686
+
+  Dated: 13-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 17:00:00
+
+Bid Opening Date/Time 27-07-2020 17:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 40 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence Reseach & Development
+
+Organisation Name Office Of Dg ( Ns & M)
+
+Office Name ***********
+
+Total Quantity 1
+
+Item Category Gas Chromatography
+
+Bidder Turnover (Last 3 Years)  8 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  50 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  40 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 2.00
+
+EMD Amount 31000
+
+ePBG Detail
+
+                             1 / 11
+
+
+
+ 
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 5.00
+
+Duration of ePBG required (Months). 14
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+O I/c eProcu
+Dmsrde Kanpur, Department of Defence Reseach & Development, Office of DG ( NS & M), Ministry of
+Defence
+(Ajit Kumar Srivastava)
+
+Splitting
+
+ Bid splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 40% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Gas Chromatography ( 1 pieces )
+
+Technical Specifications
+
+                             2 / 11
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GAS CHROMATOGRAPH
+(GC) CONFIGURATION
+
+"GC Detectors
+inclusive in the
+scope of supply
+(Select Only those
+Detectors, which are
+part of supply)"
+
+Flame Ionization
+Detector (FID)
+
+Flame Ionization
+Detector (FID)
+
+"Number of FID in
+the System -
+inclusive in the
+scope of Supply
+(Select '0' if this
+Detector is not a
+part of supply)"
+
+1 1, 2
+
+"Number of TCD in
+the System -
+inclusive in the
+scope of Supply
+(Select '0' if this
+Detector is not a
+part of supply)"
+
+0 0, 1, 2
+
+"Number of ECD in
+the System -
+inclusive in the
+scope of Supply
+(Select '0' if this
+Detector is not a
+part of supply)"
+
+0 0, 1, 2
+
+"Number of NPD/FTD
+in the System -
+inclusive in the
+scope of Supply
+(Select '0' if this
+Detector is not a
+part of supply)"
+
+0 0, 1, 2
+
+"Number of FPD in
+the System -
+inclusive in the
+scope of Supply
+(Select '0' if this
+Detector is not a
+part of supply)"
+
+0 0, 1, 2
+
+"Number of PID in
+the System -
+inclusive in the
+scope of Supply
+(Select '0' if this
+Detector is not a
+part of supply)"
+
+0 0, 1, 2
+
+"Number of PFPD in 0 0, 1, 2
+
+                             3 / 11
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/lS3hHmFX8ZI9M3NMMqk53vp_rTAhFv8tnB6KEGYzRRw
+
+
+ 
+
+the System -
+inclusive in the
+scope of Supply
+(Select '0' if this
+Detector is not a
+part of supply)"
+
+Number of Inlets GC
+can Simultaneously
+Support
+
+2 2, 1, 3
+
+Number of Detectors
+(Ports) GC can
+Simultaneously
+Support
+
+1 1, 2, 3, 4
+
+Number of Capillary
+Columns provided in
+GC - inclusive in the
+scope of Supply
+
+1 1, 2
+
+Type of Capillary
+Column
+
+Polar Polar, Non-Polar
+
+"GC Capillary Column
+Length (Hint:-Select
+'0' if Not Applicable)"
+
+60 60.0, 100.0
+
+"GC Capillary Column
+Internal Diameter
+(Hint:-Select '0' if Not
+Applicable)"
+
+0.25 *
+
+"GC Capillary Column
+Film Thickness
+(Hint:-Select '0' if Not
+Applicable)"
+
+0.5 *
+
+"Number of Packed
+Columns provided in
+GC - inclusive in the
+scope of Supply
+(Hint:-Select '0' if
+Not Applicable)"
+
+2 1, 2
+
+"GC Packed Column
+Length (Hint:-Select
+'0' if Not Applicable)"
+
+6 6.0, 9.0
+
+"GC Packed Column
+Internal Diameter
+(Hint:-Select '0' if Not
+Applicable)"
+
+1/8 *
+
+PERFORMANCE "GC Detector
+Minimum Detection
+Level (MDL) "
+
+< 1.4 pg C/s for FID,<
+1.8 pg C/s for FID
+
+*
+
+Compund used for
+obtaining the declared
+sensitivity
+
+- *
+
+GC Detector Linear >= 10e7 for FID,>= *
+
+                             4 / 11
+
+
+
+ 
+
+Dynamic Range (±
+10%)
+
+5x10e4 for ECD,>=
+10e3 for NPD/FTD
+
+GC Detector Data
+acquisition rate
+
+NA *
+
+COLUMN OVEN (GAS
+CHROMATOGRAPH -
+GC)
+
+Maximum Operating
+Temperature (GC
+Oven)
+
+upto 450 deg. C (2) upto 450 deg. C (2) Or
+higher
+
+Oven cool down time
+from Max operating
+temperature to 50 Deg
+c
+
+3.5 *
+
+Number of Oven
+Ramps / Plateaus for
+Temperature
+programming
+
+6/7 or more 6/7 or more, 20/21 or
+more
+
+Temperature Ramp
+Rate - Maximum
+
+120 Deg. C/minute or
+better
+
+120 Deg. C/minute or
+better, 50 Deg.
+C/minute or better
+
+Gas sampling valve for
+gas analysis
+
+Yes *
+
+Retention time
+repeatability
+
+0.008 *
+
+Temperature set point
+resolution (±)
+
+0.1 *
+
+PNEUMATIC CONTROL "Type of Inlet
+Pneumatics (Select
+applicable parameters
+only)"
+
+Programmed
+Pneumatic Control
+(PPC)
+
+*
+
+Number of Injection
+Ports
+
+1 1, 2
+
+Maximum Injection
+Port heating
+Temperature
+
+upto 400 deg. C (1) upto 400 deg. C (1),
+upto 450 deg. C (2) Or
+higher
+
+Pressure Range upto100 psi (1) upto100 psi (1), upto
+120 psi (2) Or higher
+
+Pressure set point
+Resolution (±)(psi)
+
+0.1 0.001, 0.01, 0.1 Or
+lower
+
+Type of Sample
+Injection Port
+
+Split,Splitless Split, Splitless, split /
+Splitless, Purged
+packed Inlet
+
+Split Ratio 7500:1 6000:1, 7000:1,
+7500:1, NA
+
+Modes of Operation Constant flow,Constant
+Pressure,Programmabl
+e Flow,Programmable
+Pressure,Large volume
+- 200 microliters or
+more for capillary
+column
+
+*
+
+                             5 / 11
+
+
+
+ 
+
+AUTO INJECTOR / AUTO
+SAMPLER
+
+Compatible Liquid
+Auto Sampler -
+inclusive in the
+scope of supply
+
+No Yes, No
+
+Capacity of the
+Liquid Auto Sampler
+(Number of Vials)
+
+0 0, 15, 100, 150 Or
+higher
+
+Volume of each Vial of
+the Liquid Auto
+Sampler
+
+0 *
+
+Number of Injection
+Ports in the Liquid
+Auto Sampler
+
+0 0, 1, 2
+
+Number of Channels
+in the Liquid Auto
+Sampler
+
+0 0, 2
+
+Minimum Volume of
+the injected liquid
+sample
+
+0.25 0.25
+
+Maximum Volume of
+the injected liquid
+sample
+
+50 0 - 100
+
+Operating Voltage of
+the Liquid Auto
+Sampler
+
+230 V ± 10% *
+
+Software to directly
+operate and control the
+Auto Injector / Auto
+Sampler
+
+Perpetual Licence is
+inclusive in the Scope
+of Supply
+
+*
+
+"Liquid Auto Sampler
+Features (Select
+applicable features
+Only)"
+
+NA Fully automated Liquid
+Auto Sampler, Injects
+with variable speed &
+varying syringe sizes,
+Operates through
+Software (Software
+inclusive in the scope
+of supply), NA
+
+HEAD SPACE SAMPLER Compatible Head
+Space Sampler-
+inclusive in the
+scope of supply
+
+Yes Yes
+
+Capacity of the Head
+Space Sampler
+Carousel (number of
+Vials)
+
+12 or better 12 or better
+
+Head Space Sampler
+Temperature Range
+
+Upto 200 deg. C or
+better
+
+Upto 200 deg. C or
+better
+
+Software to directly
+operate and control the
+Head Space Sampler
+
+Perpetual Licence is
+inclusive in the Scope
+of Supply
+
+*
+
+                             6 / 11
+
+
+
+ 
+
+"Head Space Sampler
+Features (Select
+applicable features
+Only)"
+
+Built-in Sample
+Shaker,PC Controlled
+Static Heated Tubing
+Transfer Line,Operates
+through Software with
+single keyboard
+controls (Software
+inclusive in the scope
+of supply);,Singel Vial
+incubation,Headspace
+with Syringe with XYZ
+movement Sampler
+
+*
+
+PYROLYZER SYSTEM Compatible
+Pyrolyzer System for
+pyrolysis of solid
+and liquid samples-
+inclusive in the
+scope of supply
+
+Yes Yes
+
+Temperature in the
+Pyrolyzer System
+
+upto 800 deg. C *
+
+Software to directly
+operate and control the
+Prolyzer
+
+Pertual Licence is
+inclusive in the Scope
+of Supply
+
+*
+
+SALIENT FEATURES OF
+GAS CHROMATOGRAPH
+(GC)
+
+"Salient Featutes of
+GC (Select applicable
+features Only)"
+
+Automatic leak
+testing/detection of
+Pneumatics
+
+Automatic leak
+testing/detection of
+Pneumatics, Direct
+setting of split flow
+rates and ratios, Flow
+sensor for control &
+storage of split ratio,
+Split and Septum Purge
+gases, Able to direct
+inject onto packed and
+wide-bore capillary
+columns, Oven power
+turns-off automatically
+when the lid/door is
+opened, Over Heat
+Protection, Display Unit
+with built-in Key Board,
+Controlled by External
+PC System, NA
+
+SOFTWARE GC Software License
+with free upgrades
+during warranty period
+- inclusive in the scope
+of supply
+
+Yes, Perpetual License *
+
+"Software Features
+(Select Applicable
+Features only)"
+
+Compatible with
+Windows 7 or higher
+version operating
+system
+
+Compatible with
+Windows 7 or higher
+version operating
+system, Seamless
+integration & control of
+all the GC parameters,
+Interface with Multiple
+
+                             7 / 11
+
+
+
+ 
+
+GCs through the
+comprehensive real-
+time monitoring and
+diagnostic software,
+Real time notification
+via advisories and
+indicators, Counters,
+Chromatographic
+attributes, Instrument
+diagnostics, Access to
+maintenance
+information, Access to
+maintenance, run and
+event logs, Retention
+Time - Locking module
+for analyzing target
+compounds in complex
+matrices
+
+GENERIC Power Supply 230 V ± 10% *
+
+Display Through PC (PC is not
+part of supply)
+
+Through PC (PC is not
+part of supply), Built-in
+Display
+
+Display Size(In case of
+Built-in Display)
+
+10 *
+
+Connectivity
+interface
+
+USB,ETHERNET,RS 232 USB, WIFI, ETHERNET,
+Bluetooth, RS 232,
+RJ-45
+
+Provision to split the
+sample from single
+injection to two
+different detectors
+and get results for
+two detectors
+simultaneously
+
+Yes Yes, No
+
+"Overall
+Size(Dimensions) (mm
+x mm x mm)"
+
+- *
+
+Weight - *
+
+ACESSORIES Gas Supply inclusive
+in the scope of
+supply
+
+Nitrogen,Hydrogen,Zer
+o Air
+
+Nitrogen, Hydrogen,
+Zero Air
+
+Capacity of Gas
+cylinder
+
+47 liters water capacity 47 liters water capacity
+
+Number of Cyliners
+of each type
+supplied - inclusive
+in the scope of
+supply
+
+1 0, 1, 2
+
+Gas cylinders
+certified by PESO
+
+Yes Yes, No for Gas
+Cylinder Not Offered
+
+Regulator - inclusive Dual Stage Regulator Dual Stage Regulator
+
+                             8 / 11
+
+
+
+ 
+
+in the scope of
+supply
+
+"Other Accessories
+inclusive in the
+scope of supply
+(Select only those
+Accessories which
+are part of supply)"
+
+Gas purification panel
+for all Gases with
+moisture
+trap,Hydrocarbon trap
+& Oxygen trap,Syringe
+for manual injection x
+05 nos,Column Cutter x
+2 nos
+
+Gas purification panel
+for all Gases with
+moisture trap,
+Hydrocarbon trap &
+Oxygen trap, Syringe
+for manual injection x
+05 nos, Column Cutter
+x 2 nos
+
+ENVIRONMENTAL Minimum Operating
+Temperature
+
+1 0 - 10
+
+Maximum Operating
+Temperature
+
+35 30 - 65
+
+Operating Humidity
+(RH) (%) at 40
+degree C
+
+62 Up to 95
+
+INSTALLATION &
+COMMISSIONING /
+WARRANTY /
+AVAILABILITY OF
+SPARES / TRAINING
+
+Installation &
+Commissioning
+
+Inclusive in the scope
+of supply
+
+*
+
+Warranty on
+equipment
+
+2 1, 2, 3, 5
+
+Number of days
+onsite training
+provided
+
+10 3, 5, 7, 10
+
+Number of Year
+Availability of Spares
+from the date of
+installation is assured
+
+10 *
+
+CERTIFICATION / TEST
+REPORT
+
+Certification ISO *
+
+"Availability of UL/CE
+Certificate as per IEC
+61010- 1 latest -
+Safety requirements
+for electrical
+equipment for meas
+urement,control, and
+laboratory use
+General
+requirements"
+
+No Yes, No
+
+Conformance to
+EMC/EMI as per IEC
+61326-1 latest -
+Electrical equipment
+for measurement,
+control and
+laboratory use
+
+No Yes, No
+
+Availability of Test
+Reports from Central
+Govt / NABL
+approved / ILAC
+accredited Lab to
+
+No Yes, No
+
+                             9 / 11
+
+
+
+ 
+
+prove conformity to
+the specification
+
+If Yes, Test Report to
+be furnished to the
+Buyer on demand
+
+NA *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********KANPUR NAGAR 1  90
+
+Bid Specific Additional Terms and Conditions
+
+1.The bidder is required to upload, along with the bid, all relevant certificates such as BIS
+licence, type test certificate, approval certificates and other certificates as prescribed in the
+Product Specification given in the bid document.
+
+2.Preference to Make In India products (For bids less than 200 Crore):Preference shall be given
+to Class 1 local supplier as defined in public procurement (Preference to Make in India),
+Order 2017 as amended from time to time and its subsequent Orders/Notifications issued by
+concerned Nodal Ministry for specific Goods/Products. The minimum local content to qualify
+as a Class 1 local supplier is denoted in the bid document 50%. If the bidder wants to avail
+the Purchase preference, the bidder must upload a certificate from the OEM regarding the
+percentage of the local content and the details of locations at which the local value addition
+is made along with their bid, failing which no purchase preference shall be granted. In case
+the bid value is more than Rs 10 Crore, the declaration relating to percentage of local
+content shall be certified by the statutory auditor or cost auditor, if the OEM is a company
+and by a practicing cost accountant or a chartered accountant for OEMs other than
+companies as per the Public Procurement (preference to Make-in -India) order 2017 dated
+04.06.2020. Only Class-I and Class-II Local suppliers as per MII order dated 4.6.2020 will be
+eligible to bid. Non - Local suppliers as per MII order dated 04.06.2020 are not eligible to
+participate. In case Buyer has selected Purchase preference to Micro and Small Enterprises
+clause in the bid, the same will get precedence over this clause.
+
+3. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+4.The buyer organization is an institution eligible for concessional rates of GST as notified by
+the Government of India. The goods for which bids have been invited fall under classification
+of GST concession and the conditions for eligibility of concession are met by the institution.
+A certificate to this effect will be issued by Buyer to the Seller after award of the Contract.
+Sellers are requested to submit their bids after accounting for the Concessional rate of GST.
+Applicable Concessional rate of GST : 5%
+Notification No.and date : Notification No. : 47/2017-Integrated Tax (Rate) Dated 14
+November 2017, 45/2017-Central Tax (Rate) Dated 14 November 2017 ,
+KA.NI.-2-1823/XI-9(47)/17-U.P.Act-1-2017-Order-(89)-2017 Lucknow :December 04,2017
+
+                            10 / 11
+
+
+
+ 
+
+dated 14/11/2017
+5.Warranty period of the supplied products shall be 2 years from the date of final acceptance
+
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                            11 / 11
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

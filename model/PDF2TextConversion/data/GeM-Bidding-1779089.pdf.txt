@@ -1,0 +1,276 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/703624
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 21-07-2020 09:00:00
+
+Bid Opening Date/Time 21-07-2020 09:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Air Force
+
+Office Name ***********
+
+Total Quantity 6
+
+Item Category SPARE / Add on Battery Packs for Transreceiver-
+Handheld
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+SPARE / Add On Battery Packs For Transreceiver-Handheld ( 6 pieces )
+
+Technical Specifications
+
+                               1 / 3
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+SPARE / Add on Battery
+Packs for Transreceiver-
+Handheld
+
+Battery Chemistry Li-ion Li-ion
+
+Rated Capacity (
+mAh )
+
+2300 2300
+
+"Nominal terminal
+Voltage (hint: 7- 2 V
+for NiMh batteries
+and 7-4 V for Li-ion
+and Li-polymer
+batteries)
+
+7.4 7.4
+
+OEM part number - *
+
+Governing
+Specification
+
+OEM Specification OEM Specification
+
+Governing
+Specification (MHA
+QR) has been seen
+and understood
+
+NA for OEM
+Specification
+
+NA for OEM
+Specification
+
+NAME of batery
+manufacturer and
+Battery Make
+
+- *
+
+Compatible MAKE of
+Transreceivers
+
+Motorola Motorola
+
+Compatible Model of
+Transreceivers
+supported
+
+GP328 GP328
+
+BIS certification to IS:
+16046 (latest) under
+Compulsory
+Registration Scheme
+(CRS)
+
+Yes *
+
+BIS REGISTRATION
+NUMBER
+
+- *
+
+Additional Features, if
+any
+
+- *
+
+Warranty 12 12, 18 Or higher
+
+CERTIFICATION Availability of Test
+Reports from Central
+Govt / NABL
+approved / ILAC
+accredited Lab to
+prove Conformity to
+the Governing
+specification
+
+Yes Yes
+
+If Yes, Test Report to
+be furnished to the
+Buyer on demand
+
+Yes *
+
+                               2 / 3
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/2CfMvavQO1TKeT2UYTUSX9e3T5IQo0J0JJfbhQ8KZBI
+
+
+ 
+
+Test Report No and
+Date
+
+- *
+
+Name of the Lab and
+Address
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+QR/Spcn document View
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********Pathankot 6  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2.Timely Servicing / rectification of defects during warranty period: After having been notified
+
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 15 days time limit. If the Seller fails to complete
+service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product
+shall be charged as penalty for each week of delay from the seller. Seller can deposit the
+penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty
+amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than
+10% of the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+3.The bidder is required to upload, along with the bid, all relevant certificates such as BIS
+licence, type test certificate, approval certificates and other certificates as prescribed in the
+Product Specification given in the bid document.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               3 / 3
+
+https://mkp.gem.gov.in/uploaded_documents/cms/tp/home_info_comm_pers_spar/51/16/877/CategorySchema/qr_spcn_document/2018/5/29/qr-ilovepdf-compressed_2018-05-29-18-05-50_f6e0d226f9f35e1c2ea458eb48dd9e19.pdf
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

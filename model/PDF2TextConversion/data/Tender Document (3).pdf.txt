@@ -1,0 +1,2604 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - Revised-Tender_IGR_Digitization_Indext2_3112012_version 1.2.doc
+
+
+ 
+ 
+
+GOVERNMENT OF GUJARAT 
+ 
+ 
+
+ 
+Inspector General of Registration (IGR) 
+
+ 
+ 
+
+TENDER  
+FOR  
+
+DATA ENTRY OF INDEX-2 REGISTER  
+ 
+ 
+
+Tender No: SW12062013031 
+
+ 
+Bid Processing Fees: 5,000/- 
+
+Earnest Money Deposit: 2,50,000/- (Per zone) 
+ 
+
+(June, 2013) 
+
+ 
+Gujarat Informatics Ltd 
+
+Block no. 1, 8th floor, Udyog Bhavan, 
+Sector-11, Gandhianagar-382017, Gujarat 
+
+Ph No. 23259237, 23259240 
+Fax: 23238925. 
+
+www.gujaratinformatics.com  
+ 
+ 
+ 
+ 
+
+Date of pre-bid meeting: 20th June, 2013 at 1500 hrs 
+Last date of Submission of Bid: 2nd July, 2013 up to 1500 hrs 
+
+Opening of Technical Bid: 3rd July, 2013 at 1600 hrs 
+ 
+
+
+
+   2
+
+INDEX 
+ 
+
+Sr. No. Description Page 
+No. 
+
+Section I Invitation for Bids & tender Schedule 3 
+
+Section II Instructions to Bidders 5 
+
+ A. Scope of Work 5 
+ B. Qualification Criteria 7 
+ C. Preparation of Bids 7 
+ D. Contents of Envelopes 10 
+ E. Submission of Bids 10 
+ F. Bid Opening & Evaluation of Bids 11 
+ G. Award of Work 12 
+
+Section III General Conditions of Contract 15 
+
+Section IV Special Conditions of Contract  22 
+
+Section V Technical Bid Format 23 
+
+Section VI Commercial Bid Format 26 
+
+ Annexure  
+
+1 Work Specifications 27 
+
+2 Bidders Authorization Certificate 29 
+
+3 Work Experience Certificate for Documents handled. 30 
+
+4 Self Declaration 31 
+
+5. Certificate of Conformity 32 
+
+6. Technical & Presentation Evaluation Criteria 33 
+
+7. Financial Evaluation Formula 35 
+
+8. Sample of Index-2 register 36 
+
+9. Sample format of output 37 
+
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+   3
+
+COMPETITIVE BIDDING FOR  
+ 
+
+DATA ENTRY OF INDEX-2 REGISTER  
+ 
+
+SECTION I: INVITATION FOR BIDS  
+ 
+
+On behalf of the Inspector General of Registration, Government of Gujarat, Gujarat 
+Informatics Ltd invites Bids online (Technical and Financial) for “Data Entry of INDEX-2 
+Register”.  
+ 
+Please note that this bid document is not for actual award of contract/ work order but to call 
+the rates as per the financial bid for Data Entry of INDEX-2 Register.  
+ 
+Actual award of contract will follow the conditions as per this document. This document is 
+given for enabling the bidders to know the tender conditions so as to guide them in filling up 
+the technical bid and financial bid for Data Entry of INDEX-2 Register.  
+ 
+The bidders may download the tender document from website of Gujarat Informatics 
+Limited (www.gujaratinformatics.com) as well as from https://gil.nprocure.com. 
+
+                 
+Bid Processing Fee Rs. 5,000 /- 
+Last date of submission of pre-bid 
+queries which will be discussed in pre-
+bid meeting and clarifications will be 
+issued. Email id: vipulp@gujarat.gov.in  
+
+15th June, 2013 upto 1500 hrs 
+(Submission by email will also be 
+considered.) 
+
+Date of Pre-bid meeting  20th July, 2013 at 1600 hrs 
+Conference Room, GIL 
+
+Last date, time for Online Submission of 
+bids online 
+
+2nd July, 2013 up to 1500 hrs 
+
+Date and time for Opening of Technical 
+Bids 
+
+3rd July, 2013 at 1600 hrs 
+
+Address for communication Gujarat Informatics Ltd, Block no. 1, 8th 
+floor, Udyog Bhavan, Sector-11, 
+Gandhinagar. 
+
+Earnest Money Deposit Rs.2,50,000/- per zone (No relaxation to 
+anyone including SSI units) 
+
+Last date & Time for submission of EMD 
+& Bid Processing Fees at GIL 
+
+2nd July, 2013 up to 1500 hrs 
+
+Validity of Tender  180 days. 
+Contact Person Dr. Neeta shah,  
+
+Director (e-Governance) 
+Gujarat Informatics Ltd. 
+
+Time Limit to complete the work Within one year from the date of work 
+order issued. 
+
+  
+The bidder can bid for one zone or more than one zone. However, the contract will be 
+awarded for only one zone to the L1 bidder as per the formula given in the Annexure 7.  
+ 
+ 
+ 
+ 
+ 
+
+
+
+   4
+
+The lists of zones and the priority for opening of the financial bid are as mentioned below. 
+ 
+
+Sr. No  Name of Zone 
+
+Priority for opening of financial 
+
+bids 
+
+Willingness (Please 
+
+indicate ‘Yes’ or ‘No’ 
+
+clearly) 
+
+1  Zone 1 1
+
+2  Zone 2  2  
+
+3  Zone 3  3  
+
+4  Zone 4 4  
+
+  
+All bids must be submitted online on https://gil.nprocure.com website 
+ 
+1. Technical bids will be opened in the presence of tender Committee members whoever 
+
+are present as well as Bidders’ or their representatives who choose to attend on the 
+specified date and time. The tender committee has been empowered to take the final 
+decision regarding the tender. 
+
+2. In the event of the date specified for receipt and opening of bid being declared as a 
+holiday for Inspector General of Registration, the due date for submission of bids and 
+opening of bids will be the following working day at the appointed time. 
+
+3. GIL/ IGR reserve the right to accept or reject any tender offer without assigning any 
+reason. 
+
+4. Financial bids of only those bidders who qualify on the basis of evaluation of technical 
+bids & Demonstration will be opened as per criteria designed by GIL. 
+
+ 
+5.  Use & Release of Bidder Submissions: 
+ 
+
+GIL/Inspector General of Registration is not liable for any cost incurred by a Bidder in 
+the preparation and production of any Proposal, the preparation or execution of any 
+benchmark demonstrations, simulation or laboratory service or for any work performed 
+prior to the execution of a formal contract.  All materials submitted become the property 
+of the GIL/ Inspector General of Registration and may be returned at its sole discretion. 
+The content of each Bidder’s Proposal will be held in strict confidence during the 
+evaluation process, and details of any Proposals will not be discussed outside the 
+evaluation process. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+   5
+
+SECTION II: INSTRUCTIONS TO BIDDERS 
+ 
+
+INTRODUCTION 
+
+A. Scope of Work 
+
+There is a requirement of Data Entry of INDEX-2 Register. Details of the volume of work and 
+concerned work locations are as under.  
+ 
+
+ZONE  ZONE NAME  
+Location of 
+
+work 
+(District Centre) 
+
+SROs of District 
+Covered 
+
+No. of Books 
+A 
+
+No. of Entry
+B 
+
+Total nos. 
+of 
+
+characters 
+C= B*150 
+(Approx. 
+char. Per 
+entry are 
+
+150) 
+
+1 
+CENTRAL 
+GUJARAT 
+
+Ahmedabad Ahmedabad 1224 1339915 200987250
+
+Anand Anand, Nadiad 750 1242107 186316050
+
+Surendranagar Surendranagar 533 641973 96295950
+
+TOTAL 2507 3223995 483599250 
+
+2 SAURASHTRA 
+
+Rajkot Rajkot 784 1242265 186339750
+
+Jamnagar Jamnagar 412 559754 83963100
+
+Amreli Amreli 379 364996 54749400
+
+Bhavnagar Bhavnagar 559 596064 89409600
+
+Junagadh Junagadh, Porbandar 840 957176 143576400
+
+TOTAL 2974 3720255 558038250 
+
+3 
+NORTH 
+
+GUJARAT & 
+KUTCHH 
+
+Himmatnagar Sabarkantha 311 336942 50541300
+
+Palanpur Banaskantha  297 389160 58374000
+
+Bhuj Kutch 609 409420 61413000
+
+Godhara Panchmahal, Dahod 214 298694 44804100
+
+Mahesana Mahesana, Patan 491 715754 107363100
+
+Gandhinagar Gandhinagar 191 298823 44823450
+
+TOTAL 2113 2448793 367318950 
+
+4 
+SOUTH 
+
+GUJARAT 
+
+Bharuch Bharuch, Narmada 508 595101 89265150
+
+Vadodara Vadodara 1276 890925 133638750
+
+Surat Surat 757 1209162 181374300
+
+Navsari 
+Navsari, Valsad,  
+
+Dang  
+528 552339 
+
+82850850
+
+TOTAL 3069 3247527 487129050 
+
+ 
+ Output: The SP shall provide one set of printouts of all the data entry carried out in the 
+
+predefined format. The sample format is placed at Annexure-6. 
+ The sample of Index-2 register is given as Annexure-6   
+ Backup: The vendor shall provide two sets of DVDs office wise with the label (District 
+
+Name, Name of Office, Year, Date ___to___) on the DVD and one copy in external hard 
+drive (USB Hard drive) to IGR for centralized backup storage. 
+
+ Duration for completing the work: The work should be completed within one year from 
+the confirmed date of work order. 
+
+
+
+   6
+
+ The Service provider is responsible to work at district level offices. The IGR will provide 
+space for the project work at work location. Extension power cables if required as per 
+requirement shall be arranged by service provider. 
+
+ The SP will be responsible for arranging necessary computing, printing hardware and 
+standby power supply equipment (like Generators and UPS). 
+
+ The SP will be responsible for arranging the necessary furniture and storage devices at 
+the site. 
+
+ The Service Provider will be handed over the Index-2 registers/ Photo print of the 
+document (if Index -2 register is not readable) in a batch and he will cross-check this 
+information and will prepare a list containing discrepancies, if any. 
+
+ The Service Provider will complete the data entry of the Index-2 register and will carry 
+out the entry checking to ensure the successful completion before returning the batch of 
+register. The data entry software will be provided by IGR. 
+
+ SP needs to create the database/index for the data entered so that search engine could 
+handle the search of particular records of Index-2 in the specific format. (Sample format 
+is given as Annexure-8).  
+
+ The data entry/retrieval software should be prepared in consultation with the IGR.  
+ The software should be capable of quick search, retrieval, viewing and printing the report 
+
+as per required format given in Annexure- 9. The retrieval software should be capable of 
+searching any records by the indexing fields mentioned below. All rights of the software 
+will be reserved with IGR. 
+
+ Retrieval software/ database created must be interactive and compatible with the ‘ReD’ 
+application software which is developed by NIC, Gandhinagar and running successfully 
+in Sub Registrar offices of the state. The bidder may consult NIC, Gandhinagar regarding 
+‘ReD’, if feels necessary.  
+
+ Fields to be considered for retrieval software with max. Characters.  
+o District Name – 15  
+o Sub District Name (Name of Office) -20 
+o Name of Taluka -20 
+o Year - 4 
+o Village Name -20 
+o Document Number - 5 
+o Name of executing party/ Name of claming party -30 
+o Date of Sign - 10 
+o Date of Registration – 10 
+o Nature of Document - 30 
+o Amount of Consideration - 10 
+o Description of Property (i.e. Survey number/City Survey Number/Town Planning Scheme 
+
+number/ Final Plot Number/ Area of Property etc.) - 15 
+ Payment of data entry should be based on 1000 characters including enter key & 
+
+excluding “delete” & “backspace” keys. The software should have features to count no of 
+key stocks used by data entry operator for each login session user wise. This count will 
+be used for payment of data entry work. 
+
+ Service provider is allowed to scan the document and do the data entry from the 
+scanned documents. IGR will not pay additional cost for the scanning work.  
+
+ Verification: Workflow of the verification process of the work done by SP: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Batch X1 (no. of 
+Documents) handover 
+to SP by SRO – Day 1 
+
+Data Entry of Batch 
+X1 (no. of Documents) 
+
+by SP – Day 1 
+
+Handover the printouts 
+of data entry done in 
+format specified in 
+
+scope of work to SRO 
+for verification – Day 
+
+1 
+
+If error found in the verification, SP should responsible to 
+complete the work before starting the data entry of next batch 
+X2 (no. of Documents) – Day 2 
+ 
+If SP verify and found 100% accurate than Batch X2 (no. of 
+documents) to SP for data entry – Day 2 
+X3- 
+X4- 
+- 
+Xn- Up to the completion of work  
+ 
+Note: Penalty should be levied if error found repeatedly in the 
+same batch of documents.  
+
+
+
+   7
+
+B. Qualification Criteria 
+
+ 
+Bidders desirous of bidding for the project shall fulfill the following qualification criterions: 
+
+1) The vendor should be in the business of Data Entry and/or Scanning for at least three 
+years as on 31st March 2012. Company Incorporation Certificate must be submitted for 
+the same. They should have experience in terms of document management imaging & 
+transmission for a sufficiently large number of documents / records. 
+
+ 
+2) The Bidder should be an ISO 9001:2008 certified in related services  
+
+ 
+3) The bidder must have completed at least 5 data entry projects with project value of at 
+
+least Rs. 5 Lacs each. The copy of the client’s certificate must be submitted. 
+ 
+4) Total turnover of the firm should be at least Rs.2.5 Crores during each of last three 
+
+financial years (i.e. 2009-10, 2010-11 & 2011-12) or cumulative of Rs. 7.5 Crores in 
+last three years. The bidder must attach Statutory Auditor’s Certificate Certifying the 
+turnover in each of the last three years from document management and related 
+services only. Bidder should have to upload the copies of the audited Balance sheet 
+and profit and loss accounts. 
+
+ 
+5) The bidder should not be under a declaration of ineligibility for corrupt and fraudulent 
+
+practices issued by Government of Gujarat or any of the PSU in the state of Gujarat. 
+Certificate / affidavit mentioning that the Bidder/ Consortium Partner is not currently 
+blacklisted by Government of Gujarat or any of the PSU in the state of Gujarat is due to 
+engagement in any corrupt & fraudulent practices. Annexure 4 
+
+ 
+Note: All Supporting documents must be submitted online on our website 
+
+https://gil.nprocure.com and the documents must be in clear readable form. 
+ 
+
+C. PREPARATION OF BIDS 
+ 
+ 
+
+1) Cost of Bidding 
+
+The Bidder shall bear all the costs associated with the preparation and submission of 
+its bid, and “the tendering Authority“in no case, will be responsible or liable for these 
+costs, regardless of conduct or outcome of the bidding process. 
+
+2) Bidding Document 
+
+  The Bidder is expected to examine all instructions, forms, terms and specifications in 
+the bidding documents. Failure to furnish all information required by the bidding 
+documents or submission of a bid not substantially responsive to the bidding 
+documents in every respect will be at the Bidder’s risk and may result in rejection of the 
+bid. 
+
+ 
+
+3) Clarification of Bidding Documents 
+
+1) A prospective Bidder requiring any clarification of the bidding documents may notify 
+the tendering Authority in writing at the tendering Authorities address indicated in the 
+Invitation for Bids. The tendering Authority will respond in writing to any request for 
+the clarification of any biding documents, which it receives one day prior to deadline 
+for submission of bids prescribed by the tendering Authority. 
+
+
+
+   8
+
+2) Pre-bid meeting is fixed for clarification - at Gujarat Informatics Limited, 8th Floor, 
+Block No 1, Udyog Bhavan, Gandhinagar. In the event of any clarification required 
+and issued in writing, it shall form the part of the tender document. 
+
+4) Amendment of Bidding Documents 
+
+1) At any time prior to the deadline for submission of bids, this office may, for any 
+reason, whether on its own initiative or in response to the clarification requested by a 
+prospective bidder, modify, change, incorporate or delete certain conditions in the 
+bidding document.  
+
+In order to allow prospective bidders reasonable time to take into consideration the 
+amendments while preparing their bids the tendering Authority, at its discretion, may 
+extend the deadline for the submission of bids. 
+ 
+
+5) Language of Bid 
+
+The bid prepared by the bidder, as well as all correspondence and documents 
+relating to the bid exchanged by the Bidder and The tendering Authority shall only be 
+in English language. 
+
+6) Bid Form 
+
+1) The Bidder shall submit the Technical Bid & Financial Bid as per format given on 
+https://gil.nprocure.com website.  
+
+ 
+7) Bid Prices 
+
+1) The Quote will be on the basis of 1000 characters (comprising of software 
+charge), which the Bidder expects. 
+
+2) If required the tendering Authority may at a later stage (i.e. after the finalization of 
+contract or at the time of agreement) ask for a component wise break up of the 
+price. 
+
+8) Bid Currency 
+
+1) Prices shall be quoted in Indian Rupees only. 
+
+9) Documents Establishing Bidder’s Eligibility and Qualification 
+
+1) The bidder shall furnish, as part of its tender offer, documents establishing the 
+Bidder's eligibility to participate in the tender and its qualifications to perform the 
+Contract as mentioned in qualification Criteria section 
+
+10)  Documents establishing good’s Eligibility and Conformity to Bidding Documents. 
+
+1) The Bidder shall furnish, as part of its bid, documents establishing the eligibility 
+and conformity to the bidding documents of all goods and services, which the 
+Bidder proposes to supply under the contract. 
+
+2) The documentary evidence of conformity of goods and services to the bidding 
+documents may be in the form of literature, drawing and data, and shall consist of 
+a detailed description of the essential technical and performance characteristics 
+of the goods;    
+
+3) The Bidder shall note that standards for workmanship, material and equipment, 
+and references to International brand names or catalogue numbers designated 
+by the tendering Authority in its Technical Specifications are intended to be 
+descriptive only and not restrictive 
+
+ 
+
+ 
+
+ 
+
+
+
+   9
+
+11)  Earnest Money Deposit 
+
+1) The Bidder shall furnish, as part of its bid, an Earnest Money Deposit in the form 
+of a DD drawn in favor of Gujarat Informatics Limited payable at Gandhinagar for 
+an amount of Rs.2,50,000/- per Zone. 
+
+2) Unsuccessful bidder’s EMD will be discharged / refunded as promptly as 
+possible.  
+
+3) The successful bidder’s EMD will be discharged only after submitting the PBG by 
+bidder. 
+
+4) The EMD shall be forfeited If a Bidder withdraws its bid during the period of Bid 
+validity specified by the Bidder on the Bid Form or in case of a successful Bidder, 
+if the Bidder fails: to sign the Contract; or to furnish the performance security. 
+
+5) No exemption for submitting the EMD will be given to any agency including SSI 
+Units. 
+
+6) Any tender submitted without the EMD will be summarily rejected. 
+
+7) The bidder is liable to pay liquidated damages and penalty imposed by the tender 
+Inviting Authority in the event of non-fulfillment of any of the terms or whole of the 
+contract. 
+
+12)  Period of Validity of Bids 
+
+1) Bids shall be valid for 180 days after the date of bid opening. The tendering 
+Authority shall reject a Bid valid for a shorter period as non-responsive. 
+
+2) In exceptional circumstances, the tendering Authority may solicit the Bidder’s 
+consent to an extension of the period of validity. The request and the responses 
+thereto shall be made in writing.   
+
+3) Bid evaluation will be based on the bid prices without taking into consideration 
+the above changes. 
+
+13)  Performance Security Deposit  
+
+1) Performance Security Deposit will be notified later by office of Inspector General 
+of Registration. 
+
+2) The successful Bidder has to furnish a security deposit so as to guarantee his/her 
+(Bidder) performance of the contract 
+
+3) The proceeds of the performance security shall be payable to the tendering 
+Authority as compensation for any loss resulting from the Service Provider’s 
+failure to complete its obligations under the Contract. 
+
+4) The Performance Security shall be denominated in Indian Rupees and shall be in 
+the following form: 
+
+a. A bank guarantee issued by a nationalized / scheduled bank located in India 
+or a bank located abroad acceptable to the tendering Authority, in the form 
+provided in the bidding documents. 
+
+5) Within 15 days of the receipt of notification of award from “THE TENDERING 
+AUTHORITY”, the successful bidder shall furnish the performance security in 
+accordance with the Conditions of The Contract, in the performance security form 
+provided in the bidding documents in the Performa prescribed in the tender. 
+
+6) The validity of the Performance Security will be up to one year after successful 
+completion of performance obligations. 
+
+14)  Clarification to tender documents 
+
+
+
+   10
+
+At any time after the issue of the tender documents and before the opening of the 
+tender, Inspector General of Registration & Gujarat Informatics Limited may make 
+any changes, modifications or amendments to the tender documents will be 
+uploaded on GIL website. 
+ 
+ 
+
+15)  Receipt of tenders and tender Opening 
+
+1) The bidder should download the tender from GIL’s website or from 
+www.gil.nprocure.com website. Also bidder should submit the techno-financial 
+bids online. The Inspector General of Registration & Gujarat Informatics Limited 
+shall not be responsible for any delay in transit in such cases. 
+
+2) The Inspector General of Registration & Gujarat Informatics Limited may extend 
+the last date and time for receiving tenders after giving adequate notice to all the 
+bidders in cases where - 
+(1) The publication of the tender notice has been delayed. 
+(2) Any other reasonable grounds exist, for such extension which shall be 
+
+recorded in writing by Inspector General of Registration & Gujarat Informatics 
+Limited 
+
+ 
+D. Contents of Envelopes 
+
+1) Envelope for the EMD and Bid Processing Fee. 
+
+2) Envelope shall be marked as Envelope for “EMD & Bid Processing Fee” for the 
+tender for Data Entry of INDEX-2 Register. 
+
+ 
+
+E. SUBMISSION OF BIDS 
+
+1) Sealing and Marking of Bids 
+
+ All bids must be submitted online through https://gil.nprocure.com as per the 
+formats mentioned in the same using digital signature. 
+
+ Telex, cable, e-mailed or facsimile bids will be rejected. 
+ 
+
+2) Deadline for Submission of Bids 
+
+1) Bids must be submitted online through https://gil.nprocure.com not later than the 
+time and date specified in the Invitation for Bids (Section I).  In the event of the 
+specified date for the submission of Bids being declared as a holiday for 
+Inspector General of Registration/GIL, the bids will be received up to the 
+appointed time on the next working day.  
+
+2) GIL may, at its discretion, extend this deadline for submission of bids by 
+amending the bid documents, in which case all rights and obligations of GIL and 
+Bidders subject to the deadline will thereafter be subject to the deadline as 
+extended. 
+
+3) Late Bids 
+
+1) Any bid received by GIL after the deadline for submission of bids prescribed by 
+Inspector General of Registration Office, will be rejected and/or returned 
+unopened to the Bidder.   
+
+4) Withdrawal of Bids 
+
+1) The Bidder may modify or withdraw his bid before the last date of submission of 
+bids through the e-Tendering website https://gil.nprocure.com. 
+
+2) No bid may be modified after the deadline for submission of the bids. 
+
+
+
+   11
+
+3) No bid may be withdrawn in the interval between the deadline for submission of 
+bids and the expiration of the period of the bid validity specified by the Bidder on 
+the Bid Form. Withdrawal of a bid during this interval shall result in the Bidder’s 
+forfeiture of its bid EMD.        
+
+ 
+ 
+F. BID OPENING AND EVALUATION OF BIDS 
+
+ 
+1) Opening of Bids by Inspector General of Registration/GIL 
+
+1) Inspector General of Registration /GIL will open all bids (only Technical Bids 
+at the first instance) through the e-Tendering website of 
+https://gil.nprocure.com, in the presence of Bidder or his representative who 
+choose to attend, and at the following address: 
+
+ Gujarat Informatics Limited 
+ Block No.1, 8th Floor, 
+ Udyog Bhavan, Gandhinagar. 
+
+ 
+
+2) The Bidder’s representative who is present shall sign an attendance register 
+evidencing their attendance. In the event of the specified date of Bid opening 
+being declared holiday for the tendering Authority, the Bid shall be opened at 
+the appointed time and location on the next working day. 
+
+3) The Bidder’s names, bid modifications or withdrawals, bid prices and the 
+presence or the absence of requisite bid security and such other details as 
+Inspector General of Registration, at his discretion, may consider appropriate, 
+will be announced at the time of opening. No Bid shall be rejected at the 
+opening, except for late bids, which shall be returned unopened to the 
+bidders. 
+
+4) Bids that are not opened and read out at bid opening shall not be considered 
+for further evaluation, irrespective of the circumstances. Withdrawn bids will 
+be returned unopened to the Bidders.  
+
+5) Financial Bids of only those bidders who qualify on the basis of evaluation of 
+technical bid & Demonstration will be opened in the presence of the qualified 
+bidders or their representatives at pre-specified time and date which will be 
+communicated to the qualified bidders well in advance. 
+
+6) Zone wise L1 will be decided based on the lowest rates of particular 
+zone. 
+
+ 
+
+2) Clarification of Bids 
+
+1) During evaluation of bids Inspector General of Registration /GIL may, at its 
+discretion, ask the Bidder for a clarification of its bid. Inspector General of 
+Registration /GIL may also ask for rate analysis of any or all items and if rates 
+are found to be unreasonable low or high, the bid shall be treated as non-
+responsive and hence liable to be rejected. The request for a clarification and 
+the response shall be in writing and no change in prices or substance of the 
+bid shall be sought, offered or permitted.   
+
+3) Contacting Inspector General of Registration /GIL 
+
+   3.1 No Bidder shall contact Inspector General of Registration/GIL on any matter 
+relating to its bid, from the time of the bid opening to the time the contract is 
+awarded.  If he wishes to bring additional information to the notice of Inspector 
+
+
+
+   12
+
+General of Registration/GIL, he should do so in writing. Inspector General of 
+Registration reserves the right as to whether such additional information should 
+be considered or otherwise. 
+
+  3.2 Any effort by a Bidder to influence Inspector General of Registration /GIL in its 
+decision on bid evaluation, bid comparison or contract award may result in 
+disqualification of the Bidder’s bid and also forfeiture of his bid security amount.  
+
+4)   Evaluation and comparison of Bids  
+ 
+
+4.1 For technical evaluation and comparison of the bids, which have been 
+determined to be substantially responsive pursuant to ITB clause 22, GIL will 
+evaluate the technical bid as per the assessment procedure given in GR No TSP-
+2004-808-DST dated 30/07/2004. The committee will scrutinize techno-
+commercial offers and evaluate capability of vendors through presentations, 
+demonstration, documents. etc as per defined evaluation criteria . 
+
+4.2 The technical evaluation of bids will be done based on following three 
+components only for those bidders who satisfy all the Eligibility Criteria (ITB 
+Clause No. 2) 
+
+ Evaluation of Technical Bid Document submitted (Min. 60% required 
+for qualifying for next stage) 
+
+ Presentation on Approach & Methodology (Min. 60% required for 
+qualifying for next stage) 
+
+4.3 The solution provider will be selected based on evaluation of technical bids & 
+financial bids. Financial bids of only those bidders who qualify on the basis of 
+evaluation of technical bids will be opened. Only without tax values will be 
+considered for financial evaluation. 
+
+4.4 For evaluation of Financial Bids, the without tax values will only be considered for 
+comparison. 
+
+4.5 GIL/Inspector General of Registration’s evaluation of a Bid will exclude and not 
+take into the account any allowance for price adjustment during the period of the 
+execution of the contract, if provided in the bid. 
+
+ 
+
+G.   AWARD OF WORK 
+  
+
+1) Award Criteria 
+
+1) The tender committee will award the contract to the successful Bidder as per the final 
+evaluation criteria: 
+
+2) Area of operation 
+
+Area of operation will be the Offices of Inspector General of Registration, Gujarat as 
+mention in Scope of Work.  
+
+3) GIL/Inspector General of Registration's Right to Accept / Reject Any or All Bids 
+
+GIL/Inspector General of Registration reserves the right to accept or reject any bid, or 
+to annul the bidding process and reject all bids at any time prior to the award of 
+Contracts, without thereby incurring any liability to the affected Bidder or bidders or 
+any obligation to inform the affected Bidder or bidders of the grounds for the GIL’s 
+action.  
+
+4) Notification of Awards   
+
+
+
+   13
+
+1) Prior to the expiry of the period of the bid validity, Inspector General of 
+Registration/GIL will notify the successful bidder in writing. The bidder will confirm the 
+same in writing through registered letter. 
+
+2) The notification of award will constitute the formation of the Contract. 
+
+3) Upon the successful Bidder’s furnishing of performance security pursuant to ITB 
+clause 6, Inspector General of Registration/GIL will promptly notify each 
+unsuccessful bidder. 
+
+5) Signing of Contract 
+
+1) At the same time as Inspector General of Registration/GIL notifies the successful 
+Bidder that its bid has been accepted, Inspector General of Registration/GIL will send 
+the bidder the Contract Form provided by this office. 
+
+2) Within 15 days of receipt of the Contract Form, the successful bidder shall sign the 
+contract and return it to Inspector General of Registration.  
+
+6) Performance Security 
+
+1) Within 15 days of the receipt of notification of award from the Inspector General of 
+Registration/GIL, the successful bidder shall furnish the performance security in 
+accordance with the conditions of the contract, in the Performance Security Form 
+provided in the bidding document or in another form acceptable to Inspector General 
+of Registration. 
+
+2) Failure of the successful bidder to comply with the requirement of ITB Clause 4 or 
+ITB Clause 6 can constitute sufficient grounds for the annulment of the award and 
+forfeiture of the bid security in which event Inspector General of Registration may 
+take the award to the next lowest evaluated bidder or call for new bids. 
+
+3) The proceeds of the performance security shall be payable to Inspector General of 
+Registration as compensation for any loss resulting from the bidder’s failure to 
+complete its obligations under the contract. 
+
+4) The performance security shall be denominated in Indian Rupees and shall be in the 
+following form: A bank guarantee issued by a nationalized/ scheduled bank and 
+following private sector banks located in India, in the form provided in the bidding 
+documents. 
+
+ ICICI Bank 
+ HDFC Bank 
+ IDBI Bank 
+ AXIS Bank 
+ Kalupur Commercial Co-operative Bank 
+
+ 
+
+7) Corrupt or Fraudulent Practices. 
+
+1) GIL/Inspector General of Registration requires that the bidders/suppliers/ contractors 
+under this tender observe the highest standards of ethics during the procurement and 
+execution of such contracts.  In pursuance of this policy, Inspector General of 
+Registration defines for the purposes of this provision, the terms set forth as follows: 
+
+2) “corrupt practice” means the offering, giving, receiving or soliciting of any thing of 
+value to influence the action of the public official in the procurement process or in 
+contract execution; and “fraudulent practice” means a misrepresentation of facts in 
+order to influence a procurement process or a execution of a contract to the 
+detriment of Inspector General of Registration, and  includes collusive practice 
+among bidders (prior to or after bid submission) designed to establish bid prices at 
+artificial non-competitive levels and to deprive Inspector General of Registration of 
+the benefits of the free and open competition; 
+
+
+
+   14
+
+3) Inspector General of Registration will reject a proposal for award if it determines that 
+the Bidder recommended for award has engaged in corrupt or fraudulent practices in 
+competing for the contract in question; 
+
+4) Inspector General of Registration will declare a firm ineligible, either indefinitely or for 
+a stated period of time, to be awarded a contract if it at any time determines that the 
+firm has engaged in corrupt and fraudulent practices in competing for, or in 
+executing, a contract. 
+
+5) The past performance of the bidder will be crosschecked if necessary.  If the facts 
+are proven to be dubious the bidders tender will be ineligible for further processing. 
+
+ 
+8) Interpretation of the clauses in the tender Document / Contract Document 
+
+ 
+1) In case of any ambiguity in the interpretation of any of the clauses in tender 
+
+Document or the Contract Document, GIL/ Inspector General of Registration’s 
+interpretation of the clauses shall be final and binding on all parties. However, in case 
+of doubt as to the interpretation of the bid, the bidder may make a Written request 
+prior to: 
+
+ 
+1.    Inspector General of Registration 
+
+   Stamps & Nodhani Bhavan,  
+ Sector – 13/C, Kh Road, 
+ Gandhinagar. 
+ 
+2.    The Director (e-Governance) 
+
+            Gujarat Informatics Ltd. 
+        Block No.1, 8th Floor, Udyog Bhavan 
+        Gandhinagar, Gujarat. 
+  
+GIL/ Inspector General of Registration’s may issue clarifications to all the bidders as 
+an addendum. Such an addendum shall form a part of the bid document. 
+
+2) The decision taken by the tender Committee in the process of tender evaluation will 
+be full and final.  
+
+
+
+   15
+
+SECTION III: GENERAL CONDITIONS OF CONTRACT 
+
+ 
+1. Definitions 
+
+In this Contract, the following terms shall be interpreted as indicated: 
+ 
+1) “The Contract” means the agreement entered into between IGR and the Service 
+
+Provider, as recorded in the Contract Form Signed by the parties, including all the 
+attachments and appendices thereto and all documents incorporated by reference 
+therein; 
+
+2) "Bidder" means any agency that is participating in the tender process. 
+3) "Service Provider" means any agency who is a successful bidder and to whom the 
+
+contract has been awarded. 
+4) “Data Entry” work means Data Entry of the index-2 register as volume mentioned in 
+
+scope of work. 
+5) “SRO” means Sub Registrar Office 
+6) “IGR” means Inspector General of Registration.    
+7) “The Contract Price” means the price payable to the Service Provider under the 
+
+Contract for the full and proper performance of its contractual obligations; 
+8) “The Goods” means all the equipment, machinery and /or other materials which the 
+
+Service Provider is required to supply to GIL/IGR under the Contract; 
+9) “Services” means services ancillary to the supply of the Goods, such as 
+
+transportation and insurance and any other incidental services, such as installation, 
+commissioning, provision of technical assistance, training and other obligations of the 
+Service Provider covered under the Contract; 
+
+10) “The Project Site”, wherever applicable, means the place or places where the work is 
+to be executed. 
+
+11) “Day” means a working day. 
+12) “Unit” means one single office where the entire set up has to be provided. 
+13) “Office Completeness” means the site should be complete in all respects i.e.  
+
+ Hardware is supplied, installed and commissioned 
+ Requisite Software is installed 
+ Requisite Application Software is installed. 
+ Connectivity setup is established. 
+ Requisite Manpower is deployed 
+ The entire setup as defined in scope of work has become functional & the 
+
+transactions can be done on computers. 
+14) “Maintenance” means  
+
+ Taking care of the machine 
+ Changing the Spares when they become faulty 
+ Locate, remove, and repair technical faults. 
+ Identify Software related problems such as run time error viruses etc. & 
+
+reload the machines with Software 
+ Maintaining up time of at least 95% 
+ Housekeeping of all Hardware 
+ Ensuring continuous power supply to all machines during working hours. 
+ Any other task to be performed to keep the system functional. 
+
+15)  Performance Standards  
+This factor incorporates the maintenance standards as defined below: 
+ 
+Service Level Standards: -  
+The agency has to meet the service level norms failing which the contract is liable to 
+
+get cancelled. 
+
+
+
+   16
+
+a) Install high quality hardware and peripherals at all sites to ensure minimum 
+downtime. 
+
+b) Provide skilled and efficient manpower to attain maximum production. 
+c) Provide quality consumables like branded CDs, Paper, Toners, Tapes, etc.  
+d)  Absolutely avoid usage of low quality consumables, refilled toners, etc. 
+
+ 
+2. Application 
+
+ 
+
+a) These General Conditions shall apply to the extent that they are not superseded 
+by provisions in other parts of the Contract. 
+
+ 
+3. Use of Contract Documents and Information 
+ 
+
+1) The Service Provider shall not, without the GIL/IGR’s prior written consent, disclose 
+the Contract, or any provision thereof, or any specification, plan, drawing, pattern, 
+sample or information furnished by or on behalf of GIL/IGR in connection therewith, 
+to any person other than a person employed by the Service Provider in performance 
+of the Contract. Disclosure to any such employed person shall be made in 
+confidence and shall extend only as far as may be necessary for purposes of such 
+performance. 
+
+ 
+2) Any document, other than the Contract itself, shall remain the property of GIL/IGR 
+
+and shall be returned (in all copies) to GIL/ IGR on completion of the Service 
+Provider’s performance under the Contract if so required by GIL/ IGR. 
+
+ 
+3) The Service Provider shall permit GIL/IGR to inspect the Service Provider’s accounts 
+
+and records relating to the performance of the Service Provider and to have them 
+audited.  
+
+ 
+4. Patent Rights 
+ 
+
+The Service Provider shall indemnify GIL/IGR against all third-party claims of 
+infringement of patent, trademark or industrial design rights arising from use of the 
+Goods or any part thereof in India. 
+
+ 
+5. Inspections and Tests 
+ 
+
+1) Authorized person of GIL/IGR/ Third party auditor appointed by IGR will verify the 
+data entry printouts. If the printouts are not found as per the norms prescribed by 
+this office, they shall be generated again and again until they attain the prescribed 
+norms and no extra payment will be made for the same. Verification of work will be 
+done on the basis of work completeness.  
+
+2) No staff of GIL/IGR will be made available for the said work except for handing over 
+and taking back the documents, receiving backup devices & printouts. The entire 
+verification of completed work will be done randomly and batch-wise by the 
+GIL/IGR staff.   It will be the onus of the bidder to ensure that the quality of the work 
+is not compromised. If the quality is not satisfactory, it will amount to rejection of the 
+entire batch. The bidder has to make a thorough verification of the quality at his 
+own level. 
+
+3) The paper used for printouts shall be of good quality.  
+
+4) Documents shall be handed over to the bidder / or his authorized agent in the 
+morning and shall be collected back by the staff of GIL/IGR at the end of the day. 
+
+
+
+   17
+
+5) The hard disk of the computers shall contain only the operating system, and the 
+application software required for data entry, and shall be formatted before leaving 
+the premises for any reason. 
+
+6) The bidder has to submit the proposal for the work flow he intends to follow to 
+ensure error free service.  This will form a part of the technical bid. 
+
+6. Accuracy of Work 
+ 
+100% accuracy is required.  
+
+ 
+o For 1% error – SP shall resolve the error, No penalty 
+o For 1% to 2% error - SP shall resolve the error, 1% penalty of total 
+
+order value 
+o For 2% to 5% error - SP shall resolve the error, 2% penalty of total 
+
+order value 
+o More than 5% error– IGR will decide on termination of contract 
+
+without any payment of completed work. Also, the performance 
+Bank Guarantee shall be forfeited 
+
+ 
+7. Delivery and Documents 
+ 
+
+Delivery of the Goods shall be made by the Service Provider in accordance with the 
+terms specified by IGR in the Notification of Award.  
+ 
+
+ 
+8. Incidental Services 
+ 
+
+The Service Provider is required to provide the following services, including 
+additional services, if any. 
+
+ 
+1) performance or supervision of the on-site assembly and/or start-up of the supplied 
+
+Goods; 
+ 
+2) furnishing of tools required for assembly and/or maintenance of the supplied Goods; 
+ 
+3) furnishing of detailed operations and maintenance manual for each appropriate unit 
+
+of supplied Goods; 
+ 
+4) Performance or supervision or maintenance and/or repair of the supplied Goods, for 
+
+the period of time mentioned in the tender notification. 
+ 
+
+9. Payment 
+ 
+
+1) All payments will be done to the agency after completion of the job. 
+ 
+2) Payment will be worked out on the basis of no. of Microfilm sides/pages converted. 
+
+There should be a facility of counting the no. of characters entered excluding 
+backspace and delete key stroke.  
+
+ 
+3) Any penalties imposed on the agency for non-performance will be deducted from the 
+
+payments. 
+ 
+
+
+
+   18
+
+4) All work contract tax, service tax and income tax will be deducted at source as per 
+the prevalent rules & regulations at the time of making payments to the Bidder during 
+the billing cycles.  
+
+ 
+5) Payment will be made within a month’s time from the date of receipt of bill, provided 
+
+there is no dispute. 
+ 
+6) It is binding on the agency to which the work will be allotted to complete the total job-
+
+work within the specified time-period as decided by IGR. In case of delay, the agency 
+will be penalized proportionately. The amount of penalty will be adjusted against the 
+amount payable to the agency for the job-work & the net payment will be made to the 
+agency. For example, if the average delays are 10% then the agency will get 10% 
+less amount of the total payable amount.  
+
+ 
+ 
+
+10. Change Orders 
+ 
+
+1) GIL/IGR may at any time, by written order given to the Service Provider, make 
+changes within the general scope of the Contract in any one or more of the 
+following: 
+
+ 
+a) Drawings, designs, or specifications, where Goods to be furnished under 
+
+the Contract are to be specifically manufactured for GIL/IGR; 
+ 
+b) The place of delivery; and/or 
+ 
+c) The Services to be provided by the Service Provider. 
+
+ 
+d) The Quantity of goods to be supplied & or the locations of supply. 
+
+ 
+2) If any such change causes an increase or decrease in the cost of, or the time 
+
+required for, the Service Provider’s performance of any provisions under the 
+Contract, an equitable adjustments shall be made in the Contract Price or 
+delivery schedule, or both, and the Contract shall accordingly be amended.  Any 
+claims by the Service Provider for adjustment under this clause must be asserted 
+within thirty (30) days from the date of the Service Provider’s receipt of GIL/IGR’s 
+change order. 
+
+ 
+11. Delays in the Service Provider’s Performance 
+ 
+
+1) Delivery of the Goods and performance of the Services shall be made by the 
+Service Provider in accordance with the time schedule specified by GIL/IGR. 
+
+ 
+2) If at any time during performance of the Contract, the Service Provider or his sub-
+
+contractor(s) should encounter conditions impeding timely delivery of the Goods 
+and performance of Services, the Service Provider shall promptly notify GIL/IGR 
+in writing of the fact of the delay, its likely duration and its cause(s).  As soon as 
+practicable after receipt of the Service Provider’s notice, GIL/IGR shall evaluate 
+the situation and may, at its discretion, extend the Service Provider’s time for 
+performance with or without a penalty, in which case the extension shall be 
+ratified by the parties by amendment of the Contract. 
+
+ 
+3) The bidders shall read & understand the requirements thoroughly & shall adhere 
+
+to the schedule strictly. The supply, installation & commissioning of Hardware & 
+software at all locations shall be completed within 15 days from the date of 
+signing the Contract Agreement. 
+
+
+
+   19
+
+ 
+12. Penalty Clause 
+ 
+
+1) If the Service Provider is not executing the contract to the satisfaction of GIL/IGR 
+then he may invoke any or all of the following clauses. 
+ 
+
+(a) Forfeit the performance Guarantee Amount. Or 
+(b) Impose a proportionate penalty of the delivered price of the Goods or 
+
+unperformed services. Or 
+(c) Terminate the contract without giving any notice. 
+ 
+
+2) Delays in deliverables: If the service provider is not complete the work in the given 
+time limit than the penalty@ 1% of total order value per week will be levied up to the 
+maximum of 10 weeks.   
+.   
+
+3) SLA for Damage or Permanent loss of Documents: The selected bidder shall be 
+responsible to take care of documents during the process of scanning and data entry. 
+If any documents will be damaged during the process, the selected bidder shall be 
+responsible to rectify it/ repair the same at its own cost. In case of any permanent 
+loss or damage of documents, the penalty will be applicable as mentioned in SLA 
+mentioned below. 
+
+ 
+
+SLA 
+Measures 
+
+No. of 
+Documents 
+
+Action Flat Penalty 
+Rs. 
+
+Damage of 
+documents 
+
+1 Rectify it/ repair the 
+same on immediate 
+basis 
+
+NIL  
+ 
+
+2 to 5 Rectify it/ repair the 
+same on immediate 
+basis 
+
+Rs. 500 per 
+document 
+
+Above 5 Rectify it/ repair the 
+same on immediate 
+basis 
+
+Rs. 1000 per 
+document 
+
+Permanent 
+loss  of 
+
+documents 
+
+1 --- Rs. 10000 per 
+document 
+
+2 to 5 --- Rs. 25000 per 
+document 
+
+Above 5 --- Rs. 50000 per 
+document 
+
+ 
+ 
+
+13. Termination for Default or Otherwise 
+ 
+
+1) GIL/IGR may, without prejudice to any other remedy for breach of contract, by 
+written notice of default sent to the Service Provider, terminate the Contract in 
+whole or part: 
+
+ 
+a) If the Service Provider fails to deliver any or all of the Goods/Services 
+
+within the period(s)/schedule specified in the Contract, 
+b) If the Service Provider fails to perform as per the performance standards. 
+c) If the Service Provider, in the judgment of GIL/IGR has engaged in corrupt 
+
+or fraudulent practices in competing for or in executing the Contract. 
+ 
+
+
+
+   20
+
+2) In Circumstances mentioned in a, b, c above Inspector General of Registration  
+may exercise the following option: - 
+a. Direct the agency to leave the Hardware/Software in IGR Office and terminate 
+
+the Contract. 
+ 
+3) In case of premature termination of Contract for no fault of Service Provider IGR 
+
+may exercise the following options:- 
+ 
+
+a) Direct the agency to take back the Hardware and without any additional 
+compensation. 
+
+b) Direct the agency to leave behind the Hardware & pay him the cost of 
+Hardware less the depreciation as per the Income Tax Act / Rules. The 
+IGR may consult GIL as to the genuine cost of Hardware. IGR may also 
+take suitable decision as to the system/platform software in consultation 
+with GIL. 
+
+ 
+14. Force Majeure 
+ 
+
+1) For purposes of this clause, “Force Majeure” means an event beyond the control 
+of the Service Provider and not involving the Service Provider’s fault or 
+negligence and not foreseeable.  Such events may include, but are not limited to, 
+acts of the Purchase either in its sovereign or contractual capacity, wards or 
+revolutions, fires, floods, epidemics, quarantine restrictions and freight 
+embargoes. 
+
+ 
+2) If a force Majeure situation arises, the Service Provider shall notify GIL/IGR in 
+
+writing within 15 days of such conditions and the cause thereof.  Unless 
+otherwise directed by GIL/IGR in writing, the Service Provider shall continue to 
+perform its obligations under the Contract as far as it reasonably practical, and 
+shall seek all reasonable alternative means for performance not prevented by the 
+Force Majeure. 
+
+ 
+15. Termination for Insolvency 
+ 
+
+GIL/IGR may at any time terminate the Contract by giving written notice to the 
+Service Provider, if the Service Provider becomes bankrupt or otherwise insolvent.  
+In this event, termination will be without compensation to the Service Provider, 
+provided that such termination will not prejudice or affect any right of action or 
+remedy, which has accrued or will accrue thereafter to GIL/IGR. 
+ 
+
+16. Resolution of Disputes 
+ 
+The matter regarding any dispute shall first be sorted out at the level of IGR 
+Gandhinagar, Gujarat in consultation with GIL.  If the dispute persists to remain 
+unresolved then it will be entertained, heard & finalized as per the provisions of the 
+Arbitration and Conciliation Act, 1996.  
+ 
+
+17. Taxes and Duties 
+ 
+
+The rates quoted shall be in Indian Rupees and shall be exclusive of all taxes.   
+ 
+
+18. Binding Clause 
+ 
+All decisions taken by GIL/IGR regarding the processing of this tender and award of 
+contract shall be final and binding on all parties concerned. 
+
+ 
+
+
+
+   21
+
+20 Manpower Support: 
+1) The service provider will be bound to supply Support Manpower with good 
+
+antecedents as specified in the Manpower deployment Plan. 
+ 
+
+2) All salaries and statutory benefits will have to be borne by the service provider & no 
+payments will be made by this office. 
+ 
+
+3) In case of absence of any of his employee, the service provider should provide 
+alternative person the next day. 
+ 
+
+4) The service provider should ensure that the behavior of manpower is decent. The 
+service provider will be held responsible for indecent behavior of manpower, & such 
+employees should be immediately replaced when such matter is reported. 
+ 
+
+5) All statutory obligations of the service provider towards his employees shall be 
+fulfilled by him and IGR shall not be responsible for any such obligations. 
+
+ 
+21. GIL/IGR Gandhinagar, reserves the right:- 
+ 
+
+To vary, modify, revise, amend or change any of the terms and conditions mentioned 
+above; or  
+To reject any or all the tender/s without assigning any reason whatsoever thereof or 
+may terminate the tender process midway without assigning any reason.   
+
+ 
+
+22. The decision regarding acceptance of tender by GIL/IGR will be full and final. 
+23. Conditional tenders shall be summarily rejected. 
+24. IGR is free to phase out the work if it feels it necessary. 
+
+
+
+   22
+
+SECTION IV: SPECIAL CONDITIONS OF CONTRACT 
+ 
+ 
+
+1 Service Provider’s Integrity 
+
+The Service Provider is responsible for and obliged to conduct all contracted 
+activities as defined in the scope of work in accordance with the Contract.  
+
+2 Service Provider’s Obligations 
+
+1) The Service Provider is obliged to work closely with IGR’s staff, act within its own 
+authority and abide by directives issued by IGR. 
+
+2) The Service Provider will abide by the job safety measures prevalent in India and will 
+free IGR from all demands or responsibilities arising from accidents or loss of life the 
+cause of which is the Service Provider’s negligence. The Service Provider will pay all 
+indemnities arising from such incidents and will not hold IGR responsible or 
+obligated. 
+
+3) The Service Provider is responsible for managing the activities of its personnel and 
+will hold itself responsible for any misdemeanor. 
+
+4) The Service Provider will treat as confidential all data and information about IGR, 
+obtained in the execution of his responsibilities, in strict confidence and will not reveal 
+such information to any other party without the prior written approval of IGR.  
+
+3 Hardware Installation 
+
+The Service Provider is responsible for all deliveries, unpacking, assemblies, wiring, 
+installation, cabling between hardware units and connecting to power supplies. The 
+Service Provider will test all hardware operation and accomplish all adjustments 
+necessary for successful and continuous operation of the hardware at all installation 
+sites. 
+
+  
+
+   
+
+  
+
+ 
+ 
+
+
+
+   23
+
+SECTION V: TECHNICAL BID FORMAT 
+
+ 
+Name & Address of the Bidder: 
+Phone:  
+Mobile:  
+Fax:  
+Year of Establishment:  
+Details of Quality Certifications (ISO, SEI-CMM Level) 
+
+ 
+Annual Turnover for the last three years: 
+
+ 
+Bidder to provide details with copies of the audited Balance Sheet and Profit and 
+Loss accounts. The turnover should be of data entry and / or scanning related work. 
+ 
+
+Year Turnover 
+
+2009-2010  
+
+2010-2011  
+
+2011-2012  
+
+ 
+Support network: 
+
+Bidder to provide details of support offices in different cities with name of contact 
+
+person, address, Telephone No., Fax No.  
+
+Center(s) Telephone & Fax No. Location(s) 
+
+Head Office   
+
+Development Centers   
+
+Support Centers   
+
+Repair / Workshop Facility   
+
+ 
+1. EXISTING INFRASTRUCTURE 
+ 
+
+a. SOFTWARE 
+(Details of Licensed Server OS, Desktop OS, CD Read/Write Software, Scanning 
+Software, Compression Software) 
+
+  
+b. HARDWARE 
+
+(Number of Desktop PCs, Servers, Scanners, CD/DVD Writers, Printers, Backup 
+
+Devices etc) 
+
+c. CONNECTIVITY 
+
+(Number of Routers, Switches, Gateway/ Lease line etc.) 
+
+d. MANPOWER DETAILS (with Skill Sets) 
+
+i. No. of Employees in Project Management 
+
+ii. No. of Data Entry Operators 
+
+iii. No. of Scanning Operators 
+
+
+
+   24
+
+iv. No. of Quality Control Operators 
+
+v. No of System Administrators 
+
+vi. No. of Support Staff 
+
+vii. No. of Other Staff  
+
+ 
+
+2. EXPERIENCE IN SAME OR SIMILAR PROJECTS 
+     
+
+a. DETAILS OF ONGOING/COMPLETED DATA ENTRY/ 
+SCANNING/DIGITIZATION/PRINTING PROJECTS WITH STATUS 
+(PRIVATE SECTOR) 
+
+ 
+Name of 
+
+Client (with 
+address 
+contact 
+persons 
+
+and 
+numbers 
+
+Brief 
+Description 
+of projects 
+
+Type of work 
+(Scanning/Pri
+
+nting/Data 
+Entry) 
+
+No of 
+Pages  
+
+Handled 
+(In case of 
+data entry 
+
+no. of 
+characters) 
+
+Order 
+value 
+(Rs) 
+
+Current 
+status of 
+project 
+
+      
+
+ 
+(Please attach relevant client certificates/work order/contracts/PO) 
+ 
+b. DETAILS OF ONGOING/Completed SCANNING/DIGITIZATION/PRINTING 
+
+PROJECTS WITH STATUS (GOVT. SECTOR) 
+ 
+Name of 
+
+Client (with 
+address 
+contact 
+persons 
+
+and 
+numbers 
+
+Brief 
+Description 
+of projects 
+
+Type of work 
+(Scanning/Pri
+
+nting/Data 
+Entry) 
+
+No of Pages 
+Handled 
+
+(In case of 
+data entry 
+
+no. of 
+characters) 
+
+Order 
+value 
+(Rs) 
+
+Current 
+status of 
+project 
+
+      
+
+(Please attach relevant client certificates/work order/contracts/PO’s) 
+ 
+
+ 
+c. DETAILS OF PROJECTS ABOVE 5 LACS ONLY  (DATA ENTRY RELATED 
+
+WORK)       
+ 
+
+Name of Client Brief Description of 
+
+Projects 
+
+Order value (Rs) Current 
+
+Status 
+
+    
+
+(Please attach relevant client certificates/Work Order/PO/Contract Document 
+
+highlighting the Order Value) 
+
+ 
+
+ 
+
+
+
+   25
+
+ 
+
+3. PROPOSED DEPLOYMENT STRUCTURE 
+
+An organization chart indicating the project Team organization as envisaged by 
+
+the bidder for execution of this assignment 
+
+ 
+
+4. DOCUMENT RETRIEVAL SYSTEM 
+
+The Service Provider is required to submit a documentation/feature-list of the 
+
+software with screenshots of the Document Retrieval System to be used in the 
+
+project.  
+
+Bidders are expected to be ready for a software demonstration at a short notice to this effect. 
+IGR will further technically shortlist the bidders on the basis of the proposal documents and 
+presentations and the decision of IGR will be final and will be binding to the bidders.  
+
+Note: Please add separate pages as Annexure’s, if required. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+                       
+
+
+
+   26
+
+Tender for Data Entry of Index-2 register 
+ 
+
+SECTION VI: COMMERCIAL BID FORMAT 
+
+ 
+  
+
+Zone 1: CENTRAL GUJARAT 
+
+ 
+
+Sr. No.  Subject Rate 
+(Rs.) 
+
+1 Charges for data entry of 1000 characters   
+
+ 
+
+Zone 2: SAURASHTRA 
+
+ 
+
+Sr. No.  Subject Rate 
+(Rs.) 
+
+1 Charges for data entry of 1000 characters   
+
+ 
+
+Zone 3: NORTH GUJARAT & KUTCHH 
+
+ 
+
+Sr. No.  Subject Rate 
+(Rs.) 
+
+1 Charges for data entry of 1000 characters   
+
+ 
+
+Zone 4: SOUTH GUJARAT 
+
+ 
+
+Sr. No.  Subject Rate 
+(Rs.) 
+
+1 Charges for data entry of 1000 characters   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+
+
+   27
+
+ 
+
+ 
+
+ANNEXURE-1 
+
+Work Specifications 
+ 
+The following will be the broad specifications of the work to be done. 
+ 
+I. Role of the IGR 
+
+1. The IGR will provide space for the project work at its offices as specified in the scope 
+of works.  
+
+2. The IGR will carry out random checking of the work done and the data-base so as to 
+ensure accuracy before backup devices are burnt. 
+
+3. In order to ensure that the documents are safe and do not go in any unauthorized 
+hands, the IGR will depute its supervisor(s) at the site of scanning/data entry. 
+
+4. At the end of the process, the IGR will receive the documents, Database of the data 
+entered along with retrieval software in each in two sets of DVDs with the label 
+(District Name, Name of Office, Year, Date ___to___) on the DVD and one copy in 
+external hard drive (USB Hard drive) to IGR for centralized backup storage. 
+
+5. Each backup device should contain the database retrieval software as per 
+requirement of IGR.   
+
+ 
+II. Role of the Service Provider (SP) 
+
+1. Arranging necessary computing and printing hardware and standby power supply 
+equipment (like Generators and UPS). 
+
+2. Arranging the necessary furniture and storage devices at the site. 
+
+3. Receive the documents along-with covering lists from IGR Officials. The Service 
+Provider will have to maintain Registers for receiving the documents and subsequent 
+dispatch/handing over to the Authorized Officers of the IGR. 
+
+4. The Service Provider must ensure that the documents handled over are not 
+damaged/mutilated/defaced/altered in any manner.  
+
+5. Data Entry of Index-2 register and putting them in the same batches together as they 
+were received along-with the covering list indicating discrepancies, if any. Un-stapling 
+the documents will not be allowed. 
+
+6. Printing all the documents in the prescribe format and verify the 100 percent 
+accuracy of the data entry done.  
+
+7. The Service Provider will have to ensure that the entire work of data entry is done at 
+the site and that no documents are taken out of the site at any time. 
+
+8. In order to ensure that there are no missing or duplicate records and/or data entry, 
+the Service Provider should develop appropriate software to check against this. 
+
+9. As the said work is very confidential and involves high responsibility, the Service 
+Provider is solely responsible for its security and confidentiality.  
+
+10. For the said work, IGR will provide the space. No rent will be charged for the use of 
+space.  Rates should be quoted taking this factor into account. 
+
+11. The work should commence immediately from the date of receipt of letter of Intent. 
+
+12. The said work shall be completed within 4 months or such period as mentioned in the 
+contract from the date of work order. 
+
+
+
+   28
+
+13. The Service provider should move all his equipment into the premises provided for 
+the job and undertake the work at the said premises. The documents shall not be 
+moved out of these premises. 
+
+ 
+
+Other Conditions: 
+
+ 
+a) Authentication of the said work shall be done by the authorized person in Inspector 
+
+General of Registration.  
+b) The Service provider can have a look at the documents in IGR Office, if he feels it is 
+
+required. 
+c) The staff of the IGR will only hand over documents to the Service provider. All 
+
+processing like making documents dust free, unpinning, pinning etc. will be done by 
+the bidder.  
+
+d) If the bidder fails to execute the contract, the PBG (Performance Bank Guarantee) of 
+the defaulting bidder will be forfeited and contract will be terminated immediately.  
+
+e) The bidder shall use only licensed and authentic Software. 
+f) Any material necessary for the said work will not be supplied by this office. 
+g) Any foreign material required for the said work shall be obtained at the own risk and 
+
+responsibility of the bidder.  No help or extra charges will be made for this. 
+h) The Bidder shall remove all his equipments and vacate the space within 15 days 
+
+from the completion of the said work.  If the Bidder fails to do so, the rent as 
+prescribed by R&B Dept will be charged and will be recovered by deducting from the 
+amount due to the bidder. 
+
+i) Bidder shall be held personally responsible for any type of destruction/ mishandling 
+of the documents, since the documents are originals. 
+
+j) In case of failure of electric power supply, alternative arrangements of generator etc. 
+shall be made by the bidder on his own and at his own cost.  No assistance in this 
+matter will be given by this office. 
+
+k) For the said work if extra electric points are required, the bidder shall, fit such points 
+on his own and shall remove them as soon as the said work is completed. 
+
+l) The compensation against the damages if any to the electrical equipments and other 
+immovable material / equipments in the room allotted are found shall be recovered 
+from the amount due to the bidder. 
+
+m) Since the documents are of important nature, the bidder on awarding of the work will 
+have to give a written undertaking that the documents shall be restored in the original 
+position. 
+
+n) All furniture, infrastructure, Air-conditioner (if the service provider feels it is required) 
+shall be provided by the bidder at his own cost. 
+
+o) Bidder shall submit the details along with photo identity, of all his / her employees 
+who shall be working on this job and shall make sure that all the employees wear a 
+photo identity card all the time in the work premises. 
+
+p) Telex/telegraphic/fax/Xerox offers will not be accepted. 
+
+
+
+   29
+
+ANNEXURE - 2 
+
+BIDDER’S AUTHORISATION CERTIFICATE 
+
+To, 
+Inspector General of Registration, 
+Stamp & Nodhani Bhavan, 
+Sector-13/C, Kh- Road, 
+Gandhinagar. 
+ 
+ 
+<Bidder’s Name>_______________________________________________, <Designation> 
+
+____________________ is hereby authorized to sign relevant documents on behalf of the 
+
+company in dealing with tender of reference <tender Name, Dept & 
+
+Date>______________________. He is also authorized to attend meetings & submit 
+
+technical & commercial information as may be required by you in the course of processing 
+
+above said tender. 
+
+ 
+
+Thanking you, 
+
+ 
+
+ 
+
+Authorized Signatory. 
+
+ 
+
+      _________________________________ 
+
+ <Bidder’s Name> 
+
+                Seal 
+
+ 
+
+  
+
+
+
+   30
+
+ ANNEXURE-3 
+
+WORK EXPERIENCE CERTIFICATE FOR NUMBER OF DOCUMENTS HANDLED. 
+
+Name of the Firm _______________________________________________________ 
+
+ 
+
+Order 
+Number 
+and 
+date 
+
+Order 
+Placed by 
+(full 
+contact 
+address of 
+such 
+agencies) 
+
+No of 
+Pages  
+Handled 
+(In case of 
+data entry 
+no. of 
+characters)
+
+Date of completion of 
+delivery 
+
+Remarks indicating 
+reasons for delay 
+in delivery, if any 
+
+As per 
+contract 
+
+Actual 
+
+      
+
+      
+
+      
+
+ 
+
+ 
+
+Date: ________________Place: _________________ 
+
+ 
+
+ 
+
+Signature of the Bidder  
+
+ 
+
+ 
+
+
+
+   31
+
+ANNEXURE-4 
+Self-Declaration 
+
+The  
+--------------------------------------------- 
+Sir/Madam, 
+Having examined the Bidding Documents including Bid No.: ----------------------------- 
+the receipt of which is hereby duly acknowledged, we, the undersigned, offer to 
+provide services for --------------------------------------------------------------------------------------
+------------------------------. 
+ 
+We undertake, if our bid is accepted, to provide services in accordance with the 
+terms and conditions in the Tender document. 
+If our bid is accepted we will obtain the guarantee of a bank for a sum equivalent to 
+10% of the Contract value, in the form prescribed by the purchaser. 
+ 
+We agree to abide by this bid for a period of 180 days after the date fixed for opening 
+of Price Bid section under the Instruction to Bidders and shall remain binding upon 
+us and may be accepted at any time before the expiry of that period. 
+ 
+Until a formal contract is prepared and executed, this bid, together with your written 
+acceptance thereof and your notification of award shall constitute a binding Contract 
+between us. 
+We understand that in competing for (and if the award is made to us, in executing 
+the above contract), we will strictly observe the laws against fraud and corruption in 
+force in Gujarat namely Prevention of Corruption Act 1988. 
+We understand that you are not bound to accept the lowest or any bid you may 
+receive. 
+ 
+We have not been under a declaration of ineligibility for corrupt and fraudulent 
+practices, and / or black-listed or debarred by any Govt. Department or its PSU in 
+Gujarat Government in the past 5 years, ending on 31st December 2011. We have 
+not imposed any condition in conflict with the tender condition if it is found it should 
+be treated as withdrawn. 
+ 
+We have not been convicted for any criminal cases(s) by any Govt. Department or its 
+PSU in Gujarat regarding any supply and contracts with our firm/company.  
+We have not breached/violated any contractual conditions so far to any Govt. 
+Department or its PSU in Gujarat. 
+ 
+In case any of the above statements made by us are found to be false or incorrect, 
+you have right to reject our bid at any stage including forfeiture of our EMD and / or 
+PBG and / or cancel the award of contract 
+ 
+Dated this _________ day of____________2013 
+ 
+Signature: ______________________________ 
+ 
+(in the Capacity of) :______________________ 
+ 
+Duly authorized to sign bid for and on behalf of 
+
+
+
+   32
+
+ANNEXURE–5 
+
+Certificate of Conformity 
+
+Date: 
+
+To, 
+Inspector General of Registration, 
+Stamp & Nodhani Bhavan, 
+Sector-13/C, Kh- Road, 
+Gandhinagar. 
+
+C E R T I F I C A T E 
+
+ 
+  This is to certify that, the specifications of Hardware which I have mentioned 
+
+in the Technical specifications for Hardware, and which I shall supply if I am awarded with 
+
+the work, are in conformity with the specifications in the tender document.  
+
+  I also certify that the price I have quoted per page is inclusive of all the cost 
+
+factors involved in the execution of the project, to meet the desired standards set out in 
+
+General Condition of Contract. 
+
+ 
+
+      Name: 
+
+      Designation: 
+
+      Seal: 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+   33
+
+ANNEXURE-6 
+ 
+
+Technical & Presentation Evaluation Criteria 
+ 
+Technical Evaluation Criteria:  
+ 
+
+Particulars Criteria Max Marks 
+Year of Establishment Up to 3 Years = 2, >=4 Years = 3 3 
+Quality certifications : ISO 
+9001:2000 / CMM level 
+
+ISO/CMM Level certified = 2 
+otherwise 0 2 
+
+Annual Turnover of Last Three years  
+2009-2010 Up to 250 lacs =3, >=250 lacs =5 5 
+2010-2011 Up to 250 lacs =3, >=250 lacs =5 5 
+2011-2012 Up to 250 lacs =3, >=250 lacs =5 5 
+Support Network in the state of Gujarat  
+Head Office 1 Office = 3 3 
+Development Centre 1 Office = 2, >=2 Offices = 3 3 
+Support Centre 1 Office = 2, >=2 Offices = 3 3 
+Repair/Workshop Facility 1 Office = 2, >=2 Offices = 3 3 
+Existing Infrastructure  
+Software (Details of 
+Lic. Server Os, 
+Desktop OS, 
+Database, Document 
+Management 
+Software(DMS)) 
+
+Server OS >=5 licenses = 1 mark 1 
+Desktop OS >=200 licenses = 1 marks 1 
+Database 
+Software >=5 licenses = 1 mark 1 
+
+DMS >=1 license = 1 mark 1 
+
+Hardware (No. of 
+desktop PCs, Servers, 
+Scanners, printers, 
+Backup Devices etc.) 
+
+No. of 
+Desktops 
+
+>=200 desktops = 1 
+marks 1 
+
+Servers >=5 servers = 1 mark 1 
+Scanners & 
+Printers 
+
+>= 25 Scanners & Printers 
+= 1  1 
+
+Back up 
+devices >= 5 Back up devices =1  1 
+
+Connectivity    
+(Number of routers, 
+switches, Gateway/ 
+Lease line etc.) 
+ 
+
+Number of 
+routers >= 3 = 1 1 
+
+switches >= 3 = 1 1 
+Gateway/ 
+Lease line >= 3 = 1 1 
+
+Manpower Details  
+No. of Employee in Project 
+Management (1, 2) = 1, (3, 4) = 2, >=5 = 3 3 
+
+No. of Data Entry Operators (1, 50) = 1, (51, 100) = 2, >=101 = 3 3 
+No. of Scanning Operators (1, 50) = 1, (51, 100) = 2, >=101 = 3 3 
+No. of Quality Control 
+Operators (1, 50) = 1, (51, 100) = 2, >=101 = 3 3 
+
+
+
+   34
+
+No. of System Administrators (1, 2) = 1, (3, 4) = 2, >=5 = 3 3 
+No. of Support Staff (1, 5) = 1, (5, 10) = 2, >=11 = 3 3 
+No. of Other Staff  (1, 5) = 1, (5, 10) = 2, >=11 = 3 3 
+Details of ongoing similar 
+projects with status (Private 
+sector) (1,2)=5,(3,5)=10,>=6=12 
+
+12 
+
+Details of ongoing similar 
+projects with status 
+(Government Sector) (1,2)=5,(3,5)=10,>=6=12 
+
+12 
+
+Details of data entry/ 
+scanning project with order 
+value Rs. 5 laces (1,2)=5,(3,5)=10,>=6=12 
+
+12 
+
+Total Marks 100 
+ 
+ 
+
+Presentation Evaluation Criteria: 
+ 
+
+Sr. no. Evaluation Criteria Max. Marks 
+
+1 Approach & methodology for Data entry work 10 
+
+2 Expertise in executing similar kind of project (Past experience & performance) 10 
+
+3 Proposed deployment of hardware infrastructure at each location. 10 
+
+4 Proposed deployment of manpower at each location 10 
+
+5 Quality of Scanning and Cleaning of Records 10 
+
+ Total Marks 50 
+ 
+ 
+Note: Minimum 60 % out of Technical + presentation will be required to qualify for next 
+stage i.e. opening of financial bids. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+   35
+
+Annexure 7 
+ 
+
+Financial Evaluation Formula 
+ 
+
+The financial evaluation would be done strictly on following terms and 
+conditions: 
+ 
+
+1. All the bidders may apply for one or more zones, as mentioned in the 
+RFP; however the contract will be awarded for only one zone to the L1 
+bidder. 
+
+2. The decision to award contract to a particular eligible bidder will be in 
+a priority sequence, as defined in the RFP, where the contract for the 
+top priority Zone will be decided first and then rest will follow in 
+sequence. 
+
+3. All the eligible bidders, who have quoted for a Zone will be arranged in 
+increasing order of their financial bids and the contract will be 
+awarded to the L1 Bidder. Incase the L1 Bidder fails to comply/ fulfill the 
+necessary terms and conditions for the award of contract; the same 
+will be awarded to next lowest bidder where the L2 bidder will have to 
+match the rates of L1 bidder and fulfill all the necessary terms and 
+conditions for award of contract. The same process will be followed for 
+all the Zones as specified in the RFP. 
+ 
+
+4.  Incase of a conflict situation, following will be done: 
+ 
+
+a. Incase the same bidder is L1 in more than one Zone, the contract 
+will be awarded to bidder for the Zone with higher priority and for 
+the rest of Zones, he will not be considered except for the fact 
+that the 2nd lowest bidder in that Zone does not agree to match 
+the rates of the first L1 bidder for award of Contract. 
+ 
+
+b. All the bidders who have not been L1 in earlier priority Zones will 
+be listed independently in the subsequent Zones in order of 
+priority in increasing order of financial bids. Unless there is conflict, 
+the same process of awarding the contract to L1 bidder will be 
+followed. Incase of conflict, the process as defined in point 3 and 
+4(a) will be followed. 
+
+ 
+Exception: 
+Exception will be followed only in cases where no bidder is ready to match L1 
+rate and / or there are not enough bidders available for the Zone, the work 
+will be awarded to original L1 bidder, even if he has been awarded the 
+contract for any higher priority Zones earlier during the process. 
+ 
+Note: GIL/IGR reserves the complete right to take final decision to award 
+contract based on the process described above.  
+
+*********** 
+
+
+
+ANNEXURE-8 
+Sample of Index-2 register 
+
+ 
+
+ 
+
+
+
+   37
+
+ANNEXURE-9 
+Sample format of output 
+
+ 
+
+

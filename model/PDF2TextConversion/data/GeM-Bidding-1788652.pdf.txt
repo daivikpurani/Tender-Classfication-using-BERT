@@ -1,0 +1,603 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/712345
+  Dated: 15-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 25-07-2020 23:00:00
+
+Bid Opening Date/Time 25-07-2020 23:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Uttar Pradesh
+
+Department Name Urban Development Department Uttar Pradesh
+
+Organisation Name E-municipalities - Eservices To Citizens And Employees Of Urban
+Local Bodies Of Uttar Pradesh
+
+Office Name Nagar Palika Parishad Jaunpur
+
+Total Quantity 1
+
+Item Category Backhoe Loaders
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Backhoe Loaders ( 1 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Certification Parameters Vehicle Certification ARAI *
+
+Vehicle Certification
+ARAI/VRDE/ICAT No
+
+- *
+
+                               1 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/wLtOZl1-FJaq-4j4o9IU9RTE0KIMdMUzw23qfP99zX0
+
+
+ 
+
+Compliance to IS 20474-4
+for EARTH-MOVING
+MACHINERY—SAFETY
+REQUIREMENTS FOR
+BACKHOE LOADERS
+
+Yes *
+
+On Buyer's Demand,Test
+certificate
+
+Yes *
+
+Generic Parameters Engine Model - *
+
+Engine Maximum HP
+(BHP@ RPM) (range)
+
+71-90 49-55, 56-70, 71-90, 91-96
+
+Engine Maximum HP (BHP@
+RPM)
+
+90 *
+
+Engine Rated RPM 2200 *
+
+No of Cylinders (Nos) 4 *
+
+Engine Bore (mm) 105 *
+
+Engine Stroke (mm) 120 *
+
+Engine Cooling System Water Cooled *
+
+Max Torque (N-m@rpm) 350 200 - 430
+
+Fuel Injection system - *
+
+Torque Backup (%)REM)-III A - *
+
+Vehicle Emission
+Complaince
+
+BS III BS III, BS IV Or higher
+
+Vehicle Mileage ( declared
+by OEM as certified by Test
+Agency under Rule of CMVR
+1989) (Km/Ltr)
+
+6 *
+
+No of Air Cleaner 2 *
+
+No of Fuel Filters 2 *
+
+Type of Gear Box Synchroshuttle type *
+
+No of speeds Forward (Nos) 4 *
+
+Maximum Forward Speed
+(Km/hr)
+
+36.6 *
+
+Maximum Reverse Speed
+(Km/Hr)
+
+7 *
+
+Minimum Forward Speed
+(Km/Hr)
+
+5.3 *
+
+Minimum Reverse Speed
+(Km/Hr)
+
+4.6 *
+
+Power Steering Yes Yes
+
+Steering wheel dia (mm) 372 *
+
+Brake type Disc Type(Oil submerged) *
+
+Specific Fuel Consumption
+(SFC)in g/hp/hv (g/hp/hv)
+
+168 *
+
+Minimum Turning Radius
+(mtrs or mm) with brakes
+
+3700 *
+
+Minimum Turning Radius
+(mtrs or mm) without
+brakes
+
+4450 *
+
+Fuel Tank Capacity (Litres) 134 *
+
+                               2 / 6
+
+
+
+ 
+
+Fuel Tank Oil Pan Capacity
+(Litres)
+
+134 *
+
+Type of Wheel Drive Four Wheel Drive Two wheel Drive, Four
+Wheel Drive
+
+Front Tyre Size with ply
+rating (mm)
+
+- *
+
+Rear tyer Size with ply
+rating (mm)
+
+- *
+
+Minimum Ground
+Clearance (mm)
+
+350 Any applicable numeric
+value
+
+Backhoe Bucket Width 760 *
+
+Backhoe Bucket
+Capacities in Cubic Metre
+with locking/bolted teeth
+
+0.26 Any applicable numeric
+value
+
+Backhoe Bucket Digging
+Depth
+
+4.8 3 - 6
+
+Backhoe Bucket Digging
+Force in Kgf
+
+6018 Any applicable numeric
+value
+
+"Backhoe Bucket Dipper
+Tear out Force in Kgf"
+
+3250 Any applicable numeric
+value
+
+"Backhoe Bucket Loading
+Height in metres"
+
+4.1-4.5 3.3-4.0, 4.1-4.5 Or higher
+
+Backhoe Bucket Loading
+Reach in metres
+
+5.7-8 1.12-5.6, 5.7-8 Or higher
+
+"Backhoe Bucket Reach
+from swing Pivot"
+
+5650 *
+
+Type of Loader Bucket Bottom Dump Bucket Standard Bucket, Bottom
+Dump Bucket
+
+Loader Bucket Minimum
+Capacity
+
+1.2 Any applicable numeric
+value
+
+Loader Bucket Dump
+height in metres
+
+2.81-3.10 2.20-2.50, 2.51-2.80,
+2.81-3.10 Or higher
+
+Loader Arm Break out
+Force in kgf
+
+5777 Any applicable numeric
+value
+
+Loader Bucket Maximum
+reach at full height in
+meter
+
+1.22 0.5 - 1.5
+
+Loader Bucket Pay Load
+in kgs
+
+1980 Any applicable numeric
+value
+
+Loader Bucket Dig depth 0.11 Any applicable numeric
+value
+
+Operating Weight (Kgs) 8400 5000 - 9000
+
+Transmission Oil Capacity
+(Litres)
+
+16.5 *
+
+Hydraulic Oil Capacity
+(Litres)
+
+110 *
+
+Hydraulic Oil change
+period
+
+2000 Any applicable numeric
+value
+
+Di-Ethyl Ether Type Cold
+starting Kit (to start the CI
+engine upto -25°C)
+
+No *
+
+Rock Breaker Yes *
+
+                               3 / 6
+
+
+
+ 
+
+Rock Breaker Operating
+Weight
+
+350 Kg min. *
+
+Rock Breaker Operating
+Pressure (Kgf/cm2)
+
+100 -140 Kgf/cm2 *
+
+Rock Breaker Strike rate
+(350 blows per minute)min
+
+350 blows per minute *
+
+Constructional Parameters Instrument Panel Yes *
+
+Hour Meter Yes *
+
+Fuel Gauge Yes *
+
+Temperature Gauge Yes *
+
+Battery Charge Indicator Yes *
+
+Horn Yes *
+
+Oil Pressure Gauge Yes *
+
+Battery Type Dry *
+
+Battery Rating - *
+
+Electrical Alternator - *
+
+Electrical Starter - *
+
+Front Lights Yes *
+
+Rear Lights Yes *
+
+Parking Lights Yes *
+
+Brake Lights Yes *
+
+Plough Lights Yes *
+
+Indicators Lights Yes *
+
+Overall Length (mm) 6280 *
+
+Overall Width (mm) 2560 Any applicable numeric
+value
+
+Overall Height (mm) 3780 *
+
+Wheel Base (mm) 2140 2000 - 2350
+
+Cabin/canopy All round
+visible cabin With easy
+Walk Through Access
+
+Yes Yes
+
+Cabin Instumental panel
+with audio indicators
+
+Yes *
+
+Cabin Instumental panel
+with visual indicators
+
+Yes *
+
+Rear view large convex
+mirror
+
+Yes *
+
+Front screen wiper Yes *
+
+Front and rear horn Yes *
+
+Seating Plan Co- Adjustable
+driver seat with one helper
+seat
+
+Yes *
+
+Doors Front door with fixed
+toughened glass &amp;
+locking mechanism with
+wiper
+
+Yes *
+
+Glasses Yes *
+
+                               4 / 6
+
+
+
+ 
+
+Paint Standard automobile
+paint to the exterior body as
+per CVMR rules
+
+Yes *
+
+Performance Parameters Noise level at operator s ear
+level (dB)
+
+89 *
+
+Vibration at seat No *
+
+Vibration at seat (if yes)
+(micron)
+
+89 *
+
+Average travel speed
+(Km/hr)
+
+18.5 *
+
+Average fuel consumption
+(litre/hr)
+
+7 *
+
+Average distance travelled
+per litre of fuel(Km)
+
+3 *
+
+Excavator loader to perform
+various functions such as
+digging
+
+Yes *
+
+Dozing, Yes *
+
+Grabbing, Yes *
+
+Grading Yes *
+
+Loading Yes *
+
+Spreading Yes *
+
+Warranty Time (Month) 12 12, 24, 36
+
+Operating hours during
+warranty period
+
+2000 Any applicable numeric
+value
+
+Battery Warranty
+(months)
+
+12 12, 24, 36
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Umesh Prasad 222001,STATION ROAD
+ALFASTEENGANJ JAUNPUR
+
+1  15
+
+Bid Specific Additional Terms and Conditions
+1.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each
+
+Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If
+service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one
+within 30 days of award of contract. Payment shall be released only after submission of documentary evidence
+of having Functional Service Centre.
+
+2.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone
+No. for Service Support.
+
+3.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for
+Service Support.
+
+4.Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods
+and Training of operators and providing Statutory Clearances required (if any)
+
+5.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last three
+years, ending on 31st March of the previous financial year, should be as indicated in the bid document.
+
+                               5 / 6
+
+
+
+ 
+
+Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from
+the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution shall be taken into
+account for this criteria.
+
+6.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product
+during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid
+document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a
+certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant
+period shall be uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than 3
+year old, the average turnover in respect of the completed financial years after the date of constitution shall be
+taken into account for this criteria. In case of bunch bids, the OEM of CATEGORY RELATED TO primary product
+having highest bid value should meet this criterion.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

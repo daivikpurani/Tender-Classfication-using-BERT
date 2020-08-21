@@ -1,0 +1,462 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/709032
+
+  Dated: 14-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 24-07-2020 11:00:00
+
+Bid Opening Date/Time 24-07-2020 11:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Railways
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Southern Railway
+
+Total Quantity 1
+
+Item Category Multimedia Projector (MMP)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Multimedia Projector (MMP) ( 1 pieces )
+
+                               1 / 5
+
+
+
+ 
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Ports and Connectivity Number of HDMI In Port 1 *
+
+Number of HDMI Out
+Port
+
+0 *
+
+Number of DVI Port 0 *
+
+Analog RGB In Port
+(Hours)
+
+Yes *
+
+Analog RGB Out Port No *
+
+HD Base T No *
+
+Audio In No *
+
+Audio Out Yes *
+
+Video In Yes *
+
+Storage Media Port No *
+
+if Yes, Supported File
+Formats
+
+VC-1 Advanced, Simple
+& Main Profiles 2.WMA
+standard, MA
+9Professional
+3.DivX3.11,DivX4,
+DivX5, DivX6,
+DivX4,XVID,H.264/AVC
+4.MPEG-1 Layer
+I,II,MPEG-1,Layer
+III(MP3),Dolby digital,
+DTS, Dolby Digital Plus
+5.MPEG-4 Part-2 6.AAC 
+7.H.264/AVC,MPEG-2,V
+C-1 8.HE-AAC,Dolby
+digital, DTS 9.MPEG
+-1,MPEG-2 10.DVD-
+LPCM,WMA standard,
+MA 9Professional,DivX3
+.11,DivX4, DivX5,
+DivX6, DivX4,XVID,H.26
+4/AVC,MPEG-1 Layer
+I,II,MPEG-1,Layer
+III(MP3),Dolby digital,
+DTS, Dolby Digital
+Plus,MPEG-4 Part-2,AAC
+,H.264/AVC,MPEG-2,VC-
+1,HE-AAC,Dolby digital,
+DTS,MPEG
+-1,MPEG-2,DVD-LPCM
+
+*
+
+Number of USB Type A 0 *
+
+Number of USB Type B 0 *
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/OzHEOKv8gSvXAw8UkHHUymg6BcAy_sTIaaSLG4OIZoY
+
+
+ 
+
+Number of USB Type C 0 *
+
+Wi Fi Connectivity No *
+
+Wireless Screen Share No *
+
+LAN Connectivity No *
+
+Technical
+Specifications
+
+Technology LCD LCD
+
+Projection Method Front and Rear both *
+
+Native Resolution 1024 x 768 (XGA) 1024 x 768 (XGA),
+1280 x 720 (HD), 1280
+x 800 (WXGA), 1280 x
+1024 (SXGA), 1600 x
+1200 (UXGA), 1920 x
+1080 (Full HD), 1920 x
+1200 (WUXGA), 3840 x
+2160 (UHD 4K), 2560 x
+1600 (WQXGA), 4096 x
+2160 (4K), 5120 x 3200
+(4K+) Or higher
+
+Brightness (Lumens) 2800 2700, 2800, 3000,
+3100, 3200, 3300,
+3400, 3500, 3600,
+3700, 3800, 4000,
+4200, 4300, 4500,
+5000, 5200, 5500,
+6000, 6200, 6500,
+7000, 7500, 8000,
+8500, 9000, 9500,
+10000, 12000, 13000,
+14000, 16000, 18000,
+20000, 22000, 25000,
+30000, 40000, 60000,
+5800, 6600, 6700,
+21000 Or higher
+
+Contrast Ratio
+(Minimum) (pixels )( X
+:1 )
+
+4000 *
+
+Optical Zoom Yes Yes Or higher
+
+If Yes, Optical Zoom
+(%)
+
+120 120, 135, 140, 145,
+150, 160, 170, 175,
+200, 210, 130 Or
+higher
+
+Availability of Lens Yes *
+
+Remotely Controlled Ye *
+
+If Yes, Type of
+Projector
+
+Standard Throw (0.91
+to 2.5)
+
+Standard Throw (0.91
+to 2.5)
+
+Aspect Ratio 4:3 *
+
+Keystone Correction Automatic & Manual
+Both
+
+*
+
+Type of Light Source UHP / UHE / UHM UHP / UHE / UHM
+
+                               3 / 5
+
+
+
+ 
+
+Minimum Life of
+Light Source (In
+Normal Mode)
+(Hours)
+
+5000 5000, 6000, 8000,
+10000, 15000, 20000,
+25000, 30000 Or
+higher
+
+Lamp Hour Counter (In-
+Built)
+
+Yes *
+
+Inbuilt Speaker Yes *
+
+If Yes, Wattage of
+Speaker
+
+1 *
+
+3D Projection
+Capability
+
+No *
+
+Interactive Feature No *
+
+Power Consumption in
+Sleep Mode (Watts)
+
+- *
+
+Power Consumption in
+Normal Mode (Watt)
+
+- *
+
+Noise Level in Echo
+Mode (dB)
+
+35 *
+
+Noise Level in Normal
+Mode (dB)
+
+41 *
+
+Power Supply 210V-240V, 50 Hz *
+
+Battery No *
+
+If Yes, Minimum Battery
+Capacity (mAH)
+
+NA *
+
+If Yes, Battery Backup
+Time (Hour)
+
+NA *
+
+Certificaions BIS Registration under
+CRS of Meity
+
+Yes *
+
+BIS Registration
+Number
+
+- *
+
+Generic Dimensions (Length x
+Breadth x Height) (mm
+x mm x mm)
+
+- *
+
+Weight (Kg) 2.7 *
+
+Minimum Operating
+Temperature (Degree
+C)
+
+- *
+
+Maximum Operating
+Temperature (Degree
+C)
+
+- *
+
+Minimum Operating
+Humidity ( % RH)
+
+- *
+
+Maximum Operating
+Humidity ( % RH)
+
+- *
+
+Warranty On Site OEM 6 Months or 500 Hrs. 6 Months or 500 Hrs., 1
+
+                               4 / 5
+
+
+
+ 
+
+Warranty for Light
+Source (Time or Life
+in Hours whichever
+is earlier)
+
+Year or 1000 Hrs., 1
+Year or 1200 Hrs., 1
+Year or 1500 Hrs., 1
+Year or 2000 Hrs., 1
+Year or 5000 Hrs., 3
+Year or 5000 Hrs., 3
+Year or 10000 Hrs., 3
+Year or 12000 Hrs., 3
+Year or 15000 Hrs., 3
+Year or 30000 Hrs., 5
+Year or 10000 Hrs. Or
+higher
+
+On Site OEM
+Warranty
+
+2 2, 3, 5 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 K.Rajarajan 620001,Office of the Senior
+Divisional engineer
+Divisional Railway Managers
+Office Tiruchirapalli,
+TIRUCHIRAPALLI, 620001
+
+1  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+3.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,369 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/703421
+
+  Dated: 08-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 18-07-2020 20:00:00
+
+Bid Opening Date/Time 18-07-2020 20:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 80 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Army
+
+Office Name ***********
+
+Total Quantity 8
+
+Item Category Line Intractive UPS with AVR
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Line Intractive UPS With AVR ( 8 pieces )
+
+Technical Specifications
+
+                               1 / 4
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC Rating in KVA/ min
+VAH capacity of
+battery (KVA/VAH)
+
+1.0/168 1.0/168
+
+Technology MOSFET-PWM MOSFET-PWM
+
+Type of battery SMF-VRLA confirming
+to JISC-8702 Pt 1,2 &3
+
+SMF-VRLA confirming
+to JISC-8702 Pt 1,2 &3
+
+Rated Output (Volt) Single Phase Quasi-Sin-
+wave 230 V AC, 50 Hz
+
+Single Phase Quasi-Sin-
+wave 230 V AC, 50 Hz
+
+Degree of protection IP-21 IP-21
+
+Inverter Efficiency
+(%)
+
+> / = 70% > / = 70%
+
+Warranty for the
+battery from the
+date of delivery
+
+1 year 1 year
+
+Warranty for Line
+Interactive UPS
+
+1 Year 1 Year
+
+Installation and
+commissioning
+instructions
+
+Yes *
+
+CONSTRUCTIONAL Type of enclosure Mild steel *
+
+AC out put for
+printer (not through
+inverter)
+
+Yes Yes
+
+Inverter out put
+socket AC out put for
+printer (not through
+inverter)
+
+Not applicable Not applicable
+
+FUNCTIONAL Total harmonic
+distorsion (%)
+
+< / = 40% *
+
+Input (Volt) Single phase
+sinewave(160-280v)
+
+*
+
+Switching over time
+(Mili sec)
+
+Maximum 10 milli
+seconds
+
+*
+
+Overload Time
+(Minutes)
+
+> / = 10 minutes > / = 10 minutes
+
+Load power factor > / = 0.6 > / = 0.6
+
+Variation in AVR
+output in AC mode
+(%) AVR (Voltage
+regulation) output
+voltage in AC Mode
+
+230 Volts +/-9%, 50
++/-3 Hz
+
+230 Volts +/-9%, 50
++/-3 Hz
+
+Overload (%) >/=10% *
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/teO9OWrJwfIgAJ-UTAcSS-g4GSz4ZHdzQb--pTDp-Rk
+
+
+ 
+
+Variation in output
+voltage in battery
+mode (%) (UPS output
+voltage in battery
+mode)
+
+230 Volts +/- 10% *
+
+Variation on output
+frequency in battery
+mode (Hz)
+
+</=0.5 *
+
+PROTECTION Protection against
+(over discharge)
+discharge per 12v
+battery (Volt)
+
+10.5 *
+
+Protection for outside
+input voltage range: If
+Input voltage goes
+outside the range 160
+to 280 Volts, the
+system shall switch
+over to battery mode
+
+Yes *
+
+Protection against short
+circuit of UPS
+
+Yes *
+
+Protection for over
+voltage and over load
+
+Yes *
+
+REPORTS AND
+CERTIFICATIONS
+
+Damp heat Test at 45
+degree , RH -95% for
+2-cycle as per IS:9000
+pt-5/sec-1
+
+Yes *
+
+Dry heat Test at 45
+degree for 16 Hrs as
+per IS:9000 pt-3/sec-5
+
+Yes *
+
+Cold Test as per
+IS:9000 pt-2/sec-4
+
+Yes *
+
+Availability of the type
+test report from central
+Govt./NABL/ILAC
+Accredited Lab
+
+Yes *
+
+Type Test certificate
+no. and date
+
+- *
+
+Name Of Lab - *
+
+Address of Lab - *
+
+As per Meity
+(Government of India)
+guidelines UPS shall
+have valid BIS CRS
+certifications as
+applicable
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+                               3 / 4
+
+
+
+ 
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********KATHUA 8  30
+
+Bid Specific Additional Terms and Conditions
+
+1.After award of contract – Successful Bidder shall have to get Detailed Design Drawings
+approved from buyer before starting fabrication. Successful Bidder shall submit Detailed
+Design Drawings for Buyer's approval, within 10 days of award of contract. Buyer shall,
+either approve the drawings or will provide complete list of modification required in the
+drawings within 10 days. Seller shall be required to ensure supply as per approved Drawings
+with modifications as communicated by Buyer. If there is delay from buyer side in approval
+of drawing– the delivery period shall be refixed without LD for the period of delay in approval
+of Drawing.
+
+2.Staggered Delivery: The ordered items shall be supplied in a staggered manner. ( 0
+Quantity shall be supplied within 0 days of contract placement and thereafter 0 Quantity per
+Month)
+
+3.Bidder financial standing: The bidder should not be under liquidation, court receivership
+or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect
+with bid.
+
+4.Consortium: In case of Contracts, wherein the seller alone does not have necessary
+expertise, the seller can form consortium with other sellers for submission of the bid, with
+one of the consortium company as leader. However, each and every member of the
+consortium shall be equally responsible for the complete execution of the project contract.
+An undertaking to this effect is to be uploaded with bid.
+
+5.End User Certificate: Wherever Bidders are insisting for End User Certificate from the
+Buyer, same shall be provided in Buyer’s standard format only.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

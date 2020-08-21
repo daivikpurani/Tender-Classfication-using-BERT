@@ -1,0 +1,6223 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Page 1 of 80 
+
+ 
+ 
+ 
+
+NATIONALHIGHWAYSAUTHORITYOFINDIA 
+(PLANNING & INFORMATION SYSTEMSDIVISION) 
+
+G-5&6, SECTOR-10, DWARKA, NEW DELHI-110 075 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Supply, Installation and Commissioning of Networking, Server, Storage, Securityand Wi-Fi 
+systems 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+TENDER DOCUMENT 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+E-Tender No./ RFP No. NHAI/11013/IT/WI-FI/2017 
+
+ 
+ 
+ 
+ 
+
+ 
+
+
+
+Page 2 of 80 
+
+TABLE OF CONTENTS 
+ 
+
+ PARTICULARS PAGE NO. 
+
+PART – I: INFORMATION ABOUT THE TENDER 
+
+SECTION I Notice Inviting Tenders 4 
+
+ Disclaimer 6 
+
+SECTION II Schedule of Important Events 7 
+
+SECTION III Information to Bidders 8 
+
+SECTION IV Terms of Reference (TOR) 22 
+
+SECTION V Preference to domestically manufactured electronic 
+products in Government procurement 
+
+46 
+
+PART – II : FORMS FOR SUBMISSION OF BIDS  
+
+SECTION VI Forms for submission of Technical Bid 49 
+
+SECTION VII Forms for submission of Financial Bid 62 
+
+PART – III : FORMAT OF CONTRACT 
+
+SECTION VIII Format of Contract 69 
+
+ 
+ 
+
+ 
+  
+
+
+
+Page 3 of 80 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+PART-I 
+ 
+ 
+ 
+ 
+
+INFORMATION ABOUT  
+THE TENDER 
+
+
+
+Page 4 of 80 
+
+SECTION – I 
+ 
+
+E-Tender No./ RFP No. NHAI/11013/IT/WI-FI/2017 Dated: 19 JUNE 2017 
+NATIONALHIGHWAYSAUTHORITYOFINDIA 
+
+PLANNING & INFORMATION SYSTEMSDIVISION 
+G-5 & 6, Sector-10, Dwarka, New Delhi-110 075 
+
+ 
+NOTICE INVITING TENDERS 
+
+(THROUGH E-TENDERING MODE ONLY) 
+ 
+1. Online tenders are invited for Supply, Installation and Commissioning of Networking, 
+
+Server, Storage, Security and Wi-Fi systemsat NHAI HQ along with Warranty for 3 years. 
+("Project").  
+ 
+
+2. The scope of work broadly comprises of upgradation of networking, IP telephony, security 
+equipment/ software and solution, servers, operating system,storage solution, cabling and 
+AMC of Existing Components. The Bidder after successful installation of supplied 
+equipment’sat NHAI Offices and needs to provide comprehensive onsite warranty for a 
+period of 3 years.Detailed scope of work, eligibility criteria, bidding procedure, conditions of 
+contract and other information relating to the contract are given in the tender document. 
+ 
+
+3. The estimated cost of the Project for the contract period isRs. 8.5 Cr plus taxes/GST as 
+applicable (tentative) 
+
+ 
+4. Bidder(s) have to pay (a) the Tender Application Fee (non-refundable); and (b) Bid 
+
+Security, in the prescribed manner.    
+ 
+5. ACCESSING/PURCHASING OF BID DOCUMENTS:  
+
+ 
+(i) It is mandatory for all the Applicants to have class-III digital signature 
+
+certificate (with both Signing and encryption certificate) (in the name of 
+person who will sign the Application) from any of the licensed Certifying 
+Agency (“CAs”) [Applicants can see the list of licensed CAs from the link 
+www.cca.gov.in] to participate in e-tendering of NHAI. The Authorized 
+Signatory holding Power of Attorney shall only be the Digital Signatory. In 
+case authorized signatory holding Power of Attorney and Digital Signatory 
+are not the same, the bid shall be considered non-responsive.  
+ 
+
+(ii) To participate in the submission of the bid against the RFP, it is mandatory 
+for the Applicants to get themselves registered with the NHAI’s e-tender 
+portal and to have user ID & password.   
+ 
+
+(iii) Following may be noted- (a) Registration should be valid at least up to the 
+date of submission of Bid. (b) Bids can be submitted only during the validity 
+of registration with the NHAI’s e-tender portal. (c) The 
+amendments/clarifications to the RFP, if any, will be hosted on the NHAI’s 
+website as well as e-tender portal. (d) If the applicant is already registered 
+with e-tendering portal of NHAI and validity of registration has not expired, 
+the applicant is not required to register afresh.  
+ 
+
+(iv) For Help, please contact e-tendering Cell and Help Desk Support. Support 
+staff at E-Tendering Help desk shall be available on all week days 
+(Monday to Friday) from 09:30 AM to 6:00 PM except on Gazetted 
+Holidays.  Details may be seen on the NHAI website.    
+
+ 
+
+
+
+Page 5 of 80 
+
+(v) The authorized signatory holding Power of Attorney shall only be 
+the Digital Signatory, In case authorized signatory holding Power of 
+Attorney and Digital Signatory are not the same, the bid shall be 
+considered non-responsive. 
+ 
+
+(vi) NHAI reserves the right to accept or reject any or all the proposals 
+without assigning any reason whatsoever. 
+
+
+
+Page 6 of 80 
+
+Disclaimer   
+ 
+
+The information contained in this RFP document (the “RFP document”) or subsequently provided to 
+Bidder(s), whether verbally or in documentary or any other form by or on behalf of NHAI or any of 
+its employees or advisors, is provided to Bidder(s) on the terms and conditions set out in this RFP 
+document and such other terms and conditions subject to which such information is provided.   
+This RFP document is not an agreement and is neither an offer nor invitation by NHAI to the 
+prospective Bidders or any other person. The purpose of this RFP document is to provide 
+interested parties with information that may be useful to them in making their technical/ financial 
+offers (“Bid(s)”) pursuant to this RFP document. This RFP document includes statements, which 
+reflect various assumptions and assessments arrived at by NHAI in relation to the Project. Such 
+assumptions, assessments, and statements do not purport to contain all the information that each 
+Bidder may require. This RFP document may not be appropriate for all persons, and it is not 
+possible for NHAI, its employees or advisors to consider the investment objectives, financial 
+situation, and particular needs of each party who reads or uses this RFP document. The 
+assumptions, assessments, statements and information contained in this RFP document, may not 
+be complete, accurate, adequate or correct. Each Bidder should, therefore, conduct its own 
+investigations and analysis and should check the accuracy, adequacy, correctness, reliability, and 
+completeness of the assumptions, assessments, statements, and information contained in this RFP 
+document and obtain independent advice from appropriate sources.   
+Information provided in this RFP document to the Bidder(s) is on a wide range of matters, some of 
+which may depend upon interpretation of law. The information given is not intended to be an 
+exhaustive account of statutory requirements and should not be regarded as a complete or 
+authoritative statement of law. NHAI accepts no responsibility for the accuracy or otherwise for any 
+interpretation or opinion on law expressed herein.   
+NHAI, its employees and advisors make no representation or warranty and shall have no liability to 
+any person, including any applicant or Bidder under any law, statute, rules or regulations or tort, 
+principles of restitution or unjust enrichment or otherwise for any loss, damages, cost or expense 
+which may arise from or be incurred or suffered on account of anything contained in this RFP 
+document or otherwise, including the accuracy, adequacy, correctness, completeness or reliability 
+of the RFP document and any assessment, assumption, statement or information contained therein 
+or deemed to form part of this RFP document or arising in any way for participation in this Bid.   
+NHAI also accepts no liability of any nature whether resulting from negligence or otherwise 
+howsoever caused arising from reliance of any Bidder upon the statements contained in this RFP 
+document. NHAI may in its absolute discretion, but without being under any obligation to do so, 
+update, amend, or supplement the information, assessment or assumptions contained in this RFP 
+document.   
+The issue of this RFP document does not imply that NHAI is bound to select a Bidder or to appoint 
+the Successful Bidder for the Project and NHAI reserves the right to reject all or any of the Bidders 
+or Bids without assigning any reason whatsoever.   
+The Bidder shall bear all their costs associated with or relating to the preparation and submission of 
+their Bid including but not limited to preparation, copying, postage, delivery fees, expenses 
+associated with any demonstrations or presentations which may be required by NHAI or any other 
+costs incurred in connection with or relating to Bid. All such costs and expenses will remain with the 
+Bidder and NHAI shall not be liable in any manner whatsoever for the same or for any other costs 
+or other expenses incurred by a Bidder in preparation or submission of the Bid, regardless of the 
+conduct or outcome of the bidding process.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+Page 7 of 80 
+
+ 
+ 
+
+SECTION – II 
+ 
+
+SCHEDULE OF IMPORTANT EVENTS 
+ 
+
+Sl. 
+No. 
+
+EVENT(S) DATE/ TIME  (Unless otherwise notified 
+separately) 
+
+1.  Publication of Notice Inviting Tenders 19 JUNE 2017 (Monday)  
+
+2.  Raising Queries on the Bid  1800Hrs(6pm),27 JUNE 2017 (Tuesday) 
+
+3.  Pre Bid Meeting 11:30AM on 30 JUNE 2017 (Friday) in NHAI 
+HQ 
+
+4.  Reply to the queries 07 JULY 2017 (Friday) 
+
+5.  Last date for submission of online 
+tenders and physical submission 
+
+Before 11:00Hrs  31 JULY 2017(Monday) 
+
+6.  Online Opening of Technical Tenders  11: 30 hrs, 01 AUGUST2017 (Tuesday) 
+
+7.  Online Opening of Financial Bids  To be intimated to successful pre-qualified 
+Bidders 
+
+8.  Announcement of Successful Bidder 
+and issuance of Letter of Award (LOA) 
+
+Normally within 4 weeks of date of opening of 
+Financial Bids 
+
+9.  Successful Bidder to furnish 
+acceptance along-with Performance 
+Bank Guarantee (PBG)  
+
+Within 15 working days from the issuance of 
+LOA 
+
+10. Signing of Contract Normally within 2-3 weeks from the acceptance 
+of LOA and submission of PBG by the 
+Successful Bidder. 
+
+ 
+   
+
+NOTE : The above-mentioned schedule of event(s) may be changed, at the discretion of 
+NHAI, without assigning any reason. Such change of date(s), if any, will be suitably 
+notified only through NHAI’s e-tendering portal. Interested persons/ prospective 
+Bidders are advised to periodically monitor the information relating to this tender on 
+the NHAI’s e-tendering portaland e-tender portal. 
+
+ 
+  
+
+
+
+Page 8 of 80 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+SECTION – III 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+INFORMATION TO BIDDERS 
+
+ 
+ 
+
+
+
+ 
+
+Page 9 of 80 
+
+1. BACKGROUND AND REQUIREMENT 
+ 
+
+1.1. The National Highways Authority of India (NHAI) was constituted by an Act of Parliament, the 
+National Highways Authority of India Act, 1988. It is responsible for the development, 
+maintenance and management of National Highways entrusted to it and for matters connected or 
+incidental thereto. 
+
+ 
+1.2. The Head Office at Dwarka, New Delhi already has a Local Area Network (LAN) and Wide Area 
+
+Network (WAN) providing Data and IP Telephony connectivity to its users. NHAI also has co-
+located some of its Application Servers at the Internet Data Center (IDC)/ NHAI offices in Delhi/ 
+NCR.  
+
+ 
+1.3. Considering the next stage of services to be offered at Toll plaza and Regional offices which will 
+
+be now connected to the HQ bringing lot of Video, voice and surveillance traffic which needs the 
+overall up gradation of the network 
+ 
+
+1.4. The Headquarters of NHAI is located at Dwarka, New Delhi. NHAI also has Field Offices viz. 
+Project Implementation Units (PIUs) and Toll Plazas which are spread all over the country. 
+Among these Field Offices, PIUs are responsible for implementing a work plan on a particular 
+stretch of roads on National Highways; Corridor Management Units (CMUs) maintain a particular 
+stretch of completed roads and Toll Plazas are responsible for collecting the Toll. This network 
+will also be connected to all these locations for various mission critical services like Video 
+Surveillance at Tolls 
+
+ 
+1.5. The System Integrator would be expected to provide “Supply, Installation and Commissioning of 
+
+Networking, Server, Storage, Security and Wi-Fi systems” at NHAI HQ along with Onsite 
+Warranty for 3 years. Such support would be for a definite period and will not amount to any kind 
+of employment obligation on the part of NHAI. 
+
+ 
+1.6. Bidders are advised to carefully go through the detailed Terms of Reference (TOR) containing 
+
+scope of work, details of existing system, specifications, service window, performance standard 
+etc. as well as conditions of the Contract to get them acquainted with the job requirements and 
+their cost implications before taking part in the bidding process. 
+
+ 
+1.7. The Contract period will be for a period of three(3) years as the bidder has to provide on-site 
+
+warranty support. (“Contract Period”).  
+  
+
+
+
+ 
+
+Page 10 of 80 
+
+2. ELIGIBILITY CRITERIA: 
+ 
+
+The Criteria for selection of the System Integrator shall be as under. All criteria mentioned need 
+to be complied by the Bidder. Any Bidder, not meeting any of the criteria shall be treated as non-
+responsive. 
+
+ 
+2.1 An applicant (referred to as “Bidder”) may be an individual or a firm or a company incorporated 
+
+and registered in India under the Companies Act, 1956 and operating in India for the last five 
+years. Certificate of incorporation / registration must be submitted as documentary proof for the 
+same.  
+
+ 
+ Field of Business:The Company should be in the field of Information Technology / 
+
+Communication Technology for at least last 5 years (prior to the date of bid submission). Copy of 
+relevant and valid Purchase Order(PO)/ Work order(WO)/LOA/ Contract for last 5 years before 
+the date of bid submission should be submitted in the Technical bid.   
+
+ 
+2.2 A Bidder declared ineligible by NHAI or Ministry of Road Transport & Highways, Government of 
+
+India for indulging in corrupt or fraudulent practices or any of its project is unfinished due to its 
+default shall be ineligible to Bid in this tender. 
+
+ 
+2.3 A Bidder determined non-performing by NHAI shall also not be eligible to Bid during the period so 
+
+determined. 
+ 
+2.4 The Bidder must either be an Original Equipment Manufacturer (OEM) for the equipment’squoted 
+
+in this tender and/ or its Authorized System Integrator/Channel Partner for this bid or any other 
+bidder should submit Manufacturers Authorization Form (MAF) for the equipment/services being 
+quoted as part of this tender. The Bidder should have direct back-to-back support agreement with 
+the OEM. The Support agreement should include the activities like Post-Sales support, Technical 
+Assistance support, Spares support, Software Up-gradation support etc.  
+ 
+
+The Bidder, if it is an OEM, should provide a declaration to this effect strictly as per the 
+format given at Form-T2. The Bidder, if it is an authorized System Integrator/channel 
+partner of the OEM, should submit a declaration to this effect strictly as per the format 
+given under Form-T3 and should submit a letter (MAF), in the letterhead of the OEM, duly 
+signed and stamped by the authorized signatory of the OEM. 
+
+ 
+2.5 Financial Strength:The bidder’s average annual financial turnover should be Rs. 4.25 Crores or 
+
+more in the last three financial years i.e. The net worth of the bidder must be positive and 85 lacs 
+or more. 
+ 
+
+Documentary proof in the form of a certificate from the Company Secretary or statutory 
+auditor/ chartered accountant as per the specified format (Form-T4) shall be submitted to 
+substantiate the requisite Financial Strength of the Company. Certificates, which are not 
+in specified format or are issued with date prior to the Notice Inviting Tender, shall not be 
+considered and the Bid accompanying such certificates is likely to be declared as non-
+responsive. 
+
+ 
+2.6 The Bidder shall be involved in provision of similar nature of work i.e. supply and installation of 
+
+networking equipment, servers, storage solution, security solution, and system integration 
+services to its clients in Central/State Government or PSU 
+ 
+
+A self-declaration statement signed by authorized signatory of the Bidder shall be 
+enclosed with other supporting documents in the technical proposal as per proforma 
+[Form-T5 and T6].   
+ 
+Technical Strength:   The bidder must have experience of having successfully executed 
+similar nature of work during last 5 financial years as under -  a) Single work of Rs. 6.8 
+crores or above or b) two works of Rs. 4.25 crores each or above or c) three works of Rs. 
+3.4 crores each or above. Copy of subject certificate from the client shall be mandatorily 
+be enclosed with the proposal. 
+
+
+
+ 
+
+Page 11 of 80 
+
+ 
+ 
+
+2.7 The Bidder must have service center for repair/ maintenance of IT equipment’s or having 
+confirmed tie-up with leading service center(s) for repair of equipment which are to be maintained 
+as per this tender. The service center shall have facility through which service be provided within 
+24 hours of call logging pending which warranty SLA be referred. 
+
+ 
+2.8 The main objects of the Memorandum of Association of the Company (Bidder) should 
+
+substantiate that in the ordinary course of its business, the Company is engaged in providing 
+similar services in the information technology field and/ or Networking Business. 
+ 
+
+2.9 EventhoughtheBiddersmeet thequalifyingcriteria, theyaresubjecttobe disqualifiedif theyhave: 
+ 
+
+(a) mademisleadingorfalserepresentationsintheforms,statementsandattachments 
+submittedinproofoftheeligibilityrequirements; 
+ 
+
+(b) record of poor performance such as abandoning the works, not properly completing the 
+contract, inordinate delay in completion, delay in payment of salary to its staff deployed 
+to client’s site, litigation history, or financialfailuresetc.; 
+ 
+
+(c) submitted a Bid which is not substantially responsive to the requirements stated in the 
+Tender Document. 
+
+ 
+3. CONFLICT OF INTEREST 
+
+ 
+3.1 A Bidder shall not have a conflict of interest that may affect the bidding process (the “Conflict of 
+
+Interest”). Any Bidder found to have a Conflict of Interest shall be disqualified. In the event of 
+disqualification, NHAI shall forfeit and appropriate 5% of the value of Bid Security as mutually agreed 
+genuine pre-estimated loss and damage likely to be suffered and/ or incurred by the NHAI and not by 
+way of penalty for, inter alia, the time, cost and effort of NHAI including consideration of such Bidder’s 
+Bids, without prejudice to any other right or remedy that may be available to NHAI hereunder or 
+otherwise. 
+ 
+
+3.2 NHAI requires that the selected bidder provides professional, objective, and impartial advice and at all 
+times hold NHAI’s interest’s paramount, avoid conflictswith other assignments or its own interests. 
+The selected bidder shall not accept or engage in any assignment that would be in conflict with its 
+prior or current obligations to other clients, or that may place it in a position of not being able to carry 
+out the assignment in the best interests of NHAI. 
+
+ 
+3.3 A Bidder shall be deemed to have a Conflict of Interest affecting the bidding process, if: 
+
+ 
+a) a constituent
+
+1
+ of applicant Bidder is also a constituent of another Bidder; or 
+
+ 
+b) such Bidder or its associate receives or has received any direct or indirect subsidy or grant 
+
+from any other Bidder or its associate; or 
+ 
+
+c) such Bidder has the same legal representative for purposes of this application as any other 
+Bidder; or 
+
+ 
+d) such Bidder has a relationship with another Bidder, directly or through common third parties, 
+
+that puts them in a position to have access to each other’s information about the bids, or if 
+they actually share or access each other’s information regarding the bids or to influence the 
+bid of either or each of the other Bidder; or 
+
+ 
+e) there is a conflict among this and other assignments of the Bidder (including its personnel 
+
+and subordinates) and any subsidiaries or entities controlled by such Bidder or having 
+
+                                                           
+1
+ For the purpose of this clause the word “constituent” shall include Promoter, Director, Shareholder, 
+
+Partner, Agent, representative etc.  
+
+
+
+ 
+
+Page 12 of 80 
+
+common controlling shareholders. The duties of the Bidder will depend on the circumstances 
+of each case. While providing services to NHAI for this particular assignment, the Bidder shall 
+not take up any assignment that by its nature will result in conflict with the present 
+assignment; or 
+ 
+
+f) a firm which has been engaged by the Authority to provide goods and/or works and/or 
+services for a project, and its associates, will be disqualified from providing consulting 
+services for the same project, conversely, a firm hired to provide services for the preparation 
+or implementation of a project, and its associates, will be disqualified from subsequently 
+providing goods or works or services related to the same project; or 
+ 
+
+g) Bidders should be deemed to be in a conflict of interest situation if it can be reasonably 
+concluded that their position in a business or their personal interest could improperly 
+influence their judgment in the exercise of their duties. The process for selection of Bidders 
+should avoid both actual and perceived conflict of interest; or 
+ 
+
+h) the bidder, its associate (or any constituent thereof), and the Consultant, if any, for the 
+Project, have common controlling shareholders or other ownership interest; provided that this 
+disqualification shall not apply in cases where the direct or indirect shareholding or ownership 
+interest of an bidder, its associate (or any shareholder thereof having a shareholding of more 
+than 5% (five per cent) of the paid up and subscribed share capital of such bidder or 
+associate(s), if any, or its contractor(s) is less than 5% (five per cent) of the paid up and 
+subscribed share capital of such bidder; provided further that this disqualification shall not 
+apply to ownership by a bank, insurance company, pension fund or a public financial 
+institution referred to in section 4A of the Companies Act, 1956 
+
+ 
+i) For purposes of this RFP Document, Associate means, in relation to the bidder, a person 
+
+who controls, is controlled by, or is under the common control with such bidder. As used in 
+this definition, the expression “control” means, with respect to a person which is a company 
+or corporation, the ownership, directly or indirectly, of more than 50% (fifty per cent) of the 
+voting shares of such person, and with respect to a person which is not a company or 
+corporation, the power to direct the management and policies of such person by operation of 
+law or by contract. 
+
+ 
+3.4 A bidder eventually appointed to provide services for this Project, and its associates, shall be 
+
+disqualified from subsequently providing services related to the Project and any breach of this 
+obligation shall be construed as Conflict of Interest; provided that the restriction herein shall not apply 
+after a period of 5 (five) years from the completion of this assignment; provided further that this 
+restriction shall not apply to services performed for NHAI in continuation of the services hereto or to 
+any subsequent services performed for NHAI in accordance with the rules of NHAI. For the avoidance 
+of doubt, an entity affiliated with the bidder shall include a partner in the bidder or a person who holds 
+more than 5% (five per cent) of the subscribed and paid up share capital of the bidder, as the case 
+may be, and any Associate thereof. 
+ 
+
+3.5 The normal way to identify conflicts of interest is through self-declaration by the Bidder. Where a 
+conflict exists, which has not been declared, competing companies are likely to bring this to the notice 
+of NHAI. All conflicts must be declared as and when the Bidder becomes aware of them. 
+
+ 
+4. Preparation & Submission of bids: 
+ 
+4.1 Detailed RFP may be downloaded from NHAI’S website and / or e-tender portal of NHAI and bid shall 
+
+be submitted onlinefollowing the instruction appearing on the screen.  
+ 
+
+4.2 The following documents shall be submitted in ORIGINAL to NHAI before the prescribed date & time 
+for submission of Bids. (a) Tender Application Fee in the manner prescribed.  (b) Bid Security in the 
+manner prescribed. (c) Original Power of Attorney* in favour of Authorized Signatory in the Format 
+prescribed in this document.   
+
+
+
+ 
+
+Page 13 of 80 
+
+ 
+*Copy of Board Resolution and/ or Power of Attorney in the prescribed format / any other 
+supporting document indicating that the person signing the bid has the required authority 
+to sign on behalf of the bidder. 
+ 
+
+4.3 The Technical and Financial Bid shall be digitally signed by the Authorized Signatory of the bidder & 
+submitted “on-line” only.  No hard copy of Technical and Financial bids is required to be submitted. 
+ 
+
+4.4 It may be noted that scan copies can be prepared in different file format (PDF, JPEG). 
+
+ 
+4.5 The Bid shall comprise the following: 
+ 
+
+Documents as specified in para 4 (ii) above shall be placed in a sealed envelope. The envelop 
+should bear the following identifications: “Enclosure to Bid forSupply, Installation and 
+Commissioning of Networking, Server, Storage, Security and Wi-Fi systemsat NHAI HQ” and 
+addressed to. 
+ 
+
+ATTN. OF  Sh. Shailesh Yadav   
+DESIGNATION  General Manager (IT) 
+ADDRESS  National Highways Authority of India,  
+  G-5&6, Sector 10, Dwarka,  
+     New Delhi-110 075  
+Phone No.  :  +91-11-25074100-200 (Extn.: 1272) 
+E-MAILADDRESS : shaileshyadav@nhai.org 
+ 
+The envelope should also bear the bidder’s name & address. If the envelope is not sealed 
+and marked as above, NHAI will assume no responsibility for the misplacement or 
+premature opening of the contents of the envelope and consequent losses, if any, suffered 
+by the Bidder. Such Bids may also be declared non-responsive. 
+ 
+Note:  
+i. Documents as specified above, if received by NHAI after the prescribed deadline 
+
+(bid due date) will be returned unopened to the Bidder   
+ii. If any requisite document/ certificate are not in the prescribed format the same 
+
+shall not be considered while evaluating the Bids and the same may lead to Bid 
+being declared as non-responsive. 
+
+iii. The Technical Bid shall not include any commercial quote.    
+iv. The bids should be submitted online only in the prescribed format downloaded 
+
+from the e-tendering portal. No other mode of submission is accepted. 
+ 
+ 
+
+5. TENDER APPLICATION FEE AND BID SECURITY 
+ 
+
+5.1 Bidder should pay Tender Application Fee (non-refundable) INR 5,000/- (Rupees Twenty Five 
+Thousand) only in the form of Demand Draft/ Banker’s Cheque/ Pay order, drawn on a scheduled 
+bank in India and payable to “National Highways Authority of India” at New Delhi. 
+ 
+
+5.2 The Bid Security of INR 16 Lakh (Rupees sixteenlakh only) shall be furnished in the form of 
+Demand Draft/ Banker’s Cheque/ Pay order, drawn on a scheduled bank in India and payable to 
+“National Highways Authority of India” at New Delhi or Bank Guarantee of equivalent amount as 
+per the format prescribed in theForm T7. NHAI shall not be liable to pay any interest on the Bid 
+Security deposit.    
+
+ 
+5.3 Any bid not accompanied by an acceptable Bid Security and / or Tender Application Fee in the 
+
+prescribed manner shall be summarily rejected. 
+ 
+
+5.4 The Bid Security of all unsuccessful bidders shall be returned without interest normally within 30 
+days after finalization of the tender process i.e. signing of the contract agreement with the 
+successful bidder. The bidder should indicate details of their bank account number for crediting the 
+
+
+
+ 
+
+Page 14 of 80 
+
+refund of bid security through ECS (RTGS/NEFT). This information should be provided in the 
+technical bid. 
+
+ 
+6. FORFEITURE OF BID SECURITY (EMD/ EMBG) 
+
+ 
+The Bid Security shall be forfeited and/ or appropriated by NHAI as mutually agreed genuine pre-
+estimated compensation and as damages payable to NHAI for, inter-alia, time, cost and effort of 
+NHAI without prejudice to any other right or remedy that may be available to NHAI under the 
+provisions in the RFP and/or under the Contract, or otherwise, under the following circumstances:   
+ 
+(i) If a bidder submits a non-responsive bid  
+
+Subject: however, that in the event of forfeiture and/ or appropriation of bid security 
+occurring due to operation of this sub para, the damage so claimed by NHAI shall be 
+restricted to 5% of the value of bid security.  
+
+(ii) If a Bidder engages in a corrupt practice, fraudulent practice, coercive practice, 
+undesirable practice or restrictive practice; or  
+
+(iii) If the Bid is withdrawn during the intervening period between the bid due date and the 
+expiration of the Bid Validity; or  
+
+(iv) If the bidder tries to influence the evaluation process; or   
+(v) If a Bidder having been notified Successful Bidder by the NHAI with the issuance of LOA 
+
+during the Validity Period: 
+
+(i) fails or refuses to execute/ sign the Contract within the stipulated time frame; or 
+(ii) fails  or  refuses  to  furnish  the  Performance  Security,  in  accordance  with  
+
+the tender conditions. 
+ 
+
+7. LAST DATE FOR SUBMISSION OF TENDERS 
+ 
+
+7.1 Tenders, complete in all respects, must be online submitted on or before the last date and time 
+specified in the schedule of events.  
+
+ 
+7.2 NHAI may, at its own discretion, extend the last date for submission of tenders. In such a case, all 
+
+the eligibility requirements shall get automatically modified for the extended timeframe. 
+ 
+
+8. COSTOF BIDDING 
+ 
+
+TheBiddershallbearallcostsassociatedwiththepreparationandsubmissionofhisBid 
+andanyincidentalexpendituretoward that,and theNHAIwillinnocaseberesponsible andliablefor 
+thosecosts, regardless of the conduct or outcome of the bidding process. 
+
+ 
+9. SITE VISIT 
+
+ 
+9.1 The Bidder, at the hisown responsibility and risk is encouragedto visit and examineNHAI Officesin 
+
+Delhi/NCR and IDC and obtainall informationthat may be necessaryfor preparing the Bidand 
+enteringinto the Contract. Thecosts ofsuch visitshallbeat theBidder'sownexpense. 
+
+ 
+10. LANGUAGE OF THE BIDS 
+
+ 
+10.1 The Bid and all communications in relation to or concerning the Bidding Documents and the Bid 
+
+shall be in the English language.No supporting document or printed literature shall be submitted 
+with the proposal unless specifically asked for and in case any of the documents is in another 
+language, it must be accompanied by an accurate translation of the relevant passages in English, 
+in which case, for all purposes of interpretations of the proposal, the translation in English shall 
+prevail. 
+
+ 
+11. TECHNICAL PROPOSAL 
+
+ 
+11.1 In preparing the Technical Proposal, Bidders are expected to examine the documents comprising 
+
+his Bid in detail. Material deficiencies in providing the information requested may result in 
+rejection of a Proposal.   
+
+
+
+ 
+
+Page 15 of 80 
+
+ 
+11.2 While preparing the Technical Proposal, Bidders must give particular attention to the following: 
+
+ 
+i. Technical Bid comprising various formats prescribed including Form T1 in Part II.    
+ii. Stipulated documentary evidence attested by the authorized signatory in support 
+
+of their claim for fulfilling the eligibility criteria and an undertaking on the bidder’s 
+letterheads to the fairness of these documents in support of their claim while 
+submitting the Bids 
+
+iii. Undertaking that the bidder has not been determined non-performing or having 
+been terminated any of his project during last three years by Ministry of Road 
+Transport & Highways, Government of India or its executing agencies like NHAI, 
+NHIDCL etc. 
+
+iv. Undertaking that the bidder has not been declared ineligible by Ministry of Road 
+Transport & Highways, Government of India or its executing agencies like NHAI, 
+NHIDCL etc. for indulging in corrupt or fraudulent practices shall be ineligible to 
+apply for empanelment 
+
+v. Self-declaration i.r.o. any conflict of interest prescribed under para 3 of section III; 
+vi. Other documents   
+
+a. Copy of Certificate of Incorporation of Company;  
+b. MoA and/or AoA of the Company / or other document showing object clause 
+
+of the firm; and  
+c. Signed copy of Integrity Pact in the prescribed format;  
+d. Any other document providing additional information in respect of technical / 
+
+financial strength as well as technical experience etc. 
+ 
+
+11.3 The Technical proposal should also contain the following information: 
+ 
+
+(i) A brief description of the firm’s organization and an outline of recent experience on 
+assignments of a similar nature. For each assignment, the outline should indicate, inter-
+alia, duration of the assignment along-with start date & date of completion, contract 
+amount, payments received, and firm’s involvement. 
+
+ 
+(ii) Any additional information the Bidder may like to bring to the notice of NHAI. 
+
+ 
+11.4 The Technical Proposal shall not include any financial information. 
+
+ 
+12. FINANCIAL PROPOSAL 
+ 
+
+i. Financial bid shall be submitted online on e-tender portal on the prescribed format 
+which may be downloaded well before the bid due date from e-tender portal. Kindly 
+note all forms and tables shall be filled and attached including Form F1 
+
+ii. The bid should include all the charges payable in full compliance to the Scope of 
+Work and other terms specified in the RFP document. No additional payments 
+whatsoever are envisaged.  
+
+iii. The bid should include all statutory taxes/ levies / surcharge on tax etc. but 
+excluding service tax/ GST (as applicable). Any tax, and / or any other levies, if 
+altered in future and payable under the law, the same shall be borne by the bidder.   
+
+iv. applicable service tax/ GST (as applicable) shall be reimbursed by NHAI separately 
+on production of proof of payment; and  
+
+v. Applicant should note that Income tax payable by the Bidder is not reimbursable by 
+NHAI. TDS will be applicable on all payments made by NHAI as per applicable law. 
+
+vi. In case of any difference in figures and words, the amount mentioned in words will 
+prevail. 
+
+13. CURRENCIES OF BID AND PAYMENT 
+ 
+
+13.1 The prices shall be quoted by the Bidder entirely in Indian Rupees. All payment shall be made in 
+Indian Rupees. 
+ 
+
+14. BID VALIDITY 
+
+
+
+ 
+
+Page 16 of 80 
+
+ 
+14.1 All the Bids must be valid for a period of 120 days from the last date of submission of the tender 
+
+for execution of Contract (“Validity Period”). However, the quoted rates should be valid for the 
+initial/ extended period of the Contract from the effective date of the Contract. No request will be 
+considered for price revision during the Contract Period. 
+
+ 
+14.2 A Bid valid for a shorter period shall be declared as non-responsive. 
+ 
+14.3 During the Validity Period, the Bidder is expected to keep available capacity/ requirement for the 
+
+assignment.    
+ 
+14.4 The NHAI will make its best effort to complete the tender process within this Period. In 
+
+exceptional circumstances, prior to expiry of the original time limit, the NHAI may request the 
+Bidders to extend the period of validity for a specified additional period beyond the original validity 
+of 120 days.The request and the bidders' responses shall be made in writing or by cable.The 
+Bidders who accept the request to extend the period of validity of their Bids shall extend the 
+validity of their Bid Security by days equal to the period of extension of validity of the Bids.The 
+bidders, not agreeing for such extensions will be allowed to withdraw their bids without forfeiture 
+of their Bid Security. 
+
+ 
+15. MODIFICATION / SUBSTITUTION/ WITHDRAWAL OF BIDS: 
+ 
+(i) The Bidder may modify, substitute or withdraw its e- bid after submission prior to the Bid Due 
+
+Date. No Bid shall be modified, substituted or withdrawn by the Bidder on or after the Bid Due 
+Date.  
+ 
+
+(ii) Any alteration/ modification in the Bid or additional information supplied subsequent to the Bid 
+Due Date, unless the same has been expressly sought for by the Authority, shall be disregarded. 
+ 
+
+(iii) For modification of e-bid, bidder has to detach its old bid from e-tendering portal and upload / 
+resubmit digitally signed modified bid. 
+ 
+
+(iv) For withdrawal of bid, bidder has to click on withdrawal icon at e-tendering portal and can 
+withdraw its e-bid. 
+ 
+
+(v) Before withdrawal of a bid, it may specifically be noted that after withdrawal of a bid for any 
+reason, bidder cannot re-submit e-bid again. 
+
+ 
+16. LATE BIDS 
+
+ 
+16.1 The Bid received by the NHAI after the prescribed deadline will not be accepted by the online bid 
+
+submission portal. 
+ 
+16.2 Late Submission of Document in Physical Form: 
+ 
+ Any document as specified in clause 4 to be received in physical form, if received by the NHAI 
+
+after the deadline prescribed will be returned unopened to the Bidder and also the e-bid 
+submitted by such bidder will not be opened. 
+
+ 
+17. INVALID OFFERS 
+
+ 
+17.1 The offers submitted by telex/ telegram/ fax/ e-mail/ physical submission bid or any manner other 
+
+than specified above shall be deemed to be invalid offer and shall not be considered. NHAI is not 
+bound to reply/ respond to any representation/ letter or request for change in scope of the works, 
+eligibility criteria or any relaxation in respect of the tender conditions. No correspondence will be 
+entertained on this matter.  
+
+ 
+18. PROCESS TO BE CONFIDENTIAL 
+
+ 
+
+
+
+ 
+
+Page 17 of 80 
+
+18.1 Information relating to the examination, clarification, evaluation, and comparison of Bids  and  
+recommendations  for  the  award  of  a  Contract  shall  not  be  disclosed  to Bidders  or  any  
+other  persons  not  officially  concerned  with  such  process  until  the award  to  the  Successful  
+Bidder  has  been  announced.  Any effort by a Bidder to influence the NHAI’s processing of Bids 
+or award decisions may result in the rejection of his Bid. NHAI will treat all information, submitted 
+as part of the Bid, in confidence and will require all those who have access to such material to 
+treat the same in confidence. NHAI may not divulge any such information unless it is directed to 
+do so by any statutory entity that has the power under law to require its disclosure or is to enforce 
+or assert any right or privilege of the statutory entity and/ or NHAI or as may be required by law or 
+in connection with any legal process. 
+
+ 
+19. OPENING, EVALUATION AND FURTHER PROCESS 
+
+ 
+(a) The bids will be opened by a committee of officers nominated by the NHAI on the time and 
+
+date specified. 
+ 
+
+(b) Based on the bids submitted by the Bidders, the Tender Evaluation Committee (TEC) 
+constituted by NHAI, shall carry out an evaluation of the qualifications of the Bidders. If at 
+any time during the evaluation process, the TEC requires any clarification in order to carry 
+out the evaluation, it reserves the right to request information from any Bidder, and the 
+Bidder concerned shall be obliged to respond to any request for such information and to 
+supply the same to the TEC within such reasonable timeframe as TEC may require. 
+
+ 
+(c) NHAI will prepare the short-list of qualified Bidders and inform the qualified Bidders of the 
+
+outcome. 
+ 
+
+(d) This tender confers neither the right nor expectation on any party to participate in the 
+selection process. NHAI reserves the right to reject any or all of the bids, if it considers 
+necessary to do so, or to vary any of its terms at any time without giving any reason or 
+incurring any liability thereto. 
+
+ 
+20. SELECTION PROCESS 
+
+ 
+(a) An online Single Stage, two envelope through e-tendering selection procedure will be 
+
+adopted: 
+ 
+Envelope-1: Pre-qualification-cum-Technical Stage 
+Envelope -2: Financial Stage 
+
+ 
+(b) In the first envelope the Evaluation Committee shall examine the statement of 
+
+qualification, experience, technical capabilities etc. furnished by the Bidder.   
+ 
+(c) Second Envelope: After completing evaluation of Technical bids, NHAI shall notify the 
+
+shortlisted bidders indicating the date and time set for opening of their financial bids. The 
+NHAI shall also notify those bidders whose technical bids were not shortlisted as per 
+conditions of RFP.   The NHAI shall also notify those bidders whose technical bids were 
+not shortlisted as per conditions of RFP.    
+i. The Financial Bids shall be opened online. The Evaluation Committee will 
+
+determine whether the submitted Financial bids are complete (i.e. whether they 
+have included cost of all items of the corresponding proposals; if not, then the 
+cost towards such missing  items  will be considered as NIL, but the bidder shall, 
+however, be required to carry out such obligations without any additional 
+compensation. In case under such circumstances, if NHAI feels that the work  
+cannot be carried  out within  the  overall  cost  as  per the submitted financial 
+bid, such proposals  shall  be considered non  responsive.    
+
+ii. The Evaluation Committee shall also determine if the financial proposal is without 
+computational errors.  
+
+iii. The lowest financial bid among shortlisted bidders would be selected for award of 
+work. However, NHAI would be free to take an appropriate decision and is not 
+bound to accept the lowest bid 
+
+
+
+ 
+
+Page 18 of 80 
+
+iv. NHAI reserves the right to reject any bid which is non-responsive and no request 
+for alteration, modification, substitution, or withdrawal shall be entertained by 
+NHAI in respect of such bids. 
+ 
+ 
+
+21.  Disqualification 
+ 
+NHAI may at its own sole discretion and at any time during the process, disqualify any applicant, 
+if the applicant has: 
+
+(a) Submitted the bid after the response deadline; 
+(b) Made misleading or false representations in the forms, statements and attachments 
+
+submitted in proof of the eligibility requirements; 
+(c) Exhibited a record of poor performance such as abandoning works,not properly 
+
+completing the contract, inordinately delaying completion, being involved in litigation, or 
+financial failures, etc.; 
+
+(d) Submitted a bid which is not accompanied by required documentation and non-
+refundable tender application fee or is non-responsive; 
+
+(e) Failed to provide clarifications, when sought; 
+(f) Found to be involved in anti-national activity, corruption, political or other type of 
+
+canvassing in its favor; 
+(g) Violated any Act of Government of India or infringed any third party copyright. 
+
+ 
+22. Any effort by the Bidder to influence the NHAI in the NHAI’s Bid evaluation, Bid comparison or 
+
+Contract award decisions may result in the rejection of the Bidders’ Bid. 
+ 
+23. NHAI’S RIGHT TO ACCEPT ANY BID AND TO REJECT ANY OR ALL BIDS 
+
+ 
+The NHAI reserves the right to accept or reject any Bid, and to cancel the bidding process and 
+reject all Bids, at any time prior to the award of Contract, without thereby incurring any liability to 
+the affected Bidder or Bidders or any obligation to inform the affected Bidder or Bidders of the 
+grounds for the NHAI’s action. 
+
+ 
+24. CORRESPONDENCE WITH THE APPLICANT 
+ 
+
+Save and except as provided in this Tender Document, NHAI shall not entertain any 
+correspondence with any Bidder in relation to the acceptance or rejection of any Bid. NHAI is not 
+bound to reply/ respond to any representation/ letter or request for change in scope of the works, 
+eligibility criteria or any relaxation in respect of the tender conditions. No correspondence will be 
+entertained on this matter. 
+
+ 
+25. INDEMNITY 
+
+ 
+The Bidder shall, subject to the provisions of the Contract, indemnify NHAI for any direct loss or 
+damage that is caused due to any deficiency in services. 
+
+ 
+26. AWARD OF CONTRACT 
+
+ 
+26.1 Award of Contract will be limited to one Bidder only. Letter of Award (LOA) shall be issued by 
+
+NHAI to the Successful Bidder and the Bidder shall be asked to submit a Performance Security 
+and sign the Contract within the specified timeframe as per the LOA, failing which the offer will be 
+treated as withdrawn and the Bid Security will be forfeited. 
+
+ 
+26.2 NHAI will have a Contract for availing the services during the Contract Period. Depending on the 
+
+project requirements and past performance of the bidder, NHAI may extend the period of 
+Contract for additional period as envisaged in this tender on such terms and conditions as NHAI 
+may in its discretion deem fit.  
+
+ 
+27. NOTIFICATION OF AWARD AND SIGNING OF AGREEMENT 
+
+ 
+
+
+
+ 
+
+Page 19 of 80 
+
+27.1 The Bidder whose Bids are successful (“Successful Bidder”) and acceptable will be notified of the 
+award by the NHAI in writing through email or cable or telex or facsimile confirmed by post/ 
+courier through issue of a LOA. The LOA will state the sum that the NHAI will pay to the 
+Successful Bidder in consideration of the execution and completion of the Works as per TOR by 
+the Successful Bidder as prescribed by the Contract (hereinafter and in the Contract called the 
+“Contract Price”). 
+
+ 
+27.2 Upon receipt of LOA, the Successful Bidder, shall comply with the conditions of LOA and submit 
+
+a Letter of Acceptance along with Performance Security of requisite amount within the specified 
+timeframe. Failing which, the LOA shall stand cancelled and also lead to annulment of the award 
+and forfeiture of the Bid Security NHAI shall be entitled to take any other remedy under the 
+Contract, and the NHAI may resort to awarding the Contract to any other Bidder. 
+
+ 
+27.3 Upon furnishing of the Letter of Acceptance along-with Performance Security by the Successful 
+
+Bidder, he shall be asked to sign the Contract.  
+ 
+27.4 After signing of the Contract with the SuccessfulBidder, the NHAI will promptly notify the other 
+
+Bidders that their Bids have been unsuccessful. 
+ 
+
+28. PROPRIETARY DATA 
+ 
+
+All documents and other information provided by NHAI or submitted by an applicant or Bidder to 
+NHAI shall remain or become the property of NHAI. Bidders are to treat all information as strictly 
+confidential. NHAI will not return any proposal or any information related thereto. All information 
+collected, analyzed, processed or in whatever manner provided by the Bidder to NHAI in relation 
+to the services shall be the property of NHAI. 
+
+ 
+29. PERFORMANCE SECURITY 
+ 
+29.1 Upon issue of a Letter of Award (LoA) by NHAI, the Successful Bidder shall be required to furnish 
+
+an unconditional and irrevocable Performance Security in the form of a Performance Bank 
+Guarantee (PBG) in the prescribed format within a period of 15 days. The PBG shall be for an 
+amount of 10% of its bid value and should be in favour of “National Highways Authority of India”, 
+New Delhi. The Performance Security shall be valid for period of contract, which may be 
+extended appropriately such that it remains valid until one year beyond completion of the 
+contract.   
+
+ 
+29.2     The PBG from following banks shall only be accepted: 
+
+a. State Bank of India or its subsidiaries.  
+b. Any Indian Nationalized Bank.  
+c. IDBI or ICICI Bank.  
+d. A Foreign Bank (issued by a branch outside India) with a counter guarantee from SBI or its 
+
+subsidiaries or any Indian Nationalized Bank.  
+e. Any Scheduled Commercial Bank approved by RBI having a net worth of not less than 500 
+
+Crores as per the latest Annual Report of the Bank. In the case of a Foreign Bank (issued by the 
+branch of India) the net worth in respect of the Indian operations shall only be taken into account.   
+
+29.3  The acceptance of the PBG shall also be subject to the following condition:-  
+a) The capital adequacy of the Bank shall not be less than the norms prescribed by RBI.  
+b) The bank guarantee issued by a Cooperative Bank shall not be accepted.   
+ 
+
+29.4      After acceptance of Performance Security by NHAI, the Bid security of the Successful Bidder 
+shall be returned without interest. 
+
+ 
+30. ADVANCE PAYMENT AND FINANCIAL SECURITY 
+
+ 
+The NHAI will not make any Advance Payment or provide any financial security against the work 
+order/ Contract. 
+
+ 
+31. CORRUPT OR FRAUDULENT PRACTICES 
+
+
+
+ 
+
+Page 20 of 80 
+
+ 
+The NHAI requires Bidder observe the highest standard of ethics during the procurement and 
+execution of the Contract. In pursuance of this policy: 
+ 
+(a) defines, for the purposes of this provision, the terms set forth below as follows: 
+
+ 
+(i) “corrupt practice” means the offering, giving, receiving or soliciting of anything of 
+
+value to influence the action of a public official in the procurement process or in 
+Contract execution;  
+
+ 
+(ii) “fraudulent  practice”  means  a  misrepresentation  of  facts  in  order  to influence 
+
+a procurement  process or the execution of a Contract to the detriment of the NHAI, 
+and includes collusive practice among Bidders (prior  to  or  after  Bid  submission)  
+designed  to  establish  Bid  prices  at artificial  non-competitive   levels  and  to  
+deprive  the  NHAI  of  the benefits of free and open competition;  
+
+ 
+(iii) “coercive practice” means impairing or harming, or threatening to impair or harm, 
+
+directly or indirectly, any person or property to influence any person’s participation 
+or action in the bidding process; 
+
+ 
+(iv) “undesirable practice” means (i) establishing contact with any person connected 
+
+with or employed or engaged by the NHAI with the objective of canvassing, 
+lobbying or in any manner influencing or attempting to influence the bidding 
+process; or (ii) having a Conflict of Interest; and 
+
+ 
+(v) “restrictive practice” means forming a cartel or arriving at any understanding or 
+
+arrangement among Bidders with the objective of restricting or manipulating a full 
+and fair competition in the bidding process. 
+
+ 
+(b) will reject a proposal for award if it determines that the Bidder recommended for award has 
+
+engaged in corrupt or fraudulent practices in competing for the Contract in question; 
+ 
+(c) will declare a firm ineligible, either indefinitely or for a stated period of time, to be awarded a 
+
+NHAI Contract if it at any time determines that the firm has engaged in corrupt or fraudulent 
+practices in competing for, or in executing, a NHAI Contract. 
+
+ 
+32. CLARIFICATION OF BIDDING DOCUMENTS 
+
+ 
+32.1 A prospective Bidder requiring any clarification of the Bidding documents may notify NHAI in 
+
+writing or by cable (hereinafter "cable" includes telex and facsimile) at NHAI’s address indicated 
+in the invitation to Bid.  NHAI will respond to any request for clarification which is received upto 
+two days before the date mentioned for clarifications issuance.  NHAI’s response will be hosted 
+on NHAI e-tendering portal indicating a description of the enquiry but without identifying its 
+source. 
+
+ 
+32.2 To assist in the examination, evaluation, and comparison of Bids, the NHAI may, at its discretion, 
+
+ask any Bidder for clarification of its Bid. The request for clarification and the response shall be in 
+writing or by cable, but no  change  in  the  price  or  substance  of  the  Bid  shall  be  sought,  
+offered,  or permitted except as required to confirm the correction of arithmetic errors discovered 
+by the NHAI in the evaluation of the Bids. 
+
+ 
+32.3 Except in case any clarification is asked by NHAI, no Bidder shall contact the NHAI on any matter 
+
+relating to its Bid from the time of the Bid opening to the time the Contract is awarded.  If any 
+Bidder  wishes  to  bring  additional  information  to  the  notice  of  the NHAI, it should do so in 
+writing at the address: General Manager (IT), National Highways Authority of India, G 5 & 6, 
+Sector – 10, Dwarka, New Delhi – 110075.  
+
+ 
+33. AMENDMENT OF TENDER DOCUMENT 
+ 
+
+
+
+ 
+
+Page 21 of 80 
+
+33.1 At any time prior to the last date for receipt of tenders, NHAI, may, for any reason, whether at its 
+own initiative or in response to a clarification requested by a prospective Bidder, modify the 
+conditions specified in the Tender Document by an amendment. The amendment will be notified 
+on NHAI’s e-tendering portal and should be taken into consideration by the prospective Bidders 
+while preparing their Bids. 
+
+ 
+33.2 Any amendment/ addendum thus  issued  shall  be  part  of  the  tender  document and  shall  be 
+
+communicated  by  hosting  the  same  only on e-tendering portal NHAI’s  web  site. Bidder will 
+provide acceptance and confirmation of such amendment/ addendum also by submitting the 
+digitally signed document as part their proposal. 
+
+ 
+33.3 In order to give prospective Bidders reasonable time to take the amendment into account in 
+
+preparing their tenders, NHAI may, at its discretion, extend the last date for the receipt of tenders.  
+ 
+34. MISCELLANEOUS 
+ 
+34.1    This RFP document also includes a format of the Contract Agreement to be executed with the 
+
+successful bidder for providing stipulated services to NHAI. Bidders are advised to study the RFP 
+document along with its amendment/ addendum carefully. Submission of the bid will be deemed 
+to have been done after careful study and examination of ground realities as well as all the 
+instructions, eligibility norms, terms & conditions, requirements and specifications available in the 
+RFP document with full understanding of its implications. The Bidder is expected to examine 
+carefully all the instructions, conditions of Contract, forms for submitting Technical and Financial 
+Bids and scope of work in the RFP document before submitting their Bids. Failure to comply with 
+all the requirements of RFP document shall be at the Bidder’s own risk. Bids, which are not 
+substantially responsive to the requirements of the RFP document, shall be declared non-
+responsive and shall not be considered for evaluation.   
+ 
+
+34.2     No bidder shall submit more than one bid against this RFP. If more than one bid is received from 
+the same bidder, all such bids shall be summarily rejected. 
+
+ 
+34.3      NHAI will be at liberty to keep the credentials of the bidders submitted by them at bidding stage, 
+
+in public domain and the same may be uploaded by NHAI on its web site. The bidders shall have 
+no objection if NHAI uploads/ hosts the information pertaining to their credentials as well as of 
+their key personnel. 
+
+ 
+34.4      The bidding process shall be governed by, and construed in accordance with, the laws of India 
+
+and courts at New Delhi shall have exclusive jurisdiction over all disputes arising under, pursuant 
+to and/or in connection with the bidding process.      
+
+ 
+34.5    Any dispute arising out of this procurement process shall be referred to Society for Affordable 
+
+Resolution of Disputes (SAROD). The decision of the SAROD in this regard shall be final and 
+binding on the parties.    
+
+ 
+34.6      NHAI, in its sole discretion and without incurring any obligation or liability, reserves the right, at 
+
+any time, to;   
+(i) Suspend and/or cancel the bidding process and/or amend and/or supplement the Bidding 
+Process or modify the dates or other terms and conditions relating thereto;  
+(ii) Consult with any Bidder in order to receive clarification or further information;  
+Retain any information and/ or evidence submitted to NHAI by, on behalf of, and/ or in relation to 
+any Bidder; and/or;  
+(iv) Independently verify, disqualify, reject and/ or accept any and all submissions or other 
+information and/or evidence submitted by or on behalf of any Bidder.   
+NHAI is not bound to reply/ respond to any representation/ letter or request for Change in Scope 
+of work, eligibility criteria or any relaxation in respect of the tender conditions. No correspondence 
+will be entertained on this matter.   
+ 
+
+34.7     It shall be deemed that by submitting the Bid, the Bidder agrees and releases NHAI, its 
+employees, agents and advisers, irrevocably, unconditionally, fully and finally from any and all 
+liability for claims, losses, damages, costs, expenses or liabilities in any way related to or arising 
+
+
+
+ 
+
+Page 22 of 80 
+
+from the exercise of any rights and/or performance of any obligations hereunder, pursuant hereto 
+and/or in connection with the bidding process and waives, to the 
+
+  
+
+
+
+ 
+
+Page 23 of 80 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+SECTION – IV 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+TERMS OF REFERENCE 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+Page 24 of 80 
+
+TERMS OF REFERENCE (TOR) 
+ 
+
+1. National Highway Authority of India (NHAI) is responsible for the implementation and monitoring 
+of National Highways Development Projects (NHDP). Civil Contracts are executed/ implemented 
+by the Project Implementation Units (PIUs) of National Highway Authority of India.  
+ 
+
+2. NHAI NETWORK ARCHITECTURE – Existing Setup 
+Network for NHAI HQ was established in 2006 supporting the local applications and internet 
+services to the users. Further in 2013, voice and Video services were added on the same network 
+along with additional services like mailing, web, Active directory and other financial application 
+hosted in the Data center. Considering the next stage of services to be offered at Toll plaza and 
+Regional offices which will be now connected to the HQ bringing lot of Video, voice and 
+surveillance traffic which needs the overall up gradation of the network from the following 
+perspectives 
+
+a. Network at Core, Distribution and Access Layer 
+b. Servers and Storage solution 
+c. Security at the perimeter like firewall and IPS 
+d. Wi-Fi solution 
+e. Network Device authentication through NAC 
+
+2.1 NHAI is having a Local Area Network (LAN) at Head Office providing Data and IP Telephony 
+connectivity to its users. NHAI also has co-located some of its Application Servers and the Mail 
+Server at the Internet Data Center (IDC) of Tata at Greater Kailash, New Delhi. Some of the Field 
+Office users use stand-alone computers that dial out to the Internet for the data access.  
+
+2.2 Moreover, we are coming up with new building across the road which will be catered through the 
+same data center and Network Core layer 
+ 
+
+2.3 The following diagram depicts the logical setup of the existing network at the NHAI Headquarters 
+(dotted lines with circled numbers represent the respective floors in the building) and connectivity 
+with Wide Area Network. 
+
+ 
+
+ 
+
+ 
+2.4 Wide Area Network Architecture:Multi-Protocol Label Switching (MPLS) technology based 
+
+connectivity from the Bandwidth provider connects NHAI HQ with various RO’s. The field offices, 
+the Internet Data Center of NHAI (IDC), Office of the Ministry of Road Transport and Highways 
+(MoRT&H) and the NHAI head office are connected to the MPLS cloud. 
+
+
+
+ 
+
+Page 25 of 80 
+
+  
+
+
+
+ 
+
+Page 26 of 80 
+
+3. Scope of work of this tender is divided into following schedule: 
+(i) Supply, Installation and Commissioning of Networking, Server, Storage, Security and Wi-
+
+Fi systems  
+(ii) Passive Work including cabling, installation of racks 
+
+ 
+4. The detailed scope of work are as under: 
+ 
+4.1 The Scope of work of the tender shall broadly cover supply and delivery of products/equipment at 
+
+various sites as per bill of materials, installation and commissioning of supplied equipment’s, 
+acceptance testing, documentation, etc. 
+
+ 
+4.2 The Products/equipment supplied under this contract shall conform to the Technical 
+
+Specifications given in this tender. All the equipment shall operate in 240V AC power.  
+ 
+4.3 All the latest Software Updates/Upgrades and/or Patches shall be for the entire period of 
+
+Warranty by the Successful Bidder at no extra cost to the Purchaser. Acceptance Testing of the 
+system, shall be got done by the Successful Bidder through the authority designated by NHAI for 
+all functions of all systems after the implementation of Software Updates, Upgrades and Patches 
+in each system. 
+
+ 
+4.4 Any work/service and any product/equipment, not specifically mentioned in the tender, but 
+
+considered essential for the completion of work in all respects, shall be deemed to be included in 
+the Scope of Work of the Successful Bidder. 
+
+ 
+4.5       The Scope of Work of the tender shall cover AMC of Existing Equipment’s as mentioned in Table  
+ 
+5 General Scope of Work Clauses 
+
+a)  Implementation Methodology – The Bidder shall adopt industry best practices to ensure smooth 
+implementation of the project including but not limited to: - 
+
+i.  Preparation of Project Schedule & Charter - a detailed location wise project schedule 
+conforming to the overall Time frame of the project  
+
+ii.  Understanding the requirements for the project with specific details to kick-off the project 
+as per schedule 
+
+The Bidder shall submit the Project Schedule & charter and the Project Team Structure for 
+approval to NHAI within 1 week from issue of Letter of Award. 
+
+b)  It shall be the responsibility of the Successful Bidder to bring all the installation equipment and 
+tools required for the installation of the LAN/WAN. 
+
+c) The bidder is required to provide on-call support for the contract period at all the locations 
+envisaged under the Scope of Work. 
+
+d) In addition to the regular support centers the bidder should provide one contact person either own 
+employee or through franchisee. The scope of shall include: 
+
+ Upgradation, supply, installation and implementation of upgraded versions of firmware / 
+software (updates /upgrades) 
+
+ Rectification of Bugs/defects if any 
+ Preventive Maintenance quarterly 
+ Maintenance of Hardware/Software 
+
+ 
+5.1 Warranty: The warranty period shall not commence unless the supply, installation, commissioning 
+
+and acceptance is complete. The comprehensive warranty of supplied equipment will be for a 
+period of 3 years. The rates quoted should include the on-call support/service for the entire 
+contract period 
+
+ 
+5.2 Acceptance Test shall be conducted by the bidder at the sole discretion of NHAI in presence of 
+
+NHAI officials. All the additional charges for conducting the Acceptance Test shall be borne by the 
+bidder. 
+
+5.3 AMC: Bidder shall also quote for per year AMC for 4
+th
+ and 5
+
+th
+ year after initial 3years warranty 
+
+period of new supplied items and 3 years AMC services of the existing equipment. NHAI 
+management will decide on the AMC subsequently. Successful bidder will inform six months in 
+
+
+
+ 
+
+Page 27 of 80 
+
+advance before the expiry of warranty period of the supplied hardware and softwareto NHAI. This 
+will not be considered for determining the L1 bidder. 
+
+ 
+5.4 Supply and installation of IP Phone, Servers and Storage devices and their integration with 
+
+the existing IT equipments as per Below table 
+(i) Table. 
+
+S. No Hardware Qty 
+
+1 Cisco CUCM version 9 2 
+
+2 
+Cisco Fabric Interconnect 
+6200 series 2 
+
+3 Cisco Blade Chassis 5108 2 
+ 
+
+(ii) The above Call manager is installed in NHAI HQ on two servers, new IP phones to be integrated 
+with the existing setup and shall be of same OEM. 
+
+(iii) New server and storage solution shall be integrated with the existing management provided by 
+Cisco UCS manager to get single window for all the server.  
+
+(iv) The Bidder shall undertake minimum three-years comprehensive on-site Warranty for all the 
+supplied products/equipment. 
+
+(v) The Purchaser reserves the right to award the additional work or purchase the equipment during 
+any period upto 36 months from the date of contract taking into account the same unit price for 
+individual items as mentioned in the Price Schedule. The right of refusal of not getting the work 
+done lies with NHAI. Exchange rate variation in case more than +/-2% of any imported item can 
+be provided based on the variation in the exchange rate value referred from RBI or SBI 
+
+(vi) Quantity Variation: The quantities mentioned in this contract are indicative. The total contract may 
+vary to +/- 30%. However, the approved rate of each item and other terms and conditions shall 
+remain unchanged during the period of the contract. The bidder is to confirm the acceptance of 
+the same for inclusion in the contract. It will be entirely the discretion of the purchaser to exercise 
+this option or not.  
+
+(vii) It shall be the responsibility of the Successful Bidder to bring all the installation equipment and 
+tools required for the installation of the supplied products/ equipment’s.  
+
+(viii) All the products/equipment supplied should be quoted with all the necessary and required cables 
+and other accessories. 
+
+(ix) The Servers should be rack mountable. All these components shall be quoted with rack mounting 
+accessories also. 
+
+(x) All software quoted should be supplied with the respective media in the form of Compact Disk 
+(CD)/DVD for each quantity.  
+
+(xi) Documentation: The Successful Bidder has to submit all relevant documentation pertaining to the 
+entire solution. This should minimally cover the User Manuals, Operation Manuals, Manufacturer 
+Supplied Technical Documentation, Configuration of all the Devices, all relevant 
+diagrams/documentation required in hard copy as well as soft-copy.  
+
+(xii) The System integration work would involve Installation and commissioning of the IT Infrastructure 
+components such as Servers, Databases, Networking & Security components, Storage Solution, 
+Software and other components required at the NHAI Offices supplied as a part of this RFP.  
+
+(xiii) No Products supplied under the RFP should be ‘end of life’ and shall have serviceable life span of 
+7 years and certificate by the bidder shall be provided to this effect. All the hardware items which 
+are supplied by the SI shall be brand new. SI shall not supply any Refurbished or second hand 
+item.  
+
+(xiv) Supplier shall undertake pre-installation planning including but not limited to Rack planning, 
+structured cabling, SAN cabling, power points, etc. 
+
+(xv) Supplier shall be responsible for the commissioning of the storage, network & security 
+components and related basic infrastructure. 
+
+(xvi) Supplier shall carry out the planning and layout design for the placement of equipment in the 
+identified locations of NHAI.  
+
+(xvii) The plan and design documents thus developed shall be submitted to the NHAI for approval and 
+the acceptance would be obtained prior to commencement of installation.  
+
+(xviii) The System Integrator at their own risk may visit NHAI HQs to see the condition of these 
+equipment’s. 
+
+ 
+
+
+
+ 
+
+Page 28 of 80 
+
+6. SPECIAL INSTRUCTIONS TO BIDDERS 
+ 
+(i) The Bidder has to ensure that all the supplied hardware should be compliant to IPV6. The Bidder 
+
+has also make necessary changes in the IP addressing pool scheme to get the IPV6 
+implemented with the new hardware at NHAI. 
+ 
+
+(ii) The Bidder shall submit the detailed breakup of the material list up to the card/module level of 
+each quoted item of the Tender as separate Annexure without mentioning the prices and submit 
+the same along with the Technical Proposal. The Bidder shall include any other 
+hardware/software item required for installing, commissioning the system & launch of service. In 
+case it is found that any item not provided in the bid is needed for successful implementation of 
+the project, will have to be supplied by the Bidder free of cost. Any prices mentioned in the 
+Technical Proposal will lead to disqualification of the bid. 
+ 
+
+(iii) The Bidder shall also quote as optional items for all such items and their appropriate quantities 
+that are not listed in the tender but are considered necessary for the successful implementation of 
+the project. 
+ 
+
+(iv) The Bidder shall submit the detailed breakup of the unit cost of the material upto the card level / 
+module level along with the cost of each item given in the Price Schedule of the Tender and the 
+Price Schedule for Optional Items mentioning the prices and submit the same along with the 
+Commercial Proposal. The Bidder shall include any other hardware/software item required for 
+installing, commissioning the system & launch of service.   
+
+ 
+(v) The Bidder shall submit detailed specification of all the equipment quoted along with supporting 
+
+technical documentation and literature. Authentic product brochures for all the 
+products/equipment should necessarily support specifications. Equipment shall conform to the 
+Technical Specifications laid down in Section VI and to the relevant Indian/International 
+Standards. The standards to which the equipment conforms shall also be specified in the 
+Technical Proposal. 
+
+ 
+(vi) Carrying out of the required site surveys prior to submission of the proposal is the responsibility of 
+
+the Bidder, if he/she may so desire, at its own cost. 
+ 
+(vii) The Bidder shall include in his scope of supply, the components, materials and accessories 
+
+required to render the equipment & systems offered, complete in all respects even though every 
+individual item may not have been mentioned specifically in the tender and/or the Technical 
+Specifications section of the tender.  
+
+ 
+(viii) All the equipment offered by the Bidder shall also conform to the statutory requirements of 
+
+Government of India, the State Governments and any other regulatory specifications. 
+ 
+(ix) The Purchaser will neither issue a form nor will offer any help to the Successful Bidder to avail 
+
+any concession on Sales Tax or GST or any other Tax. In case of requirement of entry permits 
+(e.g. Form 32 in U.P.), in any state or district, the Bidder has to arrange it itself. 
+
+ 
+7. DELAYS 
+(i) The expected timelines for the completion of the key tasks is given below: 
+
+Activity Expected Timeline for completion 
+
+Supply of the products/equipment at 
+respective sites 
+
+Within 100 days from the signing of Contract 
+Agreement. 
+
+Successful completion of installation and 
+Acceptance at all sites 
+
+Within  8 weeks from the signing of Contract 
+Agreement. 
+
+ 
+(ii) The Successful Bidder shall ensure that the delivery of Products/equipment and/or the delivery of 
+
+the services are in accordance with the time schedules specified in Clause 6 (i).  In case of any 
+deviation from the schedule, the Purchaser reserves the right to either cancel the Contract and/or 
+recover Liquidated Damage charges.   
+
+ 
+
+
+
+ 
+
+Page 29 of 80 
+
+(iii) The Successful Bidder, if faced with problems in timely delivery of services, which are beyond 
+their control at any time during the contract, shall immediately inform the Purchaser in writing, 
+about the causes of the delay and tentative duration of such delay etc. The Purchaser, on receipt 
+of such notice, shall analyze the facts at the earliest and may at its sole discretion, extend the 
+contract period as deemed reasonable. 
+
+ 
+(iv) Any delay by the Successful Bidder in the delivery of Products/equipment and/or the services will 
+
+make the Successful Bidder liable to any or all of the following: 
+i. Forfeiture of Performance Bank Guarantee 
+ii. Imposition of Liquidated Damage charges 
+iii. Termination of the contract for default. 
+
+ 
+8. WARRANTY 
+(i) The Bidder is required to provide on-site comprehensive warranty valid for 36 months for all 
+
+supplied hardware and software. This warranty, for all equipments, shall remain valid for 36 
+months after the final acceptance sign-off of the project. 
+
+ 
+(ii) The Bidder shall warrant that all the equipment supplied under the contract is newly 
+
+manufactured and shall have no defect arising out of design, materials or workmanship or from 
+any act or omission of the Bidder, that may develop under normal use of the supplied 
+equipment’s in the conditions prevailing across the country. 
+
+ 
+(iii) The Bidder shall warrant that the services provided under the contract shall be as per the 
+
+Warranty Service Level Requirements. During the warranty, the Bidder shall perform all the 
+functions as mentioned in tender document at no extra cost to the Purchaser. All the penalty 
+clauses shall be applicable during the period of warranty in case of failure on part of Bidder. The 
+terms and conditions for Warranty are given in the tender document. 
+
+ 
+(iv) The Bidder shall quote for comprehensive on-site warranty for three years, which shall become 
+
+effective after the Final Acceptance Sign-off. The cost, including visits of the engineers, etc, shall 
+be quoted as part of the individual equipment prices. No separate charges shall be paid for visit of 
+engineers or attending to faults and repairs or supply of spare parts. 
+
+ 
+(v) NHAI shall promptly notify the Bidder about any claims arising under this warranty. Upon receipt 
+
+of such notice, the Bidder shall repair/replace/reconfigure/re-provision the defective equipment or 
+service. Replacement under warranty clause shall be made by the contractor free of all charges 
+at site including freight, insurance and other incidental charges with in 72 hours of notifying the 
+bidder 
+
+ 
+(vi) The Bidder shall, at the time of submitting the bid submit the Technical Proposal specifying how 
+
+the Bidder proposes to carry out repair under Warranty. The Bidder shall also indicate what 
+spares will be kept in different locations. The infrastructure planned to be created by the Bidder to 
+fulfill his obligations under Warranty and his action plan to deal with the various situations arising 
+out of hardware and software faults shall be clearly indicated. 
+
+ 
+(vii) If the Bidder, having been notified, fails to remedy the defect(s) within the period specified in the 
+
+SLA, NHAI may proceed to take such remedial action as may be necessary at the Bidder’s risk 
+and expense and without prejudice to any other rights, which NHAI may have against the Bidder 
+under the contract. 
+
+ 
+(viii) The Bidder has to submit the warranty paper for three years for all the products. The payments of 
+
+any or all equipments shall only be processed on the receipt of warranty papers. 
+ 
+(ix) The bidder shall have back to back alignment on services with the respective OEM 
+ 
+9. PERFORMANCE AND SPARES 
+ 
+(i) The Bidder shall specify in the Technical Proposal the complete list of spares that will be 
+
+maintained by the Bidder for meeting the various Warranty Service Level Requirements specified 
+in the tender document. 
+
+
+
+ 
+
+Page 30 of 80 
+
+(ii) The Successful Bidder shall guarantee that discontinuity of production of any item offered, as a 
+part of the system shall not affect the maintainability of the system for a period of 3 years from the 
+date of Final Acceptance. 
+
+ 
+10. WARRANTY TERMS AND CONDITIONS 
+ 
+(i) During the period of Warranty, the SUCCESSFUL BIDDER shall inter alia: 
+
+ Diagnose the hardware and software faults. 
+ Rectify the hardware/software faults detected. 
+ Repair and replace the faulty equipment or part thereof. 
+ Carry out the periodic preventive maintenance. 
+ Upkeep the software periodically. 
+
+ 
+(ii) The SUCCESSFUL BIDDER shall prepare the schedule of preventive maintenance for each 
+
+quarter and shall submit the same to NHAI in advance. The preventive maintenance shall not 
+affect the normal functioning of the system. 
+ 
+
+(iii) The SUCCESSFUL BIDDER shall be solely responsible for the maintenance, repair & 
+Upgradation of the software/hardware systems, equipment’s and parts thereof and NHAI shall not 
+be liable to interact with any of the partners/ collaborators or subcontractors of the SUCCESSFUL 
+BIDDER. 
+ 
+
+(iv) The SUCCESSFUL BIDDER shall have adequate Technical support Centers to meet the criteria 
+for fault restoration/faulty unit repair. The SUCCESSFUL BIDDER shall furnish the names, 
+locations, complete postal address, Telephone numbers and FAX numbers of all Technical 
+support Centers at the time of signing the Contract.  
+ 
+
+(v) The SUCCESSFUL BIDDER shall also provide the name of alternate contact person or Technical 
+Support Center with address & telephone /FAX no., which may be contacted by NHAI or its 
+authorized agency staff for support in case of no response/poor response from the designated 
+Technical support center.  This, however, shall not preclude NHAI from imposing the penalties, if 
+any, as applicable as per the terms & conditions of this tender.  
+ 
+
+(vi) Any change in Address, Phone number, FAX Number etc shall have to be intimated in writing by 
+the SUCCESSFUL BIDDER to the concerned In-charge of the NHAI network at the earliest.  If 
+the network in-charge of the NHAI is unable to report the faults to the normally assigned 
+Technical support Center due to the change of phone number etc. the fault will be reported and 
+the SUCCESSFUL BIDDER shall be responsible for rendering all the maintenance support 
+services to the affected station as per the terms and conditions of this Agreement. 
+ 
+
+(vii) The SUCCESSFUL BIDDER shall ensure that all the Technical support centers are manned by 
+fully competent and responsible Engineers and are capable of attending the faults at the NHAI 
+sites by deputing competitive technical expert. 
+ 
+
+(viii) The SUCCESSFUL BIDDER shall ensure that adequate spares are maintained at the Technical 
+support Centers to meet its obligation under Warranty. 
+ 
+
+(ix) In case of any fault, abnormality in the system, partial or total failure of the system, the officer in-
+charge of the NHAI or its authorized agency will immediately contact the designated Technical 
+support Center of the SUCCESSFUL BIDDER and give information about the nature of fault over 
+phone / FAX / pager / e-mail. 
+ 
+
+(x) In case of any fault, abnormality in the system, partial or total failure of the system, the officer in-
+charge of the NHAI or its authorized agency will immediately contact the designated Technical 
+support Center of the SUCCESSFUL BIDDER and give information about the nature of fault over 
+phone / FAX / pager / e-mail. 
+ 
+
+(xi) The details of the faults reported shall be recorded in an agreed format, called the “FAULT 
+DOCKET”. The time of occurrence of fault, time of reporting the fault to the service center of the 
+
+
+
+ 
+
+Page 31 of 80 
+
+successful bidder, time of restoration of fault as recorded in the fault docket shall only be taken 
+into consideration for calculating the actual duration of faults.  
+ 
+
+(xii) In case of any dispute arising regarding duration of fault etc, the Fault Docket as maintained at 
+the NHAI or NHAI’s outsourced/in-house team shall be the guiding documents to be agreed by 
+both parties. 
+ 
+
+(xiii) The “Fault Docket” shall be filled with utmost care, giving all the details of the faults and other 
+information. 
+ 
+
+(xiv) Once the fault has been rectified and the system & services were restored to normalcy, the 
+visiting engineer of the SUCCESSFUL BIDDER shall record in the fault docket document, the 
+details of the works done by him/her for restoration of the faults and also record the details of 
+steps to be taken and procedures to be followed for not only restoration of similar faults, but also 
+for preventing the occurrence of similar faults in future. 
+ 
+
+(xv) The Warranty support shall survive change of location of the equipment.    
+ 
+11. WARRANTY SERVICE LEVEL REQUIREMENTS - SLA 
+
+ 
+(i) Equipment Outage 
+
+a) Equipment Outage is defined as an event when any failure occurs (even if the service is NOT 
+interrupted) in any supplied equipment like Servers, Routers, Firewall, IP phones etc. 
+(including modules/ power supply system(s)/software module etc.) that are a part of NHAI 
+network. 
+
+ 
+b) The Successful Bidder will be responsible for responding to complaints on Equipment 
+
+Outage.  
+ 
+
+(ii) Scheduled Downtime 
+ 
+
+a) Scheduled downtime is defined as the period of time when NHAI services will remain 
+unavailable for conducting necessary system activities like preventive maintenance, urgent 
+repairs etc. This is the Maximum duration, which the Successful Bidder can take for 
+Scheduled downtime purposes.  
+
+b) The same would be carried out with a minimum advance notice of 24 hours in writing and 
+subsequent acceptance of the same by NHAI.  
+
+ 
+(iii) Mean Time To Resolve (MTTR) 
+ 
+
+a) MTTR is defined as the arithmetic average of the time taken to attend to resolve the issues 
+logged over a defined period of time. 
+ 
+
+b) The Severity Levels for measuring MTTR are provided in the following table: 
+Severity 
+
+Level 
+Definition 
+
+High a) Any incident/ issue that relates to the equipment/servicescomplete 
+failure or complete equipment failure or problems in services 
+delivered to MoRT&H, HO & IDC (due to problems in Servers, 
+Routers, Core switch,  storage and Firewall Services at HQ) where 
+services to bulk or more than 25 users are getting impacted and not 
+restored/rerouted. 
+
+Low (i) Any incident/ issue that relates to the equipment problems (due to 
+problems in Servers, Routers, Firewall&storage Services at HQ 
+equipment), services to end user are impacted but immediately 
+restored through rerouting or other mechanism 
+
+(ii) Any other problems attributable to the Bidder in NHAI Offices 
+including MoRT&H, HO and IDC. 
+
+ 
+
+
+
+ 
+
+Page 32 of 80 
+
+ 
+ 
+
+c) The various Service Level Requirements (SLAs) and related penalties for default are given 
+below: 
+
+Parame
+ter 
+
+Details 
+Measurement 
+
+criteria 
+Penalties per hour of delay / per fault / 
+
+per occasion 
+Mean 
+time to 
+resolve 
+(MTTR) 
+
+(i) Within 6 Hours 
+from the call 
+logging time - for 
+all High Severity 
+events 
+(ii) Within 24 
+hours from the 
+time of attending 
+the problem for 
+all Low severity 
+events 
+ 
+
+Calculation of 
+fault duration 
+per instance 
+based on Fault 
+Docket  
+
+(i) For High Severity events, Rs. 
+4000/- 
+(ii) For Low Severity events, Rs. 
+2000/- 
+Delay will be counted in steps of one 
+hour. 
+The penalty will be applicable on per 
+fault basis even if there is a 
+commonality of fault at any point in 
+the system causing full or part failure 
+of service at more than one location in 
+the network. 
+Penalty will be deducted from the 
+Performance Guarantee. 
+
+ 
+d) After the expiry of Warranty contract period, it shall be optional for NHAI not to enter the 
+
+Warranty contract further with the contractor.  
+ 
+
+e) The Successful Bidder has to maintain adequate spares for maintaining the Service Level 
+parameters as mentioned in the tender. Any cost involved to meet the SLAs specified below 
+is to be borne by the Bidder. 
+ 
+
+f) The Successful Bidder needs to maintain the Service Levels as follows: 
+ 99.5% of the times for the MTTR of High Severity Events where whole network is 
+
+effected like both Core switches going down 
+ 95% of the times for the MTTR of Low Severity Events where part of network is effected 
+ 
+
+g) In case the Service Level Requirements are violated continuously for a period of three 
+months, the Purchaser reserves the right to terminate the Contract by giving a written notice 
+of 30 days to the Successful Bidder. 
+
+ 
+12. Documentation: The Successful Bidder has to submit all relevant documentation pertaining to the 
+
+entire solution. This should minimally cover the User Manuals, Operation Manuals, Manufacturer 
+Supplied Technical Documentation, Configuration of all the Devices, all relevant 
+diagrams/documentation required in hard copy as well as soft-copy.  
+
+ 
+13. Handover: After Acceptance of the respective sites (locations) are completed successfully, and 
+
+the required on-site training at each site is successfully completed, the Bidder must properly 
+handover each site’s installed components to the NHAI or the authorized agency of NHAI with all 
+required documentation. Handover will include submission of the escalation matrix, handover of 
+documentation. The Purchaser and/or its authorized agency/agencies will certify that the site has 
+been handed over successfully with all requisite information for the sustenance of the system 
+being made available and the required training(s) done.  
+
+ 
+ 
+
+
+
+ 
+
+Page 33 of 80 
+
+Appendix-A to Section III 
+ 
+
+Part A – Active Equipment 
+
+1. WAN Router  
+ 
+
+S. No. Technical Requirements Compliance (Yes/No) 
+1 General Hardware and Interface requirements  
+1.1 Router should be chassis based and modular architecture with 
+
+multicore processor for scalability and hot swappable 1:1 redundant 
+internal power supply 
+
+ 
+
+1.2 Router should have 4 nos. of 10/100/1000 Base-T Ports and at least 1 
+SFP MM based ports. Additional 3 10G port shall be provided with 
+Multimode SFP+ or XFP 
+
+ 
+
+1.3 Router should have minimum 8 GB RAM and 8 GB Flash from day 1.  
+1.4 Router should have DES, 3DES and AES Standards through dedicated 
+
+encryption module/processor. Should support IPSec with IKEv2 and 
+Suite-B Encryption. 
+
+ 
+
+2 Performance Requirements: Router should have a minimum 10 Gbps 
+of bandwidth and scalable to 20 Gbps. 
+
+ 
+
+3 Routing Protocols  
+3.1 Router should support static Routes, OSPFv2, OSPFv3, BGP4, MBGP, 
+
+BFD, Policy based routing, IPv4 and IPv6 tunneling, IGMP v1/v2/v3 and 
+PIM multicast routing. 
+
+ 
+
+3.2 Should support other IP Services like GRE tunnel, IPv4 tunnel, IPv6 
+tunnel, Virtual Router Redundancy Protocol (VRRP), Network Address 
+Translation (NAT), Access Control Lists (ACLs). 
+
+ 
+
+4 Quality of Service (QoS): Shall have 802.1p class of service, IP 
+differentiated service code point (DSCP) and IP precedence. 
+
+ 
+
+5. System Management and Administration  
+5.1 Router should support SSHv2, SNMPv2c, SNMPv3, RADIUS and 
+
+TACACS+, NTPv4, configuration rollback, software upgrades via TFTP 
+or FTP 
+
+ 
+
+5.2 Support for accounting of traffic flows for network planning and security 
+purposes. Router shall provide application recognition through analysis 
+of flows. 
+
+ 
+
+5.3 Should support extensive support for best path selection based on 
+metrics like delay, latency, jitter, packet loss to assure business-critical 
+IP applications. 
+
+ 
+
+5.4 Router should support monitoring of network traffic with application 
+level insight with deep packet visibility into web traffic, RTP-Based VoIP 
+traffic and cRTP 
+
+ 
+
+5.5 Router shall have traffic load balancing capability on dual WAN Links 
+based on based on advanced criteria, such as reach ability, delay, loss, 
+jitter and bandwidth utilization. 
+
+ 
+
+6 Regulatory Compliance  
+6.1 Router shall conform to UL 60950 or IEC 60950 or CSA 60950 or EN 
+
+60950 Standards for Safety requirements of Information Technology 
+Equipment. EN 55022 Class A/B or CISPR22 Class A/B or CE Class 
+A/B 
+
+ 
+
+6.2 Router / Router’s Operating System should be tested and certified for 
+EAL 2 or NDPP or above under Common Criteria Certification  
+
+ 
+
+6.3 Router should be IPv6 Certified/IPv6 logo ready  
+ 
+ 
+
+
+
+ 
+
+Page 34 of 80 
+
+ 
+
+2. Core Switches 
+ 
+S. 
+No. 
+
+Technical Requirements 
+Compliance 
+(Yes/No) 
+
+1 General Hardware and Interface requirements  
+1.1 Switch shall have minimum 48 nos. SFP+ ports loaded with 20 nos. of 1 Gig MMF 
+
+Modules, 10 nos. of 1000 Base-T Modules and 10 nos. of 10 Gig MMF Modules. 
+Switch shall have 4 nos. of 40 Gig QSFP ports and loaded with 2 SM Modules. 
+Shall have 8GB of RAM and 32 GB of storage or higher 
+
+ 
+
+1.2 Modular Chassis solution with all critical components like supervisor modules, 
+fabric modules and controller modules should be redundant. Failure of one 
+component must not degrade performance of switch. Shall have minimum 2 blank 
+slot for scalability in addition to asked ports. 
+
+ 
+
+1.3 Switch shall have hot swappable 1:1 redundant internal power supply and hot 
+swappable fan modules. 
+
+ 
+
+1.4 Switch shall have minimum 1.28 Tbps (2.56 Tbps in full duplex) switching 
+bandwidth per slot. Shall support 40G and 100G for future requirements and 
+minimum 1.28 Tbps of switching fabric scalable to 3.84 Tbps. 
+
+ 
+
+1.5 Switch should be scalable to additional 96 no. of 10 Gig or 48 nos. of 40 Gig Ports   
+2 Performance Requirements  
+2.2 Shall have minimum 64K MAC Addresses and 4K Active VLANs.  
+
+2.3 Shall have minimum 16K IPv4 and IPv6 unicast routes, 4K IPv4 and IPv6 multicast 
+groups, minimum 4K IPv4 and IPv6 QoS and Security ACLs. 
+
+ 
+
+2.4 Shall have Virtual Extensible LAN (VXLAN) bridging and routing feature with BGP 
+based EVPN and shall have minimum nos. of 8K tunnel endpoint and VXLAN. 
+
+ 
+
+2.8 Shall have static routing, OSPFv2, OSPFv3 and BGPv4. Policy based routing, 
+virtual routing and forwarding feature. 
+
+ 
+
+2.9 Shall have Protocol-independent multicast (PIM) for IP multicast routing is 
+supported, including PIM sparse mode (PIM-SM)/PIM dense mode (PIM-DM)/PIM 
+sparse-dense mode and source-specific multicast (SSM). 
+
+ 
+
+3 IEEE Standards: Should support IEEE Standards of Ethernet: IEEE 802.1D, 
+802.1s, 802.1w, 802.1x, 802.3ad, 802.3x, 802.1p, 802.1Q, 802.3, 802.3u, 
+802.3ab, 802.3z. 
+
+ 
+
+4 Quality of Service (QoS) requirements: Switch shall have 802.1p class of service, 
+IP differentiated service code point (DSCP) and cross stack QoS, have minimum 8 
+egress queues per port and strict priority queuing 
+
+ 
+
+5. System Management and Administration  
+5.1 Switch should support SSHv2, SNMPv2c, SNMPv3, RADIUS, TACACS+, Switch 
+
+Port Analyzer (SPAN), Remote Switch Port Analyzer (RSPAN and NTPv4. 
+ 
+
+5.3 Switch should support IPv4 and IPv6 ACLs, VLAN, Port and Time based access 
+list with time ranges. Per port broadcast, multicast and unicast storm control. 
+IGMP Snooping for IPv4 and IPv6, MLD v1 and v2 Snooping. 
+
+ 
+
+5.4 Switch should be Software Defined Networking Ready with Openflow protocol 
+support.  
+
+ 
+
+6 Regulatory Compliance  
+6.1 Switch shall conform to UL 60950 or IEC 60950 or CSA 60950 or EN 60950 
+
+Standards for Safety requirements of Information Technology Equipment. 
+ 
+
+6.2 Switch shall conform to EN 55022 Class A/B or CISPR22 Class A/B or CE Class 
+A/B or FCC Class A/B Standards for EMC (Electro Magnetic Compatibility) 
+requirements. 
+
+ 
+
+7 Evaluation Compliance  
+7.1 Switch / Switch’s Operating System should be tested and certified or in process of 
+
+certification for EAL 2/NDPP or above under Common Criteria Certification. 
+ 
+
+
+
+ 
+
+Page 35 of 80 
+
+7.2 Switch should be IPv6 Certified/IPv6 logo ready.  
+7.43 Core Switch Migration shall be done as per required configurations.  
+
+3.  IP Phone 
+ 
+
+S. 
+No. 
+
+Technical Requirements 
+Compliance 
+
+(Yes/No) 
+
+  Type-1    
+
+ 1 
+The IP Phone shall have minimum 3.5", backlit display. LED/LCD Indicator for 
+Call Waiting and Message Waiting. SIP/H.323 protocol support   
+
+ 2 
+
+Able to create Local Phone book with at least  25  contacts  as  well  as  pull  
+information  from  the directory   
+
+ 3 
+
+IP phones shall support industry standard audio codec viz. G.711 (A-law and Mu-
+law), G.729a, G.722 audio codec. SRTP and TLS support for secure calling   
+
+4 
+The display shall provide features such as Date and Time, Calling Party Number 
+and Digits Dialed.   
+
+ 5 
+
+There shall be provision to provide electrical power to the IP  phones  either  
+through  power  adapter  or  via  PoE (IEEE 802.3af) enabled Ethernet port.   
+
+6 
+
+It shall be possible to view call history for at least last 10 missed calls, 10 dialed 
+calls and 10 received calls for each call taker desk.   
+
+7 It shall be possible to set preferences such as Display Contrast   
+
+8 Desk or wall mountable with optional wall mount adapter.   
+
+9 
+ Should be integrated with existing call manager and shall be from same OEM as 
+the call manager   
+
+  Type-2    
+
+1 
+
+The IP Phone shall have minimum 5" high resolution graphical display with 
+integrated camera for video calling   
+
+ 2 
+
+The  IP  phones  shall  support  industry  standard  audio codec viz. G.711 (A-law 
+and Mu-law), G.729a, G.722 audio codec.   
+
+ 3 
+The display shall provide features such as Date and Time, Calling Party Number 
+and Digits Dialed.   
+
+ 4 
+IP phones shall be able to work on SIP/H.323 protocols and H.264. SRTP and 
+TLS support for secure calling   
+
+ 5 
+
+There shall be provision to provide electrical power to the IP  phones  either  
+through  power  adapter  or  via  PoE (IEEE 802.3af) enabled Ethernet port.   
+
+6 
+
+It shall be possible to view call history for at least last 10 missed calls, 10 dialed 
+calls and 10 received calls for each call taker desk.   
+
+ 7 
+The phone offers a built-in Gigabit Ethernet switch for both network connection 
+and your PC connection   
+
+ 8 It shall be possible to set preferences such as Display Contrast    
+
+ 9 
+Should be integrated with existing call manager and shall be from same OEM as 
+the call manager   
+
+ 
+
+4. Rack Server 
+ 
+S. No. Technical Requirements Compliance 
+
+(Yes/No) 
+1 Processor: 2 CPU X Intel Xeon E5-2600-v4 2.2 GHz 8Core CPU or better   
+
+ 2 RAM: Shall have 24 DIMM slots and 64GB RAM shall be provided on day1   
+
+
+
+ 
+
+Page 36 of 80 
+
+ 3 HDD:  1.2 TB 12G SAS with usable space after RAID-5, 1.8TB. Shall have 
+additional two internal 32Gb or higher mirrored SD/USB Card based storage to 
+host OS or hypervisor 
+
+  
+
+ 4 RAID:  0,1,5   
+
+ 5 NIC: 2X1G   
+
+ 6 Power Supply: Redundant   
+
+ 7 Management: Dedicated interface, Remote Console, VGA, USB-Port. 
+Management should be integrated with existing management window of 
+existing Blade servers in the DC 
+
+  
+
+ 8 Microsoft OS 2012 or higher standard   
+
+9 Shall have 6 PCI Generation 3 slots with minimum 4 full length and full height  
+
+ 
+
+5. Storage 
+ 
+S. No Technical Requirement Compliance 
+
+(Yes / No) 
+
+1 The solution must provide hyper converged software that allows delivery of 
+enterprise-class storage services using latest x86 server infrastructures 
+without dependence on a separate Storage Area Network & associated 
+components such as SAN Switches & HBAs. 
+
+ 
+
+2 The proposed solution must be a factory shipped engineered & integrated 
+system. All the components of solution such as compute nodes, hypervisor 
+OS, storage disks, management software must be factory installed and 
+shipped ready for fast deployment. 
+
+ 
+
+3 The storage solution must support scaling hyperconverged node (compute 
+storage), compute-only or storage-only (HDDs) independent of each other 
+under a single cluster.  
+
+ 
+
+4 
+No single point of failure in the solution 
+
+ 
+
+5 
+
+Maximum Configuration. The storage solution software license version must 
+be quoted for maximum scalability on day 1. 
+
+ 
+
+7 The proposed solution must have min. 4 nos. of Server nodes in Hyper-
+converged system. Each server node must have dedicated redundant hot 
+swap power supplies & cooling fans. 
+
+ 
+
+8 Min 2 Nos. of 2.2 GHz E5-2600v4 16C/ per CPUs per server node. All 
+software features turned on/maximum performance of the STORAGE 
+SOLUTION node. 
+
+ 
+
+9 Min. 8 qty of 32GB DDR4-2400-MHz RDIMM/PC4-19200/dual rank/x4/1.2v 
+per server node. All software features turned on/maximum performance of the 
+storage solution node. 
+
+ 
+
+10 
+
+The hypervisor OS must be in redundant boot drives for high availably of boot 
+partition on each node. 
+
+ 
+
+11 Min. 18 nos. of hot swap 1.2T SAS 10K RPM or higher HDDs for capacity tie 
+and min 1 *1.6 TB SSD for tiring & caching per server node. The hypervisor 
+OS must be in redundant boot drives for high availability of boot partition on 
+each server node. The HDDs must be presented via pass through mode 
+without any hardware RAID on every server node. If using HDDs lower than 
+10K RPM, the vendor must quote 2X HDDs per server node to deliver optimal 
+performance. 
+
+ 
+
+
+
+ 
+
+Page 37 of 80 
+
+12 It should be a distributed scalable architecture. The Hyperconvergence 
+software must pool all SSDs from all the nodes in the cluster to present a 
+single storage cache pool & all HDD's from all nodes to present a single 
+storage resource pool across the nodes.  If the vendor solution does not 
+support a single storage cache pool across nodes, the vendor must quote 
+minimum 3 nos. SSD cache tier per node to deliver optimal performance.  
+
+ 
+
+13 Must support Inline Deduplication across SSD & HDD (all storage tiers). In 
+case, the vendor solution does not support inline deduplication on HDD tier, 
+the vendor must quote 150 % more storage for the solution. 
+
+ 
+
+14 The solution must be configured with minimum of 35 TB usable storage 
+capacity with RF=2 data replication policy solution must support various data 
+replication methods (RF=2 & RF=3) for data protection. Any software license 
+required to enable RF=2 & RF=3 must be quoted on day 1. 
+
+ 
+
+15 
+Min. 2 * 10Gbps network ports per server node. 
+
+ 
+
+16 The solution must include integrated network switch in the solution/ should 
+connect to existing network switch to run the solution.  In case integrating to 
+existing network switch The solution should include necessary cables, 
+licenses for ports, uplink ports, SFP’s. Solution must support network QoS at 
+TOR switch and also at network adapter on server side to streamline network 
+traffic to improve network traffic filtering and segmentation. Shall be provided 
+with required virtualization/Hypervisor license 
+
+ 
+
+ 
+
+6. Network Management System 
+ 
+
+S. 
+No. 
+
+Technical Requirement Compliance 
+(Yes / No) 
+
+1 NMS shall be able to monitor and configure devices as part of this RFP including 
+new purchase and the Networking elements as part of the AMC (should be 
+proposed against the proposed devices) and should have scalability to manage 
+up to 5000 devices in future. NMS shall be able to manage both wired and 
+wireless networks in single pane of glass management. 
+
+ 
+
+2 NMS should be scalable to provide Deep application visibility on the WAN links, 
+NetFlow/Sflow, application recoganization or packet inspection to recognize a 
+wide variety of applications   and SNMP .NMS should be able to provide Network 
+topology . 
+
+ 
+
+3 NMS solution should deliver pinpoint visibility into the who, what, when, where, 
+and how of wireless access through its own data collection and key integrations. It 
+should support spatial / floor mapping; integrated location-based tracking of client 
+
+ 
+
+4 Should provide a customizable at-a-glance summary of all discovered devices 
+and existing network switches to proactively identify problem areas and help 
+prevent network downtime. The network has to be manageable at Network 
+Operations Center (NOC) and through secured browser. 
+
+ 
+
+5 Should be able to discover, configure, monitor, manage, and deploy 
+configurations to dynamically update groups of devices.  
+
+  
+
+6 Should allow flexible definitions of administrator roles and responsibilities with role 
+based access control for different teams. 
+
+  
+
+7 Should enable performance management by providing customizable dashboards 
+and historical data visibility  
+
+  
+
+8 Should be able to generate reports designed to summarize utilization of and traffic   
+
+
+
+ 
+
+Page 38 of 80 
+
+patterns on network interfaces. 
+
+9 Should allow administrators to track device configuration changes, enabling 
+viewing, retrieval, and restoration of configuration files, and monitoring of 
+configuration drift for troubleshooting purposes.  
+
+The system design should provide access to only authorized users, RBAC and by 
+using Secure Digital Certificates to completely trace back an individual user, in 
+case of Cyber Crime or any other cyber investigation, as per the NHAI HQ 
+security policy of Govt. of India policy/guidelines 
+
+  
+
+ 
+
+7. Edge Switches 
+ 
+
+S. No. Technical Requirement 
+Compliance 
+(Yes/No) 
+
+1 General Hardware and Interface requirements  
+1.1 Switch should have minimum 12 nos. 10G SFP+ ports with 6 populated SFP+ 
+
+(MM)/XFP transceivers. 
+ 
+
+1.2 Switch shall have minimum 240 Gbps of stacking bandwidth with dedicated 
+stacking ports and cables. With 1:1 redundant hot swappable internal power 
+supplies. Fan modules and transceivers modules should be hot swappable. 
+
+ 
+
+2 Performance Requirements  
+2.1 Switch shall have minimum 320 Gbps of switching fabric and 227 Mpps of 
+
+forwarding rate. 
+ 
+
+2.2 Shall have minimum 32K MAC Addresses, 1000 active VLANs, 15K IPv4 and 
+IPv6 unicast routes 
+
+ 
+
+2.3 Shall have RIP,OSPF and OSPFv3, Protocol-independent multicast (PIM) for IP 
+multicast routing is supported, including PIM sparse mode (PIM-SM)/PIM dense 
+mode (PIM-DM)/PIM sparse-dense mode and source-specific multicast (SSM). 
+
+ 
+
+3 IEEE Standards: Should support IEEE Standards of Ethernet: IEEE 802.1D, 
+802.1s, 802.1w, 802.1x, 802.3ad, 802.3x, 802.1p, 802.1Q, 802.3, 802.3u, 
+802.3ab, 802.3z. 
+
+ 
+
+4 Quality of Service (QoS): Switch shall have 802.1p class of service, IP 
+differentiated service code point (DSCP) and cross stack QoS. Minimum 8 egress 
+queue per port, committed information rate, rate limiting and flow based rate 
+limiting, strict queuing/priority. 
+
+ 
+
+5. System Management and Administration  
+5.1 Switch should support SSHv2, SNMPv2c, SNMPv3, SPAN, RSPAN and NTP.  
+5.2 Switch should support AAA using RADIUS and TACACS+ based on standard  
+5.3 Switch should support port security, DHCP snooping, Dynamic ARP inspection, 
+
+IP Source guard, BPDU Guard, Spanning tree root guard and IPv6 First Hop 
+Security. 
+
+ 
+
+5.4 Switch should support IPv4 and IPv6 ACLs, VLAN, Port and Time based access 
+list with time ranges. Per port broadcast, multicast and unicast storm control. 
+
+ 
+
+5.5 Switch shall have Internet Group Management Protocol (IGMP) Snooping for 
+Ipv4 and Ipv6, MLD v1 and v2 Snooping and Multicast VLAN Registration 
+protocol. Switch should be Software Defined Networking Ready 
+
+ 
+
+6 Evaluation Compliance  
+6.1 Switch / Switch’s Operating System should be tested and certified for EAL 
+
+2/NDPP or above under Common Criteria Certification. 
+ 
+
+6.2 Switch should be IPv6 Certified/IPv6 logo ready.  
+
+8. Distribution Switch 
+ 
+
+S. No. Technical Requirement Compliance 
+
+
+
+ 
+
+Page 39 of 80 
+
+(Yes/No) 
+1 General Hardware and Interface requirements  
+1.1 Switch should have minimum 16 nos. 10G SFP+/XFP ports and should be 
+
+populated with 10 MM trans 
+ 
+
+1.2 Switch shall have minimum 240 Gbps of stacking bandwidth with dedicated 
+stacking ports, 300 Gbps switching capacity and cables and 200Mpps of 
+forwarding Rate 
+
+ 
+
+1.3 Switch should have 1:1 redundant internal power supply. Power supply modules, 
+fan modules and transceivers modules should be hot swappable. 
+
+ 
+
+1.4 Shall have minimum 32K MAC Addresses, 1000active VLAN, 16k IPv4 and 
+16IPv6 unicast routes 
+
+ 
+
+1.5 Shall have RIP, OSPF, OSPFv3, Protocol-independent multicast (PIM) for IP 
+multicast routing is supported, including PIM sparse mode (PIM-SM)/PIM dense 
+mode (PIM-DM)/PIM sparse-dense mode and source-specific multicast (SSM). 
+
+ 
+
+2 IEEE Standards: Should support IEEE Standards of Ethernet: IEEE 802.1D, 
+802.1s, 802.1w, 802.1x, 802.3ad, 802.3x, 802.1p, 802.1Q, 802.3, 802.3u, 
+802.3ab, 802.3z. 
+
+ 
+
+3 Quality of Service (QoS): Switch shall have 802.1p class of service, IP 
+differentiated service code point (DSCP) and cross stack QoS. Committed 
+information rate, rate limiting, flow based rate limiting and minimum 8 egress 
+queues per port 
+
+ 
+
+4. System Management and Administration  
+4.1 Switch should support SSHv2, SNMPv2c, SNMPv3, RADIUS,TACACS, SPAN 
+
+and RSPAN 
+ 
+
+4.2 Switch should support port security, DHCP snooping, Dynamic ARP inspection, 
+IP Source guard, BPDU Guard, Spanning tree root guard and IPv6 First Hop 
+Security. 
+
+ 
+
+4.3 Switch shall have Internet Group Management Protocol (IGMP) Snooping for Ipv4 
+and Ipv6, MLD v1 and v2 Snooping and Multicast VLAN Registration protocol. 
+
+ 
+
+4.4 Switch shall have per port broadcast, multicast and unicast storm control.  
+4.5 Switch should be Software Defined Networking Ready with Openflow protocol 
+
+support. 
+ 
+
+5 Evaluation Compliance  
+5.1 Switch / Switch’s Operating System should be tested and certified for EAL 
+
+2/NDPP or above under Common Criteria Certification. 
+ 
+
+5.2 Switch should be IPv6 Certified/IPv6 logo ready.  
+
+9. Firewall 
+ 
+
+S. No Technical Requirement Compliance 
+(Yes / No) 
+
+1 The appliance based security platform with multicore CPU should be capable of 
+providing firewall, URL Filtering, IPS and Anti Malware Protection with required 
+license should be provided 
+
+  
+
+2 The appliance should have min 12 no. of 10/100/1000 Base-T Gigabit Ethernet 
+ports plus 4 x 10G SFP+ port 
+
+  
+
+3 The appliance hardware should be a multicore CPU architecture with a hardened 
+64 bit operating system to support higher memory 
+
+  
+
+4 Proposed Firewall  should  not  be  proprietary  based  in  nature  & should be 
+open architecture based on multi-core CPU's to protect & scale against dynamic 
+latest security threats. 
+
+  
+
+5 Firewall shall have hot swappable 1:1 redundant internal power supply   
+
+6 Firewall    should    support    stateful    failover    of    sessions    in 
+Active/Standby and Active/Active mode 
+
+  
+
+
+
+ 
+
+Page 40 of 80 
+
+7 Should have minimum Firewall throughput with multiple protocol of 4.5 Gbps. 
+Real world profile should include but not limited to HTTP, Bit Torrent, FTP , SMTP 
+and IMAPv4 
+
+  
+
+8 Firewall should support DES, 3DES/ AES IPSec VPN throughput of minimum 1.5 
+Gbps. Should support minimum 7,000 cumulative VPN including IPSec  
+
+  
+
+9 Firewall concurrent sessions 2M or higher   
+
+10 Firewall should support URL/AVC filtering, antimalware prevention with licenses 
+to be provided   
+
+11 Firewall should have integrated intrusion prevention system   
+13 Firewall should be provided with management software   
+ 
+10. Wireless Access Point (Indoor) 
+
+S.No Technical Requirement 
+Compliance 
+(Yes / No) 
+
+1 
+Wall/Ceiling mounted Wi-Fi access-point suitable for indoor use with at least 2 
+10/100/1000Mbps Ethernet ports supporting standard 802.3af/at POE+.   
+
+2 
+
+802.11ac AP should operate in 2.4 GHz (450 Mbps or more) and 5 GHz 
+simultaneously and capable of minimum 1.7Gbps on 5 Ghz for 802.11ac clients 
+supporting minimum 4x4 MIMO with 4 spatial streams. It must support minimum 3 
+concurrent MU-MIMO users.   
+
+3 
+Should support minimum 16x BSSID per AP. Should have OperatingTemperature 
+of 0-40 Deg Centigrade   
+
+4 
+
+The access point should be capable of performing security scanning and 
+servingclients on the same radio. It should be also capable of performing RF 
+analysis and security scanning using same radio.   
+
+5 
+
+Must support minimum 22dbm of transmit power in both 2.4Ghz and 5Ghz radios 
+and minimum 3dB antenna gain. AP should support 20MHz, 40MHz and 80MHz 
+channel size.   
+
+6 AP should support band steering and load balance across bands and AP's   
+
+7 
+Security mechanisms should be in place to protect the communication between 
+the Access Point controller and the Access Points   
+
+8 
+The access point should support WPA2 enterprise authentication and AES/CCMP 
+encryption.   
+
+9 
+AP should support 802.11k for Radios Resource management and 802.11r for 
+fast roaming.    
+
+10 
+Implement Wi-Fi alliance standards WMM, 802.11d, 802.11h and 802.11e and 
+should support VoWLAN    
+
+11 AP must support L7 Application Identification and spectrum analysis functions    
+
+12 
+
+AP should support Minimum -90dB Receiving sensitivity. AP should support 
+Receiver sensitivity Threshold to reduce noise reception in the AP to increase 
+SNR and performance    
+
+13 
+
+802.11 a/b/g/n/ac wave 2 functionality certified by the Wi-Fi alliance, Should be 
+plenum rated (UL2043), and RF transmission power should be approved by 
+WPC.    
+
+ 
+
+11. Wireless LAN Controller  
+
+S.No. Technical Requirement 
+Compliance 
+(Yes / No) 
+
+1 
+Must be compliant with IEEE CAPWAP for controller-based WLANs or equivalent 
+feature and it should be appliance based.   
+
+2 
+WLC should support IPv4 and IPv6 including IEEE 802.11a, 802.11b, 802.11g, 
+802.11d, WMM/802.11e, 802.11n, 802.11ac standards.   
+
+
+
+ 
+
+Page 41 of 80 
+
+3 
+WLC must have minimum 4 x 1G SFP of uplink interfaces and should be 
+populated with Base-T ports from day 1   
+
+4 
+
+WLC should support up to 75 Access points day 1 and up to 6,000 Devices in a 
+single chassis. It should be scalable to 500 AP's through single appliance or 
+through cluster with single interface management of all WLC's. It should also 
+support AP license migration from one WLC to other, in case of future up 
+gradation.   
+
+5 
+WLC Must provide Active: Active with 1+1 or N+1 redundancy. The controllers 
+shall be implemented in HA mode.    
+
+6 
+
+WLC should provide air-time fairness between these different speed clients – 
+slower clients should not be starved by the faster clients and faster clients should 
+not adversely affected by slower clients.   
+
+7 
+WLC Must support an ability to dynamically adjust channel, power settings and 
+airtime, based on the RF environment.   
+
+8 WLC should support L2/L3 discovery for AP's   
+
+9 
+
+Should support adhere to the strictest level of security standards, including 
+802.11i Wi-Fi Protected Access 2 (WPA2), WPA, 802.1X with multiple Extensible 
+Authentication Protocol (EAP) and 802.1x Authentication.   
+
+10 
+Controller should support WIDS/WIPS includes rogue AP detection, classification 
+and automatic containment feature and prevention for DOS attacks.   
+
+11 
+
+WLC should support L2/L3/L4 Access Control and L2 Client Isolation so User 
+cannot access each other’s devices. Isolation should have option to apply on AP 
+or SSID's   
+
+12 
+Controller/System should support Access Control based on Identity/Role/ 
+Device/Time or Application.   
+
+13 Must support client roaming in L2/L3 networks and also across controllers   
+
+14 
+Controller should support integrated or External AAA servers including Microsoft 
+AD and Linux based open source AAA.   
+
+15 
+
+The Controller/System should support L7 Application/OS/Device finger printing 
+and device type based policies i.e allow or deny, Bandwidth rate limit, VLAN 
+mapping   
+
+16 
+Wireless Network should support deep packet inspection for all user traffic across 
+Layer 4-7 network to analyses information about applications usage   
+
+17 
+The controller/System should be able to raise critical alarms by sending an email 
+and/ or SMS.   
+
+18 Per SSID or dynamic Per user bandwidth Rate Limiting   
+
+19 
+Support advanced multicast features and WMM support to provide best 
+performance on Video applications.   
+
+20 
+Controller/ System should have BYOD features and should support integrated/ 
+and external captive portal integration   
+
+21 
+
+System should provide a web-based application that allows non-technical staff to 
+create Guest accounts with validity for fixed duration like hours or days and 
+restricted to number of devices. Password to guest should be sharedover Email 
+and SMS (SMS gateway services shall be provided by NHAI in case Service is 
+required).   
+
+22 Proposed solution should be an Appliance based solution   
+
+12. POE Layer2 Switch 
+ 
+
+S. No. Technical Requirement 
+Compliance 
+(Yes/No) 
+
+1 General Hardware and Interface requirements  
+1.1 Switch shall have minimum 48 nos. 10/100/1000 Base-T ports with PoE+ 
+
+capability and minimum 360W of PoE Power and additional 2 nos. SFP+ 
+ 
+
+
+
+ 
+
+Page 42 of 80 
+
+uplink ports.  
+1.2 Switch shall have dedicated slot for minimum 80 Gbps of stacking bandwidth 
+
+with dedicated stacking ports  
+ 
+
+1.3 Switch should support internal/external redundant power supply.  
+
+2 Performance Requirements  
+2.1 Shall have minimum 88 Gbps of switching fabric and 65 Mpps of forwarding 
+
+rate. 
+ 
+
+2.2 Shall have minimum 16K MAC Addresses, 1K Active VLANs, 1K IPv4 and 
+IPv6 multicast groups, 1K IPv4 and IPv6 QoS and Security ACLs 
+
+ 
+
+3 IEEE Standards: Should support IEEE Standards of Ethernet: IEEE 802.1D, 
+802.1s, 802.1w, 802.1x, 802.3ad, 802.3x, 802.1p, 802.1Q, 802.3, 802.3u, 
+802.3ab, 802.3z. 
+
+ 
+
+4 Quality of Service (QoS): Switch shall have 802.1p class of service, IP 
+differentiated service code point (DSCP) and cross stack QoS. Committed 
+information rate, rate limiting, flow based rate limiting and minimum 8 egress 
+queues per port 
+
+ 
+
+5 System Management and Administration  
+5.1 Switch should support SSHv2, SNMPv2c, SNMPv3, RADIUS,TACACS, 
+
+SPAN and RSPAN 
+ 
+
+5.2 Switch should support port security, DHCP snooping, Dynamic ARP 
+inspection, IP Source guard, BPDU Guard, Spanning tree root guard and 
+IPv6 First Hop Security. 
+
+ 
+
+5.3 Switch shall have Internet Group Management Protocol (IGMP) Snooping for 
+Ipv4 and Ipv6, MLD v1 and v2 Snooping 
+
+ 
+
+5.4 Switch shall have per port broadcast, multicast and unicast storm control.  
+6 Evaluation Compliance  
+6.1 Switch / Switch’s Operating System should be tested and certified for EAL 
+
+2/NDPP or above under Common Criteria Certification. 
+ 
+
+6.2 Switch should be IPv6 Certified/IPv6 logo ready.  
+ 
+
+13. AAA/NAC 
+ 
+S. No. Technical Requirement Compliance 
+
+(Yes / No) 
+
+1 Proposed AAA solution should be an Appliance based solution.  
+
+2 Proposed solution must support integration and security for both wired and 
+wireless infrastructure. It should be ready to handle 1000 users and 1500 
+concurrent Devices from day1 and scalable for up to 6000 users and 12000 
+Devices. Devices are mixture of guest users, institute staff, machine 
+endpoints. 
+
+ 
+
+3 AAA should support BYOD with Self-service authorization and device 
+provisioning via open network. 
+
+ 
+
+4 It must allow for Machine Authentication (or an appropriate alternative) by 
+AD-joined Windows laptops/tablets allowing wireless connection before user 
+logon.  
+
+ 
+
+5 The Solution should have detailed reporting capabilities in conjunction with 
+NMS based on sharing contextual sharing between AAA and NMS. AAA must 
+issue certificates to mobile devices like Tabs/iPads - to allow machine 
+authentication for non-AD joined devices.  
+
+ 
+
+6 The proposed solution should have Built-in user database with per 
+device/user credential management and should also provide Seamless 
+
+ 
+
+
+
+ 
+
+Page 43 of 80 
+
+backend integration with RADIUS, AD, LDAP 
+
+7 Solution should be Threat-Centric and conduct scan test for vulnerability 
+assessment of Endpoint devices and control access based on endpoint’s 
+threat score Solution should be Threat-Centric and conduct scan test for 
+vulnerability assessment of Endpoint devices and control access based on 
+endpoint’s threat score.  
+
+ 
+
+8 Proposed solution should address (but not limited to) the below requirements:  
+
+Intuitive user/device management and Unified device visibility and reporting  
+
+Self-service 802.1X and guest access. Should also have option for MAC 
+authentication for selective devices and Social Login. 
+
+ 
+
+Integrated AAA server with key policy definitions. Should also support 
+integration with external AAA server and CA server. 
+
+ 
+
+9 AAA should be able to integrate with existing user databases like Microsoft 
+AD/LDAP/Certificate Authority 
+
+ 
+
+10 It should be scalable to enforce device-specific settings for antivirus, firewall 
+and OS patches, passcodes, NAC, proxies 
+
+ 
+
+11 It should be able to enforce custom user and device privileges  
+
+ 
+
+PART B – Passive, Cables and Racks 
+ 
+This Section Includes: 
+
+ 
+1. Copper Components 
+2. Fiber components 
+3. Labeling and administration  
+4. Cabinet 
+5. PVC Components  
+
+1 Copper Solution 
+ 
+
+1.1 CABLE CAT-6A U/UTP 
+ 
+
+S. No Generic Requirement 
+Compliance(Yes/N
+
+O) 
+
+1 
+
+Exceeds requirements of ANSI/TIA-568-C.2,ISO/IEC 11801 Class EA 
+Category      6A channel standards.   
+
+2 
+Meets requirements of IEEE 802.3af and IEEE 802.3at for PoE 
+applications   
+
+3 Cable diameter :7.239 mm, (0.285 in) nominal   
+
+4 
+
+High performance, Category 6A, low smoke zero halogen (LSZH), 4-pair, 
+UTP copper cable. Copper conductors are 23 AWG constructions  
+
+  
+
+5    Flame rating: LSZH   
+
+6    Operating temperature range: -20 °C to +60 °C (-4 °F to +140 °F)   
+
+7    Installation tension: 110 N (25 lbf) maximum   
+
+8     Channel characterized to 550 MHz above the standard.   
+
+9 
+
+   Descending length cable markings enable easy identification of 
+remaining cable which reduces installation time and cable scrap   
+
+10  Smoke Test Method  : IEC 61034-2   
+
+
+
+ 
+
+Page 44 of 80 
+
+11  ROHS: Compliant   
+
+1.2 MODULE 
+ 
+
+S. No Generic Requirement Compliance(Yes/NO) 
+
+1  Housing Material : High-impact, flame retardant, thermoplastic   
+
+2 
+
+  Exceed requirements of ANSI/TIA-568-C.2 Category 6A, IEEE 802.3an-2006, and 
+ISO 11801 Class EA channel standards   
+
+3   UL Flammability Rating : UL 94V-0   
+
+4   Termination Method to Wire/Cable : Insulation Displacement Crimp (IDC)   
+
+5  Exceed requirements of IEC 61156-5 Category 6A component standards   
+
+6   Meet requirements of IEEE 802.3af and IEEE 802.3at for PoE applications   
+
+7  Category 6A, RJ45, 8-position, 8-wire universal module.   
+
+8 RoHS Compliant   
+
+9  Terminate 4-pair, 22 – 26 AWG, 100 ohm, solid or stranded twisted pair cable   
+
+10 Universal termination cap is color-coded for T568A and T568B wiring schemes   
+
+11  Accept 6 and 8-position modular plugs without damage.   
+
+12  Plug Insertion Life, minimum : 750   
+ 
+
+ 
+
+1.3 Patch Panel 
+ 
+
+S No Generic Requirement Compliance(Yes/NO) 
+
+1   24-port with labels   
+
+2 Allow labeling scheme and port identification to be visible at all times   
+
+3  Allow front access to installed modules for easy moves, adds and changes   
+
+4 
+
+Accept 8-position, 8-wire universal module for UTP, fiber optic, and audio/video, 
+which snap in and out for easy moves, adds, and changes   
+
+5 Mount to standard EIA 19" racks or 23" racks with optional extender brackets   
+
+6 RoHS Compliant    
+ 
+
+ 
+
+1.4 Patch Cord 
+ 
+
+S. No Generic Requirement Compliance(Yes/NO) 
+
+1 
+
+ Exceed ANSI/TIA-568-C.2 Category 6A and ISO 11801 Class EA Edition 2.1 
+standards for all frequencies from 1 to 500 MHz   
+
+2  Meet requirements of IEEE 802.3af and IEEE 802.3at for PoE applications   
+
+3  Each patch cord is 100% performance tested and wired T568B   
+
+4  Slender strain relief boot provides easy access in high density applications   
+
+5 
+
+Perform in center of TIA/EIA component range, ensuring interoperability and 
+excellent performance   
+
+6 
+
+Labels on patch cords provide identification of performance level, length, and 
+quality control number   
+
+7  RoHS Compliant    
+
+8  Operating Temperature Range : 10 °C to +60 °C (+14 °F to +140 °F)   
+
+9 Flammability Rating : LSZH (Low Smoke Zero Halogen)   
+
+
+
+ 
+
+Page 45 of 80 
+
+1.5 Face Plate 
+ 
+
+S. No Generic Requirement Compliance(Yes/NO) 
+
+1 Individual modules snap in and out of provided insert   
+
+2 Single or double gang configurations   
+
+3 Excellent for copper and fiber applications   
+
+4 Shutters protect modules when not in use   
+
+5 
+
+86 x 86mm single gang faceplate frame and one 1/2 size sloped shuttered module 
+insert. Depth to rear of modules: 18.0mm   
+
+6 RoHS Compliant    
+ 
+
+ 
+
+2 Fiber Solution 
+
+2.1 Fiber Cable: 
+ 
+
+S. No Generic Requirement Compliance(Yes/No)
+
+1  1 run of Inter Building backbone cable shall meet multimode OM4 performance.   
+
+2  1 run of Inter Building backbone cable shall meet multimode OS2 performance.   
+
+3  Intra Building backbone shall meet Multimode OM3 performance.   
+
+4 Fiber cable shall be indoor/Outdoor all dielectric rated.   
+
+5 Flammability Rating : LSZH (Low Smoke Zero Halogen)   
+
+6 Installation Temperature  : -30 °C to +60 °C (-22 °F to +140 °F)   
+
+7 Operating Temperature: -40 °C to +70 °C (-40 °F to +158 °F)   
+
+8 Storage Temperature   : -40 °C to +75 °C (-40 °F to +167 °F)   
+
+9 Inter building backbone fiber count shall be 24 fiber.   
+
+10 Intra building backbone fiber count shall be 12 fiber.   
+
+11 Mounting: Integral mounting flange for installation in 19" wide EIA-310 racks   
+
+12 Loaded with fiber pigtails and splice holder   
+
+13  Drawer concept allows For :   
+
+  (a)  Easy access to splicing tray   
+
+   (b) Easy access to back side of connector   
+
+14 TIA-606-A compatible labeling.   
+ 
+
+ 
+
+2.2 Fiber PATCH CORDS 
+
+S. No Generic Requirement Compliance(Yes/No)
+
+1  Pass all TIA/EIA-568-B.3 performance requirements   
+
+2  Insertion loss per connection: .30dB maximum at each end.   
+
+3  Factory terminated and 100% tested for insertion loss   
+
+4  Backward compatible for use with all 50/125μm system requirements.   
+
+5  Insertion loss data recorded for every multimode patch cord   
+
+6  Flammability Rating : LSZH (Low Smoke Zero Halogen)   
+ 
+
+ 
+Note: All Single mode fiber components shall be standard compliant. 
+ 
+ 
+
+3. LABELLING & IDENTIFICATION SOLUTIONS 
+ 
+
+S. No Generic Requirement Compliance(Yes/NO) 
+
+
+
+ 
+
+Page 46 of 80 
+
+1 
+
+  The Labeling & Identification Solution should Meet or exceed the requirements of 
+UL, CSA, and TIA/EIA-606-B standards.   
+
+2 
+
+ All components of the infrastructure should be labeled, including, but not limited to 
+the following:   
+
+  a.   Copper Cabling should be labeled with self-laminating labels.   
+
+  
+
+b.   Patch Panels and Fiber Enclosures with dedicated label insert locations should 
+be labeled.   
+
+  c.   Punch-Down Blocks should be labeled with adhesive component labels.   
+
+  
+
+d.   Faceplates with dedicated label insert locations should be labeled with  non-
+adhesive component labels   
+
+  
+
+e.   Faceplates without dedicated label insert locations should be labeled with  
+adhesive component labels   
+
+  f.    Telecommunication Spaces should be identified with  component labels   
+
+  
+
+g.   Equipment and Panels should be identified with  component labels and marked 
+with the appropriate safety markings and warnings in accordance with local 
+regulatory requirements   
+
+  h.   Circuit Boards should be labeled with polyimide component labels.   
+
+3 
+
+   Labeling Software should be part of a complete system for identification designed 
+to efficiently support TIA/EIA-606-B standard labeling requirements. 
+
+  
+
+4. CABINETS 
+ 
+
+S. No Generic Requirement Compliance(Yes/No) 
+
+1 
+
+(42,) RU 800 x 1000mm and 1200mm Wide Cabinet Modular cable management 
+fingers easily mount to the front and/or back of all four cabinet posts 
+
+  
+
+2   Adjustable rear equipment rails with infinite positioning    
+
+3   Conforms to DIN 41494 or Equivalent EIA /ISO / EN / CEA Standard   
+
+4  Numbered U positions   
+
+5 Universal 25MM Pitch Holes For ETSI Standard Racks   
+
+6 
+
+State-of-the-art manufacturing methods provide the best product quality and 
+fastest delivery in the industry.   
+
+7 
+
+Powder coated finish with Seven tank pretreatment process meeting ASTM 
+standard   
+
+8 
+
+100% assured compatibility with all equipment’s conforming to DIN 41494 
+(General industrial standard for equipment’s)   
+
+5. PVC Components 
+ 
+
+S. No Generic Requirement Compliance(Yes/No) 
+
+1 All PVC Components shall be ISI Marked and approved.   
+
+2 All PVC components shall be minimum Medium grade.   
+
+3 HDPE pipe shall be equipped with rope.   
+
+4 All accessories shall be with same grade.   
+ 
+VC Conduit shall be FRLS rated. 
+
+ 
+ 
+
+Appendix-B to Section IV 
+Important Note:- 
+
+ 
+The bidder/vendor/tenderer should have full-fledged /fully equipped service center at Delhi NCR 
+
+
+
+ 
+
+Page 47 of 80 
+
+ 
+1.  Installation of the system & training for a minimum period of a week will have to be arranged by 
+
+the vendor. In case installation/training charges are to be paid extra, the same MUST be specified 
+in the offer, failing which the offered rates will be treated as inclusive of installation/training 
+charges.Name and postal address of the agency who will provide after sales service MUST be 
+clearly mentioned in your offer. Installation and training clauses MUST be clearly mentioned in 
+your offer (both in technical and commercial bids). 
+
+ 
+2.  The equipment quoted shall be complete in every respect with all mounting, fittings, fixtures and 
+
+standard accessories needed for installation and safe operation, though some of them may not 
+have been detailed in the technical specification.  
+
+ 
+ 
+IMPORTANT ADDITIONAL REQUIREMENTS:- 
+ 
+i.  After sales service – the supplier should have full fledge workshop to provide after sales and 
+
+support service. 
+ii. Demonstration of equipments / goods should be arranged at the supplier’s expense.  
+iii. The offer should be for the reputed brands of item and detail specifications should be furnished 
+
+for each items. 
+iv. A complete list of optional utilities along with specifications and cost should be given. 
+v.  Installation and satisfactory operation of the supplied items will be the responsibility of the 
+
+supplier 
+vi.      The free services, warranty, up gradation, maintenance and other facilities provided should be 
+
+specified along with conditions if any. 
+vii.  Catalogue/Technical literature drawing to be attached with the tender document. 
+viii.  List of customers / offices may be mentioned to whom the items has been supplied and 
+
+performance certificate, if any. 
+  
+
+
+
+ 
+
+Page 48 of 80 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+SECTION – V 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+PREFERENCE TO DOMESTICALLY MANUFACTURED ELECTRONIC PRODUCTS IN 
+
+GOVERNMENT PROCUREMENT 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+  
+
+
+
+ 
+
+Page 49 of 80 
+
+1. Policy for Preference to domestically manufactured electronic products in Government 
+procurement as per Department of Electronics and Information Technology (DeitY), Ministry of 
+Communication and Information Technology vide Notification No.33(3)/2013-IPHW dated 
+23/12/2013 has been promulgated and is being adhered to.  
+
+ 
+
+2. Purchaser reserves the right for providing preference to domestically manufactured electronic 
+products in terms of the Department of Electronics and Information Technology (DeitY) Notification 
+No.33(3)/2013-IPHW dated 23.12.2013 read with Notification No.33(3)/2013-IPHW dated 
+22/05/2014 and Guidelines issued there under through Notification No. 8(78)/2010-IPHW dated 
+12/06/2013.  A copy of the aforesaid Notifications / Guidelines can be downloaded from DeitY website 
+i.e. URL www.deity.gov.in/esdm. Purchase preference for domestic manufacturer, methodology of its 
+implementation, value addition to be achieved by domestic manufacturers, self-certification, and 
+compliance and monitoring shall be as per the aforesaid Guidelines/ Notifications. The Guidelines may be 
+treated as an integral part of the tender documents.  
+
+ 
+
+1) The modalities through which the preference for Domestically Manufactured Electronic 
+Products (DMEPs) shall be operated are as follows:  
+
+ 
+
+a) The electronic products for which preference will be provided to domestic 
+manufacturers shall be Servers,Core/Edge/Enterprise Ethernet Switches, Hubs, etc. , 
+CPE  and Network Management systems.(Item Description) 
+
+b) The quantity of procurement for which preference will be provided to domestic 
+manufactures shall be 30% of the total tendered quantity.  
+
+c) Percentage of domestic value addition, which qualifies the electronic product 
+i.e.Servers,Core/Edge/EnterpriseEthernet Switches, Hubs, etc. , CPE  and  Network 
+Management systemsto be classified as domestically manufactured shall be  
+
+25%(Percentage of domesticvalue addition in terms of BOM of domestic 
+manufacturers for first year then increased at 30%, 35%, 40%,45% consequently for 
+next four years) for the financial year from 01/04/2016 to 31/03/2017. 
+
+d) The preference to DMEP shall be subject to meeting technical specifications and 
+matching L1 price.  
+
+ 
+
+2) Domestic manufacturers are required to indicate the domestic value addition in terms of BoM 
+for the quoted product, in terms of aforesaid guidelines, in their bid in the following format:   
+
+ 
+
+ Format for Domestic Value Addition in terms of Guidelines issued for procurement of notified 
+electronic products by Government  
+
+ 
+
+Item 
+No. 
+
+Item Description 
+Manufacturer/ 
+Supplier 
+
+Country of 
+Origin 
+
+Value 
+
+Domestic  
+
+Value  
+
+Addition in 
+Percentage 
+
+1       
+
+2       
+....n      
+
+ 
+
+3) Bidders, claiming to bid in the status of domestic manufacturer, are required to give an 
+undertaking in the format as given as Form 1 of the guidelines Notification No. 
+8(78)/2010IPHW dated 12/06/2013. Furnishing of false information on this account shall 
+attract penal provisions as per Guidelines/Notification.  
+
+ 
+
+4) Procedure for award of contacts involving procurement from domestic manufacturers will 
+be guided by policy mentioned above.  
+
+
+
+ 
+
+Page 50 of 80 
+
+Form 1  
+ 
+
+Format for Affidavit of Self Certification regarding Domestic Value Addition in an Electronic 
+Product to be provided on A100/- Stamp Paper.  
+
+Date : ........................  
+ 
+
+I _________________________ S/o, D/o, W/o _____________________, Resident of 
+_______________________________________________do hereby solemnly affirm and declare as 
+under.  
+ 
+
+That I will agree to abide by the terms and conditions of the policy of Government of India issued vide 
+Notification No.33 (3)/2013-IPHW dated 23.12.2013 
+ 
+
+That the information furnished hereinafter is correct to best of my knowledge and belief and I undertake 
+to produce relevant records before the procuring authority or any authority so nominated by the 
+Department of Electronics and Information Technology, Government of India for the purpose of assessing 
+the domestic value-addition.  
+ 
+
+That the domestic value addition for all inputs which constitute the said electronic products has been 
+verified by me and I am responsible for the correctness of the claims made therein.   
+ 
+
+That in the event of the domestic value addition of the product mentioned herein is found to be incorrect 
+and not meeting the prescribed value-addition norms, based on the assessment of an authority so 
+nominated by the Department of Electronics and Information Technology, Government of India for the 
+purpose of assessing the domestic value-addition.  I will be disqualified from any Government tender for 
+a period of 36 months.  In addition, I will bear all costs of such an assessment.  
+ 
+
+That I have complied with all conditions referred to in the Notification No., wherein preference to 
+domestically manufactured electronic products in Government procurement is provided and that the 
+procuring authority is hereby authorised to forfeit and adjust my EMD and other security amount towards 
+such assessment cost and I undertake to pay the balance, if any, forthwith.  
+ 
+
+I agree to maintain the following information in the Company’s record for a period of 8 years and shall 
+make this available for verification to any statutory authorities :   
+ 
+
+• Name and details of the Domestic Manufacturer (Registered Office, Manufacturing unit 
+location, nature of legal entity)  
+
+• Date on which this certificate is issued.  
+ 
+
+• Electronic Product for which the certificate is produced.  
+• Procuring agency to whom the certificate is furnished.   
+ 
+
+• Percentage of domestic value addition claimed.   
+ 
+
+• Name and contact details of the unit of the manufacturer.   
+ 
+
+• Sale Price of the product.   
+ 
+
+• Ex-Factory Price of the product.   
+ 
+
+• Freight, Insurance and handling.   
+ 
+
+• Total Bill of Material.   
+ 
+
+• List and total cost value of inputs used for manufacture of the electronic product.   
+ 
+
+• List and total cost of inputs which are domestically sourced.  Please attach certificates from 
+suppliers, if the input is not in-house.   
+
+ 
+
+• List and cost of inputs which are imported, directly or indirectly.  
+ 
+
+For and on behalf of ____________________________________ (Name of firm/entity)  
+ 
+
+Authorised signatory (To be duly authorised by the Board of Directors) 
+Name, Designation and Contact No.  
+
+
+
+ 
+
+Page 51 of 80 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+PART-II 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+FORMS FOR  
+SUBMISSION OF BIDS 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+
+
+
+ 
+
+Page 52 of 80 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+SECTION – VI 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+FORMS FOR  
+SUBMISSION OF TECHNICALBID 
+
+ 
+
+
+
+ 
+
+Page 53 of 80 
+
+Form-T1 
+ 
+
+(As per e-form for technical bid) 
+ 
+To, 
+
+GeneralManager(IT) 
+NationalHighwaysAuthorityofIndia(NHAI), 
+G 5&6,Sector–10,Dwarka, 
+NewDelhi –110075 
+
+ 
+ 
+Subject: Supply, Installation and Commissioning of Networking, Server, Storage, Security and Wi-
+Fi 
+
+systems. 
+ 
+Reference:  NHAI/11013/IT/WI-FI/2017 Dated: 19 JUNE 2017 
+ 
+ 
+Sir, 
+
+ 
+We, the undersigned, offer to provide the services for the above mentioned project in 
+
+accordance with your Tender Notice referred above. The technical proposal in the prescribed 
+proforma is submitted for consideration. 
+
+ 
+2. We undertake that, in competing for (and, if the award is made to us, in executing) the above 
+Contract, we will strictly observe the laws against fraud and corruption in force in India namely “Prevention 
+of Corruption Act 1988”. We understand that NHAI is not bound to accept the lowest or any Bid received 
+by NHAI. 
+ 
+ 
+Yours sincerely,  
+ 
+ 
+ 
+Authorized signatory 
+Name & Title of Signatory:     
+
+ 
+ 
+
+ 
+
+
+
+ 
+
+Page 54 of 80 
+
+General instructions : 
+ 
+
+(To be furnished by individual firm)  
+ 
+
+(a) In case the Bidder has to furnish no information against any of the items below, either ‘Nil’, ‘No’ or 
+‘Not applicable’, as the case may be, should be mentioned. If in the information supplied, against 
+any item, a dash is marked or is left blank, it shall be treated as incomplete  
+
+ 
+1. (a)  Name of Bidder  
+ 
+ (b)  Constitution of the Bidder entity e.g. Government enterprise, private limited company, limited 
+
+company etc. 
+ 
+ (c) In case of a Government enterprise, please indicate as to whether legally and financially 
+
+autonomous and operate under commercial law. 
+Yes/ No/ Not applicable 
+
+ (d) Name(s) of Partners/ Directors 
+ 
+2.  Complete postal address with Telephone/ Fax numbers/ e-mail address 
+i) Corporate Office 
+ 
+ii) Registered Office 
+ 
+3.  Address for correspondence with Telephone/ Fax numbers/ e-mail address. Please provide at least 
+
+one fixed and one mobile telephone number on which the Authorized Person can be contacted during 
+the tender process. It is the Applicant’s responsibility to ensure that ALL these means of 
+communications are working and being monitored regularly from the date of Application to the 
+conclusion of the tender process: 
+
+ 
+(a) Complete postal address: 
+
+(to which the correspondence will be made) 
+ 
+ 
+(b) Fixed telephone number 
+ 
+(c) Mobile telephone number  
+
+(Note: the mobile telephone specified should be capable of receiving SMS) 
+ 
+(d) E-mail address 
+ 
+6. Name of the Company Secretary/ Chartered Accountant certifying the documents along with his/ her 
+
+Membership number, if applicable: 
+ 
+ 
+7. (a) Whether the Bidder is having requisite Financial Strength:    Yes/ No 
+ 
+
+(b) If yes, please indicate the average annual turnover of the Bidder: 
+ 
+
+ (Note : Please attach certificate from Company Secretary/ Chartered Accountant in the prescribed 
+format duly countersigned by the authorized signatory certifying the Net worth.) 
+
+ 
+8. Whether in the ordinary course of its business, the Company is engaged in providing similar services 
+
+in the information technology field and/ or Networking Business: 
+ 
+
+ Yes/ No 
+ 
+9. Whether the Bidder have requisite experience of having successfully completed similar works : 
+
+Yes/ No 
+ 
+
+
+
+ 
+
+Page 55 of 80 
+
+10. Whether the Bidder have been declared ineligible by NHAI or Ministry of Road Transport & Highways, 
+Government of India for indulging in corrupt or fraudulent practices : 
+
+Yes/ No 
+ 
+11. (a) Whether the Bidder have been declared/ determined non-performing by NHAI :    
+
+Yes/ No 
+ (b) If so, period of debarment: 
+ 
+ 
+12. Whether copy of Resolution of Board of Directors/ Power of Attorney/ Authority Letter stating that the 
+
+person signing the Application is an authorized signatory has been attached : 
+Yes/ No 
+
+(Note: Copy to be certified by Company Secretary/ Director/ Managing Director of the Company and 
+should also bear the signature of the authorized signatory) 
+
+ 
+13. Whether the Bidder has a office in Delhi/NCR :      Yes/ No 
+ If yes, complete postal address with Telephone/ Fax numbers : 
+ 
+ 
+ 
+Certificate / undertaking: 
+ 
+
+A. It is hereby certified that the contents of the Notice inviting tenders has been carefully gone 
+through and the Bidder undertakes to fully comply with the terms and conditions specified in the 
+tender document including addendum thereof. 
+
+B. It is hereby certified that neither the Bidder nor any of its Directors are the subject of criminal or 
+civil proceedings that could be expected to adversely affect its business or its ability to Bid in the 
+present tender. 
+
+C. It is hereby certified that the Bidder understands that this Technical Bid, if found incomplete in any 
+respect and/ or if found with conditional compliance or not accompanied with the requisite Bid 
+Security (Earnest Money Deposit/ Earnest Money Bank Guarantee), shall be summarily rejected. 
+
+D. It is hereby certified that the Bidder do not have any record of poor performance such as 
+abandoning the works, not properly completing the Contract, delay in payment of salary to its staff 
+deployed to client’s site, or financial failures etc.; 
+
+E. It is hereby certified that the Bidder understands that the tender application fee is nonrefundable 
+irrespective of whether or not the Contract is granted to it. 
+
+F. It is hereby certified that the Bidder hasn’t been blacklisted by a central/ state Government 
+institution/ Public Sector Undertaking/ Autonomous body and there has been no litigation with any 
+Government Department/ PSU/ Autonomous body on account of similar services. 
+
+G. It is hereby certified that the Bidder will intimate the NHAI promptly in case of any change in the 
+information submitted as part of this Technical Bid. 
+
+H. It is hereby certified that the Bidder understands that all matters relating to the tender or Contract 
+if granted to it will be subject to jurisdiction of courts/ Tribunal(s) in Delhi/ New Delhi only. 
+
+I. It is hereby certified that the Bidder understands that if at any time, any averments made or 
+information furnished as part of this Bid is found incorrect, then its Bid and the Contract if 
+awarded on the basis of such Bid shall be cancelled. 
+
+J. It is hereby certified that the Bidder offers to execute the works in accordance with the Conditions 
+of Contract, Specifications and TOR accompanying this Bid. 
+
+K. I hereby confirm that this Bid complies with the Bid Validity and Bid Security required by the 
+conditions of tender document. 
+
+L. It is hereby certified that the information provided in this Technical Bid (including the attachments) 
+is true, accurate and complete to the best of my knowledge & belief. 
+
+ 
+Date:  
+
+Signature of the Authorized Signatory 
+Name & Designation/ Title of the Authorized Signatory 
+
+Place: 
+(Company’s Seal) 
+
+  
+
+
+
+ 
+
+Page 56 of 80 
+
+Form-T2 
+Declaration from OEM Bidder for clause 2.17.1.1 (i) 
+
+ 
+To,   
+
+GeneralManager(IT) 
+NationalHighwaysAuthorityofIndia(NHAI), 
+G 5&6,Sector–10,Dwarka, 
+NewDelhi –110075 
+
+ 
+Subject: Supply, Installation and Commissioning of Networking, Server, Storage, Security and Wi-
+
+Fi systems 
+ 
+Reference:  NHAI/11013/IT/WI-FI/2017 Dated: 19 JUNE 2017 
+ 
+Dear Sir/Madam, 
+ 
+We, the undersigned, confirm that we are the Original Equipment Manufacturers of the Networking 
+equipments/ Servers/ SANquoted for in our proposal for the subject tender. 
+ 
+ 
+Yours sincerely, 
+(Signature of the Authorized signatory): 
+Name and Designation of the Authorized signatory: 
+Name and Address of Firm: 
+Phone, Fax & E-Mail 
+
+
+
+ 
+
+Page 57 of 80 
+
+Form-T3 
+ 
+
+Declaration from the Non-OEM Bidder for clause 2.17.1.1 (i) 
+ 
+To,   
+
+GeneralManager(IT) 
+NationalHighwaysAuthorityofIndia(NHAI), 
+G 5&6,Sector–10,Dwarka, 
+NewDelhi –110075 
+
+ 
+Subject: Supply, Installation and Commissioning of Networking, Server, Storage, Security and Wi-
+
+Fi systems 
+ 
+Reference:  NHAI/11013/IT/WI-FI/2017 Dated: 19 JUNE 2017 
+ 
+ 
+Dear Sir/Madam, 
+ 
+We, the undersigned, having our registered office at __________, declare and confirm that we are the 
+authorized System Integrators/channel partners of M/S. ____________________, the Original Equipment 
+Manufacturers (OEM) of the Networking Equipments, Servers and Desktops quoted for in our proposal for 
+the subject tender. The OEM of Networking Equipments/Servers/ SAN quoted is having their registered 
+office at __________________________.  
+ 
+We are also attaching the authorization letter(s) of our OEM as required in the Eligibility Criteria of the 
+tender. 
+ 
+We are also attaching the letter duly signed and stamped by the authorized signatory of the above said 
+OEM confirming the support provided by them to us will include the activities like Pre & Post-Sales 
+Support, Integration Support, Technical Assistance Support, Spares Support, Software Up-gradation 
+support, etc. 
+ 
+ 
+ 
+Yours sincerely, 
+(Signature of the Authorized signatory): 
+Name and Designation of the Authorized signatory: 
+Name and Address of Firm: 
+Phone, Fax & E-Mail 
+  
+
+
+
+ 
+
+Page 58 of 80 
+
+ 
+Form-T4 
+
+ 
+Format of Certificate showing Bidder’s Annual Turnover 
+
+(To be issued on letter-head of the Chartered Accountant) 
+ 
+
+Dated 
+ 
+
+Certificate of Annual Turnover 
+ 
+ 
+ 
+It is certified that we have examined the books of accounts of M/s. ___ (name and address ofthe 
+Bidder) ___  and theaverageannualturnover of the company/ firm isnotlessthanRs.__________ 
+(Rupees_________ ) duringthelast threefinancialyears. 
+ 
+It is also certified that the net worth of the M/s. ___________ (name and address of the Bidder) is positive 
+during last three financial years. 
+
+ 
+Thedetailsoftheannualturnoverareasunder: 
+
+(Amount in Rs.) 
+Sl. No. Particulars FY 20013-14 FY 2015-16 FY 2016-17 
+
+ 
+1. 
+
+ 
+Total Annual Turnover of M/s 
+____________ 
+ 
+
+   
+
+ 
+(Signatureof Company Secretary or Statutory Auditor/ Chartered Accountant)  
+Nameof theCompany Secretary or Statutory Auditor/ Chartered Accountant :  
+Seal: 
+ 
+ 
+ImportantNotes: 
+(i) The above data should relate onlyto the Bidder who has submitted thetender.  
+(ii) In the above table, FY means Financial Year i.e. a period from 1
+
+st
+ April of preceding year to 31
+
+st
+ 
+
+March of the succeeding year. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+Page 59 of 80 
+
+Form-T5 
+ 
+
+Self-Declaration regarding Technical Capability of Similar Nature of Work 
+Date 
+
+ 
+We   ____________  (Name  of  the  Bidder),  having  registered  office  at  _______________  
+
+(address) hereby  declare  and  confirm  that   
+ 
+
+(a) We hereby declare and confirm that we, ____________ (Name of the Bidder), having registered 
+office at _______________ (address) have successfully executed contracts of similar nature i.e. 
+supply and installation of networking equipments,servers, IP telephony and system integration 
+services to its clients in Government or PSU or private organization of repute. We certify that we had 
+executed similar contracts as per the table below 
+
+ 
+
+Sl. 
+No 
+
+Name of the 
+Client 
+
+Organization 
+
+Purchas
+e Order 
+(P.O) 
+No. & 
+
+Date of 
+Issue Of 
+
+P.O. 
+
+Project 
+Value 
+
+Start 
+Date 
+
+End 
+Date 
+
+Brief 
+Scope 
+
+Of Work  
+
+Whether The 
+Successful 
+Completion 
+
+Certificate As 
+Required, Is 
+Attached? 
+
+Whether The 
+Copies Of The 
+
+Purchase Orders / 
+Contracts From 
+The Client As 
+Required, Is 
+Attached? 
+
+Yes/
+No 
+
+Pg. No. 
+On The 
+
+Proposal 
+
+Yes/
+No 
+
+Pg. No. 
+On The 
+
+Proposal 
+           
+
+           
+
+(b) We are also attaching the completion certificates from the respective client organizations and the 
+copies of work orders/contracts from the client as required in the tender along with this. 
+
+ 
+Authorized Signature: 
+Name & Title of Signatory:     
+Name of Bidder     
+ 
+ImportantNotes: 
+
+1. The above information should relate onlyto the Company(Bidder) who has submitted 
+thetender. 
+
+
+
+ 
+
+Page 60 of 80 
+
+Form-T6 
+ 
+
+Self-Declaration regarding Technical Capability of handling similar works 
+ 
+
+Date 
+ 
+
+We hereby declare and confirm that we, ____________ (Name of the Bidder), having registered 
+office at _______________ (address), are in the business of voice, video and data implementation and/ 
+or integration related activities for at least the past 3 years. 
+
+ 
+(a) We have service center having state-of-the-art equipment for repair/ maintenance of IT equipment 
+
+or having confirmed tie-up with leading service center(s) for repair of equipment which are to be 
+maintained as per the tender. The service center shall have facility through which service be 
+provided within 24 hours of call logging. Our main service center is located at _________ (Complete 
+address of service center be mentioned). Through this service center, we are providing maintenance 
+of IT equipment facility to:- 
+
+(i) Private Customers  :- Yes / No 
+(ii) Government / PSU clients  :- Yes / No 
+
+  If yes, name of client be specified   _________________ 
+(iii) Original Equipment Manufacturer (OEM)  :-  Yes / No 
+
+  If yes, name of OEM be specified M/s. ________________ 
+ 
+
+(b) We also undertake that the following services towards this tender will not be sub-contracted and will 
+be executed by our Company. 
+
+ Design Of Solution Architecture,  
+ Network Installation, Commissioning and Integration of Routers, Switches, Firewall, IP 
+
+Phones, Servers, SAN, etc. 
+ Acceptance Tests,  
+ Trainings And Handover,  
+ Project Management Services. 
+
+ 
+(c) We are intending to subcontract the following works to the respective subcontractors as found in the 
+
+table below. We submit the same for your approval. 
+
+Sl. 
+No. 
+
+Name of 
+Subcontracted 
+
+Service 
+
+Sub-Contractor 
+Name, Address and 
+Contact Numbers 
+
+Details of the 
+Subcontract 
+
+work 
+
+Brief Profile of the 
+Subcontractor proposed 
+
+     
+     
+
+ 
+(d) We also undertake that under all circumstances, the value of the works sub-contracted by us will not 
+
+exceed 25% of the Services Price. 
+Yours Sincerely, 
+ 
+(Signature of Authorized Signatory) 
+Name and Designation of the Authorized Signatory: 
+Name and address of the Bidder Company: 
+Important Notes:  
+
+ The above data should relate only to the Company (Bidder) who has submitted the tender. Data 
+relating to sister companies, group companies, parent company, subsidiary companies shall not 
+be considered.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+Page 61 of 80 
+
+ 
+          Form –T7  
+
+Format for Bank Guarantee towards Bid Security 
+ 
+BG No. ………………………………  
+ 
+Date ………..  
+ 
+ 
+To,  
+The Chairman  
+National Highways Authority of India  
+G-5&6, Sector – 10 Dwarka,  
+New Delhi - 110075  
+ 
+
+1. In consideration of “National Highways Authority of India (NHAI)” (hereinafter referred to as the 
+“Authority”, which expression shall unless it be repugnant to the subject or context thereof include 
+its successors and assigns) having agreed to receive the application of M/s ………………………. 
+and having its registered office at ………………..(hereinafter referred to as the “Bidder” which 
+expression shall unless it be repugnant to the subject or context thereof, include its/ their 
+successors, administrators, executors and assigns), for submission of bids for the works of 
+…………………………………………………………. (hereinafter called the “Works”) pursuant to 
+RFP document no. ………….. dated ……..…. of the Authority, and the bidder having agreed to 
+furnish a Bank Guarantee to the Authority as “Bid Security” for the purpose indicated in the said 
+RFP, we, ……………….….. (Name of the Bank) having our registered office at 
+………………..……………. and one of its branches at …………………………………., a body 
+registered / constituted under the ………………………. (hereinafter referred to as the Bank), 
+which expression shall, unless it be repugnant to the subject or context thereof, include its 
+successors, administrators, executors and assigns at the request of the bidder, do hereby in 
+terms of RFP document, irrevocably, unconditionally and without reservation guarantee the due 
+and faithful fulfillment and compliance of the terms and conditions of the RFP document by the 
+said bidder and unconditionally and irrevocably undertake to pay forthwith to the Authority an 
+amount of Rs. …………./- (Rupees …………….……..only) (hereinafter referred to as the 
+“Guarantee”) as aforesaid at any time up to …..………….. as our primary obligation without any 
+demur, reservation, recourse, contest or protest and without reference to the Bidder if the Bidder 
+shall fail to fulfil or comply with all or any of the terms and conditions contained in the said RFP 
+Document.  
+
+ 
+2. Any such written demand made by the Authority stating that the Bidder is in default of the due 
+
+and faithful fulfilment and compliance with the terms and conditions contained in the RFP / 
+Bidding Documents shall be final, conclusive and binding on the bank.  
+ 
+
+3. We, the Bank, do hereby unconditionally undertake to pay the amounts due and payable under 
+this Guarantee without any demur, reservation recourse, contest or protest and without any 
+reference to the Bidder or any other person and irrespective of whether the claim of the Authority 
+is disputed by the Bidder or not, merely on the first demand from the Authority stating that the 
+amount claimed is due to the Authority by reason of failure of the Bidder to fulfil and comply with 
+the terms and conditions contained in the RFP/ Bidding Documents including failure of the said 
+Bidder to keep its Bid open during the Bid validity period as set forth in the said RFP / Bidding 
+Document for any reason whatsoever. Any such demand made on the bank shall be conclusive 
+as regards amount due and payable by the Bank under this Guarantee. However, our liability 
+under this Guarantee shall be restricted to an amount not exceeding Rs. ………... (Rupees 
+………….. .. only).  
+ 
+
+4. This Guarantee shall be irrevocable and remain in full force upto ……..…. inclusive of a claim 
+period of 60 (sixty) days or for such extended period as may be mutually agreed between the 
+Authority and the Bidder, and agreed to by the Bank, and shall continue to be enforceable till all 
+amounts under this Guarantee have been paid.  
+ 
+
+
+
+ 
+
+Page 62 of 80 
+
+5. We, the Bank, further agree that the Authority shall be the sole judge to decide as to whether the 
+Bidder is in default of due and faithful fulfillment and compliance with the terms and conditions 
+contained in the RFP/ Bidding Documents including, inter alia, the failure of the Bidder to keep its 
+Bid open during the Bid validity period set forth in the said Bidding Documents, and the decision 
+of the Authority that the Bidder is in default as aforesaid shall be final and binding on us, 
+notwithstanding any differences between the Authority and the Bidder or any dispute pending 
+before any Court, Tribunal, Arbitrator or any other Authority.  
+ 
+
+6. The Guarantee shall not be affected by any change in the constitution or winding up of the Bidder 
+or the Bank or any absorption, merger or amalgamation of the Bidder or the Bank with any other 
+person.  
+ 
+
+7. In order to give full effect to this Guarantee, the Authority shall be entitled to treat the Bank as the 
+principal debtor. The Authority shall have the fullest liberty without affecting in any way the liability 
+of the Bank under this Guarantee from time to time to vary any of the terms and conditions 
+contained in the said RFP / Bidding Documents or to extend time for submission of the Bids or 
+the Bid validity period or the period for conveying acceptance of Letter of Award by the Bidder or 
+the period for fulfilment and compliance with all or any of the terms and conditions contained in 
+the said RFP / Bidding Documents by the said Bidder or to postpone for any time and from time 
+to time any of the powers exercisable by it against the said Bidder and either to enforce or forbear 
+from enforcing any of the terms and conditions contained in the said RFP/ Bidding Documents or 
+the securities available to the Authority, and the Bank shall not be released from its liability under 
+these presents by any exercise by the Authority of the liberty with reference to the matters 
+aforesaid or by reason of time being given to the said Bidder or any other forbearance, act or 
+omission on the part of the Authority or any indulgence by the Authority to the said Bidder or by 
+any change in the constitution of the Authority or its absorption, merger or amalgamation with any 
+other person or any other matter or thing whatsoever which under the law relating to sureties 
+would but for this provision have the effect of releasing the Bank from its such liability.  
+ 
+
+8. Any notice by way of request, demand or otherwise hereunder shall be sufficiently given or made 
+if addressed to the Bank and sent by courier or by registered mail to the Bank at the address set 
+forth herein.  
+
+ 
+
+9. We undertake to make the payment on receipt of your notice of claim on us addressed to name of 
+Bank along with branch address and delivered at our above branch which shall be deemed to 
+have been duly authorized to receive the said notice of claim.  
+ 
+
+10. It shall not be necessary for the Authority to proceed against the said Bidder before proceeding 
+against the Bank and the guarantee herein contained shall be enforceable against the Bank, 
+notwithstanding any other security which the Authority may have obtained from the said Bidder or 
+any other person and which shall, at the time when proceedings are taken against the Bank 
+hereunder, be outstanding or unrealized.  
+ 
+
+11. We, the Bank, further undertake not to revoke this Guarantee during its currency except with the 
+previous express consent of the Authority in writing. 
+ 
+
+12. The Bank declares that it has power to issue this Guarantee and discharge the obligations 
+contemplated herein, the undersigned is duly authorized and has full power to execute this 
+Guarantee for and on behalf of the Bank.  
+ 
+
+13. This guarantee shall also be operable at our ___________________branch at New Delhi, from 
+whom, confirmation regarding the issue of this guarantee or extension/ renewal thereof shall be 
+made available on demand. In the contingency of this guarantee being invoked and payment 
+thereunder claimed, the said branch shall accept such invocation letter and make payment of 
+amounts so demanded under the said invocation.  
+ 
+
+14. This bank guarantee shall be valid from ……………………  
+ 
+
+
+
+ 
+
+Page 63 of 80 
+
+15. Notwithstanding anything contained herein:  
+ 
+
+(i) Our liability under this Bank Guarantee shall not exceed Rs. ……………/-  
+(ii) The Bank Guarantee shall be valid up to…………………………………  
+(iii) We are liable to pay the Guarantee amount or any part thereof under this Guarantee 
+
+only and only if you serve upon us a written claim or demand on or before ……….….  
+ 
+
+ 
+
+Signed and Delivered by ……………………………. Bank.  
+
+By the hand of Mr. / Ms. ………………………….., its ………………. and authorize official.  
+
+ 
+
+ 
+
+ 
+
+(Signature of the Authorised Signatory)  
+
+(Name & Designation with Bank’s Official Seal)  
+
+ 
+
+ 
+NOTE:  
+
+(i) The bank guarantee(s) shall contain the name, designation and code number of the officer(s) 
+signing the guarantee(s);  
+
+(ii) The address, telephone no. and other details of the Head Office of the Bank as well as of issuing 
+branch should be mentioned on the covering letter of issuing Branch.  
+
+(iii) The bank guarantee shall be signed by the officials as per the norms prescribed by the RBI in this 
+regard. 
+
+ 
+  
+
+
+
+ 
+
+Page 64 of 80 
+
+ 
+ 
+ 
+ 
+ 
+
+SECTION – VII 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+FORMS FOR  
+SUBMISSION OF FINANCIALBID 
+
+ 
+ 
+
+
+
+ 
+
+Page 65 of 80 
+
+Form-F1 
+[Location,Date] 
+
+From: 
+ (Name and Address of the Bidder)  
+ 
+To   
+
+GeneralManager(IT) 
+NationalHighwaysAuthorityofIndia(NHAI), 
+G 5&6,Sector–10,Dwarka, 
+NewDelhi –110075 
+
+ 
+Subject: Supply, Installation and Commissioning of Networking, Server, Storage, Security and Wi-Fi 
+systems 
+ 
+Reference: NHAI’s Tender No.NHAI/11013/IT/WI-FI/2017 dated 19/06/2017 
+ 
+ 
+Sir, 
+
+ 
+We, the undersigned, offer to provide the services for the above mentioned project in 
+
+accordance with your Tender Notice referred above and our Proposal. The amount indicated in this 
+Financial Bid is inclusive of all the taxes, duties, fees, levies, and other charges imposed under the 
+applicable law. The details are as follows: 
+
+ 
+(Amount in Rs.) 
+
+Particulars Contract period for 3 year 
+Cost of providing equipment/ services described under Terms 
+of Reference (in figures). As per Grand Total for Schedule-I 
+(Sl. 5 – Sl. 6) of SUMMARY OF COST FOR SCHEDULE-I 
+
+ 
+
+ 
+(Amount in words) 
+Excluding taxes as applicable 
+ 
+
+ 
+
+Total Taxes as applicable  
+Total Taxes Amount in Words  
+Grand Total  
+
+ 
+2. Our Proposal is binding upon us and subject to the modifications resulting from Contract 
+negotiations, if any, up to expiration of the validity period of the proposal i.e. 120 days from the last 
+date of submission of the Bid or as extended in accordance with the tender conditions. 
+ 
+3. We undertake that, in competing for (and, if the award is made to us, in executing) the above 
+Contract, we will strictly observe the laws against fraud and corruption in force in India namely 
+“Prevention of Corruption Act 1988”. We understand that NHAI is not bound to accept any proposal it 
+receives. 
+ 
+Yours sincerely,  
+ 
+Authorized signatory 
+Name & Title of Signatory:    
+Designation of the Signatory: 
+Name of Bidder & Address:     
+  
+  
+
+
+
+ 
+
+Page 66 of 80 
+
+FORM-F2 
+Detailed breakup of Rates of the Financial Bid 
+
+ 
+1. Up-gradation of networking, IP telephony, security equipment/ software.  
+ 
+Sr. 
+No. 
+
+Description Qty Unit Rate w/o 
+taxes (INR) 
+
+Total Amount 
+w/o taxes 
+
+(INR) 
+
+Per Year AMC 
+w/o taxes (For 
+total Quantity) 
+
+1.  WAN Router 4    
+2.  Core Switch  2    
+3.  IP Phone Type1 30    
+4.  IP Phone Type2 15    
+5.  Rack Servers 1    
+6.  Storage Solution with minimum 35TB 
+
+usable storage and 4 Compute nodes 
+with Virtualization license 
+
+1 
+Set 
+
+   
+
+7.  Firewall 2    
+8.  Edge Switch 2    
+9.  Distribution Switch 2    
+10.  PoE Layer2 Switch 9    
+11.  Network Management System 1    
+
+12.  AAA/NAC 2    
+13.  Wireless Access Points 72    
+
+14.  Wireless Controller 2    
+15.  Windows 2012 standard SP2 or 
+
+latest 
+6    
+
+16.  Installation Charges 1    
+Total of Schedule-I (1)   
+
+ 
+ 
+
+Applicable taxes on above 
+ 
+
+ 
+
+Grand Total inclusive of all taxes for Schedule-I (1)  
+Total Per Year AMC after initial Warranty Period (w/o taxes)  
+ 
+Note: Shall include 3 year Product warranty in the Base Price 
+Per Year AMC for each of the product to be not included in determining L1 
+ 
+2. Up-gradation of Passive Components. 
+ 
+Sr. 
+No. 
+
+Description Qty. Unit Rate 
+w/o taxes 
+
+(INR) 
+
+Total Amount w/o 
+taxes (INR) 
+
+Per Year AMC 
+w/o taxes (For 
+total Quantity) 
+
+1.  WI-FI LAN Cabling including PVC 
+conduit & other relevant items. 
+
+1 LOT    
+
+2.  Intra Building Backbone including 
+PVC conduit & other relevant items. 
+
+1 LOT    
+
+3 Racks/Cabinets including all 
+accessories 
+
+1 LOT    
+
+4 Installation/configuration Charges for 
+computer hardware and peripherals 
+as well as system integration at NHAI 
+office (New Delhi). 
+
+1 LOT 
+- 
+
+ 
+ 
+ 
+
+  
+
+Total for Schedule-I (2) 
+ 
+ 
+
+ 
+
+Applicable taxes on above  
+Grand Total inclusive of all taxes for Schedule-I (2)  
+
+Total Per Year AMC after initial Warranty Period (w/o taxes)  
+ 
+
+
+
+ 
+
+Page 67 of 80 
+
+ 
+ 
+ 
+ 
+3 Cost for 3 Year AMC of Existing Components 
+ 
+
+ 
+S. 
+
+No. 
+
+Description Qty Unit Rate 
+w/o taxes 
+
+(INR) 
+
+Total Amount w/o 
+taxes (INR) 
+
+1 Cisco Rack Server UCSC-C420-M3 16   
+
+2 Cisco Blade Chassis 5108 2   
+3 Cisco Fabric Interconnect  6248 2   
+4 Cisco CUCM Call Manager 
+
+Licenses(Enhanced Plus ver 9.x and Unity 
+Standard) 
+
+1 lot 
+approx. 
+310 lic. 
+
+  
+
+5 Call Manager HW (UCUCS-EZ-C220M3S) 2   
+6 Cisco UCSB-B200-M3 Blade server 4   
+7 Cisco Switch 24 Port S-C2960S-24TS-L 6   
+8 Cisco Switch 48 PortWS-C2960S-48TS-L 6   
+9 Cisco Router 2921 MPLS Router 4   
+
+10 Cisco Router 3945 MPLS Router 1   
+11 Cisco Firewall ASA-5585 4   
+12 Cisco IP Phone CP-7942 60   
+13 Cisco IP Phone CP-8945 30   
+14 Cisco IP Phone CP-9971 20   
+15 Cisco VC Endpoints (CTS-INTP-C60K9) 
+
+Distributed across RO offices) 
+25   
+
+16 MCU 8210 1   
+17 Samsung LED(Distributed Across RO offices) 25   
+18 Microsoft SQL 14 Enterprise Edition 12 
+
+licenses 
+on 2 
+
+Servers 
+
+  
+
+19 Microsoft 2013 Exchange Enterprise Edition 4 
+license 
+
+  
+
+Total for Schedule-I (3) 
+ 
+ 
+
+Applicable taxes on above 
+ 
+
+ 
+
+Grand Total inclusive of all taxes for Schedule-I (3) 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+Page 68 of 80 
+
+ 
+ 
+ 
+ 
+ 
+4. Cost for Optional Items 
+
+The Bidder is required to provide the Price Schedule for Optional Items, in the following format 
+and attach itwith the Commercial Proposal. 
+ 
+
+Sl. 
+No. 
+
+ 
+Item Description 
+
+ 
+Qty. 
+
+Basic Unit Price 
+inclusive of all 
+
+levies & 
+charges 
+
+Total Price 
+inclusive of all 
+
+levies & 
+charges 
+
+1 (Description of any other optional item) (Add additional rows 
+as required) 
+
+ 
+  
+
+2     
+
+3     
+
+4     
+
+5     
+
+Total for Schedule-I (4)  
+
+Applicable taxes on above  
+
+Grand Total inclusive of all taxes for Schedule-I (4)  
+
+ 
+ 
+ 
+5. Buy-Back of existing IT equipment 
+ 
+
+SI 
+No. 
+
+Description and Brief specifications  
+(These equipment’s are in As-Is-Where-Is Basis)  
+
+Qty. 
+Lump-Sum Buy-
+
+Back Amount (INR) 
+1. Cisco 3800 series Router 2  
+2. Cisco 6500 series Switch 1  
+
+Total Cost for Schedule-I (5)  
+ 
+
+
+
+ 
+
+Page 69 of 80 
+
+6. SUMMARY OF COST FOR SCHEDULE-I 
+
+Amount in Rupees 
+ 
+
+Sl. 
+No. 
+
+Particulars 
+Amount in 
+
+Figures 
+Amount in 
+
+Words 
+
+1.  Total for Schedule-I (1)   
+2.  Total for Schedule-I (2)   
+3.  Total for Schedule-I (3)   
+4.  Total for Schedule-I (4)   
+5.  Total Cost  
+
+(Schedule-I (1) + (2) + (3) + (4) 
+  
+
+6.  Total for Schedule-I (5)   
+Grand Total for Schedule-I (Sl. 5 – Sl. 6)   
+
+ 
+ 
+
+ 
+NOTE: Contract will be awarded to fully technical complied and L1 bidder based on the Grand total in the 
+table above I.e. “Grand Total for Schedule (SI. 5 – SI.6) of Table “Summary of Cost for Schedule – I”.  
+ 
+Kindly note that Taxes like GST/Service Tax/Octroi will not be considered to declare the L1 bidders and 
+same shall not be included in the tables “SUMMARY OF COST FOR SCHEDULE-I” 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+Page 70 of 80 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+PART-III 
+ 
+ 
+ 
+ 
+ 
+
+FORMAT OF CONTRACT  
+
+
+
+ 
+
+Page 71 of 80 
+
+SECTION – VIII 
+ 
+
+FORMAT OF CONTRACT  
+ 
+No. …………… 
+ 
+This Contract (hereinafter called the “Contract”) is made on this ___day of the month of ___, 2017 
+
+BETWEEN 
+National Highways Authority of India (NHAI), constituted by an act of Parliament, The National 
+Highways Authority of India Act, 1988, and having its head office at G 5 & 6, Sector 10, Dwarka, 
+New Delhi-110075 (hereinafter referred to as the “NHAI” or the “Employer”, which expression shall, 
+unless repugnant to or inconsistent with the context, mean and include its  successors and 
+assigns) of the FIRST PART. 
+
+AND 
+___________________, a company incorporated under the provisions of the Companies Act, 1956 
+and having its registered office at 
+1____________________________________________________ (hereinafter referred to as the 
+“_______” or the “System Integrator” which expression shall unless repugnant to or inconsistent 
+with the context, mean  and  include  its  successors  and assigns) of the OTHER PART. 
+ 
+WHEREAS 
+ 
+(A) the System Integrator, in the ordinary course of its business, is engaged in 
+
+providingSupply, Installation and Commissioning of Networking, Server, Storage, Security 
+and Wi-Fi systemswith Warranty for 3 years and have represented to the NHAI through 
+their tender proposals, against NHAI/11013/IT/WI-FI/2017 dated 19/06/2017(hereinafter 
+called the “Tender”) for Comprehensive IT and Network Services Management at NHAI 
+offices (hereinafter called the “Services”), that they have required professional skills, 
+personnel and technical resources to provide the required Services; 
+
+(B) the System Integrator has been adjudged the SuccessfulBidder and NHAI vide its Letter of 
+Award (LOA) No. ………… dated xx.xx.2017 has requested the System Integrator to 
+submit Performance Security along with the letter of acceptance for providing the Services; 
+
+(C) the System Integrator has submitted the requisite Performance Security and agreed 
+through their letter of acceptance dated ___________ to provide the Services on the terms 
+and conditions set forth in this Contract; 
+
+ 
+NOW THEREFORE THIS CONTRACT WITNESSTH 
+ 
+1. In this Contract words and expressions shall have the same meanings as are respectively 
+
+assigned to them in the Conditions of the Contract hereinafter referred to. 
+ 
+2. The following schedules/ appendices shall be deemed to form and be read and construed 
+
+as part of this agreement viz. 
+(a) Schedule – I: General Conditions of the Contract (GCC); 
+(b) List of appendices: 
+
+Appendix A Copy of Financial Bid submitted by the System Integrator 
+showing breakdown of Contract Price 
+
+Appendix B Letter of Award issued by NHAI 
+Appendix C Letter of Acceptance submitted by the System Integrator 
+Appendix D Copy of Performance Security submitted by the System 
+
+Integrator 
+Appendix E Copy of authorization/ Power of Attorney in favour of authorized 
+
+representative of the System Integrator authorizing him to sign 
+this Contract  
+
+Appendix F Copy of the Tender Document and any addendum thereof 
+ 
+
+
+
+ 
+
+Page 72 of 80 
+
+3. The System Integrator shall submit the details as sought by the NHAI in the format 
+provided under the appendices of this Contract.The foregoing schedules and appendices 
+shall be construed as complementary and mutually explanatory one with another. Should 
+any ambiguities or discrepancy be noted then the order of precedence of these schedules/ 
+appendices shall subject to the Special Conditions be as listed above. 
+
+ 
+(a) This Contract together with the schedules and appendices hereto, constitutes the 
+
+entire Contract between the parties with respect to the subject matter hereof and 
+supersedes in all respects all prior proposals, negotiations, conversations, discussions 
+and agreements between the parties concerning the subject matter hereof. 
+Subsequent alterations, amendments, changes or additions hereto, if any, shall be 
+binding and valid unless agreed to in writing and signed by each Party. 
+
+ 
+5. The mutual rights and obligations of the NHAI and the System Integrator shall be as set 
+
+forth in the Contract, in particular: 
+(a) The System Integrator shall carry out the Services in accordance with the 
+
+provisions of this Contract; and 
+(b) The NHAI shall make payments in accordance with the provisions of this Contract. 
+
+ 
+IN WITNESS WHEREOF, the parties hereto have caused this Contract to be executed by their 
+respective authorized representatives on the day and year first before written. 
+ 
+
+FOR AND ON BEHALF OF 
+(National Highways Authority of India) 
+
+ FOR AND ON BEHALF OF 
+(M/s ____________) 
+
+ 
+ 
+
+  
+
+(Authorized Representative) 
+Name: ______________  
+
+Chief General Manager (P&IS) 
+National Highways Authority of India 
+
+G-5&6, Sector – 10, Dwarka 
+New Delhi – 110075 
+
+ (Authorized Representative) 
+Name: ______________________  
+Designation: __________________ 
+M/s __________________________  
+Address:_______________________ 
+
+ 
+In the presence of following witnesses: 
+  
+
+ 
+   
+
+1. 
+ 
+ 
+ 
+ 
+
+Name: ______________  
+Dy General Manager (P&IS) 
+National Highways Authority of India 
+G-5&6, Sector – 10, Dwarka 
+New Delhi – 110075 
+
+ 1. Name: ______________________  
+Designation: __________________ 
+M/s __________________________  
+Address:_______________________ 
+ 
+
+     
+2. Name: ______________  
+
+Manager (P&IS) 
+National Highways Authority of India 
+G-5&6, Sector – 10, Dwarka 
+New Delhi – 110075 
+
+ 2. Name: ______________________  
+Designation: __________________ 
+M/s __________________________  
+Address :______________________ 
+ 
+
+
+
+ 
+
+Page 73 of 80 
+
+SCHEDULE – I 
+GENERAL CONDITIONS OF THE CONTRACT 
+
+ 
+1. PRELIMINARY 
+
+ 
+Subject as hereinafter otherwise provided, the guidelines contained in the NHAI Works Manual 
+(hereinafter referred to as “Works Manual”) shall apply to this Contract and in so far as they are not 
+provided, amended or substituted by the Conditions in the GCC& SCC and hereby expressly 
+declared that in case of any conflict between the provisions contained in the GCC& SCC hereof 
+and the provisions of the Works Manual, the provisions contained in the GCC& SCC hereof shall 
+prevail. 
+ 
+2. GENERAL PROVISIONS 
+
+ 
+a. Definitions: Unless the context otherwise require, the following terms whenever used in this 
+
+Contract shall have the following meanings: 
+
+(i) “Applicable Law” shall mean the laws and other instruments having the force of law 
+in India as applicable from time to time. 
+
+(ii) “Contract” shall mean the Contract signed by the parties, to which these General 
+Conditions of the Contract (GCC) are attached, together with all the schedules/ 
+appendices listed in Clause 2 of such Contract. 
+
+(iii) “Defect Liability Period” shall mean the period of 365 days beyond the validity of this 
+Contract during which the System Integrator shall be liable to rectify defects in the 
+performance of Services as pointed out by the Employer. 
+
+(iv) “Effective Date” shall mean the date on which this Contract comes into force and 
+effect pursuant to Clause 3.1 hereof. 
+
+(v) “Employer” refers to National Highways Authority of India. 
+(vi) “GCC” shall mean General Conditions of the Contract. 
+(vii) “Government” means the Government of India. 
+(viii) “NHAI” shall mean National Highways Authority of India. 
+(ix) “NHAI Works Manual” shall mean manual containing guidelines/ instructions issued 
+
+by NHAI from time to time on various aspects including selection of consultants, 
+award of contracts, contract management, etc. A copy of the manual is available on 
+NHAI’s website.  
+
+(x) “Party” shall mean NHAI or the System Integrator, as the case may be, and 
+“Parties”shall mean NHAI and the System Integrator. 
+
+(xi) “Personnel” shall mean persons hired by the System Integrator or by any Sub-
+Contractor as employees and assigned to the performance of the Services or any 
+part thereof under this contract. 
+
+(xii) “Third Party” shall mean any person or entity other than the Government, the NHAI 
+and the System Integrator. 
+
+ 
+b. Law Governing the Contract: This Contract, its meaning and interpretation, and the relation 
+
+between the Parties shall be governed by the Applicable Law. 
+ 
+c. Language: This Contract has been executed in Hindi and English. However, the English 
+
+version shall be binding for all matters relating to the meaning and interpretation of this 
+Contract. 
+
+ 
+d. Headings: The headings shall not limit, alter or affect the meaning of this Contract. 
+ 
+
+
+
+ 
+
+Page 74 of 80 
+
+e. Notices:  Any notice, request, consent or communication required to be made pursuant to 
+this Contract shall be in writing and shall be deemed to have been made when delivered in 
+person to an authorized representative of the Party,as per Clause 2.6, to whom the 
+communication is addressed, or when sent by registered/ speed post or courier to such 
+Party’s authorized representative at the address specified in SCC. 
+
+ 
+f. Authorized Representatives: Any action required or permitted to be taken, and any document 
+
+required or permitted to be executed, under this Contract by the NHAI or the System 
+Integrator may be taken or executed either by the persons signing this Contract or by the 
+officials specified in the SCC. Changes in authorized representative(s) are to be notified in 
+writing by the Parties immediately and in any case within one (1) week of such change. 
+
+ 
+g. Location: The Services shall be performed at such locations as are specified in this Contract 
+
+or at a location approved by the Employer. 
+ 
+h. Taxes and Duties: The System Integrator, their Personnel and their Sub-Contractor, if any, 
+
+shall pay such taxes, duties fees, and other impositions as may be levied under the 
+Applicable Law, the amount of which is deemed to have been included in the Contract Price. 
+
+ 
+i. Survival:  Rights and obligations which have accrued at that time of termination or expiry of 
+
+this Contract shall survive even after the termination or expiry of this Contract and any 
+provisions hereof which, by their nature are intended to survive this Contract, will so survive. 
+
+ 
+j. Assignment or transfer of obligations: This Contract shall ensure the benefit of each of the 
+
+parties and their respective successors and neither Party shall otherwise assign the benefit 
+or burden of this Contract to any other entity, without the prior written consent of the other 
+Party. The System Integrator shall not outsource the work to any other associate/ franchisee/ 
+third party, without prior written consent of the Employer, under any circumstances. If it so 
+happens then NHAI shall impose sanctions which will include forfeiture of the Performance 
+Security and/ or termination of the Contract for default. 
+
+ 
+k. Relationship of Parties: It is clearly understood that the relationship of the Parties is in terms 
+
+of this Contract. Neither party shall be deemed to be the legal representative or agent of the 
+other. 
+
+ 
+3. COMMENCEMENT, COMPLETION, MODIFICATION, AND TERMINATION OF CONTRACT 
+
+ 
+a. Effectiveness of Contract: The Contract shall come into effect on the date the Contract is 
+
+signed by the Parties or such other date as may be stated in the SCC (“Effective Date”). 
+ 
+b. Expiration of Contract: Unless terminated earlier pursuant to Clause 3.6 hereinafter, this 
+
+Contract shall terminate at the end of such time period after the Effective Date as is specified 
+in the SCC. 
+
+ 
+c. Modification: Any amendment or modification of the terms and conditions of this Contract, 
+
+including any modification of the scope of the Services or of the Contract Price, shall be valid 
+and binding on the Parties only if made in writing and signed on behalf of both the Parties by 
+their respective authorized signatories. However, the Employer reserves the right to modify 
+at any time the terms and conditions of the Contract, if in the opinion of the Employer it is 
+necessary or expedient to do so in public interest or in the interest of the security of the State 
+or for the proper conduct of the Service. The decision of the Employer shall be final in this 
+regard. 
+
+ 
+4. Force Majeure 
+ 
+
+
+
+ 
+
+Page 75 of 80 
+
+Definition: For the purposes of this Contract, “Force Majeure” means an event which is 
+beyond the reasonable control of a Party, and which makes a Party’s performance of its 
+obligations under the Contract impossible or so  impractical as reasonably to be 
+considered impossible under the circumstances. 
+ 
+
+a. Force Majeure includes, but is not limited to, war, riots, civil disorder, earthquake, fire, 
+explosion, storm, flood or other adverse weather conditions strikes, lockouts or other 
+industrial action (except where such strikes, lockouts or other industrial action are within 
+the power of the Party invoking Force Majeure to prevent), confiscation or any other action 
+by government agencies. 
+
+ 
+b. Force Majeure shall not include (i) any event which is caused by the negligence or 
+
+intentional act of a Party or such Party’s Sub-Contractors or agents or employees, nor (ii) 
+any event which a diligent party could reasonably have expected to (A) take into account at 
+the time of the conclusion of this Contract and (B) avoid or overcome in the carrying out of 
+its obligations hereunder. 
+
+ 
+c. Force Majeure shall not include insufficiency of funds or failure to make any payment 
+
+required hereunder. 
+
+ 
+i. The System Integrator shall advise the Employer in writing, duly certified by the reasonable 
+
+authority, the beginning and the end of the above causes of delay, within seven (7) days of 
+the occurrence and cessation of the Force Majeure conditions. In the event of a delay 
+lasting for more than 60 days, if arising out of clauses of Force Majeure, the Employer 
+reserves the right to cancel the order without any obligation to compensate the System 
+Integrator in any manner for whatsoever reason. 
+
+ 
+5. Termination 
+ 
+
+i. By the Employer:  
+ 
+a. The Employer may terminate this Contract, by written notice of termination to the System 
+
+Integrator, to be given after the occurrence of any of the events specified in paragraphs 
+(a) through I below: 
+
+ 
+ 
+(a) if the System Integrator do not remedy a failure in the performance of their 
+
+obligation under the Contract, within 15 days after being notified or within any 
+further period as the Employer may have subsequently approved in writing; 
+
+ 
+(b) if the System Integrator, in the judgment of the Employer, has engaged in corrupt 
+
+or fraudulent practices in competing for or in executing the Contract; 
+ 
+
+(c) if the System Integrator becomes bankrupt or otherwise insolvent; 
+ 
+
+(d) if, as a result of Force Majeure, the System Integrator is unable to perform a 
+material portion of the Services for a period of not less than sixty (60) days.   
+
+ 
+b. If the Employer, in its sole discretion, decides to terminate this Contract, it may do so, by 
+
+written notice of one hundred eighty (180) days to the System Integrator. 
+ 
+
+
+
+ 
+
+Page 76 of 80 
+
+ii. By the System Integrator: The System Integrator may terminate this Contract, by not less 
+than thirty (30) days’ written notice of termination to the Employer, such notice to be given 
+after the occurrence of any of the events specified in paragraphs (a) and (b) below: 
+
+ 
+(b) If the Employer fails to pay any monies due to the System Integrator pursuant to this 
+
+Contract and not subject to dispute pursuant to Clause 7 within forty-five (45) days 
+after receiving written notice from the System Integrator that such payment is overdue; 
+or 
+
+(c) if, as a result of Force Majeure, the System Integrator is unable to perform a material 
+portion of the Services for a period of not less than sixty (60) days. 
+
+ 
+iii. Payment upon Termination: Upon termination of this Contract, the System Integrator shall 
+
+be entitled to all undisputed sums that are due for the Equipment supplied and Services 
+satisfactorily rendered prior to the termination. In the event of such termination, the System 
+Integrator shall refund the sums on pro-rata basis, if the advance sums are with the 
+System Integrator, for the period unutilized, after considering the period of notice.  
+ 
+
+iv. In case of occurrence of any of the events specified in paragraphs (a) and (b) of Clause 
+3.6.1.1, the Employer may, at its discretion, also take the following action against the 
+defaulting System Integrator: 
+
+ 
+The Employer may transfer upon such terms and in such manner, as it deems 
+appropriate, the work order for the balance work to any other agency and the 
+defaulting System Integrator shall be liable to compensate the Employer for any extra 
+expenditure involved towards the said balance work to complete the scope of Services. 
+
+ 
+6. OBLIGATIONS OF THE SYSTEM INTEGRATOR 
+ 
+
+a. General: The System Integrator shall perform the Services and carry out their 
+obligations with all due diligence, efficiency and economy, in accordance with 
+generally accepted professional techniques and practices, and shall observe 
+sound management practices, and employ appropriate advanced technology and 
+safe methods in accordance with standards of the profession. The System 
+Integrator shall always act, in respect of any matter relating to this Contract or to 
+the Services, as  faithful  adviser  to  the Employer and  shall  at  all  times  support  
+and safeguard the Employer’s legitimate interests in any dealings with the Sub-
+Contractors or third parties. 
+
+b. Conflict of Interests: Further, the System Integrator and its affiliates shall not 
+engage directly or indirectly in activities that is against the interest of the Employer 
+under the Contract. 
+
+ 
+c. Confidentiality:  
+
+ 
+i. As used herein, the term “Confidential Information” means any information, including 
+
+without limitation, information created by or for the other Party, whether written or 
+oral, which relates to internal controls, computer or data processing programs, 
+algorithms, electronic data processing applications, routines, sub-routines, 
+techniques or systems, or information concerning the business or financial affairs 
+and methods of operation or proposed methods of operation, accounts, transactions, 
+proposed transactions or security procedures of either party or any of its affiliates, 
+except such information which is in the public domain at the time of its disclosure or 
+thereafter enters the public domain other than as a result of a breach of duty on the 
+part of the party receiving such information. It is the express intent of the Parties that 
+all the business process and methods used by the System Integrator in rendering the 
+services hereunder are the Confidential Information of the System Integrator. 
+
+ 
+
+
+
+ 
+
+Page 77 of 80 
+
+ii. The Parties shall handle any Confidential Information of the other Party with the 
+same degree of care as it would treat its own Confidential Information. The Parties 
+agree that the Confidential Information will be used only for the purposes of this 
+Contract and shall not be disclosed to any Third Party for any reason whatsoever. 
+
+ 
+iii. The System Integrator shall not, without NHAI’s prior written consent, disclose the 
+
+Contract, or any provision thereof, or any specification, plan, sample of information 
+furnished by or on behalf of the Employer in connection therewith, to any person other 
+than a person employed by the System Integrator engaged in the performance of the 
+Contract. Disclosure to any such employed person will be made in confidence and will 
+be extended as may be necessary for the purposes of fulfillment of such performance. 
+The System Integrator shall ensure that no information about the software, hardware, 
+database and the policies of Employer is taken out in any form including electronic 
+form or otherwise, from any of the work site by the manpower posted by them. The 
+obligations of confidentiality under this section shall survive termination or expiration of 
+this Contract. 
+
+ 
+iv. At all times during the performance of the Services, the System Integrator shall abide 
+
+by all the applicable Employer’s security rules, policies, standards,guidelines and 
+procedures.  The System Integrator agrees that before any of its employees or 
+assignees is given access to the Confidential Information, each such employee and 
+assignees shall agree to be bound by the term of this Contract and such rules, policies, 
+standards, guidelines and procedures of the Employer, which is followed by the 
+Employer’s employees or agents. 
+
+ 
+d. Right & Ownership of equipments or software or documents: 
+
+ 
+i. All specifications, designs, flow-charts, reports and other documents and software 
+
+submitted by the System Integratorunder this Contract shall become and remain the 
+property of the Employer, and the System Integrator shall, not later than upon termination 
+or expiration of this Contract, deliver all such documents and software to the Employer, 
+together with a detailed inventory thereof.  
+
+ 
+ii. All Services rendered by the System Integrator under this Contract and the equipments or 
+
+documents of such Services including but not limited to written materials manifested in 
+programs, design documentation, disks, and tapes shall belong to the Employer. 
+
+ 
+iii. All documentation, wherever called for, shall be in good, simple and concise English using 
+
+accepted technical terms and symbols. All documents, except for the standard 
+documentation that accompanies the appropriate hardware and software shall be made 
+available in hard copy and/ or soft copy to the Employer. All such documents shall have 
+comprehensive index to facilitate quick reference. All printed documentation shall come 
+with ring folders and proper font size labels. The documentation shall be properly arranged 
+and sorted. 
+
+ 
+iv. The System Integrator shall be responsible for the provision of adequate and suitable 
+
+documentation wherever applicable. All documentation shall be completed and delivered to 
+the Employer. The System Integrator shall provide satisfactory answers to any reasonable 
+queries raised by the Employer concerning any information stated in the documentation. 
+
+ 
+v. On the completion of Contract Period, the System Integrator shall handover all related 
+
+documents and shall demonstrate that the source code is executable. In summary, the 
+System Integrator shall be responsible for technology transfer of the system in such a way 
+that the same can be put to use by the Employer after conclusion of the Contract through 
+alternate resources. The technology transfer procedures shall be completed before 
+
+
+
+ 
+
+Page 78 of 80 
+
+submission of final bills on completion of the Contract or within 21 days of earlier 
+termination of the Contract. 
+
+ 
+vi. Change in the Applicable Law: If, after the date of this Contract, there is any change in the 
+
+Applicable Law with respect to taxes and duties which increases or decreases the cost of 
+the Services rendered by the System Integrator, then the remuneration and reimbursable 
+expenses otherwise payable to the System Integrator under this Contract shall be 
+increased or decreased accordingly by agreement between the Parties, and corresponding 
+adjustments shall be made to the amount referred to in Clause 7.1 hereof. 
+
+ 
+7. PAYMENTS TO THE SYSTEM INTEGRATOR 
+ 
+
+a. Total Remuneration: The remuneration payable to the System Integrator shall not 
+normally exceed the Contract Price during the validity period of the Contract. In 
+case the Contract is extended beyond the initial Contract period as stipulated in 
+the tender conditions, the total remuneration shall increase by an amount agreed 
+by the Parties in accordance with the financial proposal of the System Integrator 
+accepted by NHAI.  
+
+ 
+b. Contract Price: The Contract Price shall be equivalent to the cost of Services for 
+
+the initial Contract period payable by the Employer as per financial proposal of the 
+System Integrator. This price shall be used for determination of amount for 
+Performance Security. 
+
+ 
+c. Terms and Conditions of Payment:  
+ 
+Payments under different schedule shall be released from:- 
+ 
+
+Sr. 
+No. 
+
+Work/ Services 
+Payment to be 
+
+made from 
+Payment Periodicity 
+
+1.  
+
+Supply, Installation 
+and Commissioning of 
+Networking, Server, 
+Security, Storage and 
+Wi-Fi systems 
+
+NHAI HQs 
+
+ 80% after supply items 
+ 10% after the installation 
+
+of equipments 
+ 10% will be paid after 1 
+
+months of successful 
+acceptance. 
+
+ 
+The amount due for providing the Services shall be payable quarterly in arrears on 
+satisfactory performance and submission of Pre-receipted bills in triplicate subject to 
+following conditions: 
+
+ 
+(a) The payment to the System Integrator shall be made on the basis of unit rate as per 
+
+actual quantity for which service is rendered by the System Integrator. 
+ 
+(b) All payments to the System Integrator shall be made subject to deduction of TDS (Tax 
+
+deduction at Source) as per the Income Tax Act, 1961, damages for late payments 
+and other taxes if any as per Government of India rules. 
+
+ 
+(c) The following conditions should be met for release of payment: 
+
+ 
+(i) The System Integrator shall raise and submit to NHAI pre-receipted bills in 
+
+triplicate for the respective quarter based on actual number of locations/ services 
+provided and approved rates for the number of days worked in a month duly 
+verified by the representative of the Employer. 
+
+ 
+
+
+
+ 
+
+Page 79 of 80 
+
+(ii) The System Integrator shall not receive any remuneration in connection with the 
+assignment, except or otherwise, provided in the Contract.  
+
+ 
+i. Changes in the Payment terms: In case the provisions of payment terms change in any 
+
+manner, the parties agree to change the sum of consideration as per mutual 
+agreement. Such changes, if any shall be treated as variation to the Contract.  
+
+ 
+ii. SETTLEMENT OF DISPUTES 
+
+ 
+(i) Amicable Settlement: The Parties shall use their best efforts to settle amicably 
+
+all disputes arising out of or in connection with this Contract or its interpretation. 
+ 
+(ii) Arbitration:  
+
+In the event of any dispute or difference arising out or connected to this 
+Contract and/ or in relation to the implementation or interpretation hereof, the 
+same shall be resolved initially by mutual discussion and conciliation but in the 
+event of failure thereof, the same shall be referred to Sole Arbitrator(The 
+Chairman of NHAI or his nominee) and the decision of the Sole Arbitrator shall 
+be final and binding upon the Parties. The arbitration shall be held in Delhi and 
+the Sole Arbitrator shall give his award in accordance with “The Arbitration and 
+Conciliation Act, 1996”. In this clause the expression “Chairman, NHAI” shall 
+also include any person who for the time being is the administrative head of 
+NHAIor any person for the time being is officiating as Chairman, NHAI.  
+In the event of death of the Sole Arbitrator, or he neglects or refuses to act or 
+resigns or is unable to act for any reason or his award being set aside by the 
+Court for any reason it shall be lawful for the Chairman, NHAIor his nominee to 
+appoint another arbitrator in place of outgoing arbitrator in the manner 
+aforesaid. 
+
+ 
+(iii) Jurisdiction: This Contract  shall  be subject  to  the  exclusive jurisdiction  of  
+
+the  courts  in Delhi. 
+ 
+8. LIMITATION OF LIABILITY 
+ 
+
+a. One or more damages may be imposed concurrently; however, the same shall be 
+limited to 5% of the Contract Price. Once the amount of damages is equal to 5% of 
+the Contract Price, the Employer, at its discretion, may consider termination of the 
+Contract as well as forfeiture of Performance Security. 
+
+ 
+b. Notwithstanding anything to the contrary in the Contract, in no event shall either 
+
+Party be liable, whether in contract, tort, or otherwise, for special, punitive, indirect 
+or consequential damages, including, without limitation, loss of profits or revenues 
+arising under or in connection with this Contract even if such Party has been 
+advised in advance of their possibility. 
+
+ 
+c. The System Integrator shall have adequate Technical Support Centers/ Network 
+
+Operations Center (NOC) to meet the service level requirements defined in the 
+tender document. The System Integrator shall provide contact number on which all 
+calls will be logged. The System Integrator shall furnish the names, locations, 
+complete postal address, Telephone numbers and FAX numbers of all Technical 
+Support Centers at the time of signing the Contract. The System Integrator shall 
+also provide escalation matrix to escalate the unresolved issues 
+
+ 
+
+
+
+ 
+
+Page 80 of 80 
+
+ 
+9. REVIEW OF PERFORMANCE: 
+
+ 
+The Employer shall review from time to time, the performance reports provided by the 
+System Integrator. The Employer may suggest any modifications/ changes considered 
+necessary in presentation of reports for better monitoring. Based on the review of 
+performance, the System Integrator/ its personnel shall be adjudged performing or non-
+performing and appropriate action shall be taken by the Employer under this Contract. 
+
+ 
+10. FORFEITURE OF PERFORMANCE SECURITY 
+
+ 
+In the event of forfeiture of Performance Security by the Employer before termination of the 
+Contract, in accordance with the terms of this Contract, the System Integrator shall 
+replenish the same within 10 days of the forfeiture thereof. 
+
+ 
+11. EXTENSION OF CONTRACT: 
+ 
+
+The initial duration of contract will be of 3 (three) years. The Employer reserves the right to 
+extend the Contract by additional 2 (two) years, beyond the initial Contract Period of 3 
+(three) year subject to satisfactory performance by the System Integrator and continued 
+requirement of the Employer.  
+
+ 
+ 
+
+

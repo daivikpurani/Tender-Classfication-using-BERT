@@ -1,0 +1,667 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/684552
+
+  Dated: 24-06-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 04-07-2020 12:00:00
+
+Bid Opening Date/Time 2020-07-04 12:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Gujarat
+
+Department Name Energy And Petro Chemicals Department Gujarat
+
+Organisation Name Gujarat Electricity Board (geb) - Gujarat Urja Vikas
+Nigam Limited (guvnl)
+
+Office Name Pgvcl
+
+Total Quantity 1
+
+Item Category Video Recorder for CCTV System ( PAC Only ) 
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Video Recorder For CCTV System ( 1 pieces ) ( Under PAC ) 
+
+Make cpplus
+
+Model cpplus&cp-uvr-1601e1
+
+                               1 / 7
+
+
+
+ 
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+TYPE Type of Recording
+Device
+
+DVR DVR
+
+IP Camera Support Yes Yes, No
+
+PTZ Camera control
+Support
+
+Yes Yes, No
+
+Housing
+construction
+
+Alluminium Alluminium
+
+Mounting Rack Mounted *
+
+Rack Mount
+configuration
+
+NA *
+
+Capability of Recorder
+to Work with Other
+Makes of CCTV
+Cameras (ONVIF
+support)
+
+Yes *
+
+VIDEO Number of Video
+Input Channels
+
+16 16
+
+Number of Non-IP
+based Video input
+Channels for HVR
+
+16 16
+
+Number of IP based
+Video input
+Channels for HVR
+
+16 16
+
+Number of Video
+Output Channels
+
+16 16
+
+Recording
+Resolution
+
+Full HD (1920 x 1080) Full HD (1920 x 1080)
+
+Supported
+Compression
+Technique
+
+H.264,H.265,MPEG-4,MJ
+PEG,H.265+,H.264+
+
+*
+
+Maximum Number of
+cameras to be viewed
+on a single display
+
+16 *
+
+Total number of
+simultaneous local
+views
+
+4 *
+
+Simultaneous
+Monitoring Connections
+for All Cameras (Users
+in Local Network for
+Client Connection)
+
+16 *
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/_qECfEfzIBab6ip7KycERwdNDFxI2qTBVXrtaPkniJ8
+
+
+ 
+
+Recording Speed for all
+channels (fps)
+
+6 *
+
+Minimum Through put
+(Mbps)
+
+512 *
+
+Display Image Rate Real time per channel *
+
+AUDIO Audio Support No *
+
+Audio Input 4 *
+
+Audio Output 1 *
+
+Audio Compression G.726,G.711,G.722.1,A-
+Law,U-
+Law,MP2L2,AAC,NA
+
+*
+
+Minimum Number of
+Simultaneous Channels
+for Two-way Audio
+Support
+
+2 *
+
+SECURITY Type of Encryption HTTPS (SSL/TSL),HTTP (
+SSL/TSL),WPA,WPA2,TK
+IP,NA
+
+*
+
+Multi Level User ID /
+Password
+
+Yes *
+
+ALARM Alarm Support No *
+
+Alarm Input NA *
+
+Alarm Output NA *
+
+Pre / Post Alarm Buffer No *
+
+Pre-Alarm Recording 0 *
+
+Post-Alarm Recording 0 *
+
+Video Content Analytics
+(VCA)
+
+Trip-wire
+Detection,Motion
+Detection,Crossing
+line,Intrusion
+Detection,Face
+Recognition,Object cou
+nting,Tampering,Object
+Removal,Number Plate
+Recognition,NA
+
+*
+
+NETWORK PROTOCOLS
+/ INTERFACE /
+OPERATING SYSTEM
+
+Operating System
+Supported
+
+Windows *
+
+Supported Network
+Protocols
+
+UDP,SNMP,IGMP,DHCP,
+RTP,RSTP,HTTP,HTTPS,
+DNS,DDNS,RTSP,RTCP,
+NTP,UPnP,SMTP,FTP,IC
+MP,QoS,TCP/IP,NA (for
+DVR)
+
+*
+
+Supported Interface Ethernet,Wifi,HDMI,VGA
+,USB
+
+*
+
+Physical Layer of 10/100/1000 Base *
+
+                               3 / 7
+
+
+
+ 
+
+Ethernet TX,NA
+
+Number of Ethernet
+Ports
+
+1 *
+
+Number of HDMI Ports 1 *
+
+Number of VGA Ports 1 *
+
+Number of CVBS Ports 1 *
+
+Number of USB Ports 2 *
+
+Number of Serial Ports 0 *
+
+Number of PoE Ports 0 *
+
+Supported SIM Slot 4G *
+
+Number of SIM Slots 1 *
+
+FEATURES Video Loop Support Yes *
+
+Video Recorder
+supports recording on
+NAS Directly
+
+Yes *
+
+Remote Administration
+(Remote Configuration
+And Status Using Web
+Based Tool)
+
+Yes *
+
+System Update
+(Remote System
+Update Over Network
+Using Web Client)
+
+Yes *
+
+PC Client (PC
+Application Client With
+A Channel Recording
+Feature Support)
+
+Yes *
+
+Web Client (Viewer
+through HTTP system
+configuration)
+
+Yes *
+
+On Screen Display (In
+English)
+
+Yes *
+
+Drivers / Compatible
+Software (Wherever
+Applicable) Part Of
+Supply
+
+Yes *
+
+Recording schedule
+support
+
+Yes *
+
+Bandwidth Control Yes *
+
+Camera Notification Spot (POP up Window)
+on Event,SMS,E-mail
+
+*
+
+Network transmission
+Speed
+
+Real time display @ D1
+resolution
+
+*
+
+Other features, if any na *
+
+PLAYBACK / VIEW / Search Date,Time,Event,Log,M *
+
+                               4 / 7
+
+
+
+ 
+
+MANAGEMENT otion,Bookmarks
+
+Bookmarks Forward,Backward,adju
+stable playback
+speed,Full Screen,Next
+Camera,Previous
+Camera,Repeat
+
+*
+
+Page preview Multi Monitor
+Support,Video
+Window,Electronic Map
+on two separate
+monitors
+
+*
+
+Total Management Group
+add,Delete,Group
+management
+
+*
+
+Camera Add,Edit,Delete,Use
+Master account,Use
+Specific account
+
+*
+
+STORAGE Internal Hard Drive
+Interface
+
+SATA I *
+
+Number of Hard Disks
+(inclusive in the scope
+of supply)
+
+1 *
+
+Storage Capacity of
+each Hard Disk (TB)
+
+2 *
+
+Total Storage
+Capacity(TB)
+
+2 *
+
+Internal Storage
+Expandable upto (TB)
+
+16 *
+
+Number of Hard Disks
+supported
+
+2 *
+
+Redundancy Option RAID 0 *
+
+POWER SUPPLY Power Input 230 ± 10%, 50Hz,12 V
+DC,24 V DC
+
+*
+
+Power Consumption 100 *
+
+Suitable Adapter to be
+Supplied to Make the
+Equipment Work on
+230 V ± 10 %, 50 Hz
+
+Yes *
+
+Redundant Power
+Supply
+
+Yes *
+
+OPERATING
+CONDITIONS
+
+Minimum Operating
+Temperature
+
+0 *
+
+Maximum Operating
+Temperature
+
+60 *
+
+Relative Humidity Non
+Condensing at 40 deg
+C
+
+80 *
+
+                               5 / 7
+
+
+
+ 
+
+WARRANTY / SERVICES Warranty 2 2.0
+
+Time for
+Replacement of
+Defective Product
+During Warranty
+Period
+
+96 96.0
+
+ENVIRONMENTAL /
+CERTIFICATION
+
+Availability of facility
+and infrastructure for
+verification of all the
+parameters, features
+and capability with the
+Seller
+
+Yes *
+
+Conformity to Dry Heat
+test at Specified
+Maximum Operating
+Temperature for 16
+hours as per IS :9000
+latest
+
+Yes *
+
+Conformity to Damp
+heat at 40 degree C -
+95% RH (cyclic test):
+two cycles of 16+8
+hours as per IS: 9000
+latest
+
+Yes *
+
+Conformity to Cold test
+at Specified Minimum
+Operating Temperature
+for 4 hours as per IS:
+9000 latest
+
+Yes *
+
+BIS Registration for
+safety general
+requirements as per IS:
+13252 (Part 1): latest
+
+Yes *
+
+Availability of Test
+Report from Central
+Govt/NABL/ILAC
+accredited lab to prove
+conformity to
+specification
+
+No *
+
+Test Report Number
+and Date
+
+na *
+
+Name and Address of
+Test Lab
+
+na *
+
+Certification FCC,CE,UL,CB,CSA,NIL *
+
+LIST OF ITEMS List of Items and
+Quantity of each item
+included in the offer
+
+1 *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+                               6 / 7
+
+
+
+ 
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Bhojani Hasmukh
+Maganbhai
+
+360375,Division Office,
+PGVCL, 66KV GEB
+Compound, Dhoraji Raod,
+Near Canal, Jetpur - 360375
+
+1  15
+
+Bid Specific Additional Terms and Conditions
+
+1.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 3 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+2.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

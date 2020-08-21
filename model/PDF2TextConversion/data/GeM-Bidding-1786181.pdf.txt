@@ -1,0 +1,778 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/710111
+
+  Dated: 14-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 24-07-2020 16:00:00
+
+Bid Opening Date/Time 24-07-2020 16:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 45 (Days)
+
+Ministry/State Name Ministry Of Railways
+
+Department Name Northern Railway
+
+Organisation Name Stores
+
+Office Name Northern Railway
+
+Total Quantity 1
+
+Item Category Clinical incubators or infant warmers
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Clinical Incubators Or Infant Warmers ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+                               1 / 9
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/IdqVeE-MndUYlGRZ9pNREB15pbtj9OGDykeUKhVHnqk
+
+
+ 
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Definition and Clinical
+Purpose
+
+Definition Mains electricity (AC-
+powered) mobile
+device that contains an
+infrared (IR) heating
+element(s) designed to
+emit controlled, evenly
+distributed overhead
+heat to the body of a
+newborn/infant patient
+requiring supplemental
+heat. This device is
+equipped with wheels
+so that it can easily be
+moved to different
+areas of a room, ward,
+or department.
+
+*
+
+Clinical purpose
+&Overview of
+functional
+requirements
+
+It is an electrically
+powered device with a
+radiant heating source
+intended to maintain
+the thermal balance of
+an infant by direct
+radiation of energy in
+the infrared region of
+the electromagnetic
+spectrum. It is a
+microprocessor
+controlled unit with
+heater placed on the
+over head panel. This
+work on both servo and
+manual mode options
+to maintain the baby
+temperature at the set
+value. There are two
+modes of operation
+manual and baby
+(servo) mode. It has
+Digital displays reading
+the set and baby
+observed temperatures
+seperately.
+
+*
+
+Technical
+Characteristics (specific
+to this type of device)
+
+facility to display skin
+set, skin observed
+temperature in degree
+C and heat power
+separately
+
+Yes *
+
+have user friendly
+touch panel control
+
+Yes *
+
+Type of heater: ceramic ceramic
+
+Audiovisual alarm
+facility for:
+
+Overheating beyond
+set temperature
+
+Overheating beyond
+set temperature range,
+
+                               2 / 9
+
+
+
+ 
+
+range,Spurt in Heater
+output i.e. more than
+60% heater output for
+10 minutes system
+should raise alarm and
+cutoff heater,Power
+failure,Heater
+failure,Patient
+temperature
+less/Greater than
+required/set
+temperature,Probe
+failure
+
+Spurt in Heater output
+i.e. more than 60%
+heater output for 10
+minutes system should
+raise alarm and cutoff
+heater, Power failure,
+Heater failure, Patient
+temperature
+less/Greater than
+required/set
+temperature, Probe
+failure
+
+Warmer head should
+be rotatable in
+different direction,
+so as to allow taking
+X-ray
+
+Yes Yes
+
+Observation light
+Luminance and Colour
+temperature
+
+> = 1000 Lux , Colour
+temperature range
+from 3700K to 5100K
+
+*
+
+Battery back up facility
+for Power failure
+indication during power
+fail
+
+Yes *
+
+desired temperature
+range
+
+25 to 40 degree C *
+
+setable temperature 32
+to 38 deg C
+
+32 to 38 deg C *
+
+temperature resolution
+should be:
+
+<= 0.1 degree C *
+
+Temperature accuracy
+should be
+
+<= 0.2 degree C *
+
+facility to lock the
+keyboard to avoid
+unwanted user
+modification of the set
+parameters
+
+Yes *
+
+should have separate
+Bassinet trolley, bed
+should be tilt-able and
+have suitable provision
+for x-ray cassette
+holder, Mattress foam
+density should be
+minimum 25 kg/cm3,
+transparent collapsible
+side walls easily
+detachable for cleaning
+
+Yes *
+
+Should have a Feather
+Touch operation with
+large digital display
+
+Yes *
+
+                               3 / 9
+
+
+
+ 
+
+and comprehensive
+alarms, Control Panel
+should be liquid proof
+and allow easy and
+hygienic disinfection
+
+Manual Mode can
+adjust Heater Output
+10 -100 %, with 10%
+increment, an auditory
+and visual alarm shall
+be given at least every
+15 min
+
+Yes *
+
+Under manual mode,
+heater cut off / switch
+off , if the maximum
+irradiance at any point
+of the mattress area
+exceeds a total
+irradiance level of 10
+mW/cm2 (between 10
+to 30 minutes)
+
+Yes *
+
+Bed height from Floor - *
+
+Bed Distance from the
+heat source
+
+- *
+
+should have lockable
+castor wheels
+
+Yes *
+
+Green indicator light
+shall be indicate that
+warmer is ready for
+normal use
+
+Yes *
+
+Markings on the
+bassinet and X-Ray
+cassette holder to
+enable proper
+positioning of the baby
+while doing the X-Ray
+
+Yes *
+
+Number of tubing ports
+(edges covered by
+silicon rings) on the
+side walls (For cable
+management)
+
+3.2 *
+
+Height of the side walls
+over the mattress
+
+111.23 *
+
+Provision of X-Ray
+cassette tray of at least
+750 mm X 350 mm
+size, suitable to adopt
+<= 20mm thick X-Ray
+cassette
+
+Yes *
+
+bay bed should be
+crevice free for ease of
+cleaning, infection
+
+Yes *
+
+                               4 / 9
+
+
+
+ 
+
+control
+
+mattress used should
+be of biocompatible
+material
+
+Yes *
+
+Skin temperature probe
+should be small in size
+[Diameter <= 10 mm &
+Height <= 4 mm] with
+biocompatible Baby
+contact material
+
+Yes *
+
+Mobility, portability On castors (2 of the
+castors should have
+brakes) & Castor size
+>= 4 inch.
+
+*
+
+Settings Settings with facility to
+clearly display the
+selected mode,Option
+of Selecting either
+Manual mode and Baby
+(Servo) mode settings,
+Provision for Set
+temperature range (in
+servo mode) from 32 to
+38 deg C
+
+Yes *
+
+User's interface Manual and Servo
+controlled temperature
+regulation
+
+*
+
+Software and/or
+standard of
+communication(where
+ever required)
+
+LED Display and inbuilt
+software; Interruption
+and restoration of the
+power supply does not
+change the preset
+values
+
+*
+
+Others: 1. Device shall not
+overbalance when
+placed in any transport
+position of normal use
+on a 10° inclined plane
+from the horizontal
+plane. 2. Transformers
+of devcie shall be
+protected against
+overheating in the
+event of short circuit or
+overload of any output
+winding. 3. Patient
+leakage current should
+be less than 100 μA in
+normal condition 4.
+Temperature on the
+baby mattress should
+not exceed 43 deg C
+when the warmer is
+operating under steady
+
+*
+
+                               5 / 9
+
+
+
+ 
+
+temperature condition
+5. Temperature of
+HEATER GUARDS
+should not exceed 85
+°C in normal use. 6.
+The Temperature
+differences on the
+mattress shall not
+exceed 2 °C.
+
+PHYSICAL
+CHARACTERISTICS
+
+Overall Height of
+equipment
+
+1950 *
+
+Overall Width of
+equipment
+
+- *
+
+Overall Length of
+equipment
+
+- *
+
+Overall weight of
+equipment
+
+- *
+
+Heat source
+Configuration
+
+>= 60 degree angle
+adjustment must be
+possible in the heat
+source, it should
+provide shielding to the
+infant in case of
+breakage of
+tubes/bulbs and all
+surfaces to be made of
+corrosion resistant
+material
+
+*
+
+Noise Auditory alarm shall
+have a sound level of
+at least 65 dBA at a
+distance of 3 m from
+the front of the infant
+radiant warmer, and
+the sound level of the
+alarm shall not exceed
+80 dBA on the mattress
+
+*
+
+Heat dissipation Should maintain
+desired set
+temperature and
+uniform heat
+distribution in baby
+cradle
+
+*
+
+ENERGY SOURCE Power Requirements 220 to 240V, 50 Hz AC,
+± 10% of input
+
+*
+
+Battery operated Power failure indication
+during power fail
+
+*
+
+Protection OVP, earth leakage
+protection
+
+*
+
+Power consumption 220 *
+
+Compatible to Yes Yes
+
+                               6 / 9
+
+
+
+ 
+
+alternate energy
+supply source; Solar
+Heating in addition
+to AC power source):
+
+Thermal reflector to fix
+the skin probe
+
+>= 50 units to be
+supplied with each
+equipment unit
+
+*
+
+ENVIRONMENTAL AND
+DEPARTMENTAL
+CONSIDERATIONS
+
+Atmosphere /
+Ambiance
+
+Operating condition:
+-Capable of operating
+continuously in
+ambient temperature
+of 0 to 50 deg C and
+relative humidity of 15
+to 90% in ideal
+circumstances. - an
+ambient air velocity is
+less than 0.3 m/s.
+
+*
+
+User's care, Cleaning,
+Disinfection & Sterility
+issues
+
+Complete unit to be
+easily washable and
+sterilizable using both
+alcohol and chlorine
+agents.
+
+*
+
+STANDARDS AND
+SAFETY
+
+Certificates, - *
+
+Performance and safety
+standards (specific to
+the device type); Local
+and/or international
+
+IEC-60601-1-2:2007
+Medical electrical
+equipment Part 1-2:
+General requirements
+for basic safety and
+essential performance -
+Collateral standard:
+Electromagnetic
+compatibility
+-Requirements and
+tests (Or Equivalent
+BIS). Shall neet IEC
+60601 -2- 21: 2009
+Medical Electrical
+Equipment - Part 2¬21:
+Particular Requirement
+for the basic safety and
+essential performance
+of infant radiant
+warmers . should meet
+IEC 60601-1:2005(or
+latest) standard
+requirements. Baby
+contact material should
+be biocompatible.
+Manufacturer should be
+ISO 13485 certified
+
+*
+
+Availability of Type
+Test report from any
+Govt/ NABL accredited
+/iLAC approved
+
+Yes *
+
+                               7 / 9
+
+
+
+ 
+
+laboratory (To be
+produced by Seller on
+Buyer's demand if
+indicated available)
+
+TRAINING AND
+INSTALLATION
+
+Pre-installation
+requirements for the
+equipment
+
+Availability of 5 amp/15
+Amp. Electrical socket
+(2 nos) for each
+warmer at Buyer's
+facility.
+
+*
+
+Documentation
+required to be provided
+by Seller:
+
+User & Operating
+manual,Certificate of
+Calibration, Factory
+inspection report, user
+training manual
+
+*
+
+WARRANTY Warranty Scope Shall be onsite and
+comprehensive i.e. with
+free service and spares
+
+*
+
+Warranty period for
+equipment(Other
+than nickel chrome
+wire filament and
+tube of quartz, that
+shall have lifetime
+warranty)
+
+3 3, 5 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Durga M Sardar 110055,CENTRAL HOSPITAL
+NDLS
+
+1  15
+
+Bid Specific Additional Terms and Conditions
+
+1.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+This Bid is also governed by the General Terms and Conditions
+
+                               8 / 9
+
+https://gem.gov.in/termsCondition
+
+
+ 
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               9 / 9
+
+http://www.tcpdf.org
+

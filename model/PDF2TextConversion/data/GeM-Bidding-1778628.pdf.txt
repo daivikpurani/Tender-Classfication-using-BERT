@@ -1,0 +1,594 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/703211
+
+  Dated: 08-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 18-07-2020 18:00:00
+
+Bid Opening Date/Time 18-07-2020 18:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Chhattisgarh
+
+Department Name Nagar Nigam Raigarh, Chhattisgarh
+
+Organisation Name N/a
+
+Office Name Municipal Corporation Raigharh
+
+Total Quantity 10
+
+Item Category E Cart for Garbage with Tipping Facility
+
+Bidder Turnover (Last 3 Years)  15 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  15 Lakh (s)
+
+Experience Criteria  1 Year (s)
+
+MSE Exemption for Years Of Experience and
+Turnover
+
+ Yes
+
+Startup Exemption for Years Of Experience
+and Turnover
+
+ Yes
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  80 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+
+                               1 / 7
+
+
+
+ 
+
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 80% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+E Cart For Garbage With Tipping Facility ( 10 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Generic Parameters Type of E Cart Fully Electric, Battery
+Operated Motor Driven
+for Carrying Bins
+
+*
+
+Model Number of E-
+Cart
+
+- *
+
+Colour of E Cart - *
+
+The E Cart Must
+Fabricated From Good
+Quality Steel properly
+Painted to avoid
+Rusting for more than 5
+Years,
+
+YES *
+
+Name and Grade of - *
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/zW7ZSue0iH3tSxm2jaVxim9qrNsWGu-aqvXWcMpmZ5U
+
+
+ 
+
+Steel from which E Cart
+Body Framed
+
+Kerb Weight of E- Cart
+(kg)
+
+396 *
+
+Garbage Carrying
+Capacity (kg)
+
+310 310.0 - 310.0 Or higher
+
+Run Distance (for a
+Full Charge of
+Battery , to be
+tested with full load
+at maximum AIS-040
+)) (km)
+
+80 More than 80.0 Or
+higher
+
+Number of Bins 2 2
+
+Capacity of
+Individual Bins in
+litres (Ltrs)
+
+350 350.0
+
+Type of Chassis for E
+cart
+
+- *
+
+Ground Clearance as
+per IS : 9435 (mm)
+
+180 *
+
+Wheel Base (mm) 2045 More than 2045.0 Or
+higher
+
+Turning Radius (mm) 3 Less than 3.0 Or lower
+
+Power Transmission
+from Motor Shaft to
+Wheels
+
+Direct Mounting Direct Mounting
+
+Please Specify the
+Mechanical Mechanism
+otherwise Put NA
+
+- *
+
+Tipping Facility Yes *
+
+Tipping Angle 75 75.0 - 90.0 Or higher
+
+Method of Tipping Hydraulic Hydraulic
+
+If Others, mention the
+method of Tipping
+
+- *
+
+Type of Battery as
+per AIS-048
+
+Lithium ion Lithium ion
+
+Capacity of the
+Battery approved by
+ICAT/ARAI (Ah)
+
+100 100.0 - 9999999.0 Or
+higher
+
+Battery Voltage
+,Nominal (Volts)
+
+48V 48V
+
+Maximum Overall
+Dimensions of the
+Battery ( L x Wx H )
+(mm3)
+
+- *
+
+Nominal Filled Weight
+of the Battery (kg)
+
+41.6 *
+
+                               3 / 7
+
+
+
+ 
+
+Motor Controller ( Must
+Suitable for starting,
+accelerating,
+decelerating, driving ,
+and stopping of E Cart
+
+- *
+
+Battery Charger 220/230 V Nominal
+Input Voltage , High
+Efficiency Type
+
+*
+
+Charging Current (A) 40 *
+
+Type of Motor Brushless DC Motor *
+
+Motor Output Power
+,48V/60V at Full
+Load (watt)
+
+1200 1200.0 - 2000.0 Or
+higher
+
+Overall Efficiency of
+the E Cart ( to be
+tested at Full Load
+with maximum
+speed as per
+Concerned AIS
+standards (%)
+
+85 85.0 - 100.0 Or higher
+
+Gradeability of E-cart ,
+( to be tested at full
+procedure as per AIS
+-003 Load (Degree)
+
+7 *
+
+Certification Vehicle Certification ARAI ARAI
+
+If Vehicle Certification
+from Others Agency
+,Name of the Agency
+otherwise put NA
+
+- *
+
+Vehicle Certification
+Number and Date
+
+- *
+
+Constructional Seating Facility For Driver only *
+
+Length of E -cart as per
+Gazette Notification by
+Ministry of Road and
+Transport Oct , 2014
+(meters)
+
+2.72 *
+
+Width of E -Cart as per
+Gazette Notification by
+Ministry of Road and
+Transport Oct, 2014
+(meters)
+
+0.998 *
+
+Height of E -Cart as per
+Gazette Notification by
+Ministry of Road and
+Transport Oct , 2014
+(meters)
+
+1.77 *
+
+Dimensions of the
+cabin Provided for Bins
+(mm x mm x mm)
+
+- *
+
+                               4 / 7
+
+
+
+ 
+
+(mm3)
+
+Size of Front Tyre (mm) - *
+
+Size of Rear Tyre - *
+
+Brake Type (Front) - *
+
+Brake Type ( Rear ) - *
+
+Suspension System
+(Front)
+
+- *
+
+Suspension System (
+Rear )
+
+- *
+
+Reverse Gear Facility Yes *
+
+The Mounting of
+Batteries
+
+Yes *
+
+Vehicle lighting
+System
+
+Filament Type Filament Type
+
+Instrument Panel
+Containing
+Speedometer and
+Battery Charging
+Indicator
+
+Yes *
+
+Glass Windshield with
+wiper motor as
+approved by ICAT/ARAI
+
+Yes *
+
+Battery Make as per
+AIS :048:2009
+
+Others Others
+
+If others please specify
+the Name of Brand
+,Otherwise put NA (as
+per AIS048 2009)
+
+- *
+
+Equipped with Start
+and Stop Button,
+parking Lights , Back
+lights with Reverse
+Gear Facility
+
+Yes *
+
+Equipped with Fire
+Extinguisher
+
+No *
+
+Equipped with First Aid
+Box
+
+Yes *
+
+Yellow Color reflective
+tape on Front and Rear
+Side of the E Cart
+
+Yes *
+
+E Cart Integration , Yes *
+
+Performance
+Parameters
+
+Speed of the E-
+Rickshaw as per CMVR
+-2014 with latest
+amndmt (to be tested
+with Full Load ) (kmph)
+
+21 *
+
+                               5 / 7
+
+
+
+ 
+
+Battery Warranty 3 3 Or higher
+
+No. Of Free Service 5 5 Or higher
+
+Compliance of Centre
+of Gravity of E Cart as a
+Compulsory Norms for
+Safety
+
+Yes *
+
+Confirming to
+Applicable
+Environmental Test
+
+Yes *
+
+Noise level must be
+Low during Operation
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Suraj Kumar
+Dewangan
+
+496001,Nagar nigam
+raigarh,beside of KGH
+hospital raigarh
+
+10  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+2.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+3.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+4.Over and above the normal Warranty terms as per GeM GTC, the successful bidder / OEM
+shall have to provide Comprehensive Warranty during the entire Standard warranty period
+as per contract. : The comprehensive warranty shall be covering the following scope yes
+(Upload an undertaking with the bid confirming compliance by the bidder if Bidder is taking
+onus of this compliance. In case OEM is taking onus of this compliance, OEM undertaking is
+to be uploaded along with Bidder undertaking)
+
+5.Successful bidder will have to ensure that adequate number of dedicated technical service
+personals / engineers are designated / deployed for attending to the Service Request in a
+time bound manner and for ensuring Timely Servicing / rectification of defects during
+warranty period, as per Service level agreement indicated in the relevant clause of the bid.
+
+6.Bidders can also submit the EMD with Account Payee Demand Draft in favour of 
+commissioner municipal corporation  payable at raigarh.
+Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure
+
+                               6 / 7
+
+
+
+ 
+
+delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date.
+7.Bidders can also submit the EMD with Payment online through RTGS / internet banking in
+
+Beneficiary name commissioner municipal corporation raigarh Account No. 50200022282122
+IFSC Code HDFC0001454 Bank Name HDFC BANK Branch address dhimrapur road raigarh.
+ Bidder to indicate bid number and name of bidding entity in the transaction details field at
+the time of on-line transfer. Bidder has to upload scanned copy / proof of the Online Payment
+Transfer along with bid.
+
+8.Successful Bidder can submit the Performance Security in the form of Account Payee
+Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in
+favour of commissioner municipal corporation  payable at raigarh. After award of contract,
+Successful Bidder can upload scanned copy of the DD in place of PBG and has to ensure
+delivery of hard copy to the original DD to the Buyer within 15 days of award of contract.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

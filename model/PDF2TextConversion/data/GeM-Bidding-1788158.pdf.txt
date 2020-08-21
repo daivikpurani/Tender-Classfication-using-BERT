@@ -1,0 +1,440 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/711889
+
+  Dated: 15-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 25-07-2020 17:00:00
+
+Bid Opening Date/Time 25-07-2020 17:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 50 (Days)
+
+Ministry/State Name Ministry Of Human Resource Development
+
+Department Name Department Of Higher Education
+
+Organisation Name Central Universities Ministry Of Human Resource
+Development
+
+Office Name Gujarat
+
+Total Quantity 12
+
+Item Category Wireless Access Point
+
+Bidder Turnover (Last 3 Years)  2 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  2 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  30 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+                               1 / 5
+
+
+
+ 
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 30% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Wireless Access Point ( 12 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Specification Type of Access Point Controller Based Controller Based
+
+Deployment Outdoor Outdoor
+
+Mounting Wall *
+
+Antenna Type Internal *
+
+Number Of Radios Dual *
+
+Frequency Band 2.4 GHz & 5.0 GHz *
+
+Supported Wi-fi
+Standards
+
+802.11
+a/b/g/n/ac,802.11ac
+Wave 1
+
+*
+
+Wireless Speed Up 1200 1200
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/MIGmyj34ruTtLbwZVYMUk7_YkwWaCYvVy9Aut0yobEw
+
+
+ 
+
+to (Mbps)
+
+Max Wireless Signal
+Range im Mts
+
+150 300, 150
+
+Channel Width (MHz) 80 *
+
+Maximum Data Rate
+MBps
+
+1200 *
+
+Supported
+Encryption
+
+WEP, WPA-PSK, WPA-
+TKIP, WPA2 AES,
+802.11i, EAP-TLS.,WPA
+AES
+
+WEP, WPA-PSK, WPA-
+TKIP, WPA2 AES,
+802.11i, EAP-TLS., WEP,
+WPA AES
+
+Dedicated Console Port Not Available *
+
+Receiver Sensitivity in
+db
+
+-82 *
+
+Transmit power
+(tx)(dBm)
+
+23 *
+
+Radio Resource
+Management such for
+power
+channel,coverage hole
+detection and
+performance
+optimization
+
+Available *
+
+Support for Load
+Balancing between 2-4
+Ghz and 5 Ghz
+
+Available *
+
+Support for
+Configurable Carrier
+Threshold
+
+Not Available *
+
+Device Management Web-based
+Configuration Interface
+(GUI)
+
+*
+
+Support for Mesh
+Networking
+
+Not Available *
+
+Support for QoS for
+Voice over Wireless
+
+Not Available *
+
+Support for MU-MIMO Not Available *
+
+Number of MIMO
+supported & Spatial
+Streams
+
+2 x 2 :2 *
+
+Number of WLAN
+(SSID) per AP
+
+16 *
+
+Maximum clients Nos 40 *
+
+Support for
+Autonomous access-
+point option
+
+Available *
+
+USB Ports Not Available *
+
+                               3 / 5
+
+
+
+ 
+
+Number of
+10/100/1000 port
+
+2 *
+
+mGig support Not Available *
+
+Fiber port (in case of
+outdoor AP)
+
+Not Available *
+
+Support for Bluetooth
+Low Energy (BLE)
+support on AP
+
+Not Available *
+
+Support for Beam
+forming
+
+Not Available *
+
+Operate as a sensor for
+wireless IPS
+
+Not Available *
+
+Support for QoS and
+Video Call Admission
+Control capabilities
+
+Not Available *
+
+Support for Rogue
+access point detection
+
+Available *
+
+Support for Wireless
+Intrusion Protection
+System
+
+Not Available *
+
+WPC certified Yes *
+
+Wi-Fi CERTIFIED Yes *
+
+Support non-Wi-Fi
+detection for off-
+channel rogues and
+Containment for both
+radio while serving the
+client simaltaniously
+
+Not Available *
+
+Powering options (Such
+as AC/DC, 802/3af PoE,
+802/3at PoE+), specify
+
+802.3af PoE *
+
+Power POE (Watt) 12.5 *
+
+Environmental
+Standard : plenum-
+rated (UL2043) for
+Indoor and IP67 for
+Outdoor
+
+Yes *
+
+Operating Temperature
+Range (Degree C)
+
+- *
+
+Operating Humidity
+(%RH)
+
+- *
+
+Dimension (mm x mm
+x mm)
+
+- *
+
+Weight (grams) - *
+
+On Site OEM
+Warranty (Years)
+
+3 3
+
+  * Specifications highlighted in bold are the Golden Parameters.
+
+                               4 / 5
+
+
+
+ 
+
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Tarun Kumar Soni 382030,CENTRAL
+UNIVERSITY OF GUJARAT,
+SECTOR-29, GANDHINAGAR,
+382030 GUJARAT.
+
+12  20
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+2.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

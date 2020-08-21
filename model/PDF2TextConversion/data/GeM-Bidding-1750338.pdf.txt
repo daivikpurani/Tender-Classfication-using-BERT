@@ -1,0 +1,332 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/677392
+
+  Dated: 18-06-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 09-07-2020 15:00:00
+
+Bid Opening Date/Time 2020-07-09 15:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 65 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Air Force
+
+Office Name ***********
+
+Total Quantity 1
+
+Item Category Programmable paper cutter
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Certificate (Requested in ATC),OEM Authorization
+Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  Yes
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 5.00
+
+EMD Amount 35250
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 10.00
+
+Duration of ePBG required (Months). 15
+
+                               1 / 4
+
+
+
+ 
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+Deputy CC Stores
+Air Headquarters Vayu Bhawan Rafi Marg New Delhi, Department of Defence, Indian Air Force,
+Ministry of Defence
+(Vinod Kumar Balakrishnan)
+
+Splitting
+
+ Bid splitting not applied.
+
+Programmable Paper Cutter ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Physical Characteristics Maximum cutting
+width,mm
+
+720 720
+
+Maximum cutting
+thickness,mm
+
+80 80
+
+Minimum cutting
+depth,mm
+
+60 60
+
+Clamp Opening,mm 500 Any applicable numeric
+value
+
+Precision,mm ±0.3 *
+
+Clamp paper Electrical *
+
+Push paper Electrical *
+
+Safety Infrared (IR) *
+
+Pile cut,(inch) NA *
+
+Knife thickness,mm 750 Any applicable numeric
+value
+
+Machine Width,mm 1050 Any applicable numeric
+value
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/1S-JHxYXZlIVZ9KZHngOEfyIKldVWyIP40VyRP2dwZ0
+
+
+ 
+
+Machine Length,mm 1200 Any applicable numeric
+value
+
+Front table
+Length,mm
+
+580 580, 680
+
+Table Height,mm 900 800, 900
+
+Clamp Pressure
+(Minimum),kg
+
+500 200, 450, 500
+
+Clamp Pressure
+(Maximum),kg
+
+1500 1500, 2000, 2500,
+3000
+
+Back gauge Speed
+(Normal),mm/Sec
+
+65 65, 75, 85
+
+Back gauge Speed
+(Express),mm/Sec
+
+200 200, 250, 300
+
+Power
+consumption,W
+
+1500 1000 - 5000
+
+Supply availability Single phase *
+
+Power requirement,V 230 *
+
+Frequency,Hz 50 *
+
+Safe and accurate
+cutting facilities
+
+YES *
+
+Microprocess controlled
+stepping motor
+installed to program
+the operation
+
+YES *
+
+Number of programs 100 *
+
+Air table for easy
+movement for bulky
+stock
+
+YES *
+
+Dimensions Packing
+size,(mm×mm×mm)
+
+1500 *
+
+Weight Net weight,kg 580 *
+
+Gross Weight,kg 510 *
+
+Warranty Warranty (in Year) 1 1, 2, 3
+
+Test Report Details Availability of Test
+Report from Central
+Govt/ State
+Govt/NABL/ILAC
+accredited lab(hint:
+Must be declared)
+
+YES *
+
+Test Report to be
+furnished to the Buyer
+on demand( Must be
+declared, write NA if
+Test Report is not
+available)
+
+YES *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+
+                               3 / 4
+
+
+
+ 
+
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********NEW DELHI 1  60
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+2. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+3.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 3 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

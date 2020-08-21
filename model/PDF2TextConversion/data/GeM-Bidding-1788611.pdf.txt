@@ -1,0 +1,445 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/712307
+  Dated: 15-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 25-07-2020 21:00:00
+
+Bid Opening Date/Time 25-07-2020 21:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Army
+
+Office Name ***********
+
+Total Quantity 2
+
+Item Category All in One PC
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+All In One PC ( 2 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Processor Processor Make Intel Intel
+
+Processor Generation 9 9.0 Or higher
+
+                               1 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/3lcCuknTMAf8evpzp3X1xqyjx0XON0LMbdF55zKuaBo
+
+
+ 
+
+Number of Cores per
+Processor
+
+6 6, 8 Or higher
+
+Processor Base Frequency
+(GHz)
+
+3.1 *
+
+Processor Description Intel Core i5 Intel Core i5, Intel Core i7,
+Intel Core i9 Or higher
+
+Processor Number Intel Core i5 9600 Intel Core i7 7700K, Intel
+Core i5 8250U, Intel Core i7
+8700, Intel Core i5 8700K,
+Intel Core i5 Turbo Boost 4.6
+GHz, Intel Core i5 9600,
+Intel Core i7 9700, Intel
+Core i9 9900 Or higher
+
+Out of Band Management NA *
+
+Cache (MB) 9 *
+
+Motherboard Chipset Series Intel Q Series Intel Q Series Or higher
+
+Chipset Number Intel Q 370 Intel Q 370 Or higher
+
+Expansion Slots (M Dot 2) 2 *
+
+Graphics Graphics Type Integrated *
+
+Graphic Card Description - *
+
+Size of Memory in Case
+of Dedicated Graphic
+Card (GB)
+
+0 0, 1, 2, 3, 4, 8 Or higher
+
+Size of VRAM in case of
+Integrated Graphics (MB)
+
+128 *
+
+Operating System Operating System
+(Factory Pre-Loaded)
+
+Windows 10 Professional Windows 10 Professional
+
+Recovery Image Media CD from the OEM / Stored in
+Partition of the Hard Disk /
+USB Drive from the OEM /
+On Line / Cloud,
+
+*
+
+OS Certification Windows *
+
+Memory Type of RAM DDR4 *
+
+RAM Size (GB) 8 8, 16, 32 Or higher
+
+RAM Speed (MHz) 2666 *
+
+Total Numbers of DIMM
+Slots Available
+
+2 *
+
+Number of DIMM Slots
+populated
+
+1 *
+
+RAM Expandability up to(
+using spare DIMM Slots
+in GB)
+
+64 64 Or higher
+
+Storage Type of Drives used to
+populate the Internal
+Bays
+
+HDD HDD
+
+Number of Internal Bays
+populated with HDD
+
+1 *
+
+Capacity of each HDD (GB) 1000 @7200 rpm *
+
+Total HDD Capacity (GB) 1000 1000, 1500, 2000, 2500,
+3000 Or higher
+
+Number of Internal Bays
+populated with SSD
+
+0 *
+
+                               2 / 5
+
+
+
+ 
+
+Capacity of each SSD (GB) 0 *
+
+Total SSD Capacity (GB) 0 128, 256, 384, 512, 768,
+1024, 2048, 4096, 0 Or
+higher
+
+Optane Memory (GB) 0 *
+
+Display Display Size (INCHES) 23.8 23.6, 23.8, 27, 34, 37.5 Or
+higher
+
+Display Type Non Touch Non Touch, Touch Or higher
+
+Panel Technology IPS IPS Or higher
+
+Display Resolution
+(PIXELS)
+
+1920x1080 1920x1080, 1920 x 1200,
+3200x1800, 3840 x 2160,
+3440 x 1440, 4096x2304,
+5120x2880 Or higher
+
+Availability of Webcam
+integrated with Display
+
+Yes Yes
+
+If yes, Resolution of
+Webcam
+
+FHD *
+
+Availability of Speakers
+integrated with Display
+
+Yes *
+
+If Yes, Number of Speakers
+available
+
+2 *
+
+Connectivity Wireless Connectivity Yes *
+
+If Yes, Type of Wireless
+Connectivity
+
+Wi-Fi 802.11ac *
+
+Number of Ethernet Ports 1 *
+
+Type of Ethernet Ports 10/100/1000 on board
+Integrated Gigabit Port
+
+*
+
+Bluetooth Connectivity Yes *
+
+If Yes, Version of Bluetooth
+Available
+
+4.2 *
+
+Ports Number of USB Version 2
+Point 0 Ports
+
+0 *
+
+Number of USB Version 3
+point 0 / 3 point 1, Gen 1
+Ports
+
+4 *
+
+Number of USB Version 3
+point 1, Gen 2 Ports
+
+0 *
+
+Number of USB Type C Ports 1 *
+
+Number of Serial Ports 0 *
+
+Number of VGA Ports 0 *
+
+Number of HDMI Ports 1 *
+
+Number of DP Ports 1 *
+
+Generic Optical Drive DVD R/W *
+
+Audio-in Yes *
+
+Audio-out Yes *
+
+Headphone out Yes *
+
+Microphone-in Yes *
+
+Stand Height Adjustable *
+
+                               3 / 5
+
+
+
+ 
+
+Power Power Supply External *
+
+Power Supply Capacity
+(Watt)
+
+150 *
+
+Minimum Power Efficiency
+Range (%)
+
+85 - 90 *
+
+Certification BIS Registration under CRS
+of Meity
+
+Yes *
+
+BIS Registration Number
+and its Validity
+
+- *
+
+ROHS Compliance Yes *
+
+BEE / Energy Star for the
+given Model
+
+Yes *
+
+Other Certification Available UL,CE,FCC *
+
+Input Devices Mouse Connectivity Wired *
+
+Type of Mouse Optical Scroll *
+
+Keyboard Connectivity Wired *
+
+Type of Keyboard Standard *
+
+Operating Conditions Minimum Operating
+Temperature
+
+5 *
+
+Maximum Operating
+Temperature
+
+50 *
+
+Minimum Operating
+Humidity (%RH)
+
+10 *
+
+Maximum Operating
+Humidity (%RH)
+
+90 *
+
+Warranty On Site OEM Warranty
+(Year)
+
+3 3, 5 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********AMBALA 2  90
+
+Bid Specific Additional Terms and Conditions
+1.IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered
+
+office in India to provide after sales service support in India. The certificate to this effect should be submitted.
+2.Successful bidder will have to ensure that adequate number of dedicated technical service personals / engineers
+
+are designated / deployed for attending to the Service Request in a time bound manner and for ensuring Timely
+Servicing / rectification of defects during warranty period, as per Service level agreement indicated in the
+relevant clause of the bid.
+
+3.Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods
+and Training of operators and providing Statutory Clearances required (if any)
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+                               4 / 5
+
+https://gem.gov.in/termsCondition
+
+
+ 
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+http://www.tcpdf.org
+

@@ -1,0 +1,495 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/711010
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 28-07-2020 12:00:00
+
+Bid Opening Date/Time 28-07-2020 12:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Human Resource Development
+
+Department Name Department Of Higher Education
+
+Organisation Name Indian Institute Of Technology (iit)
+
+Office Name Bhubaneswar
+
+Total Quantity 2
+
+Item Category Digital Storage Oscilloscope
+
+Experience Criteria  1 Year (s)
+
+MSE Exemption for Years Of Experience  Yes
+
+Startup Exemption for Years Of Experience  Yes
+
+Document required from seller  Experience Criteria,OEM Authorization Certificate
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the
+buyer
+
+Bid to RA enabled  Yes
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM {themselves or
+through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central
+/ State Govt Organization / PSU / Public Listed Company for number of years as indicated in the bid document before the
+bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some
+quantity during each of the year. In case of bunch bids, the category of primary product having highest value should
+meet this criterion.
+
+                               1 / 5
+
+
+
+ 
+
+Digital Storage Oscilloscope ( 2 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+INPUT CHANNELS Type of input channels Analog and Digital (Mixed
+Signal)
+
+Analog and Digital (Mixed
+Signal)
+
+Number of Analog
+Channels
+
+4 4
+
+Record Length Per
+Analog Channel
+Simultaneously
+
+1M points 1M points
+
+Sampling Rate Per
+Analog Channel
+Simultaneously
+
+1 GS/sec 1 GS/sec
+
+Digital Channels yes yes
+
+Number of Digital
+Channels
+
+16 16
+
+Record Length Per
+Digital Channel
+Simultaneously
+
+1M point 1M point
+
+Sampling Rate Per
+Digital Channel
+Simultaneously
+
+500MS/sec 500MS/sec
+
+PERFORMANCE FEATURES Bandwidth 200 200.0
+
+Bandwidth Upgradability no no
+
+Operating System Non -Windows Non -Windows
+
+DISPLAY Display Type colour TFT colour TFT
+
+Minimum Display Size 7 7.0
+
+MEASUREMENTS FEATURES Vertical Sensitivity 2mV/Div to 5 V/Div *
+
+Vertical Resolution 8 *
+
+Frequency Analysis Feature yes *
+
+In-built Frequency Counter no *
+
+In-built Function Generator no *
+
+Time Base Range - *
+
+Time Base Accuracy 25 25.0
+
+GENERIC Minimum Detectable Pulse
+Width
+
+5 *
+
+Memory Upgradability no *
+
+Segmented Memory Feature
+Availability
+
+no *
+
+Waveform Update Rate
+(Waveform/sec)
+
+3500 *
+
+Coupling AC,DC,GND *
+
+Trigger Types Edge,pulse width,video,runt,
+setup/hold,pattern
+
+*
+
+Measurements Math function-Add, subtract, *
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/T2dP88fvpx7YzxQd5drRlreO9mQEzvz_dbKLC5OXlWQ
+
+
+ 
+
+multiply, divide,Automatic
+Measurements of Amplitude
+and time,FFT
+(phase),Frequency Domain
+function,Time & Voltage
+cursors,FFT (magnitude)
+
+Acquisition Modes Peak Detect,Averaging,Roll
+Mode,Sample
+
+*
+
+I/O Interface USB *
+
+Power Source 230 V AC *
+
+Any other features,if
+applicable
+
+- *
+
+ACCESSORIES Standard Accessories to be
+supplied
+
+- *
+
+OPERATING CONDITION Minimum Operating
+Temperature
+
+0 *
+
+Maximum Operating
+Temperature
+
+50 *
+
+Operating Humidity (RH) 95 *
+
+SERVICE Warranty 5 5 Or higher
+
+TEST REPORT DETAILS &
+TESTS
+
+conformity to Dry Heat for
+16 hrs at specified
+maximum temp , in
+accordance with IS:9000/par
+t-3/section-5/1977 latest
+
+no *
+
+conformity to Damp Heat
+(Cyclic)Test for 2 Cycles of
+24 h each at a temp of 40
+degree C & 95% RH in
+accordance with
+IS:9000/part-5/section-1/
+1991 latest
+
+no *
+
+conformity to Cold Test for 4
+hrs at specified minimum
+temp in accordance with IS:
+9000/part-2/section-4/1977
+latest
+
+no *
+
+Availability of Test
+Reports from Central
+Govt / NABL approved /
+ILAC acredited lab to
+prove conformity to the
+specification
+
+yes yes
+
+Test Report Number and
+date for specification(not a
+part of biddable parameter)
+
+- *
+
+Name and Address of the
+Test lab(not a part of
+biddable parameter)
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+                               3 / 5
+
+
+
+ 
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Rajasekhar Bendi 752050,Indian Institute of
+Technology Bhubaneswar Argul,
+Jatni Dist-Khurdha,
+Bhubaneswar-752050
+
+2  30
+
+Bid Specific Additional Terms and Conditions
+1.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each
+
+Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If
+service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one
+within 30 days of award of contract. Payment shall be released only after submission of documentary evidence
+of having Functional Service Centre.
+
+2.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting the bid, Manufacturers
+Authorisation Form (MAF)/Certificate with OEM details such as name, designation, address, e-mail Id and Phone
+No. required to be furnished along with the bid.
+
+3.Non return of Hard Disk: As per Buyer organization’s Security Policy,Faulty Hard Disk of Servers/Desktop
+Computers/ Laptops etc. will not be returned back to the OEM/supplier against warranty replacement.
+
+4.Bid reserved for Make In India products: Procurement under this bid is reserved for purchase from Class 1 local
+suppliers as defined in public procurement (Preference to Make in India), Order 2017 as amended from time to
+time and its subsequent Orders/Notifications issued by concerned Nodal Ministry for specific Goods/Products. The
+minimum local content to qualify as a class 1 local supplier is denoted in the bid document 50%. All bidders must
+upload a certificate from the OEM regarding the percentage of the local content and the details of locations at
+which the local value addition is made along with their bid, failing which the bid is liable to be rejected. In case
+the bid value is more than Rs 10 Crore, the declaration relating to percentage of local content shall be certified
+by the statutory auditor or cost auditor, if the OEM is a company and by a practicing cost accountant or a
+chartered accountant for OEMs other than companies as per the Public Procurement (preference to Make-in
+-India) order 2017 dated 04.06.2020 . In case Buyer has selected Purchase preference to Micro and Small
+Enterprises clause in the bid, the same will get precedence over this clause.
+
+5.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid
+document, ATC and Corrigendum if any.
+
+6.Indian suppliers of this item are not allowed to participate and/ or compete in procurement by some foreign
+governments. Bidders / products from such countries are not eligible / not allowed to participate in this bid in
+terms of clause 1 (d) of Public Procurement (Preference to Make in India) Order, 2017
+
+7.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone
+No. for Service Support.
+
+8.Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid documents. Buyers can
+match and verify the Data Sheet with the product specifications offered. In case of any unexplained mismatch of
+technical parameters, the bid is liable for rejection.
+
+9.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for
+Service Support.
+
+10.Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have regularly,
+manufactured and supplied same or similar Category Products to any Central / State Govt Organization / PSU /
+Public Listed Company for 1 year before the bid opening date. Copies of relevant contracts to be submitted along
+with bid in support of having supplied some quantity during each of the year. In case of bunch bids, the primary
+product having highest value should meet this criterion.
+
+11.IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered
+office in India to provide after sales service support in India. The certificate to this effect should be submitted.
+
+12.OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25
+percent at the time of placement of contract. The purchaser also reserves the right to increase the ordered
+quantity by up to 25% of the contracted quantity during the currency of the contract at the contracted rates.
+Bidders are bound to accept the orders accordingly.
+
+13.Procurement under this bid is reserved for purchase from Micro and Small Enterprises whose credentials are
+validated online through Udyog Aadhaar for that product category. If the bidder wants to avail the reservation
+benefit, the bidder must be the manufacturer of the offered product in case of bid for supply of goods. Traders
+are excluded from the purview of Public Procurement Policy for Micro and Small Enterprises. In respect of bid for
+Services, the bidder must be the Service provider of the offered Service. Relevant documentary evidence in this
+regard shall be uploaded along with the bid in respect of the offered product or service.
+
+14.Procurement under this bid is reserved for purchase from Micro and Small Enterprises from the State of Bid
+Inviting Authority whose credentials are validated online through Udyog Aadhaar for that product category. If the
+bidder wants to avail the reservation benefit, the bidder must be the manufacturer of the offered product in case
+of bid for supply of goods. Traders are excluded from the purview of Public Procurement Policy for Micro and
+Small Enterprises. In respect of bid for Services, the bidder must be the Service provider of the offered Service.
+Relevant documentary evidence in this regard shall be uploaded along with the bid in respect of the offered
+product or service.
+
+15.Preference to Make In India products (For bids less than 200 Crore):Preference shall be given to Class 1 local
+supplier as defined in public procurement (Preference to Make in India), Order 2017 as amended from time to
+
+                               4 / 5
+
+
+
+ 
+
+time and its subsequent Orders/Notifications issued by concerned Nodal Ministry for specific Goods/Products. The
+minimum local content to qualify as a Class 1 local supplier is denoted in the bid document 50%. If the bidder
+wants to avail the Purchase preference, the bidder must upload a certificate from the OEM regarding the
+percentage of the local content and the details of locations at which the local value addition is made along with
+their bid, failing which no purchase preference shall be granted. In case the bid value is more than Rs 10 Crore,
+the declaration relating to percentage of local content shall be certified by the statutory auditor or cost auditor, if
+the OEM is a company and by a practicing cost accountant or a chartered accountant for OEMs other than
+companies as per the Public Procurement (preference to Make-in -India) order 2017 dated 04.06.2020. Only
+Class-I and Class-II Local suppliers as per MII order dated 4.6.2020 will be eligible to bid. Non - Local suppliers as
+per MII order dated 04.06.2020 are not eligible to participate. In case Buyer has selected Purchase preference to
+Micro and Small Enterprises clause in the bid, the same will get precedence over this clause.
+
+16.Preference to Make In India products (for bids greater than 200 Crore) (can also be used in Bids less than 200
+Crore but only after exemption by competent authority as defined in Deptt of Expenditure OM dated 28.5.2020):
+Preference shall be given to Class 1 local supplier as defined in public procurement (Preference to Make in India),
+Order 2017 as amended from time to time and its subsequent Orders/Notifications issued by concerned Nodal
+Ministry for specific Goods/Products. The minimum local content to qualify as a Class 1 local supplier is denoted
+in the bid document 50%. If the bidder wants to avail the Purchase preference, the bidder must upload a
+certificate from the OEM regarding the percentage of the local content and the details of locations at which the
+local value addition is made along with their bid, failing which no purchase preference shall be granted. In case
+the bid value is more than Rs 10 Crore, the declaration relating to percentage of local content shall be certified
+by the statutory auditor or cost auditor, if the OEM is a company and by a practicing cost accountant or a
+chartered accountant for OEMs other than companies as per the Public Procurement (preference to Make-in
+-India) order 2017 dated 04.06.2020. In case Buyer has selected Purchase preference to Micro and Small
+Enterprises clause in the bid, the same will get precedence over this clause.
+
+17.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of
+Goods
+
+18.Successful bidder will have to ensure that adequate number of dedicated technical service personals / engineers
+are designated / deployed for attending to the Service Request in a time bound manner and for ensuring Timely
+Servicing / rectification of defects during warranty period, as per Service level agreement indicated in the
+relevant clause of the bid.
+
+19.The buyer organization is an institution eligible for concessional rates of GST as notified by the Government of
+India. The goods for which bids have been invited fall under classification of GST concession and the conditions
+for eligibility of concession are met by the institution. A certificate to this effect will be issued by Buyer to the
+Seller after award of the Contract. Sellers are requested to submit their bids after accounting for the
+Concessional rate of GST.
+Applicable Concessional rate of GST : 5%
+Notification No.and date : 45/2017 - Central Tax (Rate) dated 14/11/2017
+
+20.Timely Servicing / rectification of defects during warranty period: After having been notified of the defects /
+service requirement during warranty period, Seller has to complete the required Service / Rectification within 3
+days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of
+Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit
+the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the
+Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after
+which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and
+cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service /
+rectification to the Buyer.
+
+21.WORLD BANK TERMS AND CONDITIONS: Special Terms and Conditions as defined by world bank at click here will
+also be applicable. APPLICABLE ONLY IN CASE OF WORLD BANK FUNDED PROJECTS.
+
+22.Warranty period of the supplied products shall be 5 years from the date of final acceptance of goods or after
+completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee
+location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The
+seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller
+should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service
+group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to
+be uploaded along with the bid
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://assets-bg.gem.gov.in/resources/pdf/STC%20for%20World%20Bank%20funded%20contracts.pdf
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

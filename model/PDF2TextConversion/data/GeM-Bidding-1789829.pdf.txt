@@ -1,0 +1,428 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/713425
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 16:00:00
+
+Bid Opening Date/Time 27-07-2020 16:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Ministry Of Railways
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Eastern Railway
+
+Total Quantity 4
+
+Item Category Office Suite Software (Version 2.0)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Office Suite Software (Version 2.0) ( 4 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+BASIC INFORMATION Product Type Proprietary Suites Open Source Suites,
+Proprietary Suites
+
+                               1 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/DNMEms2gy22Ew6_MF--FleI6KbB4GuQGde5-Zklt10g
+
+
+ 
+
+Offered Product are 3. Acadamic Edition 1. Commercial Edition, 2.
+Government Edition, 3.
+Acadamic Edition
+
+Name of the OEM - *
+
+OEM Model / Part No - *
+
+Product Id of OEM - *
+
+Software Description - *
+
+Date of Launch of Version - *
+
+SCOPE OF LICENCE "Types of Licence (Hint :
+Select 'NA' if not
+applicable)"
+
+1.Perpetual 1.Perpetual, 2.Subscription,
+3.NA
+
+"Duration of Subscription
+(in Years) (Hint : Select
+'0' if not applicable)"
+
+0 0 - 5
+
+Licencing option 4.Device based 1. CORE BASED,, 2.Users
+Based,, 3.Socket Based,,
+4.Device based, 5.NA
+
+Number of CORE /Users
+/Socket/ Device
+Supported for Each
+licence (Hint : - Inline
+with licence option
+selected)
+
+1 1 - 100
+
+OFFICE SUITE Proprietary Suite 1. Microsoft Office *
+
+"Open Source Suite
+(Hint:- Vendor can offer
+support service to open
+source suite on
+subscription basis)"
+
+6. Not Applicable 1.Apache Open Office,,
+2.Calligra Suite,, 3.Libre
+Office,, 4.ONLYOFFICE
+Desktop Editors,, 5. Neo
+office, 6. Not Applicable
+
+Components of Office
+Suite covered in the
+offered product
+
+1. Word Processor,2.
+Spreadsheet,3.
+Presentation,4. FILE
+CONVERSION,5.GRAPHICS
+
+1. Word Processor, 2.
+Spreadsheet, 3.
+Presentation, 4. FILE
+CONVERSION, 5.GRAPHICS,
+6. COLLABORATION TOOL
+
+Operating Systems
+Supported by the offered
+product
+
+1. Windows 1. Windows, 2. Windows
+Mobile/ Phone, 3. Mac, 4.
+Android, 5. Linux, 6. iOS, 7.
+DOS
+
+The offered product have
+support from OEM for
+
+1. Updation for Patches and
+Bug fixes within supoort
+period.
+
+1. Updation for Patches and
+Bug fixes within supoort
+period., 2. Upgradation of
+version within support
+period ., 3. NA
+
+Number of Years upto
+which support is
+available from
+OEM/Seller for Updation
+(Patches and Bug fixes)
+within support period
+
+5 1, 2, 3, 4, 5, 10, NA
+
+Number of Years upto
+which support is
+available from
+OEM/Seller for
+Upgradation of version
+within support period
+
+NA 1, 2, 3, 4, 5, 10, NA
+
+No of days Training
+Provided at Site
+
+0 0, upto 5, 6 to 10, 11 to 20,
+21 to 30
+
+                               2 / 4
+
+
+
+ 
+
+Word Processor Word Processor
+FEATURES
+
+1. Word,2.Themes,3. File
+Annotation,4.Built in Spell
+Checker/ Grammer &
+Style,5. Dictionary/
+Theasaurus,6. Utilities for
+manupulating and editing
+text
+
+1. Word, 2.Themes, 3. File
+Annotation, 4.Built in Spell
+Checker/ Grammer & Style,
+5. Dictionary/ Theasaurus,
+6. Utilities for manupulating
+and editing text
+
+Spreadsheet Spreadsheet FEATURES 1. Excel,3.Open XML File
+Format,5.Queries,7.Formula
+Calculation Function,8.Pivot
+Table/ Tables
+
+1. Excel, 2. Database,
+3.Open XML File Format, 4.
+XML File Filter Tool,
+5.Queries, 6.Advance data
+manipulation, 7.Formula
+Calculation Function, 8.Pivot
+Table/ Tables
+
+Presentation PPT FEATURES 1. Presentation Tool,2.Slide 
+Transitions,3.Themes,4.Pow
+er View
+
+1. Presentation Tool, 2.Slide
+Transitions, 3.Themes,
+4.Power View
+
+FILE CONVERSION PDF Editor & Convertor
+Features
+
+1. Word to PDF,,2. PDF to
+word,,3. Excel to PDF,
+
+1. Word to PDF,, 2. PDF to
+word,, 3. Excel to PDF,, 4.
+PDF to Excel,, 5.Scanned
+Images editing supported.,
+6.PDF Split & Extract facility,
+7. Search words within PDF
+file
+
+GRAPHICS GRAPHICS FEATURES 1. GRAPHIC TOOL,2.
+Drawings and
+Diagrams,3.Path editing
+tool,4. Raster Graphics
+Editor,5. Vector Graphics
+Editor
+
+1. GRAPHIC TOOL, 2.
+Drawings and Diagrams,
+3.Path editing tool, 4. Raster
+Graphics Editor, 5. Vector
+Graphics Editor
+
+COLLABORATION TOOL COLLABORATION TOOL
+FEATURES
+
+2. Relationships,5.Exchange
+Server Support,10.Real time
+Document Co-
+Authoring,11.Collaboration
+over Same Platform
+Suite,6.Outlook Social
+Connector
+
+*
+
+GENERIC GENERIC FEATURES 1 1. Accessibility,2. Support
+for many native
+languages,4.ActiveX
+Control,5.Writing
+Support,6.Gradient and
+pattern tools,7.Files and
+Printing,8. Editing and
+Formatting,9.Language
+Tools,11.Forms,12.
+Reports,3. 3rd Party Add
+-ons
+
+*
+
+GENERIC FEATURES 2 16. Templates,18.Equation
+Editor,19.Version
+Information,23. Live
+Preview,24.Research
+Button,25. Bug report,26.
+Notetaking software,27.
+Email client,28. HTML
+Editor,29. Online Editing
+
+*
+
+Cloud storage support
+for
+
+4. NA 1. Google Drive, 2. Drops
+Box, 3. One Drive, 4. NA
+
+Capacity of cloud storage
+support(in GB) Hint:-
+Select'0' if not applicable
+
+0 0 - 10000
+
+SUPPORTED HARDWARE Processor Supported in 32,64 32, 64
+
+                               3 / 4
+
+
+
+ 
+
+REQUIREMENTS AT
+USEREND
+
+Bits
+
+Minimum Processor
+Configuration Required
+
+- *
+
+Minimum Hard Disk Space
+Required in GB
+
+3 *
+
+Minimum RAM Size required
+in GB
+
+2 *
+
+GENERIC PARAMETERS Valid Licence copy to be
+provided
+
+YES *
+
+Software supplied through URL Link *
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Moses Nag 711204,Eastern Railway Liluah 4  15
+
+Bid Specific Additional Terms and Conditions
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2.Timely Servicing / rectification of defects during warranty period: After having been notified of the defects /
+
+service requirement during warranty period, Seller has to complete the required Service / Rectification within 7
+days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of
+Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit
+the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the
+Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after
+which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and
+cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service /
+rectification to the Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

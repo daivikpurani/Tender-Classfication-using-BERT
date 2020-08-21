@@ -1,0 +1,525 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/702987
+
+  Dated: 08-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 18-07-2020 17:00:00
+
+Bid Opening Date/Time 18-07-2020 17:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Jammu & Kashmir
+
+Department Name Housing And Urban Development Department Jammu
+And Kashmir
+
+Organisation Name N/a
+
+Office Name Directorate Of Urban Local Bodies Jammu
+
+Total Quantity 1
+
+Item Category Hopper Tipper Dumper ( PAC Only ) 
+
+Bidder Turnover (Last 3 Years)  4 Lakh (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Certificate
+(Requested in ATC)
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  80 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+                               1 / 6
+
+
+
+ 
+
+1. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 80% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Hopper Tipper Dumper ( 1 pieces ) ( Under PAC ) 
+
+Make baxy
+
+Model cepltipper-1.8cum-side-tipping
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Certification Chassis Certification ARAI *
+
+Chassis Certification
+ARAI/VRDE/ICAT No
+
+AAPN0277 Dt20-Mar-20 *
+
+At the time of supply of
+the equipment, the
+chassis should not be
+more than 6 months
+old
+
+Yes *
+
+Generic Parameters Type of TIPPER Garbage Tipper Garbage Tipper
+
+Type of TIPPER if other
+tipper ,please declare
+type of Tipper,
+
+TwinIndependentHoper *
+
+Make of Chassis TATA ACE GOLD *
+
+Type of Chassis Frame Conventional *
+
+Category of Vehicle
+for which Chassis to
+be used
+
+Light Capacity
+Commercial Vehicles
+
+Light Capacity
+Commercial Vehicles
+
+Type of Chasssis Chassis with Facecowl *
+
+Type of Fuel Diesel Diesel
+
+Vehicle Emission
+Complaince
+
+BS-VI BS-VI
+
+Fuel Consumption (
+declared by OEM as
+certified by Test
+Agency under Rule
+
+21 *
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/qk2ALIl5-qJwlOm68pGJg4BL5fcS8uZ2cKMWDcR2E_Q
+
+
+ 
+
+115of CMVR 1989)
+(Kmpl)
+
+Speed, Max (Km/Hr) 60 *
+
+Max Engine Power
+BHP (BHP@rpm)
+
+19.71 More than 19.71 Or
+higher
+
+Rated RPM at Max
+Engine Power
+
+3600 *
+
+Max Engine Torque
+(N-M@rpm)
+
+45 Any applicable numeric
+value
+
+Rated RPM at Max
+Engine Torque
+
+3600 *
+
+Main Engine
+Aspiration
+
+Natural Aspiration Natural Aspiration
+
+No. of Cylinder in Main
+Engine (Nos)
+
+2 *
+
+Fuel Tank Capacity
+(Ltrs)
+
+30 *
+
+Gradeability of Vehicle
+with load( %)
+
+13.2 *
+
+Ground Clearance
+(mm)
+
+160 *
+
+Wheel Base (mm) 2100 *
+
+Kerb Weight (Kg) 925 *
+
+Gross Vehicle
+Weight (Kg)
+
+1675 More than 1675.0 Or
+higher
+
+Type of BIS MARKED
+Vehicle Tyre
+
+Radial *
+
+Chassis
+Transmission System
+
+Manual Manual
+
+Number of Speed/
+Forward Gears
+
+5 *
+
+Type of Steering Manual Manual
+
+Turning Radius,Min
+(mm)
+
+4300 Less than 4300.0 Or
+lower
+
+Speed Governers/ECU Yes *
+
+ABS Fitted No *
+
+Front Vehicle Brake DISC *
+
+Rear Vehicle Brake DRUM *
+
+Type of Clutch Single Plate Dry *
+
+Tipping Angle (Degree) 85 *
+
+Tipper Container cap
+acity/Volume(cubic
+metres)
+
+1.8 1.8 - 20.0 Or higher
+
+                               3 / 6
+
+
+
+ 
+
+Consructional
+Parameters
+
+Size Of Front Tyres
+(mm)
+
+145 R12 *
+
+Size Of Rear Tyres
+(mm)
+
+145 R12 *
+
+Size of Wheel (mm) 304.8 *
+
+Tipper body Pivot
+length (mm)
+
+0 *
+
+Tipper body Length
+(mm)
+
+1550 *
+
+Tipper Body Height
+(mm)
+
+850 *
+
+Overall Height of Tipper
+from Ground (mm)
+
+1660 *
+
+Body Plate Thickness
+(mm)
+
+2 *
+
+Main Frame Thickness
+(mm)
+
+3 *
+
+Hydraulic System Yes *
+
+Tipping Hydraulic
+Cylinders(Make)
+
+Dantal/Liftwell/Eqv *
+
+Hydraulic System
+Driven by
+
+Main Engine *
+
+Tipper Container
+Material
+
+Mild Steel Mild Steel
+
+Thickness of sheet from
+tipper Collector
+Container Made (mm)
+
+1.6 *
+
+Dumping Height (mm) 1200 *
+
+Engine Oil Pressure
+Level Indicator in
+Control Panel
+
+Yes *
+
+Fuel Gauge Indicator in
+Control Panel
+
+Yes *
+
+Engine Cooling Liquid
+Temperature Indicator
+in Control Panel
+
+Yes *
+
+Operating Hour Meter No *
+
+Locking/Unlocking of
+Tipper Discharge
+Container
+
+Yes *
+
+Lowering/Lifting of
+Tipper Discharge
+Container
+
+Yes *
+
+Counter Weight No *
+
+If yes Counter Weight 0 *
+
+                               4 / 6
+
+
+
+ 
+
+(kg)
+
+Paint Automotive Paint *
+
+Performance
+Parameters
+
+Standard Sparewheel
+and Tool Kit
+
+Yes *
+
+Warranty Time
+(Month)
+
+12 12.0
+
+No. Of Free Service
+(Nos)
+
+3 *
+
+Battery Warranty
+(Months)
+
+12 12, 24, 36 Or higher
+
+Warranty Distance
+(Km)(Unlimited during
+warranty Period)
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Narinder Singh 184152,OFFICE OF THE
+MUNICIPAL COMMITTEE
+LAKHANPUR
+
+1  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have
+regularly, manufactured and supplied same or similar Category Products to any Central /
+State Govt Organization / PSU / Public Listed Company for 1 year before the bid opening
+date. Copies of relevant contracts to be submitted along with bid in support of having
+supplied some quantity during each of the year. In case of bunch bids, the primary product
+having highest value should meet this criterion.
+
+2.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+3.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+4. ISO 9001: The bidder must have ISO 9001 certification.
+5.The Bidder / OEM {themselves or through reseller(s)}, should have executed project for
+
+supply and installation / commissioning of same or similar Category Products during
+preceding 3 financial years (i.e. current year and three previous financial years) as on
+opening of bid, as per following criteria:
+
+                               5 / 6
+
+
+
+ 
+
+ 
+(i) Single order of at least 35% of estimated bid value; or
+(ii) Two orders of at least 20% each of estimated bid value; or
+(iii) Three orders of at least 15% each of estimated bid value.
+Satisfactory Performance certificate issued by respective Buyer Organization for the above
+Orders should be uploaded with bid. In case of bunch bids, the Category related to primary
+product having highest bid value should meet this criterion
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

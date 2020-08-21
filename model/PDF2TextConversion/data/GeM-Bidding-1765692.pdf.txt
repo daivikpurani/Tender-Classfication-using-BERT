@@ -1,0 +1,714 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/691455
+
+  Dated: 29-06-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 09-07-2020 19:00:00
+
+Bid Opening Date/Time 2020-07-09 19:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Coal
+
+Department Name Materials Management
+
+Organisation Name Northern Coalfields Limited
+
+Office Name Singrauli
+
+Total Quantity 1
+
+Item Category RO Water Plant for Hemodialysis
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Past Performance,OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  80 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+
+Splitting
+
+ Bid splitting not applied.
+
+                               1 / 8
+
+
+
+ 
+
+1. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 80% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+RO Water Plant For Hemodialysis ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERAL FEATURES Clinical Purpose RO water for
+hemodialysis to be
+applied in therapies
+such as HD, SLED, HDF,
+HF
+
+*
+
+Product name RO Water Plant for
+Hemodialysis
+
+*
+
+Plant capacity
+(Ltrs/Hr)
+
+500 500
+
+Plant type Microprocessor/microco
+ntroller controlled
+Single stage RO water
+system ( Feed water
+TDS less than 500 PPM)
+
+Microprocessor/microco
+ntroller controlled
+Single stage RO water
+system ( Feed water
+TDS less than 500 PPM)
+
+Various stages in RO
+water treatment
+process
+
+Pre-filter or Sediment
+filter, Carbon filter,
+Water softner, Reverse
+Osmosis system,
+Distribution system,
+Storage Tank,
+Ultraviolet disinfection,
+Final filteration,Final
+alarms, System
+monitoring and
+disinfection
+
+*
+
+System type Online Online
+
+System shall have
+microprocessor based
+control panel for ease
+of operation and inbuilt
+process logic
+
+Yes *
+
+System shall have auto
+start/stop based on
+
+Yes *
+
+                               2 / 8
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/_ZuhLG1tRhvSzEoixXKQVi8CAfACwpbXDI7dvBXfY8E
+
+
+ 
+
+water level in the
+supply tank
+
+System shall be
+equipped with
+Electrical panel/MCB for
+plant protection
+
+Yes *
+
+PRE-TREATMENT Raw water mesh
+filtering size to prevent
+big dust/sand particles
+with back wash control
+
+50 to 200 microns *
+
+Vertical water tank with
+automatic water float
+
+Yes *
+
+Raw water pump with
+automatic pressure
+control and run dry
+protection
+
+Yes *
+
+Raw water feed pump
+type
+
+Centrifugal *
+
+Double raw water
+pump ( one active
+and the other stand
+by)
+
+Yes Yes
+
+Raw water feed
+pump capacity (LPH)
+
+1500 1500
+
+Sand/iron filter with
+20micron filter and
+sample valve
+
+Yes *
+
+Softener for one in
+operation while the
+other in standby and
+vice-versa with sample
+valve with brain tank
+and automatic
+regeneration capacity
+
+Yes *
+
+Double activated
+Carbon filter to remove
+Chlorine and
+Chloramines with
+sample valve
+
+Yes *
+
+Micron particle filter
+after activated
+Carbon filter for
+removing suspended
+particles more than
+micron size
+
+1 1
+
+All pretreatment
+module should be
+programmable back
+wash and regeneration
+facility
+
+Yes *
+
+                               3 / 8
+
+
+
+ 
+
+Online rotameter for
+measuring flow
+
+Yes *
+
+Pressure monitoring
+facility of all filtering
+stages with glycerin
+filled SS pressure
+gauge
+
+Yes *
+
+Sample valve facility
+for all filtering stages
+
+Yes *
+
+RO UNIT FOR MAIN
+TREATMENT
+
+Distribution of RO
+plant water
+sufficient for number
+of dialysis machines
+
+5-10 5-10
+
+Monitoring facility for
+input and output water
+conductivity, feed
+water pressure and
+injection flow rate
+
+Yes *
+
+Alarm against low feed
+water, high output
+conductivity and high
+temperature of pump
+motor
+
+Yes *
+
+Unused water feed
+back facility to RO unit
+for saving on water
+injection in online
+mode
+
+Yes *
+
+The unit should be
+programmable and
+automatic
+rinsing/flushing facility
+at regular intervals
+when system is not in
+use, to prevent drying
+of filter media
+
+Yes *
+
+Emergency mode
+operation to run
+permeate output in
+case of electronic
+failure
+
+Yes *
+
+RO MEMBRANE Efficiency of unit with
+maximum saving of
+water (%)
+
+55 to 75 *
+
+Sample valve for
+permeate
+
+Yes *
+
+POST TREATMENT Material of Booster
+pump (offline)
+
+Stainless Steel 316 Stainless Steel 316
+
+Vertical storage
+water tank with
+automatic float
+
+Yes Yes
+
+                               4 / 8
+
+
+
+ 
+
+control for filling and
+dry run protection
+for off-line system
+
+Direct and indirect feed
+for full close loop
+distribution piping
+system
+
+Yes *
+
+Chemical disinfection
+and decalcification
+
+Semi-automatic *
+
+Provision of volume
+controlled heat
+disinfection of
+permeate loop
+complied with ISO
+15883
+
+Yes Yes
+
+The permeate should
+be supplied to
+distribution loop
+through 0 point 2
+micron bacteria filter
+for offline system
+using pex piping and
+high grade SS316
+push pull connectors
+
+Yes Yes
+
+The distribution loop
+should contain loop
+pressure regulator to
+maintain the desired
+loop back pressure
+
+Yes *
+
+USER INTERFACE Digital display of values
+of
+Conductivity/permeabl
+e flow/reject flow/temp
+erature/pressure
+monitoring
+
+Yes *
+
+Touch screen/button
+type illuminated
+display for easy to
+finger operation of user
+
+Yes *
+
+Signal and control
+lights with possibility to
+connect external lights
+
+Yes *
+
+Software update via
+SD Card or Ethernet
+
+Yes Yes
+
+Memory storage
+device
+
+Yes Yes
+
+STANDARD
+CONSUMABLES AND
+ACCESSORIES
+
+All media and
+consumables (
+membrane, cartidge
+filter, filter media,
+chemicals, softner salt)
+for setting up and
+
+Yes *
+
+                               5 / 8
+
+
+
+ 
+
+standardization should
+be provided
+
+Seller should ensure
+the availability of all
+consumables required
+to run the RO plant
+during complete
+warranty period to be
+purchased by the buyer
+independently at actual
+cost
+
+Yes *
+
+UPS of Suitable
+Capacity to pe
+provided
+
+Yes Yes
+
+CERTIFICATIONS &
+REPORTS
+
+Submission of Test
+Report for permeate
+water quality as per
+AAMI/ISO-13959/13500
+from Central
+Govt/NABL/ILAC
+accredited Lab to prove
+the conformity to
+declared specification
+after installation
+
+YES *
+
+Product certification - *
+
+Certificate No - *
+
+Certificate Date - *
+
+Certificate issuing
+authority
+
+- *
+
+Four digit number of
+notified body If product
+is EU-CE certified
+
+- *
+
+Certification,
+performance and
+safety standards
+specific to the device
+
+IS:13450(Part 1) *
+
+Submission of all the
+certifications and test
+reports to the buyer
+along with supplies on
+demand
+
+Yes *
+
+PRE-INSTALLATION
+REQUIREMENT FOR
+THE BUYER
+
+All Pre-installation
+requirements along
+with site preparation
+should be provided by
+the seller to the buyer
+well in advance before
+the supply of
+equipment
+
+Yes *
+
+All Pre-installation
+requirements should be
+
+Yes *
+
+                               6 / 8
+
+
+
+ 
+
+done by the buyer
+
+Minimum room size
+required for the plant
+(H x W x L) m
+
+- *
+
+Feed water line till RO
+room
+
+Yes *
+
+Number of drain outlets
+required
+
+- *
+
+Overhead tank for
+storage depending on
+plant size
+
+Yes *
+
+Door width required for
+RO room (cm)
+
+- *
+
+Airconditioning as per
+rquirements
+
+Yes *
+
+Power requirements 220-240 VAC, single
+phase
+
+*
+
+INSTALLATION &
+TRAINING
+
+Supplier to perform
+installation, safety and
+operation checks
+before handover
+
+Yes *
+
+Training of users in
+operation and basic
+maintenance shall be
+provided
+
+Yes *
+
+WARRANTY &
+MAINTENANCE
+
+Onsite Warranty (Yrs)
+without membranes
+and consumables
+
+5 *
+
+User technical and
+maintenance manual
+detailing complete
+maintaining schedule
+with routine
+maintenance should be
+provided
+
+Yes *
+
+Contact details of
+manufacturer, supplier
+and local service agent
+to be provided
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+                               7 / 8
+
+
+
+ 
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Sanjay Kumar
+Gupta
+
+486890,NEHRU SATABDI
+CHIKITSHALYA, PO - JAYANT,
+DISTT - SINGRAULI M.P.
+
+1  60
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               8 / 8
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

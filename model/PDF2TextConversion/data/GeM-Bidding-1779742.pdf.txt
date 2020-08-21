@@ -1,0 +1,562 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/704237
+  Dated: 17-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 18:00:00
+
+Bid Opening Date/Time 27-07-2020 18:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Home Affairs
+
+Department Name Central Armed Police Forces
+
+Organisation Name Sashastra Seema Bal (ssb)
+
+Office Name Fhq Ssb New Delhi
+
+Total Quantity 3
+
+Item Category Microwave Based Disinfection System (SAMEER Technology)
+
+Bidder Turnover (Last 3 Years)  47 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  94 Lakh (s)
+
+Experience Criteria  1 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years Of Experience and
+Turnover
+
+ Yes
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM Authorization
+Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the
+buyer
+
+Past Performance  10 %
+
+Bid to RA enabled  Yes
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 5.00
+
+EMD Amount 474867
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 10.00
+
+Duration of ePBG required (Months). 62
+
+                               1 / 6
+
+
+
+ 
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant
+category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for
+Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+DDO
+Fhq Ssb New Delhi, Central Armed Police Forces, Sashastra Seema Bal (SSB), Ministry of Home Affairs
+(Asstt.comdt/min)
+
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM {themselves or
+through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central
+/ State Govt Organization / PSU / Public Listed Company for number of years as indicated in the bid document before the
+bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some
+quantity during each of the year. In case of bunch bids, the category of primary product having highest value should
+meet this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product during the
+last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document.
+Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the
+Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with
+the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have supplied same or similar
+Category Products for 10% of bid quantity, in at least one of the last three years before the bid opening date to any
+Central / State Govt Organization / PSU / Public Listed Company. Copies of relevant contracts (proving supply of
+cumulative order quantity in any one year) to be submitted along with bid in support of quantity supplied in the relevant
+year. In case of bunch bids, the category related to primary product having highest bid value should meet this criterion.
+
+Microwave Based Disinfection System (SAMEER Technology) ( 3 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Performance Parameters Technology Microwave technology
+based disinfection of
+hazardous biomedical waste
+designed developed and
+patented by SAMEER
+Mumbai
+
+Microwave technology
+based disinfection of
+hazardous biomedical waste
+designed developed and
+patented by SAMEER
+Mumbai
+
+Nominal capacity of
+Disinfection system in
+litres per cycle
+
+10 10
+
+Microwave out put power
+in kw
+
+1 1, 1.5
+
+Microwave frequency in MHz 2450 *
+
+Power consumption in
+watts hour
+(Approximate)
+
+2300 2300
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/Q4TT9c5hZWPjx6McWe5DV5E8WYSRG9gRL6j6TGEyuKQ
+
+
+ 
+
+Duration of one disinfection
+cycle in minutes
+
+45-50 *
+
+Microwave generator
+provided
+
+Magnetrons strategically
+positioned and tuned to
+specific frequency to ensure
+total coverage and
+disinfection
+
+*
+
+Material of Construction of
+external body
+
+MS powder coated external
+body with SS microwave
+applicator aith microwave
+leak proof front cover
+
+*
+
+Inner microwave chamber
+construction
+
+Specially designed
+rectangular chamber made
+of SS 304 Grade stainless
+steel
+
+*
+
+Monitoring On line temperature display
+along with printing of
+process cycle using printer
+to record process
+parameters .On line
+monitoring of process status
+and magnetron current
+
+*
+
+Report Generation inbuilt printer to record
+process start time,end time
+and temperature log of the
+process along with weight of
+the hospital waste
+processed
+
+*
+
+Turn table Precisely balanced slow
+speed turn table with
+concealed drive mechanism
+to ensure 360 degree uiform
+microwave heating and with
+weight sensor
+
+*
+
+Waste container Microwave proof moulded
+container to hold the
+medical waste
+
+*
+
+Exhaust System Specially desigend closed
+loop water ejector system
+for the microwave chamber
+to avoid discharge of any
+fumes/gases to the
+atmosphere
+
+*
+
+Automatic moistening
+System
+
+internally installed
+automatic water spray
+mechanism to facilitate
+moistening of the waste for
+uniformity of microwave
+absorption and heating
+
+*
+
+Control System High end programmable
+logic control system to
+ensure total automatic
+disinfection cycle with
+minimum human
+intervention and single
+button operation
+
+*
+
+Safety interlocks Insufficient hospital waste
+,closure of applicator
+door,high voltage safety
+door,magnetron cooling
+blower magnetron
+temperature and current etc
+
+*
+
+                               3 / 6
+
+
+
+ 
+
+Dimensions in mm x mm
+x mm
+
+1040 X 1050 X 630 1040 X 1050 X 630
+
+Weight in kg 200 200
+
+Remote monitoring of
+machine status
+
+No Yes, No
+
+Print out of weight
+processed by system
+
+Yes Yes
+
+Parameters for which
+disinfection efficiency to be
+tested
+
+Disinfection efficacy 10⁵ to
+10⁷ log , decontamination of
+bacterial
+suspension,Decontaminatio
+n of mycobacterium tubercu
+losis(MTB),Decontamination
+of fungal
+suspension,Decontaminatio
+n of spores of bacillus
+atrphaeus,inactivation of
+cell lines,Destruction of
+vaccines eginfluenza live
+attunuated.,Destruction of
+viruses eg HIN1 and HIVI
+,Destruction of blood
+vials,Destruction of
+m,aggots,Decontamination
+of operation thestre
+monitoring swabs
+
+*
+
+Technology acquisition From Society of applied
+mocrowave electronics
+engineering and research
+Mumbai
+
+*
+
+Operating voltage and
+frequency
+
+230 ± 10 VAC, 50 Hz *
+
+Warranty in years 5 5
+
+Certifications Certification Report Efficincy certification as per
+CPCB Biomedical waste rule
+
+*
+
+Certification Lab Half kine institute, Parel
+Mumbai
+
+*
+
+Certification No and Date - *
+
+Manufacturing LICENCE(TOT
+Agreement) issued by
+SAMEER and its validity
+
+- *
+
+Details of certifications with
+manufacturer(TOT holder)
+such as ISO
+
+- *
+
+Copies of all certifications
+and reports to be provided
+to buyer on demand at time
+of supplies
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting Address Quantity Delivery Days
+
+                               4 / 6
+
+
+
+ 
+
+Officer
+
+1 Parth Purwar 273007,O/O The DIG(Medical),
+Composite Hospital, SSB FCIL
+Complex Gorakhpur
+
+1  45
+
+2 Manoj Kumar Bora 784104,O/O The DIG Medical,
+Composite Hospital Tezpur, At
+Salonibari
+
+1  45
+
+3 RENU K THORE 854316,Office of the Deputy
+Inspector General, Composite
+Hospital SSB Bathnaha ,Koshi
+Project Colony PO- Bathnaha
+
+1  45
+
+Bid Specific Additional Terms and Conditions
+1.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each
+
+Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If
+service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one
+within 30 days of award of contract. Payment shall be released only after submission of documentary evidence
+of having Functional Service Centre.
+
+2.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last three
+years, ending on 31st March of the previous financial year, should be as indicated in the bid document.
+Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from
+the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution shall be taken into
+account for this criteria.
+
+3.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for
+Service Support.
+
+4.Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have regularly,
+manufactured and supplied same or similar Category Products to any Central / State Govt Organization / PSU /
+Public Listed Company for 1 year before the bid opening date. Copies of relevant contracts to be submitted along
+with bid in support of having supplied some quantity during each of the year. In case of bunch bids, the primary
+product having highest value should meet this criterion.
+
+5.IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered
+office in India to provide after sales service support in India. The certificate to this effect should be submitted.
+
+6.Malicious Code Certificate:
+
+The seller should upload following certificate in the bid:-
+(a) This is to certify that the Hardware and the Software being offered, as part of the contract, does not contain
+Embedded Malicious code that would activate procedures to :-
+  (i) Inhibit the desires and designed function of the equipment.
+  (ii) Cause physical damage to the user or equipment during the exploitation.
+  (iii) Tap information resident or transient in the equipment/network.
+(b) The firm will be considered to be in breach of the procurement contract, in case physical damage, loss of
+information or infringements related to copyright and Intellectual Property Right (IPRs) are caused due to
+activation of any such malicious code in embedded software.
+
+7.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone
+No. for Service Support.
+
+8.Timely Servicing / rectification of defects during warranty period: After having been notified of the defects /
+service requirement during warranty period, Seller has to complete the required Service / Rectification within 15
+days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of
+Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit
+the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the
+Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after
+which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and
+cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service /
+rectification to the Buyer.
+
+9.Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods
+and Training of operators and providing Statutory Clearances required (if any)
+
+10.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product
+during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid
+document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a
+certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant
+period shall be uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than 3
+
+                               5 / 6
+
+
+
+ 
+
+year old, the average turnover in respect of the completed financial years after the date of constitution shall be
+taken into account for this criteria. In case of bunch bids, the OEM of CATEGORY RELATED TO primary product
+having highest bid value should meet this criterion.
+
+11.OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25
+percent at the time of placement of contract. The purchaser also reserves the right to increase the ordered
+quantity by up to 25% of the contracted quantity during the currency of the contract at the contracted rates.
+Bidders are bound to accept the orders accordingly.
+
+12.Preference to Make In India products (for bids greater than 200 Crore) (can also be used in Bids less than 200
+Crore but only after exemption by competent authority as defined in Deptt of Expenditure OM dated 28.5.2020):
+Preference shall be given to Class 1 local supplier as defined in public procurement (Preference to Make in India),
+Order 2017 as amended from time to time and its subsequent Orders/Notifications issued by concerned Nodal
+Ministry for specific Goods/Products. The minimum local content to qualify as a Class 1 local supplier is denoted
+in the bid document 50%. If the bidder wants to avail the Purchase preference, the bidder must upload a
+certificate from the OEM regarding the percentage of the local content and the details of locations at which the
+local value addition is made along with their bid, failing which no purchase preference shall be granted. In case
+the bid value is more than Rs 10 Crore, the declaration relating to percentage of local content shall be certified
+by the statutory auditor or cost auditor, if the OEM is a company and by a practicing cost accountant or a
+chartered accountant for OEMs other than companies as per the Public Procurement (preference to Make-in
+-India) order 2017 dated 04.06.2020. In case Buyer has selected Purchase preference to Micro and Small
+Enterprises clause in the bid, the same will get precedence over this clause.
+
+13.Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to MSEs as
+defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012 dated 23.03.2012
+issued by Ministry of Micro, Small and Medium Enterprises and its subsequent Orders/Notifications issued by
+concerned Ministry. If the bidder wants to avail the Purchase preference, the bidder must be the manufacturer of
+the offered product in case of bid for supply of goods. Traders are excluded from the purview of Public
+Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder must be the Service
+provider of the offered Service. Relevant documentary evidence in this regard shall be uploaded along with the
+bid in respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s) has/have quoted price
+within L-1+ 15% of margin of purchase preference /price band defined in relevant policy, such Seller shall be
+given opportunity to match L-1 price and contract will be awarded for percentage of 50% of total value.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

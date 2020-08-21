@@ -1,0 +1,250 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/713653
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 17:00:00
+
+Bid Opening Date/Time 27-07-2020 17:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Pmo
+
+Department Name Department Of Atomic Energy
+
+Organisation Name Nuclear Power Corporation Of India Limited
+
+Office Name Head Quarter Mumbai
+
+Total Quantity 20
+
+Item Category AEK Camera
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+MSE Purchase Preference
+
+MSE Purchase Preference Yes
+
+ 
+
+1. Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to MSEs as defined in
+Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued by Ministry of
+Micro, Small and Medium Enterprises and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder
+wants to avail the Purchase preference, the bidder must be the manufacturer of the offered product in case of bid for
+supply of goods. Traders are excluded from the purview of Public Procurement Policy for Micro and Small Enterprises. In
+respect of bid for Services, the bidder must be the Service provider of the offered Service. Relevant documentary
+evidence in this regard shall be uploaded along with the bid in respect of the offered product or service. If L-1 is not an
+MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of purchase preference /price band defined in
+relevant policy, such Seller shall be given opportunity to match L-1 price and contract will be awarded for percentage of
+25% of total value.
+
+                               1 / 3
+
+
+
+ 
+
+AEK Camera ( 20 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Camera Capture Type Plain live capture Plain live capture
+
+Image Quality Full Frontal (0x01) as per
+ISO/IEC 19794-5
+
+Full Frontal (0x01) as per
+ISO/IEC 19794-5
+
+Image Resolution
+Minimum (Pixels)
+
+800x600 800x600, 1080p Or higher
+
+Capture mode Manual Capture with Auto
+Focus and Auto Lighting
+Adjustment
+
+Manual Capture with Auto
+Focus and Auto Lighting
+Adjustment
+
+Native Sensor Resolution 10 2 - 99
+
+Connectivity High Speed USB 2.0, USB-IF
+certified
+
+High Speed USB 2.0, USB-IF
+certified
+
+Lens Fixed, SLR *
+
+Power Supply Through USB *
+
+Mount Tripod *
+
+Operating Temperature
+Range ( Degree C )
+
+0 – 50 *
+
+Operating Humidity (%RH) 10 - 90 *
+
+Durability (Shock
+Resistant)
+
+IP 54 IP 54
+
+Safety Standard UL *
+
+Software API Compliant with UIDAI Device
+Capture API specification
+
+Compliant with UIDAI Device
+Capture API specification
+
+Rotatable with Fixed Base
+(Degree)
+
+360 *
+
+Operating System
+Compatibility
+
+Linux / Windows *
+
+Warranty (Year) 3 3, 4, 5 Or higher
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Ganesh Manohar
+Langhi
+
+400088,NPCIL Stores Trombay
+Village
+
+20  15
+
+Bid Specific Additional Terms and Conditions
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+
+                               2 / 3
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/J7gwM7wOcOjafJXu26OJueiEQRPPJGP9O6P8TOR7VK8
+
+
+ 
+
+2.Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to MSEs as
+defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012 dated 23.03.2012
+issued by Ministry of Micro, Small and Medium Enterprises and its subsequent Orders/Notifications issued by
+concerned Ministry. If the bidder wants to avail the Purchase preference, the bidder must be the manufacturer of
+the offered product in case of bid for supply of goods. Traders are excluded from the purview of Public
+Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder must be the Service
+provider of the offered Service. Relevant documentary evidence in this regard shall be uploaded along with the
+bid in respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s) has/have quoted price
+within L-1+ 15% of margin of purchase preference /price band defined in relevant policy, such Seller shall be
+given opportunity to match L-1 price and contract will be awarded for percentage of 25% of total value.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               3 / 3
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

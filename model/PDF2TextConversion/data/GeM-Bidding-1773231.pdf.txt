@@ -1,0 +1,663 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/698332
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 15:00:00
+
+Bid Opening Date/Time 20-07-2020 15:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Pmo
+
+Department Name Department Of Atomic Energy
+
+Organisation Name Nuclear Power Corporation Of India Limited
+
+Office Name Rajasthan
+
+Total Quantity 1
+
+Item Category forklifts
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 2.00
+
+EMD Amount 17270
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 10.00
+
+Duration of ePBG required (Months). 18
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+                               1 / 8
+
+
+
+ 
+
+Beneficiary: 
+SITE DIRECTOR, NPCIL, RR Site, Rajasthan.
+NUCLEAR POWER CORPORATION OF INDIA LIMITED, RAWATBHATA RAJASTHAN SITE, ANUSHAKTI -
+323303 VIA: KOTA (RAJASTHAN)
+(Vivek Jain)
+
+Splitting
+
+ Bid splitting not applied.
+
+Forklifts ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC Conformity to Indian
+Standrad
+
+IS: 6765-2003 latest *
+
+Operating Mode Diesel Engine Operated Diesel Engine
+Operated, Battery
+Operated
+
+Rated Capacity at
+Standard Lift Height
+and Load Centre
+(Kg)
+
+3000 1000, 2000, 3000,
+4000, 5000, 6000
+
+Transmission automatic manual, automatic, NA
+
+Type of Drive single single, double
+
+Rating of Traction
+Battery (KW/H)
+
+NA for Diesel Engine
+operated
+
+for 1000 Kg capacity,
+battery operated
+Forklift ≥15.9 KW/H, for
+2000 Kg capacity,
+battery operated
+Forklift ≥ 21.2 KW/H,
+for 3000 Kg capacity,
+battery operated
+Forklift ≥ 24.7 KW/H,
+NA for Diesel Engine
+operated
+
+CONSTRUCTIONAL Type of Motor NA for engine operated AC, DC, NA for engine
+operated
+
+Engine Capacity
+(BHP@rpm)
+
+48 Any applicable numeric
+value
+
+Rated RPM 2200 Any applicable numeric
+
+                               2 / 8
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/8ecmh6OBDnyUl6f9Ba2SrYd3thF9OvRN3LPd-CpEJKg
+
+
+ 
+
+value
+
+Engine Torque
+Nm@rpm
+
+200 Any applicable numeric
+value
+
+No of Cylinders 4 *
+
+Engine Cubic
+Capacity/Displacement
+(CC)
+
+3300 *
+
+Engine Cooling
+System
+
+Liquid Cooled Air Cooled, Liquid
+Cooled, NA for Battery
+Operated
+
+No of speed forward 2 *
+
+No of speed reverse 2 *
+
+ForkLift Gradeability
+(%)
+
+28 Any applicable numeric
+value
+
+AC Traction Motor
+Capacity, (Kw)
+
+NA 8 kw, 12Kw, NA
+
+Capacity for AC
+Motor Pump, (Kw)
+
+NA 10 Kw, 12 Kw, 15 Kw,
+NA
+
+AC/DC motor rating NA for engine operated for 1000 Kg capacity
+battery operated forklit
+2.2 Kw Min, for 2000 Kg
+capacity battery
+operated forklit 7.0 Kw
+Min, for 3000 Kg
+capacity battery
+operated forklit 8.5 Kw
+Min, NA for engine
+operated
+
+DC motor operating
+voltge
+
+NA for engine operated
+& AC motor
+
+36 V, 48 V, 72 V, 80 V,
+NA for engine operated
+& AC motor
+
+Standard load centre
+distance
+
+DH/DV for Forklift up to
+4000 Kg 500/500mm
+
+DH/DV for Forklift up to
+4000 Kg 500/500mm,
+DH/DV for Forklift for
+5000 &6000 kg
+600/600mm
+
+Brake System Hydraulic Hydraulic, fully
+Pneumatic
+
+Minimum ground
+clearance, (mm)
+
+110 *
+
+Lifting Stages 2 2, 3 Or higher
+
+Lift Height (metres) 3 to 3.8 meters 3 to 3.8 meters, 4 to
+4.5 meters, 5 to 6
+meters
+
+Fork arm for fork lift
+truck
+
+confirm to IS 6876
+latest
+
+*
+
+Mounting dimensions
+for attachment
+
+to the extent applicable
+IS 7525 latest
+
+*
+
+                               3 / 8
+
+
+
+ 
+
+Make and model of
+offered fork lift
+
+- *
+
+Max. fork spread (mm) 970 *
+
+Fork size (mm) 1000 *
+
+Overall length (mm) 3700 *
+
+Overall width (mm) 1210 *
+
+Overall height raised
+(mm)
+
+5000 *
+
+Collapsed Height (mm) 2630 *
+
+Free Lift Height (mm) 105 *
+
+Wheel base shall be
+declared by
+manufacturer (mm)
+
+1700 *
+
+Tyre Type Solid Pneumatic, Solid
+
+Mast tilt forward (in
+degrees)
+
+5 *
+
+Mast tilt backward (in
+degrees)
+
+10 *
+
+Mass of Truck (Kg) 4200 Any applicable numeric
+value
+
+Forklifts instrument
+panel
+
+NA for Diesel Engine
+operated
+
+*
+
+Instrument Panel for
+Diesel Operated Forklift
+
+Fitted with Engine oil
+pressure gauge,
+Coolant temperature
+gauge, engine hour-
+meter & fuel level
+gauge and switch key
+for starting
+
+*
+
+Supply of spares by
+manufacturer atleast
+for a period of 10 years
+
+yes *
+
+Tare weight of Forklift
+Truck, (Kg)
+
+4200 *
+
+Standard tool kit yes *
+
+Light reflectors yes *
+
+Rear view mirror yes *
+
+Fork Extension Pair No *
+
+Fork Mounted Crane
+Attachment
+
+No *
+
+Carriage Mounted
+Crane Attachment
+
+No *
+
+Hydraulic Side shifter
+Attachment
+
+No *
+
+                               4 / 8
+
+
+
+ 
+
+Parrot Beak attachment No *
+
+Load Back Rest Yes *
+
+Alternator shall be
+provided for charging
+the battery in case of
+diesel engine operated
+fork lift
+
+yes *
+
+Suitable battery
+charger for traction
+batteries
+
+NA for Diesel Engine
+operated
+
+*
+
+Head light two
+numbers, rear light one
+number and signal
+lights
+
+yes *
+
+Electric Horn., parking
+brake, rear towing
+hook/towing
+arrangement,
+adjustable cushioned
+driver seat and driver
+overhead guard`with
+steel reinforcement at
+the top for
+
+yes *
+
+Consummables: Spare
+filter kit for engine oil,
+transmission, hydraulic
+oil suitable for 4
+services shall be
+provided
+
+yes *
+
+The Hydraulic Cylinders
+of any one of given
+Indian make may be
+used in the FLT. i)
+Dantal, ii) Wipro,
+iii)Fasto, iv)TAFE,
+v)Precission &
+vi)Canara or
+equivalent.
+
+yes *
+
+PERFORMANCE Minimum Ambient
+temperature upto
+which engine shall be
+able to start without
+the aid of cold starting
+device, (°C)
+
+5 *
+
+Specific Fuel
+Consumption (g/kwh)
+
+- *
+
+CERTIFICATION ISI Marking No Yes, No
+
+BIS Licence Number - *
+
+Stability testing as per IS 4357 latest *
+
+Acceptance criteria as per IS 10517 latest *
+
+                               5 / 8
+
+
+
+ 
+
+Type approval
+certificate and
+confirmity of
+Production certificate
+from ARAI or other
+agency as approved by
+Government of India for
+latest smoke emmision
+norms
+
+yes *
+
+Test Report number &
+Date for Hydraulic
+cylinder
+
+- *
+
+Name & address of lab
+where Hydraulic
+cylinder tested
+
+- *
+
+Availability of complete
+& satisfactory test
+Report from Central
+govt/ NABL/ ILAC
+accredited laboratory
+to IS10517 latest
+(Appendix 'A') for
+Motor, to IS:5154 latest
+for Traction Battery, to
+IS 10000 (1 to 12 )
+latest and IS 10002
+latest for Diesel
+Engines whichever
+applicable.
+
+yes *
+
+Diesel Engine shall
+conforming to IS 10000
+(1 to 12) latest and IS
+10002 latest
+
+yes *
+
+Test certificate No. &
+Date
+
+- *
+
+Name & address of lab
+where test conducted
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Gyan Mal Khatik 323303,Contracts & Material
+Management, Rawatbhata
+Rajasthan Site, Anushakti
+
+1  120
+
+                               6 / 8
+
+
+
+ 
+
+Via-Kota (Rajasthan) Phone
+No. 01475-242002, 242048
+Which is about 60 Kms.
+away from Kota.
+
+Special terms and conditions for category forklifts 
+
+1.Only bid /RA option will be available for buyer as these equipments are not standard and
+freight Intensive product.
+
+2.Test reports if any, desired by buyer will be provided by seller at the time of supply.
+3.Operational and maintenance contract if desired by buyer will be provided as per their
+
+requirement.
+4.Delivery period will be 90 days (normal).
+5.Only bid /RA option will be available for buyer as these equipments are not standard and
+
+freight Intensive product.
+6.Test reports if any, desired by buyer will be provided by seller at the time of supply.
+7.Operational and maintenance contract if desired by buyer will be provided as per their
+
+requirement.
+8.  Delivery period will be 90 days (normal).
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2.Pre-dispatch inspection at Seller premises (Fee/Charges to be borne by the BUYER): Before
+
+dispatch, the goods will be inspected by Buyer / Consignee or their Authorized
+Representative or by Nominated External Inspection Agency (independently or jointly with
+Buyer or Consignee as decided by the Buyer) at Seller premises (or at designated place for
+inspection as declared / communicated by the seller) for their compliance to the contract
+specifications. Fee/Charges taken by the External inspection Agency and any external
+laboratories testing charges shall be borne by the Buyer. For in-house testing, the Sellers will
+provide necessary facilities free of cost. Seller shall notify the Buyer through e-mail about
+readiness of goods for pre-dispatch inspection and Buyer will notify the Seller about the
+Authorized Representative/ Nominated External Inspection Agency and the date for testing.
+The goods would be dispatched to consignee only after clearance in pre-dispatch inspection.
+Consignee's right of rejection as per GTC in respect of the goods finally received at his
+location shall in no way be limited or waived by reason of the goods having previously been
+inspected, tested and passed by Buyer/ Consignee or its Nominated External Inspection
+Agency prior to the goods' shipment. While bidding, the sellers should take into account 7
+days for inspection from the date of email offering the goods for inspection. Any delay in
+inspection beyond 7 days shall be on the part of the buyer and shall be regularised without
+Liquidated Damages.
+
+3.Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be
+given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs)
+Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises
+and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to
+avail the Purchase preference, the bidder must be the manufacturer of the offered product
+in case of bid for supply of goods. Traders are excluded from the purview of Public
+Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder
+must be the Service provider of the offered Service. Relevant documentary evidence in this
+regard shall be uploaded along with the bid in respect of the offered product or service. If L-1
+is not an MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of
+purchase preference /price band defined in relevant policy, such Seller shall be given
+opportunity to match L-1 price and contract will be awarded for percentage of 25% of total
+value.
+
+This Bid is also governed by the General Terms and Conditions
+
+                               7 / 8
+
+https://gem.gov.in/termsCondition
+
+
+ 
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               8 / 8
+
+http://www.tcpdf.org
+

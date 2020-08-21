@@ -1,0 +1,469 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/708724
+
+  Dated: 13-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 23-07-2020 18:00:00
+
+Bid Opening Date/Time 23-07-2020 18:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 45 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Army
+
+Office Name ***********
+
+Total Quantity 1
+
+Item Category Multifunction Machines MFM
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Multifunction Machines MFM ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+                               1 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/Be84cSZax4ya3GFBHLlJ8OkFIASPgIZxEdtJB5D6RG0
+
+
+ 
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Ungrouped Print Technology Laser Laser
+
+Type of Machine Digital Copier Multifunction Machine,
+Digital Copier
+
+Type of Printing Mono Mono
+
+Cartridge
+Technology
+
+Separate Drum and
+Toner (Dual
+Component)
+
+Composite Cartridge,
+Separate Drum and
+Toner (Mono
+Component), Separate
+Drum and Toner (Dual
+Component) Or higher
+
+Developer Unit Yes *
+
+Platen/Flatbed Size A4 A4, A3, Legal Or higher
+
+Paper Size
+(Original/Image)
+
+A4/A4 A3/A3, A4/A4,
+Legal/Legal
+
+RAM size (MB) 2048 1024, 2048, 4096,
+6144, 3072, 1536,
+1500, 1250, 2560,
+7168, 5120, 8192,
+16384, 2816, 4000,
+2000, 10240 Or higher
+
+Hard Disk
+Capacity(GB)
+
+320 256, 320, 500, 1024,
+250, 640, 1000, 2000,
+3000 Or higher
+
+Minimum Speed per
+Minute as per
+ISO/IEC 24734 in A4
+Size-Mono
+
+50 50, 52, 55, 60, 61, 65,
+70, 71, 75, 80, 90, 95,
+100, 105, 110, 51, 56,
+120, 130, 160, 57, 85,
+81, 53 Or higher
+
+Minimum Speed per
+Minute as per
+ISO/IEC 24734 in A4
+Size-Colour
+
+0 12, 15, 16, 18, 20, 22,
+23, 24, 25, 26, 27, 28,
+30, 31, 35, 36, 4, 4.4,
+5, 5.7, 5.8, 6.8, 10,
+10.4, 15.5, 40, 50, 60,
+5.5, 11, 46, 120, 130,
+160, 65, 45, 7, 34, 55,
+38, 56, 75, 81, 19, 71,
+0, 21, 53 Or higher
+
+Minimum Speed per
+Minute as per ISO/IEC
+24734 in A3 Size-Mono
+
+0 *
+
+Minimum Speed per
+Minute as per ISO/IEC
+24734 in A3 Size-
+Colour
+
+0 *
+
+Scanning Feature
+Availability
+
+Yes Yes Or higher
+
+Duplexing Feature Yes Yes Or higher
+
+                               2 / 5
+
+
+
+ 
+
+Availability
+
+Faxing Feature
+Availability
+
+yes Yes Or higher
+
+Speed of Fax, If Fax
+Feature is available
+
+33.6 kbps *
+
+Networking Feature
+Availability
+
+Yes Yes Or higher
+
+If yes, Type of Network
+Interface
+
+Ethernet 10/100/1000 *
+
+Wi-Fi Availability No Yes, No Or higher
+
+If yes,Wi-Fi Type NA *
+
+Original Document
+Feeder Type
+
+DADF/RADF DADF/RADF Or higher
+
+Feeder Capacity
+(Number)
+
+50 *
+
+Number of Main
+Paper Tray
+
+2 2, 3, 4, 5 Or higher
+
+Each Main Paper Tray
+Capacity (Number)
+
+600 *
+
+Bypass Facility Yes Yes Or higher
+
+If Yes, Bypass Tray
+Capacity
+
+100 *
+
+Yield of the
+cartridge/Ink Tank/Ink
+Pack supplied with
+Machine as per ISO/IEC:
+19798/2007(E) for
+Cyan colour (Number of
+prints)
+
+0 *
+
+Yield of the
+cartridge/Ink Tank/Ink
+Pack supplied with
+Machine as per ISO/IEC:
+19798/2007(E) for
+Yellow colour (Number
+of prints)
+
+0 *
+
+Yield of the
+cartridge/Ink Tank/Ink
+Pack supplied with
+Machine as per ISO/IEC:
+19798/2007(E) for
+Magenta colour
+(Number of prints)
+
+0 *
+
+Yield of the
+cartridge/Ink Tank/Ink
+Pack supplied with
+Machine as per ISO/IEC:
+19752/2004(E) for
+Black (Number of
+
+10000 *
+
+                               3 / 5
+
+
+
+ 
+
+prints)
+
+Life of Drum in terms of
+number of Prints in
+case of Separate Drum
+and Toner cartridge
+technology - Cyan
+(Number of Prints)
+
+0 *
+
+Life of Drum in terms of
+number of Prints in
+case of Separate Drum
+and Toner cartridge
+technology - Yellow
+(Number of Prints)
+
+0 *
+
+Life of Drum in terms of
+number of Prints in
+case of Separate Drum
+and Toner cartridge
+technology - Magenta
+(Number of Prints)
+
+0 *
+
+Life of Drum in terms of
+number of Prints in
+case of Separate Drum
+and Toner cartridge
+technology - Black
+(Number of Prints)
+
+500000 *
+
+Duty Cycle (No of
+Prints/month)
+
+250000 *
+
+Minimum Operating
+Temperature (Degree
+C)
+
+10 *
+
+Maximum Operating
+Temperature (Degree
+C)
+
+32 *
+
+Minimum Operating
+Humidity (%RH)
+
+15 *
+
+Maximum Operating
+Humidity (%RH)
+
+80 *
+
+BIS Registration under
+CRS of Meity
+
+Yes *
+
+BIS Registration
+Number
+
+- *
+
+Other Certifications
+Available
+
+UL *
+
+Dimension (mm x mm
+x mm)
+
+- *
+
+Weight (Kg) - *
+
+On Site OEM
+Warranty (Year)
+
+1 1, 2, 3, 4, 5 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+
+                               4 / 5
+
+
+
+ 
+
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********BELGAUM 1  90
+
+Bid Specific Additional Terms and Conditions
+
+1.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+2.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+3.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+4.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+5.For clothing and allied items, if pre-dispatch Inspection clause has been selected in the Bid,
+the Inspection Agency shall forward sample from the accepted lot duly identified/ sealed by
+it, as Reference Sample to each consignee (one reference sample per consignee) for
+comparing the lot received at consignee end with such reference sample. Such reference
+samples will be treated as part of supplied quantity from the lot and cost shall be borne by
+the Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,494 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/682971
+
+  Dated: 23-06-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 03-07-2020 11:00:00
+
+Bid Opening Date/Time 2020-07-03 11:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 80 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Border Road Organisation
+
+Office Name ***********
+
+Total Quantity 2
+
+Item Category Injector Diagnosis and Cleaning System Kit For
+Educational Purpose
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Injector Diagnosis And Cleaning System Kit For Educational Purpose ( 2
+pieces )
+
+Technical Specifications
+
+                               1 / 5
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+FEATURES AND
+FUNCTIONALITY
+PARAMETERS
+
+Engine for which
+Injector Diagnosis and
+Cleaning System Kit is
+compatible
+
+Diesel *
+
+Maximum Capacity of
+engine (in cc) for which
+injection diagnosis and
+cleaning operation is
+performed
+
+1400 *
+
+Operations performed
+by Injector Diagnosis
+and Cleaning System
+Kit
+
+Identify and diagnose
+low fuel pressure
+
+*
+
+Number of injectors for
+which testing and
+cleaning can be done
+simultaneously
+
+4 *
+
+Availablility of Fuel
+Injector tester
+
+Yes Yes
+
+Type of display panel LED *
+
+Availability of 4 Pulse
+mode test lead
+
+Yes *
+
+Availability of Pulse
+Signal Indicator
+
+Yes *
+
+Availability of Mode Set
+and Pulse Key Features
+(Mode 1-short Pulse,
+Mode 2-Medium pulse,
+Mode 3-Long pulse,
+Mode 4-Continous
+pulse)
+
+Yes *
+
+Type of cleaner filled
+in canister
+
+Diesel fluid and
+additives
+
+Diesel fluid and
+additives
+
+If other in above then
+indicate the type of
+cleaner
+
+- *
+
+Material of canister Stainless steel *
+
+Capacity of canister (in
+ml)
+
+200 *
+
+Accessories available
+with the kit
+
+Hose clamp *
+
+Hose length (in inches)
+available in above
+
+- *
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/CA1O2536vVgqS2QziX2UyBSYVHekR3jiHOzfpvR3sJY
+
+
+ 
+
+parameter
+
+Flex Hose Pressure
+Capacity (in PSI)
+
+- *
+
+Relief valve is
+connected to a fuel
+discharge hose
+
+Yes *
+
+"Dual scale gauge
+range reading for
+accurate pressure
+modulations "
+
+Bar *
+
+Gauge calibration (in
+PSI -Pounds per square
+inch)
+
+- *
+
+Gauge calibration (in
+Bar)
+
+- *
+
+Air regulator pressure
+(in PSI)
+
+- *
+
+Availability of Fluid
+Pressure Control
+Regulator
+
+Yes *
+
+Availability of
+Connecting terminals
+
+Red clip *
+
+Availability of User
+manual & dust cover
+
+No *
+
+Any other features - *
+
+POWER SOURCE Power Supply NA NA
+
+If Battery Operated,
+Type of Battery
+
+NA NA
+
+Number of Batteries NA *
+
+Chemistry of Battery NA *
+
+"Capacity of Battery (in
+mAh) May Indicate '0',
+if NA"
+
+- *
+
+"Operating Voltage(in
+volts) May Indicate '0',
+if NA"
+
+1 *
+
+Battery Operating
+(Back Up) Time( in
+hours) May Indicate
+'0', if NA
+
+0 0
+
+Total Power
+Consumption(in watts)
+
+- *
+
+Suitable Adapter /
+Battery Charger
+Working on 230 V AC ±
+10 % ; 50 Hz ± 10 %
+
+NA *
+
+                               3 / 5
+
+
+
+ 
+
+OPERATING CONDITION Input power supply
+voltage in volts
+
+1 *
+
+Input power supply
+frequency in Hertz
+
+1 *
+
+Minimum Operating
+tempature for Injector
+Diagnosis and Cleaning
+System in degree
+celsius
+
+-10 *
+
+Maximum Operating
+tempature for Injector
+Diagnosis and Cleaning
+System in degree
+celsius
+
+45 *
+
+Operating Humidity for
+Injector Diagnosis and
+Cleaning System (RH)
+
+80% *
+
+TEST CERTIFICATION
+AND PAST EXPERIENCE
+
+Whether the offered
+kit tested at Central
+Govt / NABL
+approved / ILAC
+accredited Lab, any
+NABL accredited lab,
+govt
+lab/international lab
+to prove conformity
+to the specification
+
+No No
+
+If Yes, Test Report to
+be furnished to the
+Buyer on demand
+
+Yes *
+
+Indicate the name of
+the lab where test
+report available
+
+- *
+
+Indicate the test
+certificate number &
+date
+
+- *
+
+Whether manufacturer
+of offered product has
+national/international
+certification (such as
+ISO, TUV, etc )
+
+Yes *
+
+Indicate name of
+certification agency &
+certificate number and
+date
+
+- *
+
+Institute where the
+offered Injector
+Diagnosis and Cleaning
+System supplied in the
+past
+
+Others *
+
+                               4 / 5
+
+
+
+ 
+
+Specify the names of
+the institute where the
+Injector Diagnosis and
+Cleaning System
+supplied in the past
+with complete address
+
+- *
+
+GENERIC PARAMETERS
+OF INJECTOR
+DIAGNOSIS AND
+CLEANING SYSTEM
+
+Name of the OEM with
+certification and
+authorization
+
+- *
+
+Installation and
+Demonstration
+included in the scope of
+supply
+
+No *
+
+List of items and its
+number included in the
+offered package
+
+- *
+
+Supplied with
+comprehensive user
+manual
+
+Yes *
+
+Warranty of Injector
+Diagnosis and
+Cleaning System
+
+1 1
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********JODHPUR 2  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,668 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   RA Number: GEM/2020/RA/42946
+
+  Dated: 15-06-2020
+
+  
+
+RA Document
+RA Details
+
+RA Technical End Date/Time 26-06-2020 15:00:00
+
+RA Opening Date/Time 26-06-2020 15:30:00
+
+RA Life Cycle (From Publish Date) 90 (Days)
+
+RA Offer Validity (From End Date) 70 (Days)
+
+Ministry/State Name Ministry Of Health And Family Welfare
+
+Department Name Department Of Health And Family Welfare
+
+Organisation Name All India Institute Of Medical Sciences (aiims)
+
+Office Name Raipur
+
+Total Quantity 1
+
+Item Category Refrigerated Centrifuge For General And Research
+Purpose
+
+Average Turnover (Last 3 Years)  3 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  28 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years Of Experience
+and Turnover
+
+ Yes
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,OEM Authorization Certificate,OEM Annual
+Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  50 %
+
+EMD Detail
+
+Advisory Bank Bank of India
+
+EMD Percentage(%) 5.00
+
+EMD Amount 39850
+
+ePBG Detail
+
+                               1 / 7
+
+
+
+ 
+
+Advisory Bank Bank of India
+
+ePBG Percentage(%) 10.00
+
+Duration of ePBG required (Months). 26
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+Stores Officer
+Raipur, Department of Health and Family Welfare, All India Institute of Medical Sciences (AIIMS),
+Ministry of Health and Family Welfare
+(Debasish Bhadra)
+
+Splitting
+
+ RA splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 50% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Refrigerated Centrifuge For General And Research Purpose ( 1 pieces )
+
+Technical Specifications
+
+                               2 / 7
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Conformity to
+standards
+
+- *
+
+Certificate date and
+number
+
+- *
+
+Performance
+Parameters
+
+Purpose To Centrifuge different
+kinds of samples in
+different Testing Labs
+and research Labs at
+room Temperature
+
+*
+
+Centrifuge design Bench Top *
+
+Weight including Rotor
+in kgs
+
+71 *
+
+Maximum RPM with no
+load
+
+20000 *
+
+"Number of steps of
+RPM Variation available
+in the settings
+(correspondingly RCF
+also varies) "
+
+10 *
+
+RPM setting accuracy plus minus 5% *
+
+Type of Motor Brushless(without
+carbons)
+
+Brushless(without
+carbons)
+
+Accessories Spanner to tight or
+loose Nut of Rotor on
+Motor shaft head
+puller,spare rotor nuts
+,fuse-2, Instruction
+Manual Book
+,installation CD
+
+*
+
+Type of lid lock Both Manual and
+Electronic
+
+Both Manual and
+Electronic
+
+Maximum Noise level
+whemn working at 1
+meter distance in db
+
+52 *
+
+Ambient operating
+Temperature range in
+Degree centigrade
+Celsius and humidity
+range
+
+0 to 50 and Relative
+humidity 15 to 90%
+
+*
+
+Rotor imbalance
+diagnostics and
+automatic stop if
+required
+
+Yes *
+
+No of acceleration
+and deceleration
+
+"Programmable from
+50 to 200 Seconds in
+
+"Programmable from
+50 to 200 Seconds in
+
+                               3 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/oC12ErSKtgoDnqLrSySs51_Xnax2fRx6CArMWqC7he4
+
+
+ 
+
+profiles in built for
+rotor speed while
+automatic braking
+
+Interval of 5 Seconds" Interval of 5 Seconds"
+
+Maximum timer set
+point
+
+60 minutes *
+
+Parameters to be
+displayed by the digital
+display
+
+RPM,RCF,Set time,Run
+time,Rotor running
+indication ,imbalancing
+if any
+
+*
+
+Display Type LCD *
+
+Speed controller Microprocessor
+controlled pre
+programmed speed
+controller which can
+control RPM as well as
+RCF
+
+*
+
+Speed Control
+tolerance in case of set
+speed (Plus minus RPM
+) in percentage
+
+2 *
+
+Temperature controller Micro processor based
+PID Digital temperature
+controller cum
+Indicator, (With LCD
+Display) to control the
+Temperature from
++40° C up to -20°C
+
+*
+
+Configuration of
+Rotor supplied with
+centrifuge machine
+
+Angle rotor Angle rotor
+
+Rotor Feature with
+reference to
+Autoclavability
+
+Autoclavable Rotor
+@121 Degree Celsius
+
+*
+
+Type of Tubes which
+can be used with
+centrifuge machine
+
+Polypropylene
+Centrifuge tubes and
+Glass centrifuge tubes
+
+*
+
+Size of rotor
+supplied with
+centrifuge in ml
+
+"6x50 mL(for angle
+rotor) RPM
+13000","24x1.5ml(for
+angle rotor) RPM
+16000"
+
+"24x1.5ml(for angle
+rotor) RPM 16000",
+"6x50 mL(for angle
+rotor) RPM 13000"
+
+Maximum RCF 30279 *
+
+Power supply 220 Volts 50 Hz AC ±
+10%
+
+*
+
+Power consumption in
+watts
+
+750 *
+
+Length of the
+Centrifuge in mm
+
+670 *
+
+Width of the Centrifuge 460 *
+
+                               4 / 7
+
+
+
+ 
+
+in mm
+
+Height of of the
+Centrifuge in mm
+
+700 *
+
+Length of Power cord in
+meters
+
+3 *
+
+Refrigerant should be
+CFC free
+
+Yes *
+
+Temperature of
+refrigerator in degree
+Celsius
+
+upto -20°C *
+
+Cooling arrangement Through suitable
+compressor, radiator,
+Cooling fan and its
+Cooling Kit
+
+*
+
+Temperature control
+accuracy
+
+± 2°C *
+
+Warranty period for
+equipment & Rotor
+(on site and
+comprehensive
+warranty) in years
+
+2 2
+
+Maximum Noise level
+when working at 1
+meter distance in db
+
+52 *
+
+Material Parameters Assembly Material for
+manufacture of
+Centrifuge
+
+Die cast Aluminum,
+Aluminum sheet,
+Stainless Steel, CRC
+Steel,Plastic and
+Rubber
+
+*
+
+"Lid Material of
+Centrifuge "
+
+CRC Steel finish with
+powder coating or
+stove painting or ABS
+Plastic of injection
+moulding
+
+*
+
+Body material of
+Centrifuge
+
+C.R.C Steel Finish with
+Powder Coating/ Stove
+Painting.
+
+*
+
+Front Panel of
+centrifuge
+
+CRC Steel finish with
+powder coating or
+stove painting or ABS
+Plastic of injection
+moulding
+
+*
+
+Centrifuge Bowl
+material in Centrifuge
+
+Double walled with PUF
+Insulation to avoid loss
+of Cooling. Inner
+Chamber made of 304
+Quality Stainless Steel
+Moulded
+
+*
+
+Material of Rotor Aluminium *
+
+                               5 / 7
+
+
+
+ 
+
+Additional Parameters Condensed Water
+Drainage System
+
+No No
+
+The Equipment shall
+be installed and
+demonstrated before
+Acceptance
+
+Yes Yes
+
+Servo Controller
+Voltage Stabilizer
+supplied with Item
+
+No No
+
+Servo stabilizer
+ratings in KVA
+
+Not supplied Not supplied
+
+Warranty of
+stabilizer in years
+
+NA(If no stabilizer
+provided)
+
+NA(If no stabilizer
+provided)
+
+Auto cut off Yes *
+
+Timer provided Yes *
+
+Reports Certifications of
+Manufacturer
+
+ISO 9001:2015 *
+
+ISO Certificate date and
+number
+
+- *
+
+Copies of all
+certifications and
+reports to be provided
+to buyer on demand at
+time of supplies
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignee/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Uttam Kant
+Sharma
+
+492001,AIIMS Raipur
+Tatibandh
+
+1  30 N/A
+
+Bid Specific Additional Terms and Conditions
+
+1.Experience Certificate for the supply of the same to any Govt/ PSU/ any renowned private
+organisation along with Supply/ Purchase Order.
+
+2. If the agency is registered under MSME or NSIC, then EMD exemption certificate needs to be
+enclosed.
+
+3.Make in india specific authorisation certificate needs to be enclosed.
+4.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+5.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+during the last three years, ending on 31st March of the previous financial year, should be as
+
+                               6 / 7
+
+
+
+ 
+
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+6.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial
+year, should be as indicated in the bid document. Documentary evidence in the form of
+certified Audited Balance Sheets of relevant periods or a certificate from the Chartered
+Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than
+3 year old, the average turnover in respect of the completed financial years after the date of
+constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of
+CATEGORY RELATED TO primary product having highest bid value should meet this criterion.
+
+7.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+8.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 7 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+9.Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt
+also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in
+the name of AIIMS Raipur A/C (Name of the Seller). The bank should certify on it that the
+deposit can be withdrawn only on the demand or with the sanction of the pledgee. For
+release of Security Deposit, the FDR will be released in favour of bidder by the Buyer after
+making endorsement on the back of the FDR duly signed and stamped along with covering
+letter. Successful Bidder has to upload scanned copy of the FDR document in place of PBG
+and has to ensure delivery of hard copy of Original FDR to the Buyer within 15 days of award
+of contract.
+
+This RA is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

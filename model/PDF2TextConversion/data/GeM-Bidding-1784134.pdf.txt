@@ -1,0 +1,416 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/708243
+
+  Dated: 13-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 23-07-2020 18:00:00
+
+Bid Opening Date/Time 23-07-2020 18:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Coal
+
+Department Name Materials Management
+
+Organisation Name South Eastern Coalfields Limited
+
+Office Name Secl Bilaspur Cg
+
+Total Quantity 15
+
+Item Category Vacuum Circuit Breakers - Indoor type
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Vacuum Circuit Breakers - Indoor Type ( 15 pieces )
+
+Technical Specifications
+
+                               1 / 5
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC High-Voltage
+Alternating-Current
+Circuit-Breakers
+(Vacuum Circuit
+Breakers) generally
+conforming to
+
+IS 13118 (1991): latest *
+
+Class Indoor *
+
+Design and
+construction as per
+Cl. 5 of
+IS:13118:1991 latest
+
+Gas filled Gas filled
+
+Type "3 Pole circuit-breakers
+for use in 3 phase
+systems"
+
+"3 Pole circuit-breakers
+for use in 3 phase
+systems"
+
+Rated voltage (in kV) 3.6 3.6, 7.2, 12, 17.5, 22,
+24, 36, 52, 72.5
+
+"Rated insulation
+level - Rated short-
+duration power-
+frequency withstand
+voltage (in kV)"
+
+10 10, 20, 28, 38, 50, 55,
+70, 95, 140
+
+"Rated insulation
+level - Rated
+lightning impulse
+wlthatand voltage
+(in kV)"
+
+40 20, 40, 60, 75, 95, 125,
+145, 170, 250, 325
+
+Rated frequency 50 Hz *
+
+Rated normal
+current (in ampere)
+
+1250 1250
+
+Rated short-time
+withstand current (in
+kA)
+
+10 *
+
+Rated peak
+withstand current (in
+kA)
+
+20 *
+
+"Rated duration of
+short circuit ( for circuit-
+breakers not fitted with
+direct over-current
+release) "
+
+1 sec *
+
+"Rated supply
+voltage of closing
+and opening devices
+and of auxiliary
+circuits "
+
+415 V (+10%, -15%) 3
+phase
+
+DC : 48V, DC: 24V,
+110V (+/-10%), 220 V
+(+/-10%) 2wire DC
+supply, AC 3 Phase 3
+Wire: 230/400V, AC 1
+Phase 2 wire: 230V,
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/9n6ezApP5Yt2zuzJ_1PzonT2HI9K9TucuRJCfBomEEs
+
+
+ 
+
+240 V (+10%, -15%)1
+phase, 415 V (+10%,
+-15%) 3 phase
+
+Rated supply frequency
+of closing and opening
+devices and of auxiliary
+circuits
+
+50 Hz (+/- 3%) *
+
+Rated short-circuit
+breaking current (in
+kA)
+
+10 *
+
+Rated transient
+recovery voltage (in
+kV) for terminal
+faults - Must declare
+
+33 Any applicable text(s)
+
+Rated short-circuit
+making current (in
+kA)
+
+15.75 *
+
+Rated pressures of
+compressed gas
+supply for operation
+and for interruption,
+if applicable.
+
+0.5 Mpa 0.5 Mpa, 1 MPa, 2 Mpa,
+3 Mpa, 4 Mpa, NA
+
+Rated operating
+sequence
+
+O-0.3s-CO-180s-CO (
+for circuit-breakers
+intended for rapid auto-
+reclosing)
+
+O-0.3s-CO-180s-CO (
+for circuit-breakers
+intended for rapid auto-
+reclosing)
+
+Closing time <10 cycles *
+
+Mehtod of operation Power Power
+
+"Necessary indicators
+shall be provided on
+the VCB "
+
+Yes *
+
+IP Portection as per
+IS/IEC:60529:2001
+latest
+
+IP3X *
+
+Installation,
+Demonstration and
+commissioning
+
+No No
+
+SERVICE CONDITIONS Max. air ambient
+temeprature
+
+40 deg. C *
+
+Min. air ambient
+temperature
+(Temperature class)
+
+-5 deg. C -5 deg. C
+
+The altitude does not
+exceed
+
+1000 m *
+
+CERTIFICATION Availability of type test
+report with complete
+drawing of unit from
+Central Govt.,
+lab/NABL/ILAC
+
+Yes *
+
+                               3 / 5
+
+
+
+ 
+
+accrediated lab to
+conformity of the
+speficiation
+
+Additional type test:
+Radio interperence
+voltage test
+
+No No
+
+Additional type test:
+Low and high
+temperature test
+
+No No
+
+Additional type test:
+Humidity test
+
+No No
+
+Test report number -
+Must declare
+
+- *
+
+Test report date - Must
+declare
+
+- *
+
+Name of lab - Must
+declare
+
+- *
+
+Address of lab - Must
+declare
+
+- *
+
+All the test reports and
+certificates shall furnish
+by the seller to
+purchase authority on
+demand
+
+Yes *
+
+Manufacturer shall
+furnish all operating
+instruction manual
+including drawing with
+terminal details and
+maintenance details
+etc., to the purchase
+authority for each
+circuit breaker
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Mahizhnan 495452,SECL GEVRA AREA 15  45
+
+Bid Specific Additional Terms and Conditions
+
+                               4 / 5
+
+
+
+ 
+
+1.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

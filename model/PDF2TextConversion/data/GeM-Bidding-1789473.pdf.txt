@@ -1,0 +1,480 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/713092
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 14:00:00
+
+Bid Opening Date/Time 27-07-2020 14:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Air Force
+
+Office Name ***********
+
+Total Quantity 1
+
+Item Category DSLR/ COMPACT / HANDHELD CAMCORDER or VIDEO CAMERAS
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+DSLR/ COMPACT / HANDHELD CAMCORDER Or VIDEO CAMERAS ( 1 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+TYPE Classification of Camera Still Video, Still
+
+Type of Camera Handheld camcorders or
+Video Cameras
+
+Handheld camcorders or
+Video Cameras
+
+                               1 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/NhFilnZKwl7xtoihUHYyO4S3ka0heuvnmBNgyPkScPQ
+
+
+ 
+
+IMAGE SENSOR Image Sensor CCD CCD
+
+Sensor Size for Fixed
+Lens Camera (inch)
+
+1 1
+
+Sensor Size for
+Interchangeable Lens
+Camera (mmxmm)
+
+17.3 x 13.0 17.3 x 13.0
+
+Effective Pixels (Mega
+Pixels)
+
+12 12
+
+ISO (Sensitivity of the
+image Sensor) Max
+
+800 800, 1600, 3200, 6400,
+12800, 25600, 32000,
+40000, 51200 Or higher
+
+Supported Picture or image
+format
+
+JPEG,RAW,NA *
+
+OPTICS Lens Mounting Fixed Fixed
+
+Mount type - *
+
+Type of Lens Zoom Lens *
+
+Minimum Focal Length 11 11.0
+
+Maximum Focal Length 700 700.0
+
+Minimum Lens Aperture
+(f/number)
+
+0.4 0.4
+
+Maximum Lens Aperture
+(f/number)
+
+20 20
+
+Optical Zoom 3X to 5X,6X to 10X,11X to
+15X,16X to 20X,21X to
+25X,26X to 30X,31X to
+35X,,36X to 40X,41X to
+45X,46X to 50X,51X to
+55X,56X to 60X,61X and
+above
+
+3X to 5X, 6X to 10X, 11X to
+15X, 16X to 20X, 21X to
+25X, 26X to 30X, 31X to
+35X,, 36X to 40X, 41X to
+45X, 46X to 50X, 51X to
+55X, 56X to 60X, 61X and
+above
+
+Digital Zoom (X) 8 *
+
+Maximum Field of View 90 *
+
+Focus Mode Auto,Manual *
+
+Video Recording Video Recoding Yes Yes
+
+Maximum Recording
+Resolution (Pixels)
+
+4K (3840 x 2160) 4K (3840 x 2160)
+
+Frame Rate 24,25,30,48,50,60,80,90,10
+0,120,NA
+
+60, 80, 90, 100, 120, NA,
+24, 25, 30, 48, 50
+
+Video Compression Format H.264,H.265,H.265+,MJPEG,
+MPEG4,H 422,NA
+
+*
+
+Live Video Streaming Yes Yes
+
+Video Output Port Mini
+HDMI,HDMI,AV,SDI,BNC,NA
+
+*
+
+Video file format MOV,AVI,AVC,XAVC,AVCHD,
+MP4,XAVC/4K,NA
+
+*
+
+AUDIO Audio Recording Yes Yes
+
+Audio Recording Type Buit-in,External,NA *
+
+Number of Audio Input Port 1 *
+
+Type of Audio input Port 3.5 mm (Stero mini
+jack),XLR,RCA / AV,NA
+
+*
+
+Audio Output Yes Yes
+
+                               2 / 5
+
+
+
+ 
+
+Number of Audio Output
+Port
+
+1 *
+
+Type of Audio output Port 3.5 mm (Stero mini
+jack),XLR,RCA / AV,NA
+
+*
+
+DISPLAY Display Yes Yes
+
+Display Type LED *
+
+Touch Screen Yes Yes
+
+Display Size (inch) 1.6-2 1.6-2
+
+Vari Angle Screen Yes Yes
+
+View Finder No No
+
+FEATURES Flash Built-in,External (Not
+inclusive in the scope of
+supply),NA
+
+Built-in, External (Not
+inclusive in the scope of
+supply), NA
+
+GPS coordinates Stamping
+onto Videos / photographs
+
+No *
+
+Gyro Sensor No *
+
+Voice Control Yes *
+
+Connectivity Interface Wi-Fi,Bluetooth,NFC,USB,NA *
+
+Control Remote,App,NA *
+
+Supported Operating
+Systems for App
+
+iOs,Android,Windows,Mac
+OS,NA
+
+*
+
+Picture control system Auto,standard,portrait,mono
+chrome,landscape
+
+*
+
+Noise reduction Feature Yes *
+
+Flash modes Auto,Flash fill,Slow
+Synchro,Advanced
+Sync,Flash Off,NA
+
+*
+
+Shutter type mechanical *
+
+Minimum Shutter Speed 30 *
+
+Maximum Shutter Speed 0.4 *
+
+Drive modes single shooting *
+
+Additional features, if any - *
+
+STORAGE Storage Type Micro SD,SD,Memory
+Stick,CF
+Card,SxS,XQD,Optical Disc
+
+*
+
+Dual Slot Yes *
+
+SD Card Memory inclusive in
+the scope of supply (GB)
+
+32 *
+
+Memory Card expandable
+upto (GB)
+
+32 *
+
+In-built Memory(GB) 32 *
+
+BATTERY Power Source Alkaline Batteries (Non-Rech
+argeable),Rechargeable
+Battery
+
+*
+
+Battery Size, if Non
+Rechargeable Battery
+
+AA *
+
+Battery Chemistry, if
+Rechargeable Battery
+
+Li-Ion *
+
+                               3 / 5
+
+
+
+ 
+
+Number of Batteries
+required for operation
+
+2 *
+
+Number of Batteries
+supplied (Inclusive in the
+Scope of Supply)
+
+2 *
+
+BATTERY CAPACITY (mAh) 3000 *
+
+Battery Charger for
+Rechargeable Batteries
+
+NA for Non-Rechargeable *
+
+OPERATING CONDITIONS Minimum Operating
+Temperature (for land
+use)
+
+0 0, -5, -10, -15, -20, -30, -40
+
+Maximum Operating
+Temperature (for land
+use)
+
+50 50.0
+
+Operating Humidity, Rh
+at 40 deg C
+
+90 90.0
+
+GENERIC Housing construction Metallic Metallic, Polycarbonate,
+Composite polycarbonate
+outer shell with metallic
+internal chassis
+
+IP Protection IP 21 IP 21
+
+Carry Case inclusive Yes Yes
+
+Weight 290 *
+
+Dimension (WxHxD)
+(mmxmmxmm)
+
+- *
+
+List of Items and Quantity of
+each item included in the
+offer
+
+- *
+
+WARRANTY Warranty 1 1.0
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********FARIDABAD 1  15
+
+Bid Specific Additional Terms and Conditions
+1.Bidder financial standing: The bidder should not be under liquidation, court receivership or similar
+
+proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid.
+2.IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered
+
+office in India to provide after sales service support in India. The certificate to this effect should be submitted.
+3.Indian suppliers of this item are not allowed to participate and/ or compete in procurement by some foreign
+
+governments. Bidders / products from such countries are not eligible / not allowed to participate in this bid in
+terms of clause 1 (d) of Public Procurement (Preference to Make in India) Order, 2017
+
+4.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid
+document, ATC and Corrigendum if any.
+
+5.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each
+Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If
+service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one
+within 30 days of award of contract. Payment shall be released only after submission of documentary evidence
+
+                               4 / 5
+
+
+
+ 
+
+of having Functional Service Centre.
+6.Procurement under this bid is reserved for purchase from Micro and Small Enterprises from the State of Bid
+
+Inviting Authority whose credentials are validated online through Udyog Aadhaar for that product category. If the
+bidder wants to avail the reservation benefit, the bidder must be the manufacturer of the offered product in case
+of bid for supply of goods. Traders are excluded from the purview of Public Procurement Policy for Micro and
+Small Enterprises. In respect of bid for Services, the bidder must be the Service provider of the offered Service.
+Relevant documentary evidence in this regard shall be uploaded along with the bid in respect of the offered
+product or service.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

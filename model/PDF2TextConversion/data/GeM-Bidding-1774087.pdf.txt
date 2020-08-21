@@ -1,0 +1,558 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/699112
+
+  Dated: 06-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 21-07-2020 10:00:00
+
+Bid Opening Date/Time 21-07-2020 10:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Border Road Organisation
+
+Office Name ***********
+
+Total Quantity 30
+
+Item Category Digital Transreceiver-Handheld
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  Yes
+
+Inspection Required  No
+
+Estimated Bid Value  460500
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Digital Transreceiver-Handheld ( 30 pieces )
+
+Technical Specifications
+
+                               1 / 6
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+PERFORMANCE
+FEATURES
+
+Frequency Range
+(MHz)
+
+136-174 136-174
+
+Types of Bandwidth VHF Full Band VHF Full Band
+
+Display Yes *
+
+Channel Capacity 260 260
+
+Channel Spacing 12.5 *
+
+Frequency Stability (± ) 0.5 *
+
+Technology Digital TDMA (2-slot) *
+
+Air Interface Standard Open Standard DMR
+Tier-II
+
+*
+
+Antenna Impedance 50 *
+
+TRANSMITTER RF Power output programmable *
+
+RF Power output
+Range
+
+1 to 5 Watts (VHF) 1 to 5 Watts (VHF)
+
+FM Emission 11K0F3E,7K60FXE,7K6
+0FXD,7K60FXW,7K60F1
+W
+
+*
+
+Digital Modulation 4FSK *
+
+Transmitter FM
+Hum/Noise (dB)
+
+-40 *
+
+Transmitter Modulation
+Limiting
+
++/- 2.5 KHz @12.5KHz *
+
+Transmitter Adjecent
+Channel Power (dBc)
+
+-60 *
+
+Audio Response +1,-3 dB *
+
+Audio Distortion 3 *
+
+Digital Vocoder AMBE+2 *
+
+RECEIVERS Analog Receivers
+Sensitivity for 12dB
+SINAD
+
+0.2 *
+
+Digital Receiver
+Sensitivity at 5% BER
+
+0.14 *
+
+Receiver Adjacent
+Channel Selectivity
+(dB)
+
+60 *
+
+Inter Modulation (dB) 70 *
+
+Receiver Audio Output 1000 *
+
+Receiver Rated Audio 3 *
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/_05XPSNazkw1gnyCEbu8qisMS5P6t2zOicHUZzem99A
+
+
+ 
+
+Distortion
+
+ACCESSORIES Antenna for Handheld
+Transreceiver
+
+Rugged flexible Helical *
+
+Programming kit yes *
+
+User Manual with each
+radio sets provided free
+of cost in soft as well as
+hard copy
+
+yes *
+
+Technical repairing &
+maintenance manual
+with complete block
+diagram, circuit layout
+etc in soft as well as
+hard copy
+
+yes *
+
+Battery Charger Yes *
+
+Input voltage 230 V ± 10%,50 Hz *
+
+Output voltage - *
+
+Battery charger
+suitable for
+
+Lithium-ion *
+
+Charging time for
+standard mode
+
+6 to 14hrs *
+
+Charging time for rapid
+mode
+
+1 tO 3 hrs *
+
+Number of charging
+pockets
+
+1 *
+
+Number of spare
+batteries with each
+Radio Set
+
+1 *
+
+Indicator For all modes of
+charging status
+
+*
+
+One good quality
+leather case with belt
+clip & shoulder strip
+
+No *
+
+VARIOUS FEATURES Simple Press to talk YES *
+
+Low Battery Alert yes *
+
+CTCSS or DCS yes *
+
+Mixed Mode Operation
+(analog & digital)
+
+yes *
+
+Signaling 2Tone,5Tone,DTMF,Digi
+tal
+
+*
+
+Busy Channel Lockout Yes *
+
+Selective Call Decode Yes *
+
+Capable of VOX for
+hands-free operation
+
+Yes *
+
+If yes,handfree kit Yes *
+
+                               3 / 6
+
+
+
+ 
+
+provided with radio set
+
+handfree kit variants Ear plug *
+
+PTT ID Encode Yes *
+
+Channel Scanning with
+call quieting facility
+
+Yes *
+
+Emergency SOS/SIREN Yes *
+
+Talk-around Yes *
+
+Automatic Number
+Identification (ANI)
+
+Yes *
+
+Text message and
+predefined message
+
+Yes *
+
+Keypad Yes *
+
+Availablity of Inbuilt
+GPS system
+
+Yes *
+
+If yes, Horizontal
+accuracy
+
+5 *
+
+Time to first fix(TTFF)
+cold start
+
+1 *
+
+Time to First Fix(TTFF)
+Hot start
+
+10 *
+
+Capable of being Killed/
+Unkilled
+
+Yes *
+
+communication
+security
+
+Inbuilt encryption *
+
+Protocols supported in
+case of third party
+encryption
+
+- *
+
+GENERIC Weight of hand held
+Transreceiver with
+Battery
+
+340 *
+
+Other features - *
+
+POWER
+SOURCE/BATTERY
+
+Chemistry of Battery Lithium-ion *
+
+Voltage rating of the
+Battery
+
+7.4 *
+
+capacity of Battery
+(mAH)
+
+2000 *
+
+Average Battery duty
+cycle '5/5/90 for digital
+Transmission
+
+14 *
+
+Average Battery duty
+cycle '5/5/90 for analog
+Transmission
+
+11 *
+
+CERTIFICATION BIS registartion under
+CRS of Meity for the
+battery
+
+Yes *
+
+                               4 / 6
+
+
+
+ 
+
+BIS registration number
+and date for the
+battery
+
+- *
+
+EMI/EMC ETSI EN301 489-1 &
+ETSI EN301 489-5
+
+*
+
+Tested by DCPW No *
+
+SAFETY Protections Reverse polarity
+protection & short
+circuit protection
+
+*
+
+SERVICE Warranty 2 2.0
+
+OPERATING CONDITION Minimum Operating
+temperature
+
+-30 *
+
+Maximum Operating
+temperature
+
+55 *
+
+Minimum Storage
+temparature
+
+-40 *
+
+Maximum Storage
+temperature
+
+70 *
+
+Operating Humidity
+@40 degree C
+
+95 *
+
+TEST REPORT DETAILS Dust test as per MIL-STD-810 G *
+
+Vibration test as per MIL-STD-810 G *
+
+Shock test as per MIL-STD-810 G *
+
+Water Intrusion test as
+per
+
+MIL-STD-810 G *
+
+Salt test as per MIL-STD-810 G *
+
+Rain test as per MIL-STD-810 G *
+
+Altitude test as per MIL-STD-810 G *
+
+Availability of Test
+Reports from Central
+Govt/ NABL/ILAC
+acredited lab to prove
+confirmity to the
+Specifications
+
+Yes *
+
+Test Report Number
+and Date
+
+- *
+
+Name and Address of
+the Lab
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+                               5 / 6
+
+
+
+ 
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********SONITPUR 30  30
+
+Bid Specific Additional Terms and Conditions
+
+1.SLBR52
+2. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+3.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+4.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+5.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

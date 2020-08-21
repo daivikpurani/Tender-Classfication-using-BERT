@@ -1,0 +1,385 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/715437
+  Dated: 17-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 18:00:00
+
+Bid Opening Date/Time 27-07-2020 18:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Jammu & Kashmir
+
+Department Name Power Development Department Jammu And Kashmir
+
+Organisation Name N/a
+
+Office Name Chief Engineer Power Department Ladakh
+
+Total Quantity 2
+
+Item Category diesel generators- DG Sets
+
+Bidder Turnover (Last 3 Years)  6 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Bidder Turnover
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the
+buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 2.00
+
+EMD Amount 23820
+
+ePBG Detail
+
+Required No
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant
+category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for
+Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+                               1 / 4
+
+
+
+ 
+
+Beneficiary: 
+JUNIOR ENGINEER
+Executive Engineer Power Department Choglamsar leh Ladakh, Power Development Department Jammu and Kashmir,
+N/A,
+(Kunzang Dolma)
+
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM {themselves or
+through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central
+/ State Govt Organization / PSU / Public Listed Company for number of years as indicated in the bid document before the
+bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some
+quantity during each of the year. In case of bunch bids, the category of primary product having highest value should
+meet this criterion.
+
+Diesel Generators- DG Sets ( 2 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+OUTPUT CAPACITY RATING/
+PHASE
+
+Nominal Rated Capacity
+(KVA)
+
+62.5 62.5, 82.5, 100, 125, 160,
+180, 200, 250, 320, 380,
+400, 500, 600, 750, 140, 75
+Or higher
+
+No of Phase - Three Phase
+
+ENGINE Make of Engine - *
+
+Model Number of Engine - *
+
+Capacity of Engine (cc) - *
+
+Engine Power (kWm) - *
+
+ISI Marking to IS :10001 for
+engine
+
+No *
+
+BIS license No, if applicable - *
+
+Type of Engine cooling Liquid Cooled Liquid Cooled
+
+Type of governer Mechanical Mechanical, Electronic Or
+higher
+
+Class of governer A2 A0, A1, A2 Or higher
+
+Number of cylinders (nos) 4 *
+
+No of Strokes (nos) 4 *
+
+Rated RPM of Engine
+(RPM)
+
+- 1500
+
+Overload capacity for one
+hour for every 11 hours
+continuous running at full
+load (%)
+
+10 *
+
+Specific Fuel Consumption
+(gm/kWh)
+
+- *
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/Eg3EVmcmoFFiJo1F2k6szjpaZuSrg3UWCB-QPALzLEE
+
+
+ 
+
+Starting voltage (volt) 12 *
+
+ALTERNATOR AC
+GENERATOR(ALTERNATOR)
+Make
+
+- *
+
+AC
+GENERATOR(ALTERNATOR)
+model Number
+
+- *
+
+Rating of AC Generator
+(KVA)
+
+62.5 *
+
+Power Factor of AC
+generator
+
+0.8 *
+
+Efficiency at rated Power
+factor at 75% of full Load
+
+92.6 *
+
+Compliance of Alternator to
+IS:13364(part-1)
+
+Yes *
+
+Type of alternator Brushless *
+
+Voltage Regulation Grade VG 3 *
+
+Alternator IP Rating IP 23 *
+
+Class of Insulation H *
+
+CONTROL PANEL Control Panel Manual Manual
+
+IP Rating of Control Panel IP 54 *
+
+ACOUSTIC ENCLOSURE Sheet Thickness 1.6 1.6, 1.8, 2, 1.2 Or higher
+
+Thickness of Foam 80 *
+
+Density of Foam for sound
+insulation
+
+90 *
+
+Noise level at 1 meter (dB) 75 *
+
+BATTERY Battery Type & Specification Low Maintenance free to IS:
+14257 for high cranking
+performance
+
+*
+
+Battery capacity (Ah) - *
+
+No of batteries 1 *
+
+TEST REPORTS Availability of Type test
+report for Engine from
+Central govt/NABL/ILAC
+accredited laboratory
+
+Yes *
+
+Test Report number and
+date(Engine)
+
+- *
+
+Name and address of
+laboratory(Engine)
+
+- *
+
+Availability of Type test
+report for Alternator from
+Central
+government/NABL/ILAC
+accredited laboratory
+
+Yes *
+
+Test Report number and
+date(Alternator)
+
+- *
+
+Name and address of
+laboratory(Alternator)
+
+- *
+
+DG set meet requirements
+of
+Environmental(Protection)
+Rules 1986, in respect of
+
+Yes *
+
+                               3 / 4
+
+
+
+ 
+
+noise and emission norms,
+as described in STC
+
+WARRANTY / INSTALLATION
+& COMMISSIONING
+
+Warranty 2 1.0, 2.0
+
+Installation &
+Commissioning
+
+Without Installation With Installation, Without
+Installation
+
+Agreed to STC of the
+Product
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 KUNZANG DOLMA 194101,EXECUTIVE ENGINEER
+ELECTRIC DIVISION CHOGLAMSAR
+LEH-LADAKH
+
+2  15
+
+Special terms and conditions for category diesel generators- DG Sets 
+
+1.In addition to General Terms and Conditions of GeM, Special T&C shall be applicable for Diesel Generating
+Set/DG Set. click here to view the Special terms and conditions.
+
+Bid Specific Additional Terms and Conditions
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of
+
+Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

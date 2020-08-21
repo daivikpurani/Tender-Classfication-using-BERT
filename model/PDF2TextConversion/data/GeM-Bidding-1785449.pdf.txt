@@ -1,0 +1,682 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/709432
+
+  Dated: 14-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 24-07-2020 12:00:00
+
+Bid Opening Date/Time 24-07-2020 12:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Ministry Of Coal
+
+Department Name Materials Management
+
+Organisation Name Nlc
+
+Office Name Materials Management
+
+Total Quantity 100
+
+Item Category LED Well Glass Fixture
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+LED Well Glass Fixture ( 100 pieces )
+
+Technical Specifications
+
+                               1 / 7
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+STANDARDS Description of store LED Well Glass Fixture
+Lighting for ceiling
+suspension type
+
+*
+
+LED Luminaire as per IS:10322/Pt.5/Se
+c.1/2012, IS: 16107
+(Pt.2/Sec 1):2012 latest
+
+*
+
+Type of LED Luminaire "Type-B (as per IS:
+16107(Part-2/
+Sec.-1)/2012) "
+
+*
+
+Type and performance
+of LED Module
+
+"Type-3 (as per the IS:
+16103(Part-2)/2012) "
+
+*
+
+DC or AC supplied
+electronic control gear
+for LED modules -
+Performance
+requirements
+
+as per IS:16104:2012
+latest
+
+*
+
+Safety requirements for
+Electronic Control Gear
+for LED Modules
+
+as per IS:15885 (Part
+2/Sec.13)
+
+*
+
+"Photo biological safety
+of LEDs "
+
+as per IS:16108/2012
+(Exempt Group)
+
+*
+
+Comply with BIS CRS
+for DC or AC Supplied
+Electronic Control gear
+for LED Modules
+
+Yes. as per IS:15885
+(Part 2/Sec.13)
+
+*
+
+BIS CRS Number - Must
+declare
+
+- *
+
+Degree of protection
+(Ingress Protection)
+
+IP 66 (as per
+IS/IEC:60529:2001)
+
+IP 66 (as per
+IS/IEC:60529:2001)
+
+Impact resistance (If
+claimbed "Yes" -
+agreed to furnish
+test certificates to
+buyer / consignee on
+demand)
+
+Yes. IK07 (as per IEC
+62262:2002)
+
+Yes. IK07 (as per IEC
+62262:2002)
+
+Other compliacne (If
+claimbed - agreed to
+furnish test
+certificates to buyer
+/ consignee on
+demand)
+
+EMC (as per
+IEC:61000-3-2:2014
+latest)
+
+EMC (as per
+IEC:61000-3-2:2014
+latest)
+
+FLAME PROOF Type of Equipment
+protection
+
+No No
+
+Equipment Group
+(intend for use in
+explosive
+
+No No
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/J9p_WzkesF2UOPtTiORymNsLz_azYRW9lzczcoloiKg
+
+
+ 
+
+atmospheres)
+
+Flame proof and
+equipment safety
+certificate and
+approval . Agreed to
+fuurnish copy
+certificate to the
+buyer / cosngnee on
+demnd
+
+No No
+
+Flame proof and
+equipment safety
+certificate if claimbed
+"Yes" certificate
+number must declare.
+If No write NA
+
+- *
+
+RATINGS Rated voltage (in
+Volts)
+
+240 V, AC 240 V, AC
+
+Frequency (in Hz) 50 +/-2Hz *
+
+Operating input
+voltage range (in
+Volts)
+
+100 to 280 100 to 280
+
+Luminaire System
+Wattage (in Watts)
+
+35 35
+
+LED chip Efficacy
+(Lumen/watt)
+
+≥ 130 ≥ 130
+
+Luminaire System
+Efficacy - Lumen
+output -
+(Lumen/watt)
+
+≥ 120 ≥ 120
+
+Color Temperature
+(CCT) +/- 500 K (in
+Kelvin)
+
+6500 K 6500 K
+
+Colour Rendering
+Index (CRI) (in %
+age)
+
+≥ 70 ≥ 70
+
+Power Factor (PF) ≥ 0.95 at full load ≥ 0.95 at full load
+
+Total Harmonics
+Distortion (in %age)
+
+≤ 10 ≤ 10
+
+Beam angle of light
+source (in degree)
+
+≥ 120 ≥ 120
+
+Junction temperature
+(in deg. C)
+
+< 85 *
+
+Temperature rating of
+capacitor (in deg. C)
+
+105 *
+
+LED Life ≥ 50000 Hours ≥ 50000 Hours
+
+Ingress Protection
+(IP) Rating of
+Luminaire (agreed to
+
+IP 66 IP 66
+
+                               3 / 7
+
+
+
+ 
+
+furnish test
+certificates to buyer
+/ consignee on
+demand)
+
+Minimum operating
+temperature range (in
+deg. C)
+
+- 10 to 0 *
+
+Maximum operating
+temperature range
+(in deg. C)
+
+55 55.0 - 60.0 Or higher
+
+Humidity - RH (in %
+age)
+
+10 to 95 *
+
+PROTECTION Short circuit Protection Yes *
+
+Over load protection Yes *
+
+Over Voltage protection Yes *
+
+Other protection Reverse polarity Reverse polarity
+
+SAFETY High voltage witstand
+test between supply
+terminals and body of
+the unit
+
+1.5 KV for 1 Minute *
+
+Insulation resistance
+between earth and
+current carrying part
+
+≥ 100 M ohm *
+
+The luminaire shall
+be protected against
+surges and
+transients ( Internal)
+
+≥ 5 KV ≥ 5 KV
+
+The luminaire shall
+be protected against
+surges and
+transients (External)
+
+≥ 10 KV ≥ 10 KV
+
+CONSTRUCTION Shape of Luminaire Round *
+
+Type of mounting Metallic adjustable
+Brackets with Eye Bolt
+
+*
+
+Installation height
+range from floor level
+(in m) - Must declare
+
+6 *
+
+Lamp housing (single
+piece housing)
+
+Pressure die cast
+aluminium alloy
+
+*
+
+"Heat sink along with
+sufficient heat sink fins
+to dissipate heat
+effectively "
+
+Yes *
+
+Type of coating Epoxy powder coated *
+
+Colour of Luminaire Grey *
+
+Material of Lamp
+(Luminaire) cover
+
+Heat Resistant
+Toughened Glass
+
+*
+
+                               4 / 7
+
+
+
+ 
+
+Luminaire with wire
+guard
+
+No No
+
+Optic Lens Yes. Polycarbonate-UV
+stabilised
+
+Yes. Polycarbonate-UV
+stabilised
+
+Material of all fastners Stainless Steel *
+
+Weather proof gasket Yes *
+
+Luminaire comprises
+with separate
+compartment for
+control gear
+
+Yes *
+
+Suitable connector
+between driver output
+and LED
+
+Yes *
+
+Type of Control Gear Constant Current Constant Current
+
+Number of electronic
+control gear on each
+luminaire (power
+supplies) - (in Nos.)
+
+1 1
+
+PCB Grade FR4 *
+
+Type of LED SMD LED Chip ( surface
+Mounting Device)
+
+*
+
+Luminaire fitted with
+connecting cables
+for input power
+
+ISI Marked 3 Core cable
+for input power (
+Length:500 mm )
+
+ISI Marked 3 Core cable
+for input power (
+Length:500 mm )
+
+Accessories for each
+luminaire
+
+SS Eye Bolts (as per
+IS:4190:1984
+latest),Set of Bolt,Nut,
+Washers (SS),Die cast
+aluminium brackets
+
+SS Eye Bolts (as per
+IS:4190:1984 latest),
+Set of Bolt,Nut,
+Washers (SS), Die cast
+aluminium brackets
+
+MARKING Manufactures Name
+and brand on the
+Luminaire body
+
+Engraved/ Embossed *
+
+Marking/Identificatio
+n details on inside of
+each luminaire and
+outside of each
+packing box
+
+Manufacturer's
+Name,Model
+Number,Serial
+Number,Month and
+year of manufacturing,
+Voltage,System
+Wattage
+
+Manufacturer's Name,
+Model Number, Serial
+Number, Month and
+year of manufacturing,
+Voltage, System
+Wattage
+
+Marking/Identificatio
+n details on each
+control gear
+
+Manufacturer's
+Name,Model Number
+
+Manufacturer's Name,
+Model Number
+
+INSTALLATION Installation and
+commissioning
+
+No No
+
+Scope of installation
+and commissioning
+
+Not applicable Not applicable
+
+CERTIFICATIONS Warranty period (in
+Months)
+
+36 36, 48, 60 Or higher
+
+                               5 / 7
+
+
+
+ 
+
+Availability of test
+reports from Central
+Govt. Lab/NABL/ILAC
+accrediated
+laboratory to prove
+conformity of the
+specification
+
+Yes Yes
+
+Test report number and
+date if claimbed "Yes"
+If No write NA
+
+- *
+
+Name and addres of
+lab (If No test reports
+write NA)
+
+- *
+
+Agreed to furnish LM
+79 , LM 80 reports
+from Central
+Government
+lab/NABL/ILAC
+accredited lab
+
+Yes as per
+IS:16106:2012 latest
+and as per
+IS:16105:2012 latest
+
+Yes as per
+IS:16106:2012 latest
+and as per
+IS:16105:2012 latest
+
+Agreed to furnish TM
+21 report from
+Central Government
+lab/NABL/ILAC
+accredited lab
+
+Yes Yes
+
+Agree to furnish
+Photo Biological
+report from Central
+Government
+lab/NABL/ILAC
+accredited lab
+
+Yes Yes
+
+Agreed to furnish BIS
+CRS certificate for DC
+or AC Supplied
+Electronic Control gear
+for LED Modules from
+BIS
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 SRINIVASAN
+KALIYAPERUMAL
+
+607807,PERMANENT
+CENTRAL STORES, NLC
+INDIA LIMITED, NEYVELI
+607807
+
+100  30
+
+                               6 / 7
+
+
+
+ 
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,488 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/710180
+
+  Dated: 14-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 09:00:00
+
+Bid Opening Date/Time 20-07-2020 09:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Railways
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Southern Railway
+
+Total Quantity 24
+
+Item Category Pulse Oximeter
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Certificate (Requested in ATC)
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 5
+
+
+
+ 
+
+Pulse Oximeter ( 24 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Conformity to
+Standards
+
+- *
+
+Certification number
+and date
+
+- *
+
+"Electrical safety
+conforms to standards
+for electrical safety"
+
+IEC-60601-1 or
+equivalent BIS
+
+*
+
+Performance
+Parameters
+
+Type of Pulse
+Oximeter
+
+FINGER TIP FINGER TIP
+
+Should work during
+motion and very low
+perfusion conditions
+
+Yes *
+
+Special Signal
+processing
+Technology (Motion
+artifact rejection)
+
+Masimo - SET
+technology
+
+Masimo - SET
+technology
+
+SPO2 probes Reusable Reusable
+
+Oxygen saturation
+Range
+
+0-100% *
+
+Pulse rate 25-240 BPM *
+
+Display of SPO2 and
+PR
+
+digital display with
+plethysmograph with
+trends
+
+digital display with
+plethysmograph with
+trends
+
+Accuracy ± 5 % *
+
+Type of Patient Adult Adult
+
+Should be shock
+proof
+
+Yes Yes
+
+Display (with
+contrast adjust-
+ability)
+
+LCD LCD
+
+Display should be
+Readable from at
+least 3 feet
+
+Yes Yes
+
+Saturation displayed
+on the screen
+
+Yes Yes
+
+Pulse Rate displayed
+on the screen
+
+Yes Yes
+
+Perfusion Index
+displayed on the
+
+Yes Yes
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/3i7NFYz3c5bRWvNSaJZMzHw_0gOW7Vfdr6EHQmJJzhg
+
+
+ 
+
+screen
+
+Status of battery
+charging displayed
+on the screen
+
+Yes Yes
+
+Sensor off /on status Yes Yes
+
+Audible and visual
+Alarms
+
+Yes Yes
+
+Alarm override
+facility should be
+present
+
+Yes Yes
+
+Trends 48 hrs 48 hrs
+
+Type of trend
+display
+
+Tabular Tabular
+
+Data interval in sec 30 *
+
+Power source Battery operated Battery operated
+
+Automatic switch
+from mains to
+battery in case of
+power failure
+
+NA NA
+
+RS 232C interface
+for data
+communication and
+transfer
+
+NA NA
+
+Should have
+provisions for
+wireless and blue
+tooth connectivity
+
+NA NA
+
+Patient extension
+cable
+
+Not Provided Not Provided
+
+Power consumption in
+watts
+
+3 *
+
+Operating Temperature "Ambient temperature
+of 0 to 40 deg C and
+relative humidity of 15
+to 90%"
+
+*
+
+Weight of the machine
+in kg
+
+0.05 *
+
+Protective splash
+proof case for clean
+and strogage and
+safe transport
+provided
+
+No No
+
+Length of power
+cable
+
+NA NA
+
+Noise level in dB 20 *
+
+Display must allow
+easy viewing in all
+
+Yes *
+
+                               3 / 5
+
+
+
+ 
+
+ambient light levels
+
+Probes Type of probe Adult Adult
+
+Probe usage Reusable Reusable
+
+Number of probes
+provided (Hint: in
+case adult , pediatric
+and neonatal are
+selected for type of
+probe all the three
+have to be given and
+in case adult &
+pediatric are
+selected both are to
+be given)
+
+1 each 1 each
+
+NIBP Parameters Non invasive blood
+pressure (NIBP)
+provided
+
+No No
+
+Type of BP
+monitoring
+
+NA (If NIBP not
+provided)
+
+NA (If NIBP not
+provided)
+
+NIBP range in mmH NA (If NIBP not
+provided)
+
+NA (If NIBP not
+provided)
+
+Cuff size NA (If NIBP not
+provided)
+
+NA (If NIBP not
+provided)
+
+Number of cuff's
+provided
+
+NA (If NIBP not
+provided)
+
+NA (If NIBP not
+provided)
+
+Warranty in years
+(without probes)
+
+1 1
+
+Warranty for probes
+in years
+
+Not Provided Not Provided
+
+Reports Confirmity to
+Manufactures
+Certification
+
+Both ISO 9001 & ISO
+13485 & ICMED 9001 &
+13485
+
+Both ISO 9001 & ISO
+13485 & ICMED 9001 &
+13485
+
+ISO/ ICMED
+Certification number
+and date
+
+- *
+
+Copies of all
+certifcations to be
+furnished to buyer on
+demand at time of
+supplies
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+                               4 / 5
+
+
+
+ 
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Surendran 636005,Office of the
+Divisional Electrical Engineer
+Divisional Railway Managers
+Office Salem SALEM,
+636005, Salem, 636005
+
+24  20
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2.Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be
+
+given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs)
+Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises
+and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to
+avail the Purchase preference, the bidder must be the manufacturer of the offered product
+in case of bid for supply of goods. Traders are excluded from the purview of Public
+Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder
+must be the Service provider of the offered Service. Relevant documentary evidence in this
+regard shall be uploaded along with the bid in respect of the offered product or service. If L-1
+is not an MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of
+purchase preference /price band defined in relevant policy, such Seller shall be given
+opportunity to match L-1 price and contract will be awarded for percentage of 25% of total
+value.
+
+3.Warranty period of the supplied products shall be 1 years from the date of final acceptance
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

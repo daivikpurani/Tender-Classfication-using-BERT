@@ -1,0 +1,521 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/711826
+
+  Dated: 15-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 25-07-2020 17:00:00
+
+Bid Opening Date/Time 25-07-2020 17:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Coal
+
+Department Name Materials Management
+
+Organisation Name Northern Coalfields Limited
+
+Office Name Singrauli
+
+Total Quantity 1
+
+Item Category Semi automated urine analyser
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Semi Automated Urine Analyser ( 1 pieces )
+
+                               1 / 6
+
+
+
+ 
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Certifications for the
+product
+
+- *
+
+Certification number
+and date
+
+- *
+
+Confirmity to quality
+management standards
+
+ISO 9001 & ISO 13485 *
+
+Confirmity to electrical
+safety standards
+
+IEC 61010-1,IEC
+61010-2-081,IEC
+61010-2-101 or BIS
+equivalent
+
+*
+
+Performance
+Parameters
+
+UMDNS Name and
+Code
+
+Analyzers, Laboratory,
+Urine, SemiAutomated
+- 16-887
+
+*
+
+Clinical Purpose Urine analyzers
+perform
+semiquantitative
+chemical analysis that
+determines parameters
+such as bilirubin,glucos
+e,ketones,pH,protein,ur
+obilinogen,nitrites,leuk
+cyte esterase etc
+
+*
+
+Type of
+configuration
+
+Benchtop Benchtop
+
+Type of loading Continuous Continuous
+
+Working principle Reflectance
+Photometry
+
+Reflectance
+Photometry
+
+Type of sample Urine *
+
+Chemical Testing
+Parameters
+Available in the OEM
+Strips
+
+Glucose, protein, pH,
+Specific gravity,
+Urobilinogen, Bilirubin,
+Ketones, Nitrites, Blood
+& Leucocytes,,Microalb
+umin & Creatinine with
+ACR ratio
+
+Glucose, protein, pH,
+Specific gravity,
+Urobilinogen, Bilirubin,
+Ketones, Nitrites, Blood
+& Leucocytes,,Microalb
+umin & Creatinine with
+ACR ratio
+
+Thoughput (Number of
+Sample) per hour
+
+400 *
+
+System Type Closed Closed
+
+Reagent type Strip *
+
+Dry strip detection Yes Yes
+
+Attached waste bin
+container
+
+Yes Yes
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/ohhFZIkMt5LyPOt7QAUnlbeQUoVtwNLJOieK0SAr4g8
+
+
+ 
+
+Availability of
+Quality control
+program in system
+
+Yes Yes
+
+Calibration Both Calibration strips
+and Automatic
+
+Both Calibration strips
+and Automatic
+
+Data Management and
+Display
+
+Type of user
+Interface
+
+Both manual and
+barcode reader
+
+Both manual and
+barcode reader
+
+Type of barcode
+reader
+
+External External
+
+Type of patient data
+entry
+
+Alpha-numerical Alpha-numerical
+
+Data memory(No of
+patients)
+
+1000 *
+
+HIS/LIS Interface RS232 RS232
+
+Result and worklist
+transmission
+through LIS
+
+Yes Yes
+
+Printer facility Yes Yes
+
+Printer unit inbuilt inbuilt
+
+Printer type thermal printer thermal printer
+
+Type of data
+management
+
+Inbuilt system *
+
+Inbuilt Display LCD LCD
+
+No of USB port 2 2
+
+OEM is
+manufacturing liquid
+controls
+
+Yes Yes
+
+Power Requirements Power supply 220 - 240 volts, single
+phase, 50 Hz
+
+*
+
+Online UPS provided No No
+
+UPS Back up Time NA NA
+
+Type of battery NA NA
+
+Operating temperature
+and humidity
+
+Capable of operating
+continuously in
+ambient temperature
+of 25 to 25 deg C and
+relative humidity of 20
+to 80% in ideal
+circumstances
+
+*
+
+Accessories , spare and
+consumables
+
+Number of Reagent
+Strips supplied with
+the analyser
+
+500 500
+
+OEM or Reseller should
+ensure the availability
+of the Consumables in
+the market for at least
+
+Yes *
+
+                               3 / 6
+
+
+
+ 
+
+5 years and a
+certificate to this effect
+from OEM to be given
+to buyer/consignee at
+time of supply of
+analyser
+
+Miscellaneous
+Parameters
+
+Number of
+installations in
+Central /State/PSU
+Govt Hospitals (
+Hint: Seller should
+supply a performace
+certificate of the
+device to the buyer
+incase demaneded
+after placement of
+order)
+
+More than 3 More than 3
+
+OEM/Reseller ( if
+supplied by reseller
+shall ensure
+uninterputed availabilty
+of all spares for 10
+years)
+
+Yes *
+
+Availability of toll
+free facility for
+technical support
+maintained by OEM
+or authorized
+agencies
+
+Yes Yes
+
+During the warranty
+period it shall be
+ensured that all the
+break down calls are
+attended with in 24 hrs
+and the complete
+details of service
+agents / contact details
+should be furnished to
+buyer and consignee at
+time of supplies
+
+Yes *
+
+User/Technical/Mainten
+ance manuals to be
+supplied in English in
+hard and soft copy
+
+Yes *
+
+Details of equipments
+and procedures
+required for local
+calibration and routine
+maintenance to be
+supplied and advanced
+maintenance task
+documentation also to
+be furnished
+
+Yes *
+
+                               4 / 6
+
+
+
+ 
+
+List of important spares
+and accessories, with
+their part numbers to
+be supplied to the
+buyer at the time of
+supplying the
+equipment
+
+Yes *
+
+Installation and
+demonstration of
+equipment and training
+to be provided after
+completing supplies
+before acceptance
+
+Yes *
+
+The Principal
+Manufacturer must
+have direct
+Presence/approved
+service center In India
+
+Yes *
+
+Copies of reports and
+certifications to be
+furnished to buyer on
+demand at time of
+supplies
+
+Yes *
+
+Calibration certificates
+as per NABH
+requirement to be
+provided
+
+Yes *
+
+Warranty in years
+will include
+maintanance of the
+equipment but
+exclude
+consumables and
+reagents
+
+3 3
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Dr.Vijay Kumar 486889,CENTRAL HOSPITAL
+NCL HEADQUARTERS PO -
+SINGRAULI MADHYA
+PRADESH 486889
+
+1  60
+
+Bid Specific Additional Terms and Conditions
+
+                               5 / 6
+
+
+
+ 
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

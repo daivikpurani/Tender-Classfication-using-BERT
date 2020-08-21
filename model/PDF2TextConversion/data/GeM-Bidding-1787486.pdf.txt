@@ -1,0 +1,501 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/711271
+
+  Dated: 15-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 13:00:00
+
+Bid Opening Date/Time 20-07-2020 13:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Delhi
+
+Department Name Health And Family Welfare Department Delhi
+
+Organisation Name N/a
+
+Office Name Dr Baba Saheb Ambedkar Hospital Rohini
+
+Total Quantity 1
+
+Item Category Real Time PCR Machine
+
+Bidder Turnover (Last 3 Years)  7 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  14 Lakh (s)
+
+Experience Criteria  1 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  50 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 2.00
+
+EMD Amount 29600
+
+                               1 / 6
+
+
+
+ 
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 5.00
+
+Duration of ePBG required (Months). 62
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+Director principal
+Dr Baba Saheb Ambedkar Medical College, Rohini, Delhi
+(Director Principal)
+
+Splitting
+
+ Bid splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 50% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Real Time PCR Machine ( 1 pieces )
+
+Technical Specifications
+
+                               2 / 6
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Certification for product - *
+
+Certification number
+and date
+
+- *
+
+Conformity to
+Manufacturing
+Standards
+
+ISO 9001 & ISO 13485 *
+
+Conformity to Safety
+Standards
+
+IEC 60601-1 or BIS
+equivalent
+
+*
+
+Performance
+Parameters
+
+Purpose PCR is a laboratory
+technique used to
+amplify segments of
+DNA via the
+Polymerase Chain
+Reaction
+
+*
+
+Compatibility of
+Reagent
+
+Open *
+
+Capacity of Blocks 96 well, 96 x 0.2 ml 96 well, 96 x 0.2 ml
+
+Number of channels 6 *
+
+Maximum Heating
+Ramp rate in degree
+cycle per second (ᵒ C/s)
+
+4 *
+
+Maximum Cooling
+Ramp rate in degree
+cycle per second (ᵒ C/s)
+
+3 *
+
+Adjustable
+heating/cooling Ramp
+Rate
+
+Yes *
+
+Operating Temperature
+range ᵒC
+
+25 *
+
+Gradient Range in ᵒC 24 *
+
+Hot Lid Temperature 30-110ᵒC *
+
+Sample volume range
+in micro litre
+
+25 *
+
+Maximum Number of
+Programmable Steps
+
+40 *
+
+Maximum Number of
+Programmable Cycles
+
+upto 100 *
+
+Number of USB ports 2 *
+
+Pause/Start function Yes *
+
+Input supply Single phase (230 V, 50
+Hz)
+
+*
+
+Input voltage in watts 600 W *
+
+                               3 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/3GuipD_O3v6x-rTP_1VRuM9m8BFzOw4aT8ae9xMLhII
+
+
+ 
+
+Auto restart after
+power outages
+
+Yes *
+
+Boot up time Not more than 1 min *
+
+Data Management
+System Parameters
+
+Compatible to be used
+with PC
+
+Yes *
+
+Operating system Windows 10 *
+
+PC monitor type LCD *
+
+PC monitor size in
+inches
+
+15 or more *
+
+PC hard disk More than 500 GB *
+
+Providing Online UPS
+with 1 Hr backup
+
+Yes *
+
+Reports Comprehensive
+Warranty in years
+
+2 2
+
+User/Technical/Mainten
+ance manuals to be
+supplied in English in
+hard and soft copy
+
+Yes *
+
+Installation,
+Demonstration and
+training to be provided
+at consignee end
+
+Yes *
+
+The Principal
+Manufacturer Must
+Have Direct
+Presence/approved
+service center In India
+
+Yes *
+
+Copies of all
+certifications and
+reports to be provided
+to buyer on demand at
+time of supplies
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Vipul Pandey 110085,DR. BABA SAHEB
+AMBEDKAR MEDICAL
+COLLEGE, GOVT. OF NCT OF
+DELHI, SECTOR-06, ROHINI,
+DELHI-110085
+
+1  15
+
+                               4 / 6
+
+
+
+ 
+
+Special terms and conditions for category Real Time PCR Machine 
+
+1.Comprehensive warrantyComprehensive warranty shall include preventive maintenance
+including calibration as per technical/ service /operational manual of the manufacturer,
+service charges and spares,. During the warranty period commencing from date of the
+successful completion of warranty period, Service personnel shall visit each consignee site
+as recommended in the manufacturer’s technical/ service /operational manual, at least once
+in six months. warranty shall not be including the consumables .Further there will be 98%
+uptime warranty during warranty period on 24 (hrs) X 7 (days) X 365 (days) basis, with
+penalty, to extend warranty period by double the downtime period.Service centresDetails of
+Service outlets in India to render services for equipment to be furnished to buyer/consignees
+with complete address ,telephone numbers, e mails etc at time of making the supplies .It
+shall be the responsibility of seller to ensure that authorized service centres are available to
+cater to the areas where supplies are made within reasonable distance from where the
+service calls can be handled .Details of toll free numbers for service call and online
+registration of service requests also to be provided buyer/consignee at the time of
+supplies.Source of supplyIt shall be responsibility of seller to provide Documents regarding
+source of equipments such as copy of Performa invoice or any other documents to establish
+that the products supplied are manufactured by OEM indicated and sourced from
+them.Packing and MarkingMedical equipments being very delicate and sensitive packing for
+the goods should be strong and durable enough to withstand transit including transhipment
+(if any), rough handling, open storage etc. without any damage, deterioration etc. .The size,
+weights and volumes of the packing cases, remoteness of the final destination of the goods,
+availability or otherwise of transport and handling facilities at all points during transit up to
+final destination,. Quality of packing, the manner of marking within & outside the packages
+and provision of accompanying documentation shall take in to consideration the type of
+medical equipments being supplied. The accessories shall be suitably labelled and packed
+.Each of the package shall be marked on three sides with indelible paint of proper quality:
+indicating contract number and date , brief description of goods including quantity ,. Packing
+list reference number , country of origin of goods and any other relevant details.Spare
+PartsSeller shall provide materials, information etc. pertaining to spare parts manufactured
+and supplied by the OEM . It shall be ensured that the required spares are available for
+purchase at least for 10 years from date of supplies .In case due to any reasons the
+production of the spare parts is discontinued sufficient advance notice should be given to
+the buyer/consignee before such discontinuation to provide adequate time to purchase the
+required spare parts etc. Further, OEM and their service centres/dealers shall carry sufficient
+inventories to assure ex-stock supply of consumables and spares for the equipments so that
+the same are available.OEM or reseller shall always accord most favoured client status to
+the buyer/consignee and shall give the most competitive price for spares and consumables
+of its machines/equipments supplied.Installation, Training, ManualsSeller shall be
+responsible to carry out Installation & commissioning, Supervision and Demonstration of the
+goods. They shall provide required jigs and tools for assembly, minor civil works for the
+completion of the installation and Training of Consignee’s representatives for operating and
+maintaining the equipment and Supplying required number of operation & maintenance
+manual for the goods. In case the category parameters are specifying any requirements
+regarding the installations , training and manuals the same shall also be applicable.
+Electrical safety checkingSellers are required to make sure that they furnish the list of
+equipments for carrying out routine and preventive maintenance to buyer/consignee. They
+should make sure to periodically check the electrical safety aspects as per BIS Safety
+Standards or equivalent .In case they do not have required equipment for such testing
+should ensure that the equipments checked for electrical safety compliance through labs
+with facilities for such checking during every preventive maintenance call. Software All
+software updates should be provided free of cost during warranty period.
+
+Bid Specific Additional Terms and Conditions
+
+                               5 / 6
+
+
+
+ 
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+2. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+3.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+4.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+5.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+6.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 3 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+7.Successful bidder will have to ensure that adequate number of dedicated technical service
+personals / engineers are designated / deployed for attending to the Service Request in a
+time bound manner and for ensuring Timely Servicing / rectification of defects during
+warranty period, as per Service level agreement indicated in the relevant clause of the bid.
+
+8.Bidder / OEM has to give an undertaking that after expiry of warranty period, it will provide
+Comprehensive Maintenance Service for next 5 years for the offered products at the rate not
+more than 10 % of contract price per annum. Buyer reserves the right to enter into a CMC
+agreement with the Successful Bidder / OEM after expiry of the Warranty period at above
+mentioned rate and the payment for the CMC charges would be made Annually after
+rendering of the CMC Services of the relevant CMC period. Performance Security of the
+successful bidder shall be forfeited if it fails to accept the CMC contract when called upon by
+the buyer. CMC would include cost of 2 (Upload the undertaking). The original Performance
+Security of contract will be returned only after submission and verification of AMC
+Performance Security for 2% of total CMC value valid up to CMC period plus 2 months (if
+there is no other claim).
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,606 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/714226
+  Dated: 17-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 11:00:00
+
+Bid Opening Date/Time 27-07-2020 11:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Jammu & Kashmir
+
+Department Name Health And Family Welfare Department Jammu And Kashmir
+
+Organisation Name Government Medical College
+
+Office Name Govt Medical College Baramulla
+
+Total Quantity 2
+
+Item Category ECG Machine ( PAC Only ) 
+
+Bidder Turnover (Last 3 Years)  2 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  2 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder Turnover,OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the
+buyer
+
+Past Performance  50 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM {themselves or
+through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central
+
+                               1 / 6
+
+
+
+ 
+
+/ State Govt Organization / PSU / Public Listed Company for number of years as indicated in the bid document before the
+bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some
+quantity during each of the year. In case of bunch bids, the category of primary product having highest value should
+meet this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product during the
+last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document.
+Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the
+Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with
+the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have supplied same or similar
+Category Products for 50% of bid quantity, in at least one of the last three years before the bid opening date to any
+Central / State Govt Organization / PSU / Public Listed Company. Copies of relevant contracts (proving supply of
+cumulative order quantity in any one year) to be submitted along with bid in support of quantity supplied in the relevant
+year. In case of bunch bids, the category related to primary product having highest bid value should meet this criterion.
+
+ECG Machine ( 2 pieces ) ( Under PAC ) 
+
+Make schiller
+
+Model cardiovitat102g2
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Certificates Confirmity to standards BIS BIS
+
+Certification number and
+date
+
+G10415050120 & Date:
+17/04/2019
+
+*
+
+Confirmity to safety of
+electromagnetic
+compatibility
+
+IEC-60601-1-2:2001 (or
+equivalent BIS)
+
+*
+
+Confirmity to safety
+standard
+
+IS - 13450 /
+IEC60601-1-2005
+
+*
+
+Performance Parameters Purpose ECG machine is primary
+equipment to record ECG
+signal with interpretation
+which is required for
+recording and analyzing the
+waveforms with software.
+
+ECG machine is primary
+equipment to record ECG
+signal with interpretation
+which is required for
+recording and analyzing the
+waveforms with software.
+
+Operating modes of ECG
+Machine
+
+Automatic, Manual and
+Rhythm
+
+*
+
+ECG machine should have
+ECG lead annotation facility
+
+Yes *
+
+Leads which is in ECG
+machine should be able to
+acquire simultaneously and
+interpret them
+
+12 *
+
+Number of channels 12 12
+
+ECG machine should acquire
+lead ECG for both adult and
+paediatric patients
+
+Yes *
+
+The ECG machine should
+have facility to show lead
+fail indication
+
+Yes *
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/L97-ascw3D_rJts2wbXxkr90_cDKuTCrlhRHnGtZv7I
+
+
+ 
+
+The ECG machine should
+have facility to show lead
+reversal indication
+
+Yes *
+
+The ECG machine should
+have facility to show the
+impedance to quality check
+of connection
+
+Yes *
+
+Acquisition time for ECG
+Machine in sec
+
+10 sec *
+
+Digital sampling rate for
+Pacemaker spike detection
+
+40000 s/sec/channel *
+
+Recording of digital
+sampling for pacemaker
+
+1000 s/sec/channel *
+
+ECG machine should have
+real time colour backlit
+display of ECG waveforms
+with signal qualify indication
+for each lead
+
+Yes *
+
+ECG machine should have
+frequency filters
+
+Artifact, AC and low and
+high pass frequency filters
+
+*
+
+Number of ECGs which
+can be store in ECG
+Machine
+
+151-200 151-200
+
+ECG machine should
+have full screen preview
+of ECG report for quality
+assessment checks prior
+to print
+
+Yes Yes
+
+Type of inbuilt screen TFT TFT
+
+Size of screen in inches 7 7
+
+Display resolution of ECG
+machine in pixels
+
+640 x 480 *
+
+ECG machine should have
+interpretation facility of the
+amplitudes, duration and
+morphologies of ECG
+waveforms and associated
+rhythm for adult and
+pediatric patient
+
+Yes *
+
+ECG machine should
+have alphanumeric
+keyboard for patient
+data entry
+
+Hard keys Hard keys
+
+Size of printing paper A4 A4
+
+Resolution of digital array
+printer using thermal
+sensitive paper in ECG
+Machine in dpi
+
+200 dpi x 500 dpi on 25
+mm/sec speed
+
+*
+
+ECG machine report format Report formats of 3x4; 6x2,
+Rhythm for up to selected
+leads, 12 lead extended
+measurement, 1 minute of
+continuous waveform data
+for 1 selected lead
+
+*
+
+Provision of battery Yes Yes
+
+Battery capacity 50 ECG or 1 hour of
+continous rhythm recording
+
+50 ECG or 1 hour of
+continous rhythm recording
+
+                               3 / 6
+
+
+
+ 
+
+on single charge on single charge
+
+Connectivity to ECG
+Machine
+
+LAN LAN
+
+Storage on external
+portable memories
+
+USB support *
+
+The individual patient lead
+should be change without
+replacing the whole patient
+cable assembly
+
+Yes *
+
+Noise level in dba 45 *
+
+Weight of ECG Machine in
+Kg
+
+4.2 *
+
+Frequency in Hz 300 *
+
+Availability of latest
+interpretation software
+
+Yes Yes
+
+Wireless acquisition
+module with RF
+technology
+
+No No
+
+System should have the
+dedicated software to
+download the ECG form
+machine in PDF format
+
+Yes Yes
+
+Warranty in years 3 3
+
+User and service manual of
+ECG Machine
+
+Yes *
+
+Environmental Parameters Operating temperature and
+humidity
+
+temperature of 10-40
+degree C and relative
+humidity of 15-90%
+
+*
+
+Trolley Provision of trolley No No
+
+Material of Frame of
+trolley
+
+No Trolley Provided No Trolley Provided
+
+Material of Top of trolley No Trolley Provided No Trolley Provided
+
+Number of castors No Trolley Provided No Trolley Provided
+
+Number of brakes for
+castors
+
+No Trolley Provided No Trolley Provided
+
+Height of trolley in inch No Trolley Provided No Trolley Provided
+
+Provision of railing for
+top shelf
+
+No Trolley Provided No Trolley Provided
+
+Availability of suitable
+cable arm having holder
+for ECG cables when not
+in use
+
+No Trolley Provided No Trolley Provided
+
+Power Supply Power input 220-240 V AC, 50 Hz fitted
+with Indian plug
+
+*
+
+Length of power cable in
+meter
+
+3 *
+
+Resettable over current
+breaker shall be fitted for
+protection
+
+Yes *
+
+Accessories ECG Machine 12 leads
+with interpretation
+
+1 1
+
+Patient Cable 2 2
+
+                               4 / 6
+
+
+
+ 
+
+Chest Electrodes Adult
+(set of Six)
+
+1 1
+
+Chest Electrodes
+Paediatric (set of Six)
+
+2 2
+
+Limb Electrodes 2 for adults and 2 for
+paediatric
+
+2 for adults and 2 for
+paediatric
+
+Thermal paper for 500
+patients
+
+1 SET 1 SET
+
+Power cable for charging Yes Yes
+
+Supplied with Clip
+electrode
+
+Yes Yes
+
+Reports Manufacturer shall be ISO
+certified
+
+ISO 13485 *
+
+ISO cetification deatils such
+as date and number
+
+QS6180641505114 & Date:
+26/06/2018
+
+*
+
+Availability of test report
+from govt/ NABL/ILAC
+accredited lab covering
+all parameters
+
+No No
+
+Test report number , Incase
+test reports not availabble ,
+put NA
+
+NA *
+
+Test report date, Incase test
+reports not availabble , put
+NA
+
+NA *
+
+Name of test lab , Incase
+test reports not availabble ,
+put NA
+
+NA *
+
+Address of test lab , Incase
+test reports not availabble ,
+put NA
+
+NA *
+
+Copies of all test reports
+to be provided to buyer
+on demand at time of
+supplies ,
+
+Yes Yes
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Abdul Hameed Kuthoo 193101,Govt Medical College
+Baramulla
+
+2  15
+
+Bid Specific Additional Terms and Conditions
+1.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each
+
+Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If
+service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one
+within 30 days of award of contract. Payment shall be released only after submission of documentary evidence
+of having Functional Service Centre.
+
+2.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last three
+
+                               5 / 6
+
+
+
+ 
+
+years, ending on 31st March of the previous financial year, should be as indicated in the bid document.
+Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from
+the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution shall be taken into
+account for this criteria.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

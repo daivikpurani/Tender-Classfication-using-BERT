@@ -1,0 +1,676 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/705323
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 14:00:00
+
+Bid Opening Date/Time 20-07-2020 14:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Gujarat
+
+Department Name Revenue Department Gujarat
+
+Organisation Name N/a
+
+Office Name Jilla Seva Sadan,khas Road,botad
+
+Total Quantity 14
+
+Item Category digital teaching device
+
+Bidder Turnover (Last 3 Years)  9 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  18 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Turnover  Yes
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  80 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+                               1 / 8
+
+
+
+ 
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 80% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Digital Teaching Device ( 14 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Cabinet Cabinet Wall Mounted lockable
+enclosure
+
+Wall Mounted lockable
+enclosure
+
+Material of the Cabinet - *
+
+Degree of Protection (IP
+Rating)
+
+- *
+
+CPU CPU Dual Core Intel Atom, Dual Core
+
+Processor
+Generation
+
+6th 6th
+
+RAM (GB) 4 4.0 - 99.0 Or higher
+
+RAM upgradable
+upto (GB)
+
+8 8, 16 Or higher
+
+Hard Disk Capacity
+(GB)
+
+500 500, 1000 Or higher
+
+                               2 / 8
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/wrYzmqwxmR05VPWS0cJAJ9zTgWs_hXGGFjQteigM8ro
+
+
+ 
+
+Hard Disk
+Upgradable upto
+(GB)
+
+1000 1000, 2000 Or higher
+
+OS Compatibility Windows 10
+Professional
+
+*
+
+VGA Port Yes *
+
+No. of USB 2.0 Ports
+(Nos)
+
+4 *
+
+No. of USB 3.0 Ports
+(Nos)
+
+0 *
+
+LAN Port Yes *
+
+Keyboard Inbuilt *
+
+Mouse /Track Pad Inbuilt *
+
+Operating System Windows Windows
+
+Central Controller Central Controller Available Available
+
+Provisions available to
+control various
+components
+
+System On/off, PC
+on/off, Projector on/off,
+volume control keys,
+external PC input ,VGA
+input etc
+
+*
+
+Visualizer Visualizer Not Available Not Available
+
+TYPE NA *
+
+Technology NA *
+
+Capture Size / Image
+Size
+
+NA *
+
+Resolution (Pixels) - *
+
+Image Pick up Device
+(inch)
+
+- *
+
+Video Frame Rates
+(fps)
+
+0 *
+
+Optical Zoom 0 *
+
+Digital magnification 0 *
+
+Focussing Arrangement NA *
+
+Lens Focal Length
+(mm)
+
+0 *
+
+Image Memory
+(Number of Images)
+
+0 *
+
+Image Rotation Facility
+(Degree)
+
+0 *
+
+Computer Interface NA *
+
+Light Source NA *
+
+Life of Lamp used
+(Years)
+
+0 *
+
+                               3 / 8
+
+
+
+ 
+
+Number of Input VGA
+Port
+
+0 *
+
+Number of Output VGA
+Port
+
+0 *
+
+Number of Output
+HDMI Port
+
+0 *
+
+Scan Object - *
+
+Video Format
+Supported
+
+- *
+
+Interactive Board Interactive Board Available Available
+
+Board Diagonal size
+(mm)
+
+- *
+
+Width of the active
+area of the board (mm)
+
+- *
+
+Height of the active
+area of the board (mm)
+
+- *
+
+Display Resolution
+(pixels)
+
+- *
+
+Board Aspect Ratio 4 : 3 *
+
+Touch interface Touch sensitive as well
+as pen driven
+
+Touch sensitive as well
+as pen driven
+
+Touch Technology Infrared Infrared
+
+Number of touch points - *
+
+Response time (milli
+seconds)
+
+- *
+
+Operating system
+Compatability
+
+- *
+
+Input HDMI ports (Nos) - *
+
+USB 2 ports (Numbers) - *
+
+USB 3 ports (Numbers) - *
+
+Audio Input ports
+(Numbers)
+
+- *
+
+Audio output ports
+(Numbers)
+
+- *
+
+RS-232 C ports
+(Numbers)
+
+- *
+
+RJ 45 ports (Numbers) - *
+
+VGA-IN ports
+(Numbers)
+
+- *
+
+VGA OUT ports
+(Numbers)
+
+- *
+
+Short Cut Keys
+(Available on both
+sides of board)
+
+Yes *
+
+                               4 / 8
+
+
+
+ 
+
+In built Speakers NA *
+
+Speaker Output (Watt) - *
+
+Number of electronic
+pen or stylus to be
+supplied with the board
+(Numbers)
+
+- *
+
+Bluetooth connectivity NA *
+
+Wi-fi connectivity NA *
+
+Power Supply V(AC) 100-240 *
+
+Details of software
+provided
+
+- *
+
+Power consumption
+(Watt)
+
+- *
+
+Standard Accessories
+to be supplied ie Active
+Board, Cordless Pen,
+USB Cable etc
+
+Yes *
+
+Operating Temperature
+Range for Complete
+Digital Teaching Device
+(degree C)
+
+- *
+
+Operating Humidity
+(RH) for Complete
+Digital Teaching Device
+(%)
+
+- *
+
+Projector with Arm Projector with Arm Available Available
+
+Type Short Throw *
+
+TECHNOLOGY DLP *
+
+Native Resolution - *
+
+Brightness (Lumens) 3500 3500
+
+Contrast Ratio
+(Minimum)
+
+- *
+
+Zoom Feature Yes *
+
+Zoom ( in %age) - *
+
+Throw Ratio - *
+
+Aspect Ratio 16 : 9 *
+
+Keystone Correction Manual *
+
+Projection Lamp UHP UHP
+
+Minimum Life of
+projection Lamp (In
+Normal Mode)
+(Hours)
+
+15000 15000
+
+Lamp Hour Counter (In-
+Built)
+
+Yes *
+
+                               5 / 8
+
+
+
+ 
+
+Video Compatibility - *
+
+Inbuilt Speaker Yes *
+
+Speaker Output (Watt) - *
+
+HDMI/DVI Port Yes *
+
+Analog RGB In Port Yes *
+
+Analog RGB Out Port Yes *
+
+Audio In Yes *
+
+Audio Out Yes *
+
+Video In Yes *
+
+Storage Media Port
+(USB- Type A )
+
+Yes *
+
+WiFi Availabilty Yes *
+
+LAN Connectivity Yes *
+
+Power Consumption in
+Sleep Mode (Watt)
+
+- *
+
+Power Consumption in
+Normal Mode (Watt)
+
+- *
+
+Power Supply (Vac) - *
+
+Green Board Green Board Not Available Not Available
+
+If Yes, Dimension of
+Green Board (Length x
+Width) (cm x cm)
+
+- *
+
+Air Mouse with Laser
+Pointer
+
+Air Mouse with Laser
+Pointer
+
+Not Available Not Available
+
+External Frame External Frame to fix
+Active Board with
+Green Board
+
+Not Available Not Available
+
+Dimension of External
+Frame (Length x Width)
+(cm x cm)
+
+- *
+
+Warranty On site OEM
+Warranty (Year)
+
+1 1, 2, 3, 4, 5 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+                               6 / 8
+
+
+
+ 
+
+1 Dhara Janakbhai
+Patel
+
+364710,KHAS ROAD BOTAD 14  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+2.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+3.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial
+year, should be as indicated in the bid document. Documentary evidence in the form of
+certified Audited Balance Sheets of relevant periods or a certificate from the Chartered
+Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than
+3 year old, the average turnover in respect of the completed financial years after the date of
+constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of
+CATEGORY RELATED TO primary product having highest bid value should meet this criterion.
+
+4. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+5.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+6.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+7.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+8. ISO 9001: The bidder must have ISO 9001 certification.
+9.For fulfilling the experience criteria any one of the following documents may be considered
+
+as valid proof for meeting the experience criteria:
+a. Purchase Order copy along with Invoice(s) with self-certification by the bidder that
+supplies against the invoices have been executed.
+b. Execution certificate by client with order value.
+c. Any other document in support of order execution like Third Party Inspection release note,
+etc.
+
+10.The Bidder / OEM {themselves or through reseller(s)}, should have executed project for
+supply and installation / commissioning of same or similar Category Products during
+preceding 3 financial years (i.e. current year and three previous financial years) as on
+opening of bid, as per following criteria:
+ 
+(i) Single order of at least 35% of estimated bid value; or
+(ii) Two orders of at least 20% each of estimated bid value; or
+(iii) Three orders of at least 15% each of estimated bid value.
+Satisfactory Performance certificate issued by respective Buyer Organization for the above
+Orders should be uploaded with bid. In case of bunch bids, the Category related to primary
+product having highest bid value should meet this criterion
+
+                               7 / 8
+
+
+
+ 
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               8 / 8
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,328 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/705851
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 16:00:00
+
+Bid Opening Date/Time 20-07-2020 16:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 35 (Days)
+
+Ministry/State Name Ministry Of Finance
+
+Department Name Department Of Financial Services
+
+Organisation Name Indian Overseas Bank
+
+Office Name Chennai
+
+Total Quantity 3
+
+Item Category Speakerphone
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Speakerphone ( 3 pieces )
+
+Technical Specifications
+
+                               1 / 4
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+TYPE Professional
+Speakerphone
+allows to connect
+with software video
+conferencing
+system(UC System)
+
+Yes Yes
+
+Digital Signal
+Processing (DSP )
+technology
+
+Yes Yes
+
+MICROPHONE Number of
+Microphones
+
+1 1, 2, 3, 4, 5, 6 Or
+higher
+
+Type of Microphones - *
+
+Frequency Response
+(Tx) Minimum (KHz)
+
+0.15 *
+
+Frequency Response
+(Tx) Maximum (KHz)
+
+6.5 *
+
+SPEAKER Frequency Response
+(Rx) Minimum (KHz)
+
+0.25 *
+
+Frequency Response
+(Rx) Maximum (KHz)
+
+14 *
+
+Volume Adjustable Yes *
+
+CONNECTIVITY USB Connectivity Yes *
+
+Bluetooth Connectivity Yes *
+
+If Yes, Version of
+Bluetooth
+
+3.0 *
+
+If Yes, Range of
+Bluetooth
+
+30 *
+
+Auxiliary Audio Output
+Through Audio Jack
+
+Yes *
+
+Auxiliary Audio Input
+Through Audio Jack
+
+Yes *
+
+PSTN No *
+
+VOIP No *
+
+NFC No *
+
+FUNCTIONS AVAILABLE Answer Call Yes *
+
+End or Reject Call Yes *
+
+Volume up and down Yes *
+
+Mute / Unmute
+Microphone
+
+Yes *
+
+Built in Recording No *
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/BUFsPGCjTmtOSkGvNsn9Nv2a_czRYHHEGZUk5n_MbJ4
+
+
+ 
+
+POWER OPTION Power Source Battery *
+
+If Battery Operated,
+Battery Capacity (mAH)
+
+3000 *
+
+Battery Backup Time 200 *
+
+Battery Status Indicator Yes *
+
+MISCELLANEOUS Dimensions (mmx mm
+x mm)
+
+- *
+
+Total; Weight 290 *
+
+Standard Accessories
+to be Supplied
+
+- *
+
+Minimum Operating
+Temperature
+
+-10 *
+
+Maximum Operating
+Temperature
+
+55 *
+
+Minimum Storage
+Temperature
+
+-10 *
+
+Maximum Storage
+Temperature
+
+70 *
+
+Minimum Operating
+Humidity (RH) (%)
+
+30 *
+
+Maximum Operating
+Humidity (RH)(%)
+
+70 *
+
+Certifications Available UL,CE,FCC,RoHS *
+
+On Site OEM
+Warranty (Year)
+
+2 2, 3 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Gorrela Siva Teja
+Prudvinath
+
+600002,763 Anna Salai,
+Mount Road
+
+3  15
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+
+                               3 / 4
+
+
+
+ 
+
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+3.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+4.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

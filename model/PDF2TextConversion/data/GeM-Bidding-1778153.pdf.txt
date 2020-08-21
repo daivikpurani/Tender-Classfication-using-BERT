@@ -1,0 +1,373 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/702782
+
+  Dated: 08-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 18-07-2020 16:00:00
+
+Bid Opening Date/Time 18-07-2020 16:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Pmo
+
+Department Name Department Of Atomic Energy
+
+Organisation Name Indian Rare Earths Limited
+
+Office Name Ho
+
+Total Quantity 2
+
+Item Category power generators and portable generator
+
+Experience Criteria  2 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  50 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+Estimated Bid Value  198000
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 5
+
+
+
+ 
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 50% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Power Generators And Portable Generator ( 2 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+RATED OUTPUT /
+STARTING & RUNNING
+
+Portable Generator
+type
+
+Petrol start, Petrol run Petrol start, Petrol run
+
+Rated Output at
+unity power factor at
+STP (VA)
+
+3300 3300
+
+Starting Type Electric Self start Electric Self start
+
+Rated output
+Voltage
+
+230 V AC 230 V AC
+
+WARRANTY Warranty (year) 1 1, 2, 3 Or higher
+
+PERFORMANCE Efficiency of the
+alternator (%)
+
+77 *
+
+Noise Level of Portable
+Generator (dB(A))
+
+71 *
+
+GENERIC Make and model of
+engine
+
+- *
+
+Make and model of
+alternator
+
+- *
+
+Provision of Voltmeter
+and ammeter in the
+output circuits
+
+yes *
+
+Dimension of Genset in
+(LxWxH)
+(mmxmmxmm)
+
+- *
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/iny1gP4w74WFZ7SVQNrcWajk39KVwL0WcMKdZ09HhK4
+
+
+ 
+
+Dry weight (Kg) - *
+
+Period for which the
+Generator is capable of
+delivering declared
+output
+
+6 *
+
+Fuel Tank capacity - *
+
+BATTERY Battery Ah capacity in
+case of Electric start
+Generator (Ah)
+
+- *
+
+CERTIFICATION /
+STATUTORY
+REQUIREMENTS
+
+Type approval Portable
+Generating Set
+meeting the
+requirements of
+Environmental
+(Protection) Rules
+1986, in respect of
+noise and emission
+norms, as described in
+STC of the Product
+
+yes *
+
+Type approval number
+and date
+
+- *
+
+Availability of Test
+Report from Central
+government/NABL/ILAC
+accredited laboratory
+to prove conformity to
+the specification for the
+Portable Generator Set
+
+Yes *
+
+Test Report number
+and date
+
+- *
+
+Name and address of
+laboratory
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Chittaranjan
+Mohanty
+
+683501,INDIAN RARE
+EARTHS LIMITED;
+UDYOGMANDAL
+
+2  30
+
+Special terms and conditions for category power generators and portable generator 
+
+                               3 / 5
+
+
+
+ 
+
+1. In addition to General Terms and Conditions of the GeM following Special T&C shall be
+applicable for Portable Generator / Generating Set:
+
+1.Portable AC Generating Set shall comprise of air cooled / liquid cooled 4 stroke single
+cylinder engine and alternator.
+
+2.The Portable Generating Set shall comply temp. rise limits given in IS:4722 /
+IS:13364 with latest amendments.
+
+3.The Portable Generating Set shall be fitted with fuel tank of a capacity to give
+continuous operation for minimum 5 hours at rated full load and fuel should not spill
+out of the lid of the tank due to the vibration.
+
+4.The Portable Generating Set should have low lubricating oil alert system.
+5.Electric start Generating Sets, where applicable, shall have maintenance free battery
+
+and battery Charger with suitable starter. Battery ratings and motor starters shall be
+compatible with the respective engines of Electric start Generating Sets.
+
+6.Conformity of Production (COP) and Type Approval Certificate (TAC) declaring make
+and model of engine/Portable Generator Sets, shall be provided to the user on
+demand.
+
+7.Portable Generator Sets of type petrol / kerosen run shall meet the requirements of
+Environmental Protection Rules 1986 vide notification No. GSR 742 (E) dt.
+17.05.2002 and Sl. No. 91 dt. 25.09.2000 and all amendments up to date and
+amendment vide GSR No. 628 (E) dt. 30.08.2001 in respect of noise level norms and
+provision of Environment protection Rule 1999 for emission standard for Generator
+set as per Rule 88 (B) effective from 01.06.2001 vide notification No. GSR 682 (E) dt.
+05.10.1999 and GSR 535 (E) dt. 07.08.2013 along with all amendments up to date
+issued by Min. of Environment & Forest, Govt. of India. CPCB Certificate also be
+provided to the user on demand.
+
+8.Portable Gen. Sets run by diesel shall meet the requirement of Environmental
+Protection Rule 1986 as laid down by Min. of Environment & Forest read with GSR
+371 ( E)dated 17.05.2002 , GSR 520 (E) dated 01.07.2003 , No.448 (E)dated
+12.07.2004 , GSR 771 (E) dated 11.12.2013 & GSR 232 (E) Dated 31.03.2014 along
+with all amendments upto date in respect of noise and emission norms. Portable
+Generator Set shall also meet all other statutory requirements as notified by
+Govt.time to time. CPCB Certificate also be provided to the user on demand.
+
+Bid Specific Additional Terms and Conditions
+
+1.Procurement under this bid is reserved for purchase from Micro and Small Enterprises from
+the State of Bid Inviting Authority whose credentials are validated online through Udyog
+Aadhaar for that product category. If the bidder wants to avail the reservation benefit, the
+bidder must be the manufacturer of the offered product in case of bid for supply of goods.
+Traders are excluded from the purview of Public Procurement Policy for Micro and Small
+Enterprises. In respect of bid for Services, the bidder must be the Service provider of the
+offered Service. Relevant documentary evidence in this regard shall be uploaded along with
+the bid in respect of the offered product or service.
+
+2.Procurement under this bid is reserved for purchase from Micro and Small Enterprises whose
+credentials are validated online through Udyog Aadhaar for that product category. If the
+bidder wants to avail the reservation benefit, the bidder must be the manufacturer of the
+offered product in case of bid for supply of goods. Traders are excluded from the purview of
+Public Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the
+bidder must be the Service provider of the offered Service. Relevant documentary evidence
+in this regard shall be uploaded along with the bid in respect of the offered product or
+service.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+                               4 / 5
+
+https://gem.gov.in/termsCondition
+
+
+ 
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+http://www.tcpdf.org
+

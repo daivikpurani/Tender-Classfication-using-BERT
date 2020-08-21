@@ -1,0 +1,5084 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+60275                                                                                                                                                                                   Page 1 of 71 
+
+ 
+
+TENDER No.:  GUVNL / TECH / 60275 
+ 
+
+I/C CE (Technical), GUVNL invites “On line Tenders” (e-tendering) for Wide Area Network 
+Hardware Equipment AMC, Warranty, Network Operating Center-NOC monitoring and 
+control and Networking Engineers Manpower Services For NOC, Various locations of 
+GUVNL and its subsidiary companies on https://www.guvnl.nprocure.com (For view, 
+down load and on line submission) and GUVNL web site www.gseb.com (For View & 
+down load only). “All the relevant documents of tender to be submitted physically will be 
+received only by Registered Post A.D. or Speed Post addressed to I/C Chief Engineer 
+(Technical), Gujarat Urja Vikas Nigam Limited, Corporate Office, S.P. Vidyut Bhavan, 
+Race Course, Vadodara - 390 007. The bidder has to offer the price bid through on line 
+only.  “NO COURIER SERVICE OR HAND DELIVERY will be allowed.” 
+
+ 
+
+Sr. 
+No. 
+
+Description 
+
+1 Tender No.: GUVNL / TECH /60275/ 
+
+2 Work of Wide Area Network Hardware 
+
+Equipment AMC, Warranty, Network 
+
+Operating Center-NOC monitoring and 
+
+control and Networking Engineers 
+
+Manpower Services For NOC, Various 
+
+locations of GUVNL and its subsidiary 
+
+companies 
+
+3 Tender Fee (non refundable) Rs. 7500/- +18% GST (i.e. Rs 8850/-) 
+
+4 
+Earnest Money Deposit amount 
+(Refundable) 
+
+Rs 1,20,000/- 
+
+5 
+
+On line (E-tendering) price bid 
+offer submission last date up to 
+14.00 hours only. (This is 
+mandatory) 
+
+05.07.19 
+
+6 
+
+Physical submission of all the 
+relevant documents, last date up 
+to 14.00 hours. By RPAD or 
+SPEED POST only. (This is 
+Mandatory) 
+
+08.07.19 
+
+7 
+Date of opening of Tender fee, 
+EMD cover and technical bid at 
+15.00 Hours 
+
+08.07.19 
+
+8 
+Tentative Date of on – line 
+opening of Price bid, (if possible) 
+
+Shall be intimated separately to 
+technically qualified bidders 
+
+9 Prices Firm  
+ 
+
+IMPORTANT: 
+
+1. All the relevant documents as per requirement of the Tender to be submitted 
+physically along with the Tender Fee, EMD in sealed cover on or before due date 
+and time. All such documents should be strictly submitted by RPAD / speed post 
+only. Otherwise the offer will not be considered and no any further communication in 
+the matter will be entertained. The tender in physical form is to be submitted in 
+
+https://www.guvnl.nprocure.com/
+http://www.gseb.com/
+
+
+ 
+
+60275                                                                                                                                                                                   Page 2 of 71 
+
+ 
+
+single copy (the price bid is not to be submitted with the physical 
+documents).  
+
+2. If any deviation is/are found in data/documents/details or submission made in 
+physical and in on line mode, the same shall be liable for rejection at the discretion 
+on data/documents/details of the online offer. Whatever item quoted is considered 
+for technical evaluation. The quantity offered in price bid shall stand final in case of 
+any discrepancy.  
+
+3. It is mandatory to submit the tender document by both forms Viz. online as well as 
+physically before due date. If the tender document submitted in any one form, then 
+the same tender will not be considered.   
+
+ 
+
+Bidders are requested to remain in touch with the web-site for any amendment / 
+corrigendum or extension of due date etc. 
+ 
+
+Any technical questions, information and clarifications that may be required pertaining 
+to this enquiry should be referred to: The I/C CHIEF ENGINEER (TECHNICAL), 
+Gujarat Urja Vikas Nigam Limited, Corporate Office, S. P. Vidyut Bhavan, Race 
+Course, Vadodara - 390 007. 
+
+GUVNL reserves the right to reject any OR all tenders without assigning any reasons 
+thereof.  
+
+ 
+
+Yours faithfully, 
+
+ 
+
+(R.B.Patel) 
+
+I/C Chief Engineer (Technical) 
+
+NOTE: 
+In case bidder needs any clarification or if training required for participating in online tender, they can 
+contact the following office: 
+
+(n) Procure Cell 
+
+(n) Code solutions-A division of GNFC Ltd., 
+
+403, GNFC Info tower, S.G. Road, Bodakdev  
+
+Ahmedabad – 380054 (Gujarat) 
+
+Toll Free: 1-800-233-1010 (Ext. 501, 512, 516, 517, 525) 
+
+Phone No. 079-26857315 / 316 / 317 
+
+Fax: 079-26857321 / 40007533 
+
+Email: nproucre@gnfc.net 
+
+Other terms & conditions are as per tender documents 
+
+ 
+
+mailto:nproucre@gnfc.net
+
+
+ 
+
+60275                                                                                                                                                                                   Page 3 of 71 
+
+ 
+
+Technical Terms and Conditions: 
+ 
+ 
+
+1. Overview 
+ 
+ 
+
+Gujarat is the first state in the power sector of the country having implemented the 
+
+end- to-end  Enterprise  wide  Resource  Planning  (ERP)  named  e-Urja  
+
+Project  for  its  core activities to meet  changing business imperatives and to 
+
+make the new entities more responsive and pro-active which emerged out after 
+
+unbundling of erstwhile „GEB‟. With this objective, Gujarat Urja Vikas Nigam 
+
+Limited (GUVNL) and all its subsidiaries went for IT  enablement  in  the  year  
+
+2006  in  the  generation  of  power,  Transmission  and  its distribution spanning 
+
+from customer relationship management to satisfy the needs of its 
+
+1.3 Crores  consumers  to  complex  module  of  power  purchase,  load  
+
+management, finance,  consumer  billing  and  HR  of  its  more than 50,000  
+
+employees. GUVNL has deployed Wide Area Network (WAN), it covers 1500 
+
+widely dispersed offices networked with numerous heterogeneous communication 
+
+links from western border of India (Rann of Kutch) to southern part of Gujarat to 
+
+connect them with GUVNL Data Center located at Vadodara.   
+
+  
+
+The subsidiary companies of GUVNL are as 
+
+follows. 
+
+ 
+
+Gujarat State Electricity company Limited (GSECL) H.Q. at Vadodara. 
+
+(Generation) Gujarat Energy Transmission Company Limited (GETCO) H.Q. at 
+
+Vadodara. (Transmission) 
+
+Dakshin Gujarat Vij Company Limited (DGVCL) H.Q. at Surat. (Distribution) 
+
+Madhya Gujarat Vij Company Limited (MGVCL) H.Q. at Vadodara. 
+
+(Distribution)  
+
+Paschim Gujarat Vij Company Limited (PGVCL) H.Q. at Rajkot. (Distribution) 
+
+Uttar Gujarat Vij Company Limited (UGVCL) H.Q. at Mehsana. (Distribution) 
+ 
+
+2. Objective 
+ 
+
+GUVNL currently has a wide area network consisting of point to point lease circuits.  Each 
+
+network location is connected with one or more lease link circuits.   GUVNL has Secure, 
+
+Robust, Scalable, State-of-the-art Wide Area Network connecting its various field 
+
+offices with its Primary Data Centre (PDC) located at Vadodara, Gujarat. GUVNL 
+
+has a four tier network where the access points, i.e., Subdivision/Substation 
+
+locations are connected to Aggregating points, i.e. Division locations offices, again 
+
+Division locations are connected to Aggregating points, i.e. Circle/PowerStation 
+
+locations offices, again Circle offices locations are connected to Aggregating 
+
+points, i.e. corporate office locations, which are linked to Data Centre. As on date, 
+
+all offices are networked using Leased Lines on Optic Fiber Cable/ Copper/ Radio 
+
+Frequency using MLLN/Non-MLLN. GUVNL may upgrade/refresh the Network at 
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 4 of 71 
+
+ 
+
+Subdivision/Division locations, Aggregation Points and at Data Center using VPN, 
+
+MPLS or any other future technologies to meet the GUVNL‟s future business 
+
+requirements. 
+
+The Network Operation Centre (NOC) is located at GUVNL-Vadodara, connected 
+
+with PDC   through multiple point to point Lease Links.  These Wide Area Network 
+
+Hardware Equipment AMC, Warranty, NOC & Networking Engineers Manpower 
+
+Services  are required for e-Urja Project at various offices of GUVNL and its 
+
+subsidiaries companies by making it fully and seamlessly operational for the 
+
+intended use as desired by GUVNL. Purpose of this RFP is to solicit proposals 
+
+from qualified Bidders. 
+
+ 
+This document is a Request for Proposal (“RFP”) for managing various Network 
+
+Services. GUVNL seeks a prime contractor with best-in-class capabilities and in 
+
+managing network services. The Selected bidder will provide the resources and 
+
+expertise necessary to deliver and integrate a broad scope of manage Network 
+
+Services of the highest quality for complex environments. GUVNL seeks to 
+
+acquire the services of a single provider providing all the offered services at this 
+
+RFP, who will act as the prime contractor responsible for the delivery of high-
+
+quality Network Services to GUVNL with an option to renew for additional period.   
+
+ 
+
+         GUVNL WAN Layout 
+
+ 
+GUVNL the holding company location and three subsidiary company‟s 
+
+corporate offices, that is GSECL, GETCO and MGVCL are presently located 
+
+nearby the Data Center building, these offices are connected through 
+
+GUVNL LAN with Data Center. However their downstream locations are 
+
+connected to DC thru respective hierarchical locations. 
+
+ 
+
+Informative company wise network sample hierarchy diagram with its 
+
+immediate upstream location are kept at Annexure-Y.  
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 5 of 71 
+
+ 
+
+3. Eligibility Criteria (Pre-Qualification) 
+ 
+
+No. Eligibility Criteria Documentary Proofs Required 
+
+1 The bidder company shall have to provide 
+undertaking to support   all the items during 
+contract period which are proposed as part of 
+this RFP. 
+
+Bidder has to submit self-
+declaration on its letter with 
+authorized signatory which 
+includes the activities like 
+Technical Assistance support, 
+Spares support etc for all the WAN 
+equipments which are proposed 
+as part of this RFP listed at 
+Annexure-X.  
+
+2 The bidder company shall have a valid GST   
+Registration   Number,   PF Code and PAN. 
+
+Attested copies of the GST 
+registration certificate, PF code 
+and PAN card in the name of 
+bidder company. 
+
+3 The bidder company shall have been in 
+operation for at least 05 years as of 31-12-2018 
+
+Certificate of Commencement of 
+Business issued by the Registrar 
+of Companies in the name of 
+bidder company. 
+
+4 The bidder company shall have annual turnover 
+of Rs. 5 crore or more per annum in each of the 
+last 3 financial years. (i.e. 2015-16, 2016-17, 
+2017-18)  
+
+Audited financial  statements of 
+the company / annual reports for 
+the respective financial years. The   
+financial statements must distinctly   
+describe the revenue heads. 
+
+5 The company must have 05 (five) Years 
+Experience in Wide Area Network Hardware 
+Equipment AMC, Warranty, NOC & Networking 
+Engineers Manpower Services. The company 
+shall have supplied similar Wide Area Network 
+Hardware Equipment AMC, Warranty, NOC & 
+Networking Engineers Manpower Services in 
+India at least for one Government of Gujarat, 
+Government of India or PSUs. 
+
+Copy of Work Order showing the 
+activities carried out and order 
+value during last 5 years. List of 
+Government of Gujarat, 
+Government of India or PSUs 
+Clients along with a copy of 
+satisfactory work completion 
+certificate. 
+
+6 The bidder company should not have been 
+black listed or given “stop deal” notice by any of 
+the Govt. of Gujarat agencies / Government of 
+Gujarat/Government of India/ PSUs. 
+
+Details, if any, in context of this 
+clause shall be provided. 
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 6 of 71 
+
+ 
+
+7 Bidder must submit a detailed statement of facts 
+and profile of company including year of 
+commencement of business, Internet site 
+details, name and title of the Authorized 
+signatory for their Bid, their contact numbers 
+and e-mail address 
+
+To be provided on company letter 
+head and a copy of Power of 
+Attorney in favor of Authorized 
+Signatory. 
+
+8 Bidder must submit the satisfactory work 
+completion/ satisfactory performance report of 
+at least one or more projects of similar type of 
+this RFP and have experience in setting up 
+and operating minimum 500 WAN locations in 
+each project in India for minimum three 
+consecutive years. 
+
+Certificate from order placing 
+company for satisfactory work 
+completion/ satisfactory 
+performance report of at least one 
+or more projects of similar type of 
+this RFP and size of the project. 
+
+9. The bidder company must submit undertaking to   
+provide technical support including spares, 
+patches, software version/upgrade etc for at 
+least next one year from the date of bid 
+submission for all the WAN equipments listed at 
+Annexure-X.   
+
+To be provided on company letter 
+head. 
+
+10. The Bidder should have their own Support 
+Center for providing 24x7x365 Telephonic and 
+onsite support, preferably in Gujarat. The 
+Bidder has to provide details of remote service 
+infrastructure of Bidder to ensure immediate 
+response and faster call resolution. The Bidder 
+should not sub-contract its services. The 
+Bidder should submit the Support Center 
+Details.  
+
+The Bidder should submit the 
+Support Center Details. 
+
+ 
+
+These eligibility criteria are neither exhaustive nor   in   any   particular   order   of 
+
+significance. Any bid not meeting all of these minimum eligibility criteria is liable 
+
+to be rejected by GUVNL. 
+
+ 
+
+Please enclose documentary proof for all the above criteria. In absence of these, 
+
+the bids will not be considered for further evaluation. No further correspondence will 
+
+be entertained in this case. 
+ 
+
+All eligible and interested bidders shall have to download the RFP document 
+
+from GUVNL website www.guvnl.com (RFP does not bear document cost). 
+
+ 
+
+4. Bidding Process 
+ 
+
+Bidders shall submit their Bids in two separate 
+parts as follows: 
+
+ 
+
+1. Technical Bid containing the exhaustive and comprehensive 
+
+Technical details of Wide Area Network Hardware Equipment AMC, 
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 7 of 71 
+
+ 
+
+Warranty, NOC & Networking Engineers Manpower Services. 
+
+ 
+
+2. Commercial Bid containing the  pricing  information  only  on  
+
+“nprocure”  site www.nprocure.com (No physical commercial bid 
+
+to be submitted) 
+ 
+ 
+
+The Technical Bids should NOT contain any pricing or 
+commercial information. 
+
+ 
+
+Proposal Evaluation 
+ 
+
+Initially technical bids will be opened and evaluated. Those bidders 
+
+who satisfy the technical requirements of the solution and successful 
+
+acceptance of Wide Area Network Hardware Equipment AMC, Warranty, 
+
+NOC & Networking Engineers Manpower Services as per the 
+
+requirements/specifications in Schedule – A and the terms and 
+
+conditions of this document shall be short-listed. In case of GUVNL not 
+
+being satisfied with the eligibility criteria documents, bidder may be 
+
+disqualified. Commercial bids as per Schedule – B shall be opened 
+
+only for the short-listed bidders who have qualified in the technical bid. 
+
+ 
+
+Price Evaluation 
+
+All technically qualified bids will be evaluated on firm price end cost 
+
+basis, If  GUVNL feels that there is lack of serious competition or any 
+
+other reasons, GUVNL may negotiate with the L-1 party. GUVNL‟s 
+
+decision shall be final and binding on all the partie. 
+
+ 
+
+5.  Scope of Work: 
+5.1 WAN Hardware Equipment Warranty: 
+
+The scope of work is comprehensive warranty of hardware which includes make 
+
+available existing and future software IOS versions, upgrades and patches for all 
+
+components of the equipments and installs the same, also replacement, repair 
+
+and logistic etc covering following equipments. 
+
+List of WAN hardware equipment  
+
+Item Description Quantity 
+CISCO 7206  Router 2 
+
+CISCO 3825  Router  34 
+
+CISCO 2821 Router 152 
+
+CISCO 1841 Router 504 
+
+Hwic-1T Card 51 
+
+Wic-4T Card 288 
+
+http://www.nprocure.com/
+
+
+ 
+
+60275                                                                                                                                                                                   Page 8 of 71 
+
+ 
+
+Wic-1T Card 558 
+
+G.703 2W Modem 498 
+
+V.35 2W Modem 434 
+
+RAD Interface  Convertor 840 
+
+CISCO L2 2960G Switch 3 
+
+CISCO L2 2960 Switch 3 
+
+NM 4T Card  4 
+
+CAB-SS-V35MT Smart Cable 572 
+
+V.35 DTE Smart Serial Cable 930 
+
+WIC-2T-2 Port WAN Inter  Module 49 
+
+Easy Config 25 
+
+42U Rack with selves & Items 45 
+
+12U Rack with selves & Items 481 
+
+CISCO 1941    Router 51 
+
+CISCO 3925   Router 2 
+
+CISCO SG- 300 Switch 9 
+
+CISCO 3750 Switch 1 
+
+ 
+
+5.2 WAN Infrastructure AMC 
+
+The scope of work is AMC services for WAN hardware and maintenances of data 
+
+link, bidder required to perform activities like: 
+
+ 
+
+1. Liaison with service provider for media link down time. 
+
+2. Token generation of complaint, follow up with service provider till complain 
+
+resolve. 
+
+3. Service provider Local Line problems, Fiber MUX CPE Issues. 
+
+4. Service provider Hardware Problem, Lease Line Down/ Fluctuation. 
+
+5. Loss in Line, service provider Media Problem, OFC Cut. 
+
+6. Line Shifting/ Cancellation, Power Failure/ Shutdown etc. 
+
+7. For such kind of regular WAN link maintenance services, liaisoning with 
+
+service provider and logistic services to OEM are under scope of bidder‟s 
+
+AMC services. 
+
+ 
+
+5.3 Broad Scope of Work 
+
+1. The Bidder is required to install, configure, operational and augment 
+
+Networking Equipments at GUVNL locations and at Network Aggregation 
+
+Point locations. The Networking equipment includes Routers, Modems, 
+
+Convertors, Cards, required accessories etc. Refer to “Annexure-X” for 
+
+specifications of these Network Equipments mentioned in this RFP are 
+
+deployed at GUVNL‟s locations spread across GUJARAT. The successful 
+
+bidder is also required to manage and maintain the existing network 
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 9 of 71 
+
+ 
+
+equipment for the contractual period. 
+
+2. The successful Bidder is required to co-ordinate with GUVNL‟s existing 
+
+Network Integrator, System Integrator, Security Integrator and GUVNL‟s 
+
+team at the respective locations for the allocation of suitable IP addressing 
+
+Schema, Configuration, operationalization and end to end connectivity i.e. 
+
+till Data Center network and WAN Optimization equipments. The Bidder 
+
+has to use the existing/new IP Schema. Bidder shall meet the defined SLAs 
+
+for uptime of the networking and WAN Optimization equipments and should 
+
+ensure low turnaround time in the event of equipment failure. 
+
+3. If required The GUVNL may add/procure additional networking equipments 
+
+apart from the above mentioned WAN equipments as per GUVNL‟s plan to 
+
+connect additional locations.  The successful bidder has to provide all the 
+
+services defined in this RFP for such additional networking equipments at 
+
+mutually agreed rates with GUVNL. 
+
+4. As the customer centric applications are running on the network, the Bidder 
+
+shall be responsible for ensuring the highest uptime of the equipments and 
+
+there should not be any impact on the performance of any of the 
+
+applications. 
+
+5. GUVNL may conduct acceptance testing process (ATP) on the network 
+
+equipments to ascertain the complete installation i.e. end to end testing 
+
+from field location/Aggregation points to Data Centre. 
+
+6. The Bidder is required to manage to deliver Networking Equipments at the 
+
+GUVNL‟s respective locations where the WAN hardware is required.   
+
+7. The Bidder shall be responsible for timely compliance of all Device Level 
+
+Audit observations as and when required by GUVNL.   
+
+8. The Bidder shall provide all present and future software IOS versions, 
+
+upgrades and patches for all components of the equipments and install the 
+
+same. 
+
+9. The Bidder shall be responsible for doing preventive maintenance of entire 
+
+Network and WAN equipments at all sites on monthly basis except at Sub 
+
+Division/ Substation locations on quarterly basis. Through preventive 
+
+maintenance the bidder shall ensure whether equipments are kept/ working 
+
+in hygienic conditions or not, checking the availability of earthing, UPS 
+
+power supply etc and submit the PM report to GUVNL and copy to 
+
+respective locations. 
+
+10. The Bidder shall ensure that the configuration of the equipments is as per 
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 10 of 71 
+
+ 
+
+Business requirement of the GUVNL. Scope also includes 
+
+mounting/dismounting Network racks, connect associated cable, 
+
+accessories required to render the equipment and systems complete in all 
+
+respect. 
+
+11. The Bidder has to make his own arrangements to fulfill all delivery 
+
+formalities like payment of Road/Entry tax etc. and should not involve 
+
+GUVNL in these activities. 
+
+ 
+
+5.4 Network Facility Management: 
+
+Successful Bidder has to  setup a NOC (Network Operating Centre) centrally 
+
+managed at the GUVNL premises under the control of GUVNL within two weeks 
+
+time from date of order. This NOC shall monitor all the leased line centrally, IP 
+
+Address Details of Each Data Communication Equipments,  Data Backups  of ALL 
+
+Routers IOS and Running Configurations,  Distribution of Spares according to the 
+
+density of Geographical WAN Hardware installations. 
+
+For this facility management services of NOC- Network Operating Centre, GUVNL 
+
+will provide suitable room space that could house anywhere between 6 to 8 
+
+computers with tables, chairs, uninterrupted power supply, communication 
+
+facilities like email and phone etc. Bidder shall appoint qualified and experienced 
+
+engineers to run this NOC so as to offer centrally managed Services. 
+
+Bidder has to deploy licensed software tools for Network Inventory Management, 
+
+Network Monitoring System, Link Management, Complaint Management, Help 
+
+Desk Tool, Performance Monitor Tool, Diagnostic tool, Network Trend Analysis 
+
+tool, Network Diagram and OEM Sr.No. Management etc at NOC, GUVNL. 
+
+Provisioning of Servers Hardware, OS, Application/Software installation, 
+
+configurations, maintenances, Licenses, Versions, Patches, Upgrades, UPS, 
+
+Battery backups etc are under bidder‟s scope, without any extra cost to GUVNL. 
+
+Bidder has maintain/migrate existing and historical logs, information, data etc of 
+
+present NOC setups till successful deployment of NOC setups by successful 
+
+bidder.  
+
+Successful bidder has to carry out WAN equipment inventory handing over taking 
+
+over processes with GUVNL existing contractor. Also carry out activities with 
+
+GUVNL existing contractor for knowledge transfer for entire WAN infrastructure. 
+
+5.5 RMA: (Return Material Authorization) RMA process will be done by 
+bidder. Bidder would be required to submit undertaking that the technical support 
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 11 of 71 
+
+ 
+
+and spares will be available during the contract period. Bidder shall carry out the 
+
+RMA as its responsibility which shall include; 
+
+1. Lock the RMA online on the vendor‟s website 
+
+2. Receive the hardware on behalf of GUVNL. 
+
+3. Deliver the hardware at the destination. 
+
+4. Replace the received hardware in place of the faulty hardware. 
+
+5. Dispatch the faulty hardware to the equipment manufacture. 
+
+5.6 Network Engineer at Field Location Bidder shall make its engineers 
+
+available at all the DISCOMs/GETCO Circle locations during the working hours of 
+
+GUVNL. If circle locations increase bidder has to deploy engineers without any 
+
+extra cost. GUVNL and its subsidiary company will provide suitable room space 
+
+that could house computer with table, chair, uninterrupted power supply, 
+
+communication facilities like email and phone etc at each circle office locations. 
+
+The responsibility of bidder pertains to the Maintenance of the Lease lines and 
+
+data communications equipments like Routers, Modems, Converters, cards and 
+
+Network racks. For any new upcoming circuits bidder has to manage the same 
+
+support as of existing circuits without any extra cost to GUVNL. 
+
+GUVNL will permit complete access to the equipment/system if necessary even 
+
+after working hours and on   holidays to enable bidder‟s engineer to meet the 
+
+obligation. 
+
+The rates include comprehensive warranty of hardware which includes 
+
+replacement, repair and logistic charges. 
+
+5.7 WAN Support  
+
+The Bidder shall interface with Network Operations to provide the following WAN 
+
+support services. In performance of these services, the Bidder shall:  
+
+ 
+
+1. Facilitate the installation, troubleshooting and repair of communication 
+
+lines, data circuits and wireless systems Configure, maintain and 
+
+troubleshoot WAN protocols and other related network protocols. 
+
+2. Identify existing potential network problems and report outages with 
+
+corrective actions  
+
+3. Coordinate with remote sites and IT departments to recover and restore 
+
+WAN connectivity in case of an outage.  
+
+4. Perform diagnostic testing among WAN components to verify performance 
+
+and connectivity. 
+
+5. Install, configure and maintain routers per established policies and 
+
+procedures as required or directed.  
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 12 of 71 
+
+ 
+
+6. Facilitate the installation, troubleshooting and repair of communication 
+
+lines, data circuits and associated equipment.  
+
+7. Coordinate with remote field office personnel to recover and restore WAN 
+
+connectivity in case of an outage Open trouble tickets and/or coordinate 
+
+communication with Service Providers as required.  
+
+ 
+
+ 
+
+5.8 NOC Support  
+
+The bidder‟s roles and responsibilities will include but not be limited to:  
+
+ 
+
+1. Mitigation and resolution of detected issues  
+
+2. Diagnose problems before and after occurrence  
+
+3. Troubleshooting and maintenance of network systems  
+
+4. Network system support (install, test, maintain, monitor and tune)  
+
+5. Respond to Tickets forwarded from other responsibility areas  
+
+6. Tracking “chronic” or recurring problems and escalate within the IT 
+
+department  
+
+7. Network Performance Monitoring in a Control Central Environment  
+
+8. Network Performance Analysis (trend, analysis, performance monitoring 
+
+and capacity planning)  
+
+9. Network Configuration Control and Management  
+
+10. Network Management (Utilization and Capacity)  
+
+11. Network Utilization and Availability Report  
+
+12. Management and Administration of Network Monitoring Tools  
+
+13. Accurately document IP Configurations  
+
+14. Installation of network hardware and associated cabling  
+
+15. Provide quality assurance on all network installed equipment  
+
+  
+
+5.9 Network Problem Identification, Troubleshooting and Maintenance  
+
+The Bidder shall continuously monitor the trouble ticketing system for new or 
+
+escalated tickets and update at a minimum every hour when appropriate. All 
+
+information entered into the ticket shall be clear, concise and accurate. Upon 
+
+receipt of the trouble ticket, the Bidder shall initiate immediate action to clearly 
+
+define the problem and effect immediate resolution, or document the problem in 
+
+the trouble ticketing system to effectively track it to satisfactory resolution, or 
+
+redistribute it to the appropriate group responsible for action towards satisfactory 
+
+resolution.  
+
+ 
+
+The Bidder shall document each step in the troubleshooting process as it occurs 
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 13 of 71 
+
+ 
+
+and update the trouble ticket. Due to the complex nature of networks, it is possible 
+
+for the source of network problems to reside in one or more devices concurrently. 
+
+As such, the Bidder shall perform troubleshooting techniques to isolate the source 
+
+of, diagnose and resolve or assist in the resolution of network problems.  
+
+ 
+
+The Bidder shall use diagnostic tools or tools that are appropriate for use in 
+
+diagnosing problems.  
+
+The Bidder shall, when required, participate and/or lead in conference calls during 
+
+mitigation actions or network anomalies.  
+
+ 
+
+The Bidder when directed shall provide the Network Operations Team with after 
+
+action reports regarding troubleshooting efforts and/or resolution actions taken 
+
+during and/or after network event troubleshooting.  
+
+ 
+5.10 Network Trend Analysis 
+
+The Bidder shall perform network trend analysis to compile daily and/or longer-
+
+term reports for various network traffic areas of interest. These reports shall 
+
+supply both generalized and specific information about targeted areas and shall 
+
+provide useful snapshots of information. These reports shall include but are not 
+
+limited to daily and weekly reports covering various error conditions, workload   
+
+and memory and network utilization. Customized trend analysis shall be provided 
+
+based on current monitoring capabilities on an as-needed basis.  
+
+ 
+
+5.11 Incident Support 
+
+This should cover the day-to-day handling of the basic problems arising in the 
+
+WAN environment in the GUVNL, affecting the operations. The deliverable should 
+
+provide the following: 
+
+ 
+
+1. Single point of Contact point for all incidents / problems reported for the WAN. 
+ 
+
+2. Bidder should log call in their own helpdesk tool installed at NOC and field 
+engineer nodes for all the incidents related to WAN. If it is found that problem is 
+related with equipments then it has to be categorizing according to type of 
+incidents and has to log incidents to track the progress of the call. In the event 
+a device has had more than three service calls for the same fault in any month 
+period then Bidder should evaluate the performance of the device and should 
+get it fully rectified at no additional cost to GUVNL. 
+
+ 
+3. Bidder should do tracking and Co-ordination of all incidents/problems till 
+
+resolution as per SLA and should update GUVNL‟s Network Team at specific 
+intervals. 
+
+ 
+4. Bidder should conduct the first level diagnosis of the problem reported and take 
+
+appropriate actions to address quick restoration of the services. 
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 14 of 71 
+
+ 
+
+ 
+5. Bidder should co-ordinate with Service Provider in case of problems arising due 
+
+to hardware failures or otherwise in the WAN environment, in which case the 
+involvement of the Service Provider is required. Bidder should escalate 
+incidents within the process and/ or to management or to the relevant Service 
+Provider for quick resolution as per escalation matrix of relevant 
+Communication media Service Provider and ensure the resolution of an 
+incident or a problem. 
+
+ 
+6. Bidder should provide required support for shifting of network devices during 
+
+addition/ relocation/ cancellation of any GUVNL locations as a part of network 
+management service. 
+
+ 
+7. Bidder should maintain the network device inventory of all GUVNL‟s location 
+
+and should update the same as and when required and submit the same to 
+GUVNL. 
+
+ 
+8. Bidder should perform continuous process improvement for better link 
+
+availability. 
+ 
+
+9. Bidder should submit progress report to GUVNL on the incidents / problems 
+reported and the actions taken to address the same and the same needs to be 
+jointly reviewed by Service Provider and GUVNL 
+
+ 
+10. Trends on the incidents / problems and should bring in notice of GUVNL based 
+
+on the historical data samples. 
+ 
+
+11. Bidder should verify and control known errors, fault correlation and isolation. 
+ 
+
+12. Bidder should prepare Root Cause Analysis for all major issues, defined as 
+usual faults leading to downtimes in a link within a continuous period of 3 days, 
+or above. 
+
+ 
+13. Bidder should perform any maintenance or installation activity of network 
+
+equipments as and when requested by GUVNL as part of network 
+management. 
+
+ 
+14. Bidder should document any change in the WAN network and should get the 
+
+signature of authorized person from GUVNL and produce same as and when 
+demanded. 
+
+ 
+15. Bidder should do proactive & predictive maintenance and identify areas of 
+
+improvement 
+ 
+5.12 Monitoring  
+
+ 
+
+This part of the Bidder‟s deliverable should aim at taking proactive measures by 
+
+keeping an online track on the failures or alerts reported by the monitoring tools, 
+
+which have or could have impacted the availability of the systems for the intended 
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 15 of 71 
+
+ 
+
+business functions. It also aims at ensuring smooth functioning of the system by 
+
+carrying out the day-to-day maintenance / operational activities based on the 
+
+implemented solution and process. 
+
+The following services should be executed through this deliverable. 
+
+1. Monitoring of failures of Lease Line / Wireless / Ethernet link / any other link 
+
+deployed in the WAN impacting network availability to the location. 
+
+2. Monitoring of Network Equipment i.e. Routers, Modems (MLLN/Non MLLN) 
+
+deployed in the WAN impacting network availability to the location. 
+
+3. Bidder should ensure maximum uptime for network devices, if a device 
+
+experiences less than uptime defined in Service Levels during a month 
+
+periods due to hardware failure then Bidder should coordinate with 
+
+respective GUVNL authority. 
+
+ 
+
+4.  Bidder has to provide the Helpdesk manpower at NOC, 24/7 and 365 days 
+
+of the year for managing & Liaisoning of the links round the clock. Bidder is 
+
+required to provide qualified Network Engineers in all shifts. 
+
+5. Bidder has to provide one terminal at GUVNL‟s discretion to monitor the 
+
+link uptime and performance during contractual period. 
+
+ 
+
+5.13 Documentation and Administration 
+
+Bidder should perform the following activities:- 
+
+ 
+
+1. Maintaining the Network Diagram in line with the solution implemented 
+onsite. 
+
+2. Connectivity maps of the WAN environment detailing the connectivity and 
+type of communication medium deployed. 
+
+3. Recording changes in the site documents. 
+
+4. Maintaining the circuit details and Copper/OFC/RF/any other media details 
+with respect to each location and should submit to GUVNL network team 
+through monthly link commissioning report. 
+
+5. Testing of network lines daily morning and should submit the checklist 
+report to network team.  
+
+6. Maintaining the protocol address registers in terms of changes, addition or 
+deletion of sites. 
+
+7. Maintaining of device configuration backup on a monthly basis. 
+
+8. Bidder should manage configurations of network equipments and track 
+changes regularly if any change in network same should be updated via 
+email and should capture in NOC site documents. 
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 16 of 71 
+
+ 
+
+9. Bidder should submit the daily link downtime report to GUVNL for 365 days 
+in year 
+
+10. Bidder should maintain the Lease Line /MLLN line/other Circuit details with 
+them and should update as and when any addition or deletion of links 
+happens 
+
+11. Bidder is required to maintain the all the documentation related to Network 
+at GUVNLs NOC.  
+
+5.14 Preventive Maintenance: 
+
+Bidder will conduct Preventive maintenance measures at all sites on 
+
+monthly basis except at Sub Division/ Substation locations on quarterly 
+
+basis. 
+
+ 
+
+5. 15 Escalation Matrix: 
+Bidder will provide the escalation matrix procedures with Level-1, 2 & 3. 
+
+Escalation offering complete escalation for service provider also. 
+
+ 
+
+5.16 Material Inventory: 
+
+Bidder should maintain the inventory for all Data Communications 
+
+equipments on behalf of GUVNL. Inventory includes, Serial no., Model no., 
+
+Type etc. Bidder has to submit report on quarterly interval containing details 
+
+like Location Name, Item Name, Srno, Model Type etc to GUVNL.  
+
+ 
+
+Bidder should also maintain the inventory of replaced Parts from the original 
+
+manufacturers or from Authorized distributor and same will be updated time 
+
+to time to GUVNL officials. 
+
+ 
+
+6. Maintenance Services Commitment: 
+
+Bidder‟s response time for maintenance / breakdown complaint from any of the 
+
+destination specified in the schedule of requirements (i.e. time required to report 
+
+at the sites for bidder's engineer after the receipt of complains from GUVNL 
+
+through call/e-mail/fax or letter form) shall be: 
+
+ Less than 3 hours in District Head Quarter 
+
+ Less than 9  hours at other locations 
+
+In case of no equipment spares are required than the problem has to be solved 
+
+within 9 hours from receipt of complaint time. In case of equipment replacement 
+
+required bidder shall solve the problem within 24 hours from receipt of complaint 
+
+time. 
+
+ 
+
+7. Availability Management 
+
+The Bidder should aim at maintaining readiness for recovering from situations in 
+
+earliest possible time frame in case of an incident or problem arising in the WAN 
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 17 of 71 
+
+ 
+
+environment or associated environment to reduce the impact on the business 
+
+units. 
+
+1. Identification of probable causes of failures in the WAN environment. 
+
+2. Impact of associated systems, which can affect the WAN availability. 
+
+3. Defining methodologies / workaround to address the probable causes of 
+
+failures in case of incident or emergency. 
+
+4. Recommend on the possible solution / workaround to address the probable 
+
+causes of failure and follow up till its closure. The identification of probable 
+
+causes and methodologies should be done in consultation with the GUVNL.  
+
+5. The service delivery aims at addressing such issues to best of its 
+
+knowledge and the inputs received from the site and does not guarantee or 
+
+claim that all the incidents arising onsite should qualify for the 
+
+methodologies defined for recovery or otherwise the availability of the 
+
+system. The deliverable aims to monitor the utilization of the resources 
+
+deployed, providing inputs for optimization and to cater to requirements for 
+
+the future growth. Using the necessary performance tools the following 
+
+inputs can be obtained. 
+
+6. Trend reports on overall network availability in comparison to link uptimes 
+
+monthly basis. 
+
+7. Top OFC/Copper/RF/MLLN usage reports. 
+
+8. Movement of Network hardware from one location to another location based 
+
+on the requirement. 
+
+9. Based on the data from the performance monitoring tools, the Bidder should 
+
+analyze and provide inputs to the GUVNL with recommendations and 
+
+suggestions. 
+
+ 
+
+8. Lease Line Management 
+
+This Bidder‟s service should cover of uptimes on the lease lines. The following 
+
+services should be covered by the bidder. 
+
+ 
+
+1. Monitoring all WAN links 24 X 7, 365 days basis at all locations as per 
+
+Existing Links details and additional future links year on year; during the 
+
+tenure of the contract. 
+
+2. Call logging or booking trouble ticket inside helpdesk tool to capture the link 
+
+failure instances and should post the required update till its closure. 
+
+3. Monitoring all WAN links / error rates across the network submission of the 
+
+reports to GUVNL‟s network team 
+
+4. Diagnoses of the link outage problems reported and take appropriate actions 
+
+to address quick restoration of the link. 
+
+5. Liaison with Service Provider in case of link failures. 
+
+6. Line availability analysis - The health of all the links should be carefully 
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 18 of 71 
+
+ 
+
+monitored. Their downtimes, the reason for the same, the time taken to bring 
+
+up a circuit are carefully documented and issues external to the network are 
+
+also noted. An analysis of the data collected throws up the problems within 
+
+or external to the network. This helps in proactive management of the 
+
+circuits. The data is used to diagnose and take corrective action 
+
+7. Log monitoring for any link / event failure (like link exceeding set thresholds) 
+
+and notification of faults to be made in immediate notice to GUVNL‟s network 
+
+team and taking appropriate action to resolve the problem. 
+
+8. Link outage report to be maintained shift wise on daily basis and same 
+
+should share with GUVNLs network team. 
+
+9. Bidder should perform daily morning checklist of all links (twice a week) and 
+
+should submit the report to GUVNL and should take corrective actions for 
+
+non functioning links. 
+
+10. Escalation of the link outages /fluctuations / error nature to respective 
+
+maintenance / service provider and follow up till resolution and should keep 
+
+mail communication to GUVNLs network team and has to provide updates 
+
+with exact details. Maintain escalation matrix for different locations. 
+
+11. Logging calls with Service Provider in case of breakdown or failures after 
+
+accessing reported incidents or requests and should provide the report after 
+
+call get logged. 
+
+12. Troubleshooting and identifying line problems along with Service Provider. 
+
+13. Ensure error free communication on WAN link. 
+
+14. Bidder should conduct the required meetings with Service Provider and 
+
+Liasoning with Service Provider for resolving downtime issues, if any, for 
+
+levy/waiver of penalty. 
+
+ 
+
+9. Maintenance and monitoring of network  
+
+The BIDDER shall do all such configuration as access list, firewall features that 
+
+are required on the routers or other equipments under their maintenance. 
+
+ 
+
+The BIDDER shall maintain the network equipments inventory and configuration 
+
+details. 
+
+The BIDDER will be responsible for ensuring the quality of service required by 
+
+each of the applications running on the network. This activity includes application 
+
+wise investigation of bandwidth usage, network latency, and identification of 
+
+congestion points, troubleshooting and capacity planning. 
+
+ 
+
+In case, the network latency is more than expected, it shall be the duty of the 
+
+BIDDER to investigate the network to find out the cause and rectify the same for 
+
+achieving the optimal network operation. 
+
+ 
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 19 of 71 
+
+ 
+
+10. Equipment Ownership:  
+
+ All current and future WAN equipment will remain under the ownership of GUVNL 
+
+but will be managed by the bidder. The bidder will maintain an inventory list of the 
+
+equipment, manufacturer, serial number, location, and principal user etc. As and 
+
+when additional equipment needs are identified, the selected Bidder shall bring 
+
+these requirements to notice of GUVNL based upon equipment life-cycle 
+
+requirements.   
+
+ 
+
+11. Staffing  
+
+GUVNL must be involved in the selection, at the time of initiation of project and 
+
+later on if there is any change in staff. For the replacement of any position, the 
+
+Bidder should notify GUVNL in writing ninety (90) days prior for any planned 
+
+replacement or turnover of staff. For any unplanned replacement or turnover of 
+
+staff the selected Bidder should notify GUVNL in writing within twenty four hours 
+
+of receipt of notification. The expectations for service levels will be at the same 
+
+level or higher for this replacement. 
+
+12. Manpower placement 
+
+As a part of contract, BIDDER has to ensure placement of qualified network 
+
+engineers at all DISCOMs/GETCO Circle offices to maintain the network. Bidder 
+
+has to deploy a network engineer for maintenances of GUVNL LAN/WAN of DC 
+
+and GUVNL building.   Apart from the network engineers, the BIDDER shall 
+
+provide dedicated engineers at NOC Vadodara as described at clause Personnel 
+
+Qualifications and Certifications & Manpower Deployment. 
+  
+
+The BIDDER shall monitor all the links/devices from NOC on 24x7 bases. 
+
+BIDDER should take the necessary action proactively to restore the network 
+
+without waiting the call from field offices. 
+  
+
+Any pre-empt error condition that is captured through system will be informed to 
+
+The NOC / field engineer for taking proactive action. Field Offices may also report 
+
+the call to NOC/ field engineer either telephonically or e-mail or any mode of 
+
+communication. 
+
+ 
+
+13. Substitution Of Personnel  
+
+The Bidder shall not substitute key personnel without the prior approval of 
+
+GUVNL. To replace any personnel, the Bidder shall submit resumes of the 
+
+proposed personnel specifying their qualification and experiences. All proposed 
+
+substitute personnel shall have qualifications equal to or better than those of the 
+
+replaced personnel and must be approved by the GUVNL. GUVNL shall have the 
+
+option to interview the proposed substitute personnel. After the interview, GUVNL 
+
+shall notify the Bidder of acceptance or denial of the requested substitution. 
+
+During the change of personnel, there will be adequate overlap of transition period 
+
+to the satisfaction of GUVNL, which shall not be less than one month.   
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 20 of 71 
+
+ 
+
+ 
+
+14. Expertise Required 
+
+The bidder company must demonstrate and certify that it possesses at a minimum 
+
+five (5) years experience in providing network engineering and administrative 
+
+support for large enterprise environments, including one (1) or more of the 
+
+network engineering  certifications listed below. Successful bidder shall deploy 
+
+Project Manager, Network Specialist and Network Engineers for entire contractual 
+
+period. 
+
+ 
+
+15. Personnel Qualifications and Certifications  
+
+The following qualifications are required by the person(s) proposed to perform and 
+
+maintain Network Management Services:  
+
+1. Minimum of three (3) years experience implementing new LAN/WAN 
+designs, architectures and integration  
+
+2. Minimum of three (3) years experience troubleshooting and configuration of 
+large enterprise LAN/WAN networks  
+
+3. Minimum of three (3) years experience configuring & troubleshoot Wireless 
+networks.  
+
+4. Minimum of three (3) years experience configure & implementing OSPF, 
+BGP,IGP  protocols  
+
+5. Minimum of three (3) years  experience configuring L2 and L3 Access 
+Control Lists  
+
+6. Minimum of three (3) years experience configuring and troubleshooting 
+network load-balancer systems  
+
+ 
+
+16. Network Engineering Certifications  
+
+Personal from Bidder Company assigned to this task, must possess one (1) or 
+
+more of the following Network Engineering Certifications:  
+
+ Cisco Certifications (Mandatory)  
+
+ CCNA (Minimum) Routing and Switching  
+
+ CCNP (Preferred) Routing and Switching  
+
+ CCIE (Most Preferred) Routing and Switching  
+ 
+
+17. Manpower Deployment 
+Sr.No. Position Stationed at Number of 
+
+Person 
+Work 
+Durations 
+
+Tota
+l 
+Nos. 
+
+1 Project Manager NOC, Vadodara 1 General 
+Shift 
+
+1 
+
+2 Network Specialist NOC, Vadodara 1 General 1 
+
+3 Network Engineers NOC, Vadodara 2  (I, II 
+Shift) 
+1  (III Shift) 
+
+Shift 
+Rotation 
+
+5 
+
+4 Network Engineers# Each Circle 1 General 38 
+
+5 GUVNL LAN/WAN NOC, Vadodara 1 General 1 
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 21 of 71 
+
+ 
+
+Engineer  
+
+Company wise Field Network Engineer Deployment Locations are shown at Annexure-V 
+ 
+
+18. Vendor network team shall have the following profile: 
+
+Team Description  Team Profile 
+
+Project Manager  Minimum 8 years of IT experience 
+
+ Minimum 3 years of Project Management 
+experience 
+
+ Experience of managing large Network Programs 
+
+ Experience of handling large teams 
+
+ Preferably Graduate Engineer 
+ Certification – CCNP or equivalent 
+
+Network Specialists  Minimum 6 years experience of working on WAN 
+
+ Specific experience in implementing various 
+routing 
+
+ protocol / MPLS technology 
+
+ Certification – CCNP or equivalent 
+Network Engineers 
+at NOC 
+
+ Minimum 4 years experience of networking 
+
+ Certification – CCNA or equivalent 
+
+ call take up, documentation, call allocation, 
+tracking escalation, reporting, 
+
+ working on Help Desk module 
+
+Network Engineers 
+at DISCOMs/GETCO 
+Circle locations 
+
+ Minimum 3 years experience in liasoning with 
+Service Provider line commissioning & 
+maintenance 
+
+ LAN and WAN troubleshooting 
+
+ Certification – in networking 
+ 
+
+19. Roles & Responsibilities 
+
+P
+ro
+
+je
+c
+t 
+
+M
+a
+
+n
+a
+
+g
+e
+
+r 
+
+Overall responsibility for the 
+entire project including- 
+
+ Network Implementation 
+
+ Network Monitoring & 
+
+ Maintenance 
+
+ Inventory Management 
+
+ Spares management 
+
+ SLA Management 
+
+ Timely project execution 
+
+ Team management 
+
+ Overall monitoring and management of 
+network 
+
+ Spare and logistics management 
+
+ SLA reporting 
+
+ Meeting scheduling with Telecom Service 
+Provider  
+
+N
+e
+
+tw
+o
+
+rk
+ 
+
+S
+p
+
+e
+c
+
+ia
+li
+s
+
+t 
+
+Responsible for all the 
+technical aspect of project 
+implementation and running 
+Of the entire network. 
+
+ Network troubleshooting 
+
+ Network Changes – 
+vetting 
+
+ Changes in existing 
+routers 
+
+ IP Address Maintenance 
+
+Vetting any alteration to the 
+Network Centralised Management Router 
+
+ configuration and inventory 
+
+ Assigning access level to Network  
+
+ IP address maintenance 
+
+ Trouble shooting and debugging of 
+problems, if any 
+
+ Up gradation of existing routers 
+
+ Changes in existing routers 
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 22 of 71 
+
+ 
+
+N
+e
+
+tw
+o
+
+rk
+ E
+
+n
+g
+
+in
+e
+e
+rs
+
+ 
+
+Day-to-day maintenance of all 
+network equipments links etc. 
+ 
+Taking the calls, allocation 
+ 
+Liaison for new leased lines 
+Liaison with Service Providers 
+escalation of calls 
+
+ Network equipment installation at the 
+locations where Network Engineers are 
+based 
+
+ Manage Network equipment 
+configuration Network equipment access 
+controls 
+
+ Trouble shooting and debugging of 
+problems, if any 
+
+ Up gradation of Network equipment 
+
+ Changes in Network equipment 
+
+ Call logging; call assignment, follow up 
+for call closure (talking to field offices to 
+arrive at problems and solutions)  
+
+ Call closure. Submission of related 
+reports periodically. 
+
+ 
+ 
+
+20. Network Capacity Planning  
+
+The bidder shall perform data collection to assist in network capacity planning. 
+
+Network usage and configuration information shall be used with performance 
+
+statistics to reflect current and long-term bandwidth utilization. This information 
+
+shall be used to better estimate future requirements based on application, 
+
+organizational or technological changes as well as adjustments to provide 
+
+improved cost/benefit of current resources.  
+
+ 
+
+21. Network audit 
+
+ During the tenure of the contract, the BIDDER shall conduct a network audit once 
+
+in a Year on the following aspects without any cost to the GUVNL: 
+
+ 
+
+1. To examine the health of the network by verifying the parameters such as 
+
+link latency, CRC errors, link utilization during peak hours, version control 
+
+of router OS and other network applications. 
+
+2. To identify the performance bottlenecks and to take suitable rectification 
+
+steps, in consultation with the GUVNL and suggest measures for 
+
+improvement. 
+
+3. The BIDDER will be responsible for configuration of the network devices as 
+
+per the GUVNL‟s IT security policy.   
+
+4. Vendor will be responsible for complying with all the audit observations. 
+
+ 
+
+The BIDDER is required to quote for management and maintenance of the all 
+
+networking equipments and all network links including manpower provisioning on 
+
+an annual basis. No additional charges such as conveyance, traveling, per diem 
+
+hotel expenses etc., will be paid to the BIDDER or their engineers. This 
+
+responsibility will cover the continuous monitoring of leased lines, ISDN lines, 
+
+network equipment and taking of corrective action as soon as possible. All leased 
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 23 of 71 
+
+ 
+
+lines, ISDN lines, MPLS VPN and RF links irrespective of their bandwidth will be 
+
+treated as identical and no differentiation will be assumed between them.   
+ 
+
+This section lays down the general and commercial terms and conditions and 
+
+describes the bidding process including content and form of responses. 
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 24 of 71 
+
+ 
+
+ 
+
+ Gujarat Urja Vikas Nigam Limited 
+(An ISO 9001:2008 Company) 
+
+Sardar Patel Vidyut Bhavan Race Course, Vadodara-390007 
+
+(GST NO. 24AACCG2861L1ZK CIN U40109GJ2004SGC045195)  
+E-mail IDs –  
+cetech.guvnl@gebmail.com, 
+eetech1.guvnl@gebmail.com, 
+de2.guvnl@gebmail.com 
+
+Tele (Di):  (0265) 2340205     
+PBX:  (0265) 2310582 to 86      
+FAX:  (0265) 2337918, 2338164 
+
+No. GUVNL/Tech-1/                                                                                      Date: 
+
+To, 
+M/s. 
+
+         
+
+Sub:  Wide Area Network Hardware Equipment AMC, Warranty, Network 
+
+Operating Center-NOC monitoring and control and Networking Engineers 
+
+Manpower Services For NOC, Various locations of GUVNL and its 
+
+subsidiary companies 
+
+Ref: Our Tender Enquiry No. GUVNL / Tech / 60275/  
+
+ Due on 05.07.19 (Technical Bid) 
+
+ 
+
+Dear Sirs, 
+
+ Enclosed please find a copy of our above-mentioned tender enquiry for which 
+
+tender in duplicate have to be submitted in Two (2) Parts viz. 
+
+1. Technical bid including commercial terms & conditions with all the enclosures 
+2.Price Bid (On line). 
+
+       (EMD cover should be kept as separate enclosure & should be submitted with Technical 
+
+Bid.) 
+
+1. TECHNICAL AND COMMERCIAL BID: 
+      The technical and commercial bid shall comprise of all the technical details of the 
+
+equipment‟s as per Schedule -“A” of Tender and all the commercial terms and conditions, 
+
+etc., EXCEPT THE PRICE BID which should be quoted through on-line only. 
+
+       The Technical Bid shall be sent in the envelope (duly sealed) super scribed 
+
+“TECHINCAL with TENDER NO”. The Technical Bid shall be opened at 03:00 PM (15:00 
+
+Hrs.) on date 08.07.19 in the presence of those tenderers who wish to be present. If the 
+
+Liaison Agent / Representative is likely to be present then he must submit the 
+
+authorization letter of the representing company at the time of opening of Bids and 
+
+this is compulsory. Only One liaison agent is allowed. 
+
+ 
+
+2. PRICE BID: 
+      The Price Bid must be submitted strictly as per Schedule –“B”. The time and date of 
+
+opening of the Price Bid shall be determined by GUVNL and communicated to the 
+
+tendering firms after technical bids are analyzed and the intimation will be sent only to the 
+
+technically accepted tenderers. 
+
+mailto:cetech.guvnl@gebmail.com
+mailto:eetech1.guvnl@gebmail.com
+mailto:de2.guvnl@gebmail.com
+
+
+ 
+
+60275                                                                                                                                                                                   Page 25 of 71 
+
+ 
+
+      Any technical questions, information‟s and clarifications that may be required 
+
+pertaining to this enquiry should be referred to the C.E. (Technical), Gujarat Urja Vikas 
+
+Nigam Ltd. Race Course, Vadodara. 
+
+        Bids shall be valid for at least 120 Days from the date of opening of the technical 
+
+bid. 
+
+The demand draft for Earnest Money Deposit should be kept in the EMD cover 
+
+only. 
+
+IMPORTANT: The tender should be sent by registered A.D. or by Speed Post only & 
+
+addressed to The Chief Engineer (Technical), GUVNL, Technical Department, Head 
+
+Office, Race Course, Vadodara-390 007. (No Courier Service will be allowed). Hand 
+
+Delivery NOT allowed. 
+
+     Both the covers “TECHNICAL” and “E.M.D.COVER” should be submitted 
+
+simultaneously in the respective envelopes (duly sealed) so as to reach this office not later 
+
+than 2.00 PM, on the same day as above. NO EXTENSION IN DUE DATE WILL BE 
+
+GIVEN. 
+
+       Please note that the required certificates should be invariably submitted with tender 
+
+copy.  And tender without above certificates is liable to be ignored. „TECHNICAL‟ bid 
+
+received after the due date will not be accepted and the offer is liable to be ignored. 
+
+ 
+
+  
+
+ 
+
+ 
+
+                              Yours faithfully, 
+
+ 
+
+ 
+
+.                    For C. E. (Technical) 
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 26 of 71 
+
+ 
+
+Commercial Terms and Conditions:  
+
+1. General Terms and Conditions 
+
+ 
+
+1. The bidders are advised to study all technical and commercial aspects, 
+
+instructions, annexure, schedules, terms & conditions and specifications in 
+
+the proposal carefully. Failure  to  furnish  all  information  required  in  the  
+
+RFP  or  submission  of  a  bid  not substantially responsive to the RFP in 
+
+every respect will be at the bidder‟s risk and may result in the rejection of the 
+
+bid. 
+
+2. The bids shall be submitted strictly in conformity with the specifications given in 
+
+this RFP and as per mandatory response format.   The tender not submitted 
+
+in the prescribed format or incomplete in any manner are likely to be 
+
+rejected without assigning any reasons. 
+
+3. Tender document is not transferable. 
+
+4. Bids submitted after due date & time or incomplete in any respect are liable 
+
+to be rejected. 
+
+5. Technical bid shall be opened first.  GUVNL reserves the right not to 
+
+process the Commercial Bids in case the Technical Bid is found to be 
+
+unsuitable / not fulfilling the requirements as specified in the RFP. 
+6. All the standards related to the solution proposed are to be complied as per 
+
+the best industry standard. 
+
+7. The bidder shall by responding to GUVNL for RFP, be deemed to have 
+
+accepted the terms and conditions of the RFP. 
+8. Delay in completion of assignment in the prescribed time limit will attract 
+
+penalty as per clause no. 10,11,12. 
+
+9. GUVNL reserves the right to increase or decrease the quantity against each 
+
+item/s while placing the order. 
+ 
+
+2. Rights of GUVNL 
+ 
+
+This  RFP  entails  an  invitation  by  GUVNL  for  bidder  response  for Wide Area 
+
+Network Hardware Equipment AMC, Warranty, NOC & Networking Engineers 
+
+Manpower Services. It does not imply an offer by GUVNL and there will be no 
+
+contractual obligation until a formal contract is executed by the authorized 
+
+signatories of GUVNL and the selected bidder. 
+
+ 
+
+With regard to the RFP, GUVNL has the following rights: 
+ 
+
+1. Accept or reject any of the proposals. Alter the RFP before opening of technical 
+bid. 
+
+2. Ask for re-submission. 
+
+3. Request clarification from bidders. 
+
+4. Terminate the RFP process, partially or entirely. 
+
+5. Modify the specifications during the process before opening of technical bid. 
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 27 of 71 
+
+ 
+
+6. To evaluate the Bids based on reasonability and workable offer solution under 
+this RFP. 
+
+ 
+If technical deviations furnished by the bidder are not agreeable to GUVNL, the 
+
+offers may be ignored. However it will be solely at GUVNL‟s discretion to consider 
+
+the technical deviations OR not for considering the bidder. No correspondences 
+
+of the bidder after opening of the bid will be entertained in this matter. 
+
+ 
+
+GUVNL reserves the right to issue the amendments to the RFP at anytime prior 
+
+to the deadline for the submission of Bids. From the date of issue, amendments 
+
+to RFP shall be deemed to form an integral part of the RFP Document. 
+
+ 
+
+GUVNL may, in its absolute discretion, engage in discussion or negotiation with 
+
+L1 bidder, if required. 
+ 
+
+GUVNL may, in its absolute discretion, seek additional information or material 
+
+from any Respondents after the RFP closes and all such information and material 
+
+provided must be taken to form part of that Respondent‟s response. 
+ 
+
+The Bids received and accepted shall be evaluated by GUVNL to ascertain the 
+
+best bid in the interest of GUVNL based on evaluation process described in this 
+
+RFP. However, GUVNL does not bind itself to accept the lowest or any Bid and 
+
+reserves the right to reject any or all Bids at any point of time prior to the order 
+
+without assigning any reasons whatsoever. GUVNL reserves the right to re-
+
+tender. 
+ 
+
+GUVNL shall not incur any liability to the affected Bidder(s) on account of such 
+
+rejection. GUVNL shall not be obliged to inform the affected Bidder(s) the 
+
+grounds for GUVNL‟s acceptance or rejection. 
+ 
+
+GUVNL while evaluating the proposal will also consider the competence and 
+
+capability of the bidder‟s support services. 
+ 
+
+3. Tender Fee 
+ 
+
+Tender fee of Rs. 7,500/- Plus 18% GST i.e. Rs. 8,850/- (Rupees Eight 
+
+Thousand eight hundred fifty Only) (Non- refundable) should invariably be paid 
+
+by way of Demand Draft otherwise offer shall be ignored out rightly. Indian 
+
+Postal Orders (IPO‟s) & Cheques are not acceptable. Demand Draft should 
+
+be in the name of the “Gujarat Urja Vikas Nigam Ltd.”, payable at Vadodara. 
+
+The envelope shall be addressed to the Chief Engineer (Tech), GUVNL. 
+
+GUVNL shall not be responsible for the transit loss or misplacement. 
+
+Alternatively,  the  bidder  can  pay  tender  fee  in  CASH  (at  GUVNL,  HO, 
+
+Vadodara  – Cash  Counter)  and  enclose  the  original  Money  receipt  in  the 
+
+EMD  cover. Tender fee Demand Draft / Original Money receipt must be 
+
+kept in the cover of EMD; otherwise supplier‟s offer is liable to be 
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 28 of 71 
+
+ 
+
+rejected. 
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 29 of 71 
+
+ 
+
+4. Earnest Money: 
+All the Bidders shall be required to pay EMD of Rs. 1,20,000/-, except those who are 
+
+exempted as per Industries & Mines Department, GoG New Purchase Policy 
+
+Resolution No. SPO/1095/2636(97)/CH dated 23.09.1997 for Small and Micro Scale 
+
+Industries. The EMD is payable by Demand Draft in favour of the Gujarat Urja Vikas 
+
+Nigam Ltd. on any Scheduled / Nationalized Banks in Vadodara. It can also be 
+
+furnished by way of an irrecoverable Bank Guarantee from any nationalized Bank as 
+
+per Govt. GR No. EMD/10/2018/18/DMO/ dated 16.04.18 in a standard format 
+
+prescribed by GUVNL (Format given in this tender document).  
+
+In cases,where EMD need not to be paid, valid exemption Certificates duly Notarized 
+
+has to be produced / attached in place of EMD documents as per the Tender Terms 
+
+and Conditions. 
+
+The Micro and Small Scale Industrial (manufacturing) Units registered under Small 
+
+Scale Industries of Gujarat State and holding subsequent registration with 
+
+CSPO/NSIC/DGS&D, Registration Certificates for the item under Tender will be 
+
+eligible for exemption from payment of EMD on submission of attested copies of their 
+
+SSI (SSI/ MSME Part-II/Udhyog Aadhar Memorandum) & CSPO/NSIC/DGS&D 
+
+Registration Certificates in EMD Cover. This benefit of exemption will not be 
+
+admissible if they take part in the tender indirectly either through their dealers, agents, 
+
+distributors or other intermediates. 
+
+Government or Semi-Government Organizations, which are being run departmentally 
+
+& are not Limited Companies, will be eligible for exemption from payment of EMD.Any 
+
+basic document with regard to EMD will not be acceptable after closing time of On-line 
+
+bid of Tender. 
+
+The validity of the Bank Guarantee for EMD should be for a period of at least Six  
+
+Months from the date of submission of the Bid of the Tender. 
+
+EMD of the unsuccessful Tenderers if paid by Demand Draft will be returned after 
+
+placing of the LoI to the successful Tenderer through RTGS/NEFT for credit to his 
+
+Bank Account. The Bidder shall have to give details of his Bank Account with a 
+
+Cheque duly cancelled. No claim for refund of EMD against original Money Receipt 
+
+shall be entertained by the Company. The Bank Guarantee of the unsuccessful 
+
+Tenderers towards EMD shall be returned within 15 days from the date of placing of 
+
+the order to the successful Tenderer. However, the EMD Amount / Bank Guarantee of 
+
+technically disqualified bidder will be returned after opening of price bids. The details of 
+
+refund of EMD by RTGS with transaction No. should be informed to respective bidder 
+
+by letter/ e-mail etc… 
+
+EMD will be returned to the successful Bidders, only on their submission of 
+
+Performance Guarantee towards execution period (i.e. Security Deposit) against order 
+
+released on them. 
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 30 of 71 
+
+ 
+
+Cheques are not acceptable. CORPORATE BANK GUARANTEES NOT 
+
+ALLOWED. 
+
+Documents towards payment of Earnest Money Deposit (EMD) & Tender Fee 
+
+may please be kept in the EMD cover only. First the EMD cover will be opened & 
+
+if the documents towards payment of EMD are found OK then only Technical Bid 
+
+will be opened which may please be noted. 
+
+Tenders submitted without Earnest Money Deposit by the firms, who are not eligible 
+
+for any exemption, will be rejected without entering in to further correspondence in this 
+
+regard and no reference will also be made. 
+
+EMD will be forfeited (i) if the tender, which it covers, is withdrawn during the 
+
+validity of the offer and (ii) the Tenderer fails to furnish / deposit the security 
+
+deposit. 
+
+5. Price 
+
+The prices quoted by the bidders shall be in Indian Rupees only. The Bids 
+
+shall be valid for a period of 120 days from the date of opening of price Bid. 
+ 
+
+6. Delivery Period 
+ 
+The commencement period will be 2 weeks from the date of PO. On successful 
+
+completion of acceptability test for consecutive 3 days for NOC at GUVNL, 
+
+Network Engineer Manpower services at described field locations and after 
+
+GUVNL is satisfied with the accuracy and completeness of the performance of 
+
+the scope of work defined in this RFP, the acceptance certificate signed by the 
+
+representative of GUVNL and representative of the Vendor will be issued. The 
+
+date on which such certificate is signed shall be deemed to be the date of 
+
+commencement of the contract for Wide Area Network Hardware Equipment 
+
+AMC, Warranty, NOC and Networking Engineers Manpower Services.  
+
+ 
+
+7. Validity of Contract  
+ 
+
+The Contract shall be valid for a period of 1 (One) year from the commencement 
+
+date as per above clause 6. GUVNL reserves the right to extend the contract 
+
+for a further period of 2 (Two) years at the same rate, terms & conditions of 
+
+the original contract and subject to satisfactory performance during the 
+
+original contract period. 
+ 
+
+8. Payment Terms 
+ 
+
+Payment shall be made quarterly at the end of the quarter. Bidder shall have to 
+
+submit daily down time log report, WAN hardware equipment movement 
+
+monthly report, manpower presence monthly report etc duly certified by GM(IT), 
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 31 of 71 
+
+ 
+
+GUVNL or his authorized representative along with quarterly bills. Payments will 
+
+be made with in 30 days of submission of invoice complete in all respect 
+
+through cheques drawn on scheduled bank at Vadodara. 
+ 
+
+9. Security Deposit for Contract Period:  
+ 
+
+The bidder shall have to pay 10% of the value of the order as a Security 
+
+Deposit within 21 days of letter of Intent / Letter of Acceptance, either in the 
+
+form of Bank Guarantee, or a separate DD payable at Vadodara, valid for the 
+
+entire contract period plus one month-i.e. (13 months from date of 
+
+commencement) till the completion of contract of Wide Area Network Hardware 
+
+Equipment AMC, Warranty, NOC & Networking Engineers Manpower Services 
+
+towards satisfactory completion of the order. The Bank Guarantee must be 
+
+executed as per the standard format prescribed by GUVNL. The bank guarantee 
+
+shall be from any of the nationalized banks or ICICI Bank / HDFC Bank / Axis 
+
+Bank / IDBI Bank or the banks notified by GoG vide GR No 
+
+EMD/10/2018/18/DMO/ dated 16.04.18 and from time to time. In case SD is paid 
+
+by way of DD, no interest shall be paid thereon for the period for which it 
+
+remains with the customer. CORPORATE BANK GUARANTEES NOT 
+
+ALLOWED. 
+
+If the full amount either by Cash/D.D./BG as Performance Guarantee towards 
+execution period (i.e. Security Deposit) is not paid within 21 (Twenty one) days from 
+the date of letter of Intent (LOI), then the LOI will be out rightly cancelled at the risk & 
+cost of the Tenderer (at the discretion of MGVCL) and without entering into any 
+correspondences and this will be binding on the Tenderer and actions shall be taken 
+against such defaulter like stop dealing or any other actions as decided by GUVNL. 
+
+The supply guarantee is for due performance of contract and the same is liable 
+
+to forfeit by GUVNL in the event of non fulfillment of the terms and conditions of 
+
+the contract. It will be refunded to successful bidder after the final payments of 
+
+the bill. As per purchase policy 2016, the amount of EMD/SD/any payment 
+
+against supply withheld at the instance of GUVNL  or any of its subsidiary 
+
+companies shall be appropriated against the dues recoverable from the firm  by 
+
+GUVNl or any of its subsidiary companies. EMD/SD/PG in the form of BG shall 
+
+be encased and appropriated.   
+
+ 
+
+10. Delays in the vendor‟s performance 
+ 
+
+The Bidder must strictly adhere to the maintenances of WAN data link and 
+
+WAN equipment AMC services, Equipment delivery at GUVNL locations, 
+
+Deployment of manpower at NOC & field offices, commissioning of NOC as 
+
+specified in the agreement / contract in the performance of the obligations and 
+
+any delay in this regard will entitle GUVNL to resort to any or both of the 
+
+following: 
+ 
+
+o Claiming Liquidated Damages 
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 32 of 71 
+
+ 
+
+o Termination of the agreement / contract fully or partly and claim 
+
+liquidated damages. 
+ 
+
+10.1 Liquidated Damages: 
+Time is the essence of the Agreement / contract. The Bidder will be liable to 
+
+pay GUVNL liquidated damages (LD)@ half percent( 0.5%) per week or part 
+
+thereof but limited to the maximum of 10 % value plus applicable GST of 
+
+agreement / contract inclusive of all taxes, duties, levies etc. due to any delay in 
+
+performance or non-performance of any or all the obligations under  the  
+
+agreement/contract.  This condition will   not be applicable for reasons 
+
+attributable to GUVNL as well as Force Majeure, though the onus of 
+
+proving the same lies with the Vendor. 
+ 
+
+GUVNL will have the right to recover the liquidated damages, if any, from 
+
+any amount payable to the Vendor under any other contracts awarded by 
+
+GUVNL or its subsidiary companies. Also, if the  specifications of the RFP 
+
+are not met by the bidder during various  tests,  the  bidder  shall  rectify   
+
+or  replace  the  same  to  comply  with  the specifications immediately, 
+
+failing which GUVNL has the sole right either to reject or to accept it finally 
+
+by recovering the suitable amount as deemed  reasonable by GUVNL. 
+
+Decision of GUVNL in this regard shall be final and binding. 
+
+Further, “GUVNL reserves the right to terminate the Contract (i.e.  Works 
+
+order) at any time, without  assigning  any  reasons,  whatsoever,  by  giving  
+
+a  notice  period  of ONE month from   the date of  Notice of termination of 
+
+the Contract. Bidders will not be entitled for any compensations / damages / 
+
+losses, whatsoever, on account of such termination of the Contract.” 
+ 
+ 
+
+11. Service Level Agreement   
+Up time 
+
+The Guaranteed uptime performance requirement is 99%, of each WAN 
+
+hardware equipment. 
+
+ 
+
+Uptime is defined as below: 
+
+UP TIME (%) = Total no of hours in the year / Quarter - Total down time (in hours)   X 100 
+
+                         Total no. of hours in the year / Quarter 
+
+For up time calculation, number of days in a year would be 365 
+
+days. 
+ 
+
+12. Penalty   
+ 
+
+The maximum response time for maintenance / Breakdown complaint 
+
+from any of the destination specified in the schedule of requirements 
+
+(i.e. time required to report at the sites for supplier's engineer after the 
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 33 of 71 
+
+ 
+
+receipt of complains from GUVNL through call/e-mail/fax or letter form) 
+
+shall be: 
+
+Less than 3 hours in District Head Quarter 
+
+Less than 9 hours at other locations 
+ 
+
+In case of no equipment spares are required than the problem has to be solved 
+
+within 9 hours from receipt of complains time (Except Core router). In case of 
+
+equipment replacement required bidder shall solve the problem within 24 
+
+hours from receipt of complains time (Except core router). In the event of any 
+
+delay occurs in maintenance services of Data Equipments, 1% Plus applicable 
+
+GST of equipment penalty charges given in Annexure -W of failed equipment 
+
+per day will be levied as penalty ( Except core router ). If delay occurs in 
+
+maintenance services for period of more than 7 days, additional 0.5% Plus 
+
+applicable GST of yearly charge (Column no. 4 of Annexure- W) per day will be 
+
+levied as a penalty over & above the penalty mentioned above at Sr. No 10.1. 
+
+Nonpayment of penalty amount may result in to encashment of Bank 
+
+Guarantee, during the Warranty period. 
+
+For Core router, if it remain down for 1 hour or more due to hardware/service 
+
+failure than, 2% Plus applicable GST of equipment penalty charges given in 
+
+Annexure-W, of failed equipment per hour will be levied as penalty. 
+ 
+
+If equipment is down for more than one month then GUVNL has right to 
+
+purchase the equipments of equivalent/next higher models at the risk & cost of 
+
+bidder. 
+
+12.1 Penalty charges for Manpower Absentee / deficit 
+
+Team Description  Penalty Per Day (in Rs.)/ Person 
+
+Project Manager 2000/- Plus applicable GST 
+
+Network Specialists 1500/- Plus applicable GST 
+
+Network Engineers at NOC 1000/- Plus applicable GST 
+
+Network Engineers at 
+DISCOMs/GETCO Circle 
+locations 
+
+            500/- Plus applicable GST 
+
+(The day is reckoned as calendar day not on the basis of 24 hours. 
+Depending upon the requirements, GUVNL may change the 
+operational hour’s timings from time to time.) 
+
+12.2 Monthly Report Submission Schedule 
+
+1. Preventive Maintenance Report for all locations on monthly basis except 
+
+at SDO/SS on Quarterly Basis. 
+
+2. Quarterly Inventory Report for all locations with location name, Item, 
+
+Quantity, Model SrNo, Make, Type etc.   
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 34 of 71 
+
+ 
+
+3. Equipment Movement Monthly Report  
+
+4. Monthly link commissioning Report. 
+
+5. Monthly Device Configuration Backup Report. 
+
+6. Monthly Trend Report on overall network availability. 
+
+7. Monthly Manpower Presence Sheet. 
+
+Successful bidder has to submit all the above reports to GM (IT) on or before 10
+th
+ 
+
+day of Respective Month. Failing in submitting any of the above report in time to 
+
+GUVNL shall attract penalty Rs. 1000/- per day. 
+
+This penalty will be levied in addition to the penalty mentioned in SLA for 
+
+WAN Hardware equipments mentioned as above.  
+
+ 
+
+13. Termination of Contract 
+ 
+
+In case, the bidder fails to deliver the services thereof within contractual period, 
+GUVNL shall exercise its discretionary power either: 
+ 
+
+1. To recover, from  the supplier  as agreed,  by  way  of  penalty clause 
+
+above,  or  
+
+2. To purchase elsewhere after giving due notice to the supplier on account 
+
+and at the risk of the supplier such stores not so delivered or other similar 
+
+description without canceling the contract in respect of the consignment 
+
+not yet due for delivery or  
+
+3. To cancel the contract.  
+
+ 
+In the event of the risk purchase of services of similar description, the opinion of 
+
+GUVNL shall be final. In the event of action taken under clause (a) or (b) above, 
+
+the supplier shall liable to pay for any loss which GUVNL may sustain on that 
+
+account but the supplier shall not be entitled to any saving on such purchases 
+
+made against default. 
+
+ 
+The decision of GUVNL shall be final as regards the acceptability of services 
+
+supplied by the contractor and GUVNL shall not be required to give any reason in 
+
+writing or otherwise at any time for rejection of the stores. 
+
+ 
+Further, “GUVNL reserves the right to terminate the Contract (i.e. Work order) at 
+
+any time, without assigning any reasons, whatsoever, by giving a notice period of 
+
+ONE month from the date of Notice of termination of the Contract. Contractor will 
+
+not be entitled for any compensations / damages / losses, whatsoever, on 
+
+account of such termination of the Contract.” 
+
+ 
+
+14. Indemnity  
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 35 of 71 
+
+ 
+
+1. The Vendor shall indemnify, protect and save the GUVNL against all claims, 
+
+losses, costs, damages, expenses, action suits and other proceedings, 
+
+resulting from any actions of the employees, agents of the Vendor.  
+
+2. The Vendor shall   undertaking as per Annexure-U, to protect and save the 
+
+GUVNL against all claims, losses, costs, damages, expenses, action suits and 
+
+other proceedings, resulting from infringement of any law pertaining to patent, 
+
+trademarks, copyrights etc. or such other statutory infringements in respect of 
+
+all hardware and software used by them.     
+
+3. Compliance with Statutory and Regulatory Provisions It shall be the sole 
+
+responsibility of the Vendor to comply with all statutory and regulatory 
+
+provisions while delivering the services mentioned in this RFP. 
+
+4. The Vendor shall be entirely responsible for all applicable taxes, duties, levies, 
+
+charges, license fees, road permits, etc. in connection with movement of WAN 
+
+equipments at site including incidental services and commissioning.  
+
+5. The vendor must also ensure that all applicable laws framed by the Central 
+
+Government, State Government and Local Bodies, including payment of 
+
+applicable minimum Wages and all laws pertaining to contract employees/ 
+
+labour laws are complied with while providing network management services. 
+
+The vendor may have to execute an indemnity bond in favour of the GUVNL in 
+
+this regard.  
+
+6. Providing clarifications/particulars/documents etc. to the appropriate tax 
+
+authorities for assessment of tax, compliance with labour and other laws, etc 
+
+will be the responsibility of the vendor at his cost.  
+
+7. Tax deduction at Source - Wherever the laws and regulations require deduction 
+
+of such taxes at the source of payment, the GUVNL shall effect such 
+
+deductions from the payment due to the Vendor. The remittance of amounts so 
+
+deducted and issuance of certificate for such deductions shall be made by the 
+
+GUVNL as per the laws and regulations in force.  
+
+15. Arbitration 
+ 
+
+All questions, disputes or differences whatsoever which may at any time arise 
+
+between the parties to this agreement touching the agreement or subject matter 
+
+thereof, arising out of or in relation there to  and whether as to construction 
+
+or otherwise shall be referred to the decision of the Sole Arbitrator, appointed 
+
+by the Chairman, GUVNL, for that purpose, who shall be a retired High Court 
+
+Judge or  retired District and Sessions Judge, and the decision of the said 
+
+Arbitrator shall be final and binding upon the parties. Reference to the arbitration 
+
+shall be governed by the provisions of Indian Arbitration & Conciliation Act., 
+
+1996 as amended from time to time and the rules made there under. 
+ 
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 36 of 71 
+
+ 
+
+16. Jurisdiction 
+ 
+
+All questions, disputes or differences arising under/ out of or in connection 
+
+with the Tender / Contract if concluded shall be subject to the exclusive 
+
+jurisdiction of the court under whose jurisdiction  the place from which the 
+
+tender / Acceptance of tender is issued, is situated i.e. Vadodara. 
+ 
+
+If the bidder fails to pay the Security Deposit or defaults in execution of the 
+
+orders placed or if GUVNL suffers any financial loss due to this, then GUVNL 
+
+will be at liberty to adjust the amount from other orders of the same firm placed 
+
+by GUVNL or its subsidiary companies or by enchasing the Bank Guarantee. 
+ 
+
+17. Submission of Bids 
+ 
+
+The Bidders should submit their responses in two parts, 
+ 
+1. The Technical Bid 
+2. The Commercial Bid 
+ 
+Formats of the technical tender forms are placed at Annexure C. 
+All Bids and supporting documentation shall be submitted in English.  All costs 
+
+and charges indicated in the Commercial Bids should only be in Indian Rupees. 
+
+The sealed envelope containing Technical responses shall be super scribed 
+
+Technical Bid  for  ******against RFP No ______ dated   ”in the top left 
+
+hand corner. 
+
+ 
+
+    Bidders are instructed not to submit their Price bid in physical form. 
+The Bids which are not submitted as indicated above are liable to be rejected. 
+
+GUVNL will not be liable for Postal or any other delay, non-receipt / non-delivery 
+
+of documents, loss of documents in transit, etc., if any. 
+ 
+
+Bidders are requested to submit a “soft copy” version of their Technical 
+
+responses on a CD in Microsoft Office Word 2003 format over and above the 
+
+hard copy of technical bid only. Soft copies are to be sealed with the respective 
+
+Technical Bid envelopes. 
+ 
+
+All pages of the Bid including Brochures are to be numbered as Page --- (current 
+page) of  --- (total pages). The numbering shall be done for the whole Bid and not 
+section-wise. 
+ 
+
+Technical  bid  is  to  be  submitted  through  RPAD/Speed  post  only.  No  
+
+courier/hand delivery will be allowed. 
+
+DELAYED AND LATE TENDERS 
+
+        NO TENDER SHALL BE ACCEPTED / OPENED IN ANY CASE WHICH 
+
+ARE RECEIVED AFTER DUE DATE AND TIME OF THE RECEIPT OF TENDER 
+
+IRRESPECTIVE OF DELAY DUE TO POSTAL SERVICES OR ANY OTHER 
+
+REASONS AND GUVNL SHALL NOT ASSUME ANY RESPONSIBILITY FOR 
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 37 of 71 
+
+ 
+
+LATE RECEPIT OF TENDER. ANY CORRESPONDANCE IN THIS MATTER WILL 
+
+NOT BE ENTERTAINED. 
+
+ 
+
+The envelope shall be dated with the due date in the top right hand corner 
+
+and addressed as below: 
+ 
+
+Chief Engineer (Tech), GUVNL 
+
+Sardar Patel Vidyut Bhavan, Race 
+
+Course, Vadodara–390007 
+
+ 
+
+You have to submit the contract agreement before placement of order. 
+ 
+18. STATUTORY VARIATION 
+
+ 
+
+Any statutory increase or decrease in the taxes and duties subsequent to 
+
+suppliers offer if it takes place within the original contractual delivery date will be to 
+
+GUVNL‟s account subject to the claim being supported by documentary evidence. 
+
+However, if any decrease takes place after the contractual delivery date, the 
+
+advantage will have to be passed on to GUVNL. 
+
+ 
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 38 of 71 
+
+ 
+
+Annexure A: Earnest Money Deposit 
+ 
+ 
+
+E. M. D.   BANK GUARANTEE FORMAT  
+ 
+FOR TENDER NO.: GUVNL / ____________________________ 
+
+ 
+
+APPENDIX – I 
+
+(BANK GUARANTEE ON NON-JUDICIAL STAMP PAPER OF Rs.100/-)  
+
+           
+
+WHEREAS M/s.  ____________________________________ (name & address of 
+the Firm) having their registered office at 
+_____________________________________ (address of the firms Registered Office) 
+(hereinafter called the „Tenderer‟) wish to participate in the tender No.  
+____________________________________ for 
+_______________________________________ of (Supply / Erection / Supply & 
+Erection Work) (Name of the material / equipment / Work) for 
+_________________________ Gujarat Urja Vikas Nigam Ltd. and WHEREAS a Bank 
+Guarantee for  (hereinafter called the “Beneficiary”) Rs._____________ (amount of 
+EMD) valid till _________ (mention here date of validity of this Guarantee which will 
+be 4 (FOUR) months beyond initial validity of Tender‟s Offer) which is required to be 
+submitted by the Tenderer along with the Tender. 
+ 
+We, ____________________________ (name of the Bank and address of the Branch 
+giving the Bank Guarantee) having our Registered Office at 
+___________________________________ (address of Bank‟s Registered Office) 
+hereby give this Bank Guarantee No. ________________ dated _________ and 
+hereby agree unequivocally and unconditionally to pay immediately on demand in 
+writing from the Gujarat Urja Vikas Nigam Ltd. or any  Officer  authorized  by  it  in  this  
+behalf  any  amount  not  exceeding Rs. ______________ (amount of E.M.D.), 
+(Rupees ____________________ _________________ (in words) to the said Gujarat 
+Urja Vikas Nigam Ltd. on behalf of the Tenderer. 
+ 
+We ___________________________ (name of the Bank) also agree that withdrawal 
+of the Tender or part thereof by the Tenderer within its validity or Non-submission of 
+Security Deposit by the Tenderer within one month from the date tender or a part 
+thereof has been accepted by the Gujarat Urja Vikas Nigam Ltd. would constitute a 
+default on the part of the Tenderer and that this Bank Guarantee is liable to be invoked 
+and encashed within its validity by the Beneficiary in case of any occurrence of a 
+default on  the part of the Tenderer and that the encashed amount is liable to be 
+forfeited by the Beneficiary. 
+ 
+This agreement shall be valid and binding on this Bank up to and inclusive of 
+____________________ (mention here the date of validity of Guarantee) and shall not 
+be terminable by notice or by Guarantor change in the constitution of the Bank or the 
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 39 of 71 
+
+ 
+
+firm of Tenderer Or by any reason whatsoever and our liability hereunder shall not be 
+impaired or discharged by any extension of time or variations or alternations made, 
+given, conceded with or without our knowledge or consent by or between the Tenderer 
+and the  GUVNL. 
+
+ 
+
+“Notwithstanding anything contrary contained in any law for the time being in 
+force or banking practice, this Guarantee shall not be assignable, transferable by 
+the beneficiary (i.e. GUVNL or Subsidiaries).  Notice or invocation by any person 
+such as assignee, transferee or agent of beneficiary shall not be entertained by 
+the Bank. Any invocation of the Guarantee can be made only by the beneficiary 
+directly.” 
+ 
+NOTWITHSTANDING anything contained hereinbefore, our liability under this 
+guarantee is restricted to Rs. __________ (Amt. of E.M.D.) (Rupees 
+____________________________________) (in words). Our Guarantee shall remain 
+in force till _________ (Date of validity of the Guarantee). Unless demands or claims 
+under this Bank Guarantee are made to us in writing on or before _______ (Date of 
+validity of the Guarantee), all rights of Beneficiary under this Bank Guarantee shall 
+be forfeited and we shall be released and discharged from all liabilities there under: 
+ 
+Place: 
+ 
+Date: 
+ 
+
+Please Mention here Complete Postal 
+Address of the Bank with Branch Code, 
+
+Telephone and Fax Nos. 
+
+Signature of the Bank‟s 
+Authorised Signatory with 
+
+Official Round Seal. 
+ 
+NAME OF DESIGNATED BANKS: 
+ 
+1. All Nationalized Banks including Public Sector Banks like IDBI Bank Ltd.etc. 
+ 
+2. Private Sector Banks authorized by RBI to undertake the state Government 
+
+business, which are (i) Axis Bank  (ii) ICICI Bank (iii) HDFC Bank  
+ 
+Note: The Banks shall be the Banks recognized / notified by the Finance Department, 
+
+Government of Gujarat (GoG) from time to time. 
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 40 of 71 
+
+ 
+
+Annexure B:  Security Deposit for contract period 
+ON STAMP PAPER OF RS.100/- 
+
+FORM OF BANKER‟S UNDERTAKING 
+
+[For Performance Guarantees (PG) for supply period as per Commercial Terms and Conditions of Tender] 
+
+We, Bank of ___________________________________ hereby agree unequivocally 
+and unconditionally to pay immediately on demand in writing from the Gujarat Urja 
+Vikas Nigam Ltd. or any Officer authorized by it in this behalf any amount up  to  and  
+not  exceeding Rs. ____________ (in words) Rupees 
+__________________________ to the said  Gujarat  Urja  Vikas  Nigam   Limited   
+on   behalf   of   M/s. ________________________ _____________________ who 
+have entered into a contract for the supply/works specified below: 
+
+ 
+L.O.A. No.__________________________dated_________. 
+
+ 
+This agreement shall be valid and binding on this Bank upto and inclusive of 
+______________ and shall not be terminable by notice or by change in the 
+constitution of the Bank or the firm of Contractors / Suppliers or by any other reasons 
+whatsoever and our liability hereunder shall not be impaired or discharged by any 
+extension of time or variations or alterations made, given conceded or agreed, with or 
+without our knowledge or consent, by or between parties to the said within written 
+contract. 
+
+ 
+“Notwithstanding anything contrary contained in any law for the time being in 
+force or banking practice, this Guarantee shall not be assignable, transferable 
+by the beneficiary (i.e. GUVNL or Subsidiaries). Notice or invocation by any 
+person such as assignee, transferee or agent of beneficiary shall not be 
+entertained by the Bank.  Any invocation of the Guarantee can be made only by 
+the beneficiary directly.” 
+
+ 
+“NOTWITHSTANDING” anything contained herein before, our liability under this 
+guarantee is restricted to Rs. ___________ (Rupees _______________ 
+___________________ only). Our guarantee shall remain in force until 
+____________________ (Date of validity of the Guarantee). Unless demands or 
+claims under this Bank Guarantee are made to us in writing on or before _______   
+(Date of validity of the Guarantee), all rights of Beneficiary under this Bank 
+Guarantee shall be forfeited and we shall be released and discharged from all 
+liabilities there under: 
+ 
+Place:     
+Date:    
+
+Please Mention here Complete Postal 
+Address of the Bank with Branch 
+Code, Telephone and Fax Nos. 
+
+Signature of the  
+Bank‟s Authorised Signatory  
+with  Official Round Seal. 
+
+ 
+ 
+ 
+NAME OF DESIGNATED BANKS: 
+ 
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 41 of 71 
+
+ 
+
+1. All Nationalized Banks including Public Sector Banks IDBI Bank Ltd. 
+ 
+2. Private Sector Banks authorized by RBI to undertake the state Government 
+
+business, which are (i) Axis Bank  (ii) ICICI Bank (iii) HDFC Bank  
+ 
+Note: The banks shall be the Banks recognized / notified by the Finance 
+
+Department, Government of Gujarat (GoG) from time to time. 
+  
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 42 of 71 
+
+ 
+
+(On stamp paper of Rs. 100/- duly Notarized) 
+
+CONTRACT AGREEMENT 
+ 
+ 
+
+ This agreement is made at Vadodara the _ _ _ _ _ _ _ _ _ _ _ _ _ _  
+
+day of  _ _ _ _ _ _ _ _ _ _ _ _ __ _  _ _ _ _ in the Christian year Two 
+
+thousand _______ between _ _ _ _ _ _(herein after referred to as "THE 
+
+CONTRACTOR " which expression shall unless excluded by or repugnant 
+
+to the contract include its successors or permitted assigns) of the one part 
+
+and the Gujarat Urja Vikas Nigam Limited their Head Office at Sardar 
+
+Patel Vidyut Bhavan, Race Course, Vadodara -390 007 (hereinafter called 
+
+The Company which expression shall unless excluded by or repugnant to 
+
+the context include its successors or assigns) of the other part. 
+
+ 
+
+WHEREAS  the aforesaid GUVNL has accepted the tender of 
+
+the aforesaid contract for _ _ _ _ _ _ _ _ _ _ _ _ _  _ _ _ _ _  _ _ _ _ _ _as  
+
+per GUVNL LOI / LOA  _  _ _ _ _ _  _ __ _ _ _ -_ _  _ __hereinafter called 
+
+"the works" and more particularly described enumerated or referred to in 
+
+the specification terms and conditions prescribed in the LOI / LOA letter, 
+
+covering letter and other letters and schedule of price which for the 
+
+purpose of identification have been signed by Shri_ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+_ _ on behalf of the contractors and by_ _  _ _ _ _ _ _ _ _ _ on behalf of 
+
+GUVNL a list whereof is made out in the schedule hereunder written and 
+
+all of which said document are deemed to form part of this contract and 
+
+included in the expression "the works" wherever herein used, upon the 
+
+terms and subject to the conditions hereinafter mentioned. 
+
+  
+
+AND WHEREAS GUVNL has accepted the tender of the contractor 
+
+for the said works for the sum of Rs._ _ _ _ _ _  (Rupees:_ _ _ _ _ _ _ _ _ 
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 43 of 71 
+
+ 
+
+_ _ _ _ _ _ _ _ _) upon the terms and subject to the conditions herein 
+
+mentioned. 
+
+ 
+
+NOW THIS AGREEMENT WITNESSES AND IT IS HERBY AGREED 
+
+AND DECLARED THAT:- 
+
+ 
+
+1. The contractors shall do and perform all works and things in this 
+
+contract mentioned and described or which are implied therein or 
+
+therefrom receptivity or are reasonably necessary for the 
+
+completion of the works as mentioned and at the times, in the 
+
+manner and subject to the terms, conditions and stipulations 
+
+contained in this contract, and in consideration of the due provision, 
+
+executions, construction and completion of the works agreed to by 
+
+the contactors as aforesaid, GUVNL doth hereby covenant with the 
+
+contactor to pay all the sums of money as and when they become 
+
+due and payable to the contactor under the provisions of the 
+
+contract. Such payments to be made at such times and in such 
+
+manner as is provided by the contract. 
+
+2. The condition and covenants stipulated herein before in this 
+
+contract are subject to and without prejudice to the rights of GUVNL 
+
+to enforce penalty for delays and / or any other rights whatsoever 
+
+including the rights to reject and cancel on default or breach by the 
+
+contractors of the conditions and the covenants as stipulated in the 
+
+general conditions, specifications, form, or tender schedule, 
+
+drawing, etc, attached with GUVNL LOI/ LOA No. _ _ _ _ _ _ _  _ 
+
+__ _ _ _ __ _ _ _ _ 
+
+ 
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 44 of 71 
+
+ 
+
+ The contact value, extent or supply delivery dates, specifications, 
+
+and other relevant matters may be altered by mutual agreement and if 
+
+so altered shall not be deemed or construed to mean or apply to affect 
+
+or alter other terms and conditions of the contract and the general 
+
+conditions and the contract so altered or revised shall be and shall 
+
+always be deemed to have been subject to and without prejudice to 
+
+said stipulation. 
+
+    SCHEDULE 
+
+ 
+
+  List of documents forming part of the contract: 
+
+1.    
+
+2.   
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+
+ 
+
+ In witness whereof the parties hereto have set their hands and seals 
+
+this day and month year first above written.  
+
+ 
+
+1. Signed, Sealed and delivered by: 
+
+ 
+
+ (Signature with Name, Designation & official seal) 
+
+ for and on behalf of M/s. 
+
+In the presence of name, Full address & Signatures. 
+
+ 
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 45 of 71 
+
+ 
+
+i. -------------------------------------- 
+
+ ------------------------------------------------ 
+
+ ------------------------------------------------ 
+
+ii. ------------------------------------------------ 
+
+ ------------------------------------------------ 
+
+ ------------------------------------------------ 
+
+ 
+
+ 
+
+2. Signed, Sealed and Designation by: 
+
+ 
+
+ (Signature with Name, Designation & official seal) 
+
+ 
+
+For and on behalf of Gujarat Urja Vikas Nigam Limited, Vidyut Bhavan, 
+
+Race couse, VADODARA - 390 007. 
+
+ 
+
+i. :--------------------------- 
+
+ --------------------------------- 
+
+ --------------------------------- 
+
+ 
+
+ii. --------------------------------- 
+
+ --------------------------------- 
+
+ --------------------------------- 
+
+ 
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 46 of 71 
+
+ 
+
+UNDERTAKING IN REGARD TO STOP DEAL / BANNED FOR 
+
+BUSINESS DEALING / BLACK LIST THEREOF. 
+
+ 
+Sub: Undertaking in regard to Stop Deal / Banned for Business 
+dealing / Black List Thereof. 
+Ref: Tender No.:  
+ 
+All bidders will have to furnish the following undertaking duly filled in, 
+signed and stamped for each quoted item of the tender along with the 
+Technical Bid. 
+-------------------------------------------------------------------------------------------------- 
+ 
+I / We 
+
+________________________________________________________ 
+
+authorized signatory of M/S 
+
+______________________________________ here by certify that M/S 
+
+__________________________________________ and their proprietor / 
+
+any partner / any directors of the firm is not stop deal and/or banned for 
+
+business dealing and/or black listed by GUVNL and/or their any subsidiary 
+
+company viz. GSECL / GETCO / DGVCL / MGVCL / UGVCL / PGVCL.  
+
+ 
+ 
+ 
+
+Signature of the Tenderer 
+Seal of the Firm 
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 47 of 71 
+
+ 
+
+Annexure C:  Tender form – Technical Bid 
+ 
+
+TENDER FORM 
+ 
+
+GUJARAT URJA VIKAS NIGAM 
+
+LIMITED Sardar Patel VidyutBhavan, 
+
+Race Course, Vadodara – 390 
+
+007. 
+ 
+ 
+
+Re: RFP No.   GUVNL / 
+COMMERCIAL BID. 
+ 
+ 
+
+Sub:  Supply of Wide Area Network Hardware Equipment AMC, Warranty, NOC & 
+
+Networking Engineers Manpower Services 
+  
+Having examined the RFP, the receipt of which is hereby duly acknowledged, we, 
+
+the undersigned, offer the same are set out in the RFP Document. 
+ 
+
+ 
+
+We attach hereto the Tender / RFP Technical Response as required by the RFP, 
+
+which constitutes my /  our bid. We undertake, if our Tender / RFP Technical 
+
+Response is accepted,  to  adhere  to  the  implementation  plan  put  forward  in  
+
+the  Tender  /  RFP Technical Response or such adjusted plan as  may 
+
+subsequently be mutually agreed between us and the Gujarat Urja Vikas Nigam 
+
+Limited or its appointed representatives. 
+ 
+
+ 
+
+If our Tender/RFP Technical Response is accepted, we will obtain a performance 
+
+bank guarantee  in   the   format  given  in  the  Tender  Document  issued  by  a  
+
+scheduled commercial bank in India as notified by GOG GR No 
+
+EMD/10/2018/18/DMO/ dated 16.04.18 or as notified from time to time for a sum 
+
+equivalent to 10% of the contract sum for the due performance of the contract. 
+ 
+
+We agree to abide by this Tender / RFP Technical Response for a period of SIX 
+
+MONTHS from the date  fixed for Tender opening and it shall remain binding upon 
+
+us with full force and virtue, until within this period a formal contract is prepared and 
+
+executed, this Tender/RFP Technical Response, together with your written 
+
+acceptance thereof in your notification of award, shall constitute a binding contract 
+
+between us and will initiate the formation of a separate contract in respect of 
+
+maintenance and support services after the expiry of the warranty period. 
+ 
+
+We agree that GUVNL is not bound to accept the lowest or any Tender / RFP 
+
+Technical Response you may receive. We also agree that GUVNL reserve the 
+
+right in absolute sense to reject all or any of the services / products specified in 
+
+the Tender / RFP Technical Response without assigning any reason whatsoever. 
+
+ 
+
+
+
+ 
+
+60275                                                                                                                                                                                   Page 48 of 71 
+
+ 
+
+ 
+
+It is hereby confirmed that I/We are entitled to act on behalf of our corporation / 
+
+company / firm /  organization and empowered to sign this document as well as 
+
+such other documents which may be required in this connection. 
+ 
+
+ 
+
+Dated this …………………………. Day of 
+…………………..2012 
+ 
+ 
+
+…………………………………………….……………………
+………………………. 
+
+(Signature) 
+
+(In the capacity of) Duly authorized to sign the Tender Response for and on 
+behalf of: 
+ 
+ 
+
+……………………………………………………………………
+………………………… 
+
+……………………………………………………………………
+………………………… 
+ 
+ 
+
+(Name and address of Bidding 
+
+Company) Seal/Stamp of Tender 
+ 
+
+ 
+
+Witness name: 
+
+…………………………………………… 
+
+Witness address: 
+
+……………………………………….. 
+
+……………………………………………………
+
+……………… 
+
+Witness signature: 
+
+……………….……………………. 
+ 
+
+ 
+
+Attachments: 
+
+ Tender/ RFP Technical Response 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+Page 49 
+
+ 
+
+Annexure D:  
+
+List of Performance Certificate submitted with the Technical Bid 
+ 
+ 
+
+DETAILS OF THE EXPERIENCE FOR SUPPLY OF SIMILAR TYPE OF ITEMS IN LAST 
+FIVE YEARS FROM THE DUE DATE OF TENDER: 
+
+ 
+
+S
+r. 
+N
+o 
+
+SERVICES 
+SUPPLIED 
+TO 
+
+ORDER 
+REFERENCE 
+No. & DATE ITEMS QUANTITY 
+
+ORDER 
+FULLY 
+EXECUTED. 
+
+YES/NO 
+
+STATUS, IF 
+ORDER 
+UNDER 
+EXECUTION REMARKS 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A GUJARAT  URJA VIKAS NIGAM LTD or  its Subsidiaries : 
+ 
+
+1)        
+ 
+
+2)        
+ 
+
+3)        
+ 
+
+4)        
+ 
+
+        
+ 
+
+B OTHER STATE ELECTRICITY BOARDS:    
+ 
+
+1)        
+ 
+
+2)        
+ 
+
+3)        
+ 
+
+4)        
+ 
+
+        
+ 
+
+C PRIVATE FIRMS:      
+ 
+
+1)        
+ 
+
+2)        
+ 
+
+3)        
+ 
+
+4)        
+ 
+
+5)        
+ 
+
+ 
+
+
+
+ 
+
+Page 50 
+
+ 
+
+DETAILS OF THE FIRM 
+
+                 (TO BE SUBMITTED WITHTENDER FORMAT ONLY) 
+
+These details are necessary to create the database of Contractors 
+
+ Contractor Name     
+       
+
+ Works/factory at     
+      
+
+ Within Gujarat / Outside Gujarat    
+      
+
+ Pvt. Firm / Public Ltd. / State Govt.    
+ Under taking / Central Govt. (Indicate the relevant status)  
+
+ undertaking     
+ Contractor Category  Manufacturer/Authorized  
+
+    dealer/distributor/Trader/Agent  
+
+ GST NO    
+       
+
+ NEFT/RTGS details     
+
+ ISO Certification Details     
+
+ Name of ISO Certification Agency    
+
+ Validity Period of ISO Certification 
+From Date___________ to 
+Date___________  
+
+       
+
+ Address of  Registered Factory / Authorized Representative  
+
+   Office Works (As per cond. no.:40 above)  
+ Contact person name      
+       
+
+ Designation      
+       
+
+ Address      
+
+ City & Pin code      
+
+ State      
+       
+
+ Country      
+       
+
+ Phone Nos.(Office)      
+       
+
+ Phone Nos.(Residence)      
+
+ Fax Nos.      
+       
+
+ STD Code.      
+
+ Mobile No.      
+
+ Web site address      
+
+ Email-id      
+
+ Specimen signature      
+       
+
+
+
+ 
+
+Page 51 
+
+ 
+
+  Annexure E:  Checklist 
+ 
+
+The bidder shall confirm whether following are submitted in their bid. The bidder 
+
+shall indicate the page no. at which the details asked below are furnished, 
+
+otherwise, bid is liable for rejection. 
+
+Vendor must fill up below details & should place at the top of the 
+
+Technical Bid. 
+ 
+
+Sr. 
+No. 
+
+DETAILS Submitted 
+(Yes/No) 
+
+Page No. 
+at which 
+details 
+
+1 Technical bid.   
+
+2 Bid in English, Sealed and Super scribed.   
+3 EMD Submitted with Technical Bid-EMD cover 
+
+kept as separate enclosure. 
+  
+
+ Annexure A-Earnest money deposit  
+ 
+
+  
+
+ Annexure B-Performance bank 
+Guarantee  
+ 
+
+  
+
+ Annexure C –Tender Form(Technical 
+Bid) 
+. 
+
+  
+
+ Annexure D – List of performance 
+certificate submitted with the Technical 
+bid. 
+ 
+
+  
+
+5 Whether the Bid is authenticated by authorized 
+person 
+
+  
+
+6 All the pages are numbered properly   
+
+7 All pages are authenticated by sign and 
+seal(Full signature to be affixed and not 
+initials).Erasures/  
+Overwriting/Cutting/Corrections 
+authenticated Certification/Undertaking is 
+authenticated. 
+
+  
+
+8 Whether the documents indicating the 
+financial turnover  
+
+  
+
+9 Liquidated damages Terms Agreed: (Specify 
+YES / NO.) 
+
+  
+
+10 Delivery Terms Agreed: (Specify YES / NO.)   
+
+11 Validity Of The Offer Agreed: (Specify YES / NO.)   
+
+12 Payment Terms Agreed: (Specify YES / NO.)   
+13 Earnest Money Deposit Terms Agreed (YES/NO)   
+14 Performance Guarantee Terms Agreed (YES/NO.)   
+
+ 
+
+
+
+ 
+
+Page 52 
+
+ 
+
+4.6 Schedule – A (Technical Bid) 
+
+ 
+
+Wide Area Network Hardware Equipment AMC, Warranty, NOC & Networking Engineers 
+Manpower Services 
+
+Sr. 
+No. 
+
+Item  Description Tender 
+Quantity 
+(In Nos) 
+
+Offered 
+Quantity(In 
+
+Nos.) 
+
+Remarks(if 
+Any) 
+
+1 
+
+Warranty 
+for WAN 
+
+Hardware 
+Equipments 
+
+CISCO 7206  Router 2 
+  
+
+CISCO 3825  Router  34 
+  
+
+CISCO 2821 Router 152 
+  
+
+CISCO 1841 Router 504 
+  
+
+Hwic-1T Card 51 
+  
+
+Wic-4T Card 288 
+  
+
+Wic-1T Card 558 
+  
+
+G.703 2W Modem 498 
+  
+
+V.35 2W Modem 434 
+  
+
+RAD Interface  Convertor 840 
+  
+
+CISCO L2 2960G Switch 3 
+  
+
+CISCO L2 2960 Switch 3 
+  
+
+NM 4T Card  4 
+  
+
+CAB-SS-V35MT Smart Cable 572 
+  
+
+V.35 DTE Smart Serial Cable 930 
+  
+
+WIC-2T-2 Port WAN Inter  Module 49 
+  
+
+Easy Config 25 
+  
+
+42U Rack with selves & Items 45 
+  
+
+12U Rack with selves & Items 481 
+  
+
+CISCO SG-300 Switch 9 
+
+  
+
+CISCO 3750 Switch 1 
+
+  
+
+CISCO 1941    Router 51 
+
+  
+
+CISCO 3925   Router 2   
+
+Warranty for WAN Hardware Equipments 5536   
+
+2 
+ 
+ 
+
+AMC of Data Circuit, Liaison with Lease 
+
+Line Service provider,  WAN Equipments 
+
+maintenances and  Logistics, Deployment 
+
+of Network Engineer Manpower at NOC 
+
+and at DISCOM/GETCO  Locations, NOC 
+
+802  Data 
+Circuits  
+
+ 
+
+46 
+Manpower 
+
+ 
+
+ 
+
+
+
+ 
+
+Page 53 
+
+ 
+
+Setup at GUVNL 
+
+Bidder has to quote for full quantity for all the above items, in absence of that, the bids 
+
+will not be considered for further evaluation. No further correspondence will be 
+
+entertained in any case.
+
+
+
+ 
+
+Page 54 
+
+ 
+
+ 
+
+ Schedule – B (Price Bid) 
+
+ 
+
+Sr. 
+
+No. 
+
+Item 
+
+Item Description Unit 
+Tender 
+
+Qty. In 
+
+nos. 
+
+END 
+
+Cost  
+
+without 
+
+GST in 
+
+Rs. 
+
+GST 
+End 
+
+Cost   
+
+with 
+
+GST  in 
+
+Rs. 
+In 
+
+% 
+
+in 
+
+Rs. 
+
+1 
+
+Warranty for WAN 
+Hardware Equipments   
+ 
+
+Nos. 
+
+Nos. 5536 
+
+    
+
+2 
+ 
+ 
+
+AMC of Data Circuit, 
+Liaison with Lease 
+Line Service provider,  
+WAN Equipments 
+maintenances and  
+Logistics, Deployment 
+of Network Engineer 
+Manpower at NOC and  
+at DISCOM/GETCO  
+Locations, NOC Setup 
+at GUVNL 
+
+ 
+
+Nos. 
+
+802 
+
+Data 
+
+Circuit
+
+s 
+
+    
+
+Nos. 
+
+46 
+
+Man 
+
+power 
+
+ 
+REMARKS:  
+ 
+I/We agree to supply the above mentioned services above at the rates here in 
+tendered by me / us subject to the condition of Tender and supply of the Tender 
+inquiry which I/ We have carefully read and which I /We have thoroughly 
+understood and to which  I/we agree. 
+ 
+I / We here by agree to keep this offer open for 120 Days from the opening date of 
+Price Bid and shall be bound by communication of acceptance dispatched within 
+the prescribed time. 
+ 
+ 
+ 
+ 
+ 
+ DATE :           Yours Faith fully 
+ 
+
+ 
+
+(Signature of the Bidder) 
+
+   (With company‟s round seal)  
+
+
+
+ 
+
+Page 55 
+
+ 
+
+Annexure U:  UNDERTAKING 
+
+UNDERTAKING 
+
+ 
+
+        (Duly notarized on recent Non-Judicial 
+         Stamp Paper value of Rs. 100/-) 
+ 
+
+This deed of undertaking is executed on _________at Vadodara by M/s. ____________ 
+______________ __________ a Company registered under Companies Act, 1956, having 
+its registered Office at ___________________________________________ to the 
+following effect. 
+
+WHEREAS Gujarat Urja Vikas Nigam Limited (hereinafter referred to as „GUVNL‟) a company 
+
+incorporated under the Companies Act, 1956 having its Head Office / Registered Office at 
+
+Sardar Patel Vidyut Bhavan, Race Course, Vadodara has placed Work Order No. 
+
+_____________ ____________ dated _________ for Wide Area Network Hardware 
+
+Equipment AMC, Warranty,  Network Operating Center-NOC monitoring and control and 
+
+Networking Engineers Manpower Services For NOC, Various locations of GUVNL and its 
+
+subsidiary companies for GUVNL and all its subsidiary companies to M/s_______________. 
+
+ 
+
+WHEREAS as per terms of tender, the contractor has to indemnify the „GUVNL‟ to maintain 
+
+Integrity & Confidentiality for data provided by the GUVNL.  We hereby by bind ourselves to 
+
+safeguard the interest of GUVNL, we further indemnify the GUVNL against Integrity & 
+
+Confidentiality of data provided by the GUVNL and if any damages occurred to GUVNL we 
+
+hereby assure that interest of GUVNL will be fully safeguarded and indemnified by us in all 
+
+respect. 
+
+__________________ 
+(Authorized Signature) 
+
+Name & Designation 
+In the Presence of Signature 
+With Name, Designation & 
+Address 
+
+ 
+
+1. 
+
+ 
+
+2. 
+
+
+
+ 
+
+Page 56 
+
+ 
+
+Notary Public 
+
+
+
+ 
+
+Page 57 
+
+ 
+
+ 
+
+Annexure-V 
+
+ 
+
+Company wise Field Network Engineer Deployment Locations 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+DGVCL 
+
+1.  Valsad O&M Circle  
+
+2.  Bharuch O&M Circle  
+
+3.  SURAT O&M Circle  
+
+4.  Surat City O&M Circle 
+
+ 
+
+UGVCL 
+
+1.  Himmatnagar O&M Circle  
+
+2.  Sabarmati O&M Circle  
+
+3.  Mehsana O&M Circle  
+
+4.  Palanpur O&M Circle 
+
+   
+
+GETCO 
+
+1.  NAVSARI Trans. Circle 
+
+2.  JAMBUVA Trans. CIRCLE 
+
+3.  NADIAD Trans. CIRCLE 
+
+4.  MEHSANA Trans. CIRCLE 
+
+5.  GONDAL Trans. CIRCLE 
+
+6.  ANJAR Trans. CIRCLE 
+
+7.  PALANPUR Trans. CIRCLE 
+
+8.  AMRELI Trans, CIRCLE 
+
+9.  BHARUCH Trans. CIRCLE 
+
+10.  JUNAGADH Trans CIRCLE 
+
+11.  Surendranagar Trans. Circle 
+
+12.  Himatnagar Trans Circle 
+
+13.  Jamnagar Trans Circle 
+
+  
+
+PGVCL 
+
+1.  Amreli O&M Circle 
+
+2.  Surendranagar O&M  Circle 
+
+3.  Junagadh O&M Circle 
+
+4.  Jamnagar O&M Circle 
+
+5.  RAJKOT O&M O&M Circle 
+
+6.  Porbandar O&M Circle 
+
+7.  Bhavnagar O&M Circle 
+
+8.  Rajkot City O&M Circle 
+
+9.  Bhuj O&M Circle 
+
+10.  Morbi O&M Circle 
+
+11.  Botad O&M Circle 
+
+12.  Anjar O&M Circle 
+
+MGVCL 
+
+1.  Baroda City O&M  Circle 
+
+2.  Godhra O&M O&M Circle  
+
+3.  Baroda O&M O&M Circle  
+
+4.  Anand O&M O&M Circle  
+
+5.  Nadiad O&M O&M  Circle 
+
+GUVNL 
+
+1 At GUVNL Building for 
+LAN/WAN 
+
+
+
+ 
+
+Page 58 
+
+ 
+
+ 
+
+Annexure-W 
+
+ 
+
+GUVNL End Cost Purchase Price of WAN Hardware Equipments 
+
+ 
+
+WAN Equipment Unit Price for Penalty Purpose 
+
+1 2 3 4 
+
+ITEM Description Quantity 
+Unit 
+
+Price (In 
+Rs.) 
+
+Yearly 
+Charge 
+(In Rs.) 
+
+for 
+Penalty 
+Purpose 
+per Unit 
+
+CISCO 7206 Router 2 3515577 333980 
+
+CISCO 3925 Router 2 258628 24570 
+
+CISCO 3825 Router 34 311066 29551 
+
+CISCO 2821 Router 152 152719 14508 
+
+CISCO 1941 Router 51 64521 6129 
+
+CISCO 1841 Router 504 51524 4895 
+
+ASMi-52 WITH E1 2W Modem 498 21599 2052 
+
+ASMi-52 WITH V.35 2W Modem 434 21599 2052 
+
+RAD E1 Interface Converter 840 12689 1205 
+
+WIC-4T Card 288 113568 10789 
+
+WIC-1T Card 558 14352 1363 
+
+NM-4T Card 4 162378 15426 
+
+HWIC-1T Card 51 7000 665 
+
+CAB-SS-V35MT Smart Cable 572 3255 309 
+
+EASY CONFIG 25 2408 229 
+
+CISCO L2 2960G Switch 3 85000 8075 
+
+CISCO L2 2960 Switch 3 32000 3040 
+
+V.35 DTE Smart Serial Cable 930 3536 336 
+
+CISCO SG-300 Switch 9 9500 999 
+
+CISCO 3750 Switch 1 252651 26579 
+
+WIC-2T - 2 Port WAN Interface Module 49 17500 1663 
+
+42U RACK with Necessary Items and 
+Selves 
+
+45 22893 2175 
+
+12U RACK with Necessary Items and 
+Selves 
+
+481 5860 557 
+
+ 
+
+ 
+
+
+
+ 
+
+Page 59 
+
+ 
+
+ 
+
+Annexure-X 
+
+ 
+
+Wide Area Network Hardware Equipment Technical Specifications 
+
+Item Description Technical Specifications 
+
+CISCO 7206 VXR 
+
+Power Cord Europe 
+
+Cisco 7200 Series NPE G2 IOS IP BASE 
+
+7200 series NPE-G2 engine with 3 GE/FE/E ports 
+
+1 port multichannel STM-1 single mode port adapter 2 Nos, 
+
+Cisco 7200 AC Power Supply Option 
+
+7200 Series NPE-G2 1GB Memory 
+
+Cisco 7200 Compact Flash Disk for NPE-G2, 256 MB 
+
+CISCO 3925 
+
+Cisco 3925 w/SPElOO 
+
+(3GE,4EHWIC,4DSP,2SM,256MBCF,1GBDRAM,IPB ) 
+
+Cisco 3925-3945 IOS UNIVERSAL 
+
+Cisco 7204VXR, 4-slot chassis, 1 AC Supply w/IP Software 
+
+Cisco 7200 Redundant AC Power Supply Option (280W) 
+
+Data License for Cisco 3900 Series 
+
+AC Power Cord (India/South Africa), C13, BS 546, 1.8m 
+
+Cisco config Pro Express on Router Flash w/o default config, Cisco 
+3925/3945 AC Power Supply, Cisco 3925/3945 Fan Assembly 
+
+(Bezel included), Cisco Services performance Engine 100 for Cisco 
+3925 ISR 
+
+1GB DRAM (512MB+512MB) for Cisco 3925/3945 ISR (Default), 
+256MB Compact Flash for Cisco 1900, 2900, 3900 ISR, IP Base 
+
+License for Cisco 3925/3945 
+
+CISCO 3825 
+
+3825 w/AC PWR, 2GE,1SFP, 2NME, 4HWIC, IP Base, 64F/256D 
+
+Power Cord Europe 
+
+Cisco 3825 IP BASE 
+
+4-Port Serial Network Module 
+
+4-Port Serial HWIC 
+
+V.35 Cable, DTE Male to Smart Serial, 10 Feet 
+
+Cisco 3825 AC power supply 
+
+Device manager for routers 
+
+256BM SDRAM default memory for 3800 
+
+64MB Cisco 3800 Compact Flash Memory Default 
+
+CISCO 2821 
+
+2821 w/ AC PWR,2GE,4HWICs,3PVDM,1NME-X,2AIM,IP BASE,64F/256D 
+
+Cisco 2800 IP BASE W/O CRYPTO 
+
+4-Port Serial HWIC 
+
+Power Cord Europe 
+
+V.35 Cable, DTE Male to Smart Serial, 10 Feet 
+
+Cisco 2821/51 AC power supply 
+
+Device manager for routers 
+
+256MB DDR DRAM Memory factory default for the Cisco 2800 
+
+
+
+ 
+
+Page 60 
+
+ 
+
+64MB CF default for Cisco 2800 Series 
+
+ 
+ 
+
+CISCO 1941 
+
+Cisco 1941 w/2 GE 2EHWIC Slots,256MB CF, 
+
+512Mb DRAM, IP Base. 
+
+Cisco 1941I0S Universal 
+
+Data License for Cisco 1900 
+
+1-Port Serial WAN Interface Card 
+
+AC Power Cord (India/South Africa), C13, BS 
+546,1.8m, Console Cable 6 ft with USB Type A 
+and mini-B 
+
+Cisco config Pro Express on Router Flash w/o 
+default config 
+
+CISCO 1841 
+
+Modular Router w/2xFE, 2 WAN slots, 32 FL/128 DR 
+
+Power Cord Europe 
+
+Cisco 1841 IOS IP BASE W/O CRYPTO 
+
+1-Port Serial WAN Interface Card 
+
+V.35 Cable, DTE, Male, 10 Feet 
+
+32MB Cisco 1800 Compact Flash 
+
+Device manager for routers 
+
+ASMi-52A12W/e1B/ETH/SW:2 
+
+ASMI-52A12W/E1B/ETH/SW:2-Wire,Standalone, 
+g.SHDSLModems(,n x 64Kbps) 
+
+ up to 2048 KbpsData Rates, BalancedG703Interface, 
+Supports both 1 24000 24000 
+
+230VACIi 48VDCPowerInterfaces  
+
+ASMi52A12WN35/ETH/SW 
+
+ASMI-52A12WN35/ETH/SW: 2-Wtre, Standalone, 
+g.SHDSLModems, (n x 64Kbps) 
+
+up to 2048 Kbps Data Rates, V.35 Interface, Supports both 
+230VACIi 1 24000 24000 
+
+48V DCPower Interfaces 
+
+Easy Config 
+
+EASYCONFIG:MRO-TEKmake Intelligent Hand-Held 
+Terminal for configuring 1 2000 2000 
+
+the ASMI-52Modem 
+
+RIC-E1/ACN35 
+
+RAD E1 Converter, 230V AC Power Supply, V.35 Interface 
+
+Model No.: RIC-E1/ACN35 
+
+WIC 4T Card 4 port wan interface card V.35 
+
+WIC 1T Card 1 port 3.35 WAN Interface Card 
+
+NM-4TCard 4 port V.35 interface card 
+
+HWIC-4TC ard High Speed 4 port V.35 WAN  interface card 
+
+CAB-SS-V3sMS V.35 cable Smart Serial 
+
+WIC-2T 2 Port Wan interface V.35 Card 
+
+42U RACK 19" Elixer Equipment rack 
+
+12U RACK 19" Elixer Equipment rack 
+
+
+
+ 
+
+Page 61 
+
+ 
+
+Cisco Catalyst 2960G-24TC-L 
+
+24 Ethernet 10/100/1000 ports,4 of which are dual-purpose 
+(10/100/1000 or SFP), 4 dual-purpose ports (10/100/1000 or 
+SFP) 
+
+ 
+
+Cisco Catalyst 2960-24TC-L 24 Ethernet 10/100 ports, 2 dual-purpose ports 
+
+
+
+ 
+
+Page 62 
+
+ 
+
+Annexure -Y 
+GUVNL WAN Layout 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+Page 63 
+
+ 
+
+ 
+
+GSECL Network 
+ 
+ 
+
+
+
+ 
+
+Page 64 
+
+ 
+
+
+
+ 
+
+Page 65 
+
+ 
+
+GETCO Network 
+
+
+
+ 
+
+Page 66 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+Page 67 
+
+ 
+
+DGVCL Network 
+
+ 
+
+
+
+ 
+
+Page 68 
+
+ 
+
+UGVCL   Network 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+Page 69 
+
+ 
+
+PGVCL Network 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+Page 70 
+
+ 
+
+ 
+
+MGVCL Network 
+
+ 
+
+ 
+
+
+
+ 
+
+Page 71 
+
+ 
+
+  
+
+

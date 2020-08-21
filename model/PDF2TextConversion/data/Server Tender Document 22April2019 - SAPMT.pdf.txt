@@ -1,0 +1,1362 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tender for Providing Rack Server with Material and Services
+
+
+ 
+
+ 
+Tender for Providing Rack Server 
+with Material and Services 
+On Supply, Installation, Testing and Commissioning (SITC) basis 
+ 
+at Sabarmati Ashram Preservation and Memorial Trust 
+ 
+ 
+April, 2019 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sabarmati Ashram Preservation and Memorial Trust 
+Gandhi Smarak Sangrahalaya, Gandhi Ashram 
+Ahmedabad – 380027 
+
+
+
+Tender for Providing 2 Rack Servers on SITC basis at SAPMT 
+
+Notice Inviting On-line Tender 
+Department Name Sabarmati Ashram Preservation and Memorial Trust 
+
+(SAPMT) 
+Authority Inviting/ Opening 
+Bid 
+
+Sabarmati Ashram Preservation and Memorial Trust 
+Gandhi Smarak Sangrahalaya, Gandhi Ashram Sabarmati, 
+Ahmedabad – 380 027. Gujarat. India. 
+
+Name of Work Tender for Providing 2 Rack Servers on SITC basis at SAPMT 
+Tender Currency Type Single 
+Tender Currency Settings Indian Rupee (INR) 
+Joint Venture/Consortium Not Allowed 
+Amount Details 
+Tender Fee INR 2,000/- in form of Demand Draft from any Nationalized 
+
+Bank or HDFC/AXIS/ICICI bank  (Non-refundable) 
+Estimated Project Cost Approximately INR 10,00,000/- (Ten Lakh Only) 
+Bid Security/EMD (INR) INR 80,000/- (Eighty Thousand Only) 
+Bid Security/EMD in favour 
+of 
+
+(Rupees Eighty Thousand Only) by DD in favour of 
+“Sabarmati Ashram Preservation and Memorial Trust” 
+from any Nationalized Bank or HDFC/AXIS/ICICI bank 
+
+Important Dates 
+Bid Document Downloading 
+Start Date 
+
+10/04/2019 at 10.00 hrs. 
+
+Bid Document Downloading 
+End Date 
+
+06/05/2019 at 17.00 hours. 
+
+Pre-bid Meeting Date 18/04/2019 at 12.00 hours at Gandhi Heritage Portal 
+Office, Museum Building, Sabarmati Ashram Preservation 
+and Memorial Trust, Gandhi Ashram, Ahmedabad – 380 
+027. Gujarat. India. 
+
+Last Date of Physical 
+submission of EMD, Tender 
+fee and other documents. 
+
+06/05/2019 at 17.00 hours. 
+
+Last Date for Online 
+Submission of eTender 
+
+06/05/2019 at 17.00 hours. 
+
+Date of Tender Opening 07/05/2019 at 11.30 hrs. 
+Bid Validity Period 90 days from opening of price bid 
+Remarks  Bidder should submit their financial offer in electronic 
+
+format on website, after digitally signing the same. Offers 
+which are not digitally signed will not be accepted. No offer 
+in physical form will be accepted and any such offer is 
+received will be out rightly rejected by Sabarmati Ashram 
+Preservation & Memorial Trust, Ahmedabad.  
+
+Phone +91 79 2756 0597 
+Email admin@gandhiheritageportal.org 
+
+Sabarmati Ashram Preservation and Memorial Trust Page 1 of 23 
+
+
+
+Tender for Providing 2 Rack Servers on SITC basis at SAPMT 
+
+Bid Submission 
+1. Please address all queries and correspondence to the Sabarmati Ashram Preservation & 
+
+Memorial Trust, Gandhi Ashram Sabarmati, Ahmedabad – 380 027. Gujarat. India. 
+
+Email address: admin@gandhiheritageportal.org 
+
+2. Please quote Tender Number in all your correspondence. 
+3. Bidders who wish to participate in this selection process will have to register on 
+
+https:/www.nprocure.com. Further, participating Bidders will have to procure Digital 
+Certificate as per Information Technology Act 2000 using which they can sign their 
+electronic commercial proposals. Bidders can procure the same from (n) Code Solutions 
+– a division of GNFC Limited, or from any other agency licensed by Controller of 
+Certifying Authority. Government of India. Bidders who already have a Digital Certificate 
+need not procure a new digital certificate.  
+
+4. Technical Bid: Bidders should submit physically their bids in TWO SEPARATE PARTS in 
+sealed envelopes, each super-scribed with due date, time, project and nature of bid. 
+Bidder has to submit spiral document duly numbered. Loose documents shall be out 
+rightly rejected. Please submit technical bid (without price) along with required 
+documents at following address: 
+
+Gandhi Heritage Portal Office, 
+Museum Building, 
+Sabarmati Ashram Preservation & Memorial Trust, Gandhi Ashram,  
+
+ Ahmedabad – 380 027. Gujarat. India. 
+
+4.1.  PART-I: EMD & Tender Fee should be submitted in a separate sealed envelope. 
+Please enclose EMD of INR 80,000/- and Tender Fee of INR 2,000/- in form of 
+Demand Drafts drawn in favour of "Sabarmati Ashram Preservation & Memorial 
+Trust" payable at Ahmedabad. EMD will be refunded immediately after placement 
+of order to the other parties. Please mention following details on the envelope: 
+PART – I 
+EMD and Tender Fee 
+Tender ID 
+Tender Name 
+
+4.2. PART-II: Original copy of TECHNICAL BID duly signed, complete with all technical 
+and other details EXCEPT the PRICES/QUOTE. Original printed document shall be 
+considered as authentic. All pages of the offer must be signed. Please mention 
+following on the envelope: 
+PART – II 
+TECHNICAL BID 
+Tender ID 
+Tender Name 
+
+4.3. Note: Filling up prices in Part II will render the Bidder disqualified. The envelopes 
+containing Part-I and Part-II of offer should be enclosed in a larger single envelope 
+duly sealed.  
+
+Sabarmati Ashram Preservation and Memorial Trust Page 2 of 23 
+
+
+
+Tender for Providing 2 Rack Servers on SITC basis at SAPMT 
+
+5. Financial Bid: Bidder should submit the FINANCIAL BID ONLINE through 
+www.nprocure.com ONLY. 
+
+6. Services offered should be strictly as per specifications mentioned in this Tender 
+Document. Please clearly declare any unavoidable deviations, article-wise, in your bid 
+under the heading "Deviations". 
+
+7. Once quoted, the Bidder should not make any subsequent price changes, whether 
+resulting or arising out of any technical/commercial clarifications sought regarding the 
+bid, even if any deviation or exclusion may be specifically stated in the bid. Such price 
+changes shall render the bid liable for rejection. 
+
+ 
+
+General Terms and Conditions 
+1. Bidders have to submit Price bid in Electronic form ONLY on nProcure website 
+
+(https://www.nprocure.com/) till the Last Date & Time for submission. 
+
+2. Price bid offered in physical form will NOT be accepted in any case.  
+3. Bidders who wish to participate in online tenders will have to procure/should have 
+
+legally valid Digital Certificate as per Information Technology Act-2000 using which they 
+can sign their electronic bids. Bidders can procure the same from any of license 
+certifying Authority of India or can contact (n) Code Solutions – A division of GNFC Ltd., 
+who are licensed Certifying Authority by Govt. of India.  
+
+4. All bids should be digitally signed. The bidder shall contact at below mentioned address 
+for vendor registration, if they don’t have the same:  
+
+ (n) Code Solutions – A Division of GNFC  
+ 301, GNFC Info tower, Bodakdev,  
+
+Ahmedabad –380 054. Gujarat. India. 
+Telephone: +91 79 26857316 / 17 / 18 
+E-mail: nprocure@gnvfc.net 
+Fax: +91 79 26857321 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+Sabarmati Ashram Preservation and Memorial Trust Page 3 of 23 
+
+
+
+Tender for Providing 2 Rack Servers on SITC basis at SAPMT 
+
+CONTENTS 
+
+ 
+CHAPTER NO.  PARTICULARS  
+I  INVITATION FOR BIDS (IFB)  
+II  BID EVALUATION CRITERIA 
+III  GENERAL TERMS AND CONDITIONS  
+IV  GENERATION INFORMATION ABOUT THE TENDERER 
+ 
+ 
+  
+
+Sabarmati Ashram Preservation and Memorial Trust Page 4 of 23 
+
+
+
+Tender for Providing 2 Rack Servers on SITC basis at SAPMT 
+
+CHAPTER – I 
+
+INVITATION FOR BIDS (IFB) 
+
+Sabarmati Ashram Preservation and Memorial Trust (SAPMT), Ahmedabad established in 
+1951, the nomenclature indicates is primarily that of preservation and stand as memorial of 
+the historical of phenomenon of Gandhi’s life thought and work. 
+
+SAPMT invites interested service provider to submit bids, related experience, references of 
+the work completed in prescribed format and time limits. Decision of allotment of work by 
+SAPMT will be final. 
+
+1. Instructions to Applicant 
+1.1. The Applicant shall bear all the costs associated with the preparation and 
+
+submission of the EOI/Bid and SAPMT will, in no case be responsible or liable for 
+these costs regardless the conduct or outcome of the process. The Applicant is 
+expected to examine all instructions, forms, terms & conditions in the EOI/Bid 
+document. 
+
+1.2. SAPMT reserves the right to cancel any or all the EOI/Bid as per its discretion 
+without assigning and giving any reason thereof. SAPMT also reserves right to 
+rescind the process of this EOI/Bid at any time before placement of the order for the 
+said scope of work herein. 
+
+1.3. The Applicant shall prepare the EOI/Bid based on the information furnished and 
+terms & conditions provided in the EOI/Bid document.  
+
+1.4. Failure to furnish all information required by the EOI/Bid or submission of EOI/Bid 
+not substantially responsive to the EOI/Bid document will be at the applicant's risk 
+and may result in the rejection of the EOI/Bid. 
+
+1.5. The EOI/Bid submitted is to be signed by a person who is a duly authorized by the 
+company. A proof in this regard to be submitted along with the relevant documents. 
+
+1.6. The bidder must meet requirements stated. The SAPMT reserves the right to 
+request for any additional information and reserves the right to reject the proposal 
+of any Applicant, if in the opinion of the SAPMT, the qualification data is incomplete 
+or the applicant is found not qualified to satisfactorily perform the works. 
+
+1.7. As an acceptance of terms and conditions, the document duly signed and sealed on 
+every page should be returned along with the offer. 
+
+1.8. Only one bid will be accepted from a Group of companies and entities. 
+1.9. All photocopies are required in self-attestation 
+1.10. Entire Tender Document with annexure must be submitted duly signed & 
+
+stamped on each page 
+
+2. Scope of the work & deliverables 
+Following is the proposed list of specification of the Rack Server to be procured. All the 
+material/services should be delivered to SAPMT and all the expenses related to the same 
+will have to bear by service provider. All the expenses related to project execution needs to 
+
+Sabarmati Ashram Preservation and Memorial Trust Page 5 of 23 
+
+
+
+Tender for Providing 2 Rack Servers on SITC basis at SAPMT 
+
+bear by service provider. Supply/Delivery location for goods & services will be SAPMT. 
+Please plan everything as SAPMT will not provide anything while implementation: 
+
+Rack Server - Quantity 2 
+(Makes : Lenovo / HPE / Dell EMC / Cisco)  
+Sr. No.   Specifications  
+
+1.  Chassis: 1U or 2U Rack Mountable  
+2.  CPU: CPU: 2*Intel® Xeon® Silver Processor 4110 (20M Cache, 2.1 GHz) or higher. 
+
+Minimum 8 core required 
+3.  Motherboard: Intel® C600 Series Chipset or higher  
+4.  Graphics: On Board  Graphics with 16 MB RAM  
+5.  Slots: Minimum three PCI-X/PCI-e slots   
+6.  Memory: 32GB (2 x 16GB) DDR4 – expandable up to 64 GB 
+7.  Bays: 8 Hot Plug hard disk bays  
+8.  HDD:  
+
+Operating System (OS): Minimum 600 GB usable with RAID 1. OS will be 
+provided by SAPMT but needs to be installed by SI. 
+Data: Minimum 8 TB usable with RAID 5 (4 x 4 TB 10K RPM SAS) 
+
+9.  RAID: We will need Hardware-based RAID controller with 2GB cache memory 
+10.  Keyboard: Standard 104 keys USB based Keyboard 
+11.  Mouse: Standard 2 Keys Optical USB scroll mouse 
+12.  Networking Features: Embedded 4 * 1Gbps ports or more  
+13.  HBA Card: 1* 8Gbps Dual Port FC HBA with FC Patch cord (Single FC Card) 
+14.  Ports: 3 USB ports (with Min 1 USB 3.0 port),  
+
+4 RJ-45 port,  
+1 VGA or HDMI port to connect display 
+1 Remote Management Port (TCP\IP based): (it is used for GUI interface to 
+monitor & manage the server performance remotely.)  
+
+15.  Management hardware: Integrated System Management Processor or 
+Integrated BMC Controller  
+
+16.  System Management Software: Pre-failure alerts for processor, memory and 
+hard disks, Unattended  and selectable remote boot and remote diagnostics, 
+ECC with error reporting   
+
+17.  DVD Drive: Slim Line DVD Writer (Internal / External through USB connectivity) 
+18.  Rack rails: Rack rails needs to be supply along with server  
+19.  Power Supply: Redundant Hot swappable  power supply   
+20.  Certifications RoHS ,UL ,CE/FCC or equivalent third party certification from 
+
+reputed Indian/foreign Agency, Linux Certification   
+21.  Delivery Period: Entire solution must be completed in 4 – 6 weeks from the date 
+
+of order. 
+
+Sabarmati Ashram Preservation and Memorial Trust Page 6 of 23 
+
+
+
+Tender for Providing 2 Rack Servers on SITC basis at SAPMT 
+
+22.  Support: 3 years OEM 24X7 comprehensive onsite warranty. 
+(Proof for the warranty from OEM will be required) 
+
+Note: Proposed product must have at least 5 year of end of life cycle. Please provide 
+datasheet of the each product proposed. Please plan all inventory and services with 3 year 
+warranty and support.  
+
+Sabarmati Ashram Preservation and Memorial Trust Page 7 of 23 
+
+
+
+Tender for Providing 2 Rack Servers on SITC basis at SAPMT 
+
+CHAPTER - II 
+BID EVALUATION CRITERIA 
+
+Offers of only those parties who are found qualified based on Bid Evaluation Criteria will be 
+consider for further evaluation. 
+
+1. Commercial Profile sheet dully filled up 
+1.1. Earnest Money Deposit in the prescribed form should be submitted along with the 
+
+offer.  
+1.2. Latest Income Tax Returns, Annual Accounts and Turnover Statement of the 
+
+Company for last three financial years (as period mentioned earlier).  
+2. Qualifying Criteria for selection  
+
+To be qualified for Rack Server tender, the bidder shall have to fulfil the following 
+criteria. 
+
+2.1. Bidder should be a service provider for Rack Server and services. 
+2.2. The bidder should have a minimum experience of THREE years in installation of Rack 
+
+Servers and services. Details of above work done successfully in last three financial 
+years along with copies of the orders and completion certificates from the user 
+agencies should be submitted along with the Technical Bid as per Annexure – I of 
+the Tender Document. SAPMT may ask to provide demo along with specifications of 
+the said project/s. 
+
+2.3. Bidder must have successfully completed, at least THREE work of installation of Rack 
+Servers with services. Please submit proof of it. SAPMT may ask to provide demo 
+along with specifications of the said project/s. 
+
+2.4. The bidder should have Sum Total Turnover of NOT LESS than INR 5 Crore over a 
+period of last THREE financial years. A certificate duly certified by Chartered 
+Accountant for the turnover of last three financial years is required to be attached.  
+
+2.5. The bidder should have minimum THREE technically qualified and well-experienced 
+manpower. Brief bio-data of the key personnel should be enclosed with the offers 
+as per Annexure-II of the Tender Document.  
+
+2.6. The bidder should NOT be blacklisted by any Government/Public sector 
+organization. 
+
+2.7. Bidder should have worked with Educational institute/university. 
+2.8. OEM and SI should have office in Ahmedabad/Gandhinagar to provide support 
+
+locally. 
+
+2.9. The bidder should have above stated requirements and the SAPMT reserves the 
+right to request for any additional information and reserves the right to reject the 
+proposal of any Applicant, if in the opinion of the SAPMT, the qualification data is 
+
+Sabarmati Ashram Preservation and Memorial Trust Page 8 of 23 
+
+
+
+Tender for Providing 2 Rack Servers on SITC basis at SAPMT 
+
+incomplete or the applicant is found not qualified to satisfactorily perform the 
+works.  
+
+2.10. As an acceptance of terms and conditions, the document duly signed and sealed 
+on every page should be returned along with the offer.  
+
+Offers not satisfying any of the above mentioned criteria would be liable for rejection. 
+
+Payment terms: 
+
+Following may be the payment terms: 
+
+1) Invoice for 80% of the project cost can be raised on delivery of material at SAPMT. 
+2) Invoice for rest 20% can be raised after one month of the installation, commissioning 
+
+and acceptance of the project by SAPMT. 
+10% Performance Bank Guarantee will be required for the warranty period of the 
+project. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+Sabarmati Ashram Preservation and Memorial Trust Page 9 of 23 
+
+
+
+Tender for Providing 2 Rack Servers on SITC basis at SAPMT 
+
+CHAPTER – III 
+ 
+
+GENERAL TERMS AND CONDITIONS 
+
+1. Before submission of the Offer, Bidders are required to make themselves fully 
+conversant with the scope of the work, technical requirements and specifications, etc., 
+so that no ambiguity arises on a later date in this respect.  
+
+2. All information in the Offer shall be in English. Information in any other language should 
+be accompanied by its translation in English. Failure to comply with this may disqualify 
+the Bidder. The Offer must contain the name, address of residence and places of 
+business of the person or persons submitting the Offers and should be signed with seal 
+by the Bidder(s) with his/their usual signature(s). 
+
+3. If the Bidder finds discrepancies in, or omissions from the specifications or other 
+documents or if he is in doubt as to their meaning, he should at once intimate SAPMT 
+and obtain clarification in writing prior to submitting his Offer.  
+
+4. Each page of the Tender document should be signed and stamped by the Bidder as a 
+token of acceptance to terms and conditions mentioned herein.  
+
+5. Offers of only those firms or individuals, who are either themselves technically capable 
+and sound for providing such services and who give satisfactory evidence of such 
+experience shall only be considered.  
+
+6. In this deed of agreement/ Offer, unless the context otherwise requires:  
+SAPMT shall mean the Director or his representative of Sabarmati Ashram, Gandhi 
+Ashram, Ahmedabad – 380 027 and shall include his successors and assignees. 
+The Bidder shall mean the party whose offer shall be accepted by SAPMT and shall 
+include such Bidders heirs, legal representatives, successors and assignees. 
+
+7. The Bidder shall be deemed to have carefully examined all the papers, specifications and 
+artworks if any and other required material, etc. attached in the contract. If he has any 
+doubt as to the meaning of any portion of any condition/ specification, etc. he shall 
+before signing the contract submit the particulars thereof to SAPMT in order that such 
+doubts are removed.  
+
+8. The time is essence of contract hence penalty for delay in completion of work will be 
+@ 0.5 % per week to maximum 5%, beyond that it lead to cancelation of the order.  
+This excludes delay in the completion of the work due to unforeseen reasons beyond the 
+control and without fault and negligence of the Bidder including (but not restricted to) 
+act of God or public anomie action of Government in its sovereign capacity, floods, 
+epidemics, strikes, lockouts, fires and accidents. In the event of any of the aforesaid 
+contingencies or delay in approval or changes suggested by SAPMT, the Bidder may 
+promptly keep SAPMT informed by Fax/Telex/Telegram followed by confirmation in 
+writing with documentary proof within fifteen days of commencement and cessation of 
+Force Majeure circumstances. Under such circumstances reasonable extension of time 
+shall be granted by SAPMT. Application for such extension must be made before the due 
+date of completion of work as per agreement. SAPMT, at its discretion, may cancel the 
+
+Sabarmati Ashram Preservation and Memorial Trust Page 10 of 23 
+
+
+
+Tender for Providing 2 Rack Servers on SITC basis at SAPMT 
+
+contract, if the work is not completed within reasonable time granted. In the event of 
+termination of the agreement, SAPMT shall be at liberty to get the remaining part of the 
+work done through any other agency/Bidder in the manner and on the terms it thinks 
+proper. If the cost of executing the work as aforesaid shall exceed the balance due to the 
+Bidder, and the Bidder fails to make good the deficiency, SAPMT may recover it from the 
+Bidder in any lawful manner. 
+
+9. The Bidder shall have to comply with all rules, regulations, laws and bylaws enforced by 
+local and State Govt. and also the organization in whose premises the work has to be 
+done. 
+
+10. If the Bidder neglects to execute the work with due diligence and expedition or refuses 
+or neglect to comply with any reasonable orders within two days’ notice given in writing 
+to the Bidder, and if he fails to comply with the notice, then in such a case SAPMT shall 
+be at liberty to get the work or any part of it, executed through any other agency/Bidder 
+in the manner and on the terms it thinks proper. If the cost of executing the work as 
+aforesaid shall exceed the balance due to the Bidder, and the Bidder fails to make good 
+the deficiency, SAPMT may recover it from the Bidder in any lawful manner. 
+
+11. SAPMT shall have at all reasonable time access to the works being carried out by the 
+Bidder under this contract. All the works shall be carried out by the Bidder to the 
+satisfaction of SAPMT. 
+
+12. Any question, dispute or difference whatsoever arises between SAPMT and Bidder, in 
+connection with this agreement except as to matters, the decision for which has been 
+specifically provided, either party may forthwith give to the other notice in writing of 
+existence of such questions, dispute, difference and the same shall be referred to the 
+sole arbitration of a person nominated by Director SAPMT. This reference shall be 
+governed by Indian Arbitration Act prevailing at the time of dispute and the rules made 
+there under. The award in such arbitration shall be final and binding on all the parties. 
+Work under the agreement shall continue during the arbitration proceedings unless the 
+SAPMT or the Arbitrator directs otherwise. 
+
+13. SAPMT may at any time by notice in writing to the Bidder either stop the work 
+altogether or reduce or cut it down. If the work is stopped altogether, the Bidder shall 
+only be paid for work done and expenses legitimately incurred by him as on preparation 
+of the execution of the work up to the date on which such notice is received by him. 
+Such expenses shall be assessed by SAPMT whose decision shall be final and binding on 
+the Bidder. If the work is cut down the Bidder shall not be paid for the work as so cut 
+down, but in neither case shall be paid any compensation what so ever for the loss or 
+profit which he might have made if he had been allowed to complete all the work 
+included in the contract. 
+
+Sabarmati Ashram Preservation and Memorial Trust Page 11 of 23 
+
+
+
+Tender for Providing 2 Rack Servers on SITC basis at SAPMT 
+
+14. The work shall be carried out by the Bidder with prior approval of SAPMT. Work carried 
+out without SAPMT’s approval shall not be accepted and the SAPMT shall have right to 
+reject it and to recover the cost as so incurred, from the Bidder. 
+
+15. The Bidder shall not display the photograph of the work and shall not take advantage 
+through publicity of the work without written permission of SAPMT. 
+
+16. Canvassing in connection with the tenders is strictly prohibited and the offer submitted 
+by the firms who resort to canvassing will be liable to be rejected. 
+
+17. SAPMT reserves the right to accept any offer based on its merits and SAPMT is not 
+bound to place the order with the party having submitted the lowest offer. Thus party 
+merely on the ground that their financial offer is lowest, does not necessarily qualify 
+them for receiving the order. 
+
+18. Questions and disputes relating to the meaning of the specifications/instructions and 
+terms of the contract herein mentioned and as to the quality of the workmanship and 
+materials used for the work estimates and payments or as to any question, claim, right 
+matter of things whatsoever in any way arising out of or relating to the contract shall be 
+deemed to have arisen at Ahmedabad and only the court in Ahmedabad will have 
+jurisdiction to determine the same. 
+
+19. The E.M.D. / Security Deposit shall liable to be forfeited in the following circumstances 
+when the, 
+19.1. Tender is rejected due to failure to supply the requisite documents improper 
+
+format or giving any misleading statement or submission of false affidavit or 
+fabricate documents. 
+
+19.2. Party fails to sign the agreement for entering into contract in case the offer is 
+accepted, due to any reason whatsoever. 
+
+19.3. Party fails to supply the goods / items as per the orders / R.C. placed by 
+SAPMT within the delivery period so stipulated time line. 
+
+19.4. Party fails to replace/correct the supplied material declared to be wrong / 
+different from specification and R.C. holder / successful bidder have to refund the 
+cost of such goods. 
+
+20. Back out from tender at any interim level during tender processing: -Once the tenders 
+are submitted it will be the responsibility of the tenderer not to escape halfway directly 
+or indirectly by way of raising any problems. 
+
+21. In no case the certificate should be dated earlier than one year {unless otherwise 
+specified} and should be in force and valid on the last date of the submission of the 
+tender / signing of the agreement {as the case may be}. In case, the certificates / 
+licenses / permission are outdated or the validity period is over, the proof of applying for 
+renewal should also be attached. Such certificates will be considered if the renewal has 
+been applied for within the time limit prescribed for the renewal of that permission / 
+
+Sabarmati Ashram Preservation and Memorial Trust Page 12 of 23 
+
+
+
+Tender for Providing 2 Rack Servers on SITC basis at SAPMT 
+
+license /certificate under the relevant rules and further if such application for renewal is 
+not specifically rejected by the competent authorities. In case any certificate is still 
+awaited from the competent authority, the proof of making the application should also 
+be attached which will be considered if the application is not specifically rejected by the 
+competent authorities. 
+
+22. The tenderer must satisfy that they are in possession of the requisite permissions / 
+licenses / permits required for the supply of the items for which the offer is made. 
+Failure to enter into contract if selected or to execute the purchase orders after entering 
+into contract for want of permission /license or due to non-supply of certificates / 
+documents will be viewed seriously and will invite forfeiture of E.M.D. / risk purchase / 
+disqualification for 2 years without any further reference. 
+
+23. The tenders will be opened online on the date, time specified in tender notice. In the 
+first instance, only "Technical bid" will be opened online on the date of opening the 
+tender and taken into consideration for finalization. Subsequently, the "commercial bid" 
+will be opened online only for those tenderers whose quotations satisfy the technical 
+requirement of the indenter and are otherwise acceptable. 
+
+24. Authority of signing document: A person signing the Tender Form or any document, 
+forming part of the contract on behalf of the supplier, shall carry the authorization letter 
+stating his / her authority to sign such documents from the respective organization. 
+
+25. Saving Clause: No suit, prosecution or any legal proceedings shall lie against Tender 
+Inviting Authority or any person for anything that is done in good faith or intended to be 
+done in pursuance of tender. 
+
+26. The tender is liable for rejection due to any of the reasons mentioned below: 
+26.1. Non-Submission of tender within stipulated time online. 
+26.2. Submission of tender without Tender Fee. 
+26.3. Tender is unsigned OR not initiated on each page or with unauthenticated 
+
+corrections. 
+26.4. Submission of tender documents in unsealed envelope. 
+26.5. Tender not submitted in separate envelopes as per conditions and the 
+
+envelopes are not super scribed with details of the tender enquiry and part 
+enclosed. 
+
+26.6. Non-payment of Earnest Money Deposit {if not exempted.} 
+26.7. Non-submission of required documents as shown at Eligibility criteria section. 
+26.8. Conditional and / or vague offers. 
+26.9. Unsatisfactory past performance of the tenderer. 
+26.10. Rates have been shown elsewhere than Commercial bid. 
+26.11. Items with major changes / deviations in the specifications / standard /grade / 
+
+packing / quality are offered in Technical bid. 
+
+Sabarmati Ashram Preservation and Memorial Trust Page 13 of 23 
+
+
+
+Tender for Providing 2 Rack Servers on SITC basis at SAPMT 
+
+26.12. Submission of misleading / contradictory / false statement or information and 
+fabricated / invalid documents. 
+
+26.13. Tenders not filled up properly. 
+26.14. Non-submission of Turnover Certificate. 
+26.15. Non submission of documents mentioned in List of Annexure wherever 
+
+applicable. 
+26.16. Non submission of document mentioned above in Technical supporting 
+
+documents. 
+ 
+ 
+
+  
+
+Sabarmati Ashram Preservation and Memorial Trust Page 14 of 23 
+
+
+
+Tender for Providing 2 Rack Servers on SITC basis at SAPMT 
+
+CHAPTER – IV 
+ 
+
+GENERATION INFORMATION ABOUT THE TENDERER 
+(Please submit this along with technical bid also) 
+
+1.  Name of the Company  
+
+2.  Postal Address  
+ 
+
+ 
+
+Registered office in 
+Ahmedabad / Gandhinagar  
+ 
+
+ 
+
+3.  Telephone/Fax no.  
+ 
+
+ 
+
+4.  e-mail address &  
+URL  
+
+ 
+
+5.  Type of Company  
+Attach Proof of Company 
+Registration along with a copy 
+of the Partnership Deed/ 
+Article of Association and 
+Memorandum of 
+Understanding ( page no.__ )  
+
+Proprietorship/ Partnership/ Private Limited/ Public 
+Limited  
+ 
+
+6.  Name and designation of the 
+representative of the 
+Tenderer to whom all 
+reference shall be made to 
+expedite technical co-
+ordination.  
+
+ 
+
+7.  Amount and reference Tender 
+Fee  
+
+Amount INR: 
+DD Number: 
+Bank Name: 
+
+8.  Amount and reference of the 
+Earnest Money Deposit 
+deposited.   
+
+Amount INR: 
+DD Number: 
+Bank Name: 
+
+9.  Financial capacity of the 
+company/ firm  
+Attach copies of I.T. Returns 
+and Balance Sheets for last 3 
+years duly certified by the 
+Chartered Accountant.  
+
+ 
+
+10.  Financial Year 2015-16 Gross Income INR: 
+Turnover INR: 
+ 
+
+Sabarmati Ashram Preservation and Memorial Trust Page 15 of 23 
+
+
+
+Tender for Providing 2 Rack Servers on SITC basis at SAPMT 
+
+11.  Financial Year 2016-17  Gross Income INR: 
+Turnover INR: 
+
+12.  Financial Year 2017-18 
+  
+
+Gross Income INR: 
+Turnover INR: 
+
+13.  Details of Technical Staff / 
+Professional Expertise 
+available.  
+Please furnish information as 
+per Enclosed Annexure II.  
+
+ 
+
+14.  Permanent Account Number 
+(PAN) of the company (attach 
+a copy)  
+
+PAN Number: 
+  
+ 
+
+15.  Has the company/firm to pay 
+arrear of income tax? If yes 
+up to what amount.  
+Attach a copy of the Latest 
+Income Tax Return duly filed 
+and endorsed by the Income 
+Tax Dept.  
+
+Attached Page Number: 
+ 
+ 
+
+16.  GST & CST Number  
+Valid Date : dd/mm/yyyy  
+(A copy be enclosed)  
+
+GST:  
+Valid date (dd/mm/yyyy):  
+ 
+
+17.  Reference of any other 
+information attached by the 
+company (give details of 
+attachment)  
+ 
+
+Attached Page Number:  
+ 
+
+All relevant information to be filled in the given column. 
+
+ 
+
+ 
+
+  
+
+Sabarmati Ashram Preservation and Memorial Trust Page 16 of 23 
+
+
+
+Tender for Providing 2 Rack Servers on SITC basis at SAPMT 
+
+Annexure I 
+Client Profile and Details of Assignments 
+
+(Please submit this along with technical bid also) 
+
+Name & 
+Address of 
+the Client  
+ 
+
+Year  
+ 
+
+Name of 
+Site 
+
+Order Value 
+/Amount 
+(Rs.)  
+ 
+
+Copy of the Work 
+Order/ Supporting 
+document etc & 
+photographs (to 
+be attached)  
+
+Attachment 
+Page Number  
+ 
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+Please fill up relevant details & submit documentary proof. 
+
+ 
+
+Date:         Sign & Seal of the bidder 
+
+ 
+
+Sabarmati Ashram Preservation and Memorial Trust Page 17 of 23 
+
+
+
+Tender for Providing 2 Rack Servers on SITC basis at SAPMT 
+
+Annexure II 
+Details of the Manpower 
+
+(Please submit this along with technical bid also) 
+
+Name & 
+Designation  
+ 
+
+Qualification 
+ 
+
+Experience 
+ 
+
+Brief Resume 
+ 
+
+Attachment Page 
+No.  
+ 
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+Please fill up relevant details & submit documentary proof. 
+
+ 
+
+ 
+
+Date:         Sign & Seal of the bidder 
+
+ 
+
+Sabarmati Ashram Preservation and Memorial Trust Page 18 of 23 
+
+
+
+Tender for Providing 2 Rack Servers on SITC basis at SAPMT 
+
+Annexure III 
+
+Technical Specification 
+(Please submit this along with technical bid also) 
+
+Technical Specification for the proposed server 
+
+Sr. 
+No.  
+
+Specifications  Meeting 
+Requirement? 
+(Yes/No) 
+
+Specification for the 
+proposed rack server 
+
+1.  Make: Lenovo / HPE / Dell EMC / 
+Cisco 
+
+  
+
+2.  Chassis: 1U or 2U Rack Mountable    
+3.  CPU: CPU: 2*Intel® Xeon® Silver 
+
+Processor 4110 (20M Cache, 2.1 
+GHz) or higher. Minimum 8 core 
+required 
+
+  
+
+4.  Motherboard: Intel® C600 Series 
+Chipset or higher  
+
+  
+
+5.  Graphics: On Board  Graphics with 
+16 MB RAM  
+
+  
+
+6.  Slots: Minimum three PCI-X/PCI-e 
+slots   
+
+  
+
+7.  Memory: 32GB (2 x 16GB) DDR4 – 
+expandable up to 64 GB 
+
+  
+
+8.  Bays: 8 Hot Plug hard disk bays    
+9.  HDD:  
+
+Operating System (OS): Minimum 
+600 GB usable with RAID 1. OS will 
+be provided by SAPMT but needs to 
+be installed by SI. 
+Data: Minimum 8 TB usable with 
+RAID 5 (4 x 4 TB 10K RPM SAS) 
+
+  
+
+10.  RAID: We will need Hardware-based 
+RAID controller with 2GB cache 
+memory 
+
+  
+
+11.  Keyboard: Standard 104 keys USB 
+based Keyboard 
+
+  
+
+12.  Mouse: Standard 2 Keys Optical USB 
+scroll mouse 
+
+  
+
+13.  Networking Features: Embedded 4 * 
+1Gbps ports or more  
+
+  
+
+14.  HBA Card: 1* 8Gbps Dual Port FC 
+HBA with FC Patch cord (Single FC 
+
+  
+
+Sabarmati Ashram Preservation and Memorial Trust Page 19 of 23 
+
+
+
+Tender for Providing 2 Rack Servers on SITC basis at SAPMT 
+
+Card) 
+
+15.  Ports: 3 USB ports (with Min 1 USB 
+3.0 port),  
+4 RJ-45 port,  
+1 VGA or HDMI port to connect 
+display 
+1 Remote Management Port (TCP\IP 
+based): (it is used for GUI interface 
+to monitor & manage the server 
+performance remotely.)  
+
+  
+
+16.  Management hardware: Integrated 
+System Management Processor or 
+Integrated BMC Controller  
+
+  
+
+17.  System Management Software: Pre-
+failure alerts for processor, memory 
+and hard disks, Unattended  and 
+selectable remote boot and remote 
+diagnostics, ECC with error 
+reporting   
+
+  
+
+18.  DVD Drive: Slim Line DVD Writer 
+(Internal / External through USB 
+connectivity) 
+
+  
+
+19.  Rack rails: Rack rails needs to be 
+supply along with server  
+
+  
+
+20.  Power Supply: Redundant Hot 
+swappable  power supply   
+
+  
+
+21.  Certifications RoHS ,UL ,CE/FCC or 
+equivalent third party certification 
+from reputed Indian/foreign Agency, 
+Linux Certification   
+
+  
+
+22.  Delivery Period: Complete solution 
+must be completed in 4 – 6 weeks 
+from the date of order. 
+
+  
+
+23.  Support: 3 years OEM 24X7 
+comprehensive onsite warranty. 
+(Proof for the warranty from OEM 
+will be required) 
+
+  
+
+  
+
+Sabarmati Ashram Preservation and Memorial Trust Page 20 of 23 
+
+
+
+Tender for Providing 2 Rack Servers on SITC basis at SAPMT 
+
+Annexure IV 
+
+Price Bid 
+(Please do NOT submit this with technical bid) 
+
+Cost of the entire Rack Server on SITC basis including all inventory, required accessories, 
+services, transport, delivery, and taxes. Supply/Delivery location for goods & services will be 
+at SAPMT. 
+
+Sr. 
+No. 
+
+Description Amount (INR) including 
+taxes (Per Unit) 
+
+1.  Cost of the entire Rack Server proposed including all 
+material , required accessories, services and taxes 
+with : 3 years OEM 24X7 comprehensive onsite 
+warranty 
+(Proof for the warranty from OEM will be required) 
+
+ 
+
+2.  Cost of the entire Rack Server proposed including all 
+material , required accessories, services and taxes 
+with : 5 years OEM 24X7 comprehensive onsite 
+warranty 
+(Proof for the warranty from OEM will be required) 
+
+ 
+
+   
+
+Sabarmati Ashram Preservation and Memorial Trust Page 21 of 23 
+
+
+
+Tender for Providing 2 Rack Servers on SITC basis at SAPMT 
+
+Annexure V 
+
+ 
+
+ 
+
+ 
+
+DEVIATION SHEET 
+
+ 
+
+ 
+
+Any deviations offered from the terms and conditions of the Offer should be clearly 
+specified below in this sheet. If there are no deviations offered, it should be clearly 
+mentioned on this page. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date:         Sign & Seal of the bidder 
+
+ 
+
+ 
+
+ 
+
+  
+
+Sabarmati Ashram Preservation and Memorial Trust Page 22 of 23 
+
+
+
+Tender for Providing 2 Rack Servers on SITC basis at SAPMT 
+
+Annexure VI 
+
+ 
+
+ 
+
+ 
+
+Not blacklisted certificate 
+
+ 
+
+ 
+
+We hereby confirm and certify that we are NOT blacklisted by any Government / Public 
+sector organisation. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date:         Sign & Seal of the bidder 
+
+Place: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sabarmati Ashram Preservation and Memorial Trust Page 23 of 23 
+
+
+	1. Instructions to Applicant
+	2. Scope of the work & deliverables
+

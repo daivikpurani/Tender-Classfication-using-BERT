@@ -1,0 +1,817 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/692166
+
+  Dated: 30-06-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 21-07-2020 13:00:00
+
+Bid Opening Date/Time 2020-07-21 13:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Coast Guard
+
+Office Name ***********
+
+Total Quantity 1
+
+Item Category GNSS RECEIVER FOR REFERENCE STATION
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 0.50
+
+EMD Amount 9000
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 2.00
+
+Duration of ePBG required (Months). 15
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+                               1 / 8
+
+
+
+ 
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+ICGS RATNAGIRI
+H1 PLOT, MIDC AREA , RATNAGIRI-415639
+(The Commanding Officer)
+
+Splitting
+
+ Bid splitting not applied.
+
+GNSS RECEIVER FOR REFERENCE STATION ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+RECEIVER FEATURES &
+FUNCTIONS
+
+Receiver Type Base *
+
+Mode of Processing Both Static & Fast
+Static and Real Time
+Kinematic (RTK)
+
+Both Static & Fast
+Static and Real Time
+Kinematic (RTK)
+
+"RTK processing
+(hint: Network RTK
+Correction - All
+Commonly available
+industry stadand
+Network Solution)"
+
+Both Single Base RTK
+Correction & Network
+RTK Correction
+
+Both Single Base RTK
+Correction & Network
+RTK Correction
+
+Receiver Antenna External *
+
+Antenna Type Choke Ring Choke Ring
+
+Supported positioning
+signal bands for the
+Antenna
+
+L1,,L2,L5,G1,G2,G3,E1,
+E5ab,E6,B1,B2,B3
+
+*
+
+Phase centre
+Accuracy
+
+Less than 1 mm Less than 1 mm
+
+Phase centre
+Repeatability
+
+Less than 1 mm Less than 1 mm
+
+Minimum Tracking
+elevation
+
+0 deree *
+
+Minimum independent
+and concurrent
+
+12 *
+
+                               2 / 8
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/in1BZ4veYcHiDRp_fbeULOGEJ--8ZqOfVwhuV9oevbw
+
+
+ 
+
+datalogging sessions
+
+RECEIVER POSITIONING
+PERFORMANCE &
+ACCURACY (RMS)
+
+Differential GPS
+(DGPS) Accuracy -
+(Horizontal)
+
+25 cm + 1 ppm 25 cm + 1 ppm Or
+higher
+
+Differential GPS
+(DGPS) Accuracy -
+(Vertical)
+
+40 cm + 1 ppm 40 cm + 1 ppm Or
+higher
+
+High Precision / Long
+Observation Static
+Accuracy -
+(Horizontal)
+
+3 mm + 0.1 ppm 3 mm + 0.1 ppm Or
+higher
+
+High Precision / Long
+Observation Static
+Accuracy - (Vertical)
+
+3.5 mm + 0.4 ppm 3.5 mm + 0.4 ppm Or
+higher
+
+Static and Fast
+Static Accuracy -
+(Horizontal)
+
+3 mm + 0.5 ppm 3 mm + 0.5 ppm, 3
+mm + 0.1 ppm Or
+higher
+
+Static and Fast
+Static Accuracy
+-(Vertical)
+
+5 mm + 0.5 ppm 5 mm + 0.5 ppm, 3.5
+mm + 0.4 ppm, 2.5
+mm + 1 ppm, 2.5 mm
++ 0.5 ppm Or higher
+
+Real-Time Kinematic
+(RTK) Accuracy -
+(Horizontal)
+
+8 mm + 1 ppm 8 mm + 1 ppm, 8 mm
++ 0.5 ppm, 6 mm + 0.5
+ppm, 5 mm + 0.5 ppm
+Or higher
+
+Real-Time Kinematic
+(RTK) Accuracy -
+(Vertical)
+
+15 mm + 1 ppm 15 mm + 1 ppm, 15
+mm + 0.5 ppm, 10 mm
++ 1 ppm, 10 mm + 0.8
+ppm Or higher
+
+RECEIVER TRACKING
+CAPABILITIES
+
+"Base Line
+Processing Range
+(Static) (May
+indicate '0' if Not
+Applicable)"
+
+300 300, 350, 400, 450,
+500, 600, 700, 800,
+900, 1000 Or higher
+
+Number of Channels - *
+
+Initialisation Time 10 *
+
+Maximum Position
+Update Rate(Hz)
+
+20 20.0 - 100.0 Or higher
+
+MET/Tilt Sensor
+input
+
+Yes Yes
+
+Position Acquisition
+Method
+
+Float to Fix,Fix *
+
+GNSS TRACKING
+SIGNALS
+
+Receiver Traking
+Signals (Hint: Select
+applicable Signals only)
+
+GPS - L1,GPS - L1
+C/A,GPS - L2,GPS - L2
+P,GPS - L5,GLONASS -
+L1,GLONASS -
+L2,GLONASS - L2
+C/A,GLONASS - L2
+P,GLONASS - L3,NAVIC
+
+*
+
+                               3 / 8
+
+
+
+ 
+
+- L5,Galileo - E1,Galileo
+- E5 a,Galileo E5
+b,Galileo - E5 ab,Galileo
+- E6,BeiDou -
+B2,BeiDou - B3,QZSS -
+L1,QZSS - L2,QZSS - L5
+
+SBAS Support GAGAN,WAAS,EGNOS,
+MSAS
+
+GAGAN, WAAS, EGNOS,
+MSAS
+
+POST PROCESSING
+SOFTWARE / ON-
+BOARD SOFTWARE
+FEATURES
+
+Post Processing
+Software with free
+updates upto
+Warranty period
+inclusive in the
+scope of supply
+
+NA NA
+
+On-Board Software
+Features
+
+support the
+configurable
+input,output and
+logging of Met/Tilt
+measurements,Web
+Interface for full
+control,Configuration
+and access
+management of
+reciever,Support
+remote
+configuration,Data
+retrieval and firmware
+upgrading,Configurable
+email alert
+functionality,support IP
+filtering, restricting IP
+packet access to and
+from the receiver for
+enhanced access
+control
+security,Support FTP
+downloads as well as
+the FTP Push
+command,Capable of
+pushing logged and
+converted data files to
+three separate FTP
+servers,NTRIP Caster,
+NTRIP Client and NTRIP
+Server functionality
+
+support the
+configurable input,
+output and logging of
+Met/Tilt measurements,
+Web Interface for full
+control, Configuration
+and access
+management of
+reciever, Support
+remote configuration,
+Data retrieval and
+firmware upgrading,
+Configurable email
+alert functionality,
+support IP filtering,
+restricting IP packet
+access to and from the
+receiver for enhanced
+access control security,
+Support FTP downloads
+as well as the FTP Push
+command, Capable of
+pushing logged and
+converted data files to
+three separate FTP
+servers, NTRIP Caster,
+NTRIP Client and NTRIP
+Server functionality
+
+COMMUNICATIONS Communication Ports USB,RS 232,Bluetooth,
+Combined LEMO,Wi-Fi /
+WLAN,RJ45,Mini USB
+
+*
+
+Communication
+Protocals
+
+NMEA,RINEX,RTCM
+2.0,RTCM
+3.0,CMR,CMR+,BINEX
+
+*
+
+Phone Modem
+Antenna
+
+Internal Antenna Internal Antenna
+
+                               4 / 8
+
+
+
+ 
+
+Radio Modem
+Antenna
+
+NA NA
+
+Built-in Data Links -
+Phone & Radio Modems
+
+GSM,GPRS,LTE,HSDPA,
+UHF,NA
+
+*
+
+External Data Links
+Supported
+
+GSM,GPRS,LTE,UMTS,H
+SDPA,ADSL,UHF
+
+*
+
+RAM / STORAGE Data Storage
+Medium
+
+Internal/Removable,Ext
+ernal / Memory Stick
+
+Internal/Removable,
+External / Memory Stick
+
+Internal / Removable
+Storage Capacity
+
+32 GB 32 GB Or higher
+
+External / Removable
+Storage Slot
+
+USB *
+
+External Storage /
+Memory Stick
+Capacity supplied
+with Receiver -
+inclusive in the
+scope of supply
+
+32 32 Or higher
+
+BATTERY Power Source Internal / Removable-
+Rechargeable
+Battery,External -
+Rechargeable Battery
+
+Internal / Removable-
+Rechargeable Battery,
+External -
+Rechargeable Battery
+
+Chemistry of Battery Li-ion Li-ion
+
+Capacity of Battery
+(Ah)
+
+48.96 48.96
+
+Battery Back Up Time 15 *
+
+Number of Batteries
+required for operation
+
+1 *
+
+Number of Batteries
+Supplied
+
+2 2, 4 Or higher
+
+OTHER FEATURES &
+FUNCTIONS OF THE
+RECEIVER
+
+Other Features &
+Functions
+
+Base Station serves
+multiple Rovers,Base
+Station Compatible to
+Base / Rovers of other
+makes,Interchangeable
+/ Configurable as Base
+or Rover,Provision to
+Indicate the
+Connectivity with Base
+Station,Multi-path
+Mitigation for Receiver
+and Antenna,All Control
+functions available with
+Receiver,Automatic
+restart Functionality
+after loss of power in
+the same
+configuration,Supports
+12 V External Battery;
+Supporting both AC and
+
+Base Station serves
+multiple Rovers, Base
+Station Compatible to
+Base / Rovers of other
+makes,
+Interchangeable /
+Configurable as Base or
+Rover, Provision to
+Indicate the
+Connectivity with Base
+Station, Multi-path
+Mitigation for Receiver
+and Antenna, All
+Control functions
+available with Receiver,
+Automatic restart
+Functionality after loss
+of power in the same
+configuration, Supports
+12 V External Battery;
+
+                               5 / 8
+
+
+
+ 
+
+DC operation (with a
+minimum input power
+range of 10-28
+VDC),Hot - Swappable
+b/w External and
+Internal Power Sources
+without affecting Data
+Recording
+
+Supporting both AC and
+DC operation (with a
+minimum input power
+range of 10-28 VDC),
+Hot - Swappable b/w
+External and Internal
+Power Sources without
+affecting Data
+Recording
+
+GENERIC Radio Power - 0.0 - 35.0 Or higher
+
+Weight of Receiver
+(including Battery)
+
+- *
+
+Size of Receiver (length
+x width x depth) (mm X
+mm X mm)
+
+- *
+
+ENVIRONMENTAL
+PARAMETERS
+
+Minimum Operating
+Temperature
+
+-30 -30, -40 Or lower
+
+Maximum Operating
+Temperature
+
+65 65 Or higher
+
+Non Condensing
+Humidity, Rh
+
+100 100 Or higher
+
+Ingress Protection IP 67 IP 67, IP 68 Or higher
+
+Operational Altitude
+(MSL)
+
+Upto 10000 METER *
+
+ACCESSORIES Accessories -
+inclusive in the
+scope of supply
+
+USB Data Transfer
+Cable,Connectors and
+Cables for Connecting
+to Car
+Batteries,Suitable
+Battery Charger to
+rechargeable batteries
+from AC Mains,12 V
+Vehicle Charging
+Kit,Light Weight
+carrycase
+
+USB Data Transfer
+Cable, Connectors and
+Cables for Connecting
+to Car Batteries,
+Suitable Battery
+Charger to
+rechargeable batteries
+from AC Mains, 12 V
+Vehicle Charging Kit,
+Light Weight carrycase
+
+Length of suitable
+connecting Cable for
+Antenna (meters) -
+inclusive in the
+scope of supply
+
+30 30, 50 Or higher
+
+INSTALLATION &
+COMMISSIONING & STC
+
+Installation &
+Commissioning
+
+Without installation &
+Commissioning
+
+Without installation &
+Commissioning
+
+STC of the product
+read, understood
+and agreed
+
+NA fo Without
+installation &
+Commissioning
+
+NA fo Without
+installation &
+Commissioning
+
+WARRANTY / TRAINING On-site Warranty 3 3 Or higher
+
+Training Period -
+Provided at at
+Buyer's Premises
+
+5 5 Or higher
+
+                               6 / 8
+
+
+
+ 
+
+TEST REPORTS Compliance to Dust
+test
+
+IS/IEC-60529 *
+
+Compliance to Water
+Intrusion test
+
+IS/IEC-60529 *
+
+Compliance to
+Vibration test
+
+MILSTD-810 G *
+
+Agreed to furnish
+OEM Test report to
+the Buyer on
+demand
+
+Yes Yes
+
+Availability of Test
+Reports from Central
+Govt / NABL
+approved / ILAC
+accredited Lab to
+prove conformity to
+the specification
+
+No No
+
+If Yes, Test Report to
+be furnished to the
+Buyer on demand
+
+NA *
+
+Test Report No and
+Date
+
+- *
+
+Name of the Lab and
+Address
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********RATNAGIRI 1  30
+
+Special terms and conditions for category GNSS RECEIVER FOR REFERENCE STATION 
+
+1.1.1. SELER’S RESPONSIBILITIES:The Scope of installation and Commissioning for GNSS
+Receiver for Reference Station shall be as under: Inclusive in the Scope of Installation
+&Commissioning:Fixing the GNSS Receiver for Reference Station /Base Station and antenna
+on already built Platform / Pillar / Monument provided by the consignee.Laying & Installation
+of suitable Antenna cable as applicable.Supply, Laying & Installation of suitable Electrical
+Cable, if required, between the Base Station and Power Socket.All necessary accessories for
+laying & installation of Antenna Cabling and Electrical cabling.Installation, Commissioning &
+Demonstration of the Base station to the satisfaction of the buyer / consignee.Providing
+
+                               7 / 8
+
+
+
+ 
+
+Training to the buyer’s representatives after successful installation & Commissioning of the
+equipment, if applicable. 1.2. CONSIGNEE / USER’S RESPONSIBILITIES:Providing built-up
+Platform / Pillar / Monument for installation & commissioning of the Base Station.Civil work
+for Foundation of Platform / Pillar / Monument and Electrical earthing, wherever
+required.Providing AC Mains power supply and providing Inverter / Generator, if backup is
+required.Providing Server / Desktop Computer / Laptop as per the end user’s
+requirement.Necessary approvals from regulatory authorities, if any, for installation of the
+Base Station.
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               8 / 8
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

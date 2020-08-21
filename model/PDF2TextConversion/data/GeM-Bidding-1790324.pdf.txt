@@ -1,0 +1,197 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/713880
+  Dated: 17-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 11:00:00
+
+Bid Opening Date/Time 27-07-2020 11:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 80 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Army
+
+Office Name ***********
+
+Total Quantity 4
+
+Item Category Small form-factor pluggable transceiver
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Bid to RA enabled  Yes
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Small Form-factor Pluggable Transceiver ( 4 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Specification Type of Transceiver SFP SFP+
+
+SFP Mode Single *
+
+                               1 / 2
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/zu7RH4hGueahOdpQDkbnDvfCoOqOH2QfLddusoBXb_U
+
+
+ 
+
+Supported Protocols - *
+
+Compatability with OEMs
+Products
+
+- *
+
+Wavelength(nm) 1310 *
+
+Fibre Cable Type - *
+
+Core Size (Micron) 125 *
+
+Maximum Data Rate 100 *
+
+Modal Bandwidth (MHz/Km) 4 *
+
+Max.Cable Distance 4 *
+
+Optical Component (nm) 1550 *
+
+Digital Optical Monitoring
+(DOM) Support
+
+Yes *
+
+Interface - *
+
+Tx Power (dBm) 5 *
+
+Receiver Sensitivity (dBm) 5 *
+
+Operating Temperature
+Range(Degree C)
+
+- *
+
+Operating Humidity (RH)
+(%)
+
+- *
+
+On Site OEM Warranty
+(Year)
+
+1 1
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********SONITPUR 4  20
+
+Bid Specific Additional Terms and Conditions
+1.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone
+
+No. for Service Support.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               2 / 2
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

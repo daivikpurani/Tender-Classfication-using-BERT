@@ -1,0 +1,416 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/705332
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 14:00:00
+
+Bid Opening Date/Time 20-07-2020 14:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Chhattisgarh
+
+Department Name Public Works Department Chhattisgarh
+
+Organisation Name N/a
+
+Office Name E-in-c, Pwd, Nirman Bhawan Raipur
+
+Total Quantity 1
+
+Item Category diesel generators- DG Sets ( PAC Only ) 
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Diesel Generators- DG Sets ( 1 pieces ) ( Under PAC ) 
+
+Make koelgreen
+
+Model koelgreenkg1-125ws3
+
+                               1 / 5
+
+
+
+ 
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+OUTPUT CAPACITY
+RATING/ PHASE
+
+Nominal Rated
+Capacity (KVA)
+
+125 125, 160, 180, 200,
+250, 320, 380, 400,
+500, 600, 750, 140 Or
+higher
+
+No of Phase Three Phase Three Phase
+
+ENGINE Make of Engine KOEL
+GREEN/KIRLOSKAR
+
+*
+
+Model Number of
+Engine
+
+4k1080TAG2 *
+
+Capacity of Engine (cc) 4320 *
+
+Engine Power (kWm) 114.7 *
+
+ISI Marking to IS :10001
+for engine
+
+No *
+
+BIS license No, if
+applicable
+
+NA *
+
+Type of Engine
+cooling
+
+Liquid Cooled Liquid Cooled
+
+Type of governer Electronic Electronic Or higher
+
+Class of governer A1 A0, A1 Or higher
+
+Number of cylinders
+(nos)
+
+4 *
+
+No of Strokes (nos) 4 *
+
+Rated RPM of Engine
+(RPM)
+
+1500 1500
+
+Overload capacity for
+one hour for every 11
+hours continuous
+running at full load (%)
+
+10 *
+
+Specific Fuel
+Consumption (gm/kWh)
+
+201.86 *
+
+Starting voltage (volt) 24 *
+
+ALTERNATOR AC GENERATOR(ALTER
+NATOR) Make
+
+KOEL
+GREEN/KIRLOSKAR
+
+*
+
+AC GENERATOR(ALTER
+NATOR) model Number
+
+KOEL
+GREEN/KIRLOSKAR
+
+*
+
+Rating of AC Generator
+(KVA)
+
+125 *
+
+Power Factor of AC
+generator
+
+0.8 *
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/LGXQt-pc1_xNEZllzZklbgKmG1xbnPxomtXLcJahdz0
+
+
+ 
+
+Efficiency at rated
+Power factor at 75% of
+full Load
+
+93.16 *
+
+Compliance of
+Alternator to
+IS:13364(part-1)
+
+Yes *
+
+Type of alternator Brushless *
+
+Voltage Regulation
+Grade
+
+VG 3 *
+
+Alternator IP Rating IP 23 *
+
+Class of Insulation H *
+
+CONTROL PANEL Control Panel AMF AMF
+
+IP Rating of Control
+Panel
+
+IP 53 *
+
+ACOUSTIC ENCLOSURE Sheet Thickness 1.6 1.6, 1.8, 2 Or higher
+
+Thickness of Foam 50 *
+
+Density of Foam for
+sound insulation
+
+28 *
+
+Noise level at 1 meter
+(dB)
+
+75 *
+
+BATTERY Battery Type &
+Specification
+
+Low Maintenance free
+to IS: 14257 for high
+cranking performance
+
+*
+
+Battery capacity (Ah) 150 *
+
+No of batteries 2 *
+
+TEST REPORTS Availability of Type test
+report for Engine from
+Central govt/NABL/ILAC
+accredited laboratory
+
+Yes *
+
+Test Report number
+and date(Engine)
+
+F-112, 23.03.14 *
+
+Name and address of
+laboratory(Engine)
+
+ARAI PUNE *
+
+Availability of Type test
+report for Alternator
+from Central
+government/NABL/ILAC
+accredited laboratory
+
+Yes *
+
+Test Report number
+and date(Alternator)
+
+RP-407, 28.03.15 *
+
+Name and address of
+laboratory(Alternator)
+
+ERDA, VADODARA *
+
+DG set meet
+requirements of Enviro
+nmental(Protection)
+Rules 1986, in respect
+
+Yes *
+
+                               3 / 5
+
+
+
+ 
+
+of noise and emission
+norms, as described in
+STC
+
+WARRANTY /
+INSTALLATION &
+COMMISSIONING
+
+Warranty 2 2.0
+
+Installation &
+Commissioning
+
+With Installation With Installation
+
+Agreed to STC of the
+Product
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Sandhya Banjare 491001,O/o Executive
+Engineer, PWD (E&M)
+Division, durg
+
+1  30
+
+Special terms and conditions for category diesel generators- DG Sets 
+
+1. In addition to General Terms and Conditions of GeM, Special T&C shall be applicable for
+Diesel Generating Set/DG Set. click here to view the Special terms and conditions.
+
+Bid Specific Additional Terms and Conditions
+
+1.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+2.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+3.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+4.Warranty period of the supplied products shall be 2 years from the date of final acceptance
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+This Bid is also governed by the General Terms and Conditions
+
+                               4 / 5
+
+https://gem.gov.in/termsCondition
+
+
+ 
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+http://www.tcpdf.org
+

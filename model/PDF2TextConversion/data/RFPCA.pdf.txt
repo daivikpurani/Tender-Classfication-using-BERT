@@ -1,0 +1,3841 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Page 1  
+ 
+
+Telephone No : 23019915 
+ 
+
+Army Headquarters Computer Centre 
+Integrated HQ MoD (Army)  
+`B‟ Wing Basement, Sena Bhawan, 
+DHQ PO,  
+New Delhi - 110011 
+ 
+
+Tender No : PC-621/AHCC/Est of CA for Indian Army 
+/TAG Projects/58 
+
+       11 Oct 2018 
+
+ 
+To, 
+__________________ 
+__________________ 
+__________________ 
+ (SI‟s Address) 
+
+ 
+ESTABLISHMENT OF CERTIFICATION AUTHORITY FOR INDIAN ARMY AT ARMY 
+
+HEADQUARTER COMPUTER CENTRE 
+
+ 
+1.       Army Headquarters Computer Centre (AHCC), Integrated HQ MoD (Army), 
+hereinafter referred to as the „Buyer‟, intends to undertake a project for Establishment 
+of Certificate Authority for Indian Army at Army Headquarters Computer Centre”. Bids 
+will be submitted on line, based on a Two-Bid System (i.e. Technical and Commercial 
+Bids), are invited for the delivery of items and services as listed at Part II of this 
+Tender Enquiry (TE). Please refer the above mentioned Title, TE number and tender can 
+be viewed at www.eprocure.gov.in. 
+
+ 
+2.       The address and contact  numbers for sending Bids or seeking clarif icat ions 
+regarding this TE are given below - 
+ 
+
+(a) Bids/queries to be 
+addressed to: Commandant 
+Army Headquarters Computer Centre 
+Integrated HQ MoD (Army) 
+`B‟ Wing Basement, Sena Bhawan 
+DHQ PO, New Delhi – 110011 
+ 
+
+(b) Postal address for sending the 
+Bids: Commandant 
+Army Headquarters Computer Centre 
+Integrated HQ MoD (Army) 
+`B‟ Wing Basement, Sena Bhawan 
+DHQ PO, New Delhi - 110011 
+
+ 
+(c) Name/designation of the contact 
+
+personnel: Commandant 
+Army Headquarters Computer Centre 
+ 
+
+(d) Telephone Numbers of the contact personnel: 
+Tele: 011-23019915 
+Fax: 011-23015644 
+
+ 
+(e) Email id of contact personnel: 
+
+techweb@nic.in 
+ 
+ 
+
+ 
+
+mailto:techweb@nic.in
+
+
+Page 2  
+ 
+
+3. This TE is divided into five Parts as follows: 
+ 
+
+(a) Part I - Contains general information and instructions for the bidders about 
+the RFP such as the time, place of submission and opening of tenders, validity period 
+of tenders, etc. 
+
+ 
+(b) Part II - Contains essential details of the items/services required, such as the 
+Schedule of Requirements (SOR), technical specifications, delivery period, mode of 
+delivery and consignee details. 
+
+ 
+(c) Part III - Contains standard conditions of TE, which will form part of the 
+contract with the successful bidder. 
+
+ 
+(d) Part IV - Contains special conditions applicable to this TE and which will 
+also form part of the contract with the successful bidder. 
+
+ 
+(e) Part V - Contains evaluation criteria and format for price bids. 
+
+ 
+4. This TE is being issued with no financial commitment and the Buyer reserves the 
+right to change or vary any part thereof at any stage. Buyer also reserves the right to 
+withdraw the RFP, should it become necessary at any stage. 
+
+ 
+5. All parameters which are mentioned in this RFP are purely non-proprietary, and 
+if a proprietary standard is mentioned anywhere, it is to indicate merely the 
+functionalities required, and vendor can use equipment/system from any standard 
+OEM, which provides the same functionalities. 
+ 
+6. Placement of Purchase Order - The Purchase Order will be placed on successful 
+
+conclusion of negotiations with the L1 Firm. 
+
+7. Please ensure that this is your best and final offer. 
+ 
+
+ 
+
+ 
+Sd/-x-x-x-x-x-x 
+Yours faithfully,  
+Colonel 
+Commandant 
+Army Headquarters Computer Centre 
+
+ 
+Copy to:- 
+
+Directorate General of Signals 
+(Signals 7) 
+Integrated HQ of MoD (Army) 
+DHQ PO, New Delhi – 110011 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Page 3  
+ 
+
+PART - I: GENERAL INFORMATION 
+
+ 
+
+1.  Critical Dates. The critical dates with respect to the Tender ref PC-621/AHCC/Est of 
+
+CA for Indian Army /TAG Projects/58 are as follows: - 
+
+ 
+
+CRITICAL DATE SHEET 
+
+Ser 
+No 
+
+Item 
+ 
+
+Date 
+ 
+
+Actual   
+Date 
+
+Time 
+
+(a) Publication Date „P‟ Day 
+ 
+
+11 Oct 2018 1500 hrs 
+ 
+
+(b) Bid Document Download „P‟ Day + 1 Day 
+ 
+
+12 Oct 2018 0900 hrs 
+ 
+
+(c) Date from which Clarification can 
+be sought 
+
+„P‟ Day + 1 Day 
+ 
+
+12 Oct 2018 1000 hrs 
+ 
+
+(d) Pre-bid Meeting 
+ 
+
+„P‟ Day + 07 Day 
+ 
+
+18 Oct 2018 1200 hrs 
+
+(e) Earliest Date of Bid Submission 
+ 
+
+„P‟ Day + 1 Day 12 Oct 2018 1700 hrs 
+ 
+
+(f) Last Date of seeking Clarification 
+on the TE 
+
+„P‟ + 07 Day 
+ 
+
+18 Oct 2018 1700 hrs 
+ 
+
+(g) Last Date of Bid Submission „P‟ + 28 Day 
+ 
+
+08 Nov 2018 1600 hrs 
+ 
+
+(h) Bid Opening Date 
+ 
+
+„P‟ + 29 Day 09 Nov 2018 1500 hrs 
+ 
+
+Note: „P‟ is the date of publication of the tender 
+
+ 
+
+Submission of The Bids 
+
+ 
+
+2.  The bids will be submitted in the following manner: - 
+
+ 
+
+(a)  The following documents shall be submitted physically by post or by hand at 
+
+the address given in Para 2 of the covering letter prior to the last date of submission 
+
+of bids in the following manner:- 
+
+ 
+
+  (i)  Earnest Money Deposit (EMD) as applicable or a valid Certificate of               
+
+  Exemption of Earnest Money Deposit (EMD) as applicable. (To be placed in a          
+
+  separate envelope). Any firm claiming exemption should enclose a valid proof 
+
+  of the same at the time of submission of the bids. 
+
+(ii) Tender Conditions Acceptance Certificate. Format for the same is                
+
+ attached as Appendix „A‟ (to this TE). 
+
+  (iii)    Downloaded Tender documents duly stamped and signed. 
+
+(iv) Technical Data Sheets and Compliance alongwith cross reference 
+
+with the Data Sheets of Equipment offered.  
+
+(v) Copy of supporting documents for SI and OEM Eligibility criterion.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+
+
+Page 4  
+ 
+
+ (b)  The following documents shall be submitted online (Scanned and uploaded at 
+
+ www.eprocure.gov.in). 
+
+ 
+
+(i)  Folder - I.    Folder-1 will contain the Technical Bids which consist of 
+the following documents:- 
+
+   (aa)  Valid proof of Company/firm Registration, including certificate of         
+
+   renewal of registration wherever applicable. 
+
+   (ab)  PAN No, CST/ VAT/ TIN/ Regn. 
+
+   (ac)  Bank certificate of credit worthiness. 
+
+   (ad)  Certificate of acceptance of terms and conditions of TE on firms         
+
+   letter head. 
+
+   (ae)  Scanned copy of Earnest Money Deposit (EMD) documents if                                                
+
+   applicable or the exemption certificate. 
+
+(af)  Tender Conditions Acceptance Certificate. Following 
+
+certificates be furnished. 
+
+     (aaa) Signed copy certifying the acceptance of all the tender            
+
+     conditions as per Appendix „A‟ to the TE. 
+
+    (aab) If the certificate is signed by legally authorised signatory, a              
+
+     copy of the authorization letter must be uploaded. 
+
+   (ag)  Clause by clause compliance of specifications should be  
+
+   mentioned in Para 2 of Part II of the TE. Relevant certifications  
+
+   should be mentioned wherever applicable. 
+
+(aaa)  Technical Compliance of Equipment Offered. Tech 
+
+specifications form will be filled, signed, stamped, scanned and 
+
+uploaded as per the format and specs given in Appendix „D, E & 
+
+G‟. 
+
+(aab) Table clearly specifying the make model of all the items 
+
+being supplied as a part of the proposed solution by the bidder, 
+
+alongwith reference to data sheets, certifying compliance with all 
+
+the technical qualitative requirements in the TE. 
+
+(aac) Qualification/Eligibility criteria as per Appendix „E‟ 
+
+   (ah)  OEM authorization certificate as per format enclosed. 
+
+   (aj)  Any other details, as considered necessary by the vendor/firm  
+
+   and relevant to the project may also be enclosed. 
+
+ 
+
+(ii)  Folder – II.  Folder - II will contain the Commercial bids and will consist 
+
+of the following documents which will be submitted online:- 
+
+   (aa)  Commercial bids will be submitted in the form of „BOQ‟ (Bill of              
+
+   Quantities) a per format attached at to TE. 
+
+(ab)  Scanned copy of “Additional Charges/ Discounts” clearly bringing 
+
+out the details of items with Financial implications on the bid as per 
+
+the format attached at Appendix “B” to the TE. 
+
+ 
+
+ 3.       Time and date for opening of Bids: - 
+
+(a) Date : 09/11/2018 ( DD/ MM /YEAR). 
+
+(b) Time: 1500 Hours. 
+
+  (If due to any exigency, the due date for opening of the Bids is declared a closed 
+  holiday, the Bids will be opened on the next working day at the same time or on any 
+  other day/time, as intimated by the Buyer.) 
+
+http://www.eprocure.gov.in/
+
+
+Page 5  
+ 
+
+ 
+  (c) The technical Bid would be opened only on the time and date mentioned 
+
+above. Date of opening of the Commercial Bid will be intimated after acceptance of the 
+
+Technical Bids.  Commercial Bids of only those firms will be opened, whose Technical Bids 
+
+are found compliant/suitable after technical evaluation is done by the Buyer. 
+
+4.      Location of the Tender Box       A tender box duly marked with the title of the RFP 
+shall be available at the office of Army Headquarters Computer Centre for deposition of the 
+documents as per paragraph 2 (a) till the last time and date for depositing the bids. Only 
+those documents as per paragraph 2 (a) that are found in the tender box will be opened. 
+Documents as per paragraph 2 (a) dropped in the wrong Tender Box will be rendered 
+invalid. 
+
+ 
+5.      Place of Opening of the Bids    The bids would be opened by a Board of Officers 
+constituted for the purpose at the office of the Army Headquarters Computer Centre.  The 
+Bidders may depute their representatives, duly authorized in writing, to attend the opening 
+of Bids on the due date and time. Rates and important commercial/ technical clauses quoted 
+by all Bidders will be read out in the presence of the representatives of all the Bidders. This 
+event will not be postponed due to non-presence of your representative. 
+
+ 
+  6.      Two-Bid System (Technical and Commercial). 
+
+(a)  The Technical Bids shall be opened as per critical date sheet mentioned in 
+
+Para 1of Part I of this tender document. The evaluation of technical Bid will be carried 
+
+out off-line and the results of the evaluation will be uploaded on the Central Public 
+
+Procurement Portal (https://eprocure.gov.in/eprocure/app). 
+
+(b)  The Commercial Bids of only those Bidders whose Technical bids meet all the
+
+ stipulated (Technical) requirements shall be opened. The date of opening will be 
+
+ intimated to the Bidders through Central Public Procurement Portal 
+
+ (https://eprocure.gov.in/eprocure/app). 
+
+  
+
+ (c)  The TECHNICAL BID and the COMMERCIAL BID should be submitted by the 
+
+bidder duly digitally signed by the legal owner of the firm or the person authorized 
+
+by him to do so. 
+
+  
+
+ (d)  Instructions for Online Bid Submission. Instructions to the Bidders to 
+
+ submit the bids online through the Central Public Procurement Portal for  
+
+ e-Procurement at https://eprocure.gov.in/eprocure/app are attached as Appendix „C‟. 
+
+ 
+7. Pre Bid Meeting. 
+
+(a)    Clarification Regarding Contents of the TE.          A   prospective   bidder   
+
+who requires clarification regarding the contents of the bidding documents shall 
+
+notify to the Buyer in writing about the clarifications sought not later than 14 
+
+(fourteen) days prior to the date of opening of the Bids. Copies of the query and 
+
+clarification by the purchaser will be sent to all prospective bidders who have received 
+
+the bidding documents. A pre-bid meeting will be held at Army HQ Computer Centre, 
+
+B Wing Basement, Sena Bhawan, New Delhi at 1200 hours on 18 Oct 2018 to 
+
+answer any queries or clarify doubts regarding submission of your Proposal, in which 
+
+your representative is required to attend. Necessary details of your representative(s) 
+
+may be sent one week in advance to the above address/Tele No, to facilitate 
+
+obtaining of security clearance. 
+
+
+
+Page 6  
+ 
+
+8.       Modification and Withdrawal of Bids.        A bidder may modify or withdraw his bid 
+after submission provided that the written notice of modification or withdrawal is received by 
+the Buyer prior to deadline prescribed for submission of bids. A withdrawal notice may be 
+sent by fax but it should be followed by a signed confirmation copy to be sent by post and 
+such signed confirmation should reach the purchaser not later than the deadline for 
+submission of bids. No bid shall be modified after the deadline for submission of bids. No 
+bid may be withdrawn in the interval between the deadline for submission of bids and 
+expiration of the period of bid validity specified. Withdrawal of a bid during this period will 
+result in Bidder‟s forfeiture of Earnest Money Deposit (EMD). 
+
+ 
+9.     Clarification Regarding Contents of the Bids.        During evaluation and 
+comparison of bids, the Buyer may, at its discretion, ask the bidder for clarification of his 
+bid. The request for clarification will be given in writing and no change in prices or substance 
+of the bid will be sought, offered or permitted. No post-bid clarification on the initiative of the 
+bidder will be entertained. 
+
+ 
+10.     Rejection of Bids.    Canvassing by the Bidder in any form, unsolicited letter 
+and post-tender correction may invoke summary rejection with forfeiture of EMD. Any 
+conditions/ terms given in the Technical or Commercial bids by bidders will not be binding 
+on Army Headquarters Computer Centre. All the terms and conditions for the supply, 
+delivery, testing and acceptance, payment, warranty, uptime, penalty will be as given in the 
+TE and no change in any term or condition by the bidders will be acceptable. Conditional 
+tenders will be rejected. Alteration, if any, in the tender document should be attested 
+properly by the bidder with signature and stamp, failing which the tender will be 
+rejected. Certificate of Acceptance of all Terms and Conditions of the RFP as per 
+Appendix „A‟ will be enclosed. Bids without the above certificate are liable to be rejected. 
+
+ 
+11.     Unwillingness to Quote.    Bidders unwilling to quote should ensure that intimation 
+to this effect reaches before the due date and time of opening of the Bid, failing which the 
+defaulting Bidder may be delisted from the list of bidders empanelled for the given range of 
+items and services as mentioned in this RFP. 
+
+ 
+12.     Validity of Bids.     The Bids  should remain  valid  till  180  days  i.e 07/05/2019 
+(DD/MM/YEAR) from the date of Tender Box Opening. 
+ 
+13.     Earnest Money Deposit.   Bidders are required to submit Earnest Money Deposit 
+(EMD) for amount of Rs 20,00,000/- (Rupees Twenty Lacs only) along with their bids. The 
+EMD may be submitted in the form of an Account Payee Demand Draft, Fixed Deposit 
+Receipt, Banker's Cheque or Bank Guarantee from any of the public sector banks or a 
+private sector bank authorized to conduct government business as per Form DPM-13 
+(Available in MoD website and can be provided on request). EMD is to remain valid for a 
+period of forty-five days beyond the final bid validity period. EMD of the unsuccessful 
+bidders will be returned to them at the earliest after expiry of the final bid validity and 
+latest on or before the 30
+
+th
+ day after the award of the contract. The Bid Security of the 
+
+successful bidder would be returned, without any interest whatsoever, after the receipt 
+of Performance Security from them as called for in the contract. EMD is not required to 
+be submitted by those Bidders who are registered for the same item/range of 
+products/goods or services with the Central Purchase Organization, National Small 
+Industries Corporation (NSIC) or any Department of MoD or MoD itself. The EMD will 
+be forfeited, if the bidder withdraws or amends impairs or derogates from the tender in 
+any respect within the validity period of their tender. 
+
+
+
+Page 7  
+ 
+
+ 
+
+PART II – ESSENTIAL DETAILS OF ITEMS/SERVICES REQUIRED 
+
+ 
+
+1.      Schedule of Requirements. List of items / services required is as follows: 
+ 
+
+       (a)  The turnkey project includes the following as per details given:- 
+
+ 
+Ser 
+
+No 
+
+Item Quantity Remarks 
+
+(i) Digital Certificate Lifecycle 
+Management Solution 
+
+01 x Enterprise License  
+(for DC, DR and NLDC) 
+
+ 
+
+(ii) OCSP Responder 01 x Enterprise License 
+(for DC, DR and NLDC) 
+
+ 
+
+(iii) Time Stamping Server 
+ 
+
+01 x Enterprise License  
+(for DC, DR and NLDC) 
+
+ 
+
+(iv) Installation and Commissioning 
+Charges for hardware components 
+
+One Time (To include 
+commissioning at DC, DR and 
+NLDC and a Test Setup at AHCC) 
+
+ 
+
+(v) Cost of Audit as per CCA 
+guidelines - Audit to be conducted 
+by a CCA empanelled auditor  
+
+03 x Audits (including Certification 
+Audit, upto 3 yrs of warranty) 
+
+ 
+
+(vi) Hardware Security Module 04  
+
+(vii) Servers for Root CA with 
+virtualisation platform compatible 
+with existing infrastructure and 
+manageable from existing 
+management console 
+
+02 x 02 
+(02 each at DC & DR) 
+
+ 
+
+(viii) Servers for Sub CA with 
+virtualisation platform compatible 
+with existing infrastructure and 
+manageable from existing 
+management console 
+
+02 x 02 
+(02 each at DC & DR) 
+
+ 
+
+(ix) NPL Clock Receiver 02  
+
+(x) Biometric Authentication for CA 
+Servers 
+
+02 (To cater for Biometric 
+authentication for CA Servers at DC 
+& DR) 
+
+ 
+
+(xi) Strong Room Enclosure as per 
+CCA guidelines for DC & DR 
+
+02 
+(01 each at DC & DR) 
+
+ 
+
+(xii) USB Tokens 40,000  
+
+(xiii) External Tape Drive 2  
+
+(xiv) Installation and Commissioning 
+Charges for software components 
+
+One Time 
+(Include commissioning at DC, DR 
+and NLDC and a Test Setup at 
+AHCC) 
+
+ 
+
+(xv) Training Charges 4 training capsules, each of min 01 
+week duration to a total of 12 
+individuals 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Page 8  
+ 
+
+       (b)    Project involves the following 
+ 
+
+Ser. 
+
+No 
+
+Deliverables Remarks 
+
+(i) Detailed planning and finalization of establishment of CCA 
+certified CA at AHCC, in accordance with the CCA 
+Guidelines. 
+
+To be finalized 
+between the Bidder, 
+User in accordance 
+with CCA 
+
+(ii) Preparation of site for establishment of CCA certified CA at 
+Central Data Centre (CDC) and Disaster Recovery (DR) site 
+(at Pune), as per the CCA guidelines on the subject. 
+
+ 
+
+(iii) Delivery and installation of hardware as per requirement of 
+the proposed solution by the successful bidder. 
+
+As per Bill of 
+
+Material 
+
+(iv) Delivery and Installation of CA Digital Certificate Life Cycle 
+Management Solution along with Hardware Security Module. 
+This would also include requisite integrating the CA 
+framework with existing infrastructure at AHCC. Facilitating 
+integration of applications requiring digital signatures, 
+authentication based on digital certificates.  This would also 
+involve setting up of RA at upto 10 locations, wherein the 
+hardware for RA client will be provided by the buyer. 
+
+At CDC and DR Site 
+
+(v) Delivery, installation and setup of a test set-up comprising of 
+CA solution components at CDC for training purpose.  
+
+Bidder to cater for 
+atleast 02 x PCs for 
+the test setup 
+
+(vi) Documentation of the Policies, Certificate Practice 
+Statement (CPS) as per CCA guidelines on the subject. 
+
+To be published on 
+Army Data Network 
+
+(vii) CCA Audit of the setup to include any changes/ 
+modifications as desired/ directed by the designated auditor. 
+In case there is a requirement of the CCA authorities to be 
+taken to the Central Data Centre, DR Site and NLDC, for 
+certification, the responsibility and all related expenses will 
+be borne by the bidder/ vendor. 
+
+Bidder would ensure 
+certification of the 
+CA framework by 
+CCA as a part of 
+implementation, in 
+accordance with 
+CCA. 
+
+(viii) Establishment of the CA framework for army data network.  
+
+(ix) Training & Knowledge Transfer as per the details given at 
+
+para 2 (d) 
+
+ 
+
+(x) On Call – On Site support for any trouble shooting, 
+
+modification and integration to be catered for by the bidder, 
+
+for the duration of Warranty. 
+
+For the warranty 
+
+period of three years 
+
+from the date of 
+
+ATP. 
+
+ 
+2. Technical Details 
+
+ 
+
+(a)      Technical details with technical parameters with specification is attached as 
+per Appendix „D‟. 
+(b)      All bidders may be required to procure a sample of the said items for approval 
+of the Technical Evaluation Committee (TEC) convened by the consignee at date, 
+time and place intimated by the Technical Evaluation Committee in case desired by 
+the Technical Evaluation Committee (TEC) at no cost no commitment basis. In the 
+event, the Bidder is unable to produce the items within the stipulated period, or if the 
+solutions / equipment‟s does not confirm to the laid down specification and/or 
+performance parameters, than the Technical Evaluation Committee (TEC) reserves 
+the right to disqualify/reject the bid. 
+ 
+(c)     Qualification/Eligibility Criteria   As per Appendix „E‟. 
+ 
+
+
+
+Page 9  
+ 
+
+(d)     Training.  4 training capsules (2 x User Training capsule for RAs and  2 x   
+Administrator Training Capsule), each of minimum 01 weeks duration to a total of 12 
+individuals in managing the solution will be catered for by the Bidder at the user 
+premises within one year of the ATP. The training shall be on the following aspects: - 
+
+ 
+(i)       Basic/Advanced System Administrator training on functional aspect of the 
+entire solution to be provided. It shall also cover system software & hardware 
+configuration. 
+(ii)       A detailed syllabus for training on each of the supplied components 
+shall be submitted as part of the technical bid. However, buyer shall reserve 
+the right to make modifications to the syllabus, if required at the time of 
+implementation of the project. 
+(iii)    Training and Installation documents specific to the installation, 
+management of hardware and integration solution implemented at the Buyer 
+location shall be prepared during the implementation phase and shall form part 
+of deliverables at the time of Acceptance Testing. 
+ 
+
+(e)   Installation/Commissioning.  Installation/commissioning will involve installation 
+and integration of Certificate Authority Solution with existing system. 
+Implementation/commissioning and integration of the hardware delivered in 
+the project with the existing infrastructure shall be carried out by the bidder. 
+This shall include the following:- 
+
+ 
+(i)  The complete installation, configuration and integration of each of the 
+items supplied with the existing Data Centre setup at Army Headquarters 
+Computer Centre. 
+(ii)  Configure & Implement Enterprise Certificate Authority and Certification 
+from CCA of India. 
+(iii)  Any additional Software/ Operating System/ Database licenses required 
+for implementing the complete solution has to be catered for by the bidder.  
+Further details can be obtained from Army Headquarters Computer Centre 
+on requirement basis. 
+
+ 
+(f)       Hardware Acceptance Testing.   Delivery of hardware will be at site i.e. for 
+CDC and NLDC, at Army Headquarters Computer Centre, Sena Bhawan, New Delhi 
+and for DR site, at Pune. The system will be subjected to an acceptance testing 
+procedure, to test individual components and successful integration of all 
+components.  The bidder and the user, before the finalization of the contract, will 
+work out the specific details of the procedure jointly. The broad outline of the 
+acceptance testing procedure of the complete solution is given at Appendix „F‟. The 
+specifications of the equipment should be in conformity with the details provided by 
+the bidder and as per the given specifications. The user would issue acceptance 
+certificate on successful completion of acceptance testing. The date of issuing final 
+acceptance certificate would be deemed to be the date on which the warranty 
+will commence for the hardware. The user will order a board of officers to carry out 
+the ATP.  Test data would be collected by the BIDDER and he would be required 
+to submit ATP document jointly signed by user and the bidder‟s authorized 
+representative. 
+ 
+
+(g)      Inspection.  The stores will be subject to inspection by a Board of Officers 
+detailed by the purchaser to ascertain that they conform to the specifications as laid 
+down in the supply order. In case the stores ordered on receipt are not found to be 
+conforming to the laid down specifications, the defective stores will be removed and 
+replaced by the stores of the correct specifications by the supplier at his own expense 
+within a period of 15 days of inspection. In case of any dispute, decision of the 
+purchaser will be final and binding. The item should conform to latest manufacturing 
+technology and should also conform to the current production standard of having 
+100% defined life at the time of delivery. 
+
+
+
+Page 10  
+ 
+
+ 
+(h)      Software/ Firmware Updates. Bidder will guarantee provision of all software/ 
+firmware updates and upgrades for a period of three years from the date of ATP 
+(warranty period), free of cost. The updates and upgrades for a period of four 
+years after expiry of warranty period would be on a chargeable basis. However 
+during warranty it will be given free of cost. If any upgrade is provided free by the 
+OEM, the same will be passed on to the user free of cost. 
+
+ 
+3.      Two-bid System.     As Two-bid system is being followed, bidders are required to 
+furnish clause by clause compliance of specifications bringing out clearly the deviations from 
+specification, if any. The Bidders are advised to submit the compliance statement in the 
+format given in Appendix „D, E & G‟ with the Technical Bid. 
+
+ 
+4.      Delivery Period.     Delivery period for supply of items would be as given below from 
+the effective date of contract. Please note that Contract can be cancelled unilaterally by the 
+Buyer in case items are not received within the contracted delivery period. Extension of 
+contracted delivery period will be at the sole discretion of the Buyer, with applicability of LD 
+clause. 
+
+ 
+(a)    Delivery of hardware for acceptance within 8 weeks of placement of Supply 
+Order at AHCC, New Delhi. 
+(b)    Installation and integration of entire solution at AHCC Data Centre and DR 
+site along with necessary documentation within 16 weeks of placement of Supply 
+Order at AHCC, New Delhi. 
+(c) Certification by CCA to include any modification as desired for the same and 
+ATP of the project within 22 weeks of placement of Supply Order. 
+
+ 
+5.      Service Level Agreement.        Service Level Agreement will be as laid down in 
+the warranty and maintenance clause at Part IV of the RFP which bidder will have to comply. 
+
+ 
+6.     Confidentiality of the Project     Bidder shall ensure confidentially of the project 
+and shall not disclose any information gained by Bidder or his representatives/agents, while 
+interacting with the persons of Army Headquarters Computer Centre or any documents 
+prepared in connection with the project or any documents received by Bidder or any study 
+carried out by Bidder directly or indirectly, to any person or company or institution or press. 
+All persons of Bidder Company authorized by Bidder Company, who are associated with 
+this project, shall sign a Confidentiality Certificate, countersigned by an authorized signatory 
+of Bidder Company with the Company seal duly affixed as per Appendix „H‟.  This shall 
+be handed over to Army Headquarters Computer Centre prior to commencement of the 
+project. 
+
+ 
+7.       Consignee Details: 
+
+ 
+Commandant 
+Army Headquarters Computer Centre 
+Integrated HQ MoD (Army) 
+`B‟ Wing Basement, Sena Bhawan 
+DHQ PO, New Delhi - 110011 
+Tele: 011-23019915 
+Fax: 011-23015644 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Page 11  
+ 
+
+PART III – STANDARD CONDITIONS OF RFP 
+ 
+ 
+The Bidder is required to give confirmation of their acceptance of the Standard Conditions 
+of the Request for Proposal mentioned below which will automatically be considered as part 
+of the Contract concluded with the successful Bidder (i.e. Bidder in the Contract) as selected 
+by the Buyer. Failure to do so may result in rejection of the Bid submitted by the Bidder. 
+
+ 
+ 
+1.       Law  The Contract shall be considered and made in accordance with the laws of 
+the Republic of India. The contract shall be governed by and interpreted in accordance with 
+the laws of the Republic of India. 
+
+ 
+2.       Effective Date of the Contract  Normally the contract shall come into effect on the 
+date of signatures of both the parties on the contract except when some other effective date 
+is mutually agreed to and specifically indicated/provided in the contract. The deliveries and 
+supplies and performance of the services shall commence from the effective date of the 
+contract. 
+
+ 
+3.       Arbitration   All disputes or differences arising out of or in connection with the 
+Contract shall be settled by bilateral discussions. Any dispute disagreement or question 
+arising out of or relating to the Contract or relating to construction or performance, which 
+cannot be settled amicably, may be resolved through arbitration. The arbitration is as per 
+the following clauses:- 
+
+(a)     All disputes or differences arising out of or in connection with the present 
+contract including the one connected with the validity of the present contract or any 
+part thereof should be settled by bilateral discussions. 
+(b)   Any dispute, disagreement of question arising out of or relating to this contract or 
+relating to construction or performance (except as to any matter the decision or 
+determination whereof is provided for by these conditions), which cannot be settled 
+amicably, shall within sixty (60) days or such longer period as may be mutually 
+agreed upon, from the date on which either party informs the other in writing by a 
+notice that such dispute, disagreement or question exists, will be referred to a sole 
+Arbitrator. 
+(c)    Within sixty (60) days of the receipt of the said notice, an arbitrator shall be 
+nominated in writing by the authority agreed upon by the parties. 
+(d)    The sole Arbitrator shall have its seat in New Delhi or such other place in India 
+as may be mutually agreed to between the parties. 
+(e)    The arbitration proceedings shall be conducted under the Indian Arbitration and 
+Conciliation Act, 1996 and the award of such Arbitration Tribunal shall be 
+enforceable in Indian Courts only. 
+(f)     Each party shall bear its own cost of preparing and presenting its case. The 
+cost of arbitration including the fees and expenses shall be shared equally by the 
+parties, unless otherwise awarded by the sole arbitrator. 
+(g)    The parties shall continue to perform their respective obligations under this 
+contract during the pendency of the arbitration proceedings except in so far as such 
+obligations are the subject matter of the said arbitration proceedings. 
+
+ 
+
+(Note:- In the event of the parties deciding to refer the dispute/s for adjudication to 
+an Arbitral Tribunal then one arbitrator each will be appointed by each party and the 
+case will be referred to the Indian Council of Arbitration (ICADR) for nomination of 
+the third arbitrator. The fees of the arbitrator appointed by the parties shall be borne 
+by each party and the fees of the third arbitrator, if appointed, shall be equally shared 
+by the buyer and Bidder. Further reference is available in MoD website and can be 
+provided on request). 
+
+ 
+ 
+ 
+
+
+
+Page 12  
+ 
+
+ 
+4.       Penalty for use of Undue Influence.   The  Bidder  undertakes  that  he  has  not 
+given, offered or promised to give, directly or indirectly, any gift, consideration, reward, 
+commission, fees, brokerage or inducement to any person in service of the Buyer or 
+otherwise in procuring the Contracts or forbearing to do or for having done or forborne to do 
+any act in relation to the obtaining or execution of the present Contract or any other Contract 
+with the Government of India for showing or forbearing to show favour or disfavour to any 
+person in relation to the present Contract or any other Contract with the Government of 
+India. Any breach of the aforesaid undertaking by the Bidder or any one employed by him 
+or acting on his behalf (whether with or without the knowledge of the Bidder) or the 
+commission of any offers by the Bidder or anyone employed by him or acting on his behalf, 
+as defined in Chapter IX of the Indian Penal Code, 1860 or the Prevention of Corruption 
+Act, 1986 or any other Act enacted for the prevention of corruption shall entitle the Buyer to 
+cancel the contract and all or any other contracts with the Bidder and recover from the 
+Bidder the amount of any loss arising from such cancellation. A decision of the Buyer or his 
+nominee to the effect that a breach of the undertaking had been committed shall be final 
+and binding on the Bidder. Giving or offering of any gift, bribe or inducement or any attempt 
+at any such act on behalf of the Bidder towards any officer/employee of the Buyer or to any 
+other person in a position to influence any officer/employee of the Buyer for showing any 
+favour in relation to this or any other contract, shall render the Bidder to such liability/ penalty 
+as the Buyer may deem proper, including but not limited to termination of the contract, 
+imposition of penal damages, forfeiture of the Bank Guarantee and refund of the amounts 
+paid by the Buyer. 
+
+ 
+5.       Agents / Agency Commission: The Bidder confirms and declares to the Buyer that 
+the Bidder is the original manufacturer of the stores/provider of the services referred to in 
+this Contract and has not engaged any individual or firm, whether Indian or foreign 
+whatsoever, to intercede, facilitate or in any way to recommend to the Government of India 
+or any of its functionaries, whether officially or unofficially, to the award of the contract to 
+the Bidder; nor has any amount been paid, promised or intended to be paid to any such 
+individual or firm in respect of any such intercession, facilitation or recommendation. The 
+Bidder agrees that if it is established at any time to the satisfaction of the Buyer that the 
+present declaration is in any way incorrect or if at a later stage it is discovered by the Buyer 
+that the Bidder has engaged any such individual/firm, and paid or intended to pay any 
+amount, gift, reward, fees, commission or consideration to such person, party, firm or 
+institution, whether before or after the signing of this contract, the Bidder will be liable to 
+refund that amount to the Buyer. The Bidder will also be debarred from entering into any 
+supply Contract with the Government of India for a minimum period of five years. The Buyer 
+will also have a right to consider cancellation of the Contract either wholly or in part, without 
+any entitlement or compensation to the Bidder who shall in such an event be liable to refund 
+all payments made by the Buyer in terms of the Contract along with interest at the rate of 
+2% per annum above LIBOR rate. The Buyer will also have the right to recover any such 
+amount from any contracts concluded earlier with the Government of India. 
+ 
+6.       Access to Books of Accounts.   In case it is found to the satisfaction of the Buyer 
+that the Bidder has engaged an Agent or paid commission or influenced any person to 
+obtain the contract as described in clauses relating to Agents/Agency Commission and 
+penalty for use of undue influence, the Bidder, on a specific request of the Buyer, shall 
+provide necessary information/ inspection of the relevant financial documents/information. 
+
+ 
+7.       Non-disclosure of Contract Documents       Except with the written consent of 
+the Buyer/ Bidder, other party shall not disclose the contract or any provision, specification, 
+plan, design, pattern, sample or information thereof to any third party. 
+ 
+ 
+ 
+ 
+
+
+
+Page 13  
+ 
+
+8.       Liquidated Damages (LD).       In the event of the Bidder's failure to submit the 
+Bonds, Guarantees and Documents, supply the stores/goods and conduct trials, installation 
+of equipment, training, etc as specified in this contract, the Buyer may, at his discretion, 
+withhold any payment until the completion of the contract. The BUYER may also deduct 
+from the BIDDER as agreed, liquidated damages to the sum of 0.5% of the contract price 
+of the delayed/undelivered stores/services mentioned above for every week of delay or part 
+of a week, subject to the maximum value of the Liquidated Damages being not higher than 
+10% of the value of delayed stores. 
+
+ 
+9.     Consequential Damages.      Consequential damage will be imposed over and 
+above LD, which will be 0.25 % of the Supply Order price of the undelivered stores for each 
+week of delay not exceeding 5% of the Supply Order cost of the undelivered stores. 
+
+ 
+10. Termination of Contract.     The Buyer shall have the right to terminate this 
+Contract in part or in full in any of the following cases: - 
+
+ 
+(a) The delivery of the material is delayed for causes not attributable to Force 
+Majeure for more than 01 (One) months after the scheduled date of delivery. (b) The 
+Bidder is declared bankrupt or becomes insolvent. 
+(b) The delivery of material is delayed due to causes of Force Majeure by more 
+than 02 (Two) months provided Force Majeure clause is included in contract. 
+(c) The Buyer has noticed that the Bidder has utilized the services of any 
+Indian/Foreign agent in getting this contract and paid any commission to such 
+individual/company etc. 
+(d)  As per decision of the Arbitration Tribunal. 
+(e) Ban on Dealings. When the misconduct of a firm or its continued poor 
+performance justifies imposition of ban on business relations with the firm, action 
+shall be taken by the appropriate authority after due consideration of all factors and 
+circumstances of the case and after giving due notice. 
+
+ 
+11.     Notices.        Any notice required or permitted by the contract shall be written in the 
+English language and may be delivered personally or may be sent by FAX or registered 
+pre-paid mail/airmail, addressed to the last known address of the party to whom it is sent. 
+
+ 
+12.     Transfer and Sub-letting.      The Bidder has no right to give, bargain, sell, 
+assign or sublet or otherwise dispose of the Contract or any part thereof, as well as to give 
+or to let a third party take benefit or advantage of the present Contract or any part thereof. 
+ 
+13.     Patents and other Industrial Property Rights.      The   prices   stated   in   the 
+present Contract shall be deemed to include all amounts payable for the use of patents, 
+copyrights, registered charges, trademarks and payments for any other industrial property 
+rights. The Bidder shall indemnify the Buyer against all claims from a third party at any time 
+on account of the infringement of any or all the rights mentioned in the previous paragraphs, 
+whether such claims arise in respect of manufacture or use. The Bidder shall be responsible 
+for the completion of the supplies including spares, tools, technical literature and training 
+aggregates irrespective of the fact of infringement of the supplies, irrespective of the fact of 
+infringement of any or all the rights mentioned above. 
+
+ 
+14.     Amendments:     No provision of present Contract shall be changed or modified in 
+any way (including this provision) either in whole or in part except by an instrument in 
+writing made after the date of this Contract and signed on behalf of both the parties and 
+which expressly states to amend the present Contract. 
+ 
+15.     Taxes and duties.     GST as per actuals  
+
+ 
+ 
+
+
+
+Page 14  
+ 
+
+PART IV - SPECIAL CONDITIONS OF TE 
+
+ 
+
+The Bidder is required to give confirmation of their acceptance of Special Conditions 
+of the TE mentioned below which will automatically be considered as part of the 
+Contract concluded with the successful Bidder (i.e. Bidder in the Contract) as 
+selected by the Buyer. Failure to do so may result in rejection of Bid submitted by the 
+Bidder. 
+
+ 
+1.        Performance Guarantee.          The   Bidder   will   be   required   to   
+furnish   a Performance Guarantee by way of Bank Guarantee through a public sector 
+bank or a private sector bank authorized to conduct government business (ICICI 
+Bank Ltd., Axis Bank Ltd or HDFC Bank Ltd.) for a sum equal to 10% of the contract 
+value within 30 days of receipt of the confirmed order. Performance Bank Guarantee 
+should be valid up to 60 days beyond the date of warranty. The specimen of PBG is 
+given in Form DPM-15 given in the Defence Procurement Manual (DPM) 2009 
+available in MoD website. 
+
+ 
+2.       Payment Terms.    It will be mandatory for the Bidders to indicate their bank 
+account numbers and other relevant e-payment details so that payments could be 
+made through ECS/EFT mechanism instead of payment through cheques, wherever 
+feasible. A copy of the model mandate form prescribed by RBI to be submitted by 
+Bidders for receiving payments through ECS is at Form DPM-11 (Available in MoD 
+website and can be given on request). The payment will be made as per the following 
+terms, on production of the requisite documents: 
+
+ 
+(a) 50% of total project cost excluding cost of training will be paid on 
+delivery of the hardware/software licenses at AHCC, New Delhi. Payment will 
+be released when a certificate to this effect is issued by AHCC. 
+ 
+(b) 30% of the total project cost excluding cost of training will be paid on 
+satisfactory acceptance of the hardware and installation and integration in the 
+networking environment on the existing Intranet at AHCC, New Delhi.  
+Payment will be released when the ATP certificate to this effect is issued by 
+AHCC. 
+ 
+(c) 20% of the total project cost excluding the cost of training will be and 
+cost of training would be paid 3 months after completion of the ATP. 
+Payment will be released when a certificate to this effect is issued by AHCC. 
+
+ 
+(d) Cost of training will be paid after the successful completion of all batches 
+of training as given in the RFP. Bidder is required to quote a realistic cost 
+of training, failing which, the bid would be rejected. Payment will be 
+released when a certificate to this effect is issued by AHCC. 
+
+ 
+3. Advance Payments. No advance payment(s) will be made. 
+
+ 
+4.    Paying Authority.  The paying authority is Principal Controller of Defence 
+Accounts (PCDA), New Delhi and all bills will be submitted to the paying authority 
+through the office of Army Headquarters Computer Centre. The bills will be 
+submitted with the following documents to the paying authority, as applicable:- 
+
+ 
+(a)      Ink-signed copy of contingent bill / Seller‟s bill. 
+ 
+(b)      Ink-signed copy of Commercial invoice / Seller‟s bill. 
+ 
+(c)   Copy of Supply Order/Contract with U.O. number and date of IFA‟s 
+concurrence, where required under delegation of powers. 
+
+
+
+Page 15  
+ 
+
+ 
+(d) Certified Receipt Vouchers (CRVs) (in duplicate).  
+ 
+(e) Inspection note. 
+ 
+
+(f)    Claim for statutory and other levies to be supported with requisite 
+documents/ proof of payment such as Excise duty challan, Customs duty 
+clearance certificate, Octroi receipt, proof of payment for EPF/ESIC 
+contribution with nominal roll of beneficiaries, etc as applicable. 
+
+ 
+
+(g) Relevant documents/proof of payment in support of the claim for 
+statutory and other levies, such as Excise duty challan, Customs duty 
+clearance certificate, Octroi receipt, proof of payment for EPF/ ESIC 
+contribution with nominal roll of beneficiaries, etc, as applicable.  
+
+ 
+(h) Exemption certificate for Excise duty / Customs duty, if applicable.  
+ 
+(j) Bank guarantee for advance, if any. 
+ 
+
+(k)       Guarantee / Warranty certificate. 
+
+ 
+(l)       Performance Bank guarantee / Indemnity bond where applicable. 
+ 
+(m)     DP extension letter with CFA‟s sanction, U.O. number and date of IFA‟s 
+concurrence, where required under delegation of powers, indicating whether 
+extension is with or without LD. 
+ 
+(n)     Details for electronic payment viz Account holder‟s name, Bank name, 
+Branch name and address, Account type, Account number, IFSC code, MICR 
+code (if these details are not incorporated in supply order/contract). 
+ 
+(o)      Any other document / certificate that may be provided for in the Supply 
+Order/Contract. 
+ 
+(p) User Acceptance. 
+ 
+(q) Xerox copy of PBG. 
+ 
+
+5.       Fall Clause.  The following Fall Clause will form part of the contract placed 
+on successful Bidder: - 
+
+ 
+
+(a)       The price charged for the stores supplied under the contract by the 
+Seller shall in no event exceed the lowest prices at which the Seller sells the 
+stores or offer to sell stores of identical description to any 
+persons/Organization including the purchaser or any department of the 
+Central government or any Department of State government or any statutory 
+undertaking the Central or State government as the case may be during the 
+period or till the performance of all Supply Orders placed during the currency 
+of the rate contract is completed. 
+
+ 
+(b)       If at any time, during the said period the Seller reduces the sale price, 
+sells or offer to sell such stores to any person/organization including the 
+Buyer or any Deptt, of central Govt. or any Department of the State 
+Government or any Statutory undertaking of the Central or state Government 
+as the case may be at a price lower than the price chargeable under the 
+contract, he shall forthwith notify such reduction or sale or offer of sale to the 
+Purchase/Contracting Authority and the price payable under the contract for 
+
+
+
+Page 16  
+ 
+
+the stores of such reduction of sale or offer of the sale shall stand 
+correspondingly reduced. The above stipulation will, however, not apply to:-- 
+
+ 
+(i)       Exports by the Bidder. 
+(ii)      Sale of goods as original equipment at price lower than the 
+prices charged for normal replacement. 
+(iii)       Sale of goods such as drugs which have expiry dates. 
+(iv)      Sale of goods at lower price on or after the date of completion 
+of sale/placement of the order of goods by the authority concerned 
+under the existing or previous Rate Contracts as also under any 
+previous contracts entered into with the Central or State Govt. Deptt, 
+including their undertakings excluding joint sector companies and/or 
+private parties and bodies. 
+
+ 
+(c)       The seller shall furnish the following certificate to the Paying Authority 
+along with each bill for payment for supplies made against the Rate contract – 
+“We certify that there has been no reduction in sale price of the stores of 
+description identical to the stores supplied to the Government under the 
+contract herein and such stores have not been offered/sold by me/us to any 
+person/organization including the purchaser or any department of Central 
+Government or any Department of a state Government or any Statutory 
+Undertaking of the Central or state Government as the case may be upto the 
+date of bill/the date of completion of supplies against all supply orders placed 
+during the currency of the Rate Contract at price lower than the price charged 
+to the government under the contract except for quantity of stores categories 
+under sub-clauses (i),(ii) and (iii) of Sub-para (b) above details of which are 
+given below -……”. 
+
+ 
+6. Risk & Expense clause 
+
+ 
+(a)       Should the stores or any installment thereof not be delivered within the 
+time or times specified in the contract documents, or if defective delivery is 
+made in respect of the stores or any installment thereof, the Buyer shall after 
+granting the Bidder 45 days to cure the breach, be at liberty, without 
+prejudice to the right to recover liquidated damages as a remedy for breach 
+of contract, to declare the contract as cancelled either wholly or to the extent 
+of such default. 
+
+ 
+(b)       Should the stores or any installment thereof not perform in accordance 
+with the specifications / parameters provided by the SELLER during the check 
+proof tests to be done in the BUYER‟s country, the BUYER shall be at liberty, 
+without prejudice to any other remedies for breach of contract, to cancel the 
+contract wholly or to the extent of such default. 
+ 
+(c)      In case of a material breach that was not remedied within 45 days, the 
+BUYER shall, having given the right of first refusal to the SELLER be at liberty 
+to purchase, manufacture, or procure from any other source as he thinks fit, 
+other stores of the same or similar description to make good:- 
+
+ 
+(i) Such default. 
+(ii) In the event of the contract being wholly determined the balance 
+of the stores remaining to be delivered there under. 
+
+ 
+(d)       Any excess of the purchase price, cost of manufacturer, or value of any 
+stores procured from any other supplier as the case may be, over the 
+contract price appropriate to such default or balance shall be recoverable 
+from the BIDDER. Such recoveries shall not exceed 20% of the value of the 
+contract.” 
+
+
+
+Page 17  
+ 
+
+7. Force Majeure clause. 
+ 
+
+(a)   Neither party shall bear responsibility for the complete or partial 
+nonperformance of any of its obligations (except for failure to pay any sum 
+which has become due on account of receipt of goods under the provisions of 
+the present contract), if the non-performance results from such Force Majeure 
+circumstances as Flood, Fire, Earth Quake and other acts of God as well as 
+War, Military operation, blockade, Acts or Actions of State Authorities or any 
+other circumstances beyond the parties control that have arisen after the 
+conclusion of the present contract. 
+
+ 
+(b)     In such circumstances the time stipulated for the performance of an 
+obligation under the present contract is extended correspondingly for the 
+period of time of action of these circumstances and their consequences. 
+ 
+(c)     The party for which it becomes impossible to meet obligations under 
+this contract due to Force Majeure conditions, is to notify in written form the 
+other party of the beginning and cessation of the above circumstances 
+immediately, but in any case not later than 10 (Ten) days from the moment of 
+their beginning. 
+ 
+(d)     Certificate of a Chamber of Commerce (Commerce and Industry) or 
+other competent authority or organization of the respective country shall be 
+a sufficient proof of commencement and cessation of the above 
+circumstances. 
+ 
+(e)     If the impossibility of complete or partial performance of an obligation 
+lasts for more than 6 (six) months, either party hereto reserves the right to 
+terminate the contract totally or partially upon giving prior written notice of 30 
+(thirty) days to the other party of the intention to terminate without any liability 
+other than reimbursement on the terms provided in the agreement for the 
+goods received. 
+
+ 
+8.     Local Maint Service and Engineer Support.    For the  major  component  of  
+the project, it will be mandatory for the Seller/ OEM to have complete service and 
+engineering support facilities within the National Capital Region (NCR). Detailed 
+information as regards the level of such services and support shall be furnished duly 
+authentication by OEM with the Technical Bid. The information furnished by the 
+Bidder will be physically verified by the TEC, if required. In the event the service and 
+support capability provided by the Bidder is found to be in deviation to as claimed or 
+unacceptable in terms of capabilities to the buyer the bids of the bidder are likely to 
+be rejected. 
+ 
+
+9. Electronic Clearance System (ECS). ECS authorisation cum banker‟s 
+
+certification form attached at Appendix „J‟ is required to be filled and authorised by 
+
+the concerned bank. It is mandatory to submit ECS mandate with the Tender Enquiry. 
+
+ 
+
+10.     Specification.    The Seller guarantees to meet the specifications as per Part-
+II of RFP and to incorporate the modifications to the existing design configuration to 
+meet the specific requirement of the Buyer Services as per 
+modifications/requirements recommended after the Maintenance Evaluation Trials. All  
+
+technical literature and drawings shall be amended as the modifications by the Bidder 
+before supply to the Buyer. The Bidder, in consultation with the Buyer, may carry out 
+technical upgradation/alterations in the design, drawings and specifications due to 
+change in manufacturing procedures, indigenization or obsolescence. This will, 
+however, not in any way, adversely affect the end specifications of the equipment. 
+
+
+
+Page 18  
+ 
+
+Changes in technical details, drawings repair and maintenance techniques alongwith 
+necessary tools as a result of upgradation/alterations will be provided to the Buyer free 
+of cost within 30 days of affecting such upgradation/alterations. 
+ 
+
+11.     OEM Certificate.  Following will be provided by the bidder failing which the 
+bid will tend to be rejected:- 
+ 
+
+(a)      All bidders who are not OEMs of the equipment they are offering, 
+shall produce ink signed certificates from the respective OEMs, giving 
+reference of this Tender Enquiry, authorizing the bidder to offer their 
+equipment and a commitment to provide maintenance support during the 
+warranty period and during the period of the AMC (if entered into with the 
+bidder by the buyer). An arrangement for exercising such support with the 
+OEM as part of the entire three year warranty period will be worked out by 
+the Bidder and proof in writing for the same in the form of the OEM certificate 
+shall be provided within 30 days of placement of the supply order. This shall 
+apply to for all the equipment. Failure to render such proof in writing in the 
+non- processing of the payments as per the payment schedule and or 
+cancellation of the supply order. 
+ 
+(b)      OEM certificate stating that in case the authorized dealer/ distributor 
+fails to repair/ maintenance the equipment during the warranty/ AMC, the 
+responsibility for maintenance of the equipment provided would then be taken 
+over by the OEM. 
+ 
+(c)      The complete contact details of the OEM (Name and designation of 
+contact person, postal address, e mail ID and telephone & FAX numbers) will 
+be furnished and the buyer may at his discretion verify the authorization from 
+the OEM, failure of which may result in the bidder being black listed and / or 
+barred from participating for any future tender of this Headquarters. 
+
+ 
+12.     Export License.     The Bidders are to confirm  that they have  requisite  
+export license from their Government and Authorization from the manufacturing plant, 
+in case they are not the OEM, to export the military / non-military goods to India. 
+
+ 
+13.     Quality & Earliest Acceptable Year of Manufacture.           The   quality   of   
+the stores delivered according to the present supply order shall correspond to the 
+technical conditions and standards valid for the deliveries of the same stores for in 
+Bidder‟s country or specifications enumerated as per RFP. The Seller confirms that 
+the stores to be supplied under this supply order shall be new i.e. not manufactured 
+before year of supply order, and shall incorporate all the latest improvements and 
+modifications thereto and spares of improved and modified equipment are backward 
+integrated and interchangeable with same equipment supplied by the Bidder in the 
+past if any. The Bidder shall supply an interchangeability certificate along with the 
+changed part numbers wherein it should be mentioned that item would provide as 
+much life as the original item. 
+ 
+
+14. Transportation. The transportation of all the items as per the RFP will 
+done on site at locations of CDC and NLDC at Sena Bhawan, New Delhi and DR 
+Site at Pune, will be the responsibility of the successful bidder. All the expenses to 
+ship/ shift the equipment to the requisite locations will be borne by the vendor and 
+approval from the user will be taken prior to shifting of any equipment from the user 
+premises.   
+ 
+
+15. Packing and Marking The following packing and Marking clause will form 
+part of the contract placed on successful Bidder: - 
+ 
+
+(a) The Seller shall provide packing preservation of the equipment and 
+spares/ goods contracted so as to ensure their safety against damage in the 
+
+
+
+Page 19  
+ 
+
+conditions of land, sea and air transportation, transshipment, storage handling.   
+(b) The packing of the equipment and spares/ goods shall conform to the 
+requirements of specifications and standards in force in the territory of the 
+Seller‟s country. 
+ 
+(c) Each spare, tool and accessory shall be packed in separate cartons.  A 
+label in English shall be pasted in the carton indicating the under mentioned 
+details of the items contained in the carton.   
+ (i) Part Number: 
+ (ii) Nomenclature: 
+ (iii) Quantity contracted  
+ 
+(d) Should any special equipment be returned to the Seller by the Buyer, 
+the latter shall provide normal packing, which protects the equipment and 
+spares/ goods from the damage to deterioration during transportation by land, 
+air or sea.  In this case the Buyer shall finalize the marking with the Seller.
+   
+
+16.     Quality Assurance.          After the Supply Order is finalized, the Seller 
+would be required to provide the Standard Acceptance Test Procedure (ATP). 
+Buyer reserves the right to modify the ATP. Seller would be required to provide all test 
+facilities at his premises/ on site for acceptance and inspection by Buyer.  All the  
+items should be of the latest manufacture, conforming to the current production 
+standard and having 100% defined life at the time of delivery. 
+ 
+17. Inspection Authority The Inspection will be carried out by a board of 
+officers detailed by the competent authority for the same. 
+ 
+18. Joint Receipt Inspection      A joint inspection will be carried out by the board 
+so detailed for the purpose, representative of the SI and representative of the OEM, 
+both suitably qualified to conduct the inspection. Only after a successful inspection, 
+would the board detailed for the same will be deemed completed. Any damage to 
+equipment or items during the course of inspections will be the responsibility of the 
+bidder/ seller.  
+ 
+19.     Claims         The following Claims clause will form part of the contract 
+placed on successful bidder. 
+
+(a)     The claims may be presented either: (a) on quantity of the stores, 
+where the quantity does not correspond to the quantity shown in the Packing 
+List/Insufficiency in packing, or (b) on quality of the stores, where quality does 
+not correspond to the quality mentioned in the contract. 
+(b)     The quantity claims for deficiency of quantity shall be presented within 
+45 days of completion of JRI and acceptance of goods. The quantity claim 
+shall be submitted to the Bidder as per Form DPM-22 (available in MoD 
+website and can be given on request). 
+(c)      The quality claims for defects or deficiencies in quality noticed during 
+the JRI shall be presented within 45 days of completion of JRI and 
+acceptance of goods. Quality claims shall be presented for defects or 
+deficiencies in quality noticed during warranty period earliest but not later than 
+45 days after expiry of the guarantee period. The quality claims shall be 
+submitted to the Bidder as per Form DPM-23 (available in MoD website and 
+can be given on request). 
+(d)     The description and quantity of the stores are to be furnished to the 
+Bidder along with concrete reasons for making the claims. Copies of all the 
+justifying documents shall be enclosed to the presented claim. The Bidder will 
+settle the claims within 45 days from the date of the receipt of the claim at the 
+Bidder‟s office, subject to acceptance of the claim by the Bidder. In case no 
+response is received during this period the claim will be deemed to have been 
+
+
+
+Page 20  
+ 
+
+accepted. 
+(e)     The Bidder shall collect the defective or rejected goods from the 
+location nominated by the Buyer and deliver the repaired or replaced 
+goods at the same location under Bidder‟s arrangement. 
+(f)      Claims may also be settled by reduction of cost of goods under claim 
+from bonds submitted by the Bidder or payment of claim amount by Bidder 
+through demand draft drawn on an Indian Bank, in favour of Principal 
+Controller of Defence Accounts concerned. 
+(g)    The quality claims will be raised solely by the Buyer and without any 
+certification/countersignature by the Bidder‟s representative stationed in India. 
+
+ 
+
+20.     Franking clause. The following Franking clause will form part of the contract 
+placed on successful Bidder: – 
+
+ 
+
+(a) Franking Clause in the case of Acceptance of Goods.  “The fact  
+that the goods have been inspected after the delivery period and passed by 
+the Inspecting Officer will not have the effect of keeping the contract alive. 
+The goods are being passed without prejudice to the rights of the Buyer under 
+the terms and conditions of the contract”. 
+
+ 
+
+(b)    Franking Clause in the case of Rejection of Goods. “The fact that 
+the goods have been inspected after the delivery period and rejected by the 
+Inspecting Officer will not bind the Buyer in any manner. The goods are being 
+rejected without prejudice to the rights of the Buyer under the terms and 
+conditions of the contract.” 
+ 
+
+21.   Warranty and System Maintenance.     The bidder will give reliability 
+guarantee for the complete system. The items supplied against the contract shall 
+be under an onsite warranty against defective design, material, workmanship, 
+performance for a period of 36 months from the date of completion of ATP which 
+will be free of cost. During warranty period, maintenance of all stores including 
+replacement and repair/fault rectification shall be undertaken by the Bidder, who will 
+be responsible for the maintenance/preventive maintenance of the complete system. 
+Bug fixes of the firmware along with free upgrade releases will be provided onsite by 
+the bidder. The broad support which will be provided by the bidder during the 
+warranty period will include:- 
+ 
+
+(a)   The goods supplied under the contract conform to technical 
+specifications prescribed and shall perform according to the said technical 
+specifications. 
+ 
+
+(b)    The Bidder warrants for a period of three years from the date of 
+acceptance of stores by Joint Receipt Inspection or date of installation and 
+commissioning, whichever is later, that the goods/stores supplied under the 
+contract and each component used in the manufacture thereof shall be free 
+from all types of defects/failures. 
+ 
+
+(c)      P e n a l t y  C l a u s e    If within the period of warranty, the goods are 
+reported by the Buyer have failed to perform as per the specifications, the 
+Bidder shall either replace or rectify the same free of charge, on notification of 
+such defect received by the Bidder, provided that the goods are used and 
+maintained by the Buyer as per instructions contained in the Operating 
+Manual. The replacement/ rectification shall be carried out within a time frame 
+such that serviceability of 99% is maintained at all times. Warranty of the 
+equipment would be extended by such duration of downtime. Record of the 
+down time would be maintained by the user in the logbook. Spares required 
+for warranty repairs shall be provided free of cost by the Bidder. The Bidder 
+should also diagnose, test, adjust, calibrate and repair/replace the 
+goods/equipment arising due to accidents by neglect or damage due to 
+transportation of the goods during the warranty period, at the cost mutually 
+
+
+
+Page 21  
+ 
+
+agreed to between the Buyer and the Bidder. 
+ 
+
+(d)      Serviceability of 99% per year is to be ensured. Required spares to 
+attain this serviceability may be stored at site by the Bidder at his own cost. 
+Total down time would be calculated at the end of the year. If downtime 
+exceeds permitted downtime, LD would be applicable for the delayed period. 
+If the system is down beyond permitted period, penalty at the rate of 0.5% 
+of the cost of the faulty system will be charged per day.  This is applicable for 
+sub sys/system whose failure will not entail failure of entire system.  The rate 
+of LD for major failure resulting in non availability of CA services will be 5% 
+per day.  The above LD will be recovered from the Bank Guarantee.  These 
+deductions will be over and above the extension of warranty period as given at para 
+21 (c) above. In case of any system/sub system being down for more than 
+seven working days, user has the option to get it repaired from any suitable 
+agency at the risk and cost of Bidder, which will be deducted from the Bank 
+Guarantee due to Bidder 
+ 
+
+(e)      The Bidder shall associate technical personnel of the Maintenance 
+agency and Quality Assurance Agency of the Buyer during warranty repair 
+and shall also provide the details of complete defects, reasons and remedial 
+actions for defects. 
+ 
+
+(f)       Any system failing at subsystem level three times within a period of 
+three months or displaying chronic faulty behavior or manufacturing defects or 
+quality control problems, will be totally replaced by the Bidder at his risk and 
+cost within 30 days of being intimated. 
+ 
+
+(g) Analysis and bug fixing for application software when notified.  
+ 
+
+(h)       Provision of free patches/updates and upgrades for software. 
+ 
+
+(j)      Free replacement of all hardware, networking components and other 
+equipment supplied by the bidder, in case of crash/faulty equipment. No faulty 
+hard disks or any kind of storage device will be returned due to security 
+reasons. 
+ 
+
+(k)      The bidder shall provide onsite L2 level O E M  c e r t i f i e d  engineer 
+support on call within six hrs for the complete three years warranty duration 
+with under mentioned qualifications: - 
+
+ 
+(i) Should be Engineer by background with adequate skill sets in 
+handling all hardware and software offered in the bid. 
+(ii)     Should be certified for offered product from OEM/ OSM. If 
+required, Qualification certificates can be called for inspection by the 
+Buyers Project Officer. 
+(iii) Should have at least 2 years work experience in similar 
+environment.  
+(iv) Restoring the system in the event of crash. 
+(v)     Monthly onsite visit by engineer to check the following:- 
+
+ 
+
+(aa) System logs and carry out necessary configuration if any. 
+(ab) Performance of system in terms of memory utilization, 
+CPU utilization, etc. 
+(ac) Vulnerabilities in the OS.  
+(ad) System backup. 
+ 
+
+(l)     The system will be considered down except the following:- 
+
+ 
+(i) Power failure, not attributable to system provided by the Bidder.  
+(ii) Media failure. 
+(iii)      System down for maintenance. 
+
+
+
+Page 22  
+ 
+
+ 
+22. Product Support.  The successful Bidder will provide following product 
+support. 
+ 
+
+(a)   The Bidder agrees to provide Product Support for the stores, 
+assemblies/subassemblies, fitment items and consumables, for a maximum 
+period of seven (07) years including three (03) years of warranty period after 
+the delivery of stores. 
+
+ 
+(b)     The Bidder agrees to undertake Maintenance Contract for a minimum 
+period of four (04) years, extendable till the complete Engineering Support 
+Package is provided by the Bidder after completion of three years of warranty 
+period. 
+ 
+(c)      In the event of any obsolescence during the above mentioned 
+period of product support in respect of any component or sub-system, 
+mutual consultation between the Bidder and Buyer will be undertaken to 
+arrive at an acceptable solution including additional cost, if any. 
+ 
+(d)     Any improvement/modification/ upgradation being undertaken by the 
+Bidder or their sub suppliers on the stores/equipment being purchased under 
+the Contract will be communicated by the Bidder to the Buyer and, if required 
+by the Buyer, these will be carried out by the Bidder at Buyer's cost. 
+ 
+
+(e)     The BIDDER agrees to undertake the repair and maintenance of the 
+equipment, test set up, assemblies/sub-assemblies and stores supplied 
+under this contract for a period of four (04) years as maintenance contract as 
+specified or provision of complete Engineering Support Package to the Buyer 
+whichever is later, as per terms and conditions mutually agreed between the 
+Bidder and the Buyer. 
+
+ 
+ 
+
+
+
+Page 23  
+ 
+
+PART V - EVALUATION CRITERIA & PRICE BID ISSUES 
+ 
+ 
+ 
+1. Evaluation Criteria. The broad guidelines for evaluation of Bids will be as 
+follows:- 
+
+(a)    Only those Bids will be evaluated which are found to be fulfilling all the 
+eligibility and qualifying requirements of the RFP, both technically and commercially. 
+(b)    The technical Bids forwarded by the Bidders will be evaluated by the Buyer with 
+reference to the technical characteristics of the equipment as mentioned in the RFP. 
+The compliance of Technical Bids would be determined on the basis of the 
+parameters specified in the RFP. The Price Bids of only those Bidders will be opened 
+whose Technical Bids would clear the technical evaluation. 
+(c)     The Lowest Bid will be decided upon the lowest price quoted by the particular 
+Bidder as per the Price Format given at BOQ. 
+
+ 
+2. Consideration of Duties and Taxes in the Evaluation Process.  The bidders are  
+required to spell out the GST as per actuals. 
+ 
+3.       If there is a discrepancy between the unit price and the total price that is obtained by 
+multiplying the unit price and quantity, the unit price will prevail and the total price will be 
+corrected. If there is a discrepancy between words and figures, the amount in words will 
+prevail for calculation of price. 
+ 
+4.        The Lowest Acceptable Bid will be considered further for placement of contract / 
+Supply Order after complete clarification and price negotiations as decided by the Buyer. 
+
+The Buyer will have the right to award contracts to different Bidders for being lowest in 
+
+particular items. The Buyer also reserves the right to do Apportionment of Quantity, if it 
+
+is convinced that Lowest Bidder is not in a position to supply full quantity in stipulated 
+
+time. 
+
+ 
+
+5.        The L1 Bidder will be decided on the total basic cost excl taxes. 
+
+ 
+
+         
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Page 24  
+ 
+
+Appendix A 
+
+(Ref Para 2(a) (ii) of Part I to Tender 
+
+No. PC-621/AHCC/Est of CA for Indian 
+
+Army/TAG Projects/58 dt 11 Oct 2018) 
+
+ 
+
+TENDER CONDITIONS ACCEPTANCE LETTER 
+
+(To be given on Company Letter Head) 
+
+Date: 
+
+To, 
+
+______________________ 
+
+______________________ 
+
+ 
+
+SUB: ACCEPTANCE OF TERMS & CONDITIONS OF TENDER. 
+
+ 
+
+Tender Reference No: ________________________ 
+
+Name of Tender/Work: - 
+
+_______________________________________________________ 
+
+_______________________________________________________ 
+
+Dear Sir, 
+ 
+
+1.  I/We have downloaded/obtained the tender document(s) for the above mentioned 
+
+“Tender/Work_ from the web site(s) namely:- 
+
+_________________________________________________________________________ 
+
+_________________________________________________________________as per your 
+
+advertisement, given in the above mentioned website(s). 
+
+ 
+
+2.  I/ We hereby certify that I / we have read entire terms and conditions of the tender 
+
+documents from Page No. _______ to ______(including all documents like annexure(s), 
+
+schedule(s), etc.), which form part of the contract agreement and I/we shall abide hereby the 
+
+terms /conditions/clauses contained therein. 
+
+ 
+
+3.  The corrigendum(s) issued from time to time by your department/ organisations too 
+
+have also been taken into consideration, while submitting this acceptance letter. 
+
+ 
+
+4.  I / We hereby unconditionally accept the tender conditions of above mentioned tender 
+
+document(s) / corrigendum(s) in its totality / entirety. 
+
+ 
+
+5.  The Tech Bid and its enclosures as submitted in physical form as mentioned in para 2 
+
+of part I of TE is the true copy of the documents uploaded on the Central Public Procurement 
+
+Portal (https://eprocure.gov.in/eprocure/app). 
+
+ 
+
+6.  In case any provisions of this tender are found violated ,your department/ organisation 
+
+shall be at liberty to reject this tender/bid including the forfeiture of the full said Earnest Money 
+
+Deposit absolutely and we shall not have any claim/right against dept in satisfaction of this 
+
+condition. 
+ 
+
+7. The Technical and Commercial Bids are valid upto    
+(Fill date a minimum of 180 days from the opening of Tender Box). 
+
+ 
+
+       Yours Faithfully,    
+
+       (Signature of the Bidder, with Official Seal) 
+
+https://eprocure.gov.in/eprocure/app
+
+
+Page 25  
+ 
+
+               
+
+Appendix B  (Ref Para 2 (b) (ii) (ab) to 
+
+Tender No. PC-621/AHCC/Est of CA for 
+
+Indian Army/TAG Projects/58  
+
+dt 11 Oct 2018) 
+
+ 
+
+ 
+
+ADDITIONAL CHARGES/DISCOUNTS 
+
+ 
+
+ It is hereby certified that no Additional Charges Levied or Any Discounts Offered from 
+
+the prices quoted in the enclosed BOQ, which will have financial implication on the bid value 
+
+quoted by me.   
+
+ 
+
+OR 
+
+ 
+
+The following additional Charged Levied / Discounts Offered over and above the prices 
+
+quoted in the BOQ which will have financial implication on the bid value quoted by me 
+
+ 
+
+(i) 
+
+(ii) 
+
+(ii) 
+
+          Signed by: 
+
+ 
+
+Date:           Official stamp: 
+
+ 
+
+Notes:- 
+
+ 
+
+1.  Please strike out whichever is not applicable. 
+
+2.  The certificate will be signed by the owner of the firm or any person auth to do so on 
+
+behalf of the owner. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Page 26  
+ 
+
+Appendix C (Ref Para 6 (d) of Part I to 
+
+Tender No. PC-621/AHCC/Est of CA for 
+
+Indian Army/TAG Projects/58  
+
+dt  11 Oct 2018) 
+
+INSTRUCTIONS TO THE BIDDERS 
+
+ 
+
+ Instructions for Online Bid Submission Instructions to the Bidders to submit the bids 
+
+online through the Central Public Procurement Portal for e-Procurement at 
+
+https://eprocure.gov.in/eprocure/app are as follows:- 
+
+ 
+
+1. Possession of valid Digital Signature Certificate (DSC) and enrolment/registration of the 
+contractors/bidders on the e-procurement/e-tender portal is a prerequisite for e-tendering. 
+
+ 
+
+2. Bidder should do the enrolment in the e-Procurement site using the “Click here to 
+Enroll” option available on the home page. Portal enrolment is generally free of charge. During 
+enrolment/registration, the bidders should provide the correct/true information including valid 
+email_id. All the correspondence shall be made directly with the contractors/bidders through 
+email_id provided. 
+
+ 
+
+3.  Bidder need to login to the site through their user ID/ password chosen during 
+
+enrolment / registration. 
+
+ 
+
+4.  Then the Digital Signature Certificate (Class II or Class III Certificates with signing key 
+
+usage) issued by SIFY/ TCS/ nCode/ eMudra or any Certifying Authority recognized by CCA 
+
+India on eToken/ Smart Card, should be registered. 
+
+ 
+
+5.  The DSC that is registered only should be used by the bidder and should ensure safety 
+
+of the same. 
+
+ 
+6.  Bidder logs in to the site through the secured log in by giving the user id/ password 
+
+chosen during enrolment/registration and then by giving the password of the eToken/ 
+
+Smartcard to access DSC. 
+
+ 
+7.  In case of limited tender the regd dealers/ the bidders invited to participate in the tender 
+
+will receive a notification through e-mail wrt to tender and after log in the bidder selects the 
+
+tender and moves it to “my tenders_. In case of open tenders the bidder selects the tender 
+
+which he/she is interested in by using the search option & then moves it to the “my tenders” 
+
+folder. 
+
+ 
+8.  From my tender folder, the bidder selects the tender to view all the details indicated. 
+
+ 
+9.  After downloading / getting the tender document/schedules, the Bidder should go 
+
+through them carefully and then submit the documents as asked, otherwise bid will be 
+
+rejected. 
+
+ 
+10.  If there are any clarifications, this may be obtained online through the tender site, or 
+
+through the contact details or during the pre -bid meeting if any or during the pre -bid meeting 
+
+if any. 
+
+ 
+11.  Bidder should take into account the corrigendum published before submitting the bids 
+
+online. 
+
+
+
+Page 27  
+ 
+
+ 
+
+12.  It is construed that the bidder has read all the terms and conditions before submitting 
+
+their offer. Bidder should go through the tender schedules carefully and upload the documents 
+
+as asked; otherwise, the bid will be rejected. 
+
+ 
+
+13.  The Bidders can update well in advance, the documents such as certificates, annual 
+
+report details etc., under My Space option and these can be selected as per tender 
+
+requirements and then sent along with bid documents during bid submission. This will 
+
+facilitate the bid submission process faster by reducing upload time of bids. 
+
+ 
+
+14.  Bidder, in advance, should get the bid documents ready to be submitted as indicated 
+
+in the tender document/schedule and generally, they can be in PDF/xls/rar/zip/dwf formats. If 
+
+there is more than one document, they can be clubbed together and can be provided in the 
+
+requested format. Each document to be uploaded online for the tenders should be less than 2 
+
+MB. If any document is more than 2MB, it can be reduced through zip/rar and the same can 
+
+be uploaded, if permitted. Bidders Bid documents may be scanned with 100 dpi with black and 
+
+white option. However of the file size is less than 1 MB the transaction uploading time will be 
+
+very fast. 
+
+ 
+
+15.  Bidder should submit the Tender Fee/ EMD as specified in the tender. The original 
+
+should be posted/couriered/given in person to the Tender Inviting Authority, within the bid 
+
+submission due date & time for the tender. Scanned copy of the instrument should be 
+
+uploaded as part of the offer. 
+
+ 
+
+16.   While submitting the bids online, the bidder must read the terms & conditions and 
+
+accept the same to proceed further to submit the bid packets. 
+
+ 
+
+17.  The bidder has to select the payment option as offline to pay the Tender FEE/ EMD as 
+
+applicable and enter details of the instruments. 
+
+ 
+
+18.  The details of the DD/any other accepted instrument, physically sent, should tally with 
+
+the details available in the scanned copy and the data entered during bid submission time. 
+
+The submitted bid will not be acceptable if otherwise. 
+
+ 
+
+19. The bidder has to digitally sign and upload the required bid documents one by one as 
+
+indicated. Bidders must note that the very act of using DSC for downloading the bids and 
+
+uploading their offers shall be deemed to be a confirmation that they have read all sections 
+
+and pages of the bid document including General conditions of contract without any exception 
+
+and have understood the entire document and are clear about the requirements of the tender 
+
+requirements. 
+
+ 
+
+20.  The bidder has to upload the relevant files required as indicated in the cover content. In 
+
+case of any irrelevant files, the bid will be rejected. The tech bid acceptance will be subject 
+
+to physical receipt of specified docu at the time of tech bid opening. Further, the TIA 
+
+will not be held responsible for any sort of delay or the difficulties faced during the 
+
+submission of bids physically by the bidders under any circumstances whatsoever. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Page 28  
+ 
+
+21.  If the price bid format is  provided  in a  spread  sheet file like BOQ_40926.xls, the rates 
+
+offered should be entered in the allotted  space  only and  uploaded  after  filling  the  relevant 
+
+columns. The Price Bid/BOQ template must not be modified/replaced by the bidder; else the 
+
+bid submitted is liable to be rejected for this tender. 
+
+ 
+
+22.  The bidders are requested to submit the bids through online e-tendering system to the 
+
+Tender Inviting Authority (TIA) well before the bid submission end date & time (as per Server 
+
+System Clock). The TIA will not be held responsible for any sort of delay or the difficulties 
+
+faced during the submission of bids online by the bidders at the eleventh hour. 
+
+ 
+
+23.  After the bid submission (i.e. after Clicking “Freeze Bid Submission” in the portal), the 
+
+acknowledgement number, given by the system should be printed by the bidder and kept as a 
+
+record of evidence for online submission of bid for the particular tender and will also act as an 
+
+entry  pass to participate in the bid opening date. 
+
+ 
+
+24.  The time settings fixed in the server side & displayed at the top of the tender site, will 
+
+be valid for all actions of requesting, bid submission, bid opening etc., in the e-tender system. 
+
+The bidders should follow this time during bid submission. 
+
+ 
+
+25.  All the data being entered by the bidders would be encrypted using PKI encryption 
+
+techniques to ensure the secrecy of the data. The data entered will not viewable by 
+
+unauthorised persons during bid submission & not be viewable by any one until the time of bid 
+
+opening. 
+
+ 
+
+26.  Any bid document that is uploaded to the server is subjected to s ymmetric encryption 
+
+using a system generated symmetric key. Further this key is subjected to asymmetric 
+
+encryption using buyers or the procurement officer opener‟s public keys. Overall, the uploaded 
+
+tender documents become readable only after the tender opening by the authorised bid 
+
+openers. 
+
+ 
+
+27.  The confidentiality of the  bids is  maintained  since the  secured  Socket  Layer 128 bit 
+
+encryption technology is used. Data storage encryption of sensitive fields is done. 
+
+ 
+
+28.   The bidder should logout of the tendering system using the normal logout option 
+
+available at the top right hand corner and not by selecting the (X) exit option in the browser. 
+
+ 
+
+29.  For any queries regarding e-tendering process, the bidders are requested to contact 
+
+TIA as provided in the tender document. The bidders for any further queries can also to 
+
+contact over phone: 1-800-233-7315 or send a mail over to – cppp-nic@nic.in. 
+
+ 
+
+30. All the pages of Technical  Bid and  unfilled  commercial  should  have been duly signed 
+
+by the bidder/auth rep and hard copy will be submitted in the office of TIA. 
+
+ 
+
+31.  The undertaking to the effect that the terms and conditions stipulated in the tender docu 
+
+are acceptable by the auth signatory of the bidders Regd firm will have to be submitted. The 
+
+subject undertaking on a forwarding letter shall be uploaded on CPP portal during bidding by 
+
+the bidders. 
+
+ 
+
+Note :- Rate to be quoted online by bidder in BOQ Excel Sheet only. 
+
+ 
+
+
+
+Page 29  
+ 
+
+ 
+
+Appendix D 
+(Refer to Para 2 (a) to Tender 
+No. PC-621/AHCC/Est of CA for 
+Indian Army/TAG Projects/58 dt        
+11 Oct 2018) 
+
+ 
+TECHNICAL BID 
+
+ 
+ 
+
+MUST MENTION COMPLIED & INCLUDED (CI) OR NOT COMPLIED (NC) 
+ 
+
+QUALITATIVE REQUIREMENT FOR INSTALLATION OF CERTIFICATE AUTHORITY 
+FOR INDIAN ARMY AT ARMY HEADQUARTER COMPUTER CENTRE 
+
+ 
+Ser 
+No 
+
+Nomenclature Compliance 
+Yes/No  
+
+Remarks 
+
+1.       Digital Certificate Lifecycle Management Solution 
+(Minimum Specifications) 
+
+  
+
+(a) Platform support   
+
+(i) Solution Software must support Windows Server 2012/ 2016 
+or higher or Red Hat Linux Enterprise 7 or higher. 
+
+  
+
+(ii) Solution Software must support MS SQL 2012 or Oracle 11g 
+or any underlying RDBMS. 
+
+  
+
+(iii) Solution must support LDAP v3 directories, if user data is 
+stored in an X.500 directory. 
+
+  
+
+(iv) A High Availability configuration should be supported with 
+redundancy throughout the server systems. 
+
+  
+
+(v) The solution must be properly scalable up to 2 million of 
+users. 
+
+  
+
+(vi) There should be a mechanism for monitoring, such as 
+SNMPv3/ Syslog.  
+
+  
+
+(vii) Each component should create error logs with configurable 
+log level and a well-defined syntax. 
+
+  
+
+(b) CA features   
+
+(i) It should be possible to run any number of CAs in any 
+hierarchy in the same system. The CAs should possibly have 
+different CA policies. 
+
+  
+
+(ii) It should be possible to assign registration officers to 
+individual CAs or user domains and visibility/ usabillity of 
+user data should be limited to assigned CA or user domain. 
+
+ 
+
+  
+
+(iii) The CA should be able to publish CRLs and certificates in 
+any number of distribution points using LDAP/HTTPS 
+protocol. The publication address must be configurable for 
+each CA. 
+
+  
+
+(iv) CRLs should be supported with configurable format, issuing 
+period etc. Mechanism should be in place for publishing 
+revoked certificates on real time basis/ occurrence. 
+
+ 
+
+  
+
+
+
+Page 30  
+ 
+
+(v) OCSP should be supported with “immediate” revocation 
+information, i.e. revocation information should be available 
+without latency. 
+
+  
+
+(vi) End entity certification according to individual policies.   
+
+(vii) Signature algorithms: RSA, RSASSA-PSS and ECDSA 
+should be supported with SHA-2 of 256, 384 and 512. Key 
+algorithms should be supported with key lengths as SHA-1, 
+SHA-224, SHA-256, SHA-384, and SHA-512  
+
+  
+
+(viii
+) 
+
+Key Algorithms: DSA, ECDSA, RSA and RSASSA-PSS.   
+
+(ix) End entity key management: It should be possible to encrypt, 
+archive and recover end entity private keys (typically 
+encryption keys). 
+
+  
+
+(x) Support of multiple HSMs (over PKCS#11 or JCE) for storing 
+CA private keys and all other system keys. 
+
+  
+
+(c) CA management   
+
+(i) The product must offer centralized, secure management of 
+CAs, policies and configuration data with GUI support. 
+
+  
+
+(ii) CA key management, Root-CA and Sub-CA certification, CA 
+policy management: It should be possible to manage any 
+number of CAs in any hierarchy in the same system. The 
+CAs should possibly have different CA policies 
+
+  
+
+(iii) It should be possible to define the CA policies with high 
+granularity: certificate and CRL formats and contents, 
+validity, revocation services (OCSP an d/or CRL and/or 
+deltaCRL, distribution point address), algorithms. 
+
+  
+
+(iv)  It should be possible to define an individual policy for each 
+CA. 
+
+  
+
+(v) Cross certification should be supported in both directions: 
+internal CA to certify external CA and vice versa in PKCS#10 
+procedures. 
+
+  
+
+(vi) Policies for end entity certification (validity, certificate formats 
+and contents, algorithms etc.) should be defined with high 
+granularity for maximal flexibility. It should be possible to add 
+private extensions. 
+
+  
+
+(d) Certificate management interfaces   
+
+(i) SCEP should be supported. Only authorized (registered) 
+SCEP devices should be granted with a certificate. Renewal 
+over SCEP should be possible without an additional 
+registration. It should be possible to run different SCEP 
+services for different CAs. 
+
+  
+
+(ii) CMP should be supported – System should support 
+certificate enrolment part of Certificate Management Protocol 
+(CMP) v2.  
+
+  
+
+(iii) There should be a powerful API (preferably Web Services 
+protocol) that supports certification, revocation for any end 
+entity as well as to retrieve user and certificate information. 
+The API should be access controlled. 
+
+ 
+
+  
+
+
+
+Page 31  
+ 
+
+(e) Certificate and (Credential Management)   
+
+(i) The system must support storing keys and certificates on 
+smart cards, smart USB token, in PKCS#12 files and import 
+them into the Windows certificate store of the end user 
+device. 
+
+  
+
+(ii) The system must support generating certificates based on 
+PKCS#10 requests. 
+
+  
+
+(iii) The system must support delegated certificate issuing, 
+revocation, renewal, temporary replacement, permanent 
+replacement. 
+
+  
+
+(iv) Smart card and token products of leading OEMs/ Vendor 
+must be supported and lock-in must be prevented by multi-
+card/ token support 
+
+  
+
+(v) The system must support end-user self-service functions for 
+credential management tasks that can be performed by end 
+users: issuing, revocation, renewal, replacement as 
+reasonable for different credential types. 
+
+  
+
+(vi) During certification and smart card/ token issuing, it must be 
+possible search and retrieve user data from one or more 
+LDAP type of directories. 
+
+  
+
+(vii) Delegated credential management and end-user self-
+services should be supported over a web based GUI.  
+
+  
+
+(viii
+) 
+
+It should be possible to notify users (managers and end 
+users) about tasks they should do due to various events, like 
+if their certificates are about to expire, they receive new 
+credentials, etc. If applicable, notifications should include an 
+URL to visit the appropriate service resource. Notifications 
+should be optionally repeated until the user does not perform 
+the required action or the time period for acting expires. 
+
+  
+
+(ix) There should be alternative authentication methods to log in 
+to the delegated management system in case of emergency 
+(card not available, expired, PIN forgotten etc.) The services 
+that can be used must be configurable according to the 
+assurance level of authentication. 
+
+  
+
+(x) The input fields displayed in the Registration Authority client 
+should be configurable so that selecting a different Token/ 
+card procedure can change the fields displayed and/or the 
+look of the input fields panel. 
+
+  
+
+(f) Security   
+
+(i) With GUI support, it should be possible to define roles with 
+various permissions (CA management, end entity 
+management, audit, registration, publication, revocation, key 
+recovery, etc.) and assign users to role. 
+
+  
+
+(ii) Access to data and services should be controlled according 
+to the roles. 
+
+  
+
+(iii) Users are required to authenticate with certificate-based 
+strong two-factor authentication. 
+
+  
+
+(iv) All relevant user actions (e.g. registration, certification, 
+revocation etc.) should be logged in a digitally signed 
+revision safe audit trail (transaction log), which is audit-able. 
+Relevant actions require commitment signatures of the 
+user(s). Critical actions (e.g. CA management) require 
+commitment signatures of more than one officer. 
+
+  
+
+
+
+Page 32  
+ 
+
+(v) The CA security architecture must underlie a successful 
+security evaluation (like Common Criteria) or the Digital 
+Certificate Lifecycle Management Solution should have 
+undergone third party penetration testing/ ethical hacking 
+tests and proof of audit certificate should be produced. 
+
+  
+
+(vi) System credentials should be confidentiality and integrity 
+protected. 
+
+  
+
+(vii) System configuration should be integrity protected.   
+
+(viii
+) 
+
+All sensitive tasks should require 4-eyes-principle   
+
+(g) Scalability and Reliability   
+
+(i) Should be scalable to atleast 50 of hosted CA with support to 
+multiple concurrent HSMs 
+
+  
+
+(ii) Should support Production rate of atleast 15-20 certificate 
+requests per second for RSA 2048 bit keys. 
+
+  
+
+(iii) Should support Active-Active or Active-Passive type of high 
+availability ensuring sub components that can be multiplied 
+to match performance and fault tolerance needs. 
+
+  
+
+(iv) Should allow distributing Certificate Management services 
+(certificate issuing, CRL generation, LDAP distribution, DB) 
+to different physical/logical servers for greater scalability 
+
+  
+
+(h) Interoperability   
+
+(i) Support for all relevant PKIX standards PKCS #1, #5, #7, #8, 
+#9, #12, #15 
+
+  
+
+(ii) Support for different certificate profiles based on X.509 
+Public Key Certificates. 
+
+  
+
+(iii) Support Cross certification and CA hierarchies with all major 
+CA vendors and service providers. 
+
+  
+
+(iv) SDK to customize certificate enrolment, certificate 
+revocation, to fit army data network environment. 
+
+  
+
+(j) Interfaces   
+
+(i) Web Services - Common interface (SOAP) to enable easy 
+integration 
+
+  
+
+(ii) SDK - client API with Registration, authorisation, all 
+registration functions should be available 
+
+  
+
+(iii) SCEP - Simple Certificate Enrolment Protocol for network 
+devices (Router, VPN, firewall, security gateway etc) 
+
+  
+
+(iv) Certificate Management Protocol support for both Initial 
+enrollment request and update requests for certificate 
+renewal. 
+
+  
+
+(v) API: Plug-In interface for Registration Authority client   
+
+2.      OCSP Specification 
+
+(a) INDIAN ARMY CA shall support an OCSP capability using 
+the GET or the POST method for DSC issued 
+
+  
+
+(b) INDIAN ARMY CA SHALL operate OCSP capability to 
+provide a response time of ten seconds or less under normal 
+operating conditions 
+
+  
+
+(c) OCSP responses MUST be signed by an OCSP Responder 
+whose Certificate is signed by the CA or its sub CA that 
+issued the Certificate whose revocation status is being 
+checked 
+
+  
+
+(d) OCSP responder certificate and subscriber certificates shall 
+comply with latest version of interoperability Guidelines for 
+Digital Signature Certificates issued under Information 
+Technology Act 
+
+  
+
+
+
+Page 33  
+ 
+
+3. Time Stamping Server   
+
+(a) Indian Army is required to operate Time Stamping Services 
+as per CCA guidelines.  
+
+  
+
+(b) The CA shall not issue a Time stamping certificate other than 
+for its own time stamping service. 
+
+  
+
+(c) Time stamp tokens shall be in compliance with RFC 3161.   
+
+(d) The time values the Time Stamping services used in the 
+time-stamp token shall be traceable to a Standard Time 
+Source in India 
+
+  
+
+(e) Audit log files shall be generated for all events relating to the 
+security of the Time Stamping services.  
+
+  
+
+4. Hardware Security Module   
+(a) Should have support for Windows, Linux, Virtual: VMware, 
+
+Hyper- V etc. 
+  
+
+(b) Should support TCP/IP interfaces   
+
+(c) Should comply to standards like FIPS 140-2 Level-3 and/or 
+ISO/IEC 19790:2012 Level 3, CC EAL4+ etc 
+
+  
+
+(d) Keys should be secured by HSM at all times. OnBoard Key 
+Generation. Almost unlimited Keys should be protected by 
+HSM in accordance to FIPS Level3 
+
+  
+
+(e) Compatibility should be PKCS#11, CAPI, OpenSSL, 
+JCE/JCA. 
+ 
+
+  
+
+(f) Algorithm Support: 
+
+Asymmetric: RSA (1024-8192), DSA (1024-3072), Diffie-
+Hellman, Elliptic Curve Cryptography (ECDSA or ECDH or 
+ECIES) with named, user-defined and Brainpool curves 
+Symmetric: AES, CAST, DES, Triple DES, ARIA, SEED 
+Hash/Message Digest/HMAC: SHA-1, SHA-2 (224-512), 
+
+  
+
+(g) Published API for various above functionalities for integrating 
+with the Application software 
+
+  
+
+(h) Contents should be securely stored on Backup 
+Tokens/Smart Cards to simplify backup, cloning, and 
+disaster recovery or contents should be securely stored in 
+encrypted files with key split/ split forms to simplify backup, 
+cloning and disaster recovery. 
+
+  
+
+(j) On board Crypto Algorithm for support of RSA up to 2048 bit 
+keys, DES, 3DES and ECC curves (as per CCA guidelines) 
+
+  
+
+(k) 24x7 telephone/email OEM support (or through certified 
+partners) infrastructure based out of India 
+
+  
+
+5. USB Tokens   
+(a) Support for 32 and 64 bits machines.   
+
+(b) Minimum 64Kb secure memory for storing multiple digital 
+signature Certificates 
+
+  
+
+(c) On board Crypto Algorithm for support of RSA up to 2048 bit 
+keys, DES, 3DES and ECC curves (as per CCA guidelines). 
+
+  
+
+(d) Hash  Algorithm support for minimum SHA-256   
+
+(e) Middleware Support for PKCS#11 v2.01, v2.11, X.509 v3 
+certificate storage 
+
+  
+
+(f) FIPS 140-2 Level 2/3 Security Certification   
+
+(g) Common Criteria CC 4/4+ or above for chip   
+
+(h) True Random Number Generator (TRNG) as per NIST SP 
+800 or ANSI X9.31 PRNG 
+
+  
+
+
+
+Page 34  
+ 
+
+(j) OS should support standard platforms like Java 3.0/Higher or 
+.NET or Sun Solaris 
+
+  
+
+(k) Compliance to PC/SC and USB 2.0 (CCID1.0 compatible).   
+
+(l) No method to extract, view and access the private key   
+
+(m) Hard tamper-proof body as one unit   
+
+(n) USB token attached with a key ring based plastic dog-tag   
+
+(o) A unique Serial Number should be pre-printed/engraved on it   
+
+(p) Memory data retention should be at least 05 years   
+
+(q) All executables related to crypto operation should be on 
+ROM only 
+
+  
+
+(r) Single unit Packaging containing Crypto USB Token, 
+middleware/driver CD and dog-tag should be provided 
+
+  
+
+(s) SDK and API should be made available with User Guide   
+
+6. Server Specifications (Minimum Required, Bidder to 
+propose as per the solution). 
+
+  
+
+(a) Servers for Sub CA should support virtualization, include the 
+necessary license as required for the CA solution. The 
+virtualisation platform should be compatible with the existing 
+infrastructure and manageable from the existing 
+management console at AHCC.   
+
+  
+
+(b) Root CA server has to be physical and should be proposed 
+accordingly.  However it should support virtualization, include 
+the necessary license as required for the CA solution. The 
+virtualisation platform should be compatible with the existing 
+infrastructure and manageable from the existing 
+management console at AHCC. 
+
+  
+
+(c) 02 x Latest Generation  64 bit x86  CPU having at least 12 
+cores each with min  2.1 Ghz Clock speed and supports 
+Hyper threading. 
+
+  
+
+(d) System Form Factor. Space optimized, rack mounted 2RU or 
+better design 
+
+  
+
+(e) Proposed processor supports  secure data encryption and 
+
+decryption based on Advance Encryption Standard (AES) 
+
+  
+
+(f) Main Memory. Minimum 64 GB DDR4 with DRAM Sparing, 
+
+ECC registered DIMMs upgradable to maximum of 512 GB 
+
+with the same memory module 
+
+  
+
+(g) Interface Ports.  1xDual port 1G Ethernet and 1xdual port 
+
+10Gb Base T, At least 2 or more USB ports; 1xDedicated out 
+
+of band management port , 1xDual port 8/16 GB HBA 
+
+  
+
+(h) PCIe should support Gen3 and Min 1 PCI slots should be 
+available for future requirement after populating required 
+interface 
+
+  
+
+(j) Internal disk 3 x 1.2TB  SAS disks in RAID 5  configuration   
+
+(k) Optical Drive DVD RW Drive or better   
+
+(l) Remote Management should support SSH, Web GUI and 
+IPMI based access 
+
+  
+
+(m) Key RAS Features.  Hot-pluggable disk drives ,power 
+supplies  and  N+1 redundant fan 
+
+  
+
+(n) Power Supply.  2 x Hot plug Power Supply providing 1+1 
+redundancy 
+
+  
+
+(o) Monitor.  17" TFT Monitor       
+
+(p) Keyboard and Mouse.  104 Keys Keyboard and scroll mouse 
+ 
+
+  
+
+
+
+Page 35  
+ 
+
+7. External Tape Drive   
+
+(a) LTO Ultrium Half-Height Ultrium 5TB Tape Drive   
+
+(b) LTO tape drive technology capable of storing up to 5TB 
+(compressed 2.5:1) per cartridge 
+
+  
+
+(c) Offered LTO7 drive in the Library shall conform to the 
+Continuous and Data rate matching technique for higher 
+reliability. 
+
+  
+
+(d) Offered LTO7 drive shall support 100MB/sec in Native mode 
+5 Support for LTFS and AES 256-bit hardware data 
+encryption easy-to-enable security to protect the most 
+sensitive data and prevent unauthorized access of tape 
+cartridges. 
+
+  
+
+(e) Shall be providing with SAS-based LTO Ultrium models with 
+SAS cable which allows direct attach from embedded SAS 
+controller. The HBA/interface/cables/licenses required for 
+Server Connectivity to be supplied along with the Server 
+Type–2 components in this document. 
+
+  
+
+(f) Tape drive should support monitoring and management 
+capabilities 
+
+  
+
+(g) Tape drive should support with software which can predict 
+and prevent failures through early warning and shall also 
+suggest the required service action. 
+
+  
+
+(h) Offered Software also have the capability to determine when 
+to retire the tape cartridges and what compression ratio is 
+being achieved 
+
+  
+
+8. NPL Clock Receiver       As per existing Industry standards 
+to meet CCA guidelines on the subject 
+
+  
+
+9. Biometric Authentication for CA Servers  As per existing 
+Industry standards to meet CCA guidelines on the subject 
+
+  
+
+10. Strong Room Enclosure      As per CCA guidelines on the 
+subject 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+
+
+Page 36  
+ 
+
+Appendix E 
+(Refer to Para 2(c) of Part II to Tender 
+No. PC-621/AHCC/Est CA for Indian 
+Army/TAG Projects/58 dt 11 Oct 2018) 
+
+ 
+QUALIFICATION/ ELIGIBILITY CRITERIA 
+
+ 
+   1. Criteria for Bidder (SI)  
+
+S.No Criteria Compliance Documents to be 
+provided by SI 
+
+(a) The average annual turnover for last 
+
+three years should be at least 6 
+
+Crores in the past 3 years. 
+
+ 1. Balance sheet, P&L 
+statement of last three 
+financial years, latest valid 
+TIN/ITCC and sales tax 
+registration. 
+ 
+
+2. Audited Financial 
+Statements for the years 
+2015-16, 2016-17 and 
+2017-18. 
+
+(b) The SI should not have suffered any 
+
+financial loss for more than one year in 
+
+the last three financial years. 
+
+(c) The SI should be willing to ensure that 
+the complete Installation 
+/Commissioning and training will be 
+completed within the stipulated time 
+frame. 
+
+ A certificate signed by the 
+SI stating their willingness 
+to provide complete 
+Installation/ Commissioning 
+and training as given in the 
+RFP within the stipulated 
+time frame. 
+
+(d) The SI must have successfully 
+implemented at least two turnkey IT 
+solutions worth atleast 5 crore each in 
+India in last two years. 
+
+ Supply Order Copies and 
+ATP details/ Certificates to 
+be attached. 
+
+(e) SI must provide training as listed at para 
+2(d) of Part-II of RFP on each of the 
+hardware/solution components. 
+
+ Detailed syllabus as 
+mentioned at para 2(d)(ii) 
+of Part-II of RFP. 
+
+(f) SI must be certified for ISO 9001:2008 
+Quality Management Standards. 
+
+ Supporting documents 
+
+(g) SI must be a reputed IT solution provider 
+possessing atleast a valid CMMi 
+Level 5, duly recognised by the CMMi 
+Institute, Pittsburgh, PA, USA, for any of 
+the following: Design/ Development/ 
+Implementation/ Testing for Software. 
+
+ Copy of relevant 
+Certifications 
+
+  
+
+
+
+Page 37  
+ 
+
+Appendix „E‟ Contd… 
+
+ S.No Criteria Compliance Documents to be provided 
+
+by SI 
+
+(h) MAF Certificate. In case the Bidder is 
+not the OEM, the following will be 
+provided by the bidders (Refer Para 13 
+of Part IV of TE):- 
+
+ Certificates by OEM. 
+
+ As per Appx „K‟ 
+
+(i) Copy of certificates from the 
+respective OEMs, giving reference of 
+this  Tender  Enquiry,  authorizing  the 
+bidder to offer their equipment and a 
+commitment  to  provide  maintenance 
+support during the warranty period and 
+during the period of the AMC (if entered 
+into with the bidder by the buyer). 
+
+ 
+
+(ii) The complete contact details of the 
+OEM (Name and designation of contact 
+person, postal address, e mail ID and 
+telephone & FAX numbers). 
+
+ 
+
+(j) SI should be capable of deployment 
+and onsite support for the 
+hardware/Solution at New Delhi. The 
+SI should have an Office in Delhi NCR. 
+
+ Undertaking certificate from 
+SI 
+
+(k) SI will be completely responsible for the 
+execution of the project as a single 
+point solution provider and the sole 
+prime contractor for the entire project 
+
+ Undertaking certificate from 
+SI 
+
+(l) SI should guarantee to provide spares 
+& consumables on payment for a period 
+of seven years irrespective of AMC 
+
+ Undertaking certificate from 
+SI 
+
+(m) SI to submit a comfort letter from HW 
+OEM that he will fully support the SI for 
+the successful implementation of the 
+project 
+
+ Comfort letter from HW 
+OEM to SI 
+
+(n) SI should conduct a system study and 
+understand the requirement before the 
+pre-bid meeting. The Study document 
+will form a part of the technical solution 
+offered and the technical bid without 
+which the tender will be rejected. The 
+same could be required to be 
+presented to the user by the bidder 
+during TEC. 
+ 
+
+ Study Document. 
+
+(o) Support Engineer.   SI should provide 
+an OEM Certified support engineer on 
+call- on site at CDC, DR and NLDC as 
+per requirement. The engineer should 
+be atleast a Bachelors degree holder 
+with adequate knowledge of the system 
+and certified on the system by the 
+OEM. 
+
+ Undertaking that the same 
+will be provided prior to 
+delivery of items after 
+placement of supply order. 
+
+
+
+Page 38  
+ 
+
+ Appendix „E‟ Contd… 
+
+ 2.  OEM Criterion 
+
+S No Criteria Compliance Documents to be 
+provided by SI 
+
+(a) The proposed CA Solution (Enterprise) 
+should have been implemented and 
+running successfully at atleast one CA 
+under Root CA of India for last 1-2 
+years. 
+
+ Letter from the 
+
+organization where the 
+
+Solution has been 
+
+implemented, confirming 
+
+that CA Solution has been 
+
+implemented in their 
+
+organization and working 
+
+satisfactorily 
+
+(b) Malicious Code Certificate. Certifying 
+that the Hardware and the Software 
+being offered, as part of the contract is 
+not embedded with malicious code. 
+
+ Certificate to be submitted 
+as per Appx L. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Page 39  
+ 
+
+Appendix F 
+(Refer to Para 2(f) of Part II to Tender 
+No. PC-621/AHCC/Est of CA for Indian 
+Army/TAG Projects/58 dt 11 Oct 2018) 
+
+ 
+PROCEDURE FOR ATP 
+
+ 
+
+Introduction 
+ 
+1.       Acceptance testing is an essential part of project implementation.  It is at this stage 
+that the user is to test and accept individual items as also the entire system.  The physical 
+delivery as per the supply order and performance as per the technical literature and 
+parameters given in the contract are to be verified by a technically competent board of 
+officers.  As bulk of the payments due to the bidders is made after successful acceptance, it 
+is imperative this is done diligently as well as expeditiously.  Some general guidelines for the 
+ATP are enumerated in the succeeding paragraphs. 
+
+ 
+2.       Conduct.  The payment terms and schedule are linked to the ATP, the ATP will 
+commence expeditiously once the hardware has been received. If certain hardware has not 
+been received, then the ATP board may not proceed with the ATP and make mention of the 
+same in the ATP report. Since it is a turn key project, hardware can only be tested once the 
+integration of hardware is completed and proper functioning of hardware on existing 
+infrastructure is tested and ascertained. ATP will certify that Controller of Certificate Authority 
+(CCA) of India has certified the Certifying Authority (CA) established for Indian Army as a 
+part of this project, to be following all the laid down procedures, policies and mechanisms.  
+
+ 
+3.       Responsibility of User.  The responsibilities of the user towards the conduct of ATP 
+shall be as given below: - 
+
+(a)      Test Side Readiness. The user shall have the site readied for the conduct of 
+ATP including adequate power points, adequate space to house & test the items, 
+stable and well earthed power supply, tables and backup power supply etc. 
+(b)      Ensure availability of the members during the conduct of the ATP. 
+(c)     ATP should be completed expeditiously.   Any equipment not meeting 
+specifications or any other observation should be raised in writing immediately to the 
+bidder. 
+
+ 
+4.       Responsibility of Bidder.  The bidder‟s responsibility towards the conduct of ATP 
+shall be as given below:- 
+
+(a)      Provide the necessary diagnostic software. 
+(b)      Ensure availability of a competent service engineers during the conduct of the 
+ATP. 
+(c)      Provide for speedy replacements of defective components so that ATP of the 
+complete hardware may be completed in one go. 
+(d)      Obtain the certification by Controller of Certificate Authorities (CCA) for the ibid 
+CA framework prior to the ATP, to allow ATP to verify the same. All related 
+coordination and movement of the CCA authorities to the above mentioned three 
+locations, for certification, will be the responsibility of the bidder. All requisite 
+documentation and procedural formalities will be provided by user to bidder/ vendor to 
+do the same. 
+
+ 
+5.       Time frame for conduct. The ATP should commence once all the components of the 
+project have been installed and integrated with the existing Central Data Centre, DR Site and 
+NLDC and the board should endeavor to complete the ATP as soon as possible. Integration 
+at all the three locations will be tested and verified by the ATP board. It will also test the 
+Disaster Recovery of the setup, wherein failover will be tested and verified. In case there is a 
+requirement of the CCA authorities to be taken to the above mentioned three locations, for 
+certification, all related expenses will be borne by the bidder/ vendor. 
+
+
+
+Page 40  
+ 
+
+ 
+ATP Guidelines 
+
+ 
+
+6.       Some guidelines for acceptance testing of various systems are as enumerated 
+below:- 
+
+(a) Receipt of hardware, software and all items delivered by the Bidder against the 
+quantities mentioned in the supply order. 
+(b) Physical check of all packages and boxes. 
+(c) Checking the items received as and carry out the acceptance testing of the 
+items received. 
+(d) Shipment of the hardware and peripherals to the various locations as per 
+details given in the supply order (if applicable) under arrangements of the bidder. 
+(e) Establishment of the network and installation and integration of the various 
+components by the bidder. 
+(g) Carry out acceptance testing of the network/integrated system in detail, to 
+satisfy themselves that all individual components and the complete system are 
+working as desired. 
+
+ 
+7.       All  the  hardware  shall  be  supplied  with  Media  (CD  ROM)  documentation  and 
+certificate of authenticity. All licenses will be provided in soft and hard format, in folders, as 
+per locations to assist in proper documentation and handling. 
+
+ 
+8.       Finalization  of  ATP  Proceedings.    The  ATP  board  shall  finalize  the  ATP 
+proceedings at the earliest and forward written report including all test documents for 
+approval of the proceedings. 
+
+
+
+Page 41  
+ 
+
+Appendix G 
+(Refer to Para 3 of Part II to Tender 
+No. PC-621/AHCC/Est of CA for 
+Indian Army/TAG Projects/58  
+dt 11 Oct 2018) 
+
+ 
+
+FORMAT OF THE COMPLIANCE STATEMENT 
+
+ 
+
+ 
+
+Ser 
+
+No 
+
+Para of TE 
+
+specifications item wise 
+
+Specification of 
+
+item offered 
+
+Compliance of TE 
+
+specification – 
+
+whether Yes / No 
+
+In case of non-
+
+compliance, deviation 
+
+from TE to be specified 
+
+in unambiguous terms 
+
+     
+
+     
+
+  
+
+  
+
+
+
+Page 42  
+ 
+
+        
+Appendix H 
+(Refer to Para 6 of Part II to Tender 
+No. PC-621/AHCC/Est of CA for 
+Indian Army/TAG Projects/58  
+dt 11Oct 2018) 
+
+ 
+ 
+ 
+
+CONFIDENTIALITY CERTIFICATE 
+ 
+ 
+ 
+
+It is certified that the Company or any representative of the Company or agents 
+authorized by them will not disclose any information gained by them or their representatives 
+or agents, while interacting with the persons of Army Headquarters Computer Centre or any 
+documents or any documents prepared in connection with the project or any documents 
+received by them or any study carried out by them, directly or indirectly to any person or 
+company or institution or press. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Company Seal   (Authorized signatory of company) 
+
+ 
+ 
+ 
+ 
+Place : 
+
+Date : 
+
+
+
+Page 43  
+ 
+
+    Appendix „J‟ 
+
+(Ref Para 9, Part IV to Tender 
+
+No. PC-621/AHCC/Est of CA for 
+
+Indian Army/TAG Projects/58  
+
+dt 11Oct 2018) 
+
+ 
+
+Model ECS Mandate Format 
+
+ 
+
+Customer‟s option to receive through e-payment (ECS/EFT/DIRECT/CREDIT RTGS / 
+
+NEFT /Other payment mechanism as approved by RBI.) 
+
+ 
+
+Credit clearing Mechanism 
+
+ 
+
+ 1.  Customer‟s name : 
+
+ 
+
+ 2.  Particular‟s of Bank Account : 
+
+  (a) Bank Name : 
+
+  (b) Branch : 
+
+  (c) Address : 
+
+  (d) Telephone Number : 
+
+  (e) IFS Code : 
+
+  (f) 9 Digit code number of Bank and Branch appearing on MICR   
+
+  cheque issued by Bank. 
+
+  (g) Account Type (S.B Account/Current Account or Cash. 
+
+  (h) Ledger Number : 
+
+  (j) Ledger Folio Number : 
+
+  (k) Account number as appearing on cheque Book. 
+
+ 
+
+3.  Please attach a blank cancelled cheque, or photocopy of a cheque or front page of 
+
+your saving bank serving bank passbook issued by your ban for verification of the above 
+
+particulars. 
+
+ 
+
+4.  Date of Effect. 
+
+ 
+
+ I, hereby, declare that the particulars given above are correct and complete. If the 
+
+transaction is delayed or not effected at all for reasons of in complete or correct 
+
+information. I would not hold the user institution responsible. I have read the option 
+
+invitation letter and agree to discharge the responsibility expected of me as a participant 
+
+under scheme. 
+
+ 
+
+Date          (……………………..) 
+
+         Signature of customer 
+
+ 
+
+ Certified that the particulars furnished above are correct as per our record. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Page 44  
+ 
+
+    Appendix „K‟ 
+
+(Ref Para 1 (h) (i) of Appx E to Tender 
+
+No. PC-621/AHCC/Est of CA for Indian 
+
+Army/TAG Projects/58 dt 11 Oct 2018) 
+
+ 
+FORMATE FOR OEM CERTIFICATE 
+
+ 
+ 
+ We M/s __________________________ (OEM) hereby authorize M/s 
+_________________ (Vendor) to bid in “Establishment of Certificate Authority for 
+Indian Army at AHCC” we certify that a agreement between M/s __________________ 
+(OEM) and M/s _____________ (Vendor) is in place (copy enclosed). We M/s 
+________________ (OEM) hereby state that we will provide maintenance and repair 
+cover for the project “Establishment of Certificate Authority for Indian Army at AHCC” 
+for a duration of three years (warranty period) and thereafter during the period of the AMC 
+(if entered into with the bidder by the buyer). 
+ 
+ 
+ 
+------------------------------------------------------------------------------------------------------------------------ 
+
+     
+
+Appendix „L‟ 
+
+(Ref Para 2 (b) of Appx E to Tender 
+
+No. PC-621/AHCC/Est of CA for Indian 
+
+Army/TAG Projects/58 dt 11 Oct 2018) 
+
+ 
+CERTIFICATE; MALICIOUS CODE 
+
+(To be rendered on the Company Letter head) 
+ 
+ 
+
+1. This is to certify that the Hardware and the Software being offered, as part of the 
+Contract, does not contain embedded malicious code that would activate procedures to: - 
+ 
+
+(a) Inhibit the desired and designed function of the equipment. 
+ 
+
+(b) Cause physical damage to the user or equipment during the exploitation. 
+ 
+
+(c) Tap information resident or transient in the equipment/ networks. 
+ 
+2. The firm will be considered to be in breach of the procurement contract, in case 
+physical damage, loss of information or infringements related to copyright and Intellectual 
+Property Rights (IPRs) are caused due to activation of any such malicious code in 
+embedded software. 
+ 
+ 
+ 
+ 
+        (Signed) 
+          
+ 
+Date:        Designation/ Name/ Address of firm 
+Place: 
+
+

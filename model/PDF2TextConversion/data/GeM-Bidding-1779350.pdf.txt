@@ -1,0 +1,722 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/703873
+
+  Dated: 09-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 13:00:00
+
+Bid Opening Date/Time 20-07-2020 13:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Uttar Pradesh
+
+Department Name Medical Health And Family Welfare Department Uttar
+Pradesh
+
+Organisation Name N/a
+
+Office Name Institute Of Mental Health And Hospital Agra
+
+Total Quantity 1
+
+Item Category Fully Automatic Bio Chemistry Analyzer ( PAC Only
+) 
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Bidder Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+                               1 / 8
+
+
+
+ 
+
+Fully Automatic Bio Chemistry Analyzer ( 1 pieces ) ( Under PAC ) 
+
+Make randox
+
+Model rx-monaco
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Conformity to
+Standards
+
+CE *
+
+Certification No and
+Date
+
+9879, 02/01/2013 *
+
+Performance
+Parameters
+
+Type of system Fully Open Random
+Access system
+
+*
+
+Purpose Should be capable of
+all routine,STAT and
+special biochemical
+tests including specific
+proteins,therapeutic
+drugs(TDM),Drugs of
+abuse
+,Immunoturbidemtric
+assays and user
+definable applications
+in blood,serum, body
+fluids, urine and
+equipment to be
+configurable as per
+requirements of
+consignee
+
+*
+
+Model type of
+Biochemistry
+Analyzer
+
+Bench top Type Bench top Type
+
+Type of samples Serum, Plasma, Urin,
+CSF and any body fluid
+samples, Oral Fluid,
+Whole Blood,
+Hemolyzed Blood
+
+*
+
+Type of Assay End point, Rate, Kinetic
+turbidometric and bi
+chromatic assay
+
+*
+
+Throughput tests /
+hour Photometric
+Tests with ISE
+module
+
+150 or more 150 or more
+
+Throughput
+tests/hour
+
+150 or more 150 or more
+
+                               2 / 8
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/7sUN5XUSss6gSbUCTkqHOyEGea2PwVwCdjCgUyNJmXA
+
+
+ 
+
+Photometric Tests
+without ISE Module
+
+Calibration facility factor,Linear (one, two
+and multipoint),Expone
+ntial,Logit-
+log,spline,Non linear
+
+factor, Linear (one, two
+and multipoint),
+Exponential, Logit-log,
+spline, Non linear
+
+Equipment must have
+self diagnostic tests
+with error message and
+online display
+
+Yes *
+
+Equipment must be
+programmable for all
+test menus and state of
+the art work station
+should be upgradable
+by addition of ISE
+module
+
+Yes *
+
+Type of sample
+loading
+
+Sample tray Sample tray
+
+Equipment should have
+both internal and
+external probe
+cleaning/washing
+capacity
+
+Yes *
+
+Repeat facility repeat facility to be
+available for calibrator
+and control
+
+*
+
+Reagent refill message
+and monitoring facility
+
+Yes *
+
+Minimum number of
+test parameters on
+board at a time
+
+30 *
+
+Minimum sample
+capacity at a time
+hint: Seller may
+select the value
+based on the
+number of samples
+that can be tested at
+a time and if it is any
+value betweem
+35-49 select option
+of 35-49 and for
+other ranges also
+similar choices may
+be made
+
+26-34 26-34
+
+Minimum number of
+STAT samples at a time
+
+10 *
+
+Out of range samples Should have pre post
+and auto dilution of
+samples and return
+capability for out of
+
+*
+
+                               3 / 8
+
+
+
+ 
+
+range samples
+
+Probe dispensers Probe dispensors must
+have level detectors
+and must typically use
+between 2-25 µl of
+sample
+
+*
+
+Spectoral range in nm 340-700 *
+
+Wave length
+selection method
+
+Diffraction grating Diffraction grating
+
+Light source Halogen lamp low cost
+with long life
+
+*
+
+Life of lamp in hrs 2000 *
+
+Power consumption of
+lamp in VA
+
+12 *
+
+Type of sample cups Primary Tube Primary Tube
+
+Number of sample
+cups provided with
+machine
+
+1000 1000
+
+QC program QC Programme with L-J
+graphs,Print out of
+reports
+
+*
+
+The reaction cuvette
+must be reusable and
+durable
+
+Yes *
+
+System should have on
+board cooling system
+
+Refrigerated *
+
+DI water plant for
+the washing of the
+cuvettes/ to avoid
+carry over and
+contamination
+
+Yes Yes
+
+Compatible on line
+UPS
+
+Yes Yes
+
+Back up time 1 hour 1 hour
+
+Data management
+software
+
+Equipment to be
+supplied with
+compatible
+programmable
+windows based
+comprehensive data
+processing and
+management system
+graphical user interface
+software ,LM Capability
+complete back up of
+data base for
+calibration control and
+patient sample results ,
+capability for Bi-
+
+*
+
+                               4 / 8
+
+
+
+ 
+
+directional interfacing
+with LIS
+
+Patient result
+storage capacity
+
+50000 and more 50000 and more
+
+Onboard cuvette
+washing & drying
+facility
+
+Yes Yes
+
+Photometeric Checking
+of cuvettes before next
+reaction - Create
+Another field
+
+Yes *
+
+System should have
+facility for reading
+results on monitor and
+print out facility
+
+Yes *
+
+Reagents to be
+supplied with
+machine
+
+Creatinine, urea, uric
+acid, Triglycerides,
+sugar, Cholesterol, TP,
+Calcium albumin,
+SGOT, SGPT, alkaline
+phosphatase, Bilirubin
+(Total & Direct)
+calibrator 5 ml - 4 and
+quality control 5ml -1
+Nos each for normal
+and abnormal
+
+Creatinine, urea, uric
+acid, Triglycerides,
+sugar, Cholesterol, TP,
+Calcium albumin,
+SGOT, SGPT, alkaline
+phosphatase, Bilirubin
+(Total & Direct)
+calibrator 5 ml - 4 and
+quality control 5ml -1
+Nos each for normal
+and abnormal
+
+Reports Prinout of reports and
+full patient
+demographics to be
+available
+
+*
+
+System to be supplied
+with necessary pre
+requisites and start up
+kits normal and
+abnormal QC and
+calibrators
+
+Yes *
+
+Availability of RS
+232 port/USB for
+data transfer
+
+Yes Yes
+
+Power supply 200-240V AC 50Hz
+Single phase
+
+*
+
+Reagents position More than 30 *
+
+Bar code reader for
+reagents
+
+Yes Yes
+
+Bar code reader for
+samples
+
+Yes Yes
+
+Refrigerator
+supplied with
+Analyzer
+
+No No
+
+Capacity of Not provided Not provided
+
+                               5 / 8
+
+
+
+ 
+
+Refrigerator in L
+
+Star rating Not provided Not provided
+
+Type of Micro
+pipette Supplied
+
+Not provided Not provided
+
+Variable Micro
+pipette Supplied
+
+No No
+
+Seller must provide
+original documentary
+proof of the date and
+place of manufacturing
+of supplied equipment
+
+Yes *
+
+Service manual and
+operating manual to be
+provided
+
+Yes *
+
+Warranty in years
+(including machine,
+DI Water Plant if
+provided , UPS,
+computer and
+printer)
+
+3 3
+
+Additional Parameters Sytem shall be
+supplied with a
+compatible desk top
+PC
+
+Yes Yes
+
+The PC shall be of
+reputed brand and
+name of brand to be
+specified
+
+Dell *
+
+Speed of processor
+in GHZ
+
+Greater than 3 GHZ Greater than 3 GHZ
+
+RAM in MB Greater than 512 MB Greater than 512 MB
+
+Hard disk drive
+capacity in GB
+
+Greater than 80 Greater than 80
+
+Monitor TFT Digital color
+monitor
+
+TFT Digital color
+monitor
+
+Monitor size in
+inches
+
+17 inches or more 17 inches or more
+
+Compatible
+operating system
+provided in PC
+
+Yes Yes
+
+Printer provided Yes Yes
+
+Type of printer Laser Printer Laser Printer
+
+The unit shall be
+capable of operating
+continuously in
+ambient temperature
+and relative humidity
+
+"Temp of 10 - 40deg C
+and humidity of
+15-90%"
+
+*
+
+Startup kit, Calibrators, Yes *
+
+                               6 / 8
+
+
+
+ 
+
+consumables required
+in training the
+staff/Technician/Doctor
+s should be provided at
+the time of installation
+&Training
+
+The reaction cuvettes
+should be replaced at
+free of cost when ever
+required during the
+warranty period
+
+Yes *
+
+Reports ISO Certification of
+Manufacturer
+
+ISO 13485 *
+
+ISO certification
+number and date
+
+MD 686778,
+19/03/2018
+
+*
+
+Availability of test
+report from central
+govt/ NABL/ILAC
+accredited lab
+covering all
+parameters
+
+No No
+
+Test report number if
+test report not
+available put NA
+
+NA *
+
+Test report date if test
+report not available put
+NA
+
+NA *
+
+Name of test lab if test
+report not available put
+NA
+
+NA *
+
+Address of test lab if
+test report not
+available put NA
+
+NA *
+
+Copies of all
+certifications and
+reports to be
+provided to buyer on
+demand at time of
+supplies
+
+Yes Yes
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+                               7 / 8
+
+
+
+ 
+
+1 Anil Kumar Sisodia 282002,INSTITUTE OF
+MENTAL HEALTH AND
+HOSPITAL, MATHURA ROAD,
+AGRA-282002
+
+1  30
+
+Bid Specific Additional Terms and Conditions
+
+1. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               8 / 8
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

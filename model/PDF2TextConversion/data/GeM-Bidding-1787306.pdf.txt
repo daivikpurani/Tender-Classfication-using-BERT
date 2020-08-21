@@ -1,0 +1,363 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/711113
+
+  Dated: 15-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 25-07-2020 13:00:00
+
+Bid Opening Date/Time 25-07-2020 13:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 15 (Days)
+
+Ministry/State Name Jammu & Kashmir
+
+Department Name Law Justice And Parliamentary Affairs Department
+Jammu And Kashmir
+
+Organisation Name N/a
+
+Office Name Jammu And Kashmir Judicial Academy
+
+Total Quantity 5
+
+Item Category Operating System Software (Version 2.0)
+
+Experience Criteria  2 Year (s)
+
+MSE Exemption for Years Of Experience  Yes
+
+Startup Exemption for Years Of Experience  Yes
+
+Document required from seller  Experience Criteria,Past Performance
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  10 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 4
+
+
+
+ 
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 10% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Operating System Software (Version 2.0) ( 5 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Basic Information Software Domain/
+Type
+
+Proprietary item Proprietary item,
+Enterprise Open source
+
+Deployment/Installat
+ion of Opearating
+System on
+
+Work-Station Operating
+System
+
+Desktop/ Laptop, Work-
+Station Operating
+System, Mobile
+Devices/ Tablet
+Computers Operating
+System, Server
+(Network) Operating
+System, Web server
+/Applicaion Server
+Operating System
+
+Name of Software - *
+
+Name of the OEM - *
+
+OEM Model / Part No - *
+
+Brief Product
+Description
+
+- *
+
+SCOPE OF LICENCE Types of Licence Perpetual Perpetual
+
+" Duration of
+Subscription (in
+Years) "
+
+NA NA
+
+Licencing option Per Machine Per Machine
+
+Types of edition of
+offered product
+
+NA Standard, NA
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/Y27Fxeb8XmzKhYDSgaGnkTYsGrKRRhM_v9VY1ca5b30
+
+
+ 
+
+Number of Sockets
+supported by the
+offered product
+
+NA 1, 2, 3, 4, NA
+
+Number of devices
+supported by scope
+of licence
+
+NA Limited, Unlimited, NA
+
+Indicate Number of
+devices supported by
+the offered in case of
+limited support
+
+- *
+
+Licence Delivery Mode Electronic Licence *
+
+Scope of Installation Installation; Installation;,
+Demonstration,
+Configuration, NA
+
+The offered product
+have support from
+OEM for
+
+Unlimited updation for
+Patches and Bug fixes
+within support period
+
+Unlimited updation for
+Patches and Bug fixes
+within support period,
+Unlimited upgradation
+of version within
+support period, NA
+
+Number of Years
+upto which support
+is available from
+OEM for Updation
+(Patches and Bug
+fixes)
+
+5 1, 2, 3, 4, 5, NA
+
+Number of Years
+upto which support
+is available from
+OEM for Upgradation
+of version
+
+NA 1, 2, 3, 4, 5, NA
+
+Training Options NA On-Site, Virtual,
+Training Material, NA
+
+No of days Training
+Provided
+
+0 *
+
+OPERATING SYSTEM
+SOFTWARE(GOLDEN)
+
+Number of Bits
+supported by Offerd
+product
+
+32,64 32, 64
+
+Operating System
+Software Features
+
+Real-time Operating
+System
+
+Real-time Operating
+System, High
+availability extension,
+Resilient Storage,
+Support for
+Containerization, UEK,
+NA
+
+OPERATING SYSTEM
+SOFTWARE(GENERIC)
+
+HARDWARE
+REQUIREMENT AT
+BUYER END
+
+Minimum Hard Disk
+Space Required for the
+offered product
+
+- *
+
+                               3 / 4
+
+
+
+ 
+
+Minimum RAM Size
+required for the offered
+product
+
+- *
+
+CPU configuration
+required for the offered
+product
+
+- *
+
+GENERIC PARAMETER Hyper link to Data
+sheet
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Abid Majeed 180007,JUDICIAL ACADEMY
+HIGH COURT OF J&K
+
+5  15
+
+Bid Specific Additional Terms and Conditions
+
+1.Without prejudice to Buyer’s right to price adjustment by way of discount or any other right
+or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a
+written notice to the Seller, if:
+i) The Seller fails to comply with any material term of the Contract.
+ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within
+the stipulated Delivery Period or such inability otherwise becomes apparent.
+iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery
+Period and/or to replace/rectify any rejected or defective Material(s) promptly.
+iv) The Seller becomes bankrupt or goes into liquidation.
+v) The Seller makes a general assignment for the benefit of creditors.
+vi) A receiver is appointed for any substantial property owned by the Seller.
+vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has
+placed the Purchase Order on the Seller.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,734 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/712274
+
+  Dated: 15-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 11:00:00
+
+Bid Opening Date/Time 27-07-2020 11:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Army
+
+Office Name ***********
+
+Total Quantity 1
+
+Item Category AUTOMATED HEMATOLOGY ANALYSER ( 3 PART )
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+AUTOMATED HEMATOLOGY ANALYSER ( 3 PART ) ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+                               1 / 8
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/f_ouACwj4vH6nAs7TlCy_zAE0p7DhZf2cM7KN7REomY
+
+
+ 
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Certifications for the
+product
+
+- *
+
+Certification number
+and date
+
+- *
+
+Confirmity to quality
+management standards
+
+ISO 9001 & ISO 13485 *
+
+Confirmity to electrical
+safety standards
+
+IEC 61010-1,IEC
+61010-2-081,IEC
+61010-2-101 or BIS
+equivalent
+
+*
+
+Performance
+Parameters
+
+UMDNS Name and
+Code
+
+"Analyzers, Laboratory,
+Hematology, Cell
+Counting, Automated
+[17-741],Hematological
+cell analyser Analyzers,
+Laboratory,
+Hematology, Cell
+Counting,
+Semiautomated
+[17-742] Analyzers,
+Point-of-Care, Whole
+Blood, Hematology
+[18-513] Computer
+Aided Detection
+Systems, Pathology
+Slide, Blood Cell
+Classification [24-248]"
+
+*
+
+Clinical Purpose Hematology Analyzers
+are used to count and
+characterize blood cells
+for disease detection
+and monitoring. Basic
+analyzers return a
+complete blood
+count(CBC) with a
+three-part differential
+white blood cell(WBC)
+count.
+
+*
+
+Type of Configuration Bench top *
+
+Type of system
+offered
+
+closed system closed system
+
+Type of Automation Fully Automatic *
+
+Automatic Start
+Up,shut down and
+sample analysis
+
+Yes *
+
+Analysis principle Based on principle of
+counting and sizing
+
+*
+
+Multi channel analysis
+for better resolution
+
+Yes *
+
+                               2 / 8
+
+
+
+ 
+
+Type of cell counting 3 part WBC differential *
+
+Testing mode selection
+available
+
+CBC Mode *
+
+Analysis available WBC,Lymph#,Lymph%,
+Granulocytes
+#,Granulocytes%Mixed
+#, Mixed %,,RBC,HGB,
+HCT,MCV,PCV,MCH,MC
+HC,RDW-SD,RDW-CV,PL
+T,MPV,PDW-SD,PDW-
+CV,PCT,PLCR ,P-LCC
+
+*
+
+Should have three
+histograms of
+WBC,RBC,PLT
+
+Yes *
+
+MID% analysis Yes Yes
+
+MtD# analysis Yes Yes
+
+Gran% analysis Yes Yes
+
+Gran# analysis Yes Yes
+
+Analysis method for
+WBC
+
+electrical Impedance electrical Impedance
+
+Method for platelet
+measurement
+
+electrical Impedance electrical Impedance
+
+RBC Measurement
+method
+
+electrical Impedance electrical Impedance
+
+Hb measurement Cyanide free
+Colorimetry
+
+Cyanide free
+Colorimetry
+
+Types of modes of
+running sample
+
+Open vial,Pre dilute Open vial, capillary, Pre
+dilute
+
+Maximum sample
+aspiration volume
+needed in any of
+modes
+
+should be less than 50
+µl
+
+should be less than 50
+µl
+
+Minimum sample
+volume required
+
+should be 20 µl or less should be 20 µl or less
+
+Throughput capacity
+of analyser in
+(samples/ hour)
+
+50-60 50-60
+
+Linearity of Platelet " 0 to 300 * 10³ cells/
+micro litres"
+
+*
+
+RBC Linearity 0 to 8 x 10^6 per
+micro litre or more
+
+*
+
+Hemoglobin linearity 0 to 25 gm per litre 0 to 25 gm per litre
+
+WBC linearity " 0 to 3000 * 10³ cells/
+micro litres"
+
+*
+
+Analyses time for
+cytopenic samples
+
+Yes *
+
+                               3 / 8
+
+
+
+ 
+
+Directly measures MCV Yes *
+
+Time taken by the
+analyser to produce the
+test results(Analysis
+time) in seconds
+
+40-60 *
+
+Availability of Auto
+dilution
+
+Yes Yes
+
+Types of reagents 1 hemolyzing reagent,1
+diluent,1 cleansing
+solution
+
+*
+
+Quality assurance
+system with calibration
+and controls
+
+Yes *
+
+Atleast 3 quality control
+programs
+
+Yes *
+
+Type of Calibration both (automatic and
+manual)
+
+both (automatic and
+manual)
+
+Direct aspiration for
+capillary blood from
+finger prick
+
+No No
+
+Floating discriminator
+for platelets and RBC
+counting for reliable
+RBC and PLT data
+
+Yes *
+
+Automatic probe wipe Yes *
+
+Separate diluting
+nozzles for RBC and
+WBC
+
+Yes Yes
+
+Double bathing
+mechanism
+
+Yes Yes
+
+Automatic electric clog
+removal
+
+Yes *
+
+Data Management and
+Display
+
+Type of data
+management
+
+Inbuilt system Inbuilt system
+
+Display LCD LCD
+
+Inbuilt monitor size
+in inches
+
+More than 5 More than 5
+
+PC Monitor size in
+inches (When PC
+provided externally)
+
+NA (if Inbuilt system) NA (if Inbuilt system)
+
+PC hard disk NA NA
+
+RAM capacity of PC
+System
+
+NA (if no PC provided) NA (if no PC provided)
+
+Processor NA *
+
+HIS/LIS Interface HL7 HL7
+
+Type of external USB USB
+
+                               4 / 8
+
+
+
+ 
+
+storage
+
+No of USB Port 4 4
+
+Data management
+systems
+
+Provide histograms in
+display and print
+
+Provide histograms in
+display and print
+
+Facility for user defined
+flagging
+
+Yes *
+
+Type of user
+Interface or data
+entry
+
+all three (touchscreen,
+handheld barcode
+reader facility and
+manual)
+
+all three (touchscreen,
+handheld barcode
+reader facility and
+manual)
+
+"Database capability
+of storing sets of
+results and
+graphics"
+
+>= 50000 >= 50000
+
+Facility for workload
+recording
+
+Yes *
+
+"Auto stop function in
+event of unacceptable
+control data"
+
+Yes *
+
+Ability to transmit
+results to host
+computer
+
+Yes *
+
+Have auto cleaning
+function in the
+analyser’s software
+
+Yes *
+
+Printer facility Yes Yes
+
+Type of printer unit Inbuilt Inbuilt
+
+Printer type Thermal printer Thermal printer
+
+Power Requirements Type of power supply in
+VAC,Hz
+
+230-240 VAC,50-60 Hz *
+
+Power Backup facility Yes *
+
+Type of UPS Offline Offline
+
+Rating of UPS in KVA 0.5 KVA 0.5 KVA
+
+Back up time in
+minutes
+
+15 min 15 min
+
+Accessories, spare
+parts and consumables
+
+"Offered equipment
+unit to be supplied
+with sufficient
+consumables (with
+at least 2/3rd of
+total shelf life)
+required for,
+sufficient to carry
+out haematological
+testing of samples"
+
+1000 1000
+
+Two set of all tubings Yes *
+
+                               5 / 8
+
+
+
+ 
+
+Reagent expiry time
+should be minimum of
+1 year
+
+Yes *
+
+Alerts for operator for
+level of reagents and to
+empty waste when
+indicated
+
+Yes *
+
+Availability of micro
+capillary adapter
+
+Yes *
+
+Operating temperature
+and humidity
+
+Capable of operating
+continuously in
+ambient temperature
+of 15 to 35 deg C and
+relative humidity of 15
+to 85% in ideal
+circumstances
+
+*
+
+Miscellaneous
+Parameters
+
+Warranty in years 3 3
+
+Number of
+installations in
+Central /State/PSU
+Govt Hospitals (
+Hint: Seller should
+supply a performace
+certificate of the
+device to the buyer
+incase demaneded
+after placement of
+order)
+
+More than 3 More than 3
+
+OEM/Reseller ( if
+supplied by reseller
+shall ensure
+uninterputed availabilty
+of all spares for 10
+years)
+
+Yes *
+
+Availability of toll
+free facility for
+technical support
+maintened by OEM
+or authorized
+agencies
+
+Yes Yes
+
+During the warranty
+period it shall be
+ensured that all the
+break down calls are
+attended with in 48 hrs
+and the complete
+details of service
+agents / contact details
+should be furnished to
+buyer and consignee at
+time of supplies
+
+Yes *
+
+User/Technical/Mainten Yes *
+
+                               6 / 8
+
+
+
+ 
+
+ance manuals to be
+supplied in English in
+hard and soft copy
+
+Details of equipments
+and procedures
+required for local
+calibration and routine
+maintenance to be
+supplied and advanced
+maintenance task
+documentation also to
+be furnished
+
+Yes *
+
+List of important spares
+and accessories, with
+their part numbers to
+be supplied to the
+buyer at the time of
+supplying the
+equipment
+
+Yes *
+
+Installation and
+demonstration of
+equipment and training
+to be provided after
+completing supplies
+before acceptance
+
+Yes *
+
+The Principal
+Manufacturer must
+have direct
+Presence/approved
+service center In India
+
+Yes *
+
+Copies of reports and
+certifications to be
+furnished to buyer on
+demand at time of
+supplies
+
+Yes *
+
+Calibration certificates
+as per NABH
+requirement
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********BIKANER 1  15
+
+                               7 / 8
+
+
+
+ 
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+2.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+3.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               8 / 8
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

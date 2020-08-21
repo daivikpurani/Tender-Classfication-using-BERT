@@ -1,0 +1,511 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/701436
+
+  Dated: 07-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 17-07-2020 17:00:00
+
+Bid Opening Date/Time 17-07-2020 17:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Army
+
+Office Name ***********
+
+Total Quantity 1
+
+Item Category Optical Time Domain Reflectometer (OTDR)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  Yes
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Optical Time Domain Reflectometer (OTDR) ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+                               1 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/3ozNE-qR-0_ex8fJTGzyJDtmTNhLLKgrxP70jW4GaX4
+
+
+ 
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+PERFORMANCE Fiber Compatibility Single Mode Single Mode, Single
+Mode & Live Fiber
+Testing
+
+Central Wavelength
+(nm)
+
+1310 & 1550 for Single
+Mode;
+
+1310 & 1550 for Single
+Mode;
+
+Wavelength
+Tolerance (±)
+
+20 Less than 30.0 Or lower
+
+Dynamic range@
+Max Wavelength
+
+24 24.0 - 50.0 Or higher
+
+Event dead zone -
+Maximum
+
+3 Less than 3.0 Or lower
+
+Attenuation dead
+zone - Maximum
+
+8 Less than 8.0 Or lower
+
+Maximum Display
+Distance Range
+
+- *
+
+Pulse width Range 3 to 20000 for Single
+Mode/Live Fiber Testing
+
+*
+
+Distance
+Measurement
+Accuracy (±)
+
+1 Less than 1.0 Or lower
+
+Reflection Detection
+Accuracy (±)
+
+± 4 dB for Single Mode
+or better
+
+*
+
+Linearity (dB/dB) (±) 0.05 *
+
+Sampling points 128000 128000.0 - 256000.0
+Or higher
+
+Measurement time User Selectable 15
+seconds to 180
+seconds
+
+*
+
+DISPLAY / STORAGE Display LCD *
+
+Display Size 3.5 3.5 - 12.0 Or higher
+
+Connectivity interface USB,RJ 45 *
+
+Internal Storage
+OTDR traces
+
+10000 2000, 10000
+
+External Storage /
+Memory Stick Slot
+provided
+
+Micro SD *
+
+External Storage
+Capacity inclusive in
+the scope of supply
+
+0 0, 1, 2, 4, 8, 16, 32 Or
+higher
+
+STABILIZED LIGHT
+SOURCE
+
+Integrated Stabilized
+Light Source
+
+Yes *
+
+Light Source Wave
+Length
+
+Same as OTDR *
+
+                               2 / 5
+
+
+
+ 
+
+Modulation CW,270 Hz,1 kHz,2 kHz *
+
+Optical output power – 6 dBm for Single
+Mode
+
+*
+
+Optical output port On OTDR Port *
+
+POWER SOURCE Power Source Internal / Removable-
+Rechargeable Battery
+
+*
+
+Battery Chemistry, if
+Rechargeable Battery
+
+Li-Polymer *
+
+Voltage of each Battery - *
+
+Battery Capacity (mAh) 4000 *
+
+Number of Batteries
+required for operation
+
+1 *
+
+Number of Batteries
+supplied (Inclusive in
+the Scope of Supply)
+
+1 *
+
+Operating Time per full
+charge (Minimum)
+
+- *
+
+Suitable Adapter to be
+supplied to make the
+equipment Work on
+230 V ± 10 %, 50 Hz
+
+Yes *
+
+VISUAL FAULT
+LOCATOR (VFL) /
+VISUAL LIGHT SOURCE
+(VLS) FOR OTDR
+
+Built-in Visual Fault
+Locator (VFL) /
+Visual Light Source
+(VSL)
+
+Yes Yes
+
+Wave Length Range
+(VFL/VSL)
+
+650 nm ± 20 nm *
+
+Output Function
+(VFL/VSL)
+
+OFF,CW,Blink,NA *
+
+Maximum Optical
+output power (Peak)
+(VFL/VSL) - dBm
+
+− 3 dBm or more *
+
+Laser Safety of VFL/VSL
+as per IEC 60825-1
+latest or equivalent
+international standard
+
+Class 2 *
+
+POWER METER FOR
+OTDR
+
+Built-in Power Meter Yes Yes
+
+Power Meter input
+port
+
+Dedicated Port on
+OTDR
+
+Dedicated Port on
+OTDR
+
+Wavelength Range 850 nm to 1650 nm 850 nm to 1650 nm
+
+Modulation (Power
+Meter)
+
+CW,270 Hz,1 kHz,2
+kHz,NA
+
+*
+
+Minimum Power
+measurement range
+(dBm)
+
+-50 -70.0 - -50.0 Or lower
+
+Maximum Power 26 *
+
+                               3 / 5
+
+
+
+ 
+
+measurement range
+(dBm)
+
+Accuracy (Power
+Meter) (±)
+
+5 0.0 - 5.0 Or lower
+
+GENERIC Connector Tip APC APC
+
+Connector / Adapter
+End
+
+SC,FC *
+
+OTDR Data Format .sor *
+
+Laser Safety of OTDR
+as per IEC 60825-1
+latest or equivalent
+international standard
+
+Class 1M (1310
+nm),Class 1M (1550
+nm)
+
+*
+
+Dimensions ( mm x mm
+x mm )
+
+- *
+
+Weight (with battery) - *
+
+SALIENT FEATURES "Salient Features
+(Select Applicable
+Features Only)"
+
+NA *
+
+ACCESSORIES Aceesories inclusive
+in the Scope of
+Supply (Select
+included Accessories
+Only)
+
+Carry Case Carry Case
+
+OPERATING
+CONDITIONS
+
+Minimum Operating
+Temperature
+
+-10 Less than -10.0 Or
+lower
+
+Maximum Operating
+Temperature
+
+50 More than 50.0 Or
+higher
+
+Maximum Operating
+Humidity
+
+95 95.0 - 95.0 Or higher
+
+WARRANTY WARRANTY 2 2, 3, 5 Or higher
+
+CERTIFICATION Conformance to Safety
+requirements as per
+IEC 61010- 1 latest or
+equivalent international
+standard
+
+Yes *
+
+Conformance to EMC
+requirements as per
+IEC 61326-1 latest or
+equivalent international
+standard
+
+Yes *
+
+Certifications NA *
+
+Availability of Test
+Reports from Central
+Govt/ NABL/ ILAC
+acredited lab to
+prove confirmity to
+the Specifications
+
+No No
+
+If Yes, Test Report to NA *
+
+                               4 / 5
+
+
+
+ 
+
+be furnished to the
+Buyer on demand
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********JAMMU 1  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+2.Successful bidder will have to ensure that adequate number of dedicated technical service
+personals / engineers are designated / deployed for attending to the Service Request in a
+time bound manner and for ensuring Timely Servicing / rectification of defects during
+warranty period, as per Service level agreement indicated in the relevant clause of the bid.
+
+3.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 10 days time limit. If the Seller fails to complete
+service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product
+shall be charged as penalty for each week of delay from the seller. Seller can deposit the
+penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty
+amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than
+10% of the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+4. ISO 9001: The bidder must have ISO 9001 certification.
+5.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents
+
+sought in the Bid document, ATC and Corrigendum if any.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

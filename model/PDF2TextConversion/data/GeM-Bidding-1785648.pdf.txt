@@ -1,0 +1,518 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/709615
+
+  Dated: 14-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 24-07-2020 18:00:00
+
+Bid Opening Date/Time 24-07-2020 18:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 20 (Days)
+
+Ministry/State Name Ministry Of Finance
+
+Department Name Department Of Revenue
+
+Organisation Name Central Board Of Excise And Customs (cbec)
+
+Office Name Kolkata North Cgst & Cx Commissionerate
+
+Total Quantity 2
+
+Item Category All in One PC
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+All In One PC ( 2 pieces )
+
+Technical Specifications
+
+                               1 / 6
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Processor Processor Make Intel Intel
+
+Processor
+Generation
+
+9 9.0 Or higher
+
+Number of Cores per
+Processor
+
+6 6, 8 Or higher
+
+Processor Base
+Frequency (GHz)
+
+3 *
+
+Processor
+Description
+
+Intel Core i5 Intel Core i5, Intel Core
+i7, Intel Core i9 Or
+higher
+
+Processor Number Intel Core i5 9500 Intel Core i5 8600, Intel
+Core i5 8600K, Intel
+Core i7 8700T, Intel
+Core i7 7700K, Intel
+Core i5 8250U, Intel
+Core i7 8700, Intel Core
+i5 8700K, Intel Core i5
+Turbo Boost 4.6 GHz,
+Intel Core i5 9500, Intel
+Core i5 9600, Intel Core
+i7 9700, Intel Core i9
+9900, Intel Core i7
+9700T Or higher
+
+Out of Band
+Management
+
+NA *
+
+Cache (MB) 9 *
+
+Motherboard Chipset Series Intel Q Series Intel Q Series Or higher
+
+Chipset Number Intel Q 370 Intel Q 370 Or higher
+
+Expansion Slots (M Dot
+2)
+
+2 *
+
+Graphics Graphics Type Integrated *
+
+Graphic Card
+Description
+
+- *
+
+Size of Memory in
+Case of Dedicated
+Graphic Card (GB)
+
+0 0, 1, 2, 3, 4, 8 Or
+higher
+
+Size of VRAM in case of
+Integrated Graphics
+(MB)
+
+0 *
+
+Operating System Operating System
+(Factory Pre-Loaded)
+
+Windows 10
+Professional
+
+Windows 10
+Professional
+
+Recovery Image Media CD from the OEM /
+Stored in Partition of
+the Hard Disk / USB
+
+*
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/bqG9fev03KJcCB68C_T2llQX-1-wM_KktudGpy-gsnE
+
+
+ 
+
+Drive from the OEM /
+On Line / Cloud,
+
+OS Certification Windows *
+
+Memory Type of RAM DDR4 *
+
+RAM Size (GB) 8 8, 16, 32 Or higher
+
+RAM Speed (MHz) 2666 *
+
+Total Numbers of DIMM
+Slots Available
+
+2 *
+
+Number of DIMM Slots
+populated
+
+1 *
+
+RAM Expandability
+up to( using spare
+DIMM Slots in GB)
+
+32 32, 64 Or higher
+
+Storage Type of Drives used
+to populate the
+Internal Bays
+
+HDD HDD
+
+Number of Internal
+Bays populated with
+HDD
+
+1 *
+
+Capacity of each HDD
+(GB)
+
+1000 @5400 rpm *
+
+Total HDD Capacity
+(GB)
+
+1000 1000, 1500, 2000,
+2500, 3000 Or higher
+
+Number of Internal
+Bays populated with
+SSD
+
+0 *
+
+Capacity of each SSD
+(GB)
+
+0 *
+
+Total SSD Capacity
+(GB)
+
+0 128, 256, 384, 512,
+768, 1024, 2048, 4096,
+0 Or higher
+
+Optane Memory (GB) 0 *
+
+Display Display Size
+(INCHES)
+
+21.5 21.5, 22, 23.6, 23.8,
+27, 34, 37.5 Or higher
+
+Display Type Non Touch Non Touch, Touch Or
+higher
+
+Panel Technology IPS IPS Or higher
+
+Display Resolution
+(PIXELS)
+
+1920x1080 1920x1080, 1920 x
+1200, 3200x1800,
+3840 x 2160, 3440 x
+1440, 4096x2304,
+5120x2880 Or higher
+
+Availability of
+Webcam integrated
+with Display
+
+Yes Yes
+
+If yes, Resolution of FHD *
+
+                               3 / 6
+
+
+
+ 
+
+Webcam
+
+Availability of Speakers
+integrated with Display
+
+Yes *
+
+If Yes, Number of
+Speakers available
+
+2 *
+
+Connectivity Wireless Connectivity Yes *
+
+If Yes, Type of Wireless
+Connectivity
+
+Wi-Fi 802.11ac *
+
+Number of Ethernet
+Ports
+
+1 *
+
+Type of Ethernet Ports 10/100/1000 on board
+Integrated Gigabit Port
+
+*
+
+Bluetooth Connectivity Yes *
+
+If Yes, Version of
+Bluetooth Available
+
+5 *
+
+Ports Number of USB Version
+2 Point 0 Ports
+
+2 *
+
+Number of USB Version
+3 point 0 / 3 point 1,
+Gen 1 Ports
+
+3 *
+
+Number of USB Version
+3 point 1, Gen 2 Ports
+
+0 *
+
+Number of USB Type C
+Ports
+
+1 *
+
+Number of Serial Ports 0 *
+
+Number of VGA Ports 0 *
+
+Number of HDMI Ports 0 *
+
+Number of DP Ports 1 *
+
+Generic Optical Drive DVD R/W *
+
+Audio-in No *
+
+Audio-out Yes *
+
+Headphone out Yes *
+
+Microphone-in Yes *
+
+Stand Height Adjustable *
+
+Power Power Supply Integrated *
+
+Power Supply Capacity
+(Watt)
+
+155 *
+
+Minimum Power
+Efficiency Range (%)
+
+85 - 90 *
+
+Certification BIS Registration under
+CRS of Meity
+
+Yes *
+
+BIS Registration
+Number and its Validity
+
+- *
+
+                               4 / 6
+
+
+
+ 
+
+ROHS Compliance Yes *
+
+BEE / Energy Star for
+the given Model
+
+Yes *
+
+Other Certification
+Available
+
+UL,FCC *
+
+Input Devices Mouse Connectivity Wired *
+
+Type of Mouse Optical Scroll *
+
+Keyboard Connectivity Wired *
+
+Type of Keyboard Standard *
+
+Operating Conditions Minimum Operating
+Temperature
+
+5 *
+
+Maximum Operating
+Temperature
+
+35 *
+
+Minimum Operating
+Humidity (%RH)
+
+20 *
+
+Maximum Operating
+Humidity (%RH)
+
+80 *
+
+Warranty On Site OEM
+Warranty (Year)
+
+3 3, 5 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 SAMIR GHOSH 700107,180, Shantipally
+Rajdanga Main Road,
+Kolkata- 700107
+
+2  15
+
+Bid Specific Additional Terms and Conditions
+
+1.After award of contract – Successful Bidder shall have to get Detailed Design Drawings
+approved from buyer before starting fabrication. Successful Bidder shall submit Detailed
+Design Drawings for Buyer's approval, within 10 days of award of contract. Buyer shall,
+either approve the drawings or will provide complete list of modification required in the
+drawings within 10 days. Seller shall be required to ensure supply as per approved Drawings
+with modifications as communicated by Buyer. If there is delay from buyer side in approval
+of drawing– the delivery period shall be refixed without LD for the period of delay in approval
+of Drawing.
+
+2.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+                               5 / 6
+
+
+
+ 
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

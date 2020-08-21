@@ -1,0 +1,675 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/710545
+
+  Dated: 14-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 24-07-2020 19:00:00
+
+Bid Opening Date/Time 24-07-2020 19:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 20 (Days)
+
+Ministry/State Name Ministry Of Human Resource Development
+
+Department Name Department Of School Education And Literacy
+
+Organisation Name Central Board Of Secondary Education (cbse)
+
+Office Name Regional Office Bhopal
+
+Total Quantity 2
+
+Item Category Desktop Computers ( PAC Only ) 
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Desktop Computers ( 2 pieces ) ( Under PAC ) 
+
+Make hp
+
+Model hp280g3sffi58500win10p813wifibtwithp203
+
+                               1 / 7
+
+
+
+ 
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Processor Processor Make Intel Intel
+
+Processor
+Generation
+
+8 8.0 Or higher
+
+Number of Cores per
+Processor
+
+6 6, 8 Or higher
+
+Processor Base
+Frequency (GHz)
+
+3 *
+
+Processor
+Description
+
+Intel Core i5 Intel Core i5, Intel Core
+i7, Intel Core i9 Or
+higher
+
+Processor Number Intel Core i5 8500 Intel Core i5 8500, Intel
+Core i5 8600, Intel Core
+i5 8600K, Intel Core i7
+8700T, Intel Core i7
+7700K, Intel Core i7
+8700, Intel Core i7
+8700K, Intel Core i5
+9400, Intel Core i5
+9500, Intel Core i5
+9600, Intel Core i7
+9700, Intel Core i9
+9900, Intel Core i7
+9700K, Intel Core i9
+9900K, Intel Core i9
+9900KS, Intel Core i9
+9900KF, Intel Core i7
+9700KF, Intel Core i7
+9700F, Intel Core i7
+8086K, Intel Core i5
+9600K, Intel Core i5
+9600KF, Intel Core i9
+9900T, Intel Core i5
+9500F Or higher
+
+Out of Band
+Management
+
+NA *
+
+Cache (MB) 9 *
+
+Motherboard Chipset Series Intel H Series Intel H Series, Intel B
+Series, Intel Q Series Or
+higher
+
+Expansion Slots (PCIe x
+1) (Number)
+
+1 *
+
+Chipset Number Intel H370 Intel H310, Intel H370,
+Intel B360, Intel Q 250,
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/bZhK-19kAxj1AOVhJPV7werz6-q-G8dnKK7zIx1WKH8
+
+
+ 
+
+Intel Q 270, Intel Q
+370, Intel B 365 Or
+higher
+
+Expansion Slots (PCIe x
+4) (Number)
+
+0 *
+
+Expansion Slots (PCIe x
+16) (Number)
+
+1 *
+
+Expansion Slots (PCI)
+(Number)
+
+0 *
+
+Expansion Slots (M Dot
+2)
+
+2 *
+
+Graphics Graphics Type Integrated *
+
+Graphic Card
+Description
+
+UHD 630 *
+
+Size of Memory in Case
+of Dedicated Graphic
+Card (GB)
+
+0 *
+
+Size of VRAM in case of
+Integrated Graphics
+(MB)
+
+128 *
+
+Operating System Operating System
+(Factory Pre-Loaded)
+
+Windows 10
+Professional
+
+Windows 10
+Professional
+
+Recovery Image Media On Line / Cloud *
+
+OS Certification Windows *
+
+Memory Type of RAM DDR4 *
+
+RAM Size (GB) 8 8, 16, 32, 64 Or higher
+
+RAM Speed (MHz) 2666 *
+
+Total Numbers of DIMM
+Slots Available
+
+2 *
+
+Number of DIMM Slots
+populated
+
+1 *
+
+RAM Expandability
+up to( using spare
+DIMM Slots in GB)
+
+32 32, 64, 128 Or higher
+
+Storage Total Number of
+Internal Bays available
+
+1 *
+
+Number of 2 point 5
+inches internal Bays
+
+0 *
+
+Number of 3 point 5
+inches Internal Bays
+
+1 *
+
+Number of 2 point 5
+Inches Internal Bays
+Populated
+
+0 *
+
+Number of 3 point 5
+Inches Internal Bays
+Populated
+
+1 *
+
+                               3 / 7
+
+
+
+ 
+
+Type of Drives used
+to populate the
+Internal Bays
+
+HDD HDD
+
+Number of Internal
+Bays populated with
+HDD
+
+1 *
+
+Capacity of each HDD
+(GB)
+
+1000 @7200 rpm *
+
+Total HDD Capacity
+(GB)
+
+1000 1000, 1500, 2000,
+2500, 3000 Or higher
+
+Number of Internal
+Bays populated with
+SSD
+
+0 *
+
+Capacity of each SSD
+(GB)
+
+0 *
+
+Total SSD Capacity
+(GB)
+
+0 128, 256, 384, 512,
+768, 0, 1024, 2048 Or
+higher
+
+Number of Internal
+Bays populated with
+SSHD
+
+0 *
+
+Capacity of each SSHD
+(GB)
+
+NA *
+
+Total SSHD Capacity
+in addition to 8 GB
+Flash (GB)
+
+0 500, 1000, 2000, 0 Or
+higher
+
+Optane Memory (GB) 0 *
+
+Cabinet Cabinet Form Factor SFF ( 7 to 13 Litres) SFF ( 7 to 13 Litres)
+
+Cabinet Volume (Litres) 7.6 *
+
+External Bays
+(Number)
+
+1 *
+
+Optical Drive DVD R/W *
+
+Internal Speaker No *
+
+Audio-in Yes *
+
+Audio-out Yes *
+
+Headphone out Yes *
+
+Microphone-in Yes *
+
+Connectivity Wireless Connectivity Yes *
+
+If Yes, Type of Wireless
+Connectivity
+
+Wi-Fi 802.11ac *
+
+Number of Ethernet
+Ports
+
+1 *
+
+Type of Ethernet Ports 10/100/1000 on board
+Integrated Gigabit Port
+
+*
+
+                               4 / 7
+
+
+
+ 
+
+Bluetooth Connectivity Yes *
+
+If Yes, Version of
+Bluetooth Available
+
+4.2 *
+
+Ports Number of USB Version
+2 Point 0 Ports
+
+4 *
+
+Number of USB Version
+3 point 0 / 3 point 1,
+Gen 1 Ports
+
+4 *
+
+Number of USB Version
+3 point 1, Gen 2 Ports
+
+0 *
+
+Number of USB Type C
+Ports
+
+0 *
+
+Number of Serial Ports 1 *
+
+Number of Parallel
+Ports
+
+0 *
+
+Number of VGA Ports 1 *
+
+Number of HDMI Ports 1 *
+
+Number of DP Ports 0 *
+
+Monitor Model of the Monitor P203 *
+
+Monitor Technology TN IPS, TN, VA Or higher
+
+LED Backlit Monitor
+Size (INCHES)
+
+20 19.5, 21.5, 22, 23, 24,
+27, 20, 23.8 Or higher
+
+Monitor Resolution
+(PIXELS)
+
+1600 x 900 1600 x 900,
+1920x1080, 1920 x
+1200, 3200x1800,
+3840 x 2160, 1280 x
+1024, 2560 x 1440 Or
+higher
+
+TCO Certification for
+Monitor
+
+7.0 *
+
+Number of VGA Ports in
+the Monitor
+
+1 *
+
+Number of HDMI Ports
+in the Monitor
+
+0 *
+
+Number of Display
+Ports in the Monitor
+
+1 *
+
+Availability of Webcam
+integrated with Monitor
+
+No *
+
+If Yes, Resolution of
+Webcam
+
+NA *
+
+Availability of Speakers
+integrated with Monitor
+
+No *
+
+If Yes, Number of
+Speakers available
+
+0 *
+
+Power Power Supply Capacity 180 *
+
+                               5 / 7
+
+
+
+ 
+
+(Watt)
+
+Minimum Power
+Efficiency Range (%)
+
+90 - 94 *
+
+Certification ROHS Compliance Yes *
+
+BEE / Energy Star for
+the given Model
+
+Yes *
+
+Input Devices Mouse Connectivity Wired *
+
+Type of Mouse Optical Scroll *
+
+Keyboard Connectivity Wired *
+
+Type of Keyboard Standard *
+
+Operating Conditions Minimum Operating
+Temperature
+
+0 *
+
+Maximum Operating
+Temperature
+
+40 *
+
+Minimum Operating
+Humidity (%RH)
+
+10 *
+
+Maximum Operating
+Humidity (%RH)
+
+90 *
+
+Warranty On Site OEM
+Warranty (Year)
+
+3 3, 5, 4 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Usha
+Raghunathan
+
+462039,CBSE Regional
+Office, Rohit Nagar, Phase-II,
+Ward No.53, Bawadia Kalan,
+Bhopal-462039
+
+2  15
+
+Special terms and conditions for category Desktop Computers 
+
+1.As per notification of MEITY circulated vide letter no. F.No.33(1)/2017-IPHW..dated
+:14/09/2017, the minimum local content should be 45.percent to qualify as local or domestic
+manufacturer.\n\nSeller has to ensure that operating system software etc comes preloaded
+with machine from respective OEM . Any deviation in respect of genuinity and authenticity of
+OS will attract severe penalty on part of seller as law of the land and contractual provisions.
+Buyer are also requested to verify the key no of OS etc with server of Microsoft/Linux before
+accepting machines to avoid complexity at latter stage.
+
+Bid Specific Additional Terms and Conditions
+
+                               6 / 7
+
+
+
+ 
+
+1.Without prejudice to Buyer’s right to price adjustment by way of discount or any other right
+or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a
+written notice to the Seller, if:
+i) The Seller fails to comply with any material term of the Contract.
+ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within
+the stipulated Delivery Period or such inability otherwise becomes apparent.
+iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery
+Period and/or to replace/rectify any rejected or defective Material(s) promptly.
+iv) The Seller becomes bankrupt or goes into liquidation.
+v) The Seller makes a general assignment for the benefit of creditors.
+vi) A receiver is appointed for any substantial property owned by the Seller.
+vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has
+placed the Purchase Order on the Seller.
+
+2. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+3.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+4.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents
+sought in the Bid document, ATC and Corrigendum if any.
+
+5. ISO 9001: The bidder must have ISO 9001 certification.
+6.Material Test Certificate Should Be Sent Along with The Supply. The Material Will Be Checked
+
+by Buyer’s Lab & the Results of the Lab will be the Sole Criteria for Acceptance of the Item.
+7.The bidder is required to upload, along with the bid, all relevant certificates such as BIS
+
+licence, type test certificate, approval certificates and other certificates as prescribed in the
+Product Specification given in the bid document.
+
+8.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+9.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+10.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+11.Warranty period of the supplied products shall be 3 years from the date of final acceptance
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

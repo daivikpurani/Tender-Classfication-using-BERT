@@ -1,0 +1,1125 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/704410
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 15:00:00
+
+Bid Opening Date/Time 20-07-2020 15:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Army
+
+Office Name ***********
+
+Total Quantity 1
+
+Item Category Server
+
+Bidder Turnover (Last 3 Years)  1 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years Of Experience and
+Turnover
+
+ Yes
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Certificate
+(Requested in ATC),OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  80 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+                             1 / 12
+
+
+
+ 
+
+ Bid splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 80% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Server ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Processor Processor Architecture CISC(X86) *
+
+Processor Make Intel Intel
+
+Number of Cores per
+Processor
+
+6 6, 8, 10, 12, 14, 16, 18,
+20, 22, 24, 26, 28, 30,
+32, 34, 36, 38, 40, 64,
+11 Or higher
+
+Processor Base
+Frequency (GHz)
+
+1.9 1.9, 2, 2.1, 2.2, 2.3,
+2.4, 2.5, 2.6, 2.7, 2.8,
+2.9, 3, 3.1, 3.2, 3.3,
+3.4, 3.5, 3.6, 3.7, 3.8,
+3.9, 4 Or higher
+
+Processor Turbo
+Frequency (GHz)
+
+1.9 *
+
+Total Cache
+(L1+L2+L3)(MB)
+
+8.25 4 - 256
+
+Processor Description/
+Number
+
+Intel Xeon Bronze 3204 *
+
+Chassis Form Factor Tower *
+
+Size (RU) 4 *
+
+Motherboard Chipset compatible
+with CPU
+
+Intel C621 *
+
+                             2 / 12
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/8MERW8YNz58PSM4Owl_wwguR_lI0ZqXprhQAyE-ov9s
+
+
+ 
+
+Expansion Slots Gen 3
+(PCIe x1)
+
+0 *
+
+Expansion Slots Gen 3
+(PCIe x4)
+
+0 *
+
+Expansion Slots Gen 3
+(PCIe x8)
+
+0 *
+
+Expansion Slots Gen 3
+(PCIe x16)
+
+3 *
+
+Maximum number of
+Sockets available on
+Server
+
+1 *
+
+Maximum number of
+Sockets populated
+with Processors
+available on Server
+
+1 *
+
+Co Processor / GPU Availability of Co
+Processor /GPU
+
+No Yes, No Or higher
+
+If Yes, Maximum
+Number of Slots
+available for Co-
+Processor/GPU
+
+0 *
+
+If Yes, Maximum
+Number of slots
+populated with Co
+processor/GPU
+
+0 *
+
+If Yes, Co Processor
+/GPU Description
+
+NA *
+
+Memory Type of RAM DDR4 SDRAM with ECC DDR4 SDRAM with ECC,
+DDR4 NVRAM
+(Persistent Memory)
+
+Total Number of DIMM
+Slots available
+
+6 *
+
+Number of DIMM Slots
+populated with DDR
+SDRAM
+
+1 *
+
+Number of DIMM Slots
+populated with DDR
+NVRAM
+
+0 *
+
+DDR SDRAM
+Size(GB)
+
+16 0 - 6144
+
+DDR NVRAM Size
+(GB)
+
+0 0 - 1600
+
+DDR SDRAM
+upgradable upto using
+spare DIMM Slots (GB)
+
+192 *
+
+DDR NVRAM
+upgradable upto using
+spare DIMM Slots (GB)
+
+0 *
+
+                             3 / 12
+
+
+
+ 
+
+SSD Storage Type of Interface for
+SSD
+
+NA SATA, SAS, NVMe,
+M.2/mSATA, M.2/NVMe,
+NA
+
+Type of SATA SSD NA *
+
+SATA SSD Hot
+Swappable
+
+NA *
+
+Endurance for SATA
+SSD (DWPD - Drive
+Writes Per Day) (X)
+
+0 *
+
+Total Number of Slots
+available for SATA SSD
+
+0 *
+
+Number of Slot
+Populated with SATA
+SSD
+
+0 *
+
+Capacity offered per
+SATA SSD (GB)
+
+0 *
+
+Total Capacity
+Offered with SATA
+SSD (GB)
+
+0 Any applicable numeric
+value
+
+Type of SAS SSD NA *
+
+SAS SSD Hot
+Swappable
+
+NA *
+
+Endurance for SAS SSD
+(DWPD - Drive Writes
+Per Day) (X)
+
+0 *
+
+Total Number of Slots
+available for SAS SSD
+
+0 *
+
+Number of Slots
+populated with SAS
+SSD
+
+0 *
+
+Capacity Offered per
+SAS SSD (GB)
+
+0 *
+
+Total Capacity
+Offered with SAS
+SSD (GB)
+
+0 Any applicable numeric
+value
+
+Type of NVMe SSD NA *
+
+NVMe SSD Hot
+Swappable
+
+NA *
+
+Endurance for NVMe
+SSD (DWPD - Drive
+Writes Per Day) (X)
+
+0 *
+
+Total Number of Slots
+available for NVMe SSD
+
+0 *
+
+Number of Slots
+populated with NVMe
+SSD
+
+0 *
+
+                             4 / 12
+
+
+
+ 
+
+Capacity Offered per
+NVMe SSD (GB)
+
+0 *
+
+Total Capacity
+Offered with NVMe
+SSD (GB)
+
+0 Any applicable numeric
+value
+
+HDD Storage Type of Interface for
+Hard Disk Drive
+
+SATA SATA, SAS, NL SAS, NA
+
+Total number of Slots
+available for SATA
+Drive
+
+8 *
+
+Number of Slots
+populated with SATA
+Drive
+
+2 *
+
+Capacity offered per
+SATA Drive (GB)
+
+1000 *
+
+SATA drive speed (hot
+plug or better) (RPM)
+
+7200 *
+
+Total Storage
+Capacity offered
+with SATA Drive (GB)
+
+2000 Any applicable numeric
+value
+
+Total number of slots
+available for SAS drive
+
+0 *
+
+Number of Slots
+populated with SAS
+Drive
+
+0 *
+
+Capacity offered per
+SAS Drive (GB)
+
+0 *
+
+SAS drive Speed (Hot
+plug or better) (RPM)
+
+NA *
+
+Total Storage
+Capacity offered
+with SAS Drive (GB)
+
+0 Any applicable numeric
+value
+
+Total number of slots
+available for NL SAS
+drive
+
+0 *
+
+Number of Slots
+populated with NL SAS
+Drive
+
+0 *
+
+Capacity offered per NL
+SAS Drive
+
+0 *
+
+NL SAS drive speed
+(hot plug or better)
+(RPM)
+
+NA *
+
+Total Storage
+Capacity offered
+with NL SAS Drive
+(GB)
+
+0 Any applicable numeric
+value
+
+                             5 / 12
+
+
+
+ 
+
+RAID RAID level 1 *
+
+No of RAID
+Controller Ports
+
+8 2, 3, 4, 5, 6, 7, 8, 0 Or
+higher
+
+Speed of RAID
+Controller Ports
+(Gbps)
+
+12 6, 12 Or higher
+
+RAID Controller Cache
+(GB)
+
+0 *
+
+Ports & Interfaces Network Card
+Supported
+
+1G,10G *
+
+Number of
+Networking Interface
+Cards (LAN)
+
+1 2, 3, 4, 5, 6, 7, 8, 1 Or
+higher
+
+Whether Network
+Interface Card
+Embedded
+
+Yes *
+
+Total Number of
+Ethernet Ports
+required in Server
+
+2x1G *
+
+Networking Interface
+Card Features
+
+Asset Feature
+Tracking,Security
+Management,Remote
+Wake up,Each Adapter
+should support vNICs
+
+*
+
+Server Network Ports
+should Support SR-IOV
+Feature
+
+No *
+
+Server network ports
+should support DPDK
+and it should deliver
+zero packet loss as per
+RFC 2544 and deliver
+100% line rate for all
+the packet sizes over
+64 Bytes, Vendor to
+submit latest DPDK test
+report for the same
+
+No *
+
+Number of Single
+port FC HBA card
+
+0 0, 1, 2, 3, 4 Or higher
+
+Number of Dual port
+FC HBA card
+
+0 0, 1, 2, 3, 4 Or higher
+
+Number of Quad port
+FC HBA card
+
+0 0, 1, 2, 3, 4 Or higher
+
+FC HBA Speed
+(Gbps)
+
+NA 8, 16, 32, NA Or higher
+
+vHBA Card Features
+Supported
+
+No *
+
+Number of
+Converged Network
+
+0 0, 1, 2, 3, 4 Or higher
+
+                             6 / 12
+
+
+
+ 
+
+Adaptor (CNA)
+
+Number of Ports per
+CNA card
+
+NA Dual Port, Quad Port,
+NA Or higher
+
+CNA Port Speed
+(Gbps)
+
+0 10, 25, 40, 50, 100,
+200, 0 Or higher
+
+Length of LC-LC
+Cable per SFP+ Port
+(meter)
+
+0 5, 10, 15, 0 Or higher
+
+Length of LC-LC
+Cable per HBA Port
+(meter)
+
+0 5, 10, 15, 0 Or higher
+
+Length of LC-LC
+Cable per CNA Port
+(meter)
+
+0 5, 10, 15, 0 Or higher
+
+Length of Twinax
+Breakout Cables per
+Port (meter)
+
+0 *
+
+Video Controller
+(support VGA or above
+resolution)
+
+Yes *
+
+Keyboard Port No *
+
+Mouse Port No *
+
+DVD ROM
+(Internal/Exrternal)
+
+Yes *
+
+USB Ports (version
+2point0/3point0)
+
+4 *
+
+Total number of Spare
+Bays Available for
+Future Upgradation
+(Internal)
+
+5 *
+
+Total number of Spare
+Bays Available for
+Future Upgradation
+(Hot Plugable)
+
+0 *
+
+Certifications Certifications/Compli
+ance (OS)
+
+Windows,Red Hat
+Linux,Suse
+Linux,Ubuntu,Cent OS
+
+Windows, Red Hat
+Linux, Suse Linux,
+Ubuntu, Cent OS
+
+Certification/Complianc
+e (Virtualization/Cloud
+Platform)
+
+VM ware,HyperV,Oracle
+Virtualization,Red Hat V
+irtualization,PowerVM,O
+penStack,Kubernetes
+
+*
+
+Features Management
+Features-1
+
+Remoter power On/
+Shutdown of
+server,,Remote
+Management of Server
+over LAN & WAN with
+SSL encryption through
+gigabit management
+port,,Should have
+
+Remoter power On/
+Shutdown of server,,
+Remote Management
+of Server over LAN &
+WAN with SSL
+encryption through
+gigabit management
+port,, Should have
+
+                             7 / 12
+
+
+
+ 
+
+virtual Media support
+with all required
+licenses.,Remote
+KVM,Server Health
+Logging,Out of Band
+Management
+
+virtual Media support
+with all required
+licenses., Remote KVM,
+Server Health Logging,
+Out of Band
+Management
+
+Management
+Features-2
+
+Management of
+multiple Servers from
+single console with
+single source of truth
+for multiple
+sites.,Automated
+infrastructure
+management for patch
+upgrades, version
+upgrades
+,etc.,Simplified
+management with
+analytics driven
+actionable
+intelligence.,System
+tagging giving admin
+flexibility to provide
+metadata tags to each
+System to enable users
+to filter and sort
+systems based on user-
+assigned
+attributes,Hardware
+Profile based
+deployment to multiple
+Servers
+simultaneously,Policy
+template for
+deployment of single
+policy to multiple
+Servers
+simultaneously,Platfro
+m inventory and helath
+status,Server utilization
+statistics collection
+(including firmware
+updates and diagnostic
+tools),Should provide
+an alert in case the
+system is not part of
+OEM hardware
+complatibilty
+test,Solution should be
+open and
+programmable
+providing Rest API, SDK
+for programming
+lanugaes like Python ,
+power shell scripts
+etc.,Should have
+customizable
+
+*
+
+                             8 / 12
+
+
+
+ 
+
+dashboard to show
+overall
+faults/health/inventory
+for all managed
+infrastructure the
+solution should provide
+option to create unique
+dashboards for
+individual users.the
+user should be
+flexibility to select
+name for dshasboards
+and widgets (viz.
+health, utilization
+etc),Single pane of
+glass for auto
+Provisioning across
+Multi vendor & multi
+hypervisor
+platform,Self service
+portal deployment for
+automated
+provisioning,Real-time
+out-of-band hardware
+performance
+monitoring & alerting
+
+Security Features-1 Secure Boot(Firmware
+and Bios Level
+Security),Provision to
+lock the system on
+breach,Hardware root
+of trust/Dual Root of
+Trust,Server should
+provide policy based
+security,Server should
+provide server intrusion
+detection,
+
+Secure Boot(Firmware
+and Bios Level
+Security), Provision to
+lock the system on
+breach, Hardware root
+of trust/Dual Root of
+Trust, Server should
+provide policy based
+security, Server should
+provide server intrusion
+detection,, "Malicious
+Code Free design" (to
+be certified by OEM)
+
+Security Features-2 Provision for
+Cryptographic firmware
+updates,Capability to
+stop execution of
+Application/Hyperviser/
+Operating System on
+predefined security
+breach,Secure
+/Automatic BIOS
+recovery,Network Card
+secure firmware boot,In
+case of any security
+breach system should
+provide the lock down
+feature
+
+*
+
+Server scalability to be
+achived within the box
+
+NA *
+
+                             9 / 12
+
+
+
+ 
+
+& without adding nodes
+
+support for high
+availability clustering
+and virtualization
+
+No *
+
+Generic Redundant Power
+Supply
+
+No *
+
+Hot Swappable
+(Redundant Power
+Supply)
+
+No *
+
+Power Supply
+Efficiency
+
+Platinum Gold, Platinum,
+Titanium Or higher
+
+Redundant Fan No *
+
+Hot Swappable
+(Redundant Fan)
+
+No *
+
+Server Main Supply 230 +/- 10%Vac *
+
+Benchmark SPEC int_rate_base
+2017 for the product
+(must be available
+on SPEC dot ORG
+before evaluation)
+
+20 Any applicable numeric
+value
+
+SPEC fp_rate_2017
+for the product
+(must be available
+on SPEC dot ORG
+before evaluation)
+
+27.2 Any applicable numeric
+value
+
+SPEC int_speed_base
+2017 for the product
+(must be available on
+SPEC dot ORG before
+evaluation)
+
+20 *
+
+SPEC fp_speed_2017
+for the product (must
+be available on SPEC
+dot ORG before
+evaluation)
+
+27.2 *
+
+Miscellaneous Maximum power
+consumption of the
+system (Watts)
+
+500 *
+
+BIS Registration under
+CRS of MeitY
+
+Yes *
+
+BIS Registration
+Number Under CRS of
+MeitY and its validity
+
+- *
+
+Other Certifications
+Available
+
+UL,FCC *
+
+RoHS Compliance Yes *
+
+Availability of the type
+test report from Central
+
+No *
+
+                            10 / 12
+
+
+
+ 
+
+Government / NABL /
+ILAC acredited
+laboratory covering
+verification of all
+features & functional
+parameters &
+environmental tests
+sequence
+
+a) Dry heat:test - for 16
+hrs at 45 deg C as per
+IS:
+9000/pt-3/sec-5/1977
+b) Cold test - for 4 hrs
+at 0 deg C as per IS:
+9000/pt-2/sec-4/1977
+c) Damp Heat Cyclic
+Test - for 2 cycles of 24
+hrs at 40 deg C & 95%
+RH as per IS:
+9000/pt-5/sec-1/1981
+
+NA *
+
+The server has been
+checked for all the
+parameters before
+conditioning, After
+completion of the
+environmental tests
+sequence, with a
+recovery period of 1 to
+2 hrs, the server found
+to be functional
+
+NA *
+
+Test Report Number &
+date
+
+- *
+
+Name & Address of Lab - *
+
+Scope of Supply Installation and
+Commissioning shall be
+included in the scope of
+supply
+
+Yes *
+
+Warranty On Site OEM
+Warranty (Year)
+
+3 1, 2, 3, 4, 5, 7 Or
+higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********DARJILING 1  90
+
+                            11 / 12
+
+
+
+ 
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+3.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+4.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+5. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                            12 / 12
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

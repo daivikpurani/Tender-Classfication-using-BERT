@@ -1,0 +1,275 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/708385
+
+  Dated: 13-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 23-07-2020 16:00:00
+
+Bid Opening Date/Time 23-07-2020 16:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 15 (Days)
+
+Ministry/State Name Chhattisgarh
+
+Department Name Electronics And Information Technology Department
+Chhattisgarh
+
+Organisation Name N/a
+
+Office Name Narayanpur
+
+Total Quantity 5
+
+Item Category slap scanner
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Certificate (Requested in ATC)
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 3
+
+
+
+ 
+
+Slap Scanner ( 5 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Specification Computer Mode Plain live scan capture *
+
+Image Acquisition
+Requirements
+
+Setting level 31 or
+higher
+
+Setting level 31 or
+higher
+
+Image Evaluation
+frame rate
+
+continuous image
+capture
+
+*
+
+Capture Mode Auto capture with
+built-0in quality check
+(incorporates NIST
+QUALITY
+CONSIDERATIONS)
+
+*
+
+Capture Area (mm x
+mm)
+
+More than 76 x 80 *
+
+Connectivity USB 2.0, USB-IF
+certified
+
+*
+
+Power Through USB *
+
+Dimension (W X H X D)
+(mm x mm x mm)
+
+160 x 160 x 160 *
+
+Weight (Kg) less than 2.5 Kg *
+
+Operating Temperature
+Range (degree C)
+
+0 – 50 *
+
+Humidity (RH) Non
+Condensing
+
+10 - 90 *
+
+Durability (Shock
+Resistant)
+
+Yes *
+
+Ingress Protection
+Rating
+
+IP 54 *
+
+Availability of Device
+Certification from STQC
+
+Yes *
+
+STQC Certificate
+number
+
+- *
+
+STQC Certificate Date - *
+
+Safety Standards UL certified (if
+applicable)
+
+*
+
+Software API Compliant with UIDAI
+Device Capture API
+specification V1.0 RC3
+
+*
+
+Operating System Linux/Windows *
+
+                               2 / 3
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/CZZ4Ga7tlqqO7HyzDxsZX_6MBrqBU2Kg6zXTnNdqCn0
+
+
+ 
+
+Compatibility
+
+On Site OEM
+Warranty (Years)
+
+3 1, 3
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 KAMRAN KHAN 494661,DeGS ROOM NO 67
+COLLECTER OFFICE
+Narayanpur
+
+5  15
+
+Bid Specific Additional Terms and Conditions
+
+1.Without prejudice to Buyer’s right to price adjustment by way of discount or any other right
+or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a
+written notice to the Seller, if:
+i) The Seller fails to comply with any material term of the Contract.
+ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within
+the stipulated Delivery Period or such inability otherwise becomes apparent.
+iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery
+Period and/or to replace/rectify any rejected or defective Material(s) promptly.
+iv) The Seller becomes bankrupt or goes into liquidation.
+v) The Seller makes a general assignment for the benefit of creditors.
+vi) A receiver is appointed for any substantial property owned by the Seller.
+vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has
+placed the Purchase Order on the Seller.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               3 / 3
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

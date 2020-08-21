@@ -1,0 +1,493 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/707640
+
+  Dated: 13-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 23-07-2020 11:00:00
+
+Bid Opening Date/Time 23-07-2020 11:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Tamil Nadu
+
+Department Name Higher Education Department Tamil Nadu
+
+Organisation Name Bharathiar University
+
+Office Name Tamil Nadu
+
+Total Quantity 1
+
+Item Category DSLR/ COMPACT / HANDHELD CAMCORDER or VIDEO
+CAMERAS
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+DSLR/ COMPACT / HANDHELD CAMCORDER Or VIDEO CAMERAS ( 1 pieces )
+
+Technical Specifications
+
+                               1 / 5
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+TYPE Classification of
+Camera
+
+Still Still
+
+Type of Camera DSLR APS Format DSLR APS Format
+
+IMAGE SENSOR Image Sensor CMOS CMOS
+
+Sensor Size for Fixed
+Lens Camera (inch)
+
+NA NA
+
+Sensor Size for
+Interchangeable
+Lens Camera
+(mmxmm)
+
+22.3 x 14.9 22.3 x 14.9
+
+Effective Pixels
+(Mega Pixels)
+
+24 24
+
+ISO (Sensitivity of
+the image Sensor)
+Max
+
+25600 25600, 32000, 40000,
+51200 Or higher
+
+Supported Picture or
+image format
+
+JPEG,RAW *
+
+OPTICS Lens Mounting Detachable Detachable
+
+Mount type - *
+
+Type of Lens Zoom Lens *
+
+Minimum Focal
+Length
+
+18 18.0
+
+Maximum Focal
+Length
+
+24 24.0
+
+Minimum Lens
+Aperture (f/number)
+
+3.5 3.5
+
+Maximum Lens
+Aperture (f/number)
+
+22 22
+
+Optical Zoom 6X to 10X 6X to 10X
+
+Digital Zoom (X) 13 *
+
+Maximum Field of View 24 *
+
+Focus Mode Auto,Manual *
+
+Video Recording Video Recoding Yes Yes
+
+Maximum Recording
+Resolution (Pixels)
+
+Full HD (1920 x 1080) Full HD (1920 x 1080)
+
+Frame Rate 24,25,30,48,50,60 60, 24, 25, 30, 48, 50
+
+Video Compression
+Format
+
+H.264 *
+
+Live Video
+Streaming
+
+No No
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/if_b-uuKwN0qltqiyGCUhlTmHdUGmdbWBJww1GFjBTc
+
+
+ 
+
+Video Output Port HDMI *
+
+Video file format MOV,MP4 *
+
+AUDIO Audio Recording Yes Yes
+
+Audio Recording Type Buit-in,External *
+
+Number of Audio Input
+Port
+
+1 *
+
+Type of Audio input
+Port
+
+3.5 mm (Stero mini
+jack)
+
+*
+
+Audio Output Yes Yes
+
+Number of Audio
+Output Port
+
+1 *
+
+Type of Audio output
+Port
+
+3.5 mm (Stero mini
+jack)
+
+*
+
+DISPLAY Display Yes Yes
+
+Display Type TFT *
+
+Touch Screen Yes Yes
+
+Display Size (inch) 3.1 - 3.5 3.1 - 3.5
+
+Vari Angle Screen Yes Yes
+
+View Finder Yes Yes
+
+FEATURES Flash Built-in,External (Not
+inclusive in the scope
+of supply)
+
+Built-in, External (Not
+inclusive in the scope
+of supply)
+
+GPS coordinates
+Stamping onto Videos /
+photographs
+
+No *
+
+Gyro Sensor No *
+
+Voice Control No *
+
+Connectivity Interface Wi-
+Fi,Bluetooth,NFC,USB
+
+*
+
+Control Remote,App *
+
+Supported Operating
+Systems for App
+
+iOs,Android *
+
+Picture control system Auto,standard,portrait,
+monochrome,landscap
+e
+
+*
+
+Noise reduction
+Feature
+
+Yes *
+
+Flash modes Auto,Flash fill,Slow
+Synchro,Advanced
+Sync,Flash Off
+
+*
+
+Shutter type mechanical *
+
+Minimum Shutter
+Speed
+
+30 *
+
+                               3 / 5
+
+
+
+ 
+
+Maximum Shutter
+Speed
+
+0.4 *
+
+Drive modes Countinous Shooting *
+
+STORAGE Storage Type SD *
+
+Dual Slot No *
+
+SD Card Memory
+inclusive in the scope
+of supply (GB)
+
+16 *
+
+Memory Card
+expandable upto (GB)
+
+512 *
+
+In-built Memory(GB) 0 *
+
+BATTERY Power Source Rechargeable Battery *
+
+Battery Size, if Non
+Rechargeable Battery
+
+NA *
+
+Battery Chemistry, if
+Rechargeable Battery
+
+Li-Ion *
+
+Number of Batteries
+required for operation
+
+1 *
+
+Number of Batteries
+supplied (Inclusive in
+the Scope of Supply)
+
+1 *
+
+BATTERY CAPACITY
+(mAh)
+
+1040 *
+
+Battery Charger for
+Rechargeable Batteries
+
+Yes *
+
+OPERATING
+CONDITIONS
+
+Minimum Operating
+Temperature (for
+land use)
+
+0 0.0
+
+Maximum Operating
+Temperature (for
+land use)
+
+40 40.0
+
+Operating Humidity,
+Rh at 40 deg C
+
+80 80.0
+
+GENERIC Housing
+construction
+
+Polycarbonate Polycarbonate
+
+IP Protection NA NA
+
+Carry Case inclusive Yes Yes
+
+Weight 540 *
+
+Dimension (WxHxD)
+(mmxmmxmm)
+
+- *
+
+List of Items and
+Quantity of each item
+included in the offer
+
+- *
+
+WARRANTY Warranty 2 2.0
+  * Specifications highlighted in bold are the Golden Parameters.
+
+                               4 / 5
+
+
+
+ 
+
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Sathishkumar R 641046,The Registrar,
+Bharathiar University,
+Coimbatore 641046
+
+1  15
+
+Bid Specific Additional Terms and Conditions
+
+1.Bidder financial standing: The bidder should not be under liquidation, court receivership
+or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect
+with bid.
+
+2.Consortium: In case of Contracts, wherein the seller alone does not have necessary
+expertise, the seller can form consortium with other sellers for submission of the bid, with
+one of the consortium company as leader. However, each and every member of the
+consortium shall be equally responsible for the complete execution of the project contract.
+An undertaking to this effect is to be uploaded with bid.
+
+3.End User Certificate: Wherever Bidders are insisting for End User Certificate from the
+Buyer, same shall be provided in Buyer’s standard format only.
+
+4.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+5.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+6.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+7.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

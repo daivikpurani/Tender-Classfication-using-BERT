@@ -1,0 +1,597 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/715497
+  Dated: 17-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 28-07-2020 11:00:00
+
+Bid Opening Date/Time 28-07-2020 11:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Pmo
+
+Department Name Department Of Atomic Energy
+
+Organisation Name Nuclear Power Corporation Of India Limited
+
+Office Name Boisar Maharashtra
+
+Total Quantity 2
+
+Item Category CTG Machine (Cardio Tocography) -Fetal Monitor
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Document required from seller  OEM Authorization Certificate
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the
+buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+Estimated Bid Value  40000
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+CTG Machine (Cardio Tocography) -Fetal Monitor ( 2 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+                               1 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/0mW7z0jptu-Cl0WcjDFQa0Nv5bUQOSR-80ctveU3c7A
+
+
+ 
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERAL FEATURES Product description CTG Machine (Cardio
+Tocography)-Fetal Monitor
+
+*
+
+Type Trolley mounted Trolley mounted
+
+Clinical purpose For recording and analyzing
+the Fetal Heart Rate (FHR)
+and contractions of uterus
+during antepartum and
+intrapartum period
+
+*
+
+PROCUCT & FUNCTIONAL
+REQUIREMENTS
+
+Advanced digital signal
+process
+
+Yes *
+
+Toco and Maternally sensed
+fetal movements are
+detected both manually
+
+Yes *
+
+Facility of twin monitoring Yes *
+
+Display of FHR upto twins
+FHR1, FHR2 and Toco
+
+Yes *
+
+Heart rate offset mode to
+visually distinguish between
+the heart rates of twins with
+ability to offset the
+secondary FHR by atleast
+20bpm
+
+Yes *
+
+Capable to simultaneously
+provide integrated fetal
+heart rate (FHR) and Uterine
+activity
+
+Yes *
+
+Blinking correspondence to
+each beat
+
+Yes *
+
+In-built / Separate
+Acoustic Stimulator with
+a separate marker on the
+graph for acoustic
+stimulators
+
+Yes Yes
+
+Ultrasound transducer for
+measuring fetal heart rate
+with auto correlation
+
+Yes *
+
+Pulse Doppler transducer
+frequency (MHz)
+
+=< 1.5 *
+
+Pulse Doppler with 7 to 9
+elements/crystal design
+for better sensitivity
+
+6 to 9 6 to 9
+
+Transducer should be
+waterproof
+
+Yes *
+
+Fetal Heart Rate
+measurements Range
+(BPM)
+
+30 to 240 30 to 240
+
+FHR measurement tolerance
+(BPM)
+
++/-1 *
+
+Intensity of ultrasound
+transducer(mW/Sq Cm)
+
+5 *
+
+User adjustable audio visual
+alaram for fetal heart rate
+(FHR)
+
+Yes *
+
+High alarm range (bpm) 160 to 180 *
+
+                               2 / 6
+
+
+
+ 
+
+Low alarm range (bpm) 90 to 120 *
+
+Auto timer for NST
+tracing
+
+Yes Yes
+
+External Toco transducer
+unit, sealed waterproof and
+designed with guard ring to
+reduce maternal respiration
+artifact
+
+Yes *
+
+Strain gauge sensor
+element for measuring
+uterine tone contraction
+
+Yes *
+
+Toco Transducer
+measurement range, (Units)
+
+0 to 100 *
+
+Resolution for transducer
+measurement, (Units)
+
++/-1 *
+
+Recorder for Fetal Heart
+Rate and Uterine
+contractions
+
+Yes *
+
+Computerized trace
+interpretation should be
+provided for antepartum
+monitoring of high risk
+pregnancies
+
+Yes Yes
+
+Digital display or waveform
+of Tabular/Graphical data of
+the patient containing the
+details viz Patient Name, ID,
+date and time for minium of
+24 hours
+
+Yes *
+
+Suitable trolley with
+castor wheels, cover and
+locking facility with
+provision for parking the
+transducer etc
+
+Yes Yes
+
+Size (LxWxH)
+(mmxmmxmm)
+
+- *
+
+Weight (Kg) 2.5 *
+
+ELECTRICAL REQUIREMENTS Power supply 220+/-10% V, 50/60 Hz, AC
+Single phase
+
+*
+
+Input power (Watts) 50 *
+
+In-built rechargeable
+battery
+
+Yes *
+
+Type of battery Li-ion *
+
+Battery back up (hrs) 4 4
+
+Auto power off when
+machine is not in use for
+more than a preset time
+(minutes)
+
+Yes *
+
+USER INTERFACE Colour screen monitor
+type
+
+TFT TFT
+
+Flat panel display,
+tiltable and foldable
+
+Yes Yes
+
+Touch screen display No No
+
+Display monitor size
+(inch)
+
+7-8 7-8
+
+                               3 / 6
+
+
+
+ 
+
+Built-in Printer to print
+patient data & Test Results
+
+Yes *
+
+Type of printer High resolution Thermal
+printer
+
+*
+
+Selectable Print speed for
+real time traces
+(Cm/minute)
+
+3 *
+
+Print media Z folded Thermo sensitive
+paper
+
+*
+
+Print media sheet size
+(mmxmm)
+
+- *
+
+Patient data storage and
+trend graph for 48 to 72 hrs
+with fast printing facility of
+stored data
+
+Yes *
+
+Fast print speed for
+printing stored data
+(Cm/minute)
+
+3 3
+
+FHR Chart printing width
+(mm)
+
+80 80
+
+Toco Chart printing
+width (mm)
+
+40 40
+
+Memory for storage of
+records (hrs)
+
+10 10
+
+Machine should be
+compatible with wireless
+connection system for
+central monitoring
+
+Yes *
+
+Machine should be
+compatible with wired
+connection system for
+central monitoring
+
+Yes *
+
+LIST OF ACCESSORIES FHR probe (No) 2 2
+
+TOCO probe (No) 1 1
+
+Event Marker (No) 1 1
+
+Fetal Simulator (No) 1 1
+
+Probe belt (No) 3 3
+
+Ultrasound gel (No) 10 10
+
+Power Cable (No) 1 1
+
+Compatible size of z
+folded thermal sensitive
+continuous paper in
+packets of 150 sheets
+each (Number of
+Packets)
+
+20 20
+
+PACKING MODE The product is packed
+individually in a box with all
+its accessories in such a
+way that there will be no
+damage during
+transportation
+
+Yes *
+
+ENVIRONMENTAL
+CONSIDERATIONS
+
+Storage conditions Temperature -10 deg C to
+40 deg C, RH not more than
+85%
+
+*
+
+                               4 / 6
+
+
+
+ 
+
+Work or usage environment Temperature 5 deg C to 40
+deg C, RH not more than
+85%
+
+*
+
+CERTIFICATIONS & REPORTS Submission of Test Report
+from Central
+Govt/NABL/ILAC accredited
+Lab to prove the conformity
+to declared specification to
+the buyer on demand
+
+YES *
+
+Product certification EU-CE *
+
+Four digit number of notified
+body If product is EU-CE
+certified
+
+843 *
+
+Certificate No - *
+
+Certificate date - *
+
+Certificate issuing authority - *
+
+Certification, performance
+and safety standards
+specific to the device
+
+- *
+
+Submission of all the
+certifications and test
+reports to the buyer on
+demand
+
+Yes *
+
+INSTALLATION & TRAINING Supplier to perform
+installation, safety and
+operation checks before
+handover
+
+Yes *
+
+Installation of machine
+required and to provide
+onsite service to end user
+
+Yes *
+
+Training of users in
+operation and basic
+maintenance shall be
+provided
+
+Yes *
+
+WARRANTY &
+MAINTENANCE
+
+Warranty (Yrs) 3 3
+
+User technical and
+maintenance manual
+detailing complete
+maintaining schedule with
+routine maintenance should
+be provided
+
+Yes *
+
+Contact details of
+manufacturer, supplier and
+local service agent to be
+provided
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+                               5 / 6
+
+
+
+ 
+
+1 Vinayak Dattatraya
+Ranade
+
+401501,TARAPUR MAHASHTRA
+SITE, PO TAPP, VIA BOISAR, DIST.
+PALGHAR
+
+2  30
+
+Bid Specific Additional Terms and Conditions
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of
+
+Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

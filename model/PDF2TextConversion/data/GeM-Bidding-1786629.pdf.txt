@@ -1,0 +1,702 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/710513
+
+  Dated: 14-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 24-07-2020 19:00:00
+
+Bid Opening Date/Time 24-07-2020 19:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Ministry Of Road Transports And Highways
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Nhai
+
+Total Quantity 1
+
+Item Category DEVELOPMENT TOOLS FOR WEB
+APPLICATION/PORTAL APPLICATION SOFTWARE
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 5.00
+
+EMD Amount 238950
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 10.00
+
+Duration of ePBG required (Months). 30
+
+                               1 / 7
+
+
+
+ 
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+CHAIRMAN
+NATIONAL HIGHWAYS AUTHORITY OF INDIA G 5 & 6 SECTOR 10 DWARKA NEW DELHI 110075
+(Chairman)
+
+Splitting
+
+ Bid splitting not applied.
+
+DEVELOPMENT TOOLS FOR WEB APPLICATION/PORTAL APPLICATION
+SOFTWARE ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+BASIC INFORMATION
+OF DEVELOPMENT
+TOOLS FOR WEB
+APPLICATION/PORTAL
+APPLICATION
+SOFTWARE
+
+Name Of Software - *
+
+Type of Software CPU based CPU based
+
+Type of Licence Perpetual Perpetual
+
+Name Of The OEM - *
+
+OEM Model / Part No - *
+
+Software Version/Name - *
+
+Date Of Launch Of
+Version
+
+- *
+
+FEATURES AND
+FUNCTIONALITY
+PARAMETERS
+(GOLDEN)
+
+Crash Analysis Yes Yes
+
+Validation Codes To
+Ensure High Quality
+Data
+
+Yes Yes
+
+Installation And
+Demonstration
+
+Yes Yes
+
+Free Upgradation To
+Higher Version
+within support
+period
+
+YES YES
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/0sEh-iZM6YclKFjtkI_fRa0rCpmSxCe_SQvdqdJRasA
+
+
+ 
+
+Numbers of years
+upto which support
+is available from
+OEM
+
+2 2
+
+FEATURES AND
+FUNCTIONALITY
+PARAMETERS
+(GENERIC)
+
+Code Assistance No *
+
+Collaboration Yes *
+
+Debugging Yes *
+
+Graphical User
+Interface
+
+Yes *
+
+Mobile Application
+Development
+
+Yes *
+
+Software Development
+Tools
+
+Yes *
+
+Testing Management Yes *
+
+Version Control Yes *
+
+Web Application
+Development
+
+Yes *
+
+Portal Application
+Development
+
+Yes *
+
+Build Customized Form
+Based Applications
+
+Yes *
+
+Triggers Based On User
+Inputs And Form
+Actions
+
+Yes *
+
+Data Import / Export
+Feature
+
+Yes *
+
+Data Visualization
+Feature
+
+Yes *
+
+Data Management
+Feature
+
+Yes *
+
+Drag & Drop Interface
+Feature
+
+Yes *
+
+Mobile Reporting Yes *
+
+Multi-Device Testing Yes *
+
+Custom Interactive
+Design Capability
+
+Yes *
+
+HTML5 Support Yes *
+
+XML Support Yes *
+
+Java Platform No *
+
+Instant On-Device
+Design Review
+
+Yes *
+
+Remote Design Review Yes *
+
+Creating Content Yes *
+
+                               3 / 7
+
+
+
+ 
+
+Offline Support /
+Aceess Capability
+
+Yes *
+
+Built-In Interactive
+Content
+
+Yes *
+
+Multiple Navigation
+Capability
+
+No *
+
+Overlays And Popups Yes *
+
+Built-In Interactive
+Content Layers
+
+No *
+
+Video And Audio
+Support
+
+No *
+
+Linking Internally And
+To The Web
+
+Yes *
+
+Slideshows No *
+
+Effects and animations Yes *
+
+Zooming Yes *
+
+Planning Yes *
+
+Multiple Orientation
+Support
+
+Yes *
+
+Easy Design For
+Multiple Devices
+
+Yes *
+
+Automated Production
+Tools
+
+Yes *
+
+Built-In App Library No *
+
+If Yes, List Of Apps No *
+
+Performance
+Monitoring /
+Management
+
+Yes *
+
+Permission
+Management Feature
+
+Yes *
+
+Push Notifications
+Feature
+
+Yes *
+
+App Wrapping For
+Security
+
+No *
+
+Data Encryption No *
+
+Reporting And
+Statistics
+
+Yes *
+
+Mobile User Interface Yes *
+
+Plug-Ins For UI Design
+Tools
+
+No *
+
+Software Development
+Kits (SDKs)
+
+No *
+
+If Yes, Specify The
+Details Of SDKs
+
+No *
+
+                               4 / 7
+
+
+
+ 
+
+Cross-Platform Support Yes *
+
+Role-Based Permissions
+Feature
+
+Yes *
+
+Search Functionality
+Feature
+
+Yes *
+
+Secure Data Storage
+Feature
+
+Yes *
+
+Signature Capture
+Feature
+
+No *
+
+Single Sign On Feature Yes *
+
+Social Media
+Integration Feature
+
+No *
+
+Third Party Integration
+Feature
+
+Yes *
+
+Visual Analytics
+Feature
+
+Yes *
+
+Website Integration
+Feature
+
+Yes *
+
+Wireless Network
+Support Feature
+
+Yes *
+
+Build Custom
+Applications On The
+Cloud
+
+Yes *
+
+Business Automation Yes *
+
+Ease of maintainability
+and version
+management
+
+Yes *
+
+Bundling and
+Minification Feature
+
+No *
+
+Data-Binding Yes *
+
+Templates Yes *
+
+Model-View-Controller
+pattern
+
+Yes *
+
+Dependency Injection No *
+
+Stylesheets No *
+
+Standards and
+maintenance
+
+Yes *
+
+Application Security Yes *
+
+Quality Assurance and
+Bug Testing
+
+Yes *
+
+Fast development tools Yes *
+
+Integration Yes *
+
+Cloud Hosting Yes *
+
+                               5 / 7
+
+
+
+ 
+
+Cross Platform Yes *
+
+No sql database
+support
+
+No *
+
+Widgets - *
+
+Deployment Options - *
+
+SUPPORTED
+HARDWARE
+REQUIREMENT
+PARAMETERS
+
+Minimum Hard Disk
+Space Required
+
+- *
+
+Minimum RAM Size
+requirment
+
+- *
+
+Server requirements - *
+
+CPU required - *
+
+Operating Systems
+Supported (Driver)
+
+- *
+
+Supported Devices - *
+
+Supported Servers - *
+
+Supported Web
+Browsers
+
+- *
+
+Supported Database - *
+
+Supported Protocols - *
+
+Min Processor Bench
+Mark Score Required
+
+- *
+
+GENERIC PARAMETERS
+OF APPLICATION
+SERVER MONITORING
+SOFTWARE
+
+Maximum user
+handling capability
+
+- *
+
+Concurrent user
+handling capability
+
+- *
+
+Valid Licence copy to
+be provided
+
+YES *
+
+Software supplied
+through
+
+Media *
+
+Certifications /
+Benchmarking of
+Software Products
+
+- *
+
+No Of Days Training
+Provided At Site(DAYS)
+
+6-10 *
+
+List Of Items Included
+In The Package
+
+- *
+
+Hyper link to Data
+sheet
+
+- *
+
+No of Softwares sold 10 *
+
+Number of User
+Referance from
+Government
+Departments where
+Software installed
+
+5 *
+
+                               6 / 7
+
+
+
+ 
+
+Details of Government
+Department email
+phone no Of concerned
+authority where
+Software installed for
+above
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Pramod Kumar
+Mohapatra
+
+110075,National Highways
+Authority of India, G 5&6,
+Sector-10, Dwarka,New
+Delhi
+
+1  15
+
+Bid Specific Additional Terms and Conditions
+
+1.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+2.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+3.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+4. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

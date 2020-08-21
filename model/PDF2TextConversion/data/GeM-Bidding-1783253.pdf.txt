@@ -1,0 +1,449 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/707436
+
+  Dated: 12-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 22-07-2020 18:00:00
+
+Bid Opening Date/Time 22-07-2020 18:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Rajasthan
+
+Department Name Technical Education Department Rajasthan
+
+Organisation Name Rajasthan Technical University (rtu) Kota
+
+Office Name Rajasthan Technical University Kota
+
+Total Quantity 4
+
+Item Category Multimedia Projector (MMP)
+
+Bidder Turnover (Last 3 Years)  3 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Bidder Turnover,OEM
+Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 5
+
+
+
+ 
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+
+Multimedia Projector (MMP) ( 4 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Ports and Connectivity Number of HDMI In Port 2 *
+
+Number of HDMI Out
+Port
+
+0 *
+
+Number of DVI Port 0 *
+
+Analog RGB In Port
+(Hours)
+
+Yes *
+
+Analog RGB Out Port Yes *
+
+HD Base T Yes *
+
+Audio In Yes *
+
+Audio Out Yes *
+
+Video In Yes *
+
+Storage Media Port No *
+
+if Yes, Supported File
+Formats
+
+NA *
+
+Number of USB Type A 1 *
+
+Number of USB Type B 1 *
+
+Number of USB Type C 0 *
+
+Wi Fi Connectivity Yes *
+
+Wireless Screen Share Yes *
+
+LAN Connectivity Yes *
+
+Technical
+Specifications
+
+Technology LCD LCD
+
+Projection Method Front and Rear both *
+
+Native Resolution 1280 x 800 (WXGA) 1280 x 720 (HD), 1280
+x 800 (WXGA), 1280 x
+1024 (SXGA), 1600 x
+1200 (UXGA), 1920 x
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/iDYT7wbHw2RUn3QEkxREsJRuIQupM4e4VKrwqRtxEbc
+
+
+ 
+
+1080 (Full HD), 1920 x
+1200 (WUXGA), 3840 x
+2160 (UHD 4K), 2560 x
+1600 (WQXGA), 4096 x
+2160 (4K), 5120 x 3200
+(4K+) Or higher
+
+Brightness (Lumens) 5500 5500, 6000, 6200,
+6500, 7000, 7500,
+8000, 8500, 9000,
+9500, 10000, 12000,
+13000, 14000, 16000,
+18000, 20000, 22000,
+25000, 30000, 40000,
+60000, 5800, 6600,
+6700, 21000 Or higher
+
+Contrast Ratio
+(Minimum) (pixels )( X
+:1 )
+
+15000 *
+
+Optical Zoom Yes Yes Or higher
+
+If Yes, Optical Zoom
+(%)
+
+160 160, 170, 175, 200,
+210 Or higher
+
+Availability of Lens Yes *
+
+Remotely Controlled Ye *
+
+If Yes, Type of
+Projector
+
+Standard Throw (0.91
+to 2.5)
+
+Standard Throw (0.91
+to 2.5)
+
+Aspect Ratio 16:10 *
+
+Keystone Correction Automatic & Manual
+Both
+
+*
+
+Type of Light Source UHP / UHE / UHM UHP / UHE / UHM
+
+Minimum Life of
+Light Source (In
+Normal Mode)
+(Hours)
+
+5000 5000, 6000, 8000,
+10000, 15000, 20000,
+25000, 30000 Or
+higher
+
+Lamp Hour Counter (In-
+Built)
+
+Yes *
+
+Inbuilt Speaker Yes *
+
+If Yes, Wattage of
+Speaker
+
+16 *
+
+3D Projection
+Capability
+
+No *
+
+Interactive Feature No *
+
+Power Consumption in
+Sleep Mode (Watts)
+
+- *
+
+Power Consumption in
+Normal Mode (Watt)
+
+- *
+
+Noise Level in Echo
+Mode (dB)
+
+29 *
+
+                               3 / 5
+
+
+
+ 
+
+Noise Level in Normal
+Mode (dB)
+
+39 *
+
+Power Supply 210V-240V, 50 Hz *
+
+Battery No *
+
+If Yes, Minimum Battery
+Capacity (mAH)
+
+NA *
+
+If Yes, Battery Backup
+Time (Hour)
+
+NA *
+
+Certificaions BIS Registration under
+CRS of Meity
+
+Yes *
+
+BIS Registration
+Number
+
+- *
+
+Generic Dimensions (Length x
+Breadth x Height) (mm
+x mm x mm)
+
+- *
+
+Weight (Kg) 4.7 *
+
+Minimum Operating
+Temperature (Degree
+C)
+
+- *
+
+Maximum Operating
+Temperature (Degree
+C)
+
+- *
+
+Minimum Operating
+Humidity ( % RH)
+
+- *
+
+Maximum Operating
+Humidity ( % RH)
+
+- *
+
+Warranty On Site OEM
+Warranty for Light
+Source (Time or Life
+in Hours whichever
+is earlier)
+
+1 Year or 1000 Hrs. 1 Year or 1000 Hrs., 1
+Year or 1200 Hrs., 1
+Year or 1500 Hrs., 1
+Year or 2000 Hrs., 1
+Year or 5000 Hrs., 3
+Year or 5000 Hrs., 3
+Year or 10000 Hrs., 3
+Year or 12000 Hrs., 3
+Year or 15000 Hrs., 3
+Year or 30000 Hrs., 5
+Year or 10000 Hrs. Or
+higher
+
+On Site OEM
+Warranty
+
+2 2, 3, 5 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+                               4 / 5
+
+
+
+ 
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 V V D N Kamesh 324010,Rajasthan Technical
+University, Rawatbhata
+Road,
+
+4  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+2.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents
+sought in the Bid document, ATC and Corrigendum if any.
+
+3.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+4.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 7 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

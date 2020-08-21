@@ -1,0 +1,649 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/704504
+
+  Dated: 09-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 18:00:00
+
+Bid Opening Date/Time 20-07-2020 18:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Kerala
+
+Department Name Port Department Kerala
+
+Organisation Name N/a
+
+Office Name Armed Police Battalion Headquaters
+
+Total Quantity 2
+
+Item Category Laptop-Notebook
+
+Bidder Turnover (Last 3 Years)  2 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  16 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,OEM Authorization Certificate,OEM Annual
+Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  50 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+
+                               1 / 7
+
+
+
+ 
+
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 50% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Laptop-Notebook ( 2 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Construction Form Factor Standard Standard, Convertible,
+Detachable
+
+Chassis Material CNC Alluminium *
+
+Hinges Metallic *
+
+Processor Processor Make Intel Intel
+
+Processor
+Generation
+
+9 9.0 Or higher
+
+Number of Cores per
+Processor
+
+6 6, 8 Or higher
+
+Processor Base
+Frequency (GHz)
+
+2.6 *
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/z3uuuUE5MriIR7sFhxsMJoKndYOsppV_w_OOCgRIkPI
+
+
+ 
+
+Processor
+Description
+
+Intel Core i7 Intel Core i5, Intel Core
+i7, Intel Core i9 Or
+higher
+
+Processor Number Intel Core i7, Turbo
+Boost up to 4.5GHz,
+with 12MB shared L3
+cache
+
+*
+
+Out of Band
+Management
+
+NA *
+
+Cache (MB) 12 *
+
+Motherboard Expansion Slots (M Dot
+2)
+
+0 *
+
+Graphics Graphics Type Dedicated/Discrete *
+
+Graphic Card
+Description
+
+- *
+
+Size of Memory in
+Case of Dedicated
+Graphic Card (GB)
+
+4 4, 6 Or higher
+
+Size of VRAM in case of
+Integrated Graphics
+(MB)
+
+- *
+
+Operating System Operating System
+(Factory Pre-Loaded)
+
+Mac OS Mojave Mac OS Mojave
+
+Recovery Image Media - *
+
+OS Certification Mac OS Windows, Linux, Mac
+OS, NA
+
+Memory Type of RAM DDR4 *
+
+RAM Size (GB) 16 16, 32 Or higher
+
+RAM Speed (MHz) 2666 *
+
+Total Numbers of DIMM
+Slots Available
+
+0 *
+
+Number of DIMM Slots
+populated
+
+0 *
+
+RAM Expandability
+up to( using spare
+DIMM Slots in GB)
+
+0 8, 16, 32, 0 Or higher
+
+Storage Type of Drives used
+to populate the
+Internal Bays
+
+SSD SSD
+
+Number of Internal
+Bays populated with
+HDD
+
+0 *
+
+Capacity of each HDD
+(GB)
+
+NA *
+
+Total HDD Capacity
+(GB)
+
+0 500, 1000, 1500, 2000,
+2500, 3000, 0 Or
+
+                               3 / 7
+
+
+
+ 
+
+higher
+
+Number of Internal
+Bays populated with
+SSD
+
+0 *
+
+Capacity of each SSD
+(GB)
+
+512 128, 256, 512, 1024,
+2048, 0
+
+Total SSD Capacity
+(GB)
+
+512 512, 768, 1024, 1280,
+2048, 4096 Or higher
+
+Number of Internal
+Bays populated with
+SSHD
+
+0 *
+
+Capacity of each
+SSHD (GB)
+
+NA 8 GB Flash + 500 GB
+@5400 rpm, 8 GB Flash
++ 1000 GB @5400 rpm,
+8 GB Flash + 2000 GB
+@5400 rpm, NA Or
+higher
+
+Total SSHD Capacity
+in addition to 8 GB
+Flash (GB)
+
+0 500, 1000, 1500, 0 Or
+higher
+
+Optane Memory (GB) 0 *
+
+Connectivity Wireless
+Connectivity
+
+Yes Yes, No
+
+If Yes, Type of Wireless
+Connectivity
+
+Wi-Fi 802.11ac *
+
+Number of Ethernet
+Ports
+
+0 *
+
+If available, Type of
+Ethernet Ports
+
+NA *
+
+Bluetooth
+Connectivity
+
+Yes Yes, No
+
+If Yes, Version of
+Bluetooth Available
+
+5 *
+
+Ports Number of USB Version
+2 Point 0 Ports
+
+0 *
+
+Number of USB Version
+3 point 0 / 3 point 1,
+Gen 1 Ports
+
+0 *
+
+Number of USB Version
+3 point 1, Gen 2 Ports
+
+0 *
+
+Number of USB Type C
+Ports
+
+2 *
+
+Number of Serial Ports 0 *
+
+Number of VGA Ports 0 *
+
+Number of HDMI Ports 0 *
+
+Number of DP Ports 0 *
+
+                               4 / 7
+
+
+
+ 
+
+Number of Thunderbolt
+Port
+
+- *
+
+Display Display Size (Inch) 16 16 Or higher
+
+Display Type - Non Touch, Touch Or
+higher
+
+Display Technology LED HD Backlit *
+
+Panel Technology IPS IPS, TN, VA Or higher
+
+Display Resolution
+(Pixels)
+
+3072 x 1920 *
+
+Availability of
+Webcam integrated
+with Display
+
+Yes Yes, No
+
+If Yes, Resolution of
+Webcam
+
+FHD VGA, HD, FHD, NA Or
+higher
+
+Infra Red Webcam No Yes, No
+
+Miscellaneous Optical Drive NA Integrated, External,
+NA Or higher
+
+Type of Optical Drive N/A *
+
+Internal Speaker
+(Dual)
+
+Yes Yes, No
+
+Audio-in No *
+
+Audio-out No *
+
+Headphone out Yes *
+
+Microphone-in No *
+
+Type of Keyboard Standard *
+
+Backlit Keyboard Yes *
+
+Spill Resistant
+Keyboard
+
+No *
+
+Pointing
+Device/Touchpad
+
+Touchpad with multi-
+touch gestures enabled
+
+*
+
+Finger Print Reader Yes *
+
+Hardware Trusted
+Platform Enabled
+
+Yes *
+
+Carry Case No Yes, No
+
+If Yes, Type of Carry
+Case
+
+NA *
+
+Security Lock Slot No *
+
+If Yes,Availability of
+Cable Lock
+
+No *
+
+Weight (Including
+Battery) (Kilogram)
+
+2 *
+
+Power Battery Type - *
+
+                               5 / 7
+
+
+
+ 
+
+Battery Chemistry Li - Polymer *
+
+Battery Capacity (Watt
+Hour)
+
+100 *
+
+Battery Backup Time
+(Hours)
+
+11 *
+
+Certification BIS Registration under
+CRS of Meity
+
+Yes *
+
+BIS Registration
+Number and its validity
+
+- *
+
+BEE / Energy Star for
+the given Model
+
+Yes *
+
+ROHS Compliance Yes *
+
+Other Certifications
+available
+
+- *
+
+Operating Conditions Minimum Operating
+Temperature
+
+10 *
+
+Maximum Operating
+Temperature
+
+35 *
+
+Minimum Operating
+Humidity (%RH)
+
+0 *
+
+Maximum Operating
+Humidity (%RH)
+
+90 *
+
+Warranty Battery Warranty 3 3, 4 Or higher
+
+On Site OEM
+Warranty (Year)
+
+3 3
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Daniel P 695005,Armed Police
+Headquarters
+
+2  20
+
+Special terms and conditions for category Laptop-Notebook 
+
+1.As per notification of MEITY circulated vide letter no. F.No.33(1) /2017-IPHW..dated:
+14/09/2017, the minimum local content should be 40 percent to qualify as local or domestic
+manufacturer.
+
+                               6 / 7
+
+
+
+ 
+
+Bid Specific Additional Terms and Conditions
+
+1. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+2.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+3. ISO 9001: The bidder must have ISO 9001 certification.
+4.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+5.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+6.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+7.Successful bidder will have to ensure that adequate number of dedicated technical service
+personals / engineers are designated / deployed for attending to the Service Request in a
+time bound manner and for ensuring Timely Servicing / rectification of defects during
+warranty period, as per Service level agreement indicated in the relevant clause of the bid.
+
+8.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 7 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

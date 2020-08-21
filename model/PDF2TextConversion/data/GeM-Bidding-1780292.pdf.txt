@@ -1,0 +1,382 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/704741
+
+  Dated: 09-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 12:00:00
+
+Bid Opening Date/Time 20-07-2020 12:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 45 (Days)
+
+Ministry/State Name Ministry Of Coal
+
+Department Name Materials Management
+
+Organisation Name Nlc
+
+Office Name Materials Management
+
+Total Quantity 2
+
+Item Category true rms clamp meter
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+True Rms Clamp Meter ( 2 pieces )
+
+Technical Specifications
+
+                               1 / 4
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERAL FEATURES Type Hand Held Hand Held
+
+Display 3.5 digit Backlit LCD 3.5 digit Backlit LCD
+
+Measurement Type True RMS True RMS
+
+count 3000 3000
+
+MEASUREMENT
+FEATURES
+
+Resistance
+Measurement Range
+
+4 4.0
+
+Resistance
+Measurement
+Accuracy (+/-)
+
+0.5 0.5
+
+Frequency
+Measurement Range
+
+0.5 0.5
+
+Frequency
+Measurement
+Accuracy (+/-)
+
+0.1 0.1
+
+AC Current
+Measurement Range
+
+10 10.0
+
+AC Current
+Measurement
+Accuracy (+/-)
+
+1 1.0
+
+AC Voltage
+Measurement Range
+
+400 400.0
+
+AC Voltage
+Measurement
+Accuracy (+/-)
+
+1.5 1.5
+
+DC Current
+Measurement Range
+
+100 100.0
+
+DC Current
+Measurement
+Accuracy (+/-)
+
+1 1.0
+
+DC Voltage
+Measurement Range
+
+40 40.0
+
+DC Voltage
+Measurement
+Accuracy (+/-)
+
+1 1.0
+
+Other features,if
+applicable
+
+- *
+
+GENERIC Jaw Size (Dia in Closed
+State)
+
+32 *
+
+Dimensions (H x W x L)
+(mm x mm x mm)
+
+- *
+
+Weight 260 *
+
+POWER REQUIREMENTS Power Requirements Battery Operated *
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/YQBbOXbYRVMsxdsoXd3eWrjT7EqlK_j-gz2UzxklfDk
+
+
+ 
+
+Type of Battery Non- Rechargeable
+(Alkaline)
+
+*
+
+if rechargeable , then
+chemistry of the
+battery
+
+lithium ion *
+
+if Non-rechargeable ,
+then size of the battery
+/ cell
+
+AA *
+
+Number of non-
+rechargeable the
+battery / cell
+
+2 *
+
+Voltage of
+rechargeable Battery
+milliamphere hour
+
+1.5 *
+
+Suitable
+charger/adaptor
+provided
+
+NA *
+
+OPERATING CONDITION Minimum Operating
+Temperature
+
+0 *
+
+Maximum Operating
+Temperature
+
+50 *
+
+Operating Humidity
+(RH)
+
+90 *
+
+SAFETY Safety Certification UL *
+
+Safety Rating CAT III 600 V of IEC
+61010 -2-D31
+
+CAT III 600 V of IEC
+61010 -2-D31
+
+ACCESSORIES Details of the Standard
+Accessories Supplied
+with the Equipment
+
+- *
+
+SERVICE Warranty 3 3.0
+
+TEST REPORT DETAILS
+& TESTS
+
+The equipment
+supplied with
+calibration certificate
+
+yes *
+
+conformity to Dry Heat
+for 16 hrs at a specified
+maximum temp
+
+Yes *
+
+conformity to Cold Test
+for 4 hrs at a specified
+minimum temp in
+accordance with IS:900
+0/part-2/section-4/1977
+latest
+
+Yes *
+
+conformity to Damp
+Heat (Cyclic)Test for 2
+Cycles of 24 h each at
+a temp of 40 degree C
+& 95% RH
+
+Yes *
+
+Availability of Test Yes *
+
+                               3 / 4
+
+
+
+ 
+
+Reports from Central
+Govt/NABL/ILAC
+approved accredited
+lab to prove conformity
+to the specification
+
+Test Report Number
+and date for the
+specification test
+
+- *
+
+Name and address of
+the Lab for the
+specification test
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Kulothungan
+Kasinathan
+
+607807,PERMANENT
+CENTRAL STORES, NLC
+INDIA LIMITED, NEYVELI
+607807
+
+2  60
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

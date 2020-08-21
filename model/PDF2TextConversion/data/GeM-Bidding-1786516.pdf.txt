@@ -1,0 +1,527 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/710411
+
+  Dated: 14-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 12:00:00
+
+Bid Opening Date/Time 27-07-2020 12:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Railways
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Secr
+
+Total Quantity 1
+
+Item Category Electro Cautery Machine
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Certificate (Requested in ATC),OEM Authorization
+Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+                               1 / 6
+
+
+
+ 
+
+Electro Cautery Machine ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Confirmity to Safety
+and Quality Standards
+
+- *
+
+Certification date and
+number
+
+- *
+
+Performance
+Parameters
+
+Microprocessor
+controlled Surgical
+Generator
+
+Yes *
+
+Conformity to
+stanadard for electrical
+safety &
+Electromagnetic
+compatibility
+
+IEC-60601-1-2:2001
+Standard or IS-13450
+
+*
+
+Type of Output of
+Electro Surgical
+Generator
+
+Monopolar and Bipolar
+outputs designed for all
+surgical procedures
+including general
+surgery, gynecology,
+minimal invasive
+surgery, Orthopaedic
+and Oral surgery
+
+*
+
+Machine Should be able
+to monitor changes in
+tissue impedance
+continuously and
+adjusts power
+
+Yes *
+
+Low cut mode of the
+Monopolar Out put
+
+For delicate tissue or
+Laparoscopic cases
+having at least power
+of 300 watts or more
+
+*
+
+Pure cut mode of
+monopolar Out put
+
+For clean, precise cut in
+general surgery having
+at least power of 200 W
+or more
+
+*
+
+Blend mode of
+Monopolar output
+cutting mode
+
+For cutting with
+homeostasis having at
+least power of 200W or
+more.
+
+*
+
+Adjustability of out put
+power indifferent cut
+modes
+
+depending on tissue
+density by less than
+15% or 5 w whichever
+is greater
+
+*
+
+No of coagulation 3 *
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/cw9MsH507f9vQyrdJUijSJrOYjTbtGpcZManTClXjaM
+
+
+ 
+
+modes available
+
+Maximum power in
+coagulation mode
+
+120 w *
+
+No of Bipolar modes
+available
+
+4 2, 3, 4
+
+Maximum power of
+Bipolar mode
+
+80 w *
+
+Patient plate
+monitoring facility
+
+Yes *
+
+Bipolar current
+meter
+
+Yes Yes, No
+
+Power efficiency 98 or more than 98 95-97, 98 or more than
+98
+
+Availibility of
+Advance Cutting
+modes
+
+For skin incision For skin incision, Not
+available
+
+"audio visual alarm and
+deactivate output
+Facility if contact
+between patient and
+patient plate is not
+proper"
+
+Yes *
+
+Automatic stop facility
+in case of any error
+
+Yes *
+
+Number of hand switch
+for monopolar mode
+
+2 *
+
+Number of foot switch
+for monopolar mode
+
+2 *
+
+No of hand switch for
+Bipolar mode
+
+1 *
+
+No of foot switch for
+bipolar mode
+
+1 *
+
+Type of key board for
+power settings
+
+Touch screen *
+
+Type of Display LCD LED, LCD, TFT
+
+No of segments of
+display
+
+3 7, 3
+
+Display for power individual display for
+Bipolar and Monopolar
+cut and Monopolar
+coagulation
+
+*
+
+RF leakage current in
+mA
+
+150 *
+
+Power supply 230V (+ / - 15%) 50Hz *
+
+Tropicalization:
+operating Temp and
+humidity
+
+upto 40Deg. C and
+relative humidity up to
+85%
+
+*
+
+                               3 / 6
+
+
+
+ 
+
+Overall dimensions in
+mm x mm x mm
+
+- *
+
+Weight in kg 7.5 *
+
+Instruction Manual Yes *
+
+Warranty in years 3 3, 4, 5
+
+Additional Parameters Availability of trolley
+with lockable Castor
+wheel
+
+Yes Yes, No
+
+Monopolar Foot
+Switch supplied
+
+1 1, 2, Not supplied
+
+Bipolar Foot Switch 1 1, 2, Not supplied
+
+Hand Switching
+Pencil
+
+Single used Reusable, Single used
+
+Number hand
+switching pencil
+
+10 10, 20, Not supplied
+
+Patient plate Single used Reusable, Single used
+
+Number of patient
+plate
+
+10 10, 20, Not supplied
+
+Bipolar forceps 1 1, 2, Not supplied
+
+Forceps cord 1 1, 2, Not supplied
+
+universal adaptor 1 1, 2, Not supplied
+
+Leep Electrodes 1 1, 2, Not supplied
+
+Reports ISO certification for
+Manufacturer
+
+Yes *
+
+ISO certification date
+and number
+
+- *
+
+Availability of test
+report from central
+govt/ NABL/ILAC
+accredited lab
+covering all
+parameters
+
+Yes Yes, No
+
+Test report number if
+test report not
+available put NA
+
+- *
+
+Test report date if test
+report not available put
+NA
+
+- *
+
+Name of test lab if test
+report not available put
+NA
+
+- *
+
+Address of test lab if
+test report not
+available put NA
+
+- *
+
+Copies of all Yes *
+
+                               4 / 6
+
+
+
+ 
+
+certifications and
+reports to be provided
+to buyer on demand at
+time of supplies
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Kartick Chandra
+Bag
+
+492008,Sr DMM SECR DRM
+Office , South East Central
+Railway
+
+1  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+2.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+3.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+4.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+5.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+6.Timely Servicing / rectification of defects during warranty period: After having been notified
+
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 10 days time limit. If the Seller fails to complete
+service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product
+shall be charged as penalty for each week of delay from the seller. Seller can deposit the
+penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty
+amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than
+10% of the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+7.Warranty period of the supplied products shall be 3 years from the date of final acceptance
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+                               5 / 6
+
+
+
+ 
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

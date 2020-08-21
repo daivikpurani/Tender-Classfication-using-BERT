@@ -1,0 +1,871 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   RA Number: GEM/2020/RA/43951
+
+  Dated: 29-06-2020
+
+  
+
+RA Document
+RA Details
+
+RA Technical End Date/Time 09-07-2020 13:00:00
+
+RA Opening Date/Time 09-07-2020 13:30:00
+
+RA Life Cycle (From Publish Date) 90 (Days)
+
+RA Offer Validity (From End Date) 80 (Days)
+
+Ministry/State Name Ministry Of Labour And Employment
+
+Department Name Na
+
+Organisation Name Employees State Insurance Corporation (esic)
+
+Office Name Esi-pgimsr And Esic Medical College And Esic Hospital
+Joka
+
+Total Quantity 1
+
+Item Category Mobile Digital Radiography Systems
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  80 %
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 2.00
+
+EMD Amount 53980
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+                             1 / 10
+
+
+
+ 
+
+ePBG Percentage(%) 5.00
+
+Duration of ePBG required (Months). 62
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+Dean Director Professor
+Esi-pgimsr And Esic Medical College And Esic Hospital Joka, Diamond Harbour Road, South 24
+Parganas, Kolkata- 700104, Employees State Insurance Corporation (ESIC), Ministry of Labour and
+Employment
+(Esi Fund Account No. 1)
+
+Splitting
+
+ RA splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 80% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Mobile Digital Radiography Systems ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Conformity to
+standards
+
+- *
+
+                             2 / 10
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/iiUz1Inad5jKcukdKBHbiu6vOfuax7V-IlYJzMc8O-M
+
+
+ 
+
+Certification Number
+and date
+
+- *
+
+AREB type test
+approval for model
+
+Yes *
+
+AERB Cerificate
+Number and date for
+model
+
+- *
+
+Confirmity to
+Manufactures Quality
+Certifications
+
+ISO 9001 & ISO 1348 *
+
+Conformity to Safety
+Standards
+
+IEC 60601-2-54 or
+equivalent BIS
+
+*
+
+Performance
+Parameters
+
+UMDNS Code and
+names(Hint: This is for
+indicating the relevant
+universal medical
+devices nomenclature
+for the category of
+product )
+
+18-430 *
+
+Purpose Used for radiographic
+imaging of patients
+who cannot be moved
+to the radiology
+department and who
+are in areas—such as
+intensive and critical
+care units or operating
+and emergency rooms
+and should be a digital
+system with flat panel
+detector
+
+*
+
+Scope of supply Compact,easily
+transportable, digital
+mobile radiographic
+unit with
+articulated/telescopic
+arm
+
+*
+
+Digital Detector Radiography Mode Digital *
+
+Number of detectors 1 *
+
+Detector Material Cesium Iodide *
+
+Detector Size 14 inches x 17
+inches(wireless )
+
+14 inches x 17
+inches(wireless )
+
+Matrix size 2kx2k 2kx2k
+
+Pixel size in µm 150 *
+
+Grey Scale resolution,
+bits/pixel
+
+14 or better *
+
+DQE at 0 LP/mm 65% or more *
+
+Machine should have a
+detector storage
+
+Yes *
+
+                             3 / 10
+
+
+
+ 
+
+comapartment
+
+Weight of detector in
+kg
+
+3.6 *
+
+Detector should be
+designed and
+calibrated for General
+Radiography Purposes
+and must be fully
+integrated with the
+mobile unit including
+the controls
+
+Yes *
+
+Detector storage
+capacity
+
+100 images or more 100 images or more
+
+Control panel for image
+acquisition
+
+Image preview time in
+seconds
+
+3 *
+
+Control panel Microprocessor
+controlled
+
+*
+
+Automatic parameter
+selection
+
+Yes *
+
+Control panel entry Touch screen Touch screen
+
+Anatomic specific post
+processing
+
+Yes *
+
+Display Should have a digital
+display of mAs and KV
+and an electronic timer
+
+*
+
+Inbuilt console
+should have touch
+TFT screen and
+control
+
+Yes Yes
+
+Console should enable
+to view the image, and
+provide post processing
+features, using touch
+screen
+
+Yes *
+
+Post processing
+features
+
+zoom, contrast and
+brightness, adjustment,
+panning annotate,
+mark and reporting
+
+*
+
+X RAY Generator and
+Tubes
+
+" High Frequency X-
+ray Generator Power
+in Kw"
+
+3.5 Kw 3.5 Kw
+
+KV range 40-110 40-110
+
+Maximum mA 70 @ 50 KVP 100 @ 40 KVP, 70 @ 50
+KVP
+
+Focal spot,mm 0.8-2 0.8-2
+
+Heat Capacity ,KHU 40-100 40-100
+
+Anode Type Stationary Stationary
+
+                             4 / 10
+
+
+
+ 
+
+Anode rpm NA for stationary 3000 or more for
+rotating, NA for
+stationary
+
+Exposure time in ms 0.1 to 3 Sec *
+
+" Control Panel and x-
+ray Tube "
+
+Yes Yes
+
+Automatic tube
+positioning
+
+No Yes, No
+
+Tube Suspension X ray tube out put
+should match with
+generator
+
+Yes *
+
+Type of suspension Articulated arm *
+
+Collimator Type Manual *
+
+Collimator rotation ± 90 degree with on off
+timer
+
+*
+
+Ergonomics Unit should have small
+foot print
+
+Yes *
+
+Height of the column in
+cm (Should facilitate
+easy transportation in
+the lift and areas with
+small height doors etc
+
+150 *
+
+Weight of mobile x ray
+unit in kg
+
+150 *
+
+The cables should be
+concealed in the arm
+system
+
+Yes *
+
+Exposure release
+switch
+
+Detachable with a cord
+of at least 5 meters.
+
+*
+
+Workstation Inbuilt work station Yes *
+
+Monitor size in
+inches
+
+12 12
+
+Processor i 5 i 5
+
+RAM in GB 4 4
+
+HDD 1 TB 1 TB
+
+Dicom compatibility of
+work station
+
+Yes *
+
+Inbuilt console
+should have touch
+screen control
+
+Yes Yes
+
+No of images which
+can be stored
+
+10000 or more 10000 or more
+
+The machine should be
+fully network ready and
+it should be possible to
+transfer images and
+
+Yes *
+
+                             5 / 10
+
+
+
+ 
+
+patient data from and
+to hospital network
+using LAN connectivity
+or wireless LAN
+
+Accessories Stitching hardware
+and software
+
+Yes Yes, No
+
+Integration DICOM 3.0 storage SOP
+Classes
+
+*
+
+DAP Meter supplied No Yes, No
+
+Lead Apron Yes Yes, No
+
+Light weight ‘zero
+lead’ radiation
+protection aprons
+provided
+
+Yes Yes, No
+
+Lead Aprons - Full body
+and Skirt type
+
+2 no each (0.5pb) *
+
+Thyroid shields
+supplied
+
+Yes *
+
+Gonadsheet Male
+supplied
+
+Yes *
+
+Gonad sheet Female
+supplied
+
+Yes *
+
+Extractable
+measurable tape
+should be available
+
+Yes Yes, No
+
+Motorized movement
+for complete
+machine
+
+No Yes, No
+
+Castor wheel Yes Yes
+
+Unit should have
+effective breaking
+system for parking
+
+Yes *
+
+Power Requirements 230 V 50 HZ Single
+phase -16 Ampls socket
+
+*
+
+Machine should run
+on mains as well as
+battery supply
+
+No Yes, No
+
+No of exposures
+which can be run on
+battery
+
+NO 10 or more, 25 or
+more, 50 or more, NO
+
+Battery should be
+able to provide
+power to the motor
+to move machine
+
+No Yes, No
+
+Battery charging time
+in hours
+
+6 *
+
+Miscellaneous Number of up to 3 No installation, up to 3,
+
+                             6 / 10
+
+
+
+ 
+
+Parameters installations of the
+portable digital
+radiography
+machines in Central
+/State/PSU Govt
+Hospitals( Note:
+Seller should supply
+a performace
+certificate of the
+device to the buyer
+if demanded after
+placement of order)
+
+more than 3
+
+Comprehensive
+warranty in years
+
+5 5
+
+OEM/Reseller ( if
+supplied to reseller
+shall ensure
+uninterputed availabilty
+of all spares for 10
+years)
+
+Yes *
+
+Availability of toll free
+facility for technical
+support maintened by
+OEM or authorized
+agencies
+
+Yes *
+
+User/Technical/Mainten
+ance manuals to be
+supplied in English in
+hard and soft copy
+
+Yes *
+
+Demonstration of
+equipment and training
+to be provided after
+completing supplies
+before acceptance
+
+Yes *
+
+Copies of reports and
+certifications to be
+furnished to buyer on
+demand at time of
+supplies
+
+Yes *
+
+QA, QC and other tests
+as per NABH shall be
+carried out by OEM or
+authorized agency of
+OEM
+
+Yes *
+
+Copies of all calibration
+and test reports to be
+submitted at the time
+of Supply of Machine
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+                             7 / 10
+
+
+
+ 
+
+Additional Specification Documents
+
+ Consignee/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 DEBAJIT DEB 700104,ESIC HOSPITAL
+JOKA, DIAMOND HARBOUR
+ROAD
+
+1  30 N/A
+
+Special terms and conditions for category Mobile Digital Radiography Systems 
+
+1.Comprehensive warrantyComprehensive warranty shall include preventive maintenance
+including calibration as per technical/ service /operational manual of the manufacturer,
+service charges and spares,. During the warranty period commencing from date of the
+successful completion of warranty period, Service personnel shall visit each consignee site
+as recommended in the manufacturer’s technical/ service /operational manual, at least once
+in six months. warranty shall not be including the consumables .Further there will be 98%
+uptime warranty during warranty period on 24 (hrs) X 7 (days) X 365 (days) basis, with
+penalty, to extend warranty period by double the downtime period.Service centresDetails of
+Service outlets in India to render services for equipment to be furnished to buyer/consignees
+with complete address ,telephone numbers, e mails etc at time of making the supplies .It
+shall be the responsibility of seller to ensure that authorized service centres are available to
+cater to the areas where supplies are made within reasonable distance from where the
+service calls can be handled .Details of toll free numbers for service call and online
+registration of service requests also to be provided buyer/consignee at the time of
+supplies.Source of supplyIt shall be responsibility of seller to provide Documents regarding
+source of equipments such as copy of Performa invoice or any other documents to establish
+that the products supplied are manufactured by OEM indicated and sourced from
+them.Packing and MarkingMedical equipments being very delicate and sensitive packing for
+the goods should be strong and durable enough to withstand transit including transhipment
+(if any), rough handling, open storage etc. without any damage, deterioration etc. .The size,
+weights and volumes of the packing cases, remoteness of the final destination of the goods,
+availability or otherwise of transport and handling facilities at all points during transit up to
+final destination,. Quality of packing, the manner of marking within & outside the packages
+and provision of accompanying documentation shall take in to consideration the type of
+medical equipments being supplied. The accessories shall be suitably labelled and packed
+.Each of the package shall be marked on three sides with indelible paint of proper quality:
+indicating contract number and date , brief description of goods including quantity ,. Packing
+list reference number , country of origin of goods and any other relevant details.Spare
+PartsSeller shall provide materials, information etc. pertaining to spare parts manufactured
+and supplied by the OEM . It shall be ensured that the required spares are available for
+purchase at least for 10 years from date of supplies .In case due to any reasons the
+production of the spare parts is discontinued sufficient advance notice should be given to
+the buyer/consignee before such discontinuation to provide adequate time to purchase the
+required spare parts etc. Further, OEM and their service centres/dealers shall carry sufficient
+inventories to assure ex-stock supply of consumables and spares for the equipments so that
+the same are available.OEM or reseller shall always accord most favoured client status to
+the buyer/consignee and shall give the most competitive price for spares and consumables
+of its machines/equipments supplied.Installation, Training, ManualsSeller shall be
+responsible to carry out Installation & commissioning, Supervision and Demonstration of the
+goods. They shall provide required jigs and tools for assembly, minor civil works for the
+completion of the installation and Training of Consignee’s representatives for operating and
+maintaining the equipment and Supplying required number of operation & maintenance
+
+                             8 / 10
+
+
+
+ 
+
+manual for the goods. In case the category parameters are specifying any requirements
+regarding the installations , training and manuals the same shall also be applicable.
+Electrical safety checkingSellers are required to make sure that they furnish the list of
+equipments for carrying out routine and preventive maintenance to buyer/consignee. They
+should make sure to periodically check the electrical safety aspects as per BIS Safety
+Standards or equivalent .In case they do not have required equipment for such testing
+should ensure that the equipments checked for electrical safety compliance through labs
+with facilities for such checking during every preventive maintenance call. Software All
+software updates should be provided free of cost during warranty period.
+
+Bid Specific Additional Terms and Conditions
+
+1.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+2.Nominated Inspection Agency: On behalf of the Buyer organization, any one of the
+following Inspection Agency would be conducting inspection of stores before acceptance:
+Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause
+has been selected in ATC): WiFi connectivity
+Post Receipt Inspection at consignee site before acceptance of stores: Wifi connectivity,
+image resolution and criteria in specification
+
+3.Bid reserved for Make In India products: Procurement under this bid is reserved for purchase
+from local supplier as defined in public procurement (Preference to Make in India), Order
+2017 as amended from time to time and its subsequent Orders/Notifications issued by
+concerned Nodal Ministry for specific Goods/Products. The minimum local content to qualify
+as a local supplier, should be as per relevant notification / order issued by the nodal ministry
+as available on the website of Department of Promotion of Industries and Internal Trade
+(DPIIT). All bidders must upload a certificate from the OEM regarding the percentage of the
+local content and the details of locations at which the local value addition is made along with
+their bid, failing which the bid is liable to be rejected. In case the bid value is more than Rs
+10 Crore, the declaration relating to percentage of local content shall be certified by the
+statutory auditor or cost auditor, if the OEM is a company and by a practicing cost
+accountant or a chartered accountant for OEMs other than companies as per the Public
+Procurement (preference to Make-in -India) order 2017 dated 29.5.2019. In case Buyer has
+selected Purchase preference to Micro and Small Enterprises clause in the bid, the same will
+get precedence over this clause.
+
+4.Bidders can also submit the EMD with Account Payee Demand Draft in favour of ESI Fund
+Account No. 1 payable at State Bank of India at Kolkata.
+Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure
+delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date.
+
+5.Bidders can also submit the EMD with Banker’s Cheque in favour of ESI Fund Account No. 1
+payable at State Bank of India at Kolkata.
+Bidder has to upload scanned copy / proof of the BC along with bid and has to ensure
+delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date.
+
+6.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+7.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+8.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+9.Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have
+regularly, manufactured and supplied same or similar Category Products to any Central /
+
+                             9 / 10
+
+
+
+ 
+
+State Govt Organization / PSU / Public Listed Company for 3 years before the bid opening
+date. Copies of relevant contracts to be submitted along with bid in support of having
+supplied some quantity during each of the year. In case of bunch bids, the primary product
+having highest value should meet this criterion.
+
+10. ISO 9001: The bidder must have ISO 9001 certification.
+11.Preference to Make In India products: Preference shall be given to local supplier as defined in
+
+public procurement (Preference to Make in India), Order 2017 as amended from time to time
+and its subsequent Orders/Notifications issued by concerned Nodal Ministry for specific
+Goods/Products. The minimum local content to qualify as a local supplier, should be as per
+relevant notification / order issued by the nodal ministry as available on the website of
+Department of Promotion of Industries and Internal Trade (DPIIT). If the bidder wants to avail
+the Purchase preference, the bidder must upload a certificate from the OEM regarding the
+percentage of the local content and the details of locations at which the local value addition
+is made along with their bid, failing which no purchase preference shall be granted. In case
+the bid value is more than Rs 10 Crore, the declaration relating to percentage of local
+content shall be certified by the statutory auditor or cost auditor, if the OEM is a company
+and by a practicing cost accountant or a chartered accountant for OEMs other than
+companies as per the Public Procurement (preference to Make-in -India) order 2017 dated
+29.5.2019.
+
+12.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+13.Successful Bidder can submit the Performance Security in the form of Account Payee
+Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in
+favour of ESI Fund Account No. 1 payable at State Bank Of India at Kolkata. After award of
+contract, Successful Bidder can upload scanned copy of the DD in place of PBG and has to
+ensure delivery of hard copy to the original DD to the Buyer within 15 days of award of
+contract.
+
+14.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 3 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+This RA is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                            10 / 10
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

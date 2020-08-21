@@ -1,0 +1,848 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/711374
+
+  Dated: 15-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 25-07-2020 14:00:00
+
+Bid Opening Date/Time 25-07-2020 14:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Uttar Pradesh
+
+Department Name Medical Health And Family Welfare Department Uttar
+Pradesh
+
+Organisation Name N/a
+
+Office Name Cmo Office Deoria
+
+Total Quantity 3
+
+Item Category AUTOMATED HEMATOLOGY ANALYSER ( 3 PART )
+
+Bidder Turnover (Last 3 Years)  8 Lakh (s)
+
+Experience Criteria  1 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  50 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+
+                               1 / 9
+
+
+
+ 
+
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 50% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+AUTOMATED HEMATOLOGY ANALYSER ( 3 PART ) ( 3 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Certifications for the
+product
+
+- *
+
+Certification number
+and date
+
+- *
+
+Confirmity to quality
+management standards
+
+ISO 9001 & ISO 13485 *
+
+Confirmity to electrical
+safety standards
+
+IEC 61010-1,IEC
+61010-2-081,IEC
+61010-2-101 or BIS
+equivalent
+
+*
+
+Performance
+Parameters
+
+UMDNS Name and
+Code
+
+"Analyzers, Laboratory,
+Hematology, Cell
+Counting, Automated
+[17-741],Hematological
+cell analyser Analyzers,
+Laboratory,
+Hematology, Cell
+Counting,
+Semiautomated
+[17-742] Analyzers,
+Point-of-Care, Whole
+
+*
+
+                               2 / 9
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/vDYtILm29c9iTlOGlDQwZ9dPXSA2k9bU1HzYwURZQ-w
+
+
+ 
+
+Blood, Hematology
+[18-513] Computer
+Aided Detection
+Systems, Pathology
+Slide, Blood Cell
+Classification [24-248]"
+
+Clinical Purpose Hematology Analyzers
+are used to count and
+characterize blood cells
+for disease detection
+and monitoring. Basic
+analyzers return a
+complete blood
+count(CBC) with a
+three-part differential
+white blood cell(WBC)
+count.
+
+*
+
+Type of Configuration Bench top *
+
+Type of system
+offered
+
+Open system Open system
+
+Type of Automation Fully Automatic *
+
+Automatic Start
+Up,shut down and
+sample analysis
+
+Yes *
+
+Analysis principle Based on principle of
+counting and sizing
+
+*
+
+Multi channel analysis
+for better resolution
+
+Yes *
+
+Type of cell counting 3 part WBC differential *
+
+Testing mode selection
+available
+
+CBC Mode *
+
+Analysis available WBC,Lymph#,Lymph%,
+Granulocytes
+#,Granulocytes%Mixed
+#, Mixed %,,RBC,HGB,
+HCT,MCV,PCV,MCH,MC
+HC,RDW-SD,RDW-CV,PL
+T,MPV,PDW-SD,PDW-
+CV,PCT,PLCR ,P-LCC
+
+*
+
+Should have three
+histograms of
+WBC,RBC,PLT
+
+Yes *
+
+MID% analysis Yes Yes
+
+MtD# analysis Yes Yes
+
+Gran% analysis Yes Yes
+
+Gran# analysis Yes Yes
+
+Analysis method for
+WBC
+
+electrical Impedance electrical Impedance
+
+                               3 / 9
+
+
+
+ 
+
+Method for platelet
+measurement
+
+electrical Impedance electrical Impedance
+
+RBC Measurement
+method
+
+electrical Impedance electrical Impedance
+
+Hb measurement Cyanide free
+Colorimetry
+
+Cyanide free
+Colorimetry
+
+Types of modes of
+running sample
+
+Open
+vial,capillary,Closed,Pre
+dilute
+
+Open vial, capillary,
+Closed, Pre dilute
+
+Maximum sample
+aspiration volume
+needed in any of
+modes
+
+should be less than 50
+µl
+
+should be less than 50
+µl
+
+Minimum sample
+volume required
+
+should be 10 µl or less should be 10 µl or less
+
+Throughput capacity
+of analyser in
+(samples/ hour)
+
+50-60 50-60
+
+Linearity of Platelet " 0 to 300 * 10³ cells/
+micro litres"
+
+*
+
+RBC Linearity 0 to 8 x 10^6 per
+micro litre or more
+
+*
+
+Hemoglobin linearity 0 to 25 gm per litre 0 to 25 gm per litre
+
+WBC linearity " 0 to 3000 * 10³ cells/
+micro litres"
+
+*
+
+Analyses time for
+cytopenic samples
+
+Yes *
+
+Directly measures MCV Yes *
+
+Time taken by the
+analyser to produce the
+test results(Analysis
+time) in seconds
+
+40-60 *
+
+Availability of Auto
+dilution
+
+Yes Yes
+
+Types of reagents 1 hemolyzing reagent,1
+diluent,1 cleansing
+solution
+
+*
+
+Quality assurance
+system with calibration
+and controls
+
+Yes *
+
+Atleast 3 quality control
+programs
+
+Yes *
+
+Type of Calibration both (automatic and
+manual)
+
+both (automatic and
+manual)
+
+Direct aspiration for
+capillary blood from
+finger prick
+
+No No
+
+                               4 / 9
+
+
+
+ 
+
+Floating discriminator
+for platelets and RBC
+counting for reliable
+RBC and PLT data
+
+Yes *
+
+Automatic probe wipe Yes *
+
+Separate diluting
+nozzles for RBC and
+WBC
+
+Yes Yes
+
+Double bathing
+mechanism
+
+Yes Yes
+
+Automatic electric clog
+removal
+
+Yes *
+
+Data Management and
+Display
+
+Type of data
+management
+
+Inbuilt system Inbuilt system
+
+Display LED LED
+
+Inbuilt monitor size
+in inches
+
+More than 5 More than 5
+
+PC Monitor size in
+inches (When PC
+provided externally)
+
+NA (if Inbuilt system) NA (if Inbuilt system)
+
+PC hard disk NA NA
+
+RAM capacity of PC
+System
+
+NA (if no PC provided) NA (if no PC provided)
+
+Processor i5 or more *
+
+HIS/LIS Interface RS232 RS232
+
+Type of external
+storage
+
+USB USB
+
+No of USB Port 4 4
+
+Data management
+systems
+
+Provide histograms in
+display and print
+
+Provide histograms in
+display and print
+
+Facility for user defined
+flagging
+
+Yes *
+
+Type of user
+Interface or data
+entry
+
+all three (touchscreen,
+handheld barcode
+reader facility and
+manual)
+
+all three (touchscreen,
+handheld barcode
+reader facility and
+manual)
+
+"Database capability
+of storing sets of
+results and
+graphics"
+
+>= 50000 >= 50000
+
+Facility for workload
+recording
+
+Yes *
+
+"Auto stop function in
+event of unacceptable
+control data"
+
+Yes *
+
+Ability to transmit Yes *
+
+                               5 / 9
+
+
+
+ 
+
+results to host
+computer
+
+Have auto cleaning
+function in the
+analyser’s software
+
+Yes *
+
+Printer facility Yes Yes
+
+Type of printer unit Inbuilt Inbuilt
+
+Printer type Thermal printer Thermal printer
+
+Power Requirements Type of power supply in
+VAC,Hz
+
+230-240 VAC,50-60 Hz *
+
+Power Backup facility Yes *
+
+Type of UPS Online Online
+
+Rating of UPS in KVA 1 KVA 1 KVA
+
+Back up time in
+minutes
+
+60 min 60 min
+
+Accessories, spare
+parts and consumables
+
+"Offered equipment
+unit to be supplied
+with sufficient
+consumables (with
+at least 2/3rd of
+total shelf life)
+required for,
+sufficient to carry
+out haematological
+testing of samples"
+
+1000 1000
+
+Two set of all tubings Yes *
+
+Reagent expiry time
+should be minimum of
+1 year
+
+Yes *
+
+Alerts for operator for
+level of reagents and to
+empty waste when
+indicated
+
+Yes *
+
+Availability of micro
+capillary adapter
+
+Yes *
+
+Operating temperature
+and humidity
+
+Capable of operating
+continuously in
+ambient temperature
+of 15 to 35 deg C and
+relative humidity of 15
+to 85% in ideal
+circumstances
+
+*
+
+Miscellaneous
+Parameters
+
+Warranty in years 3 3
+
+Number of
+installations in
+Central /State/PSU
+Govt Hospitals (
+Hint: Seller should
+
+More than 3 More than 3
+
+                               6 / 9
+
+
+
+ 
+
+supply a performace
+certificate of the
+device to the buyer
+incase demaneded
+after placement of
+order)
+
+OEM/Reseller ( if
+supplied by reseller
+shall ensure
+uninterputed availabilty
+of all spares for 10
+years)
+
+Yes *
+
+Availability of toll
+free facility for
+technical support
+maintened by OEM
+or authorized
+agencies
+
+Yes Yes
+
+During the warranty
+period it shall be
+ensured that all the
+break down calls are
+attended with in 48 hrs
+and the complete
+details of service
+agents / contact details
+should be furnished to
+buyer and consignee at
+time of supplies
+
+Yes *
+
+User/Technical/Mainten
+ance manuals to be
+supplied in English in
+hard and soft copy
+
+Yes *
+
+Details of equipments
+and procedures
+required for local
+calibration and routine
+maintenance to be
+supplied and advanced
+maintenance task
+documentation also to
+be furnished
+
+Yes *
+
+List of important spares
+and accessories, with
+their part numbers to
+be supplied to the
+buyer at the time of
+supplying the
+equipment
+
+Yes *
+
+Installation and
+demonstration of
+equipment and training
+to be provided after
+completing supplies
+
+Yes *
+
+                               7 / 9
+
+
+
+ 
+
+before acceptance
+
+The Principal
+Manufacturer must
+have direct
+Presence/approved
+service center In India
+
+Yes *
+
+Copies of reports and
+certifications to be
+furnished to buyer on
+demand at time of
+supplies
+
+Yes *
+
+Calibration certificates
+as per NABH
+requirement
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Sanjay Chand 274001,District Hospital
+Road Deoria
+
+3  15
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+2.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents
+sought in the Bid document, ATC and Corrigendum if any.
+
+3. ISO 9001: The bidder must have ISO 9001 certification.
+4.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+5.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+6.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+
+                               8 / 9
+
+
+
+ 
+
+Dedicated/toll Free Telephone No. for Service Support.
+7.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+
+Telephone Numbers for Service Support.
+8.Bidder / OEM has to give an undertaking that after expiry of warranty period, it will provide
+
+AMC Service for next 3 years for the offered products at the rate not more than 5 % of
+contract price per annum. Buyer reserves the right to enter into an AMC agreement (
+covering preventive maintenance and servicing)with the Successful Bidder / OEM after
+expiry of the Warranty period at rate as mentioned above and the payment for the AMC
+charges would be made Annually after rendering of the AMC Services of the relevant AMC
+period. Performance Security of the successful bidder shall be forfeited if it fails to accept
+the AMC contract when called upon by the buyer. The original Performance Security of
+contract will be returned only after submission and verification of AMC Performance Security
+for 5% of total AMC value valid up to AMC period plus 2 months (if there is no other claim).
+(Undertaking of acceptance to be uploaded with bid).
+
+9.Bidder / OEM has to give an undertaking that after expiry of warranty period, it will provide
+Comprehensive Maintenance Service for next 3 years for the offered products at the rate not
+more than 5 % of contract price per annum. Buyer reserves the right to enter into a CMC
+agreement with the Successful Bidder / OEM after expiry of the Warranty period at above
+mentioned rate and the payment for the CMC charges would be made Annually after
+rendering of the CMC Services of the relevant CMC period. Performance Security of the
+successful bidder shall be forfeited if it fails to accept the CMC contract when called upon by
+the buyer. CMC would include cost of NA (Upload the undertaking). The original Performance
+Security of contract will be returned only after submission and verification of AMC
+Performance Security for 5% of total CMC value valid up to CMC period plus 2 months (if
+there is no other claim).
+
+10.Over and above the normal Warranty terms as per GeM GTC, the successful bidder / OEM
+shall have to provide Comprehensive Warranty during the entire Standard warranty period
+as per contract. : The comprehensive warranty shall be covering the following scope 
+Replacement (Upload an undertaking with the bid confirming compliance by the bidder if
+Bidder is taking onus of this compliance. In case OEM is taking onus of this compliance, OEM
+undertaking is to be uploaded along with Bidder undertaking)
+
+11.Successful bidder will have to ensure that adequate number of dedicated technical service
+personals / engineers are designated / deployed for attending to the Service Request in a
+time bound manner and for ensuring Timely Servicing / rectification of defects during
+warranty period, as per Service level agreement indicated in the relevant clause of the bid.
+
+12.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 5 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               9 / 9
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,436 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/700235
+
+  Dated: 07-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 28-07-2020 12:00:00
+
+Bid Opening Date/Time 28-07-2020 12:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Border Road Organisation
+
+Office Name ***********
+
+Total Quantity 5
+
+Item Category battery chargers
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Battery Chargers ( 5 pieces )
+
+Technical Specifications
+
+                               1 / 5
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Ungrouped
+
+GENERIC Charger technology SMPS Based Transformer Based,
+SMPS Based
+
+Compatibility with
+battery type (User
+Selectable)
+
+Lead acid &amp;
+Tubular &amp;VRLA-
+SMF
+
+Lead acid &amp;
+Tubular &amp;VRLA-
+SMF, Tubular &amp;
+Lead acid
+
+Number of
+Independent
+charging stations (in
+numbers)
+
+5 3, 5
+
+CONSTRUCTIONAL Input Voltage Range
+(VAC)
+
+160 volt 270 volt (ISI
+MARKED POWER CORD
+TO BE PROVIDED)
+
+*
+
+AC surge protection AC surge protection at
+Input side with MOV
+(Metal Oxide Varistor)
+
+*
+
+Soft start and Soft stop
+feature without inrush
+current
+
+Yes *
+
+Facility for charging
+deep discharged
+battery through pulse
+charging.
+
+yes *
+
+Not to charge battery
+in case one or more
+cells are internally
+short/ Battery voltage
+less than 10.5V
+
+Yes *
+
+Digital display of
+output voltage and
+current
+
+Yes *
+
+LED Indication for
+Charging Status,
+Charged condition
+status and reverse
+polarity
+
+Yes *
+
+Cabinet Material CRCA Sheet *
+
+Cabinet Thickness
+(mm)
+
+minimum 1.2 mm *
+
+Length of Charging
+Cable for each station.
+(metre)
+
+Minimum 1.5 mtrs.
+Length (ISI MARKED
+Cable)
+
+*
+
+Size of Charging Cable
+for each station. (sq.
+
+min. 6 sq.mm as per
+IS:694 ISI MARKED
+
+*
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/24RlZHseett0s-dVXew0yTt0D3EgXhFM3NdI1InMo6A
+
+
+ 
+
+mm) FLEXIBLE Cu cable per
+station
+
+FUNCTIONAL Battery/battery bank
+Voltage (Volts)
+
+12 Volts per station *
+
+Capacity of the battery
+to be charged(User
+Selectable) (AH)
+
+7 aH TO 120 aH *
+
+Maximum Charger
+output current (Amp)
+
+12 Ampere per station *
+
+Charging Cut-off
+Voltage per 12V
+battery (Volts)
+
+14.5 volt +/-0.2 volt *
+
+Efficiency (%) > / = 75% *
+
+Ripple (Peak to Peak at
+Full Load) (millivolts)
+
+<100 *
+
+Reverse Polarity
+Protection
+
+Yes *
+
+Short Circuit Protection Yes *
+
+Over Current Protection Yes *
+
+Over voltage cutoff
+protection
+
+Over voltage protection
+at 280 volt at input and
+automatic recovery at
+270 volt when the
+voltage is reduced from
+280 volt
+
+*
+
+Cut-in voltage for
+charging a discharged
+battery (Volts)
+
+Cut-in voltage shall be
+10.5 Volt
+
+*
+
+Cut-off voltage for
+charging a discharged
+battery (Volts)
+
+Cut-off voltage shall be
+14.5 V + / - 0.2 Volt
+
+*
+
+Minimum operating
+temperature (Degree
+Celsius)
+
+-10 *
+
+Maximum operating
+temperature (Degree
+Celsius)
+
++55 *
+
+CERTIFICATIONS Availability of Type
+Test Report from
+Central Government
+/NABL/ILAC Accredited
+lab To prove conformity
+to the specification
+
+Yes *
+
+Type Test report No. - *
+
+Test report date - *
+
+Name of Lab - *
+
+Address of Lab - *
+
+                               3 / 5
+
+
+
+ 
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********DEHRADUN 5  40
+
+Bid Specific Additional Terms and Conditions
+
+1.End User Certificate: Wherever Bidders are insisting for End User Certificate from the
+Buyer, same shall be provided in Buyer’s standard format only.
+
+2. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+3.SLBR52
+4.Pre-dispatch inspection at Seller premises (Fee/Charges to be borne by the BUYER): Before
+
+dispatch, the goods will be inspected by Buyer / Consignee or their Authorized
+Representative or by Nominated External Inspection Agency (independently or jointly with
+Buyer or Consignee as decided by the Buyer) at Seller premises (or at designated place for
+inspection as declared / communicated by the seller) for their compliance to the contract
+specifications. Fee/Charges taken by the External inspection Agency and any external
+laboratories testing charges shall be borne by the Buyer. For in-house testing, the Sellers will
+provide necessary facilities free of cost. Seller shall notify the Buyer through e-mail about
+readiness of goods for pre-dispatch inspection and Buyer will notify the Seller about the
+Authorized Representative/ Nominated External Inspection Agency and the date for testing.
+The goods would be dispatched to consignee only after clearance in pre-dispatch inspection.
+Consignee's right of rejection as per GTC in respect of the goods finally received at his
+location shall in no way be limited or waived by reason of the goods having previously been
+inspected, tested and passed by Buyer/ Consignee or its Nominated External Inspection
+Agency prior to the goods' shipment. While bidding, the sellers should take into account 7
+days for inspection from the date of email offering the goods for inspection. Any delay in
+inspection beyond 7 days shall be on the part of the buyer and shall be regularised without
+Liquidated Damages.
+
+5.Bid reserved for Make In India products: Procurement under this bid is reserved for purchase
+from Class 1 local suppliers as defined in public procurement (Preference to Make in India),
+Order 2017 as amended from time to time and its subsequent Orders/Notifications issued by
+concerned Nodal Ministry for specific Goods/Products. The minimum local content to qualify
+as a class 1 local supplier is denoted in the bid document 50%. All bidders must upload a
+certificate from the OEM regarding the percentage of the local content and the details of
+locations at which the local value addition is made along with their bid, failing which the bid
+is liable to be rejected. In case the bid value is more than Rs 10 Crore, the declaration
+relating to percentage of local content shall be certified by the statutory auditor or cost
+auditor, if the OEM is a company and by a practicing cost accountant or a chartered
+accountant for OEMs other than companies as per the Public Procurement (preference to
+Make-in -India) order 2017 dated 04.06.2020 . In case Buyer has selected Purchase
+preference to Micro and Small Enterprises clause in the bid, the same will get precedence
+
+                               4 / 5
+
+
+
+ 
+
+over this clause.
+6.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents
+
+sought in the Bid document, ATC and Corrigendum if any.
+7.Material Test Certificate Should Be Sent Along with The Supply. The Material Will Be Checked
+
+by Buyer’s Lab & the Results of the Lab will be the Sole Criteria for Acceptance of the Item.
+8.The bidder is required to upload, along with the bid, all relevant certificates such as BIS
+
+licence, type test certificate, approval certificates and other certificates as prescribed in the
+Product Specification given in the bid document.
+
+9.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+10.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+11.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+12.Successful bidder will have to ensure that adequate number of dedicated technical service
+personals / engineers are designated / deployed for attending to the Service Request in a
+time bound manner and for ensuring Timely Servicing / rectification of defects during
+warranty period, as per Service level agreement indicated in the relevant clause of the bid.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

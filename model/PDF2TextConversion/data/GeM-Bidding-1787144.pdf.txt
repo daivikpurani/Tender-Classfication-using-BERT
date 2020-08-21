@@ -1,0 +1,486 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/710974
+
+  Dated: 15-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 13:00:00
+
+Bid Opening Date/Time 27-07-2020 13:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 15 (Days)
+
+Ministry/State Name Andaman & Nicobar
+
+Department Name Rural Development & Panchayat Department
+Andaman
+
+Organisation Name N/a
+
+Office Name Port Blair Municipal Council
+
+Total Quantity 2
+
+Item Category designing software
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 0.50
+
+EMD Amount 2650
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 2.00
+
+Duration of ePBG required (Months). 12
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+                               1 / 5
+
+
+
+ 
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+Lower Grade Clerk
+Port Blair Municipal Council HQ, Indira Bhawan, Opp. STS Bus Terminus, Mohanpura, Port Blair,
+South Andaman, A & N Islands PIN - 744101
+(Beena Biswas)
+
+Splitting
+
+  Bid splitting not applied.  
+
+Designing Software ( 2 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+BASIC INFORMATION
+OF DESIGNING
+SOFTWARE(GOLDEN)
+
+Software Domain /
+Type
+
+Architectural,electrical,
+mechanical,Subscriptio
+n
+
+Architectural, electrical,
+mechanical,
+Subscription
+
+Name of Software - *
+
+Name of the OEM - *
+
+OEM Model / Part
+No/Product Id of OEM
+
+- *
+
+Software
+Version/Version Name
+
+- *
+
+Date of Launch of
+Version
+
+- *
+
+FEATURES AND
+FUNCTIONALITY
+PARAMETERS(GOLDEN)
+
+Advance surfacing Yes Yes
+
+Composite Material
+Design
+
+Yes Yes
+
+Conceptual design Yes Yes
+
+Direct Modeling Yes Yes
+
+Electrical cable and
+Conduit design
+
+Yes Yes
+
+Mesh CAD Models Yes Yes
+
+Mold design No No
+
+Parametric Modeling Yes Yes
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/CdEOla6V9yyzdA6vXL04oGgLFa2YJuJcJTMLQBYLd1Q
+
+
+ 
+
+Plastic Parts Design No No
+
+Weldments No No
+
+2D System Analysis Yes Yes
+
+Circuit Simulation No No
+
+Fluid Flow
+Simulation
+
+No No
+
+Human Simulation No No
+
+Motion Simulation No No
+
+Stress Analysis No No
+
+Structural Validation No No
+
+Sustainability
+Analysis
+
+No No
+
+If yes, Other
+Simulation/ Analysis
+Features
+
+- *
+
+Photorealistic
+Images
+
+Yes Yes
+
+Walk-Through
+Animation
+
+Yes Yes
+
+If yes, Other Animation
+/Rendering Features
+
+- *
+
+Compare Costs No No
+
+Output Cost Report No No
+
+Automatic Cost
+Estimation
+
+No No
+
+No. of days Training
+Provided at Site
+
+0 0
+
+Number of Years
+upto which Support
+is available from
+OEM / Franchise
+online (Years)
+
+3 3, 5, 10 Or higher
+
+FEATURES AND
+FUNCTIONALITY
+PARAMETERS(GENERIC)
+
+2D Drawing Yes *
+
+3D Modeling Yes *
+
+Fastening Systems Yes *
+
+Large Assembly Design Yes *
+
+Piping Tubing Design Yes *
+
+Sheet Metal Design Yes *
+
+Collision and
+Interference Check
+
+No *
+
+Assembly Animation Yes *
+
+Rendering Yes *
+
+                               3 / 5
+
+
+
+ 
+
+Bill of Materials Yes *
+
+If yes, Other Cost
+Estimation Features
+
+- *
+
+Annotations Yes *
+
+Dimensions Yes *
+
+Tolerance Yes *
+
+Wireframes Yes *
+
+Other Documentation
+Features
+
+- *
+
+SUPPORTED
+HARDWARE
+REQUIREMENT
+PARAMETERS
+
+Hard Disk Space
+Required
+
+- *
+
+RAM Size required - *
+
+CPU required - *
+
+Operating Systems
+supported (Driver)
+
+- *
+
+Supported Devices - *
+
+Supported Database - *
+
+GENERIC PARAMETERS
+OF DESIGNING
+SOFTWARE
+
+Free Upgradation to
+Higher Version
+
+YES *
+
+Maximum user
+handling capability
+
+- *
+
+Concurrent user
+handling capability
+
+- *
+
+Valid Licence copy to
+be provided
+
+YES *
+
+Mode of License to be
+delivered
+
+Electronic *
+
+Software supplied
+through
+
+URL Link *
+
+Installation and
+Demonstration
+
+Yes *
+
+List of items included in
+the package
+
+- *
+
+Hyper link to Data
+sheet
+
+- *
+
+No of Softwares sold 10000 *
+
+Number of User
+Referance no. 1 with in
+Government
+Department email,
+phone no.Of concerned
+authority where
+Software/Appliance
+installed
+
+3 *
+
+                               4 / 5
+
+
+
+ 
+
+Details of Government
+Department email,
+phone no.Of concerned
+authority where
+Software /Appliance
+installed for above.
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Beena Biswas 744101,SECRETARY, PORT
+BLAIR MUNICIPAL COUNCIL,
+INDIRA BHAWAN,
+MOHANPURA
+
+2  15
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+
+Dedicated/toll Free Telephone No. for Service Support.
+3.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+
+Telephone Numbers for Service Support.
+4.OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be
+
+ordered up to 25 percent at the time of placement of contract. The purchaser also reserves
+the right to increase the ordered quantity by up to 25% of the contracted quantity during the
+currency of the contract at the contracted rates. Bidders are bound to accept the orders
+accordingly.
+
+5.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 15 days time limit. If the Seller fails to complete
+service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product
+shall be charged as penalty for each week of delay from the seller. Seller can deposit the
+penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty
+amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than
+10% of the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

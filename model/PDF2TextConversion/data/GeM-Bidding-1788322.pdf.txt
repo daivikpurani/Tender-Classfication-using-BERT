@@ -1,0 +1,452 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/712036
+
+  Dated: 15-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 25-07-2020 18:00:00
+
+Bid Opening Date/Time 25-07-2020 18:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 50 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Army
+
+Office Name ***********
+
+Total Quantity 6
+
+Item Category Body Worn Camera System
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Body Worn Camera System ( 6 pieces )
+
+Technical Specifications
+
+                               1 / 5
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC Components in the
+System
+
+Body Worn Camera
+System (BWCS) consist
+of a single device
+comprising a Camera,
+Rechargeable battery
+and Recording unit
+
+*
+
+Function To capture clear, high
+definition video, audio
+and still photographs
+from the perspective of
+the officer wearing the
+BWCS (Point of View)
+
+*
+
+Camera mounting Comfortable to wear on
+the body. Mounted /
+installed on the
+Shoulder or shirt front
+or shirt pocket etc with
+ambidextrous design
+mounting clip /
+attachment to keep the
+camera stable.
+
+*
+
+Video type Colour Video *
+
+CAMERA Camera Image
+Sensing capacity
+(Picture Mode)
+(Mega Pixels)
+
+10 MP 10 MP
+
+Recording resolution 1920 x 1080 Pixel 1920 x 1080 Pixel
+
+Field of view of Lens
+(Wide Angle)
+
+120 to 139 Degrees 120 to 139 Degrees
+
+Camera Sensor /
+imager
+
+CMOS *
+
+Camera Lens Auto focusing Lens *
+
+Recording Speed
+(Minimum)
+
+30 fps *
+
+Day and Night Camera
+with Night vision
+infrared LED light
+
+Yes *
+
+Minimum distance of IR
+illumination in
+complete darkness
+
+10 *
+
+Display Screen With *
+
+Screen size / type 2"/ LCD Colur Display *
+
+Flash Auto Trigger *
+
+Capable to take
+photographs while
+
+Yes *
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/fx22coAS0kmZy3n8AFED6DCvYZJYJEKd1Vf17RFzRF4
+
+
+ 
+
+video recording
+
+Date and Time
+Stamping onto videos /
+photographs
+
+Yes *
+
+GPS coordinates
+Stamping onto Videos /
+photographs
+
+Yes *
+
+Pre-event Recording
+time (Prior to press of
+recording button)
+
+30 Seconds *
+
+In-built Wifi Yes *
+
+Connectivity interface WiFi 802.11 b/g/n,3 G,4
+G - LTE,USB
+
+*
+
+Supported Picture or
+image format
+
+JPEG *
+
+Video output format MP4,H.264 *
+
+Supported Video
+Compression format
+
+MPEG-4 / H.264,H.265 *
+
+Supported Audio
+Compression format
+
+MP3 *
+
+Video compression
+frame rate
+
+Upto 30 fps *
+
+Overall Dimensions
+(WxDxH) (mm x mm x
+mm)
+
+- *
+
+Overall Weight
+(including battery and
+carrying case)
+
+- *
+
+Details of attachments
+for mounting, (such as
+Pocket mount, Molle
+mount, Chest mount,
+Shoulder mount)
+inclusive in the supply
+
+- *
+
+List of items included in
+the supply package
+
+- *
+
+Security features User not permitted to
+delete / edit / overwrite
+of videos / photographs
+
+*
+
+Configuration and
+Video Management
+(inclusive in the scope
+of supply)
+
+Management software
+allows the
+administrator to back-
+up and transfer data
+from one or multiple
+devices and also allow
+query on the basis of
+device, user, time,
+filename etc. All
+configurations
+
+*
+
+                               3 / 5
+
+
+
+ 
+
+including adjustment of
+real time clock, delete /
+overwrite of videos /
+photographs is possible
+only through the
+management software
+controlled by the
+administrator
+
+STORAGE Storage type eMMC *
+
+Storage capacity 32GB 32GB
+
+Memory card
+Expandable upto
+
+32GB *
+
+Data transfer USB 2.0 *
+
+BATTERY Source of Power Powered by
+rechargeable cells
+
+*
+
+Battery Inclusive in the supply *
+
+Chemistry of
+rechargeable Battery
+
+Li-ion *
+
+Battery capacity 3200 mAh 3200 mAh
+
+Active Battery Back-up
+in continuous video
+mode
+
+8 *
+
+Battery recharge time
+from empty to full
+capacity
+
+4 *
+
+Separate Battery
+charger (Inclusive in
+the scope of supply)
+
+Yes *
+
+ENVIRONMENTAL Protection against
+Dust, Water
+
+IP 67 *
+
+Operating Temperature
+(minimum)
+
+-20 *
+
+Operating Temperature
+(maximum)
+
+55 *
+
+Operating Humidity -
+Non condensing
+(RH)(%)
+
+90 *
+
+WARRANTY On-site Warranty 3 3.0
+
+CERTIFICATION Availability of Test
+Report from NABL/ ILAC
+accredited or Central
+Govt Lab to prove
+conformity of products
+to the specification
+
+No *
+
+Test Report Number &
+Date
+
+- *
+
+Name & address of the - *
+
+                               4 / 5
+
+
+
+ 
+
+Lab
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********KOLKATA 6  90
+
+Bid Specific Additional Terms and Conditions
+
+1.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+2.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+3.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

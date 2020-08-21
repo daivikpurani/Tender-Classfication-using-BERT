@@ -1,0 +1,599 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/708657
+
+  Dated: 14-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 24-07-2020 12:00:00
+
+Bid Opening Date/Time 24-07-2020 12:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Haryana
+
+Department Name Police Department Haryana
+
+Organisation Name Haryana Police Housing Corporation Panchkula
+
+Office Name Hphc Panchkula
+
+Total Quantity 1
+
+Item Category Potable water purification system Reverse Osmosis or
+UV based ( PAC Only ) 
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Potable Water Purification System Reverse Osmosis Or UV Based ( 1
+pieces ) ( Under PAC ) 
+
+Make livpure
+
+                               1 / 6
+
+
+
+ 
+
+Model livpurei50
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Certification for the
+product
+
+NSF NSF
+
+Certification number
+and date
+
+ETL/25/2018-19/G/1A
+02-04-2018
+
+*
+
+Manufacturers
+Quality System
+Certifications
+
+ISO 9001:2015 ISO 9001:2015
+
+Manufacturers
+Environment
+Management System
+Certifications
+
+NA NA
+
+Manufacturers
+Health and Safety
+Management System
+Certifications
+
+NA NA
+
+Performance
+Parameters
+
+Maximum Input
+Water TDS allowed
+to the system
+
+1000 1000
+
+Type of water
+purification
+technology
+
+RO+UV+UF RO+UV+UF
+
+Aavailability of
+sediment and activated
+carbon filter
+
+Yes *
+
+Operation Fully automatic with
+auto cut off
+
+Fully automatic with
+auto cut off
+
+Ultraviolet (UV)
+LAMP
+
+Yes Yes
+
+Conformity to
+Standard for
+Ultraviolet system
+
+IS 14724 (latest) for
+water purification
+system with Ultraviolet
+disinfection
+
+IS 14724 (latest) for
+water purification
+system with Ultraviolet
+disinfection
+
+"Ultra Voilet (UV) Lamp
+power in watts (Hint
+put zero in case UV is
+not available)"
+
+11 *
+
+Recovery at 27
+degree Centigrade
+
+25-35 25-35
+
+Output Water
+Conforming standard
+
+IS 10500 (latest) *
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/QHGYaezXqv_A8wAbU2qdNPgSkOislDddpJKwJuOadvA
+
+
+ 
+
+Filtration Capacity in
+liter/ hour
+
+50 50
+
+Provision of Arsenic
+removal
+
+No No
+
+Provision of Floride
+removal
+
+No No
+
+Provision of Chloride
+removal
+
+No No
+
+Alkaline filter No No
+
+Storage tank Not available Not available
+
+Type of out put
+water Storage Tank
+
+NA NA
+
+Storage Tank
+Capacity (storage
+tank external for
+higher capacity if
+required to be
+arranged by buyer)
+
+Storage tank to be
+arranged by buyer
+
+Storage tank to be
+arranged by buyer
+
+Minimum inlet
+pressure
+
+0.3 KG/CM2 0.3 KG/CM2
+
+Maximum inlet
+pressure
+
+3.5 KG/CM2 *
+
+Maximum inlet
+temperature
+
+35 DEGREE 35 DEGREE
+
+Digital display No No
+
+Real time TDS
+display
+
+Yes Yes
+
+Real time pH Display No No
+
+High pressure pump No No
+
+Raw water/Chemical
+Raw water/Chemical
+Cleaning PUMP
+
+No No
+
+Micron Filter Yes Yes
+
+Total Dissolved
+Solids Removal
+Percentage from RO
+Membrane
+
+25% 25%
+
+Particulate Filter
+Porosity
+
+5 micron 5 micron
+
+Pressure vessel
+Sand Filter
+
+No No
+
+Pressure vessel
+carbon Filter
+
+No No
+
+Pressure Vessel Dual
+Media Filter
+
+No No
+
+                               3 / 6
+
+
+
+ 
+
+Membrane Housing Yes Yes
+
+Body of filter ABS Food grade ABS Food grade
+
+Auto cut Yes Yes
+
+Number of candles 3 3
+
+Power supply 230 Volt single phase 230 Volt single phase
+
+Installation Type Wall mounted Wall mounted
+
+Miscellaneous
+Parameters
+
+Warranty in years
+including
+replacement of
+filters Sediment &
+carbon twice a year)
+
+1 1
+
+Warranty in years
+free replacement of
+machine
+
+1 1
+
+Antiscalant- where
+silica is up to 10
+ppm/where Mica is
+up to 100 ppm
+
+No No
+
+Availabilty of type
+test Test REPORT for
+Filtering Size of
+micron Particles
+
+Yes Yes
+
+TYPE Test certificate No
+and date for Filtering
+Size of micron Particles
+
+ETL/25/2018-19/G/1A
+02-04-2018
+
+*
+
+Name and Address of
+laboratory which
+conducted Test for
+Filtering Size of micron
+Particles:
+
+Environ Tech
+Laboratories Mohali
+
+*
+
+Availability of type Test
+Report on Microbial
+Efficacy from
+Govt/NABL/ilac Lab
+
+ETL/25/2018-19/G/1A
+02-04-2018
+
+*
+
+Type Test certificate No
+and date for Microbial
+Efficacy
+
+ETL/25/2018-19/G/1A
+02-04-2018
+
+*
+
+Name of the lab Environ Tech
+Laboratories Mohali
+
+*
+
+Availability of test
+report from
+Govt/NABL/ilac Lab
+(Design Evalution
+Report as per
+IS:14724
+
+Yes Yes
+
+Test certificate No and
+date
+
+ETL/25/2018-19/G/1A
+02-04-2018
+
+*
+
+Name and Address of Environ Tech *
+
+                               4 / 6
+
+
+
+ 
+
+laboratory which
+conducted Test
+
+Laboratories Mohali
+
+Availability of test
+report from
+Govt/NABL/ilac Lab
+regarding water quality
+as per IS:10500
+
+Yes *
+
+Type Test certificate No
+and date
+
+ETL/25/2018-19/G/1A
+02-04-2018
+
+*
+
+Name and Address of
+laboratory which
+conducted type Test
+regarding water quality
+
+Environ Tech
+Laboratories Mohali
+
+*
+
+Copies of certifications
+and reports to be given
+to buyer at time of
+supplies
+
+Yes *
+
+User/Technical/Mainten
+ance manuals to be
+supplied in English in
+hard and soft copy
+
+Yes *
+
+Availability of toll
+free centers for
+customer support
+
+Yes Yes
+
+Installation and
+Commissioning
+inclusive in the
+scope of Supply*
+
+Yes Yes
+
+Availability of NABL
+Accredited
+Laboratory Facility
+with OEM
+
+No No
+
+Name and Address of
+NABL Accredited lab
+with OEM , If Not
+available put NA
+
+NA *
+
+Inlet Pipe & Fitting
+from raw water
+scorces to water
+purification system
+
+to be arranged by
+buyer/consignee
+
+to be arranged by
+buyer/consignee
+
+Pipe & Fitting from
+Out let to purified
+water tank
+
+To be arranged by
+buyer /consignee
+
+To be arranged by
+buyer /consignee
+
+Electrical fitting and
+plug points
+
+To be arranged by
+buyer /consignee
+
+*
+
+Scope Civil Work if any
+required during
+installation
+
+All Civil work shall be
+responsibility of buyer
+
+*
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+
+                               5 / 6
+
+
+
+ 
+
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Vinod Rawal 124001,Kothi No. 7, PTC
+Sunaria Rohtak - 124001
+
+1  30
+
+Bid Specific Additional Terms and Conditions
+
+1. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

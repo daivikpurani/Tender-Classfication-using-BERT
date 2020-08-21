@@ -1,0 +1,861 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/702883
+
+  Dated: 08-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 21-07-2020 16:00:00
+
+Bid Opening Date/Time 21-07-2020 16:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 70 (Days)
+
+Ministry/State Name Chhattisgarh
+
+Department Name Home Department Chhattisgarh
+
+Organisation Name Chhattisgarh Police
+
+Office Name Director General Of Police, Police Headquarters
+Chhattisgah Naya Raipur
+
+Total Quantity 18
+
+Item Category Workstation
+
+Bidder Turnover (Last 3 Years)  8 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  16 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  10 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 3.00
+
+EMD Amount 50760
+
+                               1 / 9
+
+
+
+ 
+
+ePBG Detail
+
+Required No
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+AIG OF POLICE (P&P)
+Director General Of Police, Police Headquarters Chhattisgah Naya Raipur, Home Department
+Chhattisgarh, Chhattisgarh Police ,
+(Deepmala Kashyap)
+
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 10% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Workstation ( 18 pieces )
+
+Technical Specifications
+
+                               2 / 9
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Processor Processor Make Intel Intel
+
+Processor
+Generation
+
+9 9, NA, 10 Or higher
+
+Number of Cores per
+Processor
+
+6 6, 8, 10, 12, 14, 16, 18,
+20, 22, 24, 26, 28, 30,
+32 Or higher
+
+Processor Base
+Frequency (GHz)
+
+3 3, 3.1, 3.2, 3.3, 3.4,
+3.5, 3.6, 3.7, 3.8, 3.9,
+4, 4.1, 4.2, 4.3 Or
+higher
+
+Processor Turbo
+Frequency (GHz)
+
+4.4 *
+
+Processor
+Description
+
+Intel Core i5 *
+
+Processor Number Intel Core i5-9500 *
+
+Number of sockets
+available on the
+motherboard
+
+1 *
+
+Number of Sockets
+populated with the
+Processors
+
+1 1, 2 Or higher
+
+Cache (MB) 9 1 - 64
+
+Out of Band
+Management
+
+NA *
+
+Type Form Factor Desktop Mobile - Standard,
+Mobile - Detachable,
+Mobile - Convertible,
+Mobile - Ultra Small
+Form Factor, Desktop,
+Rack - 1U, Rack - 2U
+
+Motherboard Chipset Number Intel C246 *
+
+Expansion Slots (PCIe x
+1) (Number)
+
+0 *
+
+Expansion Slots (PCIe x
+4) (Number)
+
+1 *
+
+Expansion Slots (PCIe x
+8) (Number)
+
+0 *
+
+Expansion Slots (PCIe x
+16) (Number)
+
+1 *
+
+Expansion Slots (PCI)
+(Number)
+
+0 *
+
+Graphics Graphics Type Integrated Integrated
+
+                               3 / 9
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/5_AUBwWfhRYWOZJZ7ycTWUE5REJKrj8HsSq3JNE3xYM
+
+
+ 
+
+Number of Graphic
+Cards
+
+0 0, 1, 2, 3, 4 Or higher
+
+Graphic Card
+Description
+
+NA *
+
+Operating System Operating System
+(Factory Pre-Loaded)
+
+Windows 10
+Professional 64 bit
+
+Windows 10
+Professional 64 bit
+
+Recovery Image Media CD from the OEM /
+Stored in Partition of
+the Hard Disk / USB
+Drive from the OEM /
+On Line / Cloud
+
+*
+
+OS Certification Windows,Ubuntu
+Linux,Redhat Linux
+
+*
+
+Applications Applications
+Compatible with the
+Workstation (Requisite
+document may be
+furnished as and when
+demanded by the
+buyer)
+
+Adobe After Effects
+CS/CC
+
+*
+
+Memory RAM Type DDR4 *
+
+RAM Speed (MHz) 2666 *
+
+Type of Memory Non ECC *
+
+RAM Size (GB) 8 8, 16, 32, 64, 128, 256,
+512, 1024, 2048, 3072,
+4096, 48, 96, 192, 384,
+768, 1536 Or higher
+
+Total Numbers of DIMM
+Slots Available
+
+4 *
+
+Number of DIMM Slots
+Populated
+
+1 *
+
+RAM Expandability
+upto using spare
+DIMM Slots (GB)
+
+64 *
+
+Primary Storage /Boot
+Drive
+
+Type of Drives used
+to populate the
+internal Bays
+
+SSD SATA, SAS, SSD, PCle,
+NA
+
+Number of Drives 1 *
+
+RAID for Operating
+System
+
+NA 0, 1, NA
+
+Capacity of each
+Drive (GB)
+
+128 *
+
+Secondary Storage Type of Drives used
+to populate the
+Internal Bays
+
+SATA SATA, SAS, SSD, PCIe,
+NA
+
+Total number of
+Internal Bays available
+for SATA Drive
+
+4 *
+
+                               4 / 9
+
+
+
+ 
+
+Number of Internal
+Bays populated with
+SATA Drive
+
+1 *
+
+Each SATA Drive
+Capacity (GB)
+
+1000 500, 1000, 2000, 4000,
+8000, 0, 6000 Or
+higher
+
+Speed of each SATA
+Drive (RPM)
+
+7200 *
+
+Total SATA Drive
+Capacity (GB)
+
+1000 *
+
+Total number of
+Internal Bays available
+for SAS Drive
+
+0 *
+
+Number of Internal
+Bays populated with
+SAS Drive
+
+0 *
+
+Capacity of each SAS
+Drive (GB)
+
+0 300, 600, 900, 1200,
+1800, 800, 0, 4000 Or
+higher
+
+Speed of each SAS
+Drive (RPM)
+
+0 *
+
+Total SAS Drive
+Capacity (GB)
+
+0 300, 600, 900, 1200,
+1800, 2100, 0, 4000 Or
+higher
+
+Total number of
+Internal Bays available
+for SSD
+
+0 *
+
+Number of Internal
+Bays populated with
+SSD Drive
+
+0 *
+
+Capacity of each SSD
+Drive (GB)
+
+0 128, 256, 512, 1024,
+2048, 800, 0 Or higher
+
+Total SSD Capacity
+(GB)
+
+0 128, 256, 384, 512,
+768, 1024, 2048, 4096,
+0, 5120 Or higher
+
+Total number of
+Internal Bays available
+for PCIe SSD
+
+0 *
+
+Number of Internal
+Bays populated with
+PCIe Drive
+
+0 0, 1, 2, 3, 4, 5, 6, 7, 8
+Or higher
+
+Capacity of each
+PCIe Drive (GB)
+
+0 128, 256, 512, 1024,
+2048, 0 Or higher
+
+Total PCIe Drive
+Capacity (GB)
+
+0 128, 256, 512, 1024,
+2048, 4096, 0, 1536 Or
+higher
+
+Class of PCIe Drives NA *
+
+                               5 / 9
+
+
+
+ 
+
+RAID RAID level 0,1 *
+
+Number of RAID
+Controller Ports
+
+4 2, 3, 4, 5, 6, 7, 8, 10, 0
+Or higher
+
+Speed of RAID
+Controller Ports
+(Gbps)
+
+6 6, 12, 0 Or higher
+
+RAID Controller Cache
+(GB)
+
+0 *
+
+Connectivity Type of Ethernet Ports Single Gigabit NIC
+10/100/1000
+
+*
+
+Number of Ethernet
+Ports
+
+1 1, 2, 3, 4, 6 Or higher
+
+Wireless
+Connectivity
+
+No Yes, No Or higher
+
+If Yes, Type of
+Wireless
+Connectivity
+
+NA Wi-Fi 802.11b/g/n, Wi-Fi
+802.11ac, NA Or higher
+
+Bluetooth
+Connectivity
+
+No Yes, No Or higher
+
+If Yes, Version of
+Bluetooth Available
+
+0 4, 4.1, 4.2, 5, 0 Or
+higher
+
+Ports Number of USB Version
+2 Point 0 Ports
+
+4 *
+
+Number of USB Version
+3 point 0 / 3 point 1,
+Gen 1 Ports
+
+5 *
+
+Number of USB Version
+3 point 1, Gen 2 Ports
+
+0 *
+
+Number of USB Type C
+Ports
+
+1 *
+
+Number of VGA Ports 0 *
+
+Number of HDMI Ports 0 *
+
+Number of Mini DP
+Ports
+
+0 *
+
+Number of DP Ports 2 *
+
+Display Display Availability Monitor Integrated, Monitor, NA
+
+Display Size (cm) 49.5 - 53.5 49.5 - 53.5, 54 - 56, 58-
+61, 63 - 67, 68- 71, 72-
+81, 82 - 87, 88 - 93, 94
+- 97, 98 - 105, 107 -
+110, 111 - 115, 116 -
+120, 121 - 125, 126 -
+130 Or higher
+
+Display Type Non Touch Non Touch, Touch, NA
+Or higher
+
+Panel Type Flat Flat, Curved, NA Or
+
+                               6 / 9
+
+
+
+ 
+
+higher
+
+Panel Technology TN IPS, TN, VA, OLED, NA
+Or higher
+
+Display Resolution
+(Pixels)
+
+1600 x 900 *
+
+LED Backlit Yes *
+
+TCO Compliance for
+Monitor
+
+TCO 07 *
+
+Colour Gamut 72% Color Gamut *
+
+Monitor Stand Height Adjustable *
+
+Power Maximum Power
+(Watts)
+
+200 *
+
+Minimum Power
+Efficiency (%)
+
+- *
+
+Power Management
+Unit
+
+Yes *
+
+Redundant Power
+Supply
+
+No Yes, No Or higher
+
+Input Devices Mouse Connectivity, If
+available
+
+Wired *
+
+Type of Mouse, If
+available
+
+Optical Scroll *
+
+Keyboard Connectivity,
+if available
+
+Wired *
+
+Type of Keyboard, if
+available
+
+Standard with Rupee
+Symbol
+
+*
+
+Type of Keyboard in
+case of Mobile
+Workstation
+
+NA *
+
+Generic Optical Drive - *
+
+Number of External
+Bays
+
+1 *
+
+Security S/W Based *
+
+Docking Station for
+Mobile Workstation
+
+No *
+
+Availability of Bundled
+Software
+
+Yes *
+
+Type of Bundled
+Software
+
+Standard Performance
+Improvement Software
+
+*
+
+Finger Print Reader in
+case of Mobile
+Workstation
+
+NA *
+
+Carry Case in case of
+Mobile Workstation
+
+NA *
+
+                               7 / 9
+
+
+
+ 
+
+Certification BIS Registration under
+CRS of Meity (Requisite
+certificate may be
+furnished as and when
+demanded by the
+buyer)
+
+Yes *
+
+BIS Registration
+Number and its Validity
+
+- *
+
+ROHS Compliance Yes *
+
+Other Certification
+Available (Requisite
+certificate may be
+furnished as and when
+demanded by the
+buyer)
+
+- *
+
+Operating Conditions Minimum Operating
+Temperature (Degree
+C)
+
+0 *
+
+Maximum Operating
+Temperature (DEgree
+C)
+
+60 *
+
+Minimum Operating
+Humidity (%RH)
+
+10 *
+
+Maximum Operating
+Humidity (%RH)
+
+95 *
+
+Warranty Battery Warranty in
+case of Mobile
+Workstation
+
+0 *
+
+On Site OEM
+Warranty (Year)
+
+3 3, 4, 5 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Deepmala
+Kashyap
+
+492002,POLICE
+HEADQUARTERS
+CHHATTISGARH, NAYA
+RAIPUR
+
+18  45
+
+Bid Specific Additional Terms and Conditions
+
+1.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+
+                               8 / 9
+
+
+
+ 
+
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+2.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+3.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+4.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+5.Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have
+regularly, manufactured and supplied same or similar Category Products to any Central /
+State Govt Organization / PSU / Public Listed Company for 3 years before the bid opening
+date. Copies of relevant contracts to be submitted along with bid in support of having
+supplied some quantity during each of the year. In case of bunch bids, the primary product
+having highest value should meet this criterion.
+
+6. ISO 9001: The bidder must have ISO 9001 certification.
+7.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+
+Commissioning of Goods
+8.Warranty period of the supplied products shall be 3 years from the date of final acceptance
+
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               9 / 9
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

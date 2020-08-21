@@ -1,0 +1,925 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/704025
+
+  Dated: 15-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 25-07-2020 18:00:00
+
+Bid Opening Date/Time 25-07-2020 18:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Gujarat
+
+Department Name Health & Family Welfare Department Gujarat
+
+Organisation Name Gujarat Medical Services Corporation Limited (gmscl)
+
+Office Name Gmscl
+
+Total Quantity 6
+
+Item Category Fully Automatic Bio Chemistry Analyzer
+
+Bidder Turnover (Last 3 Years)  173 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  173 Lakh (s)
+
+Experience Criteria  1 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  10 %
+
+Bid to RA enabled  Yes
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 3.00
+
+EMD Amount 1044000
+
+                             1 / 11
+
+
+
+ 
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 5.00
+
+Duration of ePBG required (Months). 62
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+Managing Director GMSCL
+Gujarat Medical Services Corporation Limited (GMSCL) ,Block 14 Dr.Jivraj Mehta Bhavan Sector 10
+Gandhinagar 382010
+(Dr.suman Ratnam)
+
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 10% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Fully Automatic Bio Chemistry Analyzer ( 6 pieces )
+
+                             2 / 11
+
+
+
+ 
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Conformity to
+Standards
+
+- *
+
+Certification No and
+Date
+
+- *
+
+Performance
+Parameters
+
+Type of system Fully Open Random
+Access system
+
+*
+
+Purpose Should be capable of
+all routine,STAT and
+special biochemical
+tests including specific
+proteins,therapeutic
+drugs(TDM),Drugs of
+abuse
+,Immunoturbidemtric
+assays and user
+definable applications
+in blood,serum, body
+fluids, urine and
+equipment to be
+configurable as per
+requirements of
+consignee
+
+*
+
+Model type of
+Biochemistry
+Analyzer
+
+Floor model Type Floor model Type
+
+Type of samples serum, plasma , urine,
+CSF and any body fluid
+samples
+
+*
+
+Type of Assay End point, Rate, Kinetic
+turbidometric and bi
+chromatic assay
+
+*
+
+Throughput tests /
+hour Photometric
+Tests with ISE
+module
+
+1000 or more 1000 or more
+
+Throughput
+tests/hour
+Photometric Tests
+without ISE Module
+
+600 or more 600 or more
+
+Calibration facility factor,Linear (one, two
+and multipoint),Expone
+ntial,Logit-
+log,spline,Non linear
+
+factor, Linear (one, two
+and multipoint),
+Exponential, Logit-log,
+spline, Non linear
+
+Equipment must have Yes *
+
+                             3 / 11
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/2-aYZLPVprqHwCLcntisqMIJ6_TGOWIJsivrPIY423E
+
+
+ 
+
+self diagnostic tests
+with error message and
+online display
+
+Equipment must be
+programmable for all
+test menus and state of
+the art work station
+should be upgradable
+by addition of ISE
+module
+
+Yes *
+
+Type of sample
+loading
+
+Continuous Continuous
+
+Equipment should have
+both internal and
+external probe
+cleaning/washing
+capacity
+
+Yes *
+
+Repeat facility repeat facility to be
+available for calibrator
+and control
+
+*
+
+Reagent refill message
+and monitoring facility
+
+Yes *
+
+Minimum number of
+test parameters on
+board at a time
+
+47 *
+
+Minimum sample
+capacity at a time
+hint: Seller may
+select the value
+based on the
+number of samples
+that can be tested at
+a time and if it is any
+value betweem
+35-49 select option
+of 35-49 and for
+other ranges also
+similar choices may
+be made
+
+100 or more 100 or more
+
+Minimum number of
+STAT samples at a time
+
+44 *
+
+Out of range samples Should have pre post
+and auto dilution of
+samples and return
+capability for out of
+range samples
+
+*
+
+Probe dispensers Probe dispensors must
+have level detectors
+and must typically use
+between 2-25 µl of
+sample
+
+*
+
+                             4 / 11
+
+
+
+ 
+
+Spectoral range in nm 340-700 *
+
+Wave length
+selection method
+
+Diffraction grating Interference filter(With
+minimum 8
+interference filter),
+Diffraction grating
+
+Light source Halogen lamp low cost
+with long life
+
+*
+
+Life of lamp in hrs 1000 *
+
+Power consumption of
+lamp in VA
+
+10 *
+
+Type of sample cups Reusable Reusable, Primary Tube
+
+Number of sample
+cups provided with
+machine
+
+1000 1000
+
+QC program QC Programme with L-J
+graphs,Print out of
+reports
+
+*
+
+The reaction cuvette
+must be reusable and
+durable
+
+Yes *
+
+System should have on
+board cooling system
+
+Refrigerated *
+
+DI water plant for
+the washing of the
+cuvettes/ to avoid
+carry over and
+contamination
+
+Yes Yes
+
+Compatible on line
+UPS
+
+Yes Yes
+
+Back up time 1 hour 1 hour
+
+Data management
+software
+
+Equipment to be
+supplied with
+compatible
+programmable
+windows based
+comprehensive data
+processing and
+management system
+graphical user interface
+software ,LM Capability
+complete back up of
+data base for
+calibration control and
+patient sample results ,
+capability for Bi-
+directional interfacing
+with LIS
+
+*
+
+Patient result
+storage capacity
+
+15000 10000, 15000
+
+                             5 / 11
+
+
+
+ 
+
+Onboard cuvette
+washing & drying
+facility
+
+Yes Yes
+
+Photometeric Checking
+of cuvettes before next
+reaction - Create
+Another field
+
+Yes *
+
+System should have
+facility for reading
+results on monitor and
+print out facility
+
+Yes *
+
+Reagents to be
+supplied with
+machine
+
+Creatinine, urea, uric
+acid, Triglycerides,
+sugar, Cholesterol, TP,
+Calcium albumin,
+SGOT, SGPT, alkaline
+phosphatase, Bilirubin
+(Total & Direct)
+calibrator 5 ml - 4 and
+quality control 5ml -1
+Nos each for normal
+and abnormal
+
+Creatinine, urea, uric
+acid, Triglycerides,
+sugar, Cholesterol, TP,
+Calcium albumin,
+SGOT, SGPT, alkaline
+phosphatase, Bilirubin
+(Total & Direct)
+calibrator 5 ml - 4 and
+quality control 5ml -5
+Nos each for normal
+and abnormal,
+Creatinine, urea, uric
+acid, Triglycerides,
+sugar, Cholesterol, TP,
+Calcium albumin,
+SGOT, SGPT, alkaline
+phosphatase, Bilirubin
+(Total & Direct)
+calibrator 5 ml - 4 and
+quality control 5ml -1
+Nos each for normal
+and abnormal
+
+Reports Prinout of reports and
+full patient
+demographics to be
+available
+
+*
+
+System to be supplied
+with necessary pre
+requisites and start up
+kits normal and
+abnormal QC and
+calibrators
+
+Yes *
+
+Availability of RS
+232 port/USB for
+data transfer
+
+Yes Yes
+
+Power supply 200-240V AC 50Hz
+Single phase
+
+*
+
+Reagents position More than 50 *
+
+Bar code reader for
+reagents
+
+Yes Yes, No
+
+Bar code reader for Yes Yes
+
+                             6 / 11
+
+
+
+ 
+
+samples
+
+Refrigerator
+supplied with
+Analyzer
+
+No Yes, No
+
+Capacity of
+Refrigerator in L
+
+Not provided Not provided
+
+Star rating Not provided Not provided
+
+Type of Micro
+pipette Supplied
+
+Not provided Not provided
+
+Variable Micro
+pipette Supplied
+
+No Yes, No
+
+Seller must provide
+original documentary
+proof of the date and
+place of manufacturing
+of supplied equipment
+
+Yes *
+
+Service manual and
+operating manual to be
+provided
+
+Yes *
+
+Warranty in years
+(including machine,
+DI Water Plant if
+provided , UPS,
+computer and
+printer)
+
+5 3, 5
+
+Additional Parameters Sytem shall be
+supplied with a
+compatible desk top
+PC
+
+Yes Yes
+
+The PC shall be of
+reputed brand and
+name of brand to be
+specified
+
+- *
+
+Speed of processor
+in GHZ
+
+Greater than 3 GHZ Greater than 3 GHZ
+
+RAM in MB Greater than 512 MB Greater than 512 MB
+
+Hard disk drive
+capacity in GB
+
+Greater than 80 Greater than 80
+
+Monitor TFT Digital color
+monitor
+
+TFT Digital color
+monitor
+
+Monitor size in
+inches
+
+17 inches or more 17 inches or more
+
+Compatible
+operating system
+provided in PC
+
+Yes Yes
+
+Printer provided Yes Yes
+
+Type of printer Laser Printer Laser Printer
+
+                             7 / 11
+
+
+
+ 
+
+The unit shall be
+capable of operating
+continuously in
+ambient temperature
+and relative humidity
+
+"Temp of 10 - 40deg C
+and humidity of
+15-90%"
+
+*
+
+Startup kit, Calibrators,
+consumables required
+in training the
+staff/Technician/Doctor
+s should be provided at
+the time of installation
+&Training
+
+Yes *
+
+The reaction cuvettes
+should be replaced at
+free of cost when ever
+required during the
+warranty period
+
+Yes *
+
+Reports ISO Certification of
+Manufacturer
+
+ISO 13485 *
+
+ISO certification
+number and date
+
+- *
+
+Availability of test
+report from central
+govt/ NABL/ILAC
+accredited lab
+covering all
+parameters
+
+Yes Yes
+
+Test report number if
+test report not
+available put NA
+
+- *
+
+Test report date if test
+report not available put
+NA
+
+- *
+
+Name of test lab if test
+report not available put
+NA
+
+- *
+
+Address of test lab if
+test report not
+available put NA
+
+- *
+
+Copies of all
+certifications and
+reports to be
+provided to buyer on
+demand at time of
+supplies
+
+Yes Yes
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+                             8 / 11
+
+
+
+ 
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Dr. Nitin Vora 380060,Medical College
+sola, Near Guj. High Court
+Ahmedabad-380060
+
+2  15
+
+2 DR.Sureshbhai
+Punjabhai Rathod
+
+362002,GMERS MEDICAL
+COLLEGE, NEAR MAJEVADI
+GATE, PADDOCK ROAD,
+JUNAGADH.
+
+2  15
+
+3 Vineet Mishra 380016,Institute of kidney
+diseases and reserch center,
+Ahmedabad
+
+1  15
+
+4 Shashank Pandya 380016,Gujarat cancer
+reserch institute,
+Ahmedabad
+
+1  15
+
+Bid Specific Additional Terms and Conditions
+
+1.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+2.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+3.Bidders can also submit the EMD with Account Payee Demand Draft in favour of Managing
+Director, Gujarat Medical Services Corporation limited payable at Gandhinagar.
+Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure
+delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date.
+
+4.Bidders can also submit the EMD with Payment online through RTGS / internet banking in
+Beneficiary name Managing Director, Gujarat Medical Services Corporation limited Account
+No. 32638352973 IFSC Code SBIN0008434 Bank Name State Bank of India  Branch address 
+NSC Branch, Gandhinagar..
+ Bidder to indicate bid number and name of bidding entity in the transaction details field at
+the time of on-line transfer. Bidder has to upload scanned copy / proof of the Online Payment
+Transfer along with bid.
+
+5.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+6.Bidder / OEM has to give an undertaking that after expiry of warranty period, it will provide
+Comprehensive Maintenance Service for next 5 years for the offered products at the rate not
+
+                             9 / 11
+
+
+
+ 
+
+more than 10 % of contract price per annum. Buyer reserves the right to enter into a CMC
+agreement with the Successful Bidder / OEM after expiry of the Warranty period at above
+mentioned rate and the payment for the CMC charges would be made Annually after
+rendering of the CMC Services of the relevant CMC period. Performance Security of the
+successful bidder shall be forfeited if it fails to accept the CMC contract when called upon by
+the buyer. CMC would include cost of Not more than 10% (Upload the undertaking). The
+original Performance Security of contract will be returned only after submission and
+verification of AMC Performance Security for 5% of total CMC value valid up to CMC period
+plus 2 months (if there is no other claim).
+
+7.Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have
+regularly, manufactured and supplied same or similar Category Products to any Central /
+State Govt Organization / PSU / Public Listed Company for 1 year before the bid opening
+date. Copies of relevant contracts to be submitted along with bid in support of having
+supplied some quantity during each of the year. In case of bunch bids, the primary product
+having highest value should meet this criterion.
+
+8.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+9. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+10.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial
+year, should be as indicated in the bid document. Documentary evidence in the form of
+certified Audited Balance Sheets of relevant periods or a certificate from the Chartered
+Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than
+3 year old, the average turnover in respect of the completed financial years after the date of
+constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of
+CATEGORY RELATED TO primary product having highest bid value should meet this criterion.
+
+11.OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be
+ordered up to 25 percent at the time of placement of contract. The purchaser also reserves
+the right to increase the ordered quantity by up to 25% of the contracted quantity during the
+currency of the contract at the contracted rates. Bidders are bound to accept the orders
+accordingly.
+
+12.Successful Bidder can submit the Performance Security in the form of Payment online
+through RTGS / internet banking also (besides PBG which is allowed as per GeM GTC). On-
+line payment shall be in Beneficiary name Managing Director, Gujarat Medical Services
+Corporation limited Account No. 32638352973 IFSC Code SBIN0008434 Bank Name State
+Bank of India Branch address NSC Branch, Gandhinagar.. Successful Bidder to indicate
+Contract number and name of Seller entity in the transaction details field at the time of on-
+line transfer. Bidder has to upload scanned copy / proof of the Online Payment Transfer in
+place of PBG within 15 days of award of contract.
+
+13.Successful Bidder can submit the Performance Security in the form of Account Payee
+Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in
+favour of Managing Director, Gujarat Medical Services Corporation limited payable at 
+Gandhinagar. After award of contract, Successful Bidder can upload scanned copy of the DD
+in place of PBG and has to ensure delivery of hard copy to the original DD to the Buyer
+within 15 days of award of contract.
+
+14.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+15.The bidder is required to upload, along with the bid, all relevant certificates such as BIS
+licence, type test certificate, approval certificates and other certificates as prescribed in the
+Product Specification given in the bid document.
+
+16.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 3 days time limit. If the Seller fails to complete service
+
+                            10 / 11
+
+
+
+ 
+
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                            11 / 11
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,375 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/710305
+
+  Dated: 14-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 24-07-2020 17:00:00
+
+Bid Opening Date/Time 24-07-2020 17:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Himachal Pradesh
+
+Department Name Prisons And Correctional Administration Department
+Himachal Pradesh
+
+Organisation Name N/a
+
+Office Name Block No 31 Cid Building Kasumpti Shimla
+
+Total Quantity 1
+
+Item Category computer kiosk ( PAC Only ) 
+
+Bidder Turnover (Last 3 Years)  1 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  4 Lakh (s)
+
+Experience Criteria  1 Year (s)
+
+MSE Exemption for Years Of Experience  Yes
+
+Startup Exemption for Turnover  Yes
+
+Document required from seller  Experience Criteria,Past Performance,Certificate
+(Requested in ATC),OEM Authorization
+Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  10 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+                               1 / 5
+
+
+
+ 
+
+ Bid splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 10% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Computer Kiosk ( 1 pieces ) ( Under PAC ) 
+
+Make decs
+
+Model itplpk191
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Generic Type Of Information
+Kiosk
+
+Processor Based Processor Based
+
+Type Of Enclosure Mild Steel Mild Steel
+
+Thickness of Enclosure
+(mm)
+
+1.5 *
+
+Chassis Screwless *
+
+Mounting Floor mount *
+
+Configuration Processor Make Intel Intel
+
+Processor
+Configuration
+
+Dual Core or higher Dual Core or higher
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/-ovS2o_WJrKkox7LqhbbVPBD34MWcem_xTJN0iPT83M
+
+
+ 
+
+Processor Speed
+(GHz)
+
+3.3 3.3
+
+Operating System
+(Pre-loaded)
+
+Window 10 Window 10
+
+Memory (GB) 4 4
+
+Storage/HDD (GB) 120 120
+
+Display Display Size (inches) 18.5 18.5
+
+Display Type Color LCD touch Screen Color LCD touch Screen
+
+Touch Type Surface Acoustic Wave
+(SAW)
+
+Surface Acoustic Wave
+(SAW)
+
+Antiglare & Overlay
+Tempered vandal
+resistant glass
+thickness (mm)
+
+4 *
+
+Screen Resolution
+(pixels)
+
+1280 x 1024 1280 x 1024
+
+Brightness (Nits) 450 *
+
+Ports USB Port 2,0 0 *
+
+USB 3 or Higher 4 *
+
+VGA Port Yes *
+
+LAN Port Yes *
+
+Audio In and Out Yes *
+
+Options Standard Keyboard
+with USB Interface
+
+Not Available *
+
+Thermal Printer with 80
+mm paper width and
+with Auto Cutter
+
+Included *
+
+Certification BIS Registration under
+CRS of Meity for Data
+Processing Unit
+
+Yes *
+
+BIS Registration
+Number for Data
+Processing Unit
+
+R-41057100 *
+
+BIS Registration for
+Thermal Printer
+
+Yes *
+
+BIS Registration
+Number for Thermal
+Printer
+
+R-41000914 *
+
+Safety Certification (
+For CPU and Display)
+
+Nabal certification *
+
+Miscellaneous Speakers Yes *
+
+Weight (Kg) 50 *
+
+Optical Disk Drive External *
+
+Overall Dimensions (cm 78x49x17.5 *
+
+                               3 / 5
+
+
+
+ 
+
+x cm x cm)
+
+Maximum Power
+Consumption(In Watt)
+
+150 *
+
+Operating Temperature
+Range(In Degree C)
+
+55 *
+
+Operating Humidity(In
+%)
+
+90 *
+
+On Site OEM
+Warranty (Year)
+
+1 1
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Daya Ram Vaish 173001,Model Central Jail,
+Nahan, District Sirmour
+
+1  15
+
+Bid Specific Additional Terms and Conditions
+
+1.Bidder / OEM has to give an undertaking that after expiry of warranty period, it will provide
+AMC Service for next 1 years for the offered products at the rate not more than 1 % of
+contract price per annum. Buyer reserves the right to enter into an AMC agreement (
+covering preventive maintenance and servicing)with the Successful Bidder / OEM after
+expiry of the Warranty period at rate as mentioned above and the payment for the AMC
+charges would be made Annually after rendering of the AMC Services of the relevant AMC
+period. Performance Security of the successful bidder shall be forfeited if it fails to accept
+the AMC contract when called upon by the buyer. The original Performance Security of
+contract will be returned only after submission and verification of AMC Performance Security
+for 2% of total AMC value valid up to AMC period plus 2 months (if there is no other claim).
+(Undertaking of acceptance to be uploaded with bid).
+
+2.Bidder / OEM has to give an undertaking that after expiry of warranty period, it will provide
+Comprehensive Maintenance Service for next 1 years for the offered products at the rate not
+more than 10 % of contract price per annum. Buyer reserves the right to enter into a CMC
+agreement with the Successful Bidder / OEM after expiry of the Warranty period at above
+mentioned rate and the payment for the CMC charges would be made Annually after
+rendering of the CMC Services of the relevant CMC period. Performance Security of the
+successful bidder shall be forfeited if it fails to accept the CMC contract when called upon by
+the buyer. CMC would include cost of 2000 (Upload the undertaking). The original
+Performance Security of contract will be returned only after submission and verification of
+AMC Performance Security for 2% of total CMC value valid up to CMC period plus 2 months
+(if there is no other claim).
+
+3.Successful bidder will have to ensure that adequate number of dedicated technical service
+personals / engineers are designated / deployed for attending to the Service Request in a
+time bound manner and for ensuring Timely Servicing / rectification of defects during
+
+                               4 / 5
+
+
+
+ 
+
+warranty period, as per Service level agreement indicated in the relevant clause of the bid.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

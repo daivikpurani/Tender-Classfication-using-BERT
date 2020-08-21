@@ -1,0 +1,647 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/691963
+
+  Dated: 30-06-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 12:00:00
+
+Bid Opening Date/Time 2020-07-20 12:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 70 (Days)
+
+Ministry/State Name Ministry Of Coal
+
+Department Name Materials Management
+
+Organisation Name Central Mine Planning And Design Institute Limited
+
+Office Name Jharkhand
+
+Total Quantity 10
+
+Item Category Digital Transreceiver-Handheld
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Past Performance,Certificate (Requested in
+ATC),OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  50 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 7
+
+
+
+ 
+
+MSE Purchase Preference
+
+MSE Purchase Preference Yes
+
+ 
+
+1. Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to
+MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012
+dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and its subsequent
+Orders/Notifications issued by concerned Ministry. If the bidder wants to avail the Purchase
+preference, the bidder must be the manufacturer of the offered product in case of bid for supply of
+goods. Traders are excluded from the purview of Public Procurement Policy for Micro and Small
+Enterprises. In respect of bid for Services, the bidder must be the Service provider of the offered
+Service. Relevant documentary evidence in this regard shall be uploaded along with the bid in
+respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s) has/have quoted
+price within L-1+ 15% of margin of purchase preference /price band defined in relevant policy, such
+Seller shall be given opportunity to match L-1 price and contract will be awarded for percentage of
+25% of total value.
+2. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 50% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Digital Transreceiver-Handheld ( 10 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+PERFORMANCE
+FEATURES
+
+Frequency Range
+(MHz)
+
+136-174 136-174
+
+Types of Bandwidth VHF Full Band VHF Full Band
+
+Display Yes *
+
+Channel Capacity 1000 1000
+
+Channel Spacing 12.5 *
+
+Frequency Stability (± ) 0.5 *
+
+Technology Digital TDMA (2-slot) *
+
+Air Interface Standard Open Standard DMR
+Tier-II
+
+*
+
+Antenna Impedance 50 *
+
+TRANSMITTER RF Power output programmable *
+
+RF Power output 1 to 5 Watts (VHF) 1 to 5 Watts (VHF)
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/nhqqv8jIeK5xioTtYQ_LYB7L1xBBYOIEWKwk5kmd_bw
+
+
+ 
+
+Range
+
+FM Emission 11K0F3E,7K60FXE,7K6
+0FXD,7K60F1W
+
+*
+
+Digital Modulation 4FSK *
+
+Transmitter FM
+Hum/Noise (dB)
+
+-40 *
+
+Transmitter Modulation
+Limiting
+
++/- 2.5 KHz @12.5KHz *
+
+Transmitter Adjecent
+Channel Power (dBc)
+
+-60 *
+
+Audio Response +1,-3 dB *
+
+Audio Distortion 3 *
+
+Digital Vocoder AMBE+2 *
+
+RECEIVERS Analog Receivers
+Sensitivity for 12dB
+SINAD
+
+0.16 *
+
+Digital Receiver
+Sensitivity at 5% BER
+
+0.14 *
+
+Receiver Adjacent
+Channel Selectivity
+(dB)
+
+60 *
+
+Inter Modulation (dB) 70 *
+
+Receiver Audio Output 500 *
+
+Receiver Rated Audio
+Distortion
+
+3 *
+
+ACCESSORIES Antenna for Handheld
+Transreceiver
+
+Rugged flexible Helical *
+
+Programming kit yes *
+
+User Manual with each
+radio sets provided free
+of cost in soft as well as
+hard copy
+
+yes *
+
+Technical repairing &
+maintenance manual
+with complete block
+diagram, circuit layout
+etc in soft as well as
+hard copy
+
+yes *
+
+Battery Charger Yes *
+
+Input voltage 230 V ± 10%,50 Hz *
+
+Output voltage - *
+
+Battery charger
+suitable for
+
+Lithium-ion *
+
+Charging time for
+standard mode
+
+6 to 14hrs *
+
+                               3 / 7
+
+
+
+ 
+
+Charging time for rapid
+mode
+
+1 tO 3 hrs *
+
+Number of charging
+pockets
+
+1 *
+
+Number of spare
+batteries with each
+Radio Set
+
+2 *
+
+Indicator For all modes of
+charging status
+
+*
+
+One good quality
+leather case with belt
+clip & shoulder strip
+
+Yes *
+
+VARIOUS FEATURES Simple Press to talk YES *
+
+Low Battery Alert yes *
+
+CTCSS or DCS yes *
+
+Mixed Mode Operation
+(analog & digital)
+
+yes *
+
+Signaling 2Tone,DTMF,Digital *
+
+Busy Channel Lockout Yes *
+
+Selective Call Decode Yes *
+
+Capable of VOX for
+hands-free operation
+
+Yes *
+
+If yes,handfree kit
+provided with radio set
+
+No *
+
+handfree kit variants Bone conduction,Ear
+plug,headphone
+
+*
+
+PTT ID Encode Yes *
+
+Channel Scanning with
+call quieting facility
+
+Yes *
+
+Emergency SOS/SIREN Yes *
+
+Talk-around Yes *
+
+Automatic Number
+Identification (ANI)
+
+Yes *
+
+Text message and
+predefined message
+
+Yes *
+
+Keypad Yes *
+
+Availablity of Inbuilt
+GPS system
+
+Yes *
+
+If yes, Horizontal
+accuracy
+
+5 *
+
+Time to first fix(TTFF)
+cold start
+
+1 *
+
+Time to First Fix(TTFF)
+Hot start
+
+10 *
+
+                               4 / 7
+
+
+
+ 
+
+Capable of being Killed/
+Unkilled
+
+Yes *
+
+communication
+security
+
+Inbuilt encryption,3rd
+party encryption
+
+*
+
+Protocols supported in
+case of third party
+encryption
+
+- *
+
+GENERIC Weight of hand held
+Transreceiver with
+Battery
+
+325 *
+
+Other features - *
+
+POWER
+SOURCE/BATTERY
+
+Chemistry of Battery Lithium-ion *
+
+Voltage rating of the
+Battery
+
+7.4 *
+
+capacity of Battery
+(mAH)
+
+2300 *
+
+Average Battery duty
+cycle '5/5/90 for digital
+Transmission
+
+20 *
+
+Average Battery duty
+cycle '5/5/90 for analog
+Transmission
+
+15 *
+
+CERTIFICATION BIS registartion under
+CRS of Meity for the
+battery
+
+Yes *
+
+BIS registration number
+and date for the
+battery
+
+- *
+
+EMI/EMC ETSI EN301 489-1 &
+ETSI EN301 489-5
+
+*
+
+Tested by DCPW No *
+
+SAFETY Protections Reverse polarity
+protection & short
+circuit protection
+
+*
+
+SERVICE Warranty 3 3.0
+
+OPERATING CONDITION Minimum Operating
+temperature
+
+-30 *
+
+Maximum Operating
+temperature
+
+55 *
+
+Minimum Storage
+temparature
+
+-40 *
+
+Maximum Storage
+temperature
+
+70 *
+
+Operating Humidity
+@40 degree C
+
+95 *
+
+TEST REPORT DETAILS Dust test as per MIL-STD-810 G *
+
+                               5 / 7
+
+
+
+ 
+
+Vibration test as per MIL-STD-810 G *
+
+Shock test as per MIL-STD-810 G *
+
+Water Intrusion test as
+per
+
+IP-67 *
+
+Salt test as per MIL-STD-810 G *
+
+Rain test as per MIL-STD-810 G *
+
+Altitude test as per MIL-STD-810 G *
+
+Availability of Test
+Reports from Central
+Govt/ NABL/ILAC
+acredited lab to prove
+confirmity to the
+Specifications
+
+Yes *
+
+Test Report Number
+and Date
+
+- *
+
+Name and Address of
+the Lab
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Atul Kumar 834008,MATERIAL
+MANAGEMENT
+DEPARTMENT, CENTRAL
+MINE PLANNING AND
+DESIGN INSTITUTE LIMITED,
+GONDWANA PLACE, KANKE
+ROAD, RANCHI- 834008
+
+10  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Bidder financial standing: The bidder should not be under liquidation, court receivership
+or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect
+with bid.
+
+2.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+3. Indian suppliers of this item are not allowed to participate and/ or compete in procurement
+by some foreign governments. Bidders / products from such countries are not eligible / not
+allowed to participate in this bid in terms of clause 1 (d) of Public Procurement (Preference
+to Make in India) Order, 2017
+
+4.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+                               6 / 7
+
+
+
+ 
+
+5.OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be
+ordered up to 25 percent at the time of placement of contract. The purchaser also reserves
+the right to increase the ordered quantity by up to 25% of the contracted quantity during the
+currency of the contract at the contracted rates. Bidders are bound to accept the orders
+accordingly.
+
+6.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+7.Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be
+given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs)
+Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises
+and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to
+avail the Purchase preference, the bidder must be the manufacturer of the offered product
+in case of bid for supply of goods. Traders are excluded from the purview of Public
+Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder
+must be the Service provider of the offered Service. Relevant documentary evidence in this
+regard shall be uploaded along with the bid in respect of the offered product or service. If L-1
+is not an MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of
+purchase preference /price band defined in relevant policy, such Seller shall be given
+opportunity to match L-1 price and contract will be awarded for percentage of 25% of total
+value.
+
+8.Preference to Make In India products (For bids less than 200 Crore):Preference shall be given
+to Class 1 local supplier as defined in public procurement (Preference to Make in India),
+Order 2017 as amended from time to time and its subsequent Orders/Notifications issued by
+concerned Nodal Ministry for specific Goods/Products. The minimum local content to qualify
+as a Class 1 local supplier is denoted in the bid document 50%. If the bidder wants to avail
+the Purchase preference, the bidder must upload a certificate from the OEM regarding the
+percentage of the local content and the details of locations at which the local value addition
+is made along with their bid, failing which no purchase preference shall be granted. In case
+the bid value is more than Rs 10 Crore, the declaration relating to percentage of local
+content shall be certified by the statutory auditor or cost auditor, if the OEM is a company
+and by a practicing cost accountant or a chartered accountant for OEMs other than
+companies as per the Public Procurement (preference to Make-in -India) order 2017 dated
+04.06.2020. Only Class-I and Class-II Local suppliers as per MII order dated 4.6.2020 will be
+eligible to bid. Non - Local suppliers as per MII order dated 04.06.2020 are not eligible to
+participate. In case Buyer has selected Purchase preference to Micro and Small Enterprises
+clause in the bid, the same will get precedence over this clause.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

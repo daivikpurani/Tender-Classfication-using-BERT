@@ -1,0 +1,653 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/697106
+
+  Dated: 03-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 13-07-2020 17:00:00
+
+Bid Opening Date/Time 13-07-2020 17:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Railways
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name East Central Railway
+
+Total Quantity 1
+
+Item Category Holter with Monitor for analysis
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Bidder Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Holter With Monitor For Analysis ( 1 pieces )
+
+                               1 / 7
+
+
+
+ 
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERAL FEATURES Type Worn on a strap across
+the chest
+
+*
+
+Clinical purpose A type of portable
+ambulatory
+electrocardiography
+device used for cardiac
+monitoring through
+recording the (ECG)
+electrocardiograph of
+heart
+
+*
+
+Patient category Adults Adults
+
+PRODUCT FUNCTIONAL
+FEATURES
+
+Number of Channels 12 12
+
+Number of Leads 10 10
+
+Analyzing various
+arrhythmias like
+ventricular ectopics,
+supraventricular
+ectopics, ventricular
+tachycardia, ventricular
+fibrillation,
+supraventricular
+tachycardia, atrial
+fibrillation, sinus pause
+
+Yes *
+
+Full disclosure of ECG
+with different Color
+coding for VE, SVE and
+PAUSES
+
+Yes *
+
+Hourly count menu,
+with minimum two scan
+
+Yes *
+
+Minimum of 20
+templates editing to
+analyse VE, SVE, V-
+RUN,SV-RUN, PAUSE,
+ST, etc
+
+Yes *
+
+Atrial fibrillation/Flutter
+analysis
+
+Yes *
+
+Heart rate variability
+(HRV) analysis
+
+Yes *
+
+SAECG-Late
+potential analysis
+
+No No
+
+Pace Maker auto
+detection and analysis
+
+Yes *
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/0I6bSs1om3Accs36QdOzjpWwvT28R4RevY4b2ZskDF4
+
+
+ 
+
+12 Lead ST Scan Yes *
+
+QT analysis with
+validation
+
+Yes *
+
+To print ECG strips
+from any part of Holter
+recording
+
+Yes *
+
+T Wave altemans No No
+
+Facility for electronic
+compact technique for
+Flash card/USB Cable
+
+Yes *
+
+Should be able to edit
+and reclassify beats
+and arrhythmias
+
+Yes *
+
+Should be able to re-
+edit individual form
+classes
+
+Yes *
+
+Should be able to
+consolidate individual
+form classes
+
+Yes *
+
+Should have scroll
+function for the over
+view (super page of the
+ECG)
+
+Yes *
+
+LED indication for data
+storage and device
+status
+
+Yes *
+
+Sleep apnea analysis Yes Yes
+
+RECORDER
+CONFIGURATION
+
+Recorder should be
+minimum 3 channel
+ECG for recording
+data duration
+
+24 Hrs 24 Hrs
+
+Removable storage
+memory card
+
+CF Card CF Card
+
+digital recorder with
+removable storage
+media such CF
+card/SDHC Card/ USB
+Cable
+
+Yes *
+
+Memory storage
+capacity of Card
+
+128MB 128MB
+
+Should save 24 or 48
+hours of ECG into flash
+memory card / inbuilt
+memory
+
+Yes *
+
+Saved data should be
+read using integrated
+reading device
+
+Yes *
+
+Number of Lead 10 10
+
+                               3 / 7
+
+
+
+ 
+
+cables
+
+Integrated Lead
+Wire length (Cm)
+
+150 150
+
+Compatibility with
+Alkaline battery
+
+Works on 2 Nos 1.5V
+(AA) Alkaline batteries
+
+*
+
+Pace maker spike
+detection
+
+Minimum 512
+samples/sec/ Channel
+
+*
+
+Recording and Storage Minimum 128
+samples/sec/Channel
+
+*
+
+VLP Minimum 1000
+samples/sec/Channel
+
+*
+
+PC SYSTEM &
+SOFTWARE
+REQUIREMENTS
+
+PC System Pentium latest,
+compatible Intel
+chipset, memory 4GB
+RAM DDR, 500GB Hard
+drive
+
+Pentium latest,
+compatible Intel
+chipset, memory 4GB
+RAM DDR, 500GB Hard
+drive
+
+Software capable of
+working with windows
+XP/ Windows
+7/Windows 8/Windows
+10
+
+Yes *
+
+Software should
+Include
+
+"(a) Holter analysis b)
+Trends c) Strips d) Page
+e) QT Analysis f) Shape
+g) Event review h)
+Episode review i) Final
+Report j) TWA alterns
+analysis"
+
+*
+
+Monitor 17 inch colour *
+
+Real time average
+complexes
+
+Yes *
+
+Real time ST analysis Yes *
+
+The system should
+have facility to do re –
+analysis of stored ECG
+by changing line
+measurement point
+title ST and J
+
+Yes *
+
+The system should
+present comprehensive
+final report on minute
+by minute record of ST
+segment trend
+
+Yes *
+
+The system should
+have automatic
+arythmia detection
+
+Yes *
+
+ST profile, ST elevation,
+ST depression, Heart
+rate, Mets, NIBP, ST
+
+Yes *
+
+                               4 / 7
+
+
+
+ 
+
+index should be able to
+be clearly analyze
+
+PDF generation and
+Email facility
+
+Yes *
+
+Printer Ink-jet Ink-jet
+
+UPS Yes *
+
+REPORT FORMAT Format for reporting
+Patient information
+should include
+
+Indications,
+medications,
+symptoms, time,
+diagnosis, notes and
+conclusions with space
+for personnel and
+physician electronic
+signature.
+
+*
+
+Format for Examination
+summery should
+include
+
+Quality of recording,
+baseline rhythm, min
+and max heart rate, VE,
+SVE, VT, SVT, Blocks
+and Pauses
+
+*
+
+Report format should
+include covering page,
+arrhythmia analysis
+report, ST segment
+analysis, automatically
+and manually selected
+ECG strips
+
+Yes *
+
+ST segment analysis
+should be available for
+all selected channels
+
+Yes *
+
+PACKING MODE All the items should be
+placed in suitable
+Carton box/plastic
+case/box with
+thermocol packing in
+such a way that there
+will be no transit
+damage during
+transportation & usage
+
+Yes *
+
+CERTIFICATIONS &
+REPORTS
+
+Submission of Test
+Report from OEM
+complying the declared
+specification at the
+time of supply
+
+YES *
+
+Product certification US-FDA US-FDA
+
+Certificate No - *
+
+Certificate Date - *
+
+Certificate issuring
+authority
+
+- *
+
+Four digit number of
+notified body If product
+
+123 *
+
+                               5 / 7
+
+
+
+ 
+
+is EU-CE certified
+
+Submission of all the
+certifications and test
+reports to the buyer
+along with supplies on
+demand
+
+Yes *
+
+WARRANTY &
+MAINTENANCE
+
+Comprehensive
+maintenance warranty
+(Year)
+
+5 *
+
+Contact details of
+manufacturer, supplier
+and local service agent
+to be provided
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Rashmi
+Shrivastwa
+
+800001,O/o- Medical
+Director, Central Super
+speciality Hospital, East
+Central Railway, Karbigahia,
+Patna (Bihar)
+
+1  15
+
+Special terms and conditions for category Holter with Monitor for analysis 
+
+1. (i) Comprehensive warranty: Comprehensive warranty shall include preventive maintenance
+including calibration as per technical/ service /operational manual of the manufacturer,
+service charges and spares,. During the warranty period commencing from date of the
+successful completion of warranty period, Service personnel shall visit each consignee site
+as recommended in the manufacturer's technical/ service /operational manual, at least once
+in six months. warranty shall not be including the consumables .Further there will be 98%
+uptime warranty during warranty period on 24 (hrs) X 7 (days) X 365 (days) basis, with
+penalty, to extend warranty period by double the downtime period.(ii) Service centres:
+Details of Service outlets in India to render services for equipment to be furnished to
+buyer/consignees with complete address ,telephone numbers, e mails etc at time of making
+the supplies .It shall be the responsibility of seller to ensure that authorized service centres
+are available to cater to the areas where supplies are made within reasonable distance from
+where the service calls can be handled .Details of toll free numbers for service call and
+online registration of service requests also to be provided buyer/consignee at the time of
+supplies.(iii) Source of supply: It shall be responsibility of seller to provide Documents
+regarding source of equipments such as copy of Performa invoice or any other documents to
+establish that the products supplied are manufactured by OEM indicated and sourced from
+them.(iv) Packing and Marking: Medical equipments being very delicate and sensitive
+packing for the goods should be strong and durable enough to withstand transit including
+transhipment (if any), rough handling, open storage etc. without any damage, deterioration
+
+                               6 / 7
+
+
+
+ 
+
+etc. .The size, weights and volumes of the packing cases, remoteness of the final destination
+of the goods, availability or otherwise of transport and handling facilities at all points during
+transit up to final destination,. Quality of packing, the manner of marking within & outside
+the packages and provision of accompanying documentation shall take in to consideration
+the type of medical equipments being supplied. The accessories shall be suitably labelled
+and packed .Each of the package shall be marked on three sides with indelible paint of
+proper quality: indicating contract number and date , brief description of goods including
+quantity ,. Packing list reference number , country of origin of goods and any other relevant
+details.(v) Spare Parts: Seller shall provide materials, information etc. pertaining to spare
+parts manufactured and supplied by the OEM . It shall be ensured that the required spares
+are available for purchase at least for 10 years from date of supplies .In case due to any
+reasons the production of the spare parts is discontinued sufficient advance notice should be
+given to the buyer/consignee before such discontinuation to provide adequate time to
+purchase the required spare parts etc. Further, OEM and their service centres/dealers shall
+carry sufficient inventories to assure ex-stock supply of consumables and spares for the
+equipments so that the same are available.OEM or reseller shall always accord most
+favoured client status to the buyer/consignee and shall give the most competitive price for
+spares and consumables of its machines/equipments supplied.(vi) Installation, Training,
+Manuals: Seller shall be responsible to carry out Installation & commissioning, Supervision
+and Demonstration of the goods. They shall provide required jigs and tools for assembly,
+minor civil works for the completion of the installation and Training of Consignee’s
+representatives for operating and maintaining the equipment and Supplying required
+number of operation & maintenance manual for the goods. In case the category parameters
+are specifying any requirements regarding the installations , training and manuals the same
+shall also be applicable.(vii) Electrical safety checking: Sellers are required to make sure that
+they furnish the list of equipments for carrying out routine and preventive maintenance to
+buyer/consignee .They should make sure to periodically check the electrical safety aspects
+as per BIS Safety Standards or equivalent .In case they do not have required equipment for
+such testing should ensure that the equipments checked for electrical safety compliance
+through labs with facilities for such checking during every preventive maintenance call.(viii)
+Software: All software updates should be provided free of cost during warranty period
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

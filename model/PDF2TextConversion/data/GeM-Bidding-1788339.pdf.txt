@@ -1,0 +1,637 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/712052
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 13:00:00
+
+Bid Opening Date/Time 27-07-2020 13:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Pmo
+
+Department Name Na
+
+Organisation Name Ntro
+
+Office Name Ntro, New Delhi
+
+Total Quantity 2
+
+Item Category E-Tourist Vehicle
+
+Bidder Turnover (Last 3 Years)  7 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  56 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years Of Experience and
+Turnover
+
+ Yes
+
+Startup Exemption for Years Of Experience and
+Turnover
+
+ Yes
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM Authorization
+Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the
+buyer
+
+Past Performance  50 %
+
+Bid to RA enabled  No
+
+Inspection Required  Yes
+
+Inspection to be carried out by Buyers own
+empanelled agency
+
+ Yes
+
+Type Of Inspection  Pre Dispatch
+
+Name of the Empanelled Inspection Agency/
+Authority
+
+ Board of Officers
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 2.00
+
+EMD Amount 28720
+
+ePBG Detail
+
+                               1 / 7
+
+
+
+ 
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 10.00
+
+Duration of ePBG required (Months). 14
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant
+category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for
+Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+DIRECTOR
+Ntro, New Delhi, NA, NTRO, PMO
+(Director Of Accounts)
+
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM {themselves or
+through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central
+/ State Govt Organization / PSU / Public Listed Company for number of years as indicated in the bid document before the
+bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some
+quantity during each of the year. In case of bunch bids, the category of primary product having highest value should
+meet this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product during the
+last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document.
+Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the
+Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with
+the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have supplied same or similar
+Category Products for 50% of bid quantity, in at least one of the last three years before the bid opening date to any
+Central / State Govt Organization / PSU / Public Listed Company. Copies of relevant contracts (proving supply of
+cumulative order quantity in any one year) to be submitted along with bid in support of quantity supplied in the relevant
+year. In case of bunch bids, the category related to primary product having highest bid value should meet this criterion.
+
+E-Tourist Vehicle ( 2 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Generic Parameters Type of E-Vehicle Fully Electric, Battery
+Operated, Motor Driven.
+
+Fully Electric, Battery
+Operated, Motor Driven.
+
+Make and Model Number of
+Tourist E- Vehicle
+
+- *
+
+The vehicle Must Fabricated
+From Good Quality Steel
+properly Painted to avoid
+Rusting for more than 5
+Years,
+
+Yes *
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/bxLLF74sQRiaw9QMqxUN_6m71BBfrPV67CRUrLJtqeQ
+
+
+ 
+
+Name and Grade of Steel
+from which vehicle Body
+Framed as per IS:2062
+(Latest)
+
+- *
+
+Kerb Weight 700 700.0
+
+Laden Weight ( Kerb
+Weight + Loading
+Capacity including driver
+, passenger , and
+luggage) (kg)
+
+1180 1180.0
+
+Run Distance (for a Full
+Charge of Battery , to be
+tested with full load at
+maximum AIS-040 ))
+
+60 60.0
+
+Power Transmission from
+Motor Shaft to Wheels
+
+Direct Mounting Direct Mounting
+
+If others, please Specify the
+Mechanical Mechanism
+otherwise Put NA
+
+- *
+
+Material of the roof of
+BOV
+
+Fibre glass of good quality Fibre glass of good quality
+
+If others please specify the
+material Otherwise put NA
+
+- *
+
+Thickness of Material of
+Sheet used for Roof of
+vehicle
+
+4 *
+
+Type of Battery as per
+AIS-048
+
+Lead Acid Lead Acid
+
+Capacity of the Battery
+approved by ICAT/ARAI
+(Ah)
+
+150 150
+
+Battery Bank Voltage
+,Nominal
+
+48 48.0
+
+Nominal Filled Weight of
+the Battery
+
+185 185.0
+
+Motor Controller ( Must
+Suitable for starting,
+accelerating, decelerating,
+driving , and stopping of E
+Vehicle
+
+- *
+
+Battery Charger 220/230V nominal input
+voltage, high efficiency type
+
+*
+
+Charging Current 25 *
+
+Type of Motor AC motor AC motor
+
+Motor Output Power ,48V
+at Full Load
+
+2000 2000.0
+
+Instrument Panel Containing
+Speedometer and Battery
+Charging Indicator
+
+Yes *
+
+Overall Efficiency of the
+e-vehicle ( to be tested
+at Full Load with
+maximum speed as per
+Concerned AIS standards
+(%)
+
+90 90
+
+Gradeability of e-vehicle , Yes *
+
+                               3 / 7
+
+
+
+ 
+
+30 Gradient -Start and Move
+with a speed of 5kmph or
+above 70 Gradient - ability
+to start and Move ( to be
+tested at full procedure as
+per AIS -003 Load (degree)
+
+Glass Windshield with wiper
+motor as approved by
+ICAT/ARAI
+
+Yes *
+
+Numbers for Roof Handles
+to ease passengers entry
+and Ride
+
+4 *
+
+Vehicle Integration ,packing
+of Electrical and electronics
+wires and devices shall be
+such that the vehicle can
+run in rainy Season without
+any problem
+
+Yes *
+
+Seat Must be Good Quality
+with Proper cushioning
+
+Yes *
+
+Vehicle lighting System LED based *
+
+Reverse Gear Facility Yes *
+
+Yellow Color reflective tape
+on Front and Rear Side of
+the Vehicle
+
+Yes *
+
+Equipped with First Aid Box Yes *
+
+Equipped with Fire
+Extinguisher
+
+Yes *
+
+Equipped with Start and
+Stop Button, parking Lights ,
+Back lights with Reverse
+Gear Facility
+
+Yes *
+
+Certification Vehicle Certification from
+VRDE, ICAT, ARAI
+
+No *
+
+Vehicle Certification
+Number and Date
+
+- *
+
+If No, Vehicle Certification
+from Others Agency ,Name
+of the Agency and
+Certificate number with
+date
+
+- *
+
+Constructional Parameters The Mounting of Batteries in
+E- vehicles shall be such
+that they are not displaced
+from their place and there is
+no spillage of electrolyte
+when vehicle is driven on
+Gradient or any aother type
+of road
+
+Yes *
+
+Seating Capacity
+(including driver)
+
+6 6
+
+Length of vehicle 3480 3.48
+
+Width of vehicle 1300 1.3
+
+Height of vehicle 1900 1.9
+
+Ground Clearance as per
+IS : 9435
+
+180 180.0
+
+                               4 / 7
+
+
+
+ 
+
+Turning Radius 4500 4500.0
+
+Wheel Base 2380 2380.0
+
+No of Wheels 4 *
+
+Size of Front Tyre (mm) - *
+
+Size of Rear Tyre (mm) - *
+
+Brake Type ( Front ) - *
+
+Brake Type ( Rear ) - *
+
+Suspension System ( Front) - *
+
+Suspension System ( Rear ) - *
+
+Maximum Overall
+Dimensions of the Battery (
+L x Wx H ) (mm3)
+
+- *
+
+Battery Make as per AIS
+:048:2009
+
+Exide Exide
+
+If others please specify the
+Name of Brand ,Otherwise
+put NA (as per AIS
+:048:2009)
+
+- *
+
+Performance Parameters Compliance to AIS- 038 for
+Battery operated vehicles
+
+Yes *
+
+Compliance to CMVR rules Yes *
+
+Speed of the e-vehicle
+(to be tested with Full
+Load ) (kmph)
+
+20 20
+
+Battery Warranty 1 *
+
+No Of Free Service 4 *
+
+Complaince of Centre of
+Gravity of Vehicle as a
+Compulsory Norms for
+Safety
+
+Yes *
+
+Confirming to Applicable
+Environmental Test
+
+Yes *
+
+Noise level must be Low
+during Operation
+
+Yes *
+
+Warranty 12 *
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Ram Kanwar 110047,NTRO, NEAR-25Bn SSB,
+AYANAGAR
+
+2  30
+
+Bid Specific Additional Terms and Conditions
+1.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last three
+
+years, ending on 31st March of the previous financial year, should be as indicated in the bid document.
+
+                               5 / 7
+
+
+
+ 
+
+Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from
+the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution shall be taken into
+account for this criteria.
+
+2.Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection
+Agency would be conducting inspection of stores before acceptance:
+Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in
+ATC): CONSTRUCTION AND RAW MATERIAL USED
+Post Receipt Inspection at consignee site before acceptance of stores: VEHICLE OVERALL INSPECTION WITH
+CAPACITY BATTERY ETC
+
+3.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each
+Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If
+service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one
+within 30 days of award of contract. Payment shall be released only after submission of documentary evidence
+of having Functional Service Centre.
+
+4.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone
+No. for Service Support.
+
+5.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for
+Service Support.
+
+6.Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have regularly,
+manufactured and supplied same or similar Category Products to any Central / State Govt Organization / PSU /
+Public Listed Company for 3 years before the bid opening date. Copies of relevant contracts to be submitted
+along with bid in support of having supplied some quantity during each of the year. In case of bunch bids, the
+primary product having highest value should meet this criterion.
+
+7.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product
+during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid
+document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a
+certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant
+period shall be uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than 3
+year old, the average turnover in respect of the completed financial years after the date of constitution shall be
+taken into account for this criteria. In case of bunch bids, the OEM of CATEGORY RELATED TO primary product
+having highest bid value should meet this criterion.
+
+8.Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods
+and Training of operators and providing Statutory Clearances required (if any)
+
+9.Timely Servicing / rectification of defects during warranty period: After having been notified of the defects /
+service requirement during warranty period, Seller has to complete the required Service / Rectification within 5
+days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of
+Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit
+the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the
+Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after
+which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and
+cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service /
+rectification to the Buyer.
+
+10.The Bidder / OEM {themselves or through reseller(s)}, should have executed project for supply and installation /
+commissioning of same or similar Category Products during preceding 3 financial years (i.e. current year and
+three previous financial years) as on opening of bid, as per following criteria:
+ 
+(i) Single order of at least 35% of estimated bid value; or
+(ii) Two orders of at least 20% each of estimated bid value; or
+(iii) Three orders of at least 15% each of estimated bid value.
+Satisfactory Performance certificate issued by respective Buyer Organization for the above Orders should be
+uploaded with bid. In case of bunch bids, the Category related to primary product having highest bid value
+should meet this criterion
+
+11.Bidders can also submit the EMD with Banker’s Cheque in favour of DIRECTOR OF ACCOUNTS NTRO payable at 
+NEW DELHI.
+Bidder has to upload scanned copy / proof of the BC along with bid and has to ensure delivery of hardcopy to the
+Buyer within 5 days of Bid End date / Bid Opening date.
+
+12.Bidder financial standing: The bidder should not be under liquidation, court receivership or similar
+proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid.
+
+13.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting the bid, Manufacturers
+Authorisation Form (MAF)/Certificate with OEM details such as name, designation, address, e-mail Id and Phone
+No. required to be furnished along with the bid.
+
+14.Bid reserved for Make In India products: Procurement under this bid is reserved for purchase from Class 1 local
+suppliers as defined in public procurement (Preference to Make in India), Order 2017 as amended from time to
+time and its subsequent Orders/Notifications issued by concerned Nodal Ministry for specific Goods/Products. The
+minimum local content to qualify as a class 1 local supplier is denoted in the bid document 50%. All bidders must
+upload a certificate from the OEM regarding the percentage of the local content and the details of locations at
+
+                               6 / 7
+
+
+
+ 
+
+which the local value addition is made along with their bid, failing which the bid is liable to be rejected. In case
+the bid value is more than Rs 10 Crore, the declaration relating to percentage of local content shall be certified
+by the statutory auditor or cost auditor, if the OEM is a company and by a practicing cost accountant or a
+chartered accountant for OEMs other than companies as per the Public Procurement (preference to Make-in
+-India) order 2017 dated 04.06.2020 . In case Buyer has selected Purchase preference to Micro and Small
+Enterprises clause in the bid, the same will get precedence over this clause.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

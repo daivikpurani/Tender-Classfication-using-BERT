@@ -1,0 +1,699 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/701632
+
+  Dated: 08-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 14:00:00
+
+Bid Opening Date/Time 20-07-2020 14:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Ministry Of Shipping
+
+Department Name Na
+
+Organisation Name Visakhapatnam Port Trust (vpt)
+
+Office Name Materials Management Division
+
+Total Quantity 1
+
+Item Category ambulances
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+
+                               1 / 8
+
+
+
+ 
+
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+
+Ambulances ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Generic Parameters Vehicle Engine
+Capacity (in cc)
+
+909 *
+
+Type of Fuel Diesel Diesel
+
+Vehicle Emission
+Complaince
+
+BS-VI BS-VI
+
+Vehicle Mileage (
+declared by OEM as
+certified by Test
+Agency under Rule
+115of CMVR 1989)
+(in KM-Liter)
+
+19.59 5 - 50
+
+Top Speed
+(KM/Hour)
+
+95 30 - 200
+
+Acceleration(0-100K
+mPH)
+
+25 1 - 60
+
+Gradeability of Vehicle
+(in Degrees)
+
+10 *
+
+Air Conditioning With With
+
+Engine BHP@rpm
+(HP@rpm)
+
+- *
+
+Engine Torque
+Max@rpm (N-M@rpm)
+
+- *
+
+No. of Cylinder in
+Engine
+
+2 2 - 10
+
+No.of Doors 5 *
+
+Fuel Tank Capacity 33 10 - 100
+
+Ground Clearance 173 *
+
+Wheel Base 1950 *
+
+Kerb Weight 1320 1 - 5000
+
+                               2 / 8
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/-OhMjszggUp6KCW3iqN-w4F7i38Sr7KSP26G5Sxyzmk
+
+
+ 
+
+Gross Vehicle
+Weight
+
+2110 Any applicable numeric
+value
+
+BIS marked
+Pneumatic Tyres and
+tubes for both front
+and rear
+
+Yes Yes
+
+Vehicle Transmission
+System
+
+Manual Automatic, Manual
+
+No. of Speed/ Forward
+Gears
+
+5 *
+
+Type of Wheel drive Two Wheel drive( Rear
+Wheel)
+
+Two Wheel drive( Front
+Wheel), Two Wheel
+drive( Rear Wheel),
+Four Wheel drive
+
+Drive Axle Rear Front, Rear, All
+
+Type of Steering Power Power
+
+Turning Radius 4700 *
+
+Vehicle Brake ABS
+Fitted
+
+Yes Yes, No
+
+Front Vehicle Brake Disc Brake Drum Brake, Disc Brake
+
+Rear Vehicle Brake Drum Brake Drum Brake, Disc Brake
+
+Vehicle Air Intake
+System
+
+TurboCharged Natural, Supercharged,
+TurboCharged
+
+Driver Airbag No Yes, No
+
+Certification
+Parameters
+
+Vehicle Certification
+ARAI/VRDE/ICAT No
+
+- *
+
+Conformity to G S R
+868(E),Central Motor
+Vehicles(Ninth Amen
+dment)Rules,2016
+and Road Ambulance
+as per AIS-125(Pt-
+I)2014with all
+amendments till
+date
+
+Yes Yes
+
+Performance
+Parameters
+
+Warranty Time (in
+months)
+
+24 12 - 60
+
+Warranty Distance
+(Km) unlimited in
+warranty period
+
+No yes, No
+
+Warranty Distance
+(Km) If not unlimited in
+warranty period
+
+60000 *
+
+Battery Warranty (in
+months)
+
+12 *
+
+No. Of Free Service 3 1 - 10
+
+                               3 / 8
+
+
+
+ 
+
+Low Fuel warning
+Light
+
+Without With, Without
+
+Central Locking No Yes, No
+
+Transportation Charges
+including transient
+insurance and
+temporary
+registration(in Rs/Km)
+
+- *
+
+Constructional
+Parameters
+
+Vehicle Colour Type Both solid & metallic Solid, Metallic, Both
+solid & metallic
+
+Colour of the Vehicle White White
+
+Type of Vehicle Body Monocoque Chassis Frame,
+Monocoque
+
+Length of Vehicle
+Body (mm)
+
+3798 3798.0 - 10000.0 Or
+higher
+
+Width of Vehicle Body 1540 *
+
+Height of Vehicle Body 1922 *
+
+Boot Space (in
+Litres)
+
+0 Any applicable numeric
+value
+
+Size Of Tyre (mm) - *
+
+Size of Wheel - *
+
+Number of
+Stretchers
+
+1 1 - 10
+
+Hat type tube
+diameter for body of
+main structure
+welded with
+
+NA for Monocoque 25 mm, NA for
+Monocoque
+
+Hat type tube
+diameter( thickness)
+for side and roof of
+main structure
+welded with
+
+NA for Monocoque 1.6 mm, NA for
+Monocoque
+
+Base Frame
+Structure
+
+NA for Monocoque ISMC, NA for
+Monocoque
+
+Exterior Panel of
+side body and roof
+
+NA for Monocoque Aluminium sheetof
+thickness 1 mm (min),
+NA for Monocoque
+
+Interior Panel of side
+body and roof
+
+GI sheet of thickness
+0.8 mm (min)
+
+GI sheet of thickness
+0.8 mm (min), NA for
+Monocoque
+
+Flooring Made Out
+from ISI Marked 12
+mm thick BWR grade
+plywood covered
+with Vinyle/
+Aluminum sheet
+
+No Yes, No
+
+Seating Plan Yes Yes
+
+                               4 / 8
+
+
+
+ 
+
+Doors Yes Yes
+
+Glasses Yes Yes, No
+
+Medical cabinet
+inside of rear saloon
+
+Yes Yes, No
+
+swiveling Fan in side
+of rear saloon
+
+No Yes, No
+
+SS washbasin with
+water tank in side of
+rear saloon
+
+No Yes, No
+
+Exhaust Fan No Yes, No
+
+Other fitments -
+Roof revolving light,
+Siren etc
+
+Yes Yes
+
+Rear Saloon Yes Yes
+
+Boot Space
+availability
+
+No Yes, No
+
+Day & Night View
+Mirror
+
+No Yes, No
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Debendra Kumar
+Sahu
+
+530035,DLB Building, 4th
+Floor, Port Area,
+Visakhapatnam
+
+1  15
+
+Special terms and conditions for category ambulances 
+
+1.Following Special Terms and Conditions (STC) would supersede the General Terms and
+Conditions (GTC) in respect of items under these categories as notified in the respective
+product category specifications
+
+1.SELLER
+1.Net Dealer Price (NDP), Discount on NDP and Total Price inclusive of Mark-up
+
+and all taxes will be indicated by Seller while offering these products on GeM.
+The mark up will not be applicable for Defence Buyer for vehicles exclusively
+offered for Defence buyer. The vehicle for Defence Buyer will be quoted
+separately with suffix Defence against each model.
+
+2.The Buyer must arrange for and provide Road Permit/s as necessary for entry
+of goods into the State where the consignee is located. The Buyer /
+Consignee should also provide the Seller with necessary Octroi Exemption
+Certificate immediately after issue of Contract to avoid payment of Town
+
+                               5 / 8
+
+
+
+ 
+
+Duty / Octroi. Road Toll Tax, Entry Tax and / or any other Local Taxes and
+Duties such as Octroi / Sales Tax if paid by the Seller will be reimbursed by
+the paying authority against production of relevant payment receipt/s.
+
+3.The freight charges will be extra and shall be calculated by seller at the time
+of invoicing by multiplying distance with freight per KM indicated in contract
+specification.
+
+4.Sellers must give below mentioned minimum discount on the prevailing MRP
+while offering their products on GeMTractors - 20%Ambulances - 12%Buses -
+20%Automotive Chassis Fitted with Engine - 15%Built up Trucks - 15%Prison
+Van Police Vehicles - 15%Troop Carrier Police Vehicles - 15%Water Truck
+Cabin Truck with Water Tank - 15%Cars - 12%Utility Vehicles - 12%Electric
+Cars - 12%Motor cycles - 12%
+
+5.Delivery Period shall be 90 days. Delivery period for Built-up Vehicles like
+Troop Carriers, Water Tankers and Buses shall be 120 days considering extra
+time involved in fabrication.
+
+6.OEMs shall ensure that the prices offered on GeM by them for a particular
+model is the lowest and no supply shall be made to any Buyer, Government
+or Private, at a price lower or equal to that of GeM. In case of violation of this,
+GeM administration will review for removal of the model from GeM including
+other action as stipulated in General Terms and Conditions of GeM.
+
+7.All manufacturers of Automobiles having ARAI,VRDE, ICAT etc of offered
+model may upload their vehicles on GeM as per above guidelines. These
+guidelines are applicable only on GeM and Government Buyers shall utilize
+the portal for making on-line purchases through GeM.
+
+2.BUYER
+1.The total price inclusive of all does not include freight charge and, therefore,
+
+it shall be extra and to be calculated on freight per KM indicated in Contract
+Specifications.
+
+2.The Contract will indicate the total amount inclusive of all taxes only without
+freight charges. Therefore, while blocking the amount 5% additional amount
+will be blocked over and above the total price inclusive of all taxes to cover
+the fund requirement for freight charges on approximate basis.
+
+3.After supply of vehicles, the Seller while submitting the invoice will indicate
+the freight amount at actual or calculate as mentioned above on per KM basis
+whichever is lower and the same should be verified by the Buyer, before
+payment.
+
+4.Defence Buyer will select the vehicle offered with suffix Defence for placing
+their Contract. The total price for Defence Buyer for a particular model does
+not include mark-up.
+
+5.No Buyer other than Defence Buyer will select vehicle with suffix Defence. In
+case Buyer does so, the responsibility for non-supply of vehicle rest with
+Buyer.
+
+6.No Government Buyer Central/State/PSU/Autonomous body/Academic
+Institute/Local Bodies etc. shall place any order at GeM prices outside GeM.
+Buyers shall note that prices on GeM are only applicable, if the procurement
+is made through GeM portal. Using GeM prices for procurement outside GeM
+portal is strictly prohibited. Such action will violate the basic principles of
+transparency and accountability enshrined in GeM. If done outside GeM the
+laid down procedure for tendering should be followed.
+
+7.For any bulk purchases, a comparison of rates and discounts may be made
+for similar vehicles and bidding may be considered as the preferred option.
+
+8.Ceiling of direct buying for PAC as mentioned in GTC will not be applicable for
+Vehicles under above mentioned categories as in these categories, only
+those models are up loaded on GeM for which manufactures agreed to accept
+discount on MRP negotiated time to time as mentioned above against each
+type of Vehicle. As such, Buyer may go for Direct Purchase even beyond Rs.
+50,000/- for Vehicles under these categories. However, if Buyer decides to go
+
+                               6 / 8
+
+
+
+ 
+
+for bidding for these products on account of large quantity or for any other
+reason, the manufactures of the vehicles are exempted from submission of
+Earnest Money Deposit and Performance Security.
+
+Bid Specific Additional Terms and Conditions
+
+1.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+2.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+3.Bid reserved for Make In India products: Procurement under this bid is reserved for purchase
+from Class 1 local suppliers as defined in public procurement (Preference to Make in India),
+Order 2017 as amended from time to time and its subsequent Orders/Notifications issued by
+concerned Nodal Ministry for specific Goods/Products. The minimum local content to qualify
+as a class 1 local supplier is denoted in the bid document 50%. All bidders must upload a
+certificate from the OEM regarding the percentage of the local content and the details of
+locations at which the local value addition is made along with their bid, failing which the bid
+is liable to be rejected. In case the bid value is more than Rs 10 Crore, the declaration
+relating to percentage of local content shall be certified by the statutory auditor or cost
+auditor, if the OEM is a company and by a practicing cost accountant or a chartered
+accountant for OEMs other than companies as per the Public Procurement (preference to
+Make-in -India) order 2017 dated 04.06.2020 . In case Buyer has selected Purchase
+preference to Micro and Small Enterprises clause in the bid, the same will get precedence
+over this clause.
+
+4.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents
+sought in the Bid document, ATC and Corrigendum if any.
+
+5.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+6.Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid
+documents. Buyers can match and verify the Data Sheet with the product specifications
+offered. In case of any unexplained mismatch of technical parameters, the bid is liable for
+rejection.
+
+7.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+8.Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have
+regularly, manufactured and supplied same or similar Category Products to any Central /
+State Govt Organization / PSU / Public Listed Company for 3 years before the bid opening
+date. Copies of relevant contracts to be submitted along with bid in support of having
+supplied some quantity during each of the year. In case of bunch bids, the primary product
+having highest value should meet this criterion.
+
+9.Preference to Make In India products (For bids less than 200 Crore):Preference shall be given
+to Class 1 local supplier as defined in public procurement (Preference to Make in India),
+Order 2017 as amended from time to time and its subsequent Orders/Notifications issued by
+concerned Nodal Ministry for specific Goods/Products. The minimum local content to qualify
+as a Class 1 local supplier is denoted in the bid document 50%. If the bidder wants to avail
+the Purchase preference, the bidder must upload a certificate from the OEM regarding the
+percentage of the local content and the details of locations at which the local value addition
+is made along with their bid, failing which no purchase preference shall be granted. In case
+the bid value is more than Rs 10 Crore, the declaration relating to percentage of local
+content shall be certified by the statutory auditor or cost auditor, if the OEM is a company
+and by a practicing cost accountant or a chartered accountant for OEMs other than
+companies as per the Public Procurement (preference to Make-in -India) order 2017 dated
+
+                               7 / 8
+
+
+
+ 
+
+04.06.2020. Only Class-I and Class-II Local suppliers as per MII order dated 4.6.2020 will be
+eligible to bid. Non - Local suppliers as per MII order dated 04.06.2020 are not eligible to
+participate. In case Buyer has selected Purchase preference to Micro and Small Enterprises
+clause in the bid, the same will get precedence over this clause.
+
+10.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+11.Successful bidder will have to ensure that adequate number of dedicated technical service
+personals / engineers are designated / deployed for attending to the Service Request in a
+time bound manner and for ensuring Timely Servicing / rectification of defects during
+warranty period, as per Service level agreement indicated in the relevant clause of the bid.
+
+12.The bidder is required to upload, along with the bid, all relevant certificates such as BIS
+licence, type test certificate, approval certificates and other certificates as prescribed in the
+Product Specification given in the bid document.
+
+13.Without prejudice to Buyer’s right to price adjustment by way of discount or any other right
+or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a
+written notice to the Seller, if:
+i) The Seller fails to comply with any material term of the Contract.
+ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within
+the stipulated Delivery Period or such inability otherwise becomes apparent.
+iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery
+Period and/or to replace/rectify any rejected or defective Material(s) promptly.
+iv) The Seller becomes bankrupt or goes into liquidation.
+v) The Seller makes a general assignment for the benefit of creditors.
+vi) A receiver is appointed for any substantial property owned by the Seller.
+vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has
+placed the Purchase Order on the Seller.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               8 / 8
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

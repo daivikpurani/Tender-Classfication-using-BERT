@@ -1,0 +1,592 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/707361
+
+  Dated: 12-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 22-07-2020 15:00:00
+
+Bid Opening Date/Time 22-07-2020 15:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Civil Aviation
+
+Department Name Na
+
+Organisation Name Directorate General Of Civil Aviation (dgca)
+
+Office Name Dgca Hqrs
+
+Total Quantity 2
+
+Item Category Tablet Based Digital Monitoring and Attendance
+System
+
+OEM Average Turnover (Last 3 Years)  1 Lakh (s)
+
+Experience Criteria  1 Year (s)
+
+MSE Exemption for Years Of Experience  Yes
+
+Startup Exemption for Years Of Experience  Yes
+
+Document required from seller  Experience Criteria,Past Performance,Certificate
+(Requested in ATC),OEM Authorization
+Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  50 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 7
+
+
+
+ 
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 50% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Tablet Based Digital Monitoring And Attendance System ( 2 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Biometric Attendance
+System
+
+Type Android Based Tablet
+having Calling Feature
+and Integrated with
+Biometric Identification
+Device Housed in
+Rugged Casing
+
+Android Based Tablet
+having Calling Feature
+and Integrated with
+Biometric Identification
+Device Housed in
+Rugged Casing
+
+Tablet Specifications Screen Size (Inches) 7 ≤ N < 8 7 ≤ N < 8
+
+Screen Type capacitive Touch
+Screen with 16 million
+colours
+
+*
+
+Screen Resolution
+(Pixel)
+
+1024 x 600 1024 x 600
+
+Screen Brightness
+(Nits)
+
+250 ≤ N < 300 250 ≤ N < 300
+
+Operating System Android Oreo 8.0 or
+Higher
+
+Android Oreo 8.0 or
+Higher
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/wpjnwaoWBNg1SshfgUkiE6Yzf7ubzJf6BEBQLHcozy8
+
+
+ 
+
+Processor Speed
+(GHz)
+
+1.3 1 - 3
+
+RAM (GB) 2 1, 2, 3, 4 Or higher
+
+Internal storage (GB) 16 16, 32, 64 Or higher
+
+Micro SD Card Support Yes *
+
+Storage
+Expandability upto
+(Through micro SD
+Card) (GB)
+
+64 4, 8, 16, 32, 64, 128
+
+Number of USB Type A
+Port
+
+1 *
+
+Number of Micro USB
+Port
+
+1 *
+
+Front Camera (Mega
+Pixel)
+
+1.3 *
+
+Rear Camera (Mega
+Pixel)
+
+0 0, 2, 5, 8, 13 Or higher
+
+Flash Functionality No *
+
+Sim Card Slot (Number) 2 *
+
+Cellular Network
+Supported
+
+4G/LTE 4G/LTE
+
+Network Interface Ethernet 10/100 *
+
+Wi-Fi Connectivity 802.11 b/g/n *
+
+Bluetooth Connectivity Yes *
+
+GPS Availability Yes Yes
+
+AGPS Functionality Yes Yes, No
+
+USB Cable Connectivity Standard + Micro Both *
+
+Built in Speakers Yes *
+
+Microphone Yes *
+
+Earphone 3.5 mm Jack *
+
+Battery Capacity
+(mAh)
+
+≥ 5000 ≥ 5000
+
+Indicative Battery
+Backup Time (Hours)
+
+4 *
+
+Biometric Attendance
+System Specification
+
+STQC Certified
+Biometric Identification
+Device
+
+Single Fingerprint
+Scanner
+
+*
+
+Capture Area FAP 30 *
+
+STQC certified Single
+Finger-Print biometric
+device for Aadhar
+Authentication with
+driver, in built template
+extractor software/SDK
+
+Yes *
+
+                               3 / 7
+
+
+
+ 
+
+(mandatorily with
+license, if required)
+
+STQC Certificate
+number (Certificate
+shall be furnished when
+demanded by buyer)
+
+- *
+
+STQC Certificate valid
+upto
+
+- *
+
+UIDAI Registered
+Device Certification
+available
+
+Yes *
+
+UIDAI Registered
+Device Certificate
+number (Certificate
+shall be furnished when
+demanded by buyer)
+
+- *
+
+UIDAI Registered
+Device Certificate valid
+upto
+
+- *
+
+Position of Biometric
+Scanner in the System
+
+fingerprint scanner
+should be
+ergonomically placed
+to support ease of
+usage for biometric
+attendance in standing
+posture of the users
+
+*
+
+IRIS Scanner
+Availability (STQC
+Certified and UIDAI RD
+Certified)
+
+No *
+
+If Yes, STQC Certificate
+number& its Validity
+
+- *
+
+If Yes, UIDAI RD
+Certificate number& its
+Validity
+
+- *
+
+Casing Device Casing Material Other Tough Material *
+
+Casing Thickness (mm) 3 *
+
+Ingress Protection
+Rating of Device
+
+NA *
+
+Drop Test Compliance
+for Casing from a
+height of 1 meter
+
+No *
+
+Option for Printing of
+Logo on Device Casing
+as per Specific
+Requirement of User(
+Logo Design will be
+provided by User if
+Needed at the time of
+PO Placement )
+
+NA *
+
+                               4 / 7
+
+
+
+ 
+
+Miscellaneous Standard accessories
+to be supplied along
+with the Machine : (a)
+Power Adapter (b)
+Charger (c) User
+Manual
+
+Provided *
+
+BIS Registration under
+CRS of Meity
+
+- *
+
+BIS Registration
+number and its validity
+
+- *
+
+ROHS Compliance
+Certificate
+
+Yes *
+
+Other Certifications
+Available
+
+FCC,UL,CE,NA *
+
+Minimum Storage
+Temperature (Degree
+C)
+
+0 *
+
+Maximum Storage
+Temperature (Degree
+C)
+
+50 *
+
+Minimum Operating
+Temperature (Degree
+C)
+
+0 *
+
+Maximum Operating
+Temperature (Degree
+C)
+
+50 *
+
+Operating Humidity
+(RH) (%)
+
+57 *
+
+Other Options Mobile Device
+Management
+Support (MDM)
+
+1 Year 1 Year, 2 Year, 3 Year,
+4 Year, 5 Year, NA
+
+Mobile Device
+Management Hosting
+(MDM)
+
+Cloud Based *
+
+Warranty On Site OEM
+Warranty (Year)
+
+1 1, 2, 3, 4, 5 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Bhagaji Vishram 411028,Govt. Gliding 2  30
+
+                               5 / 7
+
+
+
+ 
+
+Dangat Centre, Saswad Road,
+Hadapsar
+
+Special terms and conditions for category Tablet Based Digital Monitoring and
+Attendance System 
+
+1.Pre-loaded cloud based management software should be capable of contextually managing
+and monitoring the devices, pushing applications and content, pushing group based
+messages, managing through a remote web based control centre and provide web based
+MIS dashboard. The management software will allow to manage the contexts like date &
+time of use, network, geo-locations etc. in both online and offline mode. The devices should
+be provisioned for providing remote and automatic updates and upgrades from a centralized
+web based interface. The end users should not be able to uninstall this software or any
+application. The software will prevent the tablet from use by un-authorized user in case it is
+stolen and help in tracing the location. The Logo & message of the user Department for the
+users will be included in the Boot software so that it will appear on the Tablet any time it is
+switched on for use.
+
+2. If Seller is uploading product with agreement to print use’s specific logo, they will print the
+same as per design, content and style provided at by the buyer at time placement of
+purchase order without any extra cost.
+
+3.Tablet Based Biometric Attendance System shouldbe unrooted and Safety Net passed.
+
+Bid Specific Additional Terms and Conditions
+
+1.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+2.Nominated Inspection Agency: On behalf of the Buyer organization, any one of the
+following Inspection Agency would be conducting inspection of stores before acceptance:
+Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause
+has been selected in ATC): N/A
+Post Receipt Inspection at consignee site before acceptance of stores: Yes
+
+3.After award of contract – Successful Bidder shall have to get advance sample approved from
+buyer before bulk manufacturing / starting bulk supplies. Successful Bidder shall submit 2
+samples for Buyer's approval, within 5 days of award of contract. Buyer shall, as per contract
+specifications framework, either approve the advance sample or will provide complete list of
+modification required in the sample within 10 days of receipt of advance sample. Seller shall
+be required to ensure supply as per approved sample with modifications as communicated
+by Buyer. If there is delay from buyer side in approval of advance sample – the delivery
+period shall be refixed without LD for the period of delay in sample approval. In case, the
+sample is found to have major deviations / not conforming to the Contract specifications, the
+buyer at its discretion may call for fresh samples for approval before allowing bulk supplies
+or may terminate the contract after notifying the deviations to the seller.
+Unless otherwise provided in the contract, all samples required for test shall be supplied by
+the contractor free of cost. Where under the contract, the contractor is required to submit an
+advance sample, any expenses incurred by the contractor on or in connection with the
+production of stores in bulk, before the sample has been approved unconditionally shall be
+borne by the Seller and he shall not claim any compensation in the event of such sample
+being found unacceptable by the Buyer / Consignee.
+
+4.After award of contract – Successful Bidder shall have to get Detailed Design Drawings
+approved from buyer before starting fabrication. Successful Bidder shall submit Detailed
+Design Drawings for Buyer's approval, within 10 days of award of contract. Buyer shall,
+
+                               6 / 7
+
+
+
+ 
+
+either approve the drawings or will provide complete list of modification required in the
+drawings within 5 days. Seller shall be required to ensure supply as per approved Drawings
+with modifications as communicated by Buyer. If there is delay from buyer side in approval
+of drawing– the delivery period shall be refixed without LD for the period of delay in approval
+of Drawing.
+
+5.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+6.Material Test Certificate Should Be Sent Along with The Supply. The Material Will Be Checked
+by Buyer’s Lab & the Results of the Lab will be the Sole Criteria for Acceptance of the Item.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

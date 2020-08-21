@@ -1,0 +1,584 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/706074
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 17:00:00
+
+Bid Opening Date/Time 20-07-2020 17:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Science And Technology
+
+Department Name Department Of Science And Technology (dst)
+
+Organisation Name N/a
+
+Office Name Office Of Chief Controller Of Accounts
+
+Total Quantity 5
+
+Item Category Business intelligence and data analysis software (
+PAC Only ) 
+
+Bidder Turnover (Last 3 Years)  2 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  10 Lakh (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  OEM Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 6
+
+
+
+ 
+
+1. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+
+Business Intelligence And Data Analysis Software ( 5 pieces ) ( Under PAC
+) 
+
+Make tableau
+
+Model tableau
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+BASIC INFORMATION
+OF BUSINESS
+INTELLIGENCE AND
+DATA ANALYSIS
+SOFTWARE(GOLDEN)
+
+Name of Software Tableau *
+
+Name of the OEM Tableau *
+
+OEM Model / Part No. 10.5 *
+
+Product Id of OEM Tableau Desktop 10.5 *
+
+Software Description Tableau can help
+anyone see and
+understand their data.
+Connect to almost any
+database, drag and
+drop to create
+visualizations, and
+share with a click..
+Tableau Desktop is
+the authoring and
+publishing tool that is
+used to create shared
+views on Tableau
+Server. Tableau Server
+is an enterprise-class
+business analytics
+platform that can scale
+up to hundreds
+of thousands of users.
+It offers powerful
+mobile and browser-
+based analytics and
+works with a
+
+*
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/ZzbePlHcPKwjSDoDOGmh4fluxN8UMG8XWZVo3NOpBVc
+
+
+ 
+
+company’s existing
+data strategy and
+security protocols
+
+Software Version /
+Name
+
+Tableau Desktop 10.5 *
+
+Date of Launch of
+Version
+
+01/01/2018 *
+
+FEATURES AND
+FUNCTIONALITY
+PARAMETERS
+(GOLDEN)
+
+Budgeting &
+Forecasting
+
+Yes Yes
+
+Operational
+Research Capability
+
+Yes Yes
+
+Statistical Capability Yes Yes
+
+Text Analytics Yes Yes
+
+Fraud analytics Yes Yes
+
+Architecture aware
+in memory multiple
+data source support
+meta data
+management
+features
+
+Yes Yes
+
+Support Data
+Connectors
+
+Yes Yes
+
+If yes, type of support
+data connectors
+
+60+ *
+
+Predictive Analytics Yes Yes
+
+Single Sign On Yes Yes
+
+Product updates Yes Yes
+
+Deployment options Both Both
+
+Installation and
+Demonstration
+
+Yes Yes
+
+No. of days Training
+Provided at Site
+
+Upto 5 Upto 5
+
+Number of Years
+upto which Support
+(warranty) is
+available from OEM /
+Franchise online
+
+1 1
+
+FEATURES AND
+FUNCTIONALITY
+PARAMETERS(GENERIC)
+
+Master Data
+Management
+
+Yes *
+
+Data Governance Yes *
+
+Application Security Yes *
+
+Authentication &
+Security
+
+Yes *
+
+Collaboration Analytics Yes *
+
+Customizable Fields Yes *
+
+                               3 / 6
+
+
+
+ 
+
+Customizable Reporting Yes *
+
+Dashboard Creation Yes *
+
+Data Storage
+Management
+
+Yes *
+
+Interactive Content Yes *
+
+Interactive Reporting Yes *
+
+Mobile Integration Yes *
+
+Supports OLAP (Online
+Analytical Processing)
+functions
+
+Yes *
+
+Real Time Analytics Yes *
+
+Social Media Analytics Yes *
+
+Visual Analytics Yes *
+
+Geospatial support
+features
+
+Yes *
+
+Automatic date
+dimension features
+
+Yes *
+
+Intuitive interface
+custom charting
+features
+
+Yes *
+
+Activity Dashboard Yes *
+
+Access Control Yes *
+
+API Yes *
+
+Ad hoc Analysis Yes *
+
+Ad hoc Query/ Data
+Query
+
+Yes *
+
+Ad hoc Reporting Yes *
+
+Alerts & Intelligence Yes *
+
+Categorizing/ Hierarchy Yes *
+
+Content Analytics Yes *
+
+Conversion Analytics Yes *
+
+Version Control Yes *
+
+Cross-device data Yes *
+
+Data Extraction Yes *
+
+Data Filtering Yes *
+
+Data Analysis Yes *
+
+Data Visualization Yes *
+
+Data Import/Export Yes *
+
+Drag & Drop Interface Yes *
+
+Data Manipulation Yes *
+
+                               4 / 6
+
+
+
+ 
+
+Graphical Data
+Presentation
+
+Yes *
+
+Metadata Management Yes *
+
+Supports Multiple Data
+Sources
+
+Yes *
+
+Performance Reporting
+/ Monitoring
+
+Yes *
+
+Permission
+Management
+
+Yes *
+
+Product Integrations Yes *
+
+Trend Tracking /
+Problem indication and
+Analysis
+
+Yes *
+
+Widgets yes *
+
+SUPPORTED
+HARDWARE
+REQUIREMENT
+PARAMETERS
+
+Minimum Hard Disk
+Space Required
+
+50GB Free Disk Space
+on drive where
+installed
+
+*
+
+RAM Size required Minimum 4GB,
+Recommended 8GB
+
+*
+
+Server requirements NO *
+
+CPU required Intel Pentium 4 or AMD
+Opteron
+
+*
+
+Operating Systems
+supported
+
+Desktop or Laptop,
+Mobile, Tablet
+
+*
+
+Supported Devices Any Device With Web
+Browsers
+
+*
+
+Supported Servers Windows , Mac and
+linux in Beta
+
+*
+
+Supported Web
+browsers
+
+Firefox, Crome and
+Internet explorer 11 or
+above-
+
+*
+
+Supported Database 60+ *
+
+GENERIC PARAMETERS
+OF BUSINESS
+INTELLIGENCE AND
+DATA ANALYSIS
+SOFTWARE
+
+Free Upgradation to
+Higher Version
+
+Yes *
+
+Valid Licence copy to
+be provided
+
+Yes Yes
+
+Software supplied
+through
+
+URL Link *
+
+Certifications /
+Benchmarking of
+Software Products
+
+EU-US/ISAE *
+
+Hyper link to Data
+sheet
+
+www.tableau.com/desk
+top
+
+*
+
+No of Softwares sold 10000 *
+
+Number of User 25 *
+
+                               5 / 6
+
+
+
+ 
+
+Referance no. 1 with in
+Government
+Department email,
+phone no.Of concerned
+authority where
+Software/Appliance
+installed
+
+Details of Government
+Department email,
+phone no.Of concerned
+authority where
+Software /Appliance
+installed for above.
+
+Comptroller of Audit
+General Of India – Mr
+Deepak Mathews
+-8547880407
+
+*
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Rajesh Kumar
+Singh
+
+110016,PRINCIPAL
+ACCOUNTS OFFICE,
+MINISTRY OF SCIENCE &
+TECHNOLOGY, HALL 'K',
+TECHNOLOGY BHAVAN, NEW
+MEHRAULI ROAD, NEW
+DELHI 110016
+
+5  30
+
+Bid Specific Additional Terms and Conditions
+
+1. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

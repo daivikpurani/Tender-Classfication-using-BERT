@@ -1,0 +1,563 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/690825
+
+  Dated: 29-06-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 09:00:00
+
+Bid Opening Date/Time 2020-07-20 09:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence Production
+
+Organisation Name Hindustan Aeronautics Limited (hal)
+
+Office Name ***********
+
+Total Quantity 1
+
+Item Category Dental Radiovisiography (RVG) Unit with Accessories
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Certificate (Requested in ATC),OEM Authorization
+Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+Estimated Bid Value  155530.04
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+
+Splitting
+
+ Bid splitting not applied.
+
+                               1 / 6
+
+
+
+ 
+
+Dental Radiovisiography (RVG) Unit With Accessories ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Performance
+Parameters
+
+Purpose Radiovisiography (RVG)
+is a digital imaging
+system utilizing an
+intra-oral sensor in
+place of radiographic
+film
+
+*
+
+Quantity of sensors
+provided
+
+One (Adult Size) One (Adult Size)
+
+Size of the Adult
+sensor in mm x mm
+with tolerance +/-
+2mm
+
+40mm x 30mm 40mm x 30mm
+
+Size of the pediatric
+sensor in mm x mm
+with tolerance (+/-
+2mm)
+
+Not supplied 16mm x 24mm, 20mm
+x 30mm, 25mm x
+30mm, 25mm x 35mm,
+37mm x 25 mm, 40mm
+x 30mm, 43mm x
+31mm, Not supplied
+
+Sensor technology CMOS CMOS
+
+Sensor Corners Rounded Rounded
+
+Sensor Edges Tapered Tapered, Non Tapered
+
+Sensor active area
+(Adult Sensor) in sq
+mm
+
+600-700 sq mm 600-700 sq mm
+
+Sensor active area
+(Pediatric Sensor) in
+sq mm
+
+Not supplied less than 400 square
+mm, 400-500 sq mm,
+500-600 sq mm,
+600-700 sq mm, more
+than 700 sq mm, Not
+supplied
+
+Sensor thickness in
+mm
+
+5mm -7mm 5mm -7mm
+
+Sensor connects
+directly to USB port
+without any
+interface
+
+Yes Yes
+
+Sensor cable length
+(metres)
+
+2.5 m - 3m 2.5 m - 3m
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/IyyoaXIZaULUC0Eqs8vuwUxWQ6bPb33n4-TI_JI0rFg
+
+
+ 
+
+Sensor cable flexible
+and maneuverable
+
+Yes *
+
+Ergonomic design Yes *
+
+Supplied with a
+sensor positioning
+and holding device
+
+Yes Yes, No
+
+Resolution
+(Authentic test
+reports from
+NABL/ILAC/REPUTED
+GOVT LABS to
+support resolution
+claim are available
+and will be provided
+to buyer on demand)
+in lp/mm
+
+15- 20 15- 20, 20-25, 25-30,
+30-35, 35-40, 40 - 45,
+more than 45
+
+Phantom test
+reports to support
+resolution claim are
+available and will be
+provided to buyer on
+demand
+
+Yes Yes, No
+
+Sensor (including
+joint and part of
+cable length) is
+water and dust
+resistant as per IP
+Code (Authentic test
+reports from
+NABL/ILAC/REPUTED
+GOVT LABS to
+support resolution
+claim are available
+and will be provided
+to buyer on demand)
+
+IP67 IP67
+
+Ability to
+synchronize with
+desktop/ windows
+software
+
+Yes Yes
+
+Supplied with a robust
+software package with
+support and upadates
+
+Yes *
+
+No of years for
+which software
+updates supplied
+
+5 3, 5, 10
+
+Warranty in years 5 1, 2, 3, 4, 5
+
+Software Features Software Support for
+multiple database
+archive and has easy
+Patient search by
+date / assigned No /
+name / or other such
+
+Yes Yes
+
+                               3 / 6
+
+
+
+ 
+
+criteria
+
+Updated system
+diagnostic utilities
+
+Yes Yes
+
+Feature to retrieve
+data/images which
+are accidentally
+deleted
+
+Yes Yes
+
+Ability to email
+examinations /
+image directly from
+software and to read
+from email
+
+Yes Yes, No
+
+Feature of automatic
+report templates in
+pdf format
+
+Yes Yes
+
+Software has facility
+to acquire images
+from intraoral
+camera which may
+be of a different
+manufacturer
+
+Yes Yes, No
+
+Imaging Software
+Features
+
+Multiple exposure
+features for faster
+and easier exposure
+
+Yes Yes, No
+
+Automatic
+acquisition and save
+mode
+
+Yes Yes, No
+
+Sharpening /
+cleaning / improving
+features
+
+Yes Yes, No
+
+Single click
+enhancement for
+under/over exposed
+images
+
+Yes Yes, No
+
+Support for multiple
+database archive
+
+Yes Yes, No
+
+Patient search by
+date / assigned No /
+name / or other such
+criteria
+
+Yes Yes, No
+
+Updated system
+diagnostic
+utilities for Imaging
+Software
+
+Yes Yes, No
+
+Localized enhance
+feature
+
+Yes Yes, No
+
+Ability to email
+examinations /
+image  directly from
+software and to read
+
+Yes Yes, No
+
+                               4 / 6
+
+
+
+ 
+
+from email
+
+Feature of automatic
+report templates in
+pdf format for
+imaging softwares
+
+Yes Yes, No
+
+Feature of image
+calibration by
+measuring point to
+point distance
+
+Yes Yes, No
+
+Manual luminosity,
+brightness and
+contrast correction
+
+Yes Yes, No
+
+Number of years of
+experience in
+manufacturing RVG
+sensors
+(documentary proof
+will be provided to
+the buyer) on
+demand
+
+more than 3 1, 2, more than 3, NA,
+3
+
+Accessories Sleeves for sensor
+protection
+
+1000 1000
+
+Glossy paper for
+printing
+
+300 sheets 300 sheets, 500 sheets,
+1000 sheets, Not
+supplied
+
+Positioners 5 1, 2, 3, 4, 5, Not
+supplied
+
+USB Cables in m 3 3, 4, 5, 6, More than 6
+m
+
+Certfications Product/ model
+Certification
+
+- *
+
+Certification details
+such as Certificate No
+and Date
+
+- *
+
+OEM shall be holding
+ISO Certification
+
+No Yes, No
+
+ISO certification date
+and number and if not
+available put NA
+
+- *
+
+Product instruction
+mannual (Original
+brochure) to be
+supplied
+
+Yes Yes
+
+Technical
+demonstration and
+training to be arranged
+at buyer's premises
+after delivery
+
+yes *
+
+OEM  and supplier Yes Yes
+
+                               5 / 6
+
+
+
+ 
+
+certificate that
+equipment is
+original and new and
+not a refurbished /
+reconditioned
+product to be
+provided at time of
+supplies
+
+Seller agrees to
+enter in to
+Comprehensive
+Maintenance
+Contract (CMC)  with
+the Buyer at the
+expiry of warranty
+period
+
+Yes (for 5 years) Yes (for 3 years), Yes
+(for 5 years), No
+
+The equipment might
+be required to be
+installed at remote/
+field location , OEM
+authorized service
+centers will provide
+prompt  Installation,
+user training, service
+on-site  as and when
+required
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********LUCKNOW 1  45
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

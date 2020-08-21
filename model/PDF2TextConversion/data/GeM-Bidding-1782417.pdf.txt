@@ -1,0 +1,493 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/706663
+
+  Dated: 11-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 12:00:00
+
+Bid Opening Date/Time 27-07-2020 12:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 70 (Days)
+
+Ministry/State Name Ministry Of Coal
+
+Department Name Materials Management
+
+Organisation Name Northern Coalfields Limited
+
+Office Name Singrauli
+
+Total Quantity 100
+
+Item Category Pulse Oximeter
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 5
+
+
+
+ 
+
+Pulse Oximeter ( 100 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Conformity to
+Standards
+
+- *
+
+Certification number
+and date
+
+- *
+
+"Electrical safety
+conforms to standards
+for electrical safety"
+
+IEC-60601-1 or
+equivalent BIS
+
+*
+
+Performance
+Parameters
+
+Type of Pulse
+Oximeter
+
+FINGER TIP FINGER TIP
+
+Should work during
+motion and very low
+perfusion conditions
+
+Yes *
+
+Special Signal
+processing
+Technology (Motion
+artifact rejection)
+
+Masimo - SET
+technology
+
+Masimo - SET
+technology
+
+SPO2 probes Reusable Reusable
+
+Oxygen saturation
+Range
+
+0-100% *
+
+Pulse rate 25-240 BPM *
+
+Display of SPO2 and
+PR
+
+digital display with bar
+graph
+
+digital display with bar
+graph
+
+Accuracy ± 5 % *
+
+Type of Patient Adult,Pediatric,Neonata
+l
+
+Adult, Pediatric,
+Neonatal
+
+Should be shock
+proof
+
+Yes Yes, No
+
+Display (with
+contrast adjust-
+ability)
+
+LCD LCD
+
+Display should be
+Readable from at
+least 3 feet
+
+Yes Yes
+
+Saturation displayed
+on the screen
+
+Yes Yes
+
+Pulse Rate displayed
+on the screen
+
+Yes Yes, No
+
+Perfusion Index
+displayed on the
+
+Yes Yes
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/ui-ew2ipfhJTbP1FLEn3jmFVNss4DUWFRV2EhDum5vk
+
+
+ 
+
+screen
+
+Status of battery
+charging displayed
+on the screen
+
+Yes Yes, No
+
+Sensor off /on status Yes Yes
+
+Audible and visual
+Alarms
+
+Yes Yes
+
+Alarm override
+facility should be
+present
+
+Yes Yes
+
+Trends 48 hrs 48 hrs, 72 hrs, 96 hrs
+
+Type of trend
+display
+
+Graphical Tabular, Graphical
+
+Data interval in sec 3 *
+
+Power source Battery operated with
+external charger
+
+Battery operated with
+external charger
+
+Automatic switch
+from mains to
+battery in case of
+power failure
+
+Yes Yes
+
+RS 232C interface
+for data
+communication and
+transfer
+
+Yes Yes, NA
+
+Should have
+provisions for
+wireless and blue
+tooth connectivity
+
+Yes Yes
+
+Patient extension
+cable
+
+Not Provided Yes, Not Provided
+
+Power consumption in
+watts
+
+6 *
+
+Operating Temperature "Ambient temperature
+of 0 to 40 deg C and
+relative humidity of 15
+to 90%"
+
+*
+
+Weight of the machine
+in kg
+
+0.1 *
+
+Protective splash
+proof case for clean
+and strogage and
+safe transport
+provided
+
+Yes Yes
+
+Length of power
+cable
+
+3m or more 3m or more
+
+Noise level in dB 1 *
+
+Display must allow Yes *
+
+                               3 / 5
+
+
+
+ 
+
+easy viewing in all
+ambient light levels
+
+Probes Type of probe Adult,Pediatric,Neonata
+l
+
+Adult, Pediatric,
+Neonatal
+
+Probe usage Reusable Reusable
+
+Number of probes
+provided (Hint: in
+case adult , pediatric
+and neonatal are
+selected for type of
+probe all the three
+have to be given and
+in case adult &
+pediatric are
+selected both are to
+be given)
+
+1 each 1 each
+
+NIBP Parameters Non invasive blood
+pressure (NIBP)
+provided
+
+No Yes, No
+
+Type of BP
+monitoring
+
+NA (If NIBP not
+provided)
+
+Adult, Pediatric,
+Neonatal, NA (If NIBP
+not provided)
+
+NIBP range in mmH NA (If NIBP not
+provided)
+
+20-400, NA (If NIBP not
+provided)
+
+Cuff size NA (If NIBP not
+provided)
+
+Adult, Pediatric,
+Neonatal, Extra Large,
+NA (If NIBP not
+provided)
+
+Number of cuff's
+provided
+
+NA (If NIBP not
+provided)
+
+1 each, 2 each, 3 each,
+4 each, NA (If NIBP not
+provided)
+
+Warranty in years
+(without probes)
+
+3 3
+
+Warranty for probes
+in years
+
+2 2
+
+Reports Confirmity to
+Manufactures
+Certification
+
+ISO 9001 & ISO 13485 ISO 9001 & ISO 13485,
+ICMED 9001 & 13485,
+Both ISO 9001 & ISO
+13485 & ICMED 9001 &
+13485
+
+ISO/ ICMED
+Certification number
+and date
+
+- *
+
+Copies of all
+certifcations to be
+furnished to buyer on
+demand at time of
+supplies
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+
+                               4 / 5
+
+
+
+ 
+
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Sanjay Kumar
+Gupta
+
+486890,NEHRU SATABDI
+CHIKITSHALYA, PO - JAYANT,
+DISTT - SINGRAULI M.P.
+
+100  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+2.Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be
+given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs)
+Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises
+and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to
+avail the Purchase preference, the bidder must be the manufacturer of the offered product
+in case of bid for supply of goods. Traders are excluded from the purview of Public
+Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder
+must be the Service provider of the offered Service. Relevant documentary evidence in this
+regard shall be uploaded along with the bid in respect of the offered product or service. If L-1
+is not an MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of
+purchase preference /price band defined in relevant policy, such Seller shall be given
+opportunity to match L-1 price and contract will be awarded for percentage of 25% of total
+value.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

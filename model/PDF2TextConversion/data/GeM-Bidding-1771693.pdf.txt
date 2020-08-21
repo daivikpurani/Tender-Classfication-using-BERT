@@ -1,0 +1,371 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/696922
+
+  Dated: 07-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 21-07-2020 12:00:00
+
+Bid Opening Date/Time 21-07-2020 12:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence Reseach & Development
+
+Organisation Name Office Of Dg (ace)
+
+Office Name ***********
+
+Total Quantity 2
+
+Item Category Inverter with sine wave output
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 5
+
+
+
+ 
+
+Inverter With Sine Wave Output ( 2 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC Inverter Governing
+specification
+
+Generally conforming
+to IS:13314
+
+*
+
+Rating in KVA & Min.
+VAH Capacity of
+Battery
+
+2 KVA/8640 VAH 2 KVA/8640 VAH
+
+Technology MOSFET-PWM MOSFET-PWM
+
+Energy Star Rating 3 Star 3 Star
+
+Trolley without trolley without trolley
+
+Type of Battery Tubular battery
+confirming to IS:13369
+
+Tubular battery
+confirming to IS:13369
+
+Backup time (Minutes) Minimum 180 Minutes *
+
+CONSTRUCTIONAL Thickness of sheet for
+trolley (in mm)
+minimum
+
+1.2 *
+
+Trolley Material CRCA Steel *
+
+Type of enclosure CRCA Steel *
+
+Thickness of sheet for
+enclosure ( in mm)
+minimum
+
+1.2 *
+
+Inverter shall have by
+pass facility
+
+Yes *
+
+FUNCTIONAL Total Harmonic
+distortion
+
+</=5% *
+
+Input Single Phase sine
+wave(120 to 260 V)
+
+*
+
+Output Single Phase sine wave
+230 V
+
+*
+
+Inverter Efficiency (%) >/=87% *
+
+Overload Time (in
+Minutes)
+
+>/=10 *
+
+Overload of rated load
+(in %)
+
+>/=10 *
+
+PROTECTION Battery cut-off voltage
+to protect from
+overdischarge (in Volt)
+
+>10.5 *
+
+Degree of protection IP 21 *
+
+METERING AND The inverters shall be Yes *
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/iCxTFszIc8LHiftlqyYL9XG47-sI_6A3TdEVQk2tGoQ
+
+
+ 
+
+INDICATIONS provided with output
+voltage and current
+meters conforming to
+IS 2419 : 1979 and of
+an accuracy class not
+inferior to 2.5 in
+accordance with IS
+1248 : 1983
+
+CERTIFICATIONS Availability of the Type
+Test Report from
+Central Govt.
+/NABL/ILAC Accredited
+lab
+
+Yes *
+
+Climatic test report as
+per clause 7.10.1 of IS
+13314
+
+yes *
+
+Type Test Certificate
+No.
+
+- *
+
+Name of Lab - *
+
+Type Test Certificate
+date
+
+- *
+
+Address of Lab - *
+
+Inverter shall have
+valid BIS CRS
+certifications for < / =
+10 KVA
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********AHMED NAGAR 2  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+2.Bid reserved for Make In India products: Procurement under this bid is reserved for purchase
+from Class 1 local suppliers as defined in public procurement (Preference to Make in India),
+Order 2017 as amended from time to time and its subsequent Orders/Notifications issued by
+concerned Nodal Ministry for specific Goods/Products. The minimum local content to qualify
+as a class 1 local supplier is denoted in the bid document 50%. All bidders must upload a
+
+                               3 / 5
+
+
+
+ 
+
+certificate from the OEM regarding the percentage of the local content and the details of
+locations at which the local value addition is made along with their bid, failing which the bid
+is liable to be rejected. In case the bid value is more than Rs 10 Crore, the declaration
+relating to percentage of local content shall be certified by the statutory auditor or cost
+auditor, if the OEM is a company and by a practicing cost accountant or a chartered
+accountant for OEMs other than companies as per the Public Procurement (preference to
+Make-in -India) order 2017 dated 04.06.2020 . In case Buyer has selected Purchase
+preference to Micro and Small Enterprises clause in the bid, the same will get precedence
+over this clause.
+
+3.Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be
+given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs)
+Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises
+and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to
+avail the Purchase preference, the bidder must be the manufacturer of the offered product
+in case of bid for supply of goods. Traders are excluded from the purview of Public
+Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder
+must be the Service provider of the offered Service. Relevant documentary evidence in this
+regard shall be uploaded along with the bid in respect of the offered product or service. If L-1
+is not an MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of
+purchase preference /price band defined in relevant policy, such Seller shall be given
+opportunity to match L-1 price and contract will be awarded for percentage of 15% of total
+value.
+
+4.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+5.Malicious Code Certificate:
+
+The seller should upload following certificate in the bid:-
+(a) This is to certify that the Hardware and the Software being offered, as part of the
+contract, does not contain Embedded Malicious code that would activate procedures to :-
+  (i) Inhibit the desires and designed function of the equipment.
+  (ii) Cause physical damage to the user or equipment during the exploitation.
+  (iii) Tap information resident or transient in the equipment/network.
+(b) The firm will be considered to be in breach of the procurement contract, in case physical
+damage, loss of information or infringements related to copyright and Intellectual Property
+Right (IPRs) are caused due to activation of any such malicious code in embedded software.
+
+6.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 7 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+7.The successful bidder has to supply all essential accessories required for the successful
+installation and commissioning of the goods supplied. Besides standard accessories as per
+normal industry practice, following accessories must be part of supply and cost should be
+included in bid price: Warranty on Inverter - 1 Year (Mininmum), Warranty on Battery - 1
+
+                               4 / 5
+
+
+
+ 
+
+Year (Minimum).
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

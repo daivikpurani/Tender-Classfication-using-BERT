@@ -1,0 +1,650 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   RA Number: GEM/2020/RA/45473
+
+  Dated: 17-07-2020
+
+  
+
+RA Document
+RA Details
+
+RA Technical End Date/Time 20-07-2020 15:00:00
+
+RA Opening Date/Time 20-07-2020 15:30:00
+
+RA Life Cycle (From Publish Date) 90 (Days)
+
+RA Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Delhi
+
+Department Name Health And Family Welfare Department Delhi
+
+Organisation Name N/a
+
+Office Name Ambedkar Nagar Hospital Dakshin Puri Delhi 110062
+
+Total Quantity 1
+
+Item Category Cardiac Monitor with defibrillator
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+
+Splitting
+
+ RA splitting not applied.
+
+Cardiac Monitor With Defibrillator ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+                               1 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/cKCf8mOgIXPlcAzYrkCufgUaMNQFad3klO71EGdsWRk
+
+
+ 
+
+Standards Conformity to
+Certification
+
+- *
+
+Certification number
+and date
+
+- *
+
+Confirmity to
+Manufactures
+Certification
+
+ISO 9001 & ISO 13485 ISO 9001 & ISO 13485
+
+Conformity to Safety
+Standards
+
+IEC 60601-2-4 or
+Equivalent BIS
+
+*
+
+Performance
+Parameters
+
+Capability parameter
+of defibrillator
+
+ECG
+monitoring,external
+defibrillation, external
+pacing
+(transcutaneous),
+internal defibrillation
+and recording
+
+ECG
+monitoring,external
+defibrillation, external
+pacing
+(transcutaneous),
+internal defibrillation
+and recording, ECG
+Monitoring ,
+defibrillation
+
+Technology of
+defibrillator
+
+Biphasic technology *
+
+Modes in
+defibrillator
+
+Automated external
+defibrillation and
+manual
+
+Automated external
+defibrillation and
+manual
+
+Maximum energy
+selection in joules
+
+360 *
+
+Capability of ECG
+Monitoring
+
+ECG leads , multi
+function electrodes ,
+paddles
+
+*
+
+Number of wave-
+forms
+
+4 2, 3, 4
+
+Patient compatibility
+to defibrillate
+
+Adult ,pediatric
+patients
+
+Adult ,pediatric
+patients, Pediatric
+
+Type of display TFT TFT, LCD
+
+Size of display screen
+in inch
+
+8.4 *
+
+Provision to display
+ECG waveform on
+bright high resolution
+display
+
+Yes *
+
+Facility to have
+synchronized cardio
+version
+
+Yes Yes
+
+Ability to display
+CPR index on screen
+real time
+
+No Yes, No
+
+Ability to filter out
+CPR artefacts to see
+organised rhythms
+without interrupting
+
+Yes Yes, No
+
+                               2 / 7
+
+
+
+ 
+
+chest compression
+
+Provision of within built
+rechargeable battery
+
+Yes *
+
+Battery backup to
+deliver number of
+shocks at maximum
+energy
+
+50 *
+
+Weight of defibrillator
+with battery and
+paddles in Kg
+
+7 *
+
+Provision of in built
+recorder
+
+Yes Yes, No
+
+Provision of printing
+ECG trace & stored
+information
+
+Yes Yes
+
+Facility of External
+non-invasive pacing
+
+Yes Yes, No
+
+Type of external
+transcutaneous
+pacing modes
+
+Both Demand mode
+and fixed mode
+
+Demand mode, Fixed
+mode (asynchronous),
+Both Demand mode
+and fixed mode
+
+Pulse width of
+External non-
+invasive pacing in
+milli seconds
+
+40 40, NA
+
+Ability to measure
+chest compression
+rate and depth in
+real time with visual
+feedback on screen
+with rate and depth
+indicator
+
+Not Provided Integrated with
+defibrillator,
+Defibrillator with
+external sensors, Not
+Provided
+
+Facility to monitor
+EtCO2
+
+No Yes, No
+
+Facility to monitor
+NIBP
+
+Yes Yes
+
+Facility to monitor
+SPO2
+
+Yes Yes
+
+Upgradability to
+monitor EtCO2
+
+Yes Yes, No
+
+Upgradability to
+monitor NIBP
+
+No Yes, No
+
+Upgradability to
+monitor SPO2
+
+No Yes, No
+
+ECG monitoring Using 5/6 lead Using 5/6 lead
+
+Provision of user
+selectable alarm
+settings
+
+Yes *
+
+                               3 / 7
+
+
+
+ 
+
+The machine should
+work on mains as well
+as on rechargeable
+battery
+
+Yes *
+
+Ability to select energy
+from paddles
+
+Yes *
+
+Ability to charge and
+discharge through
+paddles as well as from
+main unit
+
+Yes *
+
+Facility for internal
+defibrillation
+
+No Yes, No
+
+Charging time for
+maximum energy in
+seconds
+
+7 *
+
+Mechanism of self test
+of unit
+
+Automatic and manual *
+
+Unit should do self test
+with facility to give
+printout of defibrillator
+testing report and also
+have code ready
+indicator on unit
+
+Yes *
+
+Provision of
+stainless steel
+trolley with lockable
+castors
+
+Yes Yes, No
+
+Suitability of
+defibrillator for
+transport on ground
+(ambulance)
+
+Yes Yes, No
+
+Defibrillator suitable
+to use at high
+altitudes and in air
+craft
+
+Yes Yes, No
+
+Defibrillator should
+display selected
+energy
+
+Yes Yes, No
+
+Defibrillator should
+display delivered
+energy
+
+Yes Yes, No
+
+Suitability of
+defibrillator for
+transportation in air
+(aircraft)
+
+Yes Yes, No
+
+Availaibility of
+suitable protection
+for dust and water
+
+Yes Yes, No
+
+Accessories Li-ion Battery 1 1, Not provided
+
+                               4 / 7
+
+
+
+ 
+
+ECG cable 1 1, 2, Not provided
+
+NIBP pediatric cuff
+with hose
+
+1 1, 2, Not provided
+
+NIBP adult cuff with
+hose
+
+1 1, 2, Not provided
+
+Reusable airway
+adaptor to be used
+with ETCO2 main
+stream / side stream
+sensor and cable
+
+Not provided 1, 2, Disposable airway
+adpater - 2 each for
+intubated and non
+intubated patient with
+EtCO2 mainstream
+sensor and cable, Not
+provided
+
+Disposable airway
+adpater with EtCO2
+mainstream sensor
+and cable
+
+Not provided One each for incubated
+and non intubated
+patient, 2 each for
+incubated and non
+incubated patient, Not
+provided
+
+External defibrillator
+paddles (pediatric in
+built in adult)
+
+1 1, 2, Not provided
+
+Multi Function
+Defibrillator &
+Monitoring pads/gel
+sheets
+
+5 10, 12, Not provided, 5
+
+Recorder paper roll 10 10, Not provided
+
+Reusable CPR
+feedback sensor/or
+similar product
+reused
+
+Not provided 1, 2, Not provided
+
+Miscellaneous
+Parameters
+
+Warranty in years 5 1, 2, 3, 4, 5
+
+Original User /
+Technical manuals to
+be supplied in English
+in hard and soft copy
+
+Yes *
+
+Original copy of
+operating and service
+manuals to be supplied
+in English in hard and
+soft copy
+
+Yes *
+
+Calibration and
+preventive
+maintenance certificate
+has to be provided as
+per requirement
+
+Yes *
+
+Installation,
+Demonstration and
+training to be provided
+at consignee end at
+any part of country
+
+Yes *
+
+                               5 / 7
+
+
+
+ 
+
+The Principal
+Manufacturer Must
+Have Direct
+Presence/approved
+service center In India
+
+Yes *
+
+Advanced maintenance
+task required shall be
+documented and
+procedures required for
+local calibration and
+routine maintenence
+and list of imp spare
+parts with accessories
+along with part
+numbers to be
+furnished
+
+Yes *
+
+Availabilty of toll free
+facility for technical
+support maintened by
+OEM or authorized
+agencies
+
+Yes *
+
+Provide Certificate from
+the principal that spare
+parts will be available
+from next 10 years at
+the time of supplies to
+the buyer
+
+Yes *
+
+Copies of all
+certifications to be
+provided to buyer on
+demand at time of
+supplies
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignee/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Sudhir Kumar 110062,AMBEDKAR NAGAR
+HOSPITAL, DAKSHIN PURI,
+NEW DELHI
+
+1  2
+
+Bid Specific Additional Terms and Conditions
+
+1.Provisions for workmen compensation, insurance, public liability, property damage,
+insurance etc. to be ensured by the contractor. Also, safety measures prescribed for working
+in Extra High Voltage & use of personnel protective equipment must be adhered to.
+
+                               6 / 7
+
+
+
+ 
+
+This RA is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

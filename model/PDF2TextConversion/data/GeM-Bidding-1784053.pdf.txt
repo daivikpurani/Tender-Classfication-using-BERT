@@ -1,0 +1,284 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/708168
+
+  Dated: 13-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 23-07-2020 15:00:00
+
+Bid Opening Date/Time 23-07-2020 15:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Electronics And Information Technology
+
+Department Name Na
+
+Organisation Name Centre For Development Of Advanced Computing (c-
+dac)
+
+Office Name West
+
+Total Quantity 25
+
+Item Category Hard disk drives
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank IDBI Bank
+
+EMD Percentage(%) 5.00
+
+EMD Amount 36000
+
+ePBG Detail
+
+Advisory Bank IDBI Bank
+
+ePBG Percentage(%) 10.00
+
+Duration of ePBG required (Months). 15
+
+                               1 / 4
+
+
+
+ 
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+Senior Purchase Officer
+West, NA, Centre for Development of Advanced Computing (C-DAC), Ministry of Electronics and
+Information Technology
+(Vinay Vasant Bage)
+
+Splitting
+
+  Bid splitting not applied.  
+
+Hard Disk Drives ( 25 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Specification Capacity of Drive
+(GB)
+
+1200 1200, 1228
+
+Type of Drive SAS SAS
+
+Media Diameter (cm) 2500 *
+
+Rotational Speed (rpm) 10000 *
+
+Interface Type Serial Attached SCSI *
+
+Synchronous Transfer
+Rate (Maximum) (MB/s)
+
+1200 *
+
+Buffer (MB) 45 *
+
+Cache (MB) 60 *
+
+Rated Power (Watt) 240 *
+
+Rated for 24/7/365
+operation
+
+Yes *
+
+Physical Size(Height)
+(mm)
+
+26.8 *
+
+Physical Size(Width)
+(mm)
+
+105.8 *
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/T3bioYT0PXBUD_DmwjU_BDWZknaFCGoGiX2DL5YjtnQ
+
+
+ 
+
+Operating Temperature
+Range (Degree C)
+
+- *
+
+Performance
+(Sequential Read)
+(MB/s)
+
+6000 *
+
+Performance
+(Sequential write)
+(Mb/p)
+
+6000 *
+
+Warranty (Years) 1 1
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Vinayak Waman
+Sutar
+
+411008,C-DAC C-DAC
+Innovation Park, Panchavati,
+Pashan
+
+25  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+2.Successful Bidder can submit the Performance Security in the form of Payment online
+through RTGS / internet banking also (besides PBG which is allowed as per GeM GTC). On-
+line payment shall be in Beneficiary name Centre for Development of Advanced Computing
+Account No. 60010010004258 IFSC Code IBKL0000600 Bank Name IDBI BANK Branch
+address IDBI Bank, Gokhale Road, Pune – 411016. Successful Bidder to indicate Contract
+number and name of Seller entity in the transaction details field at the time of on-line
+transfer. Bidder has to upload scanned copy / proof of the Online Payment Transfer in place
+of PBG within 15 days of award of contract.
+
+3.Bidders can also submit the EMD with Account Payee Demand Draft in favour of CDAC
+payable at PUNE.
+Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure
+delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date.
+
+4.Bidders can also submit the EMD with Payment online through RTGS / internet banking in
+Beneficiary name Centre for Development of Advanced Computing Account No. 
+60010010004258 IFSC Code IBKL0000600 Bank Name IDBI BANK Branch address  IDBI Bank,
+Gokhale Road, Pune – 411016.
+ Bidder to indicate bid number and name of bidding entity in the transaction details field at
+the time of on-line transfer. Bidder has to upload scanned copy / proof of the Online Payment
+Transfer along with bid.
+
+5.Successful Bidder can submit the Performance Security in the form of Account Payee
+Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in
+favour of CDAC payable at PUNE. After award of contract, Successful Bidder can upload
+scanned copy of the DD in place of PBG and has to ensure delivery of hard copy to the
+
+                               3 / 4
+
+
+
+ 
+
+original DD to the Buyer within 15 days of award of contract.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

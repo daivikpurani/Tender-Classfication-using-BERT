@@ -1,0 +1,359 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/707299
+
+  Dated: 12-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 22-07-2020 14:00:00
+
+Bid Opening Date/Time 22-07-2020 14:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 45 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Army
+
+Office Name ***********
+
+Total Quantity 39
+
+Item Category Line Intractive UPS with AVR
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Bidder Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 4
+
+
+
+ 
+
+Line Intractive UPS With AVR ( 39 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC Rating in KVA/ min
+VAH capacity of
+battery (KVA/VAH)
+
+0.6/84 0.6/84
+
+Technology MOSFET-PWM MOSFET-PWM
+
+Type of battery SMF-VRLA confirming
+to JISC-8702 Pt 1,2 &3
+
+SMF-VRLA confirming
+to JISC-8702 Pt 1,2 &3
+
+Rated Output (Volt) Single phase sinewave
+230v AC , 50Hz
+
+Single phase sinewave
+230v AC , 50Hz
+
+Degree of protection IP-21 IP-21
+
+Inverter Efficiency
+(%)
+
+> / = 60% > / = 60%
+
+Warranty for the
+battery from the
+date of delivery
+
+1 year 1 year
+
+Warranty for Line
+Interactive UPS
+
+2 Years 2 Years
+
+Installation and
+commissioning
+instructions
+
+Yes *
+
+CONSTRUCTIONAL Type of enclosure ABS *
+
+AC out put for
+printer (not through
+inverter)
+
+No No
+
+Inverter out put
+socket AC out put for
+printer (not through
+inverter)
+
+3 Three pin 3 Three pin
+
+FUNCTIONAL Total harmonic
+distorsion (%)
+
+< / = 40% *
+
+Input (Volt) Single phase
+sinewave(160-280v)
+
+*
+
+Switching over time
+(Mili sec)
+
+Maximum 10 milli
+seconds
+
+*
+
+Overload Time
+(Minutes)
+
+> / = 10 minutes > / = 10 minutes
+
+Load power factor > / = 0.6 > / = 0.6
+
+Variation in AVR
+output in AC mode
+(%) AVR (Voltage
+
+230 Volts +/-9%, 50
++/-3 Hz
+
+230 Volts +/-9%, 50
++/-3 Hz
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/rzmoqm3UL2ogyKPp79I53aybsrX6U1r58JQCN3eEMNY
+
+
+ 
+
+regulation) output
+voltage in AC Mode
+
+Overload (%) >/=10% *
+
+Variation in output
+voltage in battery
+mode (%) (UPS output
+voltage in battery
+mode)
+
+230 Volts +/- 10% *
+
+Variation on output
+frequency in battery
+mode (Hz)
+
+</=0.5 *
+
+PROTECTION Protection against
+(over discharge)
+discharge per 12v
+battery (Volt)
+
+10.5 *
+
+Protection for outside
+input voltage range: If
+Input voltage goes
+outside the range 160
+to 280 Volts, the
+system shall switch
+over to battery mode
+
+Yes *
+
+Protection against short
+circuit of UPS
+
+Yes *
+
+Protection for over
+voltage and over load
+
+Yes *
+
+REPORTS AND
+CERTIFICATIONS
+
+Damp heat Test at 45
+degree , RH -95% for
+2-cycle as per IS:9000
+pt-5/sec-1
+
+Yes *
+
+Dry heat Test at 45
+degree for 16 Hrs as
+per IS:9000 pt-3/sec-5
+
+Yes *
+
+Cold Test as per
+IS:9000 pt-2/sec-4
+
+Yes *
+
+Availability of the type
+test report from central
+Govt./NABL/ILAC
+Accredited Lab
+
+Yes *
+
+Type Test certificate
+no. and date
+
+- *
+
+Name Of Lab - *
+
+Address of Lab - *
+
+As per Meity
+(Government of India)
+guidelines UPS shall
+have valid BIS CRS
+certifications as
+applicable
+
+Yes *
+
+                               3 / 4
+
+
+
+ 
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********AGRA 39  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

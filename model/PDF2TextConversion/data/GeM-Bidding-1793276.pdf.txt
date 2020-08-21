@@ -1,0 +1,617 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/716530
+  Dated: 18-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 21-07-2020 18:00:00
+
+Bid Opening Date/Time 21-07-2020 18:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Uttar Pradesh
+
+Department Name Medical Education Department Uttar Pradesh
+
+Organisation Name Directorate Of Medical Education And Training
+
+Office Name Principal Autonomous State Med Coll Bahraich
+
+Total Quantity 20
+
+Item Category Multipara Monitor - Low End
+
+Experience Criteria  1 Year (s)
+
+MSE Exemption for Years Of Experience  Yes
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Bidder Turnover,Certificate (Requested in
+ATC),OEM Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the
+buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM {themselves or
+through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central
+/ State Govt Organization / PSU / Public Listed Company for number of years as indicated in the bid document before the
+bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some
+quantity during each of the year. In case of bunch bids, the category of primary product having highest value should
+meet this criterion.
+
+                               1 / 6
+
+
+
+ 
+
+Multipara Monitor - Low End ( 20 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Conformity to Certifications - *
+
+Confirmity to Manufacturing
+Standards
+
+ISO 9001 & ISO 13485 *
+
+Conformity to Safety
+Standards
+
+ISO 80601-2-49 and IEC
+60601-1 or BIS equivalent
+
+*
+
+Performance Parameters Purpose Low-end monitors are
+designed to perform basic
+vital-signs monitoring.
+These monitors may also be
+appropriate for IPD as well
+as OPD patients
+
+*
+
+Type of Monitor Preconfigured / Non Modular Preconfigured / Non Modular
+
+Monitoring Parameters ECG,HR, NIBP, PR,
+respiratory rate, SpO2, and
+body temperature
+
+*
+
+ECG parameters Number of leads of ECG 5 5
+
+12-lead interpretation
+for ECG
+
+No No
+
+Arrhythmia detection and
+analysis
+
+Yes *
+
+Number of leads
+analyzed for ECG in
+single time
+
+5 5
+
+Heart rate measurement
+range
+
+At-least 30 -250 BPM *
+
+Accuracy ± 5 BPM *
+
+Minimum gradation 1 bpm *
+
+Respiration Parameters Respiration Method Impedance pneumography *
+
+Display waveform of
+respiration
+
+Yes *
+
+Threshold control for
+respiration
+
+Yes *
+
+Respiration rate
+measurement range
+
+At-least 0-100 bpm *
+
+Minimum gradation of
+respiratory measurement
+
+1 BPM *
+
+Pulse Oximetry Parameters Measurement technique Others Others
+
+Other Measuring Techniques
+(In case measurement
+technique is nelcor, masimo
+, draeger, oxisure, trusignal
+put NA otherwise indicate
+the measurement
+technique)
+
+- *
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/2haxpMxf9I30yTJ-wJG7-8QKsJX7YATdKBdIlr8JbVY
+
+
+ 
+
+Probe type supplied Adult,Pediatric,Neonatal Adult, Pediatric, Neonatal
+
+Type of adult probe Reusable Reusable
+
+Type of pediatric probe Reusable Reusable
+
+Type of neonatal probe Reusable Reusable
+
+SPO2 measurement range Atleast 40-70 % & 70 to
+99%
+
+*
+
+Accuracy of SPO2
+measurement
+
+Better than ±1 % for 40-70
+range & better than ± 3 %
+for 70-99 range
+
+*
+
+Minimum Gradation 1% *
+
+NIBP Parameters Measurement technique for
+NIBP
+
+Step-deflation oscillometric *
+
+Cuff supplied Adult,Pediatric Adult, Pediatric
+
+Cuff size for Adult Medium Medium
+
+Cuff size for pediatric Standard Standard
+
+Cuff size for neonate Standard Standard
+
+Blood pressure monitoring
+range
+
+30-300mm/Hg *
+
+Gradation 1 mm/Hg or better *
+
+Temperature Parameters Number of channels for
+temperature
+
+1 1
+
+Probe type skin skin
+
+Temperature probe type Reusable *
+
+Temperature probe range Atleast 30 - 40 degree *
+
+Minimum gradation of temp
+probe
+
+1/10 degreeC *
+
+Accuracy in % ±1% *
+
+Length of time of full
+disclosure of patient data in
+hr
+
+≥48 *
+
+Operating conditions Capable of operating
+continuously in ambient
+temperature of 0 to 50 de c
+and relative humidity of 15
+to 90% in ideal
+circumstances
+
+*
+
+Length of time of trending in
+hr
+
+≥24 *
+
+Alarms Opeartor can set audio
+visual alarm levels for low or
+high levels of each
+parameter independently
+
+Yes *
+
+Systolic BP - low and high Yes *
+
+Diastolic BP - low and high Yes *
+
+Mean BP - low and high Yes *
+
+Heart rate - low and high Yes *
+
+SPO2 - low and high Yes *
+
+Respiratory rate - low and
+high
+
+Yes *
+
+                               3 / 6
+
+
+
+ 
+
+Temperature -low and high Yes *
+
+Alarm Volume should be
+adjustable
+
+Yes *
+
+Type of alarm Audio and Visual *
+
+Activating silence of alarm Yes *
+
+Duration of alarm silence
+in sec
+
+120 120
+
+Suspension of all alarms Yes *
+
+Latching of alarms Yes *
+
+Cuff leakage alarm Yes *
+
+Cuff disconnect alarm Yes *
+
+Alarm for inflation/deflation
+errors
+
+Yes *
+
+Low battery voltage
+indication
+
+Yes *
+
+Sensor/ wire/probe
+disconnection alarm
+
+Yes *
+
+Networking Parameters Ethernet port Yes *
+
+Wireless No No
+
+USB port Yes Yes
+
+Connectivity provision
+with Central Nursing
+Station
+
+Yes Yes
+
+Display Parameters Type of display LCD LCD
+
+Display Size,inch with
+±5% tolerance
+
+12 12
+
+Traces of display 6 or more *
+
+User Interface of display Rotary knob Rotary knob
+
+Inbuilt thermal Recorder
+(Printer)
+
+No No
+
+Display must allow easy
+viewing at all ambient light
+levels
+
+Yes *
+
+Standard Accessories Resusable SpO2 probe Adult Adult
+
+Number of adult probe 1 1
+
+Number of pediatric
+probe
+
+1 1
+
+Number of neonatal
+probe
+
+NA NA
+
+ECG cable 5 lead 5 lead
+
+Number of ECG cable 1 1
+
+Skin and Rectal
+temperature probe
+
+1 *
+
+Additional Parameters Accessories to wall
+mount the monitor
+
+No No
+
+Weight of the Machine in kg 4.2 *
+
+Noise level in dB 30 *
+
+Body of the monitor to be Yes *
+
+                               4 / 6
+
+
+
+ 
+
+strong , durable and splash
+proof
+
+Should be supplied with
+protective case for clean
+storage and safe transport
+
+Yes *
+
+Power Requirements Type of power supply in
+VAC,Hz
+
+220-240, 50Hz Single Phase *
+
+Mains cable to be atleast
+3m length Indian type 3 pin
+
+Yes *
+
+Type of battery backup Lithium-ion ,rechargeable Lithium-ion ,rechargeable
+
+Backup time in minutes 120 120
+
+Recharging time of
+battery in hr
+
+≤6 ≤6
+
+Warranty, Servicing and
+Installation
+
+Original User / Technical
+manuals to be supplied in
+English in hard and soft
+copy
+
+Yes *
+
+Installation, Demonstration
+and training to be provided
+at consignee end at any
+part of country
+
+Yes *
+
+The Principal Manufacturer
+Must Have Direct
+Presence/approved service
+center In India
+
+Yes *
+
+Advanced maintenance task
+required shall be
+documented and
+procedures required for
+local calibration and routine
+maintenence and list of imp
+spare parts with accessories
+along with part numbers to
+be furnished
+
+Yes *
+
+Availability of toll free
+facility for technical
+support maintained by
+OEM or authorized
+agencies
+
+Yes Yes
+
+Comprehensive Warranty
+in Years
+
+3 3
+
+Copies of all certifications
+and reports to be provided
+to buyer on demand at time
+of supplies
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Ashish Agrawal 271801,Maharaja Suhel dev 20  15
+
+                               5 / 6
+
+
+
+ 
+
+Autonomous State Medical
+College & Mahrishi Balark Hospital
+Bahraich
+
+Bid Specific Additional Terms and Conditions
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of
+
+Goods
+2.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each
+
+Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If
+service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one
+within 30 days of award of contract. Payment shall be released only after submission of documentary evidence
+of having Functional Service Centre.
+
+3.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone
+No. for Service Support.
+
+4.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for
+Service Support.
+
+5.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid
+document, ATC and Corrigendum if any.
+
+6.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last three
+years, ending on 31st March of the previous financial year, should be as indicated in the bid document.
+Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from
+the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution shall be taken into
+account for this criteria.
+
+7.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product
+during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid
+document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a
+certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant
+period shall be uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than 3
+year old, the average turnover in respect of the completed financial years after the date of constitution shall be
+taken into account for this criteria. In case of bunch bids, the OEM of CATEGORY RELATED TO primary product
+having highest bid value should meet this criterion.
+
+8.Timely Servicing / rectification of defects during warranty period: After having been notified of the defects /
+service requirement during warranty period, Seller has to complete the required Service / Rectification within 10
+days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of
+Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit
+the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the
+Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after
+which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and
+cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service /
+rectification to the Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

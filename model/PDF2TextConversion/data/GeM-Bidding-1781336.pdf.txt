@@ -1,0 +1,692 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/705672
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 16:00:00
+
+Bid Opening Date/Time 20-07-2020 16:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Petroleum And Natural Gas
+
+Department Name Indian Oil Corporation Limited
+
+Organisation Name Marketing Division
+
+Office Name Dabolim Afs
+
+Total Quantity 1
+
+Item Category Online UPS 10 KVA for Critical Infrastructures
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Online UPS 10 KVA For Critical Infrastructures ( 1 pieces )
+
+                               1 / 8
+
+
+
+ 
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC Online UPS should
+support for critical
+infrastructures such as
+Data Centres, Network
+operating centres,
+Security operation
+centres, State and
+District centres,
+Command and Control
+centre etc., across the
+Country to provide
+impetus to the e-
+Governnance services
+e.g.Public food
+distribution, e Way bill,
+Counseling, e-Office,
+IVFRT etc., services
+under Digital India
+Programme
+
+Yes *
+
+On Line UPS
+Capacity/Battery
+back up time at full
+load/Minimum VAH
+
+10 KVA/60
+Minutes/16385 VAH
+
+10 KVA/60
+Minutes/16385 VAH
+
+Inverter Technology PWM with IGBT, double
+conversion
+
+*
+
+Isolation transformer:
+Galvanic Isolation
+through inbuilt
+transformer at UPS
+output side
+
+Yes *
+
+Output wave form Pure sine wave *
+
+Country of origin for
+Inverter
+
+India *
+
+Noise level (1 meter
+distance from UPS)
+
+</= 55 dB *
+
+UPS shall have cold
+start facility
+
+Yes *
+
+Type of cool Air cooled *
+
+Parallel load sharing
+redundant operation
+with all accessories
+
+No Yes, No
+
+Installation and
+commissioning
+
+Yes Yes
+
+                               2 / 8
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/iStnFLU2lOjZHzDkMAQig3DVcl1_evMNogwicCsj8NY
+
+
+ 
+
+INPUT Input AC Three Phase *
+
+In put Voltage Range 320 V to AC to 460 V
+AC 3 Phase
+
+*
+
+Input frequency range 50 Hz +/-6% Hz *
+
+Input power factor at
+full output load leading
+to unity with active
+power factor correction
+(APFC)
+
+>/=0.92 *
+
+Distortion (current) Less than 10% *
+
+UPS shall have DG set
+compatibility
+
+Yes *
+
+OUTPUT Out put voltage 230 V AC +/-1% Single
+Phase
+
+*
+
+Voltage regulation
+(Steady state) at No
+load to full load, 0.6 lag
+to Unity PF, During
+entire back up time,
+Complete input voltage
+range
+
++/-1% *
+
+Frequency 50 Hz +/-0.5 % Hz *
+
+CONSTRUCTION Minimum thickness (in
+mm) of M.S.Sheet
+Enclosure for UPS duly
+powder coated
+
+1.0 *
+
+UPS shall be free from
+workmanship defects,
+sharp edges, nicks,
+scratches,burst, etc. All
+fasteners shall be fixed
+properly. The
+equipment shall be
+complete with all parts
+and all parts shall be
+functional
+
+Yes *
+
+UPS enclosure's degree
+of protection as per
+IS:13947 (Part 1)/1993
+latest
+
+IP21 *
+
+UPS shall have
+switches for: Mains
+ON/OFF MCB, Battery
+ON/OFF MCB/Fuse,
+Inverter push button
+with reset
+
+Yes *
+
+Standard quality Out
+put terminals shall be
+provided for output
+connection
+
+Yes *
+
+                               3 / 8
+
+
+
+ 
+
+UPS shall have static
+and manual by pass
+facility
+
+Yes *
+
+UPS shall be supplied
+with required rated
+power cable (Copper)
+
+5 Meters *
+
+Total Harmonic
+Distrotion (THD) for
+100% linear load
+
+<3% *
+
+Total Harmonic
+Distrotion (THD) for
+100% non-linear load
+
+<5% *
+
+Operating temeprature 0 deg C to 40 deg C *
+
+Humidity Upto 95% non-
+condensing
+
+*
+
+Crest factor on full non-
+linear load
+
+Not less than 3:1 *
+
+Over all efficiency on
+rated full load of 0.9 PF
+and 230 Volt, 50 Hz AC
+output
+
+>/=85% *
+
+Inverter efficiency on
+rated full load of 0.9 PF
+and 230 Volt, 50 Hz AC
+output
+
+>/=90% *
+
+UPS shall withstand
+Over load capacity -
+110%
+
+for 2 Minutes *
+
+UPS shall withstand
+Over load capacity -
+125%
+
+for 30 seconds *
+
+Load power factor
+lagging to unity
+
+Yes *
+
+Transient response
+time (for 100% load
+change, output must
+remain within +/-1%
+and recovery)
+
+</-20 milli seconds *
+
+PROTECTION Short circuit protection Yes *
+
+Over load protection Yes *
+
+Over temperature
+protection
+
+Yes *
+
+In put low/high voltage
+control
+
+Yes *
+
+DC low/high voltage
+trip
+
+Yes *
+
+BATTERY Battery shall
+conforming to
+
+Yes *
+
+                               4 / 8
+
+
+
+ 
+
+JISC:8702(Pt.I,II&III)
+latest
+
+Battery type SMF VRLA *
+
+Country of origin for
+Battery
+
+India *
+
+Battery recharge time
+(after complete
+discharge to 90%
+charge) and charge
+rating: Battery
+recharge time to 90%
+charge after 100% DoD
+
+8 to 10 hours *
+
+Battery charger should
+be capable to charge
+battery on C10 rating
+
+Yes *
+
+VAH tolerance -1% of the defined
+capacity
+
+*
+
+Battery cutoff voltage
+during back up
+
+Not less than 10.5 V *
+
+More than two battery
+banks should not be
+used in parallel in any
+configuration
+
+Yes *
+
+Batteries shall
+supply with
+
+With rack With moveable trolley,
+With rack
+
+Meters and Indicators UPS shall have LCD
+meter to measure and
+monitor input votlage,
+output voltage, output
+current/load level in %,
+DC current/DC level in
+%, DC voltage, input
+and output frequency
+
+Yes *
+
+UPS shall have
+indicators for Mains on,
+Load on battery,
+Inverter, Battery level,
+Load level, Inverter
+over load
+
+Yes *
+
+UPS shall have audible
+alaram for over
+temperature, mains
+failure, battery low,
+inverter overload
+
+Yes *
+
+Management port:
+Preferably SNMP
+based with
+management
+Software
+
+Yes Yes, No
+
+WARRANTY AND Warranty for UPS 3 3
+
+                               5 / 8
+
+
+
+ 
+
+SERVICES (on site
+comprehensive
+warranty) (in years)
+
+Warranty for battery
+(replacement
+warranty) (in years)
+
+2 2, 3
+
+After sales and
+complaint service
+
+within 24 hours *
+
+PAN India service
+support on 24 x 7 basis
+
+Yes *
+
+AMC support available
+after 5 year warranty
+
+Yes *
+
+Quarterly preventive
+maintenance
+
+Yes *
+
+Manufacturer shall
+provide and support for
+instllation,
+commissioning, spares,
+technical support all
+over India
+
+Yes *
+
+Availability of spares in
+close proximity (Spares
+should be easily
+available close to the
+site)
+
+Yes *
+
+CERTIFICATIONS ISO Certification Yes *
+
+CE Certification and
+marking
+
+No Yes, No
+
+Damp Heat Test : in
+accordance with
+IS:9000(part
+5/sec.2)1981 at
+Temperature of 40
+degree C,two cycles of
+(12+12) hours each
+2007)
+
+Yes *
+
+Dry Heat Test : in
+accordance with
+IS:9000 (part
+3/sec.5)1977
+(reaffirmed 2007) at 55
+degree C for 16 hrs
+
+Yes *
+
+Cold Test : in
+accordance with
+IS:9000 (Part
+2/Sec.4)1977
+(Reaffirmed 2007) at
+-10 degree C for 4 hrs.
+
+Yes *
+
+Availability of the Type
+Test Report from
+
+Yes *
+
+                               6 / 8
+
+
+
+ 
+
+Central Govt.
+/NABL/ILAC Accredited
+lab covering all
+technical requirements.
+
+As per Meity
+(Government of India)
+guidelines storage
+battery shall have valid
+BIS CRS certifications
+as applicable as on
+date
+
+Yes *
+
+As per Meity
+(Government of India)
+guidelines UPS shall
+have valid BIS CRS
+certifications as
+applicable as on date
+
+Yes *
+
+All the test reports and
+certificates shall furnish
+by the supplier to the
+buyer/consignee on
+demand
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 ROHITESH KUMAR 403801,Indian Oil
+Corporation Ltd. Dabolm AFS
+Inside INS Hansa, Dabolim
+
+1  30
+
+Special terms and conditions for category Online UPS 10 KVA for Critical Infrastructures 
+
+1.OEM should be able to attend and service the equipment within a defined time (e.g. 3 Hrs to
+24 Hrs) or else is liable to be penalized
+
+2.Only OEM may be allowed to supply, install, commission & support UPS system as only OEM
+can provide spares and technical support for immediate rectification of system fault
+
+3.Availability of spares in close proximity: To ensure higher up time (99.98%) spare should be
+easily available close to the site.
+
+4.OEM should be able to provide supply, install, commission & support in remote areas e.g. NE
+region, J&K etc.
+
+5.PAN India service network by the supplier
+6.24x7 availability of trained service personal on PAN India basis
+7.24x7 availability of spare parts on PAN India basis.
+
+                               7 / 8
+
+
+
+ 
+
+Bid Specific Additional Terms and Conditions
+
+1. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+2.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+3.Successful bidder will have to ensure that adequate number of dedicated technical service
+personals / engineers are designated / deployed for attending to the Service Request in a
+time bound manner and for ensuring Timely Servicing / rectification of defects during
+warranty period, as per Service level agreement indicated in the relevant clause of the bid.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               8 / 8
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

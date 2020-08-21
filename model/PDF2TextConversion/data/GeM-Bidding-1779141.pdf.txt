@@ -1,0 +1,383 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/703675
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 12:00:00
+
+Bid Opening Date/Time 20-07-2020 12:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Human Resource Development
+
+Department Name Department Of Higher Education
+
+Organisation Name Jawaharlal Nehru University (jnu)
+
+Office Name South West Delhi
+
+Total Quantity 1
+
+Item Category function generator
+
+Bidder Turnover (Last 3 Years)  1 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Bidder Turnover,OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+                               1 / 5
+
+
+
+ 
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+
+Function Generator ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+MEASUREMENT
+FEATURES
+
+Frequency
+Bandwidth (Sine
+Wave)
+
+10 mHz to 25 MHz 10 mHz to 25 MHz
+
+Number of channels 2 2
+
+Standard Waveforms Sine,Square,Pulse,Ram
+p,Noise,Sin(x)/x,Expone
+ntional
+rise/fall,Gussian,DC
+Offset
+
+*
+
+Band Width of
+Arbitrary Waveform
+Generator
+
+10 mHz to 25 MHz 10 mHz to 25 MHz
+
+Sample Rate of
+Arbitrary Waveform
+Generator (Mega
+Samples/sec)
+
+250 250
+
+Record Length of
+Arbitrary Waveform
+Generator (Kilo
+Points)
+
+1000 1000
+
+Waveform Memory of
+Arbitrary Waveform
+Generator (Waveforms)
+
+4 *
+
+Vertical Resolution 16 *
+
+Amplitude Range (at
+50 ohm impedance)
+
+10mV to 10 V pp 10mV to 10 V pp
+
+Modulation AM,FM,PM,FSK,Burst,P
+WM,Sweep
+
+*
+
+GENERIC Interface USB,GPIB,LAN *
+
+Display Type LED *
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/TpgFD2YuTLXzwmE6gNkbXQFIdqDQ_QYwAzilhYDOBE8
+
+
+ 
+
+Display Size 4.3 *
+
+Any others features,if
+applicable
+
+- *
+
+ACCESSORIES Details of Standard
+Accessories To be
+supplied with the
+devices
+
+- *
+
+POWER SOURCE Power Requirements 230 V +/-10% AC, 50
+Hz +/- 3%
+
+*
+
+OPERATING CONDITION Minimum Operating
+Temperature
+
+0 *
+
+Maximum Operating
+Temperature
+
+55 *
+
+Operating Humidity
+(RH) at 40 deg C non
+condensing (%)
+
+80 *
+
+SERVICE Warranty 3 3.0
+
+CERTIFICATION & TEST
+REPORT DETAILS
+
+The equipment
+supplied with
+calibration certificate
+
+yes *
+
+conformity to Dry Heat
+for 16 hrs at a specified
+maximum temp in
+accordance with IS:900
+0/part-3/section-5/1977
+latest
+
+yes *
+
+conformity to Cold Test
+for 4 hrs at a specified
+minimum temp in
+accordance with IS:900
+0/part-2/section-4/1977
+latest
+
+yes *
+
+conformity to Damp
+Heat (Cyclic)Test for 2
+Cycles of 24 h each at
+a temp of 40 degree C
+& 95% RH
+
+yes *
+
+Availability of Test
+Reports from Central
+Govt/NABL/ILAC
+approved accredited
+lab to prove conformity
+to the specification
+
+yes *
+
+Test Report Number
+and date for the
+specification test (not a
+part of biddable
+parameter)
+
+- *
+
+Name and address of
+the Lab for the
+
+- *
+
+                               3 / 5
+
+
+
+ 
+
+specification test (not a
+part of biddable
+parameter)
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Paulraj Rajamani 110067,SES, Jawaharlal
+Nehru University, New
+Campus, New Delhi
+
+1  15
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+2. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+3.Successful bidder will have to ensure that adequate number of dedicated technical service
+personals / engineers are designated / deployed for attending to the Service Request in a
+time bound manner and for ensuring Timely Servicing / rectification of defects during
+warranty period, as per Service level agreement indicated in the relevant clause of the bid.
+
+4.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 3 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+5.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+6.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+7.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+This Bid is also governed by the General Terms and Conditions
+
+                               4 / 5
+
+https://gem.gov.in/termsCondition
+
+
+ 
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+http://www.tcpdf.org
+

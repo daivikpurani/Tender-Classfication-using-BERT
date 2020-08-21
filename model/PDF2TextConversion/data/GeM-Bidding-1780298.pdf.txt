@@ -1,0 +1,304 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/704747
+
+  Dated: 09-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 09:00:00
+
+Bid Opening Date/Time 20-07-2020 09:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Air Force
+
+Office Name ***********
+
+Total Quantity 10
+
+Item Category Low Voltage Surge Protective Devices (Surge
+protector panel)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Low Voltage Surge Protective Devices (Surge Protector Panel) ( 10 pieces
+)
+
+Technical Specifications
+
+                               1 / 4
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC Governing specification "IS 16463 (Part 11) :
+2016 or IEC 61643-11 :
+2011"
+
+*
+
+No. of Phase 1 Phase 1 Phase
+
+No. of ports Two-port SPD Two-port SPD
+
+SPD Design Combination (Voltage
+switching and Voltage
+limiting)
+
+Combination (Voltage
+switching and Voltage
+limiting)
+
+Classification Class I Class I
+
+Installation Location Indoor Indoor
+
+Degree of protection
+for enclosures
+(According to IP
+code of IEC 60529)
+
+IP 20 IP 20
+
+Temperature and
+humidity range
+
+Normal Normal
+
+Power system AC between 47 Hz and
+63 Hz
+
+*
+
+Preferred values of
+impulse discharge
+current Iimp for
+class I (in kA)
+
+2 2
+
+Preferred values of
+nominal discharge
+current for class II
+tests In (in kA)
+
+1.5 1.5
+
+Preferred values of
+open-circuit voltage
+for class III tests Uoc
+(in kV)
+
+5 5
+
+Preferred values of
+voltage protection
+level Up (in kV)
+
+0.08 0.08
+
+Preferred values of
+r.m.s. maximum
+continuous
+operating voltage Uc
+(in Volts)
+
+95 95
+
+Low Voltage Surge
+Protection Device
+shall have Status
+indicators (The
+manufacturer shall
+
+Yes Yes
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/Lg9fV2ugxm7rFfMpnfylX843ijM_o_eMZYUi8Bae8d0
+
+
+ 
+
+provide information
+about the function of
+the indicator and the
+actions to be taken
+after change of
+status indication)
+
+Terminal type Screw terminal Screw terminal
+
+Warranty for Surge
+Protection Device -
+(in years) - Minimum
+
+2 2
+
+Installation and
+commissioning
+
+No No
+
+CERTIFICATIONS CE certification Yes Yes
+
+Availability of the test
+report from Central
+Govt./ NABL/ ILAC
+acredited lab
+conforming to the
+specification
+
+Yes *
+
+"Availability of
+Additional tests as
+applicable as per IS
+16463 (Part 11) :
+2016 or IEC
+61643-11 : 2011and
+test report from
+Central Govt./ NABL/
+ILAC acredited lab
+conforming to the
+specification"
+
+Yes Yes
+
+All the test reports and
+certificates shall furnish
+by the supplier to the
+buyer/consignee on
+demand
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********DARJILING 10  30
+
+                               3 / 4
+
+
+
+ 
+
+Bid Specific Additional Terms and Conditions
+
+1.Warranty period of the supplied products shall be 1 years from the date of final acceptance
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

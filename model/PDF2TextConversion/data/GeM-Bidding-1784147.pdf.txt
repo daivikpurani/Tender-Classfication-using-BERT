@@ -1,0 +1,458 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/708256
+
+  Dated: 13-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 23-07-2020 19:00:00
+
+Bid Opening Date/Time 23-07-2020 19:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 15 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Army
+
+Office Name ***********
+
+Total Quantity 1
+
+Item Category automatic and semi automatic welding equipment
+with self adjusting arcs mig/mag
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Automatic And Semi Automatic Welding Equipment With Self Adjusting
+Arcs Mig/mag ( 1 pieces )
+
+Technical Specifications
+
+                               1 / 5
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Conformation of
+automatic and semi
+automatic welding
+equipment with self
+adjusting arcs
+(MIG/MAG process)
+
+"Conformity to IS: 7931
+part 1 & Part 3"
+
+"Conformity to IS: 7931
+part 1 & Part 3"
+
+BIS marked No *
+
+If BIS marked, CM/L No
+otherwise put NA
+
+- *
+
+DC welding
+generator power
+source conform to
+IS:7931/(Part-I)/1975
+
+Yes Yes
+
+Performance
+Parameters
+
+Type of power
+Source
+
+Three Phase Supply Three Phase Supply
+
+Describe the Features
+of Power Source(RPM,
+BHP ,Cylinders Cooling
+mechanism if generator
+Type otherwise
+mention the power and
+frequency for Three
+Phase )
+
+- *
+
+Maximum automatic
+continuous welding
+current (in amp) at
+100 percent duty
+cycle (Amp @ Duty
+Cycle)
+
+310 310.0
+
+Maximum automatic
+continuous welding
+current (in amp) at
+85 percent duty
+cycle (Amp @ Duty
+Cycle)
+
+350 350.0
+
+Wire Feeder Yes *
+
+Drive System for
+Wire Feeder
+
+servo-controlled
+stepless drive system
+
+servo-controlled
+stepless drive system
+
+Wire feeder drive roll
+drive
+
+2 roll drive *
+
+Type of wire as solid /
+flux core wire
+
+solid *
+
+Type of metal which
+can be welded
+
+All (Stainless steel, Mild
+steel, Aluminium,
+Copper, Brass)
+
+All (Stainless steel, Mild
+steel, Aluminium,
+Copper, Brass)
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/QZ-T8vKZWSzRr6MWcEwBzDO2ebr8ufQ34tsANEYTx9E
+
+
+ 
+
+Pulse
+synchronization
+
+No No
+
+Current rating of
+torch at 60 % duty
+cycle (Amp @ Duty
+Cycle)
+
+400 400
+
+Type of end connectors Pana *
+
+Wire feed speed in
+mm/min
+
+18 18
+
+Class of protection IP 23 *
+
+Type of insulation class H *
+
+Rating (in Amperes) 400 400.0
+
+Type of cooling Air cooling *
+
+Complete cycle consist
+of 4.25 minutes under
+the load condition
+followed by a period of
+0.75 minutes of No-
+load operation
+
+YES *
+
+Warranty (in years) 1 1
+
+Dimensional
+Parameters
+
+Diameter of wire
+with range (in mm)
+
+(.8 to 1.2) mm (.8 to 1.2) mm
+
+Length of torch (in
+meters)
+
+3 3.0
+
+Additional Parameters Digital Current and
+voltage meter provided
+on wire feeder
+
+Yes *
+
+Wire feeder covered Yes *
+
+CO2 regulator (ISI
+marked)
+
+Yes *
+
+CO2 preheater Yes *
+
+Roller for Trolley Yes *
+
+Machine shall be
+provided with safety
+features to protect the
+operators from possible
+injuries
+
+yes *
+
+Operating and
+Instruction manuals
+
+Yes *
+
+Installation and
+Demonstration
+
+Yes *
+
+Reports Availability of Type test
+report from Govt Lab or
+any NABL/ILAC
+approved lab to prove
+conformity to the
+
+YES *
+
+                               3 / 5
+
+
+
+ 
+
+specification
+
+Test report number - *
+
+Date of test report - *
+
+Name of laboratory - *
+
+Address of laboratory - *
+
+Type Test report to be
+furnished to the buyer
+on demand at the time
+of supplies
+
+YES *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********DIMAPUR 1  15
+
+Bid Specific Additional Terms and Conditions
+
+1. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+2.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 15 days time limit. If the Seller fails to complete
+service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product
+shall be charged as penalty for each week of delay from the seller. Seller can deposit the
+penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty
+amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than
+10% of the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+3.Successful bidder will have to ensure that adequate number of dedicated technical service
+personals / engineers are designated / deployed for attending to the Service Request in a
+time bound manner and for ensuring Timely Servicing / rectification of defects during
+warranty period, as per Service level agreement indicated in the relevant clause of the bid.
+
+4.Bidder / OEM has to give an undertaking that after expiry of warranty period, it will provide
+AMC Service for next 3 years for the offered products at the rate not more than 10 % of
+contract price per annum. Buyer reserves the right to enter into an AMC agreement (
+covering preventive maintenance and servicing)with the Successful Bidder / OEM after
+expiry of the Warranty period at rate as mentioned above and the payment for the AMC
+charges would be made Annually after rendering of the AMC Services of the relevant AMC
+period. Performance Security of the successful bidder shall be forfeited if it fails to accept
+
+                               4 / 5
+
+
+
+ 
+
+the AMC contract when called upon by the buyer. The original Performance Security of
+contract will be returned only after submission and verification of AMC Performance Security
+for 10% of total AMC value valid up to AMC period plus 2 months (if there is no other claim).
+(Undertaking of acceptance to be uploaded with bid).
+
+5.Bidder / OEM has to give an undertaking that after expiry of warranty period, it will provide
+Comprehensive Maintenance Service for next 3 years for the offered products at the rate not
+more than 5 % of contract price per annum. Buyer reserves the right to enter into a CMC
+agreement with the Successful Bidder / OEM after expiry of the Warranty period at above
+mentioned rate and the payment for the CMC charges would be made Annually after
+rendering of the CMC Services of the relevant CMC period. Performance Security of the
+successful bidder shall be forfeited if it fails to accept the CMC contract when called upon by
+the buyer. CMC would include cost of 2000 (Upload the undertaking). The original
+Performance Security of contract will be returned only after submission and verification of
+AMC Performance Security for 2% of total CMC value valid up to CMC period plus 2 months
+(if there is no other claim).
+
+6.Over and above the normal Warranty terms as per GeM GTC, the successful bidder / OEM
+shall have to provide Comprehensive Warranty during the entire Standard warranty period
+as per contract. : The comprehensive warranty shall be covering the following scope 2
+(Upload an undertaking with the bid confirming compliance by the bidder if Bidder is taking
+onus of this compliance. In case OEM is taking onus of this compliance, OEM undertaking is
+to be uploaded along with Bidder undertaking)
+
+7.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+8.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+9.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+10.Pre-dispatch inspection at Seller premises (Fee/Charges to be borne by the BUYER): Before
+dispatch, the goods will be inspected by Buyer / Consignee or their Authorized
+Representative or by Nominated External Inspection Agency (independently or jointly with
+Buyer or Consignee as decided by the Buyer) at Seller premises (or at designated place for
+inspection as declared / communicated by the seller) for their compliance to the contract
+specifications. Fee/Charges taken by the External inspection Agency and any external
+laboratories testing charges shall be borne by the Buyer. For in-house testing, the Sellers will
+provide necessary facilities free of cost. Seller shall notify the Buyer through e-mail about
+readiness of goods for pre-dispatch inspection and Buyer will notify the Seller about the
+Authorized Representative/ Nominated External Inspection Agency and the date for testing.
+The goods would be dispatched to consignee only after clearance in pre-dispatch inspection.
+Consignee's right of rejection as per GTC in respect of the goods finally received at his
+location shall in no way be limited or waived by reason of the goods having previously been
+inspected, tested and passed by Buyer/ Consignee or its Nominated External Inspection
+Agency prior to the goods' shipment. While bidding, the sellers should take into account 7
+days for inspection from the date of email offering the goods for inspection. Any delay in
+inspection beyond 7 days shall be on the part of the buyer and shall be regularised without
+Liquidated Damages.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

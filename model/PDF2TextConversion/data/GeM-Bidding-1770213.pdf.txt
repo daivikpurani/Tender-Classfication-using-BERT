@@ -1,0 +1,1111 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/695570
+
+  Dated: 02-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 23-07-2020 17:00:00
+
+Bid Opening Date/Time 23-07-2020 17:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 65 (Days)
+
+Ministry/State Name Delhi
+
+Department Name Health And Family Welfare Department Delhi
+
+Organisation Name Institute Of Liver And Biliary Sciences
+
+Office Name Ilbs
+
+Total Quantity 2
+
+Item Category ICU Ventilator
+
+Bidder Turnover (Last 3 Years)  13 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  108 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years Of Experience and
+Turnover
+
+ Yes
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  50 %
+
+Bid to RA enabled  Yes
+
+CMC Required  Yes
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank HDFC Bank
+
+EMD Percentage(%) 2.00
+
+EMD Amount 54180
+
+                             1 / 13
+
+
+
+ 
+
+ePBG Detail
+
+Advisory Bank HDFC Bank
+
+ePBG Percentage(%) 10.00
+
+Duration of ePBG required (Months). 62
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+Director, ILBS
+Institute of Liver and Biliary Sciences, D-1, Vasant Kunj, New Delhi 110070
+(Director, Ilbs)
+
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 50% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+                             2 / 13
+
+
+
+ 
+
+ICU Ventilator ( 2 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Certifications for the
+product
+
+- *
+
+Certification number
+and date
+
+- *
+
+Confirmity to quality
+management standards
+
+ISO 9001 & ISO 13485 *
+
+Confirmity to electrical
+safety standards
+
+IEC 60601-1 or ISO
+80601-2-12 or BIS
+equivalent
+
+*
+
+Performance
+Parameters
+
+UMDNS Code 17-429 *
+
+Scope of item Intensive care
+ventilators are defined
+as mechanical
+ventilators that can be
+configured to provide
+invasive ventilation
+(e.g., with an
+endotracheal tube or
+tracheostomy tube) or
+noninvasive ventilation
+(eg, with a face mask)
+
+*
+
+Clinical application Mechanical ventilators
+are life support devices
+that move gas (e.g., air
+and/or oxygen) to and
+from a patient's lungs.
+These devices may
+provide temporary or
+permanent respiration
+for patients who cannot
+breathe on their own,
+or who require
+assistance maintaining
+adequate ventilation
+
+*
+
+Patient Type Adult & pediatric Adult & pediatric
+
+Type of technology Compressor Compressor
+
+Tidal volume in ml 50 ml or less - 1500 ml
+or more
+
+50 ml or less - 1500 ml
+or more
+
+Respiration rate,
+breaths/min
+
+Up to 120 or more Up to 120 or more
+
+Trigger mechanism Both pressure and flow Both pressure and flow
+
+                             3 / 13
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/sIT35ADleiVZINiNipYqQRzyxOg9KOxSRt0jYAKUFK0
+
+
+ 
+
+FiO2% 21-100 *
+
+Inspiratory flow rate,
+L/min
+
+up to 150 or more up to 150 or more
+
+Inspiratory pressure,
+cm H2O
+
+upto 80 or more upto 80 or more
+
+IE ratio 1:10 to 4:1 1:10 to 4:1
+
+Sigh breath function Yes Yes
+
+PEEP/CPAP, cm H2O upto 40 or more *
+
+Pressure support, cm
+H2O
+
+0-40 or more *
+
+Leak compensation Yes *
+
+Auto 100%/Increase O2
+button
+
+Yes *
+
+Control panel lock Yes Yes
+
+Facility for double
+lung ventilation
+
+No No
+
+Patient Assessment
+Tools
+
+Maximum wave forms
+displayed
+
+3 (Pressure and time,
+volume and time , flow
+and time)
+
+*
+
+Number of loops 2 loops (P-V, F-V) with
+facility of saving of 2
+Loops for reference
+
+2 loops (P-V, F-V) with
+facility of saving of 2
+Loops for reference
+
+Maximum trending
+time in hrs
+
+≥24 hr *
+
+Lung recruitment
+tools (PV loops) /
+OLT (Open lung
+tools)
+
+Yes Yes
+
+Lung mechanics
+visualization tool
+
+Yes Yes
+
+Capnography/CO2
+monitoring
+
+Yes Yes
+
+Esophageal /
+transpulmonary
+pressure monitoring
+
+No No
+
+Stress index Yes Yes
+
+Modes of ventilation Volume controlled,
+Pressure Controlled,
+Pressure Support, SIMV
+with Pressure support
+,SIMV with volume
+control with pressure
+support,
+,CPAP/PEEP,Inverse
+Ratio Ventilation,Non
+invasisve
+ventilation,Apnea /back
+
+*
+
+                             4 / 13
+
+
+
+ 
+
+up ventilation,SIMV
+(VC) with Pressure
+support; SIMV (PC) with
+Pressure Support; SIMV
+(PRVC) with Pressure
+Support
+
+ASV(Adaptive
+support ventilation)
+or ALT
+
+Yes Yes
+
+APRV/Bivent/Bi level Yes Yes
+
+MMV +PSV /ASV or
+ALPV or Automode
+
+Yes Yes
+
+PRVC/Auto flow Yes Yes
+
+High flow oxygen
+therapy
+
+No No
+
+Automatic weaning
+system provided
+
+Yes Yes
+
+Volume Support Yes Yes
+
+Ventilation monitoring
+facility
+
+The Ventillator is a
+Microprocessor
+Controlled ventilator
+with integrated facility
+for Ventilation
+monitoring
+
+*
+
+Monitored / Displayed
+parameters
+
+Peak inspiratory
+pressure , Mean airway
+pressure, PEEP
+pressure, Tidal volume,
+Minute volume,
+Spontaneous minute
+volume, FiO2 (analyzed
+%), Respiratory rate ,
+Inspiratory time,
+Expiratory time, IE
+ratio, Plateau Pressure
+
+*
+
+Availability of Status
+indicator for Ventilator
+mode, Battery life,
+patient data, alarm
+settings, clock etc on
+display
+
+Yes *
+
+Patient alarms Low/high FiO2,
+Low/high minute
+volume , Low
+inspiratory pressure ,
+High pressure, Low
+PEEP , High PEEP ,
+Apnea, Continuous high
+pressure/occlusion,
+Inverse IE, High
+respiratory rate,
+Breathing circuit
+
+*
+
+                             5 / 13
+
+
+
+ 
+
+disconnect
+
+Equipment alarms Gas-supply failure ,
+Power failure, Vent
+inoperative, Low
+battery, Self-diagnostic
+
+*
+
+Non-forced Slow
+Vital Capacity
+
+Yes Yes
+
+Physiologic Dead
+space
+
+No No
+
+RSBI Yes Yes
+
+Imposed work of
+Breathing ( WOBi)
+
+Yes Yes
+
+Expiratory Time
+constant ( Tcexp)
+
+Yes Yes
+
+Compliance static
+and dynamic
+
+Yes Yes
+
+Inspired and expired
+resistance
+
+Yes Yes
+
+Occlusion pressure Yes Yes
+
+Inspiratory and
+expiratory hold
+
+Yes Yes
+
+Spontaneous
+frequency
+
+Yes Yes
+
+Total peep, intrinsic
+peep, extrinsic peep
+
+Yes Yes
+
+Expiratory block is
+autoclavable and no
+routine calibration
+required
+
+Yes Yes
+
+Auto compensation
+for ET Tube
+
+Yes Yes
+
+Facility for
+automatic
+compliance &
+Leakage
+compensation for
+circuit available
+
+Yes Yes
+
+RS 232 out put port Yes Yes
+
+USB/Memory card No No
+
+Availability of Remote
+alarm/display port
+
+Yes *
+
+Facility to Report (vent
+alarms and patient
+status)
+
+Yes *
+
+HLT Compliant out
+put
+
+No No
+
+                             6 / 13
+
+
+
+ 
+
+Type of coloured
+display
+
+TFT TFT
+
+Display should be
+touch screen
+
+Yes Yes
+
+NIV (Non Invasive
+Ventilation) to be
+possible in all modes
+of ventilation
+available
+
+Yes Yes
+
+Size of display (in
+inches)
+
+15 15
+
+Graphic display have
+automatic scaling
+facility for waves
+
+Yes Yes
+
+Power supply 220-240 V , 50 Hz AC
+single phase
+
+*
+
+Provision of UPS Yes Yes
+
+Backup time in hrs 1 1
+
+Internal backup battery Yes *
+
+Backup time for
+internal battery in mins
+
+45 mins or more *
+
+Built in air source Air compressor
+(external)
+
+Air compressor
+(external)
+
+Availability of stand
+alone compressor
+
+Yes Yes
+
+Compressor
+certification
+
+European CE European CE
+
+Compressor shall
+provide an oil free
+Medical air, with
+Peak output flow
+should be minimum
+150 LPM and Air
+quality complying
+with ISO compressed
+air purity class
+
+Yes Yes
+
+Medical Air Compressor
+should automatically
+activate in the event of
+wall air supply loss and
+replacement of internal
+filters should be
+performed without
+removing the
+compressor, have
+washable air filter
+
+Yes *
+
+Seller shall ensure
+compatibility of
+compressor with
+
+Yes Yes
+
+                             7 / 13
+
+
+
+ 
+
+ventilator
+
+Inbuilt nebulizer
+with particle size
+less than 3 micron
+
+Yes Yes
+
+Comprehensive
+Warranty in years
+
+5 5
+
+Additional Accessories Reusable silicon
+breathing circuits for
+Adult,pediatric and
+Neonatal
+
+2 each *
+
+NV mask(Re
+usable)-Small,medium
+and large
+
+2 Each *
+
+Length of Power cord in
+m
+
+>3 m *
+
+Type of flow sensor Reusable Reusable
+
+No of reusable flow
+sensor
+
+2 no. *
+
+No of disposable
+flow sensor
+
+NA NA
+
+Autoclavable
+exhalation
+valve/expiratory
+cassette / filter
+
+2 *
+
+Humidifier: Servo
+controlled with
+digital monitoring of
+inspired gas
+temperature with
+heating wire
+
+1 1
+
+Trolley for ventilator
+with circuit holding arm
+
+Yes *
+
+Miscellaneous
+Parameters
+
+Number of installations
+in Central /State/PSU
+Govt Hospitals ( Hint:
+Seller should supply a
+performance certificate
+of the device to the
+buyer incase
+demanded after
+placement of order)
+
+>3 *
+
+OEM/Reseller (if
+supplied by reseller
+shall ensure
+uninterrupted
+availability of all spares
+for 10 years)
+
+Yes *
+
+Availability of toll free
+facility for technical
+support maintened by
+
+Yes *
+
+                             8 / 13
+
+
+
+ 
+
+OEM or authorized
+agencies
+
+During the warranty
+period it shall be
+ensured that all the
+break down calls are
+attended with in 24 hrs
+and the complete
+details of service
+agents / contact details
+should be furnished to
+buyer and consignee at
+time of supplies
+
+Yes *
+
+User/Technical/Mainten
+ance manuals to be
+supplied in English in
+hard and soft copy
+
+Yes *
+
+Details of equipments
+and procedures
+required for local
+calibration and routine
+maintenance to be
+supplied and advanced
+maintenance task
+documentation also to
+be furnished
+
+Yes *
+
+List of important spares
+and accessories, with
+their part numbers and
+price lists to be
+supplied to the buyer
+at the time of supplying
+the equipment
+
+Yes *
+
+Demonstration of
+equipment and training
+to be provided after
+completing supplies
+before acceptance
+
+Yes *
+
+The Principal
+Manufacturer must
+have direct
+Presence/approved
+service center In India
+
+Yes *
+
+Copies of reports and
+certifications to be
+furnished to buyer on
+demand at time of
+supplies
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+                             9 / 13
+
+
+
+ 
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 RAKESH KUMAR
+MAURYA
+
+110070,D1 Vasant Kunj 2  60
+
+Special terms and conditions for category ICU Ventilator 
+
+1.Comprehensive warrantyComprehensive warranty shall include preventive maintenance
+including calibration as per technical/ service /operational manual of the manufacturer,
+service charges and spares,. During the warranty period commencing from date of the
+successful completion of warranty period, Service personnel shall visit each consignee site
+as recommended in the manufacturer’s technical/ service /operational manual, at least once
+in six months. warranty shall not be including the consumables .Further there will be 98%
+uptime warranty during warranty period on 24 (hrs) X 7 (days) X 365 (days) basis, with
+penalty, to extend warranty period by double the downtime period.Service centresDetails of
+Service outlets in India to render services for equipment to be furnished to buyer/consignees
+with complete address ,telephone numbers, e mails etc at time of making the supplies .It
+shall be the responsibility of seller to ensure that authorized service centres are available to
+cater to the areas where supplies are made within reasonable distance from where the
+service calls can be handled .Details of toll free numbers for service call and online
+registration of service requests also to be provided buyer/consignee at the time of
+supplies.Source of supplyIt shall be responsibility of seller to provide Documents regarding
+source of equipments such as copy of Performa invoice or any other documents to establish
+that the products supplied are manufactured by OEM indicated and sourced from
+them.Packing and MarkingMedical equipments being very delicate and sensitive packing for
+the goods should be strong and durable enough to withstand transit including transhipment
+(if any), rough handling, open storage etc. without any damage, deterioration etc. .The size,
+weights and volumes of the packing cases, remoteness of the final destination of the goods,
+availability or otherwise of transport and handling facilities at all points during transit up to
+final destination,. Quality of packing, the manner of marking within & outside the packages
+and provision of accompanying documentation shall take in to consideration the type of
+medical equipments being supplied. The accessories shall be suitably labelled and packed
+.Each of the package shall be marked on three sides with indelible paint of proper quality:
+indicating contract number and date , brief description of goods including quantity ,. Packing
+list reference number , country of origin of goods and any other relevant details.Spare
+PartsSeller shall provide materials, information etc. pertaining to spare parts manufactured
+and supplied by the OEM . It shall be ensured that the required spares are available for
+purchase at least for 10 years from date of supplies .In case due to any reasons the
+production of the spare parts is discontinued sufficient advance notice should be given to
+the buyer/consignee before such discontinuation to provide adequate time to purchase the
+required spare parts etc. Further, OEM and their service centres/dealers shall carry sufficient
+inventories to assure ex-stock supply of consumables and spares for the equipments so that
+the same are available.OEM or reseller shall always accord most favoured client status to
+the buyer/consignee and shall give the most competitive price for spares and consumables
+of its machines/equipments supplied.Installation, Training, ManualsSeller shall be
+responsible to carry out Installation & commissioning, Supervision and Demonstration of the
+goods. They shall provide required jigs and tools for assembly, minor civil works for the
+completion of the installation and Training of Consignee’s representatives for operating and
+
+                            10 / 13
+
+
+
+ 
+
+maintaining the equipment and Supplying required number of operation & maintenance
+manual for the goods. In case the category parameters are specifying any requirements
+regarding the installations , training and manuals the same shall also be applicable.
+Electrical safety checkingSellers are required to make sure that they furnish the list of
+equipments for carrying out routine and preventive maintenance to buyer/consignee. They
+should make sure to periodically check the electrical safety aspects as per BIS Safety
+Standards or equivalent .In case they do not have required equipment for such testing
+should ensure that the equipments checked for electrical safety compliance through labs
+with facilities for such checking during every preventive maintenance call. Software All
+software updates should be provided free of cost during warranty period.
+
+Bid Specific Additional Terms and Conditions
+
+1.Without prejudice to Buyer’s right to price adjustment by way of discount or any other right
+or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a
+written notice to the Seller, if:
+i) The Seller fails to comply with any material term of the Contract.
+ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within
+the stipulated Delivery Period or such inability otherwise becomes apparent.
+iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery
+Period and/or to replace/rectify any rejected or defective Material(s) promptly.
+iv) The Seller becomes bankrupt or goes into liquidation.
+v) The Seller makes a general assignment for the benefit of creditors.
+vi) A receiver is appointed for any substantial property owned by the Seller.
+vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has
+placed the Purchase Order on the Seller.
+
+2.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+3.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+4.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial
+year, should be as indicated in the bid document. Documentary evidence in the form of
+certified Audited Balance Sheets of relevant periods or a certificate from the Chartered
+Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than
+3 year old, the average turnover in respect of the completed financial years after the date of
+constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of
+CATEGORY RELATED TO primary product having highest bid value should meet this criterion.
+
+5. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+6.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+7.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+                            11 / 13
+
+
+
+ 
+
+8.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+9.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents
+sought in the Bid document, ATC and Corrigendum if any.
+
+10.The bidder is required to upload, along with the bid, all relevant certificates such as BIS
+licence, type test certificate, approval certificates and other certificates as prescribed in the
+Product Specification given in the bid document.
+
+11.To be eligible for award of contract, Bidder / OEM must possess following Certificates / Test
+Reports on the date of bid opening (to be uploaded with bid): As per bid document.
+
+12.Warranty period of the supplied products shall be 5 years from the date of final acceptance
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+Additional Clause For Comprehensive Maintenance Charges 
+
+  1.CMC shall include preventive maintenance including calibration as per technical/ service
+/operational manual of the manufacturer, service charges and spares, after satisfactory completion
+of Warranty. During the CMC period commencing from date of the successful completion of
+warranty period, Service personnel shall visit each consignee site as recommended in the
+manufacturer’s technical/ service /operational manual, at least once in six months. CMC shall not be
+including the consumables. Further there will be 98% uptime warranty during CMC period on 24
+(hrs) X 7 (days) X 365 (days) basis, with penalty, to extend CMC period by double the downtime
+period.
+
+  2.CMC charges to be indicated as percentage of cost of equipment quoted for each year after the
+warranty period.
+
+  3.GST shall be included in the CMC Charges quoted.
+
+  4.Cost of CMC will be added for Ranking/Evaluation purpose with depreciation formula. A 10%
+discounting rate per year shall be applied on CMC Charges for price evaluation on present value.
+
+  5.The payment of CMC will be made on quarterly basis after satisfactory completion of said period,
+duly certified by end user.
+
+  6.While creating a bid or RA buyers shall indicate whether CMC is required against Yes/No options.
+If CMC Charges are included an option for number of years for CMC required after the warranty
+period shall be available. Under this options up to 5 years can be chosen for CMC charges beyond
+warranty period.
+
+  7.The CMC functionality shall be available in bid only and no direct RA shall be applicable. In case
+of bid to RA decrement rules shall be applicable on total price inclusive of CMC charges. Bunching of
+products shall not be available while creating bids with CMC charges.
+
+  7.1. Buyer shall indicate number of years of warranty by selecting option of 2 or 5 available in the
+field depending on warranty parameter applicable in category parameters for the equipment. The
+Seller while participating in Bid/RA will get fields to indicate CMC charges as percentage depending
+on number of years of CMC selected by Buyer. The following shall be applicable If 5 year CMC
+selected  
+
+                            12 / 13
+
+
+
+ 
+
+CMC charges for first year after warranty period – Percentage to be indicated- A 1
+CMC charges for second year after warranty period – Percentage to be indicated A2
+CMC charges for third year after warranty period – Percentage to be indicated A3
+CMC charges for fourth year after warranty period – Fixed amount to be indicated A4
+CMC charges for 5th year after warranty period – Percentage to be indicated A5
+
+7.2. The calculation of CMC Charges shall take in to account of number of years of warranty and
+duration of CMC as specified while creating bid.
+
+  7.3. In the price evaluation, the system shall provide function to calculate the cost of each
+equipment by formula indicated below including CMC and then show the inter-se- ranking of the
+bidders. The following are the variables.
+
+  (i) Number of years for which CMC required.
+  (ii) Number of years of warranty. The formula for calculating total cost including CMC charges shall
+be :
+
+  Total cost for evaluation= C+ C*( A1/100) /(1.10n) + A2/100/(1.10n+1)+ A3/100/(1.10n+2)+
+A4/100/(1.10n+3) + A5/100/(1.10n+4)
+  C – Cost for equipment quoted and n shall be number of years of warranty specified
+  If 2 year warranty specified n shall be 2 and if 5 year specified n shall be 5.
+
+  A1,A2 A3 A4 A5 shall depend on how many years CMC selected If 3 year means only A1,A2 and A3
+factor to be not taken in to account and A4 and A5 will not be applicable
+
+  7.4. CMC charges to be indicated for each subsequent year should be same or higher than
+preceding year.
+
+  7.5. The CMC charges shall be offered within range of 3 to 10% of cost of equipment.
+
+  8. Since CMC charges are to be paid only later for each year during CMC period , applicable
+performance guarantee amount after placement of contract shall be based on the cost of equipment
+and not on basis of cost of equipment along with CMC Charges.
+
+  9. Performance bank guarantee applicable for CMC is to be submitted at start of the CMC and shall
+be applicable 5% as specified in bid on the total contract value including CMC Charges The PBG
+submitted  after award of contract shall be released only after new PBG for the CMC period is
+submitted and accepted by buyer/consignee after due verification. Bank guarantee for CMC is to
+remain valid till completion of CMC period plus one year .The bank guarantee for CMC shall be
+submitted to buyer directly.
+
+  10. In case of splitting of quantity equipment cost and CMC charges offered by L-1 in the evaluated
+cost shall be matched by higher quoting eligible bidders on one to one basis .The equipment cost
+shall be matched and CMC charges shall be matched year to year.
+
+  11. The CMC Contract shall be an offline contract to be handled by buyer. The payment of CMC will
+be made on quarterly basis after satisfactory completion of said period, duly certified by end user
+and scope of CMC will be as per para 1 above.
+
+  12. The above terms and conditions shall be part of the bid as well as part of the contract. 
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                            13 / 13
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

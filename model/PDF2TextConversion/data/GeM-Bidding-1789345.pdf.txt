@@ -1,0 +1,283 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/712973
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 14:00:00
+
+Bid Opening Date/Time 27-07-2020 14:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence Reseach & Development
+
+Organisation Name Office Of Dg ( Med & Cos)
+
+Office Name ***********
+
+Total Quantity 1
+
+Item Category web application firewall
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+Estimated Bid Value  122498
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Web Application Firewall ( 1 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Specification Deployment modes Bridge mode, GATEWAY
+MODE, router mode, proxy
+mode, transparent Mode
+
+bridgemodegatewaymodero
+utermodeproxymodetranspa
+rentmode
+
+                               1 / 3
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/tByeKVJJdZDc0sdLQJ3JNHynKvVLQI-KuZ8VSM63D_Q
+
+
+ 
+
+Web Application Security HTTP/HTTPSBlocking/TimeB
+asedAccessLimit/KeywordBl
+ocking/CustomWebList/IP
+Geolocation&blacklistwhitel
+
+httphttpsblockingtimebased
+accesslimitkeywordblocking
+customweblistipgeolocation
+blacklistwhitel
+
+Concurrent Connection
+(Maximum) (Numbers)
+
+6642000 6642000
+
+HTTP Connections/Sec
+(Maximum) (Numbers)
+
+90000 90000
+
+System Throughput
+(Maximum) (Gbps)
+
+8 8
+
+Request Latency Sub-ms *
+
+Network Interface Ports - *
+
+Bypass ports for fail safe No *
+
+Attack Protection - *
+
+Detect and prevent
+attackers from finding
+hidden directories Features
+
+Available *
+
+Processor - *
+
+Storage (GB) 32 *
+
+Authentication and
+Authorization
+
+- *
+
+Integrated scanner Yes *
+
+Logging, Reporting and
+Monitoring
+
+- *
+
+Input-Output Port - *
+
+Power Supply Single *
+
+Power Consumption (Watt) 150 *
+
+Operating Temperature
+Range (Degree C)
+
+- *
+
+Storage Temperature Range
+(Degree C)
+
+- *
+
+Operating Humidity (%RH) 90 *
+
+Compliance Certificates - *
+
+Dimensions (H x W x D) (cm
+x cm x cm)
+
+- *
+
+Weight (Kg) 4.5 *
+
+Availability of test reports
+from Central Govt /NABL /
+ILAC accredited Lab
+covering all the parameters
+
+Available *
+
+If yes , Name of the Lab - *
+
+If yes, Address of the Lab - *
+
+If yes,Test Report Number
+and Date
+
+- *
+
+If yes, Test Report to be
+furnished to the buyer on
+demand
+
+NA *
+
+On SIte OEM Warranty
+(Year)
+
+3 3.0
+
+  * Specifications highlighted in bold are the Golden Parameters.
+
+                               2 / 3
+
+
+
+ 
+
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********HYDERABAD 1  15
+
+Bid Specific Additional Terms and Conditions
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of
+
+Goods
+2.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone
+
+No. for Service Support.
+3.Warranty period of the supplied products shall be 3 years from the date of final acceptance of goods or after
+
+completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee
+location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The
+seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller
+should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service
+group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to
+be uploaded along with the bid
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               3 / 3
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

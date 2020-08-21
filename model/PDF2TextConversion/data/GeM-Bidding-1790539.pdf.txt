@@ -1,0 +1,494 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/714063
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 22:00:00
+
+Bid Opening Date/Time 27-07-2020 22:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 15 (Days)
+
+Ministry/State Name Ministry Of Fisheries Animal Husbandry Dairying
+
+Department Name Department Of Animal Husbandry And Dairying
+
+Organisation Name Na
+
+Office Name New Delhi
+
+Total Quantity 1
+
+Item Category air compressors
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Air Compressors ( 1 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+PRIME MOVER Type of Prime Mover TEFC (Totally Enclosed Fan -
+Cooled) Electric Motor
+
+TEFC (Totally Enclosed Fan -
+Cooled) Electric Motor, SPDP
+(Screen Protected Drip
+Proof) Electric Motor, Diesel
+Engine Naturally Aspirated,
+
+                               1 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/Os3OlZivFBgNFQkKOwANAwhhLIqKQeudzKhVYqu103s
+
+
+ 
+
+Diesel Engine Turbo
+Charged
+
+Power Supply Three Phase, 415 ± 10% V
+AC, HZ
+
+Single Phase, 230 ± 10% V
+AC, 50 Hz, Three Phase, 415
+± 10% V AC, HZ
+
+Type of Drive Belt Drive Direct Drive, Belt Drive,
+Gear Drive
+
+"Engine oil capacity (May
+indicate '0' if Not
+Applicable)"
+
+- *
+
+"Fuel Tank capaciy (May
+indicate '0' if Not
+Applicable)"
+
+- *
+
+Make of Engine - *
+
+Model Number of Engine - *
+
+Power Rating of Prime
+Mower
+
+- *
+
+Prime Mover complies to
+latest CPCB norms
+
+NA for Electric motor *
+
+COMPRESSOR Type of Air Compressor Positive displacement -
+Reciprocating Piston Type
+
+Positive displacement -
+Reciprocating Piston Type,
+Positive displacement -
+Rotary Screw Type
+
+Duty Cycle Continuous Continuous, Intermittent
+
+Type of Mounting Tank Mounted Tank Mounted, Base
+Mounted, Skid Mounted,
+Trailer mounted
+
+Number of Stages for
+compression
+
+Two Single, Two, Three, Four,
+Five
+
+Cooling System Air Cooled Air Cooled, Water Cooled
+
+Lubrication Type Oil Lubricated Oil Lubricated, Oil-Free
+
+Inter Cooler With With, Without
+
+After Cooler Without With, Without
+
+Moisture separator Without With, Without
+
+Oil Separator Without With, Without
+
+Oil Cooler Without With, Without
+
+Refrigerated Dryer Without With, Without
+
+Heatless Dryer Without With, Without
+
+Air Filter With With, Without
+
+Rated Discharge
+Pressure (kg/cm2)
+
+12.0 to 12.9 *
+
+Gauranteed Free Air
+Delivery (FAD) at rated
+Pressure (Test procedure
+as per IS: 5456 - latest /
+ISO: 1217 - latest(CFM)
+
+48 *
+
+Discharge Air Purity in
+respect of Solid Particles
+(as per ISO 8573-1 -
+latest
+
+NA NA, CLASS X, CLASS 7,
+CLASS 6, CLASS 5, CLASS 4,
+CLASS 3, CLASS 2, CLASS 1,
+CLASS 0 Or higher
+
+Discharge Air Purity in
+respect of humidity and
+
+NA *
+
+                               2 / 5
+
+
+
+ 
+
+liquid water (as per ISO
+8573-1 - latest
+
+Discharge Air Purity in
+respect of total Oil (as
+per ISO 8573-1 - latest
+
+NA NA, CLASS X, CLASS 4,
+CLASS 3, CLASS 2, CLASS 1,
+CLASS 0 Or higher
+
+Noise level in dB 80 *
+
+conformity to Standards IS: 5456 - latest *
+
+Compressor - ISI Marked
+to IS: 5456 - latest
+
+No Yes, No
+
+"If ISI marked, BIS License
+number (CM/L No) (May
+indicate '0' if Not
+Applicable)"
+
+- *
+
+BATTERY Battery Type & Specification NA *
+
+"Battery capacity (Ah) (May
+indicate '0' if Not
+Applicable)"
+
+0 *
+
+"No of batteries required for
+operation (May indicate '0' if
+Not Applicable)"
+
+0 *
+
+"No of batteries (inclusive in
+the scope of supply) (May
+indicate '0' if Not
+Applicable)"
+
+0 *
+
+Availability of Test
+Report for Battery as per
+conforming specification
+
+NA Yes, No, NA
+
+AIR RECEIVER Air Receiver Supplied
+with Compressor
+
+Yes Yes, No
+
+Layout of Air Receiver Horizontal *
+
+Conformity to Indian
+Standard
+
+Generally conforming to IS
+7938 - latest
+
+*
+
+Capacity of Air Receiver
+(Liters)
+
+500 *
+
+"Maximum Working
+Pressure (May indicate
+'0' if Not Applicable)"
+
+12 0 - 60
+
+INTER COOLER / AFTER
+COOLER
+
+Type of Inter Cooler /
+After Cooler
+
+Shell and Tube Type Shell and Tube Type, Plate
+Type, Shell and Plate Type,
+NA
+
+Design of Tube / Plate of
+Inter Cooler / After
+Cooler
+
+Finned Finned, Smooth Wall, NA
+
+Material of Shell Carbon Steel Carbon Steel, Stainless
+Steel, NA
+
+Material of Tube / Plate Copper Alloy Carbon Steel, Stainless
+Steel, Aluminium Alloy,
+Copper Alloy, NA
+
+Material of Fin Carbon Steel Carbon Steel, Stainless
+Steel, Aluminium, Copper,
+NA
+
+TRAILER Trailer Without With, Without
+
+"Weight of Trailer with draw
+bar (May indicate '0' if Not
+Applicable)"
+
+0 *
+
+                               3 / 5
+
+
+
+ 
+
+"No of wheels (May indicate
+'0' if Not Applicable)"
+
+0 *
+
+Type of wheel Tyre NA *
+
+"Wheel Tyre size (May
+indicate '0' if Not
+Applicable)"
+
+0 *
+
+"Trailer Complying to CMVR
+act and Regulation supplied
+(Note: Mandatory with
+Mobile air compressor)"
+
+NA *
+
+Instrumentation and safety
+devices
+
+Instrumentation and
+safety devices
+
+Safety Valve on air/oil
+separator vessel,Unloaded
+Valve,Discharge pressure
+gauge,Lubricating oil
+pressure gauge,High air
+discharge pressure safety
+switch,High air discharge
+temperature safety
+switch,Power-‘On-off’ light
+indicator,Mains Circuit
+Breaker,Pressure gauges for
+each interstages manifold
+and for final air
+discharge,Safety Valve on
+Air Receiver
+
+*
+
+OPERATING CONDITIONS Minimum Operating
+Temperature
+
+5 -10, -5, 0, 5, 10 Or lower
+
+Maximum Operating
+Temperature
+
+50 50, 55, 60, 65, 70 Or higher
+
+Operating Humidity, Rh
+at 40 deg C
+
+65 65, 70, 75, 80, 85, 90, 95 Or
+higher
+
+Maximum Altitude
+without derating
+correction
+
+1000 *
+
+WARRANTY Warranty on Compressor
+Equipment
+
+1 1, 2, 3, 4, 5 Or higher
+
+"Warrnty on Air End
+(May indicate '0' if Not
+Applicable)"
+
+0 0, 1, 2, 3, 4, 5 Or higher
+
+Warranty on Prime
+Mover
+
+1 1, 2, 3, 4, 5 Or higher
+
+Warranty on Battery 0 1, 2, 3, 4, 5, 0 Or higher
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Delivery Schedule (In number of days from
+contract start days)
+
+1 Runtu Gogoi 125001,Post Box No-10 Hisar
+(Haryana)
+
+  Quantity Delivery to
+start after
+
+Delivery to be
+completed by
+
+1 3 5
+
+                               4 / 5
+
+
+
+ 
+
+Bid Specific Additional Terms and Conditions
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2.Warranty period of the supplied products shall be 1 years from the date of final acceptance of goods or after
+
+completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee
+location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The
+seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller
+should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service
+group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to
+be uploaded along with the bid
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,683 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/709680
+
+  Dated: 14-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 14:00:00
+
+Bid Opening Date/Time 27-07-2020 14:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Agriculture And Farmers Welfare
+
+Department Name Department Of Agricultural Research And Education
+(dare)
+
+Organisation Name N/a
+
+Office Name Rajendra Prasad Central Agril University Bihar
+
+Total Quantity 1
+
+Item Category Live Remote Temperature & Humidity Monitoring and
+Alert System
+
+OEM Average Turnover (Last 3 Years)  2 Lakh (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Certificate (Requested in ATC),OEM Authorization
+Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+                               1 / 7
+
+
+
+ 
+
+1. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+
+Live Remote Temperature & Humidity Monitoring And Alert System ( 1
+pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+General Application of Type of
+IOT Device
+
+Live Remote
+Temperature &
+Humidity Monitoring
+and Alert System
+
+*
+
+Items covered in the
+System
+
+1. IOT Device for
+measuring &
+monitoring of
+temperature,2.IOT
+Device for measuring &
+monitoring of
+temperature &
+Humidity,3. Software
+for IOT device for
+monitoring
+
+1. IOT Device for
+measuring &
+monitoring of
+temperature, 2.IOT
+Device for measuring &
+monitoring of
+temperature &
+Humidity, 3. Software
+for IOT device for
+monitoring
+
+Activation &
+Demonstration of
+the product
+
+No Yes, No
+
+Demonstration Type onsite,remote,NA onsite, remote, NA
+
+Number of Years
+upto which Support
+is available from
+OEM/Seller
+
+1 1, 2, 3, 4, 5, NA
+
+IoT Device Features of IOT
+Device
+
+1. To measure, observe
+and monitor
+Temperature &
+Humidity in a real time
+remotely and send
+alerts when there is
+deviation from defined
+temperature range.,2.
+Captures the location
+
+1. To measure, observe
+and monitor
+Temperature &
+Humidity in a real time
+remotely and send
+alerts when there is
+deviation from defined
+temperature range., 2.
+Captures the location
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/-LC3Y_N8W2yKjV-htASF3fec_O4xcGzWNc6jkZgOIQo
+
+
+ 
+
+detail of monitoring
+unit.,3. User
+configurable sampling
+and data reporting
+frequency,4. NA
+
+detail of monitoring
+unit., 3. User
+configurable sampling
+and data reporting
+frequency, 4. NA
+
+Key components in
+the IoT device
+
+1. Temperature
+Sensor,2. Humidity
+Sensor,3.
+Microcontroller,4.
+Communication
+module,5. Battery,6.
+NA
+
+1. Temperature Sensor,
+2. Humidity Sensor, 3.
+Microcontroller, 4.
+Communication
+module, 5. Battery, 6.
+NA
+
+Type of Monitoring Temperature,Humidity,
+NA
+
+Temperature,
+Humidity, NA
+
+No Of data readings
+stored in memory (in
+Thousand)
+
+1,1.5,2,NA 1, 1.5, 2, NA
+
+Sensor type Internal,External,NA Internal, External, NA
+
+Firmware Embedded based *
+
+Visual display
+available in the
+offered product
+
+LED LED, OLED, LCD,
+PLASMA, TFT, GRAPHIC,
+NA
+
+Make and Model of the
+IOT Device
+
+- *
+
+OEM of the IOT Device - *
+
+Warranty on the IOT
+device (years)
+
+1 1, 2, 3, 4, 5, NA
+
+Temperature Sensor Temperature Sensor
+Type
+
+Remote thermal diode
+temperature sensor Ics
+
+*
+
+Sensitivity(in ˚C) ± 1 ±0.5, ± 1, ±1.5, ±2,
+NA
+
+Temperature
+Resolution
+
+1 0.5, 1, NA
+
+Minimum Operating
+Temperature(in ˚C)
+(Hint: Select "0" if
+not applicable )
+
+0 -30 - 20
+
+Maximum Operating
+Temperature(in ˚C)
+(Hint: Select "0" if
+not applicable; )
+
+60 -20 - 60
+
+Humidity Sensor RH Sensor Type 1. Capacitive *
+
+Humidity Range(in %
+RH) (Hint: Select "0"
+if not applicable)
+
+100 0 - 100
+
+Accuracy (in % RH) ±3 ±2, ±3, NA
+
+Sensitivity(in % RH) ±0.2 ±0.1, ±0.2, NA
+
+                               3 / 7
+
+
+
+ 
+
+Communication Module Communication
+protocols Supported
+
+2G ( quad band),3G,4G
+(LTE),Wi-
+fi,Bluetooth,NA
+
+2G ( quad band), 3G,
+4G (LTE), Wi-fi,
+Bluetooth, NA
+
+Microcontroller Bit core 8 4, 8, 16-single, 16-dual,
+32-single, 32-dual, 32-
+tri, 32-quad, NA
+
+Core processor NA 8051/52, ARM, FT32,
+F2MC, MAXQ, MSP,
+XCORE, NA
+
+Memory type FLASH *
+
+Memory Size in KB
+(Hint: Select "0" if
+not applicable; )
+
+56 0 - 2048
+
+Battery Type of Battery NA Rechargeable Battery,
+Non-Rechargeable
+Battery, NA
+
+Number of Batteries NA 1, 2, 3, 4, 5, NA
+
+Chemistry of Battery NA Li-ion, Ni-MH, SMF,
+Alkaline, Lithium
+Polymer, NA
+
+Battery Size NA *
+
+Capacity of Battery
+(in mAh) (Hint:
+Select "0" if not
+applicable; )
+
+0 0 - 6000
+
+Minimum Battery
+Back Up Time ( in
+days) as per
+standard sampling
+and data reporting
+intervals (Hint:
+Select "0" if not
+applicable)
+
+0 0 - 30
+
+Suitable Battery
+Charger Working on
+230 V AC ± 10 % ; 50
+Hz ± 10 %
+
+NA *
+
+SOFTWARE Deployment Option In-premise,Cloud,NA In-premise, Cloud, NA
+
+Features of Software
+for monitoring/
+Reports
+
+1. Graphical User
+Interface to configure,
+read, upgrade the
+device.,2. Software
+provides acess to data ,
+reports of temperature,
+humidity and
+location.,3. Admin
+rights to create and
+manage devices and
+users, assign devices to
+users.,4. Set
+
+1. Graphical User
+Interface to configure,
+read, upgrade the
+device., 2. Software
+provides acess to data ,
+reports of temperature,
+humidity and location.,
+3. Admin rights to
+create and manage
+devices and users,
+assign devices to
+users., 4. Set
+
+                               4 / 7
+
+
+
+ 
+
+temperature limits for
+individual devices for
+monitoring & alert .,5.
+User access to monitor
+each device and view/
+download reports.,6.
+Create and modify
+storage locations like
+warehouse, and
+subsequent
+locations.,7. Create and
+modify Trips if used for
+transportation .,8. API
+to integrate with other
+or existing application
+.,9. NA
+
+temperature limits for
+individual devices for
+monitoring & alert ., 5.
+User access to monitor
+each device and view/
+download reports., 6.
+Create and modify
+storage locations like
+warehouse, and
+subsequent locations.,
+7. Create and modify
+Trips if used for
+transportation ., 8. API
+to integrate with other
+or existing application
+., 9. NA
+
+Name of the software - *
+
+OEM Model / Part No - *
+
+Type of Licence Perpetual Perpetual, Subscription,
+NA
+
+Valid licence copy to
+be provided
+
+Yes Yes, NA
+
+Software supplied
+through
+
+Media,URL link,Media &
+URL link,Pre-
+loaded,Hosted on
+cloud,NA
+
+*
+
+Hyper link to the
+datasheet
+
+- *
+
+Operating system
+Supported
+
+Window,Linux,IOS,NA *
+
+Generic Features Operating Modes Standard Run
+Mode,Delayed Start
+Run Mode,Flight
+Mode,NA
+
+*
+
+Standard Sampling
+Interval Range
+(Minutes)
+
+1-90 *
+
+Standard Reporting
+Interval Range
+(Minutes)
+
+1-90 *
+
+Format in which GUI
+Report Available
+
+Excel,PDF,NA *
+
+Programmable distinct
+Alarms for
+
+Low Battery,Deviations
+in Temperature &
+Humidity,NA
+
+*
+
+Alarm Types SMS,Mobile
+Apps,Email,Audio,NA
+
+SMS, Mobile Apps,
+Email, Audio, NA
+
+Display Reading in Temperature,Humidity,
+date,time,NA
+
+*
+
+                               5 / 7
+
+
+
+ 
+
+Device Interface LED Status(Power -Up,
+low battery, charging,
+network ),UART / USB
+Port,switch for power
+On,NA
+
+*
+
+Device Configuration
+modes
+
+Using User Interface
+programs by physically
+connecting device to
+the PC,From remote
+using SMS Commands
+OR Web program ( web
+based programs will
+use internet protocols
+such as HTTP, etc
+instead of SMS),NA
+
+*
+
+List of items & number
+included in the scope of
+supply
+
+- *
+
+Supplied with
+Comphrensive User
+manual
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Rajeev Kumar 848125,Dr. Rajendra Prasad
+Central Agricultural
+University, Pusa,
+Samastipur, Bihar
+
+1  30
+
+Bid Specific Additional Terms and Conditions
+
+1.After award of contract – Successful Bidder shall have to get Detailed Design Drawings
+approved from buyer before starting fabrication. Successful Bidder shall submit Detailed
+Design Drawings for Buyer's approval, within 7 days of award of contract. Buyer shall, either
+approve the drawings or will provide complete list of modification required in the drawings
+within 7 days. Seller shall be required to ensure supply as per approved Drawings with
+modifications as communicated by Buyer. If there is delay from buyer side in approval of
+drawing– the delivery period shall be refixed without LD for the period of delay in approval of
+Drawing.
+
+2.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+3. ISO 9001: The bidder must have ISO 9001 certification.
+4.Material Test Certificate Should Be Sent Along with The Supply. The Material Will Be Checked
+
+by Buyer’s Lab & the Results of the Lab will be the Sole Criteria for Acceptance of the Item.
+
+                               6 / 7
+
+
+
+ 
+
+5.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial
+year, should be as indicated in the bid document. Documentary evidence in the form of
+certified Audited Balance Sheets of relevant periods or a certificate from the Chartered
+Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than
+3 year old, the average turnover in respect of the completed financial years after the date of
+constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of
+CATEGORY RELATED TO primary product having highest bid value should meet this criterion.
+
+6.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+7.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+8.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+9.Successful bidder will have to ensure that adequate number of dedicated technical service
+personals / engineers are designated / deployed for attending to the Service Request in a
+time bound manner and for ensuring Timely Servicing / rectification of defects during
+warranty period, as per Service level agreement indicated in the relevant clause of the bid.
+
+10.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 6 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

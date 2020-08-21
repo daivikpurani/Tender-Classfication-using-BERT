@@ -1,0 +1,630 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/682138
+
+  Dated: 22-06-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 02-07-2020 16:00:00
+
+Bid Opening Date/Time 2020-07-02 16:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Chhattisgarh
+
+Department Name General Administration Department (gad)
+Chhattisgarh
+
+Organisation Name N/a
+
+Office Name District Collectorate
+
+Total Quantity 94
+
+Item Category E-Tricycle for Specially Abled
+
+Bidder Turnover (Last 3 Years)  20 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  100 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  30 %
+
+Bid to RA enabled  No
+
+Inspection Required  Yes
+
+Inspection to be carried out by Buyers own
+empanelled agency
+
+ Yes
+
+Type Of Inspection  Pre Dispatch
+
+Name of the Empanelled Inspection
+Agency/ Authority
+
+ Board of Officers
+
+EMD Detail
+
+                               1 / 7
+
+
+
+ 
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 30% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+E-Tricycle For Specially Abled ( 94 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Generic Parameters Type of e-Tricycle for
+specially abled
+
+Fully Electric, Battery
+Operated, Motor
+Driven,
+
+Fully Electric, Battery
+Operated, Motor
+Driven,
+
+Model Number of e-
+Tricycle for specially
+abled
+
+- *
+
+The e-tricycle Must Yes *
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/B309pM4iGpoP6tomYHncGfHAW9CifNceAfJ4O05EdX8
+
+
+ 
+
+Fabricated From Good
+Quality Steel properly
+Painted to avoid
+Rusting for more than 5
+Years,
+
+Name and Grade of
+Steel from which e-
+Tricycle Body Framed
+
+- *
+
+Kerb Weight of e-
+tricycle
+
+60 60.0
+
+Laden Weight ( Curb
+Weight + Loading
+Capacity including
+driver , passenger ,
+and luggage)
+
+140 140.0
+
+Run Distance (for a Full
+Charge of Battery , to
+be tested with full load
+at maximum AIS-040 ))
+
+75 *
+
+Turning Radius (mm) 1150 1150.0
+
+Wheel Base (mm) 780 780.0
+
+Power Transmission
+from Motor Shaft to
+Wheels
+
+chain & sprocket type chain & sprocket type
+
+Please Specify other
+Mechanical Mechanism
+otherwise
+
+- *
+
+Type of Battery as per
+AIS-048
+
+Lead Acid *
+
+Capacity of the Battery
+approved by ICAT/ARAI
+(Ah)
+
+26 *
+
+Battery Voltage
+Nominal (Volt)
+
+48 *
+
+The Mounting of
+Batteries in E-
+vehicles shall be
+such that they are
+not displaced from
+their place and there
+is no spillage of
+electrolyte when
+vehicle is driven on
+Gradient or any
+aother type of road
+
+Yes Yes
+
+Maximum Overall
+Dimensions of the
+Battery ( L x Wx H )
+(mm)
+
+- *
+
+Nominal Filled Weight 8 *
+
+                               3 / 7
+
+
+
+ 
+
+of the Battery
+
+Motor Controller ( Must
+Suitable for starting,
+accelerating,
+decelerating, driving ,
+and stopping of E-
+Vehicle
+
+- *
+
+Battery Charger 220/230V nominal
+input voltage high
+efficiency type
+
+*
+
+Charging Current 5 *
+
+Type of Motor Brushless DC Motor *
+
+Motor Output Power
+,48V at Full Load (watt)
+
+250 *
+
+Overall Efficiency of
+the e-tricycle ( to be
+tested at Full Load
+with maximum
+speed as per
+Concerned AIS
+standards (%)
+
+90 90
+
+Gradeability of e-
+tricycle
+
+Yes *
+
+Vehicle Integration Yes *
+
+Seat Must be of Good
+Quality with Proper
+cushioning
+
+Yes *
+
+Certification
+Parameters
+
+Vehicle Certification
+from VRDE/ICAT/ARAI
+
+Yes *
+
+If No, Vehicle
+Certification from
+Others Agency ,Name
+of the Agency
+
+- *
+
+Vehicle Certification
+Number and Date
+
+- *
+
+Constructional
+Parameters
+
+Seating Capacity
+(Driver)
+
+1 *
+
+Length of e-tricycle as
+per Gazette Notification
+by Ministry of Road and
+Transport Oct , 2014
+(meters)
+
+1.9 *
+
+Width of e-tricycle as
+per Gazette Notification
+by Ministry of Road and
+Transport Oct, 2014
+(meters)
+
+0.78 *
+
+Height of e-tricycle as
+per Gazette Notification
+
+200 *
+
+                               4 / 7
+
+
+
+ 
+
+by Ministry of Road and
+Transport Oct , 2014
+(meters)
+
+ISI marked chain Yes *
+
+ISI marked front and
+rear Tyre-tubes
+
+Yes *
+
+Size of Front Tyre (mm) - *
+
+Size of Rear Tyre (mm) - *
+
+Number of spokes in
+front tyre
+
+32 *
+
+Number of spokes in
+rear tyre
+
+40 *
+
+Brake Type ( Front ) - *
+
+Brake Type ( Rear ) - *
+
+Suspension System (
+Front)
+
+- *
+
+Suspension System (
+Rear )
+
+- *
+
+Battery Make as per
+AIS :048:2009
+
+Exide Exide
+
+If others please specify
+the Name of Brand
+,Otherwise put NA (as
+per AIS :048:2009)
+
+- *
+
+Equipped with Start
+and Stop Button,
+parking Lights , Back
+lights with Reverse
+Gear Facility
+
+Yes *
+
+Equipped with Fire
+Extinguisher
+
+No *
+
+Vehicle lighting System LED based *
+
+Reverse Gear Facility Yes *
+
+Yellow Color reflective
+tape on Front and Rear
+Side of the Vehicle
+
+Yes *
+
+Equipped with First Aid
+Box
+
+No *
+
+Instrument Panel
+Containing
+Speedometer and
+Battery Charging
+Indicator
+
+Yes *
+
+Performance
+Parameters
+
+Speed of the e-tricycle
+as per CMVR -2014
+with latest amendment
+(to be tested with Full
+
+25 *
+
+                               5 / 7
+
+
+
+ 
+
+Load ) (kmph)
+
+Battery Warranty
+(years)
+
+2 2
+
+Number Of Free
+Service
+
+2 2
+
+Complaince of Centre
+of Gravity of Vehicle as
+a Compulsory Norms
+for Safety
+
+Yes *
+
+Confirming to
+Applicable
+Environmental Test
+
+Yes *
+
+Noise level must be
+Low during Operation
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Babulal Kanwar 495677,Social Welfare
+Building collector Office
+Korba
+
+94  30
+
+Bid Specific Additional Terms and Conditions
+
+1. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+2.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+3.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial
+year, should be as indicated in the bid document. Documentary evidence in the form of
+certified Audited Balance Sheets of relevant periods or a certificate from the Chartered
+Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than
+3 year old, the average turnover in respect of the completed financial years after the date of
+constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of
+CATEGORY RELATED TO primary product having highest bid value should meet this criterion.
+
+4.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+
+                               6 / 7
+
+
+
+ 
+
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+5.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+6.Pre-dispatch inspection at Seller premises (Fee/Charges to be borne by the BUYER): Before
+dispatch, the goods will be inspected by Buyer / Consignee or their Authorized
+Representative or by Nominated External Inspection Agency (independently or jointly with
+Buyer or Consignee as decided by the Buyer) at Seller premises (or at designated place for
+inspection as declared / communicated by the seller) for their compliance to the contract
+specifications. Fee/Charges taken by the External inspection Agency and any external
+laboratories testing charges shall be borne by the Buyer. For in-house testing, the Sellers will
+provide necessary facilities free of cost. Seller shall notify the Buyer through e-mail about
+readiness of goods for pre-dispatch inspection and Buyer will notify the Seller about the
+Authorized Representative/ Nominated External Inspection Agency and the date for testing.
+The goods would be dispatched to consignee only after clearance in pre-dispatch inspection.
+Consignee's right of rejection as per GTC in respect of the goods finally received at his
+location shall in no way be limited or waived by reason of the goods having previously been
+inspected, tested and passed by Buyer/ Consignee or its Nominated External Inspection
+Agency prior to the goods' shipment. While bidding, the sellers should take into account 7
+days for inspection from the date of email offering the goods for inspection. Any delay in
+inspection beyond 7 days shall be on the part of the buyer and shall be regularised without
+Liquidated Damages.
+
+7. ISO 9001: The bidder must have ISO 9001 certification.
+8.Timely Servicing / rectification of defects during warranty period: After having been notified
+
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 15 days time limit. If the Seller fails to complete
+service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product
+shall be charged as penalty for each week of delay from the seller. Seller can deposit the
+penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty
+amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than
+10% of the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

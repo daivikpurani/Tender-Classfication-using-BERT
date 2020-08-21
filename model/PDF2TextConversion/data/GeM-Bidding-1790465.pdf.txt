@@ -1,0 +1,372 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/713997
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 20:00:00
+
+Bid Opening Date/Time 27-07-2020 20:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Army
+
+Office Name ***********
+
+Total Quantity 1
+
+Item Category Computer Printers
+
+OEM Average Turnover (Last 3 Years)  1 Lakh (s)
+
+Experience Criteria  1 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM Authorization
+Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the
+buyer
+
+Past Performance  80 %
+
+Bid to RA enabled  Yes
+
+Inspection Required  Yes
+
+Inspection to be carried out by Buyers own
+empanelled agency
+
+ Yes
+
+Type Of Inspection  Post Dispatch
+
+Name of the Empanelled Inspection Agency/
+Authority
+
+ Board of Officers
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+                               1 / 4
+
+
+
+ 
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM {themselves or
+through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central
+/ State Govt Organization / PSU / Public Listed Company for number of years as indicated in the bid document before the
+bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some
+quantity during each of the year. In case of bunch bids, the category of primary product having highest value should
+meet this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product during the
+last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document.
+Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the
+Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with
+the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have supplied same or similar
+Category Products for 80% of bid quantity, in at least one of the last three years before the bid opening date to any
+Central / State Govt Organization / PSU / Public Listed Company. Copies of relevant contracts (proving supply of
+cumulative order quantity in any one year) to be submitted along with bid in support of quantity supplied in the relevant
+year. In case of bunch bids, the category related to primary product having highest bid value should meet this criterion.
+
+Computer Printers ( 1 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Specifications Cartridge Technology Ink Composite Cartridge,
+separate toner and drum,
+Ink Or higher
+
+Printing Technology inkjet inkjet
+
+Type of Printing Colour Mono, Colour
+
+Paper Size A4 A4, A3 Or higher
+
+Print Speed per minute
+as per ISO/IEC 24734 in
+(A4) Size - Mono
+
+10 *
+
+Print Speed per minute
+as per ISO/IEC 24734 in
+(A4) - Color
+
+7 *
+
+Resolution (Dpi) 1200x1200 *
+
+Memory (MB) 128 *
+
+Hard Disk Capacity (GB) 0 *
+
+Processor Speed 525 MHz *
+
+Duplexing Feature No Yes, No Or higher
+
+Duplex Print Speed ( IPM) 0 *
+
+Network Connectivity No *
+
+Network Interface, if
+available
+
+NA *
+
+Wireless Connectivity No Yes, No Or higher
+
+If Yes, Type of Wireless
+Connectivity
+
+NA *
+
+USB Port Yes *
+
+Number of Main Paper 1 1, 2, 3, 4, 5 Or higher
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/KnjhKtiHNwatIKJcp3MT6hPHTmvdcpddK5DyBJlGKgU
+
+
+ 
+
+Trays
+
+Each Main Paper Tray
+Capacity
+
+50 *
+
+Bypass Tray Facility No Yes, No Or higher
+
+If Yes, Bypass Tray Capacity 0 *
+
+Yield of the cartridge/Ink
+Tank/Ink Pack supplied with
+Machine as per ISO/IEC:
+19798/2007(E) for Cyan
+colour (Number of prints)
+
+165 *
+
+Yield of the cartridge/Ink
+Tank/Ink Pack supplied with
+Machine as per ISO/IEC:
+19798/2007(E) for Yellow
+colour (Number of prints)
+
+165 *
+
+Yield of the cartridge/Ink
+Tank/Ink Pack supplied with
+Machine as per ISO/IEC:
+19752/2004(E) for Black
+(Number of prints)
+
+200 *
+
+Life of Drum in terms of
+number of Prints in case of
+Separate Drum and Toner
+cartridge technology -Cyan
+
+0 *
+
+Life of Drum in terms of
+number of Prints in case of
+Separate Drum and Toner
+cartridge technology -
+Yellow
+
+0 *
+
+Life of Drum in terms of
+number of Prints in case of
+Separate Drum and Toner
+cartridge technology -
+Magenta
+
+0 *
+
+Life of Drum in terms of
+number of Prints in case of
+Separate Drum and Toner
+cartridge technology - Black
+
+0 *
+
+Duty Cycle (No of
+Prints/month)
+
+500 *
+
+Minimum Operating
+Temperature (Degree C)
+
+15 *
+
+Maximum Operating
+Temperature (Degree C)
+
+40 *
+
+Minimum Operating
+Humidity (%RH)
+
+15 *
+
+Maximum Operating
+Humidity (% RH)
+
+90 *
+
+BIS Registration under CRS
+of Meity
+
+Yes *
+
+BIS Registration no - *
+
+Other Certifications
+Available
+
+UL,CE *
+
+Dimensions(In mm x mm x
+mm )
+
+- *
+
+Weight (In kg) - *
+
+                               3 / 4
+
+
+
+ 
+
+On site OEM warranty
+(Years)
+
+1 1, 3, 5, 2, 4 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********AJMER 1  15
+
+Bid Specific Additional Terms and Conditions
+1.After award of contract – Successful Bidder shall have to get Detailed Design Drawings approved from buyer
+
+before starting fabrication. Successful Bidder shall submit Detailed Design Drawings for Buyer's approval, within 
+5 days of award of contract. Buyer shall, either approve the drawings or will provide complete list of modification
+required in the drawings within 5 days. Seller shall be required to ensure supply as per approved Drawings with
+modifications as communicated by Buyer. If there is delay from buyer side in approval of drawing– the delivery
+period shall be refixed without LD for the period of delay in approval of Drawing.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

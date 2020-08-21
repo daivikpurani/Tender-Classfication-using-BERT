@@ -1,0 +1,213 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/714187
+  Dated: 17-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 11:00:00
+
+Bid Opening Date/Time 27-07-2020 11:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 80 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Air Force
+
+Office Name ***********
+
+Total Quantity 4
+
+Item Category Network Interface Card
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Bid to RA enabled  Yes
+
+Inspection Required  No
+
+Estimated Bid Value  124000
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Network Interface Card ( 4 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Specification Type Card Card
+
+                               1 / 3
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/Bn_DfOVSlmjfHcEspve2bca55NFHC8IDD5YX8HfpUys
+
+
+ 
+
+If wireless, Number of
+Antennas
+
+0 0
+
+Configuration Type PnP (Plug and Play) *
+
+OS Compatibility Windows 10 *
+
+Bus Interface Type PCI-X *
+
+Network Interface Type BNC *
+
+Number of Ports 2 *
+
+Bandwidth 10Gbps *
+
+Encryption NA *
+
+Application Field Workstation/Desktop Workstation/Desktop
+
+LED Indicator Not Available *
+
+Number of LED Indicator 0 *
+
+Features Load balancing *
+
+Standards IEEE802.3ab *
+
+Dimension (LxHxW) (mm x
+mm x mm)
+
+- *
+
+Operating Temperature
+Range (Degree C)
+
+- *
+
+Operating Humidity (RH %) 90 *
+
+Weight (Gram) 700 *
+
+Warranty (Year) 3 3
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********HYDERABAD 4  30
+
+Bid Specific Additional Terms and Conditions
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2.Timely Servicing / rectification of defects during warranty period: After having been notified of the defects /
+
+service requirement during warranty period, Seller has to complete the required Service / Rectification within 3
+days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of
+Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit
+the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the
+Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after
+which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and
+cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service /
+rectification to the Buyer.
+
+3.OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25
+percent at the time of placement of contract. The purchaser also reserves the right to increase the ordered
+quantity by up to 25% of the contracted quantity during the currency of the contract at the contracted rates.
+Bidders are bound to accept the orders accordingly.
+
+This Bid is also governed by the General Terms and Conditions
+
+                               2 / 3
+
+https://gem.gov.in/termsCondition
+
+
+ 
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               3 / 3
+
+http://www.tcpdf.org
+

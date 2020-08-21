@@ -1,0 +1,611 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/711922
+
+  Dated: 15-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 25-07-2020 19:00:00
+
+Bid Opening Date/Time 25-07-2020 19:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Gujarat
+
+Department Name Gujarat Industrial Develpment Corporation (gidc)
+
+Organisation Name N/a
+
+Office Name Head Office Gandhinagar
+
+Total Quantity 20
+
+Item Category Smart Panel
+
+Bidder Turnover (Last 3 Years)  7 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  56 Lakh (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Bidder Turnover,OEM Authorization Certificate,OEM
+Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 7
+
+
+
+ 
+
+1. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+
+Smart Panel ( 20 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Specification SMART PANEL, SMART
+MONITORING &
+CONTROLS
+
+A standalone unit to be
+placed at feeder level
+containing, Cluster
+Energy Meter,Relay
+Controller Unit,MCB,
+Change Over/Bypass
+arrangement.
+
+*
+
+Enclosure should be
+made of MS Galvanized
+powder coated or SMC
+material having IP 65
+rate ingress protection
+and shall have proper
+lock arrangement
+
+Yes *
+
+It shall be protected by
+an MCB at its AC mains
+input
+
+Yes *
+
+Lamp load connection
+shall be through an
+output automated
+contactors
+
+Yes *
+
+Separate Chamber for
+Input/output MCB and
+Change over Circuit for
+maintenance and
+manual operation
+
+Yes *
+
+Door open detection
+provision should work
+even in case of power
+failure through
+integrated power
+backup
+
+Yes *
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/zpx9fcakJnVwaro2vAxzR-_Qg1YKFmAQFWbhA-AqAbA
+
+
+ 
+
+Should be capable of
+circuit wise control of
+street light fixtures up
+to 10 KVA street
+lighting load distributed
+in three phase as per
+site requirement
+
+Yes *
+
+The system should be
+designed that on each
+smart feeder panel not
+more than 100 LED
+fixtures to be operated
+
+Yes *
+
+On each smart feeder
+panel there should be
+at least two outgoing
+lighting circuits each
+having 45 to 50 LED
+fixtures approximately
+
+Yes *
+
+It should be complete
+with all required
+switching and
+protecting devices,
+contactors, timers,
+relays, sensors,
+controller, remote
+wireless
+communication
+devices, wiring, pipe
+earthing, surge
+protection device,
+required software, web
+server, hosting, etc
+
+Yes *
+
+Circuit wise remote
+ON/OFF switching of
+street lights
+
+Yes *
+
+Monitoring of quantity
+and electrical
+parameters of circuit
+wise full or partially
+/ON/OFF of street lights
+in each phase
+
+Yes *
+
+Visual inspection for
+dimensional check-up,
+completeness of the
+equipment as per the
+manufacturer’s
+documents, furnishing
+the list of missing
+components, if any,
+tightness of all the
+terminals/equipment,
+etc
+
+Yes *
+
+Measuring IR value,
+High voltage test
+
+Yes *
+
+                               3 / 7
+
+
+
+ 
+
+Testing of protective
+relays with primary and
+secondary injection
+test, wherever
+applicable
+
+Yes *
+
+Simulation test for all
+the interlocks,
+annunciations and for
+the correct operations
+of the switchgear
+
+Yes *
+
+Testing of oil for de-
+electric strength,
+wherever applicable
+
+Yes *
+
+Any other tests as
+recommended by Site
+Engineers/ Site –in-
+Charge
+
+Yes *
+
+All the switchgears
+shall be cleaned with
+vacuum cleaners
+before commissioning,
+Plugging/ Sealing of all
+the unused cut outs for
+the cable glands in the
+equipment, All panels
+shall be double earthed
+with two separate
+earthing pits
+
+Yes *
+
+Smart Panel Features Input to the Switching
+Point shall be Single / 3
+phase grid power input
+and with 3 phase
+output for load
+
+Yes *
+
+Smart feeder panel
+shall able to measure
+Voltage, Current, Power
+Factor, Active Power,
+Apparent Power,
+Metering Cumulative
+Active Energy,
+Metering Cumulative
+Apparent Energy
+
+Yes *
+
+Communication GPRS communication
+between Smart feeder
+panel and Server/Cloud
+
+*
+
+Shall able to calculate
+LED Luminaires
+Glowing Hours
+
+Yes *
+
+Able to calculate
+number of hours mains
+supply not available
+
+Yes *
+
+Alerts i. Phase wise over *
+
+                               4 / 7
+
+
+
+ 
+
+current/Short circuit ii.
+Phase wise over
+voltage iii. Group
+failure of lights iv.
+Individual Light failure
+v. No output supply
+
+E-meter 3 phase 10-60A Class 1
+accuracy meter with
+ISI/IS-13779
+
+*
+
+Battery Backup Smart feeder panel
+supports battery
+backup up to 48 hours
+
+*
+
+Smart feeder panel unit
+shall analog
+measurement
+capability
+
+1 x Analog voltage, 1 x
+Current input
+measurement channels
+
+*
+
+Smart feeder panel VA
+rating
+
+20kVA for 10kVA load *
+
+Enclosure Plastic/Metallic ;IP65
+grade
+
+*
+
+Smart feeder panel
+should allow upper and
+lower cutoff voltage as
+per user preference
+
+Yes *
+
+Web application
+Requirements
+
+Control and Monitoring i. Allows user to
+communicate with
+networked luminaires
+in group. ii. Allows user
+to communicate with
+group of Smart
+Luminaires under
+particular switching
+point
+
+*
+
+The Group of Luminaire
+Status such as ON
+hours, voltage, current,
+power, Energy
+consumed, and
+operating Mode
+(Auto/Manual) shall be
+monitored
+
+Yes *
+
+Remote configuration It is possible to
+configure switching
+points through we
+application. Remote
+configuration includes
+new ON/OFF timings,
+RTC time, Real time
+data of each switching
+point, Energy meter
+parameters
+
+*
+
+Fault Alarms/Alerts Switching point *
+
+                               5 / 7
+
+
+
+ 
+
+failures, Network Down
+failures, Group
+Luminaires failure,
+excess voltage/current
+drawn, no mains
+power, and contactor
+failure
+
+Google Map Allows user to trace
+switching points
+through google maps.
+
+*
+
+Reports Allows user to generate
+various reports like
+energy consumed,
+failure reports, uptime
+% etc
+
+*
+
+Server/Cloud
+Requirement
+
+The server/Cloud
+platform shall be of
+dedicated Windows
+server (IIS) with
+minimum of 16GB RAM
+with unlimited
+bandwidth
+
+Yes *
+
+Software pre-requisites i. ASP.NET4 ii. MySQL
+Server iii. MySQL
+Workbench
+
+*
+
+The server/Cloud
+platform should
+support unlimited
+storage
+
+Yes *
+
+Server/Cloud platform
+provider shall have
+capable to perform
+auto backup and
+restore facilities
+
+Yes *
+
+Server/Cloud platform
+provider shall have
+regular maintenance of
+the server and
+immediately address in
+case of server down
+
+Yes *
+
+Server/Cloud platform
+shall have minimum
+uptime of 99%
+
+Yes *
+
+Server/Cloud should
+able to handle
+minimum of 1000
+concurrent connections
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+                               6 / 7
+
+
+
+ 
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Oza Kapilkumar
+Parshotam
+
+380052,Ground Floor,
+“Khanij Bhavan”, GMDC
+Building, 132 Feet Ring
+Road, Nr. University Ground,
+Vastrapur, Ahmedabad,
+Gujarat
+
+20  30
+
+Bid Specific Additional Terms and Conditions
+
+1.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial
+year, should be as indicated in the bid document. Documentary evidence in the form of
+certified Audited Balance Sheets of relevant periods or a certificate from the Chartered
+Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than
+3 year old, the average turnover in respect of the completed financial years after the date of
+constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of
+CATEGORY RELATED TO primary product having highest bid value should meet this criterion.
+
+2.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+3.Successful bidder will have to ensure that adequate number of dedicated technical service
+personals / engineers are designated / deployed for attending to the Service Request in a
+time bound manner and for ensuring Timely Servicing / rectification of defects during
+warranty period, as per Service level agreement indicated in the relevant clause of the bid.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

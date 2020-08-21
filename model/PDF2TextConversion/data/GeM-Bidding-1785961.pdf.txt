@@ -1,0 +1,490 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/709904
+
+  Dated: 14-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 24-07-2020 15:00:00
+
+Bid Opening Date/Time 24-07-2020 15:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Railways
+
+Department Name Northern Railway
+
+Organisation Name Stores
+
+Office Name Northern Railway
+
+Total Quantity 1
+
+Item Category portable gas cutting machine with accessories
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Portable Gas Cutting Machine With Accessories ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+                               1 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/BkXRmCxZSSGpMfuTwNCXGWX0r1hzWKEsHHCwHUXWbD0
+
+
+ 
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Confirmity of Pressure
+Regulators used in
+Welding Cutting etc as
+per IS 6901 Latest
+
+Yes *
+
+confirmity of Blow
+pipe as per IS 7653
+latest and BSEN
+5172 latest
+
+Yes Yes
+
+BIS marked Cutting
+Torch
+
+No No
+
+If BIS marked Yes ,
+Provide the CML
+Number otherwise put
+NA
+
+- *
+
+Performance
+Parameters
+
+Blow pipe shall have
+separate control knob
+for acetylene (Red
+Colour) and oxygen
+(Blue Colour).
+
+Yes *
+
+Supplied with
+Oxygen Cylinder
+
+Yes Yes
+
+Capacity of Oxygen
+Cylinder(in Cu-m) if
+no choose NA
+
+7 7
+
+Acetylene cylinder Yes Yes
+
+Capacity of
+Acetylene Cylinder
+(in Cu-m)if provided
+otherwise put NA
+
+6 6
+
+Size of tip for Blow
+pipes in mm
+
+2 2
+
+Fuel gas Acetylene *
+
+Cutting capability Straight Cut, Bevel Cut,
+Circle Cut all
+
+Straight Cut, Bevel Cut,
+Circle Cut all
+
+Cutting capacity (in
+millimeters)
+
+200 200.0
+
+Cutting speed range
+(in mm per min)
+
+0-200 0-200
+
+Max. Cutting width
+(in mm)
+
+0-500 0-500
+
+Material of Two Stage
+Oxygen Regulator and
+Two Stage Acetylene
+Regulator
+
+fully forged brass body
+confirming IS : 6901 :
+1980
+
+*
+
+Range of Pressure
+Adjustment of Oxygen
+
+- *
+
+                               2 / 5
+
+
+
+ 
+
+Regulator (Kgf/Cm2)
+
+Range of Pressure
+Adjustment of
+Acetylene Regulator (in
+Kgf/Cm2)
+
+- *
+
+Hose pipe for Acetylene
+and Oxygen
+
+Yes *
+
+Electric supply of 230 V
+±10% AC, single
+phase, 50 Hz ±3%
+through a 3- core wire
+
+Yes *
+
+Maximum Current (in
+amp)
+
+1 1.0
+
+Warranty (in years) 1 1
+
+Class of Insulation H *
+
+Dimensional
+Parameters
+
+Hose Internal Diameter
+for Acetylene (in mm)
+
+8 *
+
+Hose outside Diameter
+for Acetylene (in mm)
+
+12 *
+
+Length of Hose for
+Acetylene (in meters)
+
+5 *
+
+Color of Hose Pipe for
+Acetylene
+
+Red *
+
+Hose Internal Diameter
+for Oxygen
+
+8 *
+
+Hose outside Diameter
+for Oxygen
+
+12 *
+
+Length of Hose for
+oxygen (in meters)
+
+5 *
+
+Color of Hose Pipe for
+oxygen
+
+Blue *
+
+Dimensions of Machine
+(L x W x H) (in mm x
+mm x mm)
+
+- *
+
+Weight of Machine (in
+kg)
+
+35 *
+
+Horizontal Adjustment
+of Torch (in mm)
+
+135 *
+
+Vertical Adjustment of
+Torch (in mm)
+
+125 *
+
+Specify the Length of
+Cut for Straight Cut in
+mm , Diameter range
+for Circle cut in mm
+and Angle for bevel Cut
+in degree whichever
+applicable
+
+- *
+
+                               3 / 5
+
+
+
+ 
+
+Length of Power Cable
+with End Connectors (in
+meters)
+
+10 *
+
+Additional Parameters Cylinder Content and
+Outlet Pressure gauge
+to be provided
+
+Yes *
+
+Non Return valve to be
+provided
+
+Yes *
+
+Trolley for cylinders
+Movement to be
+provided
+
+Yes *
+
+Adjustable spanner 10
+inch to be provided
+
+Yes *
+
+Spindle key- 1no to be
+provided
+
+Yes *
+
+Spark lighter- 1 no to
+be provided
+
+Yes *
+
+Emergency on/off
+switch to be provided
+
+Yes *
+
+Torch Cutting Angle
+(Must be in Range of 0
+degree to 45degree)
+
+45 *
+
+Length of aluminium
+track
+
+1.8 *
+
+flash back arrestors
+confirming to IS to be
+provided
+
+Yes *
+
+Extra nozzel for
+torches:2Nos to be
+provided
+
+Yes *
+
+Circular cutting
+attachment to be
+provided
+
+Yes *
+
+Installation and
+Demonstration
+
+Yes *
+
+Machine shall be
+provided with all safety
+features to protect the
+operators from possible
+injuries
+
+Yes *
+
+Operating and
+Instruction manuals 2
+sets
+
+Yes *
+
+Reports Availability of Type test
+report from Govt. Lab
+or any NABL/ILAC
+approved lab to prove
+conformity to the
+specification
+
+Yes *
+
+                               4 / 5
+
+
+
+ 
+
+Test report number - *
+
+Date of test report - *
+
+Name and Complete
+address of laboratory
+
+- *
+
+Type Test report to be
+furnished to the buyer
+on demand at the time
+of supplies
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Dinesh Kumar 247001,AMM ETD DEPOT
+SAHARANPUR -247001
+
+1  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

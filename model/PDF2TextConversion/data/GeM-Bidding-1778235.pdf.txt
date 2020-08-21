@@ -1,0 +1,539 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/702855
+
+  Dated: 08-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 18-07-2020 17:00:00
+
+Bid Opening Date/Time 18-07-2020 17:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Uttar Pradesh
+
+Department Name Transport Department Uttar Pradesh
+
+Organisation Name Uttar Pradesh State Road Transport Corporation
+
+Office Name 226010
+
+Total Quantity 35
+
+Item Category breath alcohol analyzers
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  80 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 6
+
+
+
+ 
+
+1. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 80% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Breath Alcohol Analyzers ( 35 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+TECHNOLOGY /
+PERFORMANCE
+
+Sensor Technology ElectroChemical - Fuel
+Cell (alcohol specific)
+
+ElectroChemical - Fuel
+Cell (alcohol specific)
+
+Sampling Method Deep Lung Exhalation
+Method
+
+*
+
+Sampling Error
+Detection
+
+Alarm on wrong
+sampling
+
+*
+
+Sampling modes Both Active and
+Passive
+
+*
+
+Measuring Range
+[mg / 100 ml BAC
+(Blood Alcohol
+Concentration)]
+
+0 to 500 0 to 500
+
+Accuracy +/- 5 % or better *
+
+Drift of the breath
+analyzer in 6 months
+period (mg / 100 ml
+BAC)
+
+0 0.0 - 0.0 Or lower
+
+Easily replaceable
+mouthpiece with
+Sputum Trap
+
+yes *
+
+Sample Taking
+Duration
+
+2 *
+
+Analytical Response
+Time (At '0' level of
+Alcohol)
+
+3 *
+
+Analytical Response
+Time for positive result
+
+8 *
+
+Recovery Time at (1/2)
+mg/ltr
+
+1 *
+
+Warm up Time (after 3 *
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/BsR-1_sfZnmP6gxEOzA1B63gxX6ZEdyhrnzay-Uq2V0
+
+
+ 
+
+putting on)
+
+Time required for re-
+calibration
+
+6 *
+
+Barometric Pressure
+Range (hpa or millibar)
+
+1300 *
+
+Shelf Life of Fuel Cell 3 *
+
+RoHS Compliant Yes *
+
+The Equipment meet
+RFI requirement as per 
+EN:5008-1/1992(emissi
+on) and EN 50082-1:19
+97(immunity) or
+equivalent
+requirements
+
+Yes *
+
+PHYSICAL Weight 433 *
+
+Size ( mm x mm x mm
+)
+
+- *
+
+BATTERY OF ANALYZER Power Source Rechargeable Battery
+and also work through
+automobile 12 V DC
+Power.
+
+*
+
+Chemistry of
+Rechargeable Battery
+
+Li-ion *
+
+Battery Voltage 7.4 *
+
+Battery Backup Time
+(continuous duty)
+
+27 *
+
+Number of Spare
+Rechargeable Batteries
+supplied with the
+instrument
+
+1 *
+
+Low Battery indication yes *
+
+DISPLAY / INDICATOR /
+STORAGE / INTERFACE
+
+Display Type TFT LCD *
+
+Display Size 3.2 *
+
+Availability of audible
+beeper for over range,
+low battery etc
+
+yes *
+
+Record Entry Through
+Integrated/Touch
+Screen
+
+Through
+Integrated/Touch
+Screen
+
+Minimum Record Fields Full Information as per
+the user's requirement
+such as Driver Name,
+Vehicle number,
+inspector name, test
+report with time, date,
+geolocation, instrument
+id, etc
+
+*
+
+                               3 / 6
+
+
+
+ 
+
+Record Memory
+(Minimum)
+
+50000 50000
+
+Record Data
+Downloadable to PC
+
+yes *
+
+Data Interface USB,Bluetooth *
+
+GPS Yes *
+
+If yes, Capable to
+display the geolocation
+of test inspection /
+location
+
+yes *
+
+Camera No No
+
+If yes, Capable to
+capture the clear
+image of test target
+
+yes *
+
+PRINTER Printer With With
+
+Type of Printer Internal Thermal Printer Internal Thermal Printer
+
+Print Resolution (dpi) 250 *
+
+Printer consists of
+Inbuilt Rechargeable
+Battery, Paper for
+offence printouts,
+Charger
+
+yes *
+
+Minimum number of
+printouts that can be
+taken with the paper
+available with the
+Printer
+
+100 *
+
+"Minimum number of
+printouts that can be
+taken with single
+charge of the printer
+battery (Hint:-
+Minimum 60 prints, if
+'With Printer' May
+indicate '0' if not
+applicable)"
+
+100 *
+
+Bis Registration
+number for Printer
+under CRS of MeitY
+
+- *
+
+WARRANTY Warranty 2 2, 3, 4, 5 Or higher
+
+STATUTORY
+REQUIREMENTS
+
+The equipment can be
+used as an evidential
+instrument for Traffic
+Law Enforcement, The
+instrument is hand
+held, portable and easy
+to operate
+
+Yes *
+
+If Yes, the equipment
+meets the
+
+yes *
+
+                               4 / 6
+
+
+
+ 
+
+requirements of the
+applicable latest
+Central Motor Vehicle
+Rules and all Govt
+notifications
+
+Immunity to RF
+interface,meets
+requirement as per EN:
+5008-/1992(emission)
+and EN:50082-1:1997
+(immunity) or
+equivalent
+
+yes *
+
+OPERATING
+CONDITIONS
+
+Minimum Operating
+Temperature
+
+-10 *
+
+Maximum Operating
+Temperature
+
+50 *
+
+Relative Humidity Non
+Condensing (%)
+
+95 *
+
+ENVIRONMENTAL /
+CERTIFICATION
+
+Conformity to Dry Heat
+test at 50 degree C for
+16 hours as per IS
+:9000 latest
+
+Yes *
+
+Conformity to Damp
+heat at 40 degree C -
+95% RH (cyclic test):
+two cycles of 16+8
+hours as per IS: 9000
+latest
+
+Yes *
+
+Conformity to Cold test
+at - 5 / -10 / - 15 / -20
+degree C (as
+applicable) for 4 hours
+as per IS: 9000 latest
+
+Yes *
+
+Availability of Test
+Reports from Central
+Govt / NABL approved /
+ILAC accredited Lab to
+prove conformity to the
+specification
+
+Yes *
+
+Test Report Number
+and Date
+
+- *
+
+Name of the Lab and
+Address
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+                               5 / 6
+
+
+
+ 
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Ram Balak 226001,Regional manager
+office, 6, Sapru Marg,
+Lucknow
+
+35  15
+
+Bid Specific Additional Terms and Conditions
+
+1.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 7 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+2.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

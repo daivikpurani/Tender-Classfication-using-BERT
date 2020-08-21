@@ -1,0 +1,331 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/703935
+
+  Dated: 09-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 14:00:00
+
+Bid Opening Date/Time 20-07-2020 14:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 70 (Days)
+
+Ministry/State Name Ministry Of Electronics And Information Technology
+
+Department Name Na
+
+Organisation Name Software Technology Parks Of India (stpi)
+
+Office Name Kol
+
+Total Quantity 20
+
+Item Category Buy Back - Lead Acid starter Batteries
+
+Experience Criteria  2 Year (s)
+
+MSE Exemption for Years Of Experience  Yes
+
+Startup Exemption for Years Of Experience  Yes
+
+Document required from seller  Experience Criteria,OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+
+                               1 / 4
+
+
+
+ 
+
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+
+Buy Back - Lead Acid Starter Batteries ( 20 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Scope of Buy back Cells / Battery with buy
+back means exchange
+of one new unit with
+one old unit
+
+Yes *
+
+Description of New
+Battery to be supplied
+by Seller
+
+Lead Acid Starter
+Batteries conforming to
+
+JIS D 5301:2006 latest *
+
+Nominal voltage 12 V *
+
+Class / Nominal
+Reserve Capacity
+(Minimum) /
+Capacity at 5 h rate
+
+Class A / 43 Ah / 28 Ah Class A / 43 Ah / 28 Ah
+
+CONSTRUCTIONAL Dimensions of the
+battery
+
+as per Table 1 of JIS D
+5301:2006
+
+*
+
+Mass of the battery as per Table of JIS D
+5301:2006
+
+*
+
+Battery supply
+condition
+
+Ready for use filled
+with appropriate
+electrolyte
+
+*
+
+Warranty (in Years) 2 2
+
+CERTIFICATIONS Availability of complete
+and satisfactory type
+test Report from
+Central Government /
+NABL/ ILAC accredited
+laboratory to showing
+conformity of the
+Specification
+
+Yes *
+
+Test report number - *
+
+Test report date - *
+
+Name of lab - *
+
+Address of lab - *
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/_SimgJ1zKvEIKKaqyNvy7jZBWaHu1Z0GDBUbUEUM-8Q
+
+
+ 
+
+All the test reports and
+certificates shall furnish
+to the buyer/consignee
+on demand
+
+Yes *
+
+Description of Old
+Battery to be given by
+Buyer
+
+Old battery shall be of
+similar volt and Ah
+(with +/-15% tolerance
+in Ah) but need not to
+be of same make /
+brand
+
+Yes *
+
+Old battery may not be
+in working condition
+
+Yes *
+
+The seller will collect
+the old Cell/Batteries
+from buyer end /
+consignee end at its
+own cost either at the
+same time of delivery
+or after delivery of new
+cells / battery
+
+Yes *
+
+Manufacturer / Seller /
+Supplier should have
+all valid licenses as
+applicable and meet all
+Govt, inustrctions and
+guidelines / Gazette
+notifications update as
+applicable to dispose of
+old cells / batteries
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Suvadip Barua 721657,SOFTWARE
+TECHNOLOGY PARKS OF
+INDIA (STPI) PLOT NO 149,
+Debhog, Bhabanipur
+
+20  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+2.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+
+                               3 / 4
+
+
+
+ 
+
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+3.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+4.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+5.Successful bidder will have to ensure that adequate number of dedicated technical service
+personals / engineers are designated / deployed for attending to the Service Request in a
+time bound manner and for ensuring Timely Servicing / rectification of defects during
+warranty period, as per Service level agreement indicated in the relevant clause of the bid.
+
+6.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 3 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+7.Over and above the normal Warranty terms as per GeM GTC, the successful bidder / OEM
+shall have to provide Comprehensive Warranty during the entire Standard warranty period
+as per contract. : The comprehensive warranty shall be covering the following scope  
+(Upload an undertaking with the bid confirming compliance by the bidder if Bidder is taking
+onus of this compliance. In case OEM is taking onus of this compliance, OEM undertaking is
+to be uploaded along with Bidder undertaking)
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

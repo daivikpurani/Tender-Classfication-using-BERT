@@ -1,0 +1,290 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/699016
+
+  Dated: 06-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 16-07-2020 12:00:00
+
+Bid Opening Date/Time 16-07-2020 12:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Railways
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Office Of Principal Chief Materials Manager, South
+Western Railway, Hubli
+
+Total Quantity 50
+
+Item Category ac static watthour meters-Energy meter
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Ac Static Watthour Meters-Energy Meter ( 50 pieces )
+
+Technical Specifications
+
+                               1 / 4
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+FEATURES Number of phases Three phase four wire Three phase four wire
+
+Reference Voltage 240 240.0
+
+Basic Current Ib 5 5.0
+
+Rated maximum
+current (I max) as
+(%) of lb
+
+600 600.0
+
+Accuracy Class 1 1
+
+GENERIC Features
+/requirements
+conforming to the
+STC of the product
+
+yes yes
+
+Requirement of
+External Current
+Transformer
+
+No *
+
+CERTIFICATION ISI marked to IS
+13779/99 with latest
+amendments
+
+Yes *
+
+CM/L No(Not a part of
+biddable parameter)
+
+- *
+
+ADDITIONAL FEATURES Additional
+features/functions, if
+any
+
+- *
+
+TEST REPORT DETAILS Availability of Test
+Reports from Central
+Govt / NABL
+approved / ILAC
+acredited lab to
+prove conformity to
+the specification
+
+No No
+
+Test Report number
+and date (Not a part of
+biddable parameter)
+
+- *
+
+Name and address of
+laboratory (Not a part
+of biddable parameter)
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/I9ykSMg8ngzd3IDqWKxLDZbDkTOpUSpgDUp2C-fjj9E
+
+
+ 
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 V Vinay Kumar
+Reddy
+
+570001,O/o Divisional
+Railway Manager, Office
+Complex, South Western
+Railway Divisional Office,
+Mysore.
+
+50  30
+
+Special terms and conditions for category ac static watthour meters-Energy meter 
+
+1. In addition to general terms and conditions to the GeM, following are the special T&C
+1.All Electronic Meters shall meet the latest requirements of Central Electricity
+
+Authority (Installation & Operation of meters)Regulations.
+2.Meters shall be provided with following anti-tampering features:
+
+1.The meter shall not get damaged or rendered non-functional and shall
+operate accurately even if any phase and neutral are interchanged. LED or
+LCD indication shall be provided on the meter wherever such tamper occurs
+for indication purpose.
+
+2.The meter shall register energy even when the return path of the load
+current is not terminated back at the meter and in such a case the circuit
+shall be completed through the earth. In case of metallic bodies, the earth
+terminal shall be brought out and provided on the outside of the case.
+
+3.Meter shall operate accurately even when incoming mains is connected to
+outgoing terminals and load is connected to incoming terminals. LED or LCD
+indication shall be provided on the meter wherever such tamper occurs.
+
+4.Three Phase meters shall have anti tampering features like Phase sequence
+reversal, current reversal, missing potential and missing neutral.
+
+5. In the case of 3 phase/4 wire system, the meter shall keep working even in
+the presence of any two wires i.e.even in the absence of neutral and any one
+phase or any two phases.
+
+6. In case of whole current meters and LV-CT operated meter, the meter shall
+be capable of recording energy correctly even if input and output terminals
+are interchanged.
+
+7.The registration must occur whether input phase or neutral wire are
+connected properly or they are interchanged at the input terminals.
+
+8.The meter shall be factory calibrated and shall be sealed suitably before
+dispatch.
+
+9.Neutral missing feature: Meter will register energy even if neutral is
+disconnected from both ends and load is earthed in single phase.
+
+3.The meter shall be immune to external influences in respect of parameters covered
+in IS:13779/99 with latest amendments.
+
+4.All the three phase meters shall have data storage capacity for at least 35 days in a
+non-volatile memory.
+
+5.The meter shall have down loading facilities of metered data through Common Meter
+Reading Instrument(CMRI).
+
+6.The terminal block, terminal cover and meter case shall ensure reasonable safety
+against spread of fire.
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+                               3 / 4
+
+https://gem.gov.in/termsCondition
+
+
+ 
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+http://www.tcpdf.org
+

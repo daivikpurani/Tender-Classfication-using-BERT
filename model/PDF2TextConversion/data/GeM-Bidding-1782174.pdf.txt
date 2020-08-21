@@ -1,0 +1,488 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/706447
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 20:00:00
+
+Bid Opening Date/Time 20-07-2020 20:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Petroleum And Natural Gas
+
+Department Name Bharat Petroleum Corporation Ltd
+
+Organisation Name Bharat Petroleum Corporation Ltd
+
+Office Name Nagpur
+
+Total Quantity 9
+
+Item Category End point protection software/ appliances
+
+OEM Average Turnover (Last 3 Years)  1 Lakh (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  50 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 5
+
+
+
+ 
+
+1. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+2. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 50% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+End Point Protection Software/ Appliances ( 9 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+BASIC INFORMATION
+OF END POINT
+PROTECTION
+SOFTWARE(GOLDEN)
+
+Category Software Software
+
+Software/ Appliance
+Type
+
+Subscription Subscription
+
+Name of Software - *
+
+OEM Model / Part NO. - *
+
+Software / Appliance
+Version
+
+- *
+
+Date of Launch of
+Version
+
+- *
+
+FEATURES AND
+FUNCTIONALITY
+PARAMETERS(GOLDEN)
+
+Mobile Endpoints
+Security
+
+Yes Yes
+
+Global Threat
+Intelligence support
+
+Yes Yes
+
+Advanced Protection
+for Virtual
+Environments
+
+Yes Yes
+
+Signature based
+Protection
+
+Yes Yes
+
+Data Protection /
+Full disk and file
+
+Yes Yes
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/V7xnJuao2-fqsIpWabTxAGix1W0W_Yu7MPted8JpoLU
+
+
+ 
+
+Encryption
+
+Data Loss
+Prevention
+(DLP/IDLP) capability
+
+No No
+
+Storage Security No No
+
+Data backup / Data
+recovery
+
+No No
+
+Cloud-Assisted
+Security Network
+
+Yes Yes
+
+No. of days Training
+provided at site
+
+0 0
+
+Number of Years
+upto which support
+(warranty) is
+available from OEM /
+Franchise online
+
+3 3
+
+FEATURES AND
+FUNCTIONALITY
+PARAMETERS(GENERIC)
+
+Anti-virus feature Yes *
+
+Anti-malware feature Yes *
+
+Anti-phishing feature Yes *
+
+Anti ransom ware Yes *
+
+Personal Firewall Yes *
+
+Network Attack Blocker Yes *
+
+Web Control / URL
+filtering
+
+Yes *
+
+Host - based Intrusion
+Detection / Prevention 
+System(HIDS/HIPS/IPS/I
+DS)
+
+Yes *
+
+Host integrity No *
+
+Application Control Yes *
+
+Device Control Yes *
+
+USB Device Control Yes *
+
+Vulnerability
+asessment and patch
+management
+
+Yes *
+
+Deception Technology Yes *
+
+Browser protection Yes *
+
+Anti-theft Protection Yes *
+
+End point forensic No *
+
+File server Protection Yes *
+
+System Watcher Yes *
+
+Memory Protection Yes *
+
+Advance machine Yes *
+
+                               3 / 5
+
+
+
+ 
+
+learning
+
+Content filtering
+capability
+
+Yes *
+
+Auto-Sandboxing
+capability
+
+Yes *
+
+Device Authentication
+capability
+
+Yes *
+
+Centralized
+Management
+
+Yes *
+
+SUPPORTED
+HARDWARE
+REQUIREMENTS
+PARAMETERS
+
+Hard Disk Space
+Required
+
+- *
+
+RAM Size required - *
+
+CPU required - *
+
+Operating Systems
+supported (Driver)
+
+- *
+
+Hyper link compatibility
+matrix
+
+Yes *
+
+GENERIC PARAMETERS
+OF END POINT
+PROTECTION
+SOFTWARE
+
+Free Upgradation to
+Higher Version with in
+support period
+
+yes *
+
+Number of user
+handling capability
+
+- *
+
+Concurrent user
+handling capability
+
+- *
+
+Valid Licence copy to
+be provided
+
+YES YES
+
+Software supplied
+through
+
+URL Link *
+
+Certifications /
+Benchmarking of
+Software Products
+
+- *
+
+Installation and
+Demonstration
+
+Yes *
+
+List of items included in
+the package
+
+- *
+
+Hyper link to Data
+sheet
+
+- *
+
+No of Software
+/Appliances sold
+
+10000 *
+
+Number of User
+Referance no. 1 with in
+Government
+Department email,
+phone no. of concerned
+authority where
+Software/ Appliance
+installed
+
+1 *
+
+                               4 / 5
+
+
+
+ 
+
+Details of Government
+Department email,
+phone no. Of
+concerned authority
+where
+Software/Appliance
+installed for above
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Nitin Anandrao
+Mahatme
+
+441108,BHARAT
+PETROLEUM CORPORATION
+LTD(BORKHEDI DEPOT),
+VILLAGE- BORKHEDI, NEAR
+BORKHEDI RAILWAY
+STATION, NAGPUR-441108
+
+9  30
+
+Bid Specific Additional Terms and Conditions
+
+1. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+2.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+3.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+4.Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid
+documents. Buyers can match and verify the Data Sheet with the product specifications
+offered. In case of any unexplained mismatch of technical parameters, the bid is liable for
+rejection.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

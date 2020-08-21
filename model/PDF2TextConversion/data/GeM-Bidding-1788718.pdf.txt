@@ -1,0 +1,387 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/712406
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 10:00:00
+
+Bid Opening Date/Time 27-07-2020 10:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Army
+
+Office Name ***********
+
+Total Quantity 4
+
+Item Category Multifunction Machines MFM
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+Estimated Bid Value  237600
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Multifunction Machines MFM ( 4 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Ungrouped Print Technology Laser Laser
+
+                               1 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/xefCaaW4Z6VPcqKmrEh7UN3M3XmfdGHnH_VInoqeexg
+
+
+ 
+
+Type of Machine Multifunction Machine Multifunction Machine
+
+Type of Printing Mono Mono
+
+Cartridge Technology Composite Cartridge Composite Cartridge,
+Separate Drum and Toner
+(Mono Component),
+Separate Drum and Toner
+(Dual Component), Ink Or
+higher
+
+Developer Unit No *
+
+Platen/Flatbed Size A4 A4, A3, Legal Or higher
+
+Paper Size
+(Original/Image)
+
+Legal/Legal Legal/Legal
+
+RAM size (MB) 512 128, 256, 512, 1024, 2048,
+4096, 6144, 3072, 320, 768,
+1536, 1500, 758, 1250,
+2560, 7168, 5120, 8192,
+16384, 2816, 4000, 2000,
+10240 Or higher
+
+Hard Disk Capacity(GB) 0 *
+
+Minimum Speed per
+Minute as per ISO/IEC
+24734 in A4 Size-Mono
+
+38 *
+
+Minimum Speed per
+Minute as per ISO/IEC
+24734 in A4 Size-Colour
+
+0 *
+
+Minimum Speed per Minute
+as per ISO/IEC 24734 in A3
+Size-Mono
+
+0 *
+
+Minimum Speed per Minute
+as per ISO/IEC 24734 in A3
+Size-Colour
+
+0 *
+
+Scanning Feature
+Availability
+
+Yes Yes, No Or higher
+
+Duplexing Feature
+Availability
+
+Yes Yes Or higher
+
+Faxing Feature
+Availability
+
+No Yes, No Or higher
+
+Speed of Fax, If Fax Feature
+is available
+
+NA *
+
+Networking Feature
+Availability
+
+Yes Yes Or higher
+
+If yes, Type of Network
+Interface
+
+Ethernet 10/100/1000 *
+
+Wi-Fi Availability Yes Yes, No Or higher
+
+If yes,Wi-Fi Type Wi fi 802.11 b/g/n & Wi Fi
+Direct
+
+*
+
+Original Document
+Feeder Type
+
+ADF Platen, ADF, DADF/RADF,
+SPDF Or higher
+
+Feeder Capacity (Number) 50 *
+
+Number of Main Paper
+Tray
+
+1 1, 2, 3, 4, 5 Or higher
+
+Each Main Paper Tray
+Capacity (Number)
+
+250 *
+
+                               2 / 4
+
+
+
+ 
+
+Bypass Facility Yes Yes Or higher
+
+If Yes, Bypass Tray Capacity 100 *
+
+Yield of the cartridge/Ink
+Tank/Ink Pack supplied with
+Machine as per ISO/IEC:
+19798/2007(E) for Cyan
+colour (Number of prints)
+
+0 *
+
+Yield of the cartridge/Ink
+Tank/Ink Pack supplied with
+Machine as per ISO/IEC:
+19798/2007(E) for Yellow
+colour (Number of prints)
+
+0 *
+
+Yield of the cartridge/Ink
+Tank/Ink Pack supplied with
+Machine as per ISO/IEC:
+19798/2007(E) for Magenta
+colour (Number of prints)
+
+0 *
+
+Yield of the cartridge/Ink
+Tank/Ink Pack supplied with
+Machine as per ISO/IEC:
+19752/2004(E) for Black
+(Number of prints)
+
+3100 *
+
+Life of Drum in terms of
+number of Prints in case of
+Separate Drum and Toner
+cartridge technology - Cyan
+(Number of Prints)
+
+0 *
+
+Life of Drum in terms of
+number of Prints in case of
+Separate Drum and Toner
+cartridge technology -
+Yellow (Number of Prints)
+
+0 *
+
+Life of Drum in terms of
+number of Prints in case of
+Separate Drum and Toner
+cartridge technology -
+Magenta (Number of Prints)
+
+0 *
+
+Life of Drum in terms of
+number of Prints in case of
+Separate Drum and Toner
+cartridge technology - Black
+(Number of Prints)
+
+0 *
+
+Duty Cycle (No of
+Prints/month)
+
+80000 *
+
+Minimum Operating
+Temperature (Degree C)
+
+15 *
+
+Maximum Operating
+Temperature (Degree C)
+
+32.5 *
+
+Minimum Operating
+Humidity (%RH)
+
+10 *
+
+Maximum Operating
+Humidity (%RH)
+
+80 *
+
+BIS Registration under CRS
+of Meity
+
+Yes *
+
+BIS Registration Number - *
+
+Other Certifications
+Available
+
+UL,CE *
+
+                               3 / 4
+
+
+
+ 
+
+Dimension (mm x mm x
+mm)
+
+- *
+
+Weight (Kg) - *
+
+On Site OEM Warranty
+(Year)
+
+5 5 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********JAMMU 4  30
+
+Bid Specific Additional Terms and Conditions
+1.IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered
+
+office in India to provide after sales service support in India. The certificate to this effect should be submitted.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

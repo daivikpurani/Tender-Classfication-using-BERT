@@ -1,0 +1,475 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/702869
+
+  Dated: 08-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 18-07-2020 16:00:00
+
+Bid Opening Date/Time 18-07-2020 16:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Health And Family Welfare
+
+Department Name Department Of Health Research
+
+Organisation Name Indian Council Of Medical Research (icmr)
+
+Office Name Vazhudavoor Road, Kathirkamam, Puducherry - 605
+009.
+
+Total Quantity 1
+
+Item Category Semi automated coagulation analyser
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  50 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+                               1 / 5
+
+
+
+ 
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 50% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Semi Automated Coagulation Analyser ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Product certification - *
+
+Certification number
+and date
+
+- *
+
+Manufacturer's Quality
+Standard Certifications
+
+ISO 9001 & ISO 13485 *
+
+Confirmity to
+Performance and safety
+standards specific to
+the device
+
+IEC 61010-1 & IEC
+61010-2-081 & IEC
+61010-2-101 or
+equivalent BIS
+
+*
+
+Performance
+Parameters
+
+Analyser Semi automated
+coagulation analyser
+
+*
+
+Scope of supply Coagulation analyzers
+perform a variety of
+tests to detect
+abnormalities in
+coagulation mechanism
+
+*
+
+UMDNS Code and
+names (Hint: This is for
+indicating the relevant
+universal medical
+devices nomenclature
+for the category of
+product )
+
+Analyzers, Laboratory,
+Hematology,
+Coagulation,
+Semiautomated
+[17-176]
+
+*
+
+System Parameters Configuration Model Benchtop Benchtop
+
+Throughput 12 More than 12.0 Or
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/tAkGytKPYh1eHTjdhmoeumsRslZwRm1Lk0xI_uDgOPk
+
+
+ 
+
+(Prothrombin time
+/hour)
+
+higher
+
+Method Used Optical Light scatter Optical Light scatter
+
+Sample Type Plasma Plasma
+
+Minimal usage
+volume for clotting
+assay
+
+up to 100 microlitre up to 100 microlitre
+
+Number of Channels 1 1
+
+Test Menu
+Programmable
+
+PT,APTT,FIB, *
+
+TT Test menu Yes Yes
+
+Di dimer Yes Yes
+
+LA1 and LA 2
+included
+
+Yes Yes
+
+Vwf activity included Yes Yes
+
+Factor Assay
+Included
+
+Yes Yes
+
+Protein S and C
+menu
+
+Yes Yes
+
+Plasminogen Menu Yes Yes
+
+Plasmin Inhibitor Yes Yes
+
+Other test menu Protein S and C,
+Plasminogen, Plasmin
+inhibitor, Prol-IL-
+Complex
+
+*
+
+Machine Linearity
+limit PT, Sec
+
+UP to 120 sec UP to 120 sec
+
+Machine Linearity
+limit APTT, Sec
+
+up to 180 sec up to 180 sec
+
+Flagging when
+values exceed upper
+linearity limits
+
+Yes Yes
+
+Incubation Heating
+block
+
+Yes Yes
+
+Incubation no of
+Wells
+
+4 4
+
+Incubation
+Temperature, °C
+
+37(±1) *
+
+System Features Computer Interface RS232 Unidirectional RS232 Unidirectional
+
+LIS Interface Yes Yes
+
+Bar code Sample
+Reader
+
+Yes Yes
+
+Bar Code Regents
+Reader
+
+No No
+
+                               3 / 5
+
+
+
+ 
+
+Printer Built-in thermal Built-in thermal
+
+Calibration Manual Manual
+
+Maintenance Time
+Daily in Min
+
+5 *
+
+Display Built in LCD Built in LCD
+
+Type of Display Touch Screen Touch Screen
+
+Operating
+Temperature,°C and
+humidity
+
+15-35 degree centigrad
+and humidity 20 to
+80%
+
+*
+
+Power requirements Power input, VAC 220-240VAC, 50Hz
+fitted with Indian plug
+
+*
+
+Online UPS provided Yes Yes
+
+UPS Back up Time 30 mins 30 mins
+
+Type of battery Lithium ion Lithium ion
+
+Miscellaneous
+Parameters
+
+Warranty in years
+will include
+maintanance of the
+equipment but
+exclude
+consumables and
+reagents
+
+3 3
+
+Number of
+installations of the
+semi automatic
+coagulation analyzer
+machines in Central
+/State/PSU Govt
+Hospitals( Note:
+Seller should supply
+a performace
+certificate of the
+device to the buyer
+if demanded after
+placement of order)
+
+more than 3 more than 3
+
+User/Technical/Mainten
+ance manuals to be
+supplied in English in
+hard and soft copy
+
+Yes *
+
+Demonstration of
+equipment and training
+to be provided after
+completing supplies &
+Installation before
+acceptance
+
+Yes *
+
+The Principal
+Manufacturer must
+have direct
+Presence/approved
+service center In India
+
+Yes *
+
+                               4 / 5
+
+
+
+ 
+
+Copies of reports and
+certifications to be
+furnished to buyer on
+demand at time of
+supplies
+
+Yes *
+
+Attach certificate from
+the principal that spare
+parts will be available
+for next 10 years
+
+Yes *
+
+QA, QC Or other
+Calibration tests(6
+months/ 1 year as per
+NABH/JCI)
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 S Shanmugasunda
+ram
+
+605009,Indira Gandhi
+Medical College and RI
+Vazhudavour Road,
+Kathirkamam, Puducherry -
+605 009.
+
+1  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Experience Certificate for the supply of the same to any Govt/ PSU/ any renowned private
+organisation along with Supply/ Purchase Order.
+
+2. If the agency is registered under MSME or NSIC, then EMD exemption certificate needs to be
+enclosed.
+
+3.Make in india specific authorisation certificate needs to be enclosed.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

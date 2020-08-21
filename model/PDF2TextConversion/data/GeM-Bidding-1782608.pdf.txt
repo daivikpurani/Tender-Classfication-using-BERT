@@ -1,0 +1,499 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/706836
+
+  Dated: 11-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 21-07-2020 14:00:00
+
+Bid Opening Date/Time 21-07-2020 14:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Army
+
+Office Name ***********
+
+Total Quantity 15
+
+Item Category Security and Protective Software including Antivirus
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Security And Protective Software Including Antivirus ( 15 pieces )
+
+Technical Specifications
+
+                               1 / 5
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+BASIC INFORMATION
+OF SECURITY AND
+PROTECTIVE
+SOFTWARE INCLUDING
+ANTIVIRUS (GOLDEN)
+
+Sub-Category Stand alone Stand alone
+
+Name of the OEM - *
+
+OEM Model / Part No. - *
+
+Product Id of OEM - *
+
+Software Version/
+Name
+
+- *
+
+Date of Launch of
+Version
+
+- *
+
+FEATURES AND
+FUNCTIONALITY
+PARAMETERS(GOLDEN)
+
+Single License for
+multi-device
+
+Yes Yes
+
+Intrusion Detection
+System (IDS) /
+Intrusion Prevention
+System (IPS)
+
+Yes Yes
+
+Data Protection Yes Yes
+
+Cloud Protection Yes Yes
+
+Network Threat
+Protection
+
+Yes Yes
+
+Free Secure Cloud
+backup space
+
+No No
+
+If Yes, specify the free
+backup storage space
+available
+
+- *
+
+Installation and
+Demonstration
+
+No No
+
+No. of days Training
+Provided at Site
+
+0 0
+
+Number of Years
+upto which Support
+(warranty) is
+available from OEM /
+Franchise online
+
+1 1
+
+FEATURES AND
+FUNCTIONALITY
+PARAMETERS(GENERIC)
+
+Anti-Virus Yes *
+
+Anti-Malware Yes *
+
+Anti-Phishing Yes *
+
+Anti-Rootkit Yes *
+
+Anti-Spyware Yes *
+
+Anti-Trojan Yes *
+
+Anti-Worm Yes *
+
+Anti-Spam Yes *
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/1IPckEZMPovPtYw14glYT10h8A6HCdOnnvNbL59riUI
+
+
+ 
+
+Anti-Adware Yes *
+
+Anti-Ransom ware Yes *
+
+Boot time protection Yes *
+
+Removable Media Scan Yes *
+
+Protection from
+Browser Exploits
+
+Yes *
+
+Incoming and Outgoing
+Email Protection
+
+Yes *
+
+Instant Messaging
+Protection
+
+Yes *
+
+On-Demand Scanning Yes *
+
+On-Access Scanning Yes *
+
+Scheduled Scanning Yes *
+
+Vulnerability Scanning Yes *
+
+Automatically Clean
+Infected Files
+
+Yes *
+
+Scan Compressed File
+Formats
+
+Yes *
+
+Quarantine Feature Yes *
+
+Automatic USB
+Detection
+
+Yes *
+
+Registry Start Up
+Protection
+
+Yes *
+
+Browser Protection Yes *
+
+Malicious web page
+blocking
+
+Yes *
+
+Tamper Protection Yes *
+
+Parental Control Yes *
+
+Password Manager Yes *
+
+Heuristics Protection Yes *
+
+Firewall Yes *
+
+Web Protection Yes *
+
+Macro Protection Yes *
+
+Protection from PUA
+(Potential Unwanted
+Applications)
+
+Yes *
+
+Download Protection Yes *
+
+Behavioural Analysis &
+Vulnerability Protection
+
+Yes *
+
+Band width
+Management
+
+No *
+
+                               3 / 5
+
+
+
+ 
+
+Proactive performance
+alerts
+
+Yes *
+
+Social media protection Yes *
+
+Online Identity
+protection
+
+Yes *
+
+Safe guards online
+transactions
+
+Yes *
+
+Network Attack Blocker Yes *
+
+Virus cleanup
+mode/Virtual sandbox
+
+Yes *
+
+System Watcher Yes *
+
+Backup and Restore Yes *
+
+Data Encryption No *
+
+Automatic Exploit
+Prevention
+
+Yes *
+
+File Shredder Yes *
+
+Virtual Key Board Yes *
+
+Automatic Updates Yes *
+
+Free 24-hour support Yes *
+
+Unique/Special
+features, if any
+
+- *
+
+SUPPORT HARDWARE
+REQUIREMENT
+PARAMETERS
+
+Hard Disk Space
+Required
+
+- *
+
+RAM Size required - *
+
+Supported Devices (eg.
+Desktop, Laptop,
+Tablet, Server, Mobile,
+etc)
+
+- *
+
+Supported Operating
+Systems (eg. Windows,
+OS X, Linux, Solaris,
+Android, iOS, Ubuntu
+Touch, Windows Phone,
+etc.).
+
+- *
+
+Number of
+Devices/Users Managed
+
+- *
+
+GENERIC PARAMETERS
+OF SECURITY AND
+PROTECTIVE
+SOFTWARE INCLUDING
+ANTIVIRUS
+
+Free Upgradation to
+Higher Version with in
+support period
+
+Yes *
+
+Valid Licence copy to
+be provided
+
+Yes *
+
+Software supplied
+through
+
+Media & URL Link *
+
+AV Test Certified Yes *
+
+                               4 / 5
+
+
+
+ 
+
+Any other Certifications - *
+
+List of items included in
+the package
+
+- *
+
+Hyper link to Data
+sheet
+
+- *
+
+No of Softwares sold 1000 *
+
+Number of User
+Referance no. 1 with in
+Government
+Department email,
+phone no.Of concerned
+authority where
+Software/Appliance
+installed
+
+100 *
+
+Details of Government
+Department email,
+phone no.Of concerned
+authority where
+Software /Appliance
+installed for above.
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********LEH 15  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

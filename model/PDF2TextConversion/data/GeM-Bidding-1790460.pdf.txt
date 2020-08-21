@@ -1,0 +1,418 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/713992
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 20:00:00
+
+Bid Opening Date/Time 27-07-2020 20:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Madhya Pradesh
+
+Department Name Public Health And Family Welfare Department Madhya Pradesh
+
+Organisation Name N/a
+
+Office Name 451001
+
+Total Quantity 3
+
+Item Category Bacterial and Somatic Cell Analyser
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Bacterial And Somatic Cell Analyser ( 3 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Certification Compliance with ISO/IDF
+Standards
+
+Yes *
+
+Construction Minimum Operating 10 *
+
+                               1 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/287BWYwQq54QKajmoQywXyp-bGLQiY4z7swCsSDCwVc
+
+
+ 
+
+Temperature
+
+Input Power Supply 100-240 V, 50Hz *
+
+Product Height (Without
+Accessories)
+
+29 *
+
+Product Weight(Without
+Accessories)
+
+9 *
+
+Product Width(Without
+Accessories)
+
+20.5 *
+
+Maximum Operating
+Temperature
+
+40 *
+
+Product Depth(Without
+Accessories)
+
+30.5 *
+
+Operating RH (Max %) Upto 95% *
+
+Functional Parameter Technology Used Fluorescence Microscopy Fluorescence Microscopy
+
+Parameters SCC SCC
+
+Sample Type Cow Milk,Buffalo Milk,Mix
+Milk
+
+*
+
+Performance Parameter Performance Range (IBC)
+(IBC/ml) (Min.)
+
+NA *
+
+Measuring range (SCC)
+(cells/ml) (Min.)
+
+10000-15000 *
+
+Sample Temperature (Min.) 1 *
+
+Analysis time (IBC) (in
+Minute)
+
+NA *
+
+Working factor (IBC) NA *
+
+Repeatability (SCC) at
+500000 cells/ml
+
+CV < 3 % *
+
+Repeatability (SCC) at
+300000 cells/ml
+
+CV < 4 % *
+
+Performance Range (SCC)
+(cells/ml) (Max.)
+
+1000000-1500000 *
+
+Analysis capacity (Only IBC)
+(Samples/Hour)
+
+NA *
+
+Working factor (SCC) NA *
+
+Repeatability (IBC) at 10-50
+IBC/?l
+
+NA *
+
+Analysis time (SCC) 60 *
+
+Accuracy (SCC) < 10% relative mean
+difference form Direct
+Microscopic SCC
+
+*
+
+Measuring range (IBC)
+(IBC/ml) (Max.)
+
+10000000-15000000 *
+
+Sample Intake (Only IBC) (in
+ml)
+
+NA *
+
+Repeatability (IBC) at >200
+IBC/?l
+
+NA *
+
+Accuracy (IBC) Typical Sy,x < 0.30 log units
+from SPC
+
+*
+
+Performance Range (SCC)
+(cells/ml) (Min.)
+
+10000-15000 *
+
+                               2 / 4
+
+
+
+ 
+
+Compatible Software for
+Documentation and
+Presentation
+
+Yes *
+
+Performance Range (IBC)
+(IBC/ml) (Max.)
+
+NA *
+
+Analysis capacity (Only SCC)
+(Samples/Hour)
+
+60 *
+
+Analysis capacity (SCC and
+IBC) (Samples/Hour)
+
+NA *
+
+Sample Temperature (Max.) 40 *
+
+Measuring range (SCC)
+(cells/ml) (Max.)
+
+10000000-15000000 *
+
+Measuring range (IBC)
+(IBC/ml) (Min.)
+
+NA *
+
+Sample Intake (Only SCC),
+ml
+
+0.125-0.25 *
+
+Repeatability (SCC) at
+100000 cells/ml
+
+CV < 6 % *
+
+Repeatability (IBC) at
+51-200 IBC
+
+NA *
+
+Sample Intake (SCC and
+IBC) (in ml)
+
+NA *
+
+Installation & training Supplier capable to
+supply appropriate
+Reagents and
+Consumables sample as
+and when required
+
+Yes Yes
+
+Appropriate Reagents
+and Consumables sample
+for IBC (Approx)
+
+2000 2000
+
+No. of days of training
+program
+
+2 *
+
+Appropriate Reagents
+and Consumables sample
+for SCC (Approx)
+
+2000 2000
+
+No of people to be trained in
+training program
+
+5-10 *
+
+Spares and Preventive
+Maintainance kits and
+Accessories for routine
+operation
+
+NA NA
+
+No of training sessions
+executed
+
+4 *
+
+Warranty & services Ability of supplier to
+provide
+spares/consumables upto
+10 years of
+supply(Separate
+purchases not included
+in this purchase)
+
+Yes Yes
+
+No. of On Site Preventive
+Maintainance visit during
+warranty Period
+
+4 *
+
+Warranty Extension in case
+of Breakdown for more than
+30 days due to
+
+Yes *
+
+                               3 / 4
+
+
+
+ 
+
+Manufacturing
+Defects/Faulty Spares
+
+Warranty from date of
+installation(System & all
+other parts) in years
+
+1 1.0
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Narendra Joshi 451001,CMHO OFFICE, OLD
+HOSPITAL CAMPUS, KHARGONE
+
+3  2
+
+Bid Specific Additional Terms and Conditions
+1.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last three
+
+years, ending on 31st March of the previous financial year, should be as indicated in the bid document.
+Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from
+the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution shall be taken into
+account for this criteria.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

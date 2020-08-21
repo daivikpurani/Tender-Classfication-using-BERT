@@ -1,0 +1,3280 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - (n)Code Firewall-Router RFP-v3.docx
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 1 of 52 
+ 
+ 
+
+ 
+ 
+  
+ 
+
+   Request for Proposal   
+ 
+
+For 
+ 
+
+Implementation of Networking Components for GNFC- IT Division 
+(Supply, Installation, Commissioning & Support)  
+
+ 
+(Bid Reference No. GNFC-IT Divison \Network equipment\2019-20\01) 
+
+ 
+ 
+
+GNFC – IT Division 
+304, GNFC Infotower, S G Highway, 
+
+Ahmedabad-380054, Gujarat 
+Ph. No. 4000 7300 
+
+https://ncode.in 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 2 of 52 
+ 
+ 
+
+Contents 
+REQUEST FOR PROPOSAL  ............................................................................................................. 4 
+DISCLAIMER  ....................................................................................................................................... 6 
+SECTION 1: INTRODUCTION  ........................................................................................................ 7 
+1.1  ABOUT  ...................................................................................................................................... 8 
+1.2  ABOUT THE PROJECT  ......................................................................................................... 8 
+
+1.2.1 Background ..................................................................................................................... 8 
+SECTION 2: GENERAL TERMS AND CONDITIONS  .............................................................. 10 
+SECTION 3: PRE-QUALIFICATION CRITERIA  ...................................................................... 14 
+
+3.1 Pre-Qualification Criteria: ................................................................................................. 15 
+3.2 Disqualifications ................................................................................................................ 16 
+
+SECTION 4: CONTENTS AND SUBMISSION OF PROPOSAL  ............................................. 17 
+4.1 Tender Details ................................................................................................................... 18 
+4.2 Earnest Money Deposit (EMD).......................................................................................... 18 
+4.3 Authentication of Bid ........................................................................................................ 19 
+4.4 Documents establishing Eligibility and Conformity of goods/services: ............................ 20 
+4.5 Deadline for Submission of Bids: ...................................................................................... 20 
+4.6 Language of Bid: ................................................................................................................ 21 
+4.7 Format of Bid: ................................................................................................................... 21 
+4.8 Currency of Bid: ................................................................................................................. 21 
+4.9 Validity period: .................................................................................................................. 21 
+4.10 Right to accept or reject any or all Bids ............................................................................ 21 
+4.11 NON-SOLICITATION: .......................................................................................................... 22 
+4.12 Insurance: .......................................................................................................................... 22 
+4.13 Force Majeure: .................................................................................................................. 22 
+4.14 Information Security ......................................................................................................... 24 
+4.15 RESOLUTION OF DISPUTES: ............................................................................................... 24 
+4.16 ARBITRATION: ................................................................................................................... 25 
+4.17 Applicable Laws and Jurisdiction: ..................................................................................... 26 
+4.18 Other Terms and Conditions: ............................................................................................ 26 
+
+SECTION 5: OPENING AND EVALUATION OF PROPOSALS:  ........................................... 27 
+5.1 Clarifications on submissions made .................................................................................. 28 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 3 of 52 
+ 
+ 
+
+5.2 Proposal Evaluation: ......................................................................................................... 28 
+5.3 Performance Bank Guarantee........................................................................................... 29 
+
+SECTION 6: SCOPE OF WORK  .................................................................................................... 30 
+6.1 Area of operation / Scope of Work: .................................................................................. 31 
+6.2 Technical details ................................................................................................................ 31 
+6.2.1 Bill of Materials: ............................................................................................................ 31 
+6.2.2 Required Technical Specifications................................................................................. 32 
+6.2.3 Technical Scope of work, Terms and Conditions .......................................................... 38 
+6.2.4 Procedure for implementation ..................................................................................... 40 
+6.3 Commercial Scope, Terms & Conditions ........................................................................... 41 
+
+SECTION 7: PROJECT TIMELINE,  PAYMENT SCHEDULE,  SLA& PENALTIES:  .......... 43 
+7.1 Project Timelines: .............................................................................................................. 44 
+7.2 Payment Schedule ............................................................................................................. 44 
+7.3 SLA (Service Level Agreement) ......................................................................................... 44 
+7.4 Service Categories / Penalties ........................................................................................... 45 
+
+SECTION 8: ANNEXURES  ............................................................................................................. 46 
+Annexure –I: Blank Price Bid Format with three years warranty ................................................. 47 
+Annexure– II: Blank Price Bid Format for annual support for 4th& 5th year .................................. 47 
+Annexure – III: Performance Bank Guarantee (PBG) .................................................................... 48 
+Annexure – IV: Covering Letter ..................................................................................................... 51 
+Annexure-V: GCC & GCP Attachments: ......................................................................................... 52 
+Annexure – VI: NDA (Non-Disclosure Agreement) ....................................................................... 52 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 4 of 52 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+REQUEST FOR PROPOSAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 5 of 52 
+ 
+ 
+
+GNFC- IT Division proposes to procure hardware, software, Tools and services for internal 
+GNFC Ltd - IT Division, inviting Proposals from interested Bidders as per the laid out norms in 
+this Request for Proposal (RFP). The RFP is provided in two volumes as given below: 
+ 
+INSTRUCTION TO BIDDERS Including Scope of Work 
+ 
+Bidders are advised to read the above volumes in conjunction and are advised to comply with 
+the terms and conditions for submission of their Proposal as defined in this RFP document. 
+ 
+Instruction to the bidders for online bid submission: 
+ 
+Interested and eligible Bidders can download the bid document and further amendments if 
+any freely available on https://www.nprocure.comand submit the same as per submission 
+guidelines as mentioned in this document. 
+ 
+GNFC Ltd - IT Division– A Division of GNFC ltd, 
+304, Info Tower, S G Highway,  
+Ahmedabad-380054, Gujarat 
+Ph. No. 4000 7346 
+E-mail: ngsakaria@ncode.in 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 6 of 52 
+ 
+ 
+
+DISCLAIMER 
+ 
+All information/ details contained in this RFP Document are provided in good interest and 
+faith. This is neither an Agreement nor an Offer or Invitation to enter into an Agreement of 
+any kind with any Party. Though adequate care is taken in preparation of this document, the 
+interested firm/ entity shall satisfy itself that the document is complete in all respects. The 
+information provided in this document may not be complete and exhaustive, interested 
+Bidders are required to make enquiries wherever required.  
+ 
+Intimation of discrepancy/ ambiguity, if any, will be intimated immediately to GNFC IT 
+Division. If no intimation is received by this office by the date mentioned in the document, it 
+shall be deemed that the RFP document is complete in all respects and firms/ entities 
+submitting their bids are satisfied that the RFP document is complete in all respects.  
+ 
+GNFC IT Division reserves the right to reject any or all of the applications/ bids submitted in 
+response to this RFP document, at any stage and without assigning any reasons, whatsoever. 
+GNFC IT Division also reserves the right to withhold or withdraw the tender process at any 
+stage, with intimation to all who submitted the RFP Application. GNFC IT Division reserves the 
+right to change/ modify / amend any or all of the provisions of this RFP document. Such 
+changes, if any, would be accordingly communicated to the Bidders. Information provided in 
+this document or imparted to any firm/ entity as part of this Tender process is confidential to 
+GNFC IT Division and the same shall not be used for any other purpose or distributed to or 
+shared with any other person or organization. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 7 of 52 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SECTION 1: INTRODUCTION
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 8 of 52 
+ 
+ 
+
+1.1 ABOUT 
+GNFC Ltd - IT Division is a certifying authority issuing Electronic Signature Certificates (ESC), 
+engaged into datacenter construction, providing country wide support for ESC and electronic 
+procurement activities for various states, architecting cloud enabled secure applications, 
+providing support thereof, carry out e-Governance and surveillance projects. 
+ 
+GNFC Ltd - IT Division certified for adopting best practices, Quality Management Systems (QMS- 
+ISO 9001, Information Security Management System (ISMS-ISO 27001), Information Technology 
+Service Management System (ITSMS- ISO 20000) and IT infrastructure security and other 
+operational requirements as per IT Act. 
+
+1.2 ABOUT THE PROJECT 
+This RFP is floated for Implementation of Networking Components for GNFC – IT Division 
+
+1.2.1 Background 
+
+The requirement is for internal on-premises datacenter. A dedicated IT infrastructure Setup is 
+considered as a part of tech refresh.  
+Scope of Bidder: 
+
+a) Supply of hardware and software as mentioned in Annexure - I and Annexure - II. With 
+specifications mentioned in this tender document. 
+
+b) All equipment and cables required to mount and commission the devices shall also be 
+part of the proposal that is to be submitted. 
+
+c) The Bidder should supply all necessary cables/items/Interface converters etc. to 
+commission and integrate the offered hardware & software in the existing LAN at given 
+locations. All required hardware/software etc. for commissioning of the offered 
+equipment’s should also be supplied.  
+
+d) Networking Components hardware and software components to be installed and 
+configured  
+
+e) All patches and updates shall be provided by the successful bidder during the tenure of the 
+contract.  
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 9 of 52 
+ 
+ 
+
+f) Carrying out all general tests such as Power-on test on delivery, Pre-request installation 
+checks to ensure correct connections, completeness of system documentation etc. 
+
+g) The warranty shall be comprehensive in nature i.e. shall include components replacement/ 
+repairing of equipment / solution, free of cost and all expenses incurred on the 
+replacement /repairing/standby shall be borne by the Bidder.  
+
+h) The setup needs to be supported in terms of skilled manpower and spares at Ahmedabad.  
+i) Replacement of Spares in case of failure shall be provided by the successful bidder during 
+
+the currency of the contract. 
+j) The Bidder should ensure that the replacement of any faulty device is made available 
+
+within 24 hours from the date & time of complaint logged. Also should provide complete 
+details of complaint booking including contact details, URLs etc, and escalation matrix for 
+support. 
+
+k) AMC Support to be provided by the successful bidder throughout the contract period. 
+l) Scope of Trainings : 
+
+ 
+ Detailed training for operation and management of equipment/infrastructure to 
+
+minimum 3 Engineers of GNFC IT Division and shall be mandatory so that GNFC IT 
+Division engineers can handle the equipment / infrastructure, once the project 
+management period is over.  
+
+ 
+ The successful bidder shall impart hands on training with detailed course material 
+
+on the installed equipment covering -- Operational Manuals , Technical Manuals, 
+Tools - Hands on Training Documents.  
+
+ 
+ 
+
+  
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 10 of 52 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SECTION 2: GENERAL TERMS AND CONDITIONS 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 11 of 52 
+ 
+ 
+
+1. As far as possible, Bidders shall consider information provided in the RFP for preparing 
+their Proposal. However it is strongly recommended to the Bidders to carry out their own 
+due diligence based on their own inputs for submission of Proposals. Bidder shall be 
+wholly responsible for all the details and basis of its Proposal. In essence, after the 
+Proposal is submitted, the Bidder shall be responsible for all assumptions of the data, 
+which forms the basis of the Proposal and no claims shall lie regarding the veracity of the 
+data or designs and drawings given in the various sections and volumes of the RFP 
+documents. 
+
+2. The bidders who are interested to participate in the tender must read and comply with 
+the instructions and the terms and conditions mentioned in this tender. The Bidder is not 
+entitled to make any counter proposal. Bids not conforming to the stipulations mentioned 
+herein are liable for outright rejection. 
+
+3. It should be clearly understood by the bidder[s] that no opportunity shall be given to him/ 
+them to modify or withdraw his / their offer after the date and time stipulated for 
+submission of the Bid. In case of any modification or withdrawal of the offer by any bidder 
+after the date and time stipulated for submission of the Bid, the EMD submitted with the 
+bid shall be forfeited. 
+
+4. Prior to submitting the Proposal, Bidders are advised to visit and examine the project, 
+obtain and ascertain for themselves information necessary for preparing their Proposal. 
+
+5. Bidders shall be deemed to have full knowledge of the Project, if Bidder submits a 
+Proposal for this Project. 
+
+6. The Proposals would be evaluated based on the details furnished in the Proposal. Mere 
+submission of information does not entitle the Bidder to meet an eligibility criterion. GNFC 
+IT Division or any of its consultants/advisors reserve the right to verify any or all 
+information submitted by the Bidder. GNFC IT Division’s decision regarding any Bidder's 
+eligibility or otherwise shall be final and binding and GNFC IT Division or any of its 
+consultants/ advisors would be under no obligation to inform any Bidder of the grounds 
+of such decision. 
+
+7. Bidders shall provide evidence of their continued eligibility; in accordance with the 
+“Prequalification requirements” which is satisfactory to GNFC IT Division. GNFC IT Division 
+may request additional information from the Bidder till signing of the Contract. A Bidder 
+may be disqualified if it is determined by GNFC IT Division at any stage of the bidding 
+process that the Bidder will be unable to fulfill the requirements of the Project or fails to 
+continue to satisfy the Pre-qualification requirement. Supplementary information or 
+documentation regarding qualifications may be sought from the Bidders at any time and 
+must be provided within time frame period stipulated in such requests. If the Bidder is 
+unable to provide the information within the stipulated timeframe then the Bidder may 
+be disqualified. 
+
+8. The Bidders shall be responsible for all arrangements and shall release and indemnify 
+GNFC IT Division and/or any of its agencies/consultants/advisors from and against all 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 12 of 52 
+ 
+ 
+
+liability in respect hereof and shall be solely responsible for any personal injury, loss of 
+or damage to property or any other loss, damage, costs or expenses, however caused, 
+which, but for the exercise of such permission, would not have arisen due to this RFP or 
+Project. 
+
+9. All bidders shall keep their bid rates valid / open for acceptance for a period of 90 days 
+from date of opening of the tender. 
+
+10. To assist in the examination, evaluation, and comparison of Proposals, GNFC IT Division 
+may, at its discretion, ask any Bidder for clarification. GNFC IT Division may utilize the 
+services of any consultant or other advisor of the Bidder for the examination and 
+evaluation of Bidders, Technical Offer and Financial Offer as per the due diligence 
+process. However, clarifications if any required from Bidder, shall be in writing (typed 
+and duly signed by authorized signatory) and shall be communicated by the Bidder to 
+GNFC IT Division. 
+
+11. Information relating to the examination, clarification, evaluation and comparison of 
+Proposals and recommendations for the award of a contract shall not be disclosed to 
+Bidders or any other persons not officially concerned with such process until the award 
+to the “Successful Bidder” has been announced. Any effort by a Bidder to influence GNFC 
+IT Division or any of its consultants/advisors processing of Proposals or award decisions 
+may result in the rejection of the Proposal. 
+
+12. In case of any doubt regarding the tender documents and interpretation of the clauses, 
+the decision of the Managing Director, GNFC IT Division will be final and binding. 
+
+13. It would be deemed that prior to the submission of the Proposal, the Bidder has made a 
+complete and careful examination of requirements and other information set forth in 
+this RFP and made a complete and careful examination of the various aspects of the 
+Project, all matters that might affect the Bidder’s performance under the terms of this 
+RFP and acquainting itself with Laws, Rules and Regulations thereto relevant to the 
+Project. 
+
+14. GNFC IT Division does not bind itself to accept the lowest offer and reserves the right to 
+accept or reject any or all tenders either in whole or in part at its discretion.  
+
+15. The bidder and its employees or workmen shall observe and abide by and ensure 
+compliance of all National/International laws and regulations, as also, the safety & 
+security rules & regulations of GNFC IT Division. 
+
+16. Corrupt or Fraudulent Practices: 
+a) GNFC IT Division requires that the bidders/suppliers/contractors under this tender 
+
+observe the highest standards of ethics during the procurement and execution of such 
+contracts. In pursuance of this policy, GNFC IT Division defines for the purposes of this 
+provision, the terms set forth as follows: 
+
+ 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 13 of 52 
+ 
+ 
+
+“Corrupt Practice” means the offering, giving, receiving or soliciting of anything of value 
+to influence the action of the public official in the procurement process or in contract 
+execution; and  
+
+ 
+“fraudulent practice” means a misrepresentation of facts in order to influence a 
+procurement process or an execution of a contract to the detriment of GNFC IT Division, 
+and includes collusive practice among bidders (prior to or after bid submission) designed 
+to establish bid prices at artificial non-competitive levels and to deprive GNFC IT Division 
+of the benefits of the free and open competition; 
+
+ 
+b) GNFC IT Division will reject a proposal for award if it determines that the Bidder 
+
+recommended for award has engaged in corrupt or fraudulent practices in competing for 
+the contract in question; 
+
+ 
+c) GNFC IT Division will declare a firm ineligible, either indefinitely or for a stated period of 
+
+time, to be awarded a contract if it at any time determines that the firm has engaged in 
+corrupt and fraudulent practices in competing for, or in executing, a contract. 
+
+ 
+d) The past performance of the bidder will be crosschecked if necessary. If the facts are 
+
+proven to be dubious the bidders tender will be ineligible for further processing. 
+ 
+17. Conflict of Interest: 
+
+Bidders shall not have a conflict of interest (the “Conflict of Interest”) that affects the 
+Bidding Process. Any Bidder found to have a Conflict of Interest will be disqualified. A 
+Bidder may be considered to have a Conflict of Interest that affects the Bidding Process, 
+if: 
+
+ 
+a) Such Bidder (or any constituent thereof) and any other Bidder (or any constituent 
+
+thereof) have common controlling shareholders or other ownership interest; provided 
+that this qualification shall not apply in cases where the direct or indirect shareholding 
+in a Bidder or a constituent thereof in the other Bidder(s) (or any of its constituents) is 
+less than 10% of its paid up and subscribed capital; or 
+
+ 
+b) A constituent of such Bidder is also a constituent of another Bidder; or 
+ 
+
+c) Such Bidder receives or has received any direct or indirect subsidy from any other 
+Bidder, or has provided any such subsidy to any other Bidder; or 
+Such Bidder has a relationship with another Bidder, directly or through common third 
+parties, that puts them in a position to have access to each other’s’ information about, 
+or to influence the Proposal of either or each of the other Bidder; or 
+Such Bidder has participated as a consultant to GNFC IT Division in the preparation of 
+any documents, design or technical specifications of this Project. 
+
+ 
+ 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 14 of 52 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+SECTION 3: PRE-QUALIFICATION CRITERIA 
+  
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 15 of 52 
+ 
+ 
+
+3.1 Pre-Qualification Criteria: 
+
+Pre-Qualification criteria defined for bidders 
+desirous of bidding for the project : 
+
+Supporting Documents 
+a)   The bidder should be in the business of Supply, 
+
+installation, commissioning and testing for 
+Hardware and Software equipment’s for at least 
+three years from the RFP date.  
+
+The  Bidder : 
+Business Registration Certificate or 
+Company Incorporation Certificate  
+
+b)    The Bidder should have prior experience of supply 
+of Scope mentioned activities. Purchase Orders 
+Copies indicated supply of scope mentioned 
+activities must be submitted for the same. The 
+Bidder shall have experience in successful supply, 
+installation and configuration of Router &Firewall 
+hardware, software, and high availability and 
+security settings. 
+Bidder to submit orders value (with Completion 
+Certificate from Customer)  each in last three years 
+
+Orders for supply, installation and 
+configuration of Networking 
+Components hardware, software, high 
+availability and security settings. 
+ 
+Bidder has to submit PO of total value of 
+20 Lacs. (Multiple PO with the total value 
+of 20 Lacs for proposed product) 
+Work Completion certificate of Proposed 
+Router & Firewall 
+
+c)    Total turnover of the bidder should must be 
+average Rs 1.00 Cr year for last two financial years 
+(i.e. 2017-18 & 2018-19).  
+
+The Bidder : 
+Copies of the audited Balance sheet and 
+profit and loss accounts 
+
+d)   The bidder should not be under a declaration of 
+ineligibility for corrupt and fraudulent practices 
+issued by Government of Gujarat or any of the PSU 
+in the state of Gujarat. 
+
+ 
+ 
+ 
+The  Bidder : 
+Certificate of CA along with a self-
+affidavit on stamp paper of Rs. 100 
+
+e)   Affidavit mentioning that Bidder is not been         
+blacklisted by any state Government, Central 
+government, Tendering Authority, PSUs, Statutory, 
+Autonomous, or Regulatory body within last three 
+year. 
+f)    Bidder shall not have suffered bankruptcy/ 
+insolvency during the last 5 years. 
+g)    GST No and & HSN Code of items to be submitted 
+
+by Vendor/Bidder 
+Copies of the Document 
+
+h)    Proposed Router & Firewall Model sold in India 
+(With Client List and Contact Information) 
+
+Self- Affidavit on letter head.  
+m) The bidder should submit MAF from OEM and 
+
+should have a Back-to-back support 
+agreement/arrangement for services including 
+supply of spare parts etc. 
+
+Manufactures Authorization Certificate 
+(MAF) 
+
+Note: In addition to above mandatory documents, the bidder must submit Power of attorney 
+or board resolution duly executed in favor of the person signing the tender authorizing him 
+to sign the tender document in case the bidder is not a sole proprietary concern. 
+All criteria mentioned as above are mandatory to qualify in tender. 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 16 of 52 
+ 
+ 
+
+3.2 Disqualifications 
+
+GNFC – IT Division reserves the right to cancel the tender without any reasons whatsoever. 
+The bidder may be disqualified at any time during the bid process at the sole discretion of 
+GNFC – IT Division for the following reasons: 
+The bidder shall be disqualified if; 
+a) Submitted the Technical Document after the response deadline. 
+b) Made missing or false representations or suppressed relevant information in the bid 
+
+proposal (including documents, forms, statements, attachments, presentations, etc.) 
+submitted as proof of the eligibility requirements or as part of their proposal. 
+
+c) Failure in meeting any of the eligibility criteria as mentioned above.  
+d) Failed to provide clarifications, non-responsive and/or substantive responses, when 
+
+sought. 
+e) Any other reason, which in the opinion of GNFC/GNFC IT Division Solutions, the bidder 
+
+does not meet the capabilities for performing the task as laid out in the tender. 
+f) A record of poor performance with GNFC/GNFC IT Division (or any their customers)such 
+
+as abandoning the work, not properly completing the contract, inordinate delays in 
+completion, litigation history or financial failures etc. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 17 of 52 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SECTION 4: CONTENTS AND SUBMISSION OF PROPOSAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 18 of 52 
+ 
+ 
+
+4.1 Tender Details  
+
+RFP Distribution  Date : 27-05-2019 
+RFP Pre-bid Query 
+
+Date  : 30-05-2019 before 12 :00 pm by email : 
+ngsakaria@ncode.in/ankit.shah@ncode.in  
+Contact : 079 – 40007 346/342 
+
+RFP Submission Date : 05-06-2019 
+Earnest Money Deposit Rs.40,000 (Forty Thousand Only)  
+Mode of Bid Submission  Offline –Pre Qualification & EMD (Hard Copy)/ Online –Commercial   
+PBG 10% of Order value 
+
+4.2 Earnest Money Deposit (EMD) 
+
+1. The Bidder shall furnish, as part of its bid, an Earnest Money Deposit in the form of a DD 
+drawn in favor of GNFC Ltd payable at Ahmedabad for an amount of Rs.40,000/- (Rs. 
+Forty Thousand Only) from any of the Nationalized/Scheduled commercial bank and 
+submit at  : 
+GNFC Ltd  
+304, GNFC Info Tower, 
+S.G Highway, Ahmedabad 380054 
+ 
+
+2. EMD of all unsuccessful bidders would be refunded/ released without interest by GNFC 
+Ltd – IT Division 
+
+3. The bid submitted without EMD, as mentioned above, shall be summarily rejected. 
+4. The successful bidder's EMD will be discharged after the bidder signing the contract, 
+
+and furnishing the performance bank guarantee as mentioned in RFP. 
+5. The EMD shall be forfeited If a Bidder withdraws its bid during the period of Bid 
+
+validity specified by the Bidder on the Bid Form or in case of a successful Bidder, If 
+the bidder is found to be involved in fraudulent practices. In case of a successful 
+bidder, if the bidder fails: 
+
+o To furnish acceptance of the LOI/PO within 7 days from the date of issue of LOI /PO 
+o To furnish performance bank guarantee within 10 working days of the date of submission 
+
+of the acceptance to the LOI. 
+ OR 
+
+o To sign the contract within 10 working days of the submission of the PBG to GNFC Ltd - 
+IT Division 
+
+6. No exemption for submitting the EMD will be given to any agency including SSI Units. 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 19 of 52 
+ 
+ 
+
+7. No interest shall be payable on the amount of Earnest Money, under any circumstances. 
+
+4.3 Authentication of Bid 
+
+A bid should be accompanied by a power-of-attorney in the name of the signatory of the 
+bidder.The bidder shall sign the same by way of acceptance. The same also needs to be 
+submitted along with technical documents. The power of attorney shall be furnished on a 
+non-judicial stamp paper of Rs.100/-duly attested by public notary. Photocopy of power of 
+attorney shall not be accepted. 
+ 
+Packet 1: EMD and required Pre-Qualification Documents (Submit hard copy) 
+
+ 
+a) The bidder shall submit hard copies of PQ, with the title mentioned (ORIGINAL and 
+
+COPY). The each bid should be in properly bound form with all pages numbered and 
+signed. The language of the bid and all documents related to the bid must be written in 
+English language. If any document is in language other than English, then the bidder is 
+required to enclose a self-attested translated English version of such documents. 
+
+ 
+b) All the documents viz. EMD, Pre-qualification Bid, Technical Bid prepared as above are 
+
+to be kept in a single sealed cover superscripted with mentioned Tender Name and 
+number. 
+
+ 
+c) Each page of the bid document has to be duly stamped and signed and sequentially 
+
+numbered by the authorized signatory of the bidder. In online submission, all 
+documents must be digitally signed by an authorized company representative before 
+submission.  
+
+ 
+d) Prices should not be indicated in the Pre-qualification or Technical Bid. 
+ 
+e) All the columns of the quotation form, Format etc. shall be duly, properly and 
+
+exhaustively filled in. 
+ 
+f) It is mandatory for all bidders to quote prices inclusive of all applicable taxes, levies and 
+
+duties, Insurance, customs, service tax, etc., transportation, 3 years of warranty. Any 
+change in rate of taxation announced by the Government of India or state government 
+during the prevalence of the contract shall be paid/ deducted appropriately upon 
+production of proof.  
+
+ 
+g) In price bid, vendor must provide rates of all the line items, any item with value equal 
+
+to zero will be considered to be free of cost or assumed to be such to have been included 
+in any other line Failure of the bidder to submit agreement to the above shall be subject 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 20 of 52 
+ 
+ 
+
+to forfeiture of the EMD and blacklisting. 
+ 
+h) Any omission in filling the columns of “units” and “rate” or pertaining to the 
+
+Taxes/levies, service tax as applicable etc., shall deemed to be treated as inclusive in the 
+total project cost and shall be to the System integrators account. 
+
+ 
+i) Conditional and variable bids will not be accepted. 
+
+4.4 Documents establishing Eligibility and Conformity of goods/services: 
+
+a) The Bidder shall furnish, as part of its bid, documents which establishing the eligibility and 
+conformity to the bidding documents of all goods and services, which the Bidder proposes 
+to supply under the contract. 
+
+ 
+b) The documentary evidence of conformity of goods / services to the bidding documents 
+
+may be in the form of literature, drawing and data, and shall consist of a detailed 
+description of the essential technical and performance characteristics of the goods; 
+
+ 
+c) The Bidder shall note that standards for workmanship, material and equipment, and 
+
+references to International brand names or catalogue numbers designated by the 
+tendering Authority in its Technical Specifications are intended to be descriptive only and 
+not restrictive. 
+
+4.5 Deadline for Submission of Bids: 
+
+a) In case of Online Tendering, Bids must be submitted online through 
+www.nprocure.comnot later than the time and date specified in the Bidding Schedule. 
+
+ 
+b) Where Bids are to be submitted through Physical / Hard copy medium all the bidding 
+
+documents should reach at GNFC Ltd - IT Division not later than time and date specified 
+in the Bidding Schedule. 
+
+ 
+c) In the event of the specified date for the submission of Bids being declared as a holiday 
+
+for GNFC Ltd - IT Division the bids will be received up to the appointed time on the next 
+working day. 
+
+ 
+d) GNFC Ltd - IT Division, at its discretion, extend this deadline for submission of bids by 
+
+amending the bid documents, in which case all rights and obligations of GNFC IT 
+Division and Bidders subject to the deadline will thereafter be subject to the deadline 
+as extended. GNFC Rights to retender or e-Auction in case of not satisfactory rates/ 
+offered solution. 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 21 of 52 
+ 
+ 
+
+4.6 Language of Bid: 
+
+The bid prepared by the bidder, as well as all correspondence and documents relating to 
+the bid exchanged by the Bidder and The tendering Authority shall only be in English 
+language. 
+
+4.7 Format of Bid: 
+
+The Bidder shall complete the Technical Bid & Financial Bid as per format and sequence 
+attached under section of Technical and Financial details respectively. 
+
+4.8 Currency of Bid: 
+
+Prices shall be quoted in Indian Rupees only. 
+
+4.9 Validity period: 
+
+a) All bids shall be valid for 120 days after the date of bid closing. The tendering Authority 
+shall reject a Bid valid for a shorter period as non-responsive. 
+
+b) In exceptional circumstances, the tendering Authority may solicit the Bidder’s consent to 
+an extension of the period of validity. The request and the responses thereto shall be 
+made in writing. 
+
+c) Bid evaluation will be based on the bid prices without taking into consideration the above 
+changes. 
+
+4.10 Right to accept or reject any or all Bids 
+
+a) Notwithstanding anything contained in this RFP, GNFC IT Division reserves the right to 
+accept or reject any Proposal and to annul the Bidding Process and reject all Proposals, at 
+any time without any liability or any obligation for such acceptance, rejection or 
+annulment, and without assigning any reasons thereof. GNFC IT Division reserves right to 
+proceed even with single bid, in case of failure to attract more bidders to participate under 
+tender by considering condition of market and social-educational services offered under 
+the tendered project. 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 22 of 52 
+ 
+ 
+
+b) GNFC IT Division shall not be liable for any omission, mistake or error on the part of the 
+Bidder in respect of any of the above or on account of any matter or thing arising out of 
+or concerning or relating to the RFP or the Bidding Process, including any error or mistake 
+therein or in any information or data given by GNFC IT Division. 
+
+4.11 NON-SOLICITATION: 
+
+During the validity of this project agreement, the successful bidder shall not without the 
+written consent of the other Party, employ or offer to employ (whether under an 
+agreement of service or under an agreement for services) any person engaged or 
+previously by GNFC IT Division or its agencies in a last 2 years in a technical or managerial 
+capacity in relation to the project during the subsistence of the Agreement. 
+
+4.12 Insurance: 
+
+a) Damage insurance: bidder shall insure all the hardware/software to ensure damage 
+protection of all the hardware/software etc. Till commissioning ends else bidder has 
+to install new hardware/software in case of damage without any extra payment to 
+bidder. 
+
+b) Theft insurance: bidder shall insure all the hardware/software to ensure theft 
+protection of all hardware/software till commissioning else bidder has to install new 
+hardware/software in case of theft without any extra payment to bidder. 
+
+4.13 Force Majeure: 
+
+a) Force majeure shall mean any event or circumstances or combination of events or 
+circumstances that materially and adversely affects, prevents or delays any party in 
+performance of its obligation in accordance with the terms of the agreement, but only 
+if and to the extent that such events and circumstances are not within the affected 
+party's reasonable control, directly or indirectly, and effects of which could have 
+prevented through good industry practice or, in the case if construction activities 
+through reasonable skill and care, including through the expenditure of reasonable 
+sums of money. Any events or circumstances meeting the description of the force 
+majeure which have same effect upon the performance of any contractor shall 
+constitute force majeure with respect to the vendor. The parties shall ensure 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 23 of 52 
+ 
+ 
+
+compliance of the terms of the agreement unless affected by the force majeure 
+events. The vendor shall not be liable for forfeiture of its implementation / 
+performance guarantee, levy of penalties, or termination for default if and to the 
+extent that it’s delay in performance or other failure to perform its obligations under 
+the agreement is the result of force majeure. 
+
+b) It will be prerogative of GNFC IT Division to take the decision on force major conditions 
+and GNFC IT Division decision will be binding to the bidder. 
+
+c) Force majeure events: the force majeure circumstances and events shall include the 
+following events to the extent that such events or their consequences (it being 
+understood that if a causing event is within the reasonable control of the affected 
+party, the direct consequences shall also be deemed to be within such party's 
+reasonable control) satisfy the definition as stated above. Without limitation to the 
+generality of the foregoing, force majeure event shall include following events and 
+circumstances and their effects to the extent that they, or their effects, satisfy the 
+above requirements. 
+
+d) Natural events (“natural events”) to the extent they satisfy the foregoing 
+requirements including: any material effect on the natural elements, including 
+lightning, fire, earthquake, cyclone, flood, storm, tornado, or typhoon; explosion or 
+chemical contamination (other than resulting from an act of war);  epidemic such as 
+plague; any event or circumstance of a nature analogous to any of the foregoing. 
+
+e) Other events (“political events”) to the extent that they satisfy the foregoing 
+requirements including: political events which occur inside or outside the state of 
+Gujarat or involve directly the state government and the central government (“direct 
+political event”), including: 
+ Act of war (whether declared or undeclared), invasion, armed conflict or act of 
+
+foreign enemy, blockade, embargo, revolution, riot, insurrection, civil commotion, 
+act of terrorism or sabotage; 
+
+ Strikes, work to rules, go-slows which are either widespread, nation-wide, or state-
+wide and are of political nature; 
+
+ Any event or circumstance of a nature analogous to any of the foregoing. 
+f) Force majeure exclusions: force majeure shall not include the following event(s) 
+
+and/or circumstances, except to the extent that they are consequences of an event of 
+force majeure: 
+ (a) Unavailability, late delivery 
+ (b) Delay in the performance of any contractor, sub-contractors or their agents 
+
+g) Procedure for calling force majeure: the bidder shall advise GNFC IT Division by a 
+registered letter duly certified by the local statutory authorities, the beginning and 
+end of the above causes of delay within seven (7) days of the occurrence and cessation 
+of such force majeure conditions. In the event of delay lasting over two months, if 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 24 of 52 
+ 
+ 
+
+arising out of causes of force majeure, GNFC IT Division reserves the right to cancel 
+the order. Completion period may be extended to circumstances relating to force 
+majeure by GNFC IT Division Bidder shall not claim any further extension for 
+completion of work. GNFC IT Division shall not be liable to pay extra costs under any 
+conditions 
+
+h) Bidder shall categorically specify the extent of force majeure conditions prevalent in 
+their works at the time of submitting their bid and whether the same have been taken 
+in to consideration or not in their quotations. In the event of any force majeure cause, 
+the bidder shall not be liable for delays in performing their obligations under this order 
+and the delivery dates can be extended to the bidder without being subject to price 
+reduction for delayed delivered, as stated elsewhere. 
+
+4.14 Information Security 
+
+a) The successful Bidder’s Team shall not carry any written/printed document, layout 
+diagrams, hard disk, storage tapes, other storage devices or any other goods /material 
+proprietary to GNFC IT Division into / out of the Data Centre Sites and GNFC IT 
+Division’s office location without written permission from the GNFC IT Division. 
+
+b) The successful bidder’s Team shall not destroy any unwanted documents, defective 
+tapes/media present at the Data Centre Sites and GNFC IT Division and its nominated 
+agencies’ office location on their own. All such documents, tapes/media shall be 
+handed over to the GNFC IT Division. 
+
+c) The successful bidder’s Team shall follow GNFC IT Division’s Information Security 
+policy. Access to GNFC IT Division’s data and systems, Email and Internet facility by the 
+SP / SP’s team at the GNFC IT Division’s office location shall be in accordance with the 
+security and access policies set by the GNFC IT Division and administered by the 
+existing vendors. 
+
+4.15 RESOLUTION OF DISPUTES: 
+
+a) All disputes or difference(s) whatsoever which shall at any time arise between the 
+parties hereto touching or concerning the works or the execution or maintenance 
+thereof of this Contract or the rights touching or concerning the works or the 
+execution or maintenance thereof of this Contract of the construction meaning 
+operation or effect thereof or to the rights, liabilities of the parties or arising out of or 
+in relation thereto whether during or after completion of the Contract or whether 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 25 of 52 
+ 
+ 
+
+before or after determination, foreclosure or breach of the Contract, shall be referred 
+by the disputing Party, in writing to the other Party, within 30 days of occurrence of 
+such event, to resolve any such dispute or difference.  
+ 
+
+b) If such dispute mentioned above is not resolved amicably by direct informal 
+negotiation, within a period of 30 days, then such dispute/ difference shall be referred 
+to the panel of Executive Director – Technical and Executive Director – Finance of 
+GNFC, whose decision shall be final and binding on both the Parties. The panel of 
+Executive Directors shall give its decision within a period of 90 days from the date of 
+reference of such dispute to the panel. 
+ 
+
+c) If the Panel of Executive Directors fails to give its decision within the prescribed period, 
+such disputes shall be referred to arbitration by serving an Arbitration Notice, as per 
+provisions of clause below “Arbitration”. 
+
+4.16 ARBITRATION: 
+
+a) For the purposes of this Arbitration Clause, the Managing Director, Gujarat Narmada 
+Valley Fertilizers and Chemicals Ltd. shall be the “Appointing Authority.” 
+ 
+
+b) If any Party serves an Arbitration Notice in respect of any dispute to the Appointing 
+Authority, the dispute shall be finally settled by arbitration under the Indian Arbitration 
+and Conciliation Act, 1996 (“Act”) and all statutory amendments, modifications thereof 
+and the rules made there under, or any other corresponding law for the time being in 
+force, by the Sole Arbitrator to be appointed as hereinafter provided. 
+ 
+
+c) Within 30 days of receipt of Arbitration Notice, the Appointing Authority shall appoint the 
+Sole Arbitrator, who shall be a retired employee of GNFC, not below the rank of General 
+Manager and who shall be qualified to be appointed as an Arbitrator under the law in 
+force at the relevant time. 
+ 
+
+d) The provisions of the Indian Arbitration Act, 1996 and all statutory enactments and 
+modifications thereof and the rules made there under shall apply to all such arbitrations.  
+ 
+
+e) The Arbitration proceedings shall be conducted in English and the venue and seat of the 
+Arbitration proceedings shall be at Bharuch and the Courts at Bharuch shall have exclusive 
+jurisdiction. 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 26 of 52 
+ 
+ 
+
+4.17 Applicable Laws and Jurisdiction: 
+
+In relation to any legal action or proceedings to enforce the contract, the parties to the 
+contract irrevocably submit to the exclusive jurisdiction of the court in Gandhinagar 
+(Gujarat) to the exclusion of any other court or courts that may otherwise have had such 
+jurisdiction and waive any objection to such proceedings on grounds of venue or on the 
+grounds that the proceedings have been brought in an inconvenient forum. The 
+jurisdiction of any dispute will be Gandhinagar. 
+
+4.18 Other Terms and Conditions: 
+
+a) The bid is non-transferable.   
+b) All the information contained in these requisition specifications is the property of GNFC 
+
+IT Division and these are not to be reproduced or disclosed to other parties in any manner 
+without prior permission in writing from GNFC IT Division.  
+
+c) It is very critical that the knowledge of the GNFC IT Division’s facility is not misused / 
+revealed by Bidder, Bidder’s employees, and / or any entity associated with Bidder. This 
+will be the Bidder’s responsibility and violation to this shall have serious implications. 
+
+d) All charges are to be absorbed by Bidder’s organizations 
+e) Please refer attached GCC (General Conditions of Contract) & GCP (General Conditions of 
+
+Purchase). All other terms & conditions not covered here are mentioned in these 
+documents as well as in case of any dispute, GCC & GCP will prevail. 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 27 of 52 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SECTION 5: OPENING AND EVALUATION OF PROPOSALS: 
+  
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 28 of 52 
+ 
+ 
+
+5.1 Clarifications on submissions made 
+
+a) During evaluation of Proposals, GNFC IT Division may, at its discretion, seek clarification(s) 
+from Bidder during the evaluation period. The request for clarification and the response 
+thereof shall begin writing and within the deadline. In the event of non-submission of any 
+clarification within deadline, the committee will evaluate the Proposal, based on the 
+submitted information & GNFC IT Division’s decision will be binding on the bidder. 
+
+ 
+b) Bidders are advised that the evaluation of Proposals will be entirely at the discretion of 
+ GNFC IT Division. Bidders will be deemed to have understood and agreed that no     
+       Explanation or Justification on any aspect of the Bidding Process or selection will be given. 
+ 
+
+c) Any information contained in the Proposal shall not in any way be construed as binding 
+on the GNFC IT Division, its agents, successors or assigns, but shall be binding against the 
+Bidder if any Project is subsequently awarded to it under the Bidding Process on the basis 
+of such information. 
+
+ 
+d) GNFC IT Division reserves the right not to proceed with the Bidding Process at any time    
+       Without Notice or liability and to reject any Proposal without assigning any reasons. 
+
+5.2 Proposal Evaluation: 
+
+a) PQ Evaluation: The bidders shall be evaluated first on the basis of PQ criteria as mentioned 
+above in section3.1 of this document. 
+
+b) Technical evaluation: The technical bids of only those bidders qualifying in the PQ shall be 
+opened. All Technical bids received from bidders will be evaluate GNFC IT Division’s 
+Tender evaluation Committee. 
+
+c) Financial Bid: The financial bid of the technically qualified bidders only will be opened and 
+financially L1 bidder will be decided from the sum total of prices for all line items 
+considering Covetable Taxes in Gujarat. 
+
+ 
+ 
+  
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 29 of 52 
+ 
+ 
+
+5.3 Performance Bank Guarantee 
+
+a) Within 10 days of getting award of work, the successful bidder shall submit PBG in Indian 
+Rupees for the 10% of the total Order value, as per GNFC IT Division’s format from any 
+Nationalized/Scheduled commercial bank located in India. Validity of the PBG shall be up 
+to end of warranty period + claim period of 6 months. Format for PBG is given in Annexure 
+– III. 
+ 
+
+b) Upon the successful Bidder’s furnishing of performance security, GNFC IT Division will 
+promptly notify bidder 
+
+ 
+c) If the bidder fails to furnish the Performance Bank Guarantee in the format specified, 
+
+within 10 (Ten) days and sign the contract agreement from the date of receipt of the 
+notification of award/LOI, the EMD furnished by such bidder may be forfeited. 
+
+ 
+d) If the Successful Bidder after signing the Contract fails to perform any contractual 
+
+obligation, the Performance Bank Guarantee furnished by the bidder will be forfeited. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 30 of 52 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+SECTION 6: SCOPE OF WORK 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 31 of 52 
+ 
+ 
+
+6.1 Area of operation / Scope of Work: 
+
+a) Bidder shall supply the required hardware, software and accessories at our Ahmedabad, 
+GIFT city and Bharuch locations if required. Such work shall be executed as per the 
+National and International standards, the best industry practices and OEM/Vendor’s 
+standard practice/documentation and recommendations. 
+
+b) Bidder shall provide detailed technical data sheets of all the quoted items. 
+c) Bidder shall provide detailed installation, project plan along with activity schedule. 
+d) The offered models should not reach end of life / support till completion of contract 
+
+period and it should be upgradable / scalable / expandable in case there is a requirement 
+of additional capacity during this period. 
+
+e) Bidder shall provide comprehensive support during warranty and AMC period. 
+f) Bidder shall provide service support for total period as mentioned in contract.  
+g) The Bidder shall stock all necessary spares / software’s available with them for the 
+
+rectification of problems and must be used so as to rectify the faults within the time limit 
+specified by GNFC IT Division. 
+
+h) Bidder has to sign an NDA (Non-Disclosure Agreement) as per the attached format at 
+Annexure - VII regarding the confidentiality of the information exchange between GNFC 
+IT Division and the Bidder. 
+
+i) Bidder to provide proof of Back to back OEM Warranty /AMC for the hardware & Software 
+solution for contact period. 
+
+6.2 Technical details 
+
+6.2.1 Bill of Materials: 
+The details of Bill of Material are mentioned as per the following table. Bidder has to provide his 
+response against each item. 
+
+Bill of Materials – Acceptance 
+BOQ for Internal Setup  
+
+Sr. 
+No Item Description Qty 
+
+Offered 
+Product / 
+Model 
+
+   Acceptance 
+(Yes/No/Yes 
+
+with deviations) 
+Deviations 
+
+( if any) 
+1 Firewall (Hardware appliance) 1      
+2 Firewall - Logging & Reporting (Hardware appliance) 1 
+
+   
+3 Router 2    
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 32 of 52 
+ 
+ 
+
+6.2.2 Required Technical Specifications 
+The required technical Specifications are as per the following table. Bidder has to provide 
+its response against each item 
+
+Technical Specifications – Acceptance 
+Bidders to consider and provide makes/Models considering detail specification mention in 
+the RFP or Higher Specifications for Products of OEM featured in Leaders/Challengers 
+Quadrant in Latest Gartner Magic Quadrant. 
+
+Firewall  
+Sr. 
+No. 
+
+General Requirement 
+Specification 
+
+Acceptance 
+(Yes/No/Yes 
+
+with 
+deviations) 
+
+Deviations 
+( if any) 
+
+1 The Firewall must be hardware appliance based and should facilitate multi-application environment which should support 
+current network traffic as well as future growth 
+
+   
+
+2 The Firewall should be ICSA Labs certified for ICSA 4.0 and EAL 4 + / NDPP certified, if not the same model   
+ 
+
+3 
+The Firewall should belong to a family of products that attains 
+NSS/NIST Approved Certification and attains IPv6 Ready Phase 2 
+& IPv6 Certification 
+
+   
+
+4 
+The platform should be based on security-hardened, purpose 
+built operating system architecture that is optimized for packet 
+and application level content processing 
+
+   
+
+5 Be proprietary to prevent inheriting common OS vulnerabilities and should Resided on flash disk for reliability over the hard disk   
+ 
+
+6 
+Should provide a Http, Https, SSH, Telnet, SNMP based 
+management console for managing and configuring various 
+components of the appliance 
+
+   
+
+7 
+The proposed system should be able to facilitate administration 
+audit by logging detailed activities to event log for management, 
+configuration changes, updates which also enable Admin to boot 
+firmware on the earlier revision / configuration in case of any 
+errors 
+
+  
+ 
+
+8 
+The administrator authentication shall be facilitated by local 
+database, PKI & remote server such as Radius, LDAP, AD and 
+TACS+ 
+
+   
+
+9 
+The Firewall system should have provision of Web Content Filter, 
+Application Control, Antivirus systems and Intrusion Prevention in 
+the same solution 
+
+   
+
+ Networking & System Performance Requirements:   
+ 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 33 of 52 
+ 
+ 
+
+10 
+The Firewall should support a minimum of 12 x GE RJ45,12 x SFP 
+RJ45 & 2xGE Management & 1 Console interfaces with auto 
+sensing capacity & with Expansion Module 
+
+   
+
+11 
+The platform should support the standards based Link 
+aggregation technology (IEEE 802.3ad) to achieve higher 
+bandwidth 
+
+   
+
+12 Should support automatic ISP failover as well as ISP load sharing    
+
+13 
+The Firewall should support Static, Policy Base, Identity based, 
+Multicast routing and Dynamic routing for RIP1 & 2, OSPF, 
+OSPFv3, BGP4, ISIS, RIPing 
+
+   
+
+14 The Firewall should support throughputs of 35 Gbps or better for both small & large packets   
+ 
+
+15 The firewall should support throughput of at least 10Gbps of AES - IPSEC VPN and should be H/W accelerated   
+ 
+
+16 should support concurrent session atleast 4Mil    
+17 Should support new session per second atleast 3,00,000 or above    
+18 Should support and IPS throughput atleast 4Gbps with production env. profiles or better with enterprise mix   
+
+ 
+ Firewall Requirements:    
+
+19 The Firewall should support deployment modes as; "Route Mode" or "Transparent Mode" and support web proxy/ssl proxy   
+ 
+
+20 The Firewall should support Stateful inspection with optional Policy based NAT (Static OR Dynamic)   
+ 
+
+21 
+The Firewall should support Inbound Port Forwarding with 
+inbound Load Balancing if servers are running in high availability 
+(layer 4)   
+
+ 
+
+22 Should support IPv6 ACL to implement security Policy for IPv6 traffic   
+ 
+
+23 
+All internet based applications should be supported for filtering 
+like Telnet, FTP,SMTP, HTTP, DNS, ICMP, DHCP, RPC,SNMP, BGP, 
+IMAP, NFS etc   
+
+ 
+
+24 
+Should be able to inspect HTTP and FTP traffic when these are 
+deployed using nonstandard port( i.e when HTTP is not using 
+standard port TCP/80)   
+
+ 
+
+25 
+The Firewall should support deployment of Virtulization at least 
+for 3 virtual context from the day one without any additional cost 
+/ licenses   
+
+ 
+
+26 Virtual context must have all security features for use for every single firewall   
+ 
+
+ IPSEC VPN Requirements:    
+27 The IPSEC VPN and SSL VPN capability shall minimally attain Internet Computer Security Association (ICSA) Certification   
+
+ 
+
+28 
+The proposed system shall support industry standards, L2TP, 
+PPTP, IPSEC, and SSL VPN without additional cost for license or 
+solution for VPN client   
+
+ 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 34 of 52 
+ 
+ 
+
+29 Firewall must have atleast 200SSL VPN client & 300 IPSec VPN client in Route mode from the day 1   
+ 
+
+30 IPSEC (DES, 3DES, AES) encryption/decryption and SSL encryption/decryption   
+ 
+
+31 
+The system shall support IPSEC site-to-site VPN and remote user 
+VPN in transparent mode without any additional cost for VPN 
+clients   
+
+ 
+
+ Application control    
+
+32 
+Atleast 2500+ application signature must be there & it should 
+able to understand well known application like P2P, Voice, etc 
+without any dependency on the ports   
+
+ 
+
+33 Solution must provide option to create custom signature for applications   
+ 
+
+34 Solution should have application throughput of atleast 6 Gbps or higher   
+ 
+
+ Threat Protection    
+35 Firewall must able to scan http, https, IMAP, IMAPs, FTP, FTPs, POP, POPs, SMTP, SMTPs & MAPI protocols with AV signatures   
+
+ 
+
+36 
+Threat prevention throughput must be atleast 2Gbps after 
+enabling AV, Appcontrol & IPS signatures in real time/Enterprise 
+mix   
+
+ 
+
+ SSL VPN Requirements    
+37 The Firewall should be integrated solution and there should be no user based licensing for SSL VPN   
+
+ 
+38 SSL VPN must have atleast throughput of 2000Mbps or higher    
+39 The Firewall should support for TWO modes of SSL VPN:1.Web mode,2.Tunnel mode with Split tunnel option   
+
+ 
+ Traffic Shaping Requirements    
+
+40 The proposed system should have integrated Traffic Shaping functionality including these features:   
+ 
+
+41 capable of enable and disable traffic shaping per firewall policy    
+42 capable of setting guarantee bandwidth and maximum bandwidth per firewall policy   
+
+ 
+43 ability to Tag and Pass Differentiated Service tagging    
+
+ High Availability Requirements:    
+44 The HA solution should support stateful session maintenance in the event of a fail-over to a standby unit/s.   
+
+ 
+45 The HA solution should support both Active/Active and Active/Passive load balancing   
+
+ 
+46 The High Availability should be supported in the Firewall from the day one and without any extra license   
+
+ 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 35 of 52 
+ 
+ 
+
+47 We may add proposed firewall in cluster of existing fortinet 300D / 300E firewall.  
+ 
+
+ Network Intrusion Detection & Prevention System Requirements:   
+ 
+
+48 The IPS capability shall minimally attain Internet Computer Security Association (ICSA)   
+ 
+
+49 
+Should have a built-in Signature and Anomaly based IPS engine 
+on the same unit and Anomaly based detection should be based 
+on thresholds 
+
+ 
+ 
+
+50 Able to prevent denial of service and Distributed Denial of Service attacks on signature  
+ 
+
+51 
+Administrator shall be able to configure DoS policies that are 
+used to associate DoS settings with traffic that reaches an 
+interface based on defined services, source and destinations 
+IP/Range 
+
+ 
+ 
+
+52 
+Configurable IPS filters to selectively implement signatures based 
+on severity, target (client/server), protocol, OS and Application 
+types 
+
+ 
+ 
+
+53 Security check updates do not require reboot of the unit   
+ Web & Application Content Filtering System Requirements:   
+
+54 
+The proposed system should have integrated Web Content 
+Filtering solution without external solution, devices or hardware 
+modules 
+
+ 
+ 
+
+55 URL database should have atleast 250+ million sites and 70 + categories in 60+ languages  
+ 
+
+56 
+The proposed solution should be able to enable or disable Web 
+Filter per firewall policy or based on firewall authenticated user 
+groups for both HTTP and HTTPS 
+
+ 
+ 
+
+57 Should blocks web plug-ins such as ActiveX, Java Applet, and Cookies  
+ 
+
+58 Shall include Web URL block, Web keyword block, Web Exempt List  
+ 
+
+59 The proposed solution should be able to replace the web page when the web page matches the Web Filtering blocking criteria.  
+ 
+
+60 
+The proposed solution shall be able to identify, retrieve and rate 
+the actual URL of the cached content commonly available in 
+search engines such as Yahoo and Google. 
+
+ 
+ 
+
+61 
+The proposed solution shall be able to identify, retrieve and rate 
+the image files from image search engines and take appropriate 
+action as configured 
+
+ 
+ 
+
+62 The solution shall allow administrators to creat mutiple new local URL filtering categories besides dynamic categories  
+ 
+
+63 The solution shall allow administrators to override Online URL Database ratings with local ratings setting  
+ 
+
+64 
+Many web sites use HTTP redirects legitimately; however, in 
+some cases, redirects may be designed specifically to circumvent 
+web filtering, as the initial web page could have a different rating 
+
+ 
+ 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 36 of 52 
+ 
+ 
+
+than the destination web page of the redirect. The solution shall 
+be able to rate redirected sites as well. 
+
+65 
+The solution shall be capable of rating URLs by domain and IP 
+address which sends both the URL and the IP address of the 
+requested site for checking, providing additional security against 
+attempts to bypass the rating system. 
+
+ 
+ 
+
+ Data Leak Prevention Requirements:   
+66 Should have the ability to prevent data loss through SMTP, FTP, HTTP, HTTPS & IM and using any application  
+
+ 
+67 Full archive features for http, https, ftp, ftps & email protocols   
+68 Should have built in pattern database and option to configure new patterns as and when required  
+
+ 
+ Two Factor Authentication   
+
+69 
+Solution must have 2 factor server inbuilt or integrated with 3rd 
+party 2-factor solution with optional costing of 20 soft token from 
+day 1 for external users 
+
+ 
+ 
+
+70 It must have option for soft, hard, SMS & email based token option, any 1 at a time  
+ 
+
+ Wireless controller   
+71 Solution must have wireless controller from the day 1 with feature of managing atleast 100 AP's from the day 1  
+
+ 
+ Certification   
+
+72 Proposed solution must be in a challenger/Leader quadrant of Gartner Enterprise Firewall for alteast last 3 consecutive years  
+ 
+
+ Logging & reporting   
+73 Solution must integrate with existing server via syslog protocol   
+
+ License & Support   
+74 Should be supplied with all applicable Licenses & 24*7 support for 3 years from day one.   
+
+ 
+Firewall - Logging & Reporting appliance 
+
+Sr. 
+No. 
+
+General Requirement 
+Specification 
+
+Acceptance 
+(Yes/No/Yes 
+
+with 
+deviations) 
+
+Deviations 
+( if any) 
+
+1 Proposed solution must be appliance based with all required hardware inbuilt from the day 1 from single OEM only.  
+ 
+
+2 It must have capacity to receive 50GB/Logs per day from day 1   
+3 It should support storage capacity of 4TB from day 1   
+4 It must support at least 30 Devices from day 1   
+5 proposed solution must able to take atleast 1500 events per seconds  
+
+ 
+
+6 It must provide granular reporting, event management & dashboard for events.  
+ 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 37 of 52 
+ 
+ 
+
+7 It must have drill down dashboard option which can take out as PDF, HTML or CSV format if required.  
+ 
+
+8 It must be allow to design custom reports on it as required.   
+ 
+
+Router 
+Sr. 
+No. 
+
+General Requirement 
+Specification 
+
+Acceptance 
+(Yes/No/Yes 
+
+with 
+deviations) 
+
+Deviations
+( if any) 
+
+1 
+The Router should support modular architecture, multi-core 
+Processor, internal redundant field replaceable power supply 
+(from Day1). The Router Should have capabilities of seamless field 
+upgrade/replacement (without interrupting running processes 
+and services ) for modular interfaces. 
+
+ 
+ 
+
+2 Router should have 4 x 1G SFP/Base-T combo ports and additional 4x1G Base-T LAN/WAN ports from day 1  
+ 
+
+3 
+The Router should support interfaces like Channelized E1/T1, 
+Serial V.35, G.703, LTE, Gigabit Ethernet modules. All the modular 
+interfaces on the router should support hot-swapability feature to 
+accommodate field upgrades without rebooting the router. 
+
+ 
+ 
+
+4 The Router should have empty slot for future use    
+5 
+
+Router should have minimum 4 GB of on-board/inbuilt 
+DRAM/RAM for data plane + control plane processes and 2 GB 
+Flash from Day 1. Should support expandability up to 16 GB 
+DRAM and 4 GB Flash. 
+
+ 
+ 
+
+6 The router must support IKEv1, IKEv2, GRE and IPSEC as and when required in future  
+ 
+
+7 Routers should support 500 Mbps WAN throughput from day1 and upgradable to upto 1 Gbps as an when needed.  
+ 
+
+8 Router should support 750 K IPv4 and IPv6 routes   
+9 Router should be scalable to support 2000 GRE and IPSEC tunnels as and when required  
+
+ 
+
+10 The router should support atleast 750 Mbps of IPSEC Bandwidth incase required in the future   
+ 
+
+11 Router should support IGMP v1/v2/v3 and PIM multicast routing    
+12 
+
+Router should support static Routes, OSPFv2, OSPFv3, BGP4, 
+MBGP, BFD, Policy based routing, IPv4 and IPv6 tunneling  from 
+Day 1 
+
+ 
+ 
+
+13 The Router should support Zone Based Firewall feature as and when required in future  
+ 
+
+14 Router should Support Traffic Optimization feature built in the router operating system as and when required in future  
+ 
+
+15 Shall have 802.1p class of service and marking, classification, policing and shaping.   
+ 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 38 of 52 
+ 
+ 
+
+16 Router should support SSHv2, SNMPv2c, SNMPv3 and NTP    
+
+17 Routers should support AAA using RADIUS and TACACS+    
+
+18 
+Should have extensive support for IP SLA and best path selection 
+for metrics like delay, latency, jitter, packet loss to assure 
+business-critical IP applications as and when required in future. 
+
+ 
+ 
+
+19 The router should support cRTP to compress voice (RTP) streams   
+
+20 
+Router should support monitoring of network traffic with 
+application level insight with deep packet visibility into web 
+traffic, RTP-Based VoIP traffic. 
+
+ 
+ 
+
+21 
+Router should have traffic load balancing capability on dual WAN 
+Links based on based on advanced criteria, such as reachability, 
+delay, loss, jitter and bandwidth utilization as and when required. 
+
+ 
+ 
+
+22 
+Router shall have capability to add on demand IPSec VPN tunnels 
+dynamically established  multipoint-to-multipoint IPSEC based 
+spoke-to-spoke VPN tunnels matching traffic conditions as and 
+when required in future 
+
+ 
+ 
+
+23 
+Router shall conform to UL 60950 or IEC 60950 or CSA 60950 or 
+EN 60950 Standards for Safety requirements of Information 
+Technology Equipment.  
+
+ 
+ 
+
+24 
+Router shall conform to EN 55022 Class A/B or CISPR22 Class A/B 
+or CE Class A/B or FCC Class A/B Standards for EMC (Electro 
+Magnetic Compatibility) requirements.  
+
+ 
+ 
+
+25 Router/Router’s Operating System should be tested and certified for EAL 3/NDPP or above under Common Criteria Certification   
+ 
+
+26 Router should be IPv6 Certified/IPv6 logo ready    
+ 
+ 
+
+6.2.3 Technical Scope of work, Terms and Conditions 
+The details of technical Scope, Terms and Conditions are as per the following table. Bidder has to 
+provide his response against each item. 
+
+Technical Scope, Terms and Conditions – Acceptance 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 39 of 52 
+ 
+ 
+
+Sr. 
+No. 
+
+Description Acceptance 
+(Yes/No/with 
+
+deviations) 
+Deviations 
+
+(if any) 
+1 Bidder shall read this tender document carefully and shall 
+
+upload/submit signed & stamped copy.    
+2 Bidder shall provide detailed technical data sheets including 
+
+features of all the quoted items.   
+3 Bidder shall prepare requirement documents where every kind 
+
+of requirements will be listed like power, networking, IP 
+addresses etc. 
+
+  
+
+4 GNFC IT Division will provide power, connectivity with core 
+network infrastructure. Bidder shall have to provide all the 
+items to get the complete infrastructure to work.  
+
+  
+
+5 Bidder shall install Router & Firewall in the rack at datacenter    
+6 Bidder shall update all the firmware and BIOS as the first task 
+
+of actual work.   
+7 Bidder shall support initially for a week to stabilize the 
+
+infrastructure and operational help.   
+8 Bidder shall provide the detailed installation report after 
+
+completion of the job.   
+9 Bidder shall provide the service escalation matrix with contact 
+
+details.   
+10 Network Component needs to be supplied with 24x7 OEM 
+
+support.   
+11 Approved and acceptable brands for all the hardware 
+
+mentioned in the Bill of Material are, The offered models 
+should not reach end of life / support till next seven years of 
+supply. It should be upgradable / scalable / expandable in case 
+there is a requirement of additional capacity during this period. 
+
+  
+
+12 Back to back OEM Warranty for the hardware solution shall be 
+3 years comprehensive at site (parts, labor, firmware upgrade, 
+etc.). 
+
+  
+
+13 OEM Authorization: A documentary evidence of OEM 
+authorization for support / partnership / service provider / 
+dealership of hardware items to be supplied. 
+
+  
+
+14 Period of contract: The initial contract period will be of 3 years 
+from the date of issuance of Work Order. The contract period 
+may be extended for a further period of 2 years on completion 
+of the original contract period, solely at the discretion of GNFC 
+IT Division, on same terms and conditions. 
+
+  
+
+15 Termination of Contract: GNFC IT Division reserves the right to 
+terminate the contract by giving one month notice and forfeit 
+any or all amount due / may become due to the contractor 
+including security deposit. In case of failure on the part of 
+contractor to carry out or discharge all or any work/s or 
+obligation/s, to be carried out by the contractor as per terms 
+and conditions of contract. 
+
+  
+
+ 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 40 of 52 
+ 
+ 
+
+6.2.4 Procedure for implementation 
+For successful implementation of the system, Vendor has to provide following information 
+along with the bids, 
+a) Detailed documentation /write-up along with their bids for smooth and bump less 
+migration of entire system from old setup to new setup to be supplied. 
+b) A schedule for implementation with duration and timelines. 
+c) Schedule on interruption period / business downtime on migration. 
+d) Technical specifications / data sheets including architecture of all items offered. 
+e) A document on design considerations, solution design with interconnect block 
+diagram for entire solution and assumptions is to be submitted with technical bid. Exclusions, 
+if any, is to be clearly mentioned. 
+Procedure and scope for implementation of Hardware will be as mentioned in table below. 
+
+Sr. Activity Vendor’s 
+Scope 
+
+GNFC 
+Scope 
+
+1 Supply of hardware with specifications mentioned in this tender document along with all interconnect / interfaces. √ 
+ 
+
+2 Install, configure and test the supplied hardware at our data Centre. √ 
+ 
+
+3 Verification of infrastructure setup as per the requirements.  
+√ 
+
+4 Migration of existing data from old setup to new installation. √ 
+ 
+
+5 Verification of successful migration of data and working of complete system. 
+ √ 
+
+6 Any other activity ancillary to the above jobs/ works. √  
+7 Electrical supply (2 nos.) and LAN link at single point to rack. 
+
+ √ 
+8 Rest any items needed to complete the setup and achieve required results. 
+
+√  
+  
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 41 of 52 
+ 
+ 
+
+6.3 Commercial Scope, Terms & Conditions 
+
+The details Scope, Terms and Conditions are as per the following table. Bidder has to provide 
+his response against each item. 
+Commercial Scope, Terms and Conditions – Acceptance 
+
+ 
+Sr. Description Acceptance 
+
+(Yes/No/with 
+deviations) 
+
+Deviations 
+( if any) 
+
+1 Scope  
+The scope of supply and technical requirements shall be in total 
+conformity with requirement of the technical specifications 
+including deviations, if any, agreed & accepted by GNFC IT 
+Division. 
+
+  
+
+2 Prices  
+Prices shall be FIRM and without any escalation, whatsoever 
+during the entire order execution period. Prices shall be based 
+on delivery at GNFC IT Division Offices.  
+
+  
+
+3 Taxes 
+All applicable taxes, duties, etc. are to be included in the bid. 
+Any change in rate of taxation announced by the 
+Government of India or state government during the 
+prevalence of the contract shall be paid/ deducted 
+appropriately upon production of proof.  
+
+  
+
+4 Delivery 
+Delivery period shall be of 4 Weeks from the date of confirmed 
+LOI. Delivery of all goods is to be made at GNFC IT Division Office 
+at Ahmedabad.  
+Delivery date shall be considered as the date of receipt of last 
+consignment of goods/Services at GNFC IT Division’s site. 
+
+  
+
+5 Delay/Liquidated damages for delayed delivery/completion 
+In case of delay in delivery/completion beyond agreed period 
+associated penalty will be applicable as mentioned in Penalty 
+clause of RFP. 
+
+  
+
+6 Warranty 
+Warranty for all hardware items shall be for 3 years 
+comprehensive back to back from OEM  as mentioned Section 
+7.4 
+
+  
+
+7 Technical Documentation  
+Technical Documentation shall comply tender specifications 
+and it should be provided for all components of hardware, 
+software and services offered.  
+
+  
+
+ 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 42 of 52 
+ 
+ 
+
+Sr. Description Acceptance 
+(Yes/No/Yes 
+with 
+deviations) 
+
+Deviations 
+( if any) 
+
+8 Performance Bank Guarantee (PBG) 
+PBG shall be submitted for the 10% of the Order value as per 
+GNFC IT Division format from any Nationalized/Scheduled 
+commercial bank in event of Order. Validity of the PBG shall be 
+up to end of Contract period + claim period of 6 months. 
+Format for PBG is given in Annexure – III.  
+
+  
+
+9 Payment Terms 
+Payments will be made as per the schedule given in 7.2 
+ALL THE PAYMENTS WILL BE RELEASED BY   NEFT/RTGS ONLY. 
+
+  
+10 Validity of the offer 
+
+Validity of the offer shall be 120 days from the date of Bid 
+Closing. 
+
+  
+11 Repeat Order 
+
+If required by GNFC IT Division, VENDOR shall accept the 
+repeat order on same rates, terms and conditions within six 
+months from the date of LOI/PO. 
+
+  
+
+12 EMD (Earnest Money Deposit) 
+Bidder has to provide an EMD (Earnest Money Deposit) before 
+submitting the Bid. The details of EMD instruments are to be 
+entered online while submitting the bid and originals are to be 
+submitted to GNFC IT Division at contact address mentioned in 
+this document. 
+
+  
+
+13 Additional hardware / software 
+Any additional hardware, software or service components if 
+not specified in technical specifications and if it is required to 
+complete the entire setup proposed above is to be highlighted 
+and are to be  quoted separately. 
+
+  
+
+14 Installation and configuration charges 
+Installation and configuration charges are to be quoted 
+separately with the applicable taxes. 
+
+  
+15 Accommodation / transportation 
+
+GNFC IT Division will not provide boarding, lodging and internal 
+transport facilities during implementation, testing, training 
+period and onsite technical support. 
+
+  
+
+16 Security / Safety 
+Bidder will have to make their own arrangements for Safety of 
+persons working at GNFC IT Division and they will have to 
+follow security procedures, rules and regulations. 
+
+  
+
+17 GCP / GCC 
+Over and above the mentioned scope, terms and conditions, 
+GNFC GCP (General Conditions of Purchase) and GCC (General 
+Conditions of Contract) will be applicable. 
+
+  
+
+ 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 43 of 52 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SECTION 7: PROJECT TIMELINE, PAYMENT SCHEDULE, SLA& 
+PENALTIES: 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 44 of 52 
+ 
+ 
+
+7.1 Project Timelines: 
+
+7.1.1 Delivery :  
+Delivery period shall be of 4 weeks from the date of LOI. Delivery of all goods is to be made at 
+GNFC IT Division Office at Ahmedabad/Gift Office/Bharuch to be conveyed. Effective date of 
+order shall be date of release of LOI 
+
+ 
+Delivery date shall be considered as the date of receipt of last consignment of goods at GNFC IT 
+Division’s site with release note of GNFC IT Division. 
+ 
+7.1.2 Installation & Commissioning : Bidder shall Install Component  within 2 weeks of time after 
+
+Delivery   
+7.1.3 Configuration: Bidder shall configure Component as per GNFC IT Division requirement. 
+7.1.4 FAT (Final Acceptance Test) : Bidder to provide all Detailed Design Document, Connectivity 
+
+Diagram, Technical Data Sheet, AS build Document, Configuration document 
+7.1.5 Work Completion Certification 
+
+7.2 Payment Schedule 
+
+a) No advance payment will be made on award of the contract. 
+Payment Terms 
+
+Annexure –I b) 70% of Total bid value - Against Delivery  
+c) 20 % on after complete installation and configuration. 
+d) 10% payment shall be released against submission of 10% bank guarantee 
+
+(PBG) that will be valid for three year and six Months claim Period. 
+Annexure –II Post quarter after completion of three year warranty period. 
+
+ 
+Note: AMC cost for next 2 (Two) Years (4th & 5th Year) will be finalized along with the purchase of 
+hardware/software and payment of the same will be at the end of successful completion of each 
+quarter with SLA supporting attached along with the invoice.  
+
+7.3 SLA (Service Level Agreement) 
+
+The purpose of this Service Level Agreement (hereinafter referred to as SLA) is to clearly define the 
+levels of service which shall be provided by the successful bidder to GNFC IT Division for the duration 
+of the contract. GNFC IT Division shall regularly  review  the  performance   of  the  services  being  
+provided  by  the  successful   bidder   and  the effectiveness of this SLA. 
+ 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 45 of 52 
+ 
+ 
+
+General Terms:  
+(1) The AMC covers quarterly Preventive Maintenance visit (once every quarter) for 
+
+checking, testing, cleaning and general maintenance of all equipment. 
+(2) All breakdown calls, other than above services, shall be attended on priority as and 
+
+when required. 
+(3) The AMC covers all repairs/replacement of faulty spares without any charges. 
+(4) The Service Provider shall maintain uptime of all services and keep important spares 
+
+stand-by to maintain uptime. 
+(5) The Service Provider shall submit schedule of maintenance in advance. 
+(6) The Service Provider shall submit contact details of Support Team, Call Escalation Chart 
+
+for tracking execution of calls and report any delay in attending Critical Calls 
+
+7.4 Service Categories / Penalties 
+
+7.4.1 SLA 
+ Critical : Router / Firewall when fail (not available for production more than 15 mins) 
+ Medium :Router /Firewall partial Function (not available for production more than 30 mins) 
+ LOW  : Following Equipment when fail (not available for production more than 3 Hour) 
+
+ 
+In case, the uptime availability for each of the following systems under AMC is found to be 
+less than 99.5% on (Quarterly Basis), the Non-Performance Deduction from quarterly 
+payment shall be as per below mentioned table. The response time based on Severity Level 
+of breakdown calls and penalty for each level will remain as under: 
+
+ 
+Severity Level 
+
+ 
+Uptime 
+
+Response 
+Time from 
+
+Call notification 
+Closing Time from 
+
+Call notification 
+Critical < 99.5% Within 1 Hours Within 2 hours 
+
+Medium < 99.5% to >=99.0% Within  8 Hours Within 24 Hours 
+Low < 99.0% to >=98.0% Within  24 Hours Within 36 Hours 
+
+Note: If any of the service call remains unattended and/or unsolved for more than 15 days 
+of its reporting date, the client shall be at Liberty to invoke / Execute PBG and Levi other 
+appropriate charges as deemed fit. 
+
+7.4.2 Penalty:  
+a) Delay in delivery and Implementation related penalty: 
+Item listed in BOM are to be delivered as per delivery Terms. In case of delay, the penalty of 1% of 
+contract value per delayed week or part thereof will be levied up to maximum of 5% of contract 
+value. If delay is beyond 5%, GNFC IT Division reserves the right to terminate the contract. GNFC IT 
+Division reserves the right to purchase such product/services from market at cost and recover such 
+cost from the Vendor. 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 46 of 52 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+SECTION 8: ANNEXURES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 47 of 52 
+ 
+ 
+
+Annexure –I: Blank Price Bid Format with three years warranty 
+
+Table No. 1.As per the Bill of Material– Including 3 Year warranty 
+A. Hardware Components 
+
+Sr.  
+No. Item Description 
+
+Qty Unit price  
+(in Rs.) 
+
+Total Basic 
+cost 
+
+[F=E*(C)] 
+Type 
+
+of Tax 
+Tax 
+
+In (Rs.) 
+(G) 
+
+Total with 
+Tax (Rs.) 
+(H=F+G) (C) 
+
+1 Firewall (Hardware appliance) 1           
+2 
+
+Firewall - Logging & 
+Reporting (Hardware 
+appliance) 
+
+1      
+3 Router 2      
+
+Total A Section           
+
+Annexure– II: Blank Price Bid Format for annual support for 4th& 5th year 
+
+Table No. 2. Cost of AMC Support for 2 years After 3 Years of warranty 
+H. Hardware Components 
+
+Sr.  
+No. Item Description 
+
+Qty Unit price  
+(in Rs.) 
+
+Total Basic 
+cost 
+
+[M=L*(J)] 
+Type 
+
+of Tax 
+Tax 
+
+In (Rs.) 
+(N) 
+
+Total with 
+Tax (Rs.) 
+(O=M+N)  (J) 
+
+1 Firewall (Hardware appliance) 1           
+2 
+
+Firewall - Logging & 
+Reporting (Hardware 
+appliance) 
+
+1      
+3 Router 2      
+
+Total H Section         
+ 
+Summary of price bidTable 3 = [Table 1 + Table 2]: 
+
+Sr. 
+No. Item 
+
+Year wise cost 
+Total with 3 year 
+
+warranty 
+(Inclusive Taxes) 
+
+4th and 5thYear 
+AMC  
+(Inclusive Taxes) 
+
+Total 5 years 
+(Inclusive Taxes) 
+
+1 Total of Table 1 + Table 2        
+ 
+Location (Installation to be performed):  
+Gujarat Narmada Valley Fertilizers & Chemicals limited, 
+304, GNFC Infotower, 
+Sarkhej-Gandhinagar Highway, Bodakdev, Ahmedabad - 380 054. 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 48 of 52 
+ 
+ 
+
+Annexure – III: Performance Bank Guarantee (PBG) 
+
+(To be executed on a Non-Judicial Stamp Paper of Rs.100/-) 
+SECURITY BOND 
+
+(Guarantee for Performance, Workmanship, Defects and Deficiencies) 
+ 
+THIS SECURITY BOND made this day of __________, 20__ BYa Banking Company incorporated under 
+the___________________________________________ and having its Registered Office 
+at____________________________________ and a Branch Office 
+at_________________________________________ _ (hereinafter referred to as the "Surety") 
+IN FAVOUR OF GNFC IT Division, a Company incorporated in the State of Gujarat under the Companies 
+Act, 1956 (Act - I of 1956) and having its Registered Office at P.O. Narmadanagar-392015, Dist. Ahmedabad, 
+Gujarat (hereinafter referred to as "Purchaser"). 
+
+WHEREAS 
+(1) The Purchaser has issued a Purchase Order bearing No. __________ ____on the ___________ day of 
+20 (hereinafter referred to as the Contract) onM/s._______________________________ __ a 
+_________Company incorporated in the State of _____________ under the Companies Act,1956 (ActI of 
+1956) having its Registered office at _____________________________ _ (hereinafter referred to as the 
+"Vendor")which expression shall include its successors and permitted assigns where the context so admits) 
+for thework and jobs described in the said Purchase Order. 
+
+OR 
+@ The Purchaser has issued a Purchase Order No. dated ___________ onShri (Name & Address of the 
+Proprietor) carrying onbusiness as Vendor in the name and style of ________________________________ 
+(hereinafterreferred to as the "Vendor" which expression shall include his heirs, executors, administrators 
+andassigns where the context so admits) for the work and jobs described in the said Purchase Order. 
+
+OR 
+@ The Purchaser has issued a Purchase Order No dated ___________on S/Shri 
+_____________________________________ (Names of all Partners and their addresses) alljointly carrying 
+on business as Vendor in partnership in the name and style ofM/s.________________________________, 
+a partnership firm having its principal place of business 
+at________________________________________________________ (hereinafter referred to as 
+the"Vendor" which expression shall include all the partners for the time being and from time to time survivors 
+of such partners, or their heirs, executors, administrators and assigns where the context so admits) forthe 
+work and jobs described in the said Purchase Order. 
+(2) The said Purchase Order has been accepted by the Vendor by putting his/its endorsement at the bottomof 
+the said Purchase Order on ________ day of _____20__. The said Purchase Order duly accepted bythe 
+Vendor is hereinafter referred to as “Contract” and the work and jobs described therein are hereinafterreferred 
+to as “Let Work”. 
+(3) Under the provisions of the Contract, the Vendor is required to furnish at its cost to GNFC IT Division, a 
+Security Bond in the form of a Bank Guarantee, in the amount of Rs.__________ (Say 
+Rupees_____________________________ ________ only), being the amount equivalent to _____% 
+(________ per cent) of the total amount of cost of the Let Work, namely Rs._________(Say 
+Rupees__________________________________________ _ only)to cover the Vendor's obligations and 
+liabilities as to the performance, workmanship, defects and deficiencies of and in the Let Work, valid till the 
+end of ________ months after the date of satisfactory completion and acceptance of the entire Let Work in 
+all respects by the Purchaser. 
+(4) The Surety has at the request of the Vendor agreed to issue this Security Bond as the irrevocable letter 
+of Bank Guarantee in terms of the said Contract on behalf of the Vendor, and Purchaser has agreed to accept 
+the same. 
+ 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 49 of 52 
+ 
+ 
+
+----------------------------------------------- 
+@ strike-out which is not applicable. 
+ 
+NOW THIS BOND WITNESSETH AND KNOW ALL MEN BY THESE PRESENTS that the Surety is hereby 
+held and firmly bound unto the Purchaser in the sum of Rs.______ (Say Rupees 
+_____________________________ ___ only) to be paid to the Purchaser at its Registered Office on first 
+demand forthwith, without any demur, dispute or objection, for the payment of which sum well and truly to be 
+made, the Surety hereby unconditionally and irrevocably binds itself, its successors, executors, 
+administrators, assigns and transferees, firmly by these presents. 
+ 
+IT IS HEREBY STIPULATED AND AGREED that the Surety shall pay to the Purchaser as aforesaid at the 
+Registered Office of the Purchaser, without any demur, dispute or objection, forthwith on receipt of a written 
+request from the Purchaser notifying any breach, failure or default by or on the part of the Vendor in providing, 
+doing, performing, executing, fulfilling, keeping or carrying out any, each and every obligations and liabilities 
+as agreed to between the Vendor and the Purchaser under the Contract in regard to performance, 
+workmanship, defects and deficiencies of and in the Let Work, or any loss or damage caused to or suffered 
+by the Purchaser by reason of any breach, failure or default by or on the part of the Vendor in providing, 
+doing, performing, executing, fulfilling, keeping or carrying out any, each and every of the obligations and 
+liabilities under and on the terms and conditions of the Contract in regard to performance, workmanship, 
+defects and deficiencies of and in the Let Work. Such notification of any breach, failure or default on the part 
+of the Contractor or as to the loss or damage caused to or suffered by the Purchaser shall be binding and 
+conclusive upon the Surety and will not be called in question for whatsoever reason by the Surety and/or the 
+Contractor. 
+ 
+NOW THE CONDITION OF THIS OBLIGATION IS THAT if the Vendor shall faithfully provide, do, perform, 
+execute, fulfill, keep and carry out each and every of its obligations and liabilities under the Contract in regard 
+to performance, workmanship, defects and deficiencies of and in the Let Work in time and manner provided 
+therein and to the satisfaction of the Purchaser, and the Purchaser shall certify that the claims or dues, if any, 
+under or by virtue of the Contract in regard to performance, workmanship, defects and deficiencies of and in 
+the Let Work, are all fully paid, satisfied and discharged and/or the obligations, liabilities, terms and conditions 
+under the Contract in regard to performance, workmanship, defects and deficiencies of and in the Let Work, 
+have been fully and properly provided, done, performed, executed, fulfilled, kept and carried out by the 
+Vendor, and accordingly discharges this guarantee, then this obligation shall be null and void, otherwise the 
+same shall remain in full force and virtue/effect. 
+ 
+The Purchaser shall be at full liberty without reference to the Surety and without affecting the guarantee given 
+hereunder to postpone for any time or from time to time the exercise of any of the powers and rights conferred 
+on the Purchaser under the Contract, or to enforce or to forbear from enforcing any such powers and rights, 
+and the liability of the surety hereunder shall not in any way be impaired or discharged by reason of any time 
+being granted to the Vendor by the Purchaser for the provision, doing, performance, execution, fulfillment, 
+keeping and carrying out by the Vendor of all or any of its obligations and liabilities under the Contract in 
+regard to performance, Workmanship, defects and deficiencies of and in the Let Work, or by reason of any 
+forbearance, act or omission on the part of the Purchaser, whether with or without the knowledge or consent 
+of the Surety, nor it shall be necessary for the Purchaser to sue the Vendor before suing the Surety for the 
+recovery of the amount hereunder. The right of the Purchaser to recover the amount of this Security Bond 
+from the Surety in the manner aforesaid shall not be affected by reason of the fact that any dispute or disputes 
+have been raised by the Vendor with regard to its obligations, liabilities or otherwise under the Contract. The 
+Guarantee herein contained shall not be determined or affected by change in the constitution/ownership/or 
+the liquidation or winding up or insolvency of the Vendor, and shall in all respects and for all intents and 
+purposes remain in full force and effect and shall be binding and operative until payment of all moneys due 
+to the Purchaser hereunder are fully paid of. This is a continuing guarantee and the liability of the Surety 
+hereunder is limited to Rs.________ (Say Rupees ________________________________ only). 
+ 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 50 of 52 
+ 
+ 
+
+This bond shall remain in full force and effect till and including the _________, 20__ . Unless a claim or 
+demand under this bond is filed with the Surety within three months from the date of expiry of this bond, all 
+rights of the Purchaser under this bond shall be forfeited, and the Surety shall be relieved and discharged 
+from all liabilities hereunder. 
+ 
+ 
+It is further specifically agreed and undertaken that the Surety shall not revoke, cancel or terminate this 
+guarantee at any time during its currency without the prior written consent of the Purchaser. Upon expiration 
+of the term of validity, this bond shall be regarded as ineffective and may be returned to the Surety. 
+Notwithstanding anything contained hereinabove, our liability under this guarantee is restricted to : 
+Rs._____________ (Say Rupees ___________________________ only). Our Guarantee shall remain in 
+force until unless a claim under the Guarantee is made on us within three months from the date i.e. on or 
+before ________________ all the rights of the beneficiary under the Guarantee shall be forfeited and the 
+Surety will be relieved and discharged from all liabilities hereunder. 
+ 
+IN WITNESS WHEREOF the Surety hereto acting through its properly constituted representative, thereunto 
+duly authorized, has caused this Security Bond to be signed and executed in its name and on its behalf and 
+delivered on the day, month and year first hereinabove written. 
+ 
+ 
+ 
+SIGNED SEALED AND DELIVERED For and on behalf of 
+by the SURETY WITHINNAMED 
+ 
+ 
+ 
+ 
+_____________ 
+SURETY 
+  
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 51 of 52 
+ 
+ 
+
+Annexure – IV: Covering Letter 
+
+(To be submitted on the letterhead of the Bidder) 
+[Location, Date] 
+To, 
+GNFC Ltd - IT Division– A Division of GNFC Ltd. 
+Ahmedabad 
+Ref: RFP Reference No. 
+Subject: Submission of Bid in response to the RFP for _________________. 
+Dear Sir, 
+Having examined the RFP document, we, the undersigned, herewith submit our Bid/ proposal 
+in response to your RFP Notification number………… for 
+__________________________________. 
+
+1. We have read the provisions of the RFP document and confirm that we accept these. We 
+further declare that additional conditions, variations, deviations, if any, found in our proposal 
+shall not be given effect to. 
+
+2. We agree to abide by this proposal, consisting of this letter, the detailed response to the RFP 
+and all attachments thereto. 
+
+3. We would like to declare that we are not involved in any litigation that may have an impact of 
+affecting or compromising the delivery of services as required under this assignment, and we 
+are not under a declaration of ineligibility for corrupt or fraudulent practices. 
+
+4. We would like to declare that there is no conflict of interest in the services that we will be 
+providing under the terms and conditions of this RFP. 
+
+5. We hereby declare that all the information and statements made in this proposal are true and 
+accept that any misrepresentation contained in it may to our disqualification. 
+
+6. We understand you are not bound to shortlist/accept any or all the proposals you receive 
+7. We hereby declare that we qualify and fulfill all the eligibility criteria mentioned in the RFP. 
+
+Date:                                                                                     Signature of Authorized Signatory 
+ 
+
+              Place:                                                                   Name of the Signatory Company 
+
+
+
+  `  
+RFP for Implementation of Networking Components for GNFC – IT Division   
+
+ 
+
+  
+           Page 52 of 52 
+ 
+ 
+
+Annexure-V: GCC & GCP Attachments: 
+
+ 
+ General Condition of Contract (GCC) 
+ General Condition of Purchase (GCP) 
+ General Condition of Purchase GCP (Mini) 
+
+ 
+Enclosed separately 
+
+Annexure – VI: NDA (Non-Disclosure Agreement) 
+
+Enclosed separately 
+
+
+

@@ -1,0 +1,902 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/704992
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 12:00:00
+
+Bid Opening Date/Time 20-07-2020 12:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence Reseach & Development
+
+Organisation Name Office Of Dg (ls)
+
+Office Name ***********
+
+Total Quantity 2
+
+Item Category Water Quality Meters / Analyzers
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Water Quality Meters / Analyzers ( 2 pieces )
+
+Technical Specifications
+
+                               1 / 9
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+TYPE / NOMENCLATURE
+/ PROTECTION
+
+Type of Meter /
+Analyzer
+
+Handheld Handheld
+
+Functional
+nomenclature
+
+Multi Parameter Water
+Quality Analyzer
+
+Dissolved Oxygen
+Meter, Salinity Meter,
+ORP Meter, TDS Meter,
+Turbidity Meter, pH
+Meter, Multi Parameter
+Water Quality Analyzer
+
+Ingress Protection
+(Main Unit)
+
+IP 67 IP 67
+
+Calibration Automatic Automatic
+
+MEASURED WATER
+QUALITY PARAMETERS
+
+Dissolved Oxygen
+(DO)
+
+No Yes, No
+
+DO % Stauration No Yes, No
+
+Conductivity Yes Yes
+
+Resistivity No Yes, No
+
+Salinity Yes Yes
+
+Total Dissolved
+Solids (TDS)
+
+Yes Yes
+
+pH Yes Yes
+
+Oxidation Reduction
+Potential (ORP)
+
+No Yes, No
+
+Ammonium No Yes, No
+
+Nitrate No Yes, No
+
+Chloride No Yes, No
+
+Turbidity No Yes, No
+
+Depth No Yes, No
+
+Temperature Yes Yes
+
+Atmospheric
+Pressure
+
+No Yes, No
+
+MEASUREMENT OF
+DISSOLVED OXYGEN
+(DO) / DO % Saturation
+
+Dissolved Oxygen
+(DO) measurement
+Principle
+
+NA Optical, Electro
+Chemical (
+Amperometric ), NA
+
+Sensor / Probe/
+Electrode Type
+
+NA Lifetime Luminiscent
+for Optical,
+Polarographic for
+Electro Chemical,
+Galvanic for Electro
+Chemical, NA
+
+Measurement Range
+for DO Content ( in
+
+NA *
+
+                               2 / 9
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/pS_xmPkyQjdC-WRUkpkbWVpPipLYQS9Fuh741ik4da8
+
+
+ 
+
+ppm or mg/l )
+
+Resolution ( in ppm or
+mg/l )
+
+NA *
+
+DO Accuracy ( +/- ) 0 *
+
+Measurement Range
+for DO % Saturation
+( in % )
+
+NA 0-200, 0-400, 0-500,
+0-600, 0-800, NA
+
+Resolution ( in % ) NA *
+
+DO % Accuracy (+/- ) 0 *
+
+MEASUREMENT OF
+CONDUCTIVITY (EC)
+
+Conductivity
+measurement
+principle
+
+Conductive
+(contacting)
+
+Conductive
+(contacting), Inductive,
+NA
+
+Sensor/
+Probe/Electrode
+Type
+
+4 Cell Electrode 4 Cell Electrode
+
+Material of Electrode Graphite Graphite
+
+Measurement Range
+( in µS/cm )
+
+0-200 0-200
+
+Resolution ( in mho or
+µS/cm )
+
+0.01 *
+
+EC Accuracy ( +/- ) 0.01 *
+
+MEASUREMENT OF
+RESISTIVITY
+
+Resitivity
+measurement
+principle
+
+NA Conductivity
+Conversion, NA
+
+Lowest
+Measurement Value
+for Resistivity (in
+ohm-cm)
+
+NA 0, 1, 2, 5, 10, NA
+
+Highest
+Measurement Value
+for Resistivity (in
+Mega ohm-cm)
+
+NA 1, 2, 5, 10, 20, 50, 100,
+200, NA
+
+Resolution ( in ohm-
+cm)
+
+NA *
+
+Resistivity Accuracy(+/-
+)
+
+0 *
+
+MEASUREMENT OF
+SALINITY
+
+Salinity
+measurement
+principle
+
+Conductivity
+Conversion
+
+Conductivity
+Conversion, NA
+
+Measurement Range
+( in parts per
+thousand or g/l or
+PSU)
+
+0-100 0-100
+
+Resolution (in g/l) 0.1 *
+
+Salinity Accuracy ( +/- ) 1 *
+
+MEASUREMENT OF TDS measurement Conductivity Conductivity
+
+                               3 / 9
+
+
+
+ 
+
+TOTAL DISSOLVED
+SOLIDS (TDS)
+
+principle Conversion Conversion, NA
+
+TDS Measurement
+Range ( in parts per
+thousand or g/l )
+
+0-100 0-100
+
+Resolution ( in g/l ) 0.1 *
+
+TDS Accuracy ( +/- ) 1 *
+
+MEASUREMENT OF pH pH measurement
+principle
+
+Electro chemical Electro chemical, NA
+
+Sensor / Probe /
+Electrode Type
+
+Glass Electrode Glass Electrode
+
+Number of Sensors /
+Electrodes
+
+Single Electrode Single Electrode
+
+pH Measurement
+Range
+
+0-14 0-14, NA
+
+Resolution ( in pH
+number )
+
+0.01 *
+
+pH Accuracy ( +/- ) 0.01 *
+
+MEASUREMENT OF
+OXIDATION REDUCTION
+POTENTIAL (ORP)
+
+ORP measurement
+principle
+
+NA Electro chemical, NA
+
+Sensor / Probe/
+Electrode Type
+
+NA Platinum Electrode, Ion
+Selective Electrode
+(ISE), NA
+
+Number of Sensors
+/Electrodes
+
+NA Single Electrode,
+Combination Electrode
+(2 Electrode),
+Differential Electrode (3
+Electrode), NA
+
+Lowest
+Measurement Value
+for ORP (in mV )
+
+NA -3000, -2500, -2000,
+-1500, -1000, -500, 0,
+NA
+
+Highest
+Measurement Value
+for ORP (in mV )
+
+NA 3000, 2500, 2000,
+1500, 1000, 500, NA
+
+Resolution ( in ± mV ) NA *
+
+ORP Accuracy ( +/- ) 0 *
+
+MEASUREMENT OF
+AMMONIUM
+
+Sensor / Probe/
+Electrode Type
+
+NA Ion Selective Electrode,
+NA
+
+Measurement Range
+( in ppm or mg/l )
+
+NA 0-100, 0-200, 0-300,
+0-400, 0-500, 0-600,
+NA
+
+Resolution ( in ppm or
+mg/l )
+
+NA *
+
+Ammonium Accuracy (
++/- )
+
+0 *
+
+MEASUREMENT OF
+NITRATE
+
+Sensor / Probe/
+Electrode Type
+
+NA Ion Selective Electrode,
+NA
+
+                               4 / 9
+
+
+
+ 
+
+Measurement Range
+( in ppm or mg/l )
+
+NA 0-100, 0-200, 0-300,
+0-400, 0-500, 0-600,
+NA
+
+Resolution ( in ppm or
+mg/l )
+
+NA *
+
+Nitrate Accuracy ( +/- ) 0 *
+
+MEASUREMENT OF
+CHLORIDE
+
+Sensor/Probe/Electro
+de Type
+
+NA Ion Selective Electrode,
+NA
+
+Measurement Range
+( in ppm or mg/l )
+
+NA 0-400, 0-600, 0-800,
+0-1000, 0-1200,
+0-1500, NA
+
+Resolution ( in ppm or
+mg/l )
+
+NA *
+
+Chloride Accuracy ( +/-
+)
+
+0 *
+
+MEASUREMENT OF
+TURBIDITY
+
+Turbidity
+measurement
+principle
+
+NA Nephelometric
+measurement
+according to ISO 7027,
+Nephelometric
+measurement
+according to US EPA
+180.1, NA
+
+Light Source NA Infrared Led, White
+light tungsten lamp, NA
+
+Measurement of
+scattered light
+
+NA 30 degree scatter
+nephelometer, 90
+degree scatter
+nephelometer, NA
+
+Lowest
+Measurement Value
+for Turbidity (in FNU
+or NTU )
+
+NA 0.01, 0.05, 0.1, 0.5, 0,
+NA
+
+Highest
+Measurement Value
+for Turbidity (in FNU
+or NTU )
+
+NA *
+
+Resolution ( in FNU or
+FTU )
+
+NA *
+
+Turbidity Accuracy ( +/-
+)
+
+0 *
+
+MEASUREMENT OF
+TEMPERATURE
+
+Sensor/Probe Type NA Semi Conductor Based
+Thermister, Resistance
+Temperature (RTD)
+Detector, NA
+
+Lowest
+Measurement Value
+for Temperature (˚C)
+
+0 -20, -15, -10, -5, 0, 5,
+10, NA
+
+Highest
+Measurement Value
+
+100 *
+
+                               5 / 9
+
+
+
+ 
+
+for Temperature (˚C)
+
+Resolution (˚C) 0.1 *
+
+Temperature Accuracy
+( +/- )
+
+0.5 *
+
+MEASUREMENT OF
+PRESSURE
+
+Sensor /Probe Type NA Pressure transducer,
+NA
+
+Lowest
+Measurement Value
+for Pressure (in
+mmHg )
+
+NA *
+
+Highest
+Measurement Value
+for Pressure (in
+mmHg )
+
+NA 800, 825, 850, 875,
+900, 950, 1000, NA
+
+Resolution ( in mmHg ) NA *
+
+Pressure Accuracy ( +/-
+)
+
+0 *
+
+MEASUREMENT OF
+DEPTH
+
+Measurement
+Method
+
+NA Water Pressure
+method, NA
+
+Depth Measurement
+Range (in meters)
+
+NA *
+
+Length of Cable
+connecting peobe
+(inclusive in the
+scope of supply)
+
+0 *
+
+COMPENSATION /
+CORRECTION
+
+Temperature
+correction
+
+Automatic Automatic
+
+Salinity Correction Automatic Automatic
+
+Barometric Pressure
+correction
+
+NA Automatic, Manual,
+Automatically
+compensates for
+manual input value, NA
+
+DISPLAY / STORAGE Type of Display LCD *
+
+Display Digit Size 30 *
+
+Number of Digits in
+Display
+
+3.5 *
+
+Number of parameters
+diplayed
+simultaneously
+
+2 *
+
+Memory (in Data Sets) 0 *
+
+Internal memory (GB) 0 *
+
+In-built GPS No *
+
+Date /time Stamp in
+Entries
+
+No *
+
+Connectivity interface NA *
+
+                               6 / 9
+
+
+
+ 
+
+POWER SOURCE Power Source Alkaline Batteries (Non-
+Rechargeable)
+
+*
+
+Battery Size, if Non
+Rechargeable Battery
+
+NA *
+
+Battery Chemistry, if
+Rechargeable Battery
+
+NA *
+
+Voltage of each Battery 1.5 *
+
+Number of Batteries
+required for operation
+
+4 *
+
+Number of Batteries
+Inclusive in the Scope
+of Supply
+
+4 *
+
+Battery Capacity (mAh) 0 *
+
+Battery Life 200 *
+
+Suitable Adapter to be
+supplied to make the
+equipment Work on
+230 V ± 10 %, 50 Hz
+
+No *
+
+GENERIC Armour housing of
+Sensor / Probe
+
+Plastic *
+
+Probe / Sensor /
+Electrode supplied with
+equipment
+
+Yes *
+
+Number of elctrodes
+supplied
+
+4 *
+
+Weight 90 *
+
+Dimensions ( mm x mm
+x mm )
+
+- *
+
+Carry Case included in
+the scope of supply
+
+Yes *
+
+Any other features - *
+
+List of Items and
+Quantity of each item
+included in the offer
+
+- *
+
+OPERATING
+CONDITIONS
+
+Minimum Operating
+Temperature
+
+0 0.0
+
+Maximum Operating
+Temperature
+
+50 50.0
+
+Operating Humidity,
+Rh at 40 deg C
+
+65 65.0
+
+WARRANTY Warranty on
+Equipment
+
+1 1.0
+
+Warranty on Probe /
+Electrode
+
+6 6, 12, 18, 24, 30, 36,
+48
+
+Warranty on Cables 1 1.0
+
+                               7 / 9
+
+
+
+ 
+
+for Connecting Probe
+
+CERTIFICATION Availability of Test
+Reports from Central
+Govt / NABL
+approved / ILAC
+accredited Lab to
+prove conformity to
+the specification
+
+No Yes, No
+
+If Yes, Test Report to
+be furnished to the
+Buyer on demand
+
+NA *
+
+Test Report No and
+Date
+
+- *
+
+Name of the Lab and
+Address
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********GWALIOR 2  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2.The buyer organization is an institution eligible for concessional rates of GST as notified by
+
+the Government of India. The goods for which bids have been invited fall under classification
+of GST concession and the conditions for eligibility of concession are met by the institution.
+A certificate to this effect will be issued by Buyer to the Seller after award of the Contract.
+Sellers are requested to submit their bids after accounting for the Concessional rate of GST.
+Applicable Concessional rate of GST : 5%
+Notification No.and date : MP State Govt. Notification No. FA-3-81-2017-1-V(144), 45/2017-
+Central Tax (Rate), 47/2017- Integrated Tax (Rate)  dated 14/11/2017
+
+3.Preference to Make In India products (For bids less than 200 Crore):Preference shall be given
+to Class 1 local supplier as defined in public procurement (Preference to Make in India),
+Order 2017 as amended from time to time and its subsequent Orders/Notifications issued by
+concerned Nodal Ministry for specific Goods/Products. The minimum local content to qualify
+as a Class 1 local supplier is denoted in the bid document 50%. If the bidder wants to avail
+the Purchase preference, the bidder must upload a certificate from the OEM regarding the
+percentage of the local content and the details of locations at which the local value addition
+is made along with their bid, failing which no purchase preference shall be granted. In case
+the bid value is more than Rs 10 Crore, the declaration relating to percentage of local
+content shall be certified by the statutory auditor or cost auditor, if the OEM is a company
+
+                               8 / 9
+
+
+
+ 
+
+and by a practicing cost accountant or a chartered accountant for OEMs other than
+companies as per the Public Procurement (preference to Make-in -India) order 2017 dated
+04.06.2020. Only Class-I and Class-II Local suppliers as per MII order dated 4.6.2020 will be
+eligible to bid. Non - Local suppliers as per MII order dated 04.06.2020 are not eligible to
+participate. In case Buyer has selected Purchase preference to Micro and Small Enterprises
+clause in the bid, the same will get precedence over this clause.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               9 / 9
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

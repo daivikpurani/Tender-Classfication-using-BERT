@@ -1,0 +1,451 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/697157
+
+  Dated: 03-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 17:00:00
+
+Bid Opening Date/Time 20-07-2020 17:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Pmo
+
+Department Name Department Of Atomic Energy
+
+Organisation Name N/a
+
+Office Name Directorate Of Purchase And Stores
+
+Total Quantity 2
+
+Item Category SPECTROPHOTOMETER
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+SPECTROPHOTOMETER ( 2 pieces )
+
+Technical Specifications
+
+                               1 / 5
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+LIGHT SOURCE Light Source Halogen Lamp Halogen Lamp
+
+Diffraction Grating
+(lines/mm)
+
+600 600
+
+Switching of Light
+Source
+
+Mannual Mannual
+
+Wavelength Setting
+And Scanning
+
+Mannual Mannual
+
+TYPE Type of
+Spectrophotometer
+
+VISIBLE VISIBLE
+
+Type of Optical
+System
+
+Single Beam Single Beam
+
+Monochromator
+Type
+
+Holographic Grating Holographic Grating
+
+Detector Type Photodiode Photodiode
+
+Spectral Bandwidth
+Type
+
+Fixed Bandwidth Fixed Bandwidth
+
+OPTICAL
+PERFORMANCE
+
+Source Wavelength -
+Minimum
+
+340 340.0
+
+Source Wavelength -
+Maximum
+
+1000 1000, 1100, 1500,
+2000, 2500, 2700,
+3000, 3200, 3300,
+1650 Or higher
+
+Resolution 1 1.0
+
+Wavelength
+Accuracy (+/-)
+
+2 2.0
+
+Bandwidth (nm) 5.0 4.0
+
+If variable band width,
+Specify the incremental
+step value(mm)
+
+NA *
+
+Scanning Speed
+(nm/min)
+
+0 *
+
+Focal length (mm) 0 to 49 0 to 49
+
+Photometric
+measurement modes
+
+Transmittance,Absorba
+nce,Concentration
+(Wavelength, time)
+
+Transmittance,
+Absorbance,
+Concentration
+(Wavelength, time)
+
+Photometric
+Absorbance (Max)
+(Abs) (+/-)
+
+2.5 2.5
+
+Photometric
+Absorbance
+Accuracy (Max) (+/-)
+
+0.005 0.001 - 0.005 Or lower
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/6XYqeqbTQ2lGwNt-2zJQF8ohLT1np9WrPcdc4GDgfZc
+
+
+ 
+
+Photometric
+Transmittance (Max)
+(+/-)
+
+0 0.0
+
+Photometric
+Transmittance
+Accuracy (Max) (+/-)
+
+0 0.0 - 0.0 Or lower
+
+Photometric
+Reflectance (Max)
+(+/-)
+
+0 0.0
+
+Photometric
+Reflectance Accuracy
+(Max) (+/-)
+
+0 *
+
+Stray Light Correction Automatic *
+
+Baseline Correction Automatic *
+
+GENERIC Display Through PC Through PC
+
+Display type LCD with Backlight LCD with Backlight
+
+Display Size 0 0.0 - 30.0 Or higher
+
+Test result printing Through external
+printer
+
+Through external
+printer
+
+If inbuilt printer,
+Type of printer
+
+N/A N/A
+
+Suitable software for
+connecting PC & Printer
+
+N/A *
+
+Connectivity RS 232 *
+
+Internal storage(GB) 0 0.0 - 80.0 Or higher
+
+Sample
+switching/selection
+
+Manual *
+
+Capacity of Sample
+holder / Sample
+Carousel
+
+2 *
+
+Mximum Path Length
+of sample
+
+10 10.0
+
+Number of Cuvettes
+supplied-inclusive in
+the scope of supply
+
+10 10
+
+Power Supply 230 V ± 10, 50 Hz *
+
+Any other
+features/accesories
+covered in scope of
+supply
+
+- *
+
+Spares and
+Consumables
+inclusive in the
+scope of supply
+
+No No
+
+List of Items and
+Quantity of each item
+
+- *
+
+                               3 / 5
+
+
+
+ 
+
+included in the offer
+
+OPERATING
+CONDITIONS
+
+Minimum Operating
+Temperature
+
+0 0.0
+
+Maximum Operating
+Temperature
+
+35 35.0
+
+Operating Humidity
+(RH) (%) at 40
+degree C
+
+85 85.0
+
+WARRANTY Onsite Warranty 1 1.0
+
+Availability of
+Spares (at extra
+cost)
+
+2 2.0
+
+Certification Availability of UL/CE
+Certification as per
+EN 61010-1:2010
+Safety requirements
+for electrical
+equipment for
+measurement,
+control, and
+laboratory use
+General
+requirements
+
+No No
+
+Conformance to
+EMC/EMI as per EN
+61326-1:2013
+Electrical equipment
+for measurement,
+control and
+laboratory use
+
+No No
+
+Availability of Test
+Reports from Central
+Govt / NABL
+approved / ILAC
+acredited lab to
+prove conformity to
+the specification
+
+No No
+
+If yes test report to
+furnished,to the buyer
+on demand
+
+N/A *
+
+Test Report number
+and date
+
+- *
+
+Name and address of
+the Lab
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+                               4 / 5
+
+
+
+ 
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 S T Esaivani 603102,KALPAKKAM 2  90
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2.The buyer organization is an institution eligible for concessional rates of GST as notified by
+
+the Government of India. The goods for which bids have been invited fall under classification
+of GST concession and the conditions for eligibility of concession are met by the institution.
+A certificate to this effect will be issued by Buyer to the Seller after award of the Contract.
+Sellers are requested to submit their bids after accounting for the Concessional rate of GST.
+Applicable Concessional rate of GST : 5%
+Notification No.and date : 45/2017 AND 47/2017 dated 14/11/2017
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

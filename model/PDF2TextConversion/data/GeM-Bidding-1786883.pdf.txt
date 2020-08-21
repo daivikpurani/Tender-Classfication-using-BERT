@@ -1,0 +1,495 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/710742
+
+  Dated: 15-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 25-07-2020 14:00:00
+
+Bid Opening Date/Time 25-07-2020 14:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 80 (Days)
+
+Ministry/State Name Ministry Of Coal
+
+Department Name Materials Management
+
+Organisation Name Northern Coalfields Limited
+
+Office Name Singrauli
+
+Total Quantity 20
+
+Item Category Line Intractive UPS with AVR
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years Of Experience  Yes
+
+Startup Exemption for Years Of Experience  Yes
+
+Document required from seller  Experience Criteria,Past Performance,OEM
+Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  50 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+Estimated Bid Value  99938
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 6
+
+
+
+ 
+
+MSE Purchase Preference
+
+MSE Purchase Preference Yes
+
+ 
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to
+MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012
+dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and its subsequent
+Orders/Notifications issued by concerned Ministry. If the bidder wants to avail the Purchase
+preference, the bidder must be the manufacturer of the offered product in case of bid for supply of
+goods. Traders are excluded from the purview of Public Procurement Policy for Micro and Small
+Enterprises. In respect of bid for Services, the bidder must be the Service provider of the offered
+Service. Relevant documentary evidence in this regard shall be uploaded along with the bid in
+respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s) has/have quoted
+price within L-1+ 15% of margin of purchase preference /price band defined in relevant policy, such
+Seller shall be given opportunity to match L-1 price and contract will be awarded for percentage of
+25% of total value.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 50% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Line Intractive UPS With AVR ( 20 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC Rating in KVA/ min
+VAH capacity of
+battery (KVA/VAH)
+
+1.0/800 1.0/800
+
+Technology MOSFET-PWM MOSFET-PWM
+
+Type of battery SMF-VRLA confirming
+to JISC-8702 Pt 1,2 &3
+
+SMF-VRLA confirming
+to JISC-8702 Pt 1,2 &3
+
+Rated Output (Volt) Single phase sinewave
+230v AC , 50Hz
+
+Single phase sinewave
+230v AC , 50Hz
+
+Degree of protection IP-21 IP-21
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/8rJA2eMpQbPrAtkotQC472lVT1ZvhuG5wiUekE4D1uQ
+
+
+ 
+
+Inverter Efficiency
+(%)
+
+> / = 60% > / = 60%
+
+Warranty for the
+battery from the
+date of delivery
+
+1 year 1 year, 3 Years
+
+Warranty for Line
+Interactive UPS
+
+1 Year 1 Year
+
+Installation and
+commissioning
+instructions
+
+Yes *
+
+CONSTRUCTIONAL Type of enclosure Mild steel *
+
+AC out put for
+printer (not through
+inverter)
+
+No Yes, No
+
+Inverter out put
+socket AC out put for
+printer (not through
+inverter)
+
+Not applicable 3 Three pin, Not
+applicable
+
+FUNCTIONAL Total harmonic
+distorsion (%)
+
+< / = 40% *
+
+Input (Volt) Single phase
+sinewave(160-280v)
+
+*
+
+Switching over time
+(Mili sec)
+
+Maximum 10 milli
+seconds
+
+*
+
+Overload Time
+(Minutes)
+
+> / = 10 minutes > / = 10 minutes
+
+Load power factor > / = 0.6 > / = 0.6
+
+Variation in AVR
+output in AC mode
+(%) AVR (Voltage
+regulation) output
+voltage in AC Mode
+
+230 Volts +/-9%, 50
++/-3 Hz
+
+230 Volts +/-9%, 50
++/-3 Hz
+
+Overload (%) >/=10% *
+
+Variation in output
+voltage in battery
+mode (%) (UPS output
+voltage in battery
+mode)
+
+230 Volts +/- 10% *
+
+Variation on output
+frequency in battery
+mode (Hz)
+
+</=0.5 *
+
+PROTECTION Protection against
+(over discharge)
+discharge per 12v
+battery (Volt)
+
+10.5 *
+
+Protection for outside
+input voltage range: If
+Input voltage goes
+
+Yes *
+
+                               3 / 6
+
+
+
+ 
+
+outside the range 160
+to 280 Volts, the
+system shall switch
+over to battery mode
+
+Protection against short
+circuit of UPS
+
+Yes *
+
+Protection for over
+voltage and over load
+
+Yes *
+
+REPORTS AND
+CERTIFICATIONS
+
+Damp heat Test at 45
+degree , RH -95% for
+2-cycle as per IS:9000
+pt-5/sec-1
+
+Yes *
+
+Dry heat Test at 45
+degree for 16 Hrs as
+per IS:9000 pt-3/sec-5
+
+Yes *
+
+Cold Test as per
+IS:9000 pt-2/sec-4
+
+Yes *
+
+Availability of the type
+test report from central
+Govt./NABL/ILAC
+Accredited Lab
+
+Yes *
+
+Type Test certificate
+no. and date
+
+- *
+
+Name Of Lab - *
+
+Address of Lab - *
+
+As per Meity
+(Government of India)
+guidelines UPS shall
+have valid BIS CRS
+certifications as
+applicable
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Sanjeev Mohan 486890,REGIONAL STORES,
+JAYANT PROJECT, NCL, PO -
+JAYANT, DISTT - SINGRAULI
+M.P.
+
+20  30
+
+Bid Specific Additional Terms and Conditions
+
+                               4 / 6
+
+
+
+ 
+
+1.Nominated Inspection Agency: On behalf of the Buyer organization, any one of the
+following Inspection Agency would be conducting inspection of stores before acceptance:
+Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause
+has been selected in ATC): NOT APPLICABLE
+Post Receipt Inspection at consignee site before acceptance of stores: APPLICABLE
+
+2.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+3.Bid reserved for Make In India products: Procurement under this bid is reserved for purchase
+
+from Class 1 local suppliers as defined in public procurement (Preference to Make in India),
+Order 2017 as amended from time to time and its subsequent Orders/Notifications issued by
+concerned Nodal Ministry for specific Goods/Products. The minimum local content to qualify
+as a class 1 local supplier is denoted in the bid document 50%. All bidders must upload a
+certificate from the OEM regarding the percentage of the local content and the details of
+locations at which the local value addition is made along with their bid, failing which the bid
+is liable to be rejected. In case the bid value is more than Rs 10 Crore, the declaration
+relating to percentage of local content shall be certified by the statutory auditor or cost
+auditor, if the OEM is a company and by a practicing cost accountant or a chartered
+accountant for OEMs other than companies as per the Public Procurement (preference to
+Make-in -India) order 2017 dated 04.06.2020 . In case Buyer has selected Purchase
+preference to Micro and Small Enterprises clause in the bid, the same will get precedence
+over this clause.
+
+4.Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be
+given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs)
+Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises
+and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to
+avail the Purchase preference, the bidder must be the manufacturer of the offered product
+in case of bid for supply of goods. Traders are excluded from the purview of Public
+Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder
+must be the Service provider of the offered Service. Relevant documentary evidence in this
+regard shall be uploaded along with the bid in respect of the offered product or service. If L-1
+is not an MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of
+purchase preference /price band defined in relevant policy, such Seller shall be given
+opportunity to match L-1 price and contract will be awarded for percentage of 25% of total
+value.
+
+5.Preference to Make In India products (For bids less than 200 Crore):Preference shall be given
+to Class 1 local supplier as defined in public procurement (Preference to Make in India),
+Order 2017 as amended from time to time and its subsequent Orders/Notifications issued by
+concerned Nodal Ministry for specific Goods/Products. The minimum local content to qualify
+as a Class 1 local supplier is denoted in the bid document 50%. If the bidder wants to avail
+the Purchase preference, the bidder must upload a certificate from the OEM regarding the
+percentage of the local content and the details of locations at which the local value addition
+is made along with their bid, failing which no purchase preference shall be granted. In case
+the bid value is more than Rs 10 Crore, the declaration relating to percentage of local
+content shall be certified by the statutory auditor or cost auditor, if the OEM is a company
+and by a practicing cost accountant or a chartered accountant for OEMs other than
+companies as per the Public Procurement (preference to Make-in -India) order 2017 dated
+04.06.2020. Only Class-I and Class-II Local suppliers as per MII order dated 4.6.2020 will be
+eligible to bid. Non - Local suppliers as per MII order dated 04.06.2020 are not eligible to
+participate. In case Buyer has selected Purchase preference to Micro and Small Enterprises
+clause in the bid, the same will get precedence over this clause.
+
+6.Procurement under this bid is reserved for purchase from Micro and Small Enterprises whose
+credentials are validated online through Udyog Aadhaar for that product category. If the
+bidder wants to avail the reservation benefit, the bidder must be the manufacturer of the
+offered product in case of bid for supply of goods. Traders are excluded from the purview of
+Public Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the
+bidder must be the Service provider of the offered Service. Relevant documentary evidence
+in this regard shall be uploaded along with the bid in respect of the offered product or
+
+                               5 / 6
+
+
+
+ 
+
+service.
+7. Indian suppliers of this item are not allowed to participate and/ or compete in procurement
+
+by some foreign governments. Bidders / products from such countries are not eligible / not
+allowed to participate in this bid in terms of clause 1 (d) of Public Procurement (Preference
+to Make in India) Order, 2017
+
+8.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents
+sought in the Bid document, ATC and Corrigendum if any.
+
+9. ISO 9001: The bidder must have ISO 9001 certification.
+10.The bidder is required to upload, along with the bid, all relevant certificates such as BIS
+
+licence, type test certificate, approval certificates and other certificates as prescribed in the
+Product Specification given in the bid document.
+
+11.To be eligible for award of contract, Bidder / OEM must possess following Certificates / Test
+Reports on the date of bid opening (to be uploaded with bid): AS PER BID DETAILS .
+
+12.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+13.Warranty period of the supplied products shall be 1 years from the date of final acceptance
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

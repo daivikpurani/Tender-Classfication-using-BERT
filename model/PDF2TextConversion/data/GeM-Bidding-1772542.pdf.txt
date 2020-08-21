@@ -1,0 +1,672 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/697695
+
+  Dated: 04-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 25-07-2020 10:00:00
+
+Bid Opening Date/Time 25-07-2020 10:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Army
+
+Office Name ***********
+
+Total Quantity 3
+
+Item Category Surveillance type unmanned aerial vehicle (Drone
+Camera)
+
+Bidder Turnover (Last 3 Years)  4 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Turnover  Yes
+
+Startup Exemption for Turnover  Yes
+
+Document required from seller  Experience Criteria
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 0.50
+
+EMD Amount 3975
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 2.00
+
+Duration of ePBG required (Months). 3
+
+                               1 / 7
+
+
+
+ 
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+Project officer
+Agra, Department of Defence, Indian Army, Ministry of Defence
+(Bikesh Chauhan)
+
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+
+Surveillance Type Unmanned Aerial Vehicle (Drone Camera) ( 3 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Construction Overall Length (with
+propellers)
+
+800 *
+
+Weight(net weight
+including battery &
+Payload)
+
+2 *
+
+Type of Drone Rotary Wing *
+
+Overall Width (with
+propellers)
+
+800 *
+
+Compliance & Test Product compliant &
+ready for DGCA & No-
+permission No-takeoff
+guideline
+
+Yes *
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/oH1TJLsRV2alh7omNf2tpnsbvKEavCOvyI59jlYnXLo
+
+
+ 
+
+Importer or seller or
+manufacturer of RPAs
+has Equipment Type
+Approval (ETA) from
+WPC Wing, Department
+of Telecommunication
+that drone is working in
+de-licensed frequency
+band(s)
+
+Yes *
+
+Warranty 1 1.0
+
+manufacturing location
+of UAV
+
+Made in India *
+
+UAV & manufacturer is
+in compliance with
+DGCA for CAR for UAV's
+published 27Aug 2018
+*Latest
+
+Yes *
+
+Tested performances Aural Signature
+Test,High temperature
+test,Damp heat test
+
+Aural Signature Test,
+High temperature test,
+Damp heat test
+
+Availability Of Test
+Report From Central
+Govt/Nabl/Ilac
+Accredited Lab To
+Prove Conformity To
+Specification
+
+Yes *
+
+Protection Class for
+Drone
+
+IP 53 *
+
+Classification of UAV as
+per DGCA regulation
+for Civil Availation
+requirement in India
+
+Micro *
+
+Protection Class for
+Bagpack
+
+IP 66 *
+
+Manufacturer has
+Industrial licence for
+manufacturing drones
+
+Yes *
+
+Incase of Imported
+product/Foreign
+manufacturer
+
+NA *
+
+Equipment Type
+Approval (ETA)
+certificate number
+provided by from WPC
+Wing, Department of
+Telecommunication
+
+- *
+
+Certificate number of
+Clearance from DGCA
+for imported goods
+
+- *
+
+Import licence number - *
+
+                               3 / 7
+
+
+
+ 
+
+provided
+fromDirectorate
+General of foreign
+Trade (DGFT)
+
+Certificate number by
+Certifying Agency (for
+compliance to standard
+civil availation
+requirement by DGCA)
+
+- *
+
+OEM/Reseller
+authorisation letter to
+be furbished on buyer
+demand
+
+Yes *
+
+All test report,licences
+& Certificates to be
+submitted on
+confirmation of order
+
+Yes *
+
+Performance Payload freedom(in
+flight) across verticle
+axis
+
+360 degree *
+
+Wind resistance
+(maximum)(Km/hr)
+
+36-40 *
+
+Operational
+endurance
+
+>=20 minutes >=20 minutes
+
+Advanced flight
+modes
+
+Autonomous,manual,mi
+ssion,auto take-
+off,Position Hold &
+Survey,Remotely
+Piloted mode,Auto
+landing,Way point
+navigation
+
+Autonomous, manual,
+mission, auto take-off,
+Position Hold & Survey,
+Remotely Piloted mode,
+Auto landing, Way
+point navigation
+
+Minimum Operating
+temperature
+
+-10 *
+
+Nominal Cruise
+speed(meter/second
+)
+
+8-10 8-10
+
+Target detection slant
+range(Human Size
+Target)(Thermal)
+
+>=250m *
+
+Payload freedom(in
+flight) across horizontal
+axis
+
+90 degree *
+
+Operational Altitude
+(above ground level)
+
+>=200m >=200m
+
+Minimum Radius
+Range covered from
+line of sight(for live
+transmission)
+
+2 2.0
+
+Video transmission
+during flight operation
+
+Realtime *
+
+                               4 / 7
+
+
+
+ 
+
+Maximum Operating
+temperature
+
+50 *
+
+Minimum Technical
+life of UAV (number
+of landings)
+
+500 500
+
+Target detection slant
+range(Human Size
+Target)(Day light)
+
+>=400m *
+
+Maximum Vertical
+avaiation
+speed(meter/second)
+
+2 *
+
+Launch Altitude (above
+mean sea level)
+
+>=3000m *
+
+GUI display parameters Realtime video on-
+screen display
+parameters
+
+UAV co-ordinates,targe
+t(payload) co-ordinates
+& range from UAV,true
+north
+indication,distance
+from home,Artificial
+horizon indicating UAV
+attitude,Target
+tracking,Moving target
+Indicator
+
+*
+
+Surveillance
+parameters displayed
+
+Geographic map,UAV
+location,UAV
+trajectory,camera view
+polygon,way
+points,flight plans
+
+*
+
+Image system
+provided
+
+Day Light Day Light
+
+Imaging System Imaging System
+resolution (Day
+light)
+
+1280*720 pixel HD 1280*720 pixel HD
+
+Optical Zoom-in
+capicity
+
+5X *
+
+Thermal imager Slot
+compatible
+
+Yes *
+
+Imaging System
+resolution (Night)
+
+320*240 pixel *
+
+Live transmission
+quality definition
+
+HD HD
+
+User Control User controlled
+attribute
+
+Set altitude of
+UAV,Way point
+navigation,Dynamic
+flight plan
+adjustment,point
+payload to ground co-
+ordinate function,Turn
+off recording
+
+*
+
+                               5 / 7
+
+
+
+ 
+
+video recorded format
+on the gcs
+
+Mp4 *
+
+User controlled flight
+functionality
+
+Take off,Land,Hover,Tilt
+,Zoom In/Out
+
+*
+
+On-flight captured
+modes
+
+Video,Image
+snapshot,Thermal
+Imaging
+
+*
+
+Generic Spare propellers
+provided
+
+NA NA
+
+Rated Voltage 30 *
+
+Video Stablization
+mechanism
+
+Mechanical Image
+stabilization,Electronic
+Image stabilization
+
+*
+
+Control System Fully Autonomous *
+
+Ground Controlled
+software system for
+control provided
+
+Yes *
+
+Port Data transfer to
+GCS hardware
+
+USB *
+
+Data recording Hard disk *
+
+Packing & Storage for
+housing all systems
+
+Water proof bagpack *
+
+Propulsion of UAV
+powered through
+
+Battery Powered *
+
+Data recording setup
+card
+
+Inbuilt in User Control
+device
+
+*
+
+Type of Battery
+embedded
+
+LiPo *
+
+Maximum required
+operating crew
+
+2 *
+
+Failsafe features return to home on
+communication
+failure,return to
+home/land on low
+battery,multiple GPS on-
+board for GPS failure
+redundancy,high wind
+indication,anti collision
+light,Global satellite
+system,Autonomous
+flight termination
+system,fire resistant
+Identification
+plates,return to home
+on high wind
+
+*
+
+Rated ampere, mAh 3000 *
+
+CompatibleHardware
+provided with
+
+NA NA
+
+                               6 / 7
+
+
+
+ 
+
+installed GCS
+
+Map compatibility Google,Raster,open
+source,Tiff,Giff,BIT,DTE
+D
+
+*
+
+Laptop/Tablet type NA *
+
+Training Provided No *
+
+Number of Spare
+Battery
+
+NA *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********AGRA 3  30
+
+Bid Specific Additional Terms and Conditions
+
+1. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+2.SLBR52
+3.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+4.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

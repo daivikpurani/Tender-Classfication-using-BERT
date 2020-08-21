@@ -1,0 +1,557 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/715565
+  Dated: 17-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 19:00:00
+
+Bid Opening Date/Time 27-07-2020 19:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Gujarat
+
+Department Name Health & Family Welfare Department Gujarat
+
+Organisation Name Community Health Center
+
+Office Name Governmentl Hospital Anjar
+
+Total Quantity 1
+
+Item Category Ultrasound Machine (OB and GYN)
+
+Bidder Turnover (Last 3 Years)  12 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  40 Lakh (s)
+
+Experience Criteria  1 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Bidder Turnover,Certificate (Requested in
+ATC),OEM Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the
+buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM {themselves or
+through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central
+/ State Govt Organization / PSU / Public Listed Company for number of years as indicated in the bid document before the
+bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some
+quantity during each of the year. In case of bunch bids, the category of primary product having highest value should
+
+                               1 / 6
+
+
+
+ 
+
+meet this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product during the
+last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document.
+Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the
+Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with
+the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for this criteria.
+
+Ultrasound Machine (OB And GYN) ( 1 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Product certification - *
+
+Certification number and
+date
+
+- *
+
+Confirmity to Manufacturer's
+Certification
+
+ISO 9001 & ISO 13485 *
+
+Confirmity to Performance
+and safety standards
+specific to the device
+
+IEC 60601-2-37 or
+equivalent BIS
+
+*
+
+Performance Parameters Scope of supply Gynecologic
+ultrasonography examines
+female pelvic organs
+(specifically the uterus,
+ovaries, and Fallopian
+tubes) as well as the
+bladder, adnexa, and Pouch
+of Douglas. It commonly
+uses transducers designed
+for approaches through the
+lower abdominal wall,
+curvilinear and sector, and
+specialty transducers such
+as endovaginal. Obstetrical
+sonography commonly used
+during pregnancy to check
+on the development and
+presentation of the fetus.
+Applications - Abdomen,
+abdominal vascular,
+urology, OB/GYN, neonatal
+brain, small parts (breast,
+thyroid, scrotal, prostate,
+MSK)
+
+*
+
+UMDNS Code and
+names(Hint: This is for
+indicating the relevant
+universal medical devices
+nomenclature for the
+category of product )
+
+Scanning Systems,
+Ultrasonic,
+Obstetric/Gynecologic
+[15-657]
+
+*
+
+Types of Probes & Features Clinical Applications Abdomen, abdominal
+vascular, urology, OB/GYN
+
+*
+
+Flat linear array, MHz 5-10 (±2) *
+
+Convex array, MHz 2.5-5 (±2) *
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/wunD3crID8CjjXTlJJDxn2dQCezsIcgjIsTQjeHErHE
+
+
+ 
+
+Endovaginal, MHz Yes then 5-9 (±2) Yes then 5-9 (±2)
+
+Endorectal, MHz Yes then 5-9 (±2) Yes then 5-9 (±2)
+
+Dedicated 3-D/4-D Yes Yes Or higher
+
+3-D (freehand) Yes Yes Or higher
+
+Gel Warmer Yes Yes Or higher
+
+Pulsed wave Yes *
+
+IMAGE DISPLAY AND
+PROCESSING
+
+DICOM 3COMPLIANT Yes Yes Or higher
+
+Adjustable transmit focus Yes *
+
+Automated B-mode (2-D)
+image
+
+Yes Yes Or higher
+
+Automated CDI image
+optimization
+
+Yes Yes Or higher
+
+Automated PW Doppler
+image optimization
+
+Yes Yes Or higher
+
+Dynamic receive focus Yes *
+
+Grayscale levels 256 *
+
+Image magnification (zoom) Yes *
+
+Real-time image Yes *
+
+Frozen image Yes *
+
+Touch Screen Yes Yes Or higher
+
+Monitor shall have high-
+resolution
+
+Yes Yes Or higher
+
+"Provision of Tilt and
+Swivel monitor should be
+able to view in all angles
+and all light conditions"
+
+Yes Yes Or higher
+
+Monitor display size, cm
+(in)
+
+48.3 (19) LCD with handle 48.3 (19) LCD with handle
+
+Split screen Twin View Twin View
+
+Monitors type Dual (image display and
+touch panel)
+
+Dual (image display and
+touch panel)
+
+Depth, cm ≥30 (11.8) *
+
+Pre processing Yes *
+
+Post processing Yes *
+
+Selectable dynamic range Yes *
+
+Spectrum analyzer Yes *
+
+DIGITAL IMAGE STORAGE Yes *
+
+Cine loop playback Yes *
+
+Max number frames 1400 *
+
+Digital storage hard drive,
+GB
+
+500 *
+
+Speckle-tracking strain and
+strain rate
+
+Yes *
+
+Exam protocols Yes *
+
+Analysis and calculation
+packages
+
+User programmable
+calculations
+
+User programmable
+calculations
+
+Automated Yes *
+
+                               3 / 6
+
+
+
+ 
+
+Digital calipers Yes *
+
+Exam presets Yes *
+
+Customizable presets Yes *
+
+On-screen annotation Yes *
+
+DVD/CD Writer Yes Yes Or higher
+
+Flash Memory Yes *
+
+USB connector Yes *
+
+Type of printer provided
+with the USG machine
+
+Laser printer Laser printer
+
+"Facility for high definition
+digital acquisition, review
+and editing of complete
+patient studies"
+
+Yes *
+
+Connectivity to PC and USG
+machine
+
+Through IMS
+software/equivalent
+software
+
+*
+
+Type of processor I 7 or latest I 7 or latest
+
+RAM capacity of PC in GB
+(hint: In caase PC not
+provided put zero)
+
+≥ 4 ≥ 4
+
+Processor speed in GHZ ≥ 3 ≥ 3
+
+Frame Grabber
+incorporated
+
+Yes Yes
+
+laser Color printer
+provided with computer
+for reporting
+
+Yes Yes Or higher
+
+Inkjet printer provided
+with computer for
+reporting
+
+Yes Yes Or higher
+
+CD/DVD Produced should
+be playable on any
+system
+
+Yes Yes Or higher
+
+Glossy Colour Print
+Paper supplied
+
+500 sheets 500 sheets
+
+Dicom Interfacability
+Dicom to PACS
+
+Yes Yes Or higher
+
+Interfacability Dicom to
+RIS
+
+Yes Yes Or higher
+
+USG sytem supplied
+should be upgradable to
+next generation system
+on site
+
+Yes Yes Or higher
+
+Power Requirements Power input, VAC 220-240VAC, 50Hz fitted
+with Indian plug
+
+*
+
+Resettable over current
+breaker shall be fitted
+for protection
+
+Yes Yes Or higher
+
+Power backup UPS UPS
+
+Back up time in minutes 30 30
+
+Suitable Servo Controlled
+Stabilizer / CVT should be
+provided
+
+Yes *
+
+                               4 / 6
+
+
+
+ 
+
+Miscellaneous Parameters Warranty in years 5 5
+
+Number of installations
+of the USG machine
+OB/GYN in Central
+/State/PSU Govt
+Hospitals( Note: Seller
+should supply a
+performace certificate of
+the device to the buyer if
+demanded after
+placement of order)
+
+More than 3 More than 3
+
+User/Technical/Maintenance
+manuals to be supplied in
+English in hard and soft
+copy
+
+Yes *
+
+Demonstration of
+equipment and training to
+be provided after
+completing supplies &
+Installation before
+acceptance
+
+Yes *
+
+The Principal Manufacturer
+must have direct
+Presence/approved service
+center In India
+
+Yes *
+
+Copies of reports and
+certifications to be furnished
+to buyer on demand at time
+of supplies
+
+Yes *
+
+Certificate from the
+principal that spare parts
+will be available for next 10
+years shall be provided at
+the time of supplies
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Rashmi Rahul Myatra 370110,Government Hospital
+Anjar Vijaynagar Anjar
+
+1  15
+
+Bid Specific Additional Terms and Conditions
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods
+
+and Training of operators and providing Statutory Clearances required (if any)
+2.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each
+
+Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If
+service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one
+within 30 days of award of contract. Payment shall be released only after submission of documentary evidence
+of having Functional Service Centre.
+
+3.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone
+No. for Service Support.
+
+4.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for
+Service Support.
+
+                               5 / 6
+
+
+
+ 
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

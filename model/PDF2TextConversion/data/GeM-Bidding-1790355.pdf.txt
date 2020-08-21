@@ -1,0 +1,384 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/713904
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 19:00:00
+
+Bid Opening Date/Time 27-07-2020 19:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Power
+
+Department Name Contracts And Materials
+
+Organisation Name Ntpc Ltd
+
+Office Name Western Region I Shared Services Centre
+
+Total Quantity 2
+
+Item Category SPECTROPHOTOMETER
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+SPECTROPHOTOMETER ( 2 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+LIGHT SOURCE Light Source Deuterium Lamp,Tungsten
+Halogen Lamp
+
+Deuterium Lamp, Tungsten
+Halogen Lamp
+
+                               1 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/FMziwOHFonM4nf_tJWPxPSgM0bR3_5M7hrfX3OJvhBc
+
+
+ 
+
+Diffraction Grating
+(lines/mm)
+
+1200 1200
+
+Switching of Light
+Source
+
+Automatic Automatic
+
+Wavelength Setting And
+Scanning
+
+Automatic Automatic
+
+TYPE Type of
+Spectrophotometer
+
+UV - VISIBLE UV - VISIBLE
+
+Type of Optical System Double Beam Double Beam
+
+Monochromator Type Scanning grating Scanning grating
+
+Detector Type Photodiode Photodiode
+
+Spectral Bandwidth Type Fixed Bandwidth Fixed Bandwidth
+
+OPTICAL PERFORMANCE Source Wavelength -
+Minimum
+
+190 190.0
+
+Source Wavelength -
+Maximum
+
+1100 1100, 1500, 2000, 2500,
+2700, 3000, 3200, 3300,
+1650 Or higher
+
+Resolution 0.3 0.3
+
+Wavelength Accuracy
+(+/-)
+
+0.3 0.3
+
+Bandwidth (nm) 1.5 1.5
+
+If variable band width,
+Specify the incremental step
+value(mm)
+
+NA *
+
+Scanning Speed (nm/min) 3600 *
+
+Focal length (mm) 200 to 249 200 to 249
+
+Photometric
+measurement modes
+
+Transmittance,Absorbance,
+Concentration (Wavelength,
+time)
+
+Transmittance, Absorbance,
+Concentration (Wavelength,
+time)
+
+Photometric Absorbance
+(Max) (Abs) (+/-)
+
+0.5 0.5
+
+Photometric Absorbance
+Accuracy (Max) (+/-)
+
+0.002 0.001 - 0.002 Or lower
+
+Photometric
+Transmittance (Max)
+(+/-)
+
+100 100.0
+
+Photometric
+Transmittance Accuracy
+(Max) (+/-)
+
+0.5 0.0 - 0.5 Or lower
+
+Photometric Reflectance
+(Max) (+/-)
+
+0.5 0.5
+
+Photometric Reflectance
+Accuracy (Max) (+/-)
+
+0.5 *
+
+Stray Light Correction Automatic *
+
+Baseline Correction Automatic *
+
+GENERIC Display In-built display In-built display
+
+Display type LCD with Backlight LCD with Backlight
+
+Display Size 10 10.0 - 30.0 Or higher
+
+Test result printing Through external printer Through external printer
+
+If inbuilt printer, Type of N/A N/A
+
+                               2 / 4
+
+
+
+ 
+
+printer
+
+Suitable software for
+connecting PC & Printer
+
+N/A *
+
+Connectivity RS 232 *
+
+Internal storage(GB) 80 80.0 - 80.0 Or higher
+
+Sample switching/selection Automatic *
+
+Capacity of Sample holder /
+Sample Carousel
+
+2 *
+
+Mximum Path Length of
+sample
+
+100 100.0
+
+Number of Cuvettes
+supplied-inclusive in the
+scope of supply
+
+2 2
+
+Power Supply 230 V ± 10, 50 Hz *
+
+Spares and Consumables
+inclusive in the scope of
+supply
+
+Yes Yes
+
+List of Items and Quantity of
+each item included in the
+offer
+
+- *
+
+OPERATING CONDITIONS Minimum Operating
+Temperature
+
+10 10.0
+
+Maximum Operating
+Temperature
+
+35 35.0
+
+Operating Humidity (RH)
+(%) at 40 degree C
+
+80 80.0
+
+WARRANTY Onsite Warranty 1 1.0
+
+Availability of Spares (at
+extra cost)
+
+7 7.0
+
+Certification Availability of UL/CE
+Certification as per EN
+61010-1:2010 Safety
+requirements for
+electrical equipment for
+measurement, control,
+and laboratory use
+General requirements
+
+Yes Yes
+
+Conformance to EMC/EMI
+as per EN 61326-1:2013
+Electrical equipment for
+measurement, control
+and laboratory use
+
+Yes Yes
+
+Availability of Test
+Reports from Central
+Govt / NABL approved /
+ILAC acredited lab to
+prove conformity to the
+specification
+
+No No
+
+If yes test report to
+furnished,to the buyer on
+demand
+
+N/A *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+                               3 / 4
+
+
+
+ 
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Vivek Pandurangji
+Masram
+
+441104,NTPC Limited, Mouda
+Super Thermal Power Project,
+Mouda Ramtek Road, PO Mouda
+
+2  15
+
+Bid Specific Additional Terms and Conditions
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

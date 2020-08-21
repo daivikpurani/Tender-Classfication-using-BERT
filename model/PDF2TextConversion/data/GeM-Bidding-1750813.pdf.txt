@@ -1,0 +1,525 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/677837
+
+  Dated: 25-06-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 10-07-2020 18:00:00
+
+Bid Opening Date/Time 2020-07-10 18:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Power
+
+Department Name Contracts And Materials
+
+Organisation Name Ntpc Ltd
+
+Office Name Western Region I Shared Services Centre
+
+Total Quantity 1
+
+Item Category Storage System
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+
+Splitting
+
+ Bid splitting not applied.
+
+Storage System ( 1 pieces )
+
+Technical Specifications
+
+                               1 / 6
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Specification Storage System
+Type
+
+Unified Storage Unified Storage
+
+Group2 Storage Capacity
+(TB)
+
+32 32.0 - 5000.0 Or higher
+
+Group3 Hardware Form Factor
+of Storage System (RU)
+
+4 *
+
+Disk Disk Type NL-SAS NL-SAS
+
+Speed of dual ported
+disk drive in Gbps
+
+6 *
+
+Total Numbers of Drive
+Slots
+
+4 *
+
+Number of Drive
+Slots Populated with
+drives of different
+type in the Storage
+System
+
+4 4
+
+Total no of drive slot
+populated with SSD
+
+0 *
+
+Total no of drive slot
+populated with Flash
+Drive
+
+0 *
+
+Total no of drive slot
+populated with SAS
+
+0 *
+
+Total no of drive slot
+populated with NL-SAS
+
+4 *
+
+Drive Type Wise
+Storage Capacity of
+System in GB
+
+- *
+
+Automated Storage
+tiering feature
+across the populated
+Drives types( in case
+of multiple drive
+system)
+
+Yes Yes
+
+Automated Storage
+tiering Software
+License Included
+
+Yes *
+
+Hot Spares Yes *
+
+Number of Populated
+Disks per Hot Spare
+
+0 *
+
+Provision for additional
+Capacity
+
+No *
+
+If Yes, Number of Drive
+Slots available to
+
+- *
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/om5kFqQG6nO1gUJUCUNgJYHGe5F3Ke_phXCEfVTogjI
+
+
+ 
+
+achieve additional
+capacity
+
+Connectivity/Port Type of Front end Ports - *
+
+Number of Front end
+Ports
+
+1 1
+
+Speed of front end
+Ports in Gbps
+
+2 More than 2.0 Or
+higher
+
+Type of Back end Ports - *
+
+Number of Back end
+Ports
+
+4 More than 4.0 Or
+higher
+
+Speed of Back end
+ports in Gbps
+
+1 More than 1.0 Or
+higher
+
+Number of Remote
+Replication Ports(
+FC/Ethernet)
+
+2 *
+
+Controllers Number of
+Controllers/VSD/
+Node available in the
+storage System on
+common back plane
+without using
+external
+switch/device OR
+without common
+backplane using
+switches
+
+1 1
+
+RAID Level Support 0,1,5,10 *
+
+Active-Active
+Controllers Configured
+in HA
+
+No *
+
+Active Stand by
+Controller Configured in
+HA
+
+No *
+
+System Cache Cache Availability
+Type
+
+Global Global
+
+Total Configurable
+Cache (GB)
+
+8 8
+
+Group4 Wide Stripping or
+equivalent feature
+
+No *
+
+Group5 No of Snapshot Copies
+Per Volume
+
+255 *
+
+Data Replication Remote Replication Yes *
+
+Remote Replication
+license included
+
+Yes *
+
+Synchronized
+Replication Support
+
+Yes *
+
+Synchronous Yes *
+
+                               3 / 6
+
+
+
+ 
+
+Replication license
+included
+
+Asynchronous
+Replication Support
+
+No *
+
+Asynchronuos
+Replication license
+included
+
+No *
+
+3-DC Zero Data Loss
+Support
+
+No *
+
+If Yes, Supported
+Replication Topology
+for 3-DC Zero Data
+Loss
+
+- *
+
+Group6 Type of Data
+Compression
+
+S/W Level *
+
+Type of Data
+Deduplication
+
+S/W Level *
+
+No Single point of
+Failure with Non-
+Disruptive replacement
+of Hardware
+
+No *
+
+The Storage provide
+Non disruptive
+Firmware /Microcode
+upgrade
+
+No *
+
+Firmware upgrade
+without any controller
+reboot
+
+Yes *
+
+Encryption Mode Encryption Required Yes *
+
+Type of Data at Rest
+Encryption
+
+SW Based *
+
+Group7 Storage management
+software for
+configuration and multi-
+pathing(part of the
+supply).
+
+YES *
+
+Group8 Multi-pathing and load
+balancing and fail over
+software (part of
+supply) with license for
+windows/Linux servers
+or shall support native
+multipathing of OS.
+
+YES *
+
+Group 9 Protocols Supported by
+the storage system
+from day one
+
+- *
+
+Group 10 Operating System
+Platform and Clustering
+Supported by the
+
+- *
+
+                               4 / 6
+
+
+
+ 
+
+Storage from day one
+
+Group11 Operating Temp Range - *
+
+Group12 Storage Temp Range - *
+
+Group13 Operating Humidity
+(Rh)
+
+- *
+
+Group14 Storage Humidity (Rh) - *
+
+Group15 BIS Registration under
+CRS of MeiTY
+
+Yes *
+
+If Yes, BIS Registration
+No under CRS of MeiTY
+otherwise indicate N/A
+
+- *
+
+BIS Registration
+Certificate shall be
+furnished when
+demanded by the
+buyer
+
+Yes *
+
+Group16 Storage System is
+compliant with IPv6
+
+Yes *
+
+Group17 Standby power
+consumption of System
+in Watt
+
+- *
+
+Group18 Scope of Supply It includes installation,
+commissioning &
+integration togather
+with all necessary
+software to make the
+system fully functional
+as intended.
+
+*
+
+Group19 On Site OEM
+Warranty
+
+5 5
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Rajeshkumar
+Rameshchanra
+Shah
+
+392215,NTPC Limited,
+Jhanor Gandhar Gas Power
+Project, PO Urja Nagar,
+Jhanor
+
+1  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+
+                               5 / 6
+
+
+
+ 
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

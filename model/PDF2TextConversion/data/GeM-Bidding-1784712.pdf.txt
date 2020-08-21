@@ -1,0 +1,396 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/708766
+
+  Dated: 13-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 23-07-2020 18:00:00
+
+Bid Opening Date/Time 23-07-2020 18:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Railways
+
+Department Name Northern Railway
+
+Organisation Name Stores
+
+Office Name Northern Railway
+
+Total Quantity 10
+
+Item Category Online UPS
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Online UPS ( 10 pieces )
+
+Technical Specifications
+
+                               1 / 5
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Generic Rating in KVA (KVA) 1.0 KVA 1.0 KVA
+
+Technology MOSFET-PWM with
+inbuilt isolation
+transformer
+
+MOSFET-PWM with
+inbuilt isolation
+transformer
+
+Input Power single phase 160V -
+260V sinewave,50Hz
+
+single phase 160V -
+260V sinewave,50Hz
+
+Output power Single phase 230V
++/-1% sinewave 50 Hz
+
+Single phase 230V
++/-1% sinewave 50 Hz
+
+Backup time
+(Minutes)
+
+30 30
+
+Minimum VAH (VAH) 1010 1010
+
+Warranty for UPS
+(Years)
+
+1 1
+
+Movable trolly for
+Batteries
+
+Without Without
+
+Warranty for battery 1 1
+
+Degree of Protection IP21 IP21
+
+Cabling 5 meters for
+input and out put
+
+Without Without
+
+Paralleling kit for
+synchronising
+
+Without Without
+
+Installation and
+Commissioning
+
+Yes *
+
+Constructional Minimum thickness of
+M.S.Sheet Enclosure
+duly painted (mm)
+
+1.2 *
+
+Type of Battery SMF-VRLA conforming
+to JISC:8702(Pt.I,II&III)
+
+SMF-VRLA conforming
+to JISC:8702(Pt.I,II&III)
+
+Functional Maximum overshoot
+and Under shoot of
+output rated voltage
+
+4 *
+
+Voltage Regulation
+from no load to full load
+(%)
+
+< / = 3% *
+
+20% Overload limit
+for minimum 10
+minutes
+
+Yes Yes
+
+Overall Efficiency
+(%)
+
+>/=90% >/=90%
+
+Total Harmonic
+Distortion(THD) (%)
+
+Maximum 3% *
+
+50% Overload limit Yes Yes
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/DMhFJ4UnJ-llUmFFQqAC_NwnqQqu9rBeAmHsUagCYpw
+
+
+ 
+
+for minimum 1
+minutes
+
+Protection Protection for under
+voltage at battery
+terminal at 10.5V per
+12 V battery
+
+Yes *
+
+Protection of Over
+voltage,Short Circuit &
+over load at UPS output
+terminal
+
+Yes *
+
+Metering And
+Indications
+
+Digital Metering in UPS
+for AC Input
+Voltage,Output AC Volt
+age,Current,Frequency,
+Battery Voltage and
+Current
+
+Yes *
+
+Indicators for mains
+presence,Battery
+charging and
+discharging,Output
+Over Load, Low Battery
+Voltage
+
+Yes *
+
+Reports And
+Certification
+
+Damp Heat : in
+accordance with
+IS:9000(part
+5/sec.2)1981 at
+Temperature of 40
+degree C,two cycles of
+(12+12) hours each
+2007)
+
+Yes *
+
+Dry Heat Test : in
+accordance with
+IS:9000 (part
+3/sec.5)1977
+(reaffirmed 2007) at 55
+degree C for 16 hrs
+
+Yes *
+
+Cold Test : in
+accordance with
+IS:9000 (Part
+2/Sec.4)1977
+(Reaffirmed 2007) at
+-10 degree C for 4 hrs.
+
+Yes *
+
+Availability of the Type
+Test Report from
+Central Govt.
+/NABL/ILAC Accredited
+lab covering all
+technical requirements.
+
+Yes *
+
+Type Test Certificate
+No.
+
+- *
+
+Type Test Certificate
+date
+
+- *
+
+                               3 / 5
+
+
+
+ 
+
+Name of Lab - *
+
+Address of Lab - *
+
+As per Meity
+(Government of India)
+guidelines UPS shall
+have valid BIS CRS
+certifications as
+applicable
+
+Not applicable
+presently
+
+*
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Ajay Sharma 133302,C&W cum DSL
+Depot, Northern Railway,
+Kalka , Haryana , Pin -
+133302
+
+10  30
+
+Special terms and conditions for category Online UPS 
+
+1.Calculation of Minimum VAH based on Back up time Minimum VAH requirements would be
+calculated on the basis of following: (VAH Calculation: Battery Voltage x Battery Ah x No. of
+Batteries = VAH)UPS Rating15 Minutes30 Minutes60 Minutes90 Minutes120 Minutes180
+Minutes240 Minutes1 KVA400 VAH800 VAH1600 VAH2400 VAH3200 VAH4800 VAH6400
+VAH2 KVA800 VAH1600 VAH3200 VAH4800 VAH6400 VAH9600 VAH12800 VAH3 KVA1200
+VAH2400 VAH4800 VAH7200VAH9600 VAH14400 VAH19200 VAH5 KVA2000 VAH4000
+VAH8000 VAH12000 VAH16000 VAH24000 VAH32000 VAH6 KVA2400 VAH4800 VAH9600
+VAH14400 VAH19200 VAH28800 VAH38400 VAH7.5 KVA3000 VAH6000 VAH12000
+VAH18000 VAH24000 VAH36000 VAH48000 VAH10 KVA4000 VAH8000 VAH16000
+VAH24000 VAH32000 VAH48000 VAH64000 VAH15 KVA6000 VAH12000 VAH24000
+VAH36000 VAH48000 VAH72000 VAH96000 VAH20 KVA8000 VAH16000 VAH32000
+VAH48000 VAH64000 VAH96000 VAH128000 VAH30 KVA12000 VAH24000 VAH48000
+VAH72000 VAH96000 VAH144000 VAH192000 VAH40 KVA16000 VAH32000 VAH64000
+VAH96000 VAH128000 VAH192000 VAH256000 VAH60 KVA24000 VAH48000 VAH96000
+VAH144000 VAH192000 VAH288000 VAH384000 VAH80 KVA32000 VAH64000 VAH128000
+VAH192000 VAH256000 VAH384000 VAH512000 VAH100 KVA40000 VAH80000 VAH160000
+VAH240000 VAH320000 VAH480000 VAH640000 VAH
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+                               4 / 5
+
+https://gem.gov.in/termsCondition
+
+
+ 
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+http://www.tcpdf.org
+

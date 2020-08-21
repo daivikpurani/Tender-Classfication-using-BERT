@@ -1,0 +1,446 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/713288
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 16:00:00
+
+Bid Opening Date/Time 27-07-2020 16:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Niti Aayog - National Institution For Transforming India
+
+Department Name Atal Innovation Mission
+
+Organisation Name Atal Tinkering Lab
+
+Office Name India
+
+Total Quantity 1
+
+Item Category Microcontroller Educational Kit ( PAC Only ) 
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Microcontroller Educational Kit ( 1 pieces ) ( Under PAC ) 
+
+Make tinkerly
+
+Model 89s5189s52-tinkerly
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+FEATURES AND Name of Microcontroller 8051 8051
+
+                               1 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/UzQA9-WNJHqxA5HUqv0rLIFjsKqonE-gHr3bzU7TB8M
+
+
+ 
+
+FUNCTIONALITY
+PARAMETERS OF
+MICROCONTROLLER
+EDUCATIONAL KIT
+
+kit
+
+Onboard study cards
+included in the scope of
+supply
+
+8255-6 (Deal with
+Programmable peripherals
+interface chip in various
+modes),8251-4 (Deal with
+Universal
+Synchronous/Asynchronous
+Reciever
+Transmitter),8254-4(Deal
+with programmable
+timer/counter chip in all
+modes),8279-4 (Keyboard
+display controller),8259-4(Pr
+ogrammable Interrupt
+controller),DMA-4(Direct
+Memory Access chip in
+different modes),A to D-6
+(Analog to Digital
+conversion),D to A-6 (Digital
+to Analog conversion),Card
+for Stepper Motor,Card for
+DC Motor,Other study cards
+
+*
+
+If other then indicate
+name/no of onboard study
+card
+
+89S51/89S52 *
+
+Availabilty of Power supply
+section
+
+Yes *
+
+Availabilty of Interface
+section
+
+Yes *
+
+Availabilty of I/O Interface Yes *
+
+Availabilty of interfacing
+present on
+microcontroller kit
+
+LED interfacing,Keyboard
+interfacing,LCD
+interfacing,Relay
+interfacing,Seven segment
+display interfacing,Other
+
+LED interfacing, Keyboard
+interfacing, LCD interfacing,
+Relay interfacing, Seven
+segment display interfacing,
+Other
+
+If Other in above parameter
+then indicate types of
+interfacing
+
+8251 Interface Card *
+
+Availabilty of memory
+storage devices present
+on microcontroller kit
+
+Monitor EEPROM,SRAM for
+user Data,Battery Backup
+RAM,EE,Other
+
+Monitor EEPROM, SRAM for
+user Data, Battery Backup
+RAM, EE, Other
+
+If Other in above parameter
+then indicate types of
+memory storage devices
+
+NA *
+
+Memory capacity of
+Monitor EEPROM
+
+4,8,16,32,64,128,256,NA 4, 8, 16, 32, 64, 128, 256,
+NA
+
+Provision of CD (Soft Copy)
+with sample project code,
+Programmer software &
+useful documents
+
+Yes *
+
+Number of I/O Pins for
+External Interface
+
+16 16
+
+Availabilty for Onboard 7
+Segment multiplexed
+display
+
+Yes *
+
+Availabilty for Onboard
+LCD/LED display
+
+No *
+
+If yes, then Size of
+LCD/LEDdisplay (in
+
+NA *
+
+                               2 / 4
+
+
+
+ 
+
+character)
+
+Number of Onboard
+switches available
+
+4,8,16,32,64,72,NA 4, 8, 16, 32, 64, 72, NA
+
+Availabilty for Onboard
+FRC(Flat ribbon connector)
+for Bus Extension
+
+No *
+
+Availabilty for Onboard DB
+connector for UART (RS232)
+interface
+
+Yes *
+
+Operating Frequency in
+Hertz
+
+10MHz *
+
+Availabilty of Watchdog
+timer to automatically reset
+an embedded device that
+hangs because of a software
+or hardware fault
+
+Yes *
+
+Availabilty of Digital
+Temperature sensor
+
+Yes *
+
+Availabilty of two
+pushbuttons for interrupts
+study
+
+No *
+
+Indicate the details of
+Interrupts present in
+microcontroller kit
+
+yes *
+
+Availabilty for Real Time
+Applications with sensor
+
+No *
+
+Facility to interface external
+modules
+
+No *
+
+Connection Cable used USB Cable,User Interface
+Cable
+
+*
+
+OPEARTING CONDITION Minimum Operating
+tempature for
+microcontroller kit in degree
+celsius
+
+0,+5,+10 *
+
+Maximum Operating
+tempature for
+microcontroller kit in degree
+celsius
+
+35,45,55 *
+
+Operating Humidity for
+microcontroller kit (RH)
+
+80%,85%,90%,95% *
+
+TEST CERTIFICATION AND
+PAST EXPERIENCE
+
+Whether the offered kit
+tested at Central Govt /
+NABL approved / ILAC
+accredited Lab, any
+NABL accredited lab,
+govt lab/international lab
+to prove conformity to
+the specification
+
+No No
+
+If yes, then indicate the
+name of the lab
+
+NA *
+
+If yes, then indicate the test
+certificate number & date
+
+NA *
+
+Whether manufacturer of
+offered product has
+national/international
+certification (such as ISO,
+TUV, etc )
+
+No *
+
+                               3 / 4
+
+
+
+ 
+
+If yes, then indicate name of
+certification & certificate
+number and date
+
+NA *
+
+Specify the names of the
+institute where the
+microcontroller kit supplied
+in the past with complete
+address
+
+Not supplied yet *
+
+GENERIC PARAMETERS Installation and
+Demonstration included in
+the scope of supply
+
+Yes *
+
+List of items and its number
+included in the offered
+package
+
+19 *
+
+Supplied with
+comprehensive user manual
+
+Yes *
+
+Warranty of
+Microcontroller kit
+
+1 1
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Anku Mangwana 302015,LAL KOTHI SCHEME TONK
+ROAD JAIPUR
+
+1  15
+
+Bid Specific Additional Terms and Conditions
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods
+
+and Training of operators and providing Statutory Clearances required (if any)
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

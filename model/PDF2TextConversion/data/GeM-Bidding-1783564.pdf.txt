@@ -1,0 +1,425 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/707727
+
+  Dated: 13-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 23-07-2020 12:00:00
+
+Bid Opening Date/Time 23-07-2020 12:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Himachal Pradesh
+
+Department Name Health And Family Welfare Department Himachal
+Pradesh
+
+Organisation Name N/a
+
+Office Name Pt Jawaharlal Nehru Govt Medical College Hospital
+
+Total Quantity 2
+
+Item Category diesel generators- DG Sets
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  Yes
+
+Inspection to be carried out by Buyers own
+empanelled agency
+
+ Yes
+
+Type Of Inspection  Stage-wise Inspection
+
+Name of the Empanelled Inspection
+Agency/ Authority
+
+ Board of Officers
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 5
+
+
+
+ 
+
+Diesel Generators- DG Sets ( 2 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+OUTPUT CAPACITY
+RATING/ PHASE
+
+Nominal Rated
+Capacity (KVA)
+
+25 25, 30, 40, 62.5, 82.5,
+100, 125, 160, 180,
+200, 250, 320, 380,
+400, 500, 600, 750, 50,
+140, 75 Or higher
+
+No of Phase - Three Phase
+
+ENGINE Make of Engine - *
+
+Model Number of
+Engine
+
+- *
+
+Capacity of Engine (cc) - *
+
+Engine Power (kWm) - *
+
+ISI Marking to IS :10001
+for engine
+
+Yes *
+
+BIS license No, if
+applicable
+
+- *
+
+Type of Engine
+cooling
+
+Liquid Cooled Liquid Cooled
+
+Type of governer Electronic Electronic Or higher
+
+Class of governer A0 A0 Or higher
+
+Number of cylinders
+(nos)
+
+3 *
+
+No of Strokes (nos) 4 *
+
+Rated RPM of Engine
+(RPM)
+
+- 1500
+
+Overload capacity for
+one hour for every 11
+hours continuous
+running at full load (%)
+
+10 *
+
+Specific Fuel
+Consumption (gm/kWh)
+
+- *
+
+Starting voltage (volt) 12 *
+
+ALTERNATOR AC GENERATOR(ALTER
+NATOR) Make
+
+- *
+
+AC GENERATOR(ALTER
+NATOR) model Number
+
+- *
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/7TgfcD82aKXRKjWnFrBRsVNCwnjxrjsGTaUOT2VDv4o
+
+
+ 
+
+Rating of AC Generator
+(KVA)
+
+25 *
+
+Power Factor of AC
+generator
+
+0.8 *
+
+Efficiency at rated
+Power factor at 75% of
+full Load
+
+88.45 *
+
+Compliance of
+Alternator to
+IS:13364(part-1)
+
+Yes *
+
+Type of alternator Brushless *
+
+Voltage Regulation
+Grade
+
+VG 3 *
+
+Alternator IP Rating IP 23 *
+
+Class of Insulation H *
+
+CONTROL PANEL Control Panel AMF AMF
+
+IP Rating of Control
+Panel
+
+IP 53 *
+
+ACOUSTIC ENCLOSURE Sheet Thickness 1.6 1.6, 1.8, 2 Or higher
+
+Thickness of Foam 25 *
+
+Density of Foam for
+sound insulation
+
+28 *
+
+Noise level at 1 meter
+(dB)
+
+74 *
+
+BATTERY Battery Type &
+Specification
+
+Low Maintenance free
+to IS: 14257 for high
+cranking performance
+
+*
+
+Battery capacity (Ah) - *
+
+No of batteries 1 *
+
+TEST REPORTS Availability of Type test
+report for Engine from
+Central govt/NABL/ILAC
+accredited laboratory
+
+Yes *
+
+Test Report number
+and date(Engine)
+
+- *
+
+Name and address of
+laboratory(Engine)
+
+- *
+
+Availability of Type test
+report for Alternator
+from Central
+government/NABL/ILAC
+accredited laboratory
+
+Yes *
+
+Test Report number
+and date(Alternator)
+
+- *
+
+Name and address of - *
+
+                               3 / 5
+
+
+
+ 
+
+laboratory(Alternator)
+
+DG set meet
+requirements of Enviro
+nmental(Protection)
+Rules 1986, in respect
+of noise and emission
+norms, as described in
+STC
+
+Yes *
+
+WARRANTY /
+INSTALLATION &
+COMMISSIONING
+
+Warranty 1 1.0
+
+Installation &
+Commissioning
+
+With Installation With Installation
+
+Agreed to STC of the
+Product
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Ravinder Kumar
+Sharma
+
+176310,Medical College
+Near Luxmi Naryan Mandir
+
+2  15
+
+Special terms and conditions for category diesel generators- DG Sets 
+
+1. In addition to General Terms and Conditions of GeM, Special T&C shall be applicable for
+Diesel Generating Set/DG Set. click here to view the Special terms and conditions.
+
+Bid Specific Additional Terms and Conditions
+
+1.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+2.For clothing and allied items, if pre-dispatch Inspection clause has been selected in the Bid,
+the Inspection Agency shall forward sample from the accepted lot duly identified/ sealed by
+it, as Reference Sample to each consignee (one reference sample per consignee) for
+comparing the lot received at consignee end with such reference sample. Such reference
+samples will be treated as part of supplied quantity from the lot and cost shall be borne by
+the Buyer.
+
+3.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+4. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+5. ISO 9001: The bidder must have ISO 9001 certification.
+6.OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be
+
+                               4 / 5
+
+
+
+ 
+
+ordered up to 25 percent at the time of placement of contract. The purchaser also reserves
+the right to increase the ordered quantity by up to 25% of the contracted quantity during the
+currency of the contract at the contracted rates. Bidders are bound to accept the orders
+accordingly.
+
+7.WORLD BANK TERMS AND CONDITIONS: Special Terms and Conditions as defined by world
+bank at click here will also be applicable. APPLICABLE ONLY IN CASE OF WORLD BANK
+FUNDED PROJECTS.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://assets-bg.gem.gov.in/resources/pdf/STC%20for%20World%20Bank%20funded%20contracts.pdf
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

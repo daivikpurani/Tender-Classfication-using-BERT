@@ -1,0 +1,572 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/704735
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 21-07-2020 21:00:00
+
+Bid Opening Date/Time 21-07-2020 21:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Bihar
+
+Department Name Education Department Bihar
+
+Organisation Name Bihar School Examination Board (bseb)
+
+Office Name Bihar Patna
+
+Total Quantity 6360
+
+Item Category Online UPS
+
+Bidder Turnover (Last 3 Years)  125 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  1000 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  30 %
+
+Bid to RA enabled  Yes
+
+Inspection Required  Yes
+
+Inspection to be carried out by Buyers own
+empanelled agency
+
+ Yes
+
+Type Of Inspection  Post Dispatch
+
+Name of the Empanelled Inspection
+Agency/ Authority
+
+ EIL
+
+EMD Detail
+
+                               1 / 7
+
+
+
+ 
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 2.00
+
+EMD Amount 508800
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 5.00
+
+Duration of ePBG required (Months). 12
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+SECRETARY
+BIHAR SCHOOL EXAMINATION BOARD, SINHA LIBRARY ROAD, PATNA - 800017
+(Secretary)
+
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 30% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+                               2 / 7
+
+
+
+ 
+
+Online UPS ( 6360 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Generic Rating in KVA (KVA) 1.0 KVA 1.0 KVA
+
+Technology MOSFET-PWM with
+inbuilt isolation
+transformer
+
+MOSFET-PWM with
+inbuilt isolation
+transformer
+
+Input Power single phase 160V -
+260V sinewave,50Hz
+
+single phase 160V -
+260V sinewave,50Hz
+
+Output power Single phase 230V
++/-1% sinewave 50 Hz
+
+Single phase 230V
++/-1% sinewave 50 Hz
+
+Backup time
+(Minutes)
+
+30 30
+
+Minimum VAH (VAH) 800 800
+
+Warranty for UPS
+(Years)
+
+1 1
+
+Movable trolly for
+Batteries
+
+Without Without
+
+Warranty for battery 1 1
+
+Degree of Protection IP21 IP21
+
+Cabling 5 meters for
+input and out put
+
+Without Without
+
+Paralleling kit for
+synchronising
+
+Without Without
+
+Installation and
+Commissioning
+
+Yes *
+
+Constructional Minimum thickness of
+M.S.Sheet Enclosure
+duly painted (mm)
+
+1.0 *
+
+Type of Battery SMF-VRLA conforming
+to JISC:8702(Pt.I,II&III)
+
+SMF-VRLA conforming
+to JISC:8702(Pt.I,II&III)
+
+Functional Maximum overshoot
+and Under shoot of
+output rated voltage
+
+4 *
+
+Voltage Regulation
+from no load to full load
+(%)
+
+< / = 3% *
+
+                               3 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/GkHHsocbd2u2dg0O3XWbh2B7eRT0EPcB5FZ57CJNxXQ
+
+
+ 
+
+20% Overload limit
+for minimum 10
+minutes
+
+Yes Yes
+
+Overall Efficiency
+(%)
+
+>/=90% >/=90%
+
+Total Harmonic
+Distortion(THD) (%)
+
+Maximum 3% *
+
+50% Overload limit
+for minimum 1
+minutes
+
+Yes Yes
+
+Protection Protection for under
+voltage at battery
+terminal at 10.5V per
+12 V battery
+
+Yes *
+
+Protection of Over
+voltage,Short Circuit &
+over load at UPS output
+terminal
+
+Yes *
+
+Metering And
+Indications
+
+Digital Metering in UPS
+for AC Input
+Voltage,Output AC Volt
+age,Current,Frequency,
+Battery Voltage and
+Current
+
+Yes *
+
+Indicators for mains
+presence,Battery
+charging and
+discharging,Output
+Over Load, Low Battery
+Voltage
+
+Yes *
+
+Reports And
+Certification
+
+Damp Heat : in
+accordance with
+IS:9000(part
+5/sec.2)1981 at
+Temperature of 40
+degree C,two cycles of
+(12+12) hours each
+2007)
+
+Yes *
+
+Dry Heat Test : in
+accordance with
+IS:9000 (part
+3/sec.5)1977
+(reaffirmed 2007) at 55
+degree C for 16 hrs
+
+Yes *
+
+Cold Test : in
+accordance with
+IS:9000 (Part
+2/Sec.4)1977
+(Reaffirmed 2007) at
+-10 degree C for 4 hrs.
+
+Yes *
+
+Availability of the Type Yes *
+
+                               4 / 7
+
+
+
+ 
+
+Test Report from
+Central Govt.
+/NABL/ILAC Accredited
+lab covering all
+technical requirements.
+
+Type Test Certificate
+No.
+
+- *
+
+Type Test Certificate
+date
+
+- *
+
+Name of Lab - *
+
+Address of Lab - *
+
+As per Meity
+(Government of India)
+guidelines UPS shall
+have valid BIS CRS
+certifications as
+applicable
+
+Not applicable
+presently
+
+*
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Prashant Kumar 800017,BIHAR SCHOOL
+EXAMINATION BOARD
+STORE SECTION, SINHA
+LIBRARY ROAD
+
+6360  30
+
+Special terms and conditions for category Online UPS 
+
+1.Calculation of Minimum VAH based on Back up time Minimum VAH requirements would be
+calculated on the basis of following: (VAH Calculation: Battery Voltage x Battery Ah x No. of
+Batteries = VAH)UPS Rating15 Minutes30 Minutes60 Minutes90 Minutes120 Minutes180
+Minutes240 Minutes1 KVA400 VAH800 VAH1600 VAH2400 VAH3200 VAH4800 VAH6400
+VAH2 KVA800 VAH1600 VAH3200 VAH4800 VAH6400 VAH9600 VAH12800 VAH3 KVA1200
+VAH2400 VAH4800 VAH7200VAH9600 VAH14400 VAH19200 VAH5 KVA2000 VAH4000
+VAH8000 VAH12000 VAH16000 VAH24000 VAH32000 VAH6 KVA2400 VAH4800 VAH9600
+VAH14400 VAH19200 VAH28800 VAH38400 VAH7.5 KVA3000 VAH6000 VAH12000
+VAH18000 VAH24000 VAH36000 VAH48000 VAH10 KVA4000 VAH8000 VAH16000
+VAH24000 VAH32000 VAH48000 VAH64000 VAH15 KVA6000 VAH12000 VAH24000
+VAH36000 VAH48000 VAH72000 VAH96000 VAH20 KVA8000 VAH16000 VAH32000
+VAH48000 VAH64000 VAH96000 VAH128000 VAH30 KVA12000 VAH24000 VAH48000
+VAH72000 VAH96000 VAH144000 VAH192000 VAH40 KVA16000 VAH32000 VAH64000
+VAH96000 VAH128000 VAH192000 VAH256000 VAH60 KVA24000 VAH48000 VAH96000
+VAH144000 VAH192000 VAH288000 VAH384000 VAH80 KVA32000 VAH64000 VAH128000
+VAH192000 VAH256000 VAH384000 VAH512000 VAH100 KVA40000 VAH80000 VAH160000
+
+                               5 / 7
+
+
+
+ 
+
+VAH240000 VAH320000 VAH480000 VAH640000 VAH
+
+Bid Specific Additional Terms and Conditions
+
+1.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+2.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+3.Bidders can also submit the EMD with Account Payee Demand Draft in favour of SECRETARY,
+BIHAR SCHOOL EXAMINATION BOARD payable at PATNA.
+Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure
+delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date.
+
+4.Bidders can also submit the EMD with Fixed Deposit Receipt made out or pledged in the
+name of SECRETARY, BIHAR SCHOOL EXAMINATION BOARD A/C (Name of the Seller). The
+bank should certify on it that the deposit can be withdrawn only on the demand or with the
+sanction of the pledgee. For release of EMD, the FDR will be released in favour of bidder by
+the Buyer after making endorsement on the back of the FDR duly signed and stamped along
+with covering letter.
+Bidder has to upload scanned copy / proof of the FDR along with bid and has to ensure
+delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date.
+
+5.End User Certificate: Wherever Bidders are insisting for End User Certificate from the
+Buyer, same shall be provided in Buyer’s standard format only.
+
+6.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+7.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents
+sought in the Bid document, ATC and Corrigendum if any.
+
+8.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+9. ISO 9001: The bidder must have ISO 9001 certification.
+10.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+11.Successful Bidder can submit the Performance Security in the form of Account Payee
+Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in
+favour of SECRETARY, BIHAR SCHOOL EXAMINATION BOARD payable at PATNA. After award
+of contract, Successful Bidder can upload scanned copy of the DD in place of PBG and has to
+ensure delivery of hard copy to the original DD to the Buyer within 15 days of award of
+contract.
+
+12.Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt
+also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in
+the name of SECRETARY, BIHAR SCHOOL EXAMINATION BOARD A/C (Name of the Seller). The
+bank should certify on it that the deposit can be withdrawn only on the demand or with the
+sanction of the pledgee. For release of Security Deposit, the FDR will be released in favour of
+bidder by the Buyer after making endorsement on the back of the FDR duly signed and
+stamped along with covering letter. Successful Bidder has to upload scanned copy of the
+FDR document in place of PBG and has to ensure delivery of hard copy of Original FDR to the
+
+                               6 / 7
+
+
+
+ 
+
+Buyer within 15 days of award of contract.
+13.Warranty period of the supplied products shall be 3 years from the date of final acceptance
+
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+14.Successful bidder will have to ensure that adequate number of dedicated technical service
+personals / engineers are designated / deployed for attending to the Service Request in a
+time bound manner and for ensuring Timely Servicing / rectification of defects during
+warranty period, as per Service level agreement indicated in the relevant clause of the bid.
+
+15.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 3 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,401 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/715665
+  Dated: 17-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 20:00:00
+
+Bid Opening Date/Time 20-07-2020 20:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 70 (Days)
+
+Ministry/State Name Ministry Of Railways
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Southern Railway
+
+Total Quantity 50
+
+Item Category Pulse Oximeter
+
+Experience Criteria  1 Year (s)
+
+MSE Exemption for Years Of Experience  Yes
+
+Startup Exemption for Years Of Experience  Yes
+
+Document required from seller  Experience Criteria
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the
+buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM {themselves or
+through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central
+/ State Govt Organization / PSU / Public Listed Company for number of years as indicated in the bid document before the
+bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some
+quantity during each of the year. In case of bunch bids, the category of primary product having highest value should
+meet this criterion.
+
+                               1 / 4
+
+
+
+ 
+
+Pulse Oximeter ( 50 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Conformity to Standards - *
+
+Certification number and
+date
+
+- *
+
+"Electrical safety conforms
+to standards for electrical
+safety"
+
+IEC-60601-1 or equivalent
+BIS
+
+*
+
+Performance Parameters Type of Pulse Oximeter FINGER TIP FINGER TIP
+
+Should work during motion
+and very low perfusion
+conditions
+
+Yes *
+
+Special Signal processing
+Technology (Motion
+artifact rejection)
+
+Nellcor Compatible Nellcor Compatible
+
+SPO2 probes Reusable Reusable
+
+Oxygen saturation Range 0-100% *
+
+Pulse rate 25-240 BPM *
+
+Display of SPO2 and PR digital display with
+plethysmograph
+
+digital display with
+plethysmograph
+
+Accuracy ± 5 % *
+
+Type of Patient Adult,Pediatric,Neonatal Adult, Pediatric, Neonatal
+
+Should be shock proof Yes Yes
+
+Display (with contrast
+adjust-ability)
+
+TFT TFT
+
+Display should be
+Readable from at least 3
+feet
+
+Yes Yes
+
+Saturation displayed on
+the screen
+
+Yes Yes
+
+Pulse Rate displayed on
+the screen
+
+Yes Yes
+
+Perfusion Index
+displayed on the screen
+
+Yes Yes
+
+Status of battery
+charging displayed on
+the screen
+
+Yes Yes
+
+Sensor off /on status Yes Yes
+
+Audible and visual
+Alarms
+
+Yes Yes
+
+Alarm override facility
+should be present
+
+No No
+
+Trends 48 hrs 48 hrs
+
+Type of trend display Graphical Graphical
+
+Data interval in sec 3 *
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/zKMs6ThH0vGp1U6ixWMKQayg6Bcw2yQO7pskVYUJh5s
+
+
+ 
+
+Power source Battery operated Battery operated
+
+Automatic switch from
+mains to battery in case
+of power failure
+
+Yes Yes
+
+RS 232C interface for
+data communication and
+transfer
+
+NA NA
+
+Should have provisions
+for wireless and blue
+tooth connectivity
+
+NA NA
+
+Patient extension cable Not Provided Not Provided
+
+Power consumption in watts 3 *
+
+Operating Temperature "Ambient temperature of 0
+to 40 deg C and relative
+humidity of 15 to 90%"
+
+*
+
+Weight of the machine in kg 0.05 *
+
+Protective splash proof
+case for clean and
+strogage and safe
+transport provided
+
+Yes Yes
+
+Length of power cable 3m or more 3m or more
+
+Noise level in dB 20 *
+
+Display must allow easy
+viewing in all ambient light
+levels
+
+Yes *
+
+Probes Type of probe Adult,Pediatric,Neonatal Adult, Pediatric, Neonatal
+
+Probe usage Reusable Reusable
+
+Number of probes
+provided (Hint: in case
+adult , pediatric and
+neonatal are selected for
+type of probe all the
+three have to be given
+and in case adult &
+pediatric are selected
+both are to be given)
+
+1 each 1 each
+
+NIBP Parameters Non invasive blood
+pressure (NIBP) provided
+
+No No
+
+Type of BP monitoring NA (If NIBP not provided) NA (If NIBP not provided)
+
+NIBP range in mmH NA (If NIBP not provided) NA (If NIBP not provided)
+
+Cuff size NA (If NIBP not provided) NA (If NIBP not provided)
+
+Number of cuff's
+provided
+
+NA (If NIBP not provided) NA (If NIBP not provided)
+
+Warranty in years
+(without probes)
+
+1 1
+
+Warranty for probes in
+years
+
+1 1
+
+Reports Confirmity to
+Manufactures
+Certification
+
+ISO 9001 & ISO 13485 ISO 9001 & ISO 13485
+
+ISO/ ICMED Certification
+number and date
+
+- *
+
+Copies of all certifcations to Yes *
+
+                               3 / 4
+
+
+
+ 
+
+be furnished to buyer on
+demand at time of supplies
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 D Sree Venkatesh 600008,OFFICE OF THE
+ASSISTANT EXECUTIVE ENGINEER,
+ST SOUTHERN RAILWAY
+Construction Egmore, Chennai,
+600008, Chennai, 600008 mobile
+9003145471
+
+50  10
+
+Bid Specific Additional Terms and Conditions
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2.Bid reserved for Make In India products: Procurement under this bid is reserved for purchase from Class 1 local
+
+suppliers as defined in public procurement (Preference to Make in India), Order 2017 as amended from time to
+time and its subsequent Orders/Notifications issued by concerned Nodal Ministry for specific Goods/Products. The
+minimum local content to qualify as a class 1 local supplier is denoted in the bid document 50%. All bidders must
+upload a certificate from the OEM regarding the percentage of the local content and the details of locations at
+which the local value addition is made along with their bid, failing which the bid is liable to be rejected. In case
+the bid value is more than Rs 10 Crore, the declaration relating to percentage of local content shall be certified
+by the statutory auditor or cost auditor, if the OEM is a company and by a practicing cost accountant or a
+chartered accountant for OEMs other than companies as per the Public Procurement (preference to Make-in
+-India) order 2017 dated 04.06.2020 . In case Buyer has selected Purchase preference to Micro and Small
+Enterprises clause in the bid, the same will get precedence over this clause.
+
+3.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each
+Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If
+service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one
+within 30 days of award of contract. Payment shall be released only after submission of documentary evidence
+of having Functional Service Centre.
+
+4.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone
+No. for Service Support.
+
+5.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for
+Service Support.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

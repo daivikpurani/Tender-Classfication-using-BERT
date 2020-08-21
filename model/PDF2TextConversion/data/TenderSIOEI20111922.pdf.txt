@@ -1,0 +1,770 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tender No: SAC/CPUR/2016E0256801 1 
+
+ 
+
+Tender Details 
+
+ 
+
+Tender No:          SAC/CPUR/2016E0256801 
+
+ 
+
+Tender Date:       02/01/2017 
+
+ 
+
+Purchase Entity:  Purchase C Group 
+
+ 
+
+ 
+
+ 
+
+Tender Notice 
+
+ 
+
+SPACE APPLICATIONS  CENTRE INDIAN SPACE RESEARCH ORGANISATION (DEPT. OF SPACE, GOVT. OF 
+
+INDIA)AHMEDABAD â€“ 380 015 
+
+ 
+
+E-PROCUREMENT PUBLIC TENDER 
+
+ 
+
+SAC INVITES TWO PART E-PROCUREMENT BIDS FROM REPUTED AND INTERESTED VENDORS FOR 
+
+PROCUREMENT OF SERVERS, RACK WITH PDU, KVM & CONSOL (.) THE DETAILED SCHEDULE FOR 
+
+SUBMISSION OF TWO PART BIDS IS AVAILABLE WITH THE TENDER DOCUMENT. THE TENDER 
+
+DOCUMENT IS AVAILABLE IN E-PROCUREMENT LINK OF ISRO (https://eprocure.isro.gov.in).  
+
+ 
+
+VENDOR EMPANELMENT IS NOT MANDATORY FOR PUBLIC TENDER E-PROCUREMENT(.) HENCE, 
+
+INTERESTED VENDORS, WHO HAVE NOT YET REGISTERED AS VENDORS ARE REQUESTED TO REGISTER 
+
+THEMSELVES IN THE ABOVE LINK UNDER SAC AND DOWN LOAD THE TENDER DOCUMENT AND SUBMIT 
+
+THE BIDS THROUGH E-PROCUREMENT MODE ONLY(.)VENDORS ARE ALSO REQUESTED TO SUBMIT BIDS 
+
+BY POST IN TWO PART FORMAT (.) 
+
+ 
+
+
+
+Tender No: SAC/CPUR/2016E0256801 2 
+
+ SR. HEAD, PURCHASE & STORES 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Tender No: SAC/CPUR/2016E0256801 3 
+
+ 
+
+Tender Attachments 
+
+ 
+
+Technical Write-up/Drawings 
+
+Attachment - I: 
+
+IDT00434500000000000isro05401.docx 
+
+Attachment - II: 
+
+IDT00434500000000000isro05402.docx 
+
+Attachment - III: 
+
+ 
+
+Attachment - IV: 
+
+ 
+
+Attachment - V: 
+
+ 
+
+ 
+
+Instructions to Tenderers - Indigenous (G2) 
+
+.: 
+
+GOVERNMENT OF INDIADEPARTMENT OF SPACEINDIAN SPACE RESEARCH ORGANISATIONSPACE 
+
+APPLICATIONS CENTREAHMEDABAD-380 015.TERMS AND CONDITIONS OF TENDER 1.No request for 
+
+extension for due date for submission of tenders will be entertained. 2.Bid security (EMD) exemption for 
+
+MSME. In case, the vendors are falling under the category of MSME, registered under NSIC and would 
+
+like to avail exemptions, their quotations should be accompanied with necessary registration certificate 
+
+with declaration to consider their offer. Quotation received without such declaration and valid 
+
+registration certificate will not be considered for exemptions under Public Procurement Policy. 3.Sales 
+
+Tax and/or other duties/levies legally leviable and intended to be claimed should be distinctly shown 
+
+separately in the tender. 4.As a Government of India Department, this office is exempted from payment 
+
+of Octroi and similar local levies. Tenderers shall ensure that necessary Exemption Certificates are 
+
+obtained by them from the Purchase Officer concerned to avoid any payment of such levies. 5.a) Your 
+
+quotation should be valid for at least 90 days from the date of opening of the tender. b) Prices are 
+
+required to be quoted according to the units indicated in the annexed tender form. When quotations 
+
+are given in terms of units other than those specified in the tender form, relationship between the two 
+
+
+
+Tender No: SAC/CPUR/2016E0256801 4 
+
+sets of units must be furnished. 6.Preference will be given to those tenders offering supplies from ready 
+
+stocks and on the basis of FOR destination/delivery at site. 7.(a) All available technical literature, 
+
+catalogues and other data in support of the specifications and details of the items should be furnished 
+
+along with the offer.(b) Samples, if called for, should be submitted free of all charges by the tenderer 
+
+and the Purchaser shall not be responsible for any loss or damage thereof due to any reason 
+
+whatsoever. In the event of non-acceptance of tender, the tenderer will have to remove the samples at 
+
+his own expense. (c) Approximate net and gross weight of the items offered shall be indicated in your 
+
+offer. If dimensional details are available the same should also be indicated in your offer. (d) 
+
+Specifications: Stores offered should strictly confirm to our specifications. Deviations, if any, should be 
+
+clearly indicated by the tenderer in his quotation. The tenderer should also indicate the Make/Type 
+
+number of the stores offered and provide catalogues, technical literature and samples, wherever 
+
+necessary, along with the quotations. Test Certificates, wherever necessary, should be forwarded along 
+
+with supplies. Wherever options have been called for in our specifications, the tenderer should address 
+
+all such options. Wherever specifically mentioned by us, the tenderer could suggest changes to 
+
+specifications with appropriate response for the same. 8.The Purchaser shall be under no obligation to 
+
+accept the lowest or any tender and reserves the right of acceptance of the whole or any part of the 
+
+tender or portions of the quantity offered and the tenderers shall supply the same at the rates quoted. 
+
+9.Corrections, if any, must be attested. All amounts shall be indicated both in words as well as in figures. 
+
+Where there is difference between amount quoted in words and figures, amount quoted in words shall 
+
+prevail. 10.The tenderer should supply along with his tender, the name of his bankers as well as the 
+
+latest Income-Tax clearance certificate duly countersigned by the Income-Tax Officer of the Circle 
+
+concerned under the seal of his office, if required by the Purchaser. 11.The Purchaser reserves the right 
+
+to place order on the successful tenderer for additional quantity up to 25% of the quantity offered by 
+
+them at the rates quoted. 12.The authority of the person signing the tender, if called for, should be 
+
+produced. 13.We are exempted from the payment of Central Excise & Custom Duties vide notifications 
+
+issued by Govt. of India.  TERMS & CONDITIONS OF TENDER  
+
+ 
+
+1. DEFINITIONS:  
+
+(a) The term ‘Purchaser’ shall mean the President of India or his successors or assigns. (b) The term 
+
+‘Contractor’ shall mean, the person, firm or company with whom or with which the order for the supply 
+
+of stores is placed and shall be deemed to include the Contractor's successors, representative, heirs, 
+
+executors and administrators unless excluded by the Contract. c) The term ‘Stores’ shall mean what the 
+
+Contractor agrees to supply under the Contract as specified in the Purchase Order including erection of 
+
+plants & machinery and subsequent testing, should such a condition is included in the Purchase Order. 
+
+d) The term ‘Purchase Order’ shall mean the communication signed on behalf of the Purchaser by an 
+
+Officer duly authorised intimating the acceptance on behalf of the Purchaser on the terms and 
+
+conditions mentioned or referred to in the said communication accepting the tender or offer of the 
+
+Contractor for supply of stores or plant, machinery or equipment or part thereof. 2. PRICES: Tender 
+
+offering firm prices will be preferred. Where a price variation clause is insisted upon by a tenderer, 
+
+quotation with a reasonable ceiling should be submitted. Such offers should invariably be supported by 
+
+
+
+Tender No: SAC/CPUR/2016E0256801 5 
+
+the base price taken into account at the time of tendering and also the formula for any such variation/s. 
+
+3. SECURITY DEPOSIT:On acceptance of the tender, the Contractor shall, at the option of the Purchaser 
+
+and within the period specified by him, deposit with him, in cash or in any other form as the Purchaser 
+
+may determine, security deposit not exceeding ten percent of the value of the Contract as the Purchaser 
+
+shall specify. If the Contractor is called upon by the Purchaser to deposit, ‘Security’ and the Contractor 
+
+fails to provide the security within the period specified, such failure shall constitute a breach of the 
+
+Contract, and the Purchaser shall be entitled to make other arrangements for the re-purchase of the 
+
+stores Contracted at the risk of the Contractor in terms of Sub-Clause (ii) and (iii) of clause 10(b) hereof 
+
+and/or to recover from the Contractor, damages arising from such cancellation. 4. GUARANTEE & 
+
+REPLACEMENT: (a) The Contractor shall guarantee that the stores supplied shall comply fully with the 
+
+specifications laid down, for material, workmanship and performance. (b) For a period of twelve months 
+
+after the acceptance of the stores, if any defects are discovered therein or any defects therein found to 
+
+have developed under proper use, arising from faulty stores design or workmanship, the Contractor 
+
+shall remedy such defects at his own cost provided he is called upon to do so within a period of 14 
+
+months from the date of acceptance thereof by the Purchaser who shall state in writing in what respect 
+
+the stores or any part thereof are faulty. (c) If, in the opinion of the Purchaser, it becomes necessary to 
+
+replace or renew any defective stores such replacement or renewal shall be made by the Contractor free 
+
+of all costs to the Purchaser, provided the notice informing the Contractor of the defect is given by the 
+
+Purchaser in this regard within the said period of 14 months from the date of acceptance thereof. (d) 
+
+Should the Contractor fail to rectify the defects, the Purchaser shall have the right to reject or repair or 
+
+replace at the cost of the Contractor the whole or any portion of the defective stores. (e) The decision of 
+
+the Purchaser notwithstanding any prior approval or acceptance or inspection thereof on behalf of the 
+
+Purchaser, as to whether or not the stores supplied by the Contractor are defective or any defect has 
+
+developed within the said period of 12 months or as to whether the nature of the defects requires 
+
+renewal or replacement, shall be final, conclusive and binding on the Contractor. (f) To fulfil guarantee 
+
+conditions outlined in clause 4 (a) to (e) above, the Contractor shall, at the option of the Purchaser, 
+
+furnish a Bank Guarantee (as prescribed by the Purchaser) from a Bank approved by the Purchaser for 
+
+an amount equivalent to 10% of the value of the Contract along with first shipment documents. On the 
+
+performance and completion of the Contract in all respects, the Bank Guarantee will be returned to the 
+
+Contractor without any interest. (g) All the replacement stores shall also be guaranteed for a period of 
+
+12 months from the date of arrival of the stores at Purchaser's site. (h) Even while the 12 months 
+
+guarantee applies to all stores, in case where a greater period is called for by our specifications then 
+
+such a specification shall apply in such cases the period of 14 months referred to in para 4 (b) & (c) shall 
+
+be the ‘asked for’ guarantee period plus two months. 5. PACKING FORWARDING & INSURANCE: The 
+
+Contractor will be held responsible for the stores being sufficiently and properly packed for transport by 
+
+rail, road, sea or air to withstand transit hazards and ensure safe arrival at the destination. The packing 
+
+and marking of packages shall be done by and at the expense of the Contractor. The Purchaser will not 
+
+pay separately for transit insurance, all risks in transit being exclusively of the Contractor and the 
+
+Purchaser shall pay only for such stores as are actually received in good condition in accordance with the 
+
+Contract. 6. DESPATCH: The Contractor is responsible for obtaining a clear receipt from the Transport 
+
+Authorities specifying the goods despatched. The consignment should be despatched with clear Railway 
+
+Receipt/Lorry Receipt. If sent in any other mode, it shall be at the risk of the Contractor. Purchaser will 
+
+
+
+Tender No: SAC/CPUR/2016E0256801 6 
+
+take no responsibility for short deliveries or wrong supply of goods when the same are booked on 'said 
+
+to contain' basis. Purchaser shall pay for only such stores as are actually received by them in accordance 
+
+with the Contract. 7. TEST CERTIFICATE: Wherever required, test certificates should be sent along with 
+
+the despatch documents. 8. ACCEPTANCE OF STORES: (a) The stores shall be tendered by the Contractor 
+
+for inspection at such places as may be specified by the Purchaser at the Contractor's own risk, expense 
+
+and cost. (b) It is expressly agreed that the acceptance of the stores Contracted for, is subject to final 
+
+approval by the Purchaser, whose decision shall be final. (c) If, in the opinion of the Purchaser, all or any 
+
+of the stores do not meet the performance or quality requirements specified in the Purchase Order, 
+
+they may be either rejected or accepted at a price to be fixed by the Purchaser and his decision as to 
+
+rejection and the prices to be fixed shall be final and binding on the Contractor. (d) If the whole or any 
+
+parts of the stores supplied are rejected in accordance with Clause No. 8 (c) above, the Purchaser shall 
+
+be at liberty, with or without notice to the Contractor, to purchase in the open market at the expense of 
+
+the Contractor stores meeting the necessary performance and quality Contracted for in place of those 
+
+rejected, provided that either the purchase, or the agreement to purchase, from another supplier is 
+
+made within six months from the date of rejection of the stores as aforesaid. 9. REJECTED STORES: 
+
+Rejected stores will remain at destination at the Contractor's risk and responsibility. If instructions for 
+
+their disposal are not received from the Contractor within a period of 14 days from the date of receipt of 
+
+the advice of rejection, the Purchaser or his representative has, at his discretion, the right to scrap or sell 
+
+or consign the rejected stores to Contractor's address at the Contractor's entire risk and expense, freight 
+
+being payable by the Contractor at actuals. 10. DELIVERY: (a) The time for and the date of delivery of the 
+
+stores stipulated in the Purchase Order shall be deemed to be the essence of the Contract and delivery 
+
+must be completed on or before the specified dates. (b) Should the Contractor fail to deliver the stores 
+
+or any consignment thereof within the period prescribed for such delivery, the Purchaser shall be 
+
+entitled at his option either:(i) to recover from the Contractor as agreed liquidated damages and not by 
+
+way of penalty, a sum of 0.5% per week of the price of any stores which the Contractor has failed to 
+
+deliver as aforesaid or during which the delivery of such store may be in arrears subject to a minimum of 
+
+10%, OR(II) to purchase from elsewhere, without notice to the Contractor on the account and at the risk 
+
+of the Contractor, the stores not delivered or others of a similar description (where others exactly 
+
+complying with the particulars, are not, in the opinion of the Purchaser, readily procurable, such opinion 
+
+being final) without cancelling the Contract in respect of the consignment (s) not yet due for delivery, 
+
+OR(iii) to cancel the Contract or a portion thereof and if so desired to purchase or authorise the 
+
+purchase of stores not so delivered or others of a similar description (where others exactly if complying 
+
+with the particulars are not, in the opinion of the Purchaser, readily procurable, such opinion final) at 
+
+the risk and cost of the Contractor. In the event of action being taken under sub-clause (ii) & (iii) of 
+
+clause 10 (b) above, the Contractor shall be liable for any loss which the Purchaser may sustain on that 
+
+account, provided that the re-purchase or if there is an agreement to repurchase then such agreement 
+
+is made within six months from the date of such failure. But the Contractor shall not be entitled to any 
+
+gain on such re-purchase made against default. The manner and method of such re-purchase shall be at 
+
+the discretion of the Purchaser, whose decision shall be final. It shall not be necessary for the Purchaser 
+
+to serve a notice of such re-purchase on the defaulting Contractor. This right shall be without prejudice 
+
+to the right of the Purchaser to recover damages for breach of Contract by the Contractor. 11. 
+
+EXTENSION OF TIME: As soon as it is apparent that the Contract dates cannot be adhered to, an 
+
+
+
+Tender No: SAC/CPUR/2016E0256801 7 
+
+application shall be sent by the Contractor to the Purchaser. If failure, on the part of the Contractor, to 
+
+deliver the stores in proper time shall have arisen from any cause which the Purchaser may admit as 
+
+reasonable ground for an extension of the time (and his decision shall be final) he may allow such 
+
+additional time as he considers it to be justified by circumstances, of the case without prejudice to the 
+
+Purchaser's right to recover liquidated damages under clause 10 thereof. 12. ERECTION OF PLANT & 
+
+MACHINERY: Wherever erection of a plant or machinery is the responsibility of the Contractor as per the 
+
+terms of the Contract and in case the Contractor fails to carry out the erection as and when called upon 
+
+to do so within the period specified by the Purchaser, the Purchaser shall have the right to get the 
+
+erection done through any source of his choice. In such an event, the Contractor shall be liable to bear 
+
+any additional expenditure that the Purchaser is liable to incur towards erection. The Contractor shall, 
+
+however, not be entitled to any gain due to such an action by the Purchaser. 13. PAYMENT: Contractor's 
+
+bill will be passed for payment only after the stores have been received, inspected and accepted by the 
+
+Purchaser. 14. MODE OF PAYMENT: Normally payment will be made for the accepted stores within 30 
+
+days from the date of receipt of the materials. 15. RECOVERY OF SUM DUE: Whenever any claim for the 
+
+payment of, whether liquidated or not, money arising out of or under this Contract against the 
+
+Contractor, the Purchaser shall be entitled to recover such sum by appropriating in part or whole, the 
+
+security deposited by the Contractor, if a security is taken against the Contract. In the event of the 
+
+security being insufficient or if no security has been taken from the Contractor, then the balance or the 
+
+total sum recoverable as the case may be, shall be deducted from any sum then due or which at any 
+
+time thereafter may become due to the Contractor under this or any other Contract with the Purchaser. 
+
+Should this sum be not sufficient to cover the full amount recoverable, the Contractor shall pay to the 
+
+Purchaser on demand the remaining balance due.  Similarly, if the Purchaser has or makes any claim, 
+
+whether liquidated or not, against the Contractor under any other Contract with the Purchaser, the 
+
+payment of all moneys payable under the Contract to the Contractor including the security deposit shall 
+
+be withheld till such claims of the Purchaser are finally adjudicated upon and paid by the Contractor. 16. 
+
+INDEMNITY: The Contractor shall warrant and be deemed to have warranted that all stores supplied 
+
+against this Contract are free and clean of infringement of any Patent, Copyright or Trademark, and shall 
+
+at all times indemnify the Purchaser against all claims which may be made in respect of the stores for 
+
+infringement of any right protected by Patent Registration of design or Trade mark and shall take all risk 
+
+of accidents or damage which may cause a failure of the supply from whatever cause arising and the 
+
+entire responsibility for sufficiency of all means used by him for the fulfilment of the contact. 17. 
+
+ARBITRATION: In the event of any question, dispute or difference arising under these conditions or any 
+
+conditions contained in the Purchase Order or in connection with this Contract (except as to any matter 
+
+the decision of which is specially provided for by these conditions), the same shall be referred to the 
+
+sole arbitration of the Head of the Purchase office or some other person appointed by him. It will be no 
+
+objection that the arbitrator is a Government servant that he had to deal with matter to which the 
+
+Contract relates or that in the course of his duties as Government servant he has expressed views on all 
+
+or any other matters in dispute or difference. The award of the arbitrator shall be final and binding on 
+
+the parties of this Contract. If the arbitrator be the Head of the Centre/Unit –(i) In the event of his being 
+
+transferred or vacating his office by resignation or otherwise, it shall be lawful for his successor-in-office 
+
+either to proceed with reference himself, or to appoint another person as arbitrator, or(ii) In the event 
+
+of his being unwilling or unable to act for any reason, it shall be lawful for the Head of the Centre/Unit 
+
+
+
+Tender No: SAC/CPUR/2016E0256801 8 
+
+to appoint another person as arbitrator. If the arbitrator be a person appointed by the Head of the 
+
+Purchase Office – In the event of his dying, neglecting or refusing to act or resigning or being unable to 
+
+act, for any reason, it shall be lawful for the Head of the Centre/Unit either to proceed with the 
+
+reference himself or appoint another person as arbitrator in place of the outgoing arbitrator. Subject as 
+
+aforesaid the Arbitration & Conciliation Act 1996 and the rules thereunder and any statutory 
+
+modifications thereof for the time being in force shall be deemed to apply to the arbitration proceedings 
+
+under this Clause. The Arbitrator shall have the power to extend with the consent of the Purchaser and 
+
+the Contractor the time for making and publishing the award. The venue of arbitration shall be the place 
+
+as Purchaser in his absolute discretion may determine. Work under the Contract shall, if reasonably 
+
+possible, continue during arbitration proceedings. In the event of any dispute or difference relating to 
+
+the interpretation and application for the provisions of the Contracts, such dispute or difference shall be 
+
+referred by either party to Arbitration of one of the Arbitrations in the Department of Public Enterprises. 
+
+The Arbitration Act 1996 shall not be applicable to arbitration under this clause. The award of the 
+
+Arbitrator shall be binding upon the parties to the dispute provided however any party aggrieved by 
+
+such award may make a further reference for setting aside or revision of the award to the Law 
+
+Secretary, Department of Legal Affairs. Ministry of Law & Justice, Government of India. The parties to 
+
+the dispute will share equally, the cost of arbitration as intimated by Arbitrator. 18. COUNTER TERMS 
+
+AND CONDITION OF SUPPLIERS: Where counter terms and conditions printed or cyclostyled conditions 
+
+have been offered by the supplier, the same shall not be deemed to have been accepted by the 
+
+Purchaser, unless specific written acceptance thereof is obtained. 19. SECURITY FOR PURCHASE OF 
+
+MATERIALS: Successful tenderer will have to furnish in the form of a bank guarantee or any other form 
+
+as called for by the Purchaser towards adequate security for the materials and properties provided by 
+
+the Purchaser for the due execution of the Contract. *********************SAC,ISRO  AHMEDABAD - 
+
+380 015 
+
+ 
+
+Instructions to Tenderers (Bid Submission) 
+
+.: 
+
+GOVERNMENT OF INDIAINDIAN SPACE RESEARCH ORGANISATIONSPACE APPLICATIONS 
+
+CENTREAHMEDABAD-380 015.Instructions to TenderersTenders are available on ISRO’s e-procurement 
+
+website https:\\www.eprocure.isro.gov.in.  Interested tenderers will be required to register on the 
+
+website and access the tender from the website. Vendors will be required to submit offers online (e-
+
+bids) using a digital signature certificate. Guidelines regarding registration, empanelment, submission of 
+
+e-bids etc. are available on the portal. Interested vendors may refer the same. In case of any queries 
+
+w.r.t. the contents of the tender itself; you may contact the concerned Purchase and Stores Officer of 
+
+Space Applications Centre by e-mail. However, in case of any technical queries, the help-desk 
+
+maintained by our solution provider may be contacted. The contact details are available on the portal. 
+
+Vendors may also submit hard copies of their price proposals in sealed covers along with the bid. 
+
+However, this shall in no event be considered as exemption from submitting e-bids. Sealed offers 
+
+received from those vendors who have failed to submit the e-bid will not be considered. INSTRUCTIONS 
+
+
+
+Tender No: SAC/CPUR/2016E0256801 9 
+
+FOR TENDER SUBMISSION 1) The tenderers should submit quotations complete in all respects with 
+
+technical specifications, including pamphlets and catalogues. It may be noted that while submitting 
+
+offers on the e-Procurement portal, vendors have to submit the offers as per the following procedure:a) 
+
+E-bid Submission: Preparing of the offer in the format available in the tender. Filling up the compliance 
+
+statements and enclosing other relevant information and registration of / saving the e-bid on the 
+
+portal.b) Open Authorization: Vendor MUST complete this action within the time period specified in the 
+
+tender schedule by logging into the portal and sending the public key for authorization. In case vendor 
+
+fails to complete this step after e-bid submission, the e-bid will not be opened and shall not be 
+
+considered as a valid offer even if the vendor might have submitted the offer physically in sealed 
+
+envelope (if instructed to do so in the tender).2) Detailed schedule of activities to be carried out by the 
+
+vendor while submitting the bids is indicated in the tender document. 3) The valid e-bids received 
+
+before the deadline shall be opened in the presence of attending tenderers/their authorized 
+
+representatives as indicated in the tender schedule. The person attending the tender opening shall have 
+
+to carry authorization letter from the tenderer and identification which may be produced on demand. 4) 
+
+In the event any date indicated above is declared as holiday, the tender schedule shall be amended/ 
+
+postponed accordingly.  The amended schedule can be viewed on the e-procurement portal. Tenderers 
+
+may send their representatives to attend tender opening accordingly. 5) In case Tenders cannot be open 
+
+on the date indicated in schedule due to technical difficulties, tenders will be opened on next working 
+
+day or on the day the technical snag is set right. 6) Earnest Money Deposit (EMD) as stipulated in the bid 
+
+shall be paid by Crossed Demand Draft / Fixed Deposit Receipt issued by a nationalized bank in favor of 
+
+Accounts Officer, Space Applications Centre, and payable at par at Ahmedabad. The EMD should be 
+
+received before the tender opening date indicated in the tender schedule. If EMD is not received in 
+
+time, the offer will be considered as invalid. *********************SAC,ISRO  AHMEDABAD - 380 015 
+
+ 
+
+
+
+Tender No: SAC/CPUR/2016E0256801 10 
+
+ 
+
+Bid Templates 
+
+ 
+
+Vendor Specificied Terms 
+
+Description Vendor Terms 
+
+Taxes and other costs, if any  
+
+Delivery Terms  
+
+Delivery Period  
+
+Payment Terms  
+
+Validity  
+
+Warranty  
+
+Performance Bank Guarantee  
+
+Liquidated Damages  
+
+Security Deposit  
+
+Mode of Transpotation  
+
+Any other Terms  
+
+ 
+
+Supporting Documents from Vendor 
+
+ 
+
+Attachment - I: 
+
+ 
+
+Attachment - II: 
+
+ 
+
+Price Bid Form 
+
+Item Description Slab Range Qty UOM Currency Unit Price Total Price 
+
+
+
+Tender No: SAC/CPUR/2016E0256801 11 
+
+SERVER 
+
+COMPUTERS 
+
+Servers 
+
+(4nos.),Rack 
+
+(1no.),PDUs(2no.),
+
+KVM(1no.)and 
+
+Console(1no.)Spec
+
+ifications attached 
+
+- 1 Sets - - - 
+
+ 
+
+Break-up of other taxes and other costs should be specified in respective narration columns.  
+
+ Sum of these Break-up values should be specified in respective value columns. 
+
+ 
+
+Supporting Documents from Vendor(Price Related) 
+
+ 
+
+Attachment - I: 
+
+ 
+
+Attachment - II: 
+
+ 
+
+ 
+
+

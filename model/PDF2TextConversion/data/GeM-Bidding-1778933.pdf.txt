@@ -1,0 +1,430 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/703482
+
+  Dated: 08-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 23-07-2020 09:00:00
+
+Bid Opening Date/Time 23-07-2020 09:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Army
+
+Office Name ***********
+
+Total Quantity 5
+
+Item Category designing software
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Designing Software ( 5 pieces )
+
+Technical Specifications
+
+                               1 / 5
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+BASIC INFORMATION
+OF DESIGNING
+SOFTWARE(GOLDEN)
+
+Software Domain /
+Type
+
+Perpetual Perpetual
+
+Name of Software - *
+
+Name of the OEM - *
+
+OEM Model / Part
+No/Product Id of OEM
+
+- *
+
+Software
+Version/Version Name
+
+- *
+
+Date of Launch of
+Version
+
+- *
+
+FEATURES AND
+FUNCTIONALITY
+PARAMETERS(GOLDEN)
+
+Advance surfacing Yes Yes, No
+
+Composite Material
+Design
+
+Yes Yes, No
+
+Conceptual design Yes Yes, No
+
+Direct Modeling Yes Yes
+
+Electrical cable and
+Conduit design
+
+Yes Yes, No
+
+Mesh CAD Models Yes Yes, No
+
+Mold design Yes Yes, No
+
+Parametric Modeling Yes Yes, No
+
+Plastic Parts Design Yes Yes, No
+
+Weldments Yes Yes, No
+
+2D System Analysis Yes Yes, No
+
+Circuit Simulation Yes Yes, No
+
+Fluid Flow
+Simulation
+
+Yes Yes, No
+
+Human Simulation Yes Yes
+
+Motion Simulation Yes Yes, No
+
+Stress Analysis Yes Yes, No
+
+Structural Validation Yes Yes, No
+
+Sustainability
+Analysis
+
+Yes Yes, No
+
+If yes, Other
+Simulation/ Analysis
+Features
+
+- *
+
+Photorealistic
+Images
+
+Yes Yes, No
+
+Walk-Through
+Animation
+
+Yes Yes, No
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/vkdN48x1kTRKX5sPTbxtiqJ7JM_508z7Z4IqFMpzrhI
+
+
+ 
+
+If yes, Other Animation
+/Rendering Features
+
+- *
+
+Compare Costs Yes Yes, No
+
+Output Cost Report Yes Yes, No
+
+Automatic Cost
+Estimation
+
+Yes Yes, No
+
+No. of days Training
+Provided at Site
+
+0 0, upto 5, 6 to 10, 11 to
+20, 21 to 30
+
+Number of Years
+upto which Support
+is available from
+OEM / Franchise
+online (Years)
+
+1 1, 2, 3, 5, 10 Or higher
+
+FEATURES AND
+FUNCTIONALITY
+PARAMETERS(GENERIC)
+
+2D Drawing Yes *
+
+3D Modeling Yes *
+
+Fastening Systems Yes *
+
+Large Assembly Design Yes *
+
+Piping Tubing Design Yes *
+
+Sheet Metal Design Yes *
+
+Collision and
+Interference Check
+
+Yes *
+
+Assembly Animation Yes *
+
+Rendering Yes *
+
+Bill of Materials No *
+
+If yes, Other Cost
+Estimation Features
+
+- *
+
+Annotations Yes *
+
+Dimensions Yes *
+
+Tolerance Yes *
+
+Wireframes No *
+
+Other Documentation
+Features
+
+- *
+
+SUPPORTED
+HARDWARE
+REQUIREMENT
+PARAMETERS
+
+Hard Disk Space
+Required
+
+- *
+
+RAM Size required - *
+
+CPU required - *
+
+Operating Systems
+supported (Driver)
+
+- *
+
+Supported Devices - *
+
+Supported Database - *
+
+GENERIC PARAMETERS
+OF DESIGNING
+
+Free Upgradation to
+Higher Version
+
+YES *
+
+                               3 / 5
+
+
+
+ 
+
+SOFTWARE Maximum user
+handling capability
+
+- *
+
+Concurrent user
+handling capability
+
+- *
+
+Valid Licence copy to
+be provided
+
+YES *
+
+Mode of License to be
+delivered
+
+Paper License *
+
+Software supplied
+through
+
+"Media & URL Link" *
+
+Installation and
+Demonstration
+
+No *
+
+List of items included in
+the package
+
+- *
+
+Hyper link to Data
+sheet
+
+- *
+
+No of Softwares sold 100 *
+
+Number of User
+Referance no. 1 with in
+Government
+Department email,
+phone no.Of concerned
+authority where
+Software/Appliance
+installed
+
+10 *
+
+Details of Government
+Department email,
+phone no.Of concerned
+authority where
+Software /Appliance
+installed for above.
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********LEH 5  30
+
+Bid Specific Additional Terms and Conditions
+
+                               4 / 5
+
+
+
+ 
+
+1.Bidders shall quote only those products in the bid which are not obsolete in the market and
+has at least 1 years residual market life i.e. the offered product shall not be declared end-of-
+life by the OEM before this period.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

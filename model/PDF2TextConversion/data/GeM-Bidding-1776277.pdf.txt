@@ -1,0 +1,370 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/701077
+
+  Dated: 07-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 17-07-2020 16:00:00
+
+Bid Opening Date/Time 17-07-2020 16:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Petroleum And Natural Gas
+
+Department Name Na
+
+Organisation Name Hindustan Petroleum Corporation Ltd
+
+Office Name Petroleum House
+
+Total Quantity 1
+
+Item Category scanners ( PAC Only ) 
+
+OEM Average Turnover (Last 3 Years)  9 Lakh (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Past Performance,OEM Authorization Certificate,OEM
+Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  10 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+                               1 / 5
+
+
+
+ 
+
+1. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+2. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 10% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Scanners ( 1 pieces ) ( Under PAC ) 
+
+Make hp
+
+Model hpscanjetn9120fn2documentscanner
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Specification Scanning Technology CIS CIS
+
+Scanner Type Flat Bed Flat Bed
+
+Document Size A3 A3+
+
+Optical Resolutiom
+(Dpi)
+
+600 600.0 - 9999999.0 Or
+higher
+
+Maximum Resolution
+(Dpi)
+
+600 *
+
+Monochrome Scan
+Speed
+
+120.00 120.00
+
+Colour Scan Speed 120.00 120.00
+
+Colour Depth (Bits) 24 *
+
+Paper Weight Handling
+Capacity (GSM)
+
+199 *
+
+Scanning Feature Duplex *
+
+Paper Path U *
+
+Multi Fed Detection
+Feature
+
+Yes Yes
+
+Automatic Document Available *
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/iD0i4JZ9-TQJUgAYPZD62pwf531jAwEXF9tEeLwixtE
+
+
+ 
+
+Feeder (ADF)
+
+ADF Tray Capacity
+(Number of sheets)
+
+200 *
+
+USB interface 2.0 *
+
+Network Interface Ethernet 10/100/1000 *
+
+Wi-fi Interface Not available *
+
+OS Compatibility Window, Linux, Mac *
+
+Daily Duty Cycle
+(Number of Pages)
+
+12000 12000.0 - 9999999.0
+Or higher
+
+Scan File Formats PDF, JPEG, TIFF, MTIFF,
+XPS, PDF/A, TEXT
+(OCR), Unicode TEXT
+(OCR), RTF (OCR),
+Searchable PDF (OCR),
+Searchable PDF/A
+(OCR), HTML (OCR),
+CSV (OCR); Scan to
+easy access USB: PDF,
+JPEG, TIFF, MTIFF, XPS,
+PDF/A, TEXT (OCR),
+Unicode TEXT (OCR),
+RTF (OCR), Searchable
+PDF (OCR), Searchable
+PDF/A (OCR), HTML
+(OCR), CSV (OCR); For
+HP Scan: PDF, JPEG,
+PNG, BMP, TIF, Text
+(.txt), Rich text (.rtf),
+Searchable PDF (.pdf),
+PDF/A (.pdf); For HP
+Easy Scan: TIFF, PNG,
+JPEG, JPEG-2000, PDF,
+PDF-Searchable, RTF,
+TXT; For Linux: JPEG,
+PDF, PNG, PNM,
+PostScript, TEXT, TIFF
+
+*
+
+Bundled Softwares HP browser, Mac OS
+Welcome Screen
+(Directs users to
+HP.com or OS App
+Source for printer
+software), Online user
+manuals . Download
+from hp.com Network
+TWAIN, and USB TWAIN
+solution, HP Scan, ISIS,
+WIA, Kofax VRS Pro,
+Nuance PaperPort,
+I.R.I.S Readiris Pro,
+I.R.I.S Cardiris
+
+*
+
+Power Consumption in
+Standby mode (Watts)
+
+1.2 *
+
+                               3 / 5
+
+
+
+ 
+
+Power Consumption in
+Operational mode
+(Watts)
+
+21 *
+
+BIS Registration as per
+Compulsory
+Registration Scheme
+under Gazette of India
+Notification no. S.O.
+2357(E) dated
+07/09/2012 issued by
+Department of
+Electronics and
+Information Technology
+
+Yes *
+
+BIS Registration
+Number and Its validity
+
+R-41076180 *
+
+Operating Temperature
+Range (Degree C)
+
+10-35 *
+
+Operating Humidity (%
+RH)
+
+15-80 *
+
+Dimensions (W x D x H)
+(mm x mm x mm)
+
+602x635x287 *
+
+Weight (Kg) 21.4 *
+
+On Site OEM
+Warranty (Year)
+
+1 1
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 K S
+Ananthalakshmy
+
+500004,HPCl,SCZ-Retail ,
+Parishram Bhavan,ground
+floor opp babu khan estate
+building ,Fatehmedan road
+bashir bagh hyderabad -
+500004
+
+1  15
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+This Bid is also governed by the General Terms and Conditions
+
+                               4 / 5
+
+https://gem.gov.in/termsCondition
+
+
+ 
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+http://www.tcpdf.org
+

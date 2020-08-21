@@ -1,0 +1,586 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/708158
+
+  Dated: 13-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 24-07-2020 09:00:00
+
+Bid Opening Date/Time 24-07-2020 09:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Railways
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Southern Railway
+
+Total Quantity 97
+
+Item Category Analog Transceiver-Handheld
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+Estimated Bid Value  1064478
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 7
+
+
+
+ 
+
+Analog Transceiver-Handheld ( 97 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+PERFORMANCE
+FEATURES
+
+Frequency Range
+(MHz)
+
+136-174 136-174
+
+Types of Bandwidth VHF Full Band VHF Full Band
+
+Channel Capacity 16 16
+
+Channel Spacing 12.5 *
+
+Frequency Spread
+without degradation in
+Tx / Rx Specification
+
+5 *
+
+Frequency Stability (± ) 2.5 *
+
+Antenna Impedance 50 *
+
+TRANSMITTER RF Power output
+setting of transmitter
+
+Programmable *
+
+RF Power output
+Range
+
+1 to 5 Watts (VHF) 1 to 5 Watts (VHF)
+
+Type of Emission 11K0F3 *
+
+Frequency deviation ± 2.5Khz max. for
+100% at 1KHz
+
+*
+
+Modulation Sensitivity 1 to 10mV at 1 KHz at
+mic. Input for +/- 1.5
+KHz standard deviation
+
+*
+
+Modulation Distortion 5 *
+
+Modulation Fidelity +1, -3 dB of 6dB/
+octave pre-emphasis
+charactrestics from 350
+Hz to 2700 Hz with
+1KHz as reference
+
+*
+
+Spurious & Harmonics
+Suppression (dB)
+
+60 *
+
+VSWR -1 *
+
+RECEIVERS Sensitivity at 12 dB
+SINAD
+
+0.25 *
+
+Squelch Sensitivity of
+receiver
+
+-0.25 *
+
+Adjacent Channel
+Selectivity (dB)
+
+60 *
+
+Image Rejection (dB) 65 *
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/iMZEAuSDEge1NFbOXUJc5AYHUMLm_GlHlKji8U4KoVA
+
+
+ 
+
+Audio Output, (with
+less than 5 % distortion
+at 1 KHz reference
+measured at specified
+AF output)
+
+500 *
+
+Audio Response +1, -3 dB of 6dB/
+octave de- emphasis
+charactrestics from 350
+Hz to 2700 Hz with
+1KHz as reference
+
+*
+
+ACCESSORIES Antenna Helical Antenna *
+
+Programming kit No *
+
+Technical repairing &
+maintenance manual
+with complete block
+diagram, circuit layout
+etc in soft as well as
+hard copy
+
+No *
+
+Battery charger Yes *
+
+Output voltage of the
+charger
+
+- *
+
+Battery charger
+suitable for
+
+Lithium-ion *
+
+Charging time for
+standard mode
+
+6 to 14hrs *
+
+Charging time for rapid
+mode
+
+1 tO 3 hrs *
+
+Number of spare
+batteries with each
+Radio Set
+
+NA NA
+
+POWER
+SOURCE/BATTERY
+
+Chemistry of Battery Li-ion *
+
+Voltage rating of the
+Battery
+
+7.5 *
+
+capacity of Battery
+(milli AH)
+
+2000 *
+
+VARIOUS FEATURES Simple Press to talk yes *
+
+Protection against high
+VSWR
+
+yes *
+
+Low Battery Alert yes *
+
+CTCSS or DCS yes *
+
+Capable of VOX for
+hands-free operation
+
+Yes *
+
+PTT ID Encode Yes *
+
+Busy Channel Lockout Yes *
+
+Channel Scanning with
+call quieting facility
+
+Yes *
+
+                               3 / 7
+
+
+
+ 
+
+Selective Call Decode Yes *
+
+Capable of being Killed/
+Unkilled
+
+Yes *
+
+Emergency SOS/SIREN Yes *
+
+LCD Display (Min 4
+characters)
+
+No *
+
+Automatic Number
+Identification (ANI)
+
+Yes *
+
+Talk-around Yes *
+
+DTMF Keypad No *
+
+DTMF Microphone No *
+
+Keypad Lock No *
+
+Built-in GPS Yes *
+
+Battery Strength Bar
+Indicator or Digital
+Voltage read out
+
+No *
+
+Signaling DTMF *
+
+GENERIC Internal Speaker
+impedance
+
+12 *
+
+External Speaker
+impedance
+
+12 *
+
+Output Termination BNC female socket *
+
+Weight of Transceiver
+with Battery
+
+600 *
+
+Other features - *
+
+SAFETY Protections Reverse polarity
+protection & short
+circuit protection
+
+*
+
+SERVICE Warranty 1 1.0
+
+OPERATING CONDITION Minimum Operating
+temperature
+
+-10 *
+
+Maximum Operating
+temperature
+
+55 *
+
+Minimum Storage
+temperature
+
+-40 *
+
+Maximum Storage
+temperature
+
+70 *
+
+Humidity non-
+condensing (at +40 oC
+)
+
+95 *
+
+CERTIFICATION BIS registration under
+CRS of Meity for the
+battery
+
+- *
+
+BIS registration - *
+
+                               4 / 7
+
+
+
+ 
+
+Number and Date for
+the Battery
+
+TEST REPORT DETAILS conformity to Dry
+Heat for 16 hrs at a
+maximum temp in
+accordance with IS:9
+000/part-3/section-5/
+1977 latest
+
+Yes Yes
+
+conformity to Cold
+Test for 4 hrs at a
+minimum temp in
+accordance with IS:9
+000/part-2/section-4/
+1977 latest
+
+Yes Yes
+
+conformity to Damp
+Heat (Cyclic)Test for
+2 Cycles of 24 h each
+at a temp of 40
+degree C & 95% RH
+in accordance with I
+S:9000/part-5/sectio
+n-1/ 1991 latest
+
+Yes Yes
+
+Drop Test (in packed
+condition): IS 9000
+Part VII/SEC,3/1979
+(reaffirmed 2004):
+Six drops one on
+each face, Height of
+fall 1000 mm incase
+of handheld items
+and 500 mm in case
+of other items
+
+Yes Yes
+
+Vibration Test: IS
+9000 Part VIII/1981
+(reaffirmed 2006):
+12 hours, 4 hours
+along with each axis,
+at 15-150 Hz and
+with amplitude of
+0-15 mm/2g
+
+Yes Yes
+
+Storage Test: IS
+9000 Part III/SEC
+5/1977 & Part II/ SEC
+4/1977 (reaffirmed
+2004): -40 deg C for
+5 hours, then raise
+the temperature to
+70 deg C for 16
+hours
+
+Yes Yes
+
+Bump Test: IS 9000
+Part VII/SEC 2/1979
+(reaffirmed 2004):
+4000 bumps at peak
+acceleration of 400
+
+Yes Yes
+
+                               5 / 7
+
+
+
+ 
+
+m/s sq
+
+Availability of the
+test report from
+Central Govt/ NABL/
+ILAC accredited lab
+to prove conformity
+to the specification
+
+Yes Yes
+
+If yes test report to
+furnished,to the buyer
+on demand
+
+Yes *
+
+Test Report Number
+and date for the
+specification test
+
+- *
+
+Name and address of
+the Lab for the
+specification test
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Rajamohan M K 678002,Office of the Senior
+Divisional
+Telecommunication
+Engineer Divisional Railway
+Manager Office Palakkad
+Division Palakkad
+
+97  45
+
+Bid Specific Additional Terms and Conditions
+
+1. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+2.Nominated Inspection Agency: On behalf of the Buyer organization, any one of the
+following Inspection Agency would be conducting inspection of stores before acceptance:
+Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause
+has been selected in ATC): RDSO INSPECTION
+Post Receipt Inspection at consignee site before acceptance of stores: Relevant inspection
+document should be submitted before supplying the materials
+
+3.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents
+sought in the Bid document, ATC and Corrigendum if any.
+
+This Bid is also governed by the General Terms and Conditions
+
+                               6 / 7
+
+https://gem.gov.in/termsCondition
+
+
+ 
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+http://www.tcpdf.org
+

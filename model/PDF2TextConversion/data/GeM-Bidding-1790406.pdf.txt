@@ -1,0 +1,680 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/713948
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 20:00:00
+
+Bid Opening Date/Time 27-07-2020 20:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Telangana
+
+Department Name Health Medical & Family Welfare Department Telangana
+
+Organisation Name Tsmsidc
+
+Office Name Directorate Of Treasuries
+
+Total Quantity 100
+
+Item Category Ambulances - R
+
+Bidder Turnover (Last 3 Years)  250 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  5000 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Turnover  Yes
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM Authorization
+Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the
+buyer
+
+Past Performance  50 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank HDFC Bank
+
+EMD Percentage(%) 2.00
+
+EMD Amount 2858046
+
+ePBG Detail
+
+Advisory Bank HDFC Bank
+
+ePBG Percentage(%) 5.00
+
+Duration of ePBG required (Months). 36
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant
+
+                               1 / 7
+
+
+
+ 
+
+category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for
+Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+Managing Director, TSMSIDC
+Directorate Of Treasuries, Health Medical & Family Welfare Department Telangana, TSMSIDC,
+(K. Chandra Shekar Reddy)
+
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM {themselves or
+through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central
+/ State Govt Organization / PSU / Public Listed Company for number of years as indicated in the bid document before the
+bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some
+quantity during each of the year. In case of bunch bids, the category of primary product having highest value should
+meet this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product during the
+last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document.
+Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the
+Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with
+the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have supplied same or similar
+Category Products for 50% of bid quantity, in at least one of the last three years before the bid opening date to any
+Central / State Govt Organization / PSU / Public Listed Company. Copies of relevant contracts (proving supply of
+cumulative order quantity in any one year) to be submitted along with bid in support of quantity supplied in the relevant
+year. In case of bunch bids, the category related to primary product having highest bid value should meet this criterion.
+
+Ambulances - R ( 100 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Description Description Road Ambulance or
+Ambulance is a specially
+equipped and ergonomically
+designed vehicle for
+transportation / emergent
+treatment of sick or injured
+people and capable of
+providing out of hospital
+medical care during transit /
+when stationary,
+commensurate with its
+designated level of care
+when appropriately staffed
+
+*
+
+Generic Vehicle parameters Type of Ambulance Type B (as per clause 3.3.2
+of AIS:125 Part-1)
+
+Type B (as per clause 3.3.2
+of AIS:125 Part-1)
+
+Category of Vehicle M2 M2
+
+Vehicle Engine Capacity 2596 *
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/yG5x6dTADWWZ6kbwOHE8vhMMio8JNQDHOEKwHmDULhw
+
+
+ 
+
+Type of Fuel Diesel Diesel
+
+Vehicle Emission
+Complaince
+
+BS VI BS VI
+
+Colour of the Vehicle White *
+
+Vehicle Mileage (
+declared by OEM as
+certified by Test Agency
+under Rule 115of CMVR
+1989) (Kmpl)
+
+13.31 13.31 - 50.0 Or higher
+
+Top Speed 100 *
+
+Acceleration(0-70KmPH) 31 31.0
+
+Gradeability of Vehicle 11.3 *
+
+Air Conditioning NA for withoutAC NA for withoutAC
+
+Engine BHP 114 More than 114.0 Or higher
+
+Rated RPM at Max Engine
+BHP
+
+2950 *
+
+Engine Torque Max (N-m) 350 More than 350.0 Or higher
+
+Rated RPM at Max Engine
+Torque
+
+2200 *
+
+Type of Vehicle Body Monocoque Monocoque
+
+No of Doors 3 *
+
+Fuel Tank Capacity 70 *
+
+Length of Vehicle Body 5615 *
+
+Width of Vehicle Body 1900 *
+
+Height of Vehicle Body 2550 *
+
+Ground Clearance(road
+Clearance from floor)
+
+200 *
+
+Wheel Base 3350 *
+
+Kerb Weight 2755 2755.0
+
+Gross Vehicle Weight 3965 3965.0
+
+Type of Tyre and Tube BIS marked Pneumatic
+Tyres and tubes for both
+front and rear
+
+*
+
+Size Of Tyre - *
+
+Vehicle Transmission
+System
+
+Manual Manual
+
+No of Speed/ Forward
+Gears
+
+5 5
+
+Type of Wheel drive Two Wheel drive Two Wheel drive
+
+Drive Axle Rear *
+
+Type of Steering Power Power
+
+Turning Radius 6500 Less than 6500.0 Or lower
+
+Front Vehicle Brake Disc Brake *
+
+Rear Vehicle Brake Drum Brake *
+
+Vehicle Air Intake System TurboCharged *
+
+Vehicle features Vehicle Brake ABS Fitted *
+
+Ambulance Body Patient Compartment As per cl. 4.5 of AIS 125 Pt I *
+
+                               3 / 7
+
+
+
+ 
+
+Overall Length of Patient
+Compartment
+
+3300 *
+
+Overall Width of Patient
+Compartment
+
+1680 *
+
+Overall Height of Patient
+Compartment
+
+1830 *
+
+Construction of Patient
+Compartment
+
+The ceiling, the material of
+floor and side shall be non-
+permeable and resistant to
+disinfectant
+
+*
+
+Body Main Structure Shape
+and Material
+
+NA for Monocoque *
+
+Size of Section - *
+
+Exterior Panel of side body
+and roof
+
+NA for Monocoque *
+
+Interior Panel of side body GI sheetof thickness 0.8 mm
+min, FRP panelling, ABS
+panelling with Anti bacterial
+material
+
+*
+
+Interior Panel of roof Rexin *
+
+Flooring Material Flooring Made Out fromm ISI
+Marked 12 mm thick FR
+grade plywood covered with
+vinyle sheet
+
+*
+
+Openings (Doors, Windows,
+Emergency Exits)
+
+AS per cl. 4.4.5 of AIS 125 Pt
+I
+
+*
+
+Number of Seats
+(inciuding driver)
+
+10 10
+
+Number of strecher 1 1
+
+Min Number of Patient and
+Attendant Seats
+
+2 *
+
+Main Equipments Features of Main Strecher Main strecher with
+separable undercarriage
+
+*
+
+PROVISION FOR MEDICAL
+DEVICES
+
+Mounting for portable
+Oxygen cylinder of 2.2 L
+water capacity,Hook for
+infusion mounting,Storage
+for keeping first aid and
+nursing kit
+
+*
+
+Type of Patient Handling
+Equipment
+
+Main stretcher with
+undercarriage,Oxygen
+Cylinder Bracket,I.V. Bottle
+Hanging Hook,First Aid Box
+in side of rear saloon
+
+*
+
+Ambulance Features Medical cabinet in side of
+rear saloon,Roof revolving
+light,Siren,Fire Extinguisher
+as per AIS 125 PT I
+
+*
+
+Electrical Requirement Additional Electric Load of
+Medical Equipment’s
+permissible (Watts) as per
+AIS 125 (Part-1)
+
+110 *
+
+Number of battery(ies)
+provided other than the
+vehicle battery
+
+NA *
+
+Additional Battery Capacity NA *
+
+                               4 / 7
+
+
+
+ 
+
+Alternator Power NA for type B *
+
+Min no of 12V connections
+for medical devices in
+patient's compartment
+
+NA *
+
+Min number of 220V AC
+power supply connections
+for medical devices in
+patient compartment
+
+NA *
+
+Environment Testing Environment Testing
+Compliance
+
+Flammability Test as per IS
+15061: 2002 (as applicable
+),Interior fitting compliance
+as per AIS-047
+established,Air conditioning
+and Heating Performance
+Tests(Clause 4.5.4 as per
+AIS125 Pt I)
+Compliance,Acceleration
+Test (Clause 4.2.1 per AIS
+125 Pt I and IS:11851-2002)
+Compliance,Water Proofing
+Test (IS:11865-1995)
+Compliance,Dust Ingress
+Test (IS:11739-1997)
+Compliance
+
+*
+
+Additional Features for
+COVID 19 Ambulance
+
+Partition Between Driver &
+Patient Compartment
+
+*
+
+Warranty Time 36 36.0
+
+Warranty Distance (or
+warranty time,
+whichever earlier)
+
+300000 300000.0
+
+Battery Warranty 12 12.0
+
+No Of Free Service during
+warranty
+
+7 *
+
+Certification Applicable GSR
+287(E),Central Motor
+Vehicles(4th
+Amend)Rules,2015 and
+Ambulance CODE (Latest)
+
+Compliance to AIS 125(Part
+I) : Constructional and
+Functional Requirements for
+Road Ambulances with all
+amendments till date.
+
+*
+
+Certification Complete vehicle *
+
+Vehicle Certification ARAI *
+
+Vehicle Certification
+ARAI/VRDE/ICAT/CIRT No
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 D Devdas 500095,The Managing Director,
+TSMSIDC , 3rd Floor, DM & HS
+Campus, Sulthan Bazaar,
+Koti-500095
+
+100  15
+
+                               5 / 7
+
+
+
+ 
+
+Bid Specific Additional Terms and Conditions
+1.Bidder financial standing: The bidder should not be under liquidation, court receivership or similar
+
+proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid.
+2.End User Certificate: Wherever Bidders are insisting for End User Certificate from the Buyer, same shall be
+
+provided in Buyer’s standard format only.
+3.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting the bid, Manufacturers
+
+Authorisation Form (MAF)/Certificate with OEM details such as name, designation, address, e-mail Id and Phone
+No. required to be furnished along with the bid.
+
+4.Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have regularly,
+manufactured and supplied same or similar Category Products to any Central / State Govt Organization / PSU /
+Public Listed Company for 3 years before the bid opening date. Copies of relevant contracts to be submitted
+along with bid in support of having supplied some quantity during each of the year. In case of bunch bids, the
+primary product having highest value should meet this criterion.
+
+5.OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25
+percent at the time of placement of contract. The purchaser also reserves the right to increase the ordered
+quantity by up to 25% of the contracted quantity during the currency of the contract at the contracted rates.
+Bidders are bound to accept the orders accordingly.
+
+6.The successful bidder has to supply all essential accessories required for the successful installation and
+commissioning of the goods supplied. Besides standard accessories as per normal industry practice, following
+accessories must be part of supply and cost should be included in bid price: Tools, Stretcher and all the
+Accessories as per Ambulance Norms etc..
+
+7.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+8.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last three
+
+years, ending on 31st March of the previous financial year, should be as indicated in the bid document.
+Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from
+the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution shall be taken into
+account for this criteria.
+
+9.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product
+during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid
+document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a
+certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant
+period shall be uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than 3
+year old, the average turnover in respect of the completed financial years after the date of constitution shall be
+taken into account for this criteria. In case of bunch bids, the OEM of CATEGORY RELATED TO primary product
+having highest bid value should meet this criterion.
+
+10.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each
+Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If
+service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one
+within 30 days of award of contract. Payment shall be released only after submission of documentary evidence
+of having Functional Service Centre.
+
+11.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone
+No. for Service Support.
+
+12.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for
+Service Support.
+
+13.Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection
+Agency would be conducting inspection of stores before acceptance:
+Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in
+ATC): NA
+Post Receipt Inspection at consignee site before acceptance of stores: Concerned Authority from Director of
+Public Health, Government of Telangana may be nominate
+
+14.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid
+document, ATC and Corrigendum if any.
+
+15.ISO 9001: The bidder must have ISO 9001 certification.
+16.Material Test Certificate Should Be Sent Along with The Supply. The Material Will Be Checked by Buyer’s Lab &
+
+the Results of the Lab will be the Sole Criteria for Acceptance of the Item.
+17.The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test
+
+certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid
+document.
+
+18.To be eligible for award of contract, Bidder / OEM must possess following Certificates / Test Reports on the date
+of bid opening (to be uploaded with bid): ARAI/ VRDE / ICAT / RTA /CMV etc..
+
+19.Successful bidder will have to ensure that adequate number of dedicated technical service personals / engineers
+are designated / deployed for attending to the Service Request in a time bound manner and for ensuring Timely
+Servicing / rectification of defects during warranty period, as per Service level agreement indicated in the
+relevant clause of the bid.
+
+                               6 / 7
+
+
+
+ 
+
+20.Timely Servicing / rectification of defects during warranty period: After having been notified of the defects /
+service requirement during warranty period, Seller has to complete the required Service / Rectification within 3
+days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of
+Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit
+the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the
+Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after
+which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and
+cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service /
+rectification to the Buyer.
+
+21.Warranty period of the supplied products shall be 3 years from the date of final acceptance of goods or after
+completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee
+location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The
+seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller
+should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service
+group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to
+be uploaded along with the bid
+
+22.For fulfilling the experience criteria any one of the following documents may be considered as valid proof for
+meeting the experience criteria:
+a. Purchase Order copy along with Invoice(s) with self-certification by the bidder that supplies against the
+invoices have been executed.
+b. Execution certificate by client with order value.
+c. Any other document in support of order execution like Third Party Inspection release note, etc.
+
+23.The Bidder / OEM {themselves or through reseller(s)}, should have executed project for supply and installation /
+commissioning of same or similar Category Products during preceding 3 financial years (i.e. current year and
+three previous financial years) as on opening of bid, as per following criteria:
+ 
+(i) Single order of at least 35% of estimated bid value; or
+(ii) Two orders of at least 20% each of estimated bid value; or
+(iii) Three orders of at least 15% each of estimated bid value.
+Satisfactory Performance certificate issued by respective Buyer Organization for the above Orders should be
+uploaded with bid. In case of bunch bids, the Category related to primary product having highest bid value
+should meet this criterion
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

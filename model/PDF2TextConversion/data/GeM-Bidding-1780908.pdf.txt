@@ -1,0 +1,466 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/705283
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 13:00:00
+
+Bid Opening Date/Time 20-07-2020 13:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Ministry Of Coal
+
+Department Name Materials Management
+
+Organisation Name Northern Coalfields Limited
+
+Office Name Singrauli
+
+Total Quantity 2
+
+Item Category Automatic Fully Mechanised Organic Waste Machine
+for Compost Non Heating Type
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Automatic Fully Mechanised Organic Waste Machine For Compost Non
+Heating Type ( 2 pieces )
+
+Technical Specifications
+
+                               1 / 5
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Generic Parameters Type of Plant Fully Automatic,
+Aerobic
+
+*
+
+Type of Waste Domestic Food waste +
+horticulture waste +
+Green Waste
+
+*
+
+Type of machine Non PLC based Non PLC based
+
+Reprocessing
+Capacity of Machine
+(Kgs)
+
+20 20
+
+Material of vessel
+and shaft
+
+SS – 304 of suitable
+thickness
+
+SS – 304 of suitable
+thickness
+
+Material of body
+cover
+
+SS – 202 of suitable
+thickness
+
+SS – 202 of suitable
+thickness
+
+Machine should have
+no sharp edges, welds/
+joints should not be
+visible outside
+
+Yes *
+
+Dimension of Machine - *
+
+Twin Shaft Shredder Yes *
+
+Capacity Twin Shaft
+Shredder (Kg/hr)
+
+5 More than 5.0 Or
+higher
+
+Material of Blade of
+Twin Shaft Shredder
+
+SS-304 SS-304
+
+Blade Thickness of
+Twin Shaft Shredder
+
+5 *
+
+Material of Hopper of
+Twin Shaft Shredder
+
+SS-304 *
+
+Sheet thickness of
+Hopper of Twin Shaft
+Shredder
+
+2 *
+
+Motor of Twin Shaft
+Shredder
+
+Yes *
+
+Feeding into
+Shredder
+
+Manual Manual
+
+Electric Motor Power
+Rating for Twin Shaft
+Shredder confirming to
+IS:325 latest revision
+
+3 *
+
+Stand Alone Control
+Panel with minimum
+degree of protection IP
+- 53 conforming to
+
+No *
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/L3XqXXfAOLt8UGTEkQlsDFVWSgiyPZMMdZat0zdf9-k
+
+
+ 
+
+IS-2147
+
+All control panel parts
+should be of standard
+brands quality parts
+should be used
+
+Yes *
+
+Material of Canopy
+of control panel
+confirming to
+IS:2062 latest
+
+Powder coated mild
+steel
+
+Powder coated mild
+steel
+
+ISI Marked MCB/Relay Yes *
+
+Standard ISI Marked Air
+Blower
+
+Yes *
+
+Air Blower with damper
+control
+
+Yes *
+
+Air flow capacity of Air
+Blower (Cubic ft)
+
+500 *
+
+Motor of Air Blower Yes *
+
+Electric Motor Power
+Rating for Air Blower
+confirming to IS:325
+latest revision
+
+1 *
+
+Motor and Blower have
+overload and current
+protection
+
+Yes *
+
+All control panel parts
+should be of standard
+brands Quality parts
+should be used
+
+Yes *
+
+Bioculture
+requirement
+
+No No
+
+Type of Bioculture Aerobic Mircrobial
+Culture
+
+*
+
+Odour Control
+Powder/agent
+
+Yes *
+
+Output compost Quality
+as per Fertilizer Control
+Order Standards
+
+Yes *
+
+Compost production Minimum 20 -25 % of
+input waste quantity
+
+*
+
+Condition and State of
+output Compost
+
+Enriched and Dry *
+
+Output Compost - Easy
+to pack in bags
+
+Yes *
+
+Compostable
+material removal
+
+Once in 24 hours for
+continuous plug system
+
+Once in 24 hours for
+continuous plug system
+
+Temperature of
+digester
+
+60 Deg. C +/- 10 Deg.
+C
+
+*
+
+                               3 / 5
+
+
+
+ 
+
+Safety Features Emergency switch,
+overload indication
+function and Safety
+Switch Safety feature:
+Internal mixing blades
+automatically stop
+when input door is
+opened
+
+*
+
+No harmful gases like
+Ammonia, Sulphur di-
+oxide, Methane, Carbon
+di-oxide should be
+generated
+
+Yes *
+
+confirm the stipulated
+guidelines of CPCB &
+SWM Rules, 2016
+
+Yes *
+
+Comprehensive
+Warranty of Plant
+
+5 *
+
+Noise Level of Plant
+during Operation
+(dB)
+
+10 Less than 10.0 Or lower
+
+Harmful Emission by
+the Plant
+
+No *
+
+Burning and Chemical
+use
+
+No *
+
+Running Hours Per day 8 *
+
+Power Consumption 0.5 *
+
+Certification Norms and
+Specifications
+
+As per Solid Waste
+Management Rules
+2016 and conforming
+to FCO compost Quality
+Standard
+
+*
+
+Availbility of Test
+Report from Central
+Government/NABL for
+compost quality
+
+Yes *
+
+Test Report No - *
+
+Test Report Date - *
+
+Name of the Lab - *
+
+Address of the Lab - *
+
+Original Test reports to
+be produced on
+demand to Buyer
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+                               4 / 5
+
+
+
+ 
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Venu Gopal 231222,REGIONAL STORES,
+DUDHICHUA PROJECT, PO -
+KHADIA DISTT - SONBHADRA
+U.P.
+
+2  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

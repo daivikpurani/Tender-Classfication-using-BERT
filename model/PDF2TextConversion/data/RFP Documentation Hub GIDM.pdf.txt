@@ -1,0 +1,2523 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - RFP_Documentation Hub_GIDM_v5
+
+
+Page 1 of 41 
+ 
+
+Tender 
+ 
+ 
+
+Selection of Service Provider 
+ 
+
+for 
+ 
+
+Implementation of Documentation Hub 
+ 
+
+for 
+ 
+
+Gujarat Institute of Disaster Management (GIDM) 
+ 
+
+Tender No: SW06032019170 
+ 
+
+Bid Processing Fees: 2,000/- 
+ 
+
+Earnest Money Deposit: 2,00,000/- 
+ 
+ 
+ 
+
+ 
+Gujarat Informatics Ltd 
+
+Block No. 2, 2nd Floor, C & D Wing, 
+Karmayogy Bhavan, Sector - 10 A, 
+
+Gandhinagar – 382010, Gujarat. 
+www.gil.gujarat.gov.in  
+
+ 
+Last date for submission of queries: 11.03.2019 upto 1200 hrs 
+
+Date of Pre-Bid Meeting: 15.03.2019 at 1600 hrs. 
+Last date of Submission of Bids: 01.04.2019 upto 1500 hrs. 
+
+Opening of Technical Bid: 01.04.2019 at 1600 hrs.   
+
+
+
+Page 2 of 41 
+ 
+
+Abbreviation 
+ 
+
+GIDM Gujarat Institute of Disaster Management  
+DST Department of Science & Technology, GoG 
+GoG Government of Gujarat 
+SDC State Data Center 
+GIL Gujarat Informatics Limited 
+ITB Instruction to Bidder 
+EMD Earnest Money Deposit 
+GCC General Condition of Contract 
+SCC Special Condition of Contract 
+PBG Performance Bank Guarantee 
+TSP Total Solution Provider 
+OCR Optical character reorganization 
+SP Service Provider 
+ 
+
+  
+
+
+
+Page 3 of 41 
+ 
+
+TABLE 
+1.  SECTION	1:	INVITATION	FOR	BIDS	.........................................................................................................	4 
+
+2.  SECTION	2:	INSTRUCTIONS	TO	BIDDERS	..............................................................................................	7 
+
+A.  INTRODUCTION	.............................................................................................................................................	7 
+
+B.  BIDDING	DOCUMENTS	.................................................................................................................................	8 
+
+C.  PREPARATION	OF	BIDS	..............................................................................................................................	9 
+
+D.  SUBMISSION	OF	BIDS	................................................................................................................................	10 
+
+E.  OPENING	AND	EVALUATION	OF	BID	...................................................................................................	11 
+
+F.  AWARD	OF	CONTRACT	.............................................................................................................................	12 
+
+3.  SECTION	3:	GENERAL	CONDITION	CONTRACT.	...............................................................................	15 
+
+4.  SECTION	4:	SPECIAL	CONDITIONS	OF	CONTRACT	..........................................................................	23 
+
+5.  SECTION	5:		SCOPE	OF	WORK.................................................................................................................	26 
+
+6.  SECTION	6:		TECHNICAL	EVALUATION	METHODOLOGY	..............................................................	26 
+
+7.  SECTION	7:	FINANCIAL	BID	FORMS	.....................................................................................................	34 
+
+8.  SECTION	8:	BID	FORM	..............................................................................................................................	35 
+
+9.  SECTION	9:	BIDDER’S	AUTHORISATION	CERTIFICATE	................................................................	36 
+
+10.  SECTION	10:	FORMAT	OF	EARNEST	MONEY	DEPOSIT	IN	FORM	OF	BANK	GUARANTEE	..	37 
+
+11.  SECTION	11:	PERFORMANCE	BANK	GUARANTEE	...........................................................................	39 
+
+12.  ANNEXURE‐1:	SELF	DECLARATION	......................................................................................................	40 
+
+ 
+
+  
+
+
+
+Page 4 of 41 
+ 
+
+1. SECTION 1: INVITATION FOR BIDS 
+ 
+Gujarat Informatics Limited on behalf of Gujarat Institute of Disaster Management 
+(GIDM) online bids for “Selection of Service Provider for Implementation of 
+Documentation Hub for Gujarat Institute of Disaster Management (GIDM)” 
+ 
+Actual award of contract will follow the conditions as per this document. This document 
+is given for enabling the bidders to know the tender conditions so as to guide them in 
+filling up the technical bid and financial bid for the said work. 
+ 
+1. The bidders may download the tender document from website of Gujarat Informatics 
+
+Limited (www.gil.gujarat.gov.in) as well as from https://gil.nprocure.com.  
+2. This RFP document is not transferable. 
+
+ 
+3. No Consortium will be allowed. 
+
+ 
+4. Bidders shall submit bid processing fees in the form of Demand Draft in the name of 
+
+“Gujarat Informatics Ltd.” payable at Gandhinagar along with the covering letter.  
+ 
+
+5. Bidders shall submit Bid security/EMD of Rs.2,00,000/- in the form of Demand Draft 
+OR in the form of an unconditional Bank Guarantee (which should be valid for 9 
+months from the last date of bid submission) of any Nationalized Bank including the 
+public sector bank or Private Sector Banks or Commercial Banks or Co-Operative 
+Banks and Rural Banks (operating in India having branch at Ahmedabad/ 
+Gandhinagar) as per the G.R. no. EMD/10/2015/508/DMO dated 27.04.2016 issued 
+by Finance Department or further instruction issued by Finance department time to 
+time; in the name of “Gujarat Informatics Ltd.” payable at Gandhinagar (as per 
+prescribed format given at Section 10) and must be submitted along with the 
+covering letter.  
+ 
+
+6. The sealed cover should be super scribe as “Bid Processing fees & Bid 
+Security/EMD for the Request for Proposal for “Selection of Service Provider for 
+Implementation of Documentation Hub for Gujarat Institute of Disaster Management 
+(GIDM)”.  
+ 
+
+7. Important Information 
+Sl. No. Information Details 
+
+1.  Last Date, Time for submission of 
+written queries for clarification only 
+by e-mail as per predefine format.  
+
+11.03.2019 upto 1200 hrs. 
+vipulp@gujarat.gov.in & 
+nitintatu@gujarat.gov.in  
+
+2.  Place, Date and Time for the Pre 
+bid meeting  
+
+15.03.2019 at 1600 hrs.  
+Gujarat Informatics Ltd 
+Block No. 2, 2nd Floor, C & D Wing, 
+Karmayogy Bhavan, Sector - 10 A, 
+Gandhinagar – 382010, Gujarat.
+
+3.  Last date and time for submission 01.04.2019 upto 1500 hrs.
+
+
+
+Page 5 of 41 
+ 
+
+of EMD/ Bid Security & Bid 
+Processing fees in GIL physically 
+along with original Annexure -1. 
+
+4.  Last Date and Time for the 
+Submission of Proposal online 
+(Technical and Commercial) 
+(Online) 
+
+01.04.2019 upto 1500 hrs. 
+
+5.  Place, Date and Time for opening 
+of Technical Proposals 
+
+01.04.2019 at 1600 hrs. 
+Gujarat Informatics Ltd 
+Block No. 2, 2nd Floor, C & D Wing, 
+Karmayogy Bhavan, Sector - 10 A, 
+Gandhinagar – 382010, Gujarat.
+
+6.  Contact person for queries DGM( App),  
+Gujarat Informatics Ltd 
+Block No. 2, 2nd Floor, C & D Wing, 
+Karmayogy Bhavan, Sector - 10 A, 
+Gandhinagar – 382010, Gujarat.
+
+7.  Address for communication DGM( App),  
+Gujarat Informatics Ltd 
+Block No. 2, 2nd Floor, C & D Wing, 
+Karmayogy Bhavan, Sector - 10 A, 
+Gandhinagar – 382010, Gujarat.
+
+8.  Place, date and time for opening of 
+financial/commercial proposal 
+
+The place, date and time for opening 
+of financial/commercial proposal will 
+give to the technically qualified 
+bidder later on. 
+
+9.  Bid validity 180 days 
+ 
+
+8. Technical and Financial bids will be opened in the presence of bidders’ or their 
+representatives who choose to attend on the specified date and time. 
+ 
+
+9. Financial bids of only eligible bidder matching the pre-qualification criteria of the bids 
+and qualify in presentation will be opened. 
+ 
+
+10. In the event of the date specified for receipt and opening of bid being declared as a 
+holiday by Govt. of Gujarat, the due date for opening of bids will be the next working 
+day at the appointed time. 
+ 
+
+11. Gujarat Informatics Ltd/ GIDM reserve the right to accept or reject any tender offer 
+without assigning any reason. 
+ 
+
+12. Use & Release of Bidder Submissions: 
+GIL/GIDM is not liable for any cost incurred by a bidder in the preparation and 
+production of any proposal, the preparation or execution of any benchmark 
+demonstrations, simulation or laboratory service or for any work performed prior to 
+the execution of a formal contract.  All materials submitted become the property of 
+the GIL/GIDM and may be returned at its sole discretion. The content of each 
+
+
+
+Page 6 of 41 
+ 
+
+bidder’s proposal will be held in strict confidence during the evaluation process, and 
+details of any Proposals will not be discussed outside the evaluation process. 
+ 
+
+13. The document/papers prepared in this connection shall be the property of the 
+GIDM/GIL and will have to be deposited with the GIDM after the work is over. 
+ 
+
+14. Bid validity period is 180 days. 
+  
+
+
+
+Page 7 of 41 
+ 
+
+ 
+2. SECTION 2: INSTRUCTIONS TO BIDDERS 
+
+ 
+
+A. INTRODUCTION 
+2.1 Source of Funds. 
+2.1.1 GIDM is calling the SP for availing the service for Implementation of 
+
+Documentation Hub for Gujarat Institute of Disaster Management (GIDM) as 
+mention in the Scope of work.  
+
+2.1.2 The Work order for the required service will be placed on the selected service 
+provider by GIDM directly and the payment for the service mention in the said 
+work order will be made directly by the GIDM from their own source of fund as 
+per financial terms and condition of RFP. 
+
+ 
+
+2.2 Pre-Qualification Criteria 
+The firm/company meeting the following eligibility criteria will be considered for 
+further evaluation. 
+
+ 
+
+Sr 
+No. 
+
+Pre-Qualification Criteria Attachments 
+
+1  The Bidder should be in the business of 
+software & Application Development services 
+including Scanning and Data Entry related 
+work for at least three years as on 31st March 
+2018.  
+
+Copy of work orders 
+showing at least 3 years of 
+operations in software & 
+Application Development 
+services including Scanning 
+and Data Entry related 
+work.  
+ 
+Copy of certificate of 
+Incorporation. 
+
+2  Total turnover of the firm should be at least 
+Rs. 50 lacs in each of last three financial years 
+or cumulative of Rs. 1.50 crore in last three 
+years (2015-16, 2016-17, 2017-2018) in the 
+business of Document Management services 
+by digitization and related services.  
+
+CA certificate mentioning 
+turnover of business of 
+Document Management 
+services by digitization 
+related services along with 
+the copies of the audited 
+Balance sheet and profit 
+and loss accounts.  
+
+3  Bidder should have ongoing/completed at 
+least 3 such DMS projects with each of value 
+more than 15 lacs or 2 such projects with 
+value more than 25 Lacs or 1 such project with 
+value of more than 50 lacs in last five years as 
+on last date of submission of bid. 
+
+Copy of Work Orders and 
+Satisfactory Completion 
+Certificates from the client. 
+
+4  The bidder should have handled average 
+annual 50 lacs documents in the last three 
+years as on last date of submission of bid.  
+
+Necessary certificates on 
+client letterheads should be 
+submitted as testimonials. 
+
+
+
+Page 8 of 41 
+ 
+
+5  The Bidder should have ISO 9001:2008 or 
+latest certification for scanning / Digitization / 
+Document Management related services. 
+
+Submit a copy of the 
+requisite certificate. 
+
+6  The Bidder should not be under a declaration 
+of ineligibility for corrupt and fraudulent 
+practices issued by Government of Gujarat or 
+any of the PSU in the state of Gujarat. 
+Certificate / affidavit mentioning that the 
+Bidder is not currently blacklisted by 
+Government of Gujarat or any of the PSU in 
+the state of Gujarat is due to engagement in 
+any corrupt & fraudulent practices. 
+
+Self-Declaration as 
+Annexure-1 
+
+All Supporting Documents are to be uploaded in our e-Tendering website 
+https://gil.nprocure.com 
+
+ 
+2.3 Cost of Bidding 
+2.3.1 The Bidder shall bear all the costs associated with the preparation and 
+
+submission of its bid, and GIL will in no case be responsible or liable for these 
+costs, regardless of conduct or outcome of bidding process. 
+
+ 
+B. BIDDING DOCUMENTS 
+2.4 Contents of Bidding Documents 
+2.4.1 The bid must be submitted online on https://gil.nprocure.com 
+2.4.2 The Bidder is expected to examine all instructions, forms, terms and 
+
+specifications in the bidding documents. Failure to furnish all information required 
+by the bidding documents in format or submission of a bid not substantially 
+responsive to the biding documents in every respect will be at the Bidder’s risk 
+and may result in rejection of its bid. 
+
+ 
+2.5 Clarification of Bidding Documents 
+2.5.1 A prospective bidder requiring any clarification of the bidding documents may 
+
+seek clarification of his/her query on the date indicated on RFP clause of this 
+document. GIL/ GIDM will respond to any request for the clarification of any 
+bidding documents, which it receives during the meeting on the date mentioned 
+on the RFP clause of this document GIL shall hold a pre-bid meeting with the 
+prospective bidders on date & time given in Section 1.  
+
+2.5.2 The Bidders will have to ensure that their queries for pre-bid meeting should 
+reach to Name, Address, Fax and email id of the officer mentioned by post, 
+facsimile or email on or before on date & time given in Section 1. 
+
+Bidder’s Request For Clarification 
+Name of Organization 
+submitting request 
+
+Name & position of 
+person submitting 
+request: 
+
+Address of 
+organization 
+including phone, fax, 
+email points of 
+contact 
+
+
+
+Page 9 of 41 
+ 
+
+S.No. Bidding 
+Document 
+Reference 
+(Clause /page) 
+
+Content of RFP 
+requiring clarification 
+
+Points of Clarification 
+required 
+
+1    
+2    
+
+Gujarat Informatics Limited shall not be responsible for ensuring that the 
+bidder’s queries have been received by them. Any requests for clarifications 
+post the indicated date and time may not be entertained by the GIL/GIDM. 
+
+ 
+2.6 Amendment of Bidding Documents 
+2.6.1 At any time prior to the deadline for submission of bids, GIL/GIDM may, for any 
+
+reason, whether on its own initiative or in response to the clarification may 
+change their biding document by amendment; the amendment will be uploaded 
+online through www.gil.gujarat.gov.in &https://gil.nprocure.com. 
+
+2.6.2 In orderto allow prospective bidders reasonabletime to consider the amendments 
+while preparing their bids, GIL/ GIDM at its discretion, may extend the deadline 
+for submission of bids. 
+
+2.6.3 At any time prior to the last date for receipt of bids, GIL may for any reason, 
+whether at its own initiative or in response to a clarification requested by a 
+prospective bidder, modify the RFP document by a corrigendum. 
+
+2.6.4 Any such corrigendum shall be deemed to be incorporated into this RFP. 
+ 
+C. PREPARATION OF BIDS 
+   
+2.7 Language of Bid 
+2.7.1 The proposal prepared by the bidder, as well as all correspondence and 
+
+documents relating to the bid exchanged by the bidder and GIL shall be in 
+English language. Supporting documents and printed literature furnished by the 
+bidder may be in another language provided they are accompanied by an 
+appropriate translation of the relevant document in the English language and in 
+such a case, for purpose of interpretation of the Bid, the translation shall govern. 
+
+ 
+2.8 Documents Comprising the Bid 
+2.8.1 The bid prepared by the Bidder shall comprise of the following documents: 
+
+a. Cover of EMD and Bid Processing Fee (Physically at GIL) 
+b. Technical Bid and a Financial Bid completed in accordance with ITB 
+
+Clauses2.9, 2.10 and 2.11 (Online) 
+2.8.2 The bid documents and addendums (if any) together shall be considered as final 
+
+and self-contained bid document not withstanding any previous correspondence 
+or document issued by GIL/GIDM. 
+
+ 
+2.9 Bid Form 
+2.9.1 The Bidder shall complete the Technical Bid and a Financial Bid furnished with 
+
+this document giving details as per the format mentioned in the e-Tendering 
+website https://gil.nprocure.com.  
+
+
+
+Page 10 of 41 
+ 
+
+ 
+2.10 Bid Prices 
+2.10.1 The bidder shall indicate the prices in the format mentioned in the financial bid. 
+2.10.2 The following points need to be considered while indicating prices: 
+
+a) The prices quoted should also include, inland transportation, insurance 
+and other local costs incidental to delivery of the goods and services to 
+their final destination within the state of Gujarat 
+
+b) The rates of any Indian duties, GST and other taxes which will be payable 
+by the Client on the goods (if any) if this contract is awarded, should be 
+quoted separately. The taxes will be extra and payable on invoice amount 
+as on actual basis.   
+
+c) Invoicing shall be from Gujarat only. 
+2.10.3 The Bidder’s separation of the price components in accordance with the ITB 
+
+Clause 2.10.2 above will be solely for the purpose of facilitating the comparison 
+of bids by GIL and will not in any way limit the Client’s right to contract on any of 
+the terms offered. 
+
+ 
+2.11 Bid Currency 
+2.11.1 Prices shall be quoted in Indian Rupees only. 
+ 
+2.12 Period of Validity Bids 
+2.12.1 Bids shall be valid for 180 days after the date of bid opening. The GIL/GIDM shall 
+
+reject a bid valid for a shorter period as non-responsive. 
+2.12.2 In exceptional circumstances, the tendering authority may solicit the bidder’s 
+
+consent to an extension of the period of validity. The request and the responses 
+thereto shall be made in writing.   
+
+2.12.3 Bid evaluation will be based on the bid prices without taking into consideration 
+the above changes. 
+
+ 
+2.13 Format and Signing of Bid 
+2.13.1 Bidders have to submit the bids on the e-Tendering website 
+
+https://gil.nprocure.com. All supporting documents in the form of scanned copies 
+submitted online should have sign and seal of the bidder.  
+
+2.13.2 Before filling in any of the details asked, bidders should go through the entire bid 
+document and get the required clarifications from GIL/ GIDM during the pre-bid 
+conference. 
+
+ 
+D. SUBMISSION OF BIDS 
+ 
+2.14 Sealing and Marking of Bids 
+2.14.1 All bids must be submitted online through https://gil.nprocure.com as per the 
+
+formats mentioned therein using digital signatures. 
+2.14.2 Telex, cable, e-mailed or facsimile bids will be rejected. 
+ 
+
+
+
+Page 11 of 41 
+ 
+
+2.15 Deadline for Submission of Bids 
+2.15.1 Bids must be submitted online not later than the time and date specified in the 
+
+Invitation for Bids (Section I).  In the event of the specified date for the 
+submission of Bids being declared as a holiday for GIL, the bids will be received 
+up to the appointed time on the next working day.                        
+
+2.15.2 GIL may, at its discretion, extend this deadline for submission of bids by 
+amending the bid documents in accordance with ITB Clause 2.6, in which case 
+all rights and obligations of GIL and Bidders previously subject to the deadline 
+will thereafter be subject to the deadline as extended. 
+
+2.16 Late Bids 
+2.16.1 Any bid received by GIL after deadline for submission of bids prescribed by GIL 
+
+pursuant to ITB Clause 2.15, will be rejected and /or return unopened to bidder. 
+ 
+2.17 Modification and Withdrawal of Bids 
+2.17.1 The bidder may modify or withdraw his bid before the last date of submission of 
+
+bids through the e-Tendering website https://gil.nprocure.com 
+2.17.2 No bid may be modified subsequent to the deadline for submission of the bids. 
+2.17.3 No bid may be withdrawn in the interval between the deadline for submission of 
+
+bids and the expiry period of the bid validity specified by the bidder on the bid 
+form. Withdrawal of a bid during this interval shall result in the bidder’s forfeiture 
+of its bid security, pursuant to ITB clause 2.12. 
+
+ 
+E. OPENING AND EVALUATION OF BID 
+2.18 Opening of Bids by GIL 
+2.18.1 GIL will open all bids (only pre-qualification at the first instance), in the presence 
+
+of Bidder or his representative who choose to attend, and at the following 
+address: 
+
+Gujarat Informatics Ltd 
+Block No. 2, 2nd Floor, C & D Wing, 
+Karmayogy Bhavan, Sector - 10 A, 
+Gandhinagar – 382010, Gujarat. 
+
+2.18.2 The Bidder’s representative who is present shall sign an attendance register 
+evidencing their attendance.  In the event of the specified date of Bid opening 
+being declared holiday for the tendering Authority, the Bid shall be opened at the 
+appointed time and location on the next working day. 
+
+2.18.3 The Bidder’s names, bid modifications or withdrawals, bid prices and the 
+presence or the absence of requisite bid security and such other details, as 
+GIDM, at his discretion, may consider appropriate, will be announced at the time 
+of opening. No Bid shall be rejected at the opening, except for late bids, which 
+shall be returned unopened to the bidders pursuant to ITB Clause 2.18. 
+
+2.18.4 Bids that are not opened and read out at bid opening shall not be considered for 
+further evaluation, irrespective of the circumstances. Withdrawn bids will be 
+returned unopened to the Bidders.  
+
+2.18.5 Financial bids of only those bidders who qualify on the basis of pre-qualification, 
+technical bid (presentation/demonstration) will be opened in the presence of the 
+qualified bidders or their representatives at pre-specified time and date which will 
+be communicated to the qualified bidders well in advance. 
+
+
+
+Page 12 of 41 
+ 
+
+ 
+2.19 Clarification of Bids 
+2.19.1 During evaluation of bids GIDM/GIL may, at its discretion, ask the bidder for a 
+
+clarification of its bid. GIDM/GIL may also ask for rate analysis of any or all items 
+and if rates are found to be unreasonably low or high, the bid shall be treated as 
+non-responsive and hence liable to be rejected. The request for a clarification 
+and the response shall be in writing and no change in prices or substance of the 
+bid shall be sought, offered or permitted.   
+
+ 
+2.20 Preliminary Examination 
+2.20.1 GIL will examine the bids to determine whether they are complete, whether any 
+
+computational errors have been made, whether sureties have been furnished, 
+whether the documents have been properly signed, and whether the bids are 
+generally in order.  
+
+2.20.2 If a bid is not substantially responsive, it will be rejected by GIL and may not 
+subsequently be made responsive by the bidder by correction of the non-
+conformity.  
+
+2.20.3 Conditional bids are liable to be rejected. 
+ 
+
+2.21 Contacting GIL/GIDM 
+2.21.1 Subject to ITB Clause2.19, no Bidder shall contact GIL/GIDM on any matter 
+
+relating to its bid, from the time of the bid opening to the time of contract is 
+awarded.  If he wishes to bring additional information to the notice of GIL/GIDM, 
+he should do so in writing. GIL/GIDM reserves its right as to whether such 
+additional information should be considered or otherwise 
+
+2.21.2 Any effort by a bidder to influence GIL in its decision on bid evaluation, bid 
+comparison or contract award may result in disqualification of the bidder’s bid 
+and also forfeiture of his bid security amount.  
+
+ 
+F. AWARD OF CONTRACT 
+ 
+2.22 Post-qualification 
+2.22.1 An affirmative determination will be a prerequisite for the award of the contract to 
+
+the Bidder. A negative determination will result in rejection of Bidder’s bid, in 
+which event the department will proceed to the next lowest evaluated bid to make 
+a similar determination of the Bidder’s capabilities to perform the contract 
+satisfactorily.  
+
+ 
+2.23 Award Criteria 
+2.23.1 Subject to ITB Clause2.25, GIDM will award the contract to the successful bidder 
+
+decided as per the evaluation procedure mentioned in ITB clause no.2.18 
+mentioned above.  
+
+2.23.2 GIDM reserves the right to award the contract to the bidder whose bid may not 
+have been determined as the lowest evaluated bid, provided further that the 
+bidder is determined to be qualified to perform the contract satisfactorily. 
+
+
+
+Page 13 of 41 
+ 
+
+2.23.3 GIDM reserves the right to award the contract in part to more than one bidder, 
+provided further that the bidder(s) are determined to be qualified to perform the 
+contract satisfactorily.  
+
+ 
+2.24 GIDM/GIL’s Right to Accept Any Bid and to reject any or All Bids 
+2.24.1 GIDM/GIL reserve the right to accept or reject any bid, and to cancel the bidding 
+
+process and reject all bids at any time prior to award of Contract, without thereby 
+incurring any liability to the affected Bidder or bidders or any obligation to inform 
+the affected Bidder or bidders of the grounds for GIL’ action.  
+
+ 
+2.25 Notification of Awards 
+2.25.1 Priort o the expiration of the period of the bid validity, concerned GIDM will notify 
+
+the successful bidders in writing, to be confirmed in writing by registered letter, 
+that his bid has been accepted. 
+
+2.25.2 The notification of award will constitute the formation of the Contract. 
+ 
+
+2.26 Signing of Contract 
+2.26.1 At the same time as GIDM notifies the successful Bidder that its bid has been 
+
+accepted, GIDM will send the bidder the Contract Form, incorporating all the 
+agreements between two parties.  
+
+2.26.2 Within 15 days of receipt of the Contract Form, the successful bidder shall sign 
+and date the contract and return it to GIDM.  
+
+ 
+2.27 Corrupt or Fraudulent Practices 
+2.27.1 GIDM requires that the bidders under this tender observe the highest standards 
+
+of ethics during the procurement and execution of such contracts.  In pursuance 
+of this policy, GIDM defines for the purposes of this provision, the terms set forth 
+as follows: 
+
+d) “Corrupt practice” means the offering, giving, receiving or soliciting of  any 
+thing of value to influence the action of the public official in the 
+procurement process or in contract execution: and 
+
+e) “Fraudulent practice” means a misrepresentation of facts in order to 
+influence a procurement process or a execution of a contract to 
+determent of the GIDM/GIL and includes collusive practice among the 
+bidders (Prior to or after the bid submission) designed to establish bid 
+prices at artificial non-competitive level and to deprive the GIDM/GIL of 
+the benefit of the free and open competition. 
+
+ 
+2.27.2 GIDM shall reject a proposal for award if it determines that the Bidder 
+
+recommended for award has engaged in corrupt or fraudulent practices and 
+same shall be conveyed to Dept of Science & Technology/GIL or black listed by 
+any of the Department of Government of Gujarat in competing for the contractin 
+question. 
+
+2.27.3 GIDM shall declare a firm ineligible, and black listed either indefinitely or for a 
+stated period of time, to be awarded a contract if it at any time determines that 
+the firm has engaged in corrupt and fraudulent practices in competing for, or in 
+
+
+
+Page 14 of 41 
+ 
+
+executing, a contract. The same shall be conveyed to Dept of Science & 
+Technology/GIL. 
+
+2.27.4 If any of the qualifying documents submitted by the bidder are found to be 
+fraudulent or bogus at any time after the award of contract, the contract shall 
+liable to be terminated with immediate effect.  
+
+2.27.5 If it is found that bidder have violated/ infringement of any Indian or foreign 
+trademark, patent register, design, or other intellectual property rights, 
+department shall terminate the contract of bidder and / or declare a firm ineligible 
+and black listed either indefinitely or for stated period. 
+
+ 
+2.28 Interpretation of the clauses in the Tender Document / Contract Document 
+2.28.1 In case of any ambiguity in the interpretation of any of the clauses in Bid 
+
+Document or the Contract Document, GIL’s interpretation of the clauses shall be 
+final and binding on all parties. 
+
+2.28.2 However, in case of doubt as to the interpretation of the bid, the bidder may 
+make a written request prior to the pre-bid conference to; 
+
+Gujarat Informatics Ltd 
+Block No. 2, 2nd Floor, C & D Wing, 
+Karmayogy Bhavan, Sector - 10 A, 
+Gandhinagar – 382010, Gujarat. 
+
+GIDM/GIL may issue clarifications to all the bidders as an addendum. Such an 
+addendum shall form a part of the bid document /Contract document. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+
+
+Page 15 of 41 
+ 
+
+3. SECTION 3: GENERAL CONDITION CONTRACT. 
+ 
+3.1 Definitions 
+3.1.1 In this Contract, the following terms shall be interpreted as indicated: 
+
+a) “The Contract” means the agreement entered into between GIDM and the 
+service provider, as recorded in the Contract Form Signed by the parties, 
+including all the attachments and appendices thereto and all documents 
+incorporated by reference therein; 
+
+b) “The Contract Price” means the price payable to the service provider under 
+the Contract for the full and proper performance of its contractual obligations; 
+
+c) “Services” means “all the services mentioned in scope of work of this 
+document”  
+
+d) “GCC means the General Conditions of Contract contained in this section. 
+e) “GIDM” means client availing the service from the SP. 
+f) “The Client’s Country” is the country named in GCC. 
+g) “The SP means service provider” means the individual or firm supplying the 
+
+and / or Services under this Contract. 
+h)  “Day” means a working day. 
+i) “Critical deliverables” means the deliverables supplies by SP 
+j) “Time required for approval” means the time lapsed between the date of 
+
+submission of a critical deliverables (complete in all respect for all the 
+business functions /services) and the date of approval excluding the 
+intermediate time taken by the Service Provider for providing 
+clarifications/modifications and communication. 
+
+k) The “Bid Document” and “Tender Document” are the same. 
+l) “The Project Site”, wherever applicable, means the place or places where 
+
+the work is to be executed. 
+m) “Completion of work” means it should be certified by the authority considering 
+
+the scanning and data entry work including design & development of software 
+solution as proposed in the RFP/work order.   
+
+n) “Office Completeness” means the site should be complete in all respects i.e.  
+ Hardware is supplied, installed and commissioned 
+ Requisite Software is installed 
+ Requisite Application Software is installed. 
+ Connectivity setup is established. 
+ Requisite Manpower is deployed 
+ The entire setup as defined in the scope of work has become functional & 
+
+the transactions can be done on computers. 
+o) “Maintenance” means  
+
+ Taking care of the machine 
+ Changing the Spares when they become faulty 
+ Locate, remove, and repair technical faults. 
+ Identify Software related problems such as run time error, viruses etc. & 
+
+reload the machines with Software 
+ Housekeeping of all Hardware 
+ Ensuring continuous power supply to all machines during working hours. 
+
+
+
+Page 16 of 41 
+ 
+
+ Any other task to be performed to keep the system functional. 
+p)  Performance Standards  
+This factor incorporates the maintenance standards as defined below: 
+
+Service Level Standards: -  
+The agency has to meet the service level norms failing which the contract is liable 
+
+to get cancelled. 
+a) Install high quality hardware and peripherals at all sites to ensure minimum 
+
+downtime. 
+b) Provide skilled and efficient manpower to attain maximum production. 
+c) Provide quality consumables like branded CDs, Paper, Toners, Tapes, etc.  
+d)  Absolutely avoid usage of low quality consumables, refilled toners, etc. 
+
+ 
+3.2 Application 
+3.2.1 These General Conditions shall apply to the extent that provisions in other parts 
+
+of the Contract do not supersede them. 
+ 
+3.3 Country of Origin 
+3.3.1 All Services rendered under the Contract shall have their origin in the member 
+
+countries and territories eligible i.e. India 
+3.3.2 The origin of Services is distinct from the nationality of the service provider. 
+
+ 
+3.4 Standards 
+3.4.1 The software supplied under this Contract shall conform to the standards and 
+
+when no applicable standard is mentioned; to the authoritative standard 
+appropriate to the country of origin and such standards shall be the latest issued 
+by the concerned institution.  
+
+ 
+3.5 Use of Contract Documents and Information 
+3.5.1 The service provider shall not, without GIDM’s prior written consent, disclose the 
+
+Contract, or any provision thereof, or any specification, plan, drawing, pattern, 
+sample or information furnished by or on behalf of the in connection therewith, to 
+any person other than a person employed by the service provider in performance 
+of the Contract.  Disclosure to any such employed person shall be made in 
+confidence and shall extend only so far as may be necessary for purposes of 
+such performance. 
+
+3.5.2 The service provider shall not, without GIDM’s prior written consent, make use of 
+any document or information enumerated in GCC Clause 5.1 except for purposes 
+of performing the Contract. 
+
+3.5.3 Any document, other than the Contract itself, enumerated in GCC Clause 5.1 
+shall remain the property of GIDM and shall be returned (in all copies) to GIDM 
+on completion of the service provider’s performance under the Contract if so 
+required by GIDM. 
+
+3.5.4 The Service Provider shall permit GIDM/GIL to inspect the service providers 
+accounts and records relating to performance of the service provider with regards 
+to this contract and to have them audited by auditors appointed by GIDM/GIL, if 
+so required by GIDM/GIL. 
+
+
+
+Page 17 of 41 
+ 
+
+3.5.5 The bid and all materials submitted to the GIDM/GIL must be considered 
+confidential and must be submitted in sealed envelope clearly marked as 
+“Confidential”. 
+
+ 
+3.6 Patent Rights, Copy Right 
+3.6.1 The Service Provider shall indemnify GIDM/GIL against all third-party claims of 
+
+infringement of copyright, patent, trademark or industrial design rights arising 
+from use of the Goods or any part thereof in India. 
+
+ 
+3.7 Earnest Money Deposited (EMD)/Bid Security 
+3.7.1 The bidder shall furnish, as part of its bid, an Earnest Money Deposit in the form 
+
+of Demand Draft OR in the form of an unconditional Bank Guarantee (which 
+should be valid for 9 months from the last date of bid submission) of any 
+Nationalized Bank including the public sector bank or Private Sector Banks or 
+Commercial Banks or Co-Operative Banks and Rural Banks (operating in India 
+having branch at Ahmedabad/ Gandhinagar) as per the G.R. no. 
+EMD/10/2015/508/DMO dated 27.04.2016 issued by Finance Department or 
+further instruction issued by Finance department time to time; in the name of 
+“Gujarat Informatics Ltd.” payable at Gandhinagar (as per prescribed format 
+given at Section 10) and must be submitted along with the covering letter.  
+
+3.7.2 Proposals not accompanied by EMD shall be rejected as non-responsive. 
+3.7.3 The successful bidder’s bid security will be discharged from GIL only after the 
+
+signing of the contract and submission of performance security. 
+3.7.4 Unsuccessful bidder’s EMD will be discharged / refunded as promptly as 
+
+possible, but not later than 30 days of the validity period of the bid.  
+3.7.5 The EARNEST MONEY DEPOSIT shall be forfeited: 
+
+3.7.5.1 If a bidder withdraws its bid during the period of bid validity 
+specified by the bidder on the bid form; 
+
+3.7.5.2 Or in case of a successful Bidder, if the Bidder fails to sign the 
+Contract; or to furnish the performance security. 
+
+3.7.5.3 No exemption for submitting the EMD will be given to any agency. 
+ 
+3.8 Performance Security/Performance Bank Guarantee (PBG) 
+3.8.1 The successful Bidder has to furnish a security deposit so as to guarantee 
+
+his/her (Bidder) performance of the contract.  
+3.8.2 The Successful bidder has to submit Performance Bank Guarantee @ 10% of 
+
+total order value within 15 days from the receipt of notification of award  for the 
+duration of warranty of all Nationalized Bank including the public sector bank or 
+Private Sector Banks authorized by RBI or Commercial Bank or Regional Rural 
+Banks of Gujarat or Co-Operative Bank of Gujarat (operating in India having 
+branch at Ahmedabad/Gandhinagar) as per the G.R. no. EMD/10/2015/508/DMO 
+dated 27.04.2016 issued by Finance Department or further instruction issued by 
+Finance department time to time.  (The draft of Performance Bank Guarantee is 
+as per Section 11).  
+
+3.8.3 The Performance Security shall be in the form of Bank Guarantee valid for 9 
+months from the date of issue of work order. 
+
+
+
+Page 18 of 41 
+ 
+
+3.8.4 The proceeds of the performance security shall be payable to the GIDM as 
+compensation for any loss resulting from the Service provider’s failure to 
+complete its obligations under the Contract. 
+
+3.8.5 The Performance Security will be discharged by GIDM and returned to the Bidder 
+on completion of the bidder’s performance obligations under the contract. 
+
+3.8.6 In the event of any contract amendment, the bidder shall, within 21 days of 
+receipt of such amendment, furnish the amendment to the Performance Security, 
+rendering the same valid for the duration of the Contract, as amended for further 
+period. 
+
+3.8.7 No interest shall be payable on the Performance Bank Guarantee amount. GIDM 
+may invoke the above bank guarantee for any kind of recoveries, in case; the 
+recoveries from the bidder exceed the amount payable to the bidder. 
+
+ 
+3.9 Inspections and Tests 
+3.9.1 100% verification shall be done by service provider and issue verification 
+
+certificate monthly batch wise. 
+3.9.2 10% verification will be done by the staff of concerned GIDM officials and in case 
+
+any error found, the penalty shall be imposed as per the penalty clause. 
+3.9.3 The payment will be made after completion of the work.  
+ 
+3.10 Delivery and Documents 
+3.10.1 Delivery of the Goods shall be made by the Service Provider in accordance with 
+
+the terms specified by GIDM in the Notification of Award.  
+ 
+
+3.11 Incidental Services 
+The Service Provider is required to provide the following services, including 
+additional services, if any. 
+
+3.11.1 performance or supervision of the on-site assembly and/or start-up of the 
+supplied Goods; 
+
+3.11.2 furnishing of tools required for assembly and/or maintenance of the supplied 
+Goods; 
+
+3.11.3 furnishing of detailed operations and maintenance manual for each appropriate 
+unit of supplied Goods; 
+
+3.11.4 Performance or supervision or maintenance and/or repair of the supplied Goods, 
+for the period of time mentioned in the tender notification. 
+
+ 
+3.12 Payment 
+3.12.1 The payment will be released after completion of the work.  
+3.12.2 The service provider request(s) for payment to GIDM along with the 2 original 
+
+copies of invoice and necessary documents. The invoice should be in English 
+language and Gujarat based.  
+
+3.12.3 Any penalties imposed on the agency for non-performance will be deducted from 
+the payments. 
+
+3.12.4 All work contract tax, service tax and income tax will be deducted at source as 
+per the prevalent rules & regulations at the time of making payments to the 
+Bidder during the billing cycles.  
+
+
+
+Page 19 of 41 
+ 
+
+3.12.5 Payment will be made within a month’s time from the date of receipt of bill, 
+provided there is no dispute. 
+
+3.12.6 In case of delay, the agency will be penalized as per penalty clause.  
+ 
+3.13 Prices 
+3.13.1 Prices payable to the service provider as state in the contract shall be fixed 
+
+during the performance of the contract. 
+ 
+3.14 Contract Amendments 
+3.14.1 Subject to GCC clause no, 3.13 No variation in or modification of the terms of the 
+
+Contract shall be made except by written amendment signed by the parties. 
+ 
+3.15 Assignment 
+3.15.1 The service provider shall not assign, in whole or in part, its obligations to 
+
+perform under the Contract, except with GIDM prior written consent. 
+ 
+
+3.16 Delays in the Service Provider’s Performance 
+1) Delivery of the Goods and performance of the Services shall be made by the 
+
+Service Provider in accordance with the time schedule specified by GIL/GIDM. 
+2) If at any time during performance of the Contract, the Service Provider or his 
+
+sub-contractor(s) should encounter conditions impeding timely delivery of the 
+Goods and performance of Services, the Service Provider shall promptly notify 
+GIL/GIDM in writing of the fact of the delay, its likely duration and its cause(s). As 
+soon as practicable after receipt of the Service Provider’s notice, GIL/GIDM shall 
+evaluate the situation and may, at its discretion, extend the Service Provider’s 
+time for performance with or without a penalty, in which case the extension shall 
+be ratified by the parties by amendment of the Contract. 
+
+3) The bidders shall read & understand the requirements thoroughly & shall adhere 
+to the schedule strictly. The supply, installation & commissioning of Hardware & 
+software at all locations shall be completed within 15 days from the date of 
+signing the Contract Agreement. 
+
+ 
+3.17 Termination for Default or otherwise 
+3.17.1 GIDM may, without prejudice to any other remedy for breach of contract, by 
+
+written notice of default sent to the service provider, terminate the Contract in 
+whole or part: 
+a) if the service provider fails to deliver any or all of the services within the 
+
+period(s) specified in the Contract, or within any extension thereof granted by 
+GIDM; or 
+
+b) If the service provider fails to perform any other obligation(s) under the 
+Contract. 
+
+c) If the service provider, in the judgment of GIDM has engaged in corrupt or 
+fraudulent practices in competing for or in executing the Contract. 
+For the purpose of this Clause: 
+
+ 
+
+
+
+Page 20 of 41 
+ 
+
+“Corrupt practice” means the offering, giving, receiving or soliciting of anything 
+of value to influence the action of a public official in the procurement process 
+or in contract execution. 
+“Fraudulent practice: a misrepresentation of facts in order to influence a 
+procuremen tprocess or the execution of a contract to the detriment of the 
+Borrower, and includes collusive practice among Bidders (prior to or after bid 
+submission) designed to establish bid prices at artificial non-competitive 
+levels and to deprive the Borrower of the benefits of free and open 
+competition;”   
+
+d) If the Service Provider fails to conform to the quality requirement laid 
+down/third party inspection/consultants opinion. 
+
+3.17.2 If Bidder has violated / infringement of any Indian or foreign trademark, patent, 
+registered design or other intellectual property rights. Certificate/affidavit 
+regarding non-violation / infringement of any Indian or foreign trademark, patent, 
+registered design or other intellectual property rights. 
+
+ 
+3.18 Force Majeure 
+3.18.1 Notwithstanding anything contained in the tender, the SP shall not be liable for 
+
+liquidated damages or termination for default, if and to the extent that, it’s delay 
+in performance or other failures to perform its obligations under the agreement is 
+the result of an event of Force Majeure. 
+
+3.18.2 For purposes of this clause, “Force Majeure” means an event beyond the control 
+of the service provider and not involving the service provider’s fault or negligence 
+and not foreseeable.  Such events may include, but are not limited to, acts of the 
+Purchase either in its sovereign or contractual capacity, wars or revolutions, fires, 
+floods, epidemics, quarantine restrictions and freight embargoes. 
+
+3.18.3 If a force Majeure situation arises, the service provider shall promptly notify 
+GIDM in writing within 10 days of such conditions and the cause thereof.  Unless 
+otherwise directed by GIDM in writing, the service provider shall continue to 
+perform its obligations under the Contract as far as it is reasonably practical, and 
+shall seek all reasonable alternative means for performance not prevented by the 
+Force Majeure. 
+
+ 
+3.19 Termination for Insolvency 
+3.19.1 GIDM may at any time terminate the Contract by giving written notice to the 
+
+Supplier / service provider, if the Supplier / service provider becomes bankrupt or 
+otherwise insolvent.  In this event, termination will be without compensation to 
+the Supplier / service provider, provided that such termination will not prejudice 
+or affect any right of action or remedy which has accrued or will accrue thereafter 
+to GIDM. 
+
+ 
+3.20 Termination for Convenience 
+3.20.1 GIDM by written notice sent to the service provider, may terminate the Contract, 
+
+in whole or in part, at any time for its convenience.  The notice of termination 
+shall specify that termination is for GIDM’s convenience, the extent to which 
+
+
+
+Page 21 of 41 
+ 
+
+performance of the service provider under the Contract is terminated, and the 
+date upon which such termination becomes effective. 
+
+3.20.2 The services / software that is complete and ready for rendering / deployment 
+within 30 days after the service provider’s receipt of notice of termination shall be 
+accepted by GIDM at the Contract terms and prices.  For the remaining services, 
+GIDM may elect: 
+
+a) To have any portion completed and delivered at the Contract terms and 
+prices; and/or 
+
+b) To cancel the remainder and pay to the service provider an agreed 
+amount for partially completed services / software and for services / 
+software previously procured by the service provider. 
+
+ 
+3.21 Resolution of Disputes 
+3.21.1 In this regard GIDM doesn’t go for any arbitration on dispute and GIDM’s 
+
+decision will be final and binding on the service provider. 
+ 
+
+3.22 Governing Language 
+3.22.1 The contract shall be written in English language. All correspondence and other 
+
+documents pertaining to the Contract, which are exchanged by the parties, shall 
+be written in the same language. 
+
+ 
+3.23 Applicable Law 
+3.23.1 The Contract shall be interpreted in accordance with the laws of the Union of 
+
+India and that of State of Gujarat. 
+ 
+
+3.24 Taxes and Duties 
+3.24.1 Service providers shall be entirely responsible for all taxes, duties, license fees, 
+
+octroi, road permits, etc., incurred until delivery of the contracted software/ 
+services to GIDM. However, GST in respect of the transaction between GIDM 
+and the service provider shall be payable extra as on actual at the time of 
+invoicing. 
+
+ 
+3.25 Binding Clause 
+All decisions taken by GIL regarding the processing of this tender and award of contract 
+shall be final and binding on all parties concerned.  
+ 
+3.26 Manpower Support: 
+3.26.1 The service provider will be bound to supply Support Manpower with good 
+
+antecedents as specified in the Manpower deployment Plan. 
+3.26.2 All salaries and statutory benefits will have to be borne by the service provider & 
+
+no payments will be made by these offices. 
+3.26.3 In case of absence of any of his employee, the service provider should provide 
+
+alternative person the next day. 
+3.26.4 The service provider should ensure that the behavior of manpower is decent. The 
+
+service provider will be held responsible for indecent behavior of manpower, & 
+such employees should be immediately replaced when such matter is reported. 
+
+
+
+Page 22 of 41 
+ 
+
+3.26.5 All statutory obligations of the service provider towards his employees shall be 
+fulfilled by him and GIDM shall not be responsible for any such obligations. 
+
+ 
+
+3.27 GIL/ GIDM, Gandhinagar, reserves the right:- 
+3.27.1 To vary, modify, revise, amend or change any of the terms and conditions 
+
+mentioned above; or  
+3.27.2 To reject any or all the tender/s without assigning any reason whatsoever thereof 
+
+or may terminate the tender process midway without assigning any reason.   
+3.27.3 The decision regarding acceptance of tender by GIL/GIDM will be full and final. 
+3.27.4 Conditional tenders shall be summarily rejected. 
+3.27.5 GIDM is free to phase out the work if it feels it necessary. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+
+
+
+Page 23 of 41 
+ 
+
+4. SECTION 4: SPECIAL CONDITIONS OF CONTRACT 
+ 
+4.1 Time Limit for GIDM Project 
+
+ 
+
+Sr. NO. Activity/Milestone 
+Completion 
+Timelines 
+
+1 
+Signing Contract & completion of other formalities 
+(within 15 days from the issuance
+of Work order) 
+
+T 
+
+2 Project Initiation T1 = T + 1 week 
+
+3 
+Scanning and digitization of document including Meta 
+Data Entry including verifications of work done 
+
+T2 = T + 1 Month 
+
+4 
+Submission of SRS, URS and SDD  as per the scope 
+of work defined in this RFP for Documentation Hub 
+application and Mobile app 
+
+T2=T + 2 Month 
+
+5 UAT T4=T + 2.5 Months 
+6 Security Audit Completion T5=T + 3 Months 
+
+7 
+
+Go-Live 
+(Design, Develop, Test , Implement and Train for 
+Document management Solution(web and Android & 
+iOS Mobile app) uploading all the documents in the 
+system) 
+
+T6=T + 3.5 Months 
+
+8 
+Annual Application support and Maintenance for 3 
+years (Web & Mobile App) 
+
+3 Years from the 
+date of Go-live 
+
+ 
+4.2 Payment: 
+4.2.1 Payment for the service shall be made in Indian Rupees as follows: 
+
+Sr. No Activity Payment 
+
+1.  
+
+Design, Develop, Test, Implement and Train for 
+Document management Solution(web and Android & 
+iOS Mobile app) uploading all the documents in the 
+system 
+
+Payment will be 
+released only after 
+completion of work 
+
+2.  
+Scanning and digitization of document including Meta 
+Data Entry including verifications of work done 
+
+Payment will be 
+released only after 
+completion of work 
+
+3.  
+Annual Application support and Maintenance for 3 
+years (Web & Mobile App) 
+
+Payment will be 
+released on 
+quarterly basis. 
+
+ 
+4.3 Penalty Clause 
+4.3.1 If the Service Provider is not executing the contract to the satisfaction of 
+
+GIDM/GIL then may invoke any or all of the following clauses. 
+4.3.1.1 Forfeit the performance Guarantee Amount. Or 
+4.3.1.2 Impose a proportionate penalty of the delivered price of the 
+
+unperformed services. Or 
+4.3.1.3 Terminate the contract. 
+
+
+
+Page 24 of 41 
+ 
+
+ 
+4.3.2 Quality: 
+
+100% accuracy shall be maintained in Scanning and linking of the 
+documents. For accuracy less than 100%, the penalty will be deducted as 
+mentioned below. 
+Level of Accuracy (in percentage)    Penalty 
+>= 98.00 &&< 99.00       - 02% of the order value 
+>= 95.00 &&< 98.00       - 05% of the order value 
+>= 90.00 &&< 95.00       - 10% of the order value 
+<90         - No Payment 
+
+4.3.3 Delays in deliverables: If the service provider does not complete the work in the 
+given time limit than the penalty@ 2% of total order value per week will be levied 
+up to the maximum of 5 weeks.   
+
+4.3.4 The  Service  Provider  shall  be responsible  for scanning  and indexing of  
+all  the  documents  and  carry  out Quality  Checks  in  order  to  ensure  that  
+the  scanning  quality  is  good  and  the pages are perfectly scanned and 
+flagged. 
+ 
+
+4.3.5 SLA for Damage or Permanent loss of Documents: The selected bidder shall be 
+responsible to take care of documents during the process of scanning and data 
+entry. If any documents are damaged during the process, the selected bidder 
+shall be responsible to rectify it/ repair the same at its own cost. In case of any 
+permanent loss or damage of documents, the penalty will be applicable as 
+mentioned in SLA mentioned below. 
+
+ 
+
+SLA Measures 
+No. of 
+
+Documents
+Action Flat Penalty Rs. 
+
+Damage of Pages 1 to 5 Rectify it/ repair the 
+same on immediate 
+basis 
+
+Rs. 500 per Page 
+
+Above 5 Rectify it/ repair the 
+same on immediate 
+basis 
+
+Rs. 1000 per Page 
+
+Permanent loss  of 
+Pages  
+
+1 --- Rs. 1000 per Page 
+2 to 5 --- Rs. 1500 per Page 
+
+Above 5 --- Rs. 2000 per Page 
+ 
+4.3.6 In case of non functioning of software in routine work:   
+
+ 
+In case of failure / not working of software/hardware for the routine work, SP will 
+replace and make operational the same within 2 working days. The penalty of 
+Rs. 500 per day will be levied from 3rd day for total number of delayed days.  
+ 
+
+4.4 Right to use defective software/equipment 
+4.4.1 If after delivery, acceptance and installation and within the guarantee and 
+
+warranty period, the operation or use of the software/equipment proves to be 
+
+
+
+Page 25 of 41 
+ 
+
+unsatisfactory, the Purchaser shall have the right to continue to operate or use 
+such software/equipment until rectification of defects, errors or omissions by 
+debugging / repair or by partial or complete replacement is made without 
+interfering with GIDM’s operation. 
+
+ 
+4.5 Service Provider’s Integrity 
+4.5.1 The Service Provider is responsible for and obliged to conduct all contracted 
+
+activities as defined in the scope of work in accordance with the Contract.  
+ 
+4.6 Supplier/ Service Provider’s Obligations 
+4.6.1 The Service Provider is obliged to work closely with GIDM’s staff, act within its 
+
+own authority and abide by directives issued by GIDM 
+4.6.2 The Service Provider will abide by the job safety measures prevalent in India and 
+
+will free GIDM from all demands or responsibilities arising from accidents or loss 
+of life the cause of which is the Service Provider’s negligence. The Service 
+Provider will pay all indemnities arising from such incidents and will not hold 
+GIDM responsible or obligated. 
+
+4.6.3 The Service Provider is responsible for managing the activities of its personnel 
+and will hold itself responsible for any misdemeanor. 
+
+4.6.4 The Service Provider will treat as confidential all data and information about 
+GIDM, obtained in the execution of his responsibilities, in strict confidence and 
+will not reveal such information to any other party without the prior written 
+approval of GIDM.  
+
+ 
+4.7 Hardware Installation 
+
+ 
+
+4.7.1 The Service Provider is responsible for all deliveries, unpacking, assemblies, 
+wiring, installation, cabling between hardware units and connecting to power 
+supplies. The Service Provider will test all hardware operation and accomplish all 
+adjustments necessary for successful and continuous operation of the hardware 
+at all installation sites. 
+ 
+
+4.8 Inspections 
+ 
+
+4.8.1 GIDM/GIL will do the technical inspections as required. Vendor will provide all 
+assistance to GIDM/GIL staff to enable periodic 
+technical/administrative/operational verification of the system. 
+
+ 
+ 
+
+  
+
+
+
+Page 26 of 41 
+ 
+
+ 
+5. SECTION 5:  SCOPE OF WORK 
+
+ 
+Background 
+ 
+Gujarat Institute of Disaster Management (GIDM) has been hosting numerous Disaster 
+Management training for Senior, Administrative and Field Officers for Govt. of Gujarat. 
+The institute mandate includes Capacity Building for State DM Machinery. Therefore, 
+GIDM activities majorly deal with Adult Learning and Sensitization. 
+ 
+At present, GIDM is having a well functioned and maintained Library which can integrate 
+the trending new developments in the field of data management and also can establish 
+practices on understanding hazards and vulnerabilities including the responsibilities at 
+different levels. The envisaged Documentation Hub will provide reference materials, 
+working conditions and allows access to resources. Rapid developments in modern 
+communications will assist GIDM in record and disseminate experience, convey 
+professional knowledge and contribute to decision-making processes. This hub will also 
+enable programmes to disseminate information through various public awareness 
+programmes connected to DRR programmes as well as will provide platform through 
+web-based services. In converting the existing library and also documents available with 
+GIDM the documentation hub initiatives will be a value addition to the below actions in 
+knowledge management. 
+ 
+
+ To expedite the systematic development of procedures to collect, store, and 
+organize, information in digital form. 
+
+ To promote efficient delivery of information economically to all users. 
+ To encourage co-operative efforts in research resource, computing, and 
+
+communication networks. 
+ To strengthen communication and collaboration among educational institutions. 
+ To take leadership role in the generation and dissemination of knowledge 
+ It gives room for Institutional collaborations and exchange programmes 
+ Function Digital Library 
+ Access to large amounts of information to users wherever they are and whenever 
+
+they need it. 
+ 
+Taking cue from the Sendai Framework for Disaster Risk Reduction (2015-2030) which 
+
+promotes “the collection, analysis, management and use of relevant data and practical 
+
+information”, Gujarat Institute of Disaster Management (GIDM), a premiere institute of 
+
+
+
+Page 27 of 41 
+ 
+
+its kind in India, would also function as an open-source hub of information related to 
+
+disaster risk reduction, disaster management and such other analogous fields. 
+
+Information on disaster management, as a field of study and practice, in forms of 
+
+literature, reports, media etc. are available in replete but they are either not easily 
+
+accessible or if accessible are not categorized in a systematic order. National Institute 
+
+of Disaster Management (NIDM) houses a proud collection of documents, journals, 
+
+manuals etc. focusing more on the state of affairs in India. Apart from NIDM, similar 
+
+portals of information and knowledge are almost non-existent in India. Thus, GIDM’s 
+
+Documentation Hub (DH) will serve as a powerful contemporary.  
+
+ 
+Since, it is an essential requirement to put such contents (documents, audio & video and 
+any other data format) as mentioned above on the Documentation Hub for Internal and 
+Public Access, a back-end solution needs to be developed to cater these requirements. 
+ 
+
+Scope of Work 
+
+ Design, Develop and implement a web based portal/Document management 
+solution with android & iOS Mobile app that can be accessed to add/upload/delete 
+the reports, files, presentations, videos, audios and any other form of digital content 
+in the system 
+
+ Scanning and Digitization of 350 existing reports and make repository in the 
+Document management solution 
+
+ Scanning and Digitization of 98 existing files and make repository in the Document 
+management solution 
+
+ There will be 2 types of users accessing this solution. 
+ Public users-The published reports will be open to internet and can be viewed 
+
+by internet users. They can register on portal and also add Disaster management 
+related knowledge material on the portal. Approval of such document will be with 
+GIDM. 
+
+ GIDM Internal users (50 users) – They will be adding/uploading/deleting the 
+reports and other knowledge materials for public. They will also have intranet 
+based access to internal files/documents which will be uploaded and used by 
+internal GIDM users. 
+
+ 
+  
+
+
+
+Page 28 of 41 
+ 
+
+Brief about envisaged system categorization 
+ 
+The proposed DH will house resources not only from India, but also from the other parts 
+of the world.  
+ 
+In order to give more power to the users to be able to easily browse through the huge 
+collection of resources, it is essential that the resources be properly categorized and 
+classifies. The DH will tentatively have the following structure: 
+
+1. Aapda Gyaan Kosh: Documents related to DRR made available to all 
+2. GIDM Gyaan Bhandaar: Documents of GIDM 
+
+a. Some documents will be available to everyone to foster transparency and 
+accountability 
+
+b. Some documents will be available to only the staff of GIDM 
+ 
+Aapda Gyaan Kosh 
+
+ 
+Main 
+Titles 
+
+(Across) 
+
+News / 
+Annou
+nceme
+
+nts 
+
+Documents 
+& 
+
+Publication
+s 
+
+Disaster 
+data and 
+statistics 
+
+Policy, 
+Plans 
+& 
+Guideli
+nes 
+
+Educ
+ation
+al 
+mater
+ials 
+
+Multimedia Resolution
+s and 
+Reports 
+
+What will 
+they 
+
+include 
+(Down) 
+
+Press 
+release
+s 
+
+Publication 
+by various 
+organisation
+s 
+
+Links to 
+various 
+portals which 
+has data with 
+a description 
+of the type of 
+data 
+available. 
+
+Disaste
+r 
+manag
+ement 
+policies 
+
+Traini
+ng 
+modul
+e 
+
+Audio-visual 
+content 
+
+Resolutions 
+of UN 
+
+ Press 
+clipping
+s 
+
+Research 
+papers 
+
+Access to 
+data of GIDM 
+has any data.
+
+Disaste
+r 
+manag
+ement 
+plans 
+
+Self-
+study 
+prese
+ntatio
+ns 
+
+ Reports of 
+UN and its 
+agencies 
+
+Adverti
+sement
+s 
+
+Newsletters 
+(including 
+that of 
+GIDM’s) 
+
+ Guideli
+nes of 
+various 
+agencie
+s 
+
+Traini
+ng 
+opport
+unitie
+s 
+
+ National 
+resolutions 
+
+ 
+The above documents will be then classified according to the schema provided below to 
+provide ease of access through tentative search filters and enhance usability. 
+ 
+Categorisation By Theme By Hazards By Region By Year
+
+ 
+Climate Change Cyclone International 2017-2018 
+
+Cyclone Drought National 2015-2016 
+
+
+
+Page 29 of 41 
+ 
+
+Disaster 
+Assessment/CBDM/Sch
+
+ool Safety 
+Earthquake 
+
+State 2013-2014 
+Disaster Management / 
+Disaster Risk Reduction Flood Districts 2011-2012 
+
+Remote Sensing/GIS Tsunami 
+
+ 
+
+2009-2010 
+Public Health / WASH Landslides 2007-2008 
+
+Sustainable 
+Development Strom 2005-2006 
+
+Emergency 
+Communication Heat Wave 2003-2004 
+
+Process safety Volcano 2001-2002 
+CBRN Fire up to 2000 
+
+Finance Forest Fire 
+
+ 
+
+Soft Skills / 
+Psychosocial 
+management 
+
+Anthropogenic Medical Response 
+ 
+
+GIDM Gyaan Bhandaar 
+GIDM Gyaan Bhandaar as mentioned above will have two scopes: (a) documents made 
+available to everyone and (b) documents for GIDM staff only. The tentative structure, 
+classification and content of the public-side of the Gyaan Bhandaar is as follows: 
+ 
+
+GIDM Resources 
+Administration / 
+
+Finance Training Facility Partnership of GIDM
+
+Circulars Concept Notes 
+Manuals of different 
+facility MoUs of GIDM 
+
+Tenders / Contract Training reports 
+Blueprint of 
+establishment  
+
+Establishment Metter List of resource persons   
+RTI List of Participants   
+LAQ Training calendar   
+GIDM Policy 
+Documents    
+Annual reports    
+Holiday list    
+ 
+The tentative structure of the private side of the Gyaan Bhandaar, made available to 
+only GIDM Staff, is as follows: 
+ 
+
+GIDM Resources 
+Administration / 
+
+Finance Training Facility 
+Partnership of 
+
+GIDM 
+
+Governing Council Concept Notes 
+Manuals of different 
+facilities MoUs of GIDM 
+
+Executive Council Training reports Blueprint of  
+
+
+
+Page 30 of 41 
+ 
+
+establishment 
+IMC / PAN Training Circulars   
+Circulars ARC/AMC   
+Office orders List of resource persons   
+Tenders / Contract List of Participants   
+Establishment Metter Feedback   
+RTI    
+LAQ    
+Telly Data (Only 
+assess for Account 
+Branch)    
+GIDM Policy 
+Documents    
+Annual reports    
+Holiday list    
+ 
+ 
+For scanning the documents 
+GIDM Library has started the process of digitization of all documents. GIDM has their 
+own Publications modules and reports (mentioned in below table) are already available 
+in soft copy hence, we need to make these reports and modules available for Online 
+Open Access (to the GIDM internal and external users). 
+Sr. No Description Number of 
+
+Documents 
+Number of 
+Pages 
+
+1 GIDM Publications (Available in hard 
+& soft Copies) (Not required to 
+digitize) 
+
+28 2236
+
+ 
+GIDM library has 400+ reports which have been submitted by various authorities and 
+organizations. From all these reports GIDM Staff has selected relevant reports for 
+Digitization. These reports are useful for academic and research purposes and need to 
+upload to the digital portal with limited access to the GIDM staff and faculty.  
+ 
+There are other office file data that needs to be digitized and uploaded to Portal. 
+The details are as below for scanning and Digitizing. 
+Sr. No Description Number of 
+
+Documents 
+Number of 
+Pages 
+
+1 Other Publications (Finalized by 
+GIDM Staff)  - A4 size 
+
+350 20000
+
+2 GIDM office Files -  A4 size 98 (Files) 14956
+  Total 34956
+
+ 
+
+
+
+Page 31 of 41 
+ 
+
+Hosting of Application and mobile app 
+ 
+The system will be hosted in GSDC. Bidder is required to propose the required compute 
+power, storage and other requirement to host the new application and the system 
+software i.e. OS and Database required to host the application. The necessary compute 
+infrastructure will be provided by Government of Gujarat. In case of hosting in shared 
+server on cloud, the system software will also be provided by Government of Gujarat. 
+All other software, if any required shall be provided by the bidder. The Mobile 
+Application will also be deployed on common Appstore.    
+
+ 
+ 
+For Development, testing, UAT, Bidder will use their own development & testing 
+environment to run the applications. GIDM will provide only Production hosting 
+environment at the time of go-Live once UAT and security audit completes. 
+  
+
+
+
+Page 32 of 41 
+ 
+
+ 
+
+6. SECTION 6:  TECHNICAL EVALUATION METHODOLOGY 
+
+A Three stages procedure will be adopted in evaluating the bids: 
+
+(i) An Eligibility/Pre-qualification evaluation:  
+
+The eligibility evaluation will be carried out based on the criteria mentioned in the tender 
+document. All those bidders who matches all the eligibility criteria will be called for the 
+presentation Evaluation.  
+
+(ii) Presentation/demonstration evaluation:  
+
+All the eligible bidders will be called for the presentation of 50 marks which should cover 
+the following points:  
+
+Sr. No. Parameters Marks 
+
+1 
+Approach & methodology for scanning, 
+digitization solution 
+
+10 
+
+2 
+Proposed solution for document management 
+meeting the requirements 
+
+10 
+
+3 
+Design, Develop and implementation Approach 
+and methodology for DMS 
+
+25 
+
+4 Value additions 5 
+
+ Total 50 
+
+The bidder shall be required to get at least 60% marks (30 marks out of 50) in the 
+presentation to qualify for next stage i.e. opening of the financial bids. 
+
+ 
+
+(iii) Financial evaluation 
+
+The financial bids of all the bidder who get 60% marks (30 marks out of 50) in the 
+presentation/demonstration evaluation stage will be opened.  
+
+(IV) Final Evaluation:  
+
+The bids will be evaluated on a Quality and Cost Based Selection [QCBS] basis. The 
+proposals will be ranked according to their combined technical and financial scores 
+using weights  
+ 
+
+
+
+Page 33 of 41 
+ 
+
+Proposals will be ranked according to their combined technical and financial scores 
+using the weights (T = 0.70 the weight given to the Technical bid and P =  0.30  the  
+weight  given  to  the  Financial  Proposal.  The final evaluation will be based on Final 
+Score which shall be calculated as shown below:  
+
+ 
+Final Score (S) = Tn x T + Fn x P 
+
+ 
+The bidder achieving the highest combined technical and financial score will be invited 
+for negotiations for awarding the contract. In case of a tie where two or more bidders 
+achieve the same highest combined technical and financial score, the bidder with the 
+higher normalized technical score will be invited first for negotiations for awarding the 
+contract. 
+  
+
+
+
+Page 34 of 41 
+ 
+
+7. SECTION 7: FINANCIAL BID FORMS 
+ 
+
+# Particular 
+Min. 
+
+Resolution 
+required 
+
+Approx. Total 
+Volume(page) 
+
+Cost per 
+page/MAP 
+
+(Rs.) 
+
+Total 
+Cost (Rs.)
+
+    (A) (B) (C) (D= B*C) 
+1 A4 Size 300 dpi 34956    
+
+Total (Rs.) – (A)  
+
+# Particular 
+Total 
+
+Cost (Rs.) 
+
+1  
+Design, Develop, Test, Implement and Train for Document 
+management Solution uploading all the documents in the system 
+
+  
+
+1a Web Portal   
+1b Android and iOS mobile App   
+
+2 
+Annual Application support and Maintenance for 3 years (Web & Mobile 
+App) 
+
+  
+
+Total (Rs.) – (B)  
+
+Grand Total (A+B) (Rs.)   
+
+ 
+Note:  
+
+ All taxes are extra as applicable at the time of invoicing. 
+ The grand total of item no. A + B will be considered for final evaluation.  
+
+ 
+ 
+
+ 
+ 
+
+  
+
+
+
+Page 35 of 41 
+ 
+
+8. SECTION 8: BID FORM 
+ 
+ 
+Date:                Tender No: 
+ 
+To, 
+DGM (Tech) 
+Gujarat Informatics Limited 
+8th Floor, Block -1, Udyog Bhavan,  
+Sector - 11, Gandhinagar - 382017 
+Gujarat, India 
+ 
+Dear Sir, 
+Having examined the Bidding Documents including Addenda Nos. __________ (insert 
+numbers, if any), the receipt of which is hereby duly acknowledged, we, the 
+undersigned, offer to render “Selection of Service Provider for Digitization of Records of 
+GIDM” in conformity with the said bidding documents for the same as per the technical 
+and financial bid and such other sums as may be ascertained in accordance with the 
+Financial Bid attached herewith and made part of this bid. We have not placed any 
+condition for the bid on our part and agree to bind ourselves to the terms and conditions 
+of this tender unconditionally. Any conditions placed by us elsewhere in the present bid 
+are hereby withdrawn unconditionally.  
+We undertake, if our bid is accepted, to render the services in accordance with the 
+delivery schedule which will be specified in the contract document that we will sign if the 
+work order given to us. 
+If our bid is accepted, we will obtain the guarantee of a bank for the sum indicated as 
+per tender document for the due performance of the Contract, in the form prescribed by 
+GIDM. 
+We agree to abide by this bid for a period of 180 (One hundred and eighty only) days 
+after the date fixed for bid opening of the Instruction to Bidders and it shall remain 
+binding upon us and may be accepted at any time before the expiration of that period. 
+Until a formal contract is prepared and executed, this bid, together with your written 
+acceptance thereof and your notification of award shall constitute a binding Contract 
+between us. 
+Name: 
+_____________________________________________________________________ 
+Address:_____________________________________________________________ 
+We understand that you are not bound to accept the lowest or any bid you may 
+receive. 
+Datedthis__________day of______ 2017 
+Signature 
+(in the capacity of) 
+Duly authorized to sign Bid for and on behalf of_____________________________. 
+
+
+
+Page 36 of 41 
+ 
+
+9. SECTION 9: BIDDER’S AUTHORISATION CERTIFICATE 
+ 
+ 
+To, 
+Managing Director, 
+Gujarat Informatics Ltd. 
+ 
+ 
+<Bidder’s Name>_______________________________________________, 
+<Designation> ____________________ is hereby authorized to sign relevant 
+documents on behalf of the company in dealing with tender of reference <tender Name, 
+Dept & Date>______________________. He is also authorized to attend meetings & 
+submit technical & commercial information as may be required by you in the course of 
+processing above said tender. 
+ 
+Thanking you, 
+ 
+ 
+Authorized Signatory 
+_________________________________ 
+<Bidder’s Name>Seal 
+
+
+
+Page 37 of 41 
+ 
+
+10. SECTION 10: FORMAT OF EARNEST MONEY DEPOSIT IN FORM OF BANK 
+GUARANTEE 
+
+ 
+ 
+
+Ref:                       Bank Guarantee No. 
+                        Date: 
+ 
+To, 
+DGM (Tech) 
+Gujarat Informatics Limited 
+8th Floor, Block -1, Udyog Bhavan,  
+Sector - 11, Gandhinagar - 382017 
+Gujarat, India 
+ 
+Whereas ------------------------------------------------------------ (here in after called "the Bidder") 
+has submitted its bid dated ---------------- in response to the Tender no: XXXX for RFP for 
+“Selection of Service Provider for Digitization of Records of GIDM” KNOW ALL MEN by 
+these presents that WE --------------------------------------------------------------- ---------------------
+----------------------------- having our registered office at ------------ ----------------------- ----------
+------------------ (hereinafter called "the Bank") are bound unto the ______________, 
+Gujarat Informatics Limited  in the sum of ---------------------- for which payment well and 
+truly to be made to Gujarat Informatics Limited , the Bank binds itself, its successors 
+and assigns by these presents. Sealed with the Common Seal of the said Bank this -----
+---------day of ----------------------- ----2016. 
+THE CONDITIONS of this obligation are: 
+1. The E.M.D. may be forfeited:   
+
+a. if a Bidder withdraws its bid during the period of bid validity  
+b. Does not accept the correction of errors made in the tender document;  
+c. In case of a successful Bidder, if the Bidder fails:    
+
+(i) To sign the Contract as mentioned above within the time limit stipulated by 
+purchaser or  
+
+(ii) To furnish performance bank guarantee as mentioned above or    
+(iii) If the bidder is found to be involved in fraudulent practices. 
+(iv)If the bidder fails to submit the copy of purchase order & acceptance 
+
+thereof. 
+We undertake to pay to the GIL/Purchaser up to the above amount upon receipt of its 
+first written demand, without GIL/ Purchaser having to substantiate its demand, 
+provided that in its demand GIL/ Purchaser will specify that the amount claimed by it is 
+due to it owing to the occurrence of any of the abovementioned conditions, specifying 
+the occurred condition or conditions.  
+This guarantee will remain valid up to 9 months from the last date of bid submission. 
+The Bank undertakes not to revoke this guarantee during its currency without previous 
+consent of the OWNER/PURCHASER and further agrees that the guarantee herein 
+contained shall continue to be enforceable till the OWNER/PURCHASER discharges 
+this guarantee 
+
+
+
+Page 38 of 41 
+ 
+
+The Bank shall not be released of its obligations under these presents by any exercise 
+by the OWNER/PURCHAER of its liability with reference to the matters aforesaid or any 
+of them or by reason or any other acts of omission or commission on the part of the 
+OWNER/PURCHASER or any other indulgence shown by the OWNER/PURCHASER 
+or by any other matter or things. 
+The Bank also agree that the OWNER/PUCHASER at its option shall be entitled to 
+enforce this Guarantee against the Bank as a Principal Debtor, in the first instance 
+without proceeding against the SELLER and not withstanding any security or other 
+guarantee that the OWNER/PURCHASER may have in relation to the SELLER’s 
+liabilities. 
+ 
+Dated at _______________ on this _________ day of ___________2019. 
+ 
+____________________ 
+ 
+Signed and delivered by 
+_____________________ 
+ 
+ For & on Behalf of  
+ 
+ 
+ 
+Name of the Bank & Branch & 
+Its official Address     
+ 
+ 
+Approved Bank: Any Nationalized Bank including the public sector bank or Private 
+Sector Banks or Commercial Banks or Co-Operative Banks and Rural Banks (operating 
+in India having branch at Ahmedabad/ Gandhinagar) as per the G.R. no. 
+EMD/10/2015/508/DMO dated 27.04.2016 issued by Finance Department or further 
+instruction issued by Finance department time to time. 
+
+
+
+Page 39 of 41 
+ 
+
+11. SECTION 11: PERFORMANCE BANK GUARANTEE 
+ 
+To:   __________________________________________________________  
+ 
+WHEREAS ________________________________________________________ 
+(Name of Service provider) hereinafter called “service provider” has undertaken, in 
+pursuance of Contract No. ___________________ dated _________ _ to render 
+services for __________________________________ hereinafter called “The 
+Contract”. AND WHEREAS it has been stipulated by you in the said Contract that the 
+SP shall furnish you with a Bank Guarantee by any Nationalized Bank including the 
+public sector bank or Private Sector Banks authorized by RBI or Commercial Bank or 
+Regional Rural Banks of Gujarat or Co-Operative Bank of Gujarat (operating in India 
+having branch at Ahmedabad/ Gandhinagar) for the sum specified therein as security 
+for compliance with the Supplier / SP’s performance obligations in accordance with the 
+Contract. 
+ 
+AND WHEREAS we have agreed to give the Supplier / SP a Guarantee: 
+ 
+WE, THEREFORE, hereby affirm that we are Guarantors and responsible to you, on 
+behalf of the SP, up to a total of ________________ (Amount of the Guarantee in 
+Words and Figures) and we undertake to pay you, upon your first written demand 
+declaring the SP to be in default under the Contract and without cavil or arguments, any 
+sum or sums within the limit of ________________________ (Amount of Guarantee) as 
+aforesaid, without your needing to prove or to show grounds or reasons for your 
+demand of the sum specified  therein. 
+ 
+This guarantee is valid until the______________ day of __________ 20 _____ 
+ 
+Signature and Seal of Guarantors 
+______________________________ 
+Date _______________________ 
+Address_____________________ 
+____________________________ 
+ 
+ 
+Approved Bank: Any Nationalized Bank including the public sector bank or Private 
+Sector Banks or Commercial Banks or Co-Operative Banks and Rural Banks (operating 
+in India having branch at Ahmedabad/ Gandhinagar) as per the G.R. no. 
+EMD/10/2015/508/DMO dated 27.04.2016 issued by Finance Department or further 
+instruction issued by Finance department time to time. 
+  
+
+
+
+Page 40 of 41 
+ 
+
+12. ANNEXURE-1: SELF DECLARATION 
+ 
+ 
+
+(TO BE SUBMITTED PHYSICALLY ALONG WITH EMD & BID PROCESSING FEES) 
+ 
+
+AFFIDAVIT 
+ 
+ 
+
+(To be submitted IN ORIGINAL on Non-Judicial Stamp Paper of Rs 100/- duly attested by First 
+Class Magistrate/ Notary public) 
+
+ 
+
+I/We, ___________________________, age______ years residing at ______________________ in capacity of 
+_______________________M/s. ___________________________________ hereby solemnly affirm that 
+ 
+All General Instructions, General Terms and Conditions, as well as Special Terms & Conditions laid down on all the 
+pages of the Tender Form, have been read carefully and understood properly by me which are completely acceptable 
+to me and I agree to abide by the same. 
+ 
+I I We have submitted following Certificates I Documents for T.E. as required as per General Terms & Conditions 
+as well as Special Terms & Conditions of the tender 
+ 
+
+Sr. No. Name of the Document 
+1  
+2  
+
+ 
+All the Certificates I Permissions I Documents I Permits I Affidavits are valid and current as on date and have not 
+been withdrawn I cancelled by the issuing authority. 
+ 
+It is clearly and distinctly understood by me that the tender is liable to be rejected if on scrutiny at any time, any of 
+the required Certificates I Permissions I Documents I Permits I Affidavits is I are found to be invalid I wrong I 
+incorrect I misleading I fabricated I expired or having any defect. 
+ 
+I I We further undertake to produce on demand the original Certificate I Permission I Documents I Permits for 
+verification at any stage during the processing of the tender as well as at any time asked to produce. 
+ 
+I I We also understand that failure to produce the documents in "Prescribed Proforma" (wherever applicable) as well 
+as failure to give requisite information in the prescribed Proforma may result in to rejection of the tender. 
+ 
+My I Our firm has not been banned I debarred I black listed at least for three years (excluding the current financial 
+year) by any Government Department I State Government I Government of India I Board I Corporation I 
+Government Financial Institution in context to purchase procedure through tender. 
+ 
+I I We confirm that I I We have meticulously filled in, checked and verified the enclosed documents I certificates I 
+permissions I permits I affidavits I information etc. from every aspect and the same are enclosed in order (i.e. in 
+chronology) in which they are supposed to be enclosed. Page numbers are given on each submitted document. 
+Important information in each document is "highlighted" with the help of "marker pen" as required. 
+ 
+The above certificates/ documents are enclosed separately and not on the Proforma printed from tender document. 
+ 
+I I  We  say  and  submit  that  the  Permanent  Account  Number  (PAN)  given  by  the  Income  Tax  Department  
+is ____________________, which  is  issued  on  the  name  of ___________________________ [Kindly mention 
+here either name of the Proprietor (in case of Proprietor Firm) or name of the tendering firn;1, whichever is 
+applicable]. 
+
+
+
+Page 41 of 41 
+ 
+
+ 
+I I We understand that giving wrong information on oath amounts to forgery and perjury, and I/We am/are aware of 
+the consequences thereof, In case any information provided by us are found to be false or incorrect, you have right 
+to reject our bid at any stage including forfeiture of our EMD/PBG/cancel the award of contract. In this event, this 
+office reserves the right to take legal action on me/us. 
+ 
+I / We have physically signed &stamped all the above documents along with copy of tender documents (page no. ---
+- to -- ). 
+ 
+I I We hereby confirm that all our quoted items meet or exceed the requirement and are absolutely compliment with 
+specification mentioned in the bid document. 
+ 
+My I Our Company has not filed any Writ Petition, Court matter and there is no court matter filed by State 
+Government and its Board Corporation, is pending against our company . 
+ 
+I / We hereby commit that we have paid all outstanding amounts of dues ItaxesIcessIchargesIfees with interest and 
+penalty. 
+ 
+In case of breach of any tender terms and conditions or deviation from bid specification other than already specified 
+as mentioned above, the decision of Tender Committee for disqualification will be accepted by us. 
+ 
+Whatever stated above is true and correct to the best of my knowledge and belief. 
+ 
+ 
+ 
+Date:        Stamp & Sign of the Tenderer 
+ 
+ 
+Place:                                                                                         (Signature and seal of the Notary) 
+ 
+
+

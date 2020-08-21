@@ -1,0 +1,407 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/712715
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 12:00:00
+
+Bid Opening Date/Time 27-07-2020 12:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Home Affairs
+
+Department Name Central Armed Police Forces
+
+Organisation Name Border Security Force (bsf)
+
+Office Name Aizawl
+
+Total Quantity 40
+
+Item Category LED surface ceiling Light
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Document required from seller  OEM Authorization Certificate
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the
+buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+Estimated Bid Value  80000
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+LED Surface Ceiling Light ( 40 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+                               1 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/wWCWa1dnlQGbY8bq0ENFSzQrFB-0EGPAIftoUrJJ3qM
+
+
+ 
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Certification and Standard Luminaire Class (as per Cl.
+2.1 Section 2 of IS: 10322
+(Part-1)
+
+Class I *
+
+Types of LED Modules as
+per the IS:
+16103(Part-2)/2012
+
+Type 3 *
+
+Photo biological safety of
+LEDs used shall be as per
+IS:16108/2012 (exempt
+group)
+
+Yes *
+
+Certification if any else write
+NA
+
+- *
+
+DC or AC supplied electronic
+control gear for LED Module
+shall comply IS:15885 (Part
+2/Sec.13)
+
+Yes *
+
+Conformity to Indian
+Standard
+
+IS:10322-5-2(2012) *
+
+Technical parameters Type of fixture Square *
+
+Material PVC Aluminium, PVC, Crystal,
+Ceramic, Chrome
+
+Color temperature (+/-10%) 6500k *
+
+Wattage 15 3 - 30
+
+Constructional All fasteners must be of
+nickel/chrome plated
+
+Yes *
+
+The luminaire body must be
+corrosion resistant epoxy
+powder coated / anodizing
+
+Yes *
+
+Mounting type Surface *
+
+Diffuser material Poly carbonate (UV
+stabilized)
+
+*
+
+Mounting Fixture SS Spring Clip *
+
+Ingress Protection (IP
+Rating) as per IS:10322
+(Part 1) latest
+
+IP66 *
+
+Warranty for free
+replacement
+
+1 *
+
+Electrical Efficiency
+Management
+
+The total circuit power shall
+not be more than 110
+percent of the value
+declared by the
+manufacturer (as per Cl 8 of
+IS:16104:2012 lates)
+
+Yes *
+
+Total Harmonics Distortion ?15% *
+
+Frequency 50 *
+
+AC Power Factor ? 0.95 *
+
+Operating Voltage 90 *
+
+Driver Powered by an integral
+electronic driver (SMPS
+based constant current
+Supply)
+
+*
+
+                               2 / 4
+
+
+
+ 
+
+Optical Management Color Rendering Index(CRI) ?80 *
+
+Light Color Cool Day Light *
+
+Reflector type Diffuser *
+
+System lumen output 1500 *
+
+System Luminous flux
+efficacy (lm/W)
+
+100 *
+
+Beam Angle ?120 *
+
+Working life for LED 50000 *
+
+Thermal Management Fixture / Luminaire should
+be die-cast aluminum
+/CRCA/Extruded aluminum
+
+Yes *
+
+Junction temperature /
+soldering temperature
+
+< 85 deg C *
+
+Humidity Range (RH%) 20 *
+
+Operating temperature
+range in degree Celsius
+
+-10 to 50 *
+
+Protection Reverse Polarity Yes *
+
+Over load protection Yes *
+
+High voltage test (1.5 KV for
+one minute between supply
+terminals and body of the
+unit)
+
+Yes *
+
+The luminaire shall be
+protected against surges
+and transients of >/=2.5 KV
+
+Yes *
+
+Short circuit Protection Yes *
+
+Insulation resistance
+between earth and current
+carrying part
+
+>100 M ohm *
+
+Marking Each LED luminaire shall
+have the manufacturers
+name, model number, serial
+number, date of
+manufacture/PO No. (month-
+year), and lot number as
+identification mark inside
+each unit and the outside of
+each packaging box
+
+Yes *
+
+The operation
+characteristics such as
+rated voltage and rated
+power in watts shall be
+marked inside each LED
+luminaire unit
+
+Yes *
+
+Manufactures Name &
+brand shall available on the
+body of the Luminaire
+
+Embossed *
+
+Reports and Certifications Seller has to furnish Type
+test report to the buyer on
+demand
+
+Yes *
+
+LM 80 & TM21 (Ref.
+IS:16105:2012) Report and
+Photo biological report for
+LED report from Central
+Government Lab /NABL/ILAC
+
+Yes *
+
+                               3 / 4
+
+
+
+ 
+
+accredited lab. Reports shall
+be furnish to the buyer on
+demand
+
+LED Make - *
+
+LM 79 (Photometry)
+(Ref.IS:16106:2012) report
+from Central Government
+LAB /NABL/ILAC accredited
+lab. Reports shall be furnish
+to the buyer on demand
+(LM-79 report shall have
+total lumen output, power,
+PF, Current in Amps, CRI &
+CCT etc.,)
+
+Yes *
+
+DC or AC supplied electronic
+control gear for LED Module
+shall comply as per
+IS:15885 (Part 2/Sec.13)
+
+Yes *
+
+Availability of test Report
+from Central Government
+Lab /NABL/ILAC accredited
+lab to Indian Standard
+IS:10322/part 5/sec-2/2012
+and IS 16107 (Part 2/Sec 1)
+: 2012
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Amit Kumar Saini 796025,shq bsf azl durtlang north
+aizawl mizoram 796025
+
+40  30
+
+Bid Specific Additional Terms and Conditions
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

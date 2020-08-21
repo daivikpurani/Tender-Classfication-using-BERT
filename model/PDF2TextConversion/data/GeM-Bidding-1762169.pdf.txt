@@ -1,0 +1,982 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/688224
+
+  Dated: 26-06-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 09-07-2020 14:00:00
+
+Bid Opening Date/Time 2020-07-09 14:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Power
+
+Department Name Contracts And Materials
+
+Organisation Name Power System Operation Corporation Limited
+
+Office Name Srldc Bangalore
+
+Total Quantity 1
+
+Item Category Drinking Water ATM / Water Vending Machine
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+
+Splitting
+
+ Bid splitting not applied.
+
+Drinking Water ATM / Water Vending Machine ( 1 pieces )
+
+Technical Specifications
+
+                             1 / 10
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+COIN / CARD
+ACCEPTOR / Quantity of
+Dispensing Water
+
+Number of
+Dispensing points
+
+3 3
+
+Water Dispensing
+using coin acceptor
+
+Yes Yes
+
+Coins accepted for
+payment
+
+Rs.1,Rs. 2,Rs. 5,Rs.10 Rs.1, Rs. 2, Rs. 5, Rs.10
+
+Water Dispensing
+using RFID/NFC card
+
+Yes Yes
+
+Mobile Wallet
+accepted for
+payment
+
+No No
+
+Quantity of Dispensing
+Water
+
+Configurable as Per
+Customer Requirement
+
+*
+
+CAPACITY / TYPE /
+WATER SOURCE /
+OUTLET WATER
+QUALITY
+
+Purification Capacity
+of Water ATM
+
+250 LPH 250 LPH
+
+Type of Operation Semi-Automatic Semi-Automatic
+
+Water Source Municipal Tap water Municipal Tap water
+
+Quality of outlet water
+from each dispenser of
+the Water ATM
+
+Conforms to
+IS:10500(latest)
+
+*
+
+TECHNOLOGY Technology Reverse Osmosis (RO) Reverse Osmosis (RO)
+
+UV Disinfectation Yes Yes
+
+"Filters deployed in
+the system
+
+Pressure Sand
+Filter,Acitivated Carbon
+Filter,10 Micron Filter,5
+micron Filter,Ultra
+Filtraton,Nano
+Filtration,Multi Grade
+Filter (MGF),Thin- Film
+Composite Membrane
+
+Pressure Sand Filter,
+Acitivated Carbon
+Filter, 10 Micron Filter,
+5 micron Filter, Ultra
+Filtraton, Nano
+Filtration, Multi Grade
+Filter (MGF), Thin- Film
+Composite Membrane
+
+Anti scalant dosing
+pump
+
+Yes Yes
+
+pH Correction
+Dosing Pump
+
+No No
+
+LIMITING
+CHARACTERISTICS OF
+INLET / FEED WATER
+
+TDS of inlet/feed
+water (ppm)
+
+501-3000 ppm 501-3000 ppm
+
+Turbidity of
+inlet/feed water
+
+Upto 5 NTU Upto 5 NTU
+
+Hardness of
+inlet/feed water
+
+Upto 200 ppm Upto 200 ppm
+
+pH of inlet/feed
+water
+
+6.5 to 8.5 6.5 to 8.5
+
+                             2 / 10
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/b30xANl_36Ru7BgExRoo0gQ7_ovYGfaRwXzBIL6db2s
+
+
+ 
+
+Iron content of
+inlet/feed water
+
+Upto 20 ppm Upto 20 ppm
+
+Arsenic content of
+inlet/feed water
+
+Upto 2 ppm Upto 2 ppm
+
+Fluoride content of
+inlet/feed water
+
+Upto 7 ppm Upto 7 ppm
+
+CONSTRUCTIONAL Raw water Storage
+capacity
+
+1000 1000.0
+
+Raw water Storage
+Tank Material of
+Construction
+
+HDPE HDPE
+
+Location of the Raw
+Water Storage Tank
+
+Inside the ATM
+Enclosure
+
+Inside the ATM
+Enclosure
+
+Treated water
+Storage capacity
+
+225 225.0
+
+Treated water
+Storage Tank
+Material of
+Construction
+
+Stainless Steel, 304 Gr Stainless Steel, 304 Gr
+
+Equipped with an in-
+built chiller unit for
+providing continuous
+cold water of
+temperature around
+15 degree Celcius
+
+Yes Yes
+
+In-built Chiller Tank
+Capacity
+
+220 220.0
+
+Chiller Tank Material
+of Construction
+
+Stainless Steel, 304 Gr Stainless Steel, 304 Gr
+
+ATM Installation Type Floor mounted *
+
+Number of Filtration
+steps
+
+5 5
+
+Minimum Water
+Recovery Percentage
+@27 degree ambient
+temperature (%)
+
+31-40 31-40
+
+Provided with
+suitable vending
+place for filling
+container of 20 liters
+capacity
+
+No No
+
+Agreed to STC of the
+product category
+
+Yes *
+
+DISPLAY Display of water purity
+parameters
+
+Yes *
+
+Display Type LED LED
+
+Backlit Display Yes Yes
+
+                             3 / 10
+
+
+
+ 
+
+Touch Screen
+Display
+
+No No
+
+Display Size
+(Characters x Lines)
+
+NA NA
+
+Display of oulet
+water TDS level
+
+Yes Yes
+
+Display of outlet
+water pH level
+
+No No
+
+Display of outlet
+water Hardness
+
+Yes Yes
+
+Display of outlet
+water Temperature
+
+No No
+
+Inlet / Feed Pump to
+feed water from raw
+water storage tank to
+filter
+
+Inlet / Feed Pump
+Type
+
+Horizontal Centrifugual Horizontal Centrifugual
+
+Number of Inlet / Feed
+Pumps
+
+1 *
+
+Rated Head 30 *
+
+"Pump Motor Rating
+(HP)
+
+1.25 *
+
+Inlet / Feed Pump
+Capacity at rated head
+(LPH)
+
+1.25 *
+
+Pump Motor / Head
+(HP)
+
+1 *
+
+Multi Media Filter
+Vessels for First stage
+filtration for suspended
+particles
+
+Type of Multi Media
+Filter Vessels
+
+Vertical Multi Media
+Filter
+
+*
+
+Material Of
+Construction for
+Multi Media Filter
+Vessels
+
+FRP FRP
+
+Number of Multi Media
+Filter Vessels
+
+2 *
+
+Size of Multi Media
+Filter Vessels
+
+- *
+
+Multi-Port Valve to
+control filtration and
+backwash for media
+filter having sand &
+carbon
+
+Type of Multi-Port
+Valve
+
+Manual Manual
+
+Multi-Port Valve
+Material of
+Construction
+
+ABS ABS
+
+Number of Multi-Port
+Valves
+
+1 *
+
+Nominal Bore (Size) of
+Multi-Port Valve
+
+20 *
+
+Anti scalent Dosing
+Pump to inhibit scaling
+of hardness salt and
+
+Type of Anti scalent
+Dosing Pump
+
+Electronic diaphragm Electronic diaphragm
+
+                             4 / 10
+
+
+
+ 
+
+silica on RO
+Membranes, doze pH
+and Cl as per water
+quality
+
+Material Of
+Construction for Anti
+scalent Dosing Pump
+
+PP PP
+
+Number of Anti scalent
+Dosing Pumps
+
+1 *
+
+Capacity of Anti scalent
+Dosing Pump (LPH)
+
+4 *
+
+pH Correction Dosing
+Pump & Dosing Tank to
+dilute water with
+dosing chemicals
+
+Type of pH
+Correction Pump
+
+NA NA
+
+Material Of
+Construction for pH
+Correction Dosing
+Pump
+
+NA NA
+
+Number of pH
+Correction Dosing
+Pumps
+
+0 *
+
+Capacity of pH
+Correction Dosing
+Pump (LPH)
+
+0 *
+
+Dosing Tank Material
+of Construction
+
+NA NA
+
+Dosing Tank Capacity
+(LPH)
+
+0 *
+
+High Pressure Pump to
+develop required
+pressure for Reverse
+Osmosis on RO
+Membranes
+
+Type of High Pressure
+Pump
+
+Vertical Centrifugual
+Pump
+
+*
+
+Material Of
+Construction for High
+Pressure Pump
+
+SS *
+
+Number of High
+Pressure Pumps
+
+1 *
+
+Low pressure switch for
+Protection of HP pump
+from burn-out
+
+NA *
+
+RO Pressure Vessel Type of RO Pressure
+Vessel
+
+Membrane housing
+mounted on skid - End
+port type
+
+Membrane housing
+mounted on skid - End
+port type
+
+Material Of
+Construction for RO
+Pressure Vessel
+
+FRP FRP
+
+Number of RO Pressure
+Vessels
+
+1 *
+
+Ultra Violet (UV)
+System to disinfect
+water, kill bacteria and
+micro-organisms
+
+Material Of
+Construction for UV
+System
+
+SS SS
+
+Number of UV Systems 1 *
+
+Number of UV Lights 1 *
+
+Total UV Power 12 Watts 12 Watts
+
+                             5 / 10
+
+
+
+ 
+
+CIP (Clean-In-
+Place)Tank to mix /
+Dilute chemicals for
+membrane cleaning
+and permeate back
+wash
+
+Cip Tank Yes Yes
+
+CIP Tank Material of
+Construction
+
+LLDPE LLDPE
+
+Number of CIP Tanks 1 *
+
+Capacity of CIP Tank 50 *
+
+Piping Material of
+Construction for Piping
+from storage tank to
+Raw water inlet, total
+internal piping HPP side
+/ Low Pressure side,
+plant to product tank &
+through UV distribution
+system
+
+ISI Marked U-PVC *
+
+Power Source Power Source Water ATM shall be
+able to work on AC
+Power. Water
+Dispensing section
+shall also be able to
+work on DC Power
+supply from a battery.
+Battery is inclusive in
+the scope of supply.
+
+*
+
+Power Supply 230 ±10 V AC 230 ±10 V AC
+
+Battery Voltage 6 V *
+
+Battery Chemistry Lead Acid *
+
+Battery Capacity (AH) 100 *
+
+Battery back-up time 6 6.0
+
+EMBEDDED DEVICES
+FOR AUTOMATION
+
+Quantitative
+Monitoring
+
+NA NA
+
+Outlet Water Quality
+Monitoring
+
+TDS level of water TDS level of water
+
+Multi-Processor
+Integrated Control
+System with
+Interface cables/
+connectors for
+integration
+
+NA NA
+
+OTHER FEATURES Interface for
+connecting coin-
+acceptors,Interface for
+Card Reader,NA
+
+Interface for
+connecting coin-
+acceptors, Interface for
+Card Reader, NA
+
+Additional features, if
+any
+
+- *
+
+Water ATM - Enclosure Structure Rigid structure, made
+of G.I. frame
+
+Rigid structure, made
+of G.I. frame
+
+Thickness of the
+frame of structure
+
+2 2.0
+
+                             6 / 10
+
+
+
+ 
+
+Material of
+Construction of Side
+Panels of Water ATM
+
+Galvanized Steel sheet Galvanized Steel sheet
+
+Side Panel Sheet
+Thickness
+
+0.6 0.6
+
+PUF insulation of
+Side Panels of Water
+ATM
+
+With With
+
+PUF insulation of the
+door of Water ATM
+
+With With
+
+Provision for in-built
+litter space
+
+No No
+
+Covered area of
+treatment plant
+enclosure
+
+60 *
+
+Shape of the Water
+ATM housing
+
+Hexagonal Hexagonal
+
+Top Canopy of the
+Water ATM housing
+
+Dome *
+
+Floor area around the
+unit covered with
+vitrified / anti-skid tiles
+(Specify area of the
+tiles)
+
+25 *
+
+Headroom for the
+Water ATM enclosure
+
+7 *
+
+Internal / External
+finish on Steel panels
+
+As per Buyer
+requirements
+
+*
+
+Floor area around
+the Water ATM
+enclosure covered
+with anti-skid tiles
+
+Yes Yes
+
+Water ATM
+enclosure protected
+with enclosed MS
+grill / mesh
+
+No No
+
+Installation &
+Commissioning /
+Warranty
+
+Installation and
+Commissioning
+inclusive in the
+scope of Supply
+
+Yes Yes
+
+Trial Run and
+Training provided
+(inclusive in the
+Scope of Supply)
+
+5 5, 10 Or higher
+
+Warranty for storage
+Tanks
+
+1 1, 2, 3, 4, 5 Or higher
+
+Warranty for
+electrical motors
+
+1 1, 2, 3 Or higher
+
+                             7 / 10
+
+
+
+ 
+
+Warranty for the
+filters
+
+1 1, 2, 3 Or higher
+
+Warranty for the
+system
+
+1 1, 2, 3 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 H T Divith 560009,SRLDC POSOCO 29
+Race Course Cross Road
+Bangalore
+
+1  30
+
+Special terms and conditions for category Drinking Water ATM / Water Vending Machine 
+
+1.A. General Technical Requirements 1) The Water ATM / Water Vending Machine shall be fully
+enclosed and easy to relocate.2) The structure of the enclosure shall be rigid, made of MS /
+SS frame of minimum thickness as specified in the contract. MS frame shall be with duly anti
+rust treatment, painted / galvanized for rust protection. The structure shall be appropriate to
+protect the entire treatment plant system, including its equipment and accessories in all
+weather conditions and it shall be able to withstand the extreme climatic variations.3) All the
+side panels shall be made of stainless steel / galvanized steel, with / without PUF insulation
+as specified in the contract. Side panels with insulation, if specified in the contract, shall
+have stainless steel / galvanized steel sheets on both sides with PUF insulation in between.
+PUF insulation shall be of 50 mm thick and 40kg/m3 density.4) Single door of adequate size
+with good quality locking arrangement shall be provided to restrict access to the unit. The
+door shall be made of steel with matching colours with adequate protection against
+breakage.5) The raw water storage tank, if provided, shall have provision to be attached to
+piped water supply as well as fitting of external nozzle which provides the option for
+sourcing raw water from tankers and functioning as a standalone unit in case piped water
+supply is not available.6) Adequate space shall be provided for storing materials /
+consumables required for the Water ATM / Water Vending Machine, inside the enclosure
+itself.7) A chiller unit of suitable storage capacity, if specified in the contract, shall be
+provided inside the unit. Proper ventilation facility must be provided for the removal of
+chiller unit heat.8) Easily washable stainless steel / FRP counters for dispensing drinking
+water must be provided on the external panels of the housing structure. Each counter shall
+be capable of dispensing water and each must have latching system for switching ON with
+push button.9) The top canopy protecting the enclosure shall be made with materials like PP
+reinforced UV stabilized Poly Vinyl / FRP covering so as to cover the entire equipment and
+accessories in the enclosure and to protect them from heating and external weather
+conditions.10) Each Water ATM / Water Vending Machine shall have provision for float valve
+for overflow control.11) After installation at site, all components, equipment shall be field
+tested to prove satisfactory performance of outlet water quality and/or fulfilment of
+functional requirements without showing any sign of defect as individual equipment and as
+well as a system.12) User Manual for safe operation of the unit along with instructions for
+preventive maintenance, frequency for back wash, treatment of waste water, if required, etc
+
+                             8 / 10
+
+
+
+ 
+
+shall be supplied along with each Water ATM / Water Vending Machine.13) All the materials
+which are in direct contact with treated water inside the machine shall be of food grade
+quality.14) Water ATM / Water Vending Machine shall be able to work on AC Power (230  ±10
+V AC or 415 ±10 V AC). Water dispensing section shall be able to work on  DC Power supply
+from a battery having back-up capacity of minimum hours as specified in the contract.
+Battery is inclusive in the scope of supply.B. The Scope of installation and Commissioning for
+Water ATM shall be as under: Following are the responsibilities of Seller: 1) Design, Supply,
+construction / installation of Water ATMs / Water Vending Machines along with water storage
+tanks, necessary filters and all other equipment and accessories necessary for satisfactory
+operation of the unit shall be the responsibility of the Seller.2) Supply / changing of
+necessary filters during the warranty period shall be the responsibility of the Seller.3)
+Unloading and placement of Water ATM / Water Vending Machine at the time of delivery at
+sellers cost is inclusive in the scope of supply. The consignee shall ensure that the site is
+located along a motorable road.4) Necessary foundation for RO+UV system and required
+platforms for specified category of treatment plant system shall be provided with plinth
+depth of 150 mm above ground level, wherever applicable. Civil Work to the extent
+necessary for satisfactory installation of the equipment shall be the responsibility of the
+Seller.5) Supply of bolts, nuts, washers, etc., and all other material necessary for satisfactory
+installation and commissioning of the equipment shall be the responsibility of the Seller.6)
+Supply, laying & installation of necessary Electrical cables, electrical fittings from the power
+connecting point / Energy meter to the Water ATM / Water Vending Machine shall be the
+responsibility of the Seller.7) Supply, laying & installation of all inter connecting Pipes from
+the water source to the discharge out let of the equipment including waste water connection
+to nearby sewerage system shall be the responsibility of the Seller.8) Supply of suitable Pre
+filters, RO Plant, UV System, Control Valves, Dosing Pumps, Vessels, Pressure Gauges, Flow
+meters, etc, wherever required shall be the responsibility of the Seller.9) Trial Run of the
+equipment for the period specified in the contract shall be the responsibility of the Seller. All
+components, equipment shall be tested during trial run to prove satisfactory performance
+and /or fulfilment of functional requirements without showing any sign of defect as individual
+equipment and as well as a system.10) Providing Training to the buyer’s representatives
+after successful installation & Commissioning of the equipment, during Trial Run shall be the
+responsibility of the Seller.11) Seller shall co-ordinate with the Consignee / User regarding
+exact place / location where the Water ATM / Water Vending Machine has to be installed,
+Quantity of Dispensing Water, Internal / External finish on Steel panels etc. C. Following are
+the responsibilities of Consignee / User: 1) Providing necessary Space, Water source,
+Electricity, Security, Sewerage, Water quality monitoring / testing shall be the responsibility
+of the buyer / consignee. 2) Providing Water source, Power meter and Sewerage, within 20
+meters from the place where Water ATM / Water Vending Machine has to be installed shall
+be the responsibility of the buyer/ consignee.3) Providing Single phase or three phase power
+supply as required including installation of Electric Energy meters/Legal connection for
+Water ATM’s shall be the responsibility of the buyer / consignee.4) Consignee / User shall co-
+ordinate with the Seller regarding exact place / location where the Water ATM / Water
+Vending Machine has to be installed, Quantity of Dispensing Water, Internal / External finish
+on Steel panels etc.5) Necessary approvals, if any, shall be obtained by the consignee.6)
+Consignee shall ensure readiness of the site within to 10 days of receipt of stores.7)
+Revenue from the water ATM / Water Vending Machine, if any, shall be collected by the
+consignee or his authorized representative.
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+This Bid is also governed by the General Terms and Conditions
+
+                             9 / 10
+
+https://gem.gov.in/termsCondition
+
+
+ 
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                            10 / 10
+
+http://www.tcpdf.org
+

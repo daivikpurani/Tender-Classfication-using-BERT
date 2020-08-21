@@ -1,0 +1,281 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/714426
+  Dated: 17-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 12:00:00
+
+Bid Opening Date/Time 27-07-2020 12:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Military Engineer Services
+
+Office Name ***********
+
+Total Quantity 500
+
+Item Category dusk to dawn controller-Sensitive switch ( PAC Only ) 
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM Authorization
+Certificate
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the
+buyer
+
+Past Performance  30 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+1. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have supplied same or similar
+Category Products for 30% of bid quantity, in at least one of the last three years before the bid opening date to any
+Central / State Govt Organization / PSU / Public Listed Company. Copies of relevant contracts (proving supply of
+cumulative order quantity in any one year) to be submitted along with bid in support of quantity supplied in the relevant
+year. In case of bunch bids, the category related to primary product having highest bid value should meet this criterion.
+
+                               1 / 3
+
+
+
+ 
+
+Dusk To Dawn Controller-Sensitive Switch ( 500 pieces ) ( Under PAC ) 
+
+Make crompton
+
+Model cromptonelectronicballast3640w
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC Rated Power (Watt) 6 KW 6 KW
+
+Ingress protection rating
+of enclosure (IP Rating)
+
+IP 54 IP 54
+
+Warranty (Years) 2 Years 2 Years
+
+CONSTRUCTIONAL Sensor Technology Lux based sensor *
+
+Material of Enclosure CRCA with 1.0 mm
+thickness
+
+*
+
+Overall dimension (mm) (L x W x H) MAX. 450 MM X
+300 MM X 125 MM
+
+*
+
+FUNCTIONAL Frequency (HZ) 50 Hz *
+
+Lux level based ON/OFF
+Switch
+
+YES *
+
+Lux level for switching (Lux) ON Condition: < / = 40 LUX.
+OFF Condition: From 80 LUX
+
+*
+
+Detection angle range of
+Sensor (Degree)
+
+120 degree *
+
+Permanent ON Facility. No *
+
+Time Delay (Seconds) Minimum 30 Seconds for
+sensing LUX level
+
+*
+
+Time based ON/OFF facility Yes *
+
+User settable Dusk Time ON Yes *
+
+User settable Dawn Time
+OFF
+
+Yes *
+
+Operating Temperature
+range. (Deg C)
+
+-10 degree C to +55 degree
+C
+
+*
+
+Operating Voltage range
+(Volt)
+
+230 Volt *
+
+CERTIFICATIONS Availability of Test Reports
+from Central Govt./State
+Govt/NABL/IL AC accredited
+Lab to prove conformity to
+the specification
+
+YES *
+
+Test Report No TC-6351 *
+
+Test Report Date 27/09/2017 *
+
+Name of the Lab GENERAL REQUIREMENT
+FOR THE COMPETENCE OF
+TESTING & CALIBRATION
+LABORATORIES
+
+*
+
+Address of the Lab THANE (WEST) *
+
+                               2 / 3
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/aVvlnbtB7mAF-KgllLGe6VOJ9twm2B0vGRCtPEo-Cr0
+
+
+ 
+
+MAHARASHTRA
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********NASHIK 500  30
+
+Bid Specific Additional Terms and Conditions
+1.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each
+
+Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If
+service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one
+within 30 days of award of contract. Payment shall be released only after submission of documentary evidence
+of having Functional Service Centre.
+
+2.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone
+No. for Service Support.
+
+3.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for
+Service Support.
+
+4.Procurement under this bid is reserved for purchase from Micro and Small Enterprises from the State of Bid
+Inviting Authority whose credentials are validated online through Udyog Aadhaar for that product category. If the
+bidder wants to avail the reservation benefit, the bidder must be the manufacturer of the offered product in case
+of bid for supply of goods. Traders are excluded from the purview of Public Procurement Policy for Micro and
+Small Enterprises. In respect of bid for Services, the bidder must be the Service provider of the offered Service.
+Relevant documentary evidence in this regard shall be uploaded along with the bid in respect of the offered
+product or service.
+
+5.ISO 9001: The bidder must have ISO 9001 certification.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               3 / 3
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

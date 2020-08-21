@@ -1,0 +1,490 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/678645
+
+  Dated: 20-06-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 01-07-2020 16:00:00
+
+Bid Opening Date/Time 2020-07-01 16:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Power
+
+Department Name Contracts And Materials
+
+Organisation Name Ntpc Ltd
+
+Office Name Western Region I Shared Services Centre
+
+Total Quantity 4
+
+Item Category Access Controlled Handle Door Lock
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+MSE Purchase Preference
+
+MSE Purchase Preference Yes
+
+                               1 / 5
+
+
+
+ 
+
+ 
+
+1. Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to
+MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012
+dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and its subsequent
+Orders/Notifications issued by concerned Ministry. If the bidder wants to avail the Purchase
+preference, the bidder must be the manufacturer of the offered product in case of bid for supply of
+goods. Traders are excluded from the purview of Public Procurement Policy for Micro and Small
+Enterprises. In respect of bid for Services, the bidder must be the Service provider of the offered
+Service. Relevant documentary evidence in this regard shall be uploaded along with the bid in
+respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s) has/have quoted
+price within L-1+ 15% of margin of purchase preference /price band defined in relevant policy, such
+Seller shall be given opportunity to match L-1 price and contract will be awarded for percentage of
+25% of total value.
+
+Access Controlled Handle Door Lock ( 4 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC Usage / Application for
+Door security locking
+with authorised in out
+control
+
+Yes *
+
+Should be Ideal for
+Wooden door – Glass
+door – Metal door –
+Steel door
+
+Yes *
+
+Door Handle should be
+Backset adjustable
+single latch
+design/Reversible type
+
+Yes *
+
+Lock type Multipoint Locking
+system
+
+Multipoint Locking
+system
+
+Access Control
+Hardware
+Architecture (Device
+with)
+
+In built Controller In built Controller
+
+Access control
+software
+Architecture
+
+Stand Alone Stand Alone
+
+Types of Access
+Control Credentials /
+Device
+
+Fingerprint + RFID card
++ Pin based Access
+Control
+
+Fingerprint + RFID card
++ Pin based Access
+Control
+
+Finger Sensor Passive capacitance Passive capacitance
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/oX_DwQSjetwefCAnkdY7rwsfi5im9WLmRJlkFxiotXY
+
+
+ 
+
+Design and active capacitance and active capacitance
+
+RFID sensing Design Electromagnetic sensor Electromagnetic sensor
+
+Type of RFID card
+supported
+
+Mifare Mifare
+
+Screen type Touch Touch
+
+Optical/RFID sensing
+area
+
+1 inch X 1 inch *
+
+Optical sensor
+Resolution ± 1 %
+
+500 DPI *
+
+Fingerprint
+Identification time
+
+<1 second *
+
+Fingerprint gathering
+time
+
+<2 second *
+
+Fingerprint templates
+remain intact after
+power failure
+
+Yes *
+
+Authentication speed
+(FAR – False
+acceptance rate)
+
+≤ 0.1 % *
+
+Authentication speed
+(FRR – False rejection
+rate)
+
+≤ 0.0001 % *
+
+Total Rotational angle 360 degree *
+
+Automatic Template
+Distribution of
+Biometric Templates on
+Assigned Devices to
+User
+
+Yes *
+
+Operating temperature 0 degree centigrade to
+45 degree centigrade
+
+*
+
+Operating Environment Humidity RH 48 % to
+80 %
+
+*
+
+Fingerprint
+memory/storage
+capacity
+
+Support upto 99
+fingerprint
+
+Support upto 99
+fingerprint
+
+Number of digits for
+input password/pin
+code
+
+Capable of 12 digit
+input pin code
+
+Capable of 12 digit
+input pin code
+
+Facility of RFID card
+registration
+
+Upto 100 RFID cards Upto 100 RFID cards
+
+Auto locking Facility Yes *
+
+Remote facility Yes – can be operated
+within defined
+distances
+
+*
+
+Provision of Super
+administrator and
+administrator – who
+
+Yes *
+
+                               3 / 5
+
+
+
+ 
+
+can enroll and delete
+
+Provision of flexible
+user pin
+
+Yes *
+
+Working power/Power
+input
+
+4 x 1.5V AAA alkaline
+cell
+
+*
+
+Dynamic state power
+consumed
+
+- *
+
+Static state power
+consumed
+
+- *
+
+Dead bolt error
+alarm
+
+Yes Yes
+
+Fire sensor Yes Yes
+
+Alarm provision –
+when door is not
+closed properly
+
+Yes Yes
+
+Tamper detection
+(Security alarm –
+when the invalid
+operation is made
+frequently by other
+than user)
+
+Yes Yes
+
+Low Battery warning voltage <4.8 volt *
+
+Customized Report
+Generation Facility
+
+No Yes, No
+
+Back up unlock
+mechanism
+
+Yes *
+
+Installation and
+Commissioning is
+included in the
+scope of supply
+
+Yes Yes
+
+MATERIAL Body material ABS plastic
+(Acrylonitrile Butadiene
+Styrene)
+
+ABS plastic
+(Acrylonitrile Butadiene
+Styrene)
+
+Thickness of body
+material
+
+2 mm 2 mm
+
+Suitable for Door
+thickness
+
+- *
+
+Front panel material Zinc alloy Zinc alloy
+
+DIMENSION Back set length/Case
+size
+
+57 mm/76 mm 57 mm/76 mm
+
+FINISH Finish type Matt finish Matt finish
+
+Front panel colors Black Black
+
+WARRANTY Warranty 1 1, 2, 3 Or higher
+
+Warranty in years for
+Battery life
+
+1 *
+
+                               4 / 5
+
+
+
+ 
+
+CERTIFICATION BIS registration under
+CRS of Meity
+
+No *
+
+RoHS compliance
+certification
+
+No *
+
+Type Test Certificate
+Covering (TCC) all
+parameters and
+environmental tests
+from STQC certified
+lab
+
+No Yes, No
+
+Test reports to be
+furnished to buyer on
+demand, if claimed to
+be available
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Vivek Pandurangji
+Masram
+
+441104,NTPC Limited,
+Mouda Super Thermal Power
+Project, Mouda Ramtek
+Road, PO Mouda
+
+4  60
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

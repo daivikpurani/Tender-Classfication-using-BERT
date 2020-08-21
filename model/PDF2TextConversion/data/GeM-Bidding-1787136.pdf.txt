@@ -1,0 +1,706 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/710967
+
+  Dated: 15-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 25-07-2020 12:00:00
+
+Bid Opening Date/Time 25-07-2020 12:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Army
+
+Office Name ***********
+
+Total Quantity 1
+
+Item Category Video Recorder for CCTV System
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  80 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+                               1 / 8
+
+
+
+ 
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 80% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Video Recorder For CCTV System ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+TYPE Type of Recording
+Device
+
+DVR NVR, DVR, Hybrid Video
+Recorder (HVR), NVR
+with Failover/Redundan
+cy(10:01)
+
+IP Camera Support Yes Yes, No
+
+PTZ Camera control
+Support
+
+Yes Yes, No
+
+Housing
+construction
+
+Alluminium Alluminium, Plastic
+
+Mounting Rack Mounted *
+
+Rack Mount
+configuration
+
+1U *
+
+Capability of Recorder
+to Work with Other
+Makes of CCTV
+Cameras (ONVIF
+support)
+
+Yes *
+
+VIDEO Number of Video
+Input Channels
+
+8 4, 8, 16, 32, 64, 128,
+256
+
+Number of Non-IP
+based Video input
+Channels for HVR
+
+NA 4, 8, 16, 32, 64, 128,
+NA
+
+Number of IP based
+Video input
+Channels for HVR
+
+NA 4, 8, 16, 32, 64, 128,
+NA
+
+                               2 / 8
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/WdOXXmDqE1NdifWHO4J2AwmkNL1Ydnj-67iyNI0aBRk
+
+
+ 
+
+Number of Video
+Output Channels
+
+2 1, 2, 4, 8, 16, 32, 64
+
+Recording
+Resolution
+
+Full HD (1920 x 1080) D1 (704 x 480), HD
+(1280 x 720), Full HD
+(1920 x 1080), 4K
+(3840 × 2160), 12 MP
+(4000 X 3000)
+
+Supported
+Compression
+Technique
+
+H.264,H.264+ *
+
+Maximum Number of
+cameras to be viewed
+on a single display
+
+8 *
+
+Total number of
+simultaneous local
+views
+
+1 *
+
+Simultaneous
+Monitoring Connections
+for All Cameras (Users
+in Local Network for
+Client Connection)
+
+16 *
+
+Recording Speed for all
+channels (fps)
+
+25 *
+
+Minimum Through put
+(Mbps)
+
+24 *
+
+Display Image Rate Real time per channel *
+
+AUDIO Audio Support Yes *
+
+Audio Input 4 *
+
+Audio Output 1 *
+
+Audio Compression G.711 *
+
+Minimum Number of
+Simultaneous Channels
+for Two-way Audio
+Support
+
+1 *
+
+SECURITY Type of Encryption HTTPS (SSL/TSL),HTTP
+(SSL/TSL),WPA,WPA2
+
+*
+
+Multi Level User ID /
+Password
+
+Yes *
+
+ALARM Alarm Support No *
+
+Alarm Input NA *
+
+Alarm Output NA *
+
+Pre / Post Alarm Buffer No *
+
+Pre-Alarm Recording 0 *
+
+Post-Alarm Recording 0 *
+
+Video Content Analytics Trip-wire *
+
+                               3 / 8
+
+
+
+ 
+
+(VCA) Detection,Motion
+Detection,Crossing
+line,Intrusion
+Detection,Object
+counting,Tampering
+
+NETWORK PROTOCOLS
+/ INTERFACE /
+OPERATING SYSTEM
+
+Operating System
+Supported
+
+Windows,MAC,Linux *
+
+Supported Network
+Protocols
+
+IGMP,RTP,RSTP,HTTP,H
+TTPS,DNS,RTCP,NTP,UP
+nP,SMTP,FTP,ICMP,TCP/
+IP
+
+*
+
+Supported Interface USB *
+
+Physical Layer of
+Ethernet
+
+10/100/1000 Base TX *
+
+Number of Ethernet
+Ports
+
+1 *
+
+Number of HDMI Ports 1 *
+
+Number of VGA Ports 1 *
+
+Number of CVBS Ports 0 *
+
+Number of USB Ports 2 *
+
+Number of Serial Ports 1 *
+
+Number of PoE Ports 1 *
+
+Supported SIM Slot 3G *
+
+Number of SIM Slots 0 *
+
+FEATURES Video Loop Support Yes *
+
+Video Recorder
+supports recording on
+NAS Directly
+
+Yes *
+
+Remote Administration
+(Remote Configuration
+And Status Using Web
+Based Tool)
+
+Yes *
+
+System Update
+(Remote System
+Update Over Network
+Using Web Client)
+
+Yes *
+
+PC Client (PC
+Application Client With
+A Channel Recording
+Feature Support)
+
+Yes *
+
+Web Client (Viewer
+through HTTP system
+configuration)
+
+Yes *
+
+On Screen Display (In
+English)
+
+Yes *
+
+Drivers / Compatible Yes *
+
+                               4 / 8
+
+
+
+ 
+
+Software (Wherever
+Applicable) Part Of
+Supply
+
+Recording schedule
+support
+
+Yes *
+
+Bandwidth Control Yes *
+
+Camera Notification Spot (POP up Window)
+on Event,SMS,E-mail
+
+*
+
+Network transmission
+Speed
+
+Real time display @ D1
+resolution
+
+*
+
+Other features, if any - *
+
+PLAYBACK / VIEW /
+MANAGEMENT
+
+Search Date,Time,Event,Log,M
+otion,Bookmarks
+
+*
+
+Bookmarks Forward,Backward,adju
+stable playback
+speed,Full Screen,Next
+Camera,Previous
+Camera,Repeat
+
+*
+
+Page preview Multi Monitor
+Support,Video
+Window,Electronic Map
+on two separate
+monitors
+
+*
+
+Total Management Group
+add,Delete,Group
+management
+
+*
+
+Camera Add,Edit,Delete,Use
+Master account,Use
+Specific account
+
+*
+
+STORAGE Internal Hard Drive
+Interface
+
+SATA I *
+
+Number of Hard Disks
+(inclusive in the scope
+of supply)
+
+1 *
+
+Storage Capacity of
+each Hard Disk (TB)
+
+1 *
+
+Total Storage
+Capacity(TB)
+
+1 *
+
+Internal Storage
+Expandable upto (TB)
+
+8 *
+
+Number of Hard Disks
+supported
+
+1 *
+
+Redundancy Option RAID 0 *
+
+POWER SUPPLY Power Input 12 V DC *
+
+Power Consumption 20 *
+
+Suitable Adapter to be
+Supplied to Make the
+
+Yes *
+
+                               5 / 8
+
+
+
+ 
+
+Equipment Work on
+230 V ± 10 %, 50 Hz
+
+Redundant Power
+Supply
+
+Yes *
+
+OPERATING
+CONDITIONS
+
+Minimum Operating
+Temperature
+
+-10 *
+
+Maximum Operating
+Temperature
+
+55 *
+
+Relative Humidity Non
+Condensing at 40 deg
+C
+
+90 *
+
+WARRANTY / SERVICES Warranty 1 1, 2, 3, 4, 5
+
+Time for
+Replacement of
+Defective Product
+During Warranty
+Period
+
+24 12, 24, 36, 48, 72, 96
+
+ENVIRONMENTAL /
+CERTIFICATION
+
+Availability of facility
+and infrastructure for
+verification of all the
+parameters, features
+and capability with the
+Seller
+
+Yes *
+
+Conformity to Dry Heat
+test at Specified
+Maximum Operating
+Temperature for 16
+hours as per IS :9000
+latest
+
+Yes *
+
+Conformity to Damp
+heat at 40 degree C -
+95% RH (cyclic test):
+two cycles of 16+8
+hours as per IS: 9000
+latest
+
+Yes *
+
+Conformity to Cold test
+at Specified Minimum
+Operating Temperature
+for 4 hours as per IS:
+9000 latest
+
+Yes *
+
+BIS Registration for
+safety general
+requirements as per IS:
+13252 (Part 1): latest
+
+Yes *
+
+Availability of Test
+Report from Central
+Govt/NABL/ILAC
+accredited lab to prove
+conformity to
+specification
+
+- *
+
+                               6 / 8
+
+
+
+ 
+
+Test Report Number
+and Date
+
+- *
+
+Name and Address of
+Test Lab
+
+- *
+
+Certification FCC *
+
+LIST OF ITEMS List of Items and
+Quantity of each item
+included in the offer
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********BARDHAMAN 1  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+2.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+3.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+4.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+5.Warranty period of the supplied products shall be 3 years from the date of final acceptance
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+6.For fulfilling the experience criteria any one of the following documents may be considered
+as valid proof for meeting the experience criteria:
+a. Purchase Order copy along with Invoice(s) with self-certification by the bidder that
+supplies against the invoices have been executed.
+b. Execution certificate by client with order value.
+c. Any other document in support of order execution like Third Party Inspection release note,
+etc.
+
+                               7 / 8
+
+
+
+ 
+
+7.The Bidder / OEM {themselves or through reseller(s)}, should have executed project for
+supply and installation / commissioning of same or similar Category Products during
+preceding 3 financial years (i.e. current year and three previous financial years) as on
+opening of bid, as per following criteria:
+ 
+(i) Single order of at least 35% of estimated bid value; or
+(ii) Two orders of at least 20% each of estimated bid value; or
+(iii) Three orders of at least 15% each of estimated bid value.
+Satisfactory Performance certificate issued by respective Buyer Organization for the above
+Orders should be uploaded with bid. In case of bunch bids, the Category related to primary
+product having highest bid value should meet this criterion
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               8 / 8
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

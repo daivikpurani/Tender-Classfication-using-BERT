@@ -1,0 +1,446 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/691866
+
+  Dated: 30-06-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 12:00:00
+
+Bid Opening Date/Time 2020-07-20 12:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 70 (Days)
+
+Ministry/State Name Ministry Of Coal
+
+Department Name Materials Management
+
+Organisation Name Central Mine Planning And Design Institute Limited
+
+Office Name Jharkhand
+
+Total Quantity 2
+
+Item Category hand held gps
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Past Performance,Certificate (Requested in
+ATC),OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  50 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 5
+
+
+
+ 
+
+1. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 50% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Hand Held Gps ( 2 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC Type Hand Held *
+
+Built-in Antenna Yes *
+
+Dimensions (mm x mm
+x mm)
+
+- *
+
+Weight with Batteries
+(grams)
+
+289 *
+
+Channels (No.) 24 *
+
+Pre-loaded Handheld
+Software
+
+yes yes
+
+Compatible Office
+Software
+
+yes *
+
+Slip Resistant Grip Yes *
+
+Base Map Yes *
+
+WAAS Enabled Yes *
+
+Inbuilt Electronic
+Compass
+
+yes *
+
+Paperless
+Geocaching
+
+yes yes
+
+Sun and Moon
+Information
+
+yes *
+
+Inbuilt Barometric
+Altimeter Facility
+
+yes *
+
+Audio Microphone and
+Speaker, Recrd and
+Playback Option
+
+*
+
+PORT / CONNECTIVITY Bluetooth Connectivity yes *
+
+USB yes *
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/lzY5NMnxdaAZNKtqmxfaWxcow_rAHqQZS0kHqnC8IVA
+
+
+ 
+
+STORAGE RAM (GB) 4 3.0, 4.0, 5.0
+
+Micro SD Card Slot yes yes
+
+Expandable upto (GB) 4 *
+
+DISPLAY Display Type Transflective Colour
+TFT
+
+*
+
+Display Size
+(Diagonal) (Inches)
+
+4.1 to 4.5 4.1 to 4.5
+
+Display Resolution - *
+
+Touchscreen yes yes
+
+BATTERY Type of Battery Rechargeable *
+
+Battery Chemistry Li-ion *
+
+Battery capacity (Vah) 1200 *
+
+Battery Back up (Hour)
+(N >= 16)
+
+16 *
+
+TRACK DETAILS Waypoints / Favorites /
+Locations (No.)
+
+4000 *
+
+Routes (No.) 200 *
+
+Track Log 10000 Points, 200
+saved Tracks
+
+*
+
+Area Calculation Yes *
+
+VARIOUS TEST Drop/ Free Fall Test Drop/ Free Fall Test in
+unpacked, Switched Off
+and normal handling
+conditions (Height- 1
+m, Total no. of falls- 2)
+
+*
+
+Vibration Test Vibration test in packed
+and Switched off
+condition (10-150 Hz,
+0.15mm / 2g, 10
+Sweep,cycles / axes
+
+*
+
+Bump Test Bump test in packed
+and Switched off
+condition &#x28;1000
+Bumps, 40 gm, in
+vertical position&#x29;
+
+*
+
+PERFORMANCE Processor - *
+
+Operating Temperature
+(Degree C)
+
+50 *
+
+Operating Humidity
+(RH) (%)
+
+- *
+
+Accuracy - *
+
+Update Rate (Hz) 1 *
+
+Time taken to give first
+fix (Second)
+
+60 *
+
+                               3 / 5
+
+
+
+ 
+
+ACCESSORIES Standard Accessories
+to be supplied with the
+equipment
+
+- *
+
+Carry Case Yes *
+
+SERVICE Warranty (Year) 1 1.0
+
+CERTIFICATION Ingress Protection (IP
+Rating)
+
+IPX7 *
+
+BIS Registration under
+Compulsory
+Registration Scheme
+
+NA for Alkaline (Non-
+Rechargable) batteries
+
+*
+
+BIS Registration No and
+its validity
+
+- *
+
+TEST REPORT DETAILS Availability of Test
+Reports from Central
+Govt / NABL approved /
+ILAC acredited lab to
+prove conformity to the
+specification (Test
+Reports are to be
+furnished when
+demanded by the
+buyer)
+
+Yes *
+
+Test Report no. and
+date (Not a part of
+biddable parameter)
+
+- *
+
+Name and Address of
+the Lab (Not a part of
+biddable parameter)
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Atul Kumar 834008,MATERIAL
+MANAGEMENT
+DEPARTMENT, CENTRAL
+MINE PLANNING AND
+DESIGN INSTITUTE LIMITED,
+GONDWANA PLACE, KANKE
+ROAD, RANCHI- 834008
+
+2  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Bidder financial standing: The bidder should not be under liquidation, court receivership
+
+                               4 / 5
+
+
+
+ 
+
+or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect
+with bid.
+
+2.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+3. Indian suppliers of this item are not allowed to participate and/ or compete in procurement
+by some foreign governments. Bidders / products from such countries are not eligible / not
+allowed to participate in this bid in terms of clause 1 (d) of Public Procurement (Preference
+to Make in India) Order, 2017
+
+4.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+5.Malicious Code Certificate:
+
+The seller should upload following certificate in the bid:-
+(a) This is to certify that the Hardware and the Software being offered, as part of the
+contract, does not contain Embedded Malicious code that would activate procedures to :-
+  (i) Inhibit the desires and designed function of the equipment.
+  (ii) Cause physical damage to the user or equipment during the exploitation.
+  (iii) Tap information resident or transient in the equipment/network.
+(b) The firm will be considered to be in breach of the procurement contract, in case physical
+damage, loss of information or infringements related to copyright and Intellectual Property
+Right (IPRs) are caused due to activation of any such malicious code in embedded software.
+
+6.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+7.Preference to Make In India products (For bids less than 200 Crore):Preference shall be given
+to Class 1 local supplier as defined in public procurement (Preference to Make in India),
+Order 2017 as amended from time to time and its subsequent Orders/Notifications issued by
+concerned Nodal Ministry for specific Goods/Products. The minimum local content to qualify
+as a Class 1 local supplier is denoted in the bid document 50%. If the bidder wants to avail
+the Purchase preference, the bidder must upload a certificate from the OEM regarding the
+percentage of the local content and the details of locations at which the local value addition
+is made along with their bid, failing which no purchase preference shall be granted. In case
+the bid value is more than Rs 10 Crore, the declaration relating to percentage of local
+content shall be certified by the statutory auditor or cost auditor, if the OEM is a company
+and by a practicing cost accountant or a chartered accountant for OEMs other than
+companies as per the Public Procurement (preference to Make-in -India) order 2017 dated
+04.06.2020. Only Class-I and Class-II Local suppliers as per MII order dated 4.6.2020 will be
+eligible to bid. Non - Local suppliers as per MII order dated 04.06.2020 are not eligible to
+participate. In case Buyer has selected Purchase preference to Micro and Small Enterprises
+clause in the bid, the same will get precedence over this clause.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

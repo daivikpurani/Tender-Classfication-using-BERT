@@ -1,0 +1,649 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/707430
+
+  Dated: 14-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 24-07-2020 18:00:00
+
+Bid Opening Date/Time 24-07-2020 18:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 40 (Days)
+
+Ministry/State Name Ministry Of Home Affairs
+
+Department Name Department Of Border Management
+
+Organisation Name N/a
+
+Office Name Land Ports Authority Of India
+
+Total Quantity 1
+
+Item Category diesel generators- DG Sets
+
+Bidder Turnover (Last 3 Years)  7 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  59 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years Of Experience and
+Turnover
+
+ Yes
+
+Startup Exemption for Years Of Experience
+and Turnover
+
+ Yes
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  80 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 2.00
+
+EMD Amount 29714
+
+                               1 / 8
+
+
+
+ 
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 2.00
+
+Duration of ePBG required (Months). 12
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+Deputy Secretary
+Land Ports Authority Of India, Department of Border Management, N/A, Ministry of Home Affairs
+(Harish Chandra Rai)
+
+Splitting
+
+ Bid splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 80% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Diesel Generators- DG Sets ( 1 pieces )
+
+Technical Specifications
+
+                               2 / 8
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+OUTPUT CAPACITY
+RATING/ PHASE
+
+Nominal Rated
+Capacity (KVA)
+
+125 125, 160, 180, 200,
+250, 320, 380, 400,
+500, 600, 750, 140 Or
+higher
+
+No of Phase - Three Phase
+
+ENGINE Make of Engine - *
+
+Model Number of
+Engine
+
+- *
+
+Capacity of Engine (cc) - *
+
+Engine Power (kWm) - *
+
+ISI Marking to IS :10001
+for engine
+
+No *
+
+BIS license No, if
+applicable
+
+- *
+
+Type of Engine
+cooling
+
+Liquid Cooled Liquid Cooled
+
+Type of governer Electronic Electronic Or higher
+
+Class of governer A0 A0 Or higher
+
+Number of cylinders
+(nos)
+
+6 *
+
+No of Strokes (nos) 4 *
+
+Rated RPM of Engine
+(RPM)
+
+- 1500
+
+Overload capacity for
+one hour for every 11
+hours continuous
+running at full load (%)
+
+10 *
+
+Specific Fuel
+Consumption (gm/kWh)
+
+- *
+
+Starting voltage (volt) 12 *
+
+ALTERNATOR AC GENERATOR(ALTER
+NATOR) Make
+
+- *
+
+AC GENERATOR(ALTER
+NATOR) model Number
+
+- *
+
+Rating of AC Generator
+(KVA)
+
+125 *
+
+Power Factor of AC
+generator
+
+0.8 *
+
+Efficiency at rated
+Power factor at 75% of
+full Load
+
+93.16 *
+
+                               3 / 8
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/hpVj6moJihkED9rh4OyFvi2T5zU9q4oXTK2xOfbpGDQ
+
+
+ 
+
+Compliance of
+Alternator to
+IS:13364(part-1)
+
+Yes *
+
+Type of alternator Brushless *
+
+Voltage Regulation
+Grade
+
+VG 3 *
+
+Alternator IP Rating IP 23 *
+
+Class of Insulation H *
+
+CONTROL PANEL Control Panel AMF AMF
+
+IP Rating of Control
+Panel
+
+IP 53 *
+
+ACOUSTIC ENCLOSURE Sheet Thickness 2 2 Or higher
+
+Thickness of Foam 40 *
+
+Density of Foam for
+sound insulation
+
+40 *
+
+Noise level at 1 meter
+(dB)
+
+75 *
+
+BATTERY Battery Type &
+Specification
+
+Low Maintenance free
+to IS: 14257 for high
+cranking performance
+
+*
+
+Battery capacity (Ah) - *
+
+No of batteries 1 *
+
+TEST REPORTS Availability of Type test
+report for Engine from
+Central govt/NABL/ILAC
+accredited laboratory
+
+Yes *
+
+Test Report number
+and date(Engine)
+
+- *
+
+Name and address of
+laboratory(Engine)
+
+- *
+
+Availability of Type test
+report for Alternator
+from Central
+government/NABL/ILAC
+accredited laboratory
+
+Yes *
+
+Test Report number
+and date(Alternator)
+
+- *
+
+Name and address of
+laboratory(Alternator)
+
+- *
+
+DG set meet
+requirements of Enviro
+nmental(Protection)
+Rules 1986, in respect
+of noise and emission
+norms, as described in
+STC
+
+Yes *
+
+                               4 / 8
+
+
+
+ 
+
+WARRANTY /
+INSTALLATION &
+COMMISSIONING
+
+Warranty 2 2.0
+
+Installation &
+Commissioning
+
+With Installation With Installation
+
+Agreed to STC of the
+Product
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Arvind Basavaraj
+Akashi
+
+788712,Sutrakandi 1  30
+
+Special terms and conditions for category diesel generators- DG Sets 
+
+1. In addition to General Terms and Conditions of GeM, Special T&C shall be applicable for
+Diesel Generating Set/DG Set. click here to view the Special terms and conditions.
+
+Bid Specific Additional Terms and Conditions
+
+1.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+2.Bidder financial standing: The bidder should not be under liquidation, court receivership
+or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect
+with bid.
+
+3.Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have
+regularly, manufactured and supplied same or similar Category Products to any Central /
+State Govt Organization / PSU / Public Listed Company for 3 years before the bid opening
+date. Copies of relevant contracts to be submitted along with bid in support of having
+supplied some quantity during each of the year. In case of bunch bids, the primary product
+having highest value should meet this criterion.
+
+4.For hazardous chemical/item, all precautionary measure as per regulation from the point of
+transportation/ handling/ storage/ safety/ health/ environment to be undertaken/ specified
+before dispatch. During dispatch, proper symbol for the hazard/ MSDS/ Batch No./ date of
+manufacturing/ Gross Weight/ Net Weight/ shelf Life etc are to be written/ printed/ pasted on
+the body of the packing.
+
+5.Malicious Code Certificate:
+
+The seller should upload following certificate in the bid:-
+(a) This is to certify that the Hardware and the Software being offered, as part of the
+contract, does not contain Embedded Malicious code that would activate procedures to :-
+
+                               5 / 8
+
+
+
+ 
+
+  (i) Inhibit the desires and designed function of the equipment.
+  (ii) Cause physical damage to the user or equipment during the exploitation.
+  (iii) Tap information resident or transient in the equipment/network.
+(b) The firm will be considered to be in breach of the procurement contract, in case physical
+damage, loss of information or infringements related to copyright and Intellectual Property
+Right (IPRs) are caused due to activation of any such malicious code in embedded software.
+
+6.1. The Seller shall not assign the Contract in whole or part without obtaining the prior written
+consent of buyer.
+2. The Seller shall not sub-contract the Contract in whole or part to any entity without
+obtaining the prior written consent of buyer.
+3. The Seller shall, notwithstanding the consent and assignment/sub-contract, remain jointly
+and severally liable and responsible to buyer together with the assignee/ sub-contractor, for
+and in respect of the due performance of the Contract and the Sellers obligations there
+under.
+
+7.Without prejudice to Buyer’s right to price adjustment by way of discount or any other right
+or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a
+written notice to the Seller, if:
+i) The Seller fails to comply with any material term of the Contract.
+ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within
+the stipulated Delivery Period or such inability otherwise becomes apparent.
+iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery
+Period and/or to replace/rectify any rejected or defective Material(s) promptly.
+iv) The Seller becomes bankrupt or goes into liquidation.
+v) The Seller makes a general assignment for the benefit of creditors.
+vi) A receiver is appointed for any substantial property owned by the Seller.
+vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has
+placed the Purchase Order on the Seller.
+
+8. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+9.Bidders can also submit the EMD with Payment online through RTGS / internet banking in
+Beneficiary name 2 Account No. 2 IFSC Code 2 Bank Name 2 Branch address 2.
+ Bidder to indicate bid number and name of bidding entity in the transaction details field at
+the time of on-line transfer. Bidder has to upload scanned copy / proof of the Online Payment
+Transfer along with bid.
+
+10.Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt
+also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in
+the name of 3 A/C (Name of the Seller). The bank should certify on it that the deposit can be
+withdrawn only on the demand or with the sanction of the pledgee. For release of Security
+Deposit, the FDR will be released in favour of bidder by the Buyer after making endorsement
+on the back of the FDR duly signed and stamped along with covering letter. Successful
+Bidder has to upload scanned copy of the FDR document in place of PBG and has to ensure
+delivery of hard copy of Original FDR to the Buyer within 15 days of award of contract.
+
+11.Successful Bidder can submit the Performance Security in the form of Payment online
+through RTGS / internet banking also (besides PBG which is allowed as per GeM GTC). On-
+line payment shall be in Beneficiary name 3 Account No. 3 IFSC Code 3 Bank Name 3 Branch
+address 3. Successful Bidder to indicate Contract number and name of Seller entity in the
+transaction details field at the time of on-line transfer. Bidder has to upload scanned copy /
+proof of the Online Payment Transfer in place of PBG within 15 days of award of contract.
+
+12.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+13.Preference to Make In India products (For bids less than 200 Crore):Preference shall be given
+to Class 1 local supplier as defined in public procurement (Preference to Make in India),
+Order 2017 as amended from time to time and its subsequent Orders/Notifications issued by
+concerned Nodal Ministry for specific Goods/Products. The minimum local content to qualify
+
+                               6 / 8
+
+
+
+ 
+
+as a Class 1 local supplier is denoted in the bid document 50%. If the bidder wants to avail
+the Purchase preference, the bidder must upload a certificate from the OEM regarding the
+percentage of the local content and the details of locations at which the local value addition
+is made along with their bid, failing which no purchase preference shall be granted. In case
+the bid value is more than Rs 10 Crore, the declaration relating to percentage of local
+content shall be certified by the statutory auditor or cost auditor, if the OEM is a company
+and by a practicing cost accountant or a chartered accountant for OEMs other than
+companies as per the Public Procurement (preference to Make-in -India) order 2017 dated
+04.06.2020. Only Class-I and Class-II Local suppliers as per MII order dated 4.6.2020 will be
+eligible to bid. Non - Local suppliers as per MII order dated 04.06.2020 are not eligible to
+participate. In case Buyer has selected Purchase preference to Micro and Small Enterprises
+clause in the bid, the same will get precedence over this clause.
+
+14.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents
+sought in the Bid document, ATC and Corrigendum if any.
+
+15. ISO 9001: The bidder must have ISO 9001 certification.
+16.The bidder is required to upload, along with the bid, all relevant certificates such as BIS
+
+licence, type test certificate, approval certificates and other certificates as prescribed in the
+Product Specification given in the bid document.
+
+17.To be eligible for award of contract, Bidder / OEM must possess following Certificates / Test
+Reports on the date of bid opening (to be uploaded with bid): -----.
+
+18.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+19.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial
+year, should be as indicated in the bid document. Documentary evidence in the form of
+certified Audited Balance Sheets of relevant periods or a certificate from the Chartered
+Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than
+3 year old, the average turnover in respect of the completed financial years after the date of
+constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of
+CATEGORY RELATED TO primary product having highest bid value should meet this criterion.
+
+20.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+21.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+22.Bidder / OEM has to give an undertaking that after expiry of warranty period, it will provide
+Comprehensive Maintenance Service for next 4 years for the offered products at the rate not
+more than 10 % of contract price per annum. Buyer reserves the right to enter into a CMC
+agreement with the Successful Bidder / OEM after expiry of the Warranty period at above
+mentioned rate and the payment for the CMC charges would be made Quarterly after
+rendering of the CMC Services of the relevant CMC period. Performance Security of the
+successful bidder shall be forfeited if it fails to accept the CMC contract when called upon by
+the buyer. CMC would include cost of 3 (Upload the undertaking). The original Performance
+Security of contract will be returned only after submission and verification of AMC
+Performance Security for 2% of total CMC value valid up to CMC period plus 2 months (if
+there is no other claim).
+
+23.Successful bidder will have to ensure that adequate number of dedicated technical service
+personals / engineers are designated / deployed for attending to the Service Request in a
+time bound manner and for ensuring Timely Servicing / rectification of defects during
+warranty period, as per Service level agreement indicated in the relevant clause of the bid.
+
+24.Timely Servicing / rectification of defects during warranty period: After having been notified
+
+                               7 / 8
+
+
+
+ 
+
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 5 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+25.For fulfilling the experience criteria any one of the following documents may be considered
+as valid proof for meeting the experience criteria:
+a. Purchase Order copy along with Invoice(s) with self-certification by the bidder that
+supplies against the invoices have been executed.
+b. Execution certificate by client with order value.
+c. Any other document in support of order execution like Third Party Inspection release note,
+etc.
+
+26.The Bidder / OEM {themselves or through reseller(s)}, should have executed project for
+supply and installation / commissioning of same or similar Category Products during
+preceding 3 financial years (i.e. current year and three previous financial years) as on
+opening of bid, as per following criteria:
+ 
+(i) Single order of at least 35% of estimated bid value; or
+(ii) Two orders of at least 20% each of estimated bid value; or
+(iii) Three orders of at least 15% each of estimated bid value.
+Satisfactory Performance certificate issued by respective Buyer Organization for the above
+Orders should be uploaded with bid. In case of bunch bids, the Category related to primary
+product having highest bid value should meet this criterion
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               8 / 8
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

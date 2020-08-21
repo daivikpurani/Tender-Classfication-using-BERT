@@ -1,0 +1,384 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/715080
+  Dated: 17-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 16:00:00
+
+Bid Opening Date/Time 27-07-2020 16:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Civil Aviation
+
+Department Name Airports Authority Of India (aai)
+
+Organisation Name Airports Authority Of India ,rhq Nr - Rangpuri
+
+Office Name Aai Rhq Nr
+
+Total Quantity 2
+
+Item Category Online UPS
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Online UPS ( 2 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Generic Rating in KVA (KVA) 10.0 KVA 10.0 KVA
+
+Technology IGBT-PWM with inbuilt
+isolation transformer
+
+IGBT-PWM with inbuilt
+isolation transformer
+
+                               1 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/R4vgsePs2uhd9W3Z9xNeEPf37QhG_fZ5pGYN81IRGro
+
+
+ 
+
+Input Power Three phase 300 V - 450V
+sinewave,50Hz
+
+Three phase 300 V - 450V
+sinewave,50Hz
+
+Output power 3 Phase 400V +/-1% with
+alternative user setable
+setting of 380V +/-1% 50 Hz
+
+3 Phase 400V +/-1% with
+alternative user setable
+setting of 380V +/-1% 50 Hz
+
+Backup time (Minutes) 30 30
+
+Minimum VAH (VAH) 8000 8000, 64000
+
+Warranty for UPS (Years) 2 2
+
+Movable trolly for
+Batteries
+
+With With
+
+Warranty for battery 2 2
+
+Degree of Protection IP20 IP20
+
+Cabling 5 meters for
+input and out put
+
+With With
+
+Paralleling kit for
+synchronising
+
+With With
+
+Installation and
+Commissioning
+
+Yes *
+
+Constructional Minimum thickness of
+M.S.Sheet Enclosure duly
+painted (mm)
+
+1.2 *
+
+Type of Battery SMF-VRLA conforming to
+JISC:8702(Pt.I,II&III)
+
+SMF-VRLA conforming to
+JISC:8702(Pt.I,II&III)
+
+Functional Maximum overshoot and
+Under shoot of output rated
+voltage
+
+4 *
+
+Voltage Regulation from no
+load to full load (%)
+
+< / = 3% *
+
+20% Overload limit for
+minimum 10 minutes
+
+Yes Yes
+
+Overall Efficiency (%) >/=90% >/=90%
+
+Total Harmonic
+Distortion(THD) (%)
+
+Maximum 3% *
+
+50% Overload limit for
+minimum 1 minutes
+
+Yes Yes
+
+Protection Protection for under voltage
+at battery terminal at 10.5V
+per 12 V battery
+
+Yes *
+
+Protection of Over
+voltage,Short Circuit & over
+load at UPS output terminal
+
+Yes *
+
+Metering And Indications Digital Metering in UPS for
+AC Input Voltage,Output AC 
+Voltage,Current,Frequency,
+Battery Voltage and Current
+
+Yes *
+
+Indicators for mains
+presence,Battery charging
+and discharging,Output
+Over Load, Low Battery
+Voltage
+
+Yes *
+
+Reports And Certification Damp Heat : in accordance
+with IS:9000(part
+5/sec.2)1981 at
+Temperature of 40 degree
+
+Yes *
+
+                               2 / 4
+
+
+
+ 
+
+C,two cycles of (12+12)
+hours each 2007)
+
+Dry Heat Test : in
+accordance with IS:9000
+(part 3/sec.5)1977
+(reaffirmed 2007) at 55
+degree C for 16 hrs
+
+Yes *
+
+Cold Test : in accordance
+with IS:9000 (Part
+2/Sec.4)1977 (Reaffirmed
+2007) at -10 degree C for 4
+hrs.
+
+Yes *
+
+Availability of the Type Test
+Report from Central Govt.
+/NABL/ILAC Accredited lab
+covering all technical
+requirements.
+
+Yes *
+
+Type Test Certificate No. - *
+
+Type Test Certificate date - *
+
+Name of Lab - *
+
+Address of Lab - *
+
+As per Meity (Government
+of India) guidelines UPS
+shall have valid BIS CRS
+certifications as applicable
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Dinesh Prasad Mishra 248140,AIRPORTS AUTHORITY OF
+INDIA DEHRADUN AIRPORT
+
+2  15
+
+Special terms and conditions for category Online UPS 
+
+1.Calculation of Minimum VAH based on Back up time Minimum VAH requirements would be calculated on the
+basis of following: (VAH Calculation: Battery Voltage x Battery Ah x No. of Batteries = VAH)UPS Rating15
+Minutes30 Minutes60 Minutes90 Minutes120 Minutes180 Minutes240 Minutes1 KVA400 VAH800 VAH1600
+VAH2400 VAH3200 VAH4800 VAH6400 VAH2 KVA800 VAH1600 VAH3200 VAH4800 VAH6400 VAH9600
+VAH12800 VAH3 KVA1200 VAH2400 VAH4800 VAH7200VAH9600 VAH14400 VAH19200 VAH5 KVA2000
+VAH4000 VAH8000 VAH12000 VAH16000 VAH24000 VAH32000 VAH6 KVA2400 VAH4800 VAH9600 VAH14400
+VAH19200 VAH28800 VAH38400 VAH7.5 KVA3000 VAH6000 VAH12000 VAH18000 VAH24000 VAH36000
+VAH48000 VAH10 KVA4000 VAH8000 VAH16000 VAH24000 VAH32000 VAH48000 VAH64000 VAH15 KVA6000
+VAH12000 VAH24000 VAH36000 VAH48000 VAH72000 VAH96000 VAH20 KVA8000 VAH16000 VAH32000
+VAH48000 VAH64000 VAH96000 VAH128000 VAH30 KVA12000 VAH24000 VAH48000 VAH72000 VAH96000
+VAH144000 VAH192000 VAH40 KVA16000 VAH32000 VAH64000 VAH96000 VAH128000 VAH192000
+VAH256000 VAH60 KVA24000 VAH48000 VAH96000 VAH144000 VAH192000 VAH288000 VAH384000 VAH80
+KVA32000 VAH64000 VAH128000 VAH192000 VAH256000 VAH384000 VAH512000 VAH100 KVA40000
+VAH80000 VAH160000 VAH240000 VAH320000 VAH480000 VAH640000 VAH
+
+Bid Specific Additional Terms and Conditions
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods
+
+and Training of operators and providing Statutory Clearances required (if any)
+
+                               3 / 4
+
+
+
+ 
+
+2.IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered
+office in India to provide after sales service support in India. The certificate to this effect should be submitted.
+
+3.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each
+Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If
+service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one
+within 30 days of award of contract. Payment shall be released only after submission of documentary evidence
+of having Functional Service Centre.
+
+4.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone
+No. for Service Support.
+
+5.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for
+Service Support.
+
+6.Successful bidder will have to ensure that adequate number of dedicated technical service personals / engineers
+are designated / deployed for attending to the Service Request in a time bound manner and for ensuring Timely
+Servicing / rectification of defects during warranty period, as per Service level agreement indicated in the
+relevant clause of the bid.
+
+7.For fulfilling the experience criteria any one of the following documents may be considered as valid proof for
+meeting the experience criteria:
+a. Purchase Order copy along with Invoice(s) with self-certification by the bidder that supplies against the
+invoices have been executed.
+b. Execution certificate by client with order value.
+c. Any other document in support of order execution like Third Party Inspection release note, etc.
+
+8.The Bidder / OEM {themselves or through reseller(s)}, should have executed project for supply and installation /
+commissioning of same or similar Category Products during preceding 3 financial years (i.e. current year and
+three previous financial years) as on opening of bid, as per following criteria:
+ 
+(i) Single order of at least 35% of estimated bid value; or
+(ii) Two orders of at least 20% each of estimated bid value; or
+(iii) Three orders of at least 15% each of estimated bid value.
+Satisfactory Performance certificate issued by respective Buyer Organization for the above Orders should be
+uploaded with bid. In case of bunch bids, the Category related to primary product having highest bid value
+should meet this criterion
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

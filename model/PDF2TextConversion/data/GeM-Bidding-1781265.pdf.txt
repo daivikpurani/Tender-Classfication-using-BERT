@@ -1,0 +1,608 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/705608
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 15:00:00
+
+Bid Opening Date/Time 20-07-2020 15:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 80 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Army
+
+Office Name ***********
+
+Total Quantity 64
+
+Item Category Optical Time Domain Reflectometer (OTDR)
+
+Bidder Turnover (Last 3 Years)  150 Lakh (s)
+
+Experience Criteria  2 Year (s)
+
+MSE Exemption for Turnover  Yes
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,OEM Authorization Certificate,OEM Annual
+Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  50 %
+
+Bid to RA enabled  Yes
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 3.00
+
+EMD Amount 903974
+
+ePBG Detail
+
+                               1 / 7
+
+
+
+ 
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 2.00
+
+Duration of ePBG required (Months). 38
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+Colonel Signals Project Management
+HQ Eastern Command, Department of Defence, Indian Army, Ministry of Defence
+(Nitin Kapoor)
+
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 50% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Optical Time Domain Reflectometer (OTDR) ( 64 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+PERFORMANCE Fiber Compatibility Both Single Mode &
+Multi Mode
+
+Both Single Mode &
+Multi Mode
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/eqYjeMHGCLiII21jMIarDCQh-GUMPKSGsWMTsVydrX0
+
+
+ 
+
+Central Wavelength
+(nm)
+
+1310 & 1550 and 850
+& 1300 for Both Single
+Mode & Multi Mode
+
+1310 & 1550 and 850
+& 1300 for Both Single
+Mode & Multi Mode
+
+Wavelength
+Tolerance (±)
+
+20 Less than 20.0 Or lower
+
+Dynamic range@
+Max Wavelength
+
+35 35.0 - 50.0 Or higher
+
+Event dead zone -
+Maximum
+
+1 Less than 1.0 Or lower
+
+Attenuation dead
+zone - Maximum
+
+4 Less than 4.0 Or lower
+
+Maximum Display
+Distance Range
+
+- *
+
+Pulse width Range 3 to 20000 for Single
+Mode/Live Fiber
+Testing,3 to 1000 for
+Multi Mode
+
+*
+
+Distance
+Measurement
+Accuracy (±)
+
+0.53 Less than 0.53 Or lower
+
+Reflection Detection
+Accuracy (±)
+
+± 5 dB for Multi Mode
+or better,± 4 dB for
+Single Mode or better
+
+*
+
+Linearity (dB/dB) (±) 0.05 *
+
+Sampling points 256000 256000.0 - 256000.0
+Or higher
+
+Measurement time User Selectable 15
+seconds to 180
+seconds
+
+*
+
+DISPLAY / STORAGE Display Colour
+Display,LCD,Daylight
+Readable Display
+
+*
+
+Display Size 7 7.0 - 12.0 Or higher
+
+Connectivity interface USB,RJ 45 *
+
+Internal Storage
+OTDR traces
+
+50000 50000
+
+External Storage /
+Memory Stick Slot
+provided
+
+Micro SD,USB *
+
+External Storage
+Capacity inclusive in
+the scope of supply
+
+32 32 Or higher
+
+STABILIZED LIGHT
+SOURCE
+
+Integrated Stabilized
+Light Source
+
+Yes *
+
+Light Source Wave
+Length
+
+Same as OTDR *
+
+                               3 / 7
+
+
+
+ 
+
+Modulation CW,270 Hz,1 kHz,2 kHz *
+
+Optical output power – 3 dBm for Multi
+Mode,– 6 dBm for
+Single Mode
+
+*
+
+Optical output port On OTDR Port *
+
+POWER SOURCE Power Source Internal / Removable-
+Rechargeable Battery
+
+*
+
+Battery Chemistry, if
+Rechargeable Battery
+
+Li-Ion *
+
+Voltage of each Battery - *
+
+Battery Capacity (mAh) 4400 *
+
+Number of Batteries
+required for operation
+
+1 *
+
+Number of Batteries
+supplied (Inclusive in
+the Scope of Supply)
+
+2 *
+
+Operating Time per full
+charge (Minimum)
+
+- *
+
+Suitable Adapter to be
+supplied to make the
+equipment Work on
+230 V ± 10 %, 50 Hz
+
+Yes *
+
+VISUAL FAULT
+LOCATOR (VFL) /
+VISUAL LIGHT SOURCE
+(VLS) FOR OTDR
+
+Built-in Visual Fault
+Locator (VFL) /
+Visual Light Source
+(VSL)
+
+Yes Yes
+
+Wave Length Range
+(VFL/VSL)
+
+650 nm ± 20 nm *
+
+Output Function
+(VFL/VSL)
+
+OFF,CW,Blink *
+
+Maximum Optical
+output power (Peak)
+(VFL/VSL) - dBm
+
+− 3 dBm or more *
+
+Laser Safety of VFL/VSL
+as per IEC 60825-1
+latest or equivalent
+international standard
+
+CLASS 3R *
+
+POWER METER FOR
+OTDR
+
+Built-in Power Meter Yes Yes
+
+Power Meter input
+port
+
+Dedicated Port on
+OTDR
+
+Dedicated Port on
+OTDR
+
+Wavelength Range 850 nm to 1650 nm 850 nm to 1650 nm
+
+Modulation (Power
+Meter)
+
+CW,270 Hz,1 kHz,2 kHz *
+
+Minimum Power
+measurement range
+(dBm)
+
+-70 -70.0 - -70.0 Or lower
+
+                               4 / 7
+
+
+
+ 
+
+Maximum Power
+measurement range
+(dBm)
+
+10 *
+
+Accuracy (Power
+Meter) (±)
+
+1 0.0 - 1.0 Or lower
+
+GENERIC Connector Tip PC/UPC PC/UPC
+
+Connector / Adapter
+End
+
+SC,FC *
+
+OTDR Data Format .sor *
+
+Laser Safety of OTDR
+as per IEC 60825-1
+latest or equivalent
+international standard
+
+Class 1M (1310
+nm),Class 1M (1300
+nm),Class 1M (1550
+nm),Class 3R (850
+nm),Class 3R (1300
+nm)
+
+*
+
+Dimensions ( mm x mm
+x mm )
+
+- *
+
+Weight (with battery) - *
+
+SALIENT FEATURES "Salient Features
+(Select Applicable
+Features Only)"
+
+Supports 12 V External
+Battery
+
+*
+
+ACCESSORIES Aceesories inclusive
+in the Scope of
+Supply (Select
+included Accessories
+Only)
+
+DC vehicle battery-
+charging adaptor (12
+V),Carry Case
+
+DC vehicle battery-
+charging adaptor (12
+V), Carry Case
+
+OPERATING
+CONDITIONS
+
+Minimum Operating
+Temperature
+
+-10 Less than -10.0 Or
+lower
+
+Maximum Operating
+Temperature
+
+50 More than 50.0 Or
+higher
+
+Maximum Operating
+Humidity
+
+95 95.0 - 95.0 Or higher
+
+WARRANTY WARRANTY 3 3, 5 Or higher
+
+CERTIFICATION Conformance to Safety
+requirements as per
+IEC 61010- 1 latest or
+equivalent international
+standard
+
+Yes *
+
+Conformance to EMC
+requirements as per
+IEC 61326-1 latest or
+equivalent international
+standard
+
+Yes *
+
+Certifications IEC,CE,RoHS *
+
+Availability of Test
+Reports from Central
+Govt/ NABL/ ILAC
+acredited lab to
+
+Yes Yes
+
+                               5 / 7
+
+
+
+ 
+
+prove confirmity to
+the Specifications
+
+If Yes, Test Report to
+be furnished to the
+Buyer on demand
+
+Yes *
+
+Test Report No and
+Date
+
+- *
+
+Name of the Lab and
+Address
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********KAMRUP 64  45
+
+Bid Specific Additional Terms and Conditions
+
+1.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+2.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+3.The bidder is required to upload, along with the bid, all relevant certificates such as BIS
+licence, type test certificate, approval certificates and other certificates as prescribed in the
+Product Specification given in the bid document.
+
+4.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+5.The Bidder / OEM {themselves or through reseller(s)}, should have executed project for
+
+supply and installation / commissioning of same or similar Category Products during
+preceding 3 financial years (i.e. current year and three previous financial years) as on
+opening of bid, as per following criteria:
+ 
+(i) Single order of at least 35% of estimated bid value; or
+(ii) Two orders of at least 20% each of estimated bid value; or
+(iii) Three orders of at least 15% each of estimated bid value.
+Satisfactory Performance certificate issued by respective Buyer Organization for the above
+Orders should be uploaded with bid. In case of bunch bids, the Category related to primary
+product having highest bid value should meet this criterion
+
+                               6 / 7
+
+
+
+ 
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

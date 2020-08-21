@@ -1,0 +1,346 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/712029
+
+  Dated: 15-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 25-07-2020 18:00:00
+
+Bid Opening Date/Time 25-07-2020 18:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Steel
+
+Department Name Na
+
+Organisation Name Steel Authority Of India Ltd
+
+Office Name Odisha
+
+Total Quantity 1
+
+Item Category insulation tester
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Insulation Tester ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+                               1 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/DVcMcPP1rBvK63PWQxmWkifV-HHkUc0Lho8bY3Xnj74
+
+
+ 
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+OTHER MEASUREMENT AC/DC Voltage
+Measurement (Volt)
+
+600 *
+
+AC/DC Voltage
+Measurement
+Resolution ( Volts )
+
+0.1 *
+
+AC/DC Voltage
+Measurement Accuracy
+(%)
+
+2.0 *
+
+PERFORMANCE Type Portable Portable
+
+Measurement Range 200 K Ohm to 1 T Ohm 200 K Ohm to 1 T Ohm
+
+Measurement
+Accuracy
+
+2 2.0
+
+Measurement
+Resolution
+
+0.1 0.1
+
+Test Voltage 5000 5000.0
+
+Test Current 2 2.0
+
+FEATURES Pass Fail Function Yes *
+
+Data Logging More than 99 locations *
+
+PC interface along with
+suitable & driven
+software
+
+Available *
+
+Live Circuit Detection live circuit indicator 30
+V to 600 V , 50 Hz
+
+*
+
+Auto Discharge Time
+(Second)
+
+Less than 0.5 *
+
+Any Other Features - *
+
+GENERIC Dimensions ( mm x mm
+x mm )
+
+- *
+
+Weight 3700 *
+
+SAFETY Safety rating Category III 600 V of
+IEC 61010
+
+Category III 600 V of
+IEC 61010
+
+POWER REQUIREMENT Power Requirements Battery Operated *
+
+Type of Battery Rechargeable *
+
+if rechargeable , then
+chemistry of the
+battery
+
+SMF *
+
+if Non-rechargeable ,
+then size of the battery
+/ cell
+
+NA *
+
+Number of non-
+rechargeable the
+battery / cell
+
+NA *
+
+                               2 / 4
+
+
+
+ 
+
+Voltage of
+rechargeable Battery
+
+12 *
+
+Capacity of
+rechargeable battery
+(milli ampere hour)
+
+3000 *
+
+ACCESSORIES Standard Accessories
+Supplied with the
+Equipment
+
+- *
+
+WARRANTY Warranty 1 1.0
+
+OPERATING CONDITION Minimum Operating
+Temperature
+
+-20 *
+
+Maximum Operating
+Temperature
+
+50 *
+
+Operating Humidity
+(RH)
+
+80 *
+
+TEST REPORT DETAILS The equipment
+supplied with
+calibration certificate
+
+YES *
+
+conformity to Dry Heat
+for 16 hrs at a specified
+maximum temp
+
+No *
+
+conformity to Cold Test
+for 4 hrs at a specified
+minimum temp in
+accordance with IS:900
+0/part-2/section-4/1977
+latest
+
+No *
+
+conformity to Damp
+Heat (Cyclic)Test for 2
+Cycles of 24 hours each
+at a temp of 40 degree
+C & 95% RH
+
+No *
+
+Availability of Test
+Reports from Central
+Govt/NABL/ILAC
+approved accredited
+lab to prove conformity
+to the specification
+
+Yes *
+
+Test Report Number
+and date for the
+specification test
+
+- *
+
+Name and address of
+the Lab for the
+specification test
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+                               3 / 4
+
+
+
+ 
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Basanta Kumar
+Chowdhury
+
+769011,Administrative
+Building Rourkela Steel Plant
+Rourkela
+
+1  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2.Material Test Certificate Should Be Sent Along with The Supply. The Material Will Be Checked
+
+by Buyer’s Lab & the Results of the Lab will be the Sole Criteria for Acceptance of the Item.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

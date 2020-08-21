@@ -1,0 +1,3009 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Surat Municipal Corporation
+
+
+ 
+Surat Municipal Corporation 1 
+
+ 
+
+Duly Sign & Stamp  Bid for Supply, Installation, Configuration and Integration of Networking Equipments 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Surat Municipal Corporation 
+ 
+
+TECHNICAL BID 
+
+ 
+Through online e-tendering process only 
+
+ 
+
+Bid for Annual Maintenance Contract of  
+
+Network Equipments 
+
+[DC-ISD-NW-AMC-12] 
+
+ 
+
+ 
+
+ 
+
+Last Date of Downloading & Online Submission of Bids 
+
+August 12, 2011 
+
+ 
+
+ 
+
+Last Date of Physical Submission of  
+
+EMD, Bid Fee & Supporting Document 
+
+On or before August 18, 2011 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+Surat Municipal Corporation (SMC) 
+
+ 
+
+ 
+
+Bid for 
+
+Supply, Installation, Configuration and Integration  
+
+Of Networking Equipments 
+
+[DC-ISD-Network-01-2018] 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+Last Date of Downloading & Online Submission of Bids 
+
+April 04, 2018 
+ 
+
+ 
+
+Last Date of Physical Submission of  
+
+EMD, Bid Fee  
+
+April 11, 2018 
+ 
+ 
+ 
+ 
+
+Information Systems Department (ISD)  
+
+Surat Municipal Corporation 
+
+Muglisara, Surat-395003 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+Surat Municipal Corporation 2 
+
+ 
+
+Duly Sign & Stamp  Bid for Supply, Installation, Configuration and Integration of Networking Equipments 
+
+ 
+
+Notice Inviting Bid 
+
+ 
+
+Surat Municipal Corporation (SMC) 
+
+Muglisara, Surat – 395003, Gujarat. 
+
+www.suratmunicipal.gov.in. 
+
+Notice Inviting  
+
+Bid for Supply, Installation, Configuration and Integration  
+
+of Networking Equipments  [DC-ISD-Network-01-2018] 
+
+Bid for Supply, Installation, Configuration and Integration of Networking Equipments is being 
+
+published by Surat Municipal Corporation (SMC) online on https://smc.nprocure.com from the 
+
+bidder meeting the basic eligibility criteria as stated in the bid document. 
+
+Bid Fee (Non-refundable)  Rs. 1680/- (Rs. 1500/- + 12% GST)  (by DD or Banker’s Cheque 
+
+only) 
+
+EMD  Rs. 40,000/- (by DD or Banker’s Cheque only) 
+
+Last date to submit the 
+
+Online Pre Bid Queries  
+
+ Bidders shall have to post queries by email to 
+
+dmc@suratmunicipal.org on or before 26.03.2018, 16:00 hrs. 
+
+Online Bid End Date (Last 
+
+Date of Online Submission 
+
+of Bids with all necessary 
+
+documents as per tender 
+
+document requirement in 
+
+soft copy) 
+
+ To be submitted online only on https://smc.nprocure.com on 
+
+or before 04.04.2018 up to 18:00 hrs. 
+
+Submission (in Hard Copy) 
+
+of Bid Fee, EMD. 
+
+ In sealed envelope strictly by RPAD/Postal Speed Post on or 
+
+before 11.04.2018 up to 18:00 hrs. to the Chief Accounts, 
+
+Surat Municipal Corporation, Muglisara, Surat – 395003 
+
+RFP Document Availability  https://smc.nprocure.com,  
+
+ https://www.suratmunicipal.gov.in 
+
+The right to accept/reject any or all bid(s) received is reserved without assigning any reason 
+
+thereof.  
+
+                  (Sd/-) 
+
+Deputy Commissioner 
+
+Surat Municipal Corporation 
+
+ 
+
+https://smc.nprocure.com/
+https://smc.nprocure.com/
+
+
+ 
+Surat Municipal Corporation 3 
+
+ 
+
+Duly Sign & Stamp  Bid for Supply, Installation, Configuration and Integration of Networking Equipments 
+
+ 
+
+INDEX 
+
+ 
+
+Notice Inviting Bid .......................................................................................................................................................... 2 
+
+TECHNICAL BID ............................................................................................................................. 5 
+
+1. Key Events & Dates ............................................................................................................................................... 5 
+
+2. Instructions for the Bidder .................................................................................................................................. 6 
+
+3. Eligibility Criteria ................................................................................................................................................. 12 
+
+4. Indicative list of Documents to be submitted .......................................................................................... 13 
+
+5. General Terms and Conditions ...................................................................................................................... 15 
+
+6. Technical (minimum) Specification .............................................................................................................. 21 
+
+7. ANNEXURES TO TECHNICAL BID .................................................................................................................. 27 
+
+PRICE BID ..................................................................................................................................... 34 
+
+ 
+
+
+
+ 
+Surat Municipal Corporation 4 
+
+ 
+
+Duly Sign & Stamp  Bid for Supply, Installation, Configuration and Integration of Networking Equipments 
+
+ 
+
+  
+
+ 
+ 
+ 
+
+Surat Municipal Corporation (SMC) 
+
+ 
+
+ 
+
+Bid for 
+
+Supply, Installation, Configuration and Integration  
+
+Of Networking Equipments 
+
+[DC-ISD-Network-01-2018] 
+
+ 
+
+ 
+
+Technical Bid 
+
+ 
+ 
+
+Last Date of Downloading & Online Submission of Bids 
+
+April 04, 2018 
+
+ 
+
+ 
+
+Last Date of Physical Submission of  
+
+EMD, Bid Fee  
+
+April 11, 2018 
+ 
+ 
+ 
+ 
+
+Information Systems Department (ISD)  
+
+Surat Municipal Corporation 
+
+Muglisara, Surat-395003 
+
+ 
+
+ 
+
+
+
+ 
+Surat Municipal Corporation 5 
+
+ 
+
+Duly Sign & Stamp  Bid for Supply, Installation, Configuration and Integration of Networking Equipments 
+
+ 
+
+TECHNICAL BID 
+
+1. Key Events & Dates 
+
+Event Target Date 
+
+Notice Inviting Tender DC-ISD-Network-01-2018 
+
+Bid Fee (Non-refundable) Rs. 1,680/- (Rs. 1,500/- + 12% GST)  (by DD or Banker’s 
+
+Cheque only) 
+
+EMD Rs. 40,000/- (by DD or Banker’s Cheque only). 
+
+Last date to submit the Online 
+
+Pre Bid Queries 
+
+Bidders shall have to post queries by email to 
+
+dmc@suratmunicipal.org on or before 26/03/2018, 16:00 
+
+hrs 
+
+Online Bid End Date (Last Date 
+
+of Online Submission of Bids 
+
+with all necessary documents 
+
+as per tender document 
+
+requirement in soft copy) 
+
+To be submitted online only on https://smc.nprocure.com 
+
+on or before 04.04.2018 up to 18:00 hrs. 
+
+Submission (in Hard Copy) of 
+
+Bid Fee, EMD. 
+
+In sealed envelope strictly by RPAD/Postal Speed Post on or 
+
+before 11.04.2018 up to 18:00 hrs. to the Chief Accounts, 
+
+Surat Municipal Corporation, Muglisara, Surat – 395003 
+
+Opening of Technical Bids To be decided and communicated later 
+
+Opening of Price Bids To be decided and communicated later 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+https://smc.nprocure.com/
+
+
+ 
+Surat Municipal Corporation 6 
+
+ 
+
+Duly Sign & Stamp  Bid for Supply, Installation, Configuration and Integration of Networking Equipments 
+
+ 
+
+ 
+
+2. Instructions for the Bidder  
+
+2.1. Availing Bid Documents 
+
+Blank bid documents can be downloaded from the web site https://smc.nprocure.com up 
+
+to the date and time mentioned in the Online Bid Invitation Notice DC-ISD-Network-01-
+
+2018. 
+
+2.2. Addenda & Corrigenda  
+
+If required the Addenda and Corrigenda will be issued and the same will form the part of 
+
+the original bid documents and shall override any contradicting effects in the original bid 
+
+document. 
+
+2.3. Submission of Price Bid and Technical BID 
+
+The price bid and the technical bid containing all the relevant supporting documents must 
+
+be submitted online only on https://smc.nprocure.com on or before the last date of 
+
+submission of the bid. No documents except the Bid Fee, EMD to be accepted in hardcopy. 
+
+It is advised to keep the softcopy of the relevant documents ready and upload the same in 
+
+advance on https://smc.nprocure.com with respect to this tender to avoid issues if any.  
+
+All the relevant softcopy should invariably follow the (n)Code portal's specific requirements 
+
+pertaining to file types, file size, file name length, etc.  
+
+o File Types: Files with only .pdf, .doc, .txt, .xls, .ppt, .pps, .png, .gif, .jpg, .zip, .rar 
+
+extension can be uploaded.  
+
+o File name: It should not be more than70 characters. Special Characters Like (‘% @ < 
+
+>: *? | & ~ ^) are not permitted. 
+
+o File size: Single file size should not be more than 3 MB. 
+
+The bid document (duly signed and stamped) in hard copy shall be submitted by the 
+
+successful bidder upon intimation from SMC.   
+
+2.4. Pre-bid Queries 
+
+A prospective Bidder requiring any clarification on the RFP Document may submit his 
+
+queries, via email, to the following e-mail id on or before 26/03/2018 up to 16:00 hrs.   
+
+Email Id for submission of queries: dmc@suratmunicipal.org 
+
+The queries must be submitted in the following format: 
+
+Bidder’s Request for Clarification 
+
+Name and Address of the 
+
+Organization submitting 
+
+request 
+
+Name and Position of Person 
+
+submitting request 
+
+Contact Details of the Organization / 
+
+Authorized Representative 
+
+ 
+
+ 
+
+ 
+
+ Tel: 
+
+Mobile: 
+
+Fax: 
+
+https://smc.nprocure.com/
+https://smc.nprocure.com/
+
+
+ 
+Surat Municipal Corporation 7 
+
+ 
+
+Duly Sign & Stamp  Bid for Supply, Installation, Configuration and Integration of Networking Equipments 
+
+ 
+
+Email: 
+
+Sr. 
+
+No 
+
+Bid Reference(s) 
+
+(Section, Page) 
+
+Content of Bid requiring 
+
+clarification 
+
+Points of clarification required 
+
+1    
+
+2    
+
+ 
+
+2.5. Bid Fee & Earnest Money Deposit (EMD) 
+
+ The bidder should pay non-refundable Bid Fee of Rs. 1,680/- (Rs. 1,500/- + 12% GST)  
+
+and EMD of Rs. 40,000/- by separate Demand Draft or Banker's Cheque of any 
+
+scheduled/nationalized bank payable at Surat in favour of Surat Municipal Corporation.  
+
+ Failure to submit Bid Fee, EMD as required shall lead to the bid being rejected summarily.  
+
+2.6. The bid should be filled in legibly, clearly indicating the figures and its value in words too. 
+
+2.7. Online Submission of the Technical Bid: 
+
+The bidder will be required to upload the duly signed, stamped and notarized colour 
+
+scanned copy of below mentioned documents in the same order of sequence online on 
+
+smc.nprocure.com during e-tendering process. 
+
+1. Scan copy of Tender (Bid) Fee 
+
+2. Scan copy of EMD 
+
+3. Scan copy of Solvency certificate 
+
+4. Scan copy of the all supporting documents clarifying compliance to the eligibility 
+
+criteria as stated in Section-4 Indicative list of Documents to be submitted. 
+
+5. Scan copy of Bid Format given in Section – 7, Annexure to Technical Bid 
+
+A. Bidder’s Details (signed and stamped page no. 27-28) 
+
+B. Information of Authorized Signatory / Contact Person (signed and stamped page 
+
+no. 29) 
+
+C. Authorization Letter from OEM, Form A (on OEM’s letterhead, Page No. 30) (For 
+
+Item No 1 & Item no 2). 
+
+D. Performa of Compliance letter, Form B (on Bidder’s letterhead, Page No 31) (for all 
+
+items). 
+
+6. Scan copy of duly filled, signed and stamped Technical Specification given in Section – 
+
+6 (To be submitted on OEM’s letterhead) 
+
+7. Scan copy of duly filled, signed and stamped Technical Specification given in Section – 
+
+6 (To be submitted on Bidder’s letterhead) 
+
+8. Scan copy of PAN card 
+
+
+
+ 
+Surat Municipal Corporation 8 
+
+ 
+
+Duly Sign & Stamp  Bid for Supply, Installation, Configuration and Integration of Networking Equipments 
+
+ 
+
+9. Scan copy of company registration with local body and state government/central 
+
+government. 
+
+10. Scan copy of GST Registration Certificate. 
+
+11. Scan copy of duly signed addendum and Corrigendum, if any. 
+
+12. Scan copy of any other document not mentioned above but required to be attached as 
+
+per the tender requirement (Optional). 
+
+13. Authorization Letter as per Clause-2.26 (mandatory in case tender signatory is other 
+
+than Owner/Partner/MD/Director/Company Secretary) (Optional) 
+
+2.8. Demand Draft for E.M.D. & Tender (Bid) fee shall be submitted in electronic format 
+
+through online mode (by scanning) while uploading the bid. This submission shall 
+
+mean that E.M.D. & tender fee are received for purpose of opening of the bid. 
+
+Accordingly offer of those shall be opened whose E.M.D. & tender (bid) fee is received 
+
+electronically. However, for the purpose of realization of D.D. bidder shall send the 
+
+D.D. in original through RPAD / Speed post as per Clasue-2.11 below so as to reach to 
+
+Chief Accountant, SMC within 7 days from the last date of online submission of the bid 
+
+as per tender notice. Penaltative action for not submitting D.D. in original to shall be 
+
+initiated and action shall be taken for abeyance of registration and cancellation of E-
+
+tendering code for one year. Any documents in supporting of bid shall be in electronic 
+
+format only through online (by scanning) & hard copy will not be accepted separately. 
+
+2.9. All documents must be coloured scanned to be seen as original. Scanning in black and 
+
+white or grey shall not be acceptable. 
+
+2.10. All documents must be notarized with clearly-displaying stamp, number and name of 
+
+the notary.    
+
+2.11. Sealing, marking and submission of the Bid Fee, EMD: 
+
+Following documents shall only be submitted in Hard Copy to Surat Municipal Corporation 
+
+by the bidder: 
+
+- Earnest Money Deposit (EMD) 
+
+- Tender Fee.  
+
+The “Bid Fee, EMD” shall be put in an envelope containing Bid Fee, Earnest Money Deposit 
+
+(EMD) and shall be super scribed as “Bid Fee, EMD” 
+
+The envelope must be sealed and super scribed and must be sent as under:  
+
+Details to be mentioned exactly on sealed envelop 
+
+TENDER DETAILS 
+
+ Notice No.: DC-ISD-Network-01-2018 
+
+ Bid for Supply, Installation, Configuration 
+
+and Integration of Networking 
+
+Equipments. 
+
+ Last date of Online Submission: 
+04/04/2018 up to 18:00 hrs. 
+
+To, 
+
+The Chief Accountant, 
+
+Surat Municipal Corporation, 
+
+Mahanagar Seva Sadan, 
+
+Gordhandas Chokhawala Marg, 
+
+
+
+ 
+Surat Municipal Corporation 9 
+
+ 
+
+Duly Sign & Stamp  Bid for Supply, Installation, Configuration and Integration of Networking Equipments 
+
+ 
+
+ Last date of Physical Submission: 
+11/04/2018 up to 18:00 hrs. 
+
+Muglisara, Surat - 395 003, 
+
+Gujarat, INDIA. 
+
+The envelope containing EMD, Bid Fee must be sent strictly by Postal Speed Post or 
+
+Registered Post AD only so as to reach on or before 11/04/2018 up to 18:00 hrs. Bids 
+
+received in any other manner or mode (like courier, in person, etc.) will not be 
+
+considered. SMC won’t be responsible for postal delays. 
+
+TECHNICAL BID & PRICE BID 
+
+The technical bid & price bid must be submitted online on https://smc.nprocure.com. It 
+
+should not to be sent physically, if submitted physically the bid shall be rejected. 
+
+2.12. The bidder will be bound by the details furnished to SMC, while submitting the bid or at 
+
+subsequent stage. In case, any of such documents furnished by the bidder is found to be 
+
+false at any stage, it would be deemed to be a breach of terms of contract making him/her 
+
+liable to legal action besides termination of contract. 
+
+2.13. Late Bids: Bids not reaching on or before the specified time limit will not be accepted.  
+
+2.14. Conditional Bids: All the terms and conditions mentioned herein must be strictly adhered 
+
+to by all bidders. Conditional tenders shall not be accepted on any ground and shall be 
+
+subject to rejection without assigning any reason.  
+
+2.15. Withdrawal of Bids  
+
+Bid once filled in, submitted shall not be allowed to be withdrawn till the validity of the bid 
+
+remains in force or else the EMD shall be liable for forfeiture. 
+
+2.16. Period of Validity 
+
+The offer should be valid for acceptance for a minimum period of 120 days from the date 
+
+of opening of the Price Bid. If required, SMC may request the bidder to have it extended for 
+
+a further period. 
+
+2.17. Language of Bids 
+
+The bids prepared by the bidder shall be in the English language. The supporting documents 
+
+in language other than English/Hindi/Gujarati must have its English translation (which is to 
+
+be duly attested by the bidder), for purposes of interpretation of the bid, the English 
+
+translation shall govern. 
+
+2.18. Right To Accept or Reject Any Bid or All Bids 
+
+SMC reserves the right to accept or reject any bid and annul the bidding process and reject 
+
+all bids at any time prior to award of contract, without thereby incurring any liability to the 
+
+affected bidder or bidders or any obligation to inform the affected bidder or bidders of the 
+
+ground for SMC’s action. 
+
+2.19. Firm Prices & Bid Currency 
+
+Prices quoted must be firm and final and shall not be subject to any upward modifications, 
+
+on any account whatsoever. Prices shall be expressed in Indian Rupees (INR) only. 
+
+2.20. Costs to be Borne by Bidder  
+
+https://smc.nprocure.com/
+
+
+ 
+Surat Municipal Corporation 10 
+
+ 
+
+Duly Sign & Stamp  Bid for Supply, Installation, Configuration and Integration of Networking Equipments 
+
+ 
+
+All costs and expenses (whether in terms of time or money) incurred by the bidder in any 
+
+way associated with the development, preparation and submission of the bid, including but 
+
+not limited to attendance at meetings, discussions, demonstrations, etc. and providing any 
+
+additional information required by SMC, will be borne entirely and exclusively by the bidder. 
+
+2.21. Acceptance of Terms & Conditions 
+
+The bidder will, by taking participation in the bidding process and submitting the bid 
+
+documents, be deemed to have thoroughly read, studied and understood the bid 
+
+documents including scope of work, the terms and conditions, instructions, etc. referred 
+
+there in and the same are acceptable to the bidder.  
+
+2.22. All entries in the bid form should be legible and filled clearly. If the space for furnishing 
+
+information is insufficient, a separate sheet duly signed by the authorized signatory may be 
+
+attached. However, the interlineations, erasures or overwriting, if any, in the Technical Bid 
+
+Application must be attested by the person authorized to sign the bids. 
+
+2.23. It is to be ensured that the complete information as required by this office may be furnished 
+
+by the bidders in the prescribed format. Formats submitted with incomplete information 
+
+and not conforming to the requirements are liable to be rejected. 
+
+2.24. The agency will be bound by the details furnished by him/her to SMC, while submitting the 
+
+bid or at subsequent stage. In case, any of such documents furnished by the agency is found 
+
+to be false at any stage, it would be deemed to be a breach of terms of contract making 
+
+him/her liable to legal action besides termination of contract. 
+
+2.25. The participation in the online tendering process implies that the bidder have thoroughly 
+
+read, studied and understood the instructions of the Bid documents, Scope of work, formats 
+
+as well as the terms and conditions referred there in and the same are acceptable to the 
+
+bidder. 
+
+2.26. Authorized Signatory 
+
+For the purpose of submission of the bid, the bidder may be represented by either the 
+
+Principal Officer (Owner/MD/Director/Company Secretary) or his duly Authorized 
+
+Representative, in which case he/she shall submit a certificate of authority along with the 
+
+technical bid. All certificates and documents (including any clarifications sought and any 
+
+subsequent correspondences) received hereby, shall, as far as possible, be furnished and 
+
+signed by the authorized representative or the principal officer. 
+
+2.27. Arithmetical errors will be rectified on the following basis. If there is a discrepancy 
+
+between the unit price and the total price that is obtained by multiplying the unit price and 
+
+quantity, the unit price shall prevail and the total price shall be corrected. If the supplier 
+
+does not accept the correction of the errors, its bid will be rejected. If there is a discrepancy 
+
+between words and figures, the amount in words will prevail. 
+
+2.28. Disqualifications: A Bidder shall be disqualified and Bids will not be considered if 
+
+
+
+ 
+Surat Municipal Corporation 11 
+
+ 
+
+Duly Sign & Stamp  Bid for Supply, Installation, Configuration and Integration of Networking Equipments 
+
+ 
+
+a) Hardcopy envelop does not show on it the reference of bid number and description as 
+
+denoted and thus gets opened before due date(s) of opening specified in Notice Inviting 
+
+Bids. 
+
+b) The Price Bid and Technical Bid is submitted physically which leads to revelation of prices 
+
+before the due date of opening of the Price Bid.  
+
+c) The Earnest Money Deposit (EMD) & Bid fee is not deposited in the manner specified 
+
+above Clause 2.11. 
+
+d) The Bid documents are not in a language as per Clause 2.17. 
+
+e) The Bid documents are not signed affixing stamp by the authorized signatory. 
+
+f) The Bid documents submitted are incomplete and/or ambiguous in any respect. 
+
+g) Non-compliance of provisions and requirements of the Bid documents. 
+
+h) Any or all correction(s) or pasted slip(s) is/are not initialled, authenticated by the Bidder. 
+
+i) The Bid documents are not submitted in the manner specified in the bid document. 
+
+j) Eligibility criteria are not met with. 
+
+k) Any form of canvassing/lobbying/influence/query regarding short listing, status, etc. will 
+
+result in a disqualification. 
+
+    
+
+ 
+
+ 
+
+(sd/-) 
+
+ 
+
+Deputy Commissioner 
+
+Surat Municipal Corporation 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+
+
+ 
+Surat Municipal Corporation 12 
+
+ 
+
+Duly Sign & Stamp  Bid for Supply, Installation, Configuration and Integration of Networking Equipments 
+
+ 
+
+3. Eligibility Criteria 
+
+The bidder must possess the requisite experience, strength and capabilities in providing the 
+
+equipments necessary to meet the broad requirements, as described in the bid document.  
+
+The bidder interested in being considered for this bid must meet the following eligibility criteria. 
+
+3.1. The bidder should have completed at least 3 years of experience/operation in the field of 
+
+supply, installation and Commissioning of Network Equipments (like Routers, L3/L2 
+
+Managed Switches, Firewall/UTM) from bid start date and should have local office in Surat. 
+
+3.2. Bidder should have a minimum average annual turnover not less than Rs. 10 Lacs (Rs. Ten 
+
+Lacs) for last three financial years i.e. FY 2016-17, FY 2015-16, FY 2014-15. 
+
+3.3. The bidder should have completed/ undertaken assignments of Supplying and 
+
+Implementing Network range of products (Networks Devices like Routers, Switches, 
+
+Firewall/UTMs, Access Points, etc.) during last three years (for this purpose financial years 
+
+would be FY 2016-17, FY 2015-16, FY 2014-15:  
+
+Single order worth Rs. 32,00,000 (Thirty two lacs)  
+
+OR 
+
+Two orders worth Rs. 20,00,000 (Twenty lacs)  
+
+OR 
+
+Three orders worth Rs. 16,00,000 (Sixteen lacs). 
+
+ 
+
+3.4. The bidder shall be the manufacturer/OEM of the Networking equipments specified. In case 
+
+the bidder is not manufacturer/OEM, the bidder should be duly authorized by the 
+
+manufacturer/OEM to supply the goods/equipments by submitting Manufacturer's 
+
+Authorization as per Section 7 Annexure C, Form A. 
+
+3.5. The bidder should not be black-listed / debarred by any of the Government or Public Sector 
+
+Units in India as on the date of the submission of the tender. 
+
+3.6. The bidder should furnish Bid Fee and an Earnest Money Deposit (EMD) as per Clause No. 
+
+2.11. 
+
+3.7. The bidder should furnish Solvency Certificate amounting 20% of the consideration of the 
+
+Contract from a scheduled/nationalised bank. 
+
+Note: 
+
+Bidders who wish to participate in this bid will have to register on https://smc.nprocure.com 
+
+Further bidders who wish to participate in online bids will have to procure Digital Certificate as 
+
+per Information Technology Act 2000 using which they can sign their electronic bids. Bidders can 
+
+procure the same from (n) code solutions – a division of GNFC Ltd., or any other agency licensed 
+
+by Controller of Certifying Authority, Govt. of India. Bidders who already have a valid Digital 
+
+Certificate need not procure a new Digital Certificate. 
+ 
+
+  
+
+https://smc.nprocure.com/
+
+
+ 
+Surat Municipal Corporation 13 
+
+ 
+
+Duly Sign & Stamp  Bid for Supply, Installation, Configuration and Integration of Networking Equipments 
+
+ 
+
+4. Indicative list of Documents to be submitted  
+
+Following documents shall be submitted in soft copy online on https://smc.nprocure.com by the 
+
+bidder so as to ascertain the claims made. Following is the indicative list of documents that are 
+
+to be submitted.  
+
+# Description of Requirement Proof Required to be 
+
+Submitted 
+
+1.  The bidder must have completed at least 3 years of 
+
+experience/operation in the field of supply, installation and 
+
+Commissioning of Network Equipments (like Routers, L3 
+
+Switches, L2 Managed Switches, Firewall/UTM) from bid start 
+
+date and should have local office in Surat. 
+
+Copy of work order / 
+
+Completion certificate/ 
+
+Contract certificate 
+
+issued by client clearly 
+
+specifying Bidders 
+
+Name, details of Work, 
+
+Date of issue of 
+
+respective document. 
+
+ 
+
+Proof of address for 
+
+local office in Surat. 
+
+2.  Bidder should have a minimum average annual turnover not 
+
+less than Rs. 10 Lacs (Rs. Ten Lacs) for last three financial years 
+
+i.e. FY 2016-17, FY 2015-16, FY 2014-15.  
+
+Copy of Audited Balance 
+
+sheet of Last 3 Financial 
+
+Years. 
+
+3.  The bidder should have completed/ undertaken assignments 
+
+of Supplying and Implementing Network range of products 
+
+(Networks Devices like Routers, Switches, Firewall/UTMs, 
+
+Access Points, etc.) during last three years (for this purpose 
+
+financial years would be FY 2016-17, FY 2015-16, FY 2014-15:  
+
+Single order worth Rs. 32,00,000 (Thirty two lacs)  
+
+OR 
+
+Two orders worth Rs. 20,00,000 (Twenty lacs)  
+
+OR 
+
+Three orders worth Rs. 16,00,000 (Sixteen lacs). 
+
+ 
+
+Copy of work order / 
+
+Completion certificate/ 
+
+Contract / Performance 
+
+certificate issued by 
+
+client clearly specifying 
+
+Bidders Name, details of 
+
+Work, Date of issue, 
+
+amount of contract/work 
+
+order value. 
+
+ 
+
+4.  The bidder shall be the manufacturer/OEM of the Networking 
+
+equipments specified. In the case the bidder is not 
+
+manufacturer/OEM, the bidder should be duly authorized by 
+
+the manufacturer/OEM to supply the goods/equipments by 
+
+submitting Manufacturer's Authorization as per Section 7 
+
+Annexure C, Form A. 
+
+Submit Authorization 
+
+letter from OEM as per 
+
+MAF format at Section – 
+
+7, Part – C (Form – A: 
+
+Authorization Letter 
+
+from OEM). 
+
+5.  Information of Authorized Signatory / Contact Person as per 
+
+Section–5, Item No 3. 
+
+Self-Declaration in this 
+
+regard by the 
+
+
+
+ 
+Surat Municipal Corporation 14 
+
+ 
+
+Duly Sign & Stamp  Bid for Supply, Installation, Configuration and Integration of Networking Equipments 
+
+ 
+
+authorized signatory of 
+
+the bidder. 
+
+6.  The bidder should not be black-listed / debarred by any of 
+
+the Government or Public Sector Units in India as on the date 
+
+of the submission of the tender. 
+
+Compliance letter/ Self-
+
+declaration / 
+
+Undertaking by bidder 
+
+as per Section – 7, 
+
+Form–B. 
+
+7.  EMD & Bid Fee. As per Section 2, Item 
+
+No 2.11. 
+
+8.  Solvency Certificate amounting 20% of the consideration of 
+
+the Contract from a scheduled/nationalised bank. 
+
+Solvency Certificate as 
+
+per Section –5, Item No 
+
+5.11. 
+
+9.  Compliance with technical specification as mentioned in 
+
+Section – 6  
+
+Duly filled Section – 6 
+
+[Technical Specification] 
+
+must be submitted 
+
+separately on OEM’s 
+
+letter head as well as on 
+
+Bidder’s letter head. The 
+
+same must be duly 
+
+signed and stamped by 
+
+authorized person. 
+
+10.  Product literature Technical 
+
+details/brochures / 
+
+specification sheet of 
+
+bided products 
+
+11.  Goods & Service Tax Registration Nos.  Copy of the Goods & 
+
+Service Tax (GST) 
+
+Registration Certificate 
+
+duly notarized 
+
+* Note: Additional documents other than above if any, required for supporting the claims 
+
+made by the bidder should be attached. 
+
+ 
+
+  
+
+
+
+ 
+Surat Municipal Corporation 15 
+
+ 
+
+Duly Sign & Stamp  Bid for Supply, Installation, Configuration and Integration of Networking Equipments 
+
+ 
+
+5. General Terms and Conditions 
+
+5.1. The prices/charges quoted should also include: 
+
+a. Cost of necessary power cables, signal cables, connectors, controllers and necessary 
+
+device drivers. 
+
+b. Warranty as specified in Technical Specification section for each item including 
+
+service and parts. Warranty of particular Item will be start from the date of 
+
+delivery/supply to SMC. 
+
+c. Delivery & Installation at Various SMC offices located throughout the city or at any other 
+
+office to be decided by the SMC.  
+
+d. Transit Insurance, Freight and loading, unloading charges up to SMC’s site location. 
+
+e. Supplying, Installation, Configuration & Integration with existing LAN & WAN of SMC. 
+
+5.2. OEM / Implementation Partner Participation Criteria  
+
+i. The bidder shall be the manufacturer or the authorized service provider or authorized 
+
+service partner of the hardware quoted.  
+
+ii. The bidder will be required to submit a manufacturer’s authorization form from all the 
+
+OEMs stating that the bidder in concern would be bidding for their products/solutions 
+
+and have to provide “Authorization Letter from OEM” (as per Form 'A') in soft copy 
+
+online on https://smc.nprocure.com on its letter head duly signed by the authorized 
+
+signatory. 
+
+iii. The OEM for all active components should mention in authorization letter that products 
+
+or technology quoted are neither end of sale nor end of life and are not end of support 
+
+till the successful completion of warranty period mentioned in this tender. 
+
+iv. Bidders are required to specify only one specific make and model of each item and 
+
+provide the details in the Technical bid. Providing more than one option shall not be 
+
+allowed. 
+
+5.3. The bidder has to submit the “Self-Declaration” as per the Performa of Compliance Letter 
+
+(as per Form 'B') in soft copy online on https://smc.nprocure.com on its letter head duly 
+
+signed by the authorized signatory. 
+
+5.4. The offer should be valid for acceptance for a minimum period of 120 days from the date 
+
+of opening of the Price Bids. If desired by SMC, it will have to be extended for a further 
+
+period also. 
+
+5.5. Rate Contract: 
+
+The above network equipments will be required for connecting various remote offices with 
+
+SMC HQ. The work for establishing WAN connectivity with these offices has already been 
+
+awarded. The requirement of these devices will come up as and when the connectivity to 
+
+these locations is commissioned. Hence, the work order will be issued in staggered manner 
+
+over a period of time.  
+
+
+
+ 
+Surat Municipal Corporation 16 
+
+ 
+
+Duly Sign & Stamp  Bid for Supply, Installation, Configuration and Integration of Networking Equipments 
+
+ 
+
+The approved rate of the selected bidder shall be considered as the rates under rate contract 
+
+and the same will be valid for the period of One year from date of first work order. SMC will 
+
+use this rates for procurement in desired quantity during the rate validity period i.e. one 
+
+year.  
+
+5.6. SMC may buy/order full/partial quantity from one/more bidder(s) and may split/ defer/ 
+
+stagger the order(s)/ deliveries. The quantities shown in the tender are approximate and no 
+
+claim shall be entertained for variation of quantities being less or more than those 
+
+mentioned in the bid. The variations in the quantities shall not vitiate the contract. The 
+
+selected bidder shall be bound to supply additional quantity up to 30% (thirty percent) of 
+
+tender amount/quantity at the approved rate, in accordance to any instruction, which may 
+
+be given to him in writing by SMC. The rates quoted by the bidder will be applicable on full 
+
+/ partial /additional quantity also. 
+
+5.7. The Bidder may participate in the bid by quoting for one, more or all the items depending 
+
+on his techno-commercial capability to supply & support that range of products. 
+
+5.8. The right to reject accepts any/all Bids(s) without assigning any reason thereof is reserved. 
+
+5.9. In case the quoted Item is not available in the market, the bidder will have to supply Higher 
+
+Version/replacement of that Item in the quoted cost in the same time duration with prior 
+
+approval of SMC. No “End of Life” product should be quoted to minimize such instances till 
+
+the bid validity (Make & Model quoted by the bidder should be available till the bid validity, 
+
+duly supported for spares/OEM support for 5 years). 
+
+5.10. Security Deposit: 
+
+The successful agency will be required to place Security Deposit @ 5% of the consideration 
+
+of the Contract by Demand Draft or Banker's Cheque Payable at Surat in favour of Surat 
+
+Municipal Corporation of any scheduled/nationalized bank within 10 working days from the 
+
+date of notice of award of contact, failing which a penalty @ 0.065% of the amount of 
+
+security deposit will be imposed for delay of each day. The EMD placed may be considered 
+
+for conversion towards the security deposit and amount falling short of the required amount 
+
+shall be payable. No interest shall be paid on Earnest Money Deposit and/ or Security 
+
+Deposit placed. 
+
+5.11. Solvency Certificate 
+
+Along with the technical bid documents, the bidder should submit Solvency Certificate 
+
+amounting 20% of the consideration of the Contract from a scheduled/nationalized bank. 
+
+The Solvency Certificate should valid and should not be older than one year from the bid 
+
+start date. 
+
+5.12. In case, the awardee i.e. the selected agency fails to supply specified quantity and quality of 
+
+goods in time or the performance of such supply/supplies is/are not found up to the mark 
+
+or found of an inferior quality vis-à-vis specifications, the security deposit will be forfeited 
+
+at once. 
+
+
+
+ 
+Surat Municipal Corporation 17 
+
+ 
+
+Duly Sign & Stamp  Bid for Supply, Installation, Configuration and Integration of Networking Equipments 
+
+ 
+
+5.13. Agreement & Undertaking :  
+
+The Awardee i.e. the selected agency will have to enter into an Agreement and submit an 
+
+Undertaking  with SMC for supply of goods and its/their installation, Commissioning etc. on 
+
+a Rs.100/- stamp paper of Government of Gujarat at the agency's own cost within 10 (Ten) 
+
+working days (of SMC) period from the date of Notice of Award. No claims for payments 
+
+will be entertained without completion of this process. 
+
+5.14. TAX LIABILITY 
+
+GST (Goods & Service Tax) has come in existence from 1st July 2017. Contractor / Successful 
+
+Bidder is bound to pay any amount of GST prescribed by the Govt. of India as per the Terms 
+
+of Contract agreed upon during the course of execution of this Contract. 
+
+During the course of execution of Contract, if there is any change in Rate of GST (Goods & 
+
+Service Tax) by the Government, the same shall be reimbursed / recovered separately by 
+
+SMC, subject to the submission of Original Receipt / Proof of the amounts actually remitted 
+
+by the Successful Tenderer / Contractor to the Competent Authority along with a Certificate 
+
+from Chartered Accountant of Contractor / Successful Bidder certifying that the amount of 
+
+GST paid to the Government and the same shall be intimated / submitted / claimed within 
+
+30 (Thirty) Days from the date of payment. Remittance of GST within stipulated period shall 
+
+be the sole responsibility of the Successful Bidder / Contractor, failing which SMC may 
+
+recover the amount due, from any other payable dues with SMC and decision of Municipal 
+
+Commissioner shall be final and binding on the Contractor / Successful Bidder in this regard. 
+
+Further, the non-payment of GST to the Government may lead to the termination of contract 
+
+and forfeiture of Security Deposit / Performance Guarantee Amount. 
+
+If imposition of any other new Taxes/Duties/Levies/Cess or any other incidentals etc. or any 
+
+increase in the existing Taxes/Duties/Levies/Cess or any other incidentals etc. (excluding 
+
+GST) are imposed during the course of the contract, the same shall be borne by the 
+
+Contractor/Successful Bidder Only, in no case SMC shall be liable for the same. 
+
+The contractor will submit the invoice to the SMC having GSTIN of SMC mentioned therein 
+
+and the taxes shall be shown separately on the face of the invoice so as to claim as ITC by 
+
+SMC. 
+
+SMC GST Provisional ID/ Registration Number 24AAALS0678Q1ZE 
+
+5.15. Technical details/Datasheets of goods to be supplied shall be submitted along with the Bid. 
+
+5.16. Manuals relating to Hardware/Peripherals shall be supplied. 
+
+5.17. It shall be noted that the lowest rate(s)/price(s) will not be the sole criterion for accepting 
+
+Bid for any of the goods but emphasis will be given to the quality of the products and even 
+
+the readiness to offer innovative technology thereof. 
+
+5.18. Any offer/Bid not meeting the terms and conditions mentioned hereinabove will be liable 
+
+for rejection without assigning any reason thereof. 
+
+5.19. Delivery schedule: 
+
+
+
+ 
+Surat Municipal Corporation 18 
+
+ 
+
+Duly Sign & Stamp  Bid for Supply, Installation, Configuration and Integration of Networking Equipments 
+
+ 
+
+The successful agency shall deliver, install, configure and integrate the goods as detailed in 
+
+this Bid within 21 calendar days from the date of the Work/Purchase order. A penalty of 
+
+0.2% of the consideration of contract for a particular item will be charged for delayed supply 
+
+and installation for delay of each day thereafter. 
+
+5.20. The agency shall extend all the benefits to the SMC such as free samples of products, 
+
+materials, goods, articles including any kind of discount, rebate, commission, incentives 
+
+normally offered to any other buyer in the form of gift or otherwise as part of the sales 
+
+promotion scheme(s). If any such sales promotion scheme(s) is /are already launched for 
+
+the product and is/are in force while the Bid process is on, mention of details of such 
+
+scheme(s) must be made explicitly in the offer.  
+
+5.21. The liability as to any damages and/or loss otherwise to any movable or immovable 
+
+properties, assets during loading, unloading or otherwise during the period of supply, 
+
+whether knowingly or unknowingly done or occurred shall be made good forthwith to the 
+
+SMC by the Awardee agency upon a communication made therefore.  
+
+5.22. The contract shall be governed by the Laws in India and shall be subject to the jurisdiction 
+
+of Surat. 
+
+5.23. Bid once filled in, submitted shall not be allowed to be withdrawn till the validity of the bid 
+
+remains in force or else the EMD shall be liable for forfeiture. The agency is expected to 
+
+examine the Bid Document carefully. Failure to furnish all information required as per the 
+
+Bid Document may result in the rejection of the bid. 
+
+5.24. The agency will be bound by the details furnished by him/her to SMC, while submitting the 
+
+bid or at subsequent stage. In case, any of such documents furnished by the agency is found 
+
+to be false at any stage, it would be deemed to be a breach of terms of contract making 
+
+him/her liable to legal action besides termination of contract. 
+
+5.25. On commissioning of the product, the successful agency shall ensure maximum uptime for 
+
+the product/service during warranty period. The call must be attended within 4 working 
+
+hours and problem to be resolved within 8 working hours of reporting by either repairing 
+
+or replacing the Switch/Hardware with same or higher configuration in case of product 
+
+replacement is required. Failing which a penalty as per below mentioned rate will be 
+
+deducted from the amount payable and/or security deposit for each day of downtime 
+
+Delay >8 Hrs. to 3 working days Penalty at 0.5% of the product cost per day 
+
+Delay beyond 3 working days Penalty at 1% of the product cost per day 
+
+If any component/equipment gives continuous trouble, the bidder shall replace the same 
+
+with the new compatible component/equipment of the same or higher configuration 
+
+without any additional cost to the purchaser 
+
+5.26. All goods to be supplied shall be of specified or higher speed/technology/version. The SMC 
+
+or its representative shall have the right (if it so desires) to test the goods to ascertain their 
+
+
+
+ 
+Surat Municipal Corporation 19 
+
+ 
+
+Duly Sign & Stamp  Bid for Supply, Installation, Configuration and Integration of Networking Equipments 
+
+ 
+
+conformity to the specifications. The SMC shall notify to the agency for this purpose & 
+
+nature. 
+
+5.27. Terms of Payment: SMC will not make any advance payment. Payment will be made once 
+
+the ordered products are delivered and installed. The Security Deposit will be released only 
+
+after the successful completion of the minimum warranty period of five years.  
+
+ 90% in 15 days of Full Supply. 
+
+ 2.5 % on completion of 1st year of warranty. 
+
+ 2.5 % on completion of 2nd year of warranty. 
+
+ 2.5 % on completion of 3nd year of warranty. 
+
+ 2.5 % on completion of 4th year of warranty. 
+
+5.28. Municipal Commissioner, SMC reserves the right to reject, accept any/all bid(s) without 
+
+assigning any reason thereof. 
+
+5.29. The participation in the online tendering process implies that the bidder have thoroughly 
+
+read, studied and understood the instructions of the Bid documents, Scope of work, formats 
+
+as well as the terms and conditions referred there in and the same are acceptable to the 
+
+bidder. 
+
+5.30. The agency will be bound by the details furnished by him/her to SMC, while submitting the 
+
+tender or at subsequent stage. In case, any of such documents furnished by the agency is 
+
+found to be false at any stage, it would be deemed to be a breach of terms of contract 
+
+making him/her liable to legal action besides termination of contract. 
+
+5.31. The total penalty could be up to 10% of the Consideration of Contract and the decision of 
+
+the SMC shall be treated as final in such cases.  
+
+5.32. Consortium or JV or Sub-contracting  
+
+The Bidder is NOT allowed to form Consortium or Joint Venture for any specific service 
+
+within the scope of the tender. Sub-contracting is also NOT be permitted. 
+
+5.33. If it is found that the same firm has submitted multiple bids under different names for the 
+
+proposed contract, all such tender(s) shall stand rejected and bid deposit of each such 
+
+firm/establishment shall be forfeited. In addition, such firms/establishments shall be liable, 
+
+at the discretion of the Municipal Commissioner, SMC for further penal action including 
+
+blacklisting. 
+
+5.34. The bidder shall indemnify SMC from and against any costs, loss, damages, expense, claims 
+
+including those from third parties or liabilities of any kind howsoever suffered, arising or 
+
+incurred inter alia during and after the Contract period out of: 
+
+ any negligence or wrongful act or omission by the bidder or any third party associated 
+
+with bidder in connection with or incidental to this Contract; or 
+
+ any breach of terms as stated in the bid document, the bidder’s Bid and the Contract 
+
+with the bidder 
+
+
+
+ 
+Surat Municipal Corporation 20 
+
+ 
+
+Duly Sign & Stamp  Bid for Supply, Installation, Configuration and Integration of Networking Equipments 
+
+ 
+
+ Any infringement of patent, trademark/copyright or industrial design rights arising from 
+
+the use of the supplied goods and related services or any part thereof. 
+
+
+
+ 
+Surat Municipal Corporation 21 
+
+ 
+
+Duly Sign & 
+Stamp  
+
+Bid for Supply, Installation, Configuration and Integration of Networking Equipments 
+
+ 
+
+6. Technical (minimum) Specification  
+
+ The Bidder may participate in the bid by quoting for one, more or all the items depending 
+
+on his techno-commercial capability to supply & support that range of products. Bidders 
+
+are required to mention make & Model of the product. 
+
+ The bidder can quote only one option (i.e. only one product can be quoted) against each 
+
+item meeting or exceeding the below mentioned minimum specification.  
+
+ The bidder must clearly specify the features of the offered product vis-à-vis specification 
+
+and deviation if any in the Column-C and Column-D respectively.  
+
+ The exact make and model of the product offered must be specified in the Column-E. 
+
+ The technical spec sheet and the product brochure of the product offered should also be 
+
+submitted along with technical bid.  
+
+ In case the space provided is not sufficient then a separate paper as per the format below 
+
+can be annexed to the bid.  The same must be duly signed and stamped.  
+
+ The Technical Specification Sheet must be submitted separately on OEM’s letter head (for 
+
+Item-1 & Item-2) as well as on Bidder’s letter head (for all items).  The same must be duly 
+
+signed and stamped by authorized person of respective entity. 
+
+Item 
+No. 
+
+Description and Minimum Specification Matched/ 
+[Yes/No] 
+
+Deviation 
+from 
+
+Specification 
+/Remarks  
+
+if Any 
+
+Specify 
+Make 
+and 
+
+Model  
+
+A B C D E 
+
+1.  24 Port all gigabit Web Managed Switch [Cisco or HP make]  
+[Required Quantity-30] 
+
+Ports 
+
+ Minimum 24 x RJ-45 auto-
+
+Sensing/negotiating 10/100/1000 ports (IEEE 
+
+802.3 Type 10BASE-T, IEEE 802.3u Type 
+
+100BASE-TX, and IEEE 802.3ab Type 
+
+1000BASE-T).  
+
+ 
+  
+
+ Minimum 2 x 1000 BASE-X SFP Fiber & 
+
+1000BASE-T ports combination (RJ45 & Fiber 
+
+ports Combination).   
+
+ 
+  
+
+ Auto-negotiation for speed, duplex mode and 
+
+flow control & Manual for 10M 
+
+Half/Full/100M Half/Full. 
+
+ 
+  
+
+ Auto-MDI/MDIX.    
+
+
+
+ 
+Surat Municipal Corporation 22 
+
+ 
+
+Duly Sign & 
+Stamp  
+
+Bid for Supply, Installation, Configuration and Integration of Networking Equipments 
+
+ 
+
+ IEEE 802.3X flow control.    
+
+ Integrated LEDs for improved visual 
+
+monitoring and analysis. 
+
+   
+
+Administrative Switch Management  
+
+ Must have IEEE 802.1Q Static & Trunk VLAN 
+
+(4096 VLAN IDs) & Port-based VLAN. 
+
+   
+
+ Spanning Tree Protocol (STP) to support 
+
+standard IEEE 802.1D STP, IEEE 802.1w Rapid 
+
+Spanning Tree Protocol (RSTP) for faster 
+
+convergence, and IEEE 802.1s Multiple 
+
+Spanning Tree Protocol (MSTP). 
+
+   
+
+ SNMPv1, v2c, and v3 Configuration and 
+
+management. 
+
+   
+
+ IEEE 802.3ad Link Aggregation Control 
+
+Protocol (LACP). 
+
+   
+
+ IPv6 Host, Management, multicast and QoS.    
+
+ Built-in switch Web-based GUI configuration 
+
+utility for easy browser-based device 
+
+configuration (HTTP/HTTPS) which Supports 
+
+configuration, system dashboard, system 
+
+maintenance, and monitoring. 
+
+   
+
+ Local password and restricted IP addresses for 
+
+secure access to the switch. 
+
+   
+
+ Layer 3 IPv4 and IPv6 static Routing.    
+
+ Provision of Dual flash images to provide 
+
+independent primary and secondary 
+
+operating system files for backup while 
+
+upgrading. 
+
+   
+
+ Intuitive web interface to upload/download 
+
+the Switch software to the switch.  
+
+   
+
+ Intuitive web interface to upload/download 
+
+Configurations to and from the switch. 
+
+   
+
+ Availability of Port statistics through industry-
+
+standard RMON 
+
+   
+
+ Jumbo frame support for packets.    
+
+ Broadcast storm control to help eliminate 
+
+network traffic storms.  
+  
+
+ Must have Network traffic filtering and 
+
+network control using MAC and IP Binding 
+
+based ACLs & Time based ACLs. 
+
+ 
+  
+
+
+
+ 
+Surat Municipal Corporation 23 
+
+ 
+
+Duly Sign & 
+Stamp  
+
+Bid for Supply, Installation, Configuration and Integration of Networking Equipments 
+
+ 
+
+ Inbuilt Feature of Dynamic Host Configuration 
+
+Protocol (DHCP) Sever which simplifies the 
+
+management of large IP networks and 
+
+supports client and server system. (Optional) 
+
+   
+
+Warranty:  
+
+Minimum 5 Years OEM Direct/Back to back 
+
+Comprehensive Warranty with parts, modules, 
+
+software and minimum 1 Year OEM 8x5 technical 
+
+support. 
+
+   
+
+Chassis: 1U, rack-mounting kit included    
+
+Power: Power supply  AC 230 V ( 50/60 Hz )    
+
+2.  24 Port Web Managed Switch [Cisco or HP make]  
+[Required Quantity-190] 
+
+ Ports 
+
+ 24 x RJ-45 auto-negotiating 10/100 ports (IEEE 
+
+802.3 Type 10BASE-T, IEEE 802.3u Type 
+
+100BASE-TX). 
+
+   
+
+ Minimum 2 x 1000 BASE-X SFP Fiber & 
+
+1000BASE-T ports combination (RJ45 & Fiber 
+
+ports Combination).   
+
+   
+
+ Auto-negotiation for speed, duplex mode and 
+
+flow control & Manual for 10M Half/Full 100M 
+
+Half/Full. 
+
+   
+
+ Auto-MDI/MDIX.    
+
+ IEEE 802.3X flow control.    
+
+ Integrated LEDs for improved visual 
+
+monitoring and analysis. 
+
+   
+
+Administrative Switch Management  
+
+ Must have IEEE 802.1Q Static & Trunk VLAN 
+
+(4096 VLAN IDs) & Port-based VLAN. 
+
+   
+
+ Spanning Tree Protocol (STP) to support 
+
+standard IEEE 802.1D STP, IEEE 802.1w Rapid 
+
+Spanning Tree Protocol (RSTP) for faster 
+
+convergence, and IEEE 802.1s Multiple 
+
+Spanning Tree Protocol (MSTP). 
+
+   
+
+ IEEE 802.3ad Link Aggregation Control 
+
+Protocol (LACP). 
+
+   
+
+ IPv6 Host, Management, multicast and QoS.    
+
+ SNMPv1, v2c, and v3.    
+
+
+
+ 
+Surat Municipal Corporation 24 
+
+ 
+
+Duly Sign & 
+Stamp  
+
+Bid for Supply, Installation, Configuration and Integration of Networking Equipments 
+
+ 
+
+ Built-in switch Web-based GUI configuration 
+
+utility for easy browser-based device 
+
+configuration (HTTP/HTTPS) which Supports 
+
+configuration, system dashboard, system 
+
+maintenance, and monitoring. 
+
+   
+
+ Local password and restricted IP addresses for 
+
+secure access to the switch. 
+
+   
+
+ Layer 3 IPv4 and IPv6 static Routing.    
+
+ Provision of Dual flash images to provide 
+
+independent primary and secondary operating 
+
+system files for backup while upgrading. 
+
+   
+
+ Intuitive web interface to upload/download 
+
+the Switch software to the switch.  
+
+   
+
+ Intuitive web interface to upload/download 
+
+Configurations to and from the switch. 
+
+   
+
+ Availability of Port statistics through industry-
+
+standard RMON 
+
+   
+
+ Jumbo frame support for packets.    
+
+ Broadcast storm control to help eliminate 
+
+network traffic storms. 
+
+   
+
+ Must have Network traffic filtering and 
+
+network control using MAC and IP-Binding 
+
+based ACLs & Time based ACLs. 
+
+   
+
+ Warranty: Minimum 5 Years OEM Direct/Back 
+
+to back Comprehensive Warranty with parts, 
+
+modules, software and minimum 1 Year OEM 
+
+8x5 technical support 
+
+   
+
+ Chassis: 1U, rack-mounting kit included    
+
+ Power: Power supply  AC 230 V ( 50/60 Hz )    
+
+3.  9U Wall Mount Network Rack (Valrack, APC, Rittal, Netrack, 
+APW President make) 
+
+[Required Quantity-220] 
+Rack Size   
+
+    
+
+- 9U Wall mount  
+
+- Lock & key with glass door at front 
+
+- Powder coated Steel cabinet  
+
+Accessories  
+
+-1 Cooling Fan  
+
+-1 Cable Manager 
+
+
+
+ 
+Surat Municipal Corporation 25 
+
+ 
+
+Duly Sign & 
+Stamp  
+
+Bid for Supply, Installation, Configuration and Integration of Networking Equipments 
+
+ 
+
+-1 Equipment placement tray 
+
+-5 Socket Power Strip 
+
+Warranty: 
+
+Min. 5 Years comprehensive warranty with parts 
+
+like FAN, Power Strip 
+
+ 
+
+ 
+
+ 
+
+Place :  Signature of Authorized Person : 
+
+Date :  Designation :  
+
+Company stamp :  Name :  
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+Surat Municipal Corporation (SMC) 
+
+ 
+
+ 
+
+Bid for 
+
+Supply, Installation, Configuration and Integration  
+
+Of Networking Equipments 
+
+[DC-ISD-Network-01-2018] 
+
+ 
+
+ANNEXURES TO TECHNICAL BID 
+
+ 
+ 
+ 
+
+Last Date of Downloading & Online Submission of Bids 
+
+April 04, 2018 
+
+ 
+
+ 
+
+Last Date of Physical Submission of  
+
+EMD, Bid Fee  
+
+April 11, 2018 
+ 
+ 
+ 
+ 
+
+Information Systems Department (ISD)  
+
+Surat Municipal Corporation 
+
+Muglisara, Surat-395003 
+
+ 
+
+ 
+
+
+
+ 
+Surat Municipal Corporation 27 
+
+ 
+
+Duly Sign & Stamp  Bid for Supply, Installation, Configuration and Integration of Networking Equipment 
+
+ 
+
+7. ANNEXURES TO TECHNICAL BID 
+
+All the documents listed below shall be annexed to the bid in the prescribed formats along 
+
+with the necessary supporting documents to ascertain the claims made by the bidder. 
+
+A. Bidder’s Details 
+
+1 Details of responding firm/company 
+
+a.  Name of the Bidder/Supplier  
+
+b.  Address  
+
+c.  Telephone  Fax:  
+
+d.  Website  
+
+e.  Are you a Manufacturer / 
+
+Authorized dealer / Sub 
+
+dealer / Any other  
+
+ 
+
+f.  Income Tax Number [PAN]  
+
+g.  Goods & Service Tax (GST) 
+
+No. 
+
+ 
+
+2 Information about responding firm / Company 
+
+a.  Address of Head 
+
+Quarter/Head Office 
+
+ 
+
+ 
+
+ 
+
+b.  Address of Registered Office 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+c.  Main Office in Gujarat  
+
+ 
+
+ 
+
+ 
+
+d.  Office in Surat  
+
+ 
+
+ 
+
+ 
+
+e.  No. of years of operation in 
+
+India 
+
+ 
+
+f.  Turnover (figures as per last 
+
+three audited balance sheets 
+
+are to be provided) 
+
+Yr.-1 (20___-___)  
+
+Yr.-2 (20___-___)  
+
+Yr.-3 (20___-___)  
+
+3 Details of Contact Person 
+
+a.  Name   
+
+b.  Designation  
+
+c.  Address  
+
+d.  Telephone No.  
+
+
+
+ 
+Surat Municipal Corporation 28 
+
+ 
+
+Duly Sign & Stamp  Bid for Supply, Installation, Configuration and Integration of Networking Equipments  SMC 
+ 
+
+ 
+
+e.  Mobile No.  
+
+f.  Fax No.  
+
+g.  E-mail  
+
+4 Details of Authorized Signatory 
+
+a.  Name   
+
+b.  Designation  
+
+c.  Address  
+
+d.  Telephone No.  
+
+e.  Mobile No.  
+
+f.  Fax No.  
+
+g.  E-mail  
+
+5 Forum of Business (Select appropriate option and provide the Registration Details along 
+
+with attested copies of certificates)  
+
+# Forum of Business Yes/ 
+
+No 
+
+ 
+
+Registration Details 
+
+(submit attested copies 
+
+of certificates) 
+
+Validity Date 
+
+h.  Sole Proprietor? 
+
+(Registration Number under 
+
+Shops and Establishment 
+
+Act.) 
+
+   
+
+i.  Hindu Undivided Family?     
+
+j.  Partnership Firm?     
+
+k.  Public Limited Company 
+
+under The Companies Act? 
+
+   
+
+l.  Private Limited Company 
+
+under The Companies Act? 
+
+   
+
+m.  State Govt. owned 
+
+Undertaking/ Corporation / 
+
+Enterprise? 
+
+   
+
+n.  Central Govt. owned 
+
+Undertaking/ Corporation / 
+
+Enterprise? 
+
+   
+
+o.  Co-operative Society?    
+
+p.  Association of Persons?    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+
+
+ 
+Surat Municipal Corporation 29 
+
+ 
+
+Duly Sign & Stamp  Bid for Supply, Installation, Configuration and Integration of Networking Equipments  SMC 
+ 
+
+ 
+
+B. Information of Authorized Signatory / Contact Person 
+
+ 
+
+Name  Recent Passport Size 
+
+Photograph 
+
+ 
+
+Address   
+
+ 
+
+ 
+
+ 
+
+Phone No.  
+
+Fax No.  
+
+Signature Mobile No.  
+
+Email  
+
+Capacity/Designation Web Address  
+
+ 
+
+Name  Recent Passport Size 
+
+Photograph 
+
+ 
+
+Address   
+
+ 
+
+ 
+
+ 
+
+Phone No.  
+
+Fax No.  
+
+Signature Mobile No.  
+
+Email  
+
+Capacity/Designation Web Address  
+
+ 
+
+
+
+ 
+Surat Municipal Corporation 30 
+
+ 
+
+Duly Sign & Stamp  Bid for Supply, Installation, Configuration and Integration of Networking Equipments  SMC 
+ 
+
+ 
+
+C. Authorization Letter from OEM 
+
+FORM – A 
+ (To be submitted on OEM’s letterhead duly signed by its Authorized signatory) 
+
+Date: 
+
+ 
+
+To  
+
+The Deputy Commissioner, 
+
+Surat Municipal Corporation, 
+
+Mugalisara, Surat- 395 003. 
+
+ 
+
+Sub : Bid for Supply, Installation, Configuration and Integration of Networking Equipments 
+
+[DC-ISD-Network-01-2018]– Authorization Letter from OEMs 
+
+Ref : Tender No: <No> Dated <DD/MM/YYYY> 
+
+Dear Sir/ Madam, 
+
+We _______________________, (name and address of the manufacturer) who are established and reputed 
+
+manufacturers of __________________ having factories at __________________ (addresses of manufacturing / 
+
+development locations) do hereby authorize M/s _______________________ (name and address of the bidder) 
+
+to bid, negotiate and conclude the contract with you against the above mentioned tender for below 
+
+mentioned equipment manufactured / developed by us.  
+
+Sr. No. Product Name Make & Model 
+
+1 24 Port Web Managed Switch   
+
+2 24 Port all gigabit Web Managed Switch   
+
+3 9U Wall Mount Network Rack   
+
+ 
+
+We herewith certify that the above mentioned equipment / products are neither end of sale nor end of 
+
+the life nor end of support and we hereby undertake to support these equipments till the successful 
+
+completion of Warranty Period for five years from date of delivery/supply. 
+
+ 
+
+Yours faithfully,  
+
+ 
+
+(Signature of the Authorized Signatory  
+
+from OEM) 
+
+Name 
+
+Designation 
+
+Seal. 
+
+Date: 
+
+Place: 
+
+Business Address: 
+
+ 
+
+(Signature of the Authorized Signatory 
+
+from Bidder) 
+
+Name 
+
+Designation 
+
+Seal. 
+
+Date: 
+
+Place: 
+
+Business Address: 
+
+ 
+
+
+
+ 
+Surat Municipal Corporation 31 
+
+ 
+
+Duly Sign & Stamp  Bid for Supply, Installation, Configuration and Integration of Networking Equipments  SMC 
+ 
+
+ 
+
+D. Self-Declaration 
+
+FORM – B 
+
+Performa of Compliance letter 
+(To be submitted on Bidder’s letterhead duly signed by Authorized signatory) 
+
+To  
+
+The Deputy Commissioner, 
+
+Surat Municipal Corporation, 
+
+Mugalisara, Surat- 395 003..  
+
+Sub: Compliance with the bid terms and conditions, specifications and Eligibility Criteria 
+
+Ref: Bid for Supply, Installation, Configuration and Integration of Networking Equipments 
+
+[DC-ISD-Network-01-2018] 
+
+ 
+
+Dear Sir, 
+
+With reference to above referred bid, I, undersigned <<Name of Signatory>>, in the capacity of 
+
+<<Designation of Signatory>>, is authorized to give the undertaking on behalf of <<Name of the 
+
+bidder>>. 
+
+I/We the undersigned, hereby submit our proposal along with the necessary documents. The 
+
+information/documents furnished along with the above application are true and authentic to the best of 
+
+my/our knowledge and belief. I / we, am / are well aware of the fact that furnishing of any false information 
+
+/ fabricated document would lead to rejection of my tender at any stage besides liabilities towards 
+
+prosecution under appropriate law. 
+
+I/We have thoroughly & carefully read, studied and understood the Bid documents and Addenda and 
+
+Corrigenda (if any) including the technical specification, terms and conditions, instructions, etc. referred 
+
+there in and the same are acceptable to our company. 
+
+We hereby confirm that all our quoted items meet or exceed the requirement and are absolutely 
+
+compliant with specifications mentioned in the bid document, moreover the items bided are not end of 
+
+life items. . 
+
+We hereby confirm that all the components/parts/assembly/software which we shall supply on award of 
+
+contract shall be original new components /parts/assembly/software from respective OEMs of the 
+
+products and that no refurbished/duplicate/ second hand components/parts/ assembly / software shall 
+
+be used. 
+
+We also explicitly understand that all quoted items meet technical specification of the bid & that such 
+
+technical specification overrides the brochures/standard literature if the same contradicts or is absent in 
+
+brochures. 
+
+I/We also state that our company is not black-listed / debarred by any of the Government or Public Sector 
+
+Units in India as on the date of the submission of the tender 
+
+Further, I/we agree to abide by all the terms and conditions as mentioned in the bid document without 
+
+any condition(s). We have also noted that SMC reserves the right to consider/ reject any or all bids without 
+
+assigning any reason thereof. 
+
+In case of breach of any tender terms and conditions or deviation from bid specification other than already 
+
+specified as mentioned above, the decision of SMC for disqualification will be accepted by us. 
+
+Thanking you, 
+
+
+
+ 
+Surat Municipal Corporation 32 
+
+ 
+
+Duly Sign & Stamp  Bid for Supply, Installation, Configuration and Integration of Networking Equipments  SMC 
+ 
+
+ 
+
+ 
+
+For 
+
+<<Name of the bidder>> 
+
+<<Authorized Signatory>> 
+
+<<Stamp of the bidder>> 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+
+
+ 
+Surat Municipal Corporation 33 
+
+ 
+
+Duly Sign & Stamp  Bid for Supply, Installation, Configuration and Integration of Networking Equipment 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+Surat Municipal Corporation (SMC) 
+
+ 
+
+ 
+
+Bid for 
+
+Supply, Installation, Configuration and Integration  
+
+Of Networking Equipments 
+
+[DC-ISD-Network-01-2018] 
+
+ 
+ 
+
+Price Bid 
+ 
+ 
+ 
+
+Last Date of Downloading & Online Submission of Bids 
+
+April 04, 2018 
+ 
+
+ 
+
+Last Date of Physical Submission of  
+
+EMD, Bid Fee  
+
+April 11, 2018 
+ 
+ 
+ 
+ 
+
+Information Systems Department (ISD)  
+
+Surat Municipal Corporation 
+
+Muglisara, Surat-395003 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+Surat Municipal Corporation 34 
+
+ 
+
+ 
+
+Duly Sign & Stamp  Bid for Supply, Installation, Configuration and Integration of Networking Equipments 
+
+ 
+
+PRICE BID 
+ [Note: Must be submitted online, not to be sent physically] 
+
+# Description and Specification of Buy Back Items (Unused) Make, Model Qty. Unit Rate 
+
+exclusive of 
+
+all taxes 
+
+GST 
+
+(%) 
+
+Amount inclusive of all GST 
+
+(In words & numbers) 
+
+A B C D E F G=D*(E + (E*(F/100)) 
+
+1 24 Port Web Managed Switch   190    
+
+2 24 Port all gigabit Web Managed Switch   30    
+
+3 9U Wall Mount Network Rack   220    
+
+Note: Bidders have to filled "0" in "Unit Rate exclusive of all taxes" and “GST” column in case bidders do not want to quote particular item/items. 
+
+   
+
+Note: 
+1. The rates (Quoted in Unit Rate Column) should be exclusive of all taxes. The applicable GST should be quoted separately in GST column in Price Bid. 
+2. The taxes at prevailing rate will be considered for payment purpose.   
+
+

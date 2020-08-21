@@ -1,0 +1,979 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/689046
+
+  Dated: 06-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 13:00:00
+
+Bid Opening Date/Time 27-07-2020 13:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Labour And Employment
+
+Department Name Na
+
+Organisation Name Employees State Insurance Corporation (esic)
+
+Office Name Esic Medical College & Hospital, Gulbarga
+
+Total Quantity 10
+
+Item Category Multipara Monitor - High End
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Certificate (Requested in ATC)
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 2.00
+
+EMD Amount 251998
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 10.00
+
+Duration of ePBG required (Months). 38
+
+                             1 / 10
+
+
+
+ 
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+DEAN
+Esic Medical College & Hospital, Gulbarga, NA, Employees State Insurance Corporation (ESIC),
+Ministry of Labour and Employment
+(Esi Corporation Payable At Kalaburagi)
+
+Splitting
+
+  Bid splitting not applied.  
+
+Multipara Monitor - High End ( 10 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards UMDNS CODE Monitoring Systems,
+Physiologic- 12-636
+Monitoring Systems,
+Physiologic, Acute Care
+-12-647 Monitors,
+Physiologic, Central
+Station -20-179
+Monitors, Physiologic,
+Electrocardiography,
+Bedside -12-599
+Monitors, Physiologic,
+Multipurpose, Bedside,
+Configured -20-172
+Monitors, Physiologic,
+Multipurpose, Bedside,
+Modular -20-171
+Monitors, Physiologic,
+Multipurpose, Bedside,
+Modular/Configured
+-20-173 Monitors,
+Physiologic,
+Neonatal/Infant,
+Bedside -15-791
+
+*
+
+                             2 / 10
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/y2agj1sb4c2RfkNb7mRR9ZiJObRzn77FAv7-Ay4Z-HM
+
+
+ 
+
+Conformity to
+Certifications
+
+- *
+
+Certification number
+and date
+
+- *
+
+Confirmity to
+Manufacturing
+Standards
+
+ISO 9001 & ISO 13485 *
+
+Conformity to Safety
+Standards
+
+ISO 80601-2-49 and IEC
+60601-2-34 and ISO
+80601-2-55 or BIS
+equivalent
+
+*
+
+Performance
+Parameters
+
+Purpose Continuous monitoring
+is a valuable tool that
+helps provide
+additional information
+to the medical and
+nursing staff about the
+physiologic condition of
+the patient in an acute
+care environment that
+helps them make
+appropriate treatment
+decisions.High end
+multipara monitors are
+used in the critical care
+unit(CCU),Operation
+theatres and in post
+anesthesia care
+units(PACUs) and ICU
+
+*
+
+Type of Monitor Modular Modular
+
+Monitoring Parameters ECG,HR,Respiration
+Rate,SpO2,Pulse Rate,N
+IBP,Temperature,IBP
+
+*
+
+EtCO2 Yes Yes
+
+Cardiac output Minimal
+invasive(Continuous)
+
+Minimal
+invasive(Continuous)
+
+Transport monitor
+modulefor
+transporting within
+the hospital
+
+Yes Yes
+
+Screen size of
+transport module in
+inches
+
+4.3 inch or more 4.3 inch or more
+
+Battery backup for
+transport monitor in
+hrs
+
+3 or more 3 or more
+
+AGM (Anesthetic Gas
+Module)
+
+Up-gradable Up-gradable
+
+NMT (Neuro
+Muscular
+
+Upgradable Upgradable
+
+                             3 / 10
+
+
+
+ 
+
+Transmission)
+
+EEG (Electroencepha
+logram)
+
+Upgradable Upgradable
+
+AEEG (Amplitude
+Integrated Electroen
+cephalography)Tren
+d Graph
+
+Upgradable Upgradable
+
+Channels in EEG 4 4
+
+BIS monitoring Up-gradable Up-gradable
+
+Entropy Monitoring Up-gradable Up-gradable
+
+Spirometry Up-gradable Up-gradable
+
+Non invasive
+hemoglobin
+
+Up-gradable Up-gradable
+
+PVI (Pleth variability
+index)
+
+Yes Yes
+
+Perfusion Index Yes Yes
+
+Transcutaneous PO₂
+/ PCO₂
+
+Up-gradable Up-gradable
+
+ScVO₂ Up-gradable Up-gradable
+
+S T Analysis Yes Yes
+
+PPV (derived value
+during IBP
+measurement)
+
+Yes *
+
+ECG Parameters Number of leads of
+ECG
+
+5 5
+
+12-Lead
+interpretation for
+ECG
+
+Yes Yes
+
+Arrhythmia detect Yes *
+
+Heart rate
+measurement range
+
+Atleast 30 -250 BPM *
+
+Accuracy ± 2 bpm or better ± 2 bpm or better
+
+Minimum gradation 1 bpm or better *
+
+Respiration Parameters Respiration Method Impedance
+pneumography
+
+*
+
+Display waveform of
+respiration
+
+Yes *
+
+Respiration rate
+measurement range
+
+0-150 bpm or more 0-150 bpm or more
+
+Minimum gradation of
+respiratory
+measurement
+
+1 bpm or better *
+
+Pulse Oximetry
+Parameters
+
+Measurement
+technique
+
+Masimo Masimo
+
+                             4 / 10
+
+
+
+ 
+
+Other Measuring
+Techniques(in case
+other measuring
+techniques are
+indicated for pulse
+oximetry please specify
+the technique and if
+options such as
+nellcor,masimo, are
+choosen against
+measurement
+technique please put
+NA)
+
+- *
+
+Probe type Rubber Rubber
+
+Probe for Adult and
+Pediatric
+
+Reusable *
+
+Probe for neonates Reusable Reusable
+
+SPO2 measurement
+range
+
+40-100% 40-100%
+
+Accuracy of SPO2
+measurement
+
+± 2% or better ± 2% or better
+
+Minimum Gradation 1% *
+
+NIBP Parameters Measurement
+technique for NIBP
+
+Step-deflation
+oscillometric
+
+Step-deflation
+oscillometric
+
+Dual NIBP No No
+
+Number of channels
+for NIBP
+
+2 2
+
+Blood pressure
+monitoring range
+Systolic
+
+30-300mm or more /Hg 30-300mm or more /Hg
+
+Diastolic BP 30-220 or more 30-220 or more
+
+Gradation ±1 mm/Hg or better ±1 mm/Hg or better
+
+Temperature
+Parameters
+
+Number of channels
+for temperature
+
+2 2
+
+Type of probe All All
+
+Temperature probe
+type
+
+Reusable *
+
+Temperature probe
+range
+
+Atleast 30 - 40 degree *
+
+Minimum gradation of
+temp probe
+
+0.1 degree C or better *
+
+Accuracy in % ±1% or better *
+
+IBP Parameters Number of channels
+for IBP
+
+2 2
+
+ETCO₂ Parameters Sensor type Mainstream Mainstream
+
+Patient type Both intubated and non Both intubated and non
+
+                             5 / 10
+
+
+
+ 
+
+intubated intubated
+
+CO₂ Measuring range
+in mmHg
+
+0 to 99 or better 0 to 99 or better
+
+Other Parameters Length of time of full
+disclosure of patient
+data in hr
+
+≥48 *
+
+Operating conditions Capable of opertaing
+continuously in
+ambient temperature
+of 0 to 45 de c and
+relative humidity of 15
+to 90% in ideal
+circumstances
+
+*
+
+Length of time of
+trending in hr
+
+≥72 ≥72
+
+Alarms Availability of Audio
+and visual alarms with
+high , medium and low
+intensity adjustment
+
+Yes *
+
+Opeartor can set audio
+visual alarm levels for
+low or high levels of
+each parameter
+independently
+
+Yes *
+
+Systolic BP - low and
+high
+
+Yes *
+
+Diastolic BP - low and
+high
+
+Yes *
+
+Mean BP - low and high Yes *
+
+Heart rate - low and
+high
+
+Yes *
+
+SPO2 - low and high Yes *
+
+Respiratory rate - low
+and high
+
+Yes *
+
+Temperature -low and
+high
+
+Yes *
+
+Alarm Volume
+Adjustable
+
+Yes *
+
+Activating silence of
+alarm
+
+Yes Yes
+
+Duration of alarm
+silence in sec
+
+300 300
+
+Suspension of all
+alarms
+
+Yes Yes
+
+Latching of alarm Yes Yes
+
+Cuff leakage alarm Yes Yes
+
+                             6 / 10
+
+
+
+ 
+
+Cuff disconnect
+alarm
+
+Yes Yes
+
+Alarm for
+inflation/deflation
+errors
+
+Yes Yes
+
+Indicator for low-
+battery
+
+Yes Yes
+
+EtCO2 - low and high Yes Yes
+
+Escalation of Alarm
+Priority
+
+Yes Yes
+
+Sensor/ wire/probe
+disconnection alarm
+
+Yes Yes
+
+Networking Parameters Ethernet port Yes *
+
+Hardwired Yes *
+
+Wireless Yes Yes
+
+Connectivity with
+Network printer
+
+Yes Yes
+
+Connectivity
+provision with
+Central Nursing
+Station
+
+Yes Yes
+
+Display Parameters Type of display TFT TFT
+
+Display Size,inch 19 19
+
+Traces of display >6 >6
+
+User Interface of
+display
+
+Both Touchscreen and
+Rotary knob
+
+Both Touchscreen and
+Rotary knob
+
+"Inbuilt thermal
+Recorder (Printer)"
+
+No No
+
+Display must allow
+easy viewing at all
+ambient light levels
+
+Yes Yes
+
+Standard Accessories Number of reusable
+adult probe
+
+1 1
+
+Number of reusable
+pediatric probe
+
+1 1
+
+Number of reusable
+neonatal probe
+
+1 1
+
+Number of
+Disposable neonate
+probes
+
+20 20
+
+Number of ECG 3/5
+lead cable
+
+1 1
+
+IBP cables 2 reusable cables with
+two way connector
+
+*
+
+IBP Transducers 20 *
+
+                             7 / 10
+
+
+
+ 
+
+NIBP cuffs of
+small,medium , large
+and extra large for
+Adult,Pediatric and
+Neonate
+
+3 each (Reusable small,
+medium, large and
+extra large for adult ,
+pediatric and neonatal)
+
+*
+
+Disposable NIBP cuff
+for neonatal
+
+20 20
+
+Skin and Rectal
+temperature probe
+
+2 each for adult and
+pediatric
+
+*
+
+EtCO2 cable/Module Yes *
+
+EtCO2 accessories 1 each for adult ,
+neonatal and pediatric
+
+1 each for adult ,
+neonatal and pediatric
+
+Accessories to wall
+mount the monitor
+
+Yes Yes
+
+Additional Accessories ECG cables No No
+
+ECG cables for
+neonates
+
+No No
+
+IBP monitoring All accessories for IBP
+monitoring at least in 2
+patients (neonates and
+pediatric)
+
+All accessories for IBP
+monitoring at least in 2
+patients (neonates and
+pediatric)
+
+ETCO2 Monitoring No No
+
+Power Requirements Type of power supply in
+VAC,Hz
+
+220-240, 50Hz , Single
+phase
+
+*
+
+Mains cable 3 m or more with
+Indian plug
+
+3 m or more with
+Indian plug
+
+UPS Yes Yes
+
+Back up time of UPS
+in minutes
+
+30 30
+
+Type of battery NA NA
+
+Operating time of
+battery in min
+
+60 60
+
+Recharging time of
+battery in hr
+
+≤6 *
+
+Weight of the Machine
+in kgs
+
+12 *
+
+Noise level in dB 45 *
+
+Device Earthing Yes *
+
+Miscellaneous
+Parameters
+
+Original User /
+Technical manuals to
+be supplied in English
+in hard and soft copy
+
+Yes *
+
+Original copy of
+operating and service
+manuals to be supplied
+in English in hard and
+
+Yes *
+
+                             8 / 10
+
+
+
+ 
+
+soft copy
+
+Calibration and
+preventive
+maintenance certificate
+has to be provided as
+per requirement
+
+Yes *
+
+Installation,
+Demonstration and
+training to be provided
+at consignee end at
+any part of country
+
+Yes *
+
+The Principal
+Manufacturer Must
+Have Direct
+Presence/approved
+service center In India
+
+Yes *
+
+Advanced maintenance
+task required shall be
+documented and
+procedures required for
+local calibration and
+routine maintenance
+and list of imp spare
+parts with accessories
+along with part
+numbers to be
+furnished
+
+Yes *
+
+Availability of toll
+free facility for
+technical support
+maintened by OEM
+or authorized
+agencies
+
+Yes Yes
+
+Provide Certificate from
+the principal that spare
+parts will be available
+from next 10 years at
+the time of supplies to
+the buyer
+
+Yes *
+
+Comprehensive
+Warranty in Years
+
+3 3
+
+Copies of all
+certifications and
+reports to be provided
+to buyer on demand at
+time of supplies
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+                             9 / 10
+
+
+
+ 
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Anil
+Anilkumar@106
+
+585106,SEDAM ROAD ,
+NEAR GULBARGA
+UNIVERSITY GULBARGA
+
+10  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+2.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+3.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+4.Warranty period of the supplied products shall be 3 years from the date of final acceptance
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+5.Bidders can also submit the EMD with Account Payee Demand Draft in favour of ESI
+Corporation payable at Kalaburagi.
+Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure
+delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date.
+
+6.Bidders can also submit the EMD with Banker’s Cheque in favour of ESI Corporation payable
+at Kalaburagi.
+Bidder has to upload scanned copy / proof of the BC along with bid and has to ensure
+delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date.
+
+7.Successful Bidder can submit the Performance Security in the form of Account Payee
+Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in
+favour of ESI Corporation payable at Kalaburagi. After award of contract, Successful Bidder
+can upload scanned copy of the DD in place of PBG and has to ensure delivery of hard copy
+to the original DD to the Buyer within 15 days of award of contract.
+
+8. ISO 9001: The bidder must have ISO 9001 certification.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                            10 / 10
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

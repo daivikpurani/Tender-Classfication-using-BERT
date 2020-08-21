@@ -1,0 +1,483 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/702274
+
+  Dated: 08-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 23-07-2020 18:00:00
+
+Bid Opening Date/Time 23-07-2020 18:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Ministry Of Urban Development
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Town And Country Planning Organisation
+
+Total Quantity 12
+
+Item Category Multifunction Machines MFM
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years Of Experience  Yes
+
+Startup Exemption for Years Of Experience  Yes
+
+Document required from seller  Experience Criteria
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+
+                               1 / 6
+
+
+
+ 
+
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+
+Multifunction Machines MFM ( 12 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Ungrouped Print Technology Inkjet Inkjet
+
+Type of Machine Multifunction Machine Multifunction Machine
+
+Type of Printing Colour Colour
+
+Cartridge
+Technology
+
+Ink Composite Cartridge,
+Separate Drum and
+Toner (Mono
+Component), Separate
+Drum and Toner (Dual
+Component), Ink Or
+higher
+
+Developer Unit No *
+
+Platen/Flatbed Size A3 A3 Or higher
+
+Paper Size
+(Original/Image)
+
+A3/A3 A3/A3
+
+RAM size (MB) 256 128, 256, 512, 1024,
+2048, 4096, 6144,
+3072, 320, 768, 1536,
+1500, 758, 1250, 2560,
+7168, 5120, 8192,
+16384, 2816, 4000,
+2000, 10240 Or higher
+
+Hard Disk
+Capacity(GB)
+
+0 0, 8, 128, 160, 256,
+320, 500, 1024, 250,
+640, 32, 1000, 2000,
+3000 Or higher
+
+Minimum Speed per
+Minute as per
+ISO/IEC 24734 in A4
+Size-Mono
+
+30 30, 31, 35, 36, 38, 40,
+43, 45, 46, 47, 50, 52,
+55, 60, 61, 65, 70, 71,
+75, 80, 90, 95, 100,
+105, 110, 51, 56, 41,
+120, 130, 160, 57, 33,
+34, 32, 85, 81, 53 Or
+higher
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/5QBBs2vSefWAciytCxZmrpgF5K6larw-s-mI1g-OEdw
+
+
+ 
+
+Minimum Speed per
+Minute as per
+ISO/IEC 24734 in A4
+Size-Colour
+
+26 26, 27, 28, 30, 31, 35,
+36, 40, 50, 60, 46, 120,
+130, 160, 65, 45, 34,
+55, 38, 56, 75, 81, 71,
+53 Or higher
+
+Minimum Speed per
+Minute as per ISO/IEC
+24734 in A3 Size-Mono
+
+0 *
+
+Minimum Speed per
+Minute as per ISO/IEC
+24734 in A3 Size-
+Colour
+
+0 *
+
+Scanning Feature
+Availability
+
+Yes Yes Or higher
+
+Duplexing Feature
+Availability
+
+Yes Yes Or higher
+
+Faxing Feature
+Availability
+
+yes Yes Or higher
+
+Speed of Fax, If Fax
+Feature is available
+
+33.6 kbps *
+
+Networking Feature
+Availability
+
+Yes Yes Or higher
+
+If yes, Type of Network
+Interface
+
+Ethernet 10/100 *
+
+Wi-Fi Availability Yes Yes Or higher
+
+If yes,Wi-Fi Type Wi fi 802.11 b/g/n & Wi
+Fi Direct
+
+*
+
+Original Document
+Feeder Type
+
+ADF ADF, DADF/RADF, SPDF
+Or higher
+
+Feeder Capacity
+(Number)
+
+35 *
+
+Number of Main
+Paper Tray
+
+1 1, 2, 3, 4, 5 Or higher
+
+Each Main Paper Tray
+Capacity (Number)
+
+250 *
+
+Bypass Facility No Yes, No Or higher
+
+If Yes, Bypass Tray
+Capacity
+
+0 *
+
+Yield of the
+cartridge/Ink Tank/Ink
+Pack supplied with
+Machine as per ISO/IEC:
+19798/2007(E) for
+Cyan colour (Number of
+prints)
+
+330 *
+
+Yield of the
+cartridge/Ink Tank/Ink
+Pack supplied with
+
+330 *
+
+                               3 / 6
+
+
+
+ 
+
+Machine as per ISO/IEC:
+19798/2007(E) for
+Yellow colour (Number
+of prints)
+
+Yield of the
+cartridge/Ink Tank/Ink
+Pack supplied with
+Machine as per ISO/IEC:
+19798/2007(E) for
+Magenta colour
+(Number of prints)
+
+330 *
+
+Yield of the
+cartridge/Ink Tank/Ink
+Pack supplied with
+Machine as per ISO/IEC:
+19752/2004(E) for
+Black (Number of
+prints)
+
+400 *
+
+Life of Drum in terms of
+number of Prints in
+case of Separate Drum
+and Toner cartridge
+technology - Cyan
+(Number of Prints)
+
+0 *
+
+Life of Drum in terms of
+number of Prints in
+case of Separate Drum
+and Toner cartridge
+technology - Yellow
+(Number of Prints)
+
+0 *
+
+Life of Drum in terms of
+number of Prints in
+case of Separate Drum
+and Toner cartridge
+technology - Magenta
+(Number of Prints)
+
+0 *
+
+Life of Drum in terms of
+number of Prints in
+case of Separate Drum
+and Toner cartridge
+technology - Black
+(Number of Prints)
+
+0 *
+
+Duty Cycle (No of
+Prints/month)
+
+12000 *
+
+Minimum Operating
+Temperature (Degree
+C)
+
+15 *
+
+Maximum Operating
+Temperature (Degree
+C)
+
+32 *
+
+Minimum Operating
+Humidity (%RH)
+
+20 *
+
+                               4 / 6
+
+
+
+ 
+
+Maximum Operating
+Humidity (%RH)
+
+80 *
+
+BIS Registration under
+CRS of Meity
+
+Yes *
+
+BIS Registration
+Number
+
+- *
+
+Other Certifications
+Available
+
+UL,CE *
+
+Dimension (mm x mm
+x mm)
+
+- *
+
+Weight (Kg) - *
+
+On Site OEM
+Warranty (Year)
+
+1 1, 2, 3, 4, 5 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Sumeet Kumar 110002,TOWN AND
+COUNTRY PLANNING
+ORGANISATION, Ministry of
+Housing and Urban Affairs E-
+Block, Vikas Bhawan, I.P.
+Estate,
+
+12  15
+
+Bid Specific Additional Terms and Conditions
+
+1. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+2.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+3.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+4.Warranty period of the supplied products shall be 2 years from the date of final acceptance
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+This Bid is also governed by the General Terms and Conditions
+
+                               5 / 6
+
+https://gem.gov.in/termsCondition
+
+
+ 
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+http://www.tcpdf.org
+

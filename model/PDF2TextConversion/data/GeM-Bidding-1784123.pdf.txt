@@ -1,0 +1,815 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/708232
+
+  Dated: 13-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 23-07-2020 15:00:00
+
+Bid Opening Date/Time 23-07-2020 15:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Health And Family Welfare
+
+Department Name Department Of Health And Family Welfare
+
+Organisation Name N/a
+
+Office Name Korea
+
+Total Quantity 1
+
+Item Category Haemodialysis Machine
+
+Bidder Turnover (Last 3 Years)  4 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  30 Lakh (s)
+
+Experience Criteria  1 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  50 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+
+                               1 / 9
+
+
+
+ 
+
+Splitting
+
+ Bid splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 50% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Haemodialysis Machine ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERAL FEATURES Product name Haemodialysis or
+Dialysis machine
+
+*
+
+Clinical purpose Purification of blood of
+a person by removing
+excess water and
+waste products from
+the blood using
+artificial kidney with
+the help of a dialysis
+machine out side the
+patient's body whose
+kidneys are
+dysfunctional,
+damaged or missing
+
+*
+
+Patient category Pediatrics and adults *
+
+                               2 / 9
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/NWhoe0krw3BFkAefCUCetyxVKtPqxiiOd00NpPmt5SQ
+
+
+ 
+
+CONSTRUCTION,
+OPERATION AND
+FUNCTIONAL FEATURES
+
+Material of the body Polypropylene (PP) Polypropylene (PP)
+
+The Machine should be
+of latest technology
+with microprocessor
+controlled
+
+Yes *
+
+Machine should have
+Acetate & Bicarbonate
+dialysis facility
+
+Yes *
+
+Machine should have
+two bacterial filters
+(Pyrogen filters) one at
+water inlet and one
+before water going to
+dialyzer
+
+Yes *
+
+Machine should have
+Sequential/Isolation
+Ultra filtration facility
+
+Yes *
+
+It should have Arterial ,
+Venous &
+Transmembrane
+pressure monitoring
+facility
+
+Yes *
+
+Arterial Pressure
+Monitoring
+
+-300 mm Hg to +300
+mm Hg
+
+-300 mm Hg to +300
+mm Hg
+
+Venous Pressure
+Monitoring
+
+-60 mm Hg to +500
+mm Hg
+
+*
+
+Transmembrane
+Pressure Monitoring
+
+-60 mm Hg to +500
+mm Hg
+
+*
+
+Treatment parameters
+should be displayed by
+trend curve and digital
+both in a user friendly
+manner
+
+Yes *
+
+Arterial Blood pump
+flow rate (ml/min)
+
+15 to 600 15 to 600
+
+Blood tubing pump
+segment should be
+operator changeable
+for use of different type
+of blood tubing sets
+
+Yes *
+
+Blood Tubing Pump
+segment range 4mm to
+10mm approx
+
+Yes *
+
+Variable dialysate
+flow (ml/mt)
+
+300 to 800 300 to 800
+
+Dialysate
+Temperature
+(degree C)
+
+34 to 39 34 to 39
+
+Machine should have With double blood With double blood
+
+                               3 / 9
+
+
+
+ 
+
+Single Needle
+dialysis facility
+
+pump pump
+
+Machine should have
+volumetric
+Ultrafiltration system
+
+Yes *
+
+Machine should have
+inbuilt on-line
+Dialysate fluid filter
+system for ultrapure
+Dialysate delivery
+
+Yes Yes, No
+
+Machine should have In-
+line Bicarbonate mixing
+and solution
+preparation facility with
+sterile dry powder
+cartridge during
+dialysis
+
+Yes *
+
+Machine should have
+Air bubble detector
+facility with level
+adjustment facility for
+Venous Chamber
+
+Yes *
+
+Machine should have
+Optical Sensor to check
+the presence of
+blood/saline in the
+extracorporeal blood
+circuit system
+
+Yes *
+
+Should have Na,
+Bicarbonate and UF
+profiling
+
+Yes *
+
+Should have drain
+facility
+
+Yes *
+
+Machine should have
+Heparin Infusion Pump
+with rate 0 to 10ml/min
+and Bolus infusion up
+to 5ml/min approx
+
+Yes *
+
+Heparin infusion
+pump delivery range
+(ml/min)
+
+0 to 10 0 to 10
+
+Heparin infusion
+pump bolus infusion
+range (ml/min)
+
+0 to 5 0 to 5
+
+Machine should have
+blood leak sensor
+
+Yes *
+
+Alarm will be activated
+for blood loss rate not
+greater than 0 point
+5ml/min at maximum
+dialysate flow of
+
+Yes *
+
+                               4 / 9
+
+
+
+ 
+
+800ml/min
+
+Machine should be able
+to accept different
+concentrate
+formulation, different
+dialyzers and blood
+tubing set
+
+Yes *
+
+Ultrafiltration rate
+(Lts/Hr)
+
+4 *
+
+Machine should have
+variable conductivity
+setting between 13 to
+15(minimum range)
+
+Yes *
+
+Machine should have
+facility for priming and
+rinsing of dialyzer and
+blood lines
+
+Yes *
+
+Machine should have
+automatic
+priming/reinfusion
+facility
+
+Yes *
+
+Machine should have
+Hot Rinsing and Hot
+Chemical Disinfection
+facility (Temp above 80
+deg Celsius) with
+recirculation system
+
+Yes *
+
+it should have various
+Chemo Thermal
+cleansing and
+disinfection programs
+
+Yes *
+
+Machine should have
+Ultrafiltration and
+Sodium Profiling facility
+
+Yes *
+
+Built-in heat exchanger Yes *
+
+Machine should have
+built-in automatic
+pulse rate and blood
+pressure(NIBP)
+monitoring unit
+
+Yes Yes
+
+Built-in online NIBP
+recording facility
+
+Yes Yes
+
+Online clearance kt/V
+facility
+
+Yes *
+
+Machine should be
+up gradable to
+future software
+development and
+can be linked for
+Data Management
+
+Yes Yes, No
+
+                               5 / 9
+
+
+
+ 
+
+System
+
+All important data
+should be preset so
+that machine can be
+used anytime without
+feeding data every
+time
+
+Yes *
+
+Should have automatic
+self test facility
+
+Yes *
+
+Automatic diagnosis of
+malfunctioning with on
+line ability to show the
+faults with trouble
+
+Yes *
+
+Audio visual alarms on
+limit violation of
+conductivity,blood leak,
+air leak,
+transmembrane
+pressure alarms,,
+Dialysis temperature
+alarm,dialysis can
+empty alarm, end of
+disinfection
+alarm,bypass alarm
+and blood pump stop
+alarm, alarm for
+reverse Ultrafiltration
+etc
+
+Yes *
+
+STANDARD
+ACCESSORIES
+
+Bacterial filters
+(Sets)
+
+2 2
+
+ELECTRICAL FEATURES Should have auto
+ON/OFF Facility
+
+Yes *
+
+LED indicator on front
+panel for status of
+machine
+
+Yes *
+
+Power supply (with
+Indian plug)
+
+220+/-10% V, 50Hz, AC
+Single phase
+
+*
+
+Machine should have
+Automatic battery
+backup for complete
+Extracorporeal blood
+system during power
+failure
+
+Yes *
+
+UPS of suitable rating
+with voltage regulation
+and spike protection for
+60 minutes back up
+
+Yes *
+
+USER INTERFACE Colour TFT display
+operated by touch
+buttons or touch screen
+
+Yes *
+
+Colour panel display 10 10.0 - 15.0 Or higher
+
+                               6 / 9
+
+
+
+ 
+
+size (inch)
+
+Data protection while
+power goes off
+
+Yes *
+
+Memory for storage of
+records
+
+Yes *
+
+USB and Ethernet for
+file sharing
+
+Yes Yes, No
+
+PACKING MODE The product is packed
+individually in a box
+with all its accessories
+in such a way that
+there will be no transit
+damage
+
+Yes *
+
+CERTIFICATIONS &
+REPORTS
+
+Availability of test
+report/quality
+assurance report from
+parent manufacturer
+
+YES *
+
+Product certification EU-CE *
+
+Certificate No - *
+
+Certificate Date - *
+
+Certificate issuing
+authority
+
+- *
+
+Four digit number of
+notified body If product
+is EU-CE certified
+
+- *
+
+Certification,
+performance and
+safety standards
+specific to the device
+
+IS:13485 *
+
+Submission of all the
+certifications and test
+reports to the buyer
+along with supplies on
+demand
+
+Yes *
+
+INSTALLATION &
+TRAINING
+
+Supplier to perform
+installation, safety and
+operation checks
+before handover
+
+Yes *
+
+Training of users in
+operation and basic
+maintenance shall be
+provided
+
+Yes *
+
+WARRANTY &
+MAINTENANCE
+
+Onsite comprehensive
+warranty from the date
+of installation and
+commissioning (in
+years)
+
+5 *
+
+User technical and
+maintenance manual
+
+Yes *
+
+                               7 / 9
+
+
+
+ 
+
+detailing complete
+maintaining schedule
+with routine
+maintenance should be
+provided
+
+Contact details of
+manufacturer, supplier
+and local service agent
+to be provided
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Sudhanshu
+Shrivastav
+
+497335,Chief Medical &
+Health officer Kanchanpur
+baikunthpur korea cg
+
+1  30
+
+Special terms and conditions for category Haemodialysis Machine 
+
+1.Comprehensive warrantyComprehensive warranty shall include preventive maintenance
+including calibration as per technical/ service /operational manual of the manufacturer,
+service charges and spares,. During the warranty period commencing from date of the
+successful completion of warranty period, Service personnel shall visit each consignee site
+as recommended in the manufacturer’s technical/ service /operational manual, at least once
+in six months. warranty shall not be including the consumables .Further there will be 98%
+uptime warranty during warranty period on 24 (hrs) X 7 (days) X 365 (days) basis, with
+penalty, to extend warranty period by double the downtime period.Service centresDetails of
+Service outlets in India to render services for equipment to be furnished to buyer/consignees
+with complete address ,telephone numbers, e mails etc at time of making the supplies .It
+shall be the responsibility of seller to ensure that authorized service centres are available to
+cater to the areas where supplies are made within reasonable distance from where the
+service calls can be handled .Details of toll free numbers for service call and online
+registration of service requests also to be provided buyer/consignee at the time of
+supplies.Source of supplyIt shall be responsibility of seller to provide Documents regarding
+source of equipments such as copy of Performa invoice or any other documents to establish
+that the products supplied are manufactured by OEM indicated and sourced from
+them.Packing and MarkingMedical equipments being very delicate and sensitive packing for
+the goods should be strong and durable enough to withstand transit including transhipment
+(if any), rough handling, open storage etc. without any damage, deterioration etc. .The size,
+weights and volumes of the packing cases, remoteness of the final destination of the goods,
+availability or otherwise of transport and handling facilities at all points during transit up to
+final destination,. Quality of packing, the manner of marking within & outside the packages
+and provision of accompanying documentation shall take in to consideration the type of
+medical equipments being supplied. The accessories shall be suitably labelled and packed
+.Each of the package shall be marked on three sides with indelible paint of proper quality:
+indicating contract number and date , brief description of goods including quantity ,. Packing
+
+                               8 / 9
+
+
+
+ 
+
+list reference number , country of origin of goods and any other relevant details.Spare
+PartsSeller shall provide materials, information etc. pertaining to spare parts manufactured
+and supplied by the OEM . It shall be ensured that the required spares are available for
+purchase at least for 10 years from date of supplies .In case due to any reasons the
+production of the spare parts is discontinued sufficient advance notice should be given to
+the buyer/consignee before such discontinuation to provide adequate time to purchase the
+required spare parts etc. Further, OEM and their service centres/dealers shall carry sufficient
+inventories to assure ex-stock supply of consumables and spares for the equipments so that
+the same are available.OEM or reseller shall always accord most favoured client status to
+the buyer/consignee and shall give the most competitive price for spares and consumables
+of its machines/equipments supplied.Installation, Training, ManualsSeller shall be
+responsible to carry out Installation & commissioning, Supervision and Demonstration of the
+goods. They shall provide required jigs and tools for assembly, minor civil works for the
+completion of the installation and Training of Consignee’s representatives for operating and
+maintaining the equipment and Supplying required number of operation & maintenance
+manual for the goods. In case the category parameters are specifying any requirements
+regarding the installations , training and manuals the same shall also be applicable.
+Electrical safety checkingSellers are required to make sure that they furnish the list of
+equipments for carrying out routine and preventive maintenance to buyer/consignee. They
+should make sure to periodically check the electrical safety aspects as per BIS Safety
+Standards or equivalent .In case they do not have required equipment for such testing
+should ensure that the equipments checked for electrical safety compliance through labs
+with facilities for such checking during every preventive maintenance call. Software All
+software updates should be provided free of cost during warranty period.
+
+Bid Specific Additional Terms and Conditions
+
+1.Authorised Service Centre within the state of Odisha, along with a dedicated contact person
+with telephone number for technical solution in a fast track basis at this institution as and
+when required basis.
+
+2.Experience Certificate for the supply of the same to any Govt/ PSU/ any renowned private
+organisation along with Supply/ Purchase Order.
+
+3. If the agency is registered under MSME or NSIC, then EMD exemption certificate needs to be
+enclosed.
+
+4.Make in india specific authorisation certificate needs to be enclosed.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               9 / 9
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

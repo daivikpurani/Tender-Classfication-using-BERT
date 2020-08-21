@@ -1,0 +1,333 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/693092
+
+  Dated: 01-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 13-07-2020 11:00:00
+
+Bid Opening Date/Time 2020-07-13 11:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Pmo
+
+Department Name Department Of Atomic Energy
+
+Organisation Name Nuclear Power Corporation Of India Limited
+
+Office Name Kaiga Karnataka
+
+Total Quantity 12
+
+Item Category Static Protective Relays
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+
+Splitting
+
+  Bid splitting not applied.  
+
+MSE Purchase Preference
+
+MSE Purchase Preference Yes
+
+ 
+
+1. Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to
+
+                               1 / 4
+
+
+
+ 
+
+MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012
+dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and its subsequent
+Orders/Notifications issued by concerned Ministry. If the bidder wants to avail the Purchase
+preference, the bidder must be the manufacturer of the offered product in case of bid for supply of
+goods. Traders are excluded from the purview of Public Procurement Policy for Micro and Small
+Enterprises. In respect of bid for Services, the bidder must be the Service provider of the offered
+Service. Relevant documentary evidence in this regard shall be uploaded along with the bid in
+respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s) has/have quoted
+price within L-1+ 15% of margin of purchase preference /price band defined in relevant policy, such
+Seller shall be given opportunity to match L-1 price and contract will be awarded for percentage of
+25% of total value.
+
+Static Protective Relays ( 12 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC ISI Marked No No
+
+Static protective relays
+conforming to
+
+IS : 8686 (1977) Latest *
+
+If ISI Marked ''Yes"
+CM/L Number must
+declare. If ''No'' write
+NA
+
+- *
+
+Type Static Relay with
+Output Contacts
+
+Static Relay with
+Output Contacts
+
+Impulse voltage
+withstand test class
+
+Class II Class II
+
+High Frequency
+Disturbance test class
+
+Class II *
+
+Rated Voltage, DC
+(in Volt)
+
+24,48,110,125,220,250 24, 48, 110, 125, 220,
+250
+
+Rated Voltage, AC
+(in Volt)
+
+110,220,415 110, 220, 415
+
+Rated continuous
+current, AC (in A)
+
+1,2,5,8,10 1, 2, 5, 8, 10
+
+Rated continuous
+current, DC (in A)
+
+1,2,5,8,10 1, 2, 5, 8, 10
+
+Rated insulation
+voltge (in Volt)
+
+1000 1000
+
+Frequency of
+operation (n Cycles
+per hour)
+
+72000 72000
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/we7XhKZE4pUdy2H4qZqDmI5RLrkivMhBCWGYk5ZYoT4
+
+
+ 
+
+Dielectirc volatge
+series as per Table 1
+of IS : 12083 ( Part 2
+) - 1986
+
+Series B Series B
+
+Duty Level for AC
+and DC
+
+Level II Level II
+
+CONSTRUCTION Enclosure type Wall mounted facility *
+
+Enclosure Material Flame retardant
+polycarbonate
+
+*
+
+Degree of
+protecction for
+enclosure (IP rating)
+
+IP50 IP50
+
+Operating temperature 0 C to 60 Degree C *
+
+Marking on Relay as per Cl. 8 of IS :
+12083 ( Part 2 ) - 1986
+
+*
+
+CERTIFICATION Availability of Type test
+report from Central
+government/NABL/ILAC
+accrediated laboratory
+to prove conformity to
+the specification
+
+Yes *
+
+Test report number -
+Must declare
+
+- *
+
+Test Report date - Must
+declare
+
+- *
+
+Name of lab - Must
+declare
+
+- *
+
+Address of lab - Must
+declare
+
+- *
+
+All the test reports and
+certificates shall furnish
+by the supplier to the
+buyer/consignee on
+demand
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Praveen Kumar
+Lagudu
+
+581400,Plant Site, Kaiga
+Generating Station, PO:
+Kaiga
+
+12  30
+
+                               3 / 4
+
+
+
+ 
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2.Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be
+
+given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs)
+Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises
+and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to
+avail the Purchase preference, the bidder must be the manufacturer of the offered product
+in case of bid for supply of goods. Traders are excluded from the purview of Public
+Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder
+must be the Service provider of the offered Service. Relevant documentary evidence in this
+regard shall be uploaded along with the bid in respect of the offered product or service. If L-1
+is not an MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of
+purchase preference /price band defined in relevant policy, such Seller shall be given
+opportunity to match L-1 price and contract will be awarded for percentage of 25% of total
+value.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

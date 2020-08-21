@@ -1,0 +1,668 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/696804
+
+  Dated: 03-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 15:00:00
+
+Bid Opening Date/Time 20-07-2020 15:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Ministry Of Information And Broadcasting
+
+Department Name Na
+
+Organisation Name Prasar Bharati Broadcasting Corporation Of India
+
+Office Name Adg(e)(ez) Air & Dd Kolkata
+
+Total Quantity 1
+
+Item Category spectrum analyzers vector network analyzers
+
+OEM Average Turnover (Last 3 Years)  20 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  80 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 2.00
+
+EMD Amount 10316
+
+ePBG Detail
+
+                               1 / 8
+
+
+
+ 
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 10.00
+
+Duration of ePBG required (Months). 38
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+Assistant Engineer
+Prasar Bharati, O/o Additional Director General (E) East Zone, All India Radio & Doordarshan, Kolkata
+(Subrata Bhowmick)
+
+Splitting
+
+ Bid splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 80% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Spectrum Analyzers Vector Network Analyzers ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+                               2 / 8
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/XpgXz3frpb9W33koVfuc84qfrvE_3NRIWKLAYcio748
+
+
+ 
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+FEATURES Description of the
+itemuu
+
+Spectrum analyzers Spectrum analyzers
+
+GENERAL FEATURES
+COMMON TO
+SPECTRUM AND
+VECTOR ANALYSER
+
+Markers Normal,delta *
+
+Trigger video,External,Free run *
+
+Display TFT Colour display with
+provision for three
+traces
+
+*
+
+Interface USB *
+
+Software for transfer of
+screen
+shot/measurement
+data to PC
+
+Yes *
+
+SPECTRUM ANALYZER
+FEATURES
+
+Frequency Range 9 kHz to 3 GHz 9 kHz to 3 GHz
+
+Aging rate of spectrum
+analyzer frequency:
+Better than 1x10-6
+/Year
+
+Yes *
+
+Frequency counter
+Resolution(minimum)
+(Hz)
+
+1 *
+
+Frequency Span 100Hz to 3GHz 100Hz to 3GHz
+
+Spectral purity:SSB
+Phase Noise @10KHz
+offset shall be less than
+-90dBc/Hz at 1GHz
+
+Yes *
+
+Spectral
+purity:Harmonics @
+-40dBm level <=60
+dBc
+
+yes *
+
+Sweep time @span
+>or= 1 KHz
+
+0.1S to 1000 s *
+
+Sweep time @span = 0
+Hz
+
+100 micro S to 20 S *
+
+Resolution Bandwidth
+(-3dB)
+
+100 Hz to 3 MHz in
+steps
+
+*
+
+Video Bandwidth 10Hz to 1 MHz in steps *
+
+Amplitude : Max input
+level for protection
+(dBm)
+
++30 *
+
+Amplitude : Max input
+level for measurement
+(dBm)
+
+20 *
+
+Amplitude :level
+measurement
+uncertainity (dB)
+
+<=2 *
+
+                               3 / 8
+
+
+
+ 
+
+Average noise level dis
+played(@300HzRBW,10
+Hz VBW)
+
+<=-110dBm for 10MHz
+to 3 GHz
+
+*
+
+Average noise level dis
+played(@100HzRBW,1
+Hz VBW)
+
+<=-110dBm for 10MHz
+to 3 GHz
+
+*
+
+Average noise level dis
+played(@300HzRBW,1
+Hz VBW)
+
+<=-110dBm for 10MHz
+to 3 GHz
+
+*
+
+Measurement features C/N ratio,AM%,time
+domain power
+measurement,channel
+power
+measurement,Phase
+noise measurement,TOI
+(THIRD ORDER INTERC
+EPT),OBW(occupied
+bandwidth)
+
+*
+
+VECTOR NETWORK
+ANALYZER FEATURES
+
+Frequency Range for
+2port vector network
+analyzer
+
+NA *
+
+Frequency Resolution
+(CW ON) (Hz)
+
+NA *
+
+Return Loss (dB) NA *
+
+VSWR (dB) NA *
+
+Cable Loss (dB) NA *
+
+Calibration with
+Precision calibration
+components-open,
+short, load should be
+included to achieve
+directivity >35 dB
+
+NA *
+
+Abilty to locate
+Distance-to-fault in Co-
+axial cables
+
+NA *
+
+Phase Range (degree) NA *
+
+Phase Resolution (deg) NA *
+
+RF output port NA *
+
+Dynamic Range NA *
+
+Nominal port power
+output: Hi Power/Lo-
+Power selectable
+
+NA *
+
+Power levels
+corresponding to Hi
+and Lo levels
+
+- *
+
+Measurement of S11
+and S21 and Smith
+Chart
+
+NA *
+
+                               4 / 8
+
+
+
+ 
+
+Vector Voltmeter for
+comparision and
+verification of the
+phase of the phase-
+matched cables
+
+NA *
+
+Group Delay
+measurement
+
+- *
+
+OPERATING
+CONDITIONS
+
+Operating
+Temperature
+
+'5 to 40 degree C &
+80% RH @ 40 degree C
+
+'5 to 40 degree C &
+80% RH @ 40 degree C
+
+Operating Humidity 80% RH @ 40 degree C 80% RH @ 40 degree C
+
+POWER REQUIREMENT Power requirement 230 +- 10 VAC,
+50Hz,Rechargeable
+battery
+
+230 +- 10 VAC, 50Hz,
+Rechargeable battery
+
+chemistry of the
+battery
+
+lithium ion *
+
+Voltage of
+rechargeable Battery
+
+10.8 *
+
+capacity of
+rechargeable battery
+(millAh)
+
+7500 *
+
+Suitable charger /
+adaptor provided
+
+Yes *
+
+WARRANTY Warranty 3 3, 4, 5 Or higher
+
+ACCESSORIES Details of Standard
+accessories covered in
+the scope of supply
+
+- *
+
+GENERIC Other features - *
+
+CERTIFICATION/TEST
+REPORT DETAILS
+
+The equipment
+supplied with
+calibration certificate
+
+yes *
+
+conformity to Dry Heat
+for 16 hrs at a specified
+maximum temp in
+accordance with IS:900
+0/part-3/section-5/1977
+latest
+
+no *
+
+conformity to Cold Test
+for 4 hrs at a specified
+minimum temp in
+accordance with IS:900
+0/part-2/section-4/1977
+latest
+
+no *
+
+conformity to Damp
+Heat (Cyclic)Test for 2
+Cycles of 24 h each at
+a temp of 40 degree C
+& 95% RH
+
+no *
+
+Availability of Test
+Reports from Central
+
+Yes *
+
+                               5 / 8
+
+
+
+ 
+
+Govt/NABL/ILAC
+approved accredited
+lab to prove conformity
+to the specification
+
+Test Report Number
+and date for the
+specification test
+
+- *
+
+Name and address of
+the Lab for the
+specification test
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Sadip Haldar 700095,18/3, UDAY
+SHANKAR SARANI, GOLF
+GREEN, KOLKATA
+
+1  60
+
+Bid Specific Additional Terms and Conditions
+
+1.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+2.Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid
+documents. Buyers can match and verify the Data Sheet with the product specifications
+offered. In case of any unexplained mismatch of technical parameters, the bid is liable for
+rejection.
+
+3.Without prejudice to Buyer’s right to price adjustment by way of discount or any other right
+or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a
+written notice to the Seller, if:
+i) The Seller fails to comply with any material term of the Contract.
+ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within
+the stipulated Delivery Period or such inability otherwise becomes apparent.
+iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery
+Period and/or to replace/rectify any rejected or defective Material(s) promptly.
+iv) The Seller becomes bankrupt or goes into liquidation.
+v) The Seller makes a general assignment for the benefit of creditors.
+vi) A receiver is appointed for any substantial property owned by the Seller.
+vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has
+placed the Purchase Order on the Seller.
+
+4.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+5.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+
+offered product during the last three years, ending on 31st March of the previous financial
+year, should be as indicated in the bid document. Documentary evidence in the form of
+certified Audited Balance Sheets of relevant periods or a certificate from the Chartered
+Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+
+                               6 / 8
+
+
+
+ 
+
+uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than
+3 year old, the average turnover in respect of the completed financial years after the date of
+constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of
+CATEGORY RELATED TO primary product having highest bid value should meet this criterion.
+
+6. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+7.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+8.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+9.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+10.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents
+sought in the Bid document, ATC and Corrigendum if any.
+
+11.The bidder is required to upload, along with the bid, all relevant certificates such as BIS
+licence, type test certificate, approval certificates and other certificates as prescribed in the
+Product Specification given in the bid document.
+
+12.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 15 days time limit. If the Seller fails to complete
+service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product
+shall be charged as penalty for each week of delay from the seller. Seller can deposit the
+penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty
+amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than
+10% of the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+13.Warranty period of the supplied products shall be 3 years from the date of final acceptance
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+14.For fulfilling the experience criteria any one of the following documents may be considered
+as valid proof for meeting the experience criteria:
+a. Purchase Order copy along with Invoice(s) with self-certification by the bidder that
+supplies against the invoices have been executed.
+b. Execution certificate by client with order value.
+c. Any other document in support of order execution like Third Party Inspection release note,
+etc.
+
+15.The Bidder / OEM {themselves or through reseller(s)}, should have executed project for
+supply and installation / commissioning of same or similar Category Products during
+preceding 3 financial years (i.e. current year and three previous financial years) as on
+opening of bid, as per following criteria:
+ 
+(i) Single order of at least 35% of estimated bid value; or
+(ii) Two orders of at least 20% each of estimated bid value; or
+(iii) Three orders of at least 15% each of estimated bid value.
+Satisfactory Performance certificate issued by respective Buyer Organization for the above
+
+                               7 / 8
+
+
+
+ 
+
+Orders should be uploaded with bid. In case of bunch bids, the Category related to primary
+product having highest bid value should meet this criterion
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               8 / 8
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

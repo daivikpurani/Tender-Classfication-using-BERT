@@ -1,0 +1,631 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/712219
+
+  Dated: 15-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 25-07-2020 20:00:00
+
+Bid Opening Date/Time 25-07-2020 20:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Army
+
+Office Name ***********
+
+Total Quantity 42
+
+Item Category Analog Transceiver-Handheld
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,OEM
+Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  60 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+Estimated Bid Value  300000
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 7
+
+
+
+ 
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 60% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Analog Transceiver-Handheld ( 42 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+PERFORMANCE
+FEATURES
+
+Frequency Range
+(MHz)
+
+380-512 380-512
+
+Types of Bandwidth UHF Split Band UHF Split Band
+
+Channel Capacity 16 16, 32, 48, 128
+
+Channel Spacing 12.5 *
+
+Frequency Spread
+without degradation in
+Tx / Rx Specification
+
+12.5 *
+
+Frequency Stability (± ) 2.5 *
+
+Antenna Impedance 50 *
+
+TRANSMITTER RF Power output
+setting of transmitter
+
+Programmable *
+
+RF Power output
+Range
+
+1 to 4 Watts (UHF) 1 to 4 Watts (UHF)
+
+Type of Emission 11K0F3 *
+
+Frequency deviation ± 2.5Khz max. for
+100% at 1KHz
+
+*
+
+Modulation Sensitivity 1 to 10mV at 1 KHz at
+mic. Input for +/- 1.5
+KHz standard deviation
+
+*
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/NVHPM5Ba-3IXFqppFAj2QfCW0G9kgtL870UhoKf0p3g
+
+
+ 
+
+Modulation Distortion 2.5 *
+
+Modulation Fidelity +1, -3 dB of 6dB/
+octave pre-emphasis
+charactrestics from 350
+Hz to 2700 Hz with
+1KHz as reference
+
+*
+
+Spurious & Harmonics
+Suppression (dB)
+
+60 *
+
+VSWR 1.5 *
+
+RECEIVERS Sensitivity at 12 dB
+SINAD
+
+0.2 *
+
+Squelch Sensitivity of
+receiver
+
+0.2 *
+
+Adjacent Channel
+Selectivity (dB)
+
+60 *
+
+Image Rejection (dB) 65 *
+
+Audio Output, (with
+less than 5 % distortion
+at 1 KHz reference
+measured at specified
+AF output)
+
+500 *
+
+Audio Response +1, -3 dB of 6dB/
+octave de- emphasis
+charactrestics from 350
+Hz to 2700 Hz with
+1KHz as reference
+
+*
+
+ACCESSORIES Antenna Helical Antenna *
+
+Programming kit No *
+
+Technical repairing &
+maintenance manual
+with complete block
+diagram, circuit layout
+etc in soft as well as
+hard copy
+
+No *
+
+Battery charger Yes *
+
+Output voltage of the
+charger
+
+- *
+
+Battery charger
+suitable for
+
+Lithium-ion *
+
+Charging time for
+standard mode
+
+6 to 14hrs *
+
+Charging time for rapid
+mode
+
+1 tO 3 hrs *
+
+Number of spare
+batteries with each
+Radio Set
+
+1 1
+
+POWER Chemistry of Battery Li-ion *
+
+                               3 / 7
+
+
+
+ 
+
+SOURCE/BATTERY Voltage rating of the
+Battery
+
+7.4 *
+
+capacity of Battery
+(milli AH)
+
+2200 *
+
+VARIOUS FEATURES Simple Press to talk yes *
+
+Protection against high
+VSWR
+
+yes *
+
+Low Battery Alert yes *
+
+CTCSS or DCS yes *
+
+Capable of VOX for
+hands-free operation
+
+Yes *
+
+PTT ID Encode Yes *
+
+Busy Channel Lockout Yes *
+
+Channel Scanning with
+call quieting facility
+
+Yes *
+
+Selective Call Decode Yes *
+
+Capable of being Killed/
+Unkilled
+
+No *
+
+Emergency SOS/SIREN Yes *
+
+LCD Display (Min 4
+characters)
+
+No *
+
+Automatic Number
+Identification (ANI)
+
+No *
+
+Talk-around No *
+
+DTMF Keypad No *
+
+DTMF Microphone No *
+
+Keypad Lock No *
+
+Built-in GPS No *
+
+Battery Strength Bar
+Indicator or Digital
+Voltage read out
+
+No *
+
+Signaling 2Tone *
+
+GENERIC Internal Speaker
+impedance
+
+4 *
+
+External Speaker
+impedance
+
+4 *
+
+Output Termination Others *
+
+Weight of Transceiver
+with Battery
+
+235 *
+
+Other features - *
+
+SAFETY Protections Reverse polarity
+protection & short
+circuit protection
+
+*
+
+                               4 / 7
+
+
+
+ 
+
+SERVICE Warranty 1 1.0, 2.0
+
+OPERATING CONDITION Minimum Operating
+temperature
+
+-10 *
+
+Maximum Operating
+temperature
+
+55 *
+
+Minimum Storage
+temperature
+
+-40 *
+
+Maximum Storage
+temperature
+
+70 *
+
+Humidity non-
+condensing (at +40 oC
+)
+
+95 *
+
+CERTIFICATION BIS registration under
+CRS of Meity for the
+battery
+
+- *
+
+BIS registration
+Number and Date for
+the Battery
+
+- *
+
+TEST REPORT DETAILS conformity to Dry
+Heat for 16 hrs at a
+maximum temp in
+accordance with IS:9
+000/part-3/section-5/
+1977 latest
+
+No No
+
+conformity to Cold
+Test for 4 hrs at a
+minimum temp in
+accordance with IS:9
+000/part-2/section-4/
+1977 latest
+
+No No
+
+conformity to Damp
+Heat (Cyclic)Test for
+2 Cycles of 24 h each
+at a temp of 40
+degree C & 95% RH
+in accordance with I
+S:9000/part-5/sectio
+n-1/ 1991 latest
+
+No No
+
+Drop Test (in packed
+condition): IS 9000
+Part VII/SEC,3/1979
+(reaffirmed 2004):
+Six drops one on
+each face, Height of
+fall 1000 mm incase
+of handheld items
+and 500 mm in case
+of other items
+
+No No
+
+Vibration Test: IS
+9000 Part VIII/1981
+(reaffirmed 2006):
+
+No No
+
+                               5 / 7
+
+
+
+ 
+
+12 hours, 4 hours
+along with each axis,
+at 15-150 Hz and
+with amplitude of
+0-15 mm/2g
+
+Storage Test: IS
+9000 Part III/SEC
+5/1977 & Part II/ SEC
+4/1977 (reaffirmed
+2004): -40 deg C for
+5 hours, then raise
+the temperature to
+70 deg C for 16
+hours
+
+No No
+
+Bump Test: IS 9000
+Part VII/SEC 2/1979
+(reaffirmed 2004):
+4000 bumps at peak
+acceleration of 400
+m/s sq
+
+No No
+
+Availability of the
+test report from
+Central Govt/ NABL/
+ILAC accredited lab
+to prove conformity
+to the specification
+
+No No
+
+If yes test report to
+furnished,to the buyer
+on demand
+
+Yes *
+
+Test Report Number
+and date for the
+specification test
+
+- *
+
+Name and address of
+the Lab for the
+specification test
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********CHAMBA 42  30
+
+                               6 / 7
+
+
+
+ 
+
+Bid Specific Additional Terms and Conditions
+
+1.Without prejudice to Buyer’s right to price adjustment by way of discount or any other right
+or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a
+written notice to the Seller, if:
+i) The Seller fails to comply with any material term of the Contract.
+ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within
+the stipulated Delivery Period or such inability otherwise becomes apparent.
+iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery
+Period and/or to replace/rectify any rejected or defective Material(s) promptly.
+iv) The Seller becomes bankrupt or goes into liquidation.
+v) The Seller makes a general assignment for the benefit of creditors.
+vi) A receiver is appointed for any substantial property owned by the Seller.
+vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has
+placed the Purchase Order on the Seller.
+
+2.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+3.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+4.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+5.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+6. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+7.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents
+sought in the Bid document, ATC and Corrigendum if any.
+
+8.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 15 days time limit. If the Seller fails to complete
+service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product
+shall be charged as penalty for each week of delay from the seller. Seller can deposit the
+penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty
+amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than
+10% of the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

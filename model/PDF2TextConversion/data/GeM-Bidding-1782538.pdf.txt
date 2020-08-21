@@ -1,0 +1,662 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/706774
+
+  Dated: 11-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 21-07-2020 13:00:00
+
+Bid Opening Date/Time 21-07-2020 13:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Dg Armed Forces Medical Service
+
+Office Name ***********
+
+Total Quantity 1
+
+Item Category CTG Machine (Cardio Tocography) -Fetal Monitor
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+CTG Machine (Cardio Tocography) -Fetal Monitor ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+                               1 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/UmjobC_9y-6MNmQq3jo8Rbp7Whicou-N8KEwu1ajqxw
+
+
+ 
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERAL FEATURES Product description CTG Machine (Cardio
+Tocography)-Fetal
+Monitor
+
+*
+
+Type Trolley mounted Trolley mounted
+
+Clinical purpose For recording and
+analyzing the Fetal
+Heart Rate (FHR) and
+contractions of uterus
+during antepartum and
+intrapartum period
+
+*
+
+PROCUCT &
+FUNCTIONAL
+REQUIREMENTS
+
+Advanced digital signal
+process
+
+Yes *
+
+Toco and Maternally
+sensed fetal
+movements are
+detected both manually
+
+Yes *
+
+Facility of twin
+monitoring
+
+Yes *
+
+Display of FHR upto
+twins FHR1, FHR2 and
+Toco
+
+Yes *
+
+Heart rate offset mode
+to visually distinguish
+between the heart
+rates of twins with
+ability to offset the
+secondary FHR by
+atleast 20bpm
+
+Yes *
+
+Capable to
+simultaneously provide
+integrated fetal heart
+rate (FHR) and Uterine
+activity
+
+Yes *
+
+Blinking
+correspondence to
+each beat
+
+Yes *
+
+In-built / Separate
+Acoustic Stimulator
+with a separate
+marker on the graph
+for acoustic
+stimulators
+
+Yes Yes, No
+
+Ultrasound transducer
+for measuring fetal
+heart rate with auto
+correlation
+
+Yes *
+
+Pulse Doppler
+transducer frequency
+
+=< 1.5 *
+
+                               2 / 7
+
+
+
+ 
+
+(MHz)
+
+Pulse Doppler with 7
+to 9 elements/crystal
+design for better
+sensitivity
+
+10 to 12 10 to 12
+
+Transducer should be
+waterproof
+
+Yes *
+
+Fetal Heart Rate
+measurements
+Range (BPM)
+
+30 to 240 30 to 240
+
+FHR measurement
+tolerance (BPM)
+
++/-1 *
+
+Intensity of ultrasound
+transducer(mW/Sq Cm)
+
+10 *
+
+User adjustable audio
+visual alaram for fetal
+heart rate (FHR)
+
+Yes *
+
+High alarm range
+(bpm)
+
+160 to 180 *
+
+Low alarm range (bpm) 90 to 120 *
+
+Auto timer for NST
+tracing
+
+Yes Yes
+
+External Toco
+transducer unit, sealed
+waterproof and
+designed with guard
+ring to reduce maternal
+respiration artifact
+
+Yes *
+
+Strain gauge sensor
+element for measuring
+uterine tone
+contraction
+
+Yes *
+
+Toco Transducer
+measurement range,
+(Units)
+
+0 to 100 *
+
+Resolution for
+transducer
+measurement, (Units)
+
++/-1 *
+
+Recorder for Fetal
+Heart Rate and Uterine
+contractions
+
+Yes *
+
+Computerized trace
+interpretation
+should be provided
+for antepartum
+monitoring of high
+risk pregnancies
+
+Yes Yes
+
+Digital display or
+waveform of
+
+Yes *
+
+                               3 / 7
+
+
+
+ 
+
+Tabular/Graphical data
+of the patient
+containing the details
+viz Patient Name, ID,
+date and time for
+minium of 24 hours
+
+Suitable trolley with
+castor wheels, cover
+and locking facility
+with provision for
+parking the
+transducer etc
+
+Yes Yes
+
+Size (LxWxH)
+(mmxmmxmm)
+
+- *
+
+Weight (Kg) 2.9 *
+
+ELECTRICAL
+REQUIREMENTS
+
+Power supply 220+/-10% V, 50/60
+Hz, AC Single phase
+
+*
+
+Input power (Watts) 60 *
+
+In-built rechargeable
+battery
+
+Yes *
+
+Type of battery Li-ion *
+
+Battery back up
+(hrs)
+
+2 2, 3
+
+Auto power off when
+machine is not in use
+for more than a preset
+time (minutes)
+
+Yes *
+
+USER INTERFACE Colour screen
+monitor type
+
+LED LED
+
+Flat panel display,
+tiltable and foldable
+
+Yes Yes, No
+
+Touch screen display Yes Yes
+
+Display monitor size
+(inch)
+
+10-12 7-8, 8-9, 9-10, 10-12
+
+Built-in Printer to print
+patient data & Test
+Results
+
+Yes *
+
+Type of printer High resolution
+Thermal printer
+
+*
+
+Selectable Print speed
+for real time traces
+(Cm/minute)
+
+1,2,3 *
+
+Print media Z folded Thermo
+sensitive paper
+
+*
+
+Print media sheet size
+(mmxmm)
+
+- *
+
+Patient data storage Yes *
+
+                               4 / 7
+
+
+
+ 
+
+and trend graph for 48
+to 72 hrs with fast
+printing facility of
+stored data
+
+Fast print speed for
+printing stored data
+(Cm/minute)
+
+8 Any applicable numeric
+value
+
+FHR Chart printing
+width (mm)
+
+112 Any applicable numeric
+value
+
+Toco Chart printing
+width (mm)
+
+35 Any applicable numeric
+value
+
+Memory for storage
+of records (hrs)
+
+2160 2160
+
+Machine should be
+compatible with
+wireless connection
+system for central
+monitoring
+
+Yes *
+
+Machine should be
+compatible with wired
+connection system for
+central monitoring
+
+Yes *
+
+LIST OF ACCESSORIES FHR probe (No) 2 2
+
+TOCO probe (No) 1 1
+
+Event Marker (No) 1 1
+
+Fetal Simulator (No) 1 1
+
+Probe belt (No) 3 3
+
+Ultrasound gel (No) 10 10
+
+Power Cable (No) 1 1
+
+Compatible size of z
+folded thermal
+sensitive continuous
+paper in packets of
+150 sheets each
+(Number of Packets)
+
+20 20
+
+PACKING MODE The product is packed
+individually in a box
+with all its accessories
+in such a way that
+there will be no
+damage during
+transportation
+
+Yes *
+
+ENVIRONMENTAL
+CONSIDERATIONS
+
+Storage conditions Temperature -10 deg C
+to 40 deg C, RH not
+more than 85%
+
+*
+
+Work or usage
+environment
+
+Temperature 5 deg C
+to 40 deg C, RH not
+more than 85%
+
+*
+
+                               5 / 7
+
+
+
+ 
+
+CERTIFICATIONS &
+REPORTS
+
+Submission of Test
+Report from Central
+Govt/NABL/ILAC
+accredited Lab to prove
+the conformity to
+declared specification
+to the buyer on
+demand
+
+YES *
+
+Product certification EU-CE *
+
+Four digit number of
+notified body If product
+is EU-CE certified
+
+4824 *
+
+Certificate No - *
+
+Certificate date - *
+
+Certificate issuing
+authority
+
+- *
+
+Certification,
+performance and
+safety standards
+specific to the device
+
+- *
+
+Submission of all the
+certifications and test
+reports to the buyer on
+demand
+
+Yes *
+
+INSTALLATION &
+TRAINING
+
+Supplier to perform
+installation, safety and
+operation checks
+before handover
+
+Yes *
+
+Installation of machine
+required and to provide
+onsite service to end
+user
+
+Yes *
+
+Training of users in
+operation and basic
+maintenance shall be
+provided
+
+Yes *
+
+WARRANTY &
+MAINTENANCE
+
+Warranty (Yrs) 3 3
+
+User technical and
+maintenance manual
+detailing complete
+maintaining schedule
+with routine
+maintenance should be
+provided
+
+Yes *
+
+Contact details of
+manufacturer, supplier
+and local service agent
+to be provided
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+
+                               6 / 7
+
+
+
+ 
+
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********AMBALA 1  15
+
+Bid Specific Additional Terms and Conditions
+
+1. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+2.Successful bidder will have to ensure that adequate number of dedicated technical service
+personals / engineers are designated / deployed for attending to the Service Request in a
+time bound manner and for ensuring Timely Servicing / rectification of defects during
+warranty period, as per Service level agreement indicated in the relevant clause of the bid.
+
+3.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

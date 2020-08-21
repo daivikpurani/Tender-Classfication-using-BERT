@@ -1,0 +1,442 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/705936
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 19:00:00
+
+Bid Opening Date/Time 20-07-2020 19:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Coal
+
+Department Name Materials Management
+
+Organisation Name Northern Coalfields Limited
+
+Office Name Singrauli
+
+Total Quantity 10
+
+Item Category Pulse Oximeter
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Pulse Oximeter ( 10 pieces )
+
+Technical Specifications
+
+                               1 / 5
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Conformity to
+Standards
+
+- *
+
+Certification number
+and date
+
+- *
+
+"Electrical safety
+conforms to standards
+for electrical safety"
+
+IEC-60601-1 or
+equivalent BIS
+
+*
+
+Performance
+Parameters
+
+Type of Pulse
+Oximeter
+
+FINGER TIP FINGER TIP
+
+Should work during
+motion and very low
+perfusion conditions
+
+Yes *
+
+Special Signal
+processing
+Technology (Motion
+artifact rejection)
+
+Nellcor Compatible Nellcor Compatible
+
+SPO2 probes Reusable Reusable
+
+Oxygen saturation
+Range
+
+0-100% *
+
+Pulse rate 25-240 BPM *
+
+Display of SPO2 and
+PR
+
+digital display with
+plethysmograph
+
+digital display with
+plethysmograph
+
+Accuracy ± 5 % *
+
+Type of Patient Adult Adult
+
+Should be shock
+proof
+
+Yes Yes
+
+Display (with
+contrast adjust-
+ability)
+
+LCD LCD
+
+Display should be
+Readable from at
+least 3 feet
+
+Yes Yes
+
+Saturation displayed
+on the screen
+
+Yes Yes
+
+Pulse Rate displayed
+on the screen
+
+Yes Yes
+
+Perfusion Index
+displayed on the
+screen
+
+Yes Yes
+
+Status of battery
+charging displayed
+on the screen
+
+Yes Yes
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/RKv3vr7GIvgKBTfrTbhPYH6JUXLTAJ5nlJ-HUFQ1AHw
+
+
+ 
+
+Sensor off /on status Yes Yes
+
+Audible and visual
+Alarms
+
+Yes Yes
+
+Alarm override
+facility should be
+present
+
+Yes Yes
+
+Trends 48 hrs 48 hrs
+
+Type of trend
+display
+
+Graphical Graphical
+
+Data interval in sec 1 *
+
+Power source Battery operated Battery operated
+
+Automatic switch
+from mains to
+battery in case of
+power failure
+
+NA NA
+
+RS 232C interface
+for data
+communication and
+transfer
+
+NA NA
+
+Should have
+provisions for
+wireless and blue
+tooth connectivity
+
+NA NA
+
+Patient extension
+cable
+
+Not Provided Not Provided
+
+Power consumption in
+watts
+
+1 *
+
+Operating Temperature "Ambient temperature
+of 0 to 40 deg C and
+relative humidity of 15
+to 90%"
+
+*
+
+Weight of the machine
+in kg
+
+0.0363 *
+
+Protective splash
+proof case for clean
+and strogage and
+safe transport
+provided
+
+Yes Yes
+
+Length of power
+cable
+
+NA NA
+
+Noise level in dB 1 *
+
+Display must allow
+easy viewing in all
+ambient light levels
+
+Yes *
+
+Probes Type of probe Adult Adult
+
+Probe usage Reusable Reusable
+
+                               3 / 5
+
+
+
+ 
+
+Number of probes
+provided (Hint: in
+case adult , pediatric
+and neonatal are
+selected for type of
+probe all the three
+have to be given and
+in case adult &
+pediatric are
+selected both are to
+be given)
+
+1 each 1 each
+
+NIBP Parameters Non invasive blood
+pressure (NIBP)
+provided
+
+No No
+
+Type of BP
+monitoring
+
+NA (If NIBP not
+provided)
+
+NA (If NIBP not
+provided)
+
+NIBP range in mmH NA (If NIBP not
+provided)
+
+NA (If NIBP not
+provided)
+
+Cuff size NA (If NIBP not
+provided)
+
+NA (If NIBP not
+provided)
+
+Number of cuff's
+provided
+
+NA (If NIBP not
+provided)
+
+NA (If NIBP not
+provided)
+
+Warranty in years
+(without probes)
+
+1 1
+
+Warranty for probes
+in years
+
+1 1
+
+Reports Confirmity to
+Manufactures
+Certification
+
+ISO 9001 & ISO 13485 ISO 9001 & ISO 13485
+
+ISO/ ICMED
+Certification number
+and date
+
+- *
+
+Copies of all
+certifcations to be
+furnished to buyer on
+demand at time of
+supplies
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Sanjay Kumar 486890,NEHRU SATABDI 10  60
+
+                               4 / 5
+
+
+
+ 
+
+Gupta CHIKITSHALYA, PO - JAYANT,
+DISTT - SINGRAULI M.P.
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,446 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/676965
+
+  Dated: 26-06-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 11-07-2020 16:00:00
+
+Bid Opening Date/Time 2020-07-11 16:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Power
+
+Department Name Contracts And Materials
+
+Organisation Name Ntpc Ltd
+
+Office Name Western Region I Shared Services Centre
+
+Total Quantity 1
+
+Item Category designing software
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+
+Splitting
+
+ Bid splitting not applied.
+
+Designing Software ( 1 pieces )
+
+Technical Specifications
+
+                               1 / 5
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+BASIC INFORMATION
+OF DESIGNING
+SOFTWARE(GOLDEN)
+
+Software Domain /
+Type
+
+Architectural,Subscripti
+on,mechanical,electrica
+l,Renewal of licence for
+one year
+
+Architectural, electrical,
+mechanical, Perpetual,
+Subscription, Renewal
+of licence for one year
+
+Name of Software - *
+
+Name of the OEM - *
+
+OEM Model / Part
+No/Product Id of OEM
+
+- *
+
+Software
+Version/Version Name
+
+- *
+
+Date of Launch of
+Version
+
+- *
+
+FEATURES AND
+FUNCTIONALITY
+PARAMETERS(GOLDEN)
+
+Advance surfacing Yes Yes
+
+Composite Material
+Design
+
+Yes Yes
+
+Conceptual design Yes Yes
+
+Direct Modeling Yes Yes
+
+Electrical cable and
+Conduit design
+
+Yes Yes
+
+Mesh CAD Models Yes Yes
+
+Mold design Yes Yes
+
+Parametric Modeling Yes Yes
+
+Plastic Parts Design Yes Yes
+
+Weldments Yes Yes
+
+2D System Analysis Yes Yes
+
+Circuit Simulation Yes Yes
+
+Fluid Flow
+Simulation
+
+Yes Yes
+
+Human Simulation Yes Yes
+
+Motion Simulation Yes Yes
+
+Stress Analysis Yes Yes
+
+Structural Validation Yes Yes
+
+Sustainability
+Analysis
+
+Yes Yes
+
+If yes, Other
+Simulation/ Analysis
+Features
+
+- *
+
+Photorealistic
+Images
+
+Yes Yes
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/WGAmriGE90yOEUA23QPPUWi1qaU2RvKm3CPv04Ma6c4
+
+
+ 
+
+Walk-Through
+Animation
+
+Yes Yes
+
+If yes, Other Animation
+/Rendering Features
+
+- *
+
+Compare Costs Yes Yes
+
+Output Cost Report Yes Yes
+
+Automatic Cost
+Estimation
+
+Yes Yes
+
+No. of days Training
+Provided at Site
+
+0 0
+
+Number of Years
+upto which Support
+is available from
+OEM / Franchise
+online (Years)
+
+3 3, 5, 10 Or higher
+
+FEATURES AND
+FUNCTIONALITY
+PARAMETERS(GENERIC)
+
+2D Drawing Yes *
+
+3D Modeling Yes *
+
+Fastening Systems Yes *
+
+Large Assembly Design Yes *
+
+Piping Tubing Design Yes *
+
+Sheet Metal Design Yes *
+
+Collision and
+Interference Check
+
+Yes *
+
+Assembly Animation Yes *
+
+Rendering Yes *
+
+Bill of Materials Yes *
+
+If yes, Other Cost
+Estimation Features
+
+- *
+
+Annotations Yes *
+
+Dimensions Yes *
+
+Tolerance Yes *
+
+Wireframes Yes *
+
+Other Documentation
+Features
+
+- *
+
+SUPPORTED
+HARDWARE
+REQUIREMENT
+PARAMETERS
+
+Hard Disk Space
+Required
+
+- *
+
+RAM Size required - *
+
+CPU required - *
+
+Operating Systems
+supported (Driver)
+
+- *
+
+Supported Devices - *
+
+Supported Database - *
+
+                               3 / 5
+
+
+
+ 
+
+GENERIC PARAMETERS
+OF DESIGNING
+SOFTWARE
+
+Free Upgradation to
+Higher Version
+
+YES *
+
+Maximum user
+handling capability
+
+- *
+
+Concurrent user
+handling capability
+
+- *
+
+Valid Licence copy to
+be provided
+
+YES *
+
+Mode of License to be
+delivered
+
+Electronic *
+
+Software supplied
+through
+
+URL Link *
+
+Installation and
+Demonstration
+
+Yes *
+
+List of items included in
+the package
+
+- *
+
+Hyper link to Data
+sheet
+
+- *
+
+No of Softwares sold 1000 *
+
+Number of User
+Referance no. 1 with in
+Government
+Department email,
+phone no.Of concerned
+authority where
+Software/Appliance
+installed
+
+5 *
+
+Details of Government
+Department email,
+phone no.Of concerned
+authority where
+Software /Appliance
+installed for above.
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Rajeshkumar
+Rameshchanra
+Shah
+
+392215,NTPC Limited,
+Jhanor Gandhar Gas Power
+Project, PO Urja Nagar,
+Jhanor
+
+1  30
+
+                               4 / 5
+
+
+
+ 
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

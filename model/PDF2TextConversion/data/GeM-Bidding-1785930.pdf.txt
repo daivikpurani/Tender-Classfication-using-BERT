@@ -1,0 +1,565 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/709873
+
+  Dated: 14-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 24-07-2020 15:00:00
+
+Bid Opening Date/Time 24-07-2020 15:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Ministry Of Communications
+
+Department Name Department Of Posts
+
+Organisation Name Gujarat Postal Circle Department Of Posts
+
+Office Name Postmaster General Hq Region Shahibag
+
+Total Quantity 10
+
+Item Category Camera for CCTV System
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+Estimated Bid Value  26000
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 6
+
+
+
+ 
+
+Camera For CCTV System ( 10 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+CAMERA TYPE Type of Camera
+Housing
+
+BULLET CAMERA BULLET CAMERA
+
+IP Camera Yes Yes
+
+PTZ Camera No No
+
+IMAGE SENSOR Image Sensor Type CMOS CMOS
+
+Image Sensor Size 0.37 1, 0.67, 0.5, 0.37, 0.4
+Or higher
+
+Camera Image
+Sensing capacity
+(Picture Mode)
+
+3MP 3MP
+
+Resolution D1 (704 x 480
+Pixel),HD (1280 x 720
+Pixel),Full HD (1920 x
+1080 Pixel),4K HD
+(3840 X 2160 Pixel)
+
+D1 (704 x 480 Pixel),
+HD (1280 x 720 Pixel),
+Full HD (1920 x 1080
+Pixel), 4K HD (3840 X
+2160 Pixel)
+
+Day/Night Capable Yes Yes
+
+IR illumination
+Range(mtr)
+
+30 30
+
+OPTICS Lens Type Fixed *
+
+Focal Length(mm) 3.6 3.6
+
+Iris Control Yes *
+
+Focus Mode Auto *
+
+VIDEO Frame Rate (fps) 25,30 25, 30
+
+Video Compression H.264,MJPEG *
+
+Video Streaming Dual compressed
+stream
+
+Dual compressed
+stream
+
+PAN / TILT / ZOOM Panning Range NA *
+
+Pan Speed (deg/sec) NA NA
+
+Tilt Range below
+horizontal (deg)
+
+NA *
+
+Tilt Range above
+horizontal (deg)
+
+NA *
+
+Tilt Speed (deg/sec) NA NA
+
+Optical Zoom NA NA
+
+Digital Zoom NA 10X, 12X, 16X, NA
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/O_0H4tqSql1Rm4N6cBbs3UZIYsdfeq_dOv4TLPv_aTk
+
+
+ 
+
+AUDIO Audio Support No No
+
+Audio Compression NA *
+
+Audio Streaming NA *
+
+Number of Audio Input
+Channel
+
+NA *
+
+Number of Audio
+Output Channel
+
+NA *
+
+External Microphone
+Support
+
+No *
+
+ALARM Alarm Support No No
+
+Number of Alarm
+Digital Input
+
+NA *
+
+Number of Alarm Relay
+Output
+
+NA *
+
+Pre/Post Alarm Buffer No *
+
+SECURITY Multi Level User
+ID/Password
+
+Yes *
+
+IP Address Filtering Yes *
+
+Encrypted Data
+Transmission
+
+HTTPS (SSL/TSL) *
+
+PERFORMANCE Minimum
+Illumination for
+Capturing Color
+Image
+
+0.05 0.05, 0.01 Or lower
+
+Electronic Shutter
+Speed(sec)
+
+1/3 to 1/10000 *
+
+WDR (Wide Dynamic
+Range)
+
+DWDR DWDR
+
+SNR (Signal to Noise
+Ratio)
+
+50-60 50-60
+
+Auto Exposure Auto Level
+Control,Electronic Level
+Control
+
+*
+
+FEATURES White Balance (
+Indoor/Out door/Manual
+Selectable)
+
+Yes *
+
+Auto Gain Control
+(On/Off selectable)
+
+Yes *
+
+Back Light
+Compensation
+
+Yes *
+
+Remote Administration
+(Remote configuration
+and status using web
+based tool)
+
+Yes *
+
+Remote System Update Yes *
+
+                               3 / 6
+
+
+
+ 
+
+Over Network
+
+PC Client (PC
+application client with a
+channel recording
+feature support)
+
+Yes *
+
+Web Client (Viewer
+through HTTP system
+configuration)
+
+Yes *
+
+On Screen Display in
+English
+
+Yes *
+
+ONVIF Support Yes *
+
+Presets 0 *
+
+Group Touring 0 *
+
+Privacy Zones 20 *
+
+NETWORK AND
+INTERFACE
+
+Supported Protocols UDP,SNMP,IGMP,DHCP,
+RTP,RSTP,HTTP,SMTP,F
+TP,ICMP,HTTPS,DNS,DD
+NS,RTSP,RTCP,NTP,UPn
+P,QoS,TCP/IP
+
+*
+
+IP Support Static,Dynamic *
+
+Signal Processing Digital Signal Process *
+
+IPv6 ready Yes *
+
+Wireless No *
+
+Simultaneous
+Connections
+
+10 *
+
+STORAGE On Board SD Card
+Support
+
+No *
+
+SD Card Memory(GB) NA *
+
+HOUSING Installation Type Indoor,Outdoor Indoor, Outdoor
+
+Material of the
+Housing
+construction
+
+Alluminium Alluminium
+
+Protection IP67 *
+
+Vandal Resistant
+Housing
+
+Yes *
+
+If Yes, IK rating IK 10 *
+
+Mounting bracket Pole Mounted *
+
+Weight 380 *
+
+Dimensions (mm x mm
+x mm)
+
+- *
+
+POWER SUPPLY Power Input 12 V DC,PoE *
+
+Power Consumption 6 *
+
+Suitable Adapter Shall
+be Supplied to Make
+
+Yes *
+
+                               4 / 6
+
+
+
+ 
+
+the Equipment Work on
+230 V (+/- 10 %), 50 Hz
+
+OPERATING
+CONDITIONS
+
+Operating Temperature
+Range
+
+-20 to +50 deg C *
+
+Relative Humidity Non
+Condensing (%)
+
+90 *
+
+WARRANTY / SERVICES Warranty 1 1, 2, 3, 4, 5 Or higher
+
+Time for
+Replacement of
+Defective Product
+During Warranty
+Period
+
+72 12, 24, 36, 48, 72 Or
+lower
+
+Supply of Compatible
+drivers and software
+included
+
+Yes *
+
+ENVIRONMENTAL /
+CERTIFICATION
+
+Availability of facility &
+infrastructure for
+verification of all
+parameters, features,
+and capability with
+Seller
+
+No *
+
+Availability of facility to
+test signal to noise
+ratio of camera at 0-01
+lux
+
+Yes *
+
+Conformity to Dry Heat
+test at 55 degree C for
+16 hours as per IS
+:9000 latest
+
+Yes *
+
+Conformity to Damp
+heat at 40 degree C -
+95% RH (cyclic test):
+two cycles of 16+8
+hours as per IS: 9000
+latest
+
+Yes *
+
+Conformity to Cold test
+at -10 / -20 degree C
+for 4 hours as per IS:
+9000 latest, as
+applicable
+
+Yes *
+
+BIS Registration for
+safety general
+requirements as per IS
+13252 (Part 1):latest
+
+Yes *
+
+Availability of Type
+Test Report from
+Central Govt
+/NABL/ILAC accredited
+lab to prove conformity
+to specification
+
+Yes *
+
+                               5 / 6
+
+
+
+ 
+
+Test Report Number
+and Date
+
+- *
+
+Name and Address of
+Test Lab
+
+- *
+
+Certification FCC,CE,UL *
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Jashvant Kantilal
+Bhavsar
+
+380001,O/o Chief
+Postmaster, Ahmedabad
+General Post Office, Salapas
+Road, Relief Road, Mirzapur,
+Ahmedabad-380001
+
+10  15
+
+Bid Specific Additional Terms and Conditions
+
+1. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

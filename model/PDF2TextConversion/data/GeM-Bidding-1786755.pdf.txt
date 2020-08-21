@@ -1,0 +1,395 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/710627
+
+  Dated: 14-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 24-07-2020 20:00:00
+
+Bid Opening Date/Time 24-07-2020 20:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Road Transports And Highways
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Nhai
+
+Total Quantity 4
+
+Item Category hand held terminal
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  10 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 5
+
+
+
+ 
+
+1. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 10% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Hand Held Terminal ( 4 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Specification Display Size (inch) ≥ 4.5 ≥ 3.5, ≥ 4.5, ≥ 5.5, ≥
+6.5, ≥ 7.5, ≥ 8.5
+
+Display Type LED *
+
+Display Resolution
+(Pixels)
+
+WVGA *
+
+Processor Quad Core *
+
+Processor Speed
+(GHz)
+
+1.8 Any applicable numeric
+value
+
+Operating System Windows 7 or higher Android 4.0 or higher,
+Android 5.1 or higher,
+Windows 6.5 or higher,
+Windows 7 or higher,
+Windows 8.1
+Embedded or higher
+
+RAM (MB) 4096 256, 512, 1024, 2048,
+4096
+
+Inbuilt Storage
+(Flash Memory)GB
+
+1 or higher 0.5 or higher, 1 or
+higher, 2 or higher, 4 or
+higher, 8 or higher, 16
+or higher
+
+Storage Expandability
+through Micro SD Card
+(GB)
+
+32 *
+
+Camera Not Available *
+
+If available, Camera
+Resolution
+
+NA *
+
+Key Pad Hard alphanumeric *
+
+Interface USB 2.0 or higher *
+
+WI-fi Connectivity Available *
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/V-2msFZsVqFMUb6oFRMFu_t2lAx4ZqmJw58JAkr_0c0
+
+
+ 
+
+Bluetooth Connectivity Available *
+
+GPS Connectivity Available Available, Not Available
+
+GSM SIM Slot Available Available, Not Available
+
+Network Connectivity 4G *
+
+SIM Slot Available *
+
+Built-in Speaker Available *
+
+Battery Capacity (mAH) 5200 *
+
+Battery Back up
+(Device in operation
+while all function of
+device active)
+
+Minimum 10 *
+
+Connectivity
+(presence/absence)
+Indicator
+
+Available *
+
+Signal Strength
+Indicator
+
+Available *
+
+Battery Status Indicator Available *
+
+All necessary
+Accessories like carry
+case etc to be supplied
+with the equipment
+
+YES *
+
+Inbuilt QR Barcode
+Scanner
+
+Available *
+
+Inbuilt Finger Print
+Scanner (STQC
+Certified)
+
+Not Available *
+
+Inbuilt Iris Scanner
+(STQC Certified)
+
+Not Available *
+
+In built Contact smart
+card Reader and Writer
+
+Not Available *
+
+Integrated Printer Not Available *
+
+If Available, Printer
+Specifications
+
+NA *
+
+Terminal Management Device is remotely
+manageable in secured
+mode for
+Software/Patches
+updation through
+available
+communication
+
+*
+
+Certification Available UL *
+
+Drop /Free Fall Test
+Compliance
+
+Drop /Free Fall test in
+unpacked, switched off
+and normal handling
+conditions (Height: 1.2
+m , Total No. of falls:2)
+
+*
+
+                               3 / 5
+
+
+
+ 
+
+IP Rating (Minimum
+54 or higher)
+
+54 54, 65, 66
+
+Dimensions (H x W x L)
+(mm x mm x mm)
+
+- *
+
+Weight (gms) - *
+
+BIS Registration under
+Compulsory
+Registration Scheme
+
+Yes *
+
+BIS Registration
+number under
+Compulsory
+Registration Scheme &
+its Validity
+
+- *
+
+Availability of Test
+Reports from Central
+Govt / NABL approved /
+ILAC acredited lab to
+prove conformity to the
+specification (Test
+reports are to be
+furnished when
+demanded by buyer)
+
+No *
+
+If Yes, Test Report
+Number
+
+- *
+
+If Yes, Test Report Date - *
+
+If Yes, Name of the Lab - *
+
+If Yes, Address of the
+Lab
+
+- *
+
+On Site OEM
+Warranty (Years)
+
+1 1, 3
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Punati Janakiram 507002,D.No.6-1-16/89,
+MAMATHA HOSPITAL ROAD,
+NEAR TOYOTA SHOWROOM,
+BESIDE KRISHNAVENI
+COLLEGE
+
+4  30
+
+Bid Specific Additional Terms and Conditions
+
+                               4 / 5
+
+
+
+ 
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,448 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/693859
+
+  Dated: 01-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 22-07-2020 16:00:00
+
+Bid Opening Date/Time 2020-07-22 16:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Andhra Pradesh
+
+Department Name Energy Department Andhra Pradesh
+
+Organisation Name Transmission Corporation Of Andhra Pradesh Limited
+(aptransco)
+
+Office Name Vidyut Soudha Vijayawada
+
+Total Quantity 120
+
+Item Category Enterprise WI-FI Enabled ONT ( PAC Only ) 
+
+Bidder Turnover (Last 3 Years)  1 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  9 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  20 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+                               1 / 6
+
+
+
+ 
+
+Required No
+
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 20% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Enterprise WI-FI Enabled ONT ( 120 pieces ) ( Under PAC ) 
+
+Make d-link
+
+Model dlinkn300dslrouter
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+STANDARDS &
+FEATURES
+
+Standard Fully ITU-T G.984 and
+G.988 compliant
+
+*
+
+Upstream Line Rate
+(Gbps)
+
+1.244 1.244 Or higher
+
+Downstream Line
+Rate (Gbps)
+
+2.488 2.488 Or higher
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/PeisR4PxIq-QsjqgWQkfjRSv9T1Giqzs1jBOMIWKye8
+
+
+ 
+
+Minimum Tx Output
+power (Mean Launch
+Power) (dBm)
+
+0.5 0.5 Or lower
+
+Maximum Tx Output
+power (Mean Launch
+Power) (dBm
+
+5 *
+
+Rx Sensitivity (at 10
+dB extinction ratio
+w/FEC off) (dBm)
+
+-27 -27
+
+Rx Overload (dBm) -8 *
+
+Ethernet Type GE *
+
+Number of GE Ports
+(Minimum)
+
+4 4, 5, 6, 7, 8 Or higher
+
+Ethernet Connector RJ-45 connectors
+CAT5E, 100m (328ft);
+labeled ‘GE1’, ‘GE2’,
+‘GE3’ and‘GE4’
+
+*
+
+Voice/Fax Type POTS FXS *
+
+Number of
+POTS(Minimum)
+
+1 1, 2 Or higher
+
+Connector RJ-11 connectors;
+Labeled ‘POTS1’ and
+‘POTS2’
+
+*
+
+WIFi Standard 802.11 b/g/n (2.4GHz
+Only)
+
+*
+
+USB Standard Two stacked USB 2.0 or
+higher host ports
+
+*
+
+AC Adapter Input:100-240VAC,
+50/60Hz Output:
+12VDC, 1.5A
+
+*
+
+Operating Temperature 0 ºC to 50 ºC *
+
+Humidity Non
+Condensing (RH)
+
+5% to 95% *
+
+SECURE MANAGEMENT Local Web based GUI (HTTPS) *
+
+Remote G.984.4/988 OMCI,
+G.984 PLOAM, Telnet,
+TR-069
+
+*
+
+Authorization Secure ONT
+registration - ONT serial
+number, PLOAM
+password
+
+*
+
+L2 FEATURES Bridging 802.1d STP transparent
+bridging, 512 MAC
+table, MAC aging timer,
+UNI port MAC limit,
+MAC Filters
+
+*
+
+VLANs per port up to 32 configurable *
+
+                               3 / 6
+
+
+
+ 
+
+VLAN IDs per ONT/port
+
+Multicast IGMPv2/v3 & MLDv2
+snooping, 256
+multicast groups, 8
+clients, 32
+simultaneous
+flows/client
+
+*
+
+Firewall Filtering DoS attack prevention,
+IP source/destination,
+TCP/UDP port
+source/destination,
+MAC source
+
+*
+
+Access Control DMZ, Parental Controls *
+
+VoIP Protocols SIP (RFC3261), SDP
+(RFC2327), RTP/RTCP
+(RFC3550/3605),
+RFC3611**, RFC2198**,
+DTMF & Tones
+(RFC283)
+
+*
+
+OTHERS Warranty 1 1, 3, 5 Or higher
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Lavanya Evani 520004,APTRANSCO, Vidyut
+Soudha, Gunadala,
+Vijayawada.
+
+120  30
+
+Special terms and conditions for category Enterprise WI-FI Enabled ONT 
+
+1.Supplier must supply those ONTâ€™s which are inter-operatable with existing OLT Alphion
+make and C-DOT Make which are deployed in BSNL network.
+
+2.ONT shall be as per TEC GR no GR/PON-01/02 APRIL 2008 and latest amendments . In case
+of any conflict in interpretation of this GR , specifications of this tender supersedes GR.
+
+Bid Specific Additional Terms and Conditions
+
+1. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+2.Nominated Inspection Agency: On behalf of the Buyer organization, any one of the
+following Inspection Agency would be conducting inspection of stores before acceptance:
+Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause
+
+                               4 / 6
+
+
+
+ 
+
+has been selected in ATC): yes
+Post Receipt Inspection at consignee site before acceptance of stores: yes
+
+3.Pre-dispatch inspection at Seller premises (Fee/Charges to be borne by the BUYER): Before
+dispatch, the goods will be inspected by Buyer / Consignee or their Authorized
+Representative or by Nominated External Inspection Agency (independently or jointly with
+Buyer or Consignee as decided by the Buyer) at Seller premises (or at designated place for
+inspection as declared / communicated by the seller) for their compliance to the contract
+specifications. Fee/Charges taken by the External inspection Agency and any external
+laboratories testing charges shall be borne by the Buyer. For in-house testing, the Sellers will
+provide necessary facilities free of cost. Seller shall notify the Buyer through e-mail about
+readiness of goods for pre-dispatch inspection and Buyer will notify the Seller about the
+Authorized Representative/ Nominated External Inspection Agency and the date for testing.
+The goods would be dispatched to consignee only after clearance in pre-dispatch inspection.
+Consignee's right of rejection as per GTC in respect of the goods finally received at his
+location shall in no way be limited or waived by reason of the goods having previously been
+inspected, tested and passed by Buyer/ Consignee or its Nominated External Inspection
+Agency prior to the goods' shipment. While bidding, the sellers should take into account 7
+days for inspection from the date of email offering the goods for inspection. Any delay in
+inspection beyond 7 days shall be on the part of the buyer and shall be regularised without
+Liquidated Damages.
+
+4.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+5.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+
+offered product during the last three years, ending on 31st March of the previous financial
+year, should be as indicated in the bid document. Documentary evidence in the form of
+certified Audited Balance Sheets of relevant periods or a certificate from the Chartered
+Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than
+3 year old, the average turnover in respect of the completed financial years after the date of
+constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of
+CATEGORY RELATED TO primary product having highest bid value should meet this criterion.
+
+6.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+7.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+8.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+9.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+10.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 7 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+
+                               5 / 6
+
+
+
+ 
+
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

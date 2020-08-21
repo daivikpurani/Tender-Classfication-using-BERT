@@ -1,0 +1,718 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   RA Number: GEM/2020/RA/44476
+
+  Dated: 06-07-2020
+
+  
+
+RA Document
+RA Details
+
+RA Technical End Date/Time 16-07-2020 14:00:00
+
+RA Opening Date/Time 16-07-2020 14:30:00
+
+RA Life Cycle (From Publish Date) 90 (Days)
+
+RA Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Gujarat
+
+Department Name Health & Family Welfare Department Gujarat
+
+Organisation Name N/a
+
+Office Name Health Branch District Panchayat Junagadh
+
+Total Quantity 1
+
+Item Category COMPUTED RADIOGRAPHY SYSTEM
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+
+Splitting
+
+ RA splitting not applied.
+
+COMPUTED RADIOGRAPHY SYSTEM ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+                               1 / 8
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/srYlxa3uTdTUGZ-45Edif8KDGZFzGUTIddbaaeBPoik
+
+
+ 
+
+TYPE Type of computed
+radiography (CR)
+System
+
+Single Loading
+computed radiography
+System (SLCRS)
+
+Single Loading
+computed radiography
+System (SLCRS), Multi
+Loading Computed
+Radiography System
+(MLCRS)
+
+COMPATIBILITY CR System compatible
+with standard X-ray
+Machine consisting of
+Digitizer Patient
+Identification System,
+Preview And Processing
+Server with
+Workstation
+
+Yes *
+
+C R System to be
+supplied with
+compatible Cassettes &
+Imaging Plates for
+Recording
+
+Yes *
+
+ACCESSORIES FOR
+MULTI LOADING CR
+SYSTEM
+
+Imaging plate and
+Cassette
+(dimensions in inch x
+inch) set offered
+with Multi loading
+computed
+radiography system
+
+14x17, 14x14, 10x12,
+8x10sizes-Img.Plate &
+Castt.-6 units each, 8x1
+0,10x12sizes-
+Img.Plate&
+Mammo.Castt-3 units
+each
+
+14x17, 14x14, 10x12,
+8x10sizes-Img.Plate &
+Castt.-3 units each, 8x1
+0,10x12sizes-
+Img.Plate&
+Mammo.Castt-2 units
+each, 14x17, 14x14,
+10x12, 8x10sizes-
+Img.Plate & Castt.-6
+units each, 8x10,10x12
+sizes-Img.Plate&
+Mammo.Castt-3 units
+each, 14x17, 14x14,
+10x12, 8x10sizes-
+Img.Plate & Castt.-9
+units each, 8x10,10x12
+sizes-Img.Plate&
+Mammo.Castt-4 units
+each, NA for Single
+loading CR System
+
+ACCESSORIES FOR
+SINGLEI LOADING CR
+SYSTEM
+
+Imaging plate and
+Cassette
+(dimensions in inch x
+inch) set offered
+with Single loading
+computed
+radiography system
+
+14x17, 10x12, sizes-
+Img.Plate & Castt.-3
+units each
+
+14x17, 10x12, sizes-
+Img.Plate & Castt.-3
+units each, 14x17,
+10x12, sizes-Img.Plate
+& Castt.-6 units each,
+14x17, 10x12, sizes-
+Img.Plate & Castt.- 9
+units each, NA for Multi
+Loading CR System
+
+IMAGE READER For the largest Imaging
+plate/Cassette size, the
+Images Reading (CR
+Reader) / Digitizer is
+able to process >=
+
+30 Imaging Plates/hour
+(for offered single
+loading computed
+radiography system)
+
+*
+
+CR Reader/Digitizer Yes *
+
+                               2 / 8
+
+
+
+ 
+
+should have Pre-set
+Anatomical Processing
+facility, acquisition and
+Image transfer at a
+resolution 12 Bits/pixel
+
+CR Reader/Digitizer
+should have Status
+Display facility
+preferably on a LCD
+Display Indicating Error
+Status etc
+
+Yes *
+
+CR Reader/Digitizer
+should have Scanning
+Resolution of (5-10
+Pixels/mm Or More)
+
+Yes *
+
+CR Reader/Digitizer
+should have ability to
+route Images To
+Multiple Destinations
+Like Work Stations, Dry
+Camera etc
+
+Yes *
+
+If multi loading
+computerised system,
+CR Reader/Digitizer to
+be supplied along with
+an Input and Output
+Cassette Buffer/stacker
+for >=4 Cassettes each
+
+Yes *
+
+CR Reader/Digitizer
+should have a scanning
+resolution
+
+>= 5-10 Pixels/mm for
+General Cassette
+Reading for the offered
+single loading
+radiography system.
+
+*
+
+CENTRALISED PATIENT
+STUDY MANAGEMENT
+(CPSM) UNIT
+
+Processing Server And
+Workstation With 21
+Inch LCD Monitor for
+Centralized Patient
+Study Management
+(CPSM) unit
+
+Yes *
+
+CPSM unit should have
+features: (i) Work
+Station must be able to
+receive CR Images
+From Digitizer (ii)
+DICOM Ready For Sent,
+Receive And Print
+Facility Protocol
+
+Yes *
+
+CPSM unit should have
+features: (iii) Possible
+To Multi-formatting The
+Images On Film For
+Printing (iv) 21 Inch
+LCD Monitor For Patient
+
+Yes *
+
+                               3 / 8
+
+
+
+ 
+
+Study Management (v)
+Possible To Write
+Images On A CD/DVD
+
+CPSM unit should have
+features: (vi) Ready To
+Accept Images From
+Work List And Patient
+Data And Images
+Another RIS/HIS
+(DICOM PROTOCOL)
+(vii) Black Border
+Facility
+
+Yes *
+
+CPSM unit should have
+features: (viii) Software
+For Printing And To
+Create Various Film
+Layouts And Multiple
+Formats On Single Film
+For Optimum Utilization
+Of Film And
+Presentability
+
+Yes *
+
+CPSM unit should have
+The Capability To
+Customise User
+Defined No of Formats
+And Layouts On The
+Single Film
+
+Yes *
+
+CPSM unit should have
+capability of Printing
+the Zoomed Image
+along with The
+Overview of the Main
+Image on same film
+
+Yes *
+
+CPSM unit should have
+capability of Printing
+Multiple Patient Images
+on one Film And
+Multiple Images of
+same Patient on One
+Film
+
+Yes *
+
+CPSM unit should have
+features: Image Gray
+Scale Reversal, Image
+Flipping And Rotating,
+Image Zooming
+
+Yes *
+
+CPSM unit should have
+features: Edge
+Enhancement, Latitude
+Reduction, Image Noise
+Reduction, Gray Scale
+Saturation Feedback
+
+Yes *
+
+CPSM unit should have
+provision For Adding
+
+Yes *
+
+                               4 / 8
+
+
+
+ 
+
+Markers
+
+Patient Identification/
+Preview (i) Separate Or
+Inbuilt Patient
+Identification System
+(ii) Cassette
+Identification And
+Demographics Should
+Be Standard (iii) It
+Should Be Possible To
+Identify The Multi X-ray
+Units Separately
+
+Yes *
+
+DRY IMAGER Dry Imager (For Film
+Printing) to be supplied
+with offered Single
+/Multi loading CR
+System, should be with
+a Spatial Resolution >=
+500 PPI/DPI, Contrast
+Resolution of >= 12
+Bits/Pixel, Preferably
+with Standard Film
+Sorter at the Output for
+sorting the Films Bases
+On Modality Connected
+Access Time For First
+Film Should Be 90
+Seconds Or Less The
+Dry Imager should be
+DICOM Compatible for
+Receive Sent And Print
+Facility and it should
+allow (for multi loading
+CR System) at least
+Allow Three Sizes From
+the Five Sizes To Be
+Loaded at Any Time
+Printer Status Should
+Be Displayed For Any
+Error Status Etc
+
+Yes *
+
+Dry Imager should be
+with Preferably with
+Standard Film Sorter at
+the Output for sorting
+the Films Bases On
+Modality Connected
+Access Time For First
+Film Should Be <= 90
+Seconds
+
+Yes *
+
+Dry Imager should be
+DICOM Compatible for
+Receive Sent And Print
+Facility, Printer status
+should Be Displayed
+For Any Error Status
+
+Yes *
+
+                               5 / 8
+
+
+
+ 
+
+Etc
+
+Dry Imager should
+allow (for MLCRS) >= 3
+sizes from the 5 Sizes
+to be loaded at any
+time
+
+No, SLCRS offered. *
+
+Number of online sizes
+(at least) out of 8 x10,
+10x 12, 14x 14, 14x17
+sizes, available in the
+Dry Imager
+
+2 online sizes for
+offered single loading
+computed radiography
+system
+
+*
+
+For the largest size, Dry
+Imager (For Film
+Printing) have a normal
+through put (Films Per
+Hour) of at least of
+
+>= 30 for offered
+single loading
+computedradiography
+system
+
+*
+
+CONNECTIVITY &
+SCALABILITY
+
+Interconnectivity
+Between Various CR
+Modules Should Be
+Ethernet Based
+
+Yes *
+
+Scalability : The CR
+System Should Have
+Scope Of Adding
+Advanced Quality
+Software For Image
+Processor,
+Workstations
+Connectivity To Any
+DICOM Archive Or
+Image Management
+Systems (PACS)
+
+Yes *
+
+ADVANCED QC VIEWER Advanced QC Viewer
+shall be with 19 Inch
+High Resolution
+Medical Grade Monitor
+for reviewing of the
+Images
+
+No *
+
+Advanced QC Viewer
+should be a separate
+Module For being able
+to be kept away From
+The Digitizer/ CR
+Reader In the room of
+choice
+
+NA-Advance QC Viewer
+Not offered with CR
+System
+
+*
+
+Advanced QC Viewer
+should have features;
+(i) Window leveling,
+Annotation, Printing,
+Rotating, Flipping,
+Panning, Zooming All
+Image Post Processing
+
+NA-Advance QC Viewer
+Not offered with CR
+System
+
+*
+
+Advanced QC Viewer
+should have features;
+
+NA-Advance QC Viewer
+Not offered with CR
+
+*
+
+                               6 / 8
+
+
+
+ 
+
+(ii) Should Have
+Hospital Information
+System (HIS)
+Connectivity (iii) There
+Should Be Provision For
+Adding Marker On The
+Film
+
+System
+
+Advanced QC Viewer
+should have features;
+(iv) It should be
+possible To Write
+Images On A CD/DVD:
+
+NA-Advance QC Viewer
+Not offered with CR
+System
+
+*
+
+POWER BACK UP The Entire Equipment
+Should Be Supplied
+With UPS of The
+Required Rating And
+Sufficient To Provide At
+Least 30 Minutes Back
+Up For The Whole
+System
+
+Yes *
+
+CERTIFICATION Should be US FDA / CE
+(European) /BIS
+approved product OEM
+should have ISO
+certificate for quality
+standard
+
+Yes, USFDA
+approved,Yes,
+CE(European) approved
+
+*
+
+Copy of US FDA / CE
+(European) /BIS
+approval to be kept in
+Seller online locker and
+also made available to
+buyer on demand
+Please specify link to
+document in Seller
+Locker
+
+- *
+
+Availability Of Type
+Test Reports(TTRs) of
+The Product From
+Central Govt/NABL/ILAC
+Accredited Lab
+Showing Compliance To
+The Specification
+
+No *
+
+Test Report No - *
+
+Test Report Date - *
+
+Name Of The Labs - *
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignee/Reporting Officer and Quantity
+
+                               7 / 8
+
+
+
+ 
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Radadiya
+Harsukhbhai
+Fulabhai
+
+362001,HEALTH BRANCH
+DISTRICT PANCHAYAT
+OPPOSITE SHASHI KUNJ
+NEAR SARDAR BAUG
+
+1  30 N/A
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+
+This RA is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               8 / 8
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

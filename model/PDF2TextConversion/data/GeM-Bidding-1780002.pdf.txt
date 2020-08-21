@@ -1,0 +1,453 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/704484
+
+  Dated: 09-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 24-07-2020 18:00:00
+
+Bid Opening Date/Time 24-07-2020 18:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 45 (Days)
+
+Ministry/State Name Ministry Of Coal
+
+Department Name Materials Management
+
+Organisation Name Central Coalfields Limited
+
+Office Name Central Coalfields Limited
+
+Total Quantity 1
+
+Item Category designing software ( PAC Only ) 
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Designing Software ( 1 pieces ) ( Under PAC ) 
+
+                               1 / 5
+
+
+
+ 
+
+Make autodesk
+
+Model autocad-includingspecializedtoolsetsadcommerci
+alnewsingle-usereld3-yearsubscription
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+BASIC INFORMATION
+OF DESIGNING
+SOFTWARE(GOLDEN)
+
+Software Domain /
+Type
+
+Architectural,electrical,
+mechanical,Subscriptio
+n,Renewal of licence
+for one year
+
+Architectural, electrical,
+mechanical,
+Subscription, Renewal
+of licence for one year
+
+Name of Software ONE AUTOCAD-SU 3 Yrs *
+
+Name of the OEM Autodesk *
+
+OEM Model / Part
+No/Product Id of OEM
+
+C1RK1-WW8644-T480 *
+
+Software
+Version/Version Name
+
+2020 *
+
+Date of Launch of
+Version
+
+April 2019 *
+
+FEATURES AND
+FUNCTIONALITY
+PARAMETERS(GOLDEN)
+
+Advance surfacing Yes Yes
+
+Composite Material
+Design
+
+Yes Yes
+
+Conceptual design Yes Yes
+
+Direct Modeling Yes Yes
+
+Electrical cable and
+Conduit design
+
+Yes Yes
+
+Mesh CAD Models Yes Yes
+
+Mold design No No
+
+Parametric Modeling Yes Yes
+
+Plastic Parts Design No No
+
+Weldments No No
+
+2D System Analysis Yes Yes
+
+Circuit Simulation No No
+
+Fluid Flow
+Simulation
+
+No No
+
+Human Simulation No No
+
+Motion Simulation No No
+
+Stress Analysis No No
+
+Structural Validation No No
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/kYtvvBhXAGfYg9rWZFgVZkJnCnLDfUgtqSEwnM6tSIg
+
+
+ 
+
+Sustainability
+Analysis
+
+No No
+
+If yes, Other
+Simulation/ Analysis
+Features
+
+NA *
+
+Photorealistic
+Images
+
+Yes Yes
+
+Walk-Through
+Animation
+
+Yes Yes
+
+If yes, Other Animation
+/Rendering Features
+
+NA *
+
+Compare Costs No No
+
+Output Cost Report No No
+
+Automatic Cost
+Estimation
+
+No No
+
+No. of days Training
+Provided at Site
+
+0 0
+
+Number of Years
+upto which Support
+is available from
+OEM / Franchise
+online (Years)
+
+3 3, 5, 10 Or higher
+
+FEATURES AND
+FUNCTIONALITY
+PARAMETERS(GENERIC)
+
+2D Drawing Yes *
+
+3D Modeling Yes *
+
+Fastening Systems Yes *
+
+Large Assembly Design Yes *
+
+Piping Tubing Design Yes *
+
+Sheet Metal Design Yes *
+
+Collision and
+Interference Check
+
+No *
+
+Assembly Animation Yes *
+
+Rendering Yes *
+
+Bill of Materials Yes *
+
+If yes, Other Cost
+Estimation Features
+
+NO *
+
+Annotations Yes *
+
+Dimensions Yes *
+
+Tolerance Yes *
+
+Wireframes Yes *
+
+Other Documentation
+Features
+
+YES *
+
+SUPPORTED
+HARDWARE
+
+Hard Disk Space
+Required
+
+128 GB *
+
+                               3 / 5
+
+
+
+ 
+
+REQUIREMENT
+PARAMETERS
+
+RAM Size required 8 GB *
+
+CPU required i5 & Above *
+
+Operating Systems
+supported (Driver)
+
+Windows 8 & Above *
+
+Supported Devices PC *
+
+Supported Database MS SQL *
+
+GENERIC PARAMETERS
+OF DESIGNING
+SOFTWARE
+
+Free Upgradation to
+Higher Version
+
+YES *
+
+Maximum user
+handling capability
+
+NO *
+
+Concurrent user
+handling capability
+
+NO *
+
+Valid Licence copy to
+be provided
+
+YES *
+
+Mode of License to be
+delivered
+
+Electronic *
+
+Software supplied
+through
+
+URL Link *
+
+Installation and
+Demonstration
+
+Yes *
+
+List of items included in
+the package
+
+Software & Manual *
+
+Hyper link to Data
+sheet
+
+www.autodesk.in *
+
+No of Softwares sold 10000 *
+
+Number of User
+Referance no. 1 with in
+Government
+Department email,
+phone no.Of concerned
+authority where
+Software/Appliance
+installed
+
+1 *
+
+Details of Government
+Department email,
+phone no.Of concerned
+authority where
+Software /Appliance
+installed for above.
+
+RITES , AAI , PWD *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+                               4 / 5
+
+
+
+ 
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Rashmi Kumari 834001,Central Coalfields
+Limited, Darbhanga House,
+Ranchi
+
+1  45
+
+Bid Specific Additional Terms and Conditions
+
+1.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

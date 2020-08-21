@@ -1,0 +1,697 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/691505
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 21-07-2020 15:00:00
+
+Bid Opening Date/Time 21-07-2020 15:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Labour And Employment
+
+Department Name Na
+
+Organisation Name Employees State Insurance Corporation (esic)
+
+Office Name Esic Hospital Kk Nagar, Chennai - 78
+
+Total Quantity 1
+
+Item Category Non Refrigerated Centrifuge for General Purpose and
+research
+
+Bidder Turnover (Last 3 Years)  1 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  4 Lakh (s)
+
+Experience Criteria  2 Year (s)
+
+MSE Exemption for Years Of Experience and
+Turnover
+
+ Yes
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  50 %
+
+Bid to RA enabled  Yes
+
+Inspection Required  No
+
+Estimated Bid Value  150000
+
+EMD Detail
+
+Required No
+
+                               1 / 8
+
+
+
+ 
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 50% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Non Refrigerated Centrifuge For General Purpose And Research ( 1 pieces
+)
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Conformity to
+standards
+
+- *
+
+Certificate number and
+date
+
+- *
+
+Performance
+Parameters
+
+Purpose To Centrifuge different
+kinds of samples in
+different Labs and
+research Labs at room
+Temperature
+
+*
+
+Centrifuge design Bench Top Bench Top
+
+                               2 / 8
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/sCdGNsrhGTEPt4bDmHmy98Scn1Bo4Rs0XtXsuUu304g
+
+
+ 
+
+Weight including Rotor
+in kgs
+
+14 *
+
+Maximum RPM with no
+load
+
+20000 *
+
+"Number of steps of
+RPM Variation available
+in the settings
+(correspondingly RCF
+also varies) "
+
+100 *
+
+RPM setting accuracy plus minus 5% *
+
+Type of Motor Brushless(without
+carbons)
+
+Brushless(without
+carbons)
+
+Type of lid lock Both Manual and
+Electronic
+
+*
+
+Maximum Noise level
+when working at 1
+meter distance in db
+
+56 *
+
+Ambient operating
+Temperature range in
+Degree centigrade
+Celsius and Humidity
+Range
+
+0 to 50 and Relative
+humidity 15 to 90%
+
+*
+
+Rotor imbalance
+diagnostics and
+automatic stop if
+required
+
+Yes *
+
+No of accelaration and
+decelarion profiles in
+built for rotor speed
+while automatic
+braking
+
+"Programmable from
+50 to 200 Seconds in
+Interval of 5 Seconds"
+
+*
+
+Maximum timer set
+point
+
+60 minutes *
+
+Parameters to be
+displayed by the digital
+display
+
+RPM,RCF,Set time,Run
+time,Rotor running
+indication ,imbalancing
+if any
+
+*
+
+Display Type LCD *
+
+Speed controller Microprocessor
+controlled pre
+programmed speed
+controller which can
+control RPM as well as
+RCF
+
+*
+
+Configuration of
+Rotor supplied with
+centrifuge machine
+
+Angle rotor Angle rotor
+
+Rotor Feature With
+Reference to
+
+Autoclavable Rotor
+@121 Degree Celsus
+
+*
+
+                               3 / 8
+
+
+
+ 
+
+Autoclavability
+
+Type of Tubes which
+can be used with
+centrifuge machine
+
+Polypropylene
+Centrifuge tubes and
+Glass centrifuge tubes
+
+*
+
+Size of rotor
+supplied with
+centrifuge
+
+"24x1.5ml(for angle
+rotor) RPM 16000"
+
+"24x1.5ml(for angle
+rotor) RPM 16000"
+
+Maximum RCF 21300 *
+
+Power supply 230 Volts 50 Hz AC ±
+10%
+
+*
+
+Power consumption in
+watts
+
+290 *
+
+Length of the
+Centrifuge in mm
+
+350 *
+
+Width of the Centrifuge
+in mm
+
+240 *
+
+Height of of the
+Centrifuge in mm
+
+220 *
+
+Length of Power cord in
+meters
+
+3 *
+
+Accessories Spanner to tight or
+loose Nut of Rotor on
+Motor shaft head
+puller,spare rotor nuts
+,fuse-2, Instruction
+Manual Book
+,installation CD
+
+*
+
+Warranty period in
+years
+
+1 1
+
+Material Parameters Assembly Material for
+manufacture of
+Centrifuge
+
+Die cast Aluminum,
+Aluminum sheet,
+Stainless Steel, CRC
+Steel,Plastic and
+Rubber
+
+*
+
+"Lid Material of
+Centrifuge "
+
+CRC Steel finish with
+powder coating or
+stove painting or ABS
+Plastic of injection
+moulding
+
+*
+
+Body material of
+Centrifuge
+
+C.R.C Steel Finish with
+Powder Coating/ Stove
+Painting
+
+*
+
+Front Panel of
+centrifuge
+
+CRC Steel finish with
+powder coating or
+stove painting or ABS
+Plastic of injection
+moulding
+
+*
+
+Centrifuge Bowl
+material in Centrifuge
+
+304 Quality Stainless
+Steel Moulded
+
+*
+
+                               4 / 8
+
+
+
+ 
+
+Material of Rotor Aluminium *
+
+Additional Parameters Auto cut off Yes *
+
+Timer provided Yes *
+
+The Equipment shall
+be installed and
+demonstrated before
+Acceptance
+
+Yes Yes
+
+Servo Controller
+Voltage Stabilizer
+supplied with Item
+
+No No
+
+Servo stabilizer
+ratings in KVA
+
+Not Supplied Not Supplied
+
+Warranty of
+stabilizer in years
+
+Not supplied Not supplied
+
+Reports Certifications of
+Manufacturer
+
+ISO 9001:2015 *
+
+ISO certificate date and
+number
+
+- *
+
+Copies of all
+certifications and
+reports to be provided
+to buyer on demand at
+time of supplies
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 R Smita Rani 600078,ESIC HOSPITAL
+ASHOK PILLAR ROAD KK
+NAGAR CHENNAI
+
+1  15
+
+Bid Specific Additional Terms and Conditions
+
+1.Bidder financial standing: The bidder should not be under liquidation, court receivership
+or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect
+with bid.
+
+2.End User Certificate: Wherever Bidders are insisting for End User Certificate from the
+Buyer, same shall be provided in Buyer’s standard format only.
+
+3.OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be
+ordered up to 25 percent at the time of placement of contract. The purchaser also reserves
+the right to increase the ordered quantity by up to 25% of the contracted quantity during the
+currency of the contract at the contracted rates. Bidders are bound to accept the orders
+
+                               5 / 8
+
+
+
+ 
+
+accordingly.
+4.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+5.Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have
+regularly, manufactured and supplied same or similar Category Products to any Central /
+State Govt Organization / PSU / Public Listed Company for 2 years before the bid opening
+date. Copies of relevant contracts to be submitted along with bid in support of having
+supplied some quantity during each of the year. In case of bunch bids, the primary product
+having highest value should meet this criterion.
+
+6.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+7.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+8.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial
+year, should be as indicated in the bid document. Documentary evidence in the form of
+certified Audited Balance Sheets of relevant periods or a certificate from the Chartered
+Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than
+3 year old, the average turnover in respect of the completed financial years after the date of
+constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of
+CATEGORY RELATED TO primary product having highest bid value should meet this criterion.
+
+9. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+10.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+11.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+12.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+13. ISO 9001: The bidder must have ISO 9001 certification.
+14.The bidder is required to upload, along with the bid, all relevant certificates such as BIS
+
+licence, type test certificate, approval certificates and other certificates as prescribed in the
+Product Specification given in the bid document.
+
+15.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 7 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+
+                               6 / 8
+
+
+
+ 
+
+Buyer.
+16.The Bidder / OEM {themselves or through reseller(s)}, should have executed project for
+
+supply and installation / commissioning of same or similar Category Products during
+preceding 3 financial years (i.e. current year and three previous financial years) as on
+opening of bid, as per following criteria:
+ 
+(i) Single order of at least 35% of estimated bid value; or
+(ii) Two orders of at least 20% each of estimated bid value; or
+(iii) Three orders of at least 15% each of estimated bid value.
+Satisfactory Performance certificate issued by respective Buyer Organization for the above
+Orders should be uploaded with bid. In case of bunch bids, the Category related to primary
+product having highest bid value should meet this criterion
+
+17.Bidders shall quote only those products in the bid which are not obsolete in the market and
+has at least 7 years residual market life i.e. the offered product shall not be declared end-of-
+life by the OEM before this period.
+
+18.Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid
+documents. Buyers can match and verify the Data Sheet with the product specifications
+offered. In case of any unexplained mismatch of technical parameters, the bid is liable for
+rejection.
+
+19.1. The Seller shall not assign the Contract in whole or part without obtaining the prior written
+consent of buyer.
+2. The Seller shall not sub-contract the Contract in whole or part to any entity without
+obtaining the prior written consent of buyer.
+3. The Seller shall, notwithstanding the consent and assignment/sub-contract, remain jointly
+and severally liable and responsible to buyer together with the assignee/ sub-contractor, for
+and in respect of the due performance of the Contract and the Sellers obligations there
+under.
+
+20.Without prejudice to Buyer’s right to price adjustment by way of discount or any other right
+or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a
+written notice to the Seller, if:
+i) The Seller fails to comply with any material term of the Contract.
+ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within
+the stipulated Delivery Period or such inability otherwise becomes apparent.
+iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery
+Period and/or to replace/rectify any rejected or defective Material(s) promptly.
+iv) The Seller becomes bankrupt or goes into liquidation.
+v) The Seller makes a general assignment for the benefit of creditors.
+vi) A receiver is appointed for any substantial property owned by the Seller.
+vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has
+placed the Purchase Order on the Seller.
+
+21.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents
+sought in the Bid document, ATC and Corrigendum if any.
+
+22.Bidder / OEM has to give an undertaking that after expiry of warranty period, it will provide
+Comprehensive Maintenance Service for next 3 years for the offered products at the rate not
+more than 10 % of contract price per annum. Buyer reserves the right to enter into a CMC
+agreement with the Successful Bidder / OEM after expiry of the Warranty period at above
+mentioned rate and the payment for the CMC charges would be made Quarterly after
+rendering of the CMC Services of the relevant CMC period. Performance Security of the
+successful bidder shall be forfeited if it fails to accept the CMC contract when called upon by
+the buyer. CMC would include cost of Service and maintenance of the entire equipment and
+replacement of spares (Upload the undertaking). The original Performance Security of
+contract will be returned only after submission and verification of AMC Performance Security
+for 10% of total CMC value valid up to CMC period plus 2 months (if there is no other claim).
+
+23.Over and above the normal Warranty terms as per GeM GTC, the successful bidder / OEM
+shall have to provide Comprehensive Warranty during the entire Standard warranty period
+as per contract. : The comprehensive warranty shall be covering the following scope Entire
+equipment including accessories (Upload an undertaking with the bid confirming compliance
+
+                               7 / 8
+
+
+
+ 
+
+by the bidder if Bidder is taking onus of this compliance. In case OEM is taking onus of this
+compliance, OEM undertaking is to be uploaded along with Bidder undertaking)
+
+24.Successful bidder will have to ensure that adequate number of dedicated technical service
+personals / engineers are designated / deployed for attending to the Service Request in a
+time bound manner and for ensuring Timely Servicing / rectification of defects during
+warranty period, as per Service level agreement indicated in the relevant clause of the bid.
+
+25.For fulfilling the experience criteria any one of the following documents may be considered
+as valid proof for meeting the experience criteria:
+a. Purchase Order copy along with Invoice(s) with self-certification by the bidder that
+supplies against the invoices have been executed.
+b. Execution certificate by client with order value.
+c. Any other document in support of order execution like Third Party Inspection release note,
+etc.
+
+26.Successful Bidder can submit the Performance Security in the form of Account Payee
+Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in
+favour of ESIC fund Account number 1 payable at Chennai. After award of contract,
+Successful Bidder can upload scanned copy of the DD in place of PBG and has to ensure
+delivery of hard copy to the original DD to the Buyer within 15 days of award of contract.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               8 / 8
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

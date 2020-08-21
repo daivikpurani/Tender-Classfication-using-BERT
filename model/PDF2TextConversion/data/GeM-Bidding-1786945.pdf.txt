@@ -1,0 +1,916 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/710802
+
+  Dated: 15-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 18-07-2020 17:00:00
+
+Bid Opening Date/Time 18-07-2020 17:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Steel
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Kiocl Limited/ Bangalore
+
+Total Quantity 2
+
+Item Category ICU Ventilator
+
+Experience Criteria  1 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  Yes
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                             1 / 10
+
+
+
+ 
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+
+ICU Ventilator ( 2 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Certifications for the
+product
+
+- *
+
+Certification number
+and date
+
+- *
+
+Confirmity to quality
+management standards
+
+ISO 9001 & ISO 13485 *
+
+Confirmity to electrical
+safety standards
+
+IEC 60601-1 or ISO
+80601-2-12 or BIS
+equivalent
+
+*
+
+Performance
+Parameters
+
+UMDNS Code 17-429 *
+
+Scope of item Intensive care
+ventilators are defined
+as mechanical
+ventilators that can be
+configured to provide
+invasive ventilation
+(e.g., with an
+endotracheal tube or
+tracheostomy tube) or
+noninvasive ventilation
+(eg, with a face mask)
+
+*
+
+Clinical application Mechanical ventilators
+are life support devices
+that move gas (e.g., air
+and/or oxygen) to and
+from a patient's lungs.
+These devices may
+provide temporary or
+permanent respiration
+for patients who cannot
+breathe on their own,
+or who require
+assistance maintaining
+
+*
+
+                             2 / 10
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/8vigqii1CCSy4sH6cd5hsWEBZVmcpsIQqLGXwGrzpQo
+
+
+ 
+
+adequate ventilation
+
+Patient Type Adult & pediatric Adult & pediatric,
+Adult, pediatric and
+neonatal
+
+Type of technology Compressor Turbine, Compressor
+
+Tidal volume in ml 50 ml or less - 1500 ml
+or more
+
+50 ml or less - 1500 ml
+or more, 2 ml or less to
+1500 ml or more, 100
+ml or less-1500 ml or
+more
+
+Respiration rate,
+breaths/min
+
+up to 80 or more upto 150 or more, up to
+80 or more, Up to 120
+or more, up to 50 or
+more
+
+Trigger mechanism Pressure /flow Pressure /flow, Both
+pressure and flow
+
+FiO2% 21-100 *
+
+Inspiratory flow rate,
+L/min
+
+upto 120 or more upto 120 or more, upto
+30 or more, up to 150
+or more
+
+Inspiratory pressure,
+cm H2O
+
+upto 80 or more upto 50 or more, upto
+80 or more, up to 150
+or more
+
+IE ratio 1:10 to 4:1 1:10 to 4:1, 1;6 to 3:1
+
+Sigh breath function Yes Yes, No
+
+PEEP/CPAP, cm H2O upto 40 or more *
+
+Pressure support, cm
+H2O
+
+0-40 or more *
+
+Leak compensation Yes *
+
+Auto 100%/Increase O2
+button
+
+Yes *
+
+Control panel lock Yes Yes, No
+
+Facility for double
+lung ventilation
+
+Yes Yes, No
+
+Patient Assessment
+Tools
+
+Maximum wave forms
+displayed
+
+3 (Pressure and time,
+volume and time , flow
+and time)
+
+*
+
+Number of loops 2 loops (P-V, F-V) with
+facility of saving of 2
+Loops for reference
+
+2 loops (P-V, F-V) with
+facility of saving of 2
+Loops for reference, 2
+loops (P-V, F-V)
+
+Maximum trending
+time in hrs
+
+≥24 hr *
+
+Lung recruitment
+tools (PV loops) /
+OLT (Open lung
+tools)
+
+Yes Yes, No
+
+                             3 / 10
+
+
+
+ 
+
+Lung mechanics
+visualization tool
+
+No Yes, No
+
+Capnography/CO2
+monitoring
+
+No Yes, No
+
+Esophageal /
+transpulmonary
+pressure monitoring
+
+No Yes, No
+
+Stress index No Yes, No
+
+Modes of ventilation Volume controlled,
+Pressure Controlled,
+Pressure Support, SIMV
+with Pressure support
+,SIMV with volume
+control with pressure
+support,
+,CPAP/PEEP,Inverse
+Ratio Ventilation,Non
+invasisve
+ventilation,Apnea /back
+up ventilation,SIMV
+(VC) with Pressure
+support; SIMV (PC) with
+Pressure Support; SIMV
+(PRVC) with Pressure
+Support
+
+*
+
+ASV(Adaptive
+support ventilation)
+or ALT
+
+No Yes, No
+
+APRV/Bivent/Bi level Yes Yes, No
+
+MMV +PSV /ASV or
+ALPV or Automode
+
+No Yes, No
+
+PRVC/Auto flow Yes Yes, No
+
+High flow oxygen
+therapy
+
+No Yes, No
+
+Automatic weaning
+system provided
+
+Yes Yes, No
+
+Volume Support Yes Yes, No
+
+Ventilation monitoring
+facility
+
+The Ventillator is a
+Microprocessor
+Controlled ventilator
+with integrated facility
+for Ventilation
+monitoring
+
+*
+
+Monitored / Displayed
+parameters
+
+Peak inspiratory
+pressure , Mean airway
+pressure, PEEP
+pressure, Tidal volume,
+Minute volume,
+Spontaneous minute
+volume, FiO2 (analyzed
+
+*
+
+                             4 / 10
+
+
+
+ 
+
+%), Respiratory rate ,
+Inspiratory time,
+Expiratory time, IE
+ratio, Plateau Pressure
+
+Availability of Status
+indicator for Ventilator
+mode, Battery life,
+patient data, alarm
+settings, clock etc on
+display
+
+Yes *
+
+Patient alarms Low/high FiO2,
+Low/high minute
+volume , Low
+inspiratory pressure ,
+High pressure, Low
+PEEP , High PEEP ,
+Apnea, Continuous high
+pressure/occlusion,
+Inverse IE, High
+respiratory rate,
+Breathing circuit
+disconnect
+
+*
+
+Equipment alarms Gas-supply failure ,
+Power failure, Vent
+inoperative, Low
+battery, Self-diagnostic
+
+*
+
+Non-forced Slow
+Vital Capacity
+
+No Yes, No
+
+Physiologic Dead
+space
+
+Yes Yes, No
+
+RSBI Yes Yes, No
+
+Imposed work of
+Breathing ( WOBi)
+
+Yes Yes, No
+
+Expiratory Time
+constant ( Tcexp)
+
+Yes Yes, No
+
+Compliance static
+and dynamic
+
+Yes Yes, No
+
+Inspired and expired
+resistance
+
+Yes Yes, No
+
+Occlusion pressure Yes Yes, No
+
+Inspiratory and
+expiratory hold
+
+Yes Yes, No
+
+Spontaneous
+frequency
+
+Yes Yes, No
+
+Total peep, intrinsic
+peep, extrinsic peep
+
+Yes Yes, No
+
+Expiratory block is
+autoclavable and no
+routine calibration
+
+Yes Yes, No
+
+                             5 / 10
+
+
+
+ 
+
+required
+
+Auto compensation
+for ET Tube
+
+No Yes, No
+
+Facility for
+automatic
+compliance &
+Leakage
+compensation for
+circuit available
+
+Yes Yes, No
+
+RS 232 out put port Yes Yes, No
+
+USB/Memory card No Yes, No
+
+Availability of Remote
+alarm/display port
+
+Yes *
+
+Facility to Report (vent
+alarms and patient
+status)
+
+Yes *
+
+HLT Compliant out
+put
+
+Yes Yes, No
+
+Type of coloured
+display
+
+TFT LED, LCD, TFT
+
+Display should be
+touch screen
+
+Yes Yes, No
+
+NIV (Non Invasive
+Ventilation) to be
+possible in all modes
+of ventilation
+available
+
+Yes Yes, No, NIV available
+in pressure targeted
+modes only
+
+Size of display (in
+inches)
+
+15 12, 15, 17, 18
+
+Graphic display have
+automatic scaling
+facility for waves
+
+Yes Yes, No
+
+Power supply 220-240 V , 50 Hz AC
+single phase
+
+*
+
+Provision of UPS No Yes, No
+
+Backup time in hrs 1 1, 2, NA if not provided
+
+Internal backup battery Yes *
+
+Backup time for
+internal battery in mins
+
+45 mins or more *
+
+Built in air source Air compressor
+(external)
+
+Air compressor
+(external), Turbine (In
+built)
+
+Availability of stand
+alone compressor
+
+No Yes, No
+
+Compressor
+certification
+
+European CE US FDA, European CE,
+Both European CE and
+US FDA, BIS
+
+                             6 / 10
+
+
+
+ 
+
+Compressor shall
+provide an oil free
+Medical air, with
+Peak output flow
+should be minimum
+150 LPM and Air
+quality complying
+with ISO compressed
+air purity class
+
+Yes Yes, NA (for turbine)
+
+Medical Air Compressor
+should automatically
+activate in the event of
+wall air supply loss and
+replacement of internal
+filters should be
+performed without
+removing the
+compressor, have
+washable air filter
+
+Yes *
+
+Seller shall ensure
+compatibility of
+compressor with
+ventilator
+
+Yes Yes, NA for Turbine
+
+Inbuilt nebulizer
+with particle size
+less than 3 micron
+
+Yes Yes, No
+
+Comprehensive
+Warranty in years
+
+5 5
+
+Additional Accessories Reusable silicon
+breathing circuits for
+Adult,pediatric and
+Neonatal
+
+2 each *
+
+NV mask(Re
+usable)-Small,medium
+and large
+
+2 Each *
+
+Length of Power cord in
+m
+
+>3 m *
+
+Type of flow sensor Disposable Reusable, Disposable,
+NA
+
+No of reusable flow
+sensor
+
+2 no. *
+
+No of disposable
+flow sensor
+
+50 50, 100, NA
+
+Autoclavable
+exhalation
+valve/expiratory
+cassette / filter
+
+2 *
+
+Humidifier: Servo
+controlled with
+digital monitoring of
+inspired gas
+
+1 1, 2, NA
+
+                             7 / 10
+
+
+
+ 
+
+temperature with
+heating wire
+
+Trolley for ventilator
+with circuit holding arm
+
+Yes *
+
+Miscellaneous
+Parameters
+
+Number of installations
+in Central /State/PSU
+Govt Hospitals ( Hint:
+Seller should supply a
+performance certificate
+of the device to the
+buyer incase
+demanded after
+placement of order)
+
+0 *
+
+OEM/Reseller (if
+supplied by reseller
+shall ensure
+uninterrupted
+availability of all spares
+for 10 years)
+
+Yes *
+
+Availability of toll free
+facility for technical
+support maintened by
+OEM or authorized
+agencies
+
+Yes *
+
+During the warranty
+period it shall be
+ensured that all the
+break down calls are
+attended with in 24 hrs
+and the complete
+details of service
+agents / contact details
+should be furnished to
+buyer and consignee at
+time of supplies
+
+Yes *
+
+User/Technical/Mainten
+ance manuals to be
+supplied in English in
+hard and soft copy
+
+Yes *
+
+Details of equipments
+and procedures
+required for local
+calibration and routine
+maintenance to be
+supplied and advanced
+maintenance task
+documentation also to
+be furnished
+
+Yes *
+
+List of important spares
+and accessories, with
+their part numbers and
+price lists to be
+supplied to the buyer
+
+Yes *
+
+                             8 / 10
+
+
+
+ 
+
+at the time of supplying
+the equipment
+
+Demonstration of
+equipment and training
+to be provided after
+completing supplies
+before acceptance
+
+Yes *
+
+The Principal
+Manufacturer must
+have direct
+Presence/approved
+service center In India
+
+Yes *
+
+Copies of reports and
+certifications to be
+furnished to buyer on
+demand at time of
+supplies
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Kumaravelu
+Kathaiyan
+
+575010,KIOCL LIMITED,
+PELLET PLANT UNIT,
+PANAMBUR, MANGALORE,
+PIN - 575 010
+
+2  30
+
+Special terms and conditions for category ICU Ventilator 
+
+1.Comprehensive warrantyComprehensive warranty shall include preventive maintenance
+including calibration as per technical/ service /operational manual of the manufacturer,
+service charges and spares,. During the warranty period commencing from date of the
+successful completion of warranty period, Service personnel shall visit each consignee site
+as recommended in the manufacturer’s technical/ service /operational manual, at least once
+in six months. warranty shall not be including the consumables .Further there will be 98%
+uptime warranty during warranty period on 24 (hrs) X 7 (days) X 365 (days) basis, with
+penalty, to extend warranty period by double the downtime period.Service centresDetails of
+Service outlets in India to render services for equipment to be furnished to buyer/consignees
+with complete address ,telephone numbers, e mails etc at time of making the supplies .It
+shall be the responsibility of seller to ensure that authorized service centres are available to
+cater to the areas where supplies are made within reasonable distance from where the
+service calls can be handled .Details of toll free numbers for service call and online
+registration of service requests also to be provided buyer/consignee at the time of
+supplies.Source of supplyIt shall be responsibility of seller to provide Documents regarding
+source of equipments such as copy of Performa invoice or any other documents to establish
+that the products supplied are manufactured by OEM indicated and sourced from
+
+                             9 / 10
+
+
+
+ 
+
+them.Packing and MarkingMedical equipments being very delicate and sensitive packing for
+the goods should be strong and durable enough to withstand transit including transhipment
+(if any), rough handling, open storage etc. without any damage, deterioration etc. .The size,
+weights and volumes of the packing cases, remoteness of the final destination of the goods,
+availability or otherwise of transport and handling facilities at all points during transit up to
+final destination,. Quality of packing, the manner of marking within & outside the packages
+and provision of accompanying documentation shall take in to consideration the type of
+medical equipments being supplied. The accessories shall be suitably labelled and packed
+.Each of the package shall be marked on three sides with indelible paint of proper quality:
+indicating contract number and date , brief description of goods including quantity ,. Packing
+list reference number , country of origin of goods and any other relevant details.Spare
+PartsSeller shall provide materials, information etc. pertaining to spare parts manufactured
+and supplied by the OEM . It shall be ensured that the required spares are available for
+purchase at least for 10 years from date of supplies .In case due to any reasons the
+production of the spare parts is discontinued sufficient advance notice should be given to
+the buyer/consignee before such discontinuation to provide adequate time to purchase the
+required spare parts etc. Further, OEM and their service centres/dealers shall carry sufficient
+inventories to assure ex-stock supply of consumables and spares for the equipments so that
+the same are available.OEM or reseller shall always accord most favoured client status to
+the buyer/consignee and shall give the most competitive price for spares and consumables
+of its machines/equipments supplied.Installation, Training, ManualsSeller shall be
+responsible to carry out Installation & commissioning, Supervision and Demonstration of the
+goods. They shall provide required jigs and tools for assembly, minor civil works for the
+completion of the installation and Training of Consignee’s representatives for operating and
+maintaining the equipment and Supplying required number of operation & maintenance
+manual for the goods. In case the category parameters are specifying any requirements
+regarding the installations , training and manuals the same shall also be applicable.
+Electrical safety checkingSellers are required to make sure that they furnish the list of
+equipments for carrying out routine and preventive maintenance to buyer/consignee. They
+should make sure to periodically check the electrical safety aspects as per BIS Safety
+Standards or equivalent .In case they do not have required equipment for such testing
+should ensure that the equipments checked for electrical safety compliance through labs
+with facilities for such checking during every preventive maintenance call. Software All
+software updates should be provided free of cost during warranty period.
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                            10 / 10
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,672 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/710406
+
+  Dated: 14-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 18:00:00
+
+Bid Opening Date/Time 27-07-2020 18:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Communications
+
+Department Name Department Of Posts
+
+Organisation Name Tamil Nadu Postal Circle Department Of Posts
+
+Office Name Office Of The Chief Postmaster General Tamilnadu
+Circle Chennai 600002
+
+Total Quantity 7
+
+Item Category Deposit Safe (Non Tool Resistant)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Deposit Safe (Non Tool Resistant) ( 7 pieces )
+
+Technical Specifications
+
+                               1 / 7
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC Configuration Safe Deposit Box /
+Cabinet - for safe
+keeping of Paper / Cash
+/ Documents
+
+Safe Deposit Box /
+Cabinet - for safe
+keeping of Paper / Cash
+/ Documents
+
+Type An Individually secured
+container for Paper /
+Cash / Documents
+
+An Individually secured
+container for Paper /
+Cash / Documents
+
+Constructions Single cabinet type –
+with single body and
+door
+
+Single cabinet type –
+with single body and
+door
+
+Number of drawers 1 1
+
+Assembly of
+components
+
+By welding By welding
+
+Welding By arc welding
+conforming to IS
+816/Latest
+
+By arc welding
+conforming to IS
+816/Latest
+
+Number of shelves 1 1
+
+Position of shelves Fixed *
+
+Load Bearing Capacity
+of Shelf (No any sign of
+distortion or damage
+(As per IS 14562 -
+latest)
+
+Uniformly distributed
+load of 2.5 Kg for 30
+min on shelf
+
+*
+
+Arrangement for joining
+of inner shell
+
+Minimum direct
+conduction of heat
+from outside to inside
+
+*
+
+Fitment of body with
+door
+
+Tongue and groove
+type
+
+*
+
+Main Locking
+arrangement
+
+YES YES
+
+Secondary locking
+option
+
+NO NO
+
+Snap shut
+mechanism on door
+
+NO NO
+
+Annular sealing
+gasket between
+inner body and door
+
+NO NO
+
+Fire seal NO NO
+
+Key retention
+mechanism in
+drawers
+
+YES YES
+
+Number of additional
+drawer required - write
+NA if not applicable
+
+- *
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/H9wp1ZkYXOjXi4cEZXlvqky0paa-sCCSPkJMv2dHGmM
+
+
+ 
+
+Number of additional
+locker required - write
+NA if not applicable
+
+- *
+
+Number of Flap door
+required - write NA if
+not applicable
+
+- *
+
+Sensor to detect
+attack on safe using
+tools (Power
+hammer, Power drill
+or similar)
+
+NA NA
+
+Alarm transmission
+from inside of safe
+(safe is in locked
+condition)
+
+NO NO
+
+Alarm transmission N.A N.A
+
+Minimum battery life N.A N.A
+
+Time bound health
+monitoring
+
+N.A N.A
+
+Encrypted
+communication
+between safe and
+alarm panel (at least
+AES-128 bit)
+
+N.A N.A
+
+Distance of Alarm
+panel from safe
+
+N.A N.A
+
+Method to Arm /
+Disarm
+
+N.A N.A
+
+Alarm panel alerts
+for Burglary attempt
+
+NO NO
+
+Alarm panel alerts
+for Panel tempering
+
+NO NO
+
+Alarm panel alerts for
+Wire cuts
+
+NO *
+
+Alarm panel alerts for
+Speaker wire cut
+
+NO *
+
+Alarm panel alerts for
+Communication loss
+
+NO *
+
+Alarm panel alerts for
+Low battery in safe
+
+NO *
+
+Alarm panel alerts for
+AC power lost and
+restored
+
+NO *
+
+Alarm panel alerts -
+duress (silent alert)
+
+NO *
+
+Configuration of user
+numbers and message
+through mobile APP
+
+N.A *
+
+                               3 / 7
+
+
+
+ 
+
+Wireless sensor
+communication
+usinge unlicensed
+band carrier
+frequencies
+
+N.A N.A
+
+Number of
+Telephone numbers
+that can be
+programmed to
+receive alarm alerts
+in the form of voice
+and / or sms
+
+N.A N.A
+
+Coin slot on
+Top/Side/Back
+
+NO *
+
+Anti Fishing
+mechanism for coin
+slot
+
+NO NO
+
+Provision of depository
+Drawer
+
+NO *
+
+Anti Fishing mechanism
+for Depository Drawer
+
+NO *
+
+Snap shut
+mechanism for
+drawer
+
+NO NO
+
+Bolt – Detent
+mechanism for main
+door
+
+YES YES
+
+MATERIAL Material for Internal
+cabinet
+
+CRCA steel CRCA steel
+
+Material for external
+cabinet
+
+Steel Steel
+
+Door material Steel Steel
+
+Shelves material Steel Steel
+
+Handle material Mild steel powder
+coated
+
+Mild steel powder
+coated
+
+Type of main lock 6 lever single control 6 lever single control
+
+Type of secondary
+lock
+
+No secondary lock No secondary lock
+
+Number of locks 1 1
+
+Thickness of levers 2.0 mm *
+
+Depository Drawer
+lock
+
+N.A N.A
+
+DIMENSION Inside height of safe
+±10mm
+
+254 mm 254 mm
+
+Inside Width of safe
+±10mm
+
+362 mm 362 mm
+
+                               4 / 7
+
+
+
+ 
+
+Inside Depth of safe
+±10mm
+
+328 mm 328 mm
+
+External height of
+safe ±10mm
+
+254 mm 254 mm
+
+External Width of
+safe ±10mm
+
+350 mm 350 mm
+
+External Depth of
+safe ±10mm
+
+250 mm 250 mm
+
+Inside Height of Top
+drawer
+
+N.A N.A
+
+Inside Width of Top
+drawer
+
+N.A *
+
+Inside Depth of Top
+drawer
+
+N.A *
+
+Height of pedestal
+±10mm
+
+N.A *
+
+Thickness of steel
+sheet (internal
+cabinet) (mm)
+
+1 1.0 - 8.0 Or higher
+
+Thickness of steel
+sheet (Shelves)
+(mm)
+
+0.75 0.75 - 5.0 Or higher
+
+Thickness of door
+slab (mm)
+
+5 5.0 - 20.0 Or higher
+
+Thickness of steel
+sheet(external
+cabinet) (mm)
+
+2 2.0 - 10.0 Or higher
+
+Thickness of door
+over bolt work
+(minimum)(mm)
+
+5 5.0 - 20.0 Or higher
+
+Diameter of shooting
+bolt (minimum)
+(mm)
+
+25 25.0 - 25.0 Or higher
+
+Depth of
+engagements of the
+bolts (9 minimum)
+(mm)
+
+20 20.0 - 20.0 Or higher
+
+Provision for anchoring
+/ bolting to the ground
+or side panels
+
+YES *
+
+Weight of safe ( to be
+declared by
+buyer/seller) – write NA
+if not applicable
+
+- *
+
+PACKING AND
+MARKING
+
+Packing Gutta packing Gutta packing
+
+Marking N.A N.A
+
+Marking of key N.A N.A
+
+                               5 / 7
+
+
+
+ 
+
+Surface Finishing N.A N.A
+
+WARRANTY Warranty periods 1-year 1-year
+
+CERTIFICATION Compression
+mechanism
+
+Confmg. To cl. 9.5 of IS
+14562/latest
+
+Confmg. To cl. 9.5 of IS
+14562/latest
+
+Verification of fire
+resistant property of
+cabinet
+
+N.A *
+
+Criteria for Conformity N.A *
+
+Test certificate to be
+submitted on
+buyer’s demand
+
+YES YES
+
+OEM of offered
+product is ISO
+9001:2015 certified
+
+YES YES
+
+OEM of offered
+product is ISO
+14001:2015 certified
+
+YES YES
+
+OEM of offered
+product is ISO
+18001:2007 certified
+
+YES YES
+
+Tested at NABL for
+power frequency
+magnetic field as per
+IEC : 1000 – 4 – 8
+
+NO NO
+
+Tested at NABL to IS
+: 14505/Latest 1
+hour endurance
+
+NO NO
+
+Conforming to test
+applicable in UL 72
+Class – 125 (Not as
+per IS)
+
+NO NO
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Karthikeyan
+Bangaru
+
+613001,O/o SSPOs
+Thanjavur Division
+Thanjavur
+
+7  30
+
+Bid Specific Additional Terms and Conditions
+
+                               6 / 7
+
+
+
+ 
+
+1.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 15 days time limit. If the Seller fails to complete
+service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product
+shall be charged as penalty for each week of delay from the seller. Seller can deposit the
+penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty
+amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than
+10% of the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

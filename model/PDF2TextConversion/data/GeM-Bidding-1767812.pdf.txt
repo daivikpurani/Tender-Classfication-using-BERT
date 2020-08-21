@@ -1,0 +1,342 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/693384
+
+  Dated: 01-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 11-07-2020 13:00:00
+
+Bid Opening Date/Time 2020-07-11 13:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 80 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Air Force
+
+Office Name ***********
+
+Total Quantity 3
+
+Item Category DC Regulated Power Supply
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+
+Splitting
+
+  Bid splitting not applied.  
+
+DC Regulated Power Supply ( 3 pieces )
+
+Technical Specifications
+
+                               1 / 4
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC DC Regulated power
+supply as per
+
+QRs/Specification
+approved by CRPF vide 
+Lr.No.BV7/2018-19C(D
+RPS) dated.14.01.2019
+
+*
+
+OUTPUT Variable voltage
+range
+
+0 to 30 V (+10%) 0 to 30 V (+10%)
+
+Variable voltage control Single turn coarse and
+fine control,
+continuously adjustable
+
+*
+
+Variable current
+range
+
+0 to 30 A (+10%) 0 to 30 A (+10%)
+
+Variable current control Single turn coarse and
+fine control,
+continuously adjustable
+
+*
+
+Configuration Constant Voltage and
+Constant Current
+
+*
+
+Load regulation ≤ +/- 0.1% + 2 mV for
+V 10% change in line
+voltage
+
+*
+
+Line regulation ≤ +/- 0.1% + 2 mV for
+load change on zero to
+full load
+
+*
+
+Ripple and Noise 1 mV RMS Max. 20 Hz
+to 20 MHz
+
+*
+
+Stability under constant
+line, load and
+temperature - in
+Constant Voltage mode
+
+< +/-0.2% +/-10 mV *
+
+Stability under constant
+line, load and
+temperature - in
+Current mode
+
+< +/-0.2% +/- 0.5 mA *
+
+Transient response 0.1 set to within 10 mV
+of set output voltage
+for load change from
+50% to 90%
+
+*
+
+Total output power Nominal: 900 Watts,
+Maximum: 2000 Watts
+
+*
+
+Meters Display to indicate
+Volts and Amps.
+
+*
+
+Voltage and current
+accuracy
+
+≤ +/- 0.5% ref. voltage
+1 volt
+
+*
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/-aFStR9W7rfF2n69GTe9fGvuwg3hT-0BiO5mFpyGWdQ
+
+
+ 
+
+Terminals Provided on the front /
+rear panel
+
+*
+
+INPUT voltage / Frequency 220 V +/- 10%, 50 Hz,
+Single Phase AC
+
+220 V +/- 10%, 50 Hz,
+Single Phase AC
+
+Total input VA 1300 VA or better @
+65% effieiency
+
+1300 VA or better @
+65% effieiency
+
+Input current rating Nominal: 5.05 Amps @
+220m Volts, Maximum:
+0.28 Amps @ 207 Volts
+
+*
+
+Connection 3 Pin, 15 Amps
+Moulded cord
+
+*
+
+PROTECTION Overload & Short
+circuit (Through
+CC/CV Mode)
+
+DC Fuse + MCB as well
+as AC MCB or over
+voltage protection /
+over current protection
+
+DC Fuse + MCB as well
+as AC MCB or over
+voltage protection /
+over current protection
+
+ENVIRONMENTAL Operating
+Temperature
+
+0 to 55 deg C 0 to 55 deg C
+
+Humidity 90% at 45 deg C non
+condensing
+
+*
+
+Cooling type Force Air, Natural
+convection cooling
+
+*
+
+ACCESSORIES All measuring probes
+with connectors
+
+Yes provided *
+
+All charging probes
+with connectors
+
+Yes provided *
+
+GROUP: CERTIFICATION Availability of type
+test report from
+Central Govt.,
+lab/NABL/ILAC
+accredited lab to
+conformity of the
+specification
+
+No No
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********WEST
+MIDNAPORE
+
+3  30
+
+                               3 / 4
+
+
+
+ 
+
+Bid Specific Additional Terms and Conditions
+
+1.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+2.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

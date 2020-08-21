@@ -1,0 +1,742 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/707266
+
+  Dated: 12-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 22-07-2020 11:00:00
+
+Bid Opening Date/Time 22-07-2020 11:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Science And Technology
+
+Department Name Department Of Science And Technology (dst)
+
+Organisation Name Survey Of India Dehradun Uttarakhand
+
+Office Name Surveyor General's Office, Dehradun, Uttarakahnd
+
+Total Quantity 1
+
+Item Category ACTION CAMERAS
+
+Bidder Turnover (Last 3 Years)  1 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  4 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years Of Experience and
+Turnover
+
+ Yes
+
+Startup Exemption for Years Of Experience
+and Turnover
+
+ Yes
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  50 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+Estimated Bid Value  100000
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+                               1 / 8
+
+
+
+ 
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 50% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+ACTION CAMERAS ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+TYPE Type of Camera Action camera *
+
+Classification of
+Camera
+
+Audio/Video Recording
+and Still Photography
+
+*
+
+Application Event
+Capture,Adventure
+Sports such as skiing,
+mountain biking,
+Racing, Surfing, Water
+sports etc
+
+*
+
+IMAGE SENSOR Image Sensor CMOS CMOS
+
+Sensor Size(inch) 1/2.3 1/2.3
+
+Effective Pixels
+(Mega Pixels)
+
+12 12
+
+                               2 / 8
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/pTwe85odIL1r58Kvau4zbnRL0rJ1c4NCIWsJEuzfWGs
+
+
+ 
+
+ISO sensitivity
+(Standard output
+Sensitivity) - Minimum
+
+100 *
+
+ISO sensitivity
+(Standard output
+Sensitivity) - Maximum
+
+800 *
+
+Supported Picture or
+image format
+
+JPEG *
+
+OPTICS Lens Mounting Fixed *
+
+Lens Aperture
+(f/number)
+
+2 *
+
+Digital Zoom (X) 0 *
+
+Maximum Field of View 180 *
+
+Focus Mode Fixed Focus *
+
+Minimum Focus
+Distance
+
+40 *
+
+Minimum iliumination
+for capturing colour
+image
+
+8 *
+
+Video Recording Maximum Recording
+Resolution (Pixels)
+
+5.2 K (5228 x 2624) 5.2 K (5228 x 2624)
+
+Frame Rate for
+Recording at
+Maximum Resolution
+(frames/sec)
+
+30 30
+
+Selectable Frame Rates
+(frames/sec)
+
+30,60,120 *
+
+Burst Rates
+(frames/sec)
+
+30/2 *
+
+Time Lapse Photo
+Intervals (Self-timer)
+
+2,5,10,30,60 *
+
+Video Compression
+Format
+
+H.264 *
+
+360 deg video
+recording
+
+Yes Yes
+
+Maximum Resolution
+for Recording 360
+deg video
+
+5.2 K (5228 x 2624) 5.2 K (5228 x 2624)
+
+Live Video
+Streaming
+
+Yes Yes
+
+Loop Recording Yes *
+
+Video Output Port Mini HDMI *
+
+Max Video Bit Rate
+(Mb/s)
+
+120 120
+
+Video file format MP4 *
+
+                               3 / 8
+
+
+
+ 
+
+AUDIO Audio Recording Buit-in *
+
+Audio Output Yes *
+
+Audio Recording
+Format
+
+AAC *
+
+Number of Audio Input
+Port
+
+1 *
+
+Type of Audio input
+Port
+
+XLR *
+
+Number of Audio
+Output Port
+
+1 *
+
+Type of Audio output
+Port
+
+XLR *
+
+DISPLAY Display Type Colour TFT *
+
+Touch Screen No *
+
+Display Size (inch) 1-1.5 1-1.5
+
+Vari Angle Screen No No
+
+View Finder No *
+
+FEATURES in-built GPS Yes Yes
+
+GPS coordinates
+Stamping onto
+Videos /
+photographs
+
+Yes Yes
+
+Image Stabilization Electronic / Digital Electronic / Digital
+
+Waterproof /
+Underwater
+
+Yes Yes
+
+Housing for
+Waterproof /
+Underwater Camera
+
+Without Without
+
+Waterproof /
+Underwater Rating -
+without Housing
+(meters)
+
+10 10.0
+
+Waterproof /
+Underwater Depth
+for Camera with
+Housing (meters)
+
+15 15.0
+
+Gyro Sensor Yes Yes
+
+Voice Control Yes *
+
+Wake on Voice No *
+
+Connectivity Interface Wi-
+Fi,Bluetooth,NFC,USB
+
+*
+
+Control Both Remote & App *
+
+Remote / App inclusive
+in the scope of supply
+
+Yes *
+
+                               4 / 8
+
+
+
+ 
+
+Supported Operating
+Systems
+
+iOs,Android,Mac,Windo
+ws
+
+*
+
+Picture control system portrait,landscape *
+
+Noise Reduction
+Feature
+
+Yes *
+
+Automatic transfer of
+footage to Mobile
+Phone / PC and turns it
+into Video by using the
+App
+
+Yes *
+
+Auto upload facility to
+Cloud
+
+No *
+
+Shutter type electronically
+controlled
+
+*
+
+Shooting modes Countinous Shooting *
+
+Additional features, if
+any
+
+- *
+
+STORAGE Storage Type Micro SD Micro SD
+
+Capacity of Memory
+Card, inclusive in the
+scope of supply (GB)
+
+128 128
+
+Memory Card
+expandable upto
+(GB)
+
+128 128
+
+In-built Memory(GB) 0 0
+
+BATTERY Power Source Rechargeable Battery *
+
+Battery Chemistry, if
+Rechargeable
+Battery
+
+Li-Ion Li-Ion
+
+Number of Batteries
+required for operation
+
+1 *
+
+Number of Batteries
+supplied (Inclusive
+in the Scope of
+Supply)
+
+1 1
+
+BATTERY CAPACITY
+(mAh)
+
+1250 *
+
+Battery Charger with
+AC adopter inclusive in
+the scope of supply
+
+Yes *
+
+OPERATING
+CONDITIONS
+
+Minimum Operating
+Temperature (for
+land use)
+
+0 0.0
+
+Maximum Operating
+Temperature (for
+land use)
+
+40 40.0
+
+                               5 / 8
+
+
+
+ 
+
+Minimum Operating
+Temperature
+(degree Celsius)
+
+0 0
+
+Maximum Operating
+Temperature
+(degree Celsius)
+
+40 40
+
+Maximum Operating
+Humidity, Rh - Non
+Condensing
+
+95 95.0
+
+ATTACHMENTS
+INCLUSIVE IN THE
+SCOPE OF SUPPLY
+
+Attachments
+inclusive in the
+scope of supply
+
+Cradle,Micro USB
+Cable,Suction Cup
+
+Cradle, Micro USB
+Cable, Suction Cup
+
+Additional Attachments
+inclusive in the scope
+of supply
+
+- *
+
+GENERIC Housing
+construction
+
+Polycarbonate Polycarbonate
+
+Dimension (WxHxD)
+(mmxmmxmm)
+
+- *
+
+Weight (including
+Battery)
+
+160 *
+
+Weight (excluding
+Battery)
+
+133 *
+
+WARRANTY Warranty on
+Equipment
+
+1 1.0
+
+CERTIFICATION Compliant to MIL-
+STD 810F, Method
+516 5-Shock
+
+No No
+
+Protection against
+Dust and Water
+
+IP 67 IP 67
+
+Availability of Test
+Reports from Central
+Govt/ NABL/ILAC
+acredited lab to
+prove confirmity to
+the Specifications
+
+No No
+
+If Yes, Test Report to
+be furnished to the
+Buyer on demand
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+                               6 / 8
+
+
+
+ 
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Amar Dev
+Bahuguna
+
+248001,Survey of India,
+Hathibarkala Estate
+
+1  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+2.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+3.Bidder financial standing: The bidder should not be under liquidation, court receivership
+or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect
+with bid.
+
+4.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+5.Bidders shall quote only those products in the bid which are not obsolete in the market and
+has at least 3 years residual market life i.e. the offered product shall not be declared end-of-
+life by the OEM before this period.
+
+6.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents
+sought in the Bid document, ATC and Corrigendum if any.
+
+7.Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid
+documents. Buyers can match and verify the Data Sheet with the product specifications
+offered. In case of any unexplained mismatch of technical parameters, the bid is liable for
+rejection.
+
+8.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+9.For fulfilling the experience criteria any one of the following documents may be considered
+as valid proof for meeting the experience criteria:
+a. Purchase Order copy along with Invoice(s) with self-certification by the bidder that
+supplies against the invoices have been executed.
+b. Execution certificate by client with order value.
+c. Any other document in support of order execution like Third Party Inspection release note,
+etc.
+
+10. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+11.Malicious Code Certificate:
+
+The seller should upload following certificate in the bid:-
+(a) This is to certify that the Hardware and the Software being offered, as part of the
+contract, does not contain Embedded Malicious code that would activate procedures to :-
+
+                               7 / 8
+
+
+
+ 
+
+  (i) Inhibit the desires and designed function of the equipment.
+  (ii) Cause physical damage to the user or equipment during the exploitation.
+  (iii) Tap information resident or transient in the equipment/network.
+(b) The firm will be considered to be in breach of the procurement contract, in case physical
+damage, loss of information or infringements related to copyright and Intellectual Property
+Right (IPRs) are caused due to activation of any such malicious code in embedded software.
+
+12.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial
+year, should be as indicated in the bid document. Documentary evidence in the form of
+certified Audited Balance Sheets of relevant periods or a certificate from the Chartered
+Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than
+3 year old, the average turnover in respect of the completed financial years after the date of
+constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of
+CATEGORY RELATED TO primary product having highest bid value should meet this criterion.
+
+13.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+14.The Bidder / OEM {themselves or through reseller(s)}, should have executed project for
+supply and installation / commissioning of same or similar Category Products during
+preceding 3 financial years (i.e. current year and three previous financial years) as on
+opening of bid, as per following criteria:
+ 
+(i) Single order of at least 35% of estimated bid value; or
+(ii) Two orders of at least 20% each of estimated bid value; or
+(iii) Three orders of at least 15% each of estimated bid value.
+Satisfactory Performance certificate issued by respective Buyer Organization for the above
+Orders should be uploaded with bid. In case of bunch bids, the Category related to primary
+product having highest bid value should meet this criterion
+
+15.The bidder is required to upload, along with the bid, all relevant certificates such as BIS
+licence, type test certificate, approval certificates and other certificates as prescribed in the
+Product Specification given in the bid document.
+
+16.The successful bidder has to supply all essential accessories required for the successful
+installation and commissioning of the goods supplied. Besides standard accessories as per
+normal industry practice, following accessories must be part of supply and cost should be
+included in bid price: The device should include the standard accessories like battery,
+charging/data cable, tripod cradle, tripod handgrip, action cradle, documentation and
+software. 2: Also, the device should include 2-wheeler mounting of the camera..
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               8 / 8
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

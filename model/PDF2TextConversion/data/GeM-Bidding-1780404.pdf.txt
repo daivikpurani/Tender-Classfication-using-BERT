@@ -1,0 +1,552 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/704830
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 11:00:00
+
+Bid Opening Date/Time 20-07-2020 11:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence Reseach & Development
+
+Organisation Name Office Of Dg (ls)
+
+Office Name ***********
+
+Total Quantity 1
+
+Item Category power quality analyzers
+
+Bidder Turnover (Last 3 Years)  1 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  1 Lakh (s)
+
+Experience Criteria  2 Year (s)
+
+MSE Exemption for Turnover  Yes
+
+Startup Exemption for Turnover  Yes
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,OEM Authorization Certificate,OEM Annual
+Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  10 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+                               1 / 6
+
+
+
+ 
+
+ Bid splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 10% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Power Quality Analyzers ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+PERFORMANCE
+FEATURES
+
+Type of Power
+analyzer
+
+Single phase Single phase
+
+Number of Current
+Channels (Nos.)
+
+1 1
+
+Number of Voltage
+Channels
+
+1 1
+
+Measurable voltage
+range
+
+1000 1000.0
+
+Measurable voltage
+accuracy
+
+1 1.0
+
+Measurable voltage
+resolution
+
+0.1 0.1
+
+Measurable current
+range (with clamp)
+
+2000 2000.0
+
+Measurable current ±1 ±1
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/qy0gPnbk4hN_AH7rntcSm_YFa5bpC2hIYdwP7oh2Tfw
+
+
+ 
+
+accuracy (%)
+
+Measurable current
+resolution
+
+0.1 0.1
+
+Maximum power that
+can be measured
+(KW)
+
+400 400.0
+
+Power Accuracy (%) ±2.5 ±2.5
+
+Power resolution 1 1.0
+
+MEASUREMENT
+FEATURES
+
+Facility to Measure
+Frequency
+
+Available *
+
+Frequency range that
+can be measured
+
+40-65 Hz *
+
+Facility to Measure
+Inter harmonics
+
+Not-Available *
+
+Order(n) to which
+Facility to Measure
+Harmonics available
+
+upto 30th *
+
+Facility to Measure
+Power Factor
+
+Available *
+
+Accuracy in
+measurement of Power
+Factor (%)
+
+0.5 *
+
+Facility to Measure
+Distortion Factor
+
+Available *
+
+Accuracy in
+measurement of
+Distortion Factor (%)
+
+3 *
+
+Facility to Measure
+Ripple Factor
+
+Available *
+
+Accuracy in
+measurement of Ripple
+Factor (%)
+
+4 *
+
+Facility to Measure
+crest factor
+
+Available *
+
+Measurable crest factor
+range
+
+1 TO 5 *
+
+Measurable crest factor
+accuracy (%)
+
+2 *
+
+Measurable crest factor
+resolution
+
+0.01 *
+
+Facility to Measure
+sag(dips) and
+swell(surge)
+
+Not-Available *
+
+Pattern of
+measurement of
+sag(dips) and
+swell(surge)
+
+NA *
+
+                               3 / 6
+
+
+
+ 
+
+Facility to Measure
+Total Harmonic
+distortion
+
+Available *
+
+Accuracy in
+measurement of Total
+Harmonics distortion
+
+3 *
+
+Facility to Measure
+voltage and current
+unbalance
+
+NA *
+
+Facility to Measure
+inrush current
+
+Available *
+
+Facility to Measure
+flicker
+
+Not-Available *
+
+DISPLAY Display type LCD Backlit *
+
+Display Mode Waveform,Meter
+Reading,Bar
+graph,digital reading
+
+*
+
+GENERAL FEATURES Facility to Measure RMS
+Voltage
+
+Available *
+
+Facility to Measure RMS
+Current
+
+Available *
+
+Facility to Measure
+Active, Reactive and
+Apparent Power
+
+Available *
+
+Facility to Measure
+Active, Reactive and
+Apparent Energy
+
+Available *
+
+GENERIC Data transfer software
+provided for analysis
+on PC
+
+Yes *
+
+Provision for external
+SD Card
+
+no *
+
+Interface USB *
+
+Internal Memory (GB) 1 *
+
+Weight of the analyser 0.82 *
+
+other features - *
+
+POWER
+SOURCE/BATTERY
+
+Power Supply Battery operated,230 V
+AC +/- 10%,50Hz
+
+*
+
+If battery operated,
+chemistry of the
+rechargeable battery
+
+NA *
+
+Voltage of
+rechargeable Battery
+
+- *
+
+capacity of
+rechargeable battery
+(milli AH)
+
+- *
+
+                               4 / 6
+
+
+
+ 
+
+Suitable charger /
+adaptor provided
+
+NA *
+
+Battery backup (hours) 8 *
+
+OPERATING CONDITION Minimum Operating
+Temperature
+
+0 *
+
+Maximum Operating
+Temperature
+
+50 *
+
+Operating Humidity (%) 80 *
+
+ACCESSORIES Details of All
+connecting Cables and
+accessories to be
+supplied along with the
+Analyser
+
+- *
+
+SAFETY Compliance to IEC
+61000-4-30
+
+Yes *
+
+Category of safety
+rating
+
+Category IV 600 V of
+IEC 61010
+
+*
+
+TEST REPORT DETAILS
+& TESTS
+
+The equipment
+supplied with
+calibration certificate
+
+yes *
+
+conformity to Dry Heat
+for 16 hours at a
+specified maximum
+temp in accordance
+with IS:9000/part-3/sec
+tion-5/1977 latest
+
+no *
+
+conformity to Cold Test
+for 4 hours at a
+specified minimum
+temp in accordance
+with IS:9000/part-2/sec
+tion-4/1977 latest
+
+no *
+
+conformity to Damp
+Heat (Cyclic)Test for 2
+Cycles of 24 h each at
+a temperature of 40
+degree C & 95% RH
+
+no *
+
+Availability of Test
+Reports from Central
+Govt/NABL
+approved/ILAC
+accredited lab to prove
+conformity to the
+specification
+
+no *
+
+Test Report Number
+and date
+
+- *
+
+Name and address of
+the Lab
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+
+                               5 / 6
+
+
+
+ 
+
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********Mysuru 1  30
+
+Bid Specific Additional Terms and Conditions
+
+1. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

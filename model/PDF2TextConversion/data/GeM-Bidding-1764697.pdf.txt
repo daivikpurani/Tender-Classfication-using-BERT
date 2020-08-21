@@ -1,0 +1,442 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/690537
+
+  Dated: 29-06-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 13:00:00
+
+Bid Opening Date/Time 2020-07-20 13:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Home Affairs
+
+Department Name Department Of Home
+
+Organisation Name Directorate Of Forensic Science Services (dfss)
+
+Office Name Cfsl Chandigarh
+
+Total Quantity 1
+
+Item Category Eye Detect System for Lie Detection
+
+Bidder Turnover (Last 3 Years)  14 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  14 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  50 %
+
+Bid to RA enabled  No
+
+Inspection Required  Yes
+
+Inspection to be carried out by Buyers own
+empanelled agency
+
+ Yes
+
+Type Of Inspection  Post Dispatch
+
+Name of the Empanelled Inspection
+Agency/ Authority
+
+ Board of Officers
+
+EMD Detail
+
+                               1 / 5
+
+
+
+ 
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 2.00
+
+EMD Amount 56357
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 5.00
+
+Duration of ePBG required (Months). 37
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+DIRECTOR CFSL CHANDIGARH
+Cfsl Chandigarh, Department of Home, Directorate of Forensic Science Services (DFSS), Ministry of
+Home Affairs
+(Director)
+
+Splitting
+
+ Bid splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 50% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+
+                               2 / 5
+
+
+
+ 
+
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Eye Detect System For Lie Detection ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Generic Parameters Parameter Check Measure Eye Pupil
+Dilation,Blinking
+rate,reading
+behavior,fixation
+
+*
+
+Product Application Detection of analyzing
+psycho-physiological
+parameter
+
+*
+
+Deception Detection
+Technology Used
+
+Yes *
+
+Sensor Type Infrared Sensor *
+
+Maximum time for Test
+duration for Eye Detect
+in minutes
+
+30 *
+
+Additional Features Free Upgradation to
+Higher Version,Valid
+Licence
+Copy,Compatible
+Softwares,Certifications
+/ Benchmarking of
+Software Products
+
+*
+
+Sensor Availability Yes *
+
+Absolute Accuracy
+(%)
+
+80-90 80-90
+
+Scope of supply
+items in the offered
+product are
+
+Pre-loaded and
+customized Eye Detect
+software with mini
+PC,Infrared Sensor (Eye
+Tracker),Headphone,Wi
+reless Keyboard &
+Mouse,Chin Rest
+
+Pre-loaded and
+customized Eye Detect
+software with mini PC,
+Infrared Sensor (Eye
+Tracker), Headphone,
+Wireless Keyboard &
+Mouse, Chin Rest
+
+Sensor Warranty 3 3, 4, 5 Or higher
+
+Interface USB *
+
+Minimum time for Test
+duration for Eye Detect
+
+15 *
+
+                               3 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/75KO-lm4ggRdIzGp7d3--rzuN0erNrzoYDm8a_JMpAw
+
+
+ 
+
+in minutes
+
+Limitations Work with Bifocal
+Lens & Glasses
+
+No Yes, No
+
+Pupil Size 0.5 *
+
+Camera Mounted on
+Desktop Screen
+Resolution in Mega
+Pixel
+
+2.1 *
+
+Regional Language
+provided on Buyer
+Demand
+
+Yes Yes
+
+No. of Test License
+comes with Machine
+
+200 200
+
+Default Available
+Languages for
+Screening Test
+
+English *
+
+Age Limit 60 *
+
+Illeterate Person Can
+be Examine
+
+No *
+
+Catract Eye can be
+examine
+
+No *
+
+Bifocal Lens/Glasses
+limit Range in Diopter
+
+()1.5 *
+
+Life Time Test Free
+with Eye Detect
+System
+
+No Yes, No
+
+PC Configuration Processor Generation 8th *
+
+Screen Size in cm 12.5 *
+
+RAM Capacity in Gb 8 8
+
+PC Warranty in
+Years
+
+3 3
+
+PC Supplied with EYE
+Detect System
+
+Yes Yes
+
+Ports and Slots USB Ports,HDMI
+Port,Ethernet
+Port,Power Adapter,Key
+board,Mouse
+
+*
+
+Operating System Windows 10 *
+
+Hard Disk Capacity
+in Gb
+
+1024 1024
+
+Processor Type i5 *
+
+Installation & training Number of Years upto
+which Support is
+available
+
+5 *
+
+No of people to be
+trained in training
+
+5-10 *
+
+                               4 / 5
+
+
+
+ 
+
+program
+
+No. of days of training
+program
+
+3 *
+
+Training Provided at
+Site
+
+Yes *
+
+Installation and
+Demonstration of
+the offered product
+
+Yes Yes
+
+No of training sessions
+executed
+
+3 *
+
+Certifications ISO Certified No *
+
+System Warranty 3 3, 4, 5 Or higher
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Neelam Kaushik 160036,CFSL,SECTOR-36A,P
+LOT-2,CHANDIGARH
+
+1  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

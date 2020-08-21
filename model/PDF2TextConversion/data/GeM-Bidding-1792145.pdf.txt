@@ -1,0 +1,352 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/715499
+  Dated: 17-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 18:00:00
+
+Bid Opening Date/Time 27-07-2020 18:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Steel
+
+Department Name Nmdc Limited
+
+Organisation Name Nmdc Limited
+
+Office Name Hyderabad
+
+Total Quantity 847
+
+Item Category Lamp Ballast for HPSV Lamps
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,OEM Authorization
+Certificate
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the
+buyer
+
+Past Performance  80 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM {themselves or
+through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central
+/ State Govt Organization / PSU / Public Listed Company for number of years as indicated in the bid document before the
+bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some
+quantity during each of the year. In case of bunch bids, the category of primary product having highest value should
+
+                               1 / 4
+
+
+
+ 
+
+meet this criterion.
+2. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have supplied same or similar
+Category Products for 80% of bid quantity, in at least one of the last three years before the bid opening date to any
+Central / State Govt Organization / PSU / Public Listed Company. Copies of relevant contracts (proving supply of
+cumulative order quantity in any one year) to be submitted along with bid in support of quantity supplied in the relevant
+year. In case of bunch bids, the category related to primary product having highest bid value should meet this criterion.
+
+Lamp Ballast For HPSV Lamps ( 847 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC Ballast for HPSV lamps
+(Excluding Tubular
+Flourescent Lamps)
+conforming to IS:
+15882:2009 and all the
+ballasts specified in the
+standard shall meet the
+requirements of IS:
+15885(Part-1):2011 latest
+and IS:
+15885(Part-2/Section-9):
+2011 latest
+
+Yes *
+
+ISI Marked Yes Yes
+
+ISI marked if yes declare
+CM/L Number If 'No' write
+NA
+
+- *
+
+Ballast Wattage (in
+Watts)
+
+70 W 70 W
+
+Operating Voltage 220 Volt -240 Volt *
+
+Supply frequency (in Hz) 50 Hz +/-5% *
+
+CONSTRUCTIONAL Ballast constructional
+requirements as per
+IS:15885 (Part 1) shall apply
+
+Yes *
+
+Winding material Copper wound *
+
+Supply current: At rated
+voltage, the supply current
+shall not differ by more than
+10 percent from the value
+marked on the ballast when
+the latter is operated with a
+reference lamp
+
+Yes *
+
+Current wave form shall be
+as per Cl 9 of IS:15882:2009
+latst
+
+Yes *
+
+Magnetic screening: The
+ballast shall be effectively
+screened against the
+influence of adjacent ferro-
+magnetic materials as pe Cl
+10 of IS:15882:2009 latest
+
+Yes *
+
+Ballast setting: Power
+delivered at rated voltage
+
+Yes *
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/jj1Qv1jMcTPzNRPUxJlIgGYzN99AW__xwAeCkA-c3H8
+
+
+ 
+
+as per Cl. 15.1 of
+IS:15882:2009 latest (Not
+Less than 95% and not
+more than 105% of the
+reference ballast when
+operated at the objective
+lamp voltage as given in
+IS:9974(Part2)
+
+Short Circuit current
+between 92% and 106% of
+rated voltage as per Cl. 15.2
+of IS:15882:2009 latest
+
+Yes *
+
+Open circuit voltage
+between 92% and 106% of
+its rated voltage as per Cl.
+15.3 of IS:15882:2009 latest
+
+Yes *
+
+Insulation resistance as per
+Cl. 11 of IS:15885 Part 1 :
+2011 latest
+
+>/=2 M Ohm *
+
+Electric strength as per Cl.
+12 of IS:15885 Part 1 : 2011
+latest
+
+Yes *
+
+Rated Maximum operating
+temperature of ballast (Tw)
+(Ref. Cl. B.9.2 of IS:15885
+part 1:2011 latest)
+
+105 deg C *
+
+Ballast shall pass the
+thermal endurance test for
+winding of ballast as per
+Cl.13 of IS:15885 Part 1
+:2011 latest
+
+Yes *
+
+Ballast shall pass High
+voltage test 5 KV for 5
+Seconds
+
+Yes *
+
+Watt Loss 15 Watts maximum for 70
+W Ballast
+
+*
+
+Cold resistance at 20 deg. C
+(Tolerance: t+5%, -10%) -
+must declare
+
+- *
+
+Circuit power factor >/=0.85 *
+
+WARRANTY Guaranteed period of
+replacement
+
+1 Year *
+
+CERTIFICATION Marking: Apart from IS
+requirement each ballast
+shall be marked with serial
+number of ballast, Watt
+Loss, Tw details
+
+Yes *
+
+Availability of Type Test
+Report from Central
+Govt./NABL/ILAC accredited
+lab to prove conformity to IS
+specifications as appliacable
+
+Yes *
+
+Test Report Number - *
+
+Test Report Date - *
+
+Name of Test Lab - *
+
+Address of Test Lab - *
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+
+                               3 / 4
+
+
+
+ 
+
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Siddaramappa K 583118,NMDC LIMITED DIOM,
+DONIMALAI PO BELLARY DIST
+KARNATAKA STATE
+
+847  60
+
+Bid Specific Additional Terms and Conditions
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

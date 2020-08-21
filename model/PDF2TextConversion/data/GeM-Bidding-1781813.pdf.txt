@@ -1,0 +1,405 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/706109
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 17:00:00
+
+Bid Opening Date/Time 20-07-2020 17:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence Reseach & Development
+
+Organisation Name Office Of Dg (ls)
+
+Office Name ***********
+
+Total Quantity 1
+
+Item Category rugged notebook-laptop
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Rugged Notebook-laptop ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+                               1 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/Ev0Rg3OovnvOvUM5gweCh97bzl_sJRfRoDeuFpiVgLI
+
+
+ 
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERAL Type Detachable Detachable
+
+Chassis/Casing Magnesium Alloy *
+
+PROCESSOR Processor Make Intel Intel
+
+Processor
+Generation
+
+7th 7th
+
+Processor Intel Core i7 or higher Intel Core i7 or higher
+
+Processor Description - *
+
+GRAPHICS Graphics Type Integrated Integrated
+
+Graphics NA nVIDIA GeForce GTX
+950M, Radeon RT 360,
+NA
+
+Graphics Memory
+(GB)
+
+0 2, 4, 8, 0 Or higher
+
+OPERATING SYSTEM Operating System Windows 10
+Professional
+
+*
+
+MEMORY Type of RAM DDR3 *
+
+RAM Speed (MHz) 1866 *
+
+RAM Size (GB) 16 16.0 - 32.0 Or higher
+
+RAM Expandable
+upto (GB)
+
+16 Any applicable numeric
+value
+
+STORAGE Type of HDD SSD SSD
+
+Hard Disk Drive Size
+(GB)
+
+512 512
+
+Hard Disk Drive Speed
+(RPM)
+
+NA *
+
+CONNECTIVITY Wi-fi Connectivity 802.11 ac *
+
+Gigabit NIC
+10/100/1000
+
+Available *
+
+Bluetooth 4.0 or higher *
+
+PORTS USB 2.0 (No.) 1 *
+
+USB 3.0 or higher (No.) 3 *
+
+USB Type C Not-Available *
+
+PCMCIA Slot Not-Available *
+
+RJ 45 (Number) 1 *
+
+VGA Port Available *
+
+HDMI Port Available *
+
+Serial Port (Number) 1 *
+
+Audio in/out Available *
+
+ADDITIONAL FEATURE Port Replicator Available *
+
+                               2 / 5
+
+
+
+ 
+
+Interface
+
+RF Passthrough Not Available *
+
+Dedicated GPS Not Available *
+
+Mobile Broadband
+4G/Lte
+
+Not Available *
+
+DISPLAY Display Size (cm) 30.48 25 - 300
+
+Display Resolution
+(Pixel)
+
+1920 x 1200 1920 x 1200
+
+Display Type Touch Touch
+
+Minimum Display
+Brightness (Nits)
+
+1200 *
+
+CERTIFICATION ROHS Compliance Yes *
+
+Ruggedness
+Certification to MIL STD
+810 G or latest for
+Drop, Vibration, Water
+Resistance, Dust
+Resistance, Altitude,
+High/Low temperature,
+Humidity etc
+
+Yes *
+
+Ruggedness Certificate
+number
+
+- *
+
+EMI/EMC Certification
+to MIL STD 461F or
+higher
+
+Yes *
+
+EMC/EMI Certificate
+number
+
+- *
+
+Ingress Protection
+Rating (IP65 or
+higher)
+
+Yes Yes
+
+Energy Efficiency
+Certification
+
+Energy Star *
+
+BIS Registration Yes *
+
+BIS Registration
+number under CRS of
+Meity
+
+- *
+
+OTHER Keyboard Standard *
+
+Optical Drive Not-Available *
+
+Battery Backup Time
+(Hour)
+
+10 *
+
+Weight (With Battery)
+(Kg)
+
+- *
+
+TTC TTC showing
+conformity to the
+specifications from a
+Central Government
+
+Yes *
+
+                               3 / 5
+
+
+
+ 
+
+Lab/an ILAC accredited
+Lab/ NABL approved
+Lab
+
+If Yes, Name of the Lab - *
+
+If Yes, Address of the
+Lab
+
+- *
+
+If Yes, TTC number &
+Date
+
+- *
+
+WARRANTY Battery Warranty
+(Years)
+
+1 *
+
+On Site OEM
+Warranty (Years)
+
+3 3, 5
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********GWALIOR 1  60
+
+Special terms and conditions for category rugged notebook-laptop 
+
+1.Seller has to ensure that operating system software etc comes preloaded with machine from
+respective OEM . Any deviation in respect of genuinity and authenticity of OS will attract
+severe penalty on part of seller as law of the land and contractual provisions. Buyer are also
+requested to verify the key no of OS etc with server of Microsoft/Linux before accepting
+machines to avoid complexity at latter stage.
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2.The buyer organization is an institution eligible for concessional rates of GST as notified by
+
+the Government of India. The goods for which bids have been invited fall under classification
+of GST concession and the conditions for eligibility of concession are met by the institution.
+A certificate to this effect will be issued by Buyer to the Seller after award of the Contract.
+Sellers are requested to submit their bids after accounting for the Concessional rate of GST.
+Applicable Concessional rate of GST : 5%
+Notification No.and date : MP State Govt. Notification No. FA-3-81-2017-1-V(144), 45/2017-
+Central Tax (Rate), 47/2017- Integrated Tax (Rate)  dated 14/11/2017
+
+3.Preference to Make In India products (For bids less than 200 Crore):Preference shall be given
+to Class 1 local supplier as defined in public procurement (Preference to Make in India),
+Order 2017 as amended from time to time and its subsequent Orders/Notifications issued by
+concerned Nodal Ministry for specific Goods/Products. The minimum local content to qualify
+
+                               4 / 5
+
+
+
+ 
+
+as a Class 1 local supplier is denoted in the bid document 50%. If the bidder wants to avail
+the Purchase preference, the bidder must upload a certificate from the OEM regarding the
+percentage of the local content and the details of locations at which the local value addition
+is made along with their bid, failing which no purchase preference shall be granted. In case
+the bid value is more than Rs 10 Crore, the declaration relating to percentage of local
+content shall be certified by the statutory auditor or cost auditor, if the OEM is a company
+and by a practicing cost accountant or a chartered accountant for OEMs other than
+companies as per the Public Procurement (preference to Make-in -India) order 2017 dated
+04.06.2020. Only Class-I and Class-II Local suppliers as per MII order dated 4.6.2020 will be
+eligible to bid. Non - Local suppliers as per MII order dated 04.06.2020 are not eligible to
+participate. In case Buyer has selected Purchase preference to Micro and Small Enterprises
+clause in the bid, the same will get precedence over this clause.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

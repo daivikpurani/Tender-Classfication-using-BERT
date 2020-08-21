@@ -1,0 +1,459 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/691134
+
+  Dated: 29-06-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 09-07-2020 17:00:00
+
+Bid Opening Date/Time 2020-07-09 17:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Army
+
+Office Name ***********
+
+Total Quantity 2
+
+Item Category Switcher
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+
+Splitting
+
+  Bid splitting not applied.  
+
+Switcher ( 2 pieces )
+
+Technical Specifications
+
+                               1 / 5
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+TYPE Type of Switcher Fixed Fixed
+
+Type of Switching Basic Basic
+
+INPUT Number of Inputs 1 More than 1.0 Or
+higher
+
+Type of Inputs HDMI HDMI
+
+Number of Composite
+Video Input
+
+0 *
+
+Number of S Video
+Input
+
+0 *
+
+Number of Component
+Video Input
+
+0 *
+
+Number of VGA Input 0 *
+
+Number of HDMI Input 1 *
+
+Number of DVI-I Input 0 *
+
+Number of DI-D Input 0 *
+
+Number of Display Port
+Input
+
+0 *
+
+Number of HD Base T /
+Receiver Inpuit
+
+0 *
+
+Number of Optical Fiber
+- Single Mode Input
+
+0 *
+
+Number of Optical Fiber
+- Multi Mode Input
+
+0 *
+
+Number of Serial
+Digital Interface Input
+
+0 *
+
+Number of 3G Serial
+Digital Interface Input
+
+0 *
+
+Number of HD Serial
+Digital Interface Input
+
+0 *
+
+Number of Mic Input 0 *
+
+Number of Line Input 0 *
+
+Number of USB Input 0 *
+
+Number of Phantom
+Power Input
+
+0 *
+
+Input Resolution 4K 4K Or higher
+
+OUTPUT Number of Outputs 4 4.0 - 128.0 Or higher
+
+Type of Outputs HDMI HDMI
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/SRGGgfzjU6ut556KtKutkeIdG_fWo_n1E-y3-JDKRP0
+
+
+ 
+
+Number of Composite
+Video Output
+
+0 *
+
+Number of S Video
+Output
+
+0 *
+
+Number of Component
+Video Output
+
+0 *
+
+Number of VGA Output 0 *
+
+Number of HDMI
+Output
+
+4 *
+
+Number of DVI-I Output 0 *
+
+Number of DI-D Output 0 *
+
+Number of Display Port
+Output
+
+0 *
+
+Number of HD BASE T /
+TransmitterOutput
+
+0 *
+
+Number of Optical Fiber
+- Single Mode Output
+
+0 *
+
+Number of Optical Fiber
+- Multi Mode Output
+
+0 *
+
+Number of Serial
+Digital Interface Output
+
+0 *
+
+Number of 3G Serial
+Digital Interface Output
+
+0 *
+
+Number of 4G Serial
+Digital Interface Output
+
+0 *
+
+Number of Line Output 0 *
+
+Number of USB Output 0 *
+
+Output Resolution 4K 4K Or higher
+
+PERFORMANCE Scaling Capability No *
+
+Data Rate (Gbps) 10.2 *
+
+Controllable via 3rd
+party devices
+
+No *
+
+if yes, Control Protocol Ethernet *
+
+Single Slot False
+Faceplate for Switcher
+
+No *
+
+Audio Embedding No *
+
+Audio De-embedding No *
+
+Independent Audio and
+Video Switching
+
+No *
+
+OPTIONS Option for Built-in
+Control Processor
+
+No No
+
+If Yes, number of Serial
+Control Port available
+
+0 *
+
+                               3 / 5
+
+
+
+ 
+
+If yes, Baud Rate (bits
+per second)
+
+0 *
+
+If yes, number of USB
+Control Ports available
+
+0 *
+
+If yes, number of Infra
+Red (IR) Control Ports
+available
+
+0 *
+
+If yes, number of Relay
+Control Ports available
+
+0 *
+
+If yes, Ethernet Control
+Ports available
+
+0 *
+
+If yes, Ethernet
+Protocols
+
+- *
+
+If yes, Built-in Memory 0 *
+
+If yes, Expandable
+Memory
+
+0 *
+
+Option for Built-in
+Amplifier
+
+No No
+
+If Yes, Number of
+Cnannels
+
+0 *
+
+If yes, Wattage per
+Channel
+
+0 *
+
+Impedance Matching
+(Ohm)
+
+2 *
+
+GENERAL Standard Accessories
+to be Supplied
+
+- *
+
+Power Supply Primary *
+
+Dimensions (L x B x W)
+(cm x cm x cm)
+
+- *
+
+Weight 680 *
+
+Minimum Operating
+Temperature
+
+0 *
+
+Maximum Operating
+Temperature
+
+50 *
+
+Minimum Storage
+Temperature
+
+0 *
+
+Maximum Storage
+Temperature
+
+60 *
+
+Operating Humidity
+(RH) (%)
+
+90 *
+
+Certifications Available CE *
+
+WARRANTY On Site OEM
+Warranty
+
+1 1
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+
+                               4 / 5
+
+
+
+ 
+
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********NEW DELHI 2  15
+
+Bid Specific Additional Terms and Conditions
+
+1.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

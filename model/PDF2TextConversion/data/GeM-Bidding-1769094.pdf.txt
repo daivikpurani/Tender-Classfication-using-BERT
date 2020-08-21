@@ -1,0 +1,408 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/694557
+
+  Dated: 02-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 13-07-2020 11:00:00
+
+Bid Opening Date/Time 13-07-2020 11:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence Production
+
+Organisation Name Hindustan Aeronautics Limited (hal)
+
+Office Name ***********
+
+Total Quantity 9
+
+Item Category rugged notebook-laptop
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  Yes
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Rugged Notebook-laptop ( 9 pieces )
+
+Technical Specifications
+
+                               1 / 5
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERAL Type Regular Regular
+
+Chassis/Casing Magnesium Alloy *
+
+PROCESSOR Processor Make Intel Intel
+
+Processor
+Generation
+
+6th 6th
+
+Processor Intel Core i5 or higher Intel Core i5 or higher
+
+Processor Description - *
+
+GRAPHICS Graphics Type Integrated Integrated
+
+Graphics NA NA
+
+Graphics Memory
+(GB)
+
+0 2, 4, 8, 0 Or higher
+
+OPERATING SYSTEM Operating System Windows 10
+Professional
+
+*
+
+MEMORY Type of RAM DDR4 *
+
+RAM Speed (MHz) 2133 *
+
+RAM Size (GB) 4 4.0 - 32.0 Or higher
+
+RAM Expandable
+upto (GB)
+
+32 32.0 - 32.0 Or higher
+
+STORAGE Type of HDD SATA SATA
+
+Hard Disk Drive Size
+(GB)
+
+500 500
+
+Hard Disk Drive Speed
+(RPM)
+
+5400 *
+
+CONNECTIVITY Wi-fi Connectivity 802.11 ac *
+
+Gigabit NIC
+10/100/1000
+
+Available *
+
+Bluetooth 4.0 or higher *
+
+PORTS USB 2.0 (No.) 0 *
+
+USB 3.0 or higher (No.) 3 *
+
+USB Type C Not-Available *
+
+PCMCIA Slot Available *
+
+RJ 45 (Number) 1 *
+
+VGA Port Available *
+
+HDMI Port Available *
+
+Serial Port (Number) 2 *
+
+Audio in/out Available *
+
+ADDITIONAL FEATURE Port Replicator Available *
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/QQQZ-iiqQ22R4_0_7eNPsnMDvW6bCv0gm-5vnLGWoDo
+
+
+ 
+
+Interface
+
+RF Passthrough Not Available *
+
+Dedicated GPS Not Available *
+
+Mobile Broadband
+4G/Lte
+
+Not Available *
+
+DISPLAY Display Size (cm) 33.78 33.78 - 300.0 Or higher
+
+Display Resolution
+(Pixel)
+
+1024 x 768 1024 x 768
+
+Display Type Non Touch Non Touch
+
+Minimum Display
+Brightness (Nits)
+
+700 *
+
+CERTIFICATION ROHS Compliance Yes *
+
+Ruggedness
+Certification to MIL STD
+810 G or latest for
+Drop, Vibration, Water
+Resistance, Dust
+Resistance, Altitude,
+High/Low temperature,
+Humidity etc
+
+Yes *
+
+Ruggedness Certificate
+number
+
+- *
+
+EMI/EMC Certification
+to MIL STD 461F or
+higher
+
+Yes *
+
+EMC/EMI Certificate
+number
+
+- *
+
+Ingress Protection
+Rating (IP65 or
+higher)
+
+Yes Yes
+
+Energy Efficiency
+Certification
+
+Energy Star *
+
+BIS Registration Yes *
+
+BIS Registration
+number under CRS of
+Meity
+
+- *
+
+OTHER Keyboard Backlit *
+
+Optical Drive Not-Available *
+
+Battery Backup Time
+(Hour)
+
+8 *
+
+Weight (With Battery)
+(Kg)
+
+- *
+
+TTC TTC showing
+conformity to the
+specifications from a
+Central Government
+
+Yes *
+
+                               3 / 5
+
+
+
+ 
+
+Lab/an ILAC accredited
+Lab/ NABL approved
+Lab
+
+If Yes, Name of the Lab - *
+
+If Yes, Address of the
+Lab
+
+- *
+
+If Yes, TTC number &
+Date
+
+- *
+
+WARRANTY Battery Warranty
+(Years)
+
+1 *
+
+On Site OEM
+Warranty (Years)
+
+3 3
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********BANGALORE 9  15
+
+Special terms and conditions for category rugged notebook-laptop 
+
+1.Seller has to ensure that operating system software etc comes preloaded with machine from
+respective OEM . Any deviation in respect of genuinity and authenticity of OS will attract
+severe penalty on part of seller as law of the land and contractual provisions. Buyer are also
+requested to verify the key no of OS etc with server of Microsoft/Linux before accepting
+machines to avoid complexity at latter stage.
+
+Bid Specific Additional Terms and Conditions
+
+1.Staggered Delivery: The ordered items shall be supplied in a staggered manner. ( 5
+Quantity shall be supplied within 4 days of contract placement and thereafter 15 Quantity
+per Quarter)
+
+2.Non return of Hard Disk: As per Buyer organization’s Security Policy,Faulty Hard Disk of
+Servers/Desktop Computers/ Laptops etc. will not be returned back to the OEM/supplier
+against warranty replacement.
+
+3.Bidders shall quote only those products in the bid which are not obsolete in the market and
+has at least 5 years residual market life i.e. the offered product shall not be declared end-of-
+life by the OEM before this period.
+
+4.OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be
+ordered up to 25 percent at the time of placement of contract. The purchaser also reserves
+the right to increase the ordered quantity by up to 25% of the contracted quantity during the
+currency of the contract at the contracted rates. Bidders are bound to accept the orders
+
+                               4 / 5
+
+
+
+ 
+
+accordingly.
+5.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+
+Commissioning of Goods
+6.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+7.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+8.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

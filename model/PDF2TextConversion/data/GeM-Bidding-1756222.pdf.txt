@@ -1,0 +1,226 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/682795
+
+  Dated: 22-06-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 02-07-2020 20:00:00
+
+Bid Opening Date/Time 2020-07-02 20:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 80 (Days)
+
+Ministry/State Name Ministry Of Coal
+
+Department Name Materials Management
+
+Organisation Name Northern Coalfields Limited
+
+Office Name Singrauli
+
+Total Quantity 40
+
+Item Category Outdoor RF Antenna
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 3
+
+
+
+ 
+
+Outdoor RF Antenna ( 40 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Specifications Operating Frequency
+Range (MHz)
+
+5825 - 5875 5825 - 5875
+
+Type of Antenna Omni Directional Omni Directional,
+Sectorial, Directional,
+Grid Type, Solid
+Parabolic, Patch Type
+
+RF Connector on
+Antenna
+
+2 *
+
+Polarization Single *
+
+Beamforming Yes Yes, No
+
+Antenna vertical
+azimuth (degree)
+
+5 *
+
+Antenna horizontal
+azimuth (degree)
+
+360 *
+
+Gain (dBi) 5 5 - 36
+
+VSWR (MAX) 1.5 *
+
+Input Power (Watts) 1 *
+
+Impedance (Ohm) 50 *
+
+Maximum Operating
+Temperature
+
+60 *
+
+Minimum Operating
+Humidity (RH) (%)
+
+90 *
+
+Dimensions (L xz B x H)
+( mm x mm x mm)
+
+- *
+
+Weight (grams) 0.02 *
+
+On Site OEM
+Warranty (Year)
+
+5 5
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti Address Quantity Delivery Days
+
+                               2 / 3
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/mPAyD20nEG8SyjToZyW3o-umXErdH2lZiQEBuKDlyTw
+
+
+ 
+
+ng Officer
+
+1 Anurag Krishna
+Agrawal
+
+231220,REGIONAL STORES,
+BINA PROJECT, NCL, PO -
+BINA, DISTT - SONBHADRA
+U.P.
+
+40  20
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               3 / 3
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

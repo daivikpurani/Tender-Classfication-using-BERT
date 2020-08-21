@@ -1,0 +1,4620 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 1 of 80 
+ 
+
+      
+HIGH COURT OF GUJARAT, AHMEDABAD 
+
+ 
+ 
+
+REQUEST FOR PROPOSAL (RFP)  
+ 
+
+FOR 
+ 
+
+SUPPLY, INSTALLATION, TESTING, COMMISSIONING AND MAINTENANCE  
+OF HARDWARE AND LAN COMPONENTS FOR THE GUJARAT 
+
+SUBORDINATE JUDICIARY. 
+ 
+ 
+
+E- TENDER NUMBER: GIPL/HCG/GSJ/HW-LAN/18-19/15 
+ 
+ 
+ 
+ 
+
+From 
+Guj Info Petro Limited 
+
+2ND Floor, Block No: 15, Udyog Bhavan, 
+Sector - 11, Gandhinagar – 382 011. 
+
+E-mail:projects@gipl.net 
+ 
+
+  
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 2 of 80 
+ 
+
+TABLE OF CONTENTS 
+  
+
+SCHEDULE TENDER NOTICE: ............................................................................................... 5 
+
+DEFINITIONS ............................................................................................................................ 7 
+
+PRE-QUALIFICATIONCRITERIA:- ........................................................................................... 9 
+
+SECTION 1:  INVITATION FOR BIDS & INSTRUCTIONS TO BIDDERS .............................. 11 
+
+1. Invitation for bids ..................................................................................................... 11 
+
+2. Guidelines / Preparations of Bids ........................................................................... 12 
+
+3. Overview of Evaluation Process ............................................................................. 14 
+
+4. Documents Constituting the Bid ............................................................................. 16 
+
+5. Bid Price .................................................................................................................... 18 
+
+6. Period of Validity of Bids ......................................................................................... 19 
+
+7. Format and Signing of Bid ....................................................................................... 19 
+
+8. Sealing and Marking of Bids.................................................................................... 20 
+
+9. Modification and Withdrawal of Bids ...................................................................... 20 
+
+10. Deadline for Submission of Bids ............................................................................ 21 
+
+11. Late submission of physical bid ............................................................................. 21 
+
+12. Opening of Bids ........................................................................................................ 21 
+
+13. Preliminary Examination .......................................................................................... 22 
+
+14. Warranty Period ........................................................................................................ 22 
+
+15. Project Schedule ...................................................................................................... 22 
+
+16. Project Management ................................................................................................ 22 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 3 of 80 
+ 
+
+17. Notification of Award ............................................................................................... 22 
+
+18. Security Deposit ....................................................................................................... 23 
+
+19. Annulment of Award ................................................................................................ 24 
+
+20. Payment Terms, Schedule of Payment ................................................................... 24 
+
+21. Taxes & Duties .......................................................................................................... 25 
+
+22. Liquidated damages ................................................................................................. 27 
+
+23. Service Level Agreement ......................................................................................... 27 
+
+24. Additional Work ........................................................................................................ 29 
+
+25. Modification of Scope of Work ................................................................................ 29 
+
+26. Suspension ............................................................................................................... 29 
+
+27. Termination of Contract ........................................................................................... 29 
+
+28. Rights to Data ........................................................................................................... 31 
+
+29. Relationship between the Parties ........................................................................... 31 
+
+30. Standards of Performance ....................................................................................... 31 
+
+31. Delivery and Documents .......................................................................................... 31 
+
+32. Governing Law, Jurisdiction and Arbitration ......................................................... 31 
+
+33. Notice ........................................................................................................................ 32 
+
+34. Miscellaneous ........................................................................................................... 32 
+
+35. Force Majeure ........................................................................................................... 32 
+
+36. Inspection ................................................................................................................. 32 
+
+37. Fraud and Corruption ............................................................................................... 33 
+
+38. Negotiation ................................................................................................................ 34 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 4 of 80 
+ 
+
+39. Award of Contract .................................................................................................... 34 
+
+40. Contact Details ......................................................................................................... 34 
+
+41. Intellectual Property Rights and Rights to Integrated Application System ......... 34 
+
+42. Insurance .................................................................................................................. 35 
+
+43. Third Party Inspection .............................................................................................. 36 
+
+44. Confidential Policy ................................................................................................... 36 
+
+45. Limitation of Liability ............................................................................................... 36 
+
+46. Data Security............................................................................................................. 37 
+
+SECTION 2: SCOPE OF WORK ......................................................................................... 38 
+
+ANNEXURE I: TECHNICAL SPECIFICATIONS ................................................................. 39 
+
+MAKE AND MODEL LIST ................................................................................................... 50 
+
+ANNEXURE II: COMMERCIAL BID (Prices in Indian Rupees – INR) .............................. 51 
+
+ANNEXURE III (S): MANUFACTURER’S AUTHORIZATION FORMAT (FOR SYSTEM 
+
+INTEGRATOR) .................................................................................................................... 54 
+
+ANNEXURE III (O): MANUFACTURER’S AUTHORIZATION FORMAT (FOR OEM) ........ 55 
+
+ANNEXURE IV:  BIDDER INFORMATION SHEET & UNDERTAKING .............................. 56 
+
+ANNEXURE V:  BANK DETAIL OF BIDDER ..................................................................... 57 
+
+ANNEXURE-VI: EARNEST MONEY DEPOSIT (EMD) BANK GUARANTEE FORMAT .... 58 
+
+ANNEXURE-VII: SECURITY DEPOSIT FORMAT .............................................................. 60 
+
+ANNEXURE VIII: INSTRUCTIONS FOR BIDDERS FOR TECHNICAL BID ....................... 64 
+
+ANNEXURE A: LIST OF LOCATIONS: .............................................................................. 71 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 5 of 80 
+ 
+
+SCHEDULE TENDER NOTICE:  
+ 
+
+E- TENDER NUMBER: GIPL/HCG/GSJ/HW-LAN/18-19/15 
+
+Item Description 
+Supply, Installation, Testing, Commissioning and 
+Maintenance of Hardware and LAN components for the 
+Gujarat Subordinate Judiciary. 
+
+Location details Location Details as per ANNEXURE A 
+
+Tender Fee (Non Refundable) 
+
+Rs. 17,700/- (Rupees Seventeen Thousand Seven 
+Hundred only) including GST @ 18% in the form of 
+Demand Draft (DD) issued by the banks specified in the 
+GR. No: EMD/10/2018/18/DMO   dated 16/04/2018 issued 
+by Finance Department - Government of Gujarat in favor 
+of “Guj Info Petro Limited” payable at Gandhinagar. 
+
+GIPL`s GST Number 24AABCG6234E1Z1  
+
+Contract Period 
+4 Months (Execution period) from the date of Work order 
+issued by CLIENT  + 5 Years on-site comprehensive 
+warranty support by OEM. 
+
+Earnest Money Deposit (EMD) 
+
+Rs. 24,00,000/- (Rupees Twenty Four Lacs Only) in the 
+form of Demand Draft (DD) or Bank Guarantee (as per 
+format mentioned in Annexure VI) in the favor of “Guj Info 
+Petro Limited” payable at Gandhinagar. The DD / Bank 
+Guarantee shall be issued by the banks specified in the 
+GR. No: EMD/10/2018/18/DMO   dated 16/04/2018 issued 
+by Finance Department - Government of Gujarat. The 
+Bank Guarantee having validity of 240 days from the bid 
+submission date (180 days for bid validity + 60 days). 
+
+E – Tendering website details: https://gipl.nprocure.com 
+
+Online Tender Floating Date 27/11/2018 
+Online Pre-Bid Meeting at 
+https://gipl.nprocure.com 
+
+04/12/2018  from 11.30 to 12.30 Hrs at 
+https://gipl.nprocure.com 
+
+Last Date & Time of online 
+submission of Bid. 13/12/2018 up to 18:00 Hrs 
+
+Last Date & Time of physical 
+Submission of Tender Fee, EMD 
+& all necessary tender 
+documents by Regd. / Speed 
+Post / Hand Delivery only 
+
+14/12/2018 to 17/12/2018 up to 17:00 Hrs at GIPL, 
+Gandhinagar. 
+
+Date & Time for opening of 
+Technical Bid 17/12/2018 at 17:15 Hrs at GIPL, Gandhinagar. 
+
+Date & Time for opening of 
+Financial Bid 
+
+Will be intimated later to the Technically qualified bidders. 
+
+https://gipl.nprocure.com/
+https://gipl.nprocure.com/
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 6 of 80 
+ 
+
+Bid Validity 180 days from the bid submission date. 
+
+Required number of offers 
+
+Technical offer 
+ Technical bid and other forms – online. 
+ Physical bid along with EMD & Tender Fee. 
+
+(1 Original & 1 Duplicate) 
+Commercial offer  
+ Online Submission only on website 
+
+https://gipl.nprocure.com  
+
+Bid Evaluation Criteria 
+(Selection Method) Least Cost Based Selection (LCBS) - L1 
+
+Joint venture/consortium/sub-
+contracts 
+
+Unincorporated Joint venture / consortium / sub-contracts 
+are not allowed and work order / work completion 
+certificates of such joint venture / consortium / sub-
+contracts will not be considered. 
+
+Note: 
+A. GIPL/CLIENT reserves its right to reject any or all tenders or split the job between more 
+
+than one bidder without assigning any reason thereof. 
+ 
+
+B. GIPL will evaluate and compare the bids determined to be substantially responsive. It is 
+GIPL’s intent to select the Tender that is most advantageous to CLIENT and each 
+Tender will be evaluated using the criteria outlined in this RFP document. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+https://gipl.nprocure.com/
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 7 of 80 
+ 
+
+DEFINITIONS 
+ 
+Request for Proposal (RFP) – Formal procurement document in which a service or need is 
+identified, but no specific method to achieve it has been chosen.  
+ 
+Addendum – An addendum is issued when supplemental information has been added to the 
+RFP since its original posting. 
+
+Corrigendum / Amendment – An amendment / corrigendum is issued when information in the 
+RFP has been changed since its original posting.  
+ 
+CLIENT/Purchaser/Owner means High Court of Gujarat, Ahmedabad shall include their legal 
+representatives, successors and assigns. 
+ 
+GIPL - Guj Info Petro Limited, a consultant appointed for the project by CLIENT. 
+ 
+GoG - Government of Gujarat. 
+
+Tender / RFP / Project – E-Tender (No: GIPL/HCG/GSJ/HW-LAN/18-19/15) issued for 
+“Supply, Installation, Testing, Commissioning and Maintenance of hardware and LAN 
+components for the Gujarat Subordinate Judiciary”. 
+ 
+Bid – A formal offer submitted in response to this RFP. 
+
+Bidder – A company submitting a proposal in order to attain a contract with CLIENT. 
+ 
+Successful bidder – A company whose proposal has been accepted by CLIENT and is 
+awarded a fully executed, written contract. 
+ 
+Letter of Intent – The letter issued by CLIENT to the successful bidder intimating the 
+acceptance of bidder’s bid and intimating desire of the CLIENT to award work order to that 
+bidder. 
+
+Proposal – A formal offer submitted in response to this solicitation. 
+
+Service-level Agreement (SLA) – A service contract where the level of service is formally 
+defined between CLIENT & the successful bidder. 
+ 
+SOR – Schedule of Rates 
+
+Change in Tax Law - shall mean any of the following events, which become effective after the 
+date for submission of the price bid for the Contract. 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 8 of 80 
+ 
+
+ Enactment of any new tax law in India;  
+ Modification or repeal of any taxes in India. 
+ any change in the interpretation or enforcement of any tax laws by Government of India 
+
+or State Government or local authority via issuance of circulars/ clarifications by 
+Governmental Authority 
+
+ increase or decrease in the rate of taxes in force on the date of the bid submission; 
+ Change in the basis of computation of taxes in force on the date of the bid submission. 
+
+ 
+Work Order means an authorization letter issued by the CLIENT for engaging the successful 
+bidder for implementation of the Project within defined stipulated timeline. 
+ 
+Agreement or Contract means the document signed between CLIENT and the Successful 
+bidder and it is binding for both the parties to all terms and conditions contained herein and as 
+modified / amended from time to time in writing by the parties hereto. 
+
+ 
+OEM means Original Equipment Manufacturer Company, that is incorporated in India or 
+abroad, who has management control over the manufacturing / production process, Quality 
+Assurance, Procurement of Raw materials/manufacturing process inputs marketing and 
+warranty services of the resultant products, of at least one manufacturing facility / factory 
+where the manufacturing of equipment, related accessories, as required for the project etc. is 
+carried out. 
+
+ 
+Contract Price means total price payable (inclusive taxes and duties) under the contract 
+including any addition/deductions made thereafter. 
+
+ 
+Rates / Prices means prices of supply of equipment and services quoted by the bidder in the 
+Financial Bid submitted and/or mentioned in the Contract 
+
+ 
+Authorized Signatory - The bidder’s representative / officer vested (explicitly, implicitly, or 
+through conduct) with the powers to commit the authorizing organization to a binding 
+agreement. Also called signing officer/ authority having the Power of Attorney (PoA) from the 
+competent authority of the respective Bidding firm.   
+
+ 
+SD - Security Deposit. 
+
+  
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 9 of 80 
+ 
+
+PRE-QUALIFICATIONCRITERIA:- 
+Sr.
+No: Eligibility Criteria 
+
+Supporting documents 
+(notary certified true copy or self-attested) 
+
+1 
+
+The Bidder shall be either Original 
+Equipment Manufacturer or shall be 
+Authorized System Integrator / Partner 
+having direct purchase and support 
+agreement with the OEM of Computers 
+and Network components quoted for this 
+tender. 
+
+If the bidder is OEM then in such case, MAF 
+and declaration shall be provided with 
+technical bid as per format provided in 
+Annexure III (O).  
+
+OR 
+If the bidder is Authorized Sales & service 
+provider then in such case, MAF and 
+declaration of OEM shall be provided with 
+technical bid as per format provided in 
+Annexure III (S). 
+
+2 
+Bidder shall be registered in India under as 
+per companies Act 1956 / Act 2013 as on 
+tender floating date. 
+
+Copy of valid registration proof as on date.  
+
+3 
+
+Bidder’s Annual Turnover (After deducting 
+Service tax, VAT etc.) each of the last 3 
+years ending on 31st  March, 2018 shall be 
+at least of Rs. 10.0 Crores on standalone 
+basis.  
+
+Audited financial statements for the past 
+three financial years. (I.e. FY 2015-16, FY 
+2016-17 and FY 2017-18) along with 
+statement as mentioned in Section 8.3 of 
+Annexure VIII.  
+
+4 
+
+The bidder must have positive net worth 
+on standalone basis in each of the last 
+three financial years as on 31st March, 
+2018. 
+
+Audited financial statements for the past 
+three financial years. (I.e. FY 2015-16, FY 
+2016-17 and FY 2017-18) along with 
+statement as mentioned in Section 8.3 of 
+Annexure VIII.  
+
+5 
+
+Bidder should has executed One (1) Work 
+Order of Supply, Installation, Testing, 
+Commissioning and Maintenance of 
+Computers OR Computer peripherals 
+having minimum order value of Rs. 6.0 
+Crores                          OR 
+Two (2) Work Orders of Supply, 
+Installation, Testing, Commissioning and 
+Maintenance of Computers OR Computer 
+peripherals having minimum order value of 
+Rs. 3.0 Crores in each PO in last 05 years 
+ending on the tender floating date 
+
+Copy/copies of work order/orders & work 
+completion certificate/certificates of the 
+Project/Projects duly certified by client/clients 
+shall be enclosed by bidder. 
+
+6 
+The Bidder should be registered under 
+GST. 
+
+Copy of valid registration as on date should 
+be submitted with the bid. 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 10 of 80 
+ 
+
+7 
+Bidder should have service office in 
+Gujarat operational for more than 03 years 
+as on tender floating date. 
+
+Copies of any two of the following: Property 
+Tax Bill / Electricity Bills / Telephone Bill / 
+Valid Lease Agreement should be submitted 
+with the bid confirming the time period of 
+more than 3 years as on tender floating date. 
+
+8 
+
+Bidder should not have been blacklisted / 
+banned / declared ineligible / declared 
+having dissatisfactory performance by any 
+government / quasi-government authority 
+in India for supply of materials/ carrying out 
+operations and maintenance work. 
+
+An undertaking by an authorized signatory of 
+the company needs to be submitted in this 
+regard as per format mentioned in the 
+Annexure VII – sub section 8.5. 
+
+9 
+
+The authorized signatories of the bidder 
+should execute a Power of Attorney to 
+nominate one person as an authorized 
+signatory regarding all communications 
+and execution of this project. The 
+authorized signatory should sign all 
+communications including the bid. 
+
+Original Power of Attorney should be 
+submitted in order to support their 
+authorization to sign the document. The 
+power of attorney should be submitted on a 
+stamp paper of Rs. 100/- (Rupees Hundred 
+Only).  
+
+ 
+
+INSTRUCTIONS TO BIDDER: 
+ 
+
+A. All above mentioned documents for pre-qualification criteria of bid must be notary 
+certified true copy or self-attested. 
+
+B. The above mentioned eligibility criteria should be necessarily met, and adequate 
+documentary proof be submitted for verification. If bidder failed to meet any / partial / all 
+of the above mentioned eligibility criteria, then his bid shall be disqualified for further 
+processing. 
+
+C. For Pre-qualification criteria Sr. No: 5, bidder’s any work experience as lead OR 
+consortium member / joint venture / sub contractor will not be considered as supporting 
+documents.  
+
+D. Physical bid must be submitted by registered AD or speed post or Hand Delivery only. 
+Any other mode is not allowed. 
+
+E. Bid must be spiral bound without which the bid will be straight way rejected. In case bid 
+/ document size is large then bidder can divide it into the parts. Each part of bid should 
+have proper indexing and page number mentioned and all pages of RFP must be 
+signed and sealed. 
+
+F. Tender will be awarded to bidder having lowest financial offer. (Least Cost Based 
+Selection (LCBS or L1).  
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 11 of 80 
+ 
+
+SECTION 1:  INVITATION FOR BIDS & INSTRUCTIONS TO BIDDERS 
+ 
+1. Invitation for bids  
+This invitation for bids is for “Supply, Installation, Testing, Commissioning and Maintenance of 
+hardware and LAN components for the Gujarat Subordinate Judiciary”. At the time of 
+submission of the bid document, the bidder has to submit the bid amount as a non-refundable 
+fee of Rs.17,700/- (Rupees Seventeen Thousand Seven Hundred only) including GST @ 
+18%  in the form of Demand drafts & refundable EMD of Rs. 24,00,000/- (Rupees Twenty 
+Four Lacs Only) in the form of Demand Draft (DD) or Bank Guarantee (as per format 
+mentioned in Annexure VI) in the favor of “Guj Info Petro Limited” payable at Gandhinagar. 
+The DD / Bank Guarantee shall be issued by the banks specified in the GR. No: 
+EMD/10/2018/18/DMO   dated 16/04/2018 issued by Finance Department - Government of 
+Gujarat. The Bank Guarantee having validity of 240 days from the bid submission date (180 
+days of bid validity + 60 days). Failure to furnish the EMD as above mentioned would result in 
+the concerned bid rejection. 
+ 
+1.1 Reserve Rights of GIPL/CLIENT 
+GIPL/CLIENT may for any reasons; add / modify / amend / relax / cancel any terms / 
+conditions / criteria of the tender document during any stage of the tendering process and such 
+amendments shall be binding on all the bidders. GIPL/CLIENT at its own discretion reserves 
+the right to reject any Proposal, modify or scrap the whole tender at any time, without 
+assigning any reason or incurring any liability. To assist in the evaluation, comparison and an 
+examination of bids, GIPL/CLIENT, may, at its sole discretion, ask the bidder for a clarification 
+of its bid including breakdown of unit rates etc. The request for clarification and the response 
+shall be in writing. If the response to the clarification is not received within the prescribed 
+timeframe, GIPL/CLIENT reserves the right to make own reasonable assumptions and take 
+appropriate decision. GIPL/CLIENT reserves the right to modify/ change the dates of Bid 
+opening / submission / technical presentation at its own discretion and these changes shall be 
+binding on the bidders. 
+ 
+
+1.2 Due Diligence 
+The Bidder is expected to examine all instructions, forms, terms and specifications in the 
+bidding document. The bid must be precise, complete and in the prescribed format as per the 
+requirement of the bid document. Failure to furnish all information required by the bidding 
+document or submission of a bid not responsive to the bidding documents in every respect will 
+be at the Bidder’s risk and may result in rejection of the bid. GIPL/CLIENT shall at its sole 
+discretion be entitled to determine the adequacy / sufficiency of the information provided by the 
+Bidder. 
+ 
+1.3 Cost of Bidding 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 12 of 80 
+ 
+
+The Bidder shall bear all costs associated with the preparation and submission of its bid. 
+GIPL/CLIENT will in no case be held responsible or liable for these costs, regardless of the 
+conduct or outcome of the bidding process. 
+ 
+1.4 Online Pre-Bid meeting 
+
+ 
+
+The online pre-bid meeting should start sharp as scheduled on website 
+https://gipl.nprocure.com in the pre-bid chat of the concerned tender. All bidders are requested 
+to post their queries related to tender online only on the pre-bid chat section of the mentioned 
+website. The queries received during the online pre-bid chat session will be addressed 
+only & no other queries (received before / after online pre-bid chat session) will be 
+entertained. 
+ 
+2. Guidelines / Preparations of Bids 
+ 
+2.1   Language of bid 
+The bid prepared by the Bidder, as well as all correspondence and documents relating to the 
+bid exchanged by the Bidder and GIPL/CLIENT shall be written in English language only. 
+ 
+2.2   Qualification of the Bidder  
+Pre – qualification criteria — bidder has to upload all documents only on E-Tendering website 
+https://gipl.nprocure.com and submit all supporting documents in a separate envelop along 
+with Tender fee and EMD clearly describing “E-Tender No: GIPL/HCG/GSJ/HW-LAN/18-
+19/15 - Technical Bid” at the Office of Guj Info Petro Limited, 2ND Floor, Block No: 15, Udyog 
+Bhavan, Sector - 11,Gandhinagar – 382 011. The bidder shall submit an undertaking stating 
+that the compliance with all the conditions and Technical Specifications of the RFP since no 
+deviation will be acceptable to GIPL/CLIENT. 
+ 
+ In case the Bidder fails to submit the entire relevant documentary evidences, his bid is 
+
+liable for rejection by GIPL/CLIENT without assigning any reason thereof. 
+ 
+
+ The Bidder shall also include the undertaking from respective OEMs on availability of 
+spare parts for a period of 5 years from the date of bid submission at the reasonable 
+rate. The spare parts and other necessary installations for keeping the whole system 
+operational shall be provided and installed by the bidder at Bidder’s cost for 5 years i.e. 
+No payment shall be made for the spares and other necessary installation to be 
+provided and installed for maintaining the whole System during 5 years of period after 
+project commissioning. 
+
+ 
+ The bidder should submit valid letter from the OEMs confirming the following: 
+
+https://gipl.nprocure.com/
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 13 of 80 
+ 
+
+o Authorization for bidder 
+o Confirm that the products quoted are not “End of life Products.” 
+o Undertake that the support including spares, patches for the quoted Products 
+
+and/or Upgraded version shall be available for next 5 years. 
+ 
+
+2.3 Estimated quantities of major items of works are tabulated below. 
+ 
+
+Sr. 
+No Description 
+
+Unit of 
+Measureme
+
+nt 
+Qty. 
+
+01 i5 regular desktop or Equivalent Nos. 573 
+02 i3 regular desktop or Equivalent Nos. 1719 
+03 8 Port Non-manageable Switch Nos. 90** 
+04 16 Port Non-manageable Switch Nos. 80** 
+05 24 Port Non-manageable Switch Nos. 60** 
+06 6 U Rack Nos. 1** 
+07 Cat-6 UTP Cable - 305 Meters in a Box (1,59,390 mtr) Box 522** 
+08 Cat-6 UTP 4Pr. Patch Cord – 1 Meter Nos. 1** 
+09 Cat-6 UTP 4 pair Patch Cord - 2 Meter Nos. 2898** 
+
+10 Cat 6 UTP Surface Single Shutter outlet with I/O module and back box 
+Nos. 2898** 
+
+11 Cat 6 UTP Shuttered Patch Panel 8 Port-Loaded with cable Manager Nos 1** 
+
+12 Cat 6 UTP Shuttered Patch Panel 16 Port-Loaded with cable Manager Nos 1** 
+
+13 Cat 6 UTP Shuttered Patch Panel 24 Port-Loaded with cable Manager Nos 1** 
+
+14 1.5 Size PVC Pipe with Accessories  Meter 159390** 
+15 Rack Installation with Patch cord Routing Nos 1** 
+16 Termination of 8 Port Jack Panel Nos 1** 
+17 Termination of 16 Port Jack Panel Nos 1** 
+18 Termination of 24 Port Jack Panel Nos 1** 
+19 Laying of CAT-6 UTP Cable Meter 159390** 
+20 Laying of PVC with Accessories Meter 159390** 
+21 Termination of Information Outlet Nos. 2898** 
+22 RJ45 Crimping with RJ45 connector at Switch side   Nos. 3210** 
+
+ 
+ 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 14 of 80 
+ 
+
+** Qty. mentioned is indicative & will be calculated as per actual usage of the 
+materials at the time of Billing. Payment will be released on pro-rata basis on 
+actual usage of materials. 
+ 
+
+Note: 
+ Above Bill of material is tentative & it may vary depending upon the actual requirement 
+
+& billing will be done on actual supply for actual supply.  
+ Bidder has to compulsory quote for single OEM make & model of each & every item. 
+
+The bid with multiples OEM & Models will be treated as non compliance & that bid will 
+be liable for rejection for further evaluation. 
+
+ All the hardware should cover 5 Years on-site warranty support for all Component (HW 
+& OS), Supplied including re-loading, re-Configuring of all S/W and Drivers, if required. 
+
+ All parts of Desktop (Monitor, Keyboard, Mouse etc.) should be of same OEM and with 
+5 years on-site warranty support by OEM. 
+
+ All Active Components of networking should be from same OEM, also with 5 years on-
+site warranty support by OEM. 
+
+ All Passive Components of networking should be from same OEM. 
+ 
+
+3. Overview of Evaluation Process 
+All evaluation will be carried out by GIPL on behalf of CLIENT as detailed below. The decision 
+of GIPL/CLIENT at every stage will be final in this regard. 
+ 
+
+i) Preliminary Scrutiny 
+The technical bids will be opened on the mentioned date in this Bid Document (or amended by 
+GIPL/CLIENT by issuing corrigendum) at GIPL's HO. The bid will be considered non - 
+responsive in case of any of the following reasons and will not be eligible for next stage bid 
+opening: 
+
+(1) Non submission of tender fees in physical bid 
+(2) Non submission of EMD in the physical bid 
+(3) Physical submission of tender fees / EMD with insufficient amount  
+
+ 
+The qualified bidders will become eligible for pre-qualification criteria evaluation. 
+ 
+ii) Pre-qualification Criteria Scrutiny 
+The tenders who do not conform to meet any / partial / all the pre-qualification criteria 
+mentioned in tender shall be straight away rejected. All eligible tenders will be considered for 
+further evaluation.  
+ 
+
+iii) Evaluation of Technical bids 
+The Technical Bid will be examined on the basis of responsiveness to the technical 
+specifications and the Scope of work and other details as mentioned herein the document. The 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 15 of 80 
+ 
+
+tenders do not meet any of the technical compliances & other conditions mentioned in the 
+tender shall be straight away rejected.  
+ 
+GIPL/CLIENT may ask bidder for demonstration of offered products and bidder has to bring 
+one set of the each quoted product as per technical specification in tender at the CLIENT 
+premises, Ahmedabad. The scheduling of demonstration will be intimated to qualified bidders 
+well in advance by GIPL. The bidder has to minimal (i) show the technical compliance of each 
+& every proposed product’s technical specifications mentioned in the tender document (iii) the 
+demonstration of proposed product etc. to the committee members formed by CLIENT. During 
+product demonstration, if the bidder failed to (i) comply any of the technical specifications 
+mentioned in tender document for the proposed products OR (ii) demonstrate the successful 
+demonstration of proposed products, his bid shall be considered as non responsive & straight 
+away rejected for further evaluation. All technically qualified bidders will be considered for 
+commercial bid evaluation. 
+ 
+
+iv) Evaluation of Commercial bids 
+The Commercial bids will be opened for the technically qualified bidders only. The technically 
+qualified bidder who have lowest financial offer (Least Cost Based Selection (LCBS or L1) 
+may be awarded the contract. 
+ 
+
+v) Final Negotiations & Award of Contract 
+After completion of the evaluation process, CLIENT/GIPL may enter into negotiations with L1 
+Bidder. CLIENT reserves the right to award the contract, based on initial offers received or 
+otherwise, without discussion and without conducting any further negotiations. Further, the 
+successful bidder shall not reassign any award made as the result of this bid, without prior 
+written consent from CLIENT. 
+ 
+vi) Other evaluation & negotiations conditions:-  
+
+1. To facilitate evaluation of bids, GIPL/CLIENT, at its sole discretion, may seek 
+clarification in writing from any bidder regarding the bid. 
+
+ 
+2. The technical bid shall be first checked for responsiveness with the requirements of the 
+
+tender including the fulfillment of the eligibility criteria.  
+ 
+
+3. During the negotiation, the bidder must be prepared to furnish the detailed cost break 
+up and other clarifications to the proposals submitted as may be required to adjust the 
+reasonableness of proposals. 
+
+ 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 16 of 80 
+ 
+
+4. The changes agreed upon during the negotiation will then be reflected in the financial 
+proposals using proposed unit rates. The successful bidder will not have the right to 
+increase the quoted rate / taxation of any items to adjust the negotiated amount. The 
+bidder should have to distribute the discounted amount equally among the all items.  
+
+ 
+5. In the event of acceptance of the preferred bidder with or without negotiations, CLIENT 
+
+shall declare the preferred bidder as the successful bidder and CLIENT will notify the 
+successful bidder through LOI (Letter of Intent) by registered post / email / fax that its 
+bid has been accepted. The Bidder shall acknowledge in writing, the receipt of the 
+Letter of Intent and shall send his acceptance to enter into the Contract within seven 
+(07) clear working days from the receipt of the Letter of Intent.  
+
+ 
+6. In case the successful bidder do not confirm the acceptance of the assignment  within 
+
+the stipulated time, the LOI issued stands cancelled and CLIENT has the right to 
+engage the L2 bidder for the assignment and so on and so forth. 
+
+ 
+7. Notwithstanding anything contained in this tender, CLIENT reserves the right to accept 
+
+or reject any proposal or to annul the bidding process or reject all proposals at any time 
+without any liability or any obligation for such rejection or annulment without assigning 
+any reasons thereof. 
+
+ 
+4. Documents Constituting the Bid 
+The bid prepared by the Bidder shall comprise of the following components. The bids not 
+conforming to the requirements shall be summarily rejected.  
+
+ 
+i) Technical Bid 
+
+Technical Bid shall comprising of the covering Letter, tender fees, EMD, Technical Proposal 
+and other required documents such as brochures, product details etc. Refer Annexure VIII for 
+the Technical Bid contents and formats. Please note that no price schedule shall be indicated / 
+submitted in/ as a part of the Technical Bid. Bid along with price bid will be liable for rejection 
+of entire bid without assigning any reason. The price bid shall only be quoted online at 
+https://gipl.nprocure.com. The technical bid shall be submitted online at 
+https://gipl.nprocure.com along with the physical bid submission and in case of any 
+discrepancy, the bid submitted online will be considered final. The hard copy of the bid is for 
+reference purposes only. 
+
+Bidders are requested to note the following: 
+ 
+ Bidder shall include the COMPLIANCE STATEMENT as a separate section in the 
+
+Technical Bid with Compliance certificate for technical specification of items. 
+
+https://gipl.nprocure.com/
+https://gipl.nprocure.com/
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 17 of 80 
+ 
+
+ 
+ Bidder must submit single make with model for each & every product in the technical bid 
+
+(online as well as hardcopy). The bid with multiple OEM for any product will allow 
+GIPL/CLIENT for rejection of entire bid without assigning any reason. 
+
+ Bidder shall include any additional hardware or software required to make their solution 
+fully functional as per requirement. 
+
+ Bidder must submit the technical specifications compliance of each and every product in 
+the Technical Bid. 
+
+ Bidder  must  include  UNPRICED  financial  bid  giving  details  of  Bill  of  Materials  
+and percentage tax applicable on each item. 
+ 
+
+ii) Financial Bid 
+The bidder shall strictly adhere to the format of the Financial Bid as specified in Annexure II of 
+the bid document. The Financial bid shall be submitted online only at https://gipl.nprocure.com. 
+The financial bid submitted in any other form and format shall not be considered valid and is 
+liable for rejection. 
+ 
+iii) Tender Fees 
+The bidders must submit, along with their Bids, a non-refundable fee of Rs. 17,700/- 
+(Rupees Seventeen Thousand Seven Hundred only) including GST @ 18%, in the form of 
+Demand Draft (DD) issued by a Nationalized Banks including IDBI Bank / Private Banks – Axis 
+Bank, HDFC Bank & ICICI Bank only in favor of “Guj Info Petro Ltd” payable at Gandhinagar. 
+ 
+iv) Earnest Money Deposit (EMD) 
+The bidders must submit, along with their Bids, refundable EMD of Rs. 24,00,000/- (Rupees 
+Twenty Four Lacs only in the form of Demand Draft (DD) or Bank Guarantee (as per format 
+mentioned in Annexure VI) in the favor of “Guj Info Petro Limited” payable at Gandhinagar. 
+The DD / Bank Guarantee shall be issued by the banks specified in the GR. No: 
+EMD/10/2018/18/DMO   dated 16/04/2018 issued by Finance Department - Government of 
+Gujarat. The Bank Guarantee having validity of 240 days from the bid submission date (180 
+days of bid validity + 60 days). The EMD shall be furnished in Indian Rupees (INR). 
+ 
+ Refund of EMD to Disqualified bidder 
+Disqualified Bidder’s EMD shall be refunded without any interest within 45 days after the 
+successful bidder finalization.  
+ 
+ Refund of EMD to Unsuccessful Bidder 
+Unsuccessful Bidder’s EMD shall be refunded without any interest within 45 days after the 
+submission of Security Deposit by the successful Bidder.  
+
+https://gipl.nprocure.com/
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 18 of 80 
+ 
+
+ Refund of EMD to Successful Bidder 
+The successful Bidder’s EMD without any interest will be refunded within 45 days after 
+the submission of Security Deposit. 
+ 
+
+ Forfeiture of EMD 
+The EMD can be forfeited if a Bidder 
+
+• Withdraws his bid during the period of bid validity specified by the Bidder on the Bid 
+Form OR Does not accept the correction of errors OR 
+ 
+
+ In case the successful Bidder fails 
+o To sign the Contract within the specified time OR 
+o To furnish Security Deposit within the specified time OR 
+o To accept LOI within specified time limit 
+
+ 
+
+Earnest Money Deposit will be retained in the case of successful bidder and will not carry any 
+interest. It will be dealt with as provided in the tender. EMD of successful bidder shall be 
+refunded on submission of security deposit as per format and amount mentioned in this tender 
+document.  If required, GIPL/CLIENT may ask the successful bidder to extend the BG 
+submitted as and when required till the LOI/work order issued by CLIENT. Failure of extending 
+the bank guarantee shall make sufficient ground for considering bid as invalid. In such 
+scenario, GIPL/CLIENT may proceed ahead with next successful bidder for finalization.  
+ 
+v) Undertaking 
+An undertaking from the Bidder stating the compliance with all the conditions and Technical 
+Specifications of the Bidding Document will be required since no deviation will be acceptable to 
+GIPL/CLIENT. 
+
+ 
+5. Bid Price 
+
+i. Prices in the Price Schedule 
+The Bidder shall quote price in clear terms. Price Break up shall be provided in the Format for 
+Financial Bid described in Annexure II. The rates quoted shall be inclusive of GST applicable 
+as on bid submission date. In the event of any increase or decrease of GST rate & subsequent 
+to award of work, which results in change in Contract Value, the successful bidder shall be 
+covered for any such variation, i.e. neither bear additional GST rate nor will be beneficiary of 
+reduction in GST Rate, subject to the production of documentary proof to the satisfaction of 
+CLIENT to the extent which is attributable to such change as mentioned above. 
+ 
+
+ii. Fixed Price 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 19 of 80 
+ 
+
+Prices quoted by the Bidder shall be fixed and no variation will be allowed under any 
+circumstances for the duration of the contract. No open-ended bid shall be entertained and the 
+same is liable to be rejected straightway. 
+ 
+
+iii. Separation of Price Components 
+The price components furnished by the Bidder shall be solely for the purpose of facilitating the 
+comparison of bids by GIPL and shall not in any way limit GIPL/CLIENT’s right to contract on 
+any of the items offered. 
+ 
+6. Period of Validity of Bids 
+ 
+
+Bids shall remain valid for 180 days after the date of bid submission declared by the GIPL. 
+GIPL/ CLIENT reserves the rights to reject a bid valid for a period shorter than 180 days as 
+non-responsive, without any correspondence. Bid validity may be extended by mutual 
+agreement between CLIENT and bidders. In case the bid submission date is extended, the 
+EMD shall be extended accordingly by bidder suitably as per the terms of the tender. Failure of 
+extending the EMD validity shall make sufficient ground for considering bid as invalid. 
+ 
+
+7. Format and Signing of Bid 
+ 
+
+i) Number of Copies of Bid 
+The Bidder shall submit Technical Bid online only at https://gipl.nprocure.com and shall 
+also submit two copies (one original and one duplicate) of technical bid in physical form in 
+sealed cover separately. No financial bid submission in physical form. In the event of any 
+discrepancy between them, the original bid submitted online shall govern. The bid shall be 
+submitted at the below address: 
+Guj Info Petro Limited (GIPL) 
+2NDFloor, Block No: 15, Udhyog Bhavan, Sector – 11,  
+Gandhinagar – 382011. 
+ 
+ii) Authentication of Bid 
+The original and all copies of the Bid Document (& subsequent corrigendum published if 
+any) shall be type written in indelible ink and shall be signed by a person or persons duly 
+authorized to bind the Bidder to the Contract. A duly stamped original Power-of-Attorney 
+accompanying the Bid Document shall support the letter of authorization. The person or 
+persons signing the Bid Document shall initial all pages of the Bid Document, including 
+pages where entries or amendments have been made. All the pages of the proposal should 
+be serially numbered. Submission failure of (i) signed bid document & subsequent 
+corrigendum published if any (ii) A duly stamped original Power-of-Attorney in the technical 
+bid will make sufficient ground for considering bid as on responsive. 
+ 
+
+https://gipl.nprocure.com/
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 20 of 80 
+ 
+
+iii) Validation of interlineations in Bid 
+Any interlineations, erasures, alterations, additions or overwriting shall be valid only if the 
+person or persons signing the bid have authenticated the same with signature. 
+ 
+
+8. Sealing and Marking of Bids 
+ 
+
+i) Enclosing of Bid 
+The hard copy of the Technical Bid along with brochures / specifications / other documents 
+shall be placed in a sealed envelope clearly marking “Technical Bid”. The Bidder shall submit 
+the Technical Bid, Tender fees and EMD, sealed individual in separate covers, shall be placed 
+in one big cover clearly marked as “Supply, Installation, Testing, Commissioning and 
+Maintenance of hardware and LAN components for the Gujarat Subordinate Judiciary.” 
+All the pages of the technical bid shall be signed and stamped by the authorized signatory of 
+the bidder except published materials such as brochures, product catalogues etc. 
+ 
+
+ii) Responsibility of Bidder 
+If the outer envelope is not sealed and marked as required, GIPL/CLIENT will assume no 
+responsibility for the Bid’s misplacement or premature opening. 
+
+ 
+iii) Rejection of Bid 
+
+Any condition put forth by the bidder non-conforming the bid requirements shall not be 
+entertained at all and such bid shall be rejected. The Technical Bid and the Commercial 
+Document shall be submitted in the prescribed format and uploaded online only through 
+https://gipl.nprocure.com along with physical submission of technical & Pre-qualifications 
+documents.  Bids submitted by Telex, fax or email will not be entertained. Any bid not 
+authenticated or not secured, will be rejected straightaway by GIPL/CLIENT without any further 
+correspondence, as non-responsive. A bid that does not meet any / partial / all pre-qualification 
+criteria OR non – fulfilling of technical evaluation will be rejected by GIPL/ CLIENT and may 
+not subsequently be made responsive by correction or withdrawal of the non-conforming 
+deviation or reservation by the Bidder.  
+ 
+9. Modification and Withdrawal of Bids 
+
+ 
+i) Written Notice 
+
+The Bidder may modify or withdraw its bid after the bid‘s submission provided that 
+GIPL/CLIENT receives written notice of the modification or withdrawal before the expiration 
+of bid submission deadline. 
+
+ 
+ii) Signing and Marking of Notice 
+
+https://gipl.nprocure.com/
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 21 of 80 
+ 
+
+The Bidder‘s modification or withdrawal notice shall be prepared, sealed, marked and 
+dispatched in accordance with the provisions of tender. A duly signed withdrawal notice 
+may also be sent by fax or post so as to reach the designated office before the expiration of 
+bid submission deadline. 
+ 
+
+iii) Last Date for Notice 
+No bid shall be modified subsequent to the deadline for submission of bids. No bid shall be 
+withdrawn in the interval started from the date of bid submission and the expiration of 
+period of bid validity specified by the Bidder. Withdrawal of a bid during this interval shall 
+result in forfeiture of the bid security paid by the bidder. 
+
+ 
+10. Deadline for Submission of Bids 
+i) Last date for Submission 
+
+In the event of the specified date for the submission of physical Bid being declared a 
+holiday for the GIPL/CLIENT, the physical Bid will be received up to the appointed time on 
+the next working day. 
+
+ 
+ii) Extension for Last date for Submission 
+
+GIPL/CLIENT may, at own discretion; extend this deadline for submission of bids by 
+amending the bid document, in which case all rights and obligations of the GIPL/CLIENT 
+and Bidders who have submitted the bids  shall remain same. 
+
+ 
+11. Late submission of physical bid  
+
+Any bid received after the deadline for submission of physical bid stipulated by the 
+GIPL/CLIENT, shall be summarily rejected and returned unopened to the Bidder. 
+GIPL/CLIENT shall not be held responsible for any postal delay or non-receipt / non-
+delivery of the documents. No correspondence for this shall be entertained. 
+ 
+
+12. Opening of Bids 
+ 
+i) Opening of Technical and Commercial Bids 
+
+GIPL will open all Technical Bids at GIPL’s office in the presence of GIPL, CLIENT officials 
+along with bidders’ representatives as per date mentioned in the tender document or 
+subsequent corrigendum published if any. Commercial Bids will be opened at GIPL’s office 
+by GIPL in the presence of GIPL, CLIENT officials along with technically qualified 
+successful bidders’ representatives as per informed date. 
+
+ 
+ii) Bids Not Considered For Evaluation 
+
+Bids that are rejected during the Preliminary / Pre – qualification / technical evaluation 
+process shall not be considered for further evaluation irrespective of the circumstances. 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 22 of 80 
+ 
+
+13. Preliminary Examination 
+ 
+
+i) Completeness of Bids 
+All the necessary documents required for the bid submission should be strictly complied. 
+No documents / papers that are found essential as a part of bid submission / evaluation 
+shall be accepted after the bid submission closing time. Any new document will not be 
+accepted at any stage of tender evaluation. 
+ 
+
+ii) Rectification of Errors 
+Arithmetical errors will be rectified on the following basis: -  
+• If there is a discrepancy between the unit price and the total price that is obtained by 
+
+multiplying the unit price and quantity, the unit price shall prevail and the total price shall 
+be corrected.  
+
+• If there is a discrepancy between the rates in words and figures, the rate in words will 
+govern. If the supplier does not accept the correction of errors, his bid will be rejected 
+and his EMD may be forfeited. 
+
+ 
+
+14. Warranty Period 
+The onsite comprehensive warranty period comprising of service & support shall be of 5 
+(Five) years from the date of the commissioning. It shall be the responsibility of the 
+successful bidder/OEM to replace any defective parts without any additional cost. The 
+defective part so replaced shall be the property of the successful bidder/OEM. The 
+warranty period shall not cover damage caused by accidents, electrical power fluctuation, 
+act of God, fire, flood, war, act of violence or any similar occurrence OR damage caused by 
+repairs or upgrades attempted by any third party. 
+ 
+
+15. Project Schedule 
+The successful bidder shall implement & commission the project within 4 Months from 
+the date of Purchase Order issued by CLIENT.  
+ 
+
+16. Project Management 
+Successful bidder shall  nominate  one  technically  qualified engineer as  a Project  
+Manager  who  will  be single point  of contact  during  the  contract  period. 
+ 
+
+17. Notification of Award 
+ 
+
+i) Notification to Bidder 
+The Bidder whose bid has been accepted shall be notified of the award by registered letter 
+/ E-mail / Fax by CLIENT. This letter (hereinafter called the “Letter of Intent - LOI”) shall 
+state the sum that CLIENT shall pay the bidder in consideration of the execution, 
+completion and maintenance of the work as prescribed by the Contract (hereinafter called 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 23 of 80 
+ 
+
+the “Contract Value”) in accordance with Payment Terms. The Bidder shall acknowledge in 
+writing, the receipt of the Letter of Intent and shall send his acceptance to enter into the 
+Contract within Seven (07) working days from the receipt of the Letter. 
+ 
+
+ii) Signing of agreement  
+Pursuant from the date of acknowledgement of the Letter of Intent (LOI) & subsequent 
+submission of security deposit by successful bidder as mentioned in the below-mentioned 
+clause of Security deposit, the successful bidder and CLIENT shall promptly; sign the 
+Contract agreement on non-judicial Rs. 100/- stamp paper. The said agreement will be 
+finalized by the CLIENT and shall be signed on all the pages by the person(s) duly 
+authorized to bind the bidder to the contract. CLIENT shall have the right and authority to 
+negotiate / add certain terms with the successful bidder before signing of the Contract. The 
+incidental expenses of execution of agreement / contract shall be borne by the successful 
+bidder. 
+
+ 
+
+iii) Work Order/Purchase Order 
+CLIENT shall issue firm Work order/Purchase order mentioning the sum that CLIENT shall 
+pay the successful bidder in consideration of the execution, completion and maintenance of 
+the work as derived from Contract (hereinafter called the “Work order Value”) in 
+accordance with Payment Terms. Objection, if any, to the Purchase Order must be 
+reported to the CLIENT by the successful bidder within three (3) working days counted from 
+the date of Purchase Order for modifications, otherwise it is assumed that the successful 
+bidder has accepted the Purchase Order in totality. This is applicable in case of electronic 
+publishing / delivery of Work Order also.  
+ 
+After receipt of the Work Order, the project execution period will be calculated from the 
+Purchase Order / Work order date. In case of amendment of Purchase Order / Work order 
+by CLIENT, the project execution period will be calculated from the date of amendment. 
+
+ 
+
+18. Security Deposit 
+Within fifteen (15) working days of the receipt of Letter of Intent (LOI) from the CLIENT, the 
+successful Bidder shall deposit the Security Deposit at a rate of 10% for the Total Value of 
+the contract including taxes as per format mentioned Annexure VII for the due and 
+faithful performance of the contract. The Security Deposit is to be submitted in the form of a 
+Bank Guarantee or Demand Draft / Bankers’ Cheque from the banks specified in the GR. 
+No: EMD/10/2018/18/DMO   dated 16/04/2018 issued by Finance Department - 
+Government of Gujarat which is drawn in favor of “REGISTRAR GENERAL, HIGH COURT 
+OF GUJARAT” payable at Ahmedabad. If the bidder fails to deposit this amount of 
+Security Deposit within the stipulated time which shall include any extension granted by 
+CLIENT at its own discretion, no payment shall be made to the successful bidder then 
+after. CLIENT shall reserve the right to cancel the agreement in such event and forfeit the 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 24 of 80 
+ 
+
+EMD and exercise its right to accept any other bid / tender which is considered suitable. 
+The Security Deposit furnished by the bidder shall carry no interest. The EMD submitted 
+earlier by the successful Bidder shall be refunded against the submission Security Deposit. 
+ 
+
+The Security Deposit shall remain at the entire disposal of CLIENT as the security for the 
+satisfactory execution and completion of the work in accordance with the terms and 
+conditions of the Contract. CLIENT shall be at liberty to deduct and appropriate from the 
+Security Deposit such losses, damages, penalties and dues as may be payable by the 
+bidder under the contract and the amount by which the Security Deposit is reduced by such 
+appropriation shall be made good by further deduction from the bidder‘s subsequent interim 
+bills until the Security Deposit is restored to its full as limit as mentioned in clause above. 
+On satisfactory performance and completion of the contract, in all respects, and upon 
+return in good condition of any property belonging to CLIENT, the security Deposit shall be 
+returned to the successful bidder after completion of on-site warranty support (including 
+hardware & software licenses) period from the date of the commissioning & acceptance of 
+the project. The Security Deposit must be valid for 67 months of time period                        
+(4 Months of execution + 60 Months of warranty period + 3 months of claim period). 
+ 
+
+If required, on intimation by CLIENT, the successful bidder has to extend the SD for the 
+suggested time period as and when required & failure of the same will be treated as breach 
+of the contract and enables CLIENT to take appropriate actions in this regard.   
+ 
+
+19. Annulment of Award 
+Failure of the successful Bidder to comply with pre-qualification criteria, evaluation criteria 
+and other terms and conditions set out in the Tender Document shall constitute sufficient 
+ground for the annulment of the award of Contract and forfeiture of the security deposit, in 
+which event CLIENT may make the award to the next lowest evaluated Bidder after 
+negotiations. 
+ 
+
+20. Payment Terms, Schedule of Payment 
+The Bidder‘s request(s) for payment shall be made to the CLIENT in writing accompanied 
+by the details of work executed, supported with evidence of accomplishment of the item 
+wise work. 
+
+Milestone 
+% Payment  
+of supply 
+
+% Payment 
+ of installation 
+
+On delivery / supply of hardware/material at site location 
+and its verification and acceptance by respective local 
+court authority.  
+
+80% 0% 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 25 of 80 
+ 
+
+On successful completion of Installation, Testing, 
+Commissioning, acceptance reports of Hardware & LAN 
+system signed by respective local court authority. 
+
+20% 100% 
+
+ 
+21. Taxes & Duties 
+ The contractor shall bear and pay all taxes, duties, levies, cess and charges assessed 
+
+on the contractor or their employees by all municipal, state or national government 
+authorities in connection with the contract in and outside of the country where the site is 
+located and no adjustment or variation will be allowed for changes thereof.  
+
+ For the payment of taxes as specified in the price bid, the contractor shall be required to 
+charge taxes at the rate applicable from time to time. 
+
+ For the purpose of the Contract, it is agreed that the Contract Price specified in LOI / 
+Contract Agreement is based on the taxes, duties, levies and charges prevailing on the 
+date of bid submission in India and Gujarat where the site is located (unless otherwise 
+revised by mutual consent). 
+
+ The Contract Price shall be deemed to be firm and valid for the entire duration of the 
+Contract till the completion of scope of work under the Contract unless it is due to 
+change in tax law. 
+
+ The Contract Price may be varied due to situations giving rise to change in Tax Law 
+arising between the date of bid submission and the contractual date of supply of the 
+Goods and / or performance of the Services under the contract. The Indirect Taxes that 
+shall be considered for Change in Tax Law shall be included but not limited to the 
+following taxes leviable on the direct transaction between the contractor  and the 
+customer unless specified otherwise: 
+ 
+
+• CGST, SGST & IGST 
+ 
+
+ Further, such variation shall be made only in respect of taxes  (both nature and 
+quantum) originally factored by the contractor in their initial bid offer, unless the tax 
+sought to be recovered is a new tax arising on account of Change in Tax Law which 
+was not in force on the date of bid submission. 
+
+ No variation shall be allowed on account of any taxes applicable outside India. 
+ Billing can be done from Gujarat or anywhere in India.  
+ The contractor shall issue proper invoice as stipulated under the Goods & service tax 
+
+(GST) legislation or any such other legislations as may be relevant from time to time. 
+ Each party hereto, agrees to indemnify and keep indemnified and saved harmless at all 
+
+times the other party against any loss, cost, expenses or damage suffered or incurred 
+by it, by reason of its failure to pay taxes, duties, etc. which it is obliged to pay pursuant 
+to the provisions of this clause and / or arising out of its failure to comply with its 
+obligations under this clause. 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 26 of 80 
+ 
+
+ Tax deductions at source will be made by the CLIENT on payments made to the 
+contractor, as per the applicable Central and State laws. 
+
+ All payments to the contractor shall be subject to applicable withholding (whether 
+applicable as of the date of the Contract or imposed /required by any municipal, local, 
+state or national government authorities or any other Government Instrumentality at any 
+time during the subsistence of the Contract) or statutory deductions as required in 
+respect of income tax as well as any other Taxes (including but not limited to Building 
+and Other Construction Workers’ Welfare Cess). The CLIENT shall issue necessary tax 
+deduction / withholding certificates to the contractor. If the contractor obtains 
+appropriate lower withholding orders (as per CLIENT’s satisfaction), withholding may be 
+carried out at such lower rates. 
+
+ The risk of all tax positions taken by the contractor shall be borne solely by the 
+contractor.  
+
+ Contractor shall strictly and in a timely manner, adhere to and undertake all acts, 
+omissions and compliances required under the applicable GST laws to ensure that 
+CLIENT is able to avail the Input Tax Credit / set off / rebate / refund of the GST (along 
+with cesses and surcharges, if relevant) applicable on the supplies made by the 
+Contractor to the fullest extent possible under law. In this regard, without limiting the 
+generality of the foregoing obligation in any manner whatsoever, CLIENT reserves the 
+right to specify, for the supplies envisaged under the Contract by the Contractor, the 
+particular compliances to be undertaken (including aspects like (i) whether Contractor 
+should charge IGST or CGST-plus-SGST; (ii) from where the billing should be 
+undertaken and to which registration of CLIENT; (iii) whether the Contractor should be 
+responsible to generate the E-Way Bill; (iv) the format of invoices / credit and debit 
+notes / advance receipt vouchers; (v) maintenance of ‘Compliance Rating’ above a 
+specified threshold; etc)  and the relevant timelines for such compliances based on the 
+applicable GST laws.  
+
+a. The Contractor acknowledges that any failure in the foregoing obligations 
+(including undertaking the ones specifically instructed by CLIENT, if any) can 
+cause significant losses to CLIENT in the form of loss of GST credit, statutory 
+interest liability on such credit loss (under applicable GST laws) and adverse 
+impact on compliance rating and thus, undertakes to carry out this foregoing 
+obligation with sincerity, due diligence and without any delay or demur. 
+
+b. The contractor agrees that CLIENT will reimburse the GST component on 
+supplies received only when the corresponding credit has become available in 
+the electronic credit ledger of the relevant GST registration of CLIENT. 
+
+c. Without prejudice to any other indemnification obligation under this Contract, 
+the Contractor agrees to, at all times, to hold harmless and indemnify CLIENT 
+from and against all claims, liabilities, expenses, proceedings, costs and losses 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 27 of 80 
+ 
+
+that may be suffered or incurred by CLIENT which may arise out of or in 
+connection with any failure by the Contractor to adhere to its obligations under 
+clause (a) above. In this regard, the Contractor also hereby indemnifies 
+CLIENT from any costs, claim or liability arising out of any claim or action or 
+omission by any employee or consultant or agent or outsourced staff of the 
+Contractor. 
+
+ 
+
+22.  Liquidated damages 
+A. The bidder acknowledges that time is the essence of the Contract and in case of any 
+
+delay in completion of the project by the successful bidder end; the said delay shall 
+cause substantial damage to owner. The bidder hereby agrees without prejudice to any 
+other right or remedy available to the Owner under the Contract to pay liquidated 
+damages at rates mentioned herein. 
+
+ 
+
+Bidder and owner agrees that the amount fixed as liquidated damages herein are 
+reasonable and are a genuine pre-estimate of the minimum loss and damage that the 
+Owner would suffer due to delay in completion by the successful bidder end and the 
+Bidder shall not question the rate of liquidated damages in court of law or raise any 
+question otherwise.  
+ 
+
+Bidder guarantees that it will complete the Project within the time specified in the clause 
+of Project Schedule mentioned in this document or within such extended time as 
+specified by the Owner. Failure to achieve completion of the Project as per time 
+schedule shall lead to application of liquidated damages @ 1.25% of the Total 
+Contract Price per week or part there of subject to a maximum of 10% of the Total 
+Contract Price. Once the Maximum is reached, the Owner shall have the right to 
+terminate the Contract, pursuant to clause of Termination of Contract mentioned in 
+this document without prejudice to its rights for claiming further general damages under 
+the law. However, the payment of liquidated damages shall not in any way relieve the 
+successful bidder from any of its obligations, duties, and responsibilities to complete the 
+facilities or from any other obligations and liabilities of the successful bidder under the 
+Contract”. 
+ 
+
+B. No bonus will be given for earlier completion of the Project. 
+ 
+23. Service Level Agreement 
+The successful bidder has to maintain the service response time during entire contract period. 
+The Service response time & subsequent penalty applicable (in case of failure of maintaining 
+the service response time) is as mentioned below:  
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 28 of 80 
+ 
+
+ The Maximum Time To Repair (i.e. time required for successful bidder’s maintenance 
+engineer to report at the site after a request call/e-mail/fax is made or letter is written by 
+CLIENT) shall not exceed 4 hours. The fault detection & rectification time shall not exceed 
+more 2 hours. So total MTTR will be of 6 Hours. 
+ 
+
+ The Replacement Time: In case of failure of any / all supplied equipments & LAN system, 
+the successful bidder will be liable to replace the damaged / faulty equipments within 02 
+(two) working days after fault detection.  
+
+ 
+ During MTTR, if successful bidder’s engineer found that the product replacement / 
+
+shipment required, he should bring into the notice of the CLIENT. In case of shipment of 
+new hardware (against damaged hardware) to OEM Service center for replacement 
+purpose, the total period taken from dismantling of the hardware from site, shipment to 
+OEM service center & reinstallation of the replaced hardware at site should not exceed 15 
+working days. 
+
+ 
+However, it is the responsibility of the successful bidder to replace damaged / faulty 
+equipments with spare equipments having equivalent or higher configuration of same make 
+until completion of replacement / shipment time period. Failure of the same will be 
+considered as downtime & in such case; penalty shall be applicable also as mentioned 
+below: 
+ 
+
+Description 
+Delay beyond  
+
+the MTTR /  Replacement Time / 
+shipment time 
+
+Per equipment penalty  
+
+Response 
+
+Up to 1 Day Minimum of Rs.  500/- 
+From 2 days to 4 days Rs. 750/- per day 
+From 4 days to 10 days Rs. 1,000/- per day 
+More than 10 days Rs. 1,500/- per day then after 
+
+ 
+During contract period, the penalty will be recovered from Security Deposit & it is the 
+responsibility of the successful bidder to restore the Security deposit at its full value within 15 
+working days from the penalty recovery date and failure of same allow CLIENT to proceed 
+ahead with forfeiting of SD.  
+
+ 
+ Exclusion from SLA: Scheduled downtime (subject to approval of CLIENT officials) for 
+
+routine maintenance work shall be excluded from SLA norms. 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 29 of 80 
+ 
+
+24. Additional Work 
+If there is an increase/decrease in the material (Hardware) during the course of the 
+implementation / Post Implementation, the bidder shall be given the additional work on a 
+pro-rata basis depending on the quoted rate. The rates finalized in the contract agreement 
+will be valid for 180 days from date of Work order / Purchase Order. 
+ 
+
+25. Modification of Scope of Work 
+In case of modification of Scope of Work, CLIENT shall be liable to pay higher or lower than 
+the contract price as is mutually decided between CLIENT and the successful bidder at the 
+time of modification. 
+
+ 
+
+26. Suspension 
+CLIENT may, by written notice to the successful bidder, suspend all payments if failed to 
+perform any of its obligations under the Contract including carrying out of the services, 
+provided that such notice of suspension 
+
+(a) Shall specify the nature of failure.  
+(b) Shall request the Bidder to remedy such failure within a period not exceeding thirty 
+
+(30) days after receipt of such notice of failure. 
+ 
+27. Termination of Contract 
+
+27.1 Termination for Default 
+Notwithstanding anything elsewhere herein provided and in addition to any other right or 
+remedy of the CLIENT against the successful bidder or otherwise (including the right of 
+the CLIENT to claim compensation for delay of the works) CLIENT shall be entitled to 
+terminate the contract by written notice at any time during currency on or after the 
+occurrence of any one or more of the following events / contingencies, without paying 
+any compensation in lieu thereof, namely: 
+
+ 
+Default or failure by the successful bidder of any of the obligations of the successful 
+bidder under contract, including but not limited to: 
+
+ 
+
+ Management reserves the right to terminate the contract and / or get the balance work 
+completed at the risk and cost of the successful bidder. 
+
+ 
+ Negligence in carrying out the works and not following the CLIENT instructions for 
+
+execution of work or carrying out any work found to be unsatisfactory by CLIENT. 
+ 
+
+ Abandonment of the works or any part thereof. 
+ 
+
+ Substantial suspension of the works or any part thereof for a period of 30 days or more 
+without the authority & knowledge of the CLIENT authorized representative. 
+
+ 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 30 of 80 
+ 
+
+ Breach of any of the terms, conditions or provisions of the Project on the part of 
+successful bidder. 
+
+ 
+
+ If the successful bidder is / are incapable of carrying out the work and / or failure to 
+achieve the laid down targets. 
+ 
+
+ If there is any change in the constitution of the successful bidder, or in the 
+circumstances or organization of the successful bidder, which is detrimental to the 
+interests of the CLIENT. 
+
+ Distress, execution or other legal process being levied on or upon any of the successful 
+bidder’s goods and assets; 
+
+ 
+
+ Death of Successful bidder (if an individual); 
+ 
+
+ If the Successful bidder or any person employed by him shall make or offer for any 
+purpose connected with the contract any gift, gratuity, royalty, commission, gratification 
+or other inducement (whether money or in any other form) to any employee or agent of 
+the CLIENT. 
+
+ 
+
+ If the Successful bidder shall assign or attempt to assign his interest or any part thereof 
+in the contract without CLIENT’s prior consent in writing. 
+
+ 
+
+The notice of termination shall set forth in addition to a statement of the reason or reasons 
+for terminating of the contract, the time(s) and place(s) for conducting a survey and 
+measurement of the work performed under the contract up to the date of termination for the 
+purpose of determining the final amount(s) if due to the successful bidder therefore. The 
+reason (s) for the termination stated in notice of termination shall be final and binding upon 
+the successful bidder. 
+
+ 
+
+27.2 Termination for Insolvency, Dissolution etc 
+CLIENT shall at any time terminate the contract by giving written notice to the successful 
+bidder without compensation to the successful Bidder, if the successful bidder becomes 
+bankrupt or otherwise insolvent or in case of dissolution of firm or winding up of company, 
+provided that such termination shall not prejudice or effect any right of action or remedy 
+which has accrued thereafter to the CLIENT. 
+
+ 
+
+27.3 Termination for Convenience 
+CLIENT reserves the right to terminate by prior written notice, the whole or part of the 
+contract without compensation to the successful bidder. The notice of termination shall 
+specify that termination be for CLIENT’s convenience, the extent to which performance of 
+work under the contract is terminated and the date on which such termination becomes 
+effective. 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 31 of 80 
+ 
+
+27.4 No Claim Certificate 
+The successful bidder shall not be entitled to make any claim, whatsoever, against CLIENT 
+under or by virtue of or arising out of the Contract nor shall the CLIENT entertain or 
+consider any such claim after successful bidder shall have signed a “no claim” certificate in 
+favor of the CLIENT in such forms as shall be required by the CLIENT after the works are 
+finally accepted. 
+
+ 
+28. Rights to Data 
+CLIENT shall retain all right, title and interest in and to any and all data, entered or generated 
+by the successful bidder for CLIENT pursuant to this agreement and any modifications thereto 
+or works derived there from. 
+ 
+29. Relationship between the Parties 
+Nothing mentioned herein shall be constructed as relationship of CLIENT and successful 
+bidder or of principal and agent as between CLIENT and successful bidder. The successful 
+bidder subject to the Contract has complete charge of personnel, if any, performing the 
+services under this Project from time to time. The successful bidder shall be fully responsible 
+for the services performed by them or on their behalf hereunder. 
+ 
+30. Standards of Performance 
+The party awarded with the contract shall perform the services and carry out their obligations 
+under the Contract with due diligence, efficiency and economy in accordance with generally 
+accepted professional standards and practices. The party shall always act in respect of any 
+matter relating to the Contract as faithful advisor to CLIENT and shall always support and 
+safeguard the legitimate interests of CLIENT, in any dealings with the third party. The awarded 
+party shall abide by all the provisions / Acts / Rules etc. of compliance prevalent in the country. 
+The bidder shall conform to the standards laid down in Bid Document in totality. 
+ 
+31. Delivery and Documents 
+The successful bidder shall submit within time line as per schedule. In case of termination of 
+the Contract, the entire documents / any other credentials etc. used by successful bidder in the 
+execution of project shall become property of CLIENT. 
+ 
+32. Governing Law, Jurisdiction and Arbitration 
+The contract shall be governed in accordance with the laws of India. Any dispute between the 
+parties arising out of the Contract shall be referred for determination by arbitration as 
+prescribed in the Arbitration & Conciliation Act, 1996 as amended from time to time. The 
+Arbitration Tribunal shall consist of a Sole Arbitrator to be appointed by CLIENT. The 
+Arbitration shall be conducted in English language and the venue of the arbitration shall be 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 32 of 80 
+ 
+
+Ahmedabad, Gujarat. Subject to the arbitration agreement as mentioned above, the Parties 
+submit to exclusive jurisdiction of courts at Ahmedabad, Gujarat in relation to any matter 
+arising out of the Agreement. 
+ 
+33.  Notice 
+Any notice, request or consent required or permitted to be given or made pursuant to the 
+Contract shall be in writing. 
+ 
+34.  Miscellaneous 
+
+• All intermediate products and end product of the work assignment carried out by the 
+successful bidder, in any form, will be the sole property of CLIENT. 
+
+• In the event the successful bidder’s Company or the concerned Division of the company 
+is taken over / bought over by another company, all the obligations under the agreement 
+with CLIENT shall be transferred and vested in the new company. 
+
+• The successful bidder has to submit the certificate to the effect that Company’s Director 
+/ Individual is not related to any Employees working in the CLIENT. 
+
+ 
+35.  Force Majeure 
+Force Majeure means such of the following factors which substantially affect the performance 
+of the contract such as natural phenomena, including but not limited to floods, draughts, 
+earthquakes and Epidemics; acts of any Government, domestic or foreign, including but not 
+limited to war, declared or undeclared, quarantines, embargoes; illegal strikes and legal 
+lockouts in respect of scope of work provided;   
+ 
+Either party shall within fifteen (15) days from the occurrence of such a cause notify the other 
+in writing of such causes.  The successful bidder shall not be liable for delays in performing 
+their obligations resulting from any Force Majeure cause as referred to and / or defined above.  
+ 
+However if such an event lasts for a period of 90 days or more then either party shall have an 
+option to terminate the Agreement forthwith without any liability after intimating the other party 
+of the same. The successful bidder shall however be entitled to receive payments for all the 
+services rendered by it under the Agreement prior to termination of contract.  
+ 
+36.   Inspection 
+The successful bidder shall: 
+ Facilitate the GIPL/CLIENT or its nominated / delegated authority to inspect, supervise 
+
+assess including without limitation to Revenue Authorities and Certifying Authorities, 
+Hardware & LAN system installed at the premises and other arrangements to ensure 
+the effectiveness, after giving prior notice of 7 (Seven) days in writing or by way of 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 33 of 80 
+ 
+
+surprise check. If any malfunctioning or deficient operation is reported and 
+GIPL/CLIENT or State Government or any nominated / delegated authority is of opinion 
+to correct the same then the successful bidder has to do the needful without any other 
+cost implementation as per guidelines provided. 
+
+ Facilitate and provide all assistance to GIPL/CLIENT or its nominated / delegated 
+authorities. 
+
+ Allow at successful bidder’s cost and facilitate examination by GIPL/CLIENT or its 
+nominated / delegated authority the operations pertaining to the Hardware & LAN 
+system at intervals as mutually decided between CLIENT and the successful bidder. 
+ 
+
+37.   Fraud and Corruption 
+In pursuit (pursuance) of this tender, CLIENT, 
+
+ 
+i. Defines, for the purposes of this provision, the terms set forth as follows: 
+
+a. “Corrupt practice” means the offering, giving, receiving or soliciting of anything of 
+value to influence the action of CLIENT or its official by any personnel of Bidder in 
+procurement process or in contract execution. 
+ 
+b. “Fraudulent practice” means a misrepresentation of facts, in order to influence a 
+procurement process or the execution of a contract, to the detriment of CLIENT, 
+and includes collusive practices among the bidders (prior to or after Proposal 
+submission) designed to establish bids at artificially high or non-competitive levels 
+and to deprive the CLIENT, of the benefits of free and open competition; 
+ 
+c. “Unfair trade practices” means supply of goods or services different from what is 
+ordered on. 
+ 
+d. “Coercive practices” means harming or threatening to harm, directly or indirectly, 
+persons or their property to influence their participation in the execution of contract. 
+
+ 
+ii. CLIENT will reject a proposal for award or terminate the contract, if it determines that 
+the bidder recommended for award has engaged in corrupt, fraudulent, unfair trade 
+practices or coercive practices. 
+ 
+iii. CLIENT shall declare a bidder ineligible, either indefinitely or for a stated period of 
+time, for awarding the contract, if it at any time determines that the bidder has engaged 
+in corrupt, fraudulent, unfair trade and coercive practices in competing for or in 
+executing, the contract and will terminate the contract. 
+
+ 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 34 of 80 
+ 
+
+38. Negotiation 
+It is absolutely essential for the bidders to quote the lowest price at the time of making the offer 
+in their own interest. CLIENT, however, shall have the discretion to choose to enter into any 
+price negotiations or not. GIPL/CLIENT will not bound to accept any or the lowest tender in any 
+case. 
+ 
+39. Award of Contract 
+GIPL/CLIENT reserves the right to accept or reject any bid, and to annual the bidding process 
+and reject all bids at any time before the contract award, without thereby incurring any liability 
+to the affected Bidder or Bidders. 
+ 
+40. Contact Details 
+All inquiries concerning this procurement shall to be addressed to the following: 
+ 
+Guj Info Petro Limited (GIPL) 
+2rd Floor, Block No: 15, Udyog Bhavan, Sector – 11, Gandhinagar – 382 011. 
+E-mail: projects@gipl.net 
+ 
+
+Prospective Bidders are specifically directed NOT to contact any other person apart from the 
+one mentioned above in this Bid Document for meetings, conferences or technical discussions 
+that are related to the Bid Document. Unauthorized contact shall be caused for immediate 
+rejection of the Bidder’s Bid Document response. Substantive questions shall be dealt with in 
+writing. 
+ 
+Prospective Bidders is strictly advised to refrain from contacting the CLIENT or his employees / 
+representatives directly or indirectly by any means related to the tender. The Violation of the 
+same would entail disqualification of the bidders from tender process and exclusion from future 
+business dealings. 
+ 
+41. Intellectual Property Rights and Rights to Integrated Application System 
+CLIENT shall retain all right, title and interest in and to any and all software, firmware and 
+hardware designed and developed for CLIENT by the successful bidder pursuant to this 
+agreement and any modifications thereto or works derived there from. The successful bidder  
+shall have no right, title or interest in or to such designs, programs, modifications for any 
+purpose except the right to use, modify, enhance and operate such designs, programs, 
+modifications in order to perform services hereunder, and as may be expressly set forth herein 
+or in a separate written agreement executed between the parties. 
+ 
+The terms software, software programs and programs shall include specifications, 
+documentation, technical information, all corrections, modifications, additions, improvements 
+
+mailto:projects@gipl.net
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 35 of 80 
+ 
+
+and enhancements to any of the foregoing provided to CLIENT by the successful bidder 
+pursuant to the agreement. The terms firmware and hardware shall include the designs, 
+drawings, specifications, custom designed electronic devices, documentation and technical 
+information, all corrections, modifications, additions, improvements and enhancements to any 
+of the foregoing provided to CLIENT by the successful bidder pursuant to the agreement. 
+ 
+42. Insurance 
+i) General 
+The successful bidder shall at his own expense arrange, secure and maintain with reputable 
+insurance companies to the satisfaction of the owner as follows. The Bidder at its cost shall 
+arrange, secure and maintain insurance as may be necessary and to its full value for all such 
+amounts to protect the works progress from time to time and the interest of the Owner against 
+all risks as detailed herein. The form and other limit of such insurance as defined herein 
+together with the under works thereof in each case shall be as acceptable to the Owner. It is 
+the responsibility of the successful bidder to maintain adequate insurance coverage till 
+commissioning & acceptance of the project by CLIENT. However, it is the responsibility of 
+CLIENT to provide adequate security to the onsite materials once delivered by the successful 
+bidder at the respective site. The successful bidder‘s failure to maintain adequate insurance 
+coverage shall not relieve of any of his responsibilities and obligations under this contract. All 
+costs on account of insurance liabilities covered under contract shall be successful bidder‘s 
+account and shall be included in the contract price. 
+
+ 
+ii) Compliance of Labor / Employee related Acts: 
+The successful bidder shall be liable to adhere strictly all rules & regulations related to 
+employees / Labor laws such as Provident Fund, Employee State Insurance, and Professional 
+Tax etc. 
+ 
+iii) Any other insurance 
+The successful bidder shall also carry any and all other insurance, which he may be required 
+under any law or regulation from time to time without any extra cost to the CLIENT. 
+ 
+iv) Accident or injury to workmen 
+CLIENT shall not be liable for or in respect of any damages or compensation payable at law in 
+respect or in consequences of any accident or injury to any workmen or other person engaged 
+by the successful bidder or Technology Partner or any sub-contractor or sub Technology 
+Partner. 
+ 
+v) Transit insurance 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 36 of 80 
+ 
+
+In respect of all items are to be transported by the successful bidder to the site of work, the 
+cost of transit insurance shall be borne by the successful bidder and the quoted price shall be 
+inclusive of this cost. 
+ 
+43. Third Party Inspection 
+The successful bidder shall facilitate at its own cost, GIPL/CLIENT or its nominated / delegated 
+authority to inspect, supervise, and assess all the equipment installed at the premises and 
+other infrastructure arrangements. 
+ 
+44. Confidential Policy 
+The successful bidder and its personnel shall not, either during the term or after expiration of 
+the contract, disclose any proprietary or confidential information relating to the services, 
+contract or the CLIENT’s business or operations without the prior written consent of CLIENT. 
+ 
+The successful bidder has to follow all the rules and regulations of the guidelines and has to 
+follow strictly to all the rules and privacy. Some of the guidelines are as follows, however it is 
+not limiting to the same. Successful bidder has to contact the CLIENT authority and get all the 
+guidelines to carry out the work in the CLIENT premises. 
+ 
+
+1. All paper works prepared to this project are very confidential property of CLIENT 
+authority. If required Successful bidder has to submit the privacy agreement with the 
+client as per mutually agreed format. All the responsibility lies with the successful bidder 
+of the privacy of the documents handed over to him for execution. 
+
+2. The staff of the successful bidder should not involve with any activity related to CLIENT.  
+3. No activity is allowed in the CLIENT premises by any staff of the successful bidder that 
+
+affects to the CLIENT security and peace. 
+ 
+
+45.  Limitation of Liability  
+The successful bidder’s total liability to CLIENT over the period of the Agreement arising out of 
+or in connection with the Agreement whether such liability arises from any claim based upon 
+contract, warranty, tort or otherwise, shall in no case exceed 100% of the actual amount to 
+the paid to successful bidder under the Agreement. In no event shall successful bidder be 
+liable for any incidental damages, consequential damages, special damages, indirect 
+damages, loss of profits, loss of revenues, or loss of use, these limitations and exclusions will 
+apply regardless of whether liability arises from breach of contract, warranty, tort (including but 
+not limited to negligence), by operation of law, or otherwise. The successful bidder’s liability 
+under the Contract will (including in respect of any indemnity) be reduced to the extent to 
+which CLIENT or a third party (not engaged by Bidder) has caused or contributed to such 
+liability. 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 37 of 80 
+ 
+
+ 
+46. Data Security 
+Successful bidder and its team have to maintain the confidentiality and security of data in true 
+spirit. In no case, breach in security of data will be acceptable. Violation of this clause may 
+lead to severe penalties, maximum up to termination of involved agency as decided CLIENT.  
+ 
+  
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 38 of 80 
+ 
+
+SECTION 2: SCOPE OF WORK 
+ 
+The bidder has to “Supply, Installation, Testing, Commissioning and Maintenance of hardware 
+and LAN components for the Gujarat Subordinate Judiciary.” The minimum scope of work (but 
+not limited) is mentioned herewith as below: 
+ 
+
+1. The scope for bidder is to supply, installation, testing and commissioning of Hardware & 
+LAN components. The CLIENT will approve that installation work of the successful 
+bidder and if there are any comments on the installation, the successful bidder has to 
+rectify it immediately as required by the CLIENT without any extra charges. 
+ 
+
+2. The supply item rates are inclusive of all charges what so ever whether it is mentioned 
+in the BOQ or not like GST, transportation, loading, unloading, insurance, packing, 
+forwarding, etc. No extra charges will be paid to the successful bidder for any item in 
+this matter. 
+ 
+
+3. The successful bidder  who is awarded the work should visit the site immediately within 
+2 days of the LOI and survey the site in accordance with the Hardware & LAN system to 
+be carried out and if he found any discrepancy in the BOQ OR at site / sites, if there is 
+any requirement of extra items or major excess in the quantity, he should immediately 
+brought in the notice of the CLIENT officials so that the CLIENT can take necessary 
+action in time, otherwise the successful bidder will not get any extra payment or time 
+limit for such items. However if CLIENT authority suggest any work which is not 
+included in the tender and to be executed as a extra item / excess item, agency has to 
+carry out the work as per tender terms and conditions and agency cannot deny to 
+execute the same. 
+ 
+
+4. The final responsibilities for all the work related to Hardware & LAN components are lies 
+with the successful bidder and if he found any improper work and if because of that if he 
+envisaged any problems in the installation work later on which affect the installation, he 
+should immediately inform and brought to the notice of the CLIENT. 
+
+ 
+
+5. The successful bidder has to supply all the items matching the specifications mentioned 
+in the RFP. Deviations in specifications will not be acceptable at all in any case. 
+ 
+
+6. The time is critical for the contract. It is compulsory for the successful bidder to compete 
+the work within project schedule mentioned in this document. No physical / logical work 
+is to be left after this time period (If time extension not provided by CLIENT). In any 
+case the successful bidder does not complete work at site within timeframe; the 
+successful bidder will be panelized for the same as per the penalty clause. 
+ 
+
+7. LIST OF LOCATIONS: Please refer ANNEXURE A for location details. 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 39 of 80 
+ 
+
+ 
+ANNEXURE I: TECHNICAL SPECIFICATIONS 
+
+Intel i5 Computers 
+Sr. 
+No. 
+
+Computer System 
+Type Intel i5 Desktop 
+
+Compliance  
+( YES/ No) Remark 
+
+1 Category Business (for Work) Segment (not Home Segment)     
+
+2 Form Factor Small Form Factor with Volume less than 13 litres     
+
+3 Make, Model / Part no (to be given by the bidder - exactly and specific)     
+
+PROCESSOR & MOTHERBOARD 
+
+4 Processor Family Intel Core i5 (6th Generation) or Higher    
+
+5 Base Frequency  3.3 Ghz or more     
+6 Processor Cache As per Processor     
+
+7 Motherboard 
+Intel H110 Chipset with Minimum 
+two free PCI/PCI-x/ PCI-Express 
+slots 
+
+    
+
+8 TDP ( Thermal Design Power) Not more than 65W     
+
+MEMORY & DISK STORAGE 
+
+9 System Memory (RAM) 
+8 GB DDR3 with one unused slot 
+or higher     
+
+10 Expandable Memory up to 16 GB, at least 2 Slots     
+
+11 Hard Disk 
+Integrated Dual Port SATA III 
+Controller, HDD 500 GB, 7200 
+RPM or more 
+
+    
+
+PLATFORM / ARCHITECTURE 
+
+12 Preloaded Operating System 
+Ubuntu - Linux 14.04 LTS with all 
+required drivers and plugins     
+
+13 Operating System Certification 
+
+Ubuntu - Linux 14.04 LTS 
+certified and registered on Ubuntu 
+official website 
+
+    
+
+14 System Architecture 64-bit     
+DISPLAY & GRAPHICS 
+
+15 Screen Size & Resolution 
+
+18.5", TFT LED HD Resolution Or 
+Better with relevant TCO 
+Certification  
+
+  
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 40 of 80 
+ 
+
+16 Screen Type HD wide Screen Backlit LED Anti-Glare Display     
+
+17 Graphic Processor Intel HD or equivalent integrated HD graphics as per the processor     
+
+18 Monitor Mounting Support 
+VESA Screws Cover for Wall 
+Mount     
+
+INPUT 
+
+19 Pointer Device & Keyboard 
+
+Same OEM USB Optical Scrolling 
+Mouse and USB Standard 104 
+keys keyboard 
+
+    
+
+COMMUNICATION 
+
+20 Ethernet Integrated Gigabit Ethernet(IPv6 complaint)     
+
+Ports / Slots 
+21 USB Port 4 X USB 2.0, 2 X USB 3.0     
+
+22 Other Ports Mic in, Speaker Out, RJ45, VGA/HDMI/Display Port Out     
+
+POWER SUPPLY & ENERGY EFFICIENCY  (GREEN COMPLIENCE) 
+
+23 Power Supply 
+Optimum Wattage SMPS to 
+Support full use of system with all 
+USB ports utilized 
+
+    
+
+24 Energy Certification 
+Energy Star ( EPA) Ver 5.0 or 
+Later/ BEE India Star Ver 1 or 
+Later 
+
+    
+
+25 Power Management ACPI Complaint     
+SECURITY FEATURES 
+
+26 USB Port Security USB Port Disable ( Through BIOS)     
+OTHER SPECIFICATIONS 
+
+27 Hardware Drivers OEM has to Provide Drivers for UBUNTU- LINUX 14.04 LTS     
+
+28 OEM Product 
+
+Original Equipment Manufacturer 
+(OEM) Manufacturer OR its 
+Authorized Distributor / dealer with 
+OEM 
+
+    
+
+WARRANTY & SERVICE SUPPORT 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 41 of 80 
+ 
+
+29 Warranty 5 Years ON Site Comprehensive Warranty support from OEM     
+
+30 Service Center 
+Must have/ Preferred Company 
+Authorized Service Centre in 
+Capital City / High Court Place 
+
+    
+
+NOTE: ALL ABOVE SPECIFICATIONS SHOULD BE READ AS SAME OR BETTER. 
+ 
+
+Intel I3 Computers 
+Sr. 
+No. 
+
+Computer System 
+Type Intel i3 Desktop 
+
+Compliance  
+( YES/ No) Remark 
+
+1 Category Business (for Work) Segment (not Home Segment)     
+
+2 Form Factor Small Form Factor with Volume less than 13 litres     
+
+3 Make, Model / Part no 
+(to be given by the bidder - exactly 
+and specific)     
+
+PROCESSOR & MOTHERBOARD 
+
+4 Processor Family Intel Core i3 (6th Generation) or Higher    
+
+5 Base Frequency  3.7 Ghz or more     
+6 Processor Cache As per Processor     
+
+7 Motherboard 
+Intel H110 Chipset with Minimum 
+two free PCI/PCI-x/ PCI-Express 
+slots 
+
+    
+
+8 TDP ( Thermal Design Power) Not more than 65 W     
+
+MEMORY & DISK STORAGE 
+
+9 System Memory (RAM) 
+4 GB DDR3 with one unused slot or 
+higher     
+
+10 Expandable Memory up to 8 GB, at least 2 Slots     
+
+11 Hard Disk 
+Integrated Dual Port SATA III 
+Controller, HDD 500 GB, 7200 RPM 
+or more 
+
+    
+
+PLATFORM / ARCHITECTURE 
+
+12 Preloaded Operating System 
+Ubuntu - Linux 14.04 LTS with all 
+required drivers and plugins     
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 42 of 80 
+ 
+
+13 Operating System Certification 
+
+Ubuntu - Linux 14.04 LTS certified 
+and registered on Ubuntu official 
+website 
+
+    
+
+14 System Architecture 64-bit     
+DISPLAY & GRAPHICS 
+
+15 Screen Size & Resolution 
+
+18.5", TFT LED HD Resolution Or 
+Better/ Higher with relevant TCO 
+Certification 
+
+   
+
+16 Screen Type HD wide Screen Backlit LED Anti-Glare Display     
+
+17 Graphic Processor Intel HD or equivalent integrated HD graphics as per the processor     
+
+18 Monitor Mounting Support VESA Screws Cover for Wall Mount     
+
+INPUT 
+
+19 Pointer Device & Keyboard 
+
+Same OEM make USB Optical 
+Scrolling Mouse and USB Standard 
+104 keys keyboard 
+
+    
+
+COMMUNICATION 
+
+20 Ethernet Integrated Gigabit Ethernet (IPv6 complaint)     
+
+Ports / Slots 
+21 USB Port 4 X USB 2.0, 2 X USB 3.0     
+
+22 Other Ports Mic in, Speaker Out, RJ45, VGA/HDMI/Display Port Out     
+
+OTHER SPECIFICATIONS 
+
+23 Power Supply 
+Optimum Wattage SMPS to Support 
+full use of system with all USB ports 
+utilized 
+
+    
+
+24 Energy Certification Energy Star ( EPA) Ver 5.0 or Later/ BEE India Star Ver 1 or Later     
+
+25 Power Management ACPI Complaint     
+SECURITY FEATURES 
+
+26 USB Port Security USB Port Disable ( Through BIOS)     
+
+OTHER SPECIFICATIONS 
+
+27 Hardware Drivers OEM has to Provide Drivers for UBUNTU- LINUX 14.04 LTS     
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 43 of 80 
+ 
+
+28 OEM Product 
+
+Original Equipment Manufacturer 
+(OEM) Manufacturer OR its 
+Authorized Distributor / dealer with 
+OEM 
+
+    
+
+WARRANTY & SERVICE SUPPORT 
+
+29 Warranty 5 Years ON Site Comprehensive Warranty support from OEM     
+
+30 Service Center 
+Must have/ Preferred Company 
+Authorized Service Centre in Capital 
+City / High Court Place 
+
+    
+
+NOTE: ALL ABOVE SPECIFICATIONS SHOULD BE READ AS SAME OR BETTER. 
+ 
+ 
+
+8 Port Gigabit Ethernet Unmanaged Switch 
+
+Sr. 
+No Type Descriptions 
+
+Compliance 
+Yes / No Remark 
+
+1 Device Interfaces 8 X  10/100/1000 Gigabit LAN ports     
+
+2 Advanced Features 
+
+Full/half-duplex for Ethernet/Fast 
+Ethernet speeds, IEEE 802.3x Flow 
+Control, Supports 9,720 Byte Jumbo 
+Frames, Supports IEEE 802.1p QoS (4 
+Queues, Strict Mode),  Supports Cable 
+Diagnostics Function 
+
+    
+
+3 Standards  
+
+ANSI/IEEE 802.3 NWay auto-
+negotiation, IEEE 802.3x Flow Control, 
+IEEE 802.3az Energy-Efficient Ethernet 
+(EEE) 
+
+    
+
+4 Protocol  CSMA/CD     
+
+5 Data Transfer Rates 
+
+Fast Ethernet :100 Mbps (half duplex)  
+200 Mbps (full duplex) & Gigabit 
+Ethernet :2000 Mbps (full duplex)  
+
+  
+
+6 Transmission Method Store-and-forward     
+
+7 Packet Filtering / Forwarding Rates  Gigabit Ethernet: 1,488,000 pps per port     
+
+8 RAM Buffer 192KB per device     
+9 Power 5 V/1 A Power Adapter     
+
+10 MTBF More than 1000000 Hours     
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 44 of 80 
+ 
+
+11 Certifications 
+
+CE class B 
+• FCC class B 
+• ICES-003 Class B 
+• VCCI class B 
+• RCM 
+• Anatel 
+• CCC 
+• cUL 
+• CB/LVD 
+
+    
+
+12 warranty 5 Years ON Site Comprehensive Warranty service & support.     
+
+NOTE: ALL ABOVE SPECIFICATIONS SHOULD BE READ AS SAME OR BETTER. 
+ 
+
+16 Port Gigabit Ethernet Unmanaged Switch 
+Sr. 
+No Type Descriptions 
+
+Compliance 
+Yes / No Remark 
+
+1 Device Interfaces 16 X 10/100/1000 Gigabit LAN ports     
+
+2 Interface Options 10BASE-T, 100BASE-TX & 1000BASE-T     
+
+3 Switch Fabric 32Gbps Forwarding Capacity     
+
+4 Standards  
+
+IEEE 802.3 10BASE-T Ethernet 
+(twisted-pair copper), IEEE 802.3u 
+100BASE-TX Fast Ethernet 
+(twisted-pair copper), IEEE 802.3ab 
+1000BASE-T Gigabit Ethernet 
+(twisted-pair copper), ANSI/IEEE 
+802.3 NWay auto-negotiation, IEEE 
+802.3x Flow Control, IEEE 802.1p 
+QoS (4 queues, strict mode) 
+
+    
+
+5 Protocol  CSMA/CD     
+
+6 Data Transfer Rates Fast Ethernet:  
+
+Fast Ethernet :100 Mbps (half 
+duplex)  200 Mbps (full duplex) & 
+Gigabit Ethernet :2000 Mbps (full 
+duplex) 
+
+    
+
+7 Transmission Method Store-and-forward     
+
+8 
+Packet 
+Filtering/Forwarding 
+Rates  
+
+Gigabit Ethernet: 1,488,000 pps per 
+port     
+
+9 RAM Buffer 2Mb per device     
+10 Power 12 V/1 A Power Adapter     
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 45 of 80 
+ 
+
+11 MTBF More than 300000 Hours     
+
+12 Certifications 
+
+FCC Class A 
+• ICES-003 Class A 
+• CE Class A 
+• C-Tick Class A 
+• uCL 
+• CB 
+• cUL 
+
+    
+
+13 Warranty 5 Years ON Site Comprehensive Warranty service & support.     
+
+NOTE: ALL ABOVE SPECIFICATIONS SHOULD BE READ AS SAME OR BETTER. 
+
+24 Port Gigabit Ethernet Unmanaged Switch 
+Sr. 
+No Type Descriptions 
+
+Compliance 
+Yes / No Remark 
+
+1 Device Interfaces 24 X 10/100/1000 Gigabit LAN ports     
+
+2 Interface Options 10BASE-T, 100BASE-TX & 1000BASE-T     
+
+3 Switch Fabric 48 Gbps Forwarding Capacity     
+
+4 Standards  
+
+IEEE 802.3 10BASE-T Ethernet 
+(twisted-pair copper), IEEE 802.3u 
+100BASE-TX Fast Ethernet (twisted-
+pair copper), IEEE 802.3ab 
+1000BASE-T Gigabit Ethernet 
+(twisted-pair copper), ANSI/IEEE 
+802.3 NWay auto-negotiation, IEEE 
+802.3x Flow Control, IEEE 802.1p 
+QoS (4 queues, strict mode) 
+
+    
+
+5 Protocol  CSMA/CD     
+
+6 
+Data Transfer 
+Rates Fast 
+Ethernet:  
+
+Fast Ethernet :100 Mbps (half 
+duplex)  200 Mbps (full duplex) & 
+Gigabit Ethernet :2000 Mbps (full 
+duplex) 
+
+    
+
+7 Transmission Method Store-and-forward     
+
+8 
+Packet 
+Filtering/Forwarding 
+Rates  
+
+Gigabit Ethernet: 1,488,000 pps per 
+port     
+
+9 RAM Buffer 3.5Mb per device     
+10 Power 12 V/1.5 A Power Adapter     
+11 MTBF More than 300000 Hours     
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 46 of 80 
+ 
+
+12 Certifications 
+
+FCC Class A 
+• ICES-003 Class A 
+• CE Class A 
+• C-Tick Class A 
+• uCL 
+• CB 
+• cUL 
+
+    
+
+13 Warranty 5 Years ON Site Comprehensive Warranty service & support.     
+
+NOTE: ALL ABOVE SPECIFICATIONS SHOULD BE READ AS SAME OR BETTER. 
+
+ 
+
+6 U Rack 
+Sr. No Descriptions Compliance ( YES/ No) Remark 
+
+1 
+
+6U wall mounting rack – Rigid frame that can be fixed to 
+the wall, 19” Adjustable rails in the front and rear, Front 
+section with glass door and lock, Top and bottom cable 
+entry facility, 550mm wide 500 mm deep, Cable 
+managers, Earth continuity kit, Steel powder coated 
+cabinet (Bidder has to carry out installation/fixing) Min. 3 
+or more power sockets will be required. 
+
+    
+
+ 
+
+Cat - 6 UTP Cable - 305 Meter Box 
+
+Sr. No Type Descriptions Compliance ( YES / No) Remark 
+
+General Specification 
+1 Standard Length 305 Meters (1000 Feet)   
+
+2 Twisted Cable 
+
+4 Pair, Tangle free cable pack in 
+laminated corrugated box & Support 
+for Fast and Gigabit Ethernet, IEEE 
+802.3/5/12, Voice, ISDN, ATM 155 
+and 622 Mbps. 
+
+  
+
+Physical Specification 
+3 Conductor 23 AWG Annealed bare solid copper   
+4 Insulation High Density Polyethylene   
+5 Core Color :Pair 1 White ‐ Blue   
+6 Core Color :Pair 2 White ‐ Orange   
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 47 of 80 
+ 
+
+7 Core Color : Pair 3 White ‐ Green   
+8 Core Color : Pair 4 White ‐ Brown   
+9 Approx. Cable OD 6.5 Mm ± 10%   
+10 Operating Environment Indoor   
+
+11 Electrical Specification at 250 MHz   
+12 Standards TIA / EIA 568 B.2‐1   
+13 Impedance 100 +/‐ 15 ohm   
+14 UL / ETL Verified   
+15 Laying of UTP Cable   
+
+NOTE: ALL ABOVE SPECIFICATIONS SHOULD BE READ AS SAME OR BETTER. 
+ 
+
+Cat‐6 UTP 4Pr. Patch Cord ‐ 1 Meter 
+Sr. No Descriptions Compliance (YES / No) Remark 
+
+1 Should conform or exceed the EIA/TIA 568 B standards for CAT 6 Factory molded boots on RJ45 plugs at both ends     
+
+2 Compliance with Cat 6 standards of ISO/IEC 11801, EIA/TIA 568, EN50173     
+3 Length – 3 feet/1m UL / ETL Verified     
+
+ 
+
+Cat‐6 UTP 4Pr. Patch Cord ‐ 2 Meter 
+
+Sr. No Descriptions Compliance  (YES / No) Remark 
+
+1 Should conform or exceed the EIA/TIA 568 B standards for CAT 6 Factory molded boots on RJ45 plugs at both ends     
+
+2 Compliance with Cat 6 standards of ISO/IEC 11801, EIA/TIA 568, EN50173     
+3 Length – 7 feet/2m UL / ETL Verified     
+
+ 
+
+Cat 6 UTP Surface Single Shutter outlet with I/O Module and back box 
+
+Sr. No Descriptions Compliance ( YES / No) Remark 
+
+1 Angular / Straight Face plates with shutters     
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 48 of 80 
+ 
+
+2 Screw cap design for better looking fronts     
+
+3 Suitable for use with all RJ45 installations including CAT 5, CAT 5e and CAT6     
+
+4 RJ‐45 sockets With Blanking spacer if required.     
+5 Single Gang     
+6 Molded PVC‐U     
+7 Tough shatter resistant PVC     
+8 Designed for ease of use     
+9 Square in Size     
+10 Designed for ease of use     
+11 Uncluttered internal design     
+12 PCB based Cat 6 Keystone Jack     
+13 Spring Contact: 50u” gold over 100u” nickel     
+
+14 Should Support T568A/T568B wiring Standards UL/ ETL Verified     
+
+15 Termination of Information Outlet     
+NOTE: ALL ABOVE SPECIFICATIONS SHOULD BE READ AS SAME OR BETTER. 
+ 
+
+Cat 6 UTP Shuttered Patch Panel 8 Port‐Loaded with Cable Manager 
+
+Sr. No Descriptions Compliance  (YES / No) Remark 
+
+1 Port Patch Panel With Rack Mount 8 Ports Cat6, all 8 ports Fully loaded I/Os Individually replaceable.     
+
+2 RJ45 female ports on front ‐ 110 type wire termination blocks on back     
+
+3 Rack mountable     
+
+4 Compatible with 23 ‐ 24 AWG solid Conductor UTP cable.     
+
+5 Should conform or exceed the EIA/TIA 568 B.2‐1 standards for CAT6     
+
+6 Fully Compatible with Gigabit Ethernet     
+
+7 Metallic high strength and 1RU height, Should have routing rings, ties, labeling strips for identification     
+
+8 
+Should have protection on each port to protect from dust 
+ingress and such particles by having shutter or cap. UL / 
+ETL Verified 
+
+    
+
+ 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 49 of 80 
+ 
+
+Cat 6 UTP Shuttered Patch Panel 16 Port‐Loaded with Cable Manager 
+Sr. 
+No Descriptions 
+
+Compliance  
+(YES / No) Remark 
+
+1 Port Patch Panel With Rack Mount 16 Ports Cat6, all 16 ports Fully loaded I/Os Individually replaceable.     
+
+2 RJ45 female ports on front ‐ 110 type wire termination blocks on back     
+
+3 Rack mountable     
+4 Compatible with 23 ‐ 24 AWG solid Conductor UTP cable.     
+
+5 Should conform or exceed the EIA/TIA 568 B.2‐1 standards for CAT6     
+
+6 Fully Compatible with Gigabit Ethernet     
+
+7 Metallic high strength and 1RU height, Should have routing rings, ties, labeling strips for identification     
+
+8 Should have protection on each port to protect from dust ingress and such particles by having shutter or cap. UL / ETL Verified     
+
+ 
+
+Cat 6 UTP Shuttered Patch Panel 24 Port‐Loaded with Cable Manager 
+Sr. 
+No Descriptions 
+
+Compliance 
+ (YES / No) Remark 
+
+1 Port Patch Panel With Rack Mount 24 Ports Cat6, all 24 ports Fully loaded I/Os Individually replaceable.     
+
+2 RJ45 female ports on front ‐ 110 type wire termination blocks on back     
+
+3 Rack mountable     
+4 Compatible with 23 ‐ 24 AWG solid Conductor UTP cable.     
+
+5 Should conform or exceed the EIA/TIA 568 B.2‐1 standards for CAT6     
+
+6 Fully Compatible with Gigabit Ethernet     
+
+7 Metallic high strength and 1RU height, Should have routing rings, ties, labeling strips for identification     
+
+8 Should have protection on each port to protect from dust ingress and such particles by having shutter or cap. UL / ETL Verified     
+ 
+
+PVC Pipe with Accessories need to be installed where ever required 
+ 
+1.5 Size PVC Pipe with Accessories need to be installed where ever required.  
+(As per Actual qty required  at site) 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 50 of 80 
+ 
+
+MAKE AND MODEL LIST 
+ 
+Sr. 
+No. 
+
+Name of the Item Make Model 
+Page no. of Physical Bid 
+for Supporting Document  
+
+1 i5 regular desktop or Equivalent  
+  
+
+2 i3 regular desktop or Equivalent    
+
+3 8 Port Non-manageable Switch    
+
+4 16 Port Non-manageable Switch    
+
+5 24 Port Non-manageable Switch    
+
+6 6 U Rack    
+
+7 Cat-6 UTP Cable - 305 Meters in a Box    
+
+8 Cat-6 UTP 4Pr. Patch Cord – 1 Meter    
+
+9 Cat-6 UTP 4 pair Patch Cord - 2 Meter    
+
+10 
+Cat 6 UTP Surface Single Shutter outlet with 
+I/O module and back box 
+
+   
+
+11 
+Cat 6 UTP Shuttered Patch Panel 8 Port-
+Loaded with cable Manager 
+
+   
+
+12 
+Cat 6 UTP Shuttered Patch Panel 16 Port-
+Loaded with cable Manager 
+
+   
+
+13 
+Cat 6 UTP Shuttered Patch Panel 24 Port-
+Loaded with cable Manager 
+
+   
+
+14 1.5 Size PVC Pipe with Accessories     
+ 
+
+Please add additional lines if required. 
+ 
+
+NOTE: 
+1) Bidder has to compulsory quote for single OEM make & model of each & every item. 
+
+The bid with multiples OEM & Models will be treated as non-compliance & that bid will 
+be liable for rejection for further evaluation. 
+
+2)  All the hardware should cover 5 Years on-site warranty support for all Component (HW 
+& OS), Supplied including re-loading, re-Configuring of all S/W and Drivers, if required. 
+
+3) All parts of Desktop (Monitor, Keyboard, Mouse etc) should be of same OEM and with 5 
+years on-site warranty support by OEM. 
+
+4) All Active Components of networking should be from same OEM, also with 5 years on-
+site warranty support by OEM. 
+
+5) All Passive Components of networking should be from same OEM.
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 51 of 80 
+ 
+
+ANNEXURE II: COMMERCIAL BID (Prices in Indian Rupees – INR) 
+ Commercial Bid Submission Format ( Prices in Indian Rupees – INR ) 
+
+Sr. 
+No
+: 
+
+Description 
+HSN 
+code/ 
+SAC 
+
+UoM Qty 
+Unit 
+Rate            
+
+(In Rs) 
+TOTAL Amt. 
+Without GST. 
+
+GST in 
+% GST AMT. 
+
+TOTAL Amt. 
+With GST. 
+
+   
+(A) (B) (C) =(AxB) (D) 
+
+(E) = 
+CxD/100 
+
+(F) = (C+E) 
+
+1 i5 regular desktop or Equivalent 
+ 
+
+Nos. 573 
+     
+
+2 i3 regular desktop or Equivalent 
+ 
+
+Nos. 1719 
+     
+
+3 8 Port Non-manageable Switch 
+ 
+
+Nos. 90 
+     
+
+4 16 Port Non-manageable Switch  Nos. 80      
+5 24 Port Non-manageable Switch  Nos. 60      
+6 6 U Rack  Nos. 1      
+
+7 
+Cat-6 UTP Cable - 305 Meters in a 
+Box (1,59,390 mtr) 
+
+ Box 522      
+
+8 
+Cat-6 UTP 4Pr. Patch Cord – 1 
+Meter 
+
+ Nos. 1      
+
+9 
+Cat-6 UTP 4 pair Patch Cord - 2 
+Meter 
+
+ Nos. 2898      
+
+10 
+Cat 6 UTP Surface Single Shutter 
+outlet with I/O module and back 
+box 
+
+ Nos. 2898      
+
+11 
+Cat 6 UTP Shuttered Patch Panel 
+8 Port-Loaded with cable Manager 
+
+ Nos 1      
+
+12 
+Cat 6 UTP Shuttered Patch Panel 
+16 Port-Loaded with cable 
+Manager 
+
+ Nos 1      
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 52 of 80 
+ 
+
+13 
+Cat 6 UTP Shuttered Patch Panel 
+24 Port-Loaded with cable 
+Manager 
+
+ Nos 1      
+
+14 
+1.5 Size PVC Pipe with 
+Accessories  
+
+ Meter 159390      
+
+15 
+Rack Installation with Patch cord 
+Routing 
+
+ Nos 1      
+
+16 Termination of 8 Port Jack Panel  Nos 1      
+
+17 Termination of 16 Port Jack Panel  Nos 1      
+
+18 Termination of 24 Port Jack Panel  Nos 1      
+
+19 Laying of CAT-6 UTP Cable  Meter 159390      
+
+20 Laying of PVC with Accessories  Meter 159390      
+
+21 Termination of Information Outlet  Nos. 2898      
+
+22 
+RJ45 Crimping with RJ45 
+connector at Switch side   
+
+ Nos. 3210      
+
+Grand Total in Rs.  
+  
+
+Notes: 
+A. L1 will be decided on total amount including all type of taxes (GST). Above quoted rates are valid for 180 
+
+days from the date of Work order 
+B. Quantities mentioned of Sr. No: 3 to 22 are indicative. The actual quantity of those items may vary & payment 
+
+will be released accordingly on the pro-rata basis only for actual supply. 
+C. Bidder needs to quote composite rate i.e. CGST + SGST + CESS or CGST + IGST + CESS as the case may be. 
+D. GST is required to be quoted separately in the price bid. In case of non-quoting of GST separately in the price bid, 
+
+the price quoted will be deemed to be inclusive of all taxes and duties. Thus additional claim on account of GST 
+shall not be entertained at any cost. 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 53 of 80 
+ 
+
+E. Rate to be quoted should be inclusive of Packing/ Forwarding, transportation, insurance, installation and with 
+applicable warranty. 
+
+F. Any changes in Govt. Taxes / Duties would be applicable as on actual at the time of invoice processing. 
+G. All parts of Desktop (Monitor, Keyboard, Mouse etc) should be of same OEM and with 5 years on-site warranty 
+
+support by OEM 
+H. All Active Components of networking should be from same OEM, also with 5 years on-site warranty support by 
+
+OEM. 
+I. All Passive Components of networking should be from same OEM. 
+
+ 
+
+ 
+ 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 54 of 80 
+ 
+
+ANNEXURE III (S): MANUFACTURER’S AUTHORIZATION FORMAT (FOR SYSTEM 
+INTEGRATOR) 
+ (To be executed on OEM Letter Head by OEM of Computers & Network Components with 5 
+years onsite warranty support & service). 
+  
+ No:-                                      Dated:- XXXX 
+ 
+
+To, 
+GUJ INFO PETRO LTD (GIPL), 
+2ND FLOOR, BLOCK-15, 
+UDYOG BHAVAN, 
+Sector - 11, Gandhinagar - 382 011. 
+Gujarat, INDIA. 
+ 
+Subject: - Authorization to System Integrator for supply & support. 
+ 
+Ref: E-TENDER (No: GIPL/HCG/GSJ/HW-LAN/18-19/15) issued for “Supply, Installation, 
+Testing, Commissioning and Maintenance of hardware and LAN components for the 
+Gujarat Subordinate Judiciary.” 
+ 
+Dear Sir, 
+ 
+
+This is with reference to referenced tender & subject. We, OEM, certify that (Bidder Name), 
+having their registered office at (Bidder Address) is an authorized partner to bid against your 
+tender enquiry referred above on behalf of us. 
+ 
+As OEM, we assure to provide support & services to (Bidder Name) for following quoted 
+products till the contract completion period.  Also, we, as OEM assure that the product quoted 
+(Make: ____  Model:____) are not End of Life and we shall support spares, patches for the 
+quoted products and/or Upgraded version would be available for next 5 years from the 
+commission date of Project. So we, OEM, hereby undertake that all the 
+components/parts/software used in our products shall be original & new and no refurbished / 
+duplicate / second hand components / parts / software are being used or shall be used in 
+future. 
+ 
+Sr. No: Product description Make Model 
+    
+
+ 
+Yours faithfully,  
+(Authorized Signatory)  
+Name, Signature & Seal of the Bidder  
+Place:  
+Date: 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 55 of 80 
+ 
+
+ 
+ANNEXURE III (O): MANUFACTURER’S AUTHORIZATION FORMAT (FOR OEM) 
+ 
+
+(To be executed on OEM Letter Head by OEM of Computers & Network Components with 5 
+years onsite warranty support & service). 
+  
+ No:-                                      Dated:- XXXX 
+ 
+
+To, 
+GUJ INFO PETRO LTD (GIPL), 
+2ND FLOOR, BLOCK-15, 
+UDYOG BHAVAN, 
+Sector - 11, Gandhinagar - 382 011. 
+Gujarat, INDIA. 
+ 
+
+Subject: - OEM Declaration for supply & support. 
+ 
+Ref: Tender Name: E- TENDER (No: GIPL/HCG/GSJ/HW-LAN/18-19/15) issued for 
+“Supply, Installation, Testing, Commissioning and Maintenance of hardware and LAN 
+components for the Gujarat Subordinate Judiciary.” 
+ 
+Dear Sir, 
+ 
+
+This is with reference to referenced tender & subject., we are as  OEM (Manufacturer) assuring  
+to provide 5 years warranty support & services to quoted products (Make: ____ Model:____) 
+from the date of bid submission by us.  As OEM, we assure that the products quoted                 
+(Make: ____  Model:____) are not End of Life and we will provide spares, patches for the 
+quoted products and they would be available for next 5 years from the date of bid submission 
+by us. Also we, As OEM (Manufacturer), hereby undertake that all the 
+components/parts/software used in our products shall be original & new and no refurbished / 
+duplicate / second hand components / parts / software are being used or shall be used in 
+future. 
+ 
+Sr. No: Product description Make Model 
+
+    
+ 
+
+Yours faithfully,  
+(Authorized Signatory)  
+Name, Signature & Seal of the OEM  
+Place:  
+Date 
+
+  
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 56 of 80 
+ 
+
+ANNEXURE IV:  BIDDER INFORMATION SHEET & UNDERTAKING 
+About the Company  
+ 
+
+ 
+
+Name of the Company:   
+Postal Address (Regd. Office):   
+Postal Address (Local Office):   
+Constitution, Registration No./Date:   
+Income Tax PAN  No:  
+GST Registration No.:  
+
+ 
+About the Authorized Signatory: 
+ 
+
+Name:   Designation:   
+
+Office Address:   Email:   
+
+Tel./Fax Nos.:   Cell No.:   
+
+ 
+Undertaking 
+
+ 
+On behalf of M/s....................................................... (Name of the Bidder), I, the undersigned, 
+state that all the information stated above as well as in other parts of our bid is true. I hereby 
+undertake and agree to abide by all the terms and conditions stipulated by GIPL in this RFP 
+including all addendum, corrigendum etc. Any deviation may result in disqualification of bids. I 
+also do hereby affirm and comply with the all the technical specifications of all the products 
+given in the RFP including all addendum, corrigendum etc. while performing the contractual 
+obligations relating to the GIPL for “Supply, Installation, Testing, Commissioning and 
+Maintenance of hardware and LAN components for the Gujarat Subordinate Judiciary.” Also, I 
+do affirm and assure that the product proposed by us is complete and total meeting all the 
+functional requirements of GIPL as stated in the Bid Document.  
+ 
+Yours faithfully,  
+(Authorized Signatory)  
+Name, Signature & Seal of the Bidder  
+Place:  
+Date: 
+ 
+  
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 57 of 80 
+ 
+
+ANNEXURE V:  BANK DETAIL OF BIDDER 
+NAME OF PARTY    : 
+
+Details of the Bank Account  : 
+
+(1)   Name of the Bank  : 
+
+(2)   Branch & Address of the Bank   :  
+
+(3)  MICR No.                 :  
+
+(4) Type of Bank Account (SB/Current/OD/etc.) :  
+
+(5)  Bank Account No.  :  
+
+(6) PAN No.       : 
+
+ (7) IFSC CODE NO.                      :  
+
+(Please fill all information in block letters) 
+
+The above information of my bank account is true & correct as per my knowledge.  
+
+ 
+
+Authorized signature & seal of Bidder. 
+
+  
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 58 of 80 
+ 
+
+ANNEXURE-VI: EARNEST MONEY DEPOSIT (EMD) BANK GUARANTEE FORMAT  
+ 
+
+(To be stamped in accordance with the Stamp Act) 
+
+Ref............... Bank Guarantee No......... 
+
+  Date...................... 
+
+To 
+GUJ INFO PETRO LTD (GIPL), 
+2ND FLOOR, BLOCK-15, 
+UDYOG BHAVAN, 
+Sector 11, Gandhinagar-382011 
+Gujarat, INDIA 
+ 
+Dear Sir(s), 
+
+In accordance with Letter Inviting Tender under your reference No___________ 
+M/s.______________________________ having their Registered / Head Office at 
+_________________________(hereinafter called the Tenderer) wish to participate in the said 
+tender for _________________________________________________________________ 
+
+As an irrevocable Bank Guarantee against Earnest Money for the amount of ______________ is 
+required to be submitted by the Tenderer as a condition precedent for participation in the said 
+tender which amount is liable to be forfeited on the happening of any contingencies mentioned in 
+the Tender Document. 
+
+We, the ____________________________________ Bank 
+at_____________________________ 
+
+having our Head Office ________________________________________________________ 
+
+(Local Address) guarantees and undertakes to pay immediately on demand without any recourse 
+to the tenderers by GUJ INFO PETRO LTD.  the amount________________ 
+____________________ without any reservation, protest, demur and recourse.  Any such 
+demand made by GIPL, shall be conclusive and binding on us irrespective of any dispute or 
+difference raised by the Tenderer. 
+
+This guarantee shall be irrevocable and shall remain valid up to ____________ [this date should 
+be 240 days after the date finally set out for closing of tender].  If any further extension of this 
+guarantee is required, the same shall be extended to such required period on receiving 
+instructions from 
+M/s.__________________________________________________________________________ 
+Whose behalf this guarantee is issued. 
+
+In witness whereof the Bank, through its authorized officer, has set its hand and stamp on this 
+___________day of ____________201 __at____________. 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 59 of 80 
+ 
+
+ 
+WITNESS: 
+ 
+(SIGNATURE)        (SIGNATURE) 
+(NAME)          (NAME) 
+        Designation with Bank Stamp 
+ 
+(OFFICIAL ADDRESS)     Attorney as per 
+        Power of Attorney No.________ 
+Date: ________________________ 
+ 
+
+INSTRUCTIONS FOR FURNISHING BID-GUARANTEE 
+
+1. The Bank Guarantee by bidders will be given on non-judicial stamp paper as per 
+stamp duty applicable.  The non-judicial stamp paper should be in the name of the 
+issuing bank.  
+
+2. The expiry date as mentioned in bid document should be arrived at by adding Sixty 
+(60) days to the date of expiry of the bid validity unless otherwise specified in the Bid 
+Documents. 
+
+3. A letter from the issuing bank of the requisite Bank Guarantee confirming that said 
+bank guarantee / all future communication relating to the Bank Guarantee shall be 
+forwarded to GIPL. 
+
+4. Bidders must indicate the full postal address of the bank along with the bank’s E-mail/ 
+Fax from where the earnest money bond has been issued. 
+
+ 
+ 
+  
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 60 of 80 
+ 
+
+ 
+ANNEXURE-VII: SECURITY DEPOSIT FORMAT 
+Proforma for Security Deposit—Unconditional 
+
+ [on stamp paper of appropriate value] 
+
+[from a scheduled bank] 
+
+Date:     
+
+Loan / Credit No:     
+
+IFB No:     
+
+[Name of Contract] 
+
+To: [Name and address of CLIENT] 
+
+Subject: Bank Guarantee No. [insert] 
+
+WHEREAS, [insert] a company incorporated under [insert] having its registered office at 
+[insert] (hereinafter referred to as the “Supplier” which expression shall unless repugnant to 
+the context or meaning thereof include its successors and permitted assigns) have entered into 
+a Contract for [insert description of the Project]at [insert location State of Gujarat, India], 
+dated [insert] (hereinafter such agreement, as amended modified or supplemented, referred to 
+as the “Contract”) with [CLIENT Name] having its registered office at [insert] (hereinafter 
+referred to as the “Purchaser” which expression shall unless repugnant to the context or 
+meaning thereof include its successors and assigns).  
+
+WHEREAS, it has been stipulated under [ Insert Clause no with Tender ID] that the Supplier 
+is obliged to furnish to Purchaser an irrevocable, unconditional, first demand bank guarantee 
+issued by specified financial institutions acceptable to Purchaser , for a sum of Rupees [ Insert 
+Guarantee amount] guaranteeing the validity of Contract Price during the Contract Price 
+Validity Period and for the due performance by the Supplier of the Contract Documents. 
+
+AND WHEREAS, [insert bank name] having its registered office at [insert] and a branch office 
+at [insert name of city in India] India, hereinafter referred to as the “Bank” (which expression 
+shall unless repugnant to the context or meaning thereof be deemed to mean and include its 
+successors), being a schedule bank in India and acceptable to Purchaser, has at the request of 
+the Supplier agreed to issue this security deposit guarantee in favor of Purchaser. 
+
+NOW THEREFORE THIS BANK GUARANTEE WITNESSETH AS FOLLOWS: 
+
+(1) The Bank hereby undertakes the pecuniary responsibility of the Supplier to Purchaser 
+for the due performance of the Contract and for the payment of any money by the 
+Supplier to Purchaser and hereby issues in favour of Purchaser this irrevocable and 
+unconditional performance and payment bank guarantee (hereinafter referred to as the 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 61 of 80 
+ 
+
+“Guarantee”) on behalf of the Supplier in the amount of [ Insert Guarantee 
+amount](hereinafter referred to as the “Guarantee Amount”). 
+
+(2) The Bank for the purpose hereof unconditionally and irrevocably undertakes to pay to 
+Purchaser  without any demur, reservation, cavil, protest or recourse; immediately on 
+receipt of first written demand from Purchaser , any sum or sums (by way of one or 
+more claims) not exceeding in the aggregate the guarantee amount without Purchaser  
+needing to prove or to show to the Bank grounds or reasons for such demand for the 
+sum specified therein and notwithstanding any dispute or difference between Purchaser  
+and the Supplier in respect of the performance of the Contract or moneys payable by 
+Supplier to Purchaser  or any matter whatsoever related thereto.  
+
+(3) The Bank acknowledges that any such demand by Purchaser of the amounts payable 
+by the Bank to Purchaser shall be final, binding and conclusive evidence in respect of 
+the amounts payable by the Supplier to Purchaser. 
+
+(4) The Bank hereby waives the necessity for Purchaser from demanding the aforesaid 
+amount or any part thereof from the Supplier and also waives any right that the Bank 
+may have of first requiring Purchaser to pursue its legal remedies against the Supplier, 
+before presenting any written demand to the Bank for payment under this Guarantee. 
+
+(5) The Bank further unconditionally agrees with Purchaser  that Purchaser  shall be at 
+liberty, without the Bank’s consent and without affecting in any manner the Bank’s 
+obligation under this Guarantee, from time to time, to: 
+
+(i) vary and/or modify any of the terms and conditions of the Contract, 
+
+(ii) Extend and/or postpone the time for performance of the obligations of the 
+Supplier under the Contract, or 
+
+(iii) Forbear or enforce any of the rights exercisable by Purchaser against the 
+Supplier under the terms and conditions of the Contract 
+
+and the Bank shall not be relieved from its liability by reason of any such act or omission 
+on the part of Purchaser  or any indulgence by Purchaser  to the Supplier or other thing 
+whatsoever which under the law relating to sureties would, but for this provision, have 
+the effect of relieving the Bank of its obligations under this Guarantee. 
+
+(6) The Bank’s obligations under this Guarantee shall not be reduced by reason of any 
+partial performance of the Contract. The Bank’s obligations shall not be reduced by any 
+failure by Purchaser to timely pay or perform any of its obligations under the Contract.  
+
+(7) Any payment made hereunder shall be made free and clear of and without deduction 
+for, or on account of, any present or future taxes, levies, imposts, duties, charges, fees, 
+commissions, deductions or withholdings of any nature whatsoever and by whomever 
+imposed; and where any withholding on a payment is required by law, the Bank shall 
+comply with such withholding obligations and shall pay such additional amount in 
+respect of such payment such that Purchaser receives the full amount due hereunder as 
+if no such withholding had occurred. 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 62 of 80 
+ 
+
+(8) This Guarantee shall be a continuing bank guarantee and shall not be discharged by the 
+change in constitution of any member of the Supplier and the Guarantee shall not be 
+affected or discharged by the liquidation, winding up, bankruptcy, reorganization, 
+dissolution or insolvency of any member of the Supplier or any other circumstances 
+whatsoever.  
+
+(9) This Guarantee shall be in addition to and not in substitution or in derogation of any 
+other security held by Purchaser to secure the performance of the obligations of the 
+Supplier under the Contract. 
+
+(10) The Bank agrees that Purchaser at its option shall be entitled to enforce this Guarantee 
+against the surety, as a principal debtor in the first instance without proceeding at the 
+first instance against the Supplier.  
+
+(11) Without prejudice to any continuing liability to perform obligations under this Guarantee 
+which have arisen prior thereto, the Bank shall be released from any further obligations 
+arising hereunder after [insert] (insert the date.).  
+
+(12) Purchaser may assign this Guarantee to any person and in such case Purchaser  shall 
+inform the Bank in writing. This Guarantee shall not be assigned or transferred by the 
+Bank. 
+
+(13) All disputes arising under this Guarantee shall be referred to a tribunal comprising three 
+(3) arbitrators under the (Indian) Arbitration and Conciliation Act, 1996.  Each Party to 
+the arbitration shall appoint one (1) arbitrator and the two (2) arbitrators thus appointed 
+shall choose the third arbitrator who will act as a presiding arbitrator of the tribunal 
+(together forming the “Arbitral Tribunal”). The decision(s) of the Arbitral Tribunal, shall 
+be final and binding on the Parties. The venue of arbitration shall be [Ahmedabad]. This 
+Clause 13 shall survive the termination or expiry of this Guarantee. The governing law of 
+the arbitration shall be the substantive laws of India. 
+
+(14) This Guarantee shall be construed and interpreted in accordance with and governed by 
+the laws of India, and subject to Clause (13) above the courts at [Ahmedabad] shall 
+have jurisdiction over all matters arising out of or relating to this Guarantee. 
+
+(15) The Bank has the power to issue this Guarantee in favour of Purchaser. The aggregate 
+liability of the Bank under this Guarantee shall not under any circumstance exceed 
+Indian Rupees [insert] (insert an amount).  
+
+(16)  Notwithstanding anything contained herein, this Guarantee shall be valid up to the 
+expiry of the Warranty Period (including any extensions thereof, written notice of which 
+shall be provided to the Bank). A written claim or demand shall be served upon us on or 
+before the said date, after which this Guarantee shall become null and void. 
+
+(17) No action, event or condition which by any Applicable Law should operate to discharge 
+the Bank from liability hereunder shall have any effect and the Bank hereby waives any 
+right it may have to apply such law, so that in all respects its liability hereunder shall be 
+irrevocable and, except as stated herein, unconditional in all respects. 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 63 of 80 
+ 
+
+(18) Capitalized terms not otherwise defined herein shall have their respective meanings 
+given such terms set forth in the Contract. 
+
+IN WITNESS WHEREOF the Bank, through its authorized officer, has set its hand and stamp 
+on this [insert] day of [insert] 2017 
+
+(Signature) 
+
+[insert name of signatory] 
+[insert designation of signatory] 
+
+(Duly authorized representative) 
+Vide power of attorney No. [insert]   
+
+Dated [insert] 
+
+Witness 
+
+[insert] 
+
+[insert] 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 64 of 80 
+ 
+
+ANNEXURE VIII: INSTRUCTIONS FOR BIDDERS FOR TECHNICAL BID 
+ 
+
+8.1. BID COVERING LETTER 
+Date: <DD/MM/YYYY> 
+
+To 
+Chief Executive Officer 
+Guj Info Petro Limited 
+Block No: 15, 2nd Floor, Udyog Bhavan, 
+Sector -11, Gandhinagar – 382 011, Gujarat. 
+ 
+Subject:  Technical proposal submission. 
+ 
+Ref   :  E- Tender No: GIPL/HCG/GSJ/HW-LAN/18-19/15 dated <DD/MM/YYYY>  
+ 
+Dear Sir, 
+ 
+Having examined the RFP, the receipt of which is hereby duly acknowledged, we, the 
+undersigned, offer to provide the materials & professional services as required and outlined in 
+the RFP for “Supply, Installation, Testing, Commissioning and Maintenance of hardware and 
+LAN components for the Gujarat Subordinate Judiciary”. 
+ 
+We attach hereto our responses to pre-qualification requirements and technical proposals as 
+required by the RFP. We confirm that the information contained in these responses or any part 
+thereof, including the exhibits, and other documents and instruments delivered or to be 
+delivered to GIPL/CLIENT is true, accurate, verifiable and complete. This response includes all 
+information necessary to ensure that the statements therein do not in whole or in part mislead 
+the department in its short-listing process. 
+ 
+We fully understand and agree to comply that on verification, if any of the information provided 
+here is found to be misleading the selection process, we are liable to be dismissed from the 
+selection process or termination of the contract during the project, if selected to do so. 
+ 
+We agree for unconditional acceptance of all the terms and conditions set out in the RFP 
+document and also agree to abide by this tender response for a period of 180 days from the 
+date fixed for bid submission. We hereby declare that in case the contract is awarded to us, we 
+shall submit the contract performance guarantee bond in the form prescribed the RFP. 
+ 
+We agree that you are not bound to accept any tender response you may receive. We also 
+agree that you reserve the right in absolute sense to reject all or any of the products/ services 
+specified in the tender response. 
+ 
+ 
+ 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 65 of 80 
+ 
+
+It is hereby confirmed that I/We are entitled to act on behalf of our company/ corporation/ firm/ 
+organization and empowered to sign this document as well as such other documents, which 
+may be required in this connection. 
+ 
+___________________________________________ 
+Signature of Authorized Signatory (with official seal) 
+  
+Name   : 
+Designation  : 
+Company                 :  
+Address  :  
+Telephone & Fax :  
+E-mail Address :  
+ 
+  
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 66 of 80 
+ 
+
+8.2. CHECK-LIST FOR THE DOCUMENTS TO BE INCLUDED IN THE PRE-
+QUALIFICATION FOLDER 
+
+ 
+Sr.    Pre-Qualification Criteria                                            Submitted    Documentary 
+No:                                                                                         (Yes / No)     Proof on page No: 
+
+1 Bid Covering Letter as per Section 8.1   
+
+2 
+Power of attorney/board resolution to the authorized 
+signatory of the bid 
+
+  
+
+3 
+Scanned copy of payment slip of EMD and Tender 
+Fee 
+
+  
+
+4 OEM MAF of Computers & Network components as 
+per Annexure III. 
+
+  
+
+5 Copy of certificate of incorporation   
+
+6 
+Copy of the audited turnover & Networth for  last 3 
+FY (2015-16, 2016-17, 2017-18) as per Section 8.3 
+
+  
+
+7 
+Cover letter as per Section 8.4 and enclosed copies 
+of Work Order and Work Completion certificate. 
+
+  
+
+8 Copy of registration certificate and number  of GST    
+
+9 
+Copy of Income Tax Returns (ITR) for last 3 FY 
+(2015-16, 2016-17, 2017-18) and copy of PAN card 
+
+  
+
+10 Valid Address proof for office in Gujarat.   
+
+11 Declaration regarding blacklisting as per Section 8.5   
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 67 of 80 
+ 
+
+8.3. FORMAT FOR BIDDER’S TURNOVER AND NET WORTH OVER LAST 3 FY 
+ 
+
+To 
+Chief Executive Officer 
+Guj Info Petro Limited 
+Block No: 15, 2nd Floor, Udyog Bhavan, 
+Sector -11, Gandhinagar – 382 011, Gujarat. 
+ 
+
+Subject:  Financial data submission. 
+ 
+
+Ref   :  E- Tender No: GIPL/HCG/GSJ/HW-LAN/18-19/15 dated <DD/MM/YYYY>  
+ 
+
+Dear Sir, 
+ 
+
+I have carefully gone through the Terms & Conditions contained in the RFP Document for 
+“Supply, Installation, Testing, Commissioning and Maintenance of hardware and LAN 
+components for the Gujarat Subordinate Judiciary”. I hereby declare that below are the details 
+regarding Turnover, and Profit of our company. 
+ 
+
+#    Details                                                   FY 2015-16    FY 2016-17    FY 2017-18 
+                                                                        (in Lacs)        (in Lacs)        (in Lacs) 
+1 Turnover    
+2 Net worth    
+
+ 
+
+Contact details of officials for future correspondence regarding the bid process: 
+Details                               Authorized Signatory                              Secondary Contact 
+
+Name   
+Title   
+
+Company Address   
+Phone   
+Mobile   
+
+Fax   
+E-mail   
+
+ 
+
+Chartered Accountant Name:  
+Chartered Accountant Signature:  
+Chartered Accountant Seal: 
+ 
+I further certify that I am competent officer in my company to make this declaration. Yours 
+Sincerely, 
+ 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 68 of 80 
+ 
+
+8.4.   FORMAT PQ_4: DETAILS OF SIMILAR WORK UNDERTAKEN 
+ 
+
+No:           Date: <DD/MM/YYYY> 
+ 
+To 
+Chief Executive Officer 
+Guj Info Petro Limited 
+Block No: 15, 2nd Floor, Udyog Bhavan, 
+Sector -11, Gandhinagar – 382 011, Gujarat. 
+ 
+Ref   :  E- Tender No: GIPL/HCG/GSJ/HW-LAN/18-19/15 dated <DD/MM/YYYY>  
+ 
+Dear Sir, 
+ 
+
+I have carefully gone through the Terms & Conditions contained in the RFP Document for 
+“Supply, Installation, Testing, Commissioning and Maintenance of hardware and LAN 
+components for the Gujarat Subordinate Judiciary”. I hereby declare that below are the details 
+regarding relevant work that has been taken up by our company. (NOTE: To be filled for 
+separately for each project undertaken) 
+ 
+
+Name of the Project 
+General Information 
+Client for which the project was executed  
+Name of the client contact person(s)  
+Designation of client contact person(s)  
+Contact details of the client contact person(s)  
+
+  
+Project Details 
+Description of the project  
+Scope of work of the bidder  
+Deliverables of the bidder  
+Technologies used  
+Outcomes of the project  
+
+  
+Other Details 
+Total cost of the project  
+Total cost of services provided by the bidder  
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 69 of 80 
+ 
+
+Duration of the project (number of months, 
+start 
+
+ 
+     
+
+ 
+
+  
+
+Other Relevant Information 
+Mandatory Supporting Documents: 
+
+ 
+ Work Order/Purchase Order/Contract for the project 
+ 
+ Client Certificate giving present status of the project and view of the quality of services 
+
+by the bidder 
+ 
+
+ 
+                   
+
+    
+
+ 
+ 
+I further certify that I am competent officer in my company to make this declaration.  
+ 
+ 
+Yours Sincerely, 
+  
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 70 of 80 
+ 
+
+8.5. FORMAT  FOR SELF DECLARATION – NO BLACKLISTING CERTIFICATE 
+ 
+
+No:           Date: <DD/MM/YYYY> 
+To 
+Chief Executive Officer 
+Guj Info Petro Limited 
+Block No: 15, 2nd Floor, Udyog Bhavan, 
+Sector -11, Gandhinagar – 382 011, Gujarat. 
+ 
+Ref   :  E- Tender No: GIPL/HCG/GSJ/HW-LAN/18-19/15 dated <DD/MM/YYYY>  
+ 
+
+Dear Sir, 
+ 
+In response to the referenced tender for “Supply, Installation, Testing, Commissioning and 
+Maintenance of hardware and LAN components for the Gujarat Subordinate Judiciary” as an 
+owner/partner/director of ____________________________, I/ We hereby declare that 
+presently our company/firm ____________________________ is having unblemished record 
+and is not declared ineligible for corrupt and fraudulent practices either indefinitely or for a 
+particular period of time by any State/Central Government/PSU. 
+ 
+We further declare that presently our company / firm ____________________________                                                              
+is not blacklisted by any State/Central Government/ PSU for supply, installation, testing, 
+commissioning & maintenance of materials / services  mentioned in this tender document & 
+carrying out operations and maintenance work of said materials / services as on the date of 
+Bid submission.  
+ 
+We further declare that presently our company/ firm ____________________________                                                              
+is not blacklisted and not declared ineligible for reasons of corrupt and fraudulent practices by 
+any State/Central Government/ PSU on the date of Bid submission. 
+ 
+If this declaration is found to be incorrect then without prejudice to any other action that may be 
+taken, my/our security may be forfeited in full and the tender if any to the extent accepted may 
+be cancelled. 
+ 
+Yours Sincerely,  
+Name of the Bidder:  
+Authorized Signatory:  
+Seal of the Organization:  
+Date: 
+Place: 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 71 of 80 
+ 
+
+ANNEXURE A: LIST OF LOCATIONS: 
+ 
+
+Sr. 
+No. 
+
+Judicial District 
+Name Name of the Court Complex 
+
+Intel i5 
+Regular 
+Desktop 
+
+Intel i3 
+Regular 
+Desktop 
+
+Total 
+Computers 
+
+6 LAN 
+Points 
+
+12 LAN 
+Points 
+
+Total 
+LAN 
+
+Points 
+1 Ahmedabad City Civil & Sessions Court 0 0 0 0 0 0 
+
+2 Ahmedabad Small Cause Court, Bhadra , Ahmedabad 12 36 48 0 72 72 
+
+3 Ahmedabad Metropolitan Magistrate Courts, Ahmedabad 3 9 12 0 0 0 
+
+4 Ahmedabad Family Court, Ahmedabad 8 24 32 0 48 48 
+
+5 Ahmedabad Nyaysankul, Mirzapur Ahmedabad, (Rural) 3 9 12 0 0 0 
+
+6 Ahmedabad Dholka 5 15 20 30 0 30 
+7 Ahmedabad Dhandhuka 0 0 0 0 0 0 
+8 Ahmedabad Viramgam 0 0 0 0 0 0 
+9 Ahmedabad Viramgam FTC 0 0 0 0 0 0 
+
+10 Ahmedabad Sanand 1 3 4 6 0 6 
+11 Ahmedabad Barvala 2 6 8 0 12 12 
+12 Ahmedabad Bavla 4 12 16 0 24 24 
+13 Ahmedabad Railway Court 2 6 8 0 12 12 
+14 Ahmedabad Industrial Court, Ahmedabad 1 3 4 0 0 0 
+15 Ahmedabad Labour Court, Ahmedabad 1 3 4 0 0 0 
+16 Amreli District Court,  Amreli 2 6 8 0 0 0 
+17 Amreli Amreli FTC (Closed) 0 0 0 0 0 0 
+18 Amreli Lathi 0 0 0 0 0 0 
+19 Amreli Bagasara 1 3 4 6 0 6 
+20 Amreli Dhari 0 0 0 0 0 0 
+21 Amreli Savarkundla 1 3 4 6 0 6 
+22 Amreli Rajula 2 6 8 6 0 6 
+23 Amreli Lilia 2 6 8 0 12 12 
+24 Amreli Babra 1 3 4 6 0 6 
+25 Amreli Khambha 1 3 4 6 0 6 
+26 Amreli Vadia 1 3 4 6 0 6 
+27 Amreli Jafrabad 2 6 8 0 12 12 
+28 Amreli Labour Court, Amreli 0 0 0 0 0 0 
+29 Anand DC & FTC Court, Anand. 3 9 12 0 0 0 
+30 Anand Civil Court, Anand 11 33 44 48 0 48 
+31 Anand Borsad. 0 0 0 0 0 0 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 72 of 80 
+ 
+
+32 Anand Khambhat. 0 0 0 0 0 0 
+33 Anand Petlad. 0 0 0 0 0 0 
+34 Anand Umreth. 0 0 0 0 0 0 
+35 Anand Anklav 6 18 24 0 36 36 
+36 Anand Tarapur 4 12 16 0 24 24 
+37 Anand Sojitra 2 6 8 0 12 12 
+38 Anand Family Court, Anand 2 6 8 0 12 12 
+39 Anand Labour Court, Anand 1 3 4 6 0 6 
+40 Aravalli Modasa Civil 2 6 8 6 0 6 
+41 Aravalli Modasa FTC 2 6 8 0 12 12 
+42 Aravalli Bayad 0 0 0 0 0 0 
+43 Aravalli Bhiloda 1 3 4 6 0 6 
+44 Aravalli Megharaj 2 6 8 0 12 12 
+45 Aravalli Dhansura 1 3 4 6 0 6 
+46 Aravalli Malpur 2 6 8 0 12 12 
+
+47 Banaskantha at Palanpur Palanpur, DC 1 1 3 4 0 0 0 
+
+48 Banaskantha at Palanpur Palanpur. DC2 2 6 8 0 0 0 
+
+49 Banaskantha at Palanpur Palanpur, FTC 2 6 8 6 0 6 
+
+50 Banaskantha at Palanpur Deesa 11 33 44 54 0 54 
+
+51 Banaskantha at Palanpur Deesa FTC (Closed) 0 0 0 0 0 0 
+
+52 Banaskantha at Palanpur Dhanera 4 12 16 0 24 24 
+
+53 Banaskantha at Palanpur Deodar 2 6 8 12 0 12 
+
+54 Banaskantha at Palanpur Shihori 2 6 8 0 12 12 
+
+55 Banaskantha at Palanpur Tharad 1 3 4 6 0 6 
+
+56 Banaskantha at Palanpur Wav 2 6 8 0 12 12 
+
+57 Banaskantha at Palanpur Amirgadh 1 3 4 6 0 6 
+
+58 Banaskantha at Palanpur Danta 1 3 4 6 0 6 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 73 of 80 
+ 
+
+59 Banaskantha at Palanpur Vadgam 4 12 16 0 24 24 
+
+60 Banaskantha at Palanpur Bhabhar 2 6 8 0 12 12 
+
+61 Banaskantha at Palanpur Dantivada 2 6 8 0 12 12 
+
+62 Banaskantha at Palanpur Labour Court, Palanpur 1 3 4 6 0 6 
+
+63 Bharuch District Court, Bharuch 11 33 44 30 0 30 
+64 Bharuch Ankleshwar 1 3 4 6 0 6 
+65 Bharuch Hansot 0 0 0 0 0 0 
+66 Bharuch Jhagadia 1 3 4 6 0 6 
+67 Bharuch Valia 0 0 0 0 0 0 
+68 Bharuch Wagra 1 3 4 6 0 6 
+69 Bharuch Amod 0 0 0 0 0 0 
+70 Bharuch Jambusar 0 0 0 0 0 0 
+71 Bharuch Family Court 1 3 4 6 0 6 
+72 Bharuch Labour Court, Bharuch 0 0 0 0 0 0 
+73 Bhavnagar District Court, Bhavnagar 1 3 4 0 0 0 
+74 Bhavnagar Bhavnagar, Chief Court 0 0 0 0 0 0 
+75 Bhavnagar Bhavnagar, Annex. Building 0 0 0 0 0 0 
+76 Bhavnagar Bhavnagar, Ayurvedic Building 7 21 28 30 0 30 
+77 Bhavnagar Bhavnagar FTC 1 3 4 0 0 0 
+78 Bhavnagar Family Court, Bhavnagar 1 3 4 6 0 6 
+79 Bhavnagar Railway Court, Bhavnagar 2 6 8 0 12 12 
+80 Bhavnagar Gariadhar 0 0 0 0 0 0 
+81 Bhavnagar Gadhada 1 3 4 6 0 6 
+82 Bhavnagar Vallabhipur 0 0 0 0 0 0 
+83 Bhavnagar Botad 4 12 16 0 24 24 
+84 Bhavnagar Botad FTC 2 6 8 0 12 12 
+85 Bhavnagar Mahuva 4 12 16 0 24 24 
+
+86 Bhavnagar Mahuva FTC- functioning as ADJ, Mahuva 1 3 4 0 0 0 
+
+87 Bhavnagar Palitana 1 3 4 6 0 6 
+88 Bhavnagar Talaja 6 18 24 0 36 36 
+89 Bhavnagar Gogha 0 0 0 0 0 0 
+90 Bhavnagar Sihor 0 0 0 0 0 0 
+91 Bhavnagar Umrala 2 6 8 0 12 12 
+92 Bhavnagar Industrial Court, Bhavangar 1 3 4 6 0 6 
+93 Bhavnagar Labour Court, Bhavanar 2 6 8 12 0 12 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 74 of 80 
+ 
+
+94 Chhota Udepur Sankheda 1 3 4 6 0 6 
+95 Chhota Udepur Naswadi 2 6 8 0 12 12 
+
+96 Chhota Udepur Principal Civil Court, chhotaudaipur 3 9 12 18 0 18 
+
+97 Chhota Udepur Additonal Sessions Court, Chhotaudaipur 2 6 8 12 0 12 
+
+98 Chhota Udepur PaviJetpur 1 3 4 6 0 6 
+99 Chhota Udepur Kawant 1 3 4 6 0 6 
+100 Dahod District Court, Dahod 3 9 12 6 0 6 
+101 Dahod Dahod, FTC (Closed) 0 0 0 0 0 0 
+102 Dahod Devgadh Baria 0 0 0 0 0 0 
+103 Dahod Jhalod 1 3 4 6 0 6 
+104 Dahod Limkheda 3 9 12 18 0 18 
+105 Dahod Garbada 1 3 4 6 0 6 
+106 Dahod Dhanpur 2 6 8 0 12 12 
+107 Dahod Fatepura 2 6 8 0 12 12 
+108 Dahod Sanjeli 2 6 8 0 12 12 
+109 Dahod Labour Court, Dahod 1 3 4 6 0 6 
+110 Devbhumi Dwarka Khambhalia FTC 1 3 4 6 0 6 
+111 Devbhumi Dwarka Khambhalia 2 6 8 12 0 12 
+112 Devbhumi Dwarka Kalyanpur 0 0 0 0 0 0 
+113 Devbhumi Dwarka Bhanvad 0 0 0 0 0 0 
+114 Devbhumi Dwarka Dwarka 1 3 4 6 0 6 
+
+115 Gandhinagar District & Sessions Court, Gandhinagar 7 21 28 18 0 18 
+
+116 Gandhinagar Family Court, Gandhinagar 2 6 8 0 12 12 
+117 Gandhinagar Kalol 7 21 28 36 0 36 
+118 Gandhinagar Dehgam 2 6 8 12 0 12 
+119 Gandhinagar Mansa 2 6 8 12 0 12 
+120 Gandhinagar Labour Court, Kalol 0 0 0 0 0 0 
+121 Gir-Somnath Veraval District Court 2 6 8 12 0 12 
+122 Gir-Somnath Veraval Civil Court 1 3 4 0 0 0 
+123 Gir-Somnath Una FTC (ADJ Court) 2 6 8 12 0 12 
+124 Gir-Somnath Una 1 3 4 6 0 6 
+125 Gir-Somnath Sutrapada 2 6 8 0 12 12 
+126 Gir-Somnath Kodinar 1 3 4 6 0 6 
+127 Gir-Somnath Talala 0 0 0 0 0 0 
+128 Jamnagar Jamnagar District Court 1 3 4 0 0 0 
+129 Jamnagar FTC, Jamnagar (Closed) 0 0 0 0 0 0 
+130 Jamnagar Jamnagar Civil Court 3 9 12 12 0 12 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 75 of 80 
+ 
+
+131 Jamnagar Family Court, Jamnagar 2 6 8 0 12 12 
+132 Jamnagar Dhrol 0 0 0 0 0 0 
+133 Jamnagar Jamjodhpur 0 0 0 0 0 0 
+134 Jamnagar Jodia 0 0 0 0 0 0 
+135 Jamnagar Kalavad 0 0 0 0 0 0 
+136 Jamnagar Lalpur 0 0 0 0 0 0 
+137 Jamnagar Inuustrial Court, Jamnagar 1 3 4 6 0 6 
+138 Jamnagar Labour Court, Jamnagar 2 6 8 12 0 12 
+
+139 Junagadh District & Sessions Court, Junagadh 2 6 8 0 0 0 
+
+140 Junagadh Junagadh FTC 0 0 0 0 0 0 
+141 Junagadh Family Court, Junagadh 2 6 8 0 12 12 
+142 Junagadh Keshod 1 3 4 6 0 6 
+143 Junagadh Maliya Hatina 0 0 0 0 0 0 
+144 Junagadh Mangrol 0 0 0 0 0 0 
+145 Junagadh Manavadar 0 0 0 0 0 0 
+146 Junagadh Vanthali 2 6 8 0 12 12 
+147 Junagadh Visavadar 0 0 0 0 0 0 
+148 Junagadh Bhesan 0 0 0 0 0 0 
+149 Junagadh Mendarda 2 6 8 0 12 12 
+150 Junagadh Labour Court,  Junagadh 2 6 8 12 0 12 
+151 Kachchh at Bhuj District & FTC Court 2 6 8 0 0 0 
+152 Kachchh at Bhuj Sr. Civil Court, Bhuj 1 3 4 0 0 0 
+153 Kachchh at Bhuj Anjar Civil 6 18 24 36 0 36 
+154 Kachchh at Bhuj Anjar FTC 1 3 4 6 0 6 
+155 Kachchh at Bhuj Gandhidham Civil 6 18 24 24 0 24 
+156 Kachchh at Bhuj Gandhidham DC 0 0 0 0 0 0 
+157 Kachchh at Bhuj Bhachau 1 3 4 6 0 6 
+158 Kachchh at Bhuj Rahpar 1 3 4 6 0 6 
+159 Kachchh at Bhuj Mandvi 4 12 16 0 24 24 
+160 Kachchh at Bhuj Mundra 0 0 0 0 0 0 
+161 Kachchh at Bhuj Naliya 2 6 8 0 12 12 
+162 Kachchh at Bhuj Nakhatrana 2 6 8 0 12 12 
+163 Kachchh at Bhuj Dayapar 2 6 8 0 12 12 
+164 Kachchh at Bhuj Labour Court, Bhuj 1 3 4 6 0 6 
+165 Kheda at Nadiad District Court, Nadiad 1 3 4 0 0 0 
+166 Kheda at Nadiad FTC, Nadiad 1 3 4 0 0 0 
+167 Kheda at Nadiad Civil Court, Nadiad 2 6 8 6 0 6 
+168 Kheda at Nadiad JD Court Nadiad (demolished) 0 0 0 0 0 0 
+169 Kheda at Nadiad Chief Court, Nadiad 0 0 0 0 0 0 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 76 of 80 
+ 
+
+170 Kheda at Nadiad Lal Court, Nadiad 0 0 0 0 0 0 
+171 Kheda at Nadiad Kheda Civil Court 1 3 4 6 0 6 
+172 Kheda at Nadiad Matar 2 6 8 12 0 12 
+173 Kheda at Nadiad Mahemdabad 0 0 0 0 0 0 
+174 Kheda at Nadiad Dakor 1 3 4 6 0 6 
+175 Kheda at Nadiad Thasra 1 3 4 6 0 6 
+176 Kheda at Nadiad Kapadwanj 1 3 4 0 0 0 
+177 Kheda at Nadiad Mahudha 2 6 8 12 0 12 
+178 Kheda at Nadiad Kathlal 2 6 8 0 12 12 
+179 Kheda at Nadiad Industrial Court, Kheda 0 0 0 0 0 0 
+180 Kheda at Nadiad Labour Court, Kheda 0 0 0 0 0 0 
+181 Mahisagar Balasinor 2 6 8 12 0 12 
+182 Mahisagar Lunawada 1 3 4 6 0 6 
+183 Mahisagar Santrampur 1 3 4 6 0 6 
+184 Mahisagar Khanpur 1 3 4 6 0 6 
+185 Mahisagar Kadana 2 6 8 0 12 12 
+186 Mehsana District Court, Mehsana 16 48 64 0 96 96 
+187 Mehsana Vijapur 2 6 8 12 0 12 
+
+188 Mehsana 2nd Addl District Court, Mehsana @ Visnagar 3 9 12 18 0 18 
+
+189 Mehsana Visnagar 0 0 0 0 0 0 
+190 Mehsana Vadnagar 0 0 0 0 0 0 
+191 Mehsana Kheralu 2 6 8 0 12 12 
+192 Mehsana Unjha 1 3 4 6 0 6 
+193 Mehsana Kadi 2 6 8 12 0 12 
+194 Mehsana Bahucharaji 1 3 4 6 0 6 
+195 Mehsana Satlasana 2 6 8 0 12 12 
+196 Mehsana Labour Court, Mehsana 1 3 4 6 0 6 
+197 Morbi Morbi Civil Court 3 9 12 18 0 18 
+198 Morbi Morbi FTC 0 0 0 0 0 0 
+199 Morbi Wankaner Civil Court 0 0 0 0 0 0 
+200 Morbi Maliya Civil Court 0 0 0 0 0 0 
+201 Morbi Tankara Civil Court 2 6 8 0 12 12 
+202 Morbi Halvad 2 6 8 12 0 12 
+
+203 Narmada at Rajpipla District Court, Narmada 4 12 16 12 0 12 
+
+204 Narmada at Rajpipla Dediapada Court 0 0 0 0 0 0 
+
+205 Narmada at Rajpipla Sagbara court 1 3 4 6 0 6 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 77 of 80 
+ 
+
+206 Narmada at Rajpipla Tilakwada 2 6 8 0 12 12 
+
+207 Navsari District Court 1 3 4 0 0 0 
+208 Navsari FTC, Navsari 1 3 4 0 0 0 
+209 Navsari Gandevi 0 0 0 0 0 0 
+210 Navsari Chikhali 1 3 4 6 0 6 
+211 Navsari Vansda 1 3 4 6 0 6 
+212 Navsari Ahawa 0 0 0 0 0 0 
+213 Navsari Labour Court, Navsari 1 3 4 6 0 6 
+
+214 Panchmahal at Godhra District Court, Godhra 1 3 4 0 0 0 
+
+215 Panchmahal at Godhra 
+Additional District Court, 
+Godhra 1 3 4 0 0 0 
+
+216 Panchmahal at Godhra Civil Court Building, Godhra 8 24 32 30 0 30 
+
+217 Panchmahal at Godhra Family Court, Godhra 2 6 8 0 12 12 
+
+218 Panchmahal at Godhra Railway Court, Godhra 2 6 8 0 12 12 
+
+219 Panchmahal at Godhra Kalol 2 6 8 12 0 12 
+
+220 Panchmahal at Godhra Halol 1 3 4 6 0 6 
+
+221 Panchmahal at Godhra Sahera 0 0 0 0 0 0 
+
+222 Panchmahal at Godhra Morva 0 0 0 0 0 0 
+
+223 Panchmahal at Godhra Goghmbha 1 3 4 6 0 6 
+
+224 Panchmahal at Godhra Jambughoda 0 0 0 0 0 0 
+
+225 Panchmahal at Godhra Labour Court, Godhra 2 6 8 12 0 12 
+
+226 Patan District & Sessions Court, Patan 2 6 8 0 0 0 
+
+227 Patan Siddhpur 2 6 8 12 0 12 
+228 Patan Chanasma 0 0 0 0 0 0 
+229 Patan Harij 2 6 8 0 12 12 
+230 Patan Sami 1 3 4 6 0 6 
+231 Patan Radhanpur 1 3 4 6 0 6 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 78 of 80 
+ 
+
+232 Patan Varahi 2 6 8 0 12 12 
+233 Porbandar District Court, Porbandar 6 18 24 30 0 30 
+234 Porbandar Porbandar FTC  (Closed) 0 0 0 0 0 0 
+235 Porbandar Ranavav 0 0 0 0 0 0 
+236 Porbandar Kutiyana 0 0 0 0 0 0 
+237 Rajkot Rajkot District Court 0 0 0 0 0 0 
+
+238 Rajkot FTC 1 ( At present Family Court functioning) 0 0 0 0 0 0 
+
+239 Rajkot FTC 2 0 0 0 0 0 0 
+240 Rajkot Rajkot Civil Court 12 36 48 54 0 54 
+241 Rajkot Rajkot Cr. Court 2 6 8 0 0 0 
+242 Rajkot Rajkot Municipal Court 0 0 0 0 0 0 
+243 Rajkot Railway Court, Rajkot 1 3 4 6 0 6 
+244 Rajkot Gondal Civil Court 0 0 0 0 0 0 
+245 Rajkot Gondal FTC 0 0 0 0 0 0 
+246 Rajkot Jetpur Civil Court 0 0 0 0 0 0 
+247 Rajkot Jetpur FTC 1 3 4 6 0 6 
+248 Rajkot Dhoraji Civil Court 0 0 0 0 0 0 
+249 Rajkot Dhoraji FTC 1 3 4 6 0 6 
+250 Rajkot Upleta Civil Court 0 0 0 0 0 0 
+251 Rajkot Jasdan Civil Court 1 3 4 6 0 6 
+252 Rajkot Paddhari Civil Court 1 3 4 6 0 6 
+253 Rajkot Kotda Sangani Civil Court 2 6 8 0 12 12 
+254 Rajkot Jamkandorana Civil Court 2 6 8 0 12 12 
+255 Rajkot Industrial Court, Rajkot 2 6 8 12 0 12 
+256 Rajkot Labour Court, Rajkot 3 9 12 18 0 18 
+
+257 Sabarkantha at Himmatnagar 
+Nyay Mandir, Himatnagar, 
+Sabarkantha 0 0 0 0 0 0 
+
+258 Sabarkantha at Himmatnagar Civil Court 2 6 8 0 0 0 
+
+259 Sabarkantha at Himmatnagar Himmatnagar FTC (Closed) 0 0 0 0 0 0 
+
+260 Sabarkantha at Himmatnagar Additional District Court, Idar 2 6 8 12 0 12 
+
+261 Sabarkantha at Himmatnagar Idar, Civil Court (Closed) 0 0 0 0 0 0 
+
+262 Sabarkantha at Himmatnagar Idar Sr. Civil Court 5 15 20 30 0 30 
+
+263 Sabarkantha at Himmatnagar Prantij. 0 0 0 0 0 0 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 79 of 80 
+ 
+
+264 Sabarkantha at Himmatnagar Khedbrahma 1 3 4 6 0 6 
+
+265 Sabarkantha at Himmatnagar Talod 2 6 8 12 0 12 
+
+266 Sabarkantha at Himmatnagar Vijaynagar 2 6 8 0 12 12 
+
+267 Sabarkantha at Himmatnagar Vadali 1 3 4 6 0 6 
+
+268 Sabarkantha at Himmatnagar Poshina 2 6 8 0 12 12 
+
+269 Sabarkantha at Himmatnagar Labour Court, Himmatnagar 1 3 4 6 0 6 
+
+270 Surat Distric, Civil & Small Cause Court, Surat 14 42 56 66 0 66 
+
+271 Surat FTC Surat 8 24 32 42 0 42 
+272 Surat Family Court, Surat 2 6 8 0 12 12 
+
+273 Surat Surat Municipal Court (SMC Muglisara, Surat) 2 6 8 0 12 12 
+
+274 Surat Surat Railway Court 2 6 8 0 12 12 
+275 Surat Bardoli 3 9 12 18 0 18 
+276 Surat Mandvi 1 3 4 6 0 6 
+277 Surat Mangrol 2 6 8 12 0 12 
+278 Surat Olpad 2 6 8 12 0 12 
+279 Surat Kathor 1 3 4 6 0 6 
+280 Surat Mahuva 0 0 0 0 0 0 
+281 Surat Palsana 4 12 16 24 0 24 
+282 Surat Umarpada 2 6 8 0 12 12 
+283 Surat Industrial Court, Surat 1 3 4 6 0 6 
+284 Surat Labour Court, Surat 5 15 20 30 0 30 
+285 Surendranagar Dist. Court Complex 2 6 8 6 0 6 
+286 Surendranagar FTC, Surendranagar (Closed) 0 0 0 0 0 0 
+287 Surendranagar Civil Court Building 5 15 20 30 0 30 
+288 Surendranagar Limbdi 1 3 4 6 0 6 
+289 Surendranagar Dhangadhra 7 21 28 36 0 36 
+290 Surendranagar Wadhwan 1 3 4 6 0 6 
+291 Surendranagar Lakhtar 0 0 0 0 0 0 
+292 Surendranagar Muli 0 0 0 0 0 0 
+293 Surendranagar Sayla 1 3 4 6 0 6 
+294 Surendranagar Chotila 0 0 0 0 0 0 
+295 Surendranagar Patdi 0 0 0 0 0 0 
+
+
+
+                                                                                                   
+
+Sign and Seal of authorized person of Bidder                                          Page 80 of 80 
+ 
+
+296 Surendranagar Chuda 2 6 8 0 12 12 
+297 Surendranagar Thangadh 2 6 8 0 12 12 
+298 Surendranagar Labour Court, Surendranagar 1 3 4 6 0 6 
+299 Tapi at Vyara District Court, Tapi 0 0 0 0 0 0 
+300 Tapi at Vyara Civil Court, Vyara 4 12 16 24 0 24 
+301 Tapi at Vyara Valod 1 3 4 6 0 6 
+302 Tapi at Vyara Songadh 2 6 8 12 0 12 
+303 Tapi at Vyara Uchchhal 2 6 8 0 12 12 
+304 Tapi at Vyara Nizar 1 3 4 6 0 6 
+305 Vadodara District Court, Vadodara 2 6 8 0 0 0 
+306 Vadodara FTC Vadodara 0 0 0 0 0 0 
+307 Vadodara Lal Court Building, Vadodara 2 6 8 0 0 0 
+308 Vadodara PTC Hostel Building Vadodara 14 42 56 84 0 84 
+309 Vadodara Family Court, Vadodara 4 12 16 0 24 24 
+310 Vadodara Padra 1 3 4 6 0 6 
+311 Vadodara Savli 2 6 8 12 0 12 
+312 Vadodara Dabhoi 3 9 12 18 0 18 
+313 Vadodara Karjan 1 3 4 6 0 6 
+314 Vadodara Sinor 0 0 0 0 0 0 
+315 Vadodara Waghodia 3 9 12 18 0 18 
+316 Vadodara Desar 2 6 8 0 12 12 
+317 Vadodara Industrial Court, Vadodara 1 3 4 0 0 0 
+318 Vadodara Labour Court, Vadodara 1 3 4 0 0 0 
+319 Valsad District Court , Valsad 0 0 0 0 0 0 
+320 Valsad Civil Court, Valsad 2 6 8 0 0 0 
+
+321 Valsad Valsad FTC (at present Civil Court(JD) Functioning)) 1 3 4 0 0 0 
+
+322 Valsad Pardi 0 0 0 0 0 0 
+323 Valsad Dharampur 0 0 0 0 0 0 
+324 Valsad Umbergaon 2 6 8 12 0 12 
+325 Valsad Kaparada 0 0 0 0 0 0 
+326 Valsad Vapi 6 18 24 36 0 36 
+327 Valsad Labour Court, Valsad 3 9 12 18 0 18 
+
+Total 573 1719 2292 1806 1092 2898 
+ 
+
+
+	SCHEDULE TENDER NOTICE:
+	DEFINITIONS
+	PRE-QUALIFICATIONCRITERIA:-
+	SECTION 1:  INVITATION FOR BIDS & INSTRUCTIONS TO BIDDERS
+	1. Invitation for bids
+	2. Guidelines / Preparations of Bids
+	3. Overview of Evaluation Process
+	4. Documents Constituting the Bid
+	5. Bid Price
+	6. Period of Validity of Bids
+	7. Format and Signing of Bid
+	8. Sealing and Marking of Bids
+	9. Modification and Withdrawal of Bids
+	10. Deadline for Submission of Bids
+	11. Late submission of physical bid
+	12. Opening of Bids
+	13. Preliminary Examination
+	14. Warranty Period
+	15. Project Schedule
+	16. Project Management
+	17. Notification of Award
+	18. Security Deposit
+	19. Annulment of Award
+	20. Payment Terms, Schedule of Payment
+	21. Taxes & Duties
+	22.  Liquidated damages
+	23. Service Level Agreement
+	24. Additional Work
+	25. Modification of Scope of Work
+	26. Suspension
+	27. Termination of Contract
+	28. Rights to Data
+	29. Relationship between the Parties
+	30. Standards of Performance
+	31. Delivery and Documents
+	32. Governing Law, Jurisdiction and Arbitration
+	33.  Notice
+	34.  Miscellaneous
+	35.  Force Majeure
+	36.   Inspection
+	37.   Fraud and Corruption
+	38. Negotiation
+	39. Award of Contract
+	40. Contact Details
+	41. Intellectual Property Rights and Rights to Integrated Application System
+	42. Insurance
+	43. Third Party Inspection
+	44. Confidential Policy
+	45.  Limitation of Liability
+	46. Data Security
+	SECTION 2: SCOPE OF WORK
+	ANNEXURE I: TECHNICAL SPECIFICATIONS
+	MAKE AND MODEL LIST
+	ANNEXURE II: COMMERCIAL BID (Prices in Indian Rupees – INR)
+	ANNEXURE III (S): MANUFACTURER’S AUTHORIZATION FORMAT (FOR SYSTEM INTEGRATOR)
+	ANNEXURE III (O): MANUFACTURER’S AUTHORIZATION FORMAT (FOR OEM)
+	ANNEXURE IV:  BIDDER INFORMATION SHEET & UNDERTAKING
+	ANNEXURE V:  BANK DETAIL OF BIDDER
+	ANNEXURE-VI: EARNEST MONEY DEPOSIT (EMD) BANK GUARANTEE FORMAT
+	ANNEXURE-VII: SECURITY DEPOSIT FORMAT
+	ANNEXURE VIII: INSTRUCTIONS FOR BIDDERS FOR TECHNICAL BID
+	ANNEXURE A: LIST OF LOCATIONS:
+
+

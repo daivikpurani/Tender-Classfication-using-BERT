@@ -1,0 +1,429 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/706157
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 21-07-2020 18:00:00
+
+Bid Opening Date/Time 21-07-2020 18:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Railways
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Western Railway
+
+Total Quantity 150
+
+Item Category Wireless Access Point
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+Estimated Bid Value  2000000
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Wireless Access Point ( 150 pieces )
+
+Technical Specifications
+
+                               1 / 5
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Specification Type of Access Point Stand alone Stand alone
+
+Deployment Indoor Indoor
+
+Mounting Ceiling *
+
+Antenna Type Internal *
+
+Number Of Radios Dual *
+
+Frequency Band 2.4 GHz & 5.0 GHz *
+
+Supported Wi-fi
+Standards
+
+802.11ac Wave 2 *
+
+Wireless Speed Up
+to (Mbps)
+
+867 867
+
+Max Wireless Signal
+Range im Mts
+
+90 90
+
+Channel Width (MHz) 80 *
+
+Maximum Data Rate
+MBps
+
+1200 *
+
+Supported
+Encryption
+
+WEP,WPA-PSK,WPA-
+TKIP,WPA2
+AES,802.11i,EAP-TLS.
+
+WEP, WPA-PSK, WPA-
+TKIP, WPA2 AES,
+802.11i, EAP-TLS., WEP,
+WPA-PSK, WPA-TKIP,
+EAP-TLS, WPA2 AES,
+802.11i, EAP-TLS.,
+WPATKIP, WPA AES
+
+Dedicated Console Port Not Available *
+
+Receiver Sensitivity in
+db
+
+6 *
+
+Transmit power
+(tx)(dBm)
+
+15.4 *
+
+Radio Resource
+Management such for
+power
+channel,coverage hole
+detection and
+performance
+optimization
+
+Available *
+
+Support for Load
+Balancing between 2-4
+Ghz and 5 Ghz
+
+Available *
+
+Support for
+Configurable Carrier
+Threshold
+
+Available *
+
+Device Management Web-based *
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/3eQ1ms47Gn0paVKmyfGzUDyNWOj8XUqd5wbhIs8nnmg
+
+
+ 
+
+Configuration Interface
+(GUI)
+
+Support for Mesh
+Networking
+
+Available *
+
+Support for QoS for
+Voice over Wireless
+
+Available *
+
+Support for MU-MIMO Available *
+
+Number of MIMO
+supported & Spatial
+Streams
+
+2 x 2 :2 *
+
+Number of WLAN
+(SSID) per AP
+
+4 *
+
+Maximum clients Nos 128 *
+
+Support for
+Autonomous access-
+point option
+
+Available *
+
+USB Ports Not Available *
+
+Number of
+10/100/1000 port
+
+2 *
+
+mGig support Not Available *
+
+Fiber port (in case of
+outdoor AP)
+
+Not Available *
+
+Support for Bluetooth
+Low Energy (BLE)
+support on AP
+
+Not Available *
+
+Support for Beam
+forming
+
+Available *
+
+Operate as a sensor for
+wireless IPS
+
+Not Available *
+
+Support for QoS and
+Video Call Admission
+Control capabilities
+
+Available *
+
+Support for Rogue
+access point detection
+
+Available *
+
+Support for Wireless
+Intrusion Protection
+System
+
+Not Available *
+
+WPC certified No *
+
+Wi-Fi CERTIFIED Yes *
+
+Support non-Wi-Fi
+detection for off-
+channel rogues and
+Containment for both
+radio while serving the
+client simaltaniously
+
+Available *
+
+Powering options (Such 802.3at PoE+ *
+
+                               3 / 5
+
+
+
+ 
+
+as AC/DC, 802/3af PoE,
+802/3at PoE+), specify
+
+Power POE (Watt) 12.5 *
+
+Environmental
+Standard : plenum-
+rated (UL2043) for
+Indoor and IP67 for
+Outdoor
+
+Yes *
+
+Weight (grams) - *
+
+On Site OEM
+Warranty (Years)
+
+5 5
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Chandrashekhar
+Bhagwat Mahajan
+
+400008,SENIOR SECTION
+ENGINEER, TELECOM
+STORE, RAJDHANI POH
+BUILDING, 3RD FLOOR,
+MUMBAI CENTRAL - E, NEAR
+DRM OFFICE, 400008
+
+150  30
+
+Bid Specific Additional Terms and Conditions
+
+1. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+2.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+3.Bid reserved for Make In India products: Procurement under this bid is reserved for purchase
+
+from Class 1 local suppliers as defined in public procurement (Preference to Make in India),
+Order 2017 as amended from time to time and its subsequent Orders/Notifications issued by
+concerned Nodal Ministry for specific Goods/Products. The minimum local content to qualify
+as a class 1 local supplier is denoted in the bid document 50%. All bidders must upload a
+certificate from the OEM regarding the percentage of the local content and the details of
+locations at which the local value addition is made along with their bid, failing which the bid
+is liable to be rejected. In case the bid value is more than Rs 10 Crore, the declaration
+relating to percentage of local content shall be certified by the statutory auditor or cost
+auditor, if the OEM is a company and by a practicing cost accountant or a chartered
+accountant for OEMs other than companies as per the Public Procurement (preference to
+Make-in -India) order 2017 dated 04.06.2020 . In case Buyer has selected Purchase
+preference to Micro and Small Enterprises clause in the bid, the same will get precedence
+over this clause.
+
+4.Preference to Make In India products (For bids less than 200 Crore):Preference shall be given
+to Class 1 local supplier as defined in public procurement (Preference to Make in India),
+Order 2017 as amended from time to time and its subsequent Orders/Notifications issued by
+
+                               4 / 5
+
+
+
+ 
+
+concerned Nodal Ministry for specific Goods/Products. The minimum local content to qualify
+as a Class 1 local supplier is denoted in the bid document 50%. If the bidder wants to avail
+the Purchase preference, the bidder must upload a certificate from the OEM regarding the
+percentage of the local content and the details of locations at which the local value addition
+is made along with their bid, failing which no purchase preference shall be granted. In case
+the bid value is more than Rs 10 Crore, the declaration relating to percentage of local
+content shall be certified by the statutory auditor or cost auditor, if the OEM is a company
+and by a practicing cost accountant or a chartered accountant for OEMs other than
+companies as per the Public Procurement (preference to Make-in -India) order 2017 dated
+04.06.2020. Only Class-I and Class-II Local suppliers as per MII order dated 4.6.2020 will be
+eligible to bid. Non - Local suppliers as per MII order dated 04.06.2020 are not eligible to
+participate. In case Buyer has selected Purchase preference to Micro and Small Enterprises
+clause in the bid, the same will get precedence over this clause.
+
+5.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+6.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+7.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

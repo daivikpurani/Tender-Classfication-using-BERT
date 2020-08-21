@@ -1,0 +1,495 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/700124
+
+  Dated: 06-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 16-07-2020 20:00:00
+
+Bid Opening Date/Time 16-07-2020 20:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 80 (Days)
+
+Ministry/State Name Ministry Of Power
+
+Department Name Contracts And Materials
+
+Organisation Name Ntpc Ltd
+
+Office Name Ssc Wrii Sipat
+
+Total Quantity 1
+
+Item Category Utility Vehicles ( PAC Only ) 
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Utility Vehicles ( 1 pieces ) ( Under PAC ) 
+
+Make mahindra&mahindra
+
+Model mahindrabolerocamper2wdpsbsvi
+
+                               1 / 6
+
+
+
+ 
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Generic Parameters Vehicle Engine
+Capacity (cc)
+
+2523 Any applicable numeric
+value
+
+Type of Fuel Diesel Petrol, Diesel, CNG
+
+Vehicle Emission
+Complaince
+
+BS-VI BS-IV, BS-VI
+
+Vehicle Colour type Solid Solid, Metallic, Both
+solid and metallic
+
+Colour of the vehicle WHITE Any applicable text(s)
+
+Vehicle Mileage (
+declared by OEM as
+certified by Test
+Agency under Rule
+115of CMVR 1989)
+(in KM/Litre)
+
+14.3 Any applicable numeric
+value
+
+Engine Gradeability
+(Degree)
+
+10.3 Any applicable numeric
+value
+
+Air Conditioning Without With, Without
+
+Engine BHP@rpm 75HP@3200rpm *
+
+Engine Torque
+(Max.)@rpm (N-
+m@rpm)
+
+200 Nm@1500-1800
+rpm
+
+*
+
+Number of Cylinders
+in Engine
+
+4 Any applicable numeric
+value
+
+Type Of Vehicle Body Chassis Frame *
+
+Seating Capacity 5 *
+
+Fuel Tank Capacity
+(Ltrs)
+
+57 *
+
+Ground Clearance
+(mm)
+
+185 Any applicable numeric
+value
+
+Wheel Base 3014 Any applicable numeric
+value
+
+Boot Space (Ltrs) 0 *
+
+Kerb Weight 1700 Any applicable numeric
+value
+
+Gross Vehicle
+Weight
+
+2735 Any applicable numeric
+value
+
+Type of Vehicle Tyre Radial Tube, Tubeless, Radial,
+Bias
+
+Size Of Tyre 235/75 R15 *
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/XubA82oUEZbexxFKy8yvD0i0VGnnudr6wgUSXCs_wt4
+
+
+ 
+
+Vehicle Transmission
+System
+
+Manual Automatic, Manual
+
+No. of Speed/
+Forward Gears
+
+5 Any applicable numeric
+value
+
+Type of Wheel drive Two Wheel Drive( Rear
+Wheel)
+
+Four Wheel drive, Two
+Wheel drive( Front
+Wheel), Two Wheel
+Drive( Rear Wheel)
+
+Drive Axle Rear Front, Rear, Front and
+rear
+
+Type of Steering Power Manual, Power
+
+Turning Radius (mm) 6750 *
+
+Vehicle Brake ABS
+Fitted
+
+No Yes, No
+
+Front Vehicle Brake Disc Brake Drum Brake, Disc Brake
+
+Rear Vehicle Brake Drum Brake Drum Brake, Disc Brake
+
+Vehicle Air Intake
+System
+
+TurboCharged Natural, Supercharged,
+TurboCharged
+
+Driver Airbag No *
+
+Battery Make Multiple OEMs *
+
+Vehicle Gradeability
+(in Degrees)
+
+10.3 Any applicable numeric
+value
+
+Certification Vehicle Certification
+ARAI/VRDE/ICAT
+Number
+
+AAON0356 *
+
+Performance
+Parameters
+
+Warranty Time 36 12, 18, 24, 36
+
+Battery Warranty 12 12, 24, 36
+
+Warranty Distance
+(unlimited during
+warranty period)
+
+No *
+
+Warranty Distance(in
+KM) (If not unlimited
+during warranty period)
+
+100000 *
+
+No of Free Services 3 1 - 20
+
+Low Fuel warning Light Yes *
+
+Transportation
+Charges including
+transient insurance
+and temporary
+registration(in Rs)
+
+10.5 Any applicable text(s)
+
+Constructional
+Parameters
+
+No.of Doors (Nos.) 4 *
+
+Length of Vehicle
+Body
+
+4859 Any applicable numeric
+value
+
+Width of Vehicle
+Body
+
+1700 Any applicable numeric
+value
+
+                               3 / 6
+
+
+
+ 
+
+Height of Vehicle
+Body
+
+1855 Any applicable numeric
+value
+
+Type of Wheel Simple Simple, Alloy Wheel
+
+Size of Wheel 15 *
+
+Central Locking No *
+
+Co -Driver Airbag No Yes, No
+
+Side Airbag Rear No Yes, No
+
+Rear seatbelt Yes Yes, No
+
+Leather Seats No Yes, No
+
+Day & Night View
+Mirror
+
+Without With, Without
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Ravi Kumar Bavle 495450,Korba Super
+Thermal Power Station P.O.
+VIKASH BHAWAN JAMNIPALI
+KORBA Chhattisgarh-
+495450, India Telephone No.
+: 07759-237111 Fax No. :
+07759-237199
+
+1  30
+
+Special terms and conditions for category Utility Vehicles 
+
+1.Following Special Terms and Conditions (STC) would supersede the General Terms and
+Conditions (GTC) in respect of items under these categories as notified in the respective
+product category specifications
+
+1.SELLER
+1.Net Dealer Price (NDP), Discount on NDP and Total Price inclusive of Mark-up
+
+and all taxes will be indicated by Seller while offering these products on GeM.
+The mark up will not be applicable for Defence Buyer for vehicles exclusively
+offered for Defence buyer. The vehicle for Defence Buyer will be quoted
+separately with suffix Defence against each model.
+
+2.The Buyer must arrange for and provide Road Permit/s as necessary for entry
+of goods into the State where the consignee is located. The Buyer /
+Consignee should also provide the Seller with necessary Octroi Exemption
+Certificate immediately after issue of Contract to avoid payment of Town
+Duty / Octroi. Road Toll Tax, Entry Tax and / or any other Local Taxes and
+Duties such as Octroi / Sales Tax if paid by the Seller will be reimbursed by
+the paying authority against production of relevant payment receipt/s.
+
+3.The freight charges will be extra and shall be calculated by seller at the time
+of invoicing by multiplying distance with freight per KM indicated in contract
+
+                               4 / 6
+
+
+
+ 
+
+specification.
+4.Sellers must give below mentioned minimum discount on the prevailing MRP
+
+while offering their products on GeMTractors - 20%Ambulances - 12%Buses -
+20%Automotive Chassis Fitted with Engine - 15%Built up Trucks - 15%Prison
+Van Police Vehicles - 15%Troop Carrier Police Vehicles - 15%Water Truck
+Cabin Truck with Water Tank - 15%Cars - 12%Utility Vehicles - 12%Electric
+Cars - 12%Motor cycles - 12%
+
+5.Delivery Period shall be 90 days. Delivery period for Built-up Vehicles like
+Troop Carriers, Water Tankers and Buses shall be 120 days considering extra
+time involved in fabrication.
+
+6.OEMs shall ensure that the prices offered on GeM by them for a particular
+model is the lowest and no supply shall be made to any Buyer, Government
+or Private, at a price lower or equal to that of GeM. In case of violation of this,
+GeM administration will review for removal of the model from GeM including
+other action as stipulated in General Terms and Conditions of GeM.
+
+7.All manufacturers of Automobiles having ARAI,VRDE, ICAT etc of offered
+model may upload their vehicles on GeM as per above guidelines. These
+guidelines are applicable only on GeM and Government Buyers shall utilize
+the portal for making on-line purchases through GeM.
+
+2.BUYER
+1.The total price inclusive of all does not include freight charge and, therefore,
+
+it shall be extra and to be calculated on freight per KM indicated in Contract
+Specifications.
+
+2.The Contract will indicate the total amount inclusive of all taxes only without
+freight charges. Therefore, while blocking the amount 5% additional amount
+will be blocked over and above the total price inclusive of all taxes to cover
+the fund requirement for freight charges on approximate basis.
+
+3.After supply of vehicles, the Seller while submitting the invoice will indicate
+the freight amount at actual or calculate as mentioned above on per KM basis
+whichever is lower and the same should be verified by the Buyer, before
+payment.
+
+4.Defence Buyer will select the vehicle offered with suffix Defence for placing
+their Contract. The total price for Defence Buyer for a particular model does
+not include mark-up.
+
+5.No Buyer other than Defence Buyer will select vehicle with suffix Defence. In
+case Buyer does so, the responsibility for non-supply of vehicle rest with
+Buyer.
+
+6.No Government Buyer Central/State/PSU/Autonomous body/Academic
+Institute/Local Bodies etc. shall place any order at GeM prices outside GeM.
+Buyers shall note that prices on GeM are only applicable, if the procurement
+is made through GeM portal. Using GeM prices for procurement outside GeM
+portal is strictly prohibited. Such action will violate the basic principles of
+transparency and accountability enshrined in GeM. If done outside GeM the
+laid down procedure for tendering should be followed.
+
+7.For any bulk purchases, a comparison of rates and discounts may be made
+for similar vehicles and bidding may be considered as the preferred option.
+
+8.Ceiling of direct buying for PAC as mentioned in GTC will not be applicable for
+Vehicles under above mentioned categories as in these categories, only
+those models are up loaded on GeM for which manufactures agreed to accept
+discount on MRP negotiated time to time as mentioned above against each
+type of Vehicle. As such, Buyer may go for Direct Purchase even beyond Rs.
+50,000/- for Vehicles under these categories. However, if Buyer decides to go
+for bidding for these products on account of large quantity or for any other
+reason, the manufactures of the vehicles are exempted from submission of
+Earnest Money Deposit and Performance Security.
+
+Bid Specific Additional Terms and Conditions
+
+                               5 / 6
+
+
+
+ 
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

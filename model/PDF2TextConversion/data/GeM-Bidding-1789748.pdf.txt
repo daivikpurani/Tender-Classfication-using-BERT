@@ -1,0 +1,499 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/713351
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 16:00:00
+
+Bid Opening Date/Time 27-07-2020 16:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Human Resource Development
+
+Department Name Department Of Higher Education
+
+Organisation Name National University Of Educational Planning And Administration
+(nuepa)
+
+Office Name New Delhi 110016
+
+Total Quantity 1
+
+Item Category Accounting software
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Accounting Software ( 1 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+BASIC INFORMATION OF
+ACCOUNTING SOFTWARE
+
+Name of Software - *
+
+Name of the OEM - *
+
+OEM Model / Part No - *
+
+                               1 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/BCOUwjTR3yJwvL8aK9jIs2TjbyZeuBCGgfE8kmx_mLU
+
+
+ 
+
+Product Id of OEM - *
+
+Software Description - *
+
+Software Version - *
+
+Date of Launch of Version - *
+
+FEATURES &
+FUNCTIONALITY
+PARAMETERS(GOLDEN)
+
+GST ready from 'Bill' to
+'File'
+
+Yes Yes, No
+
+Multi-National
+Transactions
+
+Yes Yes
+
+Support for e-Payments Yes Yes
+
+Warehouse Management Yes Yes, No
+
+Business Intelligence Yes Yes
+
+Cloud support &
+Integration
+
+Yes Yes, No
+
+Integration with other
+MIS software
+
+Yes Yes, No
+
+Budget Management
+Features
+
+Yes Yes
+
+Budget conversion to
+product features
+
+Yes Yes
+
+Budget conversion to
+services features
+
+Yes Yes, No
+
+Budget Annual
+Procurement Plan
+Features
+
+Yes Yes
+
+Production
+(Manufacturing)
+Management
+
+Yes Yes, No
+
+Planning & Forecasting No Yes, No
+
+Multi-Company support Yes Yes, No
+
+Supply Chain
+Management
+
+Yes Yes, No
+
+Strategic Finance and
+Capital Management
+
+Yes Yes, No
+
+Financial Analysis and
+Planning
+
+Yes Yes, No
+
+No of days Training
+Provided at Site
+
+6 to 10 6 to 10
+
+Number of Years upto
+which Support is
+available from OEM /
+Franchise online(in
+Years)
+
+1 1
+
+FEATURES &
+FUNCTIONALITY
+PARAMETERS(GENERIC)
+
+Monitoring of physical
+parameter support to PFMS
+
+Yes *
+
+Accounts Payable Yes *
+
+Accounts Receivable Yes *
+
+General Ledger Yes *
+
+Payroll Yes *
+
+Billing & Invoicing Yes *
+
+Collections Yes *
+
+                               2 / 5
+
+
+
+ 
+
+Cash flow Tracking &
+Management
+
+Yes *
+
+Interest Calculation Yes *
+
+Cheque Management Yes *
+
+Bank Reconciliation Yes *
+
+Bank Integration Yes *
+
+Expense Tracking &
+Management
+
+Yes *
+
+Fund Accounting Yes *
+
+Purchase Management Yes *
+
+Sales Management Yes *
+
+Inventory Management Yes *
+
+Stock Management Yes *
+
+Consolidation / Roll-Up Yes *
+
+Fixed Asset Management Yes *
+
+Project Accounting Yes *
+
+Revenue Recognition No *
+
+Tax Management Yes *
+
+Audit Trail Yes *
+
+Balance Sheet and Profit /
+Loss Statement
+
+Yes *
+
+Income Statements Yes *
+
+Currency Conversion Yes *
+
+Multi-Department / Project
+support
+
+Yes *
+
+Multi-Currency support Yes *
+
+If 'Yes', details of supported
+Currency
+
+- *
+
+Multi-language support Yes *
+
+If 'Yes', details of supported
+Languages
+
+- *
+
+Multi-Legislation support No *
+
+Support for Accounting
+Standards and Taxation of
+multiple Countries
+
+Yes *
+
+If 'Yes', details of supported
+Nations
+
+- *
+
+Compliance Management Yes *
+
+Credit Risk Management Yes *
+
+Liquidity Analysis Yes *
+
+Loan Portfolio Management No *
+
+Market Risk Management No *
+
+Operational Risk
+Management
+
+No *
+
+Portfolio Management No *
+
+Portfolio Modeling No *
+
+                               3 / 5
+
+
+
+ 
+
+Risk Analytics Benchmarks No *
+
+Business Management Yes *
+
+Distribution Management Yes *
+
+Reporting & Analysis Yes *
+
+Personalized dash boards
+based on user role
+
+Yes *
+
+SUPPORTED HARDWARE
+REQUIREMENT PARAMETERS
+
+Hard Disk Space Required - *
+
+RAM Size required - *
+
+Server requirements - *
+
+CPU required - *
+
+Other Hardware
+requirements
+
+- *
+
+Operating Systems
+supported (Driver)
+
+- *
+
+Supported Devices - *
+
+Supported Servers - *
+
+Supported Web browsers - *
+
+Supported Database - *
+
+Supported Networking
+Protocols
+
+- *
+
+Min Processor bench mark
+score required
+
+- *
+
+GENERIC PARAMETERS OF
+ACCOUNTING SOFTWARE
+
+Free Upgradation to Higher
+Version
+
+Yes *
+
+Maximum user handling
+capability
+
+- *
+
+Concurrent user handling
+capability
+
+- *
+
+Valid Licence copy to be
+provided
+
+Yes *
+
+Certifications /
+Benchmarking of Software
+Products
+
+- *
+
+Installation and
+Demonstration
+
+Yes *
+
+List of items included in the
+package
+
+- *
+
+Hyper link to Data sheet - *
+
+Details of Government
+Department email, phone
+no Of concerned authority
+where Software /Appliance
+installed for above
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+                               4 / 5
+
+
+
+ 
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Naresh Bhardwaj 110016,17B, Sri Aurobindo Marg
+NCERT Campus
+
+1  15
+
+Bid Specific Additional Terms and Conditions
+1.IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered
+
+office in India to provide after sales service support in India. The certificate to this effect should be submitted.
+2.Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods
+
+and Training of operators and providing Statutory Clearances required (if any)
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

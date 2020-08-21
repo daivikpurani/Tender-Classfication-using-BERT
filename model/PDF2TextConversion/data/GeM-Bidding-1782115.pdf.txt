@@ -1,0 +1,1453 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/706392
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 20:00:00
+
+Bid Opening Date/Time 20-07-2020 20:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 80 (Days)
+
+Ministry/State Name Telangana
+
+Department Name Health Medical & Family Welfare Department
+Telangana
+
+Organisation Name Tsmsidc
+
+Office Name Directorate Of Treasuries
+
+Total Quantity 1
+
+Item Category CT Scanners 16 Slice
+
+Bidder Turnover (Last 3 Years)  150 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  1000 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Turnover  Yes
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  50 %
+
+Bid to RA enabled  No
+
+CMC Required  Yes
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank HDFC Bank
+
+EMD Percentage(%) 2.00
+
+EMD Amount 781200
+
+                             1 / 17
+
+
+
+ 
+
+ePBG Detail
+
+Advisory Bank HDFC Bank
+
+ePBG Percentage(%) 10.00
+
+Duration of ePBG required (Months). 60
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+Managing Director,TSMSIDC
+Directorate Of Treasuries, Health Medical & Family Welfare Department Telangana, TSMSIDC,
+(K. Chandra Shekar Reddy)
+
+Splitting
+
+ Bid splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 50% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+CT Scanners 16 Slice ( 1 pieces )
+
+                             2 / 17
+
+
+
+ 
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERAL FEATURES Product Description CT Scanners 16 Slice *
+
+UMDNS Name and
+Code
+
+Scanning Systems,
+Computed Tomography
+- 13-469 Scanning
+Systems, Computed
+Tomography, Axial, Full-
+Body - 15-956 Scanning
+Systems, Computed
+Tomography, Axial,
+Head - 15-955
+Scanning Systems,
+Computed
+Tomography, Spiral -
+18-443
+
+*
+
+Other Names Axial CT scanners, CAT
+scanners, cine CT
+scanners, computed
+tomography systems,
+EBT scanners, helical
+CT scanners, multislice
+CT scanners, spiral CT
+scanners, ultrafast CT
+scanners, volume CT
+scanners.
+
+*
+
+Scope This Product covers
+computed tomography
+(CT) scanners used to
+obtain cross-sectional
+images without
+restriction to a
+particular anatomic
+region
+
+*
+
+Clinical Application CT scanners produce
+thin cross-sectional
+images of the human
+body for a wide variety
+of diagnostic
+procedures. CT is a
+noninvasive
+radiographic technique
+that involves the
+reconstruction of a
+tomographic plane of
+the body (a slice) from
+a large number of
+collected x-ray
+absorption
+
+*
+
+                             3 / 17
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/rCkAY8_oq_rB_Ne5BmO7pB-ux6wU6nmjpRT4IXIuDnc
+
+
+ 
+
+measurements taken
+during a scan around
+the body's periphery.
+The result of a CT study
+is usually a set of trans
+axial slices, which can
+be mathematically
+manipulated to
+produce sagittal or
+coronal image slices.
+With isotropic imaging,
+an image can be
+reconstructed in any
+arbitrary plane. CT is
+clinically useful in a
+wide variety of imaging
+exams, including spine
+and head,
+gastrointestinal, and
+vascular.
+
+TYPE Type Multislice *
+
+Number of slices per
+rotation
+
+≥ 16 *
+
+Number of Detector
+Rows
+
+16 *
+
+Number of acquisition
+channels
+
+16 *
+
+DETECTOR ASSEMBLY Minimum Field of
+view (standard)
+
+50 50, 55, 65 Or higher
+
+Extended Field of
+View (cm)
+
+70 70
+
+Total detector width, z-
+axis (mm)
+
+≥10 mm *
+
+Minimum
+Reconstructed slice
+width range
+
+0.625 to 10 mm *
+
+Minimum Standard
+rotation time for full
+360°
+
+≤ 1 sec *
+
+DETECTOR
+PERFORMANCE
+
+Minimum High-
+contrast spatial
+resolution at 0% MTF
+with full FOV
+
+14 lp/cm 14 lp/cm
+
+Low-contrast resolution
+at 3 HU with 10 mm
+slice on 20 cm Catphan
+phantom
+
+≤ 5 mm *
+
+Image Noise Not applicable *
+
+ADVANCED IMAGE
+ACQUISITION
+
+Perfusion imaging Yes Yes
+
+Extended coverage No No
+
+                             4 / 17
+
+
+
+ 
+
+for 4-D imaging
+
+Dual-energy
+acquisition
+
+Yes Yes
+
+Contrast Based Dual
+energy acquisition
+
+No No
+
+GANTRY Gantry Tilt Type Digital *
+
+Gantry Tilt ± 30⁰ *
+
+Minimum Gantry
+aperture
+
+70 *
+
+Scan localizer Laser *
+
+X-RAY GENERATOR Minimum kW output
+(kW)
+
+32 32, 40, 80 Or higher
+
+kVp range 80 -130 or better *
+
+X-RAY TUBE Minimum Anode Heat
+storage (MHU)
+
+3.5 *
+
+Anode Heat dissipation
+rate (kHU/min)
+
+≥ 500 kHU/min *
+
+Tube cooling Oil *
+
+Tube focal spots (mm) Large: (0.8x0.7) ;
+Small: (0.4 x 0.8)
+
+*
+
+Max mA ≥ 180 mA *
+
+Max scan time ≥ 120 sec *
+
+PATIENT TABLE Table Top Material Carbon Fiber *
+
+Table Type Moveable Moveable
+
+Range of movement -
+Vertical (cm)
+
+46-79 cm or better *
+
+Minimum Scannable
+range
+
+140 *
+
+Maximum load capacity
+without restrictions (kg)
+
+200 kg or more *
+
+RADIATION DOSE Dose-modulation
+technique (3D), x-y-z
+
+Yes *
+
+Pediatric-specific
+dose control
+
+Yes Yes
+
+Iterative image
+reconstruction for
+dose reduction
+
+Yes Yes
+
+Overbeaming
+reduction sliding
+collimation
+
+No No
+
+CLINICAL
+APPLICATIONS AND
+FUNCTIONALITY
+
+Virtual colonoscopy Yes *
+
+Vessel analysis
+(noncardiac)
+
+Yes *
+
+                             5 / 17
+
+
+
+ 
+
+Auto bone removal Yes *
+
+Denta Scan Yes Yes
+
+Lung Analysis No No
+
+Metal Artifact
+Reduction
+
+Yes Yes
+
+Neuro DSA Yes Yes
+
+IMAGE
+RECONSTRUCTION
+
+Reconstruction FOVs ≥ 50 cm *
+
+Reconstruction
+matrices
+
+512 x 512 *
+
+Max reconstruction
+rate, (512 x 512),
+image/sec
+
+9 *
+
+Real-time image
+reconstruction
+
+Yes *
+
+SYSTEM INTEGRATION DICOM Yes *
+
+CT image storage
+SCU/SCP
+
+Yes *
+
+Enhanced CT storage
+SCU/SCP
+
+Yes *
+
+Modality worklist SCU Yes *
+
+Query/retrieve SCU and
+SCP
+
+Yes *
+
+Storage commitment
+SCU
+
+Yes *
+
+DICOM work list
+license
+
+Yes Yes
+
+IMAGE PROCESSING Image Processing Type Standard *
+
+OEM postprocessing
+workstation with
+dual medical grade
+Monitor
+
+Standalone Standalone
+
+If it is server
+workstation, number
+of nodes to be
+provided
+
+Not Applicable in case
+of standalone
+workstation
+
+Not Applicable in case
+of standalone
+workstation
+
+Number of
+Concurrent Licenses
+to be Provided
+
+Not Applicable in case
+of standalone
+workstation
+
+Not Applicable in case
+of standalone
+workstation
+
+Minimum Rendering
+Capacity of Server
+
+Not Applicable in case
+of standalone
+workstation
+
+Not Applicable in case
+of standalone
+workstation
+
+Remote access to raw
+image data
+
+No *
+
+Remote access to
+clinical applications
+
+No *
+
+                             6 / 17
+
+
+
+ 
+
+DICOM 3-D image
+export
+
+Yes *
+
+Image Processing
+Software
+
+Review workstations -
+MPR, MIP, VRT formats
+, tools for stenosis
+measurement,
+Advanced vessel
+analysis, Automatic
+bone removal etc
+
+*
+
+SERVER HARDWARE Minimum Image
+storage capacity of
+Server
+
+0 0, 2, 4 Or higher
+
+Minimum Ram Size
+of Server
+
+0 0, 32, 64 Or higher
+
+Size of Monitor of
+server
+
+Not Applicable in case
+of standalone
+workstation
+
+Not Applicable in case
+of standalone
+workstation
+
+Type of Monitor for
+server
+
+Not Applicable in case
+of standalone
+workstation
+
+Not Applicable in case
+of standalone
+workstation
+
+WORKSTATION
+HARDWARE
+
+Medical grade monitor
+and CPU
+
+Yes *
+
+Type of monitor for
+Workstation
+
+LCD/LED/TFT *
+
+Size of Monitor for
+Workstation
+
+18 inch or more with 2
+MP resolution or better
+
+*
+
+Minimum Ram Size
+for Workstation
+
+8 8, 16 Or higher
+
+Minimum Storage
+capacity for
+Workstation
+
+500 500, 1000 Or higher
+
+WORKSTATION
+APPLICATIONS
+
+Neuro DSA
+application in
+workstation
+
+Yes Yes
+
+Cardiac Angio No No
+
+Cardiac calcium
+scoring
+
+No No
+
+CT angio Yes Yes
+
+Filming Yes Yes
+
+CT VRT Imaging Yes Yes
+
+Perfusion imaging in
+workstation
+
+No No
+
+CONTRAST BASED
+DUAL ENERGY
+APPLICATIONS
+
+Virtual Non-contrast
+imaging
+
+No No
+
+Mono-energetic
+imaging
+
+No No
+
+                             7 / 17
+
+
+
+ 
+
+Direct Angio No No
+
+Lung Perfusion No No
+
+Gout Imaging No No
+
+Calculi
+Characterization
+
+No No
+
+Bone Marrow
+Imaging
+
+No No
+
+Iodine mapping No No
+
+ACCESSORIES Online UPS for full
+backup of atleast 30
+minutes
+
+Yes Yes
+
+Lead Glass Setup to
+be provided
+
+Yes Yes
+
+Lead aprons - 5 Nos
+with Hanger to be
+provided
+
+Yes Yes
+
+Gonald and thyroid
+Shield - 5 No each
+
+Yes Yes
+
+Pressure Injector Single head Single head
+
+Color Printer Yes Yes
+
+Head Holder Yes Yes
+
+Patient table
+accessories
+
+Yes *
+
+X-Ray Film Viewer Yes Yes
+
+Variety of phantoms
+for quality control
+
+Yes Yes
+
+CERTIFICATIONS AND
+REPORTS
+
+Availability of test
+report/QA and QC
+report during warranty
+and CMC as per
+AERB/NABH/JCI
+guidelines
+
+Yes *
+
+Machine should be
+AERB type approved or
+NOC
+
+Yes *
+
+Product certification EU-CE,US- FDA *
+
+Product Certificate
+Number
+
+- *
+
+Product Certificate
+Date
+
+- *
+
+Product Certificate
+issuing authority
+
+- *
+
+Four digit number of
+notified body If product
+is EU-CE certified
+
+- *
+
+                             8 / 17
+
+
+
+ 
+
+Confirmity to
+Manufacturer's
+Certification
+
+ISO 9001 & ISO 13485 *
+
+Certification,
+performance and
+safety standards
+specific to the device
+
+IEC 60601-2-44 or
+equivalent BIS
+
+*
+
+Submission of copies of
+all the certifications
+and test reports to the
+buyer along with
+supplies
+
+Yes *
+
+In scope of Supplier to
+be registred in eLORA
+of quoted Model for
+Buyer
+
+Yes *
+
+PRE-INSTALLATION SITE
+REQUIREMENT
+
+Recommended Room
+Size
+
+As Per AERB Gudie
+lines
+
+*
+
+Power Requirements 200/220/240/380/400/
+420/440/460/480 V
+nominal, 3-phase
+
+*
+
+Operating temp range
+(°C)
+
+20-25 *
+
+Humidity (%) 30-70 *
+
+Pre-installation
+requirements including
+map should be
+provided by seller after
+inspecting the
+proposed site for
+installation
+
+Yes *
+
+Preparation of CT Scan
+Room , console Room ,
+Technical room, one
+wash room etc to be
+done by the seller in
+the area of approx 800
+sq feet
+
+Yes *
+
+Tile based false ceiling
+and floor tiling and wall
+tiling till false ceiling in
+rooms to be done by
+the seller
+
+Yes *
+
+Necessary modification
+civil work, electrical ,
+plumbing, furnishing,
+air conditioning in the
+given area to be done
+by the seller
+
+Yes *
+
+Doors other than main
+CT room to be of good
+
+Yes *
+
+                             9 / 17
+
+
+
+ 
+
+quality Aluminium
+doors and should be
+done by the seller
+
+Site should be AERB
+Compliant
+
+Yes *
+
+Power up to site should
+be provided by the user
+
+Yes *
+
+Any other necessary
+work for system
+functioning like
+earthing , proper LED
+lighting power points
+etc to be done by the
+seller
+
+Yes *
+
+Room shielding to be
+done by the seller
+
+As Per AERB Gudie
+lines
+
+*
+
+INSTALLATION &
+TRAINING
+
+The system should be
+installed and handed
+over in working
+condition by the seller
+to the buyer
+
+Yes *
+
+Training of users in
+machine operation,
+trouble shooting
+aspects and basic
+maintenance shall be
+provided
+
+Yes *
+
+Availability of toll free
+facility for technical
+support maintained by
+OEM or authorized
+agencies
+
+Yes *
+
+Contact details of
+manufacturer, supplier
+and local service agent
+to be provided
+
+Yes *
+
+Service Support Support within 24
+hours of breakdown call
+
+*
+
+Number of installations
+of the CT in Central
+/State/PSU Govt
+Hospitals( Note: Seller
+should supply a
+performace certificate
+of the device to the
+buyer)
+
+upto 3 *
+
+The Principal
+Manufacturer must
+have direct
+Presence/approved
+service center In India
+
+Yes *
+
+                            10 / 17
+
+
+
+ 
+
+Seller shall ensure
+uninterrupted
+availability of all spares
+for 10 years
+
+Yes *
+
+Uptime during warranty
+and CMC Period
+
+Atleast 95% *
+
+WARRANTY Onsite comprehensive
+warranty from the date
+of installation and
+commissioning (Years)
+
+5 *
+
+DOCUMENTATIONS User/Technical/Mainten
+ance manuals to be
+supplied in English in
+hard and soft copy
+
+Yes *
+
+Copies of all calibration
+certificates to be
+submitted at the time
+of Supply of Machine
+
+Yes *
+
+List of essential spares
+and accessories, with
+their part numbers and
+cost to be provided
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 D Devdas 500095,The Managing
+Director, TSMSIDC , 3rd
+Floor, DM & HS Campus,
+Sulthan Bazaar, Koti-500095
+
+1  30
+
+Special terms and conditions for category CT Scanners 16 Slice 
+
+1.Comprehensive warrantyComprehensive warranty shall include preventive maintenance
+including calibration as per technical/ service /operational manual of the manufacturer,
+service charges and spares,. During the warranty period commencing from date of the
+successful completion of warranty period, Service personnel shall visit each consignee site
+as recommended in the manufacturer’s technical/ service /operational manual, at least once
+in six months. warranty shall not be including the consumables .Further there will be 98%
+uptime warranty during warranty period on 24 (hrs) X 7 (days) X 365 (days) basis, with
+penalty, to extend warranty period by double the downtime period.Service centresDetails of
+Service outlets in India to render services for equipment to be furnished to buyer/consignees
+with complete address ,telephone numbers, e mails etc at time of making the supplies .It
+shall be the responsibility of seller to ensure that authorized service centres are available to
+
+                            11 / 17
+
+
+
+ 
+
+cater to the areas where supplies are made within reasonable distance from where the
+service calls can be handled .Details of toll free numbers for service call and online
+registration of service requests also to be provided buyer/consignee at the time of
+supplies.Source of supplyIt shall be responsibility of seller to provide Documents regarding
+source of equipments such as copy of Performa invoice or any other documents to establish
+that the products supplied are manufactured by OEM indicated and sourced from
+them.Packing and MarkingMedical equipments being very delicate and sensitive packing for
+the goods should be strong and durable enough to withstand transit including transhipment
+(if any), rough handling, open storage etc. without any damage, deterioration etc. .The size,
+weights and volumes of the packing cases, remoteness of the final destination of the goods,
+availability or otherwise of transport and handling facilities at all points during transit up to
+final destination,. Quality of packing, the manner of marking within & outside the packages
+and provision of accompanying documentation shall take in to consideration the type of
+medical equipments being supplied. The accessories shall be suitably labelled and packed
+.Each of the package shall be marked on three sides with indelible paint of proper quality:
+indicating contract number and date , brief description of goods including quantity ,. Packing
+list reference number , country of origin of goods and any other relevant details.Spare
+PartsSeller shall provide materials, information etc. pertaining to spare parts manufactured
+and supplied by the OEM . It shall be ensured that the required spares are available for
+purchase at least for 10 years from date of supplies .In case due to any reasons the
+production of the spare parts is discontinued sufficient advance notice should be given to
+the buyer/consignee before such discontinuation to provide adequate time to purchase the
+required spare parts etc. Further, OEM and their service centres/dealers shall carry sufficient
+inventories to assure ex-stock supply of consumables and spares for the equipments so that
+the same are available.OEM or reseller shall always accord most favoured client status to
+the buyer/consignee and shall give the most competitive price for spares and consumables
+of its machines/equipments supplied.Installation, Training, ManualsSeller shall be
+responsible to carry out Installation & commissioning, Supervision and Demonstration of the
+goods. They shall provide required jigs and tools for assembly, minor civil works for the
+completion of the installation and Training of Consignee’s representatives for operating and
+maintaining the equipment and Supplying required number of operation & maintenance
+manual for the goods. In case the category parameters are specifying any requirements
+regarding the installations , training and manuals the same shall also be applicable.
+Electrical safety checkingSellers are required to make sure that they furnish the list of
+equipments for carrying out routine and preventive maintenance to buyer/consignee. They
+should make sure to periodically check the electrical safety aspects as per BIS Safety
+Standards or equivalent .In case they do not have required equipment for such testing
+should ensure that the equipments checked for electrical safety compliance through labs
+with facilities for such checking during every preventive maintenance call. Software All
+software updates should be provided free of cost during warranty period.
+
+Bid Specific Additional Terms and Conditions
+
+1.After award of contract – Successful Bidder shall have to get Detailed Design Drawings
+approved from buyer before starting fabrication. Successful Bidder shall submit Detailed
+Design Drawings for Buyer's approval, within 7 days of award of contract. Buyer shall, either
+approve the drawings or will provide complete list of modification required in the drawings
+within 5 days. Seller shall be required to ensure supply as per approved Drawings with
+modifications as communicated by Buyer. If there is delay from buyer side in approval of
+drawing– the delivery period shall be refixed without LD for the period of delay in approval of
+Drawing.
+
+2.Bidder financial standing: The bidder should not be under liquidation, court receivership
+or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect
+with bid.
+
+3.End User Certificate: Wherever Bidders are insisting for End User Certificate from the
+Buyer, same shall be provided in Buyer’s standard format only.
+
+4.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+
+                            12 / 17
+
+
+
+ 
+
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+5.Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have
+regularly, manufactured and supplied same or similar Category Products to any Central /
+State Govt Organization / PSU / Public Listed Company for 3 years before the bid opening
+date. Copies of relevant contracts to be submitted along with bid in support of having
+supplied some quantity during each of the year. In case of bunch bids, the primary product
+having highest value should meet this criterion.
+
+6.OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be
+ordered up to 25 percent at the time of placement of contract. The purchaser also reserves
+the right to increase the ordered quantity by up to 25% of the contracted quantity during the
+currency of the contract at the contracted rates. Bidders are bound to accept the orders
+accordingly.
+
+7.Without prejudice to Buyer’s right to price adjustment by way of discount or any other right
+or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a
+written notice to the Seller, if:
+i) The Seller fails to comply with any material term of the Contract.
+ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within
+the stipulated Delivery Period or such inability otherwise becomes apparent.
+iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery
+Period and/or to replace/rectify any rejected or defective Material(s) promptly.
+iv) The Seller becomes bankrupt or goes into liquidation.
+v) The Seller makes a general assignment for the benefit of creditors.
+vi) A receiver is appointed for any substantial property owned by the Seller.
+vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has
+placed the Purchase Order on the Seller.
+
+8.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+9.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+10.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial
+year, should be as indicated in the bid document. Documentary evidence in the form of
+certified Audited Balance Sheets of relevant periods or a certificate from the Chartered
+Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than
+3 year old, the average turnover in respect of the completed financial years after the date of
+constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of
+CATEGORY RELATED TO primary product having highest bid value should meet this criterion.
+
+11. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+12.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+13.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+                            13 / 17
+
+
+
+ 
+
+14.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+15.Nominated Inspection Agency: On behalf of the Buyer organization, any one of the
+following Inspection Agency would be conducting inspection of stores before acceptance:
+Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause
+has been selected in ATC): NA
+Post Receipt Inspection at consignee site before acceptance of stores: Concerned Hospital
+Authorities at Installation Site
+
+16.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents
+sought in the Bid document, ATC and Corrigendum if any.
+
+17. ISO 9001: The bidder must have ISO 9001 certification.
+18.The bidder is required to upload, along with the bid, all relevant certificates such as BIS
+
+licence, type test certificate, approval certificates and other certificates as prescribed in the
+Product Specification given in the bid document.
+
+19.Bidder / OEM has to give an undertaking that after expiry of warranty period, it will provide
+AMC Service for next 5 years for the offered products at the rate not more than 5 % of
+contract price per annum. Buyer reserves the right to enter into an AMC agreement (
+covering preventive maintenance and servicing)with the Successful Bidder / OEM after
+expiry of the Warranty period at rate as mentioned above and the payment for the AMC
+charges would be made Annually after rendering of the AMC Services of the relevant AMC
+period. Performance Security of the successful bidder shall be forfeited if it fails to accept
+the AMC contract when called upon by the buyer. The original Performance Security of
+contract will be returned only after submission and verification of AMC Performance Security
+for 5% of total AMC value valid up to AMC period plus 2 months (if there is no other claim).
+(Undertaking of acceptance to be uploaded with bid).
+
+20.Bidder / OEM has to give an undertaking that after expiry of warranty period, it will provide
+Comprehensive Maintenance Service for next 5 years for the offered products at the rate not
+more than 10 % of contract price per annum. Buyer reserves the right to enter into a CMC
+agreement with the Successful Bidder / OEM after expiry of the Warranty period at above
+mentioned rate and the payment for the CMC charges would be made Annually after
+rendering of the CMC Services of the relevant CMC period. Performance Security of the
+successful bidder shall be forfeited if it fails to accept the CMC contract when called upon by
+the buyer. CMC would include cost of 10% of basic Cost of Equipment (Upload the
+undertaking). The original Performance Security of contract will be returned only after
+submission and verification of AMC Performance Security for 5% of total CMC value valid up
+to CMC period plus 2 months (if there is no other claim).
+
+21.Over and above the normal Warranty terms as per GeM GTC, the successful bidder / OEM
+shall have to provide Comprehensive Warranty during the entire Standard warranty period
+as per contract. : The comprehensive warranty shall be covering the following scope Total
+Item Including batteries etc. (Upload an undertaking with the bid confirming compliance by
+the bidder if Bidder is taking onus of this compliance. In case OEM is taking onus of this
+compliance, OEM undertaking is to be uploaded along with Bidder undertaking)
+
+22.Successful bidder will have to ensure that adequate number of dedicated technical service
+personals / engineers are designated / deployed for attending to the Service Request in a
+time bound manner and for ensuring Timely Servicing / rectification of defects during
+warranty period, as per Service level agreement indicated in the relevant clause of the bid.
+
+23.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 7 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+
+                            14 / 17
+
+
+
+ 
+
+Buyer.
+24.Warranty period of the supplied products shall be 5 years from the date of final acceptance
+
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+25.For fulfilling the experience criteria any one of the following documents may be considered
+as valid proof for meeting the experience criteria:
+a. Purchase Order copy along with Invoice(s) with self-certification by the bidder that
+supplies against the invoices have been executed.
+b. Execution certificate by client with order value.
+c. Any other document in support of order execution like Third Party Inspection release note,
+etc.
+
+26.The Bidder / OEM {themselves or through reseller(s)}, should have executed project for
+supply and installation / commissioning of same or similar Category Products during
+preceding 3 financial years (i.e. current year and three previous financial years) as on
+opening of bid, as per following criteria:
+ 
+(i) Single order of at least 35% of estimated bid value; or
+(ii) Two orders of at least 20% each of estimated bid value; or
+(iii) Three orders of at least 15% each of estimated bid value.
+Satisfactory Performance certificate issued by respective Buyer Organization for the above
+Orders should be uploaded with bid. In case of bunch bids, the Category related to primary
+product having highest bid value should meet this criterion
+
+Additional Clause For Comprehensive Maintenance Charges 
+
+  1.CMC shall include preventive maintenance including calibration as per technical/ service
+/operational manual of the manufacturer, service charges and spares, after satisfactory completion
+of Warranty. During the CMC period commencing from date of the successful completion of
+warranty period, Service personnel shall visit each consignee site as recommended in the
+manufacturer’s technical/ service /operational manual, at least once in six months. CMC shall not be
+including the consumables. Further there will be 98% uptime warranty during CMC period on 24
+(hrs) X 7 (days) X 365 (days) basis, with penalty, to extend CMC period by double the downtime
+period.
+
+  2.CMC charges to be indicated as percentage of cost of equipment quoted for each year after the
+warranty period.
+
+  3.GST shall be included in the CMC Charges quoted.
+
+  4.Cost of CMC will be added for Ranking/Evaluation purpose with depreciation formula. A 10%
+discounting rate per year shall be applied on CMC Charges for price evaluation on present value.
+
+  5.The payment of CMC will be made on quarterly basis after satisfactory completion of said period,
+duly certified by end user.
+
+  6.While creating a bid or RA buyers shall indicate whether CMC is required against Yes/No options.
+If CMC Charges are included an option for number of years for CMC required after the warranty
+period shall be available. Under this options up to 5 years can be chosen for CMC charges beyond
+warranty period.
+
+                            15 / 17
+
+
+
+ 
+
+  7.The CMC functionality shall be available in bid only and no direct RA shall be applicable. In case
+of bid to RA decrement rules shall be applicable on total price inclusive of CMC charges. Bunching of
+products shall not be available while creating bids with CMC charges.
+
+  7.1. Buyer shall indicate number of years of warranty by selecting option of 2 or 5 available in the
+field depending on warranty parameter applicable in category parameters for the equipment. The
+Seller while participating in Bid/RA will get fields to indicate CMC charges as percentage depending
+on number of years of CMC selected by Buyer. The following shall be applicable If 5 year CMC
+selected  
+
+CMC charges for first year after warranty period – Percentage to be indicated- A 1
+CMC charges for second year after warranty period – Percentage to be indicated A2
+CMC charges for third year after warranty period – Percentage to be indicated A3
+CMC charges for fourth year after warranty period – Fixed amount to be indicated A4
+CMC charges for 5th year after warranty period – Percentage to be indicated A5
+
+7.2. The calculation of CMC Charges shall take in to account of number of years of warranty and
+duration of CMC as specified while creating bid.
+
+  7.3. In the price evaluation, the system shall provide function to calculate the cost of each
+equipment by formula indicated below including CMC and then show the inter-se- ranking of the
+bidders. The following are the variables.
+
+  (i) Number of years for which CMC required.
+  (ii) Number of years of warranty. The formula for calculating total cost including CMC charges shall
+be :
+
+  Total cost for evaluation= C+ C*( A1/100) /(1.10n) + A2/100/(1.10n+1)+ A3/100/(1.10n+2)+
+A4/100/(1.10n+3) + A5/100/(1.10n+4)
+  C – Cost for equipment quoted and n shall be number of years of warranty specified
+  If 2 year warranty specified n shall be 2 and if 5 year specified n shall be 5.
+
+  A1,A2 A3 A4 A5 shall depend on how many years CMC selected If 3 year means only A1,A2 and A3
+factor to be not taken in to account and A4 and A5 will not be applicable
+
+  7.4. CMC charges to be indicated for each subsequent year should be same or higher than
+preceding year.
+
+  7.5. The CMC charges shall be offered within range of 3 to 10% of cost of equipment.
+
+  8. Since CMC charges are to be paid only later for each year during CMC period , applicable
+performance guarantee amount after placement of contract shall be based on the cost of equipment
+and not on basis of cost of equipment along with CMC Charges.
+
+  9. Performance bank guarantee applicable for CMC is to be submitted at start of the CMC and shall
+be applicable 2.5% as specified in bid on the total contract value including CMC Charges The PBG
+submitted  after award of contract shall be released only after new PBG for the CMC period is
+submitted and accepted by buyer/consignee after due verification. Bank guarantee for CMC is to
+remain valid till completion of CMC period plus one year .The bank guarantee for CMC shall be
+submitted to buyer directly.
+
+  10. In case of splitting of quantity equipment cost and CMC charges offered by L-1 in the evaluated
+cost shall be matched by higher quoting eligible bidders on one to one basis .The equipment cost
+shall be matched and CMC charges shall be matched year to year.
+
+  11. The CMC Contract shall be an offline contract to be handled by buyer. The payment of CMC will
+be made on quarterly basis after satisfactory completion of said period, duly certified by end user
+
+                            16 / 17
+
+
+
+ 
+
+and scope of CMC will be as per para 1 above.
+
+  12. The above terms and conditions shall be part of the bid as well as part of the contract. 
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                            17 / 17
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

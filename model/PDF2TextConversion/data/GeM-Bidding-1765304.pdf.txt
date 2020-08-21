@@ -1,0 +1,851 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/691096
+
+  Dated: 29-06-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 17:00:00
+
+Bid Opening Date/Time 2020-07-20 17:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 65 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence Production
+
+Organisation Name Indian Ordnance Factories
+
+Office Name ***********
+
+Total Quantity 1
+
+Item Category Milling Machine
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  OEM Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 2.00
+
+EMD Amount 50958
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 5.00
+
+Duration of ePBG required (Months). 12
+
+                               1 / 9
+
+
+
+ 
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+GENERAL MANAGER, ORDNANCE FACTORY MEDAK, YEDDUMAILARAM
+Ordnance Factory Medak, Department of Defence Production, Indian Ordnance Factories, Ministry of
+Defence
+(General Manager)
+
+Splitting
+
+ Bid splitting not applied.
+
+Milling Machine ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Confirmity to
+specification IS 6893
+part 2 for Horizontal
+/Universal Knee Type
+Milling Machine
+
+Yes Yes
+
+Confirmity to
+specification IS 6893
+part 6 for Vertical
+spindle Knee Type
+Milling Machine
+
+Yes Yes
+
+Milling Arbor as per IS
+8614 latest
+
+Yes *
+
+Mechanical Guarding
+as per IS 9474 latest
+
+Yes *
+
+Geometrical and
+Practical Accuracy as
+per IS 2200 latest
+
+Yes *
+
+Geometrical Accuracy
+test for inspection of
+the machine
+
+Yes *
+
+                               2 / 9
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/H1ruc-xqFVmidjmcaOpSvZYr368vaCbqdQvYJasz6_U
+
+
+ 
+
+conforming to IS: 2201
+- 1973
+
+Machine standard As
+per IS: 210-1993
+
+Yes *
+
+Performance
+Parameters
+
+Type of Milling Horizontal Milling Horizontal Milling
+
+Mechanism Manually Operated *
+
+Nature of Operation Heavy Duty Heavy Duty
+
+Table Total Area
+(Length x Width)
+(mm x mm)
+
+2050 x 355 2050 x 355
+
+Table Clamping Area
+(Length x Width ) , mm
+x mm
+
+- *
+
+Width of T slots in mm 16 *
+
+Number of T Slots 3 *
+
+Centre Distance
+between T slots in mm
+
+80 *
+
+Table Transverse Manual & Automatic *
+
+Longitudenal Table
+Transverse in mm
+
+1200 *
+
+Cross Table Transverse
+in mm
+
+320 *
+
+Vertical Transverse in
+mm
+
+425 *
+
+Swivel of Milling Head
+to either side in vertical
+plane for vertical
+milling in degree (for
+others put NA)
+
+- *
+
+Swivel of Table to
+either side of horizontal
+plane in Degree ( for
+universal /Put NA for
+Horizontal and Vertical
+Milling Machine)
+
+- *
+
+Maximum Safe Load on
+table in KG
+
+600 *
+
+Number of Spindle
+Speed
+
+18 *
+
+Spindle Speed range in
+rev/min
+
+- *
+
+Spindle Front Bearing
+Diameter in mm
+
+95.263 *
+
+Type and Size of
+Spindle Nose
+
+- *
+
+Vertical Movement of - *
+
+                               3 / 9
+
+
+
+ 
+
+Quill in mm( put NA for
+Horizontal Milling
+Machine and Universal
+Milling Machine )
+
+Vertical Quill Diameter
+in mm(For light duty
+dimater must be
+greater than 85 mm,
+for medium and heavy
+duty milling >=170
+mm)
+
+0 *
+
+Number of Feeds
+available
+
+24 *
+
+Feed range for
+Longitudinal in mm/min
+
+- *
+
+Feed range for
+Transverse in mm/min
+
+- *
+
+Feed range for Vertical
+in mm/min
+
+- *
+
+Rapid Transverse Feed
+range for Longitudinal
+& Cross in mm/min
+
+- *
+
+Rapid Transverse Feed
+range for vertical in
+mm/min
+
+- *
+
+Max Feed Force in KN 44.11 *
+
+Maximum Torque on
+Spindle in Nm
+
+1814 *
+
+Required Floor Space in
+mm x mm
+
+- *
+
+ISO Compliance for
+Milling Machine
+
+ISO 50 for Heavy Duty
+Milling Machine
+
+*
+
+Size of Milling Arbor As per ISO 50 for Heavy
+Duty Milling Machine
+
+*
+
+Power Supply (V, Ph ,
+Hz)
+
+- *
+
+Spindle Motor Power in
+Kw
+
+7.5 *
+
+Spindle Motor RPM 1500 *
+
+Feed Motor power in
+KW
+
+3 *
+
+Feed Motor RPM 3000 *
+
+Coolant Pump Motor in
+kw
+
+0.11 *
+
+Coolant Pump Motor in
+RPM
+
+1200 *
+
+                               4 / 9
+
+
+
+ 
+
+Noise level Emitted by
+Machine as per IS
+10988 latest in dB
+
+80 *
+
+Interlocking through
+switches for Medium
+Duty and Heavy Duty (
+For Light Duty Put NA)
+
+Yes *
+
+Shear Pin or
+mechanical over load
+coupling for feed drive
+For medium duty and
+Heavy Duty , For Light
+Duty Put NA
+
+Yes *
+
+Flexible Motor Coupling
+against shock loading
+For medium duty and
+Heavy Duty , For Light
+Duty Put NA
+
+Yes *
+
+Thermal Safety Over
+Load Relay
+
+Yes *
+
+Interlocking of spindle
+& feed Drive For
+medium duty and
+Heavy Duty , For Light
+Duty Put NA
+
+Yes *
+
+Control circuit swiching
+off during Voltage drop
+
+Yes *
+
+Single phase preventor Yes *
+
+Possitive clamping of
+all guideways thru
+clamping pads
+
+Yes *
+
+Stremlined
+construction,rigged and
+vibration free
+
+Yes *
+
+Power operated Feeds
+and Rapid traverse in
+all axis
+
+Yes *
+
+Independent main drive
+and feed drive
+
+Yes *
+
+Instantaneous braking
+of spindle and all Axis
+feed drive for medium
+duty and heavy duty,
+for light duty put NA
+
+Yes *
+
+Inch push button for
+speed & feed dirves
+
+Yes *
+
+Two nut arrangeent
+with Climb Milling
+attachment for
+Longitudinal drive for
+
+Yes *
+
+                               5 / 9
+
+
+
+ 
+
+medium duty and
+heavy duty, for light
+duty put NA
+
+Feed & Rapid drive thru
+Electromagnetic clutch
+for Medium Duty and
+Heavy duty Milling
+Machine
+
+Yes *
+
+Separate plunger pump
+for spindle & feed drive
+lubrication for Medium
+Duty and Heavy Duty
+Milling Machine
+
+Yes *
+
+Automatic Lubrication
+to all slide
+
+Yes *
+
+Selection of Each Axis
+drive thru mechanical
+lever operated for
+Medium Duty and
+Heavy Duty Milling
+Machine
+
+Yes *
+
+Programable control in
+Longitudinal axis
+
+No *
+
+Thermal Stability of
+bearing over excess
+temperature above 40
+degree cel
+
+Yes *
+
+Electric equipment Yes *
+
+Annual Maintenance
+Contract Rate included
+for machine
+
+No *
+
+Period of AMC in
+years if yes
+
+0 0
+
+Warranty in years 1 1
+
+Foundation Turnkey
+Charges included
+
+No No
+
+Erection And
+Commisioning
+Charges Included In
+Offered Prices
+Without Foundation
+
+Yes Yes
+
+Dimensional & Material
+parameters
+
+Size of the machine (L
+x W x H ) (mm x mm x
+mm)
+
+- *
+
+Weight of the machine
+in kg
+
+3600 *
+
+Machine casting of
+Column/Knee/Saddle
+/Table confirms to Cact
+
+Yes *
+
+                               6 / 9
+
+
+
+ 
+
+Iron Grade FG-260 &
+Hardness 180-230 BHN
+
+Main Spindle of C2R
+grade forged Steel and
+hardened 58-62 HRC
+
+Yes *
+
+Drive gears of Alloy
+steel material
+specification 15 Ni 7 Cr
+4 M02
+
+Yes *
+
+Pre-loaded Standard
+make High precision
+class P3 set of taper
+roller bearings for main
+spindle
+
+Yes *
+
+Dynamically balanced
+Spindle and other parts
+rotating with peripheral
+speed of more than
+3m/sec
+
+Yes *
+
+Lead screw -Ground
+profile
+
+Yes *
+
+Colour of Milling
+Machine as per IS
+5-1978 latest
+
+- *
+
+Standard Accessories Draw Bolt with draw
+nut
+
+Yes *
+
+Elevating crank handle Yes *
+
+Two arbor support
+bearing bracket for
+horizonta& Universal
+milling (put NA for
+Vertical Milling
+Machine)
+
+Yes *
+
+Over arm brace for
+vertical / horizontal &
+Universal milling
+
+Yes *
+
+Machine Lamp Yes *
+
+Service Tool kit for
+operation &
+maintenance
+
+Yes *
+
+Operation &
+Maintenance Manual
+
+Yes *
+
+Foundation bolts &
+levelling plate
+
+Yes *
+
+Machine vice with
+swivel base 200mm
+
+Yes *
+
+Self Centering vce
+10-80 mm
+
+Yes *
+
+                               7 / 9
+
+
+
+ 
+
+Stub Milling Arbor dia
+16,22,27,32 & 40 mm
+
+Yes *
+
+Collet Holder with set
+of conical collets
+size5,6,8,10,12 &20
+mm
+
+Yes *
+
+End mill holders dia
+5,6,8,10,16&20 mm
+
+Yes *
+
+Reduction sleeve type
+B size
+MT1,MT2,MT3&MT4
+
+Yes *
+
+Milling Arbor for
+horizonta& Universal
+milling size dia
+22x500&,dia
+27x500mm( NA for
+Vertical Milling )
+
+Yes *
+
+Optional Accessories 3 Axis DRO No *
+
+Slotting attachment No *
+
+Angle plate & sine
+plate
+
+No *
+
+Universal dividing head
+135mm with tailstock,
+supporting block,3 jaw
+self centering chuck dia
+160mm &train of gears
+for Universal Milling
+Machine only for rest
+Put NA
+
+Na *
+
+Universal dividing head
+135mm with tailstock,
+supporting block,3 jaw
+self centering chuck dia
+160mm for Universal
+put NA
+
+Na *
+
+Vertical Milling head No *
+
+Cross plate minimum
+size 350 x260 mm
+
+No *
+
+Hand operated round
+table minimum dia 400
+mm
+
+No *
+
+Set of spares for
+normal running
+
+Yes *
+
+Parking bracket No *
+
+Single lever hand
+operated vertical
+indexing head 12
+notches 3 jaw chuck,
+160 mm dia
+
+No *
+
+                               8 / 9
+
+
+
+ 
+
+Reports Avilability of test
+reports from Govt lab
+or any NABL /ILAC
+approved lab to prove
+conformity to the
+specification
+
+Yes *
+
+Test Report No - *
+
+Test Report Date - *
+
+Name and Complete
+address of Lab
+
+- *
+
+Copy of test report to
+be submitted to buyer
+on demand at the time
+of supplies
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********MEDAK 1  90
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               9 / 9
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

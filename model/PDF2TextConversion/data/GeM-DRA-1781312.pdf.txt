@@ -1,0 +1,492 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   RA Number: GEM/2020/RA/44891
+
+  Dated: 10-07-2020
+
+  
+
+RA Document
+RA Details
+
+RA Technical End Date/Time 25-07-2020 17:00:00
+
+RA Opening Date/Time 25-07-2020 17:30:00
+
+RA Life Cycle (From Publish Date) 90 (Days)
+
+RA Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Mines
+
+Department Name Na
+
+Organisation Name National Institute Of Rock Mechanics (nirm)
+
+Office Name Bangalore
+
+Total Quantity 1
+
+Item Category Multifunction Machines MFM
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+
+Splitting
+
+ RA splitting not applied.
+
+Multifunction Machines MFM ( 1 pieces ) ( Under PAC ) 
+
+Make canon
+
+Model canonir-advc3525withdadf
+
+Technical Specifications
+
+                               1 / 6
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Ungrouped Print Technology Laser Laser
+
+Type of Machine Multifunction Machine Multifunction Machine
+
+Type of Printing Colour Colour
+
+Cartridge
+Technology
+
+Separate Drum and
+Toner (Dual
+Component)
+
+Composite Cartridge,
+Separate Drum and
+Toner (Mono
+Component), Separate
+Drum and Toner (Dual
+Component) Or higher
+
+Developer Unit No *
+
+Platen/Flatbed Size A3 A3 Or higher
+
+Paper Size
+(Original/Image)
+
+A3/A3 A3/A3
+
+RAM size (MB) 3072 4096, 6144, 3072,
+2560, 7168, 5120,
+8192, 16384, 2816,
+4000, 10240 Or higher
+
+Hard Disk
+Capacity(GB)
+
+250 256, 320, 500, 1024,
+250, 640, 1000, 2000,
+3000 Or higher
+
+Minimum Speed per
+Minute as per
+ISO/IEC 24734 in A4
+Size-Mono
+
+25 25, 26, 27, 28, 30, 31,
+35, 36, 38, 40, 43, 45,
+46, 47, 50, 52, 55, 60,
+61, 65, 70, 71, 75, 80,
+90, 95, 100, 105, 110,
+51, 56, 41, 120, 130,
+160, 57, 33, 34, 32, 85,
+81, 53 Or higher
+
+Minimum Speed per
+Minute as per
+ISO/IEC 24734 in A4
+Size-Colour
+
+25 25, 26, 27, 28, 30, 31,
+35, 36, 40, 50, 60, 46,
+120, 130, 160, 65, 45,
+34, 55, 38, 56, 75, 81,
+71, 53 Or higher
+
+Minimum Speed per
+Minute as per ISO/IEC
+24734 in A3 Size-Mono
+
+15 *
+
+Minimum Speed per
+Minute as per ISO/IEC
+24734 in A3 Size-
+Colour
+
+15 *
+
+Scanning Feature
+Availability
+
+Yes Yes Or higher
+
+Duplexing Feature
+Availability
+
+Yes Yes Or higher
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/M2xkbcjMOUYEkh6EWkc-T8VnhRcw6pKZhvH8kUi675Q
+
+
+ 
+
+Faxing Feature
+Availability
+
+No Yes, No Or higher
+
+Speed of Fax, If Fax
+Feature is available
+
+NA *
+
+Networking Feature
+Availability
+
+Yes Yes Or higher
+
+If yes, Type of Network
+Interface
+
+Ethernet 10/100/1000 *
+
+Wi-Fi Availability Yes Yes Or higher
+
+If yes,Wi-Fi Type Wi fi 802.11 b/g/n & Wi
+Fi Direct
+
+*
+
+Original Document
+Feeder Type
+
+DADF/RADF DADF/RADF Or higher
+
+Feeder Capacity
+(Number)
+
+100 *
+
+Number of Main
+Paper Tray
+
+2 2, 3, 4, 5 Or higher
+
+Each Main Paper Tray
+Capacity (Number)
+
+550 *
+
+Bypass Facility Yes Yes Or higher
+
+If Yes, Bypass Tray
+Capacity
+
+100 *
+
+Yield of the
+cartridge/Ink Tank/Ink
+Pack supplied with
+Machine as per ISO/IEC:
+19798/2007(E) for
+Cyan colour (Number of
+prints)
+
+18000 *
+
+Yield of the
+cartridge/Ink Tank/Ink
+Pack supplied with
+Machine as per ISO/IEC:
+19798/2007(E) for
+Yellow colour (Number
+of prints)
+
+18000 *
+
+Yield of the
+cartridge/Ink Tank/Ink
+Pack supplied with
+Machine as per ISO/IEC:
+19798/2007(E) for
+Magenta colour
+(Number of prints)
+
+18000 *
+
+Yield of the
+cartridge/Ink Tank/Ink
+Pack supplied with
+Machine as per ISO/IEC:
+19752/2004(E) for
+Black (Number of
+
+36000 *
+
+                               3 / 6
+
+
+
+ 
+
+prints)
+
+Life of Drum in terms of
+number of Prints in
+case of Separate Drum
+and Toner cartridge
+technology - Cyan
+(Number of Prints)
+
+54000 *
+
+Life of Drum in terms of
+number of Prints in
+case of Separate Drum
+and Toner cartridge
+technology - Yellow
+(Number of Prints)
+
+54000 *
+
+Life of Drum in terms of
+number of Prints in
+case of Separate Drum
+and Toner cartridge
+technology - Magenta
+(Number of Prints)
+
+54000 *
+
+Life of Drum in terms of
+number of Prints in
+case of Separate Drum
+and Toner cartridge
+technology - Black
+(Number of Prints)
+
+69000 *
+
+Duty Cycle (No of
+Prints/month)
+
+95000 *
+
+Minimum Operating
+Temperature (Degree
+C)
+
+10 *
+
+Maximum Operating
+Temperature (Degree
+C)
+
+30 *
+
+Minimum Operating
+Humidity (%RH)
+
+20 *
+
+Maximum Operating
+Humidity (%RH)
+
+80 *
+
+BIS Registration under
+CRS of Meity
+
+Yes *
+
+BIS Registration
+Number
+
+R-41006262 *
+
+Other Certifications
+Available
+
+RoHS *
+
+Dimension (mm x mm
+x mm)
+
+565 x 736 x 880 mm *
+
+Weight (Kg) 76.2 *
+
+On Site OEM
+Warranty (Year)
+
+3 3, 4, 5 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+
+                               4 / 6
+
+
+
+ 
+
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignee/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Shruthi B S 560070,Outer Ring
+Road,Eshwar Nagar,BSK 2nd
+Stage
+
+1  30 N/A
+
+Bid Specific Additional Terms and Conditions
+
+1.Bidder / OEM has to give an undertaking that after expiry of warranty period, it will provide
+AMC Service for next 1 years for the offered products at the rate not more than 5 % of
+contract price per annum. Buyer reserves the right to enter into an AMC agreement (
+covering preventive maintenance and servicing)with the Successful Bidder / OEM after
+expiry of the Warranty period at rate as mentioned above and the payment for the AMC
+charges would be made Annually after rendering of the AMC Services of the relevant AMC
+period. Performance Security of the successful bidder shall be forfeited if it fails to accept
+the AMC contract when called upon by the buyer. The original Performance Security of
+contract will be returned only after submission and verification of AMC Performance Security
+for 3% of total AMC value valid up to AMC period plus 2 months (if there is no other claim).
+(Undertaking of acceptance to be uploaded with bid).
+
+2.Successful bidder will have to ensure that adequate number of dedicated technical service
+personals / engineers are designated / deployed for attending to the Service Request in a
+time bound manner and for ensuring Timely Servicing / rectification of defects during
+warranty period, as per Service level agreement indicated in the relevant clause of the bid.
+
+3. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+4.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+5.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+6.The buyer organization is an institution eligible for concessional rates of GST as notified by
+the Government of India. The goods for which bids have been invited fall under classification
+of GST concession and the conditions for eligibility of concession are met by the institution.
+A certificate to this effect will be issued by Buyer to the Seller after award of the Contract.
+Sellers are requested to submit their bids after accounting for the Concessional rate of GST.
+Applicable Concessional rate of GST : 5%
+Notification No.and date : 11/57/2012-TU V dated 22/11/2018
+
+This RA is also governed by the General Terms and Conditions
+
+---Thank You---
+
+                               5 / 6
+
+https://gem.gov.in/termsCondition
+
+
+ 
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+http://www.tcpdf.org
+

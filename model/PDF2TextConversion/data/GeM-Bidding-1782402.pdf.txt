@@ -1,0 +1,478 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/706648
+
+  Dated: 11-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 21-07-2020 12:00:00
+
+Bid Opening Date/Time 21-07-2020 12:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Railways
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Central Railway Hq Stores Deptt.
+
+Total Quantity 18
+
+Item Category insulation tester
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Certificate
+(Requested in ATC),OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  50 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+Estimated Bid Value  235000
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 6
+
+
+
+ 
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 50% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Insulation Tester ( 18 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+OTHER MEASUREMENT AC/DC Voltage
+Measurement (Volt)
+
+600 *
+
+AC/DC Voltage
+Measurement
+Resolution ( Volts )
+
+0.1 *
+
+AC/DC Voltage
+Measurement Accuracy
+(%)
+
+2.0 *
+
+PERFORMANCE Type Hand Held Hand Held
+
+Measurement Range 0.01 M Ohm to 10 G
+Ohm
+
+0.01 M Ohm to 10 G
+Ohm, 200 K Ohm to 1 T
+Ohm
+
+Measurement
+Accuracy
+
+2 2.0
+
+Measurement
+Resolution
+
+1 1.0
+
+Test Voltage 5000 5000.0
+
+Test Current 1 1.0
+
+FEATURES Pass Fail Function No *
+
+Data Logging NA *
+
+PC interface along with Not Available *
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/YpwG5Xq_6sgHIirceNqe0BjqtBm1O8oeOyTf7EiRKLw
+
+
+ 
+
+suitable & driven
+software
+
+Live Circuit Detection NA *
+
+Auto Discharge Time
+(Second)
+
+Less than 0.5 *
+
+Any Other Features - *
+
+GENERIC Dimensions ( mm x mm
+x mm )
+
+- *
+
+Weight 850 *
+
+SAFETY Safety rating Category III 600 V of
+IEC 61010
+
+Category III 600 V of
+IEC 61010
+
+POWER REQUIREMENT Power Requirements Battery Operated *
+
+Type of Battery Non- Rechargeable
+(Alkaline)
+
+*
+
+if rechargeable , then
+chemistry of the
+battery
+
+NA *
+
+if Non-rechargeable ,
+then size of the battery
+/ cell
+
+AA *
+
+Number of non-
+rechargeable the
+battery / cell
+
+4 *
+
+Voltage of
+rechargeable Battery
+
+0 *
+
+Capacity of
+rechargeable battery
+(milli ampere hour)
+
+0 *
+
+ACCESSORIES Standard Accessories
+Supplied with the
+Equipment
+
+- *
+
+WARRANTY Warranty 1 1.0
+
+OPERATING CONDITION Minimum Operating
+Temperature
+
+0 *
+
+Maximum Operating
+Temperature
+
+40 *
+
+Operating Humidity
+(RH)
+
+85 *
+
+TEST REPORT DETAILS The equipment
+supplied with
+calibration certificate
+
+YES *
+
+conformity to Dry Heat
+for 16 hrs at a specified
+maximum temp
+
+No *
+
+conformity to Cold Test
+for 4 hrs at a specified
+
+No *
+
+                               3 / 6
+
+
+
+ 
+
+minimum temp in
+accordance with IS:900
+0/part-2/section-4/1977
+latest
+
+conformity to Damp
+Heat (Cyclic)Test for 2
+Cycles of 24 hours each
+at a temp of 40 degree
+C & 95% RH
+
+No *
+
+Availability of Test
+Reports from Central
+Govt/NABL/ILAC
+approved accredited
+lab to prove conformity
+to the specification
+
+No *
+
+Test Report Number
+and date for the
+specification test
+
+- *
+
+Name and address of
+the Lab for the
+specification test
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Praveen
+Sukhdeorao Patil
+
+413001,DRM OFFICE
+CENTRAL RAILWAY SOLAPUR
+
+18  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Bidder financial standing: The bidder should not be under liquidation, court receivership
+or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect
+with bid.
+
+2.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+3.Bidders shall quote only those products in the bid which are not obsolete in the market and
+has at least 4 years residual market life i.e. the offered product shall not be declared end-of-
+life by the OEM before this period.
+
+4.Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid
+documents. Buyers can match and verify the Data Sheet with the product specifications
+offered. In case of any unexplained mismatch of technical parameters, the bid is liable for
+rejection.
+
+                               4 / 6
+
+
+
+ 
+
+5.Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have
+regularly, manufactured and supplied same or similar Category Products to any Central /
+State Govt Organization / PSU / Public Listed Company for 3 years before the bid opening
+date. Copies of relevant contracts to be submitted along with bid in support of having
+supplied some quantity during each of the year. In case of bunch bids, the primary product
+having highest value should meet this criterion.
+
+6.OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be
+ordered up to 25 percent at the time of placement of contract. The purchaser also reserves
+the right to increase the ordered quantity by up to 25% of the contracted quantity during the
+currency of the contract at the contracted rates. Bidders are bound to accept the orders
+accordingly.
+
+7.1. The Seller shall not assign the Contract in whole or part without obtaining the prior written
+consent of buyer.
+2. The Seller shall not sub-contract the Contract in whole or part to any entity without
+obtaining the prior written consent of buyer.
+3. The Seller shall, notwithstanding the consent and assignment/sub-contract, remain jointly
+and severally liable and responsible to buyer together with the assignee/ sub-contractor, for
+and in respect of the due performance of the Contract and the Sellers obligations there
+under.
+
+8.Without prejudice to Buyer’s right to price adjustment by way of discount or any other right
+or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a
+written notice to the Seller, if:
+i) The Seller fails to comply with any material term of the Contract.
+ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within
+the stipulated Delivery Period or such inability otherwise becomes apparent.
+iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery
+Period and/or to replace/rectify any rejected or defective Material(s) promptly.
+iv) The Seller becomes bankrupt or goes into liquidation.
+v) The Seller makes a general assignment for the benefit of creditors.
+vi) A receiver is appointed for any substantial property owned by the Seller.
+vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has
+placed the Purchase Order on the Seller.
+
+9.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+10. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+11.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+12.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+13.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents
+sought in the Bid document, ATC and Corrigendum if any.
+
+14. ISO 9001: The bidder must have ISO 9001 certification.
+15.The bidder is required to upload, along with the bid, all relevant certificates such as BIS
+
+licence, type test certificate, approval certificates and other certificates as prescribed in the
+Product Specification given in the bid document.
+
+16.Successful bidder will have to ensure that adequate number of dedicated technical service
+personals / engineers are designated / deployed for attending to the Service Request in a
+time bound manner and for ensuring Timely Servicing / rectification of defects during
+warranty period, as per Service level agreement indicated in the relevant clause of the bid.
+
+17.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 7 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+
+                               5 / 6
+
+
+
+ 
+
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

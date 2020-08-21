@@ -1,0 +1,614 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/690447
+
+  Dated: 29-06-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 09-07-2020 13:00:00
+
+Bid Opening Date/Time 2020-07-09 13:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Integrated Defence Staff (hq Ids)
+
+Office Name ***********
+
+Total Quantity 1
+
+Item Category Virtualisation & Cloud software (Version 2.0) ( PAC
+Only ) 
+
+Bidder Turnover (Last 3 Years)  3 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  25 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years Of Experience and
+Turnover
+
+ Yes
+
+Startup Exemption for Years Of Experience
+and Turnover
+
+ Yes
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  80 %
+
+Bid to RA enabled  Yes
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 2.00
+
+EMD Amount 12840
+
+                               1 / 7
+
+
+
+ 
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 2.00
+
+Duration of ePBG required (Months). 38
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+JT DIR DATA AND APPLN
+Hq Ids, Department of Defence, Integrated Defence Staff (HQ IDS), Ministry of Defence
+(Hk Sharma)
+
+Splitting
+
+ Bid splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 80% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+                               2 / 7
+
+
+
+ 
+
+Virtualisation & Cloud Software (Version 2.0) ( 1 pieces ) ( Under PAC ) 
+
+Make vmware
+
+Model vmwarevcenterserver6standardforvsphere6(peri
+nstance)3yearssupport
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+BASIC INFORMATION Domain Virtualisation & Cloud
+software
+
+Virtualisation & Cloud
+software
+
+Scope of the offered
+product
+
+1. Virtualisation of
+various IT Hardware
+namely Server,
+Network, Storage etc.
+
+*
+
+Components/Module
+s of Virtualisation
+Software
+
+1. SERVER
+VIRTUALISATION
+
+1. SERVER
+VIRTUALISATION
+
+Name of Software vCenter Standard *
+
+OEM Model / Part No vCenter Standard *
+
+Software Description vCenter Standard *
+
+Software Version &
+Date of Launch of
+Version
+
+Latest *
+
+SCOPE OF LICENCE Types of Licence 1.Perpetual 1.Perpetual
+
+" Duration of
+Subscription (in
+Years) (Hint : Select
+'0' if not applicable)"
+
+0 0.0 - 5.0 Or higher
+
+OEM Licensing policy 3. Per VM 3. Per VM
+
+Valid Licence/
+Subscription copy to be
+provided
+
+YES *
+
+Installation and
+demonstration
+
+No Yes, No
+
+The offered product
+have support from
+OEM for
+
+1. Unlimited updation
+for Patches and Bug
+fixes within support
+period.,2. Unlimited
+upgradation of version
+within support period
+
+1. Unlimited updation
+for Patches and Bug
+fixes within support
+period., 2. Unlimited
+upgradation of version
+within support period
+
+Number of Years
+upto which support
+is available from
+
+3 3
+
+                               3 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/qdBKlezyyy_ibPnDaz-1WwmUJoKMGz6CoL1qLwF6Ol0
+
+
+ 
+
+OEM for Updation
+(Patches and Bug
+fixes) within support
+period
+
+Number of Years
+upto which support
+is available from
+OEM for Upgradation
+of version within
+support period
+
+3 3
+
+No of days Training
+Provided at Site (for
+maximum batch of
+10)
+
+0 0
+
+SERVER
+VIRTUALISATION
+
+Server Virtualisation
+features
+
+4. Comprehensive,
+universal API support
+across all cloud
+platforms enabling full
+management of all
+system objects through
+the API.,7. Captures
+host-level configuration
+settings and saves
+them as a template to
+configure other
+virtualization hosts.,8.
+Centralized
+management with
+webbased / client
+interface capabilities,9.
+Capablities of analytics,
+reporting and to
+identify over-
+provisioned
+resources,10.
+Capability to provide
+deep visibility into
+resource consumption
+trends,11. Provide
+integrated smart alerts
+for health, performance
+and capacity
+degradation.,5.
+Capability for seamless
+migration of virtual
+machines across
+different CPUs, clusters
+and hybrid cloud.
+
+4. Comprehensive,
+universal API support
+across all cloud
+platforms enabling full
+management of all
+system objects through
+the API., 5. Capability
+for seamless migration
+of virtual machines
+across different CPUs,
+clusters and hybrid
+cloud., 7. Captures host-
+level configuration
+settings and saves
+them as a template to
+configure other
+virtualization hosts., 8.
+Centralized
+management with
+webbased / client
+interface capabilities,
+9. Capablities of
+analytics, reporting and
+to identify over-
+provisioned resources,
+10. Capability to
+provide deep visibility
+into resource
+consumption trends,
+11. Provide integrated
+smart alerts for health,
+performance and
+capacity degradation.
+
+Capability to enables
+efficient replication of
+data over the LAN or
+WAN, and simplifies
+management by
+
+3. NA *
+
+Capability for
+seamless migration
+
+4. NA 4. NA
+
+                               4 / 7
+
+
+
+ 
+
+of virtual machines
+across different
+
+Capability to protect
+virtual environments by
+integrating Hypervisor
+Introspection via Direct
+Inspect APIs from
+
+5. NA *
+
+Availability of DR
+Automation Features in
+the offered products
+
+8. NA *
+
+Performance
+monitoring capability
+for Physical Host /
+Virtual Machine
+
+1.Monitoring Of CPU, *
+
+NETWORK
+VIRTUALISATION
+
+Network
+Virtualisation
+Features
+
+12. NA 12. NA
+
+Availability of
+functionality of
+Logical Switching in
+a virtual
+environment
+(decoupled from
+underlying
+hardware) for
+
+3. NA 3. NA
+
+CLOUD
+VIRTUALISATION
+
+Cloud Virtualisation
+Features 1
+
+13. NA 13. NA
+
+Provision for
+automation of
+compute, network,
+storage, applications
+and custom services
+through
+
+4. NA *
+
+"Capability to provide
+automation and
+orchestration solution
+without any manual
+intervention for "
+
+4. NA *
+
+STORAGE
+VIRTUALISATION
+
+STORAGE
+VIRTUALISATION
+Features
+
+7. NA 7. NA
+
+" Capable to support
+features through
+erasure coding for "
+
+6. NA 6. NA
+
+MINIMUM HARDWARE
+REQUIREMENT
+
+Minimum Server
+configuration
+
+X86 *
+
+Minimum Network
+interface card per
+server
+
+2 *
+
+Minimum disk required 2 *
+
+                               5 / 7
+
+
+
+ 
+
+per server
+
+Minimum Nodes
+required for HCI
+solution
+
+3 *
+
+Hyper link to Data
+sheet
+
+www.vmware.com *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********NEW DELHI 1  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+2.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+3.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial
+year, should be as indicated in the bid document. Documentary evidence in the form of
+certified Audited Balance Sheets of relevant periods or a certificate from the Chartered
+Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than
+3 year old, the average turnover in respect of the completed financial years after the date of
+constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of
+CATEGORY RELATED TO primary product having highest bid value should meet this criterion.
+
+4. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+5.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+6.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+7.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+
+                               6 / 7
+
+
+
+ 
+
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+8. ISO 9001: The bidder must have ISO 9001 certification.
+9.Timely Servicing / rectification of defects during warranty period: After having been notified
+
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 3 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+10.The Bidder / OEM {themselves or through reseller(s)}, should have executed project for
+supply and installation / commissioning of same or similar Category Products during
+preceding 3 financial years (i.e. current year and three previous financial years) as on
+opening of bid, as per following criteria:
+ 
+(i) Single order of at least 35% of estimated bid value; or
+(ii) Two orders of at least 20% each of estimated bid value; or
+(iii) Three orders of at least 15% each of estimated bid value.
+Satisfactory Performance certificate issued by respective Buyer Organization for the above
+Orders should be uploaded with bid. In case of bunch bids, the Category related to primary
+product having highest bid value should meet this criterion
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,658 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/697187
+
+  Dated: 03-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 18-07-2020 17:00:00
+
+Bid Opening Date/Time 18-07-2020 17:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Manipur
+
+Department Name Health Services Department Manipur
+
+Organisation Name National Rural Health Mission (nrhm)
+
+Office Name Lamphelpat
+
+Total Quantity 9
+
+Item Category Semi Automatic Bio Chemistry Analyser
+
+Bidder Turnover (Last 3 Years)  4 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  4 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  50 %
+
+Bid to RA enabled  No
+
+Inspection Required  Yes
+
+Inspection to be carried out by Buyers own
+empanelled agency
+
+ Yes
+
+Type Of Inspection  Post Dispatch
+
+Name of the Empanelled Inspection
+Agency/ Authority
+
+ Board of Officers
+
+EMD Detail
+
+                               1 / 8
+
+
+
+ 
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 50% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Semi Automatic Bio Chemistry Analyser ( 9 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Configuration &
+Physical Characteristics
+
+Usage: The equipment; Semi
+automatic bio
+chemistry analyser is
+used for measurements
+of bio-chemistry tests,
+using wet chemistry
+reagent(s) and have
+ability to use external
+
+*
+
+                               2 / 8
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/0y6PhX4j7r7KfMv2J4HCq71Pind1LlzfmWNTK2skyk4
+
+
+ 
+
+cuvettes and
+integrated flow cell.
+Semi automated Bio
+Chemistry Analyser is
+with built in software
+for the calculation and
+curve plotting .
+
+User Interface: LCD display with Touch
+Key board
+
+LCD display with Touch
+Key board
+
+Flow cell type: Permanent flow cell Permanent flow cell
+
+Light Source: Halogen Lamp *
+
+Wavelength
+Selection &
+Measurement range
+(wavelengths):
+
+Automatic
+(wavelength) selection
+facility with 6 position
+filter wheel (with all six
+filters in position),
+covers standard
+wavelengths in the
+range of 340 to 630 nm
+
+Automatic
+(wavelength) selection
+facility with 6 position
+filter wheel (with all six
+filters in position),
+covers standard
+wavelengths in the
+range of 340 to 630
+nm, Automatic
+(wavelength) selection
+facility with 8 position
+filter wheel (with all
+filters in position),
+covers standard
+wavelengths in the
+range of 340 to 700 nm
+6 fixed and 2 free
+positions, Automatic
+Wavelength selection
+facility with 6 position
+static photometer
+covers standard
+wavelength in the
+range of 340 to 630
+nm, Automatic
+Wavelength selection
+facility with 8 position
+static photometer
+covers standard
+wavelength in the
+range of 340 to 700 nm
+6 fixed and 2 free
+positions Or higher
+
+Absorbance range: 0 to 3 unit 0 to 3 unit Or higher
+
+Analyzer resolution: 0.0001 absorbance unit
+or better
+
+*
+
+Measurement range
+(temperature):
+
+25, 30, 37 degree
+Celsius with 1 degree
+increment, Peltier
+
+*
+
+Memory for storing test
+results, sufficient for:
+
+>= 200 test results
+and 5000 patient
+results
+
+*
+
+                               3 / 8
+
+
+
+ 
+
+Heat Dissipation ability: Analyser shall maintain
+nominal temperature,
+with suitable heat
+dissipation/ cooling
+mechanism.
+
+*
+
+Installation Type: Stationary installation
+in laboratory
+
+*
+
+Number of
+programmable
+Channels for
+chemistries:
+
+>= 200 >= 200 Or higher
+
+Assay /Calculation
+types available in
+analyser:
+
+End point with factor or
+standard,Fixed time
+with factor or
+standard,Kinetic;
+Enzyme kinetics with
+factor or standard,Abso
+rbance,Sample
+blanking,Differential
+mode with factor or
+standard
+
+End point with factor or
+standard, Fixed time
+with factor or standard,
+Kinetic; Enzyme
+kinetics with factor or
+standard, Absorbance,
+Sample blanking,
+Differential mode with
+factor or standard
+
+Calibration Types
+available:
+
+Linear factor,Multi
+point,Point to point,Log-
+Logit,Spline,1- point
+calibration,2-point
+calibration,Polygonal
+multi standard
+(Calibration Curve )
+
+Linear factor, Multi
+point, Point to point,
+Log-Logit, Spline, 1-
+point calibration,
+2-point calibration,
+Polygonal multi
+standard (Calibration
+Curve )
+
+3 levels control
+facility with day to
+day Levy-Jennings
+curve stored and
+displayed, available:
+
+No No
+
+Sample incubator
+facility available:
+
+No No
+
+Flow Cell Flow cell material Quartz Quartz
+
+Flow Cell
+Volume(minimum):
+
+- *
+
+Flow Cell Optical Path: 10 mm *
+
+Aspiration Volume - *
+
+ENERGY SOURCE Power Source: Compatible with
+electric power from by
+220V-240V 50Hz
+(+/-10%) AC source
+
+*
+
+Power Back up with
+provision of UPS (with
+maintenance fee
+batteries) for each
+equipment unit:
+
+At least 30 minutes
+power back up
+
+*
+
+                               4 / 8
+
+
+
+ 
+
+CONSUMABLES Equipment is
+suitable for use of
+consumables under:
+
+Open System Open System Or higher
+
+ACCESSORIES Accessories to be
+supplied with each unit
+of Analyser equipment
+:
+
+Micro pipettes (5 No.) -
+2 variable (5-50 ),
+(100-1000) , Small
+Tips- 500 nos. & Large
+Tips- 500 nos.
+
+*
+
+OPERATING
+CONDITIONS
+
+Operating & Storage
+Conditions:
+
+Equipment is suitable
+for storage and capable
+of operating
+continuously in
+ambient room
+temperature of 8
+degree C to 37 degree
+C and relative humidity
+of 15 to 90% in ideal
+circumstances.
+
+*
+
+Parts of the Device that
+are designed to come
+into contact with the
+patient or the operator
+should either be
+capable of easy
+disinfection or be
+protected by a single
+use/disposable cover:
+
+Yes *
+
+PRINTER AND COMPUT
+ER/LABORATORY
+INTERFACE
+
+Printer facility: Yes, In-built Thermal
+Printer
+
+*
+
+Computer interface: By RS232
+port/USB/HDMI port
+facility
+
+*
+
+Lab Interface system
+(LIS) compatible viz
+analyser equipment
+preloaded with
+Software needed for
+lab interface:
+
+No No
+
+Quality Certifications &
+Warranty
+
+Certification available
+for the product:
+
+- *
+
+Equipment shall
+meet internationally
+recognised for
+Electromagnetic
+Compatibility (EMC)
+for electro medical
+equipment: 61326-1
+and certified to be
+compliant with IEC
+61010-1, IEC
+61010-2-281
+
+Yes Yes
+
+Equipment - Yes
+
+                               5 / 8
+
+
+
+ 
+
+Manufacturer have
+ISO 13485
+certification for
+quality standards:
+
+Warranty Period: 3 year 3 year, 5 year Or
+higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Pungsumbam
+Ibomcha Singh
+
+795004,Medical Directorate,
+Lamphelpat, Imphal
+
+9  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+2.Preference to Make In India products (for bids greater than 200 Crore) (can also be used in
+Bids less than 200 Crore but only after exemption by competent authority as defined in
+Deptt of Expenditure OM dated 28.5.2020): Preference shall be given to Class 1 local
+supplier as defined in public procurement (Preference to Make in India), Order 2017 as
+amended from time to time and its subsequent Orders/Notifications issued by concerned
+Nodal Ministry for specific Goods/Products. The minimum local content to qualify as a Class 1
+local supplier is denoted in the bid document 50%. If the bidder wants to avail the Purchase
+preference, the bidder must upload a certificate from the OEM regarding the percentage of
+the local content and the details of locations at which the local value addition is made along
+with their bid, failing which no purchase preference shall be granted. In case the bid value is
+more than Rs 10 Crore, the declaration relating to percentage of local content shall be
+certified by the statutory auditor or cost auditor, if the OEM is a company and by a practicing
+cost accountant or a chartered accountant for OEMs other than companies as per the Public
+Procurement (preference to Make-in -India) order 2017 dated 04.06.2020. In case Buyer has
+selected Purchase preference to Micro and Small Enterprises clause in the bid, the same will
+get precedence over this clause.
+
+3.Bid reserved for Make In India products: Procurement under this bid is reserved for purchase
+from Class 1 local suppliers as defined in public procurement (Preference to Make in India),
+Order 2017 as amended from time to time and its subsequent Orders/Notifications issued by
+concerned Nodal Ministry for specific Goods/Products. The minimum local content to qualify
+as a class 1 local supplier is denoted in the bid document 50%. All bidders must upload a
+certificate from the OEM regarding the percentage of the local content and the details of
+locations at which the local value addition is made along with their bid, failing which the bid
+is liable to be rejected. In case the bid value is more than Rs 10 Crore, the declaration
+relating to percentage of local content shall be certified by the statutory auditor or cost
+auditor, if the OEM is a company and by a practicing cost accountant or a chartered
+accountant for OEMs other than companies as per the Public Procurement (preference to
+Make-in -India) order 2017 dated 04.06.2020 . In case Buyer has selected Purchase
+
+                               6 / 8
+
+
+
+ 
+
+preference to Micro and Small Enterprises clause in the bid, the same will get precedence
+over this clause.
+
+4.Preference to Make In India products (For bids less than 200 Crore):Preference shall be given
+to Class 1 local supplier as defined in public procurement (Preference to Make in India),
+Order 2017 as amended from time to time and its subsequent Orders/Notifications issued by
+concerned Nodal Ministry for specific Goods/Products. The minimum local content to qualify
+as a Class 1 local supplier is denoted in the bid document 50%. If the bidder wants to avail
+the Purchase preference, the bidder must upload a certificate from the OEM regarding the
+percentage of the local content and the details of locations at which the local value addition
+is made along with their bid, failing which no purchase preference shall be granted. In case
+the bid value is more than Rs 10 Crore, the declaration relating to percentage of local
+content shall be certified by the statutory auditor or cost auditor, if the OEM is a company
+and by a practicing cost accountant or a chartered accountant for OEMs other than
+companies as per the Public Procurement (preference to Make-in -India) order 2017 dated
+04.06.2020. Only Class-I and Class-II Local suppliers as per MII order dated 4.6.2020 will be
+eligible to bid. Non - Local suppliers as per MII order dated 04.06.2020 are not eligible to
+participate. In case Buyer has selected Purchase preference to Micro and Small Enterprises
+clause in the bid, the same will get precedence over this clause.
+
+5.Procurement under this bid is reserved for purchase from Micro and Small Enterprises whose
+credentials are validated online through Udyog Aadhaar for that product category. If the
+bidder wants to avail the reservation benefit, the bidder must be the manufacturer of the
+offered product in case of bid for supply of goods. Traders are excluded from the purview of
+Public Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the
+bidder must be the Service provider of the offered Service. Relevant documentary evidence
+in this regard shall be uploaded along with the bid in respect of the offered product or
+service.
+
+6. Indian suppliers of this item are not allowed to participate and/ or compete in procurement
+by some foreign governments. Bidders / products from such countries are not eligible / not
+allowed to participate in this bid in terms of clause 1 (d) of Public Procurement (Preference
+to Make in India) Order, 2017
+
+7.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+8.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial
+year, should be as indicated in the bid document. Documentary evidence in the form of
+certified Audited Balance Sheets of relevant periods or a certificate from the Chartered
+Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than
+3 year old, the average turnover in respect of the completed financial years after the date of
+constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of
+CATEGORY RELATED TO primary product having highest bid value should meet this criterion.
+
+9.Warranty period of the supplied products shall be 4 years from the date of final acceptance
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+10.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents
+sought in the Bid document, ATC and Corrigendum if any.
+
+                               7 / 8
+
+
+
+ 
+
+11.To be eligible for award of contract, Bidder / OEM must possess following Certificates / Test
+Reports on the date of bid opening (to be uploaded with bid): 10.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               8 / 8
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

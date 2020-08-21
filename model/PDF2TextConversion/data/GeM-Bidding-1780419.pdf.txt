@@ -1,0 +1,252 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/704843
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 24-07-2020 15:00:00
+
+Bid Opening Date/Time 24-07-2020 15:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Ministry Of Steel
+
+Department Name Nmdc Limited
+
+Organisation Name Nmdc Limited
+
+Office Name Hyderabad
+
+Total Quantity 21
+
+Item Category Random Access Memory
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+MSE Purchase Preference
+
+MSE Purchase Preference Yes
+
+ 
+
+1. Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to
+MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012
+dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and its subsequent
+
+                               1 / 3
+
+
+
+ 
+
+Orders/Notifications issued by concerned Ministry. If the bidder wants to avail the Purchase
+preference, the bidder must be the manufacturer of the offered product in case of bid for supply of
+goods. Traders are excluded from the purview of Public Procurement Policy for Micro and Small
+Enterprises. In respect of bid for Services, the bidder must be the Service provider of the offered
+Service. Relevant documentary evidence in this regard shall be uploaded along with the bid in
+respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s) has/have quoted
+price within L-1+ 15% of margin of purchase preference /price band defined in relevant policy, such
+Seller shall be given opportunity to match L-1 price and contract will be awarded for percentage of
+25% of total value.
+
+Random Access Memory ( 21 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Specification RAM Type DDR3 DDR3
+
+Memory Architecture Dual Channel *
+
+Internal Memory
+Capacity (GB)
+
+8 8
+
+Memory Clock Speed
+(MHz)
+
+1333 *
+
+Memory Form Factor DIMM *
+
+Number of Pins
+(Number)
+
+244 *
+
+RAM Compatible with Desktop/Server *
+
+Buffered RAM No *
+
+Memory Layout
+(Modules x size)
+
+- *
+
+CAS Latency
+(Nanosecond)
+
+11 *
+
+Module Configuration - *
+
+Row Cycle Time
+(Nanosecond)
+
+48.125 *
+
+Refresh Row Cycle
+Time (Nanosecond)
+
+11 *
+
+Memory Voltage (Volts) 1.5 *
+
+Warranty (Year) 3 3.0
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+                               2 / 3
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/SEO1Svj_6A5WGcIl4zHpuoBbEJt5n2snxUyAHbdb-oE
+
+
+ 
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Shiv Shankar
+Jaiswal
+
+488001,DIAMOND MINING
+PROJECT, MAJHGAWAN MINE
+PO, DIST PANNA, MP -
+488001
+
+21  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Without prejudice to Buyer’s right to price adjustment by way of discount or any other right
+or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a
+written notice to the Seller, if:
+i) The Seller fails to comply with any material term of the Contract.
+ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within
+the stipulated Delivery Period or such inability otherwise becomes apparent.
+iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery
+Period and/or to replace/rectify any rejected or defective Material(s) promptly.
+iv) The Seller becomes bankrupt or goes into liquidation.
+v) The Seller makes a general assignment for the benefit of creditors.
+vi) A receiver is appointed for any substantial property owned by the Seller.
+vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has
+placed the Purchase Order on the Seller.
+
+2.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+3.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+
+Dedicated/toll Free Telephone No. for Service Support.
+4.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents
+
+sought in the Bid document, ATC and Corrigendum if any.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               3 / 3
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

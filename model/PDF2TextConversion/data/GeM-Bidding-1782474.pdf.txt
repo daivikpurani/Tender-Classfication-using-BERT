@@ -1,0 +1,386 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/706715
+
+  Dated: 11-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 21-07-2020 12:00:00
+
+Bid Opening Date/Time 21-07-2020 12:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Niti Aayog - National Institution For Transforming
+India
+
+Department Name Atal Innovation Mission
+
+Organisation Name Atal Tinkering Lab
+
+Office Name India
+
+Total Quantity 1
+
+Item Category Multimedia Projector (MMP) ( PAC Only ) 
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Multimedia Projector (MMP) ( 1 pieces ) ( Under PAC ) 
+
+Make benq
+
+Model ms527
+
+                               1 / 4
+
+
+
+ 
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Ports and Connectivity Number of HDMI In Port 1 *
+
+Number of HDMI Out
+Port
+
+0 *
+
+Number of DVI Port 0 *
+
+Analog RGB In Port
+(Hours)
+
+Yes *
+
+Analog RGB Out Port Yes *
+
+HD Base T No *
+
+Audio In Yes *
+
+Audio Out Yes *
+
+Video In Yes *
+
+Storage Media Port No *
+
+if Yes, Supported File
+Formats
+
+NA *
+
+Number of USB Type A 0 *
+
+Number of USB Type B 1 *
+
+Number of USB Type C 0 *
+
+Wi Fi Connectivity No *
+
+Wireless Screen Share No *
+
+LAN Connectivity No *
+
+Technical
+Specifications
+
+Technology One Chip DLP LCD, One Chip DLP,
+Lcos, SXRD, Three Chip
+DLP
+
+Projection Method Front and Rear both *
+
+Native Resolution 800 x 600 (SVGA) *
+
+Brightness (Lumens) 3200 *
+
+Contrast Ratio
+(Minimum) (pixels )( X
+:1 )
+
+13000 *
+
+Optical Zoom Yes Yes, No Or higher
+
+If Yes, Optical Zoom
+(%)
+
+110 *
+
+Availability of Lens Yes *
+
+Remotely Controlled Ye *
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/Uik1RctzYbZl7kbgDo-tW3FdKY2unSTreWMmkZIZJWo
+
+
+ 
+
+If Yes, Type of
+Projector
+
+Standard Throw (0.91
+to 2.5)
+
+Long Throw (above
+2.5), Standard Throw
+(0.91 to 2.5), Short
+Throw (0.41 to 0.9),
+Ultra Short Throw
+(below 0.4)
+
+Aspect Ratio 4:3 *
+
+Keystone Correction Manual *
+
+Type of Light Source UHP / UHE / UHM UHP / UHE / UHM, LED,
+Laser, LED & Laser
+Hybrid
+
+Minimum Life of
+Light Source (In
+Normal Mode)
+(Hours)
+
+4000 2000, 4000, 5000,
+6000, 8000, 10000,
+15000, 20000, 25000,
+30000 Or higher
+
+Lamp Hour Counter (In-
+Built)
+
+Yes *
+
+Inbuilt Speaker Yes *
+
+If Yes, Wattage of
+Speaker
+
+2 *
+
+3D Projection
+Capability
+
+Yes *
+
+Interactive Feature No *
+
+Power Consumption in
+Sleep Mode (Watts)
+
+1 *
+
+Power Consumption in
+Normal Mode (Watt)
+
+270 *
+
+Noise Level in Echo
+Mode (dB)
+
+28 *
+
+Noise Level in Normal
+Mode (dB)
+
+33 *
+
+Power Supply 210V-240V, 50 Hz *
+
+Battery No *
+
+If Yes, Minimum Battery
+Capacity (mAH)
+
+NA *
+
+If Yes, Battery Backup
+Time (Hour)
+
+NA *
+
+Certificaions BIS Registration under
+CRS of Meity
+
+Yes *
+
+BIS Registration
+Number
+
+R-41004381 *
+
+Generic Dimensions (Length x
+Breadth x Height) (mm
+x mm x mm)
+
+283 x 95 x 222 *
+
+Weight (Kg) 1.9 *
+
+                               3 / 4
+
+
+
+ 
+
+Minimum Operating
+Temperature (Degree
+C)
+
+0 *
+
+Maximum Operating
+Temperature (Degree
+C)
+
+40 *
+
+Minimum Operating
+Humidity ( % RH)
+
+10 *
+
+Maximum Operating
+Humidity ( % RH)
+
+80 *
+
+Warranty On Site OEM
+Warranty for Light
+Source (Time or Life
+in Hours whichever
+is earlier)
+
+1 Year or 1000 Hrs. *
+
+On Site OEM
+Warranty
+
+2 1, 2, 3, 5 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Rajendra Singh
+Thakur
+
+495671,CHAMPA JANJ NEAR
+B.D.L HOSPITAL GIR. JANJGIR-
+CHAMPA CHHATTISGARH
+
+1  30
+
+Bid Specific Additional Terms and Conditions
+
+1.OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be
+ordered up to 25 percent at the time of placement of contract. The purchaser also reserves
+the right to increase the ordered quantity by up to 25% of the contracted quantity during the
+currency of the contract at the contracted rates. Bidders are bound to accept the orders
+accordingly.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

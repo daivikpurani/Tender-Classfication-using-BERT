@@ -1,0 +1,921 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/711149
+
+  Dated: 15-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 25-07-2020 13:00:00
+
+Bid Opening Date/Time 25-07-2020 13:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 80 (Days)
+
+Ministry/State Name Madhya Pradesh
+
+Department Name General Administration Department Madhya Pradesh
+
+Organisation Name N/a
+
+Office Name Guna
+
+Total Quantity 2
+
+Item Category aadhaar enrolment kit
+
+Bidder Turnover (Last 3 Years)  1 Lakh (s)
+
+Experience Criteria  1 Year (s)
+
+MSE Exemption for Years Of Experience and
+Turnover
+
+ Yes
+
+Startup Exemption for Years Of Experience
+and Turnover
+
+ Yes
+
+Document required from seller  Experience Criteria,OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 9
+
+
+
+ 
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+
+Aadhaar Enrolment Kit ( 2 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Specification Aadhar Enrollment Kit It consists of set of
+hardware Devices
+required to carry out
+successful Aadhar
+enrolment &
+update.Set comprises
+of :Computer, Monitor,
+Multifunction Printer,
+IRIS Scanner, Camera,
+Slap Scanner, GPS
+device, White Light,
+Focus Light, Surge
+Protector Sppike,
+
+*
+
+Computer Computer OEM Brand - from Top
+5 vendors as per latest
+IDC report
+
+OEM Brand - from Top
+5 vendors as per latest
+IDC report
+
+Form Factor Laptop Laptop
+
+CPU 1.9 GHz Base
+Frequency, Quad Core
+or higher for Laptop
+
+*
+
+Display / Monitor Minimum 14" HD Anti-
+Glare (16:9)
+
+*
+
+Connectivity Should have built-in
+support for Bluetooth
+4.0, Wi-Fi (IEEE)
+802.11b/g/n) and
+Ethernet (10/1000 Base-
+T) for Laptop
+
+*
+
+Memory 8-GB DDR4 RAM or
+higher, expandable up
+to 16-GB with 1DIMM
+SLOT FREE
+
+*
+
+                               2 / 9
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/TcWAhKFyzbmQyeT_7PBhwdgWbXnjmXsAHW7t4vlmLSQ
+
+
+ 
+
+Webcam Built-in webcam with
+minimum High
+Definition 720p
+
+*
+
+HDD Minimum 500GB (or
+Higher) @ 7200rpm
+
+*
+
+Input / Output Ports One HDMI, One
+Ethernet (RJ-45),
+Dedicated Minimum 5
+USB 2.0 port ( In case
+the laptop has less
+than 5 USB 2.0 ports,
+then a USB Hub with
+multiple USB
+connections (enabling
+5 devices plug-in
+through USB port)
+should be provided at
+no extra cost)
+
+*
+
+Chipset Integrated with CPU or
+equivalent
+
+*
+
+Graphics Integrated Graphics *
+
+Power Source 8 Hours Battery Backup
+time in case of Laptop
+
+*
+
+Keyboard Full Sized (Minimum 84
+Keys) Windows
+compatible Spill-
+resistant keyboard in
+case of Laptop
+
+*
+
+Touchpad Wide Touchpad below
+keyboard in case of
+Laptops
+
+*
+
+Preloaded OS Windows 10
+professional
+
+*
+
+In Built Microphone in
+case of Laptop
+
+At least one built in Mic *
+
+Carry Case for Laptop Yes *
+
+Anti Virus For End Point Security *
+
+Monitor Monitor Among the “Leaders”
+Quadrant in the India
+region in any of the
+previous two Quarters
+as published in IDC /
+Gartner / Frost and
+Sullivan report for the
+PC / Laptop / Monitors
+
+Among the “Leaders”
+Quadrant in the India
+region in any of the
+previous two Quarters
+as published in IDC /
+Gartner / Frost and
+Sullivan report for the
+PC / Laptop / Monitors
+
+Type LCD *
+
+Size 15-16 inch or higher *
+
+Resolution (Pixel) 1024 x 768 or above *
+
+                               3 / 9
+
+
+
+ 
+
+Multi Function Device Multi Functional
+Device (MFD)
+
+From Top 5 vendors as
+per latest IDC report
+
+From Top 5 vendors as
+per latest IDC report
+
+Function Print, Copy, Scan *
+
+Duty Cycle (Pages per
+month)
+
+3000 or more *
+
+Print Speed– Black (A4)
+(PPM)
+
+18 or more *
+
+Print Resolution (DPI) 600 x 600 *
+
+Scan Resolution (Pixel) 600 x 600 Optical *
+
+Bit/Colour Depth (Bits) 24 *
+
+Copying Speed (CPM) 18 *
+
+Copy Resolution (DPI) 600 x 600 *
+
+Medium Used Ink Tank *
+
+Custom Media Size Upto Legal *
+
+Standard Operating
+System Supported
+
+Compatible with
+Windows 8, Windows
+10 and earlier versions
+of Windows (XP, Vista)
+and Linux
+
+*
+
+IRIS Device IRIS Device Available Available
+
+Device Characteristics Hand-held (Operator
+operates and hold the
+camera and subject is
+stationary)
+
+*
+
+Mounting NA *
+
+Iris Diameter (mm) 211 *
+
+Spatial resolution @ 4
+Lp/mm (%)
+
+61 *
+
+Pixel Resolution
+(Pixels/mm)
+
+17 *
+
+Number of
+simultaneous captured
+eyes (number)
+
+2 *
+
+View finder , Capture
+Volume & Exposure
+Time
+
+Internal with Capture
+Distance >50mm,
+Capture volume
+(width/height/depth) >
+20x15x12 mm and
+Exposure Time <33 ms
+
+*
+
+Imaging wavelength
+(nm)
+
+700-900 *
+
+Special Spread - Power
+in any 100nm band
+
+36 *
+
+Scan type Progressive *
+
+Image margins -Left & 0.50 x iris diameter *
+
+                               4 / 9
+
+
+
+ 
+
+right (mm)
+
+Image margins -Top &
+bottom (mm)
+
+0.25 x iris diameter *
+
+Pixel Depth (bits/pixel) 9 *
+
+Image evaluation frame
+rate
+
+>5 frames/sec,
+continuous image
+capture
+
+*
+
+Capture mode Auto capture with built-
+in quality check
+(incorporates NIST
+quality considerations)
+
+*
+
+Sensor signal to noise
+ratio (dB)
+
+40 *
+
+Connectivity (Total of
+only 1 USB port will be
+available for
+connectivity and
+power)
+
+USB, USB-IF certified or
+Networked (TCP/IP)
+
+*
+
+Operating System
+Compatibility
+
+Linux /Windows *
+
+Power USB or Independent
+Power Supply
+
+*
+
+Weight NA for Stationary and
+less than 1 kg for Hand
+Held
+
+*
+
+Dimensions (mm x mm
+x mm)
+
+Max. 220 x 200 x 100 *
+
+Operating temperature
+Range (Degree C)
+
+0 - 49 *
+
+Operating Humidity
+(%RH)
+
+10 – 90% non-
+condensing
+
+*
+
+Durability/Shock
+Resistant
+
+Yes *
+
+Degree of Protection
+(MInimum)
+
+IP 54 *
+
+Safety Standard FCC Class A, RoHS
+(Exempt Group per IEC
+62471:2006-07)
+
+*
+
+Software API Compliant with latest
+UIDAI Device Capture
+Specifications
+Linux/Windows 64 bit
+VDM ready certified by
+UIDAI
+
+*
+
+Availability of Device
+Certification from STQC
+
+Yes *
+
+STQC Certificate
+number
+
+- *
+
+                               5 / 9
+
+
+
+ 
+
+STQC Certificate Date - *
+
+Camera Camera Available Available
+
+Camera's Capture Type Plain live capture *
+
+Camera's Image
+Quality
+
+Full Frontal (0x01) as
+per ISO/IEC 19794-5
+
+*
+
+Camera's Image
+Resolution (Pixels)
+
+800 x 600 *
+
+Camera's Capture
+mode
+
+Manual Capture with
+Auto Focus, Auto
+Lighting Adjustment
+
+*
+
+Camera's Auto Lighting
+Adjustment
+
+Available *
+
+Camera's Native
+Sensor Resolution
+
+2.1 *
+
+Camera Connectivity High Speed USB 2.0,
+USB-IF certified
+
+*
+
+Camera Lens Fixed, SLR *
+
+Camera Power Supply Through USB *
+
+Camera Mount Tripod *
+
+Camera's Operating
+Temperature Range (
+Degree C )
+
+0 – 50 *
+
+Camera's Operating
+Humidity (%RH)
+
+10 - 90 *
+
+Camera's Durability
+(Shock Resistant)
+
+Yes *
+
+Camera Safety
+Standard
+
+UL *
+
+Camera's Software API Compliant with UIDAI
+Device Capture API
+specification V1.0 RC 3
+
+*
+
+Camera Operating
+System Compatibility
+
+Linux / Windows *
+
+Finger Print Device Finger Print Device Available Available
+
+Finger Print Device
+Capture Mode
+
+Plain live scan capture *
+
+Image acquisition
+Requirements
+
+Setting level 31 or
+higher
+
+*
+
+Finger Print Device
+Image evaluation frame
+rate
+
+>3 frames/sec *
+
+Finger Print Device
+Capture
+
+Auto capture with
+built-0in quality check
+(incorporates NIST
+QUALITY
+
+*
+
+                               6 / 9
+
+
+
+ 
+
+CONSIDERATIONS)
+
+Finger Print Device
+Capture Area (mm x
+mm)
+
+More than 76 x 80 *
+
+Finger Print Device
+Connectivity
+
+USB 2.0, USB-IF
+certified
+
+*
+
+Finger Print Device
+Power
+
+Through USB *
+
+Finger Print Device
+Dimension (W X H X D)
+(mm x mm x mm)
+
+160 x 160 x 160 *
+
+Finger Print Device
+Weight (Kg)
+
+less than 2.5 Kg *
+
+Finger Print Device
+Operating Temperature
+Range (Degree C)
+
+0 – 50 *
+
+Humidity (%RH) Non
+Condensing
+
+10 - 90 *
+
+Finger Print Device
+Durability (Shock
+Resistant)
+
+Yes *
+
+Finger Print Device
+Ingress Protection
+Rating (Minimum)
+
+IP 54 *
+
+Finger Print Device ,
+Availability of Device
+Certification from STQC
+
+Yes *
+
+Finger Print Device,
+STQC Certificate
+number
+
+- *
+
+Finger Print Device,
+STQC Certificate Date
+
+- *
+
+Finger Print Device,
+Safety Standards
+
+UL certified (if
+applicable)
+
+*
+
+Finger Print Device ,
+Software API
+
+Compliant with UIDAI
+Device Capture API
+specification V1.0 RC3
+
+*
+
+Finger Print Device
+Operating System
+Compatibility
+
+Windows *
+
+White Screen White Screen Available Available
+
+White Screen Size 4 x 5 Feet *
+
+No Reflecting Yes *
+
+Opaque Yes *
+
+White Screen Mounting Wall mountable *
+
+Focus Light Focus Light Available Available
+
+                               7 / 9
+
+
+
+ 
+
+Focus Light Rating 60 W *
+
+Focus Light Accessories Stand, 2Mrts Wire and
+on/off Switch near the
+operator
+
+*
+
+Surge Protector Spike Surge Protector
+Spike
+
+Available Available
+
+General 6 nos. of 5A sockets (4
+Indian style + 2 Style),
+Fuse, on/off Switch and
+ISO mark
+
+*
+
+GPS Device GPS Device Available UIDAI
+Certified
+
+Available UIDAI
+Certified
+
+Accessories With all necessary
+required cables and
+accessories to connect
+to PC/Laptop
+
+*
+
+Special Terms and
+Conditions for Aadhar
+Enrollment Kit
+
+STC 1 -:Installation &
+commissioning:
+
+Bidder shall provide
+Remote support Facility
+for installation of
+Aadhaar Enrollment Kit
+
+*
+
+STC 2 - Delivery Period: Bidder shall complete
+the entire delivery to
+consignee within 30
+days from date of
+purchase order
+
+*
+
+STC 3 - Performance
+bank guarantee
+
+Bidder shall submit the
+PBG of 10% of the
+contract value to the
+purchaser within 10
+days of purchase order
+
+*
+
+STC 4 - Payments 90% of the payment
+shall be made on
+supply of kit to
+consignee &
+submission of PBG and
+remaining 10% shall be
+paid after acceptance
+of the Aadhaar
+Enrolment Kit or 15
+days, whichever is
+earlier
+
+*
+
+STC 5 - Warranty Warranty for the
+complete kit except
+white screen, Focus
+light & surge protector
+shall be 3 years
+
+*
+
+STC 6 - SLA In case failing to
+replace/repair of faulty
+equipment’s within 7
+days (equipment’s
+within warranty), Rs100
+
+*
+
+                               8 / 9
+
+
+
+ 
+
+penalty per day per
+equipment till the
+replacement/ repair
+shall be deducted from
+PBG
+
+STC 7 - Aadhaar
+Enrolment Kit
+
+Aadhaar Enrolment Kit
+comprising of specific
+make/model of device
+shall be UIDAI certified
+for its working with
+latest UIDAI’s
+enrolment client
+(ECMP)
+
+*
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Gautam
+Shrivastava
+
+473001,Room No 1, First
+Floor, Collectoret, Guna
+
+2  15
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+2.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+3.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 7 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               9 / 9
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

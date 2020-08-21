@@ -1,0 +1,553 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/713960
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 11:00:00
+
+Bid Opening Date/Time 27-07-2020 11:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 50 (Days)
+
+Ministry/State Name Ministry Of Coal
+
+Department Name Materials Management
+
+Organisation Name Nlc
+
+Office Name Materials Management
+
+Total Quantity 6
+
+Item Category Laptop-Notebook
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+Estimated Bid Value  173940
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Laptop-Notebook ( 6 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Construction Form Factor Standard Standard, Convertible,
+Detachable
+
+                               1 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/A5sfSFFcDWfqw4gwCApGOqM_1g3izxX0Dbg3fzE6FLw
+
+
+ 
+
+Chassis Material ABS Plastic *
+
+Hinges Metallic *
+
+Processor Processor Make Intel Intel
+
+Processor Generation 7 7.0 Or higher
+
+Number of Cores per
+Processor
+
+2 2, 4, 6, 8 Or higher
+
+Processor Base Frequency
+(GHz)
+
+2.3 *
+
+Processor Description Intel Core i3 Intel Core i3, Intel Core i5,
+Intel Core i7 Or higher
+
+Processor Number Intel Core i3 7020U Intel Core i3 7020U, Intel
+Core i3 7100U, Intel Core i5
+7Y54, Intel Core i5 7Y57,
+Intel Core i3 7130U, Intel
+Core i7 7Y75, Intel Core i3
+7167U, Intel Core i3 7100H,
+Intel Core i5 7200U, Intel
+Core i5 7300U, Intel Core i7
+7500U, Intel Core i3 8130U,
+Intel Core i5 7260U, Intel
+Core i5 7267U, Intel Core i5
+7360U, Intel Core i5 7287U,
+Intel Core i3 8109U, Intel
+Core i7 7600U, Intel Core i7
+7560U, Intel Core i7 7660U,
+Intel Core i7 7567U, Intel
+Core i5 8250U, Intel Core i5
+8259U, Intel Core i5 8269U,
+Intel Core i5 8300U, Intel
+Core i5 8350U, Intel Core i7
+8550U, Intel Core i7 8559U,
+Intel Core i7 8650U, Intel
+Core i3 8100H, Intel Core i5
+8300H, Intel Core i5 8400H,
+Intel Core i7 8650H, Intel
+Core i7 8750H, Intel Core i7
+8850H, Intel Core i3 8145U,
+Intel Core i5 8265U, Intel
+Core i7 8565U, Intel Core i5
+8365U, Intel Core i7 8665U,
+Intel Core i5 9300H, Intel
+Core i5 9400H, Intel Core i7
+9750H, Intel Core i7 9850H,
+Intel Core i5, Turbo Boost up
+to 3.9GHz, with 128MB of
+eDRAM, Intel Core i7, Turbo
+Boost up to 4.5GHz, with
+12MB shared L3 cache, Intel
+Core i7 8569U Or higher
+
+Out of Band Management NA *
+
+Cache (MB) 3 *
+
+Motherboard Expansion Slots (M Dot 2) 1 *
+
+Graphics Graphics Type Integrated *
+
+Graphic Card Description - *
+
+Size of Memory in Case
+of Dedicated Graphic
+Card (GB)
+
+0 0, 1, 2, 3, 4, 6 Or higher
+
+Size of VRAM in case of
+Integrated Graphics (MB)
+
+- *
+
+                               2 / 6
+
+
+
+ 
+
+Operating System Operating System
+(Factory Pre-Loaded)
+
+Windows 10 Home Windows 10 Professional,
+Windows 10 Home
+
+Recovery Image Media - *
+
+OS Certification Windows Windows
+
+Memory Type of RAM DDR4 *
+
+RAM Size (GB) 4 4, 8, 16, 32 Or higher
+
+RAM Speed (MHz) 2400 *
+
+Total Numbers of DIMM
+Slots Available
+
+2 *
+
+Number of DIMM Slots
+populated
+
+1 *
+
+RAM Expandability up to(
+using spare DIMM Slots
+in GB)
+
+16 16, 32 Or higher
+
+Storage Type of Drives used to
+populate the Internal
+Bays
+
+HDD HDD, SSD, SSHD, SSED,
+PCIe SSD
+
+Number of Internal Bays
+populated with HDD
+
+1 *
+
+Capacity of each HDD (GB) 1000 @5400 rpm *
+
+Total HDD Capacity (GB) 1000 1000, 1500, 2000, 2500,
+3000 Or higher
+
+Number of Internal Bays
+populated with SSD
+
+0 *
+
+Capacity of each SSD
+(GB)
+
+0 128, 256, 512, 1024, 2048,
+0
+
+Total SSD Capacity (GB) 0 128, 256, 384, 512, 768,
+1024, 1280, 2048, 4096, 0
+Or higher
+
+Number of Internal Bays
+populated with SSHD
+
+0 *
+
+Capacity of each SSHD
+(GB)
+
+NA 8 GB Flash + 500 GB @5400
+rpm, 8 GB Flash + 1000 GB
+@5400 rpm, 8 GB Flash +
+2000 GB @5400 rpm, NA Or
+higher
+
+Total SSHD Capacity in
+addition to 8 GB Flash
+(GB)
+
+0 500, 1000, 1500, 0 Or
+higher
+
+Optane Memory (GB) 0 *
+
+Connectivity Wireless Connectivity Yes Yes, No
+
+If Yes, Type of Wireless
+Connectivity
+
+Wi-Fi 802.11ac *
+
+Number of Ethernet Ports 1 *
+
+If available, Type of
+Ethernet Ports
+
+10/100/1000 on board
+Integrated Gigabit Port
+
+*
+
+Bluetooth Connectivity Yes Yes, No
+
+If Yes, Version of Bluetooth
+Available
+
+4.2 *
+
+Ports Number of USB Version 2
+Point 0 Ports
+
+1 *
+
+                               3 / 6
+
+
+
+ 
+
+Number of USB Version 3
+point 0 / 3 point 1, Gen 1
+Ports
+
+2 *
+
+Number of USB Version 3
+point 1, Gen 2 Ports
+
+0 *
+
+Number of USB Type C Ports 0 *
+
+Number of Serial Ports 0 *
+
+Number of VGA Ports 0 *
+
+Number of HDMI Ports 1 *
+
+Number of DP Ports 0 *
+
+Number of Thunderbolt Port - *
+
+Display Display Size (Inch) 15.6 15.4, 15.6, 16 Or higher
+
+Display Type - Non Touch, Touch Or higher
+
+Display Technology LED HD Backlit *
+
+Panel Technology TN IPS, TN, VA Or higher
+
+Display Resolution
+(Pixels)
+
+1366x768 1366x768, 1440 x 900,
+1600 x 900, 1920x1080,
+1920 x 1200, 3200x1800,
+3840 x 2160, 2304 x 1440,
+2560 x 1600, 2736 x 1824,
+2880 x 1800, 2256x1504,
+3000x2000, 3240x2160,
+3272 x 1920, 2880 x 1920,
+3072 x 1920 Or higher
+
+Availability of Webcam
+integrated with Display
+
+Yes Yes, No
+
+If Yes, Resolution of
+Webcam
+
+HD VGA, HD, FHD, NA Or higher
+
+Infra Red Webcam No Yes, No
+
+Miscellaneous Optical Drive Integrated Integrated, External, NA Or
+higher
+
+Type of Optical Drive DVD R/W *
+
+Internal Speaker (Dual) Yes Yes, No
+
+Audio-in Yes *
+
+Audio-out Yes *
+
+Headphone out Yes *
+
+Microphone-in Yes *
+
+Type of Keyboard Standard *
+
+Backlit Keyboard No *
+
+Spill Resistant Keyboard No *
+
+Pointing Device/Touchpad Touchpad with multi-touch
+gestures enabled
+
+*
+
+Finger Print Reader No *
+
+Hardware Trusted Platform
+Enabled
+
+Yes *
+
+Carry Case Yes Yes
+
+If Yes, Type of Carry Case Back Pack *
+
+Security Lock Slot Yes *
+
+                               4 / 6
+
+
+
+ 
+
+If Yes,Availability of Cable
+Lock
+
+No *
+
+Weight (Including Battery)
+(Kilogram)
+
+1.78 *
+
+Power Battery Type - *
+
+Battery Chemistry Li - ion *
+
+Battery Capacity (Watt
+Hour)
+
+41 *
+
+Battery Backup Time
+(Hours)
+
+12 *
+
+Certification BIS Registration under CRS
+of Meity
+
+Yes *
+
+BIS Registration Number
+and its validity
+
+- *
+
+BEE / Energy Star for the
+given Model
+
+Yes *
+
+ROHS Compliance Yes *
+
+Other Certifications
+available
+
+- *
+
+Operating Conditions Minimum Operating
+Temperature
+
+0 *
+
+Maximum Operating
+Temperature
+
+35 *
+
+Minimum Operating
+Humidity (%RH)
+
+10 *
+
+Maximum Operating
+Humidity (%RH)
+
+90 *
+
+Warranty Battery Warranty 3 1, 3, 4 Or higher
+
+On Site OEM Warranty
+(Year)
+
+3 3
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Meganathan
+Rajangam
+
+607807,MINES SUB STORES, NEW
+SERVICE UNIT, NLC INDIA LIMITED,
+NEYVELI
+
+6  15
+
+Special terms and conditions for category Laptop-Notebook 
+
+1.As per notification of MEITY circulated vide letter no. F.No.33(1) /2017-IPHW..dated: 14/09/2017, the minimum
+local content should be 40 percent to qualify as local or domestic manufacturer.
+
+Bid Specific Additional Terms and Conditions
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of
+
+Goods
+
+                               5 / 6
+
+
+
+ 
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

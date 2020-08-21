@@ -1,0 +1,816 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/708094
+
+  Dated: 13-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 23-07-2020 14:00:00
+
+Bid Opening Date/Time 23-07-2020 14:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Gujarat
+
+Department Name Health & Family Welfare Department Gujarat
+
+Organisation Name N/a
+
+Office Name Distric Panchayat Navsari( Health Branch)
+
+Total Quantity 1
+
+Item Category Ultrasound Scanning Machine
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Ultrasound Scanning Machine ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+                               1 / 9
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/StVOgoTN4brcc1DJFLe5Je06MX8e49qC4xoGvOFrS2U
+
+
+ 
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Product certification - *
+
+Certification number
+and date
+
+- *
+
+Confirmity to
+Manufacturer's
+Certification
+
+ISO 9001 & ISO 13485 *
+
+Confirmity to
+Performance and safety
+standards specific to
+the device
+
+IEC 60601-2-37 or
+equivalent BIS
+
+*
+
+Performance
+Parameters
+
+Scope of supply General-purpose
+ultrasonic scanning
+systems provide two-
+dimensional (2-D) B-
+mode images of soft
+tissues without
+subjecting patients to
+ionizing radiation. It
+intends to primarily for
+abdominal,
+obstetric/gynecologic
+(OB/GYN), small-parts,
+and vascular imaging
+
+*
+
+UMDNS Code and
+names(Hint: This is for
+indicating the relevant
+universal medical
+devices nomenclature
+for the category of
+product )
+
+"Scanning Systems,
+Ultrasonic, Abdominal
+[16-241] Scanning
+Systems, Ultrasonic,
+General-Purpose
+[15-976] Scanning
+Systems, Ultrasonic,
+Obstetric/Gynecologic
+[15-657] Scanning
+Systems, Ultrasonic,
+Small-Parts [18-052]
+Scanning Systems,
+Ultrasonic, Vascular
+[15-957]"
+
+*
+
+Types of Probes &
+Features
+
+Applications- Abdomen,
+abdominal vascular,
+urology, OB/GYN,
+neonatal brain, small
+parts (breast, thyroid,
+scrotal, prostate, MSK)
+
+Yes *
+
+Flat linear array 5-10 MHz (±2) *
+
+Convex array 2.5-5 MHz (±2) *
+
+Microconvex array Yes Yes Or higher
+
+Volume Convex
+Probe
+
+Yes Yes Or higher
+
+                               2 / 9
+
+
+
+ 
+
+Volume Linear Probe No Yes, No Or higher
+
+Volume TV Probe Yes Yes Or higher
+
+E- Breast
+Elastography
+
+No Yes, No Or higher
+
+E- Thyroid
+Elastography
+
+No Yes, No Or higher
+
+Liver Elastography No Yes, No Or higher
+
+Intraoperative Probe No Yes, No Or higher
+
+Gel Warmer Yes Yes, No Or higher
+
+Dedicated 3-D/4-D Yes Yes, No Or higher
+
+Scan Modes B-mode Yes *
+
+M-mode Yes *
+
+Contrast harmonic
+imaging with angio
+mode
+
+No Yes, No Or higher
+
+Tissue harmonic
+imaging mode
+
+Yes *
+
+Provision of Harmonic
+imaging in Linear
+Probes
+
+Yes *
+
+Color Doppler imaging
+(CDI)
+
+Yes *
+
+Color Doppler 3-D/4-D
+option
+
+Yes *
+
+Power Doppler imaging
+(PDI)
+
+Yes *
+
+Power Doppler 3-D/4-D
+option
+
+Yes *
+
+Continuous wave Yes *
+
+Pulsed wave Yes *
+
+Duplex mode Yes *
+
+Triplex mode Yes *
+
+Tissue Doppler imaging Yes *
+
+Contrast-enhanced
+ultrasound (CEUS)
+option
+
+No Yes, No Or higher
+
+Tissue
+synchronization,
+tissue velocity
+
+No Yes, No Or higher
+
+Gain control in two
+dimensions for
+additional level of
+flexibility for image
+quality control
+
+Yes *
+
+                               3 / 9
+
+
+
+ 
+
+"Provision for higher
+resolution "
+
+Real time high
+frequency 2D
+
+*
+
+Probes supplied shall
+be in latest generation
+bandwidth
+
+Yes *
+
+Provision for higher
+sensitivity for low
+frequency doppler in
+all probes
+
+Yes Yes Or higher
+
+Number of Channels
+in color doppler
+system
+
+50000 or more (If
+channels are being
+designated as digital
+channels)
+
+50000 or more (If
+channels are being
+designated as digital
+channels)
+
+Live 3 D imaging in
+color doppler system
+
+Yes Yes Or higher
+
+Colour Doppler
+system with all
+application packages
+,Quad loop for serial
+studies with high
+frame rate revies,
+harmonic imaging
+capability in all
+modes and
+integrated stress
+echo package digital
+storage and retrieval
+
+Yes Yes Or higher
+
+Number of grey shades
+for sharp contrast
+resolutions in db
+
+256 or more *
+
+High-definition acoustic
+zoom provision for
+enlarging sections of
+2D and Colour flow
+images with more
+acoustic information for
+greater clarity and
+detail while
+maintaining an optimal
+frame rate
+
+Yes *
+
+Colour Flow Imaging
+Optin
+
+Yes *
+
+Provision of Tissue
+Colorization (B-
+Colour) for improved
+contrast resolution
+
+Yes Yes Or higher
+
+All application
+packages should be
+inbuilt into the system
+
+Yes *
+
+Cine Loop Features Yes Yes Or higher
+
+                               4 / 9
+
+
+
+ 
+
+Cine Loop Memory in
+MB
+
+100 *
+
+Frame grabber
+facility for post
+analysis
+
+Yes Yes, No Or higher
+
+Facility of Various maps
+for pre and post
+processing
+
+Yes *
+
+User defined system
+and application presets
+for multi-user
+department
+
+Yes *
+
+Number of
+transducer/probe
+ports
+
+4 4
+
+System should be
+capable of
+generating real time
+live 3- D images
+
+Yes Yes
+
+Contrast agent
+imaging
+
+No Yes, No Or higher
+
+Color Doppler system
+with all applications
+package, quad loop for
+serial studies with high
+frame rate, harmonic
+imaging capability in all
+modes and digital
+storage and retrieval
+
+Yes *
+
+IMAGE DISPLAY AND
+PROCESSING
+
+DICOM 3 COMPLIANT Yes Yes Or higher
+
+Adjustable transmit
+focus
+
+Yes *
+
+Automated B-mode
+(2-D) image
+
+Yes Yes Or higher
+
+Automated CDI
+image optimization
+
+Yes Yes Or higher
+
+Automated PW
+Doppler image
+optimization
+
+Yes Yes Or higher
+
+Dynamic receive focus Yes *
+
+Grayscale levels 256 *
+
+Image magnification
+(zoom)
+
+Yes *
+
+Real-time image Yes *
+
+Frozen image Yes *
+
+Touch Screen No Yes, No Or higher
+
+Monitor shall have high- Yes *
+
+                               5 / 9
+
+
+
+ 
+
+resolution
+
+"Provision of Tilt and
+Swivel monitor should
+be able to view in all
+angles and all light
+conditions"
+
+Yes *
+
+Monitor display size,
+cm (in)
+
+48.3 (19) LCD with
+handle
+
+48.3 (19) LCD with
+handle
+
+Split screen Twin View Twin View
+
+Single/dual monitors Single with optional
+second console
+
+Single, Single with
+optional second
+console
+
+Depth, cm ≥30 (11.8) *
+
+Pre processing Yes *
+
+Post processing Yes *
+
+Selectable dynamic
+range
+
+Yes *
+
+Spectrum analyzer Yes *
+
+DIGITAL IMAGE
+STORAGE
+
+Yes *
+
+Cine loop playback Yes *
+
+Max number frames 1100 *
+
+Digital storage hard
+drive, GB
+
+500 *
+
+Speckle-tracking strain
+and strain rate
+
+Yes *
+
+Exam protocols Yes *
+
+Automated Yes *
+
+Digital calipers Yes *
+
+Exam presets Yes *
+
+Customizable presets Yes *
+
+On-screen annotation Yes *
+
+DVD/CD Writer Yes Yes Or higher
+
+Flash Memory Yes *
+
+USB connector Yes *
+
+"Facility for high
+definition digital
+acquisition, review and
+editing of complete
+patient studies"
+
+Yes *
+
+Type of processor NA i7 or latest, NA
+
+RAM capacity of PC
+in GB (hint: In caase
+PC not provided put
+
+NA ≥ 4, NA
+
+                               6 / 9
+
+
+
+ 
+
+zero)
+
+Processor speed in
+GHZ
+
+NA NA
+
+Frame Grabber
+incorporated
+
+No Yes, No Or higher
+
+Connectivity
+between USG and PC
+
+Yes Yes Or higher
+
+PC with all software
+inclusive interfaced
+with USG machine
+
+Yes Yes Or higher
+
+laser Color printer
+provided with
+computer for
+reporting
+
+Yes Yes, No Or higher
+
+Inkjet printer
+provided with
+computer for
+reporting
+
+No Yes, No Or higher
+
+CD/DVD Produced
+should be playable
+on any system
+
+Yes Yes Or higher
+
+Glossy Colour Print
+Paper supplied
+
+NA NA
+
+Dicom Interfacability
+Dicom to PACS
+
+Yes Yes Or higher
+
+Interfacability Dicom
+to RIS
+
+Yes Yes Or higher
+
+USG sytem supplied
+should be upgradable
+to next generation
+system on site
+
+Yes *
+
+Power Requirements Power input, VAC 220-240VAC, 50Hz
+fitted with Indian plug
+
+*
+
+Resettable over
+current breaker shall
+be fitted for
+protection
+
+Yes Yes Or higher
+
+Power backup UPS UPS
+
+Back up time in
+minutes
+
+30 30
+
+Suitable Servo
+Controlled Stabilizer
+/ CVT should be
+provided
+
+Yes Yes Or higher
+
+Miscellaneous
+Parameters
+
+Warranty in years 3 3
+
+Number of
+installations of the
+USG machines in
+
+More than 3 0, Less than 3, More
+than 3
+
+                               7 / 9
+
+
+
+ 
+
+Central /State/PSU
+Govt Hospitals(
+Note: Seller should
+supply a performace
+certificate of the
+device to the buyer
+if demanded after
+placement of order)
+
+User/Technical/Mainten
+ance manuals to be
+supplied in English in
+hard and soft copy
+
+Yes *
+
+Demonstration of
+equipment and training
+to be provided after
+completing supplies &
+Installation before
+acceptance
+
+Yes *
+
+The Principal
+Manufacturer must
+have direct
+Presence/approved
+service center In India
+
+Yes *
+
+Copies of reports and
+certifications to be
+furnished to buyer on
+demand at time of
+supplies
+
+Yes *
+
+Certificate from the
+principal that spare
+parts will be available
+for next 10 years shall
+be provided at the time
+of supplies
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Akhilesh Rajbali 396445,3rd Floor, District
+Panchayat Bhavan, Juna
+Thana, B/h Court Building
+
+1  15
+
+Bid Specific Additional Terms and Conditions
+
+                               8 / 9
+
+
+
+ 
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               9 / 9
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,423 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/710423
+
+  Dated: 14-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 24-07-2020 18:00:00
+
+Bid Opening Date/Time 24-07-2020 18:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Heavy Industries And Public Enterprises
+
+Department Name Department Of Heavy Industry
+
+Organisation Name Cement Corporation Of India Limited (cci)
+
+Office Name Rajban Cement Factory
+
+Total Quantity 5
+
+Item Category Tablet Based Biometric Attendance System
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+Estimated Bid Value  112500
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Tablet Based Biometric Attendance System ( 5 pieces )
+
+Technical Specifications
+
+                               1 / 5
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Biometric Attendance
+System
+
+Type Android Based Tablet
+integrated with
+Biometric Identification
+Device Housed in
+Rugged Casing
+
+Android Based Tablet
+integrated with
+Biometric Identification
+Device Housed in
+Rugged Casing
+
+Tablet Specifications Screen Size (Inches) 5 ≤ N < 6 5 ≤ N < 6
+
+Screen Type capacitive Touch
+Screen with 16 million
+colours
+
+*
+
+Screen Resolution
+(Pixel)
+
+1024 x 600 1024 x 600
+
+Processor Speed (GHz) 1 *
+
+RAM (GB) 1 *
+
+Internal storage (GB) 4 *
+
+Storage Expandibility
+upto (Through micro
+SD Card) (GB)
+
+32 *
+
+Number of USB Port 1 *
+
+Number of Micro USB
+Port
+
+1 *
+
+Front Camera (Mega
+Pixel)
+
+0.3 *
+
+Sim Card Slot (Number) 1 *
+
+Battery Back up
+(Minimum) (Minutes)
+
+120 *
+
+Network connectivity LAN (Ethernet)
+Interface only
+
+*
+
+USB Cable Connectivity Standard + Micro Both *
+
+Data Support 4G/LTE *
+
+Internal Speakers Yes *
+
+Orientation of the
+Tablet in Casing
+
+Vertical *
+
+Biometric Attendance
+System Specification
+
+Queue Throughput
+(Number of people to
+mark attendance within
+one minute)
+
+30 *
+
+Operational Endurance 24 x 7 *
+
+STQC Certified
+Biometric Identification
+Device
+
+Single Fingerprint
+Scanner,Iris Scanner
+
+*
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/gL2gbMETkZ0T-vT0XsHQ9KNiQG0GomjJPBeUMJncElU
+
+
+ 
+
+STQC certified Single
+Finger-Print / Iris
+biometric device for
+Aadhar Authentication
+with driver, in built
+template extractor soft
+ware/SDK(mandatorily
+with license, if
+required)
+
+Yes *
+
+STQC Certificate
+number
+
+- *
+
+STQC Certificate valid
+upto
+
+- *
+
+UIDAI Registered
+Device Certification
+available
+
+Yes *
+
+UIDAI Registered
+Device Certificate
+number
+
+- *
+
+UIDAI Registered
+Device Certificate valid
+upto
+
+- *
+
+Position of Biometric
+Scanner in the System
+
+fingerprint scanner
+should be
+ergonomically placed
+to support ease of
+usage for biometric
+attendance in standing
+posture of the users
+
+*
+
+Casing Device Casing Material Thick Plastic *
+
+Casing Thickness (mm) 2 *
+
+Ingress Protection
+Rating
+
+NA *
+
+Drop Test Compliance
+for Casing from a
+height of 1 meters
+
+No *
+
+Separate Charging Non
+USB Port Availabilty
+with AC Adaptor
+
+No *
+
+Miscellaneous Micro USB host cable Yes *
+
+ROHS Compliance
+Certificate
+
+No *
+
+Operating Temperature
+Range (Degree C)
+
+- *
+
+Storage Temperature
+Range (Degree C)
+
+- *
+
+Operating Humidity
+(RH) (%)
+
+- *
+
+                               3 / 5
+
+
+
+ 
+
+Type Test Certificate
+Covering all
+parameters and
+Environmental tests
+from STQC certified lab
+
+No *
+
+If Yes, TTC number and
+Date
+
+- *
+
+If Yes, Name of the Lab - *
+
+If Yes, Address of the
+Lab
+
+- *
+
+On Site OEM
+Warranty (Year)
+
+1 1
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Neelesh Kumar
+Tripathi
+
+173029,Cement Corporation
+of India Ltd., Rajban Cement
+Factory,Distt. Sirmour(H.P.)
+
+5  15
+
+Special terms and conditions for category Tablet Based Biometric Attendance System 
+
+1.Tablet Based Biometric Attendance System should have Android 4.4.x or higher, unrooted
+and Safety Net passed.
+
+Bid Specific Additional Terms and Conditions
+
+1.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+2.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+3.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+4.Without prejudice to Buyer’s right to price adjustment by way of discount or any other right
+or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a
+written notice to the Seller, if:
+i) The Seller fails to comply with any material term of the Contract.
+ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within
+the stipulated Delivery Period or such inability otherwise becomes apparent.
+
+                               4 / 5
+
+
+
+ 
+
+iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery
+Period and/or to replace/rectify any rejected or defective Material(s) promptly.
+iv) The Seller becomes bankrupt or goes into liquidation.
+v) The Seller makes a general assignment for the benefit of creditors.
+vi) A receiver is appointed for any substantial property owned by the Seller.
+vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has
+placed the Purchase Order on the Seller.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

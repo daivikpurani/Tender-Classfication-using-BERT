@@ -1,0 +1,693 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/701654
+
+  Dated: 09-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 19:00:00
+
+Bid Opening Date/Time 20-07-2020 19:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Ministry Of Power
+
+Department Name Na
+
+Organisation Name Ntpc Limited
+
+Office Name Coal Mining Hq
+
+Total Quantity 6
+
+Item Category Potable water purification system with inbuilt water
+cooler.
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Potable Water Purification System With Inbuilt Water Cooler. ( 6 pieces )
+
+Technical Specifications
+
+                               1 / 7
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standard Parameter Certification for the
+product
+
+CE CE
+
+Certification No and
+Date
+
+- *
+
+Manufacturers Quality
+System Certifications
+
+- *
+
+Manufacturers
+Environment
+Management System
+Certifications
+
+- *
+
+Manufacturers Health
+and Safety
+Management System
+Certifications
+
+- *
+
+Conformity to
+Standard for
+Ultraviolet system
+
+IS 14724 (latest) for
+water purification
+system with Ultraviolet
+disinfection
+
+IS 14724 (latest) for
+water purification
+system with Ultraviolet
+disinfection
+
+Output Water
+Conforming standard
+
+IS 10500 (latest) *
+
+Performance Parameter Type of water
+purification
+technology
+
+RO +UV RO +UV
+
+Power consumptions
+of system (with ± 5%
+tolerance) (in watt)
+
+300 300
+
+Maximum Input
+Water TDS allow to
+the system
+
+1000 1000
+
+Input water hardness 500 ppm or less *
+
+Input water pH 6.5 to 8.5 *
+
+Input water chlorine 0.2 ppm *
+
+Input water iron 0.2 ppm *
+
+Input water turbidity Less than 5 NTU *
+
+Operation mode Semi Automatic with
+External Auto Cut Off
+
+Semi Automatic with
+External Auto Cut Off
+
+Availability of sediment
+and activated carbon
+filter
+
+Yes *
+
+Ultraviolet (UV)
+LAMP
+
+Yes Yes Or higher
+
+Ultraviolet (UV) Lamp
+power in watts (Hint
+
+16 *
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/9Jz7riNWFRyJvzFD9p4bqv3neMy7RCiXgp27beAf0t8
+
+
+ 
+
+put zero in case UV is
+not available)
+
+Provision of Arsenic
+removal
+
+No Yes, No Or higher
+
+Provision of Fluoride
+removal
+
+No Yes, No Or higher
+
+Provision of Chloride
+removal
+
+no Yes, no Or higher
+
+Alkaline filter No Yes, No Or higher
+
+Storage tank In-built *
+
+Material of water
+Storage Tank
+
+Stainless Steel SS 304 Stainless Steel SS 304
+
+Storage tank
+capacity up to float
+valve level (in liter)
+
+50 50
+
+Stages of purification 6 *
+
+No of RO Membranes
+provided
+
+2 *
+
+RO Membrane rating 75 GPD 75 GPD
+
+RO Membrane
+flushing
+
+Auto flush at every
+start,every stop and
+every one hour for 1
+minutes
+
+Auto flush at every
+start,every stop and
+every one hour for 1
+minutes
+
+No of Particulate filter
+provided
+
+1 *
+
+Particulate Filter
+size
+
+10 inch 10 inch
+
+Particulate Filter
+Porosity
+
+5 micron 5 micron
+
+No of Activated Carbon
+filter provided
+
+1 *
+
+Activated Carbon
+filter Size
+
+10 Inch 10 Inch
+
+No of Antiscalant filter
+provided
+
+1 *
+
+Antiscalant- where
+silica is up to 10
+ppm/where Mica is
+up to 100 ppm
+
+Yes Yes Or higher
+
+Nano Silver leaching
+filtration
+
+No Yes, No Or higher
+
+Minimum inlet
+pressure
+
+0.3 KG/CM2 0.3 KG/CM2
+
+Maximum inlet
+pressure
+
+3.5 KG/CM2 *
+
+                               3 / 7
+
+
+
+ 
+
+Maximum Inlet water
+temperature
+
+35 degree celsius *
+
+Digital display No Yes, No Or higher
+
+Real time TDS
+display
+
+No Yes, No Or higher
+
+Real time pH Display No Yes, No Or higher
+
+High pressure pump Yes Yes Or higher
+
+Raw water/Chemical
+Raw water/Chemical
+Cleaning pump
+
+Yes Yes Or higher
+
+Recovery percentage
+at 27 degree
+centigrade
+
+25-35 25-35
+
+Filteration water
+capacity in liter/
+hour
+
+80 80
+
+TDS removal
+percentage from RO
+Membrane
+
+25% 25%
+
+Pressure vessel
+Sand Filter
+
+Yes Yes Or higher
+
+Pressure vessel
+Carbon Filter
+
+Yes Yes Or higher
+
+Pressure Vessel Dual
+Media Filter
+
+Yes Yes Or higher
+
+Body of filter ABS Food grade ABS Food grade
+
+Membrane Housing Yes Yes Or higher
+
+Number of candles 6 or more 6 or more
+
+Cooler Parameters Type of compressor Rotary Rotary
+
+Refrigerant Used R22 R22
+
+Refrigeration
+temperature
+
+15 to 17 15 to 17
+
+Type of Condenser Fin type/tube type *
+
+Evaporator material Cooper *
+
+Water Storage tank
+insulation
+
+PUF thermal insulation *
+
+Provision for Hot
+water
+
+No Yes, No Or higher
+
+Number of Cold
+Water Faucets
+
+2 2
+
+Number of Normal
+Water Faucets
+
+NA NA
+
+Number of Hot
+Water Faucets
+
+Na Na
+
+                               4 / 7
+
+
+
+ 
+
+Water flow rate
+through Faucets( in
+liter per hour)
+
+50 *
+
+Cooling capacity at
+comfort level (17 ± 1
+degree celsius) (in
+liter per hour)
+
+10 10
+
+Installation Type Floor Mounted Floor Mounted
+
+Power supply SINGLE PHASE ( 230 ±
+10 % VOLT,%0 Hz)
+
+SINGLE PHASE ( 230 ±
+10 % VOLT,%0 Hz)
+
+Maximum running
+current in ampere at
+rated condition
+
+4.5 ± 10 % *
+
+Warranty in years
+including electronic
+,electric parts,
+replacement of
+filters twice a year)
+
+NA NA
+
+Warranty period
+without Filter ,
+electronic and
+electrical parts
+
+Na Na
+
+Warranty period
+without Filter &
+inclusive of
+electronic and
+electrical parts
+
+1 1
+
+Additional Parameters Availabilty of type
+test Test REPORT for
+Filtering Size of
+Particles
+
+Yes Yes Or higher
+
+TYPE Test certificate No
+and date for Filtering
+Size of Particles
+
+- *
+
+Name and Address of
+laboratory which
+conducted Test for
+Filtering Size of
+Particles:
+
+- *
+
+Availability of Test
+Report on Microbial
+Efficacy from
+Govt/NABL/ilac Lab
+
+Yes Yes Or higher
+
+Test certificate No and
+date for Microbial
+Efficacy
+
+- *
+
+Name of the lab for
+Microbial Efficacy
+
+- *
+
+Avaialbility of type
+test certificate from
+
+Yes Yes Or higher
+
+                               5 / 7
+
+
+
+ 
+
+NABL/ILAC Lab
+design evaluation
+report as per IS
+14724
+
+Copies of certifications
+and reports to be given
+to buyer at time of
+supplies
+
+Yes *
+
+User/Technical/Mainten
+ance manuals to be
+supplied in English in
+hard and soft copy
+
+Yes *
+
+Availability of toll
+free centres for
+customer support
+
+Yes Yes Or higher
+
+Installation and
+Commissioning
+inclusive in the
+scope of Supply*
+
+Yes Yes Or higher
+
+Availablity of NABL
+Accredited
+Laboratory Facility
+with OEM
+
+No Yes, No Or higher
+
+Name and Address of
+NABL Accredited lab
+with OEM , If Not
+available put NA
+
+- *
+
+Inlet Pipe & Fitting
+from raw water
+scorces to water
+purification system
+
+to be arranged by
+buyer / consignee
+
+to be arranged by
+buyer / consignee
+
+Pipe & Fitting from
+Out let to purified
+water tank
+
+To be arranged by
+buyer /consignee
+
+To be arranged by
+buyer /consignee
+
+Pipe and pipe fitting
+material
+
+PVC *
+
+Electrical fitting and
+plug points
+
+To be arranged by
+buyer /consignee
+
+To be arranged by
+buyer /consignee
+
+ISI marked
+Electronic and
+electrical parts
+provided
+
+No Yes, No Or higher
+
+Open installation of
+Water pipe fitting and
+waste water pipe line
+fitting provided
+
+Yes *
+
+Scope Civil Work if
+any required during
+installation
+
+All Civil work shall be
+responsibility of buyer
+
+All Civil work shall be
+responsibility of buyer
+
+  * Specifications highlighted in bold are the Golden Parameters.
+
+                               6 / 7
+
+
+
+ 
+
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Pradip Kumar
+Singh
+
+770013,NTPC Dulanga Coal
+Mining Project
+Khapurikachar,
+post:Sanghumuda, Hemgir
+Tehsil
+
+6  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

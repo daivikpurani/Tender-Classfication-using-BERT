@@ -1,0 +1,459 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/710928
+
+  Dated: 15-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 11:00:00
+
+Bid Opening Date/Time 27-07-2020 11:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Mines
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Mineral Exploration Corporation Limited Nagpur
+
+Total Quantity 76
+
+Item Category Line Intractive UPS with AVR
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Certificate (Requested in ATC),OEM Authorization
+Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+MSE Purchase Preference
+
+MSE Purchase Preference Yes
+
+                               1 / 5
+
+
+
+ 
+
+ 
+
+1. Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to
+MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012
+dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and its subsequent
+Orders/Notifications issued by concerned Ministry. If the bidder wants to avail the Purchase
+preference, the bidder must be the manufacturer of the offered product in case of bid for supply of
+goods. Traders are excluded from the purview of Public Procurement Policy for Micro and Small
+Enterprises. In respect of bid for Services, the bidder must be the Service provider of the offered
+Service. Relevant documentary evidence in this regard shall be uploaded along with the bid in
+respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s) has/have quoted
+price within L-1+ 15% of margin of purchase preference /price band defined in relevant policy, such
+Seller shall be given opportunity to match L-1 price and contract will be awarded for percentage of
+25% of total value.
+
+Line Intractive UPS With AVR ( 76 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC Rating in KVA/ min
+VAH capacity of
+battery (KVA/VAH)
+
+0.65/108 0.65/168, 0.65/400,
+0.65/108, 0.6/84
+
+Technology MOSFET-PWM MOSFET-PWM
+
+Type of battery SMF-VRLA confirming
+to JISC-8702 Pt 1,2 &3
+
+SMF-VRLA confirming
+to JISC-8702 Pt 1,2 &3
+
+Rated Output (Volt) Single phase sinewave
+230v AC , 50Hz
+
+Single phase sinewave
+230v AC , 50Hz
+
+Degree of protection IP 20 IP-21, IP 20
+
+Inverter Efficiency
+(%)
+
+> / = 60% > / = 60%
+
+Warranty for the
+battery from the
+date of delivery
+
+1 year 1 year
+
+Warranty for Line
+Interactive UPS
+
+2 Years 2 Years
+
+Installation and
+commissioning
+instructions
+
+No *
+
+CONSTRUCTIONAL Type of enclosure Mild steel *
+
+AC out put for
+printer (not through
+inverter)
+
+Yes Yes
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/t6BcVcPMY1LNkOohEHSDOmA1rHf6eOewq9lI8IEJe60
+
+
+ 
+
+Inverter out put
+socket AC out put for
+printer (not through
+inverter)
+
+3 Three pin 3 Three pin
+
+FUNCTIONAL Total harmonic
+distorsion (%)
+
+< / = 40% *
+
+Input (Volt) Single phase
+sinewave(160-280v)
+
+*
+
+Switching over time
+(Mili sec)
+
+Maximum 10 milli
+seconds
+
+*
+
+Overload Time
+(Minutes)
+
+> / = 10 minutes > / = 10 minutes
+
+Load power factor > / = 0.6 > / = 0.6
+
+Variation in AVR
+output in AC mode
+(%) AVR (Voltage
+regulation) output
+voltage in AC Mode
+
+230 Volts +/-9%, 50
++/-3 Hz
+
+230 Volts +/-9%, 50
++/-3 Hz
+
+Overload (%) >/=10% *
+
+Variation in output
+voltage in battery
+mode (%) (UPS output
+voltage in battery
+mode)
+
+230 Volts +/- 10% *
+
+Variation on output
+frequency in battery
+mode (Hz)
+
+</=0.5 *
+
+PROTECTION Protection against
+(over discharge)
+discharge per 12v
+battery (Volt)
+
+10.5 *
+
+Protection for outside
+input voltage range: If
+Input voltage goes
+outside the range 160
+to 280 Volts, the
+system shall switch
+over to battery mode
+
+Yes *
+
+Protection against short
+circuit of UPS
+
+Yes *
+
+Protection for over
+voltage and over load
+
+Yes *
+
+REPORTS AND
+CERTIFICATIONS
+
+Damp heat Test at 45
+degree , RH -95% for
+2-cycle as per IS:9000
+pt-5/sec-1
+
+Yes *
+
+Dry heat Test at 45
+degree for 16 Hrs as
+per IS:9000 pt-3/sec-5
+
+Yes *
+
+                               3 / 5
+
+
+
+ 
+
+Cold Test as per
+IS:9000 pt-2/sec-4
+
+Yes *
+
+Availability of the type
+test report from central
+Govt./NABL/ILAC
+Accredited Lab
+
+Yes *
+
+Type Test certificate
+no. and date
+
+- *
+
+Name Of Lab - *
+
+Address of Lab - *
+
+As per Meity
+(Government of India)
+guidelines UPS shall
+have valid BIS CRS
+certifications as
+applicable
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Shailender Singh 440028,Mineral Exploration
+Corporation Ltd Plot No.
+G-16 MIDC Area Hingna
+Road Nagpur -440028
+
+76  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+2.Bidders shall quote only those products in the bid which are not obsolete in the market and
+has at least 2 years residual market life i.e. the offered product shall not be declared end-of-
+life by the OEM before this period.
+
+3.The successful bidder has to supply all essential accessories required for the successful
+installation and commissioning of the goods supplied. Besides standard accessories as per
+normal industry practice, following accessories must be part of supply and cost should be
+included in bid price: INCLUDED.
+
+4.Without prejudice to Buyer’s right to price adjustment by way of discount or any other right
+or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a
+written notice to the Seller, if:
+i) The Seller fails to comply with any material term of the Contract.
+ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within
+the stipulated Delivery Period or such inability otherwise becomes apparent.
+iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery
+Period and/or to replace/rectify any rejected or defective Material(s) promptly.
+
+                               4 / 5
+
+
+
+ 
+
+iv) The Seller becomes bankrupt or goes into liquidation.
+v) The Seller makes a general assignment for the benefit of creditors.
+vi) A receiver is appointed for any substantial property owned by the Seller.
+vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has
+placed the Purchase Order on the Seller.
+
+5.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+6. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+7.Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be
+given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs)
+Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises
+and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to
+avail the Purchase preference, the bidder must be the manufacturer of the offered product
+in case of bid for supply of goods. Traders are excluded from the purview of Public
+Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder
+must be the Service provider of the offered Service. Relevant documentary evidence in this
+regard shall be uploaded along with the bid in respect of the offered product or service. If L-1
+is not an MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of
+purchase preference /price band defined in relevant policy, such Seller shall be given
+opportunity to match L-1 price and contract will be awarded for percentage of 25% of total
+value.
+
+8.Preference to Make In India products (For bids less than 200 Crore):Preference shall be given
+to Class 1 local supplier as defined in public procurement (Preference to Make in India),
+Order 2017 as amended from time to time and its subsequent Orders/Notifications issued by
+concerned Nodal Ministry for specific Goods/Products. The minimum local content to qualify
+as a Class 1 local supplier is denoted in the bid document 50%. If the bidder wants to avail
+the Purchase preference, the bidder must upload a certificate from the OEM regarding the
+percentage of the local content and the details of locations at which the local value addition
+is made along with their bid, failing which no purchase preference shall be granted. In case
+the bid value is more than Rs 10 Crore, the declaration relating to percentage of local
+content shall be certified by the statutory auditor or cost auditor, if the OEM is a company
+and by a practicing cost accountant or a chartered accountant for OEMs other than
+companies as per the Public Procurement (preference to Make-in -India) order 2017 dated
+04.06.2020. Only Class-I and Class-II Local suppliers as per MII order dated 4.6.2020 will be
+eligible to bid. Non - Local suppliers as per MII order dated 04.06.2020 are not eligible to
+participate. In case Buyer has selected Purchase preference to Micro and Small Enterprises
+clause in the bid, the same will get precedence over this clause.
+
+9.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents
+sought in the Bid document, ATC and Corrigendum if any.
+
+10.Warranty period of the supplied products shall be 2 years from the date of final acceptance
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

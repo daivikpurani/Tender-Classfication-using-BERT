@@ -1,0 +1,547 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/712163
+  Dated: 17-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 12:00:00
+
+Bid Opening Date/Time 27-07-2020 12:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Gujarat
+
+Department Name Health & Family Welfare Department Gujarat
+
+Organisation Name N/a
+
+Office Name Distric Panchayat Navsari( Health Branch)
+
+Total Quantity 1
+
+Item Category ECG Machine
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+ECG Machine ( 1 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Certificates Confirmity to standards European CE European CE
+
+Certification number and
+date
+
+- *
+
+                               1 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/B_Lc2zmvWSV5lfZ0xlIKoObQo-niyalpYD6m1W1aky4
+
+
+ 
+
+Confirmity to safety of
+electromagnetic
+compatibility
+
+IEC-60601-1-2:2001 (or
+equivalent BIS)
+
+*
+
+Confirmity to safety
+standard
+
+IS - 13450 /
+IEC60601-1-2005
+
+*
+
+Performance Parameters Purpose ECG machine is primary
+equipment to record ECG
+signal with interpretation
+which is required for
+recording and analyzing the
+waveforms with software.
+
+ECG machine is primary
+equipment to record ECG
+signal with interpretation
+which is required for
+recording and analyzing the
+waveforms with software.
+
+Operating modes of ECG
+Machine
+
+Automatic, Manual and
+Rhythm
+
+*
+
+ECG machine should have
+ECG lead annotation facility
+
+Yes *
+
+Leads which is in ECG
+machine should be able to
+acquire simultaneously and
+interpret them
+
+12 *
+
+Number of channels 6 6
+
+ECG machine should acquire
+lead ECG for both adult and
+paediatric patients
+
+Yes *
+
+The ECG machine should
+have facility to show lead
+fail indication
+
+Yes *
+
+The ECG machine should
+have facility to show lead
+reversal indication
+
+Yes *
+
+The ECG machine should
+have facility to show the
+impedance to quality check
+of connection
+
+Yes *
+
+Acquisition time for ECG
+Machine in sec
+
+10 sec *
+
+Digital sampling rate for
+Pacemaker spike detection
+
+40000 s/sec/channel *
+
+Recording of digital
+sampling for pacemaker
+
+1000 s/sec/channel *
+
+ECG machine should have
+real time colour backlit
+display of ECG waveforms
+with signal qualify indication
+for each lead
+
+Yes *
+
+ECG machine should have
+frequency filters
+
+Artifact, AC and low and
+high pass frequency filters
+
+*
+
+Number of ECGs which
+can be store in ECG
+Machine
+
+151-200 151-200
+
+ECG machine should
+have full screen preview
+of ECG report for quality
+assessment checks prior
+to print
+
+No Yes, No
+
+Type of inbuilt screen TFT TFT
+
+Size of screen in inches 5 5
+
+                               2 / 5
+
+
+
+ 
+
+Display resolution of ECG
+machine in pixels
+
+640 x 480 *
+
+ECG machine should have
+interpretation facility of the
+amplitudes, duration and
+morphologies of ECG
+waveforms and associated
+rhythm for adult and
+pediatric patient
+
+Yes *
+
+ECG machine should
+have alphanumeric
+keyboard for patient
+data entry
+
+Virtual Virtual
+
+Size of printing paper A4 A4
+
+Resolution of digital array
+printer using thermal
+sensitive paper in ECG
+Machine in dpi
+
+200 dpi x 500 dpi on 25
+mm/sec speed
+
+*
+
+ECG machine report format Report formats of 3x4; 6x2,
+Rhythm for up to selected
+leads, 12 lead extended
+measurement, 1 minute of
+continuous waveform data
+for 1 selected lead
+
+*
+
+Provision of battery Yes Yes
+
+Battery capacity 50 ECG or 1 hour of
+continous rhythm recording
+on single charge
+
+50 ECG or 1 hour of
+continous rhythm recording
+on single charge
+
+Connectivity to ECG
+Machine
+
+LAN HHIS, LAN, Wireless LAN
+
+Storage on external
+portable memories
+
+USB support *
+
+The individual patient lead
+should be change without
+replacing the whole patient
+cable assembly
+
+Yes *
+
+Noise level in dba 10 *
+
+Weight of ECG Machine in
+Kg
+
+2.1 *
+
+Frequency in Hz 300 *
+
+Availability of latest
+interpretation software
+
+Yes Yes
+
+Wireless acquisition
+module with RF
+technology
+
+Yes Yes
+
+System should have the
+dedicated software to
+download the ECG form
+machine in PDF format
+
+Yes Yes
+
+Warranty in years 3 3
+
+User and service manual of
+ECG Machine
+
+Yes *
+
+Environmental Parameters Operating temperature and
+humidity
+
+temperature of 10-40
+degree C and relative
+humidity of 15-90%
+
+*
+
+Trolley Provision of trolley No No
+
+                               3 / 5
+
+
+
+ 
+
+Material of Frame of
+trolley
+
+No Trolley Provided No Trolley Provided
+
+Material of Top of trolley No Trolley Provided No Trolley Provided
+
+Number of castors No Trolley Provided No Trolley Provided
+
+Number of brakes for
+castors
+
+No Trolley Provided No Trolley Provided
+
+Height of trolley in inch No Trolley Provided No Trolley Provided
+
+Provision of railing for
+top shelf
+
+No Trolley Provided No Trolley Provided
+
+Availability of suitable
+cable arm having holder
+for ECG cables when not
+in use
+
+No Trolley Provided No Trolley Provided
+
+Power Supply Power input 220-240 V AC, 50 Hz fitted
+with Indian plug
+
+*
+
+Length of power cable in
+meter
+
+3 *
+
+Resettable over current
+breaker shall be fitted for
+protection
+
+Yes *
+
+Accessories ECG Machine 12 leads
+with interpretation
+
+1 1
+
+Patient Cable 2 2
+
+Chest Electrodes Adult
+(set of Six)
+
+1 1
+
+Chest Electrodes
+Paediatric (set of Six)
+
+2 2, Not provided
+
+Limb Electrodes 2 for adults and 2 for
+paediatric
+
+2 for adults and 2 for
+paediatric
+
+Thermal paper for 500
+patients
+
+1 SET 1 SET
+
+Power cable for charging Yes Yes
+
+Supplied with Clip
+electrode
+
+Yes Yes
+
+Reports Manufacturer shall be ISO
+certified
+
+ISO 13485 *
+
+ISO cetification deatils such
+as date and number
+
+- *
+
+Availability of test report
+from govt/ NABL/ILAC
+accredited lab covering
+all parameters
+
+Yes Yes
+
+Test report number , Incase
+test reports not availabble ,
+put NA
+
+- *
+
+Test report date, Incase test
+reports not availabble , put
+NA
+
+- *
+
+Name of test lab , Incase
+test reports not availabble ,
+put NA
+
+- *
+
+Address of test lab , Incase
+test reports not availabble ,
+
+- *
+
+                               4 / 5
+
+
+
+ 
+
+put NA
+
+Copies of all test reports
+to be provided to buyer
+on demand at time of
+supplies ,
+
+NA ,Incase test reports not
+availabble
+
+Yes, NA ,Incase test reports
+not availabble
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Akhilesh Rajbali 396445,3rd Floor, District
+Panchayat Bhavan, Juna Thana,
+B/h Court Building
+
+1  15
+
+Bid Specific Additional Terms and Conditions
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

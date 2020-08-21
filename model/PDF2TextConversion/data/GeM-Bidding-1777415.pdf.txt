@@ -1,0 +1,414 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/702111
+
+  Dated: 08-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 12:00:00
+
+Bid Opening Date/Time 20-07-2020 12:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Human Resource Development
+
+Department Name Department Of Higher Education
+
+Organisation Name Indian Institute Of Engineering Science And
+Technology Shibpur
+
+Office Name Iiest
+
+Total Quantity 1
+
+Item Category hand held gps
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+                               1 / 5
+
+
+
+ 
+
+Hand Held Gps ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC Type Hand Held *
+
+Built-in Antenna Yes *
+
+Dimensions (mm x mm
+x mm)
+
+- *
+
+Weight with Batteries
+(grams)
+
+289 *
+
+Channels (No.) 24 *
+
+Pre-loaded Handheld
+Software
+
+yes yes, no
+
+Compatible Office
+Software
+
+yes *
+
+Slip Resistant Grip Yes *
+
+Base Map Yes *
+
+WAAS Enabled Yes *
+
+Inbuilt Electronic
+Compass
+
+yes *
+
+Paperless
+Geocaching
+
+yes yes, no
+
+Sun and Moon
+Information
+
+yes *
+
+Inbuilt Barometric
+Altimeter Facility
+
+yes *
+
+Audio Microphone and
+Speaker, Recrd and
+Playback Option
+
+*
+
+PORT / CONNECTIVITY Bluetooth Connectivity yes *
+
+USB yes *
+
+STORAGE RAM (GB) 4 1, 2, 3, 4, 5
+
+Micro SD Card Slot yes yes, no
+
+Expandable upto (GB) 32 *
+
+DISPLAY Display Type Transflective Colour
+TFT
+
+*
+
+Display Size
+(Diagonal) (Inches)
+
+4.1 to 4.5 2 to 2.5, 2.6 to 3, 3.1 to
+3.5, 3.6 to 4, 4.1 to 4.5
+
+Display Resolution - *
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/ta3K47PetY_YMtlhXzxGWz_kHJsCA6TYsru1JXIQEHM
+
+
+ 
+
+Touchscreen yes yes, no
+
+BATTERY Type of Battery Alkaline (Non-
+Rechargeable)
+
+*
+
+Battery Chemistry Li-ion *
+
+Battery capacity (Vah) 1200 *
+
+Battery Back up (Hour)
+(N >= 16)
+
+16 *
+
+TRACK DETAILS Waypoints / Favorites /
+Locations (No.)
+
+4000 *
+
+Routes (No.) 200 *
+
+Track Log 10000 Points, 200
+saved Tracks
+
+*
+
+Area Calculation Yes *
+
+VARIOUS TEST Drop/ Free Fall Test Drop/ Free Fall Test in
+unpacked, Switched Off
+and normal handling
+conditions (Height- 1
+m, Total no. of falls- 2)
+
+*
+
+Vibration Test Vibration test in packed
+and Switched off
+condition (10-150 Hz,
+0.15mm / 2g, 10
+Sweep,cycles / axes
+
+*
+
+Bump Test Bump test in packed
+and Switched off
+condition &#x28;1000
+Bumps, 40 gm, in
+vertical position&#x29;
+
+*
+
+PERFORMANCE Processor - *
+
+Operating Temperature
+(Degree C)
+
+50 *
+
+Operating Humidity
+(RH) (%)
+
+- *
+
+Accuracy - *
+
+Update Rate (Hz) 1 *
+
+Time taken to give first
+fix (Second)
+
+60 *
+
+ACCESSORIES Standard Accessories
+to be supplied with the
+equipment
+
+- *
+
+Carry Case Yes *
+
+SERVICE Warranty (Year) 1 1, 2, 3
+
+CERTIFICATION Ingress Protection (IP
+Rating)
+
+IPX7 *
+
+BIS Registration under NA for Alkaline (Non- *
+
+                               3 / 5
+
+
+
+ 
+
+Compulsory
+Registration Scheme
+
+Rechargable) batteries
+
+BIS Registration No and
+its validity
+
+- *
+
+TEST REPORT DETAILS Availability of Test
+Reports from Central
+Govt / NABL approved /
+ILAC acredited lab to
+prove conformity to the
+specification (Test
+Reports are to be
+furnished when
+demanded by the
+buyer)
+
+Yes *
+
+Test Report no. and
+date (Not a part of
+biddable parameter)
+
+- *
+
+Name and Address of
+the Lab (Not a part of
+biddable parameter)
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Sambhunath
+Datta
+
+711103,College Road 1  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+2.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+3.The buyer organization is an institution eligible for concessional rates of GST as notified by
+the Government of India. The goods for which bids have been invited fall under classification
+of GST concession and the conditions for eligibility of concession are met by the institution.
+A certificate to this effect will be issued by Buyer to the Seller after award of the Contract.
+Sellers are requested to submit their bids after accounting for the Concessional rate of GST.
+
+                               4 / 5
+
+
+
+ 
+
+Applicable Concessional rate of GST : 5%
+Notification No.and date : 45/2017 & 47/2017 dated 14/11/2017
+
+4.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 5 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

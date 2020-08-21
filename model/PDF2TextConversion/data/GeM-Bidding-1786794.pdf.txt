@@ -1,0 +1,755 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/710659
+
+  Dated: 14-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 24-07-2020 21:00:00
+
+Bid Opening Date/Time 24-07-2020 21:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 80 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Army
+
+Office Name ***********
+
+Total Quantity 5
+
+Item Category Desktop Computers
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  Yes
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Desktop Computers ( 5 pieces )
+
+Technical Specifications
+
+                               1 / 9
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Processor Processor Make Intel Intel
+
+Processor
+Generation
+
+8 8.0 Or higher
+
+Number of Cores per
+Processor
+
+4 4, 6, 8 Or higher
+
+Processor Base
+Frequency (GHz)
+
+3.6 *
+
+Processor
+Description
+
+Intel Core i3 Intel Core i3, Intel Core
+i5, Intel Core i7, Intel
+Core i9 Or higher
+
+Processor Number Intel Core i3 8100 Intel Core i3 8100, Intel
+Core i3 8300, Intel Core
+i5 7400T, Intel Core i5
+7500T, Intel Core i5
+7400, Intel Core i5
+7600T, Intel Core i5
+8400T, Intel Core i5
+7500, Intel Core i5
+8500T, Intel Core i5
+7600, Intel Core i5
+7600K, Intel Core i5
+8400, Intel Core i5
+8500, Intel Core i5
+8600, Intel Core i5
+8600K, Intel Core i7
+7700T, Intel Core i7
+7700, Intel Core i7
+8700T, Intel Core i7
+7700K, Intel Core i7
+8700, Intel Core i7
+8700K, Intel Core i3
+9100, Intel Core i3
+9300, Intel Core i3
+9320, Intel Core i5
+9400, Intel Core i5
+9500, Intel Core i5
+9600, Intel Core i7
+9700, Intel Core i9
+9900, Intel Core i7
+9700K, Intel Core i9
+9900K, Intel Core i9
+9900KS, Intel Core i9
+9900KF, Intel Core i7
+9700KF, Intel Core i7
+9700F, Intel Core i7
+8086K, Intel Core i5
+9600K, Intel Core i5
+9600KF, Intel Core i9
+9900T, Intel Core i5
+9500F, Intel Core i5
+
+                               2 / 9
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/uP_J9xlpbT1Y7pTKqnVCXyBS8xzWIgckRZqvIIkiqdI
+
+
+ 
+
+9400F, Intel Core i3
+9350KF, Intel Core i3
+9350K, Intel Core i7
+9700T, Intel Core i3
+8350K, Intel Core i5
+9600T, Intel Core i5
+8600T, Intel Core i3
+9100F, Intel Core i5
+9500T, Intel Core i5
+9400T, Intel Core i3
+9300T, Intel Core i3
+9100T Or higher
+
+Out of Band
+Management
+
+NA *
+
+Cache (MB) 6 *
+
+Motherboard Chipset Series Intel Q Series Intel Q Series Or higher
+
+Expansion Slots (PCIe x
+1) (Number)
+
+1 *
+
+Chipset Number Intel Q 370 Intel Q 370 Or higher
+
+Expansion Slots (PCIe x
+4) (Number)
+
+0 *
+
+Expansion Slots (PCIe x
+16) (Number)
+
+2 *
+
+Expansion Slots (PCI)
+(Number)
+
+0 *
+
+Expansion Slots (M Dot
+2)
+
+2 *
+
+Graphics Graphics Type Integrated *
+
+Graphic Card
+Description
+
+- *
+
+Size of Memory in Case
+of Dedicated Graphic
+Card (GB)
+
+0 *
+
+Size of VRAM in case of
+Integrated Graphics
+(MB)
+
+- *
+
+Operating System Operating System
+(Factory Pre-Loaded)
+
+Windows 10
+Professional
+
+Windows 10
+Professional
+
+Recovery Image Media - *
+
+OS Certification Windows *
+
+Memory Type of RAM DDR4 *
+
+RAM Size (GB) 4 4, 8, 16, 32, 64 Or
+higher
+
+RAM Speed (MHz) 2666 *
+
+Total Numbers of DIMM
+Slots Available
+
+4 *
+
+                               3 / 9
+
+
+
+ 
+
+Number of DIMM Slots
+populated
+
+1 *
+
+RAM Expandability
+up to( using spare
+DIMM Slots in GB)
+
+64 64, 128 Or higher
+
+Storage Total Number of
+Internal Bays available
+
+2 *
+
+Number of 2 point 5
+inches internal Bays
+
+1 *
+
+Number of 3 point 5
+inches Internal Bays
+
+1 *
+
+Number of 2 point 5
+Inches Internal Bays
+Populated
+
+0 *
+
+Number of 3 point 5
+Inches Internal Bays
+Populated
+
+1 *
+
+Type of Drives used
+to populate the
+Internal Bays
+
+HDD HDD
+
+Number of Internal
+Bays populated with
+HDD
+
+1 *
+
+Capacity of each HDD
+(GB)
+
+1000 @7200 rpm *
+
+Total HDD Capacity
+(GB)
+
+1000 1000, 1500, 2000,
+2500, 3000 Or higher
+
+Number of Internal
+Bays populated with
+SSD
+
+0 *
+
+Capacity of each SSD
+(GB)
+
+0 *
+
+Total SSD Capacity
+(GB)
+
+0 128, 256, 384, 512,
+768, 0, 1024, 2048 Or
+higher
+
+Number of Internal
+Bays populated with
+SSHD
+
+0 *
+
+Capacity of each SSHD
+(GB)
+
+NA *
+
+Total SSHD Capacity
+in addition to 8 GB
+Flash (GB)
+
+0 500, 1000, 2000, 0 Or
+higher
+
+Optane Memory (GB) 0 *
+
+Cabinet Cabinet Form Factor Tower (13.1 to 26
+Litres)
+
+Tower (13.1 to 26
+Litres)
+
+Cabinet Volume (Litres) - *
+
+                               4 / 9
+
+
+
+ 
+
+External Bays
+(Number)
+
+2 *
+
+Optical Drive DVD R/W *
+
+Internal Speaker Yes *
+
+Audio-in Yes *
+
+Audio-out Yes *
+
+Headphone out Yes *
+
+Microphone-in Yes *
+
+Connectivity Wireless Connectivity No *
+
+If Yes, Type of Wireless
+Connectivity
+
+NA *
+
+Number of Ethernet
+Ports
+
+1 *
+
+Type of Ethernet Ports 10/100/1000 on board
+Integrated Gigabit Port
+
+*
+
+Bluetooth Connectivity No *
+
+If Yes, Version of
+Bluetooth Available
+
+0 *
+
+Ports Number of USB Version
+2 Point 0 Ports
+
+4 *
+
+Number of USB Version
+3 point 0 / 3 point 1,
+Gen 1 Ports
+
+6 *
+
+Number of USB Version
+3 point 1, Gen 2 Ports
+
+0 *
+
+Number of USB Type C
+Ports
+
+1 *
+
+Number of Serial Ports 0 *
+
+Number of Parallel
+Ports
+
+0 *
+
+Number of VGA Ports 1 *
+
+Number of HDMI Ports 1 *
+
+Number of DP Ports 1 *
+
+Monitor Model of the Monitor - *
+
+Monitor Technology IPS IPS Or higher
+
+LED Backlit Monitor
+Size (INCHES)
+
+19.5 19.5, 21.5, 22, 23, 24,
+27, 20, 23.8 Or higher
+
+Monitor Resolution
+(PIXELS)
+
+1440 x 900 1440 x 900, 1600 x
+900, 1920x1080, 1920
+x 1200, 3200x1800,
+3840 x 2160, 1280 x
+1024, 2560 x 1440 Or
+higher
+
+                               5 / 9
+
+
+
+ 
+
+TCO Certification for
+Monitor
+
+- *
+
+Number of VGA Ports in
+the Monitor
+
+1 *
+
+Number of HDMI Ports
+in the Monitor
+
+0 *
+
+Number of Display
+Ports in the Monitor
+
+0 *
+
+Availability of Webcam
+integrated with Monitor
+
+No *
+
+If Yes, Resolution of
+Webcam
+
+NA *
+
+Availability of Speakers
+integrated with Monitor
+
+No *
+
+If Yes, Number of
+Speakers available
+
+0 *
+
+Power Power Supply Capacity
+(Watt)
+
+- *
+
+Minimum Power
+Efficiency Range (%)
+
+85 - 89 *
+
+Certification ROHS Compliance Yes *
+
+BEE / Energy Star for
+the given Model
+
+Yes *
+
+Input Devices Mouse Connectivity Wired *
+
+Type of Mouse Optical Scroll *
+
+Keyboard Connectivity Wired *
+
+Type of Keyboard Standard *
+
+Operating Conditions Minimum Operating
+Temperature
+
+10 *
+
+Maximum Operating
+Temperature
+
+40 *
+
+Minimum Operating
+Humidity (%RH)
+
+10 *
+
+Maximum Operating
+Humidity (%RH)
+
+90 *
+
+Warranty On Site OEM
+Warranty (Year)
+
+3 3, 5, 4 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+                               6 / 9
+
+
+
+ 
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********LALITPUR 5  15
+
+Special terms and conditions for category Desktop Computers 
+
+1.As per notification of MEITY circulated vide letter no. F.No.33(1)/2017-IPHW..dated
+:14/09/2017, the minimum local content should be 45.percent to qualify as local or domestic
+manufacturer.\n\nSeller has to ensure that operating system software etc comes preloaded
+with machine from respective OEM . Any deviation in respect of genuinity and authenticity of
+OS will attract severe penalty on part of seller as law of the land and contractual provisions.
+Buyer are also requested to verify the key no of OS etc with server of Microsoft/Linux before
+accepting machines to avoid complexity at latter stage.
+
+Bid Specific Additional Terms and Conditions
+
+1.WORLD BANK TERMS AND CONDITIONS: Special Terms and Conditions as defined by world
+bank at click here will also be applicable. APPLICABLE ONLY IN CASE OF WORLD BANK
+FUNDED PROJECTS.
+
+2.Without prejudice to Buyer’s right to price adjustment by way of discount or any other right
+or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a
+written notice to the Seller, if:
+i) The Seller fails to comply with any material term of the Contract.
+ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within
+the stipulated Delivery Period or such inability otherwise becomes apparent.
+iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery
+Period and/or to replace/rectify any rejected or defective Material(s) promptly.
+iv) The Seller becomes bankrupt or goes into liquidation.
+v) The Seller makes a general assignment for the benefit of creditors.
+vi) A receiver is appointed for any substantial property owned by the Seller.
+vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has
+placed the Purchase Order on the Seller.
+
+3.Warranty The following Warranty clause will form part of the contract placed on successful
+Bidder :-
+(a) The Seller warrants that the goods supplied under the contract conform to Defence Food
+Specification prescribed and shall perform according to the said Defence Food Specification
+in any climate and under all conditions of storage and movement in India (the warranty
+period of the item is as given in the Defence Food Specification attached from the date of
+acceptance of stores).
+(b) The Seller warrants for a period of warranty as prescribed (the warranty period of the
+item is as given in the Defence Food Specification attached) from the date of acceptance of
+stores, that the goods/ stores supplied under the contract shall be free from all types of
+defects.
+(c) Once the stocks are accepted by the verdict of CFL/ FIU, stocks are dispatched to various
+depots and stocked/issued to troops for consumption. This does not mean that the
+responsibility of supplier is over. At any point of time, the DGST or his authorised
+representative (s) may draw samples from the stocks supplied from locations where they are
+held at that point of time to confirm that the stocks supplied by the supplier are meeting the
+concerned DFS. Prior to drawl of such samples, the supplier will be intimated by the fastest
+means by the supply depot where the stocks are held to make available the authorised
+representative of the supplier within three working days in whose presence the sample will
+
+                               7 / 9
+
+https://assets-bg.gem.gov.in/resources/pdf/STC%20for%20World%20Bank%20funded%20contracts.pdf
+
+
+ 
+
+be drawn. Failing which, the sample will be drawn unilaterally and the decision on the same
+will be final and no representation in this regard will be accepted later.
+(d) If within the period of warranty, after analysis of the samples drawn as per Para (c)
+above, the goods are reported by the Buyer to have failed to meet the quality parameters as
+per the Defence Food Specifications, the stock will be declared as “Failed to Perform within
+Warranty Period”. In the event of the supplies or part of it having been declared (during the
+period of warranty) as “Failed to Perform within Warranty Period” by the Director General of
+Supplies and Transport, QMG’s Branch, IHQ of MoD (Army), in New Delhi or any officer acting
+on his behalf  whose opinion as to whether or not the particular consignment is meeting the
+quality as per DFS for the item, will  be final  and  the  seller will avail any one options as
+specified in the succeeding paras within a maximum period of 45 days from the date the
+notification letter is dispatched for such defect by the buyer, failing which, the buyer will
+take actions as deemed fit to recover from the supplier the price thereof together with all
+incidental and freight charges incurred from the place of delivery to the place where the
+supplies were ultimately condemned.  The opinion of the BUYER or any officer acting on his
+behalf in regard to these charges will be final. This opinion shall be regarded as having been
+made without committing Govt in any way nor will such decision prejudice the Govt rights.
+(e) Claims shall be prepared by the supply depots for the cost of affected quantity
+including GST and all incidental charges including transportation charges if any, and other
+incidental charges if any through CDP (APO). The stocks shall be segregated at the supply
+depot. The supplier is given two options in this eventuality. Option 1- Supplierwill make good
+the loss amounting the claim prepared by the concerned supply depot by depositing the
+money to PCDA (Delhi) within 30 days of intimation sent by APO to the supplier and supplier
+shall lift the stock (only once supplier has made the payment to PCDA(Delhi)) from locations
+where they are stored at that time within 45 days of date of issue letter by APO (with copy to
+all) on his own cost, failing which the stock shall be destroyed by a board of officers. It shall
+be the sole responsibility of the supplier to lift such stocks declared failed to perform within
+warranty in the stipulated time. Option 2- the Seller shall replace the same free of charge,
+within a maximum period of 45 days from the date the notification letter is dispatched for
+such defect by the buyer, failing which the stores will be destroyed in situ at SELLER’s risk
+and cost by a station board of officers. No DP extensions for the purpose is required and
+consequently the firm will have to furnish a fresh validity of PBG submitted, at APO. The
+fresh stock intended to replace with the affected stock, will undergo similar QC procedure as
+followed during initial acceptance of the stocks. The supplier will transport fit stocks to the
+supply depot where the affected stocks are held by his own cost and expense.
+(f) The seller will intimate the buyer within 10 days of intimation dispatched by APO wrt the
+defect in such an event, the option he is willing to adopt along with the documents as under
+:-
+  (i) If the seller is willing for option 1, the intimation letter will also accompany the proof of
+the deposition of the claimable amount at PCDA Delhi.
+  (ii) If the seller is willing for option 2, the intimation letter will include the extension of the
+PBG for a corresponding period as per the warranty period mentioned in the DFS.
+(g) In case, the seller fails to make good the loss or replace the affected stocks as desired,
+after the stipulated time period of 45 days, such stocks will be destroyed insitu. Appropriate
+legal action will be initiated against the supplier there after. Supplier cannot claim on the
+destruction of such stocks irrespective of the outcome of the legal action.
+(h) Such stocks which are stored in forward depots/ units from where it cannot be retrieved
+for handing over to suppliers shall be destroyed by board of officers.
+(j) The declaration by the Buyer or any officer acting on his behalf communicated to the
+SUPPLIER in writing that a particular consignment has been condemned will be taken by the
+SUPPLIER as the conclusive evidence of the proper communication of that consignment
+provided that such communication is issued by the Buyer within 45 days of the expiry of the
+warranty period. Nothing herein contain shall prejudice any other right of the BUYER in that
+behalf under this contract or otherwise.
+(k) Warranty in case of any preponement of supplies at the request of the supplier will be
+valid as per the original Delivery Period.  A confirmation for the same will be issued in writing
+by the supplier.
+
+                               8 / 9
+
+
+
+ 
+
+(l) The Supplier will have to refund to the government any claim under the warranty clause
+and other claim(s) that may arise out or under this agreement as soon as a demand to that
+effect is made by the Buyer failing which such claims will be recovered by adjustment
+against the performance security deposits.  Should this sum be not sufficient to cover the
+full amount recoverable, the Supplier shall pay the remaining balance due to the
+government on demand. In respect of contracts providing for an execution by the Supplier of
+guarantee regarding maintenance of the wholesomeness of stores supplied, the
+performance security deposit or such portion thereof as may be decided by the Buyer may
+be withheld till the expiry of the warranty period relating to final supplies.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               9 / 9
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

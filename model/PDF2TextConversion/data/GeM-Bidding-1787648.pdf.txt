@@ -1,0 +1,609 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/711416
+
+  Dated: 15-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 25-07-2020 14:00:00
+
+Bid Opening Date/Time 25-07-2020 14:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Railways
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Southern Railway
+
+Total Quantity 4
+
+Item Category e rickshaw for carrying goods
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Certificate (Requested in ATC)
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  Yes
+
+Inspection to be carried out by Buyers own
+empanelled agency
+
+ Yes
+
+Type Of Inspection  Pre Dispatch
+
+Name of the Empanelled Inspection
+Agency/ Authority
+
+ RITES
+
+Estimated Bid Value  722000
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+
+                               1 / 7
+
+
+
+ 
+
+Splitting
+
+  Bid splitting not applied.  
+
+E Rickshaw For Carrying Goods ( 4 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Certification
+Parameters
+
+Vehicle Certification others VRDE, ARAI, ICAT,
+others
+
+Vehicle Certification
+Number and Date
+
+- *
+
+If Vehicle Certification
+from Others Agency
+,Name of the Agency
+otherwise put NA
+
+- *
+
+Generic Parameters Type of E Cart Fully Electric, Battery
+Operated Motor Driven
+for Carrying Goods
+
+Fully Electric, Battery
+Operated Motor Driven
+for Carrying Goods
+
+Model Number of E-
+Cart
+
+- *
+
+Colour of E cart - *
+
+The E Cart Must
+Fabricated From Good
+Quality Steel properly
+Painted to avoid
+Rusting for more than 5
+Years,
+
+- *
+
+Name and Grade of
+Steel from which E Cart
+Body Framed
+
+- *
+
+Kerb Weight of E-
+Cart (kg)
+
+365 Any applicable numeric
+value
+
+Goods Carrying
+Capacity (kg)
+
+310 Up to 310
+
+Run Distance ( for a
+Full Charge of
+Battery , to be
+tested with full load
+at maximum AIS-040
+(km)
+
+115 50 - 9999999
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/n-jFQZVF_jHIRQwXFFOZU5BovbFnKsd99OtamHEJYQ4
+
+
+ 
+
+Type of Chassis for E
+cart
+
+- *
+
+Ground Clearance as
+per IS : 9435
+
+180 180 - 9999999
+
+Wheel Base (mm) 2140 Any applicable numeric
+value
+
+Turning Radius (mm) 2400 Any applicable numeric
+value
+
+Power Transmission
+from Motor Shaft to
+Wheels
+
+Direct Mounting Direct Mounting, Chain,
+Sprocket Type, Other
+Mechanical
+Mechanisms
+
+Please Specify the
+Mechanical Mechanism
+otherwise Put NA
+
+- *
+
+Type of Battery as
+per AIS-048
+
+Lithium ion Lead Acid , EV Grade ,
+Tubular Deep
+Discharge, Lithium ion
+
+Capacity of the
+Battery approved by
+ICAT/ARAI (Ah)
+
+100 0 - 9999999
+
+Battery Voltage
+,Nominal
+
+48V 48V, 60 V
+
+Maximum Overall
+Dimensions of the
+Battery ( L x Wx H
+)(mm3)
+
+- *
+
+Nominal Filled
+Weight of the
+Battery (kg)
+
+96 Any applicable numeric
+value
+
+Motor Controller ( Must
+Suitable for starting,
+accelerating,
+decelerating, driving ,
+and stopping of E Cart
+
+- *
+
+Battery Charger 220/230 V Nominal
+Input Voltage , High
+Efficiency Type
+
+220/230 V Nominal
+Input Voltage , High
+Efficiency Type
+
+Charging Current (A) 40 Any applicable numeric
+value
+
+Type of Motor Brushless DC Motor Brushless DC Motor
+
+Motor Output Power
+,48V/60V at Full
+Load (watt)
+
+1700 850 - 2000
+
+Overall Efficiency of
+the E Cart to be
+tested at Full Load
+with maximum
+speed as per
+
+90 75 - 100
+
+                               3 / 7
+
+
+
+ 
+
+Concerned AIS
+standards (%)
+
+Gradeability of E-
+cart to be tested at
+full procedure as per
+AIS -003 Load
+(Degree)
+
+30 Any applicable numeric
+value
+
+Thickness of
+Material of Sheet
+used for Roof of E-
+Cart (mm)
+
+4 0 - 9999999
+
+Material of the roof
+of E-Cart, if Enclosed
+Otherwise Put NA
+
+Fibre Glass of Good
+Quality
+
+Aluminium, MS, Fibre
+Glass of Good Quality,
+Combination of Fibre
+Glass with good Quality
+Metal, others
+
+Constructional
+Parameters
+
+Seating Facility
+Front
+
+For Driver only For Driver only
+
+Length of E -cart as
+per Gazette
+Notification by
+Ministry of Road and
+Transport Oct , 2014
+(metres)
+
+2.8 Up to 2.8
+
+Width of E -Cart as
+per Gazette
+Notification by
+Ministry of Road and
+Transport Oct, 2014
+(meters)
+
+1 Up to 1
+
+Height of E -Cart as
+per Gazette
+Notification by
+Ministry of Road and
+Transport Oct , 2014
+(meters)
+
+1.7 Up to 1.8
+
+Dimensions of the
+cabin Provided for
+Transport of Goods
+(mm x mm x mm)
+(mm3)
+
+- *
+
+Size of Front Tyre (mm) - *
+
+Size of Rear Tyre (mm) - *
+
+Brake Type (Front ) - *
+
+Brake Type ( Rear ) - *
+
+Suspension System (
+Rear )
+
+- *
+
+Suspension System
+(Front)
+
+- *
+
+                               4 / 7
+
+
+
+ 
+
+Reverse Gear
+Facility
+
+Yes Yes
+
+The Mounting of
+Batteries
+
+Yes Yes
+
+Vehicle lighting
+System
+
+Filament Type Filament Type, LED
+Based, LCD Based
+
+Instrument Panel
+Containing
+Speedometer and
+Battery Charging
+Indicator
+
+Yes Yes
+
+Glass Windshield
+with wiper motor as
+approved by
+ICAT/ARAI
+
+Yes Yes, No
+
+Battery Make as per
+AIS :048:2009
+
+Exide Okaya, Exide, Ceil,
+Amaron, others
+
+If others please specify
+the material Otherwise
+put NA
+
+- *
+
+Equipped with Start
+and Stop Button,
+parking Lights , Back
+lights with Reverse
+Gear Facility
+
+Yes Yes
+
+Equipped with Fire
+Extinguisher
+
+Yes Yes, No
+
+Equipped with First
+Aid Box
+
+Yes Yes, No
+
+Yellow Color
+reflective tape on
+Front and Rear Side
+of the E Cart
+
+Yes Yes
+
+E Cart Integration , Yes Yes
+
+Type of Cabin used
+for Transportation of
+Goods
+
+Open Open, Closed
+
+If others please specify
+the Name of Brand
+,Otherwise put NA( as
+per AIS :048:2009)
+
+- *
+
+Performance
+Parameters
+
+Speed of the E-Cart
+as per CMVR -2014
+with latest amndmt
+(to be tested with
+Full Load ) (kmph)
+
+25 20 - 25
+
+Battery Warranty in
+years (Years)
+
+3 1, 2, 3
+
+                               5 / 7
+
+
+
+ 
+
+No. Of Free Service 3 *
+
+Complaince of
+Centre of Gravity of
+E Cart as a
+Compulsory Norms
+for Safety
+
+Yes Yes
+
+Confirming to
+Applicable
+Environmental Test
+
+Yes Yes
+
+Noise level must be
+Low during
+Operation
+
+Yes Yes
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 N R Sridhar 635851,Office of the
+Additional Divisional
+Mechanical Engineer - JTJ
+Jolarpettai, Vellore 635851
+Southern Railway Tamil
+Nadu,
+
+2  60
+
+2 Venugopal
+Palkurthy
+
+600019,Office of Divisional
+Mechanical Engineer,CWS,
+,Tondiarpet Marshalling
+Yard,Southern Railway
+Tondiarpet Chennai-
+600019, Chennai, 600019
+
+2  60
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+2.The bidder is required to upload, along with the bid, all relevant certificates such as BIS
+licence, type test certificate, approval certificates and other certificates as prescribed in the
+Product Specification given in the bid document.
+
+3.Nominated Inspection Agency: On behalf of the Buyer organization, any one of the
+following Inspection Agency would be conducting inspection of stores before acceptance:
+Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause
+has been selected in ATC): inspection by rites
+Post Receipt Inspection at consignee site before acceptance of stores: by consignee
+
+This Bid is also governed by the General Terms and Conditions
+
+                               6 / 7
+
+https://gem.gov.in/termsCondition
+
+
+ 
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+http://www.tcpdf.org
+

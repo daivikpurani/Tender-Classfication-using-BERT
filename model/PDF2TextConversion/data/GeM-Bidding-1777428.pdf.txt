@@ -1,0 +1,490 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/702124
+
+  Dated: 08-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 28-07-2020 12:00:00
+
+Bid Opening Date/Time 28-07-2020 12:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 50 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence Reseach & Development
+
+Organisation Name Office Of Dg ( Ns & M)
+
+Office Name ***********
+
+Total Quantity 1
+
+Item Category Multimedia Projector (MMP)
+
+Bidder Turnover (Last 3 Years)  1 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  9 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,OEM Authorization Certificate,OEM Annual
+Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  40 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+
+                               1 / 6
+
+
+
+ 
+
+Splitting
+
+ Bid splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 40% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Multimedia Projector (MMP) ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Ports and Connectivity Number of HDMI In Port 2 *
+
+Number of HDMI Out
+Port
+
+0 *
+
+Number of DVI Port 0 *
+
+Analog RGB In Port
+(Hours)
+
+Yes *
+
+Analog RGB Out Port No *
+
+HD Base T Yes *
+
+Audio In Yes *
+
+Audio Out Yes *
+
+Video In Yes *
+
+Storage Media Port Yes *
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/Zf5MEvEEamJyusqzrlXvGMjsLw69Shsiv6fu9aL-biY
+
+
+ 
+
+if Yes, Supported File
+Formats
+
+VC-1 Advanced, Simple
+& Main Profiles 2.WMA
+standard, MA
+9Professional
+3.DivX3.11,DivX4,
+DivX5, DivX6,
+DivX4,XVID,H.264/AVC
+4.MPEG-1 Layer
+I,II,MPEG-1,Layer
+III(MP3),Dolby digital,
+DTS, Dolby Digital Plus
+5.MPEG-4 Part-2 6.AAC 
+7.H.264/AVC,MPEG-2,V
+C-1 8.HE-AAC,Dolby
+digital, DTS 9.MPEG
+-1,MPEG-2 10.DVD-
+LPCM,WMA standard,
+MA 9Professional,DivX3
+.11,DivX4, DivX5,
+DivX6, DivX4,XVID,H.26
+4/AVC,MPEG-1 Layer
+I,II,MPEG-1,Layer
+III(MP3),Dolby digital,
+DTS, Dolby Digital
+Plus,MPEG-4 Part-2,AAC
+,H.264/AVC,MPEG-2,VC-
+1,HE-AAC,Dolby digital,
+DTS,MPEG -1,MPEG-2,D
+VD-LPCM,NA
+
+*
+
+Number of USB Type A 1 *
+
+Number of USB Type B 1 *
+
+Number of USB Type C 0 *
+
+Wi Fi Connectivity Yes *
+
+Wireless Screen Share Yes *
+
+LAN Connectivity Yes *
+
+Technical
+Specifications
+
+Technology LCD LCD
+
+Projection Method Front and Rear both *
+
+Native Resolution 1920 x 1200 (WUXGA) 1920 x 1200 (WUXGA),
+3840 x 2160 (UHD 4K),
+2560 x 1600 (WQXGA),
+4096 x 2160 (4K), 5120
+x 3200 (4K+) Or higher
+
+Brightness (Lumens) 5000 5000, 5200, 5500,
+6000, 6200, 6500,
+7000, 7500, 8000,
+8500, 9000, 9500,
+10000, 12000, 13000,
+14000, 16000, 18000,
+20000, 22000, 25000,
+30000, 40000, 60000,
+5800, 6600, 6700,
+21000 Or higher
+
+                               3 / 6
+
+
+
+ 
+
+Contrast Ratio
+(Minimum) (pixels )( X
+:1 )
+
+500000 *
+
+Optical Zoom Yes Yes Or higher
+
+If Yes, Optical Zoom
+(%)
+
+145 145, 150, 160, 170,
+175, 200, 210 Or
+higher
+
+Availability of Lens Yes *
+
+Remotely Controlled Ye *
+
+If Yes, Type of
+Projector
+
+Standard Throw (0.91
+to 2.5)
+
+Standard Throw (0.91
+to 2.5)
+
+Aspect Ratio 16:10 *
+
+Keystone Correction Automatic & Manual
+Both
+
+*
+
+Type of Light Source Laser Laser
+
+Minimum Life of
+Light Source (In
+Normal Mode)
+(Hours)
+
+20000 20000, 25000, 30000
+Or higher
+
+Lamp Hour Counter (In-
+Built)
+
+Yes *
+
+Inbuilt Speaker Yes *
+
+If Yes, Wattage of
+Speaker
+
+16 *
+
+3D Projection
+Capability
+
+No *
+
+Interactive Feature No *
+
+Power Consumption in
+Sleep Mode (Watts)
+
+- *
+
+Power Consumption in
+Normal Mode (Watt)
+
+- *
+
+Noise Level in Echo
+Mode (dB)
+
+25 *
+
+Noise Level in Normal
+Mode (dB)
+
+36 *
+
+Power Supply 210V-240V, 50 Hz *
+
+Battery No *
+
+If Yes, Minimum Battery
+Capacity (mAH)
+
+NA *
+
+If Yes, Battery Backup
+Time (Hour)
+
+NA *
+
+Certificaions BIS Registration under
+CRS of Meity
+
+Yes *
+
+BIS Registration - *
+
+                               4 / 6
+
+
+
+ 
+
+Number
+
+Generic Dimensions (Length x
+Breadth x Height) (mm
+x mm x mm)
+
+- *
+
+Weight (Kg) 8.7 *
+
+Minimum Operating
+Temperature (Degree
+C)
+
+- *
+
+Maximum Operating
+Temperature (Degree
+C)
+
+- *
+
+Minimum Operating
+Humidity ( % RH)
+
+- *
+
+Maximum Operating
+Humidity ( % RH)
+
+- *
+
+Warranty On Site OEM
+Warranty for Light
+Source (Time or Life
+in Hours whichever
+is earlier)
+
+3 Year or 5000 Hrs. 3 Year or 5000 Hrs., 3
+Year or 10000 Hrs., 3
+Year or 12000 Hrs., 3
+Year or 15000 Hrs., 3
+Year or 30000 Hrs., 5
+Year or 10000 Hrs. Or
+higher
+
+On Site OEM
+Warranty
+
+3 3, 5 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********KANPUR NAGAR 1  30
+
+Bid Specific Additional Terms and Conditions
+
+1.The buyer organization is an institution eligible for concessional rates of GST as notified by
+the Government of India. The goods for which bids have been invited fall under classification
+of GST concession and the conditions for eligibility of concession are met by the institution.
+A certificate to this effect will be issued by Buyer to the Seller after award of the Contract.
+Sellers are requested to submit their bids after accounting for the Concessional rate of GST.
+Applicable Concessional rate of GST : 5%
+Notification No.and date : Notification No. : 47/2017-Integrated Tax (Rate) Dated 14
+November 2017, 45/2017-Central Tax (Rate) Dated 14 November 2017 ,
+
+                               5 / 6
+
+
+
+ 
+
+KA.NI.-2-1823/XI-9(47)/17-U.P.Act-1-2017-Order-(89)-2017 Lucknow :December 04,2017 
+dated 14/11/2017
+
+2.Bid reserved for Make In India products: Procurement under this bid is reserved for purchase
+from Class 1 local suppliers as defined in public procurement (Preference to Make in India),
+Order 2017 as amended from time to time and its subsequent Orders/Notifications issued by
+concerned Nodal Ministry for specific Goods/Products. The minimum local content to qualify
+as a class 1 local supplier is denoted in the bid document 50%. All bidders must upload a
+certificate from the OEM regarding the percentage of the local content and the details of
+locations at which the local value addition is made along with their bid, failing which the bid
+is liable to be rejected. In case the bid value is more than Rs 10 Crore, the declaration
+relating to percentage of local content shall be certified by the statutory auditor or cost
+auditor, if the OEM is a company and by a practicing cost accountant or a chartered
+accountant for OEMs other than companies as per the Public Procurement (preference to
+Make-in -India) order 2017 dated 04.06.2020 . In case Buyer has selected Purchase
+preference to Micro and Small Enterprises clause in the bid, the same will get precedence
+over this clause.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,521 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/710329
+
+  Dated: 14-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 25-07-2020 12:00:00
+
+Bid Opening Date/Time 25-07-2020 12:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Railways
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Secr
+
+Total Quantity 1
+
+Item Category Portable X Ray Machine
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Certificate (Requested in
+ATC),OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+                               1 / 6
+
+
+
+ 
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+
+Portable X Ray Machine ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Certification - *
+
+Certification number
+and date
+
+- *
+
+Type test approval
+from AREB required
+
+Yes *
+
+AREB approval
+certificate number of
+Particular Model
+
+- *
+
+Confirmity to
+manufacturing
+standards
+
+ISO 13485 *
+
+Performance
+Parameters
+
+Purpose Mobile radiographic
+units (Portable X ray
+Machines) are used for
+radiographic imaging of
+patients who cannot be
+moved to the radiology
+department and who
+are in areas, such as
+intensive and critical
+care units or operating
+and emergency rooms.
+These devices are used
+mainly for general
+adult two-dimensional
+(2-D) radiographic
+studies (predominantly
+for chest x-rays) as well
+as pediatric, neonatal,
+and orthopedic imaging
+
+*
+
+UMDNS Name and
+Code
+
+Radiographic Unit,
+Mobile - 13-272
+
+*
+
+Type of frequency Line frequency Line frequency
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/hoOhQFt79l2S0pI9oRNL4JJsgcQVA0Ji3yyuKGk72i4
+
+
+ 
+
+Generator
+
+Frequency generator
+output in kW
+
+8 8
+
+Voltage Output
+range in kV
+
+40 to 100 40 to 100
+
+Tube Current in mA 100 100
+
+Maximum Exposure
+time in milli sec
+
+upto 40 upto 40
+
+mAs Range 0.5 to 200 0.5 to 200
+
+Nominal focal spot
+size in mm
+
+1 to 3 1 to 3
+
+Inherent Filtration of x-
+ray
+
+Yes *
+
+Collimator provided Yes *
+
+Type of Collimator Manual Manual
+
+Focal Spot size in
+mm
+
+2-3 2-3
+
+Heat storage capacity
+in kHU
+
+5 *
+
+Automatic exposure
+control device
+provided
+
+No No
+
+Digital display for kV &
+mAs supplied
+
+Yes *
+
+Electronic timer
+supplied
+
+Yes *
+
+Provision of
+Anatomical
+programming
+radiography(APR)
+
+Yes Yes
+
+X-ray tube system Stationary Anode Stationary Anode
+
+Anode speed in rpm (
+Hint: for rotating anode
+the speed should be
+2500 or more and for
+stationary anode 0)
+
+21500 *
+
+The unit should be
+easily positioned (from
+either side of the bed)
+for imaging in all
+possible projections
+
+Yes *
+
+Portable X-ray machine
+shall be easily
+transportable and
+steering on caster
+wheel
+
+Yes *
+
+                               3 / 6
+
+
+
+ 
+
+Provision of effective
+braking system for
+parking,transport and
+emergency braking
+
+Yes *
+
+Lead Aprons - Full body
+and Skirt type
+
+4 No each (0.5pb) *
+
+No of Thyroid shield
+and Gonald Shield
+
+4 No each *
+
+X-ray exposure
+command control
+
+Hand switch *
+
+Power Cable length in
+meter
+
+4 *
+
+X- ray film Cassette
+holder available
+
+Yes Yes
+
+X-ray film cassette
+holder size in mm x
+mm
+
+35 x 43 35 x 43
+
+Power supply Single Phase AC (
+220-240 V,50 Hz)
+
+*
+
+Power plug (16 amp)
+compatible to standard
+wall outlet shall be
+supplied
+
+Yes *
+
+Tube protection against
+overload provided
+
+Yes *
+
+Portable X ray machine
+should be made in
+small footprint and
+hidden cable design for
+easy and efficient
+cleaning
+
+Yes *
+
+Operating temperature
+and humidity
+
+10 - 28 deg C and
+relative humidity of
+15-90%
+
+*
+
+Number of
+installations of the
+Portable X- ray
+machines in Central
+/State/PSU Govt
+Hospitals( Hint:
+Seller should furnish
+a performance
+certificate of the
+device to the buyer
+if demanded after
+placement of the
+order)
+
+>3 >3, <3
+
+OEM and Reseller (if
+supplier is re-seller)
+shall ensure
+
+Yes *
+
+                               4 / 6
+
+
+
+ 
+
+uninterrupted
+availability of all spares
+for 10 years
+
+Availability of toll
+free facility for
+technical support
+maintened by OEM
+or authorized
+agencies
+
+Yes Yes
+
+User/Technical/Mainten
+ance manuals to be
+supplied in English in
+hard and soft copy
+
+Yes *
+
+Demonstration of
+equipment and training
+to be provided after
+completing supplies
+before acceptance
+
+Yes *
+
+Warranty in years 3 3
+
+Reports The Principal
+Manufacturer must
+have direct
+Presence/approved
+service center In India
+
+Yes *
+
+Copies of reports and
+certifications to be
+furnished to buyer on
+demand at time of
+supplies
+
+Yes *
+
+QA, QC and other tests
+as per NABH shall be
+carried out by OEM or
+authorized agency of
+OEM
+
+Yes *
+
+Copies of all calibration
+and test reports to be
+submitted at the time
+of Supply of Machine
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Kartick Chandra 492008,Sr DMM SECR DRM 1  30
+
+                               5 / 6
+
+
+
+ 
+
+Bag Office , South East Central
+Railway
+
+Bid Specific Additional Terms and Conditions
+
+1.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+2.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+3.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+4.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+5.Material Test Certificate Should Be Sent Along with The Supply. The Material Will Be Checked
+by Buyer’s Lab & the Results of the Lab will be the Sole Criteria for Acceptance of the Item.
+
+6.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

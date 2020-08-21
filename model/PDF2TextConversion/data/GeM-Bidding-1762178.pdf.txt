@@ -1,0 +1,490 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/688233
+
+  Dated: 08-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 14:00:00
+
+Bid Opening Date/Time 20-07-2020 14:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Mines
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Mineral Exploration Corporation Limited Nagpur
+
+Total Quantity 2
+
+Item Category designing software ( PAC Only ) 
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Certificate (Requested in ATC),OEM Authorization
+Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 5
+
+
+
+ 
+
+Designing Software ( 2 pieces ) ( Under PAC ) 
+
+Make autodesk
+
+Model autocad-includingspecializedtoolsetsadcommerci
+alnewsingle-usereld3-yearsubscription
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+BASIC INFORMATION
+OF DESIGNING
+SOFTWARE(GOLDEN)
+
+Software Domain /
+Type
+
+Architectural,electrical,
+mechanical,Subscriptio
+n,Renewal of licence
+for one year
+
+Architectural, electrical,
+mechanical, Perpetual,
+Subscription, Renewal
+of licence for one year
+
+Name of Software ONE AUTOCAD-SU 3 Yrs *
+
+Name of the OEM Autodesk *
+
+OEM Model / Part
+No/Product Id of OEM
+
+C1RK1-WW8644-T480 *
+
+Software
+Version/Version Name
+
+2020 *
+
+Date of Launch of
+Version
+
+April 2019 *
+
+FEATURES AND
+FUNCTIONALITY
+PARAMETERS(GOLDEN)
+
+Advance surfacing Yes Yes
+
+Composite Material
+Design
+
+Yes Yes
+
+Conceptual design Yes Yes
+
+Direct Modeling Yes Yes
+
+Electrical cable and
+Conduit design
+
+Yes Yes
+
+Mesh CAD Models Yes Yes
+
+Mold design No Yes, No
+
+Parametric Modeling Yes Yes
+
+Plastic Parts Design No Yes, No
+
+Weldments No Yes, No
+
+2D System Analysis Yes Yes
+
+Circuit Simulation No Yes, No
+
+Fluid Flow
+Simulation
+
+No Yes, No
+
+Human Simulation No Yes, No
+
+Motion Simulation No Yes, No
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/C6yY350tJT-zG8j8yfAiiCkPsipjeehyFaFWfMwyaDY
+
+
+ 
+
+Stress Analysis No Yes, No
+
+Structural Validation No Yes, No
+
+Sustainability
+Analysis
+
+No Yes, No
+
+If yes, Other
+Simulation/ Analysis
+Features
+
+NA *
+
+Photorealistic
+Images
+
+Yes Yes
+
+Walk-Through
+Animation
+
+Yes Yes
+
+If yes, Other Animation
+/Rendering Features
+
+NA *
+
+Compare Costs No Yes, No
+
+Output Cost Report No Yes, No
+
+Automatic Cost
+Estimation
+
+No Yes, No
+
+No. of days Training
+Provided at Site
+
+0 0
+
+Number of Years
+upto which Support
+is available from
+OEM / Franchise
+online (Years)
+
+3 3, 5, 10 Or higher
+
+FEATURES AND
+FUNCTIONALITY
+PARAMETERS(GENERIC)
+
+2D Drawing Yes *
+
+3D Modeling Yes *
+
+Fastening Systems Yes *
+
+Large Assembly Design Yes *
+
+Piping Tubing Design Yes *
+
+Sheet Metal Design Yes *
+
+Collision and
+Interference Check
+
+No *
+
+Assembly Animation Yes *
+
+Rendering Yes *
+
+Bill of Materials Yes *
+
+If yes, Other Cost
+Estimation Features
+
+NO *
+
+Annotations Yes *
+
+Dimensions Yes *
+
+Tolerance Yes *
+
+Wireframes Yes *
+
+Other Documentation
+Features
+
+YES *
+
+                               3 / 5
+
+
+
+ 
+
+SUPPORTED
+HARDWARE
+REQUIREMENT
+PARAMETERS
+
+Hard Disk Space
+Required
+
+128 GB *
+
+RAM Size required 8 GB *
+
+CPU required i5 & Above *
+
+Operating Systems
+supported (Driver)
+
+Windows 8 & Above *
+
+Supported Devices PC *
+
+Supported Database MS SQL *
+
+GENERIC PARAMETERS
+OF DESIGNING
+SOFTWARE
+
+Free Upgradation to
+Higher Version
+
+YES *
+
+Maximum user
+handling capability
+
+NO *
+
+Concurrent user
+handling capability
+
+NO *
+
+Valid Licence copy to
+be provided
+
+YES *
+
+Mode of License to be
+delivered
+
+Electronic *
+
+Software supplied
+through
+
+URL Link *
+
+Installation and
+Demonstration
+
+Yes *
+
+List of items included in
+the package
+
+Software & Manual *
+
+Hyper link to Data
+sheet
+
+www.autodesk.in *
+
+No of Softwares sold 10000 *
+
+Number of User
+Referance no. 1 with in
+Government
+Department email,
+phone no.Of concerned
+authority where
+Software/Appliance
+installed
+
+1 *
+
+Details of Government
+Department email,
+phone no.Of concerned
+authority where
+Software /Appliance
+installed for above.
+
+RITES , AAI , PWD *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+                               4 / 5
+
+
+
+ 
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Pravin Harish
+Rakhade
+
+440006,Dr. BABASAHEB
+AMBEDKAR BHAWAN, OPP.
+CGO COMPLEX, SEMINARY
+HILLS, NAGPUR
+
+2  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+2.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+3.Bidders shall quote only those products in the bid which are not obsolete in the market and
+has at least 3 years residual market life i.e. the offered product shall not be declared end-of-
+life by the OEM before this period.
+
+4. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+5.Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be
+given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs)
+Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises
+and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to
+avail the Purchase preference, the bidder must be the manufacturer of the offered product
+in case of bid for supply of goods. Traders are excluded from the purview of Public
+Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder
+must be the Service provider of the offered Service. Relevant documentary evidence in this
+regard shall be uploaded along with the bid in respect of the offered product or service. If L-1
+is not an MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of
+purchase preference /price band defined in relevant policy, such Seller shall be given
+opportunity to match L-1 price and contract will be awarded for percentage of 25% of total
+value.
+
+6.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents
+sought in the Bid document, ATC and Corrigendum if any.
+
+7.The bidder is required to upload, along with the bid, all relevant certificates such as BIS
+licence, type test certificate, approval certificates and other certificates as prescribed in the
+Product Specification given in the bid document.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

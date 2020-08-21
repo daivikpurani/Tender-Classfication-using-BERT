@@ -1,0 +1,454 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/709114
+
+  Dated: 14-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 24-07-2020 10:00:00
+
+Bid Opening Date/Time 24-07-2020 10:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 80 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence Production
+
+Organisation Name Indian Ordnance Factories
+
+Office Name ***********
+
+Total Quantity 1
+
+Item Category thermal imager
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Thermal Imager ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+                               1 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/l1s3rLdYxZInyVxKOSc_00soCTMxr224K_EnbE0ZGro
+
+
+ 
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+LENS MEASUREMENTS
+FEATURES
+
+Horizontal Field of View
+of Standard lens
+(degree)
+
+31-35 *
+
+Vertical Field of View of
+Standard lens
+
+20-25 *
+
+Horizental Field of
+View of Telephoto
+lens
+
+NA NA
+
+Vertical Field of
+View of Telephoto
+lens
+
+NA NA
+
+IFOV of Standard lens
+(mRad)
+
+NA *
+
+IFOV of Telephoto
+Lens (mRad)
+
+NA NA
+
+IFOV of (Spatial
+resolution) (mRad)
+
+2.09 *
+
+PERFORMANCE
+FEATURES
+
+Type Hand held *
+
+Detector Resolution
+(minimum) (pixel)
+
+75000 75000
+
+Temperature Range
+of Objects (Degree
+Celsius)
+
+-20 to +350 -20 to +350
+
+Temperature
+measuring accuracy
+of reading (or
+better)
+
+± 2% oC ± 2% oC
+
+Minimum Focus
+distance
+
+65 65.0
+
+Image capture
+frequency/ frame rate
+(Hz)
+
+N ≥ 9 *
+
+Image Detector Type Uncooled focal plane
+array (FPA)Vox/
+Asi/BST/Silicon
+
+*
+
+Thermal sensitivity
+(NETD)
+
+0.1 0.1
+
+User selectable
+Emissivity
+setting/correction
+
+Between 0.01 and 1 *
+
+Infrared spectral band
+(micrometer)
+
+Between 8 and 14 *
+
+Image Palettes 4 *
+
+DISPLAY Display Type Color LCD Color LCD
+
+                               2 / 5
+
+
+
+ 
+
+Display size 8.75 8.75
+
+GENERAL FEATURES Image capture, review
+and save mechanism
+
+One handed image
+capture, review and
+save capability
+
+*
+
+Storage medium USB stick *
+
+Size of USB stick 2.8 *
+
+File formats JPEG,BMP,GIF,PNG,TIFF *
+
+Built-in digital
+camera/ Visual
+Camera Resolution
+(Mpixel)
+
+N ≥ 1 N ≥ 1
+
+Details of Operating
+functions
+
+- *
+
+Facility for the
+adjustment/ selection
+of the time/date etc
+
+yes *
+
+Interface for image
+transfer
+
+WiFi,USB Cable with
+suitable drivers for
+downloading to PC
+
+*
+
+Focus Auto *
+
+other features - *
+
+OPERATING CONDITION Minimum Operating
+Temperature
+
+-10 *
+
+Maximum Operating
+Temperature
+
+50 *
+
+Operating Humidity
+(RH)
+
+90 *
+
+POWER REQUIREMENT Power Requirements Battery Operated *
+
+chemistry of the
+battery
+
+lithium ion *
+
+Voltage of
+rechargeable Battery
+
+3.7 *
+
+Capacity of
+rechargeable battery
+(milliAH)
+
+2500 *
+
+Suitable
+charger/adapter
+provided
+
+yes *
+
+Battery Backup 4 *
+
+Power Management Automatic shut down
+/User Selectable
+
+*
+
+On-screen battery level
+indicator
+
+yes *
+
+CERTIFICATION &
+SAFETY
+
+IP Protection IP54 *
+
+Safety certification UL,CE *
+
+                               3 / 5
+
+
+
+ 
+
+GENERIC Size/ dimension - *
+
+Weight (including
+batteries)
+
+0.51 *
+
+Automatic active
+temperature
+stabilization system of
+camera
+
+yes *
+
+Provision for through-
+the-lens direct
+temperature
+measurement
+capability
+
+yes *
+
+TEST REPORT DETAILS
+& TESTS
+
+The equipment
+supplied with
+calibration certificate
+
+yes *
+
+conformity to Dry Heat
+for 16 hrs at a
+maximum temp in
+accordance with IS:900
+0/part-3/section-5/1977
+latest
+
+Yes *
+
+conformity to Cold Test
+for 4 hrs at a minimum
+temp in accordance
+with IS:9000/part-2/sec
+tion-4/1977 latest
+
+Yes *
+
+conformity to Damp
+Heat (Cyclic)Test for 2
+Cycles of 24 h each at
+a temp of 40 degree C
+& 95% RH
+
+Yes *
+
+Availability of the test
+report from Central
+Govt/ NABL/ ILAC
+accredited lab to prove
+conformity to the
+specification
+
+Yes *
+
+Test Report Number
+and date for the
+specification test (not a
+part of biddable
+parameter)
+
+- *
+
+Name and address of
+the Lab for the
+specification test (not a
+part of biddable
+parameter)
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+                               4 / 5
+
+
+
+ 
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********KOLKATA 1  15
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

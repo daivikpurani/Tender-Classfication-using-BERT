@@ -1,0 +1,4472 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+U.P. ELECTRONICS CORPORATION LIMITED,  
+10, Ashok Marg  
+
+Lucknow - 226001 
+ 
+ 
+
+Telephones    : (0522) 2286808, (0522) 4130303  Fax      : (0522) 2288583                                          
+                                                              E-mail : uplclko@gmail.com 
+
+ 
+  
+
+REQUEST FOR PROPOSAL (RFP)   
+FOR 
+
+THE SUPPLY, INSTALLATION AND COMPREHENSIVE WARRANTY MAINTENANCE 
+SERVICES OF SERVERS AT SUBORDINATE COURTS UNDER HIGH COURT 
+
+ALLAHABAD  IN UTTAR PRADESH 
+ 
+
+ 
+E-Bid REFERENCE    :   UPLC-HW-HC-SERVER-112018 
+Bid Publish Date                 :   23-11-2018  
+Bid Clarification Start Date   :   24-11-2018 from 09.00 AM 
+Bid Clarification End Date   :   27-11-2018 upto 06.00 PM 
+Bid Submission Start Date   :   24-11-2018   
+Bid Submission End Date    :   14-12-2018 upto 05.00 PM 
+Bid Opening Date     :   14-12-2018 from 05.00 PM 
+ 
+
+         ADDRESS FOR COMMUNICATION              :   Assistant Manager (Hardware) 
+                                 U.P. Electronics Corporation Limited, 
+
+       10, Ashok Marg, Lucknow-226001 
+ 
+ 
+
+ 
+  
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+       e-Tender EMD                                     :         `   20,00,000/- 
+e-Tender Document Processing / Cost :         `       2,000/-  
+ 
+
+It will be the responsibility of the e-Bidders to check U.P. Government                      
+e-Procurement website http://etender.up.nic.in for any amendment through 
+corrigendum in the e-tender document. In case of any amendment, e-Bidders will 
+have to incorporate the amendments in their e-Bids accordingly. 
+
+http://etender.up.nic.in/�
+
+
+ 
+
+Index 
+Short Term e-tender Notice                                                                                                                                         4 
+INVITATION FOR e-Bids                                                                                                                                         5 
+SECTION I : INSTRUCTIONS TO BIDDERS (ITB)                                                                                              7 
+
+(A) THE BID DOCUMENT ............................................................................................................................................. 7 
+1. Cost of e-Bid ........................................................................................................................................................ 7 
+2. Contents of e-Bid Document ................................................................................................................................ 7 
+3. Clarification of e-Bid Document .......................................................................................................................... 7 
+4. Amendment of e-Bid Document .......................................................................................................................... 8 
+5. Language of e-Bid ................................................................................................................................................ 8 
+6. Documents Constituting the e-Bid ....................................................................................................................... 8 
+7. e-Bid Form ........................................................................................................................................................... 9 
+8. e-Bid Price ........................................................................................................................................................... 9 
+9. e-Bid Currencies ................................................................................................................................................ 10 
+10. Documents Establishing bidder’s Qualification ................................................................................................. 10 
+11. Documents Establishing Goods’ Conformity to e-Bid Documents.................................................................... 10 
+12. e-Bid Security/Earnest Money Deposit (EMD) ................................................................................................. 10 
+13. Period of Validity of e-Bid ................................................................................................................................. 11 
+14. Format and Signing of e-Bid .............................................................................................................................. 12 
+15. . Submission of e-Bid ......................................................................................................................................... 12 
+16. Deadline for Submission of e-Bid ...................................................................................................................... 14 
+17. Late e-Bid........................................................................................................................................................... 14 
+18. Withdrawal and Resubmission of e-Bid ............................................................................................................. 14 
+19. Opening of Bids ................................................................................................................................................. 15 
+19.1 Opening of Technical e-Bid by the Purchaser ............................................................................................... 15 
+19.2 Opening of Financial e-Bid............................................................................................................................ 15 
+20. Clarification of e-Bid ......................................................................................................................................... 16 
+21. Evaluation of technical e-Bid and Evaluation Criteria ....................................................................................... 16 
+21 Financial Evaluation and Comparison ............................................................................................................... 18 
+22 Contacting the Purchaser ................................................................................................................................... 18 
+23 Award Criteria ................................................................................................................................................... 19 
+24 Purchaser’s right to vary Quantities at the Time of Award ................................................................................ 19 
+25 Purchaser’s right to accept any e-Bid and to reject any or all e-Bids ................................................................. 19 
+26 Notification of Award ........................................................................................................................................ 19 
+27 Signing of Contract ............................................................................................................................................ 19 
+28 Performance Security ......................................................................................................................................... 20 
+
+Section-II                                                                                                                                                                    21 
+Qualifying Criteria ........................................................................................................................................................... 21 
+
+Section-III                                                                                                                                                                    23 
+Conditions of Contract..................................................................................................................................................... 23 
+
+1. Definitions.......................................................................................................................................................... 23 
+2. Application ......................................................................................................................................................... 23 
+3. Standards ............................................................................................................................................................ 23 
+4. Patent Rights ...................................................................................................................................................... 23 
+5. Performance Security ......................................................................................................................................... 24 
+6. Inspection & Tests ............................................................................................................................................. 24 
+7. Packing ............................................................................................................................................................... 26 
+8. Delivery and Documentation ............................................................................................................................. 26 
+9. Insurance ............................................................................................................................................................ 27 
+10. Transportation .................................................................................................................................................... 27 
+11. Incidental Services ............................................................................................................................................. 27 
+12. Spare Parts ......................................................................................................................................................... 27 
+13. Warranty ............................................................................................................................................................ 27 
+14. Payment ............................................................................................................................................................. 29 
+15. Prices .................................................................................................................................................................. 29 
+16. Change Orders ................................................................................................................................................... 29 
+17. Contract Amendments ........................................................................................................................................ 30 
+
+
+
+18. Assignment ........................................................................................................................................................ 30 
+19. Delivery of the Goods and Delay in the Supplier’s Performance ...................................................................... 30 
+20. Liquidated Damages .......................................................................................................................................... 30 
+21. Termination for Default ..................................................................................................................................... 31 
+22. Force Majeure .................................................................................................................................................... 31 
+23. Termination for Insolvency ................................................................................................................................ 31 
+24. Termination for Convenience ............................................................................................................................ 32 
+25. Settlement of Disputes ....................................................................................................................................... 32 
+26. Limitation of Liability ........................................................................................................................................ 33 
+27. Governing Language .......................................................................................................................................... 33 
+28. Applicable Law .................................................................................................................................................. 33 
+29. Notices ............................................................................................................................................................... 33 
+30. Taxes and Duties ................................................................................................................................................ 34 
+31. Right to use defective equipment ....................................................................................................................... 34 
+32. Supplier Integrity ............................................................................................................................................... 34 
+33. Supplier’s Obligations ........................................................................................................................................ 34 
+34. Patent Right ........................................................................................................................................................ 34 
+35. Site Preparation and Installation ........................................................................................................................ 34 
+36. Hardware and Software Installation ................................................................................................................... 35 
+37. Hardware and software Maintenance ................................................................................................................. 35 
+38. Technical Documentation .................................................................................................................................. 35 
+39. Transfer of the Rights of the Purchaser .............................................................................................................. 35 
+
+SECTION IV : TECHNICAL E-BID                                                                                                                         36 
+SECTION III (A) : e-Bid FORM..................................................................................................................................... 37 
+SECTION III (B) : SCHEDULE OF REQUIREMENTS ............................................................................................... 38 
+SECTION III (C) TECHNICAL SPECIFICATIONS ..................................................................................................... 39 
+SECTION III(D) : BID SECURITY FORM ................................................................................................................... 40 
+SECTION III(E) : CONTRACT FORM ......................................................................................................................... 41 
+SECTION III(F) : PERFORMANCE STATEMENT FORM ......................................................................................... 43 
+SECTION III(G) : SERVICE SUPPORT DETAILS ...................................................................................................... 44 
+SECTION III (H) : CAPABILITY STATEMENT (CS) ................................................................................................. 45 
+SECTION III (I) : PERFORMANCE SECURITY FORM ............................................................................................. 48 
+
+SECTION IV :   FINANCIAL e-Bid                                                                                                                         49 
+SECTION IV (A) : e-Bid FORM .................................................................................................................................... 50 
+SECTION IV (B): PRICE SCHEDULE / BOQ .............................................................................................................. 51 
+
+ 
+ 
+
+ 
+
+
+
+ 
+U.P. Electronics Corporation Limited 
+
+                        (U.P. Government Undertaking) 
+10 Ashok Marg, Lucknow-226001 
+
+ 
+Tel. No.  0522-2286808, 2288750, 4130303, Ext. 302, 303, Fax 0522-2288583 
+
+ 
+e-Tender Notice 
+
+ 
+ Online e-bids are invited only from reputed Organization dealing with Supply and Installation of 
+Computer Servers and related items,  at SUBORDINATE COURT UNDER HIGH COURT ALLAHABAD  IN 
+UTTAR PRADESH who have been authorized by OEM to participate in this Tender upto 05.00 P.M. on 
+14-12-2018,  shall be opened at 06.00 P.M. on 14-12-2018. The e-tender document processing/Cost is     
+` 2,000/- (Rupees Two Thousand only) and EMD  ` 20,00,000/- (Rupees Twenty Lakh Only) in form of 
+DD/ Bank Guarantee/ Bankers Cheque in favour of UP Electronics Corporation Ltd, Lucknow or by 
+ONLINE Payment.  The details for submission of e-bids will be available in the e-tender document on 
+the UP Government. E-Procurement website http://etender.up.nic.in or Corporation’s website 
+www.uplc.in from 24-11-2018. The Corporation reserves the right to cancel any or all the e-Bids/annul 
+e-Bidding process without assigning any reason and decision of Corporation will be final and binding. 
+
+ 
+ 
+ 
+ 
+ 
+
+                                                                                          MANAGING DIRECTOR 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+http://etender.up.nic.in/�
+http://www.uplclko.in/�
+
+
+INVITATION FOR e-Bids 
+ 
+
+This invitation for e-Bids is for supply, installation and comprehensive warranty maintenance of Servers 
+and related items and other System Software in various offices/ institutions of Government of Uttar 
+Pradesh. 
+ 
+ 
+
+1.  Bidders are advised to study the tender Document carefully. Submission of e-Bid against this tender 
+shall be deemed to have been done after careful study and examination of the procedures, terms and 
+conditions of the tender Document with full understanding of its implications.  
+
+ 
+
+2.  The e-Bid prepared in accordance with the procedures enumerated in ITB Clause 15 of Section-I 
+should be submitted through e-Procurement website http://etender.up.nic.in. 
+
+ 
+
+ 
+3.  The tender document is available at e-Procurement website http://etender.up.nic.in and 
+
+Corporation’s website www.uplc.in from 23-11-2018. Interested bidders may view, download 
+the e-Bid document, seek clarification and submit their e-Bid online as per the date and time 
+mentioned page number 01. 
+
+ 
+4.  The bidders need to submit the proof/cost of e-Bid document/processing as stated in the above table 
+
+in Cash in the Purchaser's office or through Online through e-Tender portal in favour of U.P. 
+Electronics Corporation Ltd (herein after referred as UPLC/Purchaser) payable at Lucknow. The 
+scanned copy of the Receipt of Online payment through e-Tender portal must be enclosed / 
+uploaded along with the e-Bids. 
+
+ 
+5.  It is not necessary for a Bidder to quote all schedules of Bid.  But if bidder is quoting any schedule, 
+
+it is must to quote all items for that schedule.    The bids of bidders who will not quote for all the 
+items in any schedule in technical shall be rejected. 
+
+ 
+6.  The e-Bids will be electronically opened in the presence of bidder’s representatives, who choose to 
+
+attend at the venue, date and time mentioned in the above table.   An authority letter of 
+bidder's/OEM representative will be required to be produced. 
+
+ 
+7.  The Corporation reserves the right to cancel any or all the e-Bids/annul the e-Bid process without 
+
+assigning any reason thereof. The decision of Corporation will be final and binding. 
+ 
+8.   In the event of date specified for e-Bids opening being declared a holiday for Corporation’s office 
+
+then the due date for opening of e-Bids shall be the following working day at the appointed time 
+and place. 
+
+ 
+09. All the required documents including Price Schedule should be uploaded by the e-Bidder 
+
+electronically in the PDF format. The required electronic documents for each document label of 
+Technical (Fee details, Qualification details, e-Bid Form and Technical Specification details) 
+schedules/packets can be clubbed together to make single different files for each label. 
+
+10. The companies/firms who are registered at e-Procurement portal for e-tendering with U.P. 
+Electronics Corporation Ltd. (UPLC), 10, Ashok Marg, Lucknow (UP) would only be eligible for 
+participating in this e-tender as well as in e-tendering system of U.P. Govt. departments. All 
+companies/firms who have not registered themselves with UPLC for e-tendering till date can get 
+their registration done by depositing a filled in form issued by UPLC along with registration fee of  
+Rs 6000.00 (Rupees Six thousand only) for participating in this e-tender and other e-tenders of 
+U.P.Govt. departments. The companies/firms, who are not having digital signature, can also get 
+their digital signature on deposit of processing fees of Rs 1708.00 (Rupees One Thousand Seven 
+
+http://etender.up.nic.n/�
+http://etender.up.nic.in/�
+http://www.uplclko.in/�
+
+
+hundred eight only). The companies/firms may contact the officials on phone numbers 0522-
+2286809, 0522-2288750 (O) 0522-4130303 (Extension: 303, 304 & 307), for their 
+Registration/Digital Signature Certificate related queries. 
+
+ 
+11. Most of the departments for which UPLC is asking bids in this tender have not provided cost of 
+
+equipment/materials in advance to UPLC.   They have informed that they will provide the money 
+only after successful delivery and installation of ordered items, hence UPLC shall pay the amount 
+against delivery and installation against the ordered items to successful bidders only after same is 
+received by UPLC from the concerned department.  The Bank Guarantee worth 10% of the 
+equipment/material value for the entire Warranty Period shall also require to be submitted with 
+UPLC/Client Department. 
+
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+ 
+
+SECTION I : INSTRUCTIONS TO BIDDERS (ITB) 
+ 
+
+(A) THE BID DOCUMENT 
+ 
+1. Cost of e-Bid 
+
+a)  The bidder shall bear all costs associated with the preparation and submission of its e-
+Bid and U.P. Electronics Corporation Ltd, Lucknow hereinafter referred to as “the 
+Purchaser”, will in no case be responsible or liable for these costs, regardless of the conduct 
+or outcome of the e-Bid process. 
+  
+ b)  This tender document is available on the web site http://etender.up.nic.inand 
+Corporation’s website www.uplc.in to enable the bidders to view, download the e-Bid 
+document and submits e-Bids online up to the last date and time mentioned in e-Tender 
+notice/e-tender document against this e-Tender. The bidders shall have to pay e-Tender 
+document fee of ` 2000.00 (Rupees Two thousand Only) and EMD  ` 20,00,000/- (Rupees 
+Twenty Lakh Only) in form of DD/ Bank Guarantee/ Bankers Cheque in favour of UP 
+Electronics Corporation Ltd, Lucknow or by ONLINE Payment of eTender Portal. This e-
+tender document fee is non-refundable and EMD will be refundable. 
+
+ 
+ 
+
+2. Contents of e-Bid Document 
+2.1 The goods required to be supplied; e-Bid procedure and contract terms and conditions 
+
+are prescribed in the e-Bid document. The e-Bid document includes: 
+(a) Invitation for e-Bid  
+(b) Section I : Instruction to bidders (ITB); 
+(c) Section II : Conditions of Contract  (CC); 
+(d) Section III : Technical e-Bid; 
+(e) Section IV : Financial e-Bid; 
+
+ 
+2.2 The bidder is expected to examine all instructions, forms, terms and specifications in the 
+
+e-Bid document. Failure to furnish all information required as per the e-Bid document or 
+submission of e-Bid not responsive to the e-Bid document in every respect will be at the 
+bidder’s risk and may result in rejection of the said e-Bid.  
+
+ 
+3. Clarification of e-Bid Document 
+
+A prospective bidder requiring any clarification of the e-Bid document may raise his/her 
+point of clarification through Bid Management Window after successfully login to the e-
+Procurement website http://etender.up.nic.in. The bidder may seek clarification by 
+posting query in the relevant window after clicking "Seek Clarification" option in the 
+view e-tender details window for e-tender which can be selected through my tender 
+option of e-Bid submission menu. The clarification will be replied back by the Purchaser 
+through the e-Procurement website which can be read by the bidder through the 
+"Clarification" option under Bid Submission menu. The Purchaser may also respond to 
+clarifications raised by the prospective bidders on Purchaser's e-mail address  
+ 
+
+4. Amendment of e-Bid Document 
+4.1 At any time prior to the deadline for submission of e-Bid, the Purchaser may, for any 
+
+reason, whether at its own initiative or in response to a clarification requested by a 
+prospective bidder, modify the e-Bid document by amendments. Such amendments shall 
+be uploaded on the e-Procurement website http://etender.up.nic.in and Corporation’s 
+
+http://www.uplclko.in/�
+http://etender.up.nic.in/�
+
+
+ 
+
+ 
+
+website www.uplc.in through corrigendum and shall form an integral part of e-Bid 
+document. The relevant clauses of the e-Bid document shall be treated as amended 
+accordingly. 
+
+ 
+4.2 It shall be the sole responsibility of the prospective bidders to check the web site 
+
+http://etender.up.nic.in or  Corporation’s website www.uplc.in from time to time for any 
+amendment in the e-tender document. In case of failure to get the amendments, if any, 
+the Purchaser shall not be responsible for it. 
+
+ 
+4.3  In order to allow prospective e-Bidders a reasonable time to take the amendment into 
+
+account in preparing their e-Bids, the Purchaser, at his discretion, may extend the 
+deadline for the submission of e-Bids. Such extensions shall be uploaded on the                
+e-Procurement website http://etender.up.nic.in and Corporation’s website www.uplc.in 
+
+ 
+(B) PREPARATION OF e-Bid 
+
+ 
+5. Language of e-Bid 
+5.1 The e-Bid prepared by the bidder, as well as all correspondence and documents relating 
+
+to the e-Bid exchanged by the bidder and the Purchaser shall be written either in English 
+or Hindi language. The correspondence and documents in Hindi must be accompanied 
+by embedded/separate Hindi font files. Only English numerals shall be used in the e-
+Bid.  
+
+ 
+6. Documents Constituting the e-Bid 
+6.1 The e-Bid prepared by the bidder shall comprise the following components: 
+ 
+
+(a) Technical e-Bid - Technical e-Bid will comprise of : 
+ 
+
+(i) Fee Details – includes copies of e-tender document processing/Cost            
+furnished in accordance with ITB Clause 12 in PDF format. 
+
+ 
+(ii)  Qualification Details – includes copies of required documents as per ITB 
+
+Clauses 10 and 11 in PDF format justifying that the bidder is qualified to 
+perform the contract if his/her bid is accepted and that the bidder has financial, 
+technical and production capability necessary to perform the contract and meets 
+the criteria outlined in the Qualification Requirement and Technical 
+Specification and fulfill all the conditions of the Contract and that the goods and 
+ancillary services to be supplied by the bidder conform to the e-Bid document 
+and Technical Specifications. 
+
+ 
+(iii)  e-Bid Form – includes copy of filled in e-Bid Form as per Section-III(A) of e-
+
+tender document in PDF format justifying that the bidder is complying with all 
+the conditions of the Contract and Technical Specifications of the e-Bid 
+Document as no deviation will be acceptable to the Purchaser. 
+
+ 
+(iv)  Technical Specification Details – includes copy of filled in Technical 
+
+Specifications as per Section-III(C) of e-tender document in PDF format. 
+ 
+
+Technical Bids(Tender Ref: _____________________________ )  
+To be filled by bidder 
+
+ 
+ 
+
+http://www.uplclko.in/�
+http://etender.up.nic.in/�
+http://www.uplclko.in/�
+http://etender.up.nic.in/�
+http://www.uplclko.in/�
+
+
+ 
+
+ 
+
+(b) Financial e-Bid – Financial e-Bid will comprise of : 
+ 
+
+(i) e-Bid Form – includes copy of filled in e-Bid Form as per Section-IV (A) of e-
+tender document in PDF format. 
+
+ 
+(ii) Price Schedule/BOQ – includes as per Section-IV (B) 
+ 
+
+7. e-Bid Form 
+7.1 The bidder shall complete the e-Bid Form and the appropriate Price Schedule/BOQ 
+
+furnished in the e-Bid document, including the goods to be supplied, their quantities and 
+prices in the format given in the e-Bid document. 
+
+ 
+8. e-Bid Price  
+8.1 The bidder shall quote separately in the downloaded spread sheet file for Price 
+
+Schedule/BOQ unit price (along with basic price, GST such as installation and onsite 
+comprehensive warranty maintenance service charges, if any) of each item in the 
+specified places for all the goods mentioned in Section III(C) of Technical 
+Specifications. The unit prices quoted shall be with onsite comprehensive warranty as 
+well as extended warranty as per period specified in column-3 of Section III(C) of 
+Technical Specifications. 
+
+ 
+1.2. e-Bid price of each item indicated on the Price Schedule/ BOQ as mentioned in para 8.1 
+
+above, shall include all the cost till successful installation & commissioning at various 
+offices situated in different cities of U.P. for all the items specified in the schedule of 
+requirement and onsite comprehensive warranty maintenance i.e. 
+
+ 
+I. The price of goods (ex-works, ex-factory, ex-showroom, ex-warehouse, or off-the-
+
+shelf, as applicable), including all duties and sales and other taxes already paid or 
+payable: 
+(a) on components and raw material used in the manufacture or assembly of goods 
+
+quoted ex-works or ex-factory; or 
+(b) on the previously imported goods of foreign origin quoted ex-showroom,   ex-
+
+warehouse, or off-the-shelf. 
+II. Any Indian duties, sales and other taxes which will be payable on the goods if this 
+
+Contract is awarded.; 
+III. The price for inland transportation, insurance and other local costs incidental to 
+
+delivery of the goods to their final destination. 
+IV. The price of other incidental services listed in Clause 11 of the Conditions of 
+
+Contract. 
+ 
+4.3 Prices quoted by the bidder shall be fixed during the bidder’s performance of the 
+
+Contract and not subject to variation on any account subject to ITB Clause 25.1. An e-
+Bid submitted with an adjustable price quotation unless asked for shall be treated as non-
+responsive and rejected. 
+
+ 
+9. e-Bid Currencies 
+ Prices shall be quoted in Indian Rupees only. 
+ 
+10.  Documents Establishing bidder’s Qualification 
+10.1 Pursuant to ITB Clause 6, the bidder shall furnish, as part of its Technical e-Bid, 
+
+documents establishing the bidder’s qualification to perform the Contract if its e-Bid is 
+
+
+
+ 
+
+ 
+
+accepted. The documentary evidence should be submitted by the bidder electronically in 
+the PDF format. 
+
+ 
+10.2 The documentary evidence of bidder’s qualification to perform the Contract if its e-Bid 
+
+is accepted shall be as per Qualification Requirements specified in Section III (D) of e-
+tender document. 
+
+ 
+11.  Documents Establishing Goods’ Conformity to e-Bid Documents 
+11.1 Pursuant to ITB Clause 6, the bidder shall furnish, as part of its e-Bid, documents 
+
+establishing the conformity to the e-Bid documents of all goods and services which the 
+bidder proposes to supply under the contract. The documentary evidence should be in 
+the PDF file format. 
+
+ 
+11.2 The documentary evidence of conformity of the goods and services to the e-Bid 
+
+documents shall consist of: 
+ 
+
+(a) The brochures /leaflets /document downloaded from the internet site of the OEM 
+of the goods offered in support of the technical specifications asked in the e-tender. 
+
+ 
+(b) The copies of the purchase deed of the office building/receipt of the rent paid/ 
+
+transfer & posting orders of engineers/any other proof of placement to the 
+satisfaction of Purchaser should be enclosed as a documentary evidence in support of 
+their service centers to be mentioned in the e-Bid; 
+
+ 
+(c) An item-by-item commentary on the Purchaser’s Technical Specifications 
+
+demonstrating substantial responsiveness of the goods and services to those 
+specifications or a statement of deviations and exceptions to the provisions of the 
+Technical Specifications; 
+
+ 
+(d) A confirmation that, if the bidder offers systems and/or other software 
+
+manufactured by another company, such software operates effectively on the system 
+offered by the bidder; and the bidder is willing to accept responsibility for its 
+successful operations. 
+
+ 
+(e) A confirmation that the bidder is either the owner of intellectual Property Rights 
+
+in the hardware and the software items offered, or that it has proper authorization 
+from the owner to offer them. Willful misrepresentation of these facts shall lead to 
+the cancellation of the e-Bid/ contract without prejudice of other remedies that the 
+Purchaser may take. 
+
+ 
+12.  e-Bid Security/Earnest Money Deposit (EMD) 
+12.1 Pursuant to ITB Clause 6, the bidder shall furnish, as part of its e-Bid, an e-Bid 
+
+security/EMD  - ` 20,00,000/- (Rupees Twenty Lakh Only) in form of DD/ Bank 
+Guarantee/ Bankers Cheque in favour of UP Electronics Corporation Ltd, Lucknow or 
+by ONLINE Payment. 
+
+12.2 The e-Bid security is required to protect the Purchaser against the risk of bidder’s 
+conduct which would warrant the security’s forfeiture, pursuant to ITB Clause 12.7. 
+
+ 
+12.3 The e-Bid security shall be in Indian Rupees and shall be in the following forms only: 
+ 
+
+
+
+ 
+
+ 
+
+In form of DD/ Bank Guarantee/ Bankers Cheque in favour of UP Electronics 
+Corporation Ltd, Lucknow. Bidder may submit the bid security of the above amount by  
+online payment of etender portal http://etender.up.nic.in.  
+
+ 
+12.4 Any e-Bid not secured in accordance with ITB Clauses 12.1 and 12.3 above shall be 
+
+treated as non-responsive and rejected by the Purchaser. 
+ 
+12.5 Unsuccessful bidder’s e-Bid security will be returned upon the written request through 
+
+cheque as promptly as possible after the expiration of the period of e-Bid validity 
+prescribed by the Purchaser, pursuant to ITB Clause 13. 
+
+ 
+12.6 The successful bidder’s e-Bid security will be returned upon the bidder signing the 
+
+Contract, pursuant to ITB Clause 28, and furnishing the performance security, pursuant to 
+ITB Clause 29. 
+
+ 
+12.7 The e-Bid security may be forfeited: 
+ 
+
+(a) if a bidder (i) withdraws its e-Bid during the period of e-Bid validity specified by the 
+bidder on the e-Bid Form; or (ii) does not accept the correction of errors pursuant to 
+ITB Clause 22.2; or (iii) modifies its e-Bid price during the period of e-Bid validity 
+specified by the bidder on the e-Bid form or 
+
+ 
+(b) in case of a successful bidder, if the bidder fails:  
+
+(i) to sign the Contract with the Purchaser in accordance with ITB Clause  28; or 
+(ii) to furnish performance security in accordance with ITB Clause  29. 
+
+ 
+13.  Period of Validity of e-Bid 
+13.1 e-Bid shall remain valid for 180 days after the date of e-Bid opening prescribed by the 
+
+Purchaser, pursuant to ITB Clause 16. An e-Bid valid for a shorter period shall be 
+rejected by the Purchaser as non-responsive.  
+
+13.2 In exceptional circumstances, the Purchaser may solicit the bidder’s consent to an 
+extension of the period of e-Bid validity. The request and the response thereto shall be 
+made in writing. A bidder may refuse the request without forfeiting its e-Bid security. A 
+bidder granting the request will not be required nor permitted to modify its e-Bid. 
+
+ 
+14.  Format and Signing of e-Bid 
+14.1 The bidder shall prepare one electronic copy each of the Technical e-Bid and Financial 
+
+e-Bid separately.  
+ 
+
+14.2 The e-Bid document shall be digitally signed, at the time of uploading, by the bidder or a 
+person or persons duly authorized to bind the bidder to the Contract. The later 
+authorization shall be indicated by a scanned copy of written power-of-attorney 
+accompanying the e-Bid. All the pages/ documents of the e-Bid that are to be uploaded 
+shall be digitally signed by the person authorized to sign the e-Bid. 
+
+ 
+15. . Submission of e-Bid 
+
+The Bid Submission module of e-Procurement website http://etender.up.nic.in     enables 
+the bidders to submit the e-Bid online in response to this e-tender published by the 
+Purchaser. Bid Submission can be done only from the Bid Submission start date and 
+time till the Bid Submission end date and time given in the e-tender. Bidders should start 
+the Bid Submission process well in advance so that they can submit their e-Bid in time. 
+
+http://etender.up.nic.in/�
+
+
+ 
+
+ 
+
+The bidders should submit their e-Bid considering the server time displayed in the e-
+Procurement website. This server time is the time by which the e-Bid submission 
+activity will be allowed till the permissible time on the last/end date of submission 
+indicated in the e-tender schedule. Once the e-Bid submission date and time is over, the 
+bidders cannot submit their e-Bid. For delay in submission of e-Bid due to any reasons, 
+the bidders shall only be held responsible.  
+ 
+The bidders have to follow the following instructions for submission of their e-Bid: 
+
+ 
+15.1 For participating in e-Bid through the e-tendering system, it is necessary for the bidders 
+
+to be the registered users of the e-Procurement website https:// etender.up.nic.in.  The 
+bidders must obtain a User Login Id and Password by registering themselves with U.P. 
+Electronics Corporation Limited, Lucknow if they have not done so previously for 
+registration.   Refer to details given in Invitation for e-Bid Clause 11. 
+
+ 
+15.2 In addition to the normal registration, the bidder has to register with his/her Digital 
+
+Signature Certificate (DSC) in the e-tendering system and subsequently he/she will be 
+allowed to carry out his/her e-Bid submission activities. Registering the Digital 
+Signature Certificate (DSC) is a one time activity. Before proceeding to register his/her 
+DSC, the bidder should first log on to the e-tendering system using the User Login 
+option on the home page with the Login Id and Password with which he/ she has 
+registered as per clause 15.1 above.  
+
+ 
+ For successful registration of DSC on e-Procurement website http://etender.up.nic.in the 
+
+bidder must ensure that he/she should possess Class-2/Class-3 DSC issued by any 
+certifying authorities approved by Controller of Certifying Authorities, Government of 
+India, as the e-Procurement website https://etender.up.nic.in is presently accepting DSCs 
+issued by these authorities only. The bidder can obtain User Login Id and perform DSC 
+registration exercise as described in clauses 15.1 and 15.2 above even before e-Bid 
+submission date starts. The Purchaser shall not be held responsible if the bidder tries to 
+submit his/her e-Bid at the last moment before end date of submission but could not 
+submit due to DSC registration problem. 
+
+ 
+15.3 The bidder can search for active tenders through "Search Active tenders" link, select a 
+
+tender in which he/she is interested in and then move it to ‘My Tenders’ folder using the 
+options available in the e-Bid Submission menu. After selecting and viewing the tender, 
+for whom the bidder intends to e-Bid, from "My Tenders" folder, the bidder can place 
+his/her e-Bid by clicking "Pay Offline" option available at the end of the view tender 
+details form. Before this, the bidder should download the e-tender document and Price 
+Schedule/Bill of Quantity (BOQ) and study them carefully.  The bidder should keep all 
+the documents ready as per the requirements of e-tender document in the PDF format 
+except the Price Schedule/Bill of Quantity (BOQ) which should be in the XLS format 
+(Excel sheet). 
+
+ 
+15.4 After clicking the ‘Pay Offline’ option, the bidder will be redirected to the Terms and 
+
+Conditions page. The bidder should read the Terms & Conditions before proceeding to 
+fill in the Tender Fee and EMD payment details. After entering and saving the Tender 
+Fee and EMD details, the bidder should click "Encrypt & Upload" option given in the 
+offline payment details form so that "Bid Document Preparation and Submission" 
+window appears to upload the documents as per Technical (Fee details, Qualification 
+details, e-Bid Form and Technical Specification details) and financial (e-Bid Form and 
+Price Schedule/BOQ) schedules/packets given in the tender details. The details of the 
+Demand Draft or any other accepted instrument which is to be physically sent in original 
+
+
+
+ 
+
+ 
+
+before opening of technical e-Bid, should tally with the details available in the scanned 
+copy and the data entered during e-Bid submission time otherwise the e-Bid submitted 
+will not be accepted. 
+
+ 
+15.5 Next the bidder should upload the Technical e-Bid documents for Fee details (e-tender 
+
+fee and EMD), Qualification details as per "ITB Clause 10 or 21", e-Bid Form as per 
+"Section-III(A)" and Technical Specification details as per "Section-III(C):Technical 
+Specifications" and Financial e-Bid documents as per "Section-IV(A):e-Bid Form" and 
+"Section-IV(B):Price Schedule/BOQ" of e-tender document. Before uploading, the 
+bidder has to select the relevant Digital Signature Certificate. He may be prompted to 
+enter the Digital Signature Certificate password, if necessary. For uploading, the bidder 
+should click "Browse" button against each document label in Technical and Financial 
+schedules/packets and then upload the relevant PDF/XLS files already prepared and 
+stored in the bidder's computer. The required documents for each document label of 
+Technical (Fee details, Qualification details, e-Bid Form and Technical Specification 
+details) and financial (e-Bid Form and Price Schedule/BOQ) schedules/packets can be 
+clubbed together to make single different files for each label.  
+
+ 
+15.6 The bidder should click "Encrypt" next for successfully encrypting and uploading of 
+
+required documents. During the above process, the e-Bid documents are digitally signed 
+using the DSC of the bidder and then the documents are encrypted/locked electronically 
+with the DSC’s of the bid openers to ensure that the e-Bid documents are protected, 
+stored and opened by concerned bid openers only. 
+
+ 
+15.7 After successful submission of e-Bid document, a page giving the summary of e-Bid 
+
+submission will be displayed confirming end of e-Bid submission process. The bidder 
+can take a printout of the bid summary using the "Print" option available in the window 
+as an acknowledgement for future reference. 
+
+ 
+15.8 Purchaser reserves the right to cancel any or all e-Bids without assigning any reason. 
+ 
+ 
+16. Deadline for Submission of e-Bid 
+16.1 e-Bid (Technical) must be submitted by the bidders at e-Procurement website 
+
+https://etender.up.nic.in not later than the time 05.00 P.M. on 14-12-2018 (as the server 
+time displayed in the e-Procurement website). 
+
+ 
+16.2 The Purchaser may, at its discretion, extend this deadline for submission of e-Bid by 
+
+amending the e-Bid document in accordance with ITB Clause 4, in which case all rights 
+and obligations of the Purchaser and bidders previously subject to the deadline will 
+thereafter be subject to the deadline as extended. 
+ 
+
+17.  Late e-Bid 
+17.1 The server time indicated in the Bid Management window on the e-Procurement website 
+
+https://etender.up.nic.in will be the time by which the e-Bid submission activity will be 
+allowed till the permissible date and time scheduled in the e-tender. Once the   e-Bid 
+submission date and time is over, the bidder cannot submit his/her e-Bid. Bidder has to 
+start the Bid Submission well in advance so that the submission process passes off 
+smoothly. The bidder will only be held responsible if his/her e-Bid is not submitted in 
+time due to any of his/her problems/faults, for whatsoever reason, during e-Bid 
+submission process. 
+
+ 
+
+
+
+ 
+
+ 
+
+18.  Withdrawal and Resubmission of e-Bid 
+18.1 At any point of time, a bidder can withdraw his/her e-Bid submitted online before the 
+
+bid submission end date and time. For withdrawing, the bidder should first log in using 
+his/ her Login Id and Password and subsequently by his/her Digital Signature Certificate 
+on the e-Procurement website https://etender.up.nic.in. The bidder should then select 
+"My Bids" option in the Bid Submission menu. The page listing all the bids submitted 
+by the bidder will be displayed. Click "View" to see the details of the e-Bid to be 
+withdrawn. After selecting the "Bid Withdrawal" option, the bidder has to click "Yes" to 
+the message "Do you want to withdraw this bid?" displayed in the Bid Information 
+window for the selected bid. The bidder also has to enter the bid Withdrawing reasons 
+and upload the letter giving the reasons for withdrawing before clicking the ”Submit" 
+button. The bidder has to confirm again by pressing "Ok" button before finally 
+withdrawing his/her selected e-Bid. 
+
+ 
+18.2 The bidder has to request the Purchaser with a letter, attaching the proof of withdrawal 
+
+and submission of e-Bid security/EMD in the office of Purchaser, to return back the e-
+Bid security/EMD as per the manual procedure, IF ANY. 
+
+ 
+18.3 No e-Bid may be withdrawn in the interval between the deadline for submission of e-
+
+Bids and the expiration of period of e-Bid validity. Withdrawal of an e-Bid during this 
+interval may result in the bidder’s forfeiture of his/her e-Bid security, pursuant to ITB 
+Clause 12.7. 
+
+18.4 The bidder can re-submit his/her e-Bid as and when required till the e-Bid submission 
+end date and time. The e-Bid submitted earlier will be replaced by the new one. The 
+payment made by the bidder earlier will be used for revised e-Bid and the new e-Bid 
+submission summary generated after the successful submission of the revised e-Bid will 
+be considered for evaluation purposes. For resubmission, the bidder should first log in 
+using his/her Login Id and Password and subsequently by his/her Digital Signature 
+Certificate on the e-Procurement website https://etender.up.nic.in. The bidder should 
+then select "My Bids" option in the Bid Submission menu. The page listing all the bids 
+submitted by the bidder will be displayed. Click "View" to see the details of the e-Bid to 
+be resubmitted. After selecting the "Bid Resubmission" option, click "Encrypt & 
+Upload" to upload the revised e-Bid documents by following the methodology provided 
+in clauses 15.4 to 15.7. 
+
+ 
+18.5 The bidders can submit their revised e-Bids as many times as possible by uploading their 
+
+e-Bid documents within the scheduled date & time for submission of e-Bids.  
+ 
+18.6 No e-Bid can be resubmitted subsequently after the deadline for submission of e-Bids. 
+
+ 
+ 
+
+(C)  e-Bid OPENING AND EVALUATION OF e-Bid 
+ 
+19. Opening of Bids 
+
+19.1  Opening of Technical e-Bid by the Purchaser 
+(i) The Purchaser will open all technical e-Bids, in the presence of bidders’ representatives 
+
+who choose to attend at 06.00 P.M. on 14-12-2018 at UP Electronics Corporation Ltd, 
+10 Ashok Marg, Lucknow-226001.  The bidder’s representatives who are present shall 
+sign a register evidencing their attendance. In the event of the specified date of e-Bid 
+opening being declared a holiday for the Purchaser, the e-Bids shall be opened at the 
+appointed time and place on the next working day. 
+
+
+
+ 
+
+ 
+
+(ii) The bidder’s names and the presence or absence of requisite e-Bid security and such 
+other details as the Purchaser at its discretion may consider appropriate, will be 
+announced at the opening. The name of such bidders not meeting the Technical 
+Specifications and qualification requirement shall be notified subsequently. 
+
+(iii) The Purchaser will prepare minutes of the e-Bid opening. 
+ 
+
+19.2  Opening of Financial e-Bid 
+ 
+
+(i) After evaluation of technical e-Bid, the Purchaser shall notify those bidders whose 
+technical e-Bids were considered non-responsive to the Conditions of the Contract and 
+not meeting the technical specifications and Qualification Requirements indicating that 
+their financial e-Bids will not be opened. The Purchaser will simultaneously notify the 
+bidders, whose technical e-Bids were considered acceptable to the Purchaser.  The 
+notification may be sent by letter, fax or by e-mail.   
+
+(ii) The financial e-Bids of technically qualified bidders shall be opened in the presence of 
+bidders who choose to attend, and date for opening of financial  bids will be 
+communicated to the Technically Qualified Bidders subsequently after completion of 
+technical bids evaluation.  The name of bidders, Unit Price quoted for various items etc 
+will be announced at the meeting.  
+
+(iii)The Purchaser will prepare the minutes of the e-Bid opening. 
+ 
+20.  Clarification of e-Bid 
+
+During evaluation of e-Bid, the Purchaser may, at its discretion, ask the bidder for a 
+clarification of his/her e-Bid. The request for clarification and the response shall be in 
+writing. 
+
+ 
+21.  Evaluation of technical e-Bid and Evaluation Criteria 
+
+The Purchaser will examine the e-Bid to determine whether they are complete, whether 
+they meet all the conditions of the Contract, whether required e-tender fee,   e-Bid 
+security and other required documents have been furnished, whether the documents have 
+been properly digitally signed, and whether the e-Bids are generally in order. Any e-Bid 
+or e-Bids not fulfilling these requirements shall be rejected. 
+
+ 
+21.1 The bidder should be a branded/Original Equipment Manufacturer (OEM) of   Servers 
+
+or their authorized dealer/distributor/supplier, which has been authorized by the OEM to 
+participate in this e-tender. The e-Bids of bidders who are 
+dealers/distributor/suppliers of Servers and have not submitted their authorization 
+certificates from respecting equipments Manufacturers (OEM) for this eTender 
+shall be rejected. 
+
+ 
+ 
+21.2 The bidder shall submit the copies of the certificate of the trade mark registration/the 
+
+authorization letter of the competent authority using the trade mark and/or certificate of 
+registration in excise of the manufacturer for Servers items offered in this e-tender. In 
+case manufacturer is exempted from excise duties by the Government, the bidder shall 
+furnish documentary proof along with the e-Bid. The e-Bid submitted without required 
+documentary proof shall be rejected. 
+
+ 
+21.3 The bidder/the Original Equipment Manufacturer of the Servers in the e-tender shall be 
+
+in the business of installation and installation of the same make/brand of the for Servers 
+since last three financial years. The e-Bids of the bidders not submitting duly signed & 
+
+
+
+ 
+
+ 
+
+stamped evidence i.e. copies of purchase order and its satisfactory installation report of 
+last three financial years desired items e-Bid shall be rejected. The e-Bidders should also 
+submit filled in Performa as per "Section III (F) - Performance Statement Form" in 
+support of his/her experience. 
+
+ 
+21.4 All the items quoted should have minimum technical specifications given in the             
+
+e-tender. 
+ 
+21.5 The bidder should have a Service centre at Lucknow is essential. Details of Service 
+
+Centers and information on service support facilities that would be provided during and 
+after the warranty period should be given by the bidder as per Service Support Form 
+given in Section-III (G) of this e-tender document. The e-Bids of the bidder who do not 
+have at least eight Service Support Centers in different Revenue Division of U.P. shall 
+be rejected. The bidder whose e-Bid is accepted, shall also be bound to open their 
+service centers/their service providers in all those revenue divisions/or adjacent revenue 
+divisions for whom Servers are being installed within two months from the date of issue 
+of purchase order. Bidder shall submit an undertaking to the Purchaser to this effect. If 
+at any stage, it is found that the centers/service providers have not been opened or non-
+functional or have been closed down, then the e-Bid security/performance bank 
+guarantee shall be forfeited.  
+
+ 
+21.6 The bidder should have given satisfactory warranty maintenance services of the Servers 
+
+products supplied by them and should submit supporting documents from its clients for 
+the same.  
+ 
+
+21.7 The bidder should submit a notarized affidavit that the bidder’s firm has not been black 
+listed from any State/Central Government Departments/Organizations. The e-Bids of the 
+black-listed bidders or those not submitting the required affidavit shall be rejected. 
+
+ 
+21.8  All e-Bids submitted shall also include the following: 
+
+ 
+(i)   Filled in form as per Section III (H) - Capability Statement. 
+(ii)  Certified Copies of relevant pages of following documents: 
+
+a. Memorandum and Article of Association showing objectives of the 
+Company/firm and authority to sign the e-Bid/contract or delegate the 
+power to others for signing the e-Bid/contract. 
+
+  b. Place of registration. 
+ c. The power-of-attorney authorizing the bidder to sign the e-Bid/ 
+                                    contract. 
+
+  d. PAN certificate of the company/firm. 
+  e. GST registration certificate of the company/firm. 
+ 
+
+The e-Bids of the bidders not submitting certified copies of documents mentioned in 
+clause 21.8 (ii) above shall be rejected. 
+
+ 
+21.9 The bids of the bidders not quoting all the items of a schedule of the tender may be 
+
+rejected.   It is not necessary for a Bidder to quote all schedules of Bid.   But if bidder 
+is quoting any schedule, it is must to quote all items for that schedule.   Bidders must 
+quote for all the items in a schedule in the technical bid and in the price 
+schedule/BOQ of financial bid. The bids of bidders who will not quote for all the 
+items in any schedule in technical and financial bids shall be rejected. 
+
+ 
+
+
+
+ 
+
+ 
+
+21.10  The e-Bids found to be not responsive to and not fulfilling all the conditions of the 
+contract and not meeting Technical Specifications and Qualification Requirements to 
+the satisfaction of Purchaser shall be rejected and may not subsequently be made 
+responsive by the bidder by correction of the non-conformity. The e-Bids of bidders 
+mentioning any of their conditions which are not mentioned in the e-tender document 
+or are not in conformity with the conditions of the contract shall be rejected.  
+
+ 
+21.11  It shall be the discretion of the Purchaser to decide as to whether an e-Bid fulfils the 
+
+evaluation criterion mentioned in this e-tender or not.  
+ 
+21.12 The bidders are advised not to mix financial bid documents with the PDF documents 
+
+submitted for technical bid. The e-Bids of the bidders having financial bid document in 
+the technical bid will out rightly are rejected. 
+
+ 
+21.13 Uttar Pradesh State Unit manufacturer bidders seeking purchase preference/price 
+
+preference for their manufactured quoted goods as per the G.O. 706/18-5-2003-
+9(S.P.)/95, dated 11 June 2003 and 1261/18-5-2006-9(S.P.)/95 dated 22 September 
+2006 of Small Industries Department, Govt. of Uttar Pradesh shall have to submit the 
+evidence that their quoted goods have been manufactured by them in a manufacturing 
+unit in Uttar Pradesh. The bidder should also submit proof that its manufacturing unit 
+falls into small/medium/large scale industry unit as per Govt. norms 
+
+ 
+
+22 Financial Evaluation and Comparison 
+22.1 The Purchaser will evaluate and compare the financial rates of individual items quoted 
+
+in the price schedule/BOQ of e-Bids of those bidders whose technical e-Bids are found 
+responsive as per the conditions of the e-tender only for those items of the bidders which 
+have been technically accepted by the Purchaser.   
+
+ 
+22.2 No additional payments shall be made for completion of any contractual obligation 
+
+beyond the quoted prices. If the supplier does not accept the correction of errors if any, 
+its e-Bid shall be rejected and its e-Bid security may be forfeited.       
+ 
+
+22.3 No weightage/preference shall be given to the bidder quoting any higher technical 
+specifications against the technical specifications of the items asked in the e-tender.  
+
+ 
+22.4 The Purchaser’s evaluation of a Financial bid shall be based on lowest rate quoted 
+
+excluding GST by the bidder including the cost of equipment – preloaded with software 
+as indicated in the technical specification  (Ex-factory/ex-warehouse/off-the-shelf price 
+of the goods offered from within India, such price to include all costs as well as duties 
+and taxes paid or payable on components and raw material incorporated or to be 
+incorporated in the goods, and Excise duty on the finished goods, if payable) and price 
+of incidental services and the cost of inland transportation, insurance and other costs 
+within India incidental to the delivery of the goods to  their  final destination as 
+mentioned in para 8.2 of ITB.  
+
+ 
+22.5 Uttar Pradesh State Unit manufacturer bidders will be given purchase preference/price 
+
+preference for their manufactured quoted goods as per the G.O. 706/18-5-2003-
+9(S.P.)/95, dated 11 June 2003 and 1261/18-5-2006-9(S.P.)/95 dated 22 September 2006 
+of Small Industries Department, Govt. of Uttar Pradesh.   
+
+ 
+22.6 Evaluation for bids shall be done total lowest bid price (excluding GST) received 
+
+for all items for that schedule. 
+
+
+
+ 
+
+ 
+
+ 
+22.7 The bidders whose technical bids would be found responsive and meeting the 
+
+qualification requirements and fulfilling all conditions of the tenders, shall be considered 
+for those items which would be technically accepted by the purchaser and whose 
+schedule-wise bid price quoted are lowest in the bids. 
+
+ 
+ 23  Contacting the Purchaser 
+23.1 Subject to ITB Clause 20, no bidder shall contact the Purchaser on any matter relating to 
+
+his/her e-Bid, from the time of the e-Bid opening to the time the Contract is awarded. If 
+the bidder wishes to bring additional information to the notice of the Purchaser, he/she 
+can do so in writing. 
+
+ 
+23.2 Any effort by a bidder to influence the Purchaser in its decisions on e-Bid evaluation,   
+
+e-Bid comparison or contract award may result in rejection of the bidder’s e-Bid. 
+ 
+
+(D) AWARD OF CONTRACT 
+ 
+24 Award Criteria 
+24.1 The Purchaser will determine to its satisfaction whether the bidder(s) that is selected as 
+
+having submitted the lowest evaluated responsive bid meets the criteria specified in ITB 
+Clause 10.2, and is qualified to perform the contract satisfactorily.   
+
+ 
+24.2 Subject to ITB Clause 26, the Purchaser will award the contract to the lowest evaluated 
+
+successful Bidder whose bid has been determined to be responsive to all the conditions 
+of the contract and meeting the Technical specification and qualification requirement of 
+the Bidding Document.     
+
+ 
+25 Purchaser’s right to vary Quantities at the Time of Award 
+25.1 The Purchaser reserves the right at the time of Contract award to increase up to 50% or 
+
+decrease as per requirement of client department(s) the quantity of goods and services 
+originally specified in the Schedule of Requirements without any change in unit price or 
+other terms and conditions, depending upon the requirement of end-customer. The  
+purchaser may put repeat order of RFP items, in consent of L1-Bidder as per guideline 
+of CVC on repeat order. 
+
+ 
+25.2 If any taxes/duties are increased/ decreased by the Government during the contract 
+
+period, the same shall be adjusted mutually after submitting the proof by the successful 
+bidder to the Purchaser.    
+
+ 
+26 Purchaser’s right to accept any e-Bid and to reject any or all e-Bids 
+26.1 The Purchaser reserves the right to accept or reject any e-Bid, and to annul the             e-
+
+Bid process and reject all e-Bids at any time prior to contract award, without thereby 
+incurring any liability to the affected bidder or bidders. 
+
+ 
+27  Notification of Award 
+27.1 Prior to the expiration of the period of e-Bid validity, the Purchaser will notify the 
+
+successful bidder in writing by letter/e-mail/fax, that its e-Bid has been accepted. 
+ 
+
+27.2 The notification of award will constitute the formation of the Contract. 
+ 
+
+
+
+ 
+
+ 
+
+27.3 Upon successful bidder’s furnishing of performance security pursuant to ITB Clause 29, 
+the Purchaser will promptly return e-Bid security pursuant to ITB Clause 12. 
+
+ 
+28 Signing of Contract 
+28.1  At the same time as the Purchaser notifies the successful bidder that its e-Bid has been 
+
+accepted, the Purchaser will send the bidder the Contract Form provided in the e-Bid 
+document, incorporating all conditions of the agreement between the parties i.e. 
+Purchaser and successful bidder. 
+
+ 
+28.2  Within 7 days of receipt of the Contract Form, the successful bidder shall execute, sign 
+
+and date the Contract and return it to the Purchaser. 
+ 
+ 
+29  Performance Security 
+29.1 Within 7 (Seven) days of the execution of the contract with the Purchaser, the successful 
+
+bidder shall furnish a performance security in the form of bank guarantee for 10% 
+amount of order value in favour of concerned department, if required, which would be 
+valid for the period of warranty obligation from State Bank of India or its associate 
+banks or any nationalized Bank of India or scheduled bank located in India in favour of 
+the purchaser, in accordance with the Conditions of Contract, in the Performance 
+Security Form provided in the bidding document or in another form acceptable to the 
+purchaser. 
+
+ 
+29.2 In some cases for small amount orders, where the concerned department has not asked 
+
+for the Bank Guarantee in its favour, UPLC may ask the successful bidder to submit 
+performance security in favour of UP Electronics Corporation Ltd. 
+
+ 
+29.3 Failure of the successful bidder to comply with the requirement shall constitute 
+
+sufficient grounds for the annulment of the award and forfeiture of the e-Bid security, in 
+which event the Purchaser may make the award to the next lowest evaluated bidder or 
+call for new e-Bids. 
+
+
+
+ 
+
+ 
+
+ 
+Section-II 
+
+Qualifying Criteria 
+
+SN Qualifying Criteria Document’s Required 
+1 The Bidder should shall be registered in India 
+
+ 
+The Bidder has been in commercial operations in 
+the last 05 financial years in India. 
+
+Certificate of Incorporation / MSME / VAT & 
+GST Registration  
+Bidder should submit copy of at least one 
+purchase order (Server) of each year in last five 
+years with completion certificate or Undertaking 
+of Completion on bidder's letterhead. 
+
+2 Bidder should submit proof for supply and 
+installation of at least 500 Desktop / laptop 
+Computers/ Workstation/ Servers to any State or 
+Central Government Dept / PSU Organizations / 
+Banking Sector in last three financial years. 
+
+Copies of purchase orders and its satisfactory 
+installation report/ Undertaking by the bidder 
+mentioning Client Detail. 
+
+4 As on date of submission of the proposal, the 
+Bidder is neither blacklisted by Central 
+Government / State Government or 
+instrumentalities thereof nor any criminal case 
+against the Bidder / Its Partners / Directors / 
+Agents pending before any court of Law. 
+
+Notarized Affidavit of neither blacklisted by 
+Central Government / State Government or 
+instrumentalities thereof nor any criminal case 
+against the Bidder / Its Partners / Directors / 
+Agents pending before any court of Law.  
+
+5 Authorization from the "OEM" (Should be 
+member of MAIT) 
+
+Authorization Certificate along with MAIT 
+Certificate from the "OEM" for the RFP (not in 
+eMail) 
+
+6 Bidder should submit the Power of Attorney for 
+Authorization to sign Bidder's e-Bid Documents/ 
+Contract by competent Authority. 
+
+Power of Attorney / Relevant documents.(which 
+states authorisation to sign the Bid) 
+
+7 Bidder should submit the Acceptance of Terms & 
+Conditions of e-Bid Tender Document by the 
+Bidder on "BID FORM"  (SECTION III A) 
+
+Form, duly signed by the authorized signatory. 
+
+8 Bidder should submit the "Schedule of 
+Requirements" of e Tender Document duly 
+signed by Bidder and given. (SECTION III B) 
+
+Form, duly signed by the authorized signatory. 
+
+9 Bidder should submit the compliance sheet of 
+"Technical Specification" of all the Items given in 
+Bid. (SECTION III C) 
+
+The Bidder should submit the Form, which should 
+be duly signed by the authorized signatory. 
+Technical compliance should be submitted on 
+OEM’s/Bidder letterhead. 
+
+10 Bidder should submit the "Technical e-Bid" - Bid 
+Security Form (SECTION III D) 
+
+Form duly signed by the authorized signatory. 
+
+11 Bidder should submit the "Technical e-Bid" - 
+SECTION III(E) : CONTRACT FORM 
+
+Form duly signed by the authorized signatory. 
+
+12 Bidder should submit the "Technical e-Bid"  – 
+Performance Statement. (SECTION III F) 
+
+Form duly signed by the authorized signatory. 
+
+13 Bidder should submit the "Technical e-Bid"  – 
+Service Support Details (SECTION III G) 
+
+Form duly signed by the authorized signatory. 
+
+14 Bidder should submit the "Technical e-Bid"  – 
+Capability Statement (SECTION III H) 
+
+Form duly signed by the authorized signatory. 
+
+15 Bidder should submit the "Technical e-Bid"  – 
+Performance Security Form (SECTION III I) 
+
+Form duly signed by the authorized signatory. 
+
+16 Bidder should submit the PAN No.  Copy of PAN Card of Bidder 
+ 
+
+17 Bidder should submit the GST No.  
+ 
+
+Copy of GST Certificated 
+
+18 Bidder should have average annual turn-over of 
+Rs 22 crores in last three financial years.   
+2015- 16 
+2016- 17 
+2017- 18 
+
+Copy of Balance Sheet and Profit & Loss 
+Statement signed by Chartered Accountant. 
+Statutory Auditor Certificate or Certificate from 
+the Company Secretary of the Bidder/ Chartered 
+Accountant clearly specifying the turnover for the 
+specified years. 
+
+19 The Bidder should submit the list of minimum 50 Letter from the Companies HR Head/ Company 
+
+
+
+ 
+
+ 
+
+SN Qualifying Criteria Document’s Required 
+Service Engineers in UP State, with Contact 
+details like Phone /Mobile no. and email 
+
+Secretary stating the number of Service 
+Engineers. Must have company authorised service 
+centre in capital city/High Court Place along with 
+dedicated service support engineer with telephone, 
+email, FAX etc facility. 
+The Detail can be submitted at the Time of Award 
+of Contract.  
+
+20 Bidder should submit the Cost of e-Bid 
+document.   
+
+Copy of Tender Fee inform of DD/ Bank 
+Guarantee / Banker Cheques should be uploaded 
+with technical bid or by ONLINE Payment. 
+Original copy can be submitted at the time Bid 
+Opening. 
+
+21 Bidder should submit the e-Bid security (EMD).   Copy of e-Bid security (EMD) inform of DD/ 
+Bank Guarantee / Banker Cheques should be 
+uploaded with technical bid or by ONLINE 
+Payment. Original copy can be submitted at the 
+time Bid Opening. 
+
+22 The Bidder should mention the make & OEM of 
+the Servers and its peripherals (Brand) in 
+compliance sheet. Quoted servers either Rack or 
+Tower should be from the same OEM. 
+
+Duly signed Compliance sheet from OEM / 
+Bidder 
+
+23 The Bidder or its OEM must hold a valid ISO 
+9001:2008 (or better) Certification 
+
+Copies of the certificate to be provided along with 
+self-attestation by the authorized signatory with 
+company seal. 
+
+24 05 years onsite comprehensive warranty on 
+Servers 
+
+05 years warranty certificate from OEM on 
+OEM's Letter Head 
+
+ 
+
+
+
+ 
+
+ 
+
+Section-III 
+ 
+
+Conditions of Contract 
+1. Definitions 
+1.1 In this Contract, the following terms shall be interpreted:  
+ 
+
+(a) “The Contract” means the agreement entered into between the Purchaser and the 
+Supplier, as recorded in the Contract Form signed by the parties, including all the 
+attachments and appendices thereto and all documents incorporated by reference 
+therein; 
+
+(b) “The Contract rates” mean the prices of various items payable to the Supplier 
+under the Contract for the full and proper performance of its contractual 
+obligations; 
+
+(c) “The Goods” means all the equipment, machinery and/or other materials which 
+the Supplier is required to supply to the Purchaser under the Contract; 
+
+(d) “Services” means services ancillary to the supply of the Goods, such as 
+transportation and insurance and any other incidental services, such as 
+installation, provision of technical assistance and other obligations of the 
+Supplier covered under the Contract; 
+
+(e) “The Purchaser” means the organization purchasing the goods and the Purchaser 
+is U.P. Electronics Corporation Ltd., 10, Ashok Marg, Lucknow-226001 
+
+(f) “The Supplier” means the individual or firm supplying the Goods and Services 
+under this Contract for the period of one year and supplier is ------------------------
+; 
+
+(g)  “The Project Site”, where applicable, mean’s the Departments/Institutions of 
+State government located in different cities of U.P., where the Servers and other 
+items will be supplied against the purchase orders of the Purchaser.           
+
+(h) “Day” means calendar day. 
+ 
+2. Application 
+
+These Conditions shall apply to the extent that they are not superseded by provisions in 
+other parts of the Contract. 
+
+ 
+3. Standards 
+
+he Goods supplied under this Contract shall conform to the standards mentioned in the 
+Technical Specifications or the higher and when no applicable standard is mentioned; 
+the authoritative standard appropriate to the Goods’ country of origin and such standards 
+shall be the latest issued by the concerned O.E.M. of goods. 
+
+ 
+4. Patent Rights 
+
+The Supplier shall indemnify the Purchaser against all third-party claims of infringement 
+of patent, trademark or industrial design rights arising from use of the Goods or any part 
+thereof in India. 
+
+ 
+ 
+ 
+5.  Performance Security 
+5.1    Within 7 (Seven) days of the execution of the contract with the Purchaser, the successful 
+
+bidder shall furnish a performance security in the form of bank guarantee for 10% 
+amount of order value in favour of concerned department, which would be valid for the 
+
+
+
+ 
+
+ 
+
+period of warranty obligation from India or its associate banks or any nationalized Bank 
+of India or scheduled bank located in India in favour of the purchaser, in accordance 
+with the Conditions of Contract, in the Performance Security Form provided in the 
+bidding document or in another form acceptable to the purchaser. 
+
+ 
+5.2 During warranty/extended warranty period, the defective item (s) or component(s) are to 
+
+be replaced or repaired whatever required, shall be done by the supplier to the 
+satisfaction of the Purchaser/user department. 
+
+ 
+5.3 The proceeds of the performance security shall be payable to the authority in favour of 
+
+whom the performance bank guarantees being made as compensation for any loss 
+resulting from the supplier’s failure to complete its obligations under the Contract. 
+
+ 
+5.4 The performance security shall be denominated in Indian Rupees and shall be in the 
+
+following forms only: 
+ 
+
+A Bank guarantee issued by State Bank of India or its associate bank or a nationalized 
+bank of India or a scheduled bank located in India acceptable to the Purchaser, in the 
+form provided in the e-Bid document or another form acceptable to the Purchaser/user 
+department.  
+
+ 
+5.5 The performance security will be discharged by the Purchaser/user department and 
+
+returned to the Supplier upon the written request through cheque as promptly as possible 
+following the date of its validity or completion of the Supplier’s performance obligations 
+including any onsite warranty/extended warranty obligations, whichever is later, under 
+the contract. 
+
+ 
+5.6 In the event of any contract amendment, the Supplier shall within 7 days of receipt of 
+
+such amendment furnish the amendment to the Performance Security rendering the same 
+valid for the duration of the Contract as amended for 60 days after the completion of 
+performance obligations including three years comprehensive warranty obligations of all 
+the items. 
+
+ 
+5.7 In some cases, for small amount orders, where the concerned department has not asked 
+
+for the Bank Guarantee in its favour, UPLC may ask the successful bidder to submit 
+performance security in favour of UP Electronics Corporation Ltd. 
+ 
+
+5.8 In case, the successful bidder fail to submit the performance security then 10% 
+amount of order value shall be deducted and it will remain with UPLC in pursuant 
+to Warranty Services during the first payment to selected Bidder. 
+
+ 
+6.  Inspection & Tests 
+
+Inspection and tests prior to shipment of Goods and at final acceptance are as follows: 
+ 
+ 
+
+6.1 
+(i) The inspection of the Goods shall be carried out to check whether the Goods are 
+
+in conformity with the technical specifications attached to the contract and the 
+Conditions of Contract. The Purchaser will test all the equipment prior to their 
+delivery at sites in the office/factory of the supplier and the Supplier will 
+dispatch the inspected & tested goods by the Purchaser to the ultimate consignee 
+along with manufacturer’s warranty certificate. Complete hardware and software 
+
+
+
+ 
+
+ 
+
+as specified in Section III (B) should be supplied, installed and commissioned 
+properly against the purchase order of the Purchaser by the supplier prior to 
+commencement of performance tests, if not carried out by the Purchaser prior to 
+their delivery at sites. Supply and Installation of Servers shall be tested at sites 
+only after its installation. For site preparation, as stated in Clause 35 the supplier 
+should furnish all details to the Purchaser sufficiently in advance so as to get the 
+works completed before receipt of the equipment.  
+
+ 
+(ii)    The acceptance test will be conducted by the Purchaser, their consultant or any 
+
+other person nominated by the Purchaser, at its option. There shall not be any 
+additional charges for carrying out acceptance tests. The acceptance will involve 
+trouble-free operation during acceptance testing period. No malfunction, partial 
+or complete failure of any part of hardware or excessive heating of motors 
+attached to printers, drivers etc. or bugs and malfunctioning in the software 
+should occur. All the software should be complete and no missing 
+module/sections will be allowed. During acceptance tests, the items having the 
+same or higher technical specifications as given in the contract shall only be 
+accepted. The Supplier shall maintain necessary log in respect of the result of the 
+tests to establish to the entire satisfaction of the Purchaser. An average uptake 
+efficiency of 98% for the duration of test period shall be considered as 
+satisfactory. 
+
+ 
+(iii) In the event of the Hardware and Software failing to pass the acceptance test, if 
+
+carried out at site of installation, a period not exceeding two weeks will be given 
+to rectify the defects and clear the acceptance test, failing which the Purchaser 
+reserves the rights to get the equipment’s replaced by the supplier at no extra cost 
+to the Purchaser.  
+
+ 
+(iv) Successful conducts and the conclusion of the acceptance test for the installed 
+
+goods and equipment shall also be the sole responsibility and at the cost of the 
+supplier. 
+
+ 
+6.2  The inspections and tests will be conducted on the premises of the Supplier prior to 
+
+delivery of the Goods at final destination. For conducting the inspection and tests at the 
+premises of the Supplier, all reasonable facilities and assistance, including access to 
+drawings and production data shall be furnished by the supplier at no charge to the 
+inspectors of the Purchaser. Supplier shall intimate to the Purchaser indicating that the 
+Servers equipment's are ready for inspection and the Purchaser can send their 
+representative for inspection at their premises. After receipt of such intimation from the 
+Supplier, the Purchaser shall arrange for pre-dispatch inspection and test. After the 
+Supply and Installation of Servers passes in the inspection and tests, the Supplier 
+shall deliver and install the system and all other items at the respective sites within the 
+time schedule given in the Schedule of Requirements. 
+
+ 
+6.3 Should any inspected or tested Goods fail to conform to the specifications, the Purchaser 
+
+may reject the goods and the Supplier shall either replace the rejected Goods or make 
+alterations necessary to meet specification requirements free of cost to the Purchaser. 
+
+ 
+6.4 The Purchaser’s rights to inspect, test and, where necessary, reject the Goods after the 
+
+Goods’ arrival at Project Site shall in no way be limited or waived by reason of the 
+Goods having previously been inspected, tested and passed by the Purchaser or its 
+representative prior to the Goods shipment. 
+
+ 
+
+
+
+ 
+
+ 
+
+6.5 Manual and Drawing 
+ 
+6.5.1 Before the goods and equipment taken over by the representative of the project site(s), 
+
+the supplier shall supply operation/user manual together with equipment if any. These 
+shall be in such detail as will enable the Purchaser to operate all the equipment as stated 
+in the specifications. 
+
+ 
+6.5.2 The manual shall be in the ruling language (English or Hindi) and in such form and 
+
+numbers as stated in the purchase order. Manual may be in CD/DVD Format also. 
+ 
+6.5.3 Unless and otherwise agreed the goods and equipment shall not be considered to be 
+
+completed for the purpose of taking over until such manuals as stated in the  purchase 
+order have been supplied to the Purchaser. 
+
+ 
+7. Packing 
+7.1 The Supplier shall provide such packing of the Goods as is required to prevent their 
+
+damage or deterioration during transit to their final destination as indicated in the 
+purchase order. The packing shall be sufficient to withstand, without limitation, rough 
+handling during transit and exposure to extreme temperatures, salt and precipitation 
+during transit and open storage. Packing case size and weights shall take into 
+Consideration where appropriate, the remoteness of the Goods’ final destination and the 
+absence of heavy handling facilities at all points in transit. 
+
+ 
+7.2 The packing, making and documentation within and outside the packages shall comply 
+
+strictly with such special requirements as shall be provided for in the Contract. 
+ 
+8. Delivery and Documentation 
+
+Upon delivery of the Goods, the supplier shall notify the Purchaser and the insurance 
+company by fax the full details of the shipment including purchase order number, 
+description of goods, quantity, name of the consignee etc. The supplier shall mail the 
+following documents to the Purchaser: - 
+ 
+(a) 3 copies of the supplier’s invoice showing goods description, quantity, unit price, 
+
+total amount; 
+(b) Delivery challans duly signed & stamped by the consignee i.e. by the 
+
+representatives of project sites. 
+(c) Manufacturers/Supplier’s warranty certificate; 
+(d) Goods inspection report.  
+
+ 
+9. Insurance 
+
+For delivery of goods at site, the insurance shall be obtained by the supplier at their cost 
+of the amount equal to 110% of the value of the goods from warehouse of the supplier to 
+the final destinations of installation defined as project site on “All Risks” basis including 
+war risks and strikes. It will be the sole responsibility of the supplier to file the claim, if 
+any, with the Insurance Company immediately after delivery of goods at project sites. 
+
+ 
+ 
+
+10. Transportation 
+The Supplier is required under the Contract to transport the Goods to the specified 
+destinations within U.P/other location, as required, defined as Project sites. 
+
+ 
+
+
+
+ 
+
+ 
+
+11. Incidental Services 
+The following services shall be furnished and the cost shall be included in the contract 
+rates: 
+a. On-site delivery & satisfactory installation of all the items as per purchase order; 
+b. Furnishing all the manuals as per purchase order to the project sites; and 
+c. Maintenance and repair of the equipment at each location during the 
+
+comprehensive warranty period including the cost of all spares.  
+ 
+12.  Spare Parts 
+
+Supplier shall carry sufficient inventories to assure ex-stock availability of spares. 
+Supplier shall ensure the availability of all spare parts for after sale service support for a 
+period of at least five years including the onsite comprehensive warranty period of the 
+items. 
+
+ 
+13. Warranty 
+13.1 The Supplier warrants that the Goods supplied under this Contract are new, unused, of 
+
+the most recent or current models and those they incorporate all recent improvements in 
+design and materials unless provided otherwise in the Contract. The Supplier further 
+warrants that all Goods supplied under this Contract shall have no defect arising from 
+design materials or workmanship or from any act or omission of the Supplier that may 
+develop under normal use of the supplied Goods in the conditions prevailing in the 
+country of final destination. 
+
+ 
+13.2 The warranty shall be comprehensive for all the equipment, parts and components 
+
+(excluding consumable items). The warranty period are given in column 3 of technical 
+specification.   The period of warranty shall be considered from the date of installation 
+and acceptance of goods or 3 months more than warranty period from the date of 
+delivery at project sites, whichever occurs earlier for all the items. The supplier shall in 
+addition comply with the performance guarantees specified under the contract.   If for 
+reasons attributable to the supplier, these guarantees are not attained in whole or in part, 
+the Supplier shall, make such changes, modifications and or additions to the Goods or 
+any part thereof as may be necessary in order to attain the contractual guarantees 
+specified in the Contract at its own cost and expense and to carry out further 
+performance tests in accordance with CC6. 
+ 
+
+13.3 The Purchaser shall promptly notify the Supplier in writing of any claims arising under 
+this warranty. 
+
+ 
+13.4 During warranty period, the defective item or component shall be replaced or repaired 
+
+whatever required, by the supplier or the service centre authorised by the supplier, to the 
+satisfaction of the user departments. 
+
+ 
+12.8 Period for correction of defects in the warranty period is 48 hrs. 
+
+ 
+13.6 The supplier shall guarantee a 99% uptime of of Servers and all other items. 
+ 
+13.7 If any items give continuous trouble say two times in one month during the warranty 
+
+period, the supplier shall replace those items with new one without any additional cost to 
+Purchaser. 
+ 
+
+
+
+ 
+
+ 
+
+13.8 The Supplier must have at least eight service support centre in different Revenue 
+Divisions of U.P, for whom the items are being procured. Service centre at Lucknow is 
+essential. The supplier shall be bound and undertake to open their service centres/their 
+service providers within all those revenue divisions/or adjacent revenue divisions for 
+whom Servers are being procured within two months from the date of signing the 
+contract and issue of purchase order. If at any stage, it is found that the service 
+centres/service providers have not been opened or non-functional or have been closed 
+down, then the e-Bid security/performance bank guarantee shall be forfeited by the 
+Purchaser. 
+
+ 
+13.9 Maintenance service 
+
+ 
+8.1 The maximum response time for rectification of complaint from any of the destinations 
+
+specified in clause 13.9.3 below (i.e. time required from supplier’s maintenance 
+engineer to report at the installation site after a request call/fax is made or letter is 
+written) shall not exceed 24 hours. 
+
+8.2 It is expected that the average downtime of the item will be less than half the maximum 
+downtime (i.e. 48 hours for which an item or equipment is not usable because of 
+inability of the supplier to repair it).  In case an item is not usable beyond the stipulated 
+maximum downtime the supplier will be required to arrange for immediate replacement 
+of the same till it is repaired. Failure to arrange for the immediate repair/replacement 
+with in 24 hours  after registering complaint, will be liable for a penalty of ` 100.00 
+(Rupees One hundred only) per day after 24 hours. The total amount of penalty 
+recovered from supplier during full warranty period will be limited to the worth value of 
+the performance security guarantee. The amount of penalty will be recovered forfeiting 
+the Performance Security guarantee during warranty period.  
+
+8.3 Details of the supplier’s service centers/service providers are given below; 
+(i) ………………. 
+(ii) ………………. 
+(iii) ………………. 
+
+ 
+14. Payment 
+
+Payment for Goods and Services shall be made in Indian Rupees as follows: 
+ 
+
+(i)    On Delivery: - Ninety percent (90%) of the total price of all the goods given in the 
+purchase order shall be paid by the Purchaser on back-to-back arrangement upon 
+receipt of payment from the user department to the supplier, on receipt of all the 
+inspected & tested goods at project sites and upon submission of the documents 
+specified in Clause 8.  
+
+ 
+(ii)  On Installation: - The remaining ten percent (10%) amount of the order value of 
+
+the goods received shall be paid to the supplier as promptly as possible after 
+successful installation of all the items and submission of all installation reports duly 
+signed & stamped by the representatives of all the project sites, on back-to-back 
+arrangement upon receipt of payment from the user department. The TDS as 
+applicable will be deducted from this payment on the value of installation and 
+warranty service charges quoted by the supplier in their e-Bid.  Any other 
+dues/outstanding shall also be recovered from this payment. 
+
+ 
+
+
+
+ 
+
+ 
+
+(iii) Most of the departments for which UPLC is asking bids in this tender have not 
+provided cost of equipment in advance to UPLC.   They have informed that they 
+will provide the money only after successful delivery and installation of the ordered 
+items, hence UPLC shall pay the amount against delivery and installation of the 
+ordered items, to successful bidders only after same is received by UPLC from the 
+concerned department. 
+
+ 
+15. Prices 
+15.1 Prices payable to the Supplier as stated in the Contract shall remain fixed during the 
+
+performance of the contract. However, in the event of any increase/decrease in 
+Government taxes/duties as applicable at the time of delivery, the prices shall be 
+adjusted at the time of payment on submission of their proof by the supplier to the 
+Purchaser. In case during the period of the supply, the equipment of the same 
+specifications are being supplied in other departments on the lower rate (within a 
+previous period of six months) by the supplier, the supplier will have to supply those 
+equipment with matching price. In case at the time of delivery of the equipment, higher 
+specification equipment on the same price as quoted/approved in the e-Bid by the 
+supplier are being supplied to other department (s), the supplier will have to supply the 
+higher specification equipment on the quoted/approved rates.  
+
+ 
+16. Change Orders 
+16.1 The Purchaser may at any time, by written order given to the Supplier make changes 
+
+within the general scope of the Contract in any one or more of the following: 
+ 
+
+(a) Technical specifications where Goods to be furnished under the Contract  are to 
+ be specifically manufactured for the Purchaser; 
+
+(b) the method of shipping or packing; 
+(c) the place of delivery; and/or 
+(d) the Service to be provided by the Supplier. 
+
+ 
+16.2 If any such change causes an increase or decrease in the cost of, or the time required for, 
+
+the Supplier’s performance of any provisions under the Contract, an equitable 
+adjustment shall be made in the Contract Price or delivery schedule, or both, and the 
+Contract shall accordingly be amended. Any claims by the Supplier for adjustment 
+under this clause must be asserted within seven (7) days from the date of the Supplier’s 
+receipt of the Purchaser’s change order. 
+
+ 
+17. Contract Amendments 
+17.1 Subject to condition of contract clause 16 of the Contract, no variation in or modification 
+
+of the terms of the contract shall be made except by written amendment signed by the 
+parties. 
+
+ 
+18. Assignment 
+
+The Supplier shall not assign, in whole or in parts its obligations to perform under the 
+Contract to any other firm except with the Purchaser’s prior written consent. 
+ 
+
+19. Delivery of the Goods and Delay in the Supplier’s Performance 
+19.1 The inspection and test of the Servers items shall be carried out by the Purchaser prior to 
+
+its dispatch by the Supplier at final destination and for this purpose; the Supplier shall 
+intimate to the Purchaser that the Servers and other items are ready for inspection and 
+
+
+
+ 
+
+ 
+
+test. After receipt of such intimation from the Supplier, the Purchaser will arrange the 
+inspection and test of the Servers  items at the premise of Supplier. After the Servers   
+items pass the test, the items which are inspected and accepted during acceptance testing 
+by the Purchaser shall be packed by the supplier and the representative of Purchaser will 
+put a unique number, their seal and signature on each of the packet.  The Supplier shall 
+deliver the sealed unbroken packets to the project sites and install the systems and all 
+other items at the respective sites within the time schedule given in the Schedule of 
+Requirements.  
+
+19.2 If at any time during performance of the Contract the Supplier should encounter 
+conditions impeding timely delivery of the Goods and performance of Services, the 
+Supplier shall promptly notify the Purchaser in writing of the fact of the delay, its likely 
+duration and its cause(s). As soon as practicable after receipt of the Supplier’s notice, the 
+Purchaser shall evaluate the situation and may, at its discretion, extend the Supplier’s 
+time for performance with or without liquidated damages, in which case the extension 
+shall be ratified by the parties by amendment of the Purchase order. 
+
+18.3 Except as provided under conditions of contract clause 22 of the Contract, a delay by the 
+Supplier in the performance of its delivery obligations shall render the Supplier liable to 
+the imposition of liquidated damages pursuant to conditions of Contract unless an 
+extension of time is agreed upon pursuant to conditions of Contract without the 
+application of liquidated damages. 
+ 
+
+20. Liquidated Damages 
+20.1 Subject to conditions of Contract if the Supplier fails to deliver or install any or all of the 
+
+Goods or to perform the Services within the period (s) specified in the Contract, the 
+Purchaser shall, without prejudice to its other remedies under the Contract, deduct from 
+the Contract price, as liquidated damages, a sum equivalent to 0.5% of the delivered 
+price of the delayed Goods or unperformed Services for each week or part thereof delay 
+until actual delivery or installation or performance, up to a maximum deduction of 10%.  
+Once the maximum penalty is reached, the Purchaser may consider termination of the 
+Contract/purchase order pursuant to conditions of Contract Clause 21 of the Contract.  
+
+ 
+21. Termination for Default 
+21.1 The Purchaser may, without prejudice to any other remedy for breach of contract, by 
+
+written notice of default sent to the Supplier, terminate the Contract in whole or part: 
+ 
+
+(a) if the Supplier fails to deliver any or all of the Goods within the period(s) specified 
+in the Contract/Purchase Order, or within any extension thereof granted by the 
+Purchaser pursuant to clause no. 19.2 above or 
+
+ 
+(b) if the Supplier fails to perform any other obligation(s) under the Contract or 
+
+Purchase Order. 
+ 
+21.2 In the event the Purchaser terminates the Contract in whole or in part, pursuant to the 
+
+conditions of contract clause no. 21.1 above, Purchaser may procure, upon such terms 
+and in such manner as it deems appropriate. Goods or Services similar to those 
+undelivered, and the Supplier shall be liable to the Purchaser for any excess costs for 
+such similar Goods or Services. However, the supplier shall continue the performance of 
+the Contract to the extent not terminated. 
+
+ 
+
+
+
+ 
+
+ 
+
+22. Force Majeure 
+22.1 Notwithstanding the provisions of conditions of contract clause no. 19, 20 & 21 above, 
+
+the Supplier shall not be liable for forfeiture of its performance security, liquidated 
+damages or termination for default, if and to the extent that, its delay in performance or 
+other failure to perform its obligations under the Contract is the result of an event of 
+Force Majeure. 
+
+   
+22.2 For purpose of this Clause, “Force Majeure” means an event beyond the control of the 
+
+Supplier and not involving the Supplier’s fault or negligence and not foreseeable. Such 
+events may include, but are not limited to, acts of the Purchaser either in its sovereign or 
+contractual capacity, wars or revolutions, fires, floods, epidemics, quarantine restrictions 
+and freight embargoes. If a Force Majeure situation arises the Supplier shall promptly 
+notify the Purchaser in writing of such conditions and the cause thereof. Unless 
+otherwise directed by the Purchaser in writing, the Supplier shall continue to perform its 
+obligations under the Contract as far as is reasonably practical, and shall seek all 
+reasonable alternative means for performance not prevented by the Force Majeure event. 
+
+ 
+23. Termination for Insolvency 
+23.1 The Purchaser may at any time terminate the Contract by giving written notice to the 
+
+Supplier, if the Supplier becomes bankrupt or otherwise insolvent. In this event 
+termination, will be without compensation to the Supplier, provided that such 
+termination will not prejudice or affect any right of action or remedy which has accrued 
+or will accrue thereafter to the Purchaser. 
+
+ 
+24. Termination for Convenience 
+24.1 The Purchaser, by written notice sent to the Supplier may terminate the Contract, in 
+
+whole or in part, at any time for its convenience. The notice of termination shall specify 
+that termination is for the Purchaser’s convenience, the extent to which performance of 
+the Supplier under the Contract is terminated, and the date upon which such termination 
+becomes effective. 
+
+ 
+24.2 The Goods that are complete and ready for shipment at the time of Supplier’s receipt of 
+
+notice of termination shall be accepted by the Purchaser at the Contract terms and prices. 
+For the remaining Goods, the Purchaser may elect: 
+
+ 
+(a) to have any portion completed and delivered at the Contract terms and prices; 
+
+and/or 
+(b) to cancel the remainder and pay to the Supplier an agreed amount for partially 
+
+Completed Goods. 
+ 
+25. Settlement of Disputes 
+25.1 If any dispute or difference of any kind whatsoever shall arise between the Purchaser 
+
+and the Supplier in connection with or arising out of the Contract the parties shall make 
+every effort to resolve amicably such dispute or difference by mutual consultation. 
+ 
+
+25.2 If, the parties have failed to resolve their dispute or difference by such mutual 
+consultation within 30 (thirty) days, then aggrieved party may give notice to other party 
+of its intention to commence arbitration, as hereinafter provided, as to the matter in 
+dispute, and no arbitration in respect of this matter may be commenced unless such 
+notice is given. 
+
+ 
+
+
+
+ 
+
+ 
+
+25.3 Any dispute or difference in respect of which a notice of intention to commence 
+arbitration has been given in accordance with this Clause shall be finally settled by 
+arbitration. Arbitration may be commenced prior to or after delivery of the Goods under 
+the Contract. 
+
+ 
+25.4 
+
+ 
+25.4.1 In case of dispute or difference arising between the Purchaser and a domestic 
+
+supplier relating to any matter arising out of or connected with this agreement, 
+such dispute or difference shall be referred to Sole Arbitrator, the Principal 
+Secretary/Secretary, IT & Electronics Department, Govt. of U.P.  or his nominee, 
+to decide the dispute both in case of foreign supply as well as Indian supply. The 
+provision of Arbitration and Conciliation Act, 1996 shall apply. 
+
+ 
+25.4.2 Arbitration proceedings shall be held at Lucknow, India, and the language of the 
+
+arbitration proceedings and that of all documents and communications between 
+the parties shall be in English or Hindi. 
+
+ 
+ 25.4.3 The decision of the Sole Arbitrator or his nominee shall be final and binding 
+
+upon both parties. The cost and expenses of arbitration proceedings will be paid 
+as determined by the Arbitrator. However, the expenses incurred by each party in 
+connection with the preparation, presentation etc. of its proceedings shall be 
+borne by each party itself.  
+
+ 
+4.5 Notwithstanding any reference to arbitration herein. 
+
+ 
+(a)  the parties shall continue to perform their respective obligations under the Contract 
+
+unless they otherwise agree; and 
+(b) the Purchaser shall pay the Supplier any monies due to the Supplier. 
+
+ 
+26. Limitation of Liability 
+26.1 Except in cases of criminal negligence or willful misconduct, and in the case of 
+
+Infringement pursuant to Clause 4 above. 
+ 
+
+(a) the Supplier shall not be liable to the Purchaser, whether in contract tort, or 
+otherwise, for any indirect or consequential loss of damage, loss of use, loss of 
+production, or loss of profits or interest costs, provided that this exclusion shall not 
+apply to any obligation of the supplier to pay liquidated damages to the Purchaser; 
+and 
+
+ 
+(b) The aggregate liability of the Supplier to the Purchaser, whether under the Contract, 
+
+in tort or otherwise, shall not exceed the total value of items ordered under this 
+Contract provided that this limitation shall not apply to the cost of repairing or 
+replacing defective equipment.  
+
+ 
+27. Governing Language 
+27.1 The Contract shall be written in English or Hindi language Subject to condition of 
+
+contract clause 28 as below, English language version of the Contract shall govern its 
+interpretation. All correspondence and other documents pertaining to the Contract which 
+are exchanged by the parties shall be written in the same language. 
+
+ 
+
+
+
+ 
+
+ 
+
+28. Applicable Law 
+The Contract shall be interpreted in accordance with the laws of the Union of India. 
+ 
+ 
+
+29. Notices 
+29.1 Any notice given by one party to the other pursuant to this Contract shall be sent to other 
+
+party in writing or by e-mail or by fax and confirmed in writing to the other Party’s 
+address. For the purpose of all notices, the following shall be the address of the 
+Purchaser and Supplier  
+
+ 
+Purchaser: U.P. Electronics Corporation Ltd, 
+
+                           10, Ashok Marg, 
+                Lucknow (U.P.) - 226 001 
+
+ 
+Supplier: (To be filled in at the time of Contract execution) 
+  …………………………………. 
+  …………………………………. 
+
+   ...................................... 
+ 
+
+29.2 A notice shall be effective when delivered or on the notice’s effective date whichever is 
+later. 
+
+ 
+ 
+30.  Taxes and Duties 
+ 
+30.1 Suppliers shall be entirely responsible for all taxes, duties, license fees, octroi, road 
+
+permits etc. incurred until delivery of the contracted Goods to the Purchaser. 
+ 
+
+31. Right to use defective equipment 
+If after delivery, acceptance and installation and within the guarantee and warranty 
+period, the operation or use of the equipment proves to be unsatisfactory, the Purchaser 
+shall have the right to continue to operate or use such equipment until rectification of 
+defects, errors or omissions by repair or by partial or complete replacement is made 
+without interfering with the Purchaser’s operation. 
+
+ 
+32.      Supplier Integrity 
+
+The supplier is responsible for and obliged to conduct all contracted activities in 
+accordance with the contracts using state-of-the-art methods and economic principles 
+and exercising all means available to achieve the performance specified in the contract.  
+
+ 
+33.       Supplier’s Obligations 
+
+The supplier is obliged to work closely with the Purchaser’s staff, act within its own 
+authority and abide by directives issued by the Purchaser and implementation activities. 
+The supplier is abiding by the job safety measures prevalent in India and will free the 
+Purchaser from all demands or responsibilities arising from accidents or loss of life the 
+cause of which is the supplier’s negligence. The supplier will pay all indemnities arising 
+from such incidents and will not hold the Purchaser responsible or obligated. The 
+supplier is responsible for managing the activities of its personnel and will hold itself 
+responsible for any misdemeanors. The supplier will treat as confidential all data and 
+
+
+
+ 
+
+ 
+
+information about the Purchaser, obtained in the execution of his responsibilities, in 
+strict confidence and will not reveal such information to any other party without the 
+prior written approval of the Purchaser. 
+
+ 
+34.      Patent Right 
+
+In the event of any claim asserted by a third party of infringement of copy right, patent, 
+trademark or industrial design rights arising from the use of the Goods or any parts 
+thereof in the Purchaser’s country, the supplier shall act expeditiously to extinguish such 
+claim. If the supplier fails to comply and the Purchaser is required to pay compensation 
+to a third party resulting from such infringement, the supplier shall be responsible for the 
+compensation including all expenses (court costs and lawyer fees etc). The Purchaser 
+will give notice to the supplier of such claim, if it is made without delay. 
+
+ 
+ 
+
+35.       Site Preparation and Installation 
+In-charge of the project site is solely responsible for site preparation in compliance with 
+the technical and environmental specifications defined by the supplier. The In-charge of 
+project site will designate the installation site before the scheduled installation date to 
+allow the supplier to perform a site inspection to verify the appropriateness of the sites 
+before the installation of the Hardware and Software. 
+
+ 
+36.      Hardware and Software Installation 
+
+The Supplier is responsible for all unpacking, assemblies, installations of all hardware 
+and software, cabling between hardware units and connecting to power supplies. The 
+supplier will test all hardware and software operations and accomplish all adjustments 
+necessary for successful and continuous operation of the hardware and software at all 
+installation sites. 
+
+ 
+37.       Hardware and software Maintenance 
+
+The supplier will accomplish preventive and breakdown maintenance activities to ensure 
+that all Hardware execute without defect or interruption for at least 98% up time for 24 
+hours a day, 7 days of the week of operation of the machine worked on a quarterly basis. 
+If any critical component of the entire configuration is out of service for more than three 
+days, the supplier shall either immediately replace the defective unit at its own cost. The 
+supplier will respond to a site visit and commence repair work on the equipment within 
+24 hours of being notified of equipment malfunction. 
+
+ 
+38.      Technical Documentation 
+
+The Technical Documentation involving detailed instruction for operation is to be 
+delivered with every unit of the equipment supplied if mentioned in the purchase order. 
+The language of the documentation shall be English or Hindi. 
+
+ 
+39.      Transfer of the Rights of the Purchaser 
+
+All the items are purchased by the Purchaser on behalf of various offices/ institutions of 
+Government of Uttar Pradesh for whom equipment/materials are being procured.   Till 
+successful installation and commissioning of all the items, the purchaser will be 
+responsible for monitoring of the observance of the clauses under this contract.  After 
+successful installation & commissioning of all the items, all the rights, duties and 
+obligations of the Purchaser under this contract, shall be exercised by the various 
+offices/ institutions of Government of Uttar Pradesh. 
+
+
+
+ 
+
+ 
+
+SECTION IV : TECHNICAL E-BID 
+ 
+ 
+ 
+
+III(A)  e-Bid FORM 
+ 
+III(B)  SCHEDULE OF REQUIREMENTS 
+ 
+III(C)  TECHNICAL SPECIFICATIONS 
+ 
+III(D)  QUALIFICATION REQUIREMENTS 
+ 
+III(E)  BID SECURITY FORM 
+ 
+III(F)  CONTRACT FORM 
+ 
+III(G)  PERFORMANCE STATEMENT 
+ 
+III(H)  SERVICE SUPPORT DETAILS 
+ 
+III(I)  CAPABILITY STATEMENT 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+ 
+
+SECTION III (A) : e-Bid FORM 
+       Date : ………………………….. 
+        IFB No.:……………………....... 
+
+ 
+To :  
+
+The Managing Director, 
+U.P. Electronics Corporation Ltd., 
+10, Ashok Marg, 
+Lucknow (U.P.) - 226 001 
+
+ 
+Dear Sir: 
+
+Having examined the e-Bid Documents, we, the undersigned, offer to supply and deliver 
+…………………… (Description of Goods and Services) in conformity with the said e-Bid 
+Documents and hereby undertake that we accept all the Conditions of the Contract (Section II) 
+of the e-Bid Document and will supply the Servers, its installation and warranty maintenance of 
+Servers related items/materials as per the Technical Specifications (Section III(C)) of the e-Bid 
+documents for various Govt. Departments. We further undertake that we fulfill the Qualification 
+Requirements (Section III(D)) and for this purpose we enclose the details. In addition to this, 
+the particulars of our organization such as legal status, details of experience and past 
+performance, service support details, capability statement and the required e-Bid security/EMD. 
+
+We further undertake, if our e-Bid is accepted, to deliver the goods in accordance with 
+the delivery schedule specified in the Schedule of Requirements (Section III (B)). 
+
+If our e-Bid is accepted, we will obtain the performance guarantee of a bank in the form 
+prescribed by the Purchaser for a sum equivalent to 10% of the Contract Price for the due 
+performance of the Contract 
+
+We agree to abide by this e-Bid for the e-Bid validity period specified in Clause 13.1 of 
+the ITB and it shall remain binding upon us and may be accepted at any time before the 
+expiration of that period. 
+
+Until a formal contract is prepared and executed, this e-Bid, together with your written 
+acceptance thereof and your notification of award shall constitute a binding Contract between 
+us. All the terms and conditions of the e-tender Document are acceptable to us. 
+
+We undertake that, in competing for (and, if the award is made to us, in executing) the 
+above contract, we will strictly observe the laws against fraud and corruption in force in India 
+namely “Prevention of Corruption Act 1998”. 
+
+We understand that you are not bound to accept the lowest or any e-Bid you may 
+receive. 
+Dated this ……….. day of  …………… 20….. 
+________________________  ____________________________________ 
+(Signature)        (in the capacity of) 
+
+ 
+
+Duly authorized to sign e-Bid for and on behalf of ___________________________ 
+ 
+
+
+
+ 
+
+ 
+
+SECTION III (B) : SCHEDULE OF REQUIREMENTS 
+  
+
+Item Code Brief Description Destination Delivery Schedule 
+e-Bid 
+
+Security 
+
+As per the details given in the 
+SECTION III (C)  
+TECHNICAL  
+SPECIFICATIONS 
+
+Subordinate 
+Courts of High 
+
+Court Allahabad 
+located in U.P. 
+
+(Chart A) 
+
+All the items shall be 
+delivered/ installation 
+within  08 weeks from the 
+date of issue of the 
+purchase order. The pre-
+dispatch inspection of the 
+items shall be done by the 
+Purchaser before delivery 
+at final destination, 
+
+NA 
+
+ 
+ 
+
+
+
+ 
+
+ 
+
+SECTION III (C) TECHNICAL SPECIFICATIONS 
+FOR  
+
+Subordinate courts in UP 
+(For Server) 
+
+Sl 
+No 
+
+Items Description  
+ 
+ 
+
+Co
+m
+
+pl
+ia
+
+nc
+e 
+
+(Y
+es
+
+/N
+o)
+
+ 
+
+Q
+ua
+
+nt
+ity
+
+ 
+
+Warranty Make & 
+Model 
+
+D
+ev
+
+ia
+tio
+
+n 
+(S
+
+pe
+ci
+
+fy
+) 
+
+1 1P Pedestal Server  11 05 years 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Form factor Tower  
+
+Processor Make X86 Architecture  
+Max. Number of sockets 
+available on chipset 
+
+1  
+
+Max. Number of sockets 
+populated with processor 
+
+1  
+
+No. of Processor 1  
+
+Processor Configuration 64-bit x86 processor fully binary 
+compatible to 32-bit 
+applications 
+
+Specify 
+Processor 
+model 
+
+Number of Core per Processor 8 or more with each core 
+supporting Multi Thread 
+
+ 
+
+Chipset compatible with CPU Yes  
+Motherboard (OEM compatible 
+with CPU) 
+
+OEM  
+
+PCI Slots (Express Gen 3.0 min.) One Free  
+Max Nos. of PCI Lanes -  
+Memory (DDR4 RAM min.) (GB) 32 GB DDR4-2400 MHz or better  
+DIMM Slots (Minimum) (No.)  4  
+Hard disk drive Capacity (GB) 2 x 1000GB SATA HDD  
+Hard disk drive RPM with SAM 
+(hot plug or better ) (RPM) 
+
+7200 or better  
+
+RAID Controller Caches (MB) 1000  
+RAID Controller RAID 0, 1 & 5  
+RAID Controller Ports 8  
+Video Controller (support VGA or 
+above resolution) 
+
+Yes with minimum 4GB DDR5 
+Dedicated buffer memory 
+having memory bandwidth of at 
+least 80 GBps. 
+
+ 
+
+Keyboard OEM Keyboard  
+Mouse OEM Mouse  
+Monitor TCO-07 certified 19" or higher 
+
+LED TFT Monitor supporting HD) 
+or better resolution and 6ms or 
+better response time. 
+
+ 
+
+Bays (min. 2 internal or more hot 
+plug) 
+
+5  
+
+USB Ports (version 2.0/3.0) 4  
+Certifications, Compliance & 
+support by Windows, Red Hat or 
+Novell 
+
+Latest version of Windows, 
+Linux & Ubuntu OS (32Bit & 
+64Bit both) and all Industry 
+Standard Virtualization 
+Software. Root of Trust security 
+enabled. 
+
+Operating 
+System 
+Certifications 
+asked in the 
+tender should 
+be available 
+on the OS 
+OEM website 
+and available 
+in public 
+domain or 
+Certificate 
+from OEM of 
+
+
+
+ 
+
+ 
+
+Operating 
+System 
+
+DVD ROM (or better) Yes (Internal/External)  
+Networking: dual LAN 
+(10/100/1000) network card with 
+asset feature tracking & security 
+management, remote wake up 
+
+Yes  
+
+FC HBA Dual port card    
+FC HBA Dual port card Speed -  
+
+Power Management 
+
+Remote Management of Server 
+over LAN & WAN with SSL 
+encryption. 
+
+ 
+
+Server health logging.  
+Should have virtual Media 
+support with all required 
+licenses. 
+
+ 
+
+Remoter power On/ Shutdown 
+of server 
+
+ 
+
+Redundant Power Supply Yes  
+Redundant Fan    
+Server scalability to be achieved 
+within the box & without adding 
+nodes 
+
+Yes  
+
+Availability of Type test reports 
+consisting of verification of all 
+the features & functional 
+parameters & environmental 
+tests sequences as under: 
+
+  
+
+a.  Dry heat test (For 16 hrs at a 
+temp. Of 45 degree C in 
+accordance with IS: 9000/part-
+3/section- 5/1977). 
+
+ 
+
+b.  Cold test(For 4 hrs at a temp. 
+of 0 degree C in accordance with 
+IS: 9000/part-2/section-4/1977. 
+
+ 
+
+c.  Damp Heat Cyclic Test ( For 2 
+cycles of 24 hrs at a temp. 40 
+degree C & 95% RH in 
+accordance with IS: 9000/part-
+5/section-1/1981) 
+
+ 
+
+Note:- The server shall be 
+checked for all the parameters 
+before conditioning. After 
+completion of the above 
+environmental tests sequence, 
+with a recovery period of 1 to 2 
+hrs, the server shall be 
+functional. 
+
+ 
+
+Availability of the type test 
+report from Central Govt./ 
+NAM,/ 1LAC accredited lab. 
+covering verification of all 
+features & functional parameters 
+& environmental tests sequence 
+
+   
+
+Test Report No. & date    
+Name & address of Lab -  
+BIS Registration no. under CRS of 
+Deity 
+
+Yes  
+
+Declare max. power 
+consumption of the system 
+
+Yes  
+
+Availability of documentary 
+evidence in support of model 
+quoted in commercial production 
+& due evaluation completed 
+
+Yes  
+
+Details of benchmark indices Processor SPEC CPU2006 or  
+
+
+
+ 
+
+ 
+
+with software & diagnostic 
+software used to test server. 
+
+SPEC CPU2017 benchmarked 
+with maximum 32 GB RAM to 
+achieve SPEC rating of at least 
+260 or more (60% of 
+SPECint_rate_base2006/2017 
+plus 40% of 
+SPECfp_rate_base2006/2017 
+scores).  
+Benchmark rating of quoted 
+processor on should be 
+published on SPEC.ORG on date 
+of bidding. 
+
+ 
+
+Server main supply 200V to 230V  
+CE or UL certified or Ertl/Etdc 
+certified for safety (IEC- 60950-1) 
+
+Yes  
+
+RoHS Compliance Yes  
+Warranty (years) 5 Years OEM on-site 
+
+compressive with 48 hours 
+response time. 
+
+Response 
+Time 
+48/Hours 
+from 
+complaint 
+registered. 
+
+Listed In latest Gamier Magic 
+Quadrant 
+
+The OEM of quoted server 
+should be in the leader 
+quadrant of latest Gartner 
+Magic quadrant of modular 
+server. 
+
+ 
+
+2 2P Rack Server 165   
+
+Form Factor Rack Mount (Maximum 2U)   
+Processor Make X86 Architecture  
+Max. Number of sockets 
+available on chipset 
+
+2  
+
+Max. Number of sockets 
+populated with processor 
+
+2  
+
+No. of Processor 2  
+Processor Configuration 64-bit x86 processor fully 
+
+binary compatible to 32-bit 
+applications 
+
+Specify 
+Processor 
+model 
+
+Number of core per Processor 12 or more with each core 
+supporting Multi Thread 
+
+ 
+
+Chipset compatible with CPU Yes  
+Motherboard (OEM 
+compatible with CPU) 
+
+OEM  
+
+PCI Slots (Express Gen 3.0 
+min.) 
+
+One Free  
+
+Max Nos of PCI Lanes -  
+Memory ( DDR4 RAM min.) 
+(GB) 
+
+128 GB DDR4-2400 MHz or 
+better 
+
+ 
+
+DDR4 RAM upgradeable upto 
+(Minimum) (GB) 
+
+0.5 GB (As applicable)  
+
+DIMM Slots (Minimum) (No.) 8  
+Hard disk drive Capacity (GB) 3 x 1200GB SAS-HS  
+Hard disk drive RPM with SAS 
+(hot plug or better ) (RPM) 
+
+10000 or better  
+
+RAID Controller Caches (MB) 1000  
+RAID Controller RAID 0, 1 & 5  
+RAID Controller Ports 8  
+Video Controller (support 
+VGA or above resolution) 
+
+Yes with minimum 4GB DDR5 
+Dedicated buffer memory 
+having memory bandwidth 
+of at least 80GBps. 
+
+ 
+
+
+
+ 
+
+ 
+
+Keyboard -  
+Mouse -  
+Monitor -  
+Bays (min. 2 internal or more 
+hot plug) 
+
+5  
+
+USB Ports (version 2.0/3.0) 4  
+Certifications, Compliance & 
+support by Windows, Red flat 
+or Novell 
+
+Latest version of Windows, 
+Linux & Ubuntu OS (32Bit & 
+64Bit both) and all Industry 
+Standard Virtualization 
+Software. Root of Trust 
+security enabled. 
+
+Operating 
+System 
+Certifications 
+asked in the 
+tender should 
+be available 
+on the OS 
+OEM website 
+and available 
+in public 
+domain or 
+Certificate 
+from OEM of 
+Operating 
+System 
+
+DVD ROM (or better) Yes (Internal/External)  
+Networking: dual LAN 
+(10/100/1000) network card 
+with asset feature tracking & 
+security management, 
+remote wake up 
+
+Yes  
+
+FC HBA Dual port card -  
+FC HBA Dual port card Speed -  
+Power Management Remote Management of 
+
+Server over LAN & WAN with 
+SSI Encryption. Server health 
+logging. Should have virtual 
+Media support with all 
+required licenses. Remote 
+power On/ Shutdown of 
+server. 
+
+ 
+
+Redundant Power Supply Yes  
+
+Redundant Fan    
+Server scalability to be 
+achieved within the box & 
+without adding nodes 
+
+Yes  
+
+Availability of Type test 
+reports consisting of 
+verification of all the features 
+& functional parameters & 
+environmental tests 
+sequences as under: 
+
+  
+
+a. Dry heat test (For 16 his at 
+a temp. Of 45 degree C in 
+accordance with IS: 
+9000/part-3/section- 5/1977). 
+
+ 
+
+b. Cold test(For 4 hrs at a 
+temp. of 0 degree C in 
+accordance with IS: 
+9000/part-2/section-4/1977. 
+
+ 
+
+c. Damp Heat Cyclic Test ( For 
+2 cycles of 24 hrs at a temp. 
+40 degree C & 95% RH In 
+accordance with IS: 
+
+ 
+
+
+
+ 
+
+ 
+
+9000/part-5/section-1/1981) 
+Note:- The server shall be 
+checked for all the 
+parameters before 
+conditioning. After 
+completion of the above 
+environmental tests 
+sequence, with a recovery 
+period of 1 to 2 hrs, the 
+server shall be functional. 
+
+ 
+
+Availability of the type test 
+report from Central Govt.! 
+NABL/ ILAC accredited lab. 
+covering verification of all 
+features & functional 
+parameters & environmental 
+tests sequence 
+
+   
+
+Test Report No. & date    
+
+Name & address of Lab    
+BIS Registration no. under 
+CRS of Deity Yes 
+
+ 
+
+Declare max. power 
+consumption of the system Yes 
+
+ 
+
+Availability of documentary 
+evidence in support of model 
+quoted in commercial 
+production & due evaluation 
+completed 
+
+Yes  
+
+Details of benchmark indices 
+with software & diagnostic 
+software used to test server. 
+
+Processor SPEC CPU2006 or 
+SPEC CPU 2017 
+benchmarked with maximum 
+192 GB RAM to achieve SPEC 
+rating of at least 950 or more 
+(GO% of 
+SPECint_rate_base2006/ 
+2017 plus 40% of 
+SPECfp_rate_base2006 / 
+2017 scores). Benchmark 
+rating of quoted processor 
+on should he published on 
+SPEC.ORG on date of 
+bidding. 
+
+ 
+
+Server main supply 200V to 230V  
+CE or UL certified or Ertl/Etdc 
+certified for safety (IEC- 
+60950-1) 
+
+Yes  
+
+RoHS Compliance Yes  
+Warranty 5 Years OEM on-site 
+
+compressive with 48 hours 
+response time 
+
+Response 
+Time 48 
+Hours from 
+the time of 
+complaint 
+registered. 
+
+ 
+ 
+IMPORTANT NOTICE 
+(Applicable for all Technical Specifications) 
+1. In case the bid of any bidder is accepted and at later it is found that the specifications of any item do not match with 
+
+the "Technical Specifications" given in this tender document, the purchaser may ask for the product of its choice.    
+2. The bidder has to specify the make/model of all the quoted items.   
+3. The bidder may quote higher configuration available at present, but no weightage will be given. 
+4. 5 years Warranty certificate to be submitted on OEM letterhead along with tender document. 
+
+
+
+ 
+
+ 
+
+5. Quoted model of Server and Processor should be latest and have not been launched before 2 years from the tender 
+publishing date. 
+
+6. Quoted servers either rack or tower should be from the same OEM. 
+ 
+ 
+ 
+
+ 
+Date: 
+Place:        Signature and seal of the Bidder 
+
+
+
+ 
+
+ 
+
+SECTION III(D) : BID SECURITY FORM 
+ 
+
+Whereas _______________ (Name of the Bidder) (Hereinafter called “the Bidder”) has submitted 
+its bid dated _______________ (Date of Submission of bid) for the supply of ________________ 
+(name and description of the goods)  
+ 
+(Hereinafter called “the Bid”) 
+ 
+KNOW ALL People by these presents that WE ____________ (Name of the Bank) of 
+______________ (name of the country), having our registered offices at ______________ (address 
+of Bank) (hereinafter called “the Bank”), are bound unto _______________ (name of the 
+Purchaser) (hereinafter called “the Purchaser”) in the sum of its successors, and assigns by these 
+presents. Sealed with the common seal of the said Bank this ______ Day of _______ 20___ 
+ 
+The CONDITIONS of this obligation are : 
+1. if the Bidder  
+
+a. withdraws its bid during the period of bid validity specified by the Bidder on the Bid 
+Form; or  
+
+b. does not accept the correction of errors in accordance with the ITB; or 
+c. modifies its bid price during the period of bid validity specified by the bidder on the bid 
+
+form; or 
+2. if the Bidder, having been notified of the acceptance of its bid by the Purchaser during the 
+
+period of bid validity : 
+a. fails or refuses to execute the Contract Form if required; or 
+b. fails or refuses to furnish the performance security in accordance with the ITB; 
+
+ 
+We undertake to pay the Purchaser up to the amount upon receipt of its first written demand, 
+without the Purchaser having to substantiate its demand, provided that in the demand the Purchaser 
+will note that the amount claimed by it is due to it, owing to occurrence or one or both of the two 
+conditions, specifying the occurred conditions. 
+ 
+
+ 
+Seal and signature of the bidder__________________________ 
+with Name of Authorised  
+Official signing the tender document 
+
+
+
+ 
+
+ 
+
+SECTION III(E) : CONTRACT FORM 
+ 
+
+This Agreement is made on ----- day of ------ in the year 2018 at Lucknow. 
+ 
+
+BETWEEN 
+ 
+
+UP Electronics Corporation Ltd., a Govt Company, registered under the Companies Act, 
+1956, and having its registered office at 10-Ashok Marg, Lucknow, India.” (Hereinafter referred to 
+as “the Purchaser”) which expression shall unless repugnant to the context or meaning thereof 
+include its successors, legal representatives and permitted assigns) of the ONE PART.  
+ 
+
+AND 
+ 
+
+ ------------------------------------(Name of Supplier Company/firm), a proprietary/ 
+partnership firm / Public/ Private Limited company having its registered office --------------------
+------- of (City & Country of Supplier) (Hereinafter called “the Supplier” which expression shall 
+unless repugnant to the context or meaning thereof include its successors, legal representatives and 
+permitted assigns) on the OTHER PART. 
+ 
+2 WHEREAS the Purchaser is desirous to purchase certain Servers, their delivery, installation 
+and onsite maintenance warranty services and has accepted a bid tendered by the Supplier for the 
+supply of these goods and services in the sum of Rs  ………… (contract price in words and figures) 
+(hereinafter called the "Contract Price"). 
+ 
+NOW THIS AGREEMENT WITNESSETH AS FOLLOWS: 
+ 
+
+(1.) In this Agreement words and expressions shall have the same meanings as are respectively 
+assigned to them in the Conditions of Contract referred to in the Tender Document of UPLC 
+Tender No ……………………. 
+
+ 
+
+(2.) The following documents shall be deemed  to  form  and  be  read  and  construed  as  part  of  
+this Agreement, viz.:  
+
+ 
+(a) the e-Bid Form and approved rates;  
+(b) the Schedule of Requirements;  
+(c) the Technical Specifications;  
+(d) the Conditions of Contract; and  
+ 
+
+ 
+
+(3.) In consideration of the payment to be made by the Purchaser to the Supplier as hereinafter 
+mentioned, the Supplier hereby covenants with the Purchaser to provide the goods and 
+services and to remedy defects therein in conformity in all respects with the provisions of 
+the Contract.  
+
+ 
+
+(4.) The Purchaser hereby covenants to pay the Supplier in consideration of the provision of the 
+goods and services and the remedying of defects therein, the value of ordered items on the 
+Contract   rates or such other sum as may become payable under the provisions of the Contract 
+at the times and in the manner prescribed by the Contract.  
+
+ 
+DELIVERY & INSTALLATION SCHEDULE :  
+ 
+
+3 All the items shall be delivered and installation within 4 to 8 from the  date  of  issue  of  the  
+purchase  order  and  installed  within  one  month  thereafter or as specified in the respective 
+Purchase Order.  The pre dispatch inspection of the items shall be done by the Purchaser before 
+delivery at final destination.  The Delivery and Installation Reports of the supplied material shall be 
+required to be furnished to the purchaser for release of payment. 
+ 
+ 
+ 
+
+
+
+ 
+
+ 
+
+ 
+ARBITRATION 
+ 
+4 In case of any dispute/difference between the parties in relation to this Agreement, the 
+matter shall be referred for Arbitration to the person nominated by MD UPLC, who will be the Sole 
+Arbitrator to decide the dispute/difference between the parties.   The decision of Arbitrator shall be 
+final and binding on both the parties.   The Courts will have exclusive Jurisdiction at Lucknow. 
+ 
+5 In WITNESS whereof the parties hereto caused this Agreement to be executed in 
+accordance with their respective laws and signed on their respective behalf by their duly authorized 
+officials at the place and on the date first herein above-written.  
+ 
+On behalf of Purchaser                              On behalf of Supplier 
+ 
+1-        ------------------------------                              1.   ------------------------------------ 
+(Name of Authorised person, designation)      (Name of Authorized person, designation) Signed, 
+sealed and delivered by the said)           Signed, sealed and delivered by the said) 
+ ----------------------------                                                 ------------------------ 
+ ----------------------------                                                 ------------------------ 
+ ----------------------------                                                 ------------------------ 
+2. ----------------------------                          2.          ------------------------- 
+ 
+ ----------------------------                                                 ------------------------ 
+ ----------------------------                                                 ------------------------ 
+ ----------------------------                                                 ------------------------ 
+ 
+
+in the presence of 
+ 
+
+1.   ---------------------------   1. ----------------------------   
+ ----------------------------           ---------------------------- 
+ ----------------------------           ---------------------------- 
+ ----------------------------              ---------------------------- 
+ 
+
+ 
+ 
+  
+  
+  
+ 
+
+
+
+ 
+
+ 
+
+ 
+ 
+
+SECTION III(F) : PERFORMANCE STATEMENT FORM 
+ 
+Proforma for Performance Statement (for a period of last three financial years)  
+ 
+Name of Company/Firm…………………………………………. 
+ 
+
+Order 
+placed by 
+
+(Full 
+address of 
+Purchaser) 
+
+Order 
+No & 
+Date 
+
+D
+es
+
+cr
+ip
+
+tio
+n 
+
+&
+ 
+
+Q
+ua
+
+nt
+it
+
+y 
+of
+
+ 
+or
+
+de
+re
+
+d 
+i
+
+ 
+
+Value 
+of 
+
+Order 
+( ) 
+
+Date of 
+Completion of 
+
+Delivery 
+
+Remarks 
+indicating 
+
+reasons 
+for late 
+
+delivery, 
+if any 
+
+Has the 
+ordered 
+
+equipment 
+been 
+
+satisfactorily 
+installed & 
+function-in? 
+
+As per 
+Contract 
+
+Actual 
+
+1 2 3 4 5 6 7 8 
+        
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+Signature and Seal of the E-Bidder 
+With name of the authorized person  
+
+ 
+ 
+
+
+
+ 
+
+ 
+
+SECTION III(G) : SERVICE SUPPORT DETAILS 
+ 
+ 
+
+Sl 
+No 
+
+Name & 
+Complete 
+address of 
+
+Service 
+Centre 
+
+(Only e-
+Bidders 
+service 
+centre) 
+
+Service Centre Details 
+
+Types of 
+Servers and 
+
+related 
+serviced in 
+last 3 years 
+
+Name of 
+Head 
+
+Person & 
+Contact 
+Number 
+
+Phone/ 
+Fax No/ 
+E-mail 
+address 
+
+Status of 
+office 
+
+working 
+days & 
+Hours 
+
+No of 
+HW 
+
+Engineers 
+
+No of 
+SW 
+
+Engineers 
+
+No of 
+HW 
+Staff 
+
+Value of 
+Min. 
+Stock 
+
+Available 
+at all 
+times 
+
+1 2 3 4 5 6 7 8 9 10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+         
+
+Note: The copies of Purchase deed of office building or Agreement of tenancy with receipt 
+of rent paid and transfer & posting orders of engineers or any proof of placement of service 
+engineer to the satisfaction of the Purchaser, should be enclosed as documentary evidence of 
+service centre. 
+
+ 
+ 
+
+ 
+Signature and Seal of the bidder…………………………………………………. 
+With name of Authorized person  
+Signing the document. 
+
+
+
+ 
+
+ 
+
+ 
+SECTION III (H) : CAPABILITY STATEMENT (CS) 
+
+ 
+ 
+
+1. (a) Name and complete mailing address of the business/sales office of the bidder. 
+ 
+
+ ---------------------------------------------------------------- 
+ ---------------------------------------------------------------- 
+ ---------------------------------------------------------------- 
+ 
+
+ (b) Name of Authorized Official 
+ 
+
+(c) Phone: 
+ 
+
+ (d) Fax: 
+ 
+
+ (e) E-mail: 
+ 
+
+ (f) Principal place of business 
+ 
+
+ (g) Website of Bidder’s Firm 
+ 
+
+2. Strength of business/sales office of bidder: 
+ 
+
+(i) No. of Marketing personnel: 
+ 
+
+(ii) No. of Technical personnel: 
+ 
+
+(iv) No. of Service Engineers 
+ 
+
+(v) No. of Supporting personnel: 
+ 
+
+3. Classification                             Manufacturer(OEM)/ or authorized 
+Dealer/Agent/Supplier 
+ 
+
+4. Complete mailing address of manufacturing plant of Servers and related: 
+ ---------------------------------------------------------------- 
+ ---------------------------------------------------------------- 
+ ---------------------------------------------------------------- 
+5. Type of equipment manufactured and supplied by OEM of Servers and related 
+
+during the last 3 financial years:- 
+ 
+
+Year Name of 
+equipment 
+
+Capacity/Size Nos. 
+Manufactured 
+
+No. of Servers 
+and related 
+
+supplied in India 
+     
+
+ 
+ 
+
+ 
+
+6. Type of equipment supplied during the last 3 financial years other than those covered under 
+above : 
+
+ 
+
+Year Name of 
+equipment 
+
+Capacity/Model Name of 
+manufacturer and 
+country of origin 
+
+Total No. of 
+Servers and 
+
+related installed 
+in India 
+
+     
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+ 
+
+7. Turnover of the bidder's company in last three financial years: 
+(Please fill the figures.  Do not quote "As per enclosures") 
+
+   
+ 
+
+Financial year 
+ 
+
+Turn Over 
+`  in crores 
+
+Profit 
+`  in crores 
+
+(after taxation) 
+
+Remarks 
+
+    
+2015-16    
+2016-17    
+2017-18    
+
+ 
+8. Validity date of  ISO Certifications of OEMs/Dealers/Agent/Supplier, if any 
+ 
+9. The e-Bidder should clearly confirm that all the facilities exist in his office/factory 
+
+for inspection and testing of all the Servers and related items quoted in the e-Bid and 
+these will be made available to the Purchaser or his representative for inspection. 
+Also provide details of methodology, testing equipment & diagnostic tools available 
+for testing of all the technical specifications of the offered items and their proper 
+functioning. 
+------------------------------------------------------------------------------------------- 
+------------------------------------------------------------------------------------------- 
+ 
+
+10. Details of Manpower available at the factory/ plant: 
+ 1. Quality assurance 
+
+ 2. Production 
+
+ 3. Marketing 
+
+ 4. Service 
+
+ 5. Spare Parts 
+
+ 6. Administrative 
+
+11. Names of three buyers to whom similar equipments were supplied in the last three 
+financial years and to whom reference may be made by the Purchaser regarding the 
+bidder's performance for timely completion of delivery, installation and after sales 
+service support: 
+
+ 
+A. (i) Complete address of the buyer:                                                                  
+                           ………………………………………………. 
+ (ii) Name & designation of contact person                                                            
+                           ………………………………………. 
+ (iii) Mobile/Phone/Fax No./E-mail                          
+                           address:……………………………………….. 
+B. Complete address of the buyer:                                                           
+                      ………………………………………………. 
+ (ii) Name & designation of contact person                       
+                      ………………………………………. 
+ (iii)    Mobile/Phone/Fax No./E-mail 
+                      address:……………………………………….. 
+ 
+ 
+
+C. Complete address of the buyer:                                                           
+
+
+
+ 
+
+ 
+
+                      ………………………………………………. 
+ (ii) Name & designation of contact person                       
+                      ………………………………………. 
+ (iii) Mobile/Phone/Fax No./E-mail 
+                      address:……………………………………….. 
+12. (a) Whether the e-Bidder has a manufacturing unit in the state of Uttar Pradesh 
+
+(Yes/No) 
+ 
+
+(b) If yes, the manufacturing unit falls into which type of industry unit 
+(Small/Medium/Large Scale) as per govt. norms. 
+ 
+(c) If yes, name of items alongwith item code of e-tendered items which have been 
+  manufactured by your firm and quoted in this e-tender. 
+
+ 
+13. Details of Service Centers of the e-Bidder in Uttar Pradesh only: 
+
+Sl. 
+No. 
+
+Address of Service Centre Name and 
+Contact No of 
+
+Service 
+Engineer 
+
+Details of supporting 
+documents submitted for 
+proof of Service Centre 
+
+1    
+
+2    
+
+3    
+
+4    
+
+5    
+
+ 
+ 
+ 
+  Seal and signature of the bidder__________________________ 
+
+with Name of Authorized 
+Official signing the agreement. 
+
+ 
+ 
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+SECTION III (I) : PERFORMANCE SECURITY FORM 
+Ref: 
+Date:  
+Bank Guarantee No: 
+
+ 
+To :   U.P. Electronics Corporation Ltd 
+          10, Ashok Marg, 
+          Lucknow 226001  
+
+ 
+WHEREAS ………………………………………(Name & address of Supplier) hereinafter called  
+“the Supplier” having been placed the Purchase Order No ……………dated ………… by U.P. 
+Electronics Corporation Limited, 10-Ashok Marg, Lucknow (hereinafter called "the customer") for 
+the supply of  (Description of Goods and Services) and having been made full payment against the 
+same to the Supplier, we ………………………… (Name & address of branch office as well as 
+Head Office of the Bank) (hereinafter referred to as "the Bank) do hereby affirm that we are 
+Guarantors and responsible on behalf of the Supplier and undertake as under:- 
+ 
+
+i. To indemnify and keep indemnified the customer to the sum of Rs ………………/- (Rupees 
+……………………) only for the losses and damages that may be caused to or suffered by 
+the customer in the event of continuous and consistent non-performance of the (Equipment 
+and materials to be mentioned exactly as mentioned in the Purchase Order/Work Order) 
+supplied by the supplier against above referred Purchase Order issued by the customer. 
+
+ 
+ii. The guarantee herein contained shall remain in full force and effect till the expiry of 
+
+warranty period i.e. up to ……………………….. for the material supplied by the supplier. 
+ 
+iii. The Guarantee shall not in any way be affected by the change in the constitution of the 
+
+supplier or us nor shall be affected by the change in the constitution, amalgamation, 
+absorption or reconstruction of the customer or otherwise, but shall ensure for and be 
+available to and enforceable by the absorbing, amalgamation or reconstructed company of 
+the Customer. 
+
+ 
+Notwithstanding anything contained hereinbefore: 
+ 
+
+1. Our liability under this Bank Guarantee shall not exceed Rs ………………/- (Rupees 
+……………………) 
+
+ 
+2. This Bank Guarantee shall be valid up to ……………….. 
+
+ 
+3. We are liable to pay the guaranteed amount or any part thereof under this Bank Guarantee 
+
+only, and only if you serve upon us a written claim or demand on or before 
+…………………. upon your first written demand declaring the Supplier to be in default 
+under the Contract and without cavil or argument any sums within the limit of -----------------
+- only   as aforesaid, without your needing to prove or to show grounds or reasons for your 
+reasons for your demand or the sum specified therein.  
+
+ 
+
+Signature and Seal of Guarantors Bank  
+
+………………………………. 
+………………………………. 
+Date………………… 2018 
+
+  
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+SECTION IV :   FINANCIAL e-Bid 
+
+ 
+
+IV (A)  e-Bid FORM 
+
+IV (B)  PRICE SCHEDULE  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+ 
+
+ 
+ 
+
+SECTION IV (A) : e-Bid FORM 
+
+ Date : …..……………… 
+IFB No. ………………… 
+
+ 
+TO : (Name and address of Purchaser) 
+ 
+
+Dear Sir :  
+Having   examined the e-Bid Documents, we, the undersigned, offer to supply and deliver  
+……………………  (Description of Goods and Services) inconformity with the said e-Bid 
+Documents for the rates as may be ascertained in accordance with the Schedule of rates 
+attached herewith and made part of this e-Bid, and hereby undertake that we accept all terms 
+and the conditions of the contract (section II) of the e-Bid Document and will supply the 
+Servers items as per the Technical Specifications (Section III(C)) of the e-Bid documents. 
+We further undertake that we fulfill the qualification requirement (Section III(D))and for this 
+purpose we enclose the details. In addition to this, the particulars of our organization such as 
+legal status, principal place of business, details  of  experience and  past performance, 
+service  support details, capability statement and the required e-Bid security in the  form of 
+Online through e-Tender portal, pledged in favour of U.P. Electronics Corporation Ltd., 
+Lucknow are furnished with this e-Bid form.  
+We further undertake, if our e-Bid is accepted, for supply, installation and comprehensive 
+maintenance of equipment, to deliver the goods in accordance with the delivery schedule 
+specified in the Schedule of Requirements (section III (B)).  
+If our e-Bid is accepted, we will obtain the performance guarantee of a bank in the form 
+prescribed by the Purchaser for a sum equivalent to 10% of the Contract Price.  
+We agree to abide by this e-Bid for the e-Bid validity period specified in Clause 13.1 of the 
+ITB and it shall remain binding upon us and may be accepted at any time before the 
+expiration of that period.  
+Until a formal contract is prepared and executed, this e-Bid, together with your written 
+acceptance thereof and your notification of award, shall constitute a binding Contract between 
+us.  
+We undertake that, in competing for (and, if the award is made to us, in executing) the above 
+contract, we will strictly observe the laws against fraud and corruption in force in India 
+namely “Prevention of Corruption Act 1998”.  
+ 
+
+We understand that you are not bound to accept the lowest or any e-Bid you may receive.  
+ 
+
+Dated this ……….. day of   …………… 20…..  
+
+ 
+
+            ---------------------                                         ------------------------------------ 
+
+(Signature & Name of Official)                            (in the capacity of)  
+
+Duly authorized to sign e-Bid for and on behalf of 
+ 
+ 
+ 
+
+
+
+ 
+
+ 
+
+SECTION IV (B): PRICE SCHEDULE  
+Note: Evaluation for bids shall be done on total bid price (Excluding GST). 
+
+ 
+S.No. Item Description Qty Unit Price Amount 
+
+(C*D) 
+
+GST 
+
+Value 
+
+(on E) 
+
+Total Price 
+
+(E+F) 
+
+A B C D E F G 
+
+1 1P Pedestal Server for 
+District and Taluk Court 
+Complexes 
+(Specifications as per 
+Section (III) C 
+
+11     
+
+2 2P Rack Server for High 
+Courts & Benches and 
+District and Taluk Court 
+Complexes 
+(Specifications as per 
+Section (III) C 
+
+165     
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+ 
+
+ 
+BIDDER MUST ENTER PAGE NUMBER 
+
+ 
+SN Qualifying Criteria Document’s Required Page 
+
+Number 
+1 The Bidder should shall be registered in India 
+
+ 
+The Bidder has been in commercial operations in 
+the last 05 financial years in India. 
+
+Certificate of Incorporation / MSME / VAT & 
+GST Registration  
+Bidder should submit copy of at least one 
+purchase order (Server) of each year in last five 
+years with completion certificate or Undertaking 
+of Completion on bidder's letterhead. 
+
+ 
+
+2 Bidder should submit proof for supply and 
+installation of at least 500 Desktop / laptop 
+Computers/ Workstation/ Servers to any State or 
+Central Government Dept / PSU Organizations / 
+Banking Sector in last three financial years. 
+
+Copies of purchase orders and its satisfactory 
+installation report/ Undertaking by the bidder 
+mentioning Client Detail. 
+
+ 
+
+3 As on date of submission of the proposal, the 
+Bidder is neither blacklisted by Central 
+Government / State Government or 
+instrumentalities thereof nor any criminal case 
+against the Bidder / Its Partners / Directors / 
+Agents pending before any court of Law. 
+
+Notarized Affidavit of neither blacklisted by 
+Central Government / State Government or 
+instrumentalities thereof nor any criminal case 
+against the Bidder / Its Partners / Directors / 
+Agents pending before any court of Law.  
+
+ 
+
+4 Authorization from the "OEM" (Should be 
+member of MAIT) 
+
+Authorization Certificate along with MAIT 
+Certificate from the "OEM" for the RFP (not in 
+eMail) 
+
+ 
+
+5 Bidder should submit the Power of Attorney for 
+Authorization to sign Bidder's e-Bid Documents/ 
+Contract by competent Authority. 
+
+Power of Attorney / Relevant documents.(which 
+states authorisation to sign the Bid) 
+
+ 
+
+6 Bidder should submit the Acceptance of Terms & 
+Conditions of e-Bid Tender Document by the 
+Bidder on "BID FORM"  (SECTION III A) 
+
+Form, duly signed by the authorized signatory.  
+
+7 Bidder should submit the "Schedule of 
+Requirements" of e Tender Document duly 
+signed by Bidder and given. (SECTION III B) 
+
+Form, duly signed by the authorized signatory.  
+
+8 Bidder should submit the compliance sheet of 
+"Technical Specification" of all the Items given in 
+Bid. (SECTION III C) 
+
+The Bidder should submit the Form, which should 
+be duly signed by the authorized signatory. 
+Technical compliance should be submitted on 
+OEM’s/Bidder letterhead. 
+
+ 
+
+9 Bidder should submit the "Technical e-Bid" - Bid 
+Security Form (SECTION III D) 
+
+Form duly signed by the authorized signatory.  
+
+10 Bidder should submit the "Technical e-Bid" - 
+SECTION III(E) : CONTRACT FORM 
+ 
+
+Form duly signed by the authorized signatory.  
+
+11 Bidder should submit the "Technical e-Bid"  – 
+Performance Statement. (SECTION III F) 
+
+Form duly signed by the authorized signatory.  
+
+12 Bidder should submit the "Technical e-Bid"  – 
+Service Support Details (SECTION III G) 
+
+Form duly signed by the authorized signatory.  
+
+13 Bidder should submit the "Technical e-Bid"  – 
+Capability Statement (SECTION III H) 
+
+Form duly signed by the authorized signatory.  
+
+14 Bidder should submit the "Technical e-Bid"  – 
+Performance Security Form (SECTION III I) 
+
+Form duly signed by the authorized signatory.  
+
+15 Bidder should submit the PAN No.  Copy of PAN Card of Bidder 
+ 
+
+ 
+
+16 Bidder should submit the GST No.  
+ 
+
+Copy of GST Certificated  
+
+17 Bidder should have average annual turn-over of 
+Rs 22 crores in last three financial years.   
+2015- 16 
+2016- 17 
+2017- 18 
+
+Copy of Balance Sheet and Profit & Loss 
+Statement signed by Chartered Accountant. 
+Statutory Auditor Certificate or Certificate from 
+the Company Secretary of the Bidder/ Chartered 
+Accountant clearly specifying the turnover for the 
+specified years. 
+
+ 
+
+18 The Bidder should submit the list of minimum 50 
+Service Engineers in UP State, with Contact 
+
+Letter from the Companies HR Head/ Company 
+Secretary stating the number of Service 
+
+ 
+
+
+
+ 
+
+ 
+
+SN Qualifying Criteria Document’s Required Page 
+Number 
+
+details like Phone /Mobile no. and email Engineers. Must have company authorised service 
+centre in capital city/High Court Place along with 
+dedicated service support engineer with telephone, 
+email, FAX etc facility. 
+The Detail can be submitted at the Time of Award 
+of Contract.  
+
+19 Bidder should submit the Cost of e-Bid 
+document.   
+
+Copy of Tender Fee inform of DD/ Bank 
+Guarantee / Banker Cheques should be uploaded 
+with technical bid or by ONLINE Payment. 
+Original copy can be submitted at the time Bid 
+Opening. 
+
+ 
+
+20 Bidder should submit the e-Bid security (EMD).   Copy of e-Bid security (EMD) inform of DD/ 
+Bank Guarantee / Banker Cheques should be 
+uploaded with technical bid or by ONLINE 
+Payment. Original copy can be submitted at the 
+time Bid Opening. 
+
+ 
+
+21 The Bidder should mention the make & OEM of 
+the Servers and its peripherals (Brand) in 
+compliance sheet. Quoted servers either Rack or 
+Tower should be from the same OEM. 
+
+Duly signed Compliance sheet from OEM / 
+Bidder 
+
+ 
+
+22 The Bidder or its OEM must hold a valid ISO 
+9001:2008 (or better) Certification 
+
+Copies of the certificate to be provided along with 
+self-attestation by the authorized signatory with 
+company seal. 
+
+ 
+
+23 05 years onsite comprehensive warranty on 
+Servers 
+
+05 years warranty certificate from OEM on 
+OEM's Letter Head 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+
+	Index
+	U.P. Electronics Corporation Limited
+	(U.P. Government Undertaking)
+
+	e-Tender Notice
+	INVITATION FOR e-Bids
+	SECTION I : INSTRUCTIONS TO BIDDERS (ITB)
+	(A) THE BID DOCUMENT
+	Cost of e-Bid
+	Contents of e-Bid Document
+	Clarification of e-Bid Document
+	Amendment of e-Bid Document
+	(B) PREPARATION OF e-Bid
+
+	Language of e-Bid
+	Documents Constituting the e-Bid
+	e-Bid Form
+	e-Bid Price
+	e-Bid Currencies
+	Documents Establishing bidder’s Qualification
+	Documents Establishing Goods’ Conformity to e-Bid Documents
+	e-Bid Security/Earnest Money Deposit (EMD)
+	Period of Validity of e-Bid
+	Format and Signing of e-Bid
+	. Submission of e-Bid
+	Deadline for Submission of e-Bid
+	Late e-Bid
+	Withdrawal and Resubmission of e-Bid
+	(C)  e-Bid OPENING AND EVALUATION OF e-Bid
+
+	Opening of Bids
+	Opening of Technical e-Bid by the Purchaser
+	Opening of Financial e-Bid
+	Clarification of e-Bid
+	Evaluation of technical e-Bid and Evaluation Criteria
+	22 Financial Evaluation and Comparison
+	23  Contacting the Purchaser
+	(D) AWARD OF CONTRACT
+
+	24 Award Criteria
+	25 Purchaser’s right to vary Quantities at the Time of Award
+	26 Purchaser’s right to accept any e-Bid and to reject any or all e-Bids
+	27  Notification of Award
+	28 Signing of Contract
+	29  Performance Security
+
+
+	Section-II
+	Qualifying Criteria
+
+	Section-III
+	Conditions of Contract
+	Definitions
+	Application
+	Standards
+	Patent Rights
+	Performance Security
+	Inspection & Tests
+	Packing
+	Delivery and Documentation
+	Insurance
+	Transportation
+	Incidental Services
+	Spare Parts
+	Warranty
+	Payment
+	Prices
+	Change Orders
+	Contract Amendments
+	Assignment
+	Delivery of the Goods and Delay in the Supplier’s Performance
+	Liquidated Damages
+	Termination for Default
+	Force Majeure
+	Termination for Insolvency
+	Termination for Convenience
+	Settlement of Disputes
+	Limitation of Liability
+	Governing Language
+	Applicable Law
+	Notices
+	Taxes and Duties
+	Right to use defective equipment
+	Supplier Integrity
+	Supplier’s Obligations
+	Patent Right
+	Site Preparation and Installation
+	Hardware and Software Installation
+	Hardware and software Maintenance
+	Technical Documentation
+	Transfer of the Rights of the Purchaser
+
+
+	SECTION IV : TECHNICAL E-BID
+	SECTION III (A) : e-Bid FORM
+	SECTION III (B) : SCHEDULE OF REQUIREMENTS
+	SECTION III (C) TECHNICAL SPECIFICATIONS
+	SECTION III(D) : BID SECURITY FORM
+	SECTION III(E) : CONTRACT FORM
+	SECTION III(F) : PERFORMANCE STATEMENT FORM
+	SECTION III(G) : SERVICE SUPPORT DETAILS
+	SECTION III (H) : CAPABILITY STATEMENT (CS)
+	SECTION III (I) : PERFORMANCE SECURITY FORM
+
+	SECTION IV :   FINANCIAL e-Bid
+	SECTION IV (A) : e-Bid FORM
+	SECTION IV (B): PRICE SCHEDULE
+
+

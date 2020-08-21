@@ -1,0 +1,543 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/706266
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 25-07-2020 18:00:00
+
+Bid Opening Date/Time 25-07-2020 18:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 65 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence Reseach & Development
+
+Organisation Name Office Of Dg (ls)
+
+Office Name ***********
+
+Total Quantity 1
+
+Item Category thermal imager
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 2.00
+
+EMD Amount 15000
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 5.00
+
+Duration of ePBG required (Months). 14
+
+                               1 / 6
+
+
+
+ 
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+Director
+Post Bag No2, Tezpur - 784001, Assam, Department of Defence Reseach & Development, Office of
+DG (LS), Ministry of Defence
+(Defence Research Laboratory)
+
+Splitting
+
+ Bid splitting not applied.
+
+Thermal Imager ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+LENS MEASUREMENTS
+FEATURES
+
+Horizontal Field of View
+of Standard lens
+(degree)
+
+20-25 *
+
+Vertical Field of View of
+Standard lens
+
+14-20 *
+
+Horizental Field of
+View of Telephoto
+lens
+
+20-25 20-25
+
+Vertical Field of
+View of Telephoto
+lens
+
+15-21 15-21
+
+IFOV of Standard lens
+(mRad)
+
+2.1 *
+
+IFOV of Telephoto
+Lens (mRad)
+
+1 1
+
+IFOV of (Spatial
+resolution) (mRad)
+
+1.31 *
+
+PERFORMANCE
+FEATURES
+
+Type Hand held *
+
+Detector Resolution
+(minimum) (pixel)
+
+100000 100000
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/zO2S0CwjuGDLid7gjcvoFiYoDrH4M9jqBWSUQDUUzS8
+
+
+ 
+
+Temperature Range
+of Objects (Degree
+Celsius)
+
+-20 to + 1200 -20 to + 1200
+
+Temperature
+measuring accuracy
+of reading (or
+better)
+
+± 2% oC ± 2% oC
+
+Minimum Focus
+distance
+
+20 20.0
+
+Image capture
+frequency/ frame rate
+(Hz)
+
+N ≥ 9 *
+
+Image Detector Type Focal Plane Array (FPA)
+Uncooled Micro
+bolometer (for fever
+measurment & animal
+husbandry thermal
+imager)
+
+*
+
+Thermal sensitivity
+(NETD)
+
+0.05 0.05
+
+User selectable
+Emissivity
+setting/correction
+
+Between 0.01 and 1 *
+
+Infrared spectral band
+(micrometer)
+
+Between 8 and 14 *
+
+Image Palettes 6 *
+
+DISPLAY Display Type Color LCD Color LCD
+
+Display size 4 4.0
+
+GENERAL FEATURES Image capture, review
+and save mechanism
+
+One handed image
+capture, review and
+save capability
+
+*
+
+Storage medium SD Memory card *
+
+Size of USB stick 8 *
+
+File formats JPEG *
+
+Built-in digital
+camera/ Visual
+Camera Resolution
+(Mpixel)
+
+N ≥ 0.5 N ≥ 0.5, N ≥ 1
+
+Details of Operating
+functions
+
+- *
+
+Facility for the
+adjustment/ selection
+of the time/date etc
+
+yes *
+
+Interface for image
+transfer
+
+SD Memory card *
+
+Focus Manual & Auto *
+
+                               3 / 6
+
+
+
+ 
+
+other features - *
+
+OPERATING CONDITION Minimum Operating
+Temperature
+
+-10 *
+
+Maximum Operating
+Temperature
+
+50 *
+
+Operating Humidity
+(RH)
+
+95 *
+
+POWER REQUIREMENT Power Requirements Battery Operated *
+
+chemistry of the
+battery
+
+lithium ion *
+
+Voltage of
+rechargeable Battery
+
+3.6 *
+
+Capacity of
+rechargeable battery
+(milliAH)
+
+5700 *
+
+Suitable
+charger/adapter
+provided
+
+yes *
+
+Battery Backup 3 *
+
+Power Management Automatic shut down
+/User Selectable
+
+*
+
+On-screen battery level
+indicator
+
+yes *
+
+CERTIFICATION &
+SAFETY
+
+IP Protection IP54 *
+
+Safety certification UL *
+
+GENERIC Size/ dimension - *
+
+Weight (including
+batteries)
+
+1 *
+
+Automatic active
+temperature
+stabilization system of
+camera
+
+yes *
+
+Provision for through-
+the-lens direct
+temperature
+measurement
+capability
+
+yes *
+
+TEST REPORT DETAILS
+& TESTS
+
+The equipment
+supplied with
+calibration certificate
+
+yes *
+
+conformity to Dry Heat
+for 16 hrs at a
+maximum temp in
+accordance with IS:900
+0/part-3/section-5/1977
+latest
+
+No *
+
+                               4 / 6
+
+
+
+ 
+
+conformity to Cold Test
+for 4 hrs at a minimum
+temp in accordance
+with IS:9000/part-2/sec
+tion-4/1977 latest
+
+No *
+
+conformity to Damp
+Heat (Cyclic)Test for 2
+Cycles of 24 h each at
+a temp of 40 degree C
+& 95% RH
+
+No *
+
+Availability of the test
+report from Central
+Govt/ NABL/ ILAC
+accredited lab to prove
+conformity to the
+specification
+
+No *
+
+Test Report Number
+and date for the
+specification test (not a
+part of biddable
+parameter)
+
+- *
+
+Name and address of
+the Lab for the
+specification test (not a
+part of biddable
+parameter)
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********SONITPUR 1  45
+
+Bid Specific Additional Terms and Conditions
+
+1.End User Certificate: Wherever Bidders are insisting for End User Certificate from the
+Buyer, same shall be provided in Buyer’s standard format only.
+
+2.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+3.The buyer organization is an institution eligible for concessional rates of GST as notified by
+the Government of India. The goods for which bids have been invited fall under classification
+of GST concession and the conditions for eligibility of concession are met by the institution.
+
+                               5 / 6
+
+
+
+ 
+
+A certificate to this effect will be issued by Buyer to the Seller after award of the Contract.
+Sellers are requested to submit their bids after accounting for the Concessional rate of GST.
+Applicable Concessional rate of GST : 5%
+Notification No.and date : 47/2017 dated 14/11/2017
+
+4.The successful bidder has to supply all essential accessories required for the successful
+installation and commissioning of the goods supplied. Besides standard accessories as per
+normal industry practice, following accessories must be part of supply and cost should be
+included in bid price: Yes.
+
+5.Bidders can also submit the EMD with Fixed Deposit Receipt made out or pledged in the
+name of Director, DRL, Tezpur A/C (Name of the Seller). The bank should certify on it that
+the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For
+release of EMD, the FDR will be released in favour of bidder by the Buyer after making
+endorsement on the back of the FDR duly signed and stamped along with covering letter.
+Bidder has to upload scanned copy / proof of the FDR along with bid and has to ensure
+delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date.
+
+6.Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt
+also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in
+the name of Director, DRL, Tezpur A/C (Name of the Seller). The bank should certify on it
+that the deposit can be withdrawn only on the demand or with the sanction of the pledgee.
+For release of Security Deposit, the FDR will be released in favour of bidder by the Buyer
+after making endorsement on the back of the FDR duly signed and stamped along with
+covering letter. Successful Bidder has to upload scanned copy of the FDR document in place
+of PBG and has to ensure delivery of hard copy of Original FDR to the Buyer within 15 days
+of award of contract.
+
+7.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+8.Material Test Certificate Should Be Sent Along with The Supply. The Material Will Be Checked
+by Buyer’s Lab & the Results of the Lab will be the Sole Criteria for Acceptance of the Item.
+
+9.The bidder is required to upload, along with the bid, all relevant certificates such as BIS
+licence, type test certificate, approval certificates and other certificates as prescribed in the
+Product Specification given in the bid document.
+
+10.Warranty period of the supplied products shall be 1 years from the date of final acceptance
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

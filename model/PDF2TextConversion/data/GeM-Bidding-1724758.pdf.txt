@@ -1,0 +1,4513 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/654004
+
+  Dated: 29-05-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 08-06-2020 16:00:00
+
+Bid Opening Date/Time 2020-06-08 16:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 70 (Days)
+
+Ministry/State Name Ministry Of Electronics And Information Technology
+
+Department Name Na
+
+Organisation Name National Informatics Centre (nic)
+
+Office Name National Informatics Centre-head Quaters
+
+Total Quantity 1
+
+Item Category Enterprise Management System Software
+
+Bidder Turnover (Last 3 Years)  673 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  5300 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years Of Experience and
+Turnover
+
+ Yes
+
+Startup Exemption for Years Of Experience
+and Turnover
+
+ Yes
+
+Document required from seller  Experience Criteria,Bidder Turnover,OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  Yes
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 2.00
+
+EMD Amount 2693475
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 5.00
+
+                             1 / 37
+
+
+
+ 
+
+Duration of ePBG required (Months). 62
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+S.O.
+National Informatics Centre-head Quaters, NA, National Informatics Centre (NIC), Ministry of
+Electronics and Information Technology
+(P.r.dabral)
+
+Splitting
+
+ Bid splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+
+Enterprise Management System Software ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+BASIC INFORMATION Category Enterprise
+Management System
+Software
+
+Enterprise
+Management System
+Software
+
+Components/ 1. Server Management 1. Server Management
+
+                             2 / 37
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/WSCIaTA3OcfwZHq6XjMpXprtSC4nie9d7I2QdtsmPHQ
+
+
+ 
+
+Modules of Offered
+product :
+
+System,2. Network
+Management System,3.
+Helpdesk Managememt
+System,4. IT Asset
+Inventory Management
+System
+
+System, 2. Network
+Management System,
+3. Helpdesk
+Managememt System,
+4. IT Asset Inventory
+Management System
+
+Componets /Modules
+of Server
+Management System
+
+1. Server Fault,
+Availability and
+Performance
+Management System,2.
+Server Automation
+Capability,3. Database
+Management System,4.
+Storage Management
+
+1. Server Fault,
+Availability and
+Performance
+Management System,
+2. Server Automation
+Capability, 3. Database
+Management System,
+4. Storage
+Management
+
+Componets /Modules
+of Network
+Management System
+
+1.Network Fault,
+Availability and
+Performance
+Management System,2.
+Network Automation
+and configuration
+Management System,3.
+Network traffic Analysis
+System,4.Mutliprotocol
+Label Switching Service
+(MPLS) Monitoring,5.
+Network Reporting &
+Analysis
+
+1.Network Fault,
+Availability and
+Performance
+Management System,
+2. Network Automation
+and configuration
+Management System,
+3. Network traffic
+Analysis System,
+4.Mutliprotocol Label
+Switching Service
+(MPLS) Monitoring, 5.
+Network Reporting &
+Analysis
+
+Componets /Modules
+of Helpdesk
+Managememt
+System
+
+1. Helpdesk
+Management
+System,2.SLA
+Management and
+Penalty Estimation
+
+1. Helpdesk
+Management System,
+2.SLA Management and
+Penalty Estimation
+
+Componets /Modules
+of IT Asset Inventory
+Management System
+
+1.IT Asset Auto-
+Discovery and
+Inventory
+Management,2.
+Configuration
+Management database
+(CMDB)
+
+1.IT Asset Auto-
+Discovery and
+Inventory Management,
+2. Configuration
+Management database
+(CMDB)
+
+Number of
+concurrent user
+supported by the
+offered product
+(Hint:- User can be
+Admin or Operator)
+
+1000 1000.0 - 1000.0 Or
+higher
+
+Maximum number of
+user creation
+supported by the
+offered product
+
+2000 2000.0 - 2000.0 Or
+higher
+
+MODE OF
+DEPLOYMENT
+
+1.Onsite,2.Offsite 1.Onsite, 2.Offsite
+
+                             3 / 37
+
+
+
+ 
+
+Deployment
+platform supported
+by the offered
+product
+
+1. Physical Server,2.
+Virtual Server,,3.
+Cloud,,4.Container
+Based,
+
+1. Physical Server, 2.
+Virtual Server,, 3.
+Cloud,, 4.Container
+Based,
+
+Name of Software - *
+
+OEM Model / Part No - *
+
+Software Description,
+Functionality/ Features
+
+- *
+
+Software Version &
+Date of Launch
+
+- *
+
+Installation and
+Demonstration
+
+Yes Yes
+
+The offered product
+have support from
+OEM for
+
+1. Updation for Patches
+and Bug fixes within
+supoort period.,2.
+Upgradation of version
+within support period .
+
+1. Updation for Patches
+and Bug fixes within
+supoort period., 2.
+Upgradation of version
+within support period .
+
+Number of Years
+upto which support
+is available from
+OEM for Updation
+(Patches and Bug
+fixes) within support
+period
+
+5 5
+
+Number of Years
+upto which support
+is available from
+OEM for Upgradation
+of version within
+support period
+
+5 5
+
+No of days Training
+Provided On/Off Site
+
+upto 5 upto 5
+
+SCOPE OF LICENCE Number of devices
+supported per
+licence (Hint :-
+Device is an entity
+which is monitored
+and manged by EMS
+EX Router, Switch,Se
+rver,VM,Firewall, IOT
+devices etc )
+
+10 10.0 - 25000.0 Or
+higher
+
+Types of Licence 1.Perpetual 1.Perpetual
+
+Duration of
+subscription (in
+years) (Hint: - Select
+'0' if not applicable)
+
+0 0.0 - 5.0 Or higher
+
+Server Fault,
+Availability and
+Performance
+Management System
+
+Operating Systems
+supported by the
+EMS
+
+1. Windows,5. Linux,6.
+Centos
+
+1. Windows, 5. Linux, 6.
+Centos
+
+                             4 / 37
+
+
+
+ 
+
+Capability to monitor
+end to end
+performance of
+Server Operating
+Systems &
+Databases and
+capable to manage
+distributed,
+heterogeneous
+systems from
+
+1. Single Management
+Station
+
+1. Single Management
+Station
+
+Server Fault and
+Availability
+Management System
+Features
+
+1. Capable to take
+backup of the threshold
+policies, based on the
+groups of devices or on
+any single individual
+device,2. Capable to
+trend management
+supported monitored
+parameters .,3. EMS to
+be pre-integrated for
+both Fault and
+Performance
+Management to receive
+alarm from various
+events sources to
+monitor Fault and
+Performance in a
+unified common format
+to provide a user
+friendly graphical user
+interface for alarm
+analysis and acknowled
+gement.,4.Capable to
+supports event co-
+relation where the
+correlation logic can be
+configured by
+operation team.,5
+Capable to filter out
+events for device /
+infrastructure marked
+under maintenance and
+also have GUI to define
+maintenance
+schedule,6. Capable to
+captures all the events
+that are generated
+across multi-vendor
+infrastructure and
+correlates them to take
+corrective measures
+based on service
+dependencies & event
+handler.,7. Monitor
+both standalone and
+blade Infrastructure
+and its
+
+1. Capable to take
+backup of the threshold
+policies, based on the
+groups of devices or on
+any single individual
+device, 2. Capable to
+trend management
+supported monitored
+parameters ., 3. EMS to
+be pre-integrated for
+both Fault and
+Performance
+Management to receive
+alarm from various
+events sources to
+monitor Fault and
+Performance in a
+unified common format
+to provide a user
+friendly graphical user
+interface for alarm
+analysis and
+acknowledgement.,
+4.Capable to supports
+event co-relation where
+the correlation logic
+can be configured by
+operation team., 5
+Capable to filter out
+events for device /
+infrastructure marked
+under maintenance and
+also have GUI to define
+maintenance schedule,
+6. Capable to captures
+all the events that are
+generated across multi-
+vendor infrastructure
+and correlates them to
+take corrective
+measures based on
+service dependencies &
+event handler., 7.
+Monitor both
+standalone and blade
+Infrastructure and its
+components, 8.Capable
+
+                             5 / 37
+
+
+
+ 
+
+components,8.Capable
+to reflect on certain
+application level issues
+in the server.,9..
+Capable to provide
+Virtual Environment
+Management and
+provide Error reports
+generated by
+hypervisors.,10.
+System, security and
+audit logs,11. Capable
+to Integrate with
+VMware, Citrix, etc,12.
+Detect the fail-over and
+fall-back in high
+availability
+environment,13.
+Provide a centralized
+point of control with
+out-of-the-box policy-
+based management
+intelligence for easy
+deployment for the
+servers, operating
+systems, applications
+and services for
+correlating and
+managing all the IT
+infrastructure
+components of a
+business
+service.,14.The offered
+product capable to
+perform DNS lookup &
+support Agent-based
+and Agent-less data
+aquisition mentods.,15.
+The Agent to be pre-
+configured with
+common service
+monitoring parameters
+for quick and easy
+deployment. The Agent
+also support SSL based
+communication method
+for polling and data
+aquisition.
+
+to reflect on certain
+application level issues
+in the server., 9..
+Capable to provide
+Virtual Environment
+Management and
+provide Error reports
+generated by
+hypervisors., 10.
+System, security and
+audit logs, 11. Capable
+to Integrate with
+VMware, Citrix, etc, 12.
+Detect the fail-over and
+fall-back in high
+availability
+environment, 13.
+Provide a centralized
+point of control with
+out-of-the-box policy-
+based management
+intelligence for easy
+deployment for the
+servers, operating
+systems, applications
+and services for
+correlating and
+managing all the IT
+infrastructure
+components of a
+business service.,
+14.The offered product
+capable to perform
+DNS lookup & support
+Agent-based and Agent-
+less data aquisition
+mentods., 15. The
+Agent to be pre-
+configured with
+common service
+monitoring parameters
+for quick and easy
+deployment. The Agent
+also support SSL based
+communication method
+for polling and data
+aquisition.
+
+Monitoring server
+parameters of
+
+1. Disk Usage,,2. CPU
+Usage,3. Swap
+Memory,4. Virtual
+Memory,5. Interface
+status,6. Log file
+monitoring,7. Process
+status,8. CPU
+Utilization by a
+process,9. Service
+
+1. Disk Usage,, 2. CPU
+Usage, 3. Swap
+Memory, 4. Virtual
+Memory, 5. Interface
+status, 6. Log file
+monitoring, 7. Process
+status, 8. CPU
+Utilization by a process,
+9. Service Status
+
+                             6 / 37
+
+
+
+ 
+
+Status
+
+Process Utilization
+for
+
+1. Correlation between
+CPU,2. Memory,,3.
+I/O,4. Paging,5. Paging
+space,6. I/O Utilization
+
+1. Correlation between
+CPU, 2. Memory,, 3. I/O,
+4. Paging, 5. Paging
+space, 6. I/O Utilization
+
+Server Performance
+and Reporting
+Management System
+Features
+
+1. Bandwidth utilization
+at the physical and
+virtual host level.,2.
+Capacity Planning - To
+Manage dynamic
+demand of IT services,
+software be able to
+proactively Identify
+potential area’s, which
+need to be upgraded
+(power, storage, etc),3.
+The system have
+context-based analysis
+and forecasting based
+on performance data
+with automated policy
+deployment with
+detailed, intelligent
+monitoring of
+performance and
+availability data
+collection.,4. The event
+records to be available
+in the report format,
+with each event
+classified by its priority
+level and to be tagged
+with details of the date
+and time at which the
+event occurred Each
+event to be displayed
+and highlighted until
+the event has been
+acknowledged and
+cancelled in the
+automatic event log,
+and provided the fault
+has been satisfactorily
+rectified in the
+equipment, which
+generated the event,5.
+The system be capable
+of archiving the
+performance data,6.
+Proposed EMS has
+advance reporting,
+dashboard and
+analytical engine with
+various out of the box
+dashboards and
+reports, for constant
+
+1. Bandwidth utilization
+at the physical and
+virtual host level., 2.
+Capacity Planning - To
+Manage dynamic
+demand of IT services,
+software be able to
+proactively Identify
+potential area’s, which
+need to be upgraded
+(power, storage, etc),
+3. The system have
+context-based analysis
+and forecasting based
+on performance data
+with automated policy
+deployment with
+detailed, intelligent
+monitoring of
+performance and
+availability data
+collection., 4. The
+event records to be
+available in the report
+format, with each
+event classified by its
+priority level and to be
+tagged with details of
+the date and time at
+which the event
+occurred Each event to
+be displayed and
+highlighted until the
+event has been
+acknowledged and
+cancelled in the
+automatic event log,
+and provided the fault
+has been satisfactorily
+rectified in the
+equipment, which
+generated the event, 5.
+The system be capable
+of archiving the
+performance data, 6.
+Proposed EMS has
+advance reporting,
+dashboard and
+analytical engine with
+various out of the box
+dashboards and
+
+                             7 / 37
+
+
+
+ 
+
+monitoring of
+Availability,
+Performance &
+Efficiency,7. Server
+Management The
+server management
+gives an overall
+understanding of the
+equipment
+performance Which
+then can be further
+drilled down to each of
+the smaller component
+The platform
+management is
+required
+
+reports, for constant
+monitoring of
+Availability,
+Performance &
+Efficiency, 7. Server
+Management The
+server management
+gives an overall
+understanding of the
+equipment
+performance Which
+then can be further
+drilled down to each of
+the smaller component
+The platform
+management is
+required
+
+Cache Utilization for 1. Host Port
+Utilization,2. Disk
+Utilization,3. CPU &
+Memory Utilization
+
+1. Host Port Utilization,
+2. Disk Utilization, 3.
+CPU & Memory
+Utilization
+
+Centrilized
+Dashboard
+Management System
+Features
+
+1 .There be a single
+agent on the managed
+node that provides the
+system performance
+data, and for event
+management and be
+able to prioritize
+events, do correlation
+& duplicate
+suppression ability to
+buffer alarms and
+provide automatic
+actions with capability
+to add necessary
+annotations.,2. Each
+operator is provided
+with user roles that
+includes operational
+service views enabling
+operators to quickly
+determine impact and
+root cause associated
+with
+events.,3.Sound/Popup
+Notifications for
+Alerts,4. The system
+integrates with
+Helpdesk / Service desk
+tool for automated
+incident logging and
+also notify alerts or
+events via e-mail or
+SMS.,5.To provide
+alarm correlation and
+facilitate reduction of
+
+1 .There be a single
+agent on the managed
+node that provides the
+system performance
+data, and for event
+management and be
+able to prioritize
+events, do correlation
+& duplicate
+suppression ability to
+buffer alarms and
+provide automatic
+actions with capability
+to add necessary
+annotations., 2. Each
+operator is provided
+with user roles that
+includes operational
+service views enabling
+operators to quickly
+determine impact and
+root cause associated
+with events.,
+3.Sound/Popup
+Notifications for Alerts,
+4. The system
+integrates with
+Helpdesk / Service desk
+tool for automated
+incident logging and
+also notify alerts or
+events via e-mail or
+SMS., 5.To provide
+alarm correlation and
+facilitate reduction of
+
+                             8 / 37
+
+
+
+ 
+
+total number of alarms
+displayed by means of
+intelligent alarm
+correlation,
+suppression and root
+cause analysis
+techniques built in to
+the system.,6.The
+proposed Alarm
+Correlation and Root
+Cause Analysis system
+to integrate network,
+server and database
+performance
+information and alarms
+in a single console and
+provide a unified
+reporting interface for
+network components.
+The current
+performance state of
+the entire network &
+system infrastructure
+be visible in an
+integrated console.,7. It
+has the capability to
+perform cross domain
+correlation with alarm
+correlation from
+Network Monitoring
+tool, Systems
+monitoring tool and
+other domain
+monitoring tools.,8.
+Alarm Filtering allows
+flexible filtering rules
+for staff to filter the
+alarms by category,
+severity, elements,
+duration, by user, by
+views, by geography or
+by department.,9. To
+provide out of the box
+root cause analysis
+with multiple root
+cause algorithms
+inbuilt for root cause
+analysis.,10.The
+system supports
+multiple administrators,
+if need be using
+separate accounts with
+associated individual
+and group rights and
+privileges Normal users
+may have only read
+access, that too only to
+
+total number of alarms
+displayed by means of
+intelligent alarm
+correlation,
+suppression and root
+cause analysis
+techniques built in to
+the system., 6.The
+proposed Alarm
+Correlation and Root
+Cause Analysis system
+to integrate network,
+server and database
+performance
+information and alarms
+in a single console and
+provide a unified
+reporting interface for
+network components.
+The current
+performance state of
+the entire network &
+system infrastructure
+be visible in an
+integrated console., 7.
+It has the capability to
+perform cross domain
+correlation with alarm
+correlation from
+Network Monitoring
+tool, Systems
+monitoring tool and
+other domain
+monitoring tools., 8.
+Alarm Filtering allows
+flexible filtering rules
+for staff to filter the
+alarms by category,
+severity, elements,
+duration, by user, by
+views, by geography or
+by department., 9. To
+provide out of the box
+root cause analysis
+with multiple root
+cause algorithms
+inbuilt for root cause
+analysis., 10.The
+system supports
+multiple administrators,
+if need be using
+separate accounts with
+associated individual
+and group rights and
+privileges Normal users
+may have only read
+access, that too only to
+
+                             9 / 37
+
+
+
+ 
+
+related areas.,11.
+Monitoring system be
+capable of sorting and
+filtering events in
+accordance with their
+priority to the level
+required A facility to be
+provided to enable a
+summary printed event
+record report to be
+prepared, listing not
+only the current active
+events, but also any
+events, including faults
+and alarms, reported
+and/ or cleared during
+the period since the
+previous summary
+report,12. In a
+situation, where, due to
+a single event, multiple
+events/alarms arise,
+the system be capable
+to identify the root-
+cause event asap,
+while suppressing the
+other conjugate events
+to help in minimizing
+downtime,13. Umbrella
+Management - Mere
+Looking at the GUI
+helps understand the
+problem and where it
+has occurred instantly
+In case possible by the
+end device (being
+monitored) the
+information be
+polled.,14. The tool
+provides graphical user
+interface, which helps
+physically reaching the
+equipment whenever
+need be Tracking key
+information and data
+related to the device
+performance network
+traffic and current
+usage, be available on
+hovering the affected
+equipment Important
+trend charts be
+displayed on the fly,15.
+Sound/ popup
+notifications,16. Able to
+send e-mail or Mobile
+–SMS to pre-defined
+
+related areas., 11.
+Monitoring system be
+capable of sorting and
+filtering events in
+accordance with their
+priority to the level
+required A facility to be
+provided to enable a
+summary printed event
+record report to be
+prepared, listing not
+only the current active
+events, but also any
+events, including faults
+and alarms, reported
+and/ or cleared during
+the period since the
+previous summary
+report, 12. In a
+situation, where, due to
+a single event, multiple
+events/alarms arise,
+the system be capable
+to identify the root-
+cause event asap,
+while suppressing the
+other conjugate events
+to help in minimizing
+downtime, 13.
+Umbrella Management
+- Mere Looking at the
+GUI helps understand
+the problem and where
+it has occurred
+instantly In case
+possible by the end
+device (being
+monitored) the
+information be polled.,
+14. The tool provides
+graphical user
+interface, which helps
+physically reaching the
+equipment whenever
+need be Tracking key
+information and data
+related to the device
+performance network
+traffic and current
+usage, be available on
+hovering the affected
+equipment Important
+trend charts be
+displayed on the fly,
+15. Sound/ popup
+notifications, 16. Able
+to send e-mail or
+
+                            10 / 37
+
+
+
+ 
+
+users for pre-defined
+faults.,17. It raises, co-
+relate & analyse alarms
+and helps in taking
+corrective action.,18.
+All alarm/event
+messages to be
+automatically time and
+date-stamped.,19.
+Capable to support
+REST API based
+integration with
+ticketing tools.
+
+Mobile –SMS to pre-
+defined users for pre-
+defined faults., 17. It
+raises, co-relate &
+analyse alarms and
+helps in taking
+corrective action., 18.
+All alarm/event
+messages to be
+automatically time and
+date-stamped., 19.
+Capable to support
+REST API based
+integration with
+ticketing tools.
+
+Server Automation
+Capability
+
+Server Automation
+Capability
+
+1. Detect, collect and
+maintain information
+about Managed
+Servers, including
+packaged, unpackaged
+software, runtime
+state, host/guest
+relationships and
+more.,2. Capability to
+auto install agent onto
+target server,3.
+Visualizes server,
+network, storage, and
+logical application
+environments and
+dependencies and
+compliance state.
+Provides Layer 2 and
+virtual LAN (VLAN)
+network information.
+Intuitive visual
+snapshot comparison
+reduces
+troubleshooting
+time.,4. Defines server
+build sequences for
+provisioning,
+incorporating operating
+systems, patches, and
+software policies
+Supports provisioning
+of VMware Hypervisor
+and Solaris Zones.,5.
+Identifies server
+vulnerabilities quickly
+and easily and reduces
+the time needed to
+patch multiple servers.
+Enables patch policy
+creation and flexible
+patch deployments.
+Supports native patch
+
+1. Detect, collect and
+maintain information
+about Managed
+Servers, including
+packaged, unpackaged
+software, runtime
+state, host/guest
+relationships and
+more., 2. Capability to
+auto install agent onto
+target server, 3.
+Visualizes server,
+network, storage, and
+logical application
+environments and
+dependencies and
+compliance state.
+Provides Layer 2 and
+virtual LAN (VLAN)
+network information.
+Intuitive visual
+snapshot comparison
+reduces
+troubleshooting time.,
+4. Defines server build
+sequences for
+provisioning,
+incorporating operating
+systems, patches, and
+software policies
+Supports provisioning
+of VMware Hypervisor
+and Solaris Zones., 5.
+Identifies server
+vulnerabilities quickly
+and easily and reduces
+the time needed to
+patch multiple servers.
+Enables patch policy
+creation and flexible
+patch deployments.
+Supports native patch
+
+                            11 / 37
+
+
+
+ 
+
+formats for all major
+operating systems.
+Provides out-of-the-box
+integration with
+Microsoft® Patch
+Network and Red Hat
+Enterprise Linux,6.
+Enables rapid
+troubleshooting and
+configurable
+compliance
+management by
+comparing servers to
+reference servers, most
+golden reference
+snapshots, industry
+best practices, or user-
+defined scripts.
+Provides
+comprehensive
+compliance dashboard
+with consolidated
+servers and cross-tier
+compliance views.,7.
+Uses the
+communications
+channel with enhanced
+security features, audit
+logs, and access
+control policies to
+provide direct
+connections to servers
+in any location.
+Supports remote
+desktop connections,
+Windows PowerShell,
+and any shell of Linux
+environments.,8.
+Improves automation
+efficiency by managing
+remote systems and
+executing tasks from a
+command line
+interface. Also supports
+Windows PowerShell to
+provide a command
+line interface (CLI) to
+Windows
+servers.,9.Provides
+dynamic, real-time, and
+historical reports into
+hardware, software,
+patches, and
+operations activities in
+complex,
+heterogeneous data
+Centers. Includes out-of-
+
+formats for all major
+operating systems.
+Provides out-of-the-box
+integration with
+Microsoft® Patch
+Network and Red Hat
+Enterprise Linux, 6.
+Enables rapid
+troubleshooting and
+configurable
+compliance
+management by
+comparing servers to
+reference servers, most
+golden reference
+snapshots, industry
+best practices, or user-
+defined scripts.
+Provides
+comprehensive
+compliance dashboard
+with consolidated
+servers and cross-tier
+compliance views., 7.
+Uses the
+communications
+channel with enhanced
+security features, audit
+logs, and access
+control policies to
+provide direct
+connections to servers
+in any location.
+Supports remote
+desktop connections,
+Windows PowerShell,
+and any shell of Linux
+environments., 8.
+Improves automation
+efficiency by managing
+remote systems and
+executing tasks from a
+command line
+interface. Also supports
+Windows PowerShell to
+provide a command
+line interface (CLI) to
+Windows servers.,
+9.Provides dynamic,
+real-time, and historical
+reports into hardware,
+software, patches, and
+operations activities in
+complex,
+heterogeneous data
+Centers. Includes out-of-
+the-box compliance
+
+                            12 / 37
+
+
+
+ 
+
+the-box compliance
+reports and at-a-glance
+compliance status with
+actionable links to
+servers, policies, and
+other objects. Exports
+reports to HTML and
+comma-separated
+values (CSV)
+formats.,10. To support
+audit and remediation
+against industry best
+practice content such
+as CIS, MSFT,11
+.Provision to run book
+automation capability,
+which provides out of
+the box workflows for
+IT infrastructure and
+there is no limit on the
+number of workflows
+that can be
+deployed.,12. Run book
+automation has an
+options for both private
+cloud, data center as
+well as if it required
+may extend to public
+cloud environment for
+the future usage
+purpose.
+
+reports and at-a-glance
+compliance status with
+actionable links to
+servers, policies, and
+other objects. Exports
+reports to HTML and
+comma-separated
+values (CSV) formats.,
+10. To support audit
+and remediation
+against industry best
+practice content such
+as CIS, MSFT, 11
+.Provision to run book
+automation capability,
+which provides out of
+the box workflows for
+IT infrastructure and
+there is no limit on the
+number of workflows
+that can be deployed.,
+12. Run book
+automation has an
+options for both private
+cloud, data center as
+well as if it required
+may extend to public
+cloud environment for
+the future usage
+purpose.
+
+Database Management
+System
+
+Database supported
+for
+
+1.Oracle,,2.DB2,,3.Syba
+se,,4.
+MySQL,,5.PostgreSQL,
+
+1.Oracle,, 2.DB2,,
+3.Sybase,, 4. MySQL,,
+5.PostgreSQL,
+
+Database
+Management System
+
+1. Table-space
+information
+used/free,2. List of Top
+sessions
+CPU/memory/IO
+consumption with
+history,3. Undo/Temp
+space usage with
+history,4. Top wait
+events in database,5
+.Memory usage
+SGA/Shared pool,6.Disk
+Read/Write Latency
+Monitor,7.Monitoring
+block locks,8. Overall
+database health status
+in single dashboard,9.
+Database query
+monitoring
+
+1. Table-space
+information used/free,
+2. List of Top sessions
+CPU/memory/IO
+consumption with
+history, 3. Undo/Temp
+space usage with
+history, 4. Top wait
+events in database, 5
+.Memory usage
+SGA/Shared pool,
+6.Disk Read/Write
+Latency Monitor,
+7.Monitoring block
+locks, 8. Overall
+database health status
+in single dashboard, 9.
+Database query
+monitoring
+
+Storage Management Storage
+Management
+
+1. Support for various
+storages type like NAS,
+SAN, etc,2. IOPS at LUN
+
+1. Support for various
+storages type like NAS,
+SAN, etc, 2. IOPS at
+
+                            13 / 37
+
+
+
+ 
+
+level,3. Hosts/WWNs
+connected to the
+storage,4. Disk usage
+at LUN level
+
+LUN level, 3.
+Hosts/WWNs connected
+to the storage, 4. Disk
+usage at LUN level
+
+Network Fault,
+Availability and
+Performance
+Management System
+
+The number of
+network devices
+managed by the
+offered product
+
+10000 10000
+
+The offered product
+scalable upto for
+Network device
+management
+
+25000 25000
+
+Network Fault,
+Availability and
+Performance
+Management System
+
+1. The Network
+Management function
+monitors performance
+across heterogeneous
+networks from one end
+of the enterprise to the
+other.,2. NMS provides
+integrated fault,
+performance
+Monitoring,
+Configuration &
+compliance
+Management together
+in one tool.,3 .Tool
+supports MIB-II and
+enterprise MIB for
+performance
+management Device
+certification be part of
+the tool,4 .The tool
+supports for SNMP
+traps,5 .The framework
+of the tool enables
+consolidation of the
+management of various
+networking devices
+(network, security,
+storage, virtualised
+platform etc), along
+with the infra
+supporting devices in a
+single view Tool be
+open for third party
+integration via (soap,
+xml, web-service, snmp-
+v1, v2, v3),6. Overall
+hardware monitoring
+including temperature;
+Fan Status; Power
+Status; Power
+Consumption of
+standalone and blade
+infrastructure,7 .It be
+able to ascertain the
+
+1. The Network
+Management function
+monitors performance
+across heterogeneous
+networks from one end
+of the enterprise to the
+other., 2. NMS provides
+integrated fault,
+performance
+Monitoring,
+Configuration &
+compliance
+Management together
+in one tool., 3 .Tool
+supports MIB-II and
+enterprise MIB for
+performance
+management Device
+certification be part of
+the tool, 4 .The tool
+supports for SNMP
+traps, 5 .The
+framework of the tool
+enables consolidation
+of the management of
+various networking
+devices (network,
+security, storage,
+virtualised platform
+etc), along with the
+infra supporting
+devices in a single view
+Tool be open for third
+party integration via
+(soap, xml, web-
+service, snmp-v1, v2,
+v3), 6. Overall
+hardware monitoring
+including temperature;
+Fan Status; Power
+Status; Power
+Consumption of
+standalone and blade
+infrastructure, 7 .It be
+
+                            14 / 37
+
+
+
+ 
+
+latency in socket
+programming, if any In
+a client-server
+architecture with
+several remote hosts
+communicating with a
+central cluster server, it
+might develop latency
+due to network
+congestion or due to
+database impropriety,8
+.Solution be able to
+monitor ISP serivce
+provider SLA,9 .Packet
+loss monitoring,10.
+Route tracing and link
+quality monitoring,11.
+Traffic and bandwidth
+usage monitoring,12.
+Resource Monitoring
+capabilty,13. Real Time
+Event Analytics,14. Fan
+speed monitoring and
+CPU/HDD /
+motherboard
+temperature
+monitoring,15. Custom
+metric monitoring via
+SNMP (Simple Network
+Management Protocol)
+v2 or v3,16. IP Printer
+availability
+monitoring,17. Pre-
+defined alerts for
+typical network
+problems,18. To be pre
+- integrated,
+centralized and
+consolidated platform
+to manage network
+devices
+
+able to ascertain the
+latency in socket
+programming, if any In
+a client-server
+architecture with
+several remote hosts
+communicating with a
+central cluster server, it
+might develop latency
+due to network
+congestion or due to
+database impropriety,
+8 .Solution be able to
+monitor ISP serivce
+provider SLA, 9 .Packet
+loss monitoring, 10.
+Route tracing and link
+quality monitoring, 11.
+Traffic and bandwidth
+usage monitoring, 12.
+Resource Monitoring
+capabilty, 13. Real
+Time Event Analytics,
+14. Fan speed
+monitoring and
+CPU/HDD /
+motherboard
+temperature
+monitoring, 15. Custom
+metric monitoring via
+SNMP (Simple Network
+Management Protocol)
+v2 or v3, 16. IP Printer
+availability monitoring,
+17. Pre-defined alerts
+for typical network
+problems, 18. To be pre
+- integrated,
+centralized and
+consolidated platform
+to manage network
+devices
+
+Network Discovery
+Management System
+
+1. To allow for
+discovery to be run on
+a continuous basis
+which tracks dynamic
+changes near real-time;
+in order to keep the
+topology always up to
+date. This discovery
+runs at a low overhead,
+incrementally
+discovering devices
+and interfaces.,2. The
+tool automatically
+discover different type
+of heterogeneous
+
+1. To allow for
+discovery to be run on
+a continuous basis
+which tracks dynamic
+changes near real-time;
+in order to keep the
+topology always up to
+date. This discovery
+runs at a low overhead,
+incrementally
+discovering devices
+and interfaces., 2. The
+tool automatically
+discover different type
+of heterogeneous
+
+                            15 / 37
+
+
+
+ 
+
+devices (all SNMP
+supported devices i.e.
+Router, Switches, LAN
+Extender, Servers,
+Terminal Servers, Thin-
+Customer and UPS etc.)
+and map the
+connectivity between
+them with granular
+visibility up to
+individual ports level.
+The tool to be able to
+assign different icons/
+symbols to different
+type of discovered
+elements. It shows live
+interface connections
+between discovered
+network devices,3 .It
+supports various
+discovery protocols to
+perform automatic
+discovery of all L2, L3
+Network devices across
+infrastructure and any
+further Network
+connectivity’s planned
+in future.,4 .The tool to
+be able to discover IPv4
+only, IPv6 only as well
+as devices in dual-
+stack. In case of dual
+stack devices, the
+system to be able to
+discover and show both
+IPv4 and IPv6 IP
+addresses.,5. The tool
+to be able to work on
+SNMP V-1, V-2c & V-3
+based on the SNMP
+version supported by
+the device. Provide an
+option to discover and
+manage the
+devices/elements
+based on SNMP as well
+as ICMP.,6. The
+proposed Network Fault
+Management solution
+supports extensive
+discovery mechanisms
+and easily discover
+new devices using
+mechanisms such as
+SNMP Trap based
+discovery. It also allow
+for inclusion and
+
+devices (all SNMP
+supported devices i.e.
+Router, Switches, LAN
+Extender, Servers,
+Terminal Servers, Thin-
+Customer and UPS etc.)
+and map the
+connectivity between
+them with granular
+visibility up to
+individual ports level.
+The tool to be able to
+assign different icons/
+symbols to different
+type of discovered
+elements. It shows live
+interface connections
+between discovered
+network devices, 3 .It
+supports various
+discovery protocols to
+perform automatic
+discovery of all L2, L3
+Network devices across
+infrastructure and any
+further Network
+connectivity’s planned
+in future., 4 .The tool to
+be able to discover IPv4
+only, IPv6 only as well
+as devices in dual-
+stack. In case of dual
+stack devices, the
+system to be able to
+discover and show both
+IPv4 and IPv6 IP
+addresses., 5. The tool
+to be able to work on
+SNMP V-1, V-2c & V-3
+based on the SNMP
+version supported by
+the device. Provide an
+option to discover and
+manage the
+devices/elements
+based on SNMP as well
+as ICMP., 6. The
+proposed Network Fault
+Management solution
+supports extensive
+discovery mechanisms
+and easily discover
+new devices using
+mechanisms such as
+SNMP Trap based
+discovery. It also allow
+for inclusion and
+
+                            16 / 37
+
+
+
+ 
+
+exclusion list of IP
+address or devices
+from such discovery
+mechanisms.,7. To
+provides a detailed
+asset report, organized
+by vendor name,
+device type, listing all
+ports for all devices.
+The Solution provides
+reports to identify
+unused/dormant
+Network ports in order
+to facilitate capacity
+planning.,8. Able to
+Group Interfaces into
+One Group and tag it
+with Vendor Name.,9.
+In Toplogy view we be
+able to Colour code
+each ISP provider with
+different color.,10.
+REST API Integration for
+GIS map (Bharat
+map),11. Customized
+Map & Topology & Geo
+Map.,12 .Dynamic
+Network mapping
+capability.,13.
+Application and service
+discovery based on
+SNMP.
+
+exclusion list of IP
+address or devices
+from such discovery
+mechanisms., 7. To
+provides a detailed
+asset report, organized
+by vendor name,
+device type, listing all
+ports for all devices.
+The Solution provides
+reports to identify
+unused/dormant
+Network ports in order
+to facilitate capacity
+planning., 8. Able to
+Group Interfaces into
+One Group and tag it
+with Vendor Name., 9.
+In Toplogy view we be
+able to Colour code
+each ISP provider with
+different color., 10.
+REST API Integration for
+GIS map (Bharat map),
+11. Customized Map &
+Topology & Geo Map.,
+12 .Dynamic Network
+mapping capability.,
+13. Application and
+service discovery
+based on SNMP.
+
+Network Dashboard
+and Reporting
+System
+
+1. The NMS has risk
+and compliance
+dashboard across the
+network and data
+center components,
+providing an easy to
+understand dashboard
+of Cis with CVE risks
+and integrated
+remediation
+processes.,2. Disk
+space, Memory
+utilization and Network
+interface status
+monitoring,3 .Process
+memory and CPU
+usage / CPU load
+monitoring.,4 .NMS
+provides out of the box
+Risk Visibility
+Dashboards of network
+infrastructure.,5 .Trend
+analysis and instant
+drill down capability to
+get to know the peaks
+
+1. The NMS has risk
+and compliance
+dashboard across the
+network and data
+center components,
+providing an easy to
+understand dashboard
+of Cis with CVE risks
+and integrated
+remediation
+processes., 2. Disk
+space, Memory
+utilization and Network
+interface status
+monitoring, 3 .Process
+memory and CPU
+usage / CPU load
+monitoring., 4 .NMS
+provides out of the box
+Risk Visibility
+Dashboards of network
+infrastructure., 5 .Trend
+analysis and instant
+drill down capability to
+get to know the peaks
+
+                            17 / 37
+
+
+
+ 
+
+be available.,6. The
+tool suppress events
+for all the network
+elements that are down
+for routine
+maintenance, to assist
+faster root cause
+determination while
+preventing flooding of
+non-relevant console
+messages. It has the
+provision of
+appropriating parent-
+child relationship
+between all the
+networking devices in
+the network.,7.
+Availability, Uptime and
+response time
+monitoring,8 .NMS User
+Accounting /
+Administration
+Management
+capability.
+
+be available., 6. The
+tool suppress events
+for all the network
+elements that are down
+for routine
+maintenance, to assist
+faster root cause
+determination while
+preventing flooding of
+non-relevant console
+messages. It has the
+provision of
+appropriating parent-
+child relationship
+between all the
+networking devices in
+the network., 7.
+Availability, Uptime and
+response time
+monitoring, 8 .NMS
+User Accounting /
+Administration
+Management
+capability.
+
+Advance Network
+Management
+Features
+
+1. Hypervisor-based
+VNF infrastructure
+network
+management.,2. NMS
+supports Class based
+(QOS)Quality Of
+Service.,3. NMS
+supports Industry-
+leading support for
+physical, virtual, and
+SDN-enabled devices
+like Cisco ACI, VMWare
+NSX, Viptela, Big
+Switch Networks, etc,4.
+NMS provides network
+Trap Analytics out of
+the box.,5. NMS
+supports out of the box
+monitoring,6.
+Diagnostic Analytics
+providing change-
+Correlated Performance
+Views and shows the
+difference either in
+either a side-by-side, or
+line-by-line
+presentation,7. The
+offered product has
+diagnostic analytics
+capability that able to
+visually correlate
+performance and
+configuration changes
+
+1. Hypervisor-based
+VNF infrastructure
+network management.,
+2. NMS supports Class
+based (QOS)Quality Of
+Service., 3. NMS
+supports Industry-
+leading support for
+physical, virtual, and
+SDN-enabled devices
+like Cisco ACI, VMWare
+NSX, Viptela, Big
+Switch Networks, etc,
+4. NMS provides
+network Trap Analytics
+out of the box., 5. NMS
+supports out of the box
+monitoring, 6.
+Diagnostic Analytics
+providing change-
+Correlated Performance
+Views and shows the
+difference either in
+either a side-by-side, or
+line-by-line
+presentation, 7. The
+offered product has
+diagnostic analytics
+capability that able to
+visually correlate
+performance and
+configuration changes
+of all network issues., 8
+
+                            18 / 37
+
+
+
+ 
+
+of all network issues.,8
+.NMS provides ChatOps
+functionality out of the
+box.,9. Provides
+Hypervisor or Virtual
+Machine
+monitoring.,10.
+Provides Wireless
+infrastructure
+availability
+monitoring,11. Provides
+IP phone availability
+monitoring,12. Provides
+NMS Security
+Management
+capability,13. Provides
+Builtin NMS Diagnostic
+Tools.,14. Provides
+Distributed
+monitoring.,15.
+Provides Free
+Upgradation to Higher
+Version within support
+period.
+
+.NMS provides ChatOps
+functionality out of the
+box., 9. Provides
+Hypervisor or Virtual
+Machine monitoring.,
+10. Provides Wireless
+infrastructure
+availability monitoring,
+11. Provides IP phone
+availability monitoring,
+12. Provides NMS
+Security Management
+capability, 13. Provides
+Builtin NMS Diagnostic
+Tools., 14. Provides
+Distributed monitoring.,
+15. Provides Free
+Upgradation to Higher
+Version within support
+period.
+
+Network Automation
+and configuration
+Management System
+
+Network Automation
+and configuration
+Management System
+
+1. The system be able
+to clearly identify
+configuration changes /
+policy violations/
+inventory changes
+across multi-vendor
+network tool.,2 .The
+system supports secure
+device configuration
+capture and upload and
+thereby detect
+inconsistent “running”
+and “start-up”
+configurations and alert
+the
+administrators,3.The
+proposed fault
+management solution
+to be able to perform
+“load & merge”
+configuration changes
+to multiple network
+devices.,4. EMS to be
+able to push IOS patch
+to a pre-defined group
+of network devices in a
+defined schedule
+interval of time.,5. The
+proposed fault
+management solution
+be able to perform real-
+time or scheduled
+capture of device
+
+1. The system be able
+to clearly identify
+configuration changes /
+policy violations/
+inventory changes
+across multi-vendor
+network tool., 2 .The
+system supports secure
+device configuration
+capture and upload and
+thereby detect
+inconsistent “running”
+and “start-up”
+configurations and alert
+the administrators,
+3.The proposed fault
+management solution
+to be able to perform
+“load & merge”
+configuration changes
+to multiple network
+devices., 4. EMS to be
+able to push IOS patch
+to a pre-defined group
+of network devices in a
+defined schedule
+interval of time., 5. The
+proposed fault
+management solution
+be able to perform real-
+time or scheduled
+capture of device
+configurations., 6. Tool
+
+                            19 / 37
+
+
+
+ 
+
+configurations.,6. Tool
+supports automated
+Change Plans including
+but not limited to:
+Conditions to validate,
+Pre-Change Validation,
+Change Script (similar
+to legacy Command
+Script), Post-Change
+Validation, Rollback
+Script.,7. NMS has built-
+in audit and
+compliance policies for
+industry best practices/
+Gov. regulations like
+PCI, HIPAA, NERC
+others…,8. NMS
+supports 3-Dimensional
+Compliance Model -
+Configuration,
+Software, Running
+State,9 . NMS provides
+Automate Network
+Operations and
+Orchestration,10. Able
+to restart selected
+Switches or Routers
+with one click,11.
+Baseline & running
+Configuration and
+compliance
+management
+
+supports automated
+Change Plans including
+but not limited to:
+Conditions to validate,
+Pre-Change Validation,
+Change Script (similar
+to legacy Command
+Script), Post-Change
+Validation, Rollback
+Script., 7. NMS has built-
+in audit and
+compliance policies for
+industry best practices/
+Gov. regulations like
+PCI, HIPAA, NERC
+others…, 8. NMS
+supports 3-Dimensional
+Compliance Model -
+Configuration,
+Software, Running
+State, 9 . NMS provides
+Automate Network
+Operations and
+Orchestration, 10. Able
+to restart selected
+Switches or Routers
+with one click, 11.
+Baseline & running
+Configuration and
+compliance
+management
+
+The proposed
+system be able to
+administer
+configuration
+changes to network
+elements by
+providing toolkits to
+automate the
+administrative tasks
+of effecting
+configuration
+changes to network
+elements:
+
+1. Capture running
+configuration,2.
+Capture start-up
+configuration;,3.
+Upload
+configuration;,4. Write
+Running
+Configuration,5. Upload
+firmware.
+
+1. Capture running
+configuration, 2.
+Capture start-up
+configuration;, 3.
+Upload configuration;,
+4. Write Running
+Configuration, 5.
+Upload firmware.
+
+Network traffic Analysis
+System
+
+Network traffic
+Analysis System
+
+1. To be able to
+capture, track &
+analyze traffic flowing
+over the network via
+different industry
+standard traffic
+capturing
+methodologies viz.
+NetFlow, jflow, sFlow,
+IPFIX etc.,2. To provide
+key performance
+
+1. To be able to
+capture, track &
+analyze traffic flowing
+over the network via
+different industry
+standard traffic
+capturing
+methodologies viz.
+NetFlow, jflow, sFlow,
+IPFIX etc., 2. To provide
+key performance
+
+                            20 / 37
+
+
+
+ 
+
+monitoring capabilities
+by giving detailed
+insight into the
+application traffic
+flowing over the
+network.,3. Able to
+monitor network traffic
+utilization, packet size
+distribution, protocol
+distribution, application
+distribution, top talkers
+etc. for network
+traffic.,4. To collect the
+real-time network flow
+data from devices
+across the network and
+provide reports on
+traffic based on
+standard TCP/IP packet
+metrics such as Flow
+Rate, Utilization, Byte
+Count, Flow Count, TOS
+fields etc.,5. Support
+for latest version of
+FLOW protocols.
+
+monitoring capabilities
+by giving detailed
+insight into the
+application traffic
+flowing over the
+network., 3. Able to
+monitor network traffic
+utilization, packet size
+distribution, protocol
+distribution, application
+distribution, top talkers
+etc. for network traffic.,
+4. To collect the real-
+time network flow data
+from devices across the
+network and provide
+reports on traffic based
+on standard TCP/IP
+packet metrics such as
+Flow Rate, Utilization,
+Byte Count, Flow
+Count, TOS fields etc.,
+5. Support for latest
+version of FLOW
+protocols.
+
+Number of messages
+per second flow
+supported by EMS
+
+500 500.0 - 500.0 Or higher
+
+Mutliprotocol Label
+Switching Service
+(MPLS) Monitoring
+
+Mutliprotocol Label
+Switching Service
+(MPLS) Monitoring
+
+1. Monitors MPLS
+service availability and
+inventory, in addition
+to traditional Layer-,2.
+Virtual Private
+Networks (L3 VPN), L2
+VPN, core traffic
+engineering, and
+pseudo-wire
+management.,3.
+Improves uptime with
+continuous MPLS-
+specific core, Layer-2
+and Layer-3 discovery,
+monitoring, and
+alerting.,4. Provides
+inventory view of L3
+VPNs, detailed views
+for an L3 VPN, including
+VRFs and VRF
+details.,5. Provides
+monitoring of VPN
+Routing and
+Forwarding (VRF) state
+and incident/status-
+propagation for L3
+VPNs.,6. Provides LSR
+core view and launch
+
+1. Monitors MPLS
+service availability and
+inventory, in addition
+to traditional Layer-, 2.
+Virtual Private
+Networks (L3 VPN), L2
+VPN, core traffic
+engineering, and
+pseudo-wire
+management., 3.
+Improves uptime with
+continuous MPLS-
+specific core, Layer-2
+and Layer-3 discovery,
+monitoring, and
+alerting., 4. Provides
+inventory view of L3
+VPNs, detailed views
+for an L3 VPN, including
+VRFs and VRF details.,
+5. Provides monitoring
+of VPN Routing and
+Forwarding (VRF) state
+and incident/status-
+propagation for L3
+VPNs., 6. Provides LSR
+core view and launch
+from LSR view to other
+
+                            21 / 37
+
+
+
+ 
+
+from LSR view to other
+views showing node-
+centric MPLS
+services.,7. It has out
+of the box support for
+Virtual Private Wire
+Service (VPWS) and
+Virtual Private LAN
+Service (VPLS),8.
+Provides monitoring of
+traffic engineering
+tunnel status and
+incidents.,9. Visualizes
+and monitor traffic
+engineering hops/path
+and Inventory view of
+traffic engineering
+tunnels in detail.,10.
+Provides inventory view
+of pseudowires and
+monitoring of
+pseudowire status and
+incidents.
+
+views showing node-
+centric MPLS services.,
+7. It has out of the box
+support for Virtual
+Private Wire Service
+(VPWS) and Virtual
+Private LAN Service
+(VPLS), 8. Provides
+monitoring of traffic
+engineering tunnel
+status and incidents.,
+9. Visualizes and
+monitor traffic
+engineering hops/path
+and Inventory view of
+traffic engineering
+tunnels in detail., 10.
+Provides inventory view
+of pseudowires and
+monitoring of
+pseudowire status and
+incidents.
+
+Provides out of the
+box Reporting such
+as:
+
+1.LSR reports,2.Site
+reports (VRF),3.Site-to-
+site quality-of-service
+reports;,4.VPN
+reports,5. Link
+Utilization and Down
+Time Report
+
+1.LSR reports, 2.Site
+reports (VRF), 3.Site-to-
+site quality-of-service
+reports;, 4.VPN reports,
+5. Link Utilization and
+Down Time Report
+
+Network Reporting &
+Analysis
+
+Network Reporting &
+Analysis Features
+
+1. Able to collect and
+collate information
+regarding relationship
+between IT elements
+and business service,
+clearly showing how
+infrastructure impacts
+business service
+levels.,2. Provision for
+user configurable for
+building additional
+reports and have
+customizable reporting
+and Integrated report
+editor.,3. Able to collect
+Key performance
+measurements and
+statistics from all
+network domains and
+store it. This data is to
+be used for evaluation
+of performance of the
+end to end network infr
+astructure/services.,4.
+Network Link utilization
+and down time report
+
+1. Able to collect and
+collate information
+regarding relationship
+between IT elements
+and business service,
+clearly showing how
+infrastructure impacts
+business service
+levels., 2. Provision for
+user configurable for
+building additional
+reports and have
+customizable reporting
+and Integrated report
+editor., 3. Able to
+collect Key
+performance
+measurements and
+statistics from all
+network domains and
+store it. This data is to
+be used for evaluation
+of performance of the
+end to end network
+infrastructure/services.,
+4. Network Link
+
+                            22 / 37
+
+
+
+ 
+
+generation facility in
+graphical and tabular
+format,5 .The system
+be capable to store the
+raw data or polled
+data, and also have the
+facility to automate the
+backup process or
+allow to take manual
+backup, in case
+required,6. All alarm
+messages to be
+recorded in a database
+for easy, efficient and
+future retrieval and not
+to have a text based
+approach, where in any
+3rd party tool is not
+able to extract data,7.
+Centralized Reporting
+& Dashboard - The
+Dashboard and
+reporting engine
+provides centralized
+view as the face of all
+the elements in the IT
+(network, server,
+application and
+database),8. Reporting:
+To provide business
+users with highly
+interactive and power-
+users with highly
+sophisticated, pixel-
+perfect reports.,9. Web-
+based interactive
+reporting for business
+users, Rich graphical
+report designer for
+power users,
+Parameterized reports
+with powerful charting,
+Output in popular
+formats: HTML, Excel,
+CSV, PDF, RTF.,10.
+Analysis: To have the
+ability to explore data
+by multiple dimensions
+such as customer,
+product, network and
+time for business
+users.,11. Report
+generaton facility for
+Bandwidth utilization
+and down time reports
+of internet links and
+devices in graphical
+
+utilization and down
+time report generation
+facility in graphical and
+tabular format, 5 .The
+system be capable to
+store the raw data or
+polled data, and also
+have the facility to
+automate the backup
+process or allow to take
+manual backup, in case
+required, 6. All alarm
+messages to be
+recorded in a database
+for easy, efficient and
+future retrieval and not
+to have a text based
+approach, where in any
+3rd party tool is not
+able to extract data, 7.
+Centralized Reporting
+& Dashboard - The
+Dashboard and
+reporting engine
+provides centralized
+view as the face of all
+the elements in the IT
+(network, server,
+application and
+database), 8.
+Reporting: To provide
+business users with
+highly interactive and
+power-users with highly
+sophisticated, pixel-
+perfect reports., 9. Web-
+based interactive
+reporting for business
+users, Rich graphical
+report designer for
+power users,
+Parameterized reports
+with powerful charting,
+Output in popular
+formats: HTML, Excel,
+CSV, PDF, RTF., 10.
+Analysis: To have the
+ability to explore data
+by multiple dimensions
+such as customer,
+product, network and
+time for business
+users., 11. Report
+generaton facility for
+Bandwidth utilization
+and down time reports
+of internet links and
+
+                            23 / 37
+
+
+
+ 
+
+and tabular
+foramt.,12.Scheduled
+report emailing.
+
+devices in graphical
+and tabular foramt.,
+12.Scheduled report
+emailing.
+
+Number of years for
+which EMS Capable
+to store raw data or
+polled data
+
+5 5
+
+Number of years for
+which EMS capable
+to generate reports
+of links & devices at
+any given point of
+time
+
+3 3
+
+The performance
+management system
+to be able to collect
+and report data like
+
+1. Packet delay and
+packet loss;,2. User
+bandwidth usage
+rate;,3. Network
+availability rate;,4. CPU
+usage rate;,5.
+Input/output traffic
+through physical
+ports;,6. Input/output
+traffic through logical
+ports
+
+1. Packet delay and
+packet loss;, 2. User
+bandwidth usage rate;,
+3. Network availability
+rate;, 4. CPU usage
+rate;, 5. Input/output
+traffic through physical
+ports;, 6. Input/output
+traffic through logical
+ports
+
+The Performance
+Management have
+user defined set of
+reports like
+
+1. Summary Reports for
+specific groups:
+Reports displaying per
+group of resources the
+group aggregations for
+a set of metrics (for
+example, per City, the
+maximum traffic or the
+total traffic).,2.
+Summary Reports for
+specific Resources:
+Reports displaying for a
+set of resources the
+period aggregations for
+the same set of metrics
+(for example, per
+interface, the
+maximum traffic over
+the day),3. Detailed
+chart Reports: Reports
+displaying for one
+resource and the same
+set of metrics the
+values over the period
+(for example, the raw
+collected values for the
+day).,4. Resource
+Threshold Violation
+Reports: Reports
+displaying the
+
+1. Summary Reports for
+specific groups:
+Reports displaying per
+group of resources the
+group aggregations for
+a set of metrics (for
+example, per City, the
+maximum traffic or the
+total traffic)., 2.
+Summary Reports for
+specific Resources:
+Reports displaying for a
+set of resources the
+period aggregations for
+the same set of metrics
+(for example, per
+interface, the
+maximum traffic over
+the day), 3. Detailed
+chart Reports: Reports
+displaying for one
+resource and the same
+set of metrics the
+values over the period
+(for example, the raw
+collected values for the
+day)., 4. Resource
+Threshold Violation
+Reports: Reports
+displaying the
+
+                            24 / 37
+
+
+
+ 
+
+resources for which a
+threshold was
+violated,5. Detailed
+chart Reports: Reports
+displaying for one
+resource and the same
+set of metrics the
+values over the period
+(for example, the raw
+collected values for the
+day).,6. Resource
+Threshold Violation
+Reports: Reports
+displaying the
+resources for which a
+threshold was
+violated.,7. Report to
+be in pdf,excel,csv
+format and scheduling
+facility in email to
+concerned users.
+
+resources for which a
+threshold was violated,
+5. Detailed chart
+Reports: Reports
+displaying for one
+resource and the same
+set of metrics the
+values over the period
+(for example, the raw
+collected values for the
+day)., 6. Resource
+Threshold Violation
+Reports: Reports
+displaying the
+resources for which a
+threshold was violated.,
+7. Report to be in
+pdf,excel,csv format
+and scheduling facility
+in email to concerned
+users.
+
+Helpdesk Management
+System
+
+Helpdesk
+Management System
+
+1. Able to support and
+handle large volume of
+incident, service
+requests, changes,
+etc.,2. Solution be able
+to integrate with third
+party IVR or CTI,3. Tool
+Analytics be completely
+configurable in terms of
+source data and
+results, enabling
+Process Managers and
+other IT Users to
+proactively identify
+trends that can be used
+to drive action. Multiple
+instances shall be
+allowed to be
+configured in different
+ways in different
+modules for different
+outcomes - for example
+one be able to identify
+trends in one set of
+data and subsequently
+develop linkages with
+other data, or Analytics
+can run on top of
+reporting results to
+provide further insights
+from unstructured
+data.,4.The tool has the
+knowledge
+management OOB –
+knowledge databases
+to support
+
+1. Able to support and
+handle large volume of
+incident, service
+requests, changes,
+etc., 2. Solution be able
+to integrate with third
+party IVR or CTI, 3. Tool
+Analytics be completely
+configurable in terms of
+source data and
+results, enabling
+Process Managers and
+other IT Users to
+proactively identify
+trends that can be used
+to drive action. Multiple
+instances shall be
+allowed to be
+configured in different
+ways in different
+modules for different
+outcomes - for example
+one be able to identify
+trends in one set of
+data and subsequently
+develop linkages with
+other data, or Analytics
+can run on top of
+reporting results to
+provide further insights
+from unstructured
+data., 4.The tool has
+the knowledge
+management OOB –
+knowledge databases
+to support
+
+                            25 / 37
+
+
+
+ 
+
+investigations,
+diagnoses, root cause
+analysis techniques,
+and creating / updating
+workarounds,
+temporary fixes and
+resolutions,5. The tool
+allows the creation of
+different access levels
+(i.e. Read only, write,
+create, delete) to
+knowledge
+management
+system(),6. The
+Knowledge
+Management solution
+be available in a Multi
+Tenanted
+environment,7.
+Helpdesk TOOL haS to
+provide big data
+analytics, machine
+learning, hot topic
+analytics that helps to
+analyze common
+service request,
+optimize change
+management. It be
+possible to create
+support / knowledge
+articles for hot
+topics.,8. The proposed
+helpdesk solution
+supports codeless
+configuration of
+processes that can be
+upgraded seamlessly
+without the need to
+reconfiguration of
+processes.,9.The
+proposed helpdesk
+solution creates service
+catalogue using drag
+and drop method.,10. A
+virtual bot be available,
+which can respond to
+user requests,
+immediate via portal,
+email or mobile
+interfaces.,11. Support
+for eMail and SMS both
+(integration with SMS-
+gateway and GSM
+communication) should
+be available for
+sending of Alerts and
+scheduling Reports,12.
+
+investigations,
+diagnoses, root cause
+analysis techniques,
+and creating / updating
+workarounds,
+temporary fixes and
+resolutions, 5. The tool
+allows the creation of
+different access levels
+(i.e. Read only, write,
+create, delete) to
+knowledge
+management system(),
+6. The Knowledge
+Management solution
+be available in a Multi
+Tenanted environment,
+7. Helpdesk TOOL haS
+to provide big data
+analytics, machine
+learning, hot topic
+analytics that helps to
+analyze common
+service request,
+optimize change
+management. It be
+possible to create
+support / knowledge
+articles for hot topics.,
+8. The proposed
+helpdesk solution
+supports codeless
+configuration of
+processes that can be
+upgraded seamlessly
+without the need to
+reconfiguration of
+processes., 9.The
+proposed helpdesk
+solution creates service
+catalogue using drag
+and drop method., 10.
+A virtual bot be
+available, which can
+respond to user
+requests, immediate
+via portal, email or
+mobile interfaces., 11.
+Support for eMail and
+SMS both (integration
+with SMS-gateway and
+GSM communication)
+should be available for
+sending of Alerts and
+scheduling Reports, 12.
+Help Desk has built-in
+service management
+
+                            26 / 37
+
+
+
+ 
+
+Help Desk has built-in
+service management
+module, which allows IT
+operations to
+document all the
+contracts and services,
+they have under their
+control,13. Help Desk
+has known error
+database that allows IT
+operations to
+document known
+issues in order to speed
+up the resolution
+process,14. Whenever
+a fault arises in the IT
+infrastructure, a ticket
+should get
+automatically logged as
+an incident in the help
+desk tool and gets
+assigned with
+predefined SLAs to the
+maintenance
+team.,15.Solution
+provides following: E-
+mail and SMS Alert
+notifications, Alert
+escalation, Alert
+acknowledgement.,16.
+The offered product
+capable to support
+REST API based
+integration with
+ticketing tools
+
+module, which allows IT
+operations to
+document all the
+contracts and services,
+they have under their
+control, 13. Help Desk
+has known error
+database that allows IT
+operations to
+document known
+issues in order to speed
+up the resolution
+process, 14. Whenever
+a fault arises in the IT
+infrastructure, a ticket
+should get
+automatically logged as
+an incident in the help
+desk tool and gets
+assigned with
+predefined SLAs to the
+maintenance team.,
+15.Solution provides
+following: E-mail and
+SMS Alert notifications,
+Alert escalation, Alert
+acknowledgement., 16.
+The offered product
+capable to support
+REST API based
+integration with
+ticketing tools
+
+Helpdesk tool
+CONSIST OF
+
+1. Incident managemen
+t,,2.Problem
+Management,,3.Change
+Management,4.Knowle
+dge Management,,5.
+Service Level
+Management,,6.Service
+Asset and
+Configuration
+management,,7.Service
+Catalogue and Request
+Fulfilment
+
+1. Incident
+management,,
+2.Problem
+Management,,
+3.Change Management,
+4.Knowledge
+Management,, 5.
+Service Level
+Management,,
+6.Service Asset and
+Configuration
+management,,
+7.Service Catalogue
+and Request Fulfilment
+
+SLA Management and
+Penalty Estimation
+
+Operations Related
+Service Level
+Parameters
+
+1. To supports
+comprehensive SLA
+management
+platform,2. Manage
+service levels for
+delivery and support of
+business services,3.
+
+1. To supports
+comprehensive SLA
+management platform,
+2. Manage service
+levels for delivery and
+support of business
+services, 3. Allows
+
+                            27 / 37
+
+
+
+ 
+
+Allows creating and
+applying various
+operational level
+parameters to
+Incidents, Requests,
+Changes, and Release
+management
+modules.,4. The
+module links available
+support hours to
+service levels when
+calculating deadlines
+as well as suspend SLA
+calculation for certain
+criteria – e.g. ‘pending
+information from
+customer’,5. The SLM
+module integrates with
+incident and problem
+management to
+automate escalation,
+and notification
+activities based on
+response and
+resolution targets,6. It
+also integrate with
+change management
+to provide access to
+service level
+agreement details,
+implementation
+windows, change
+blackout periods, and
+availability
+requirements,7 .The
+application has a prede
+fined/customizable field
+to indicate & track the
+progress/status of the
+lifecycle of ticket(s).,8.
+The tool provides an
+audit trail, tracking &
+monitoring for record
+information and
+updates from opening
+through fulfilment to
+closure For example:
+IDs of individuals or
+groups opening,
+updating & closing
+records; dates / times
+of status & activities
+updates, etc.
+
+creating and applying
+various operational
+level parameters to
+Incidents, Requests,
+Changes, and Release
+management modules.,
+4. The module links
+available support hours
+to service levels when
+calculating deadlines
+as well as suspend SLA
+calculation for certain
+criteria – e.g. ‘pending
+information from
+customer’, 5. The SLM
+module integrates with
+incident and problem
+management to
+automate escalation,
+and notification
+activities based on
+response and
+resolution targets, 6. It
+also integrate with
+change management
+to provide access to
+service level
+agreement details,
+implementation
+windows, change
+blackout periods, and
+availability
+requirements, 7 .The
+application has a prede
+fined/customizable field
+to indicate & track the
+progress/status of the
+lifecycle of ticket(s)., 8.
+The tool provides an
+audit trail, tracking &
+monitoring for record
+information and
+updates from opening
+through fulfilment to
+closure For example:
+IDs of individuals or
+groups opening,
+updating & closing
+records; dates / times
+of status & activities
+updates, etc.
+
+Infrastructure
+Related Service
+Level Parameters
+
+1.The product be able
+to measure, collect,
+and import
+performance and SLA
+
+1.The product be able
+to measure, collect,
+and import
+performance and SLA
+
+                            28 / 37
+
+
+
+ 
+
+data from a wide range
+of sources, including
+performance
+Management
+modules.,2. Computes
+the quarterly service
+charges payable to the
+different agencies after
+applying the penalties
+as per the contract and
+SLA. This may be
+achieved through
+customization/
+development of tool,
+wherever required.,3.
+To supports SLA
+violations alerts during
+the tracking
+period.,4.To supports
+managing and
+maintaining a full
+history of an SLA.,5.To
+provides a flexible
+framework for
+collecting and
+managing service level
+templates including
+Service Definition,
+Service Level Metrics,
+Penalties and other
+performance indicators
+measured across
+infrastructure and
+vendors.,6.Ability to
+define and calculate
+key performance
+indicators from an End
+to End Business Service
+delivery perspective.,7.
+To supports SLA
+approval/validation
+workflow.,8.View of
+Contract Parties &
+current SLA delivery
+levels.,9.To supports
+SLA Alerts escalation
+and approval
+process.,10.To supports
+capabilities for
+investigating the root
+causes of failed service
+levels.
+
+data from a wide range
+of sources, including
+performance
+Management modules.,
+2. Computes the
+quarterly service
+charges payable to the
+different agencies after
+applying the penalties
+as per the contract and
+SLA. This may be
+achieved through
+customization/
+development of tool,
+wherever required., 3.
+To supports SLA
+violations alerts during
+the tracking period.,
+4.To supports
+managing and
+maintaining a full
+history of an SLA., 5.To
+provides a flexible
+framework for
+collecting and
+managing service level
+templates including
+Service Definition,
+Service Level Metrics,
+Penalties and other
+performance indicators
+measured across
+infrastructure and
+vendors., 6.Ability to
+define and calculate
+key performance
+indicators from an End
+to End Business Service
+delivery perspective.,
+7. To supports SLA
+approval/validation
+workflow., 8.View of
+Contract Parties &
+current SLA delivery
+levels., 9.To supports
+SLA Alerts escalation
+and approval process.,
+10.To supports
+capabilities for
+investigating the root
+causes of failed service
+levels.
+
+IT Asset Auto-Discovery
+and Inventory
+Management
+
+IT Asset Auto-
+Discovery and
+Inventory
+Management
+
+1. Discovery works
+without requiring agent
+installation (that is,
+agent-less discovery)
+while discovery Layers
+
+1. Discovery works
+without requiring agent
+installation (that is,
+agent-less discovery)
+while discovery Layers
+
+                            29 / 37
+
+
+
+ 
+
+2 through Layers 7 of
+OSI model,2 .Uses
+Industry-standard
+protocols such as WMI,
+SNMP, JMX, SSH to
+perform discovery
+without requiring the
+installation of an
+agent,3. Discovery
+system has ability to
+modify out-of-box
+discovery scripts,
+create customized
+discovery scripts,4.
+Discovery system has
+the ability to capture
+configuration files for
+the purposes of
+comparison and
+change tracking,5.
+Discovery system be
+capable of supporting
+role-based access to
+various aspects of
+CMDB administration,6.
+Discovery be object-
+oriented, allowing
+specific CIs and
+relationships to be
+discovered using a
+library of discovery
+patterns,7. Discovery
+engine gathers detailed
+asset and configuration
+item (CI) information
+for specific servers and
+the applications
+running on them,8. It
+dynamically discover
+and continuously map
+IT hardware inventory
+and service
+dependencies,9. The
+EMS provides a
+common configuration
+management database
+that has a single
+solution for discovery
+of networks devices,
+servers & desktops,
+using a common probe,
+that supports both
+agent less and agent
+based technologies
+using.,10. Inventory
+management of each of
+the equipment to be
+
+2 through Layers 7 of
+OSI model, 2 .Uses
+Industry-standard
+protocols such as WMI,
+SNMP, JMX, SSH to
+perform discovery
+without requiring the
+installation of an agent,
+3. Discovery system
+has ability to modify
+out-of-box discovery
+scripts, create
+customized discovery
+scripts, 4. Discovery
+system has the ability
+to capture
+configuration files for
+the purposes of
+comparison and
+change tracking, 5.
+Discovery system be
+capable of supporting
+role-based access to
+various aspects of
+CMDB administration,
+6. Discovery be object-
+oriented, allowing
+specific CIs and
+relationships to be
+discovered using a
+library of discovery
+patterns, 7. Discovery
+engine gathers detailed
+asset and configuration
+item (CI) information
+for specific servers and
+the applications
+running on them, 8. It
+dynamically discover
+and continuously map
+IT hardware inventory
+and service
+dependencies, 9. The
+EMS provides a
+common configuration
+management database
+that has a single
+solution for discovery
+of networks devices,
+servers & desktops,
+using a common probe,
+that supports both
+agent less and agent
+based technologies
+using., 10. Inventory
+management of each of
+the equipment to be
+
+                            30 / 37
+
+
+
+ 
+
+available 24X7 available 24X7
+
+Configuration
+Management database
+(CMDB)
+
+Configuration
+Management
+database (CMDB)
+
+1. Provides a single
+shared view of services
+supporting Service
+Design, Transition and
+Operations stages of
+the lifecycle,2. The
+Configuration
+Management Database
+supports multiple
+datasets with
+federation and
+reconciliation facilities
+so as to get data from
+various discovery tools
+and also through
+manual import
+process,3.
+Reconciliation of data
+be possible with
+multiple data providers
+based on common
+attributes and ability to
+define precedence
+rules on attributes,4.
+Federation of external
+data sources be
+possible with ability to
+store common
+attributes inside CMDB
+and getting other
+attributes from
+external data
+sources,5.
+Automatically create
+Service models to
+describe how IT
+infrastructure supports
+business services,6.The
+CMDB has built-in drift
+management
+capabilities to capture
+and report on
+infrastructure drift
+based on infrastructure
+attributes like RAM,
+memory, etc.,7.
+System with CMDB -
+Integrate people,
+process & technology.
+To help in reducing
+likelihood of downtime
+by facilitating
+communication across
+all the facility
+equipment while
+Managing SLAs and
+
+1. Provides a single
+shared view of services
+supporting Service
+Design, Transition and
+Operations stages of
+the lifecycle, 2. The
+Configuration
+Management Database
+supports multiple
+datasets with
+federation and
+reconciliation facilities
+so as to get data from
+various discovery tools
+and also through
+manual import process,
+3. Reconciliation of
+data be possible with
+multiple data providers
+based on common
+attributes and ability to
+define precedence
+rules on attributes, 4.
+Federation of external
+data sources be
+possible with ability to
+store common
+attributes inside CMDB
+and getting other
+attributes from
+external data sources,
+5. Automatically create
+Service models to
+describe how IT
+infrastructure supports
+business services,
+6.The CMDB has built-
+in drift management
+capabilities to capture
+and report on
+infrastructure drift
+based on infrastructure
+attributes like RAM,
+memory, etc., 7.
+System with CMDB -
+Integrate people,
+process & technology.
+To help in reducing
+likelihood of downtime
+by facilitating
+communication across
+all the facility
+equipment while
+Managing SLAs and
+Asset Lifecycle with
+IMAC process., 8.
+
+                            31 / 37
+
+
+
+ 
+
+Asset Lifecycle with
+IMAC process.,8.
+Configuration item to
+get automatically
+attached with the ticket
+to enable maintenance
+team for faster
+resolution .
+
+Configuration item to
+get automatically
+attached with the ticket
+to enable maintenance
+team for faster
+resolution .
+
+Generic Features Generic Features 1. The offred product to
+be an integrated,
+modular and scalable
+solution from single
+OEM (i.e. all Network
+Monitoring, server
+Monitoring including
+application and
+database monitoring
+and Service
+Management tools be
+from single OEM) to
+provide comprehensive
+fault management,
+performance
+management, traffic
+analysis and business
+service management,
+IT service desk\ help
+desk \trouble ticketing
+system & SLA
+monitoring
+functionality.,2. It has a
+secured single sign-on
+and unified console for
+all functions of
+components offered for
+seamless cross-
+functional navigation &
+launch for single pane
+of glass visibility across
+multiple areas of
+monitoring &
+management.,3. To
+have self-monitoring
+ability to track status of
+its critical components
+& parameters such as
+Up/Down status of its
+services, applications &
+servers, CPU utilization,
+Memory capacity, File
+system space,
+Database Status,
+synchronization status
+between primary and
+secondary system and
+event processing etc. It
+provides this
+
+1. The offred product to
+be an integrated,
+modular and scalable
+solution from single
+OEM (i.e. all Network
+Monitoring, server
+Monitoring including
+application and
+database monitoring
+and Service
+Management tools be
+from single OEM) to
+provide comprehensive
+fault management,
+performance
+management, traffic
+analysis and business
+service management,
+IT service desk\ help
+desk \trouble ticketing
+system & SLA
+monitoring
+functionality., 2. It has
+a secured single sign-
+on and unified console
+for all functions of
+components offered for
+seamless cross-
+functional navigation &
+launch for single pane
+of glass visibility across
+multiple areas of
+monitoring &
+management., 3. To
+have self-monitoring
+ability to track status of
+its critical components
+& parameters such as
+Up/Down status of its
+services, applications &
+servers, CPU utilization,
+Memory capacity, File
+system space,
+Database Status,
+synchronization status
+between primary and
+secondary system and
+event processing etc. It
+provides this
+
+                            32 / 37
+
+
+
+ 
+
+information in real-time
+through graphical
+dashboards,
+events/alarms as well
+as in the form of
+historical reports.,4.
+The offered product to
+be compatible with
+Open Stack Solutions
+(OS, Applications,
+Daabases, Storage etc)
+
+information in real-time
+through graphical
+dashboards,
+events/alarms as well
+as in the form of
+historical reports., 4.
+The offered product to
+be compatible with
+Open Stack Solutions
+(OS, Applications,
+Daabases, Storage etc)
+
+Miscellaneous Features 1. EMS software to be
+customizable,2.
+Support for
+clustering,3. Support
+for Fail over,4. Support
+for DR (Disaster
+Recovery),5. Platform
+to be able to be
+deployed on a public
+cloud for disaster
+recovery
+
+*
+
+TECHNICAL SERVICE
+SUPPORT
+
+Technical Service
+Support provided by
+
+1. OEM 1. OEM
+
+Number of years for
+onsite support
+
+5 5
+
+Number of Engineers
+available for onsite
+support
+
+2 2
+
+Scope of
+Product/Technical
+Support provided by
+the OEM are
+
+1. Software
+Upgradation,2.
+Updation with Patches
+Bug Fixes and Repair of
+known Issues;,3.
+Remote (Offsite)
+support via Telephone,
+Email, Video Calling,
+etc.,4. 24 x 7 x 365
+Onsite
+Support.,5.Office hour
+onsite support "9 am to
+6 pm",6. Installation
+Support.,7. Integration
+Support.,8.Configuratio
+n Support,9.End to End
+Workflow
+Implementation
+Support,10. User
+Acceptance Testing of
+all modules.,11.OEM
+support provided by
+the professional on
+OEM payroll.,12. OEM
+support provided by
+the professional of
+
+1. Software
+Upgradation, 2.
+Updation with Patches
+Bug Fixes and Repair of
+known Issues;, 3.
+Remote (Offsite)
+support via Telephone,
+Email, Video Calling,
+etc., 4. 24 x 7 x 365
+Onsite Support.,
+5.Office hour onsite
+support "9 am to 6
+pm", 6. Installation
+Support., 7. Integration
+Support.,
+8.Configuration
+Support, 9.End to End
+Workflow
+Implementation
+Support, 10. User
+Acceptance Testing of
+all modules., 11.OEM
+support provided by
+the professional on
+OEM payroll., 12. OEM
+support provided by
+
+                            33 / 37
+
+
+
+ 
+
+authorized channel
+partner/vendor/system 
+integrator/seller.,13.OE
+M has registered office
+in India.
+
+the professional of
+authorized channel
+partner/vendor/system
+integrator/seller.,
+13.OEM has registered
+office in India.
+
+If Technical support
+provided by channel 
+partner/vendor/syste
+m integrator/seller
+then whether they
+are authorized by
+OEM
+
+Yes Yes
+
+Scope of Technical
+Support for channel 
+partner/vendor/syste
+m integrator/seller
+are
+
+1. Software
+Upgradation,2.
+Updation with Patches
+Bug Fixes and Repair of
+known Issues;,3.
+Remote (via Telephone,
+Email, Video Calling,
+etc.),4. 24 x 7 x 365
+Onsite Support.,5.
+Installation;,6. Integrati
+on;,7.Configuration;,8.E
+nd to End Workflow
+Implementation;,9.
+User Acceptance
+Testing of all modules.
+
+1. Software
+Upgradation, 2.
+Updation with Patches
+Bug Fixes and Repair of
+known Issues;, 3.
+Remote (via Telephone,
+Email, Video Calling,
+etc.), 4. 24 x 7 x 365
+Onsite Support., 5.
+Installation;, 6.
+Integration;,
+7.Configuration;, 8.End
+to End Workflow
+Implementation;, 9.
+User Acceptance
+Testing of all modules.
+
+SLA FOR TECHNICAL
+SERVICE SUPPORT
+
+High Severity
+Priority Issue, P1
+Consists of
+
+1. Any fault which
+causes failure of a
+critical feature.,2.
+Significant loss of
+visibility of application
+performance or
+irreparable loss of data
+within the application
+(such as connectivity to
+the host server).,3.
+Customer declared
+critical issue with the
+concurrence of
+customer and vendor
+management.,4. Any
+fault that keeps the
+system from meeting
+significantly
+documented standards
+or performance
+specifications.,5. Any
+fault that keeps the
+system from meeting
+regulatory and safety
+standards,6. Discovery
+of application bug with
+NO short-term
+
+1. Any fault which
+causes failure of a
+critical feature., 2.
+Significant loss of
+visibility of application
+performance or
+irreparable loss of data
+within the application
+(such as connectivity to
+the host server)., 3.
+Customer declared
+critical issue with the
+concurrence of
+customer and vendor
+management., 4. Any
+fault that keeps the
+system from meeting
+significantly
+documented standards
+or performance
+specifications., 5. Any
+fault that keeps the
+system from meeting
+regulatory and safety
+standards, 6. Discovery
+of application bug with
+NO short-term
+
+                            34 / 37
+
+
+
+ 
+
+workaround. workaround.
+
+"Response Time for
+Technical Support
+Level Commitment
+for High Severity
+Priority Issue (P1)
+(Maximum in Hours)
+(Hint : Select '0' if
+not applicable)"
+
+60 60
+
+"Penalty for Non
+Adharence to P1
+Response Time of
+Technical Support
+Value (Cumulative
+Maximum 5 % of
+Technical Support
+Value)"
+
+0.05 % per Hour 0.05 % per Hour
+
+Medium Severity
+Priority Issue, P2
+Consists of
+
+1. Any fault which
+causes failure of a non-
+critical feature of the
+application,2.
+Application is running
+at a degraded capacity
+with potential risk of
+losing critical data,3.
+Failures in application
+performance that
+requires additional
+dedicated resources to
+maintain core
+application elements
+
+1. Any fault which
+causes failure of a non-
+critical feature of the
+application, 2.
+Application is running
+at a degraded capacity
+with potential risk of
+losing critical data, 3.
+Failures in application
+performance that
+requires additional
+dedicated resources to
+maintain core
+application elements
+
+"Response Time for
+Technical Support
+Level Commitment
+for Medium Severity
+Priority Issue (P2)
+(Maximum in days)
+(Hint :- Select'0' if
+not applicable) "
+
+6 6
+
+"Penalty for Non
+Adharence to P2
+Response Time of
+Technical Support
+Value (Cumulative
+Maximum 3 %
+Technical Support
+Value)"
+
+0.25 % per Day 0.25 % per Day
+
+Low Severity Priority
+Issue, P3 Consists of
+
+1. Loss of
+administrative
+capabilities (non-
+P1/non-P2),2. Loss of
+full feature
+functionality (non-
+P1/non-P2),3. Discovery
+
+1. Loss of
+administrative
+capabilities (non-
+P1/non-P2), 2. Loss of
+full feature
+functionality (non-
+P1/non-P2), 3.
+
+                            35 / 37
+
+
+
+ 
+
+of application bug with
+a short-term
+workaround,4. Any
+remote upgrade or
+support not associated
+with resolution of a P1
+or P2 issue
+
+Discovery of
+application bug with a
+short-term workaround,
+4. Any remote upgrade
+or support not
+associated with
+resolution of a P1 or P2
+issue
+
+"Response Time for
+Technical Support
+Level Commitment
+for Low Severity
+Priority Issue (P3)
+(Maximum in days)
+(Hint :- Select '0' if
+not applicable)"
+
+50 50
+
+"Penalty for Non
+Adharence to P3
+Response Time of
+Technical Support
+Value (Cumulative
+Maximum 2 %
+Technical Support
+Value)"
+
+0.25 % per Day 0.25 % per Day
+
+SUPPORTED
+HARDWARE
+REQUIREMENT
+
+Minimum Hardware
+Disk Space Required
+inGB
+
+10000 *
+
+Minium RAM Size
+required in GB
+
+700 *
+
+Server and CPU
+Configuration required
+so that EMS software to
+be compatible with
+open stack solutions
+(Compute, Storage,
+Application, OS etc
+
+- *
+
+Supported Web
+browsers
+
+1.Internet
+Explorer.,2.Google
+Chrome.,3.Mozilla
+Firefox.
+
+*
+
+GENERIC PARAMETERS Valid Licence copy to
+be provided
+
+YES *
+
+Software supplied
+through
+
+URL Link *
+
+Hyper link to Data
+sheet
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+                            36 / 37
+
+
+
+ 
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Mohan Shyam 110003,A BLOCK CGO
+COMPLEX NATIONAL
+INFORMATICS CENTRE NEW
+DELHI
+
+1  45
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2.Timely Servicing / rectification of defects during warranty period: After having been notified
+
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 3 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+3.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+4.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+5. ISO 9001: The bidder must have ISO 9001 certification.
+6.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+
+offered product during the last three years, ending on 31st March of the previous financial
+year, should be as indicated in the bid document. Documentary evidence in the form of
+certified Audited Balance Sheets of relevant periods or a certificate from the Chartered
+Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than
+3 year old, the average turnover in respect of the completed financial years after the date of
+constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of
+CATEGORY RELATED TO primary product having highest bid value should meet this criterion.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                            37 / 37
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

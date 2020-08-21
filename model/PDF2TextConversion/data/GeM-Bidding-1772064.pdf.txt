@@ -1,0 +1,791 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/697265
+
+  Dated: 03-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 18-07-2020 17:00:00
+
+Bid Opening Date/Time 18-07-2020 17:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Manipur
+
+Department Name Health Services Department Manipur
+
+Organisation Name National Rural Health Mission (nrhm)
+
+Office Name Lamphelpat
+
+Total Quantity 9
+
+Item Category ECG Machine
+
+Bidder Turnover (Last 3 Years)  2 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  4 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  50 %
+
+Bid to RA enabled  No
+
+Inspection Required  Yes
+
+Inspection to be carried out by Buyers own
+empanelled agency
+
+ Yes
+
+Type Of Inspection  Post Dispatch
+
+Name of the Empanelled Inspection
+Agency/ Authority
+
+ Board of Officers
+
+EMD Detail
+
+                               1 / 9
+
+
+
+ 
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 50% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+ECG Machine ( 9 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Certificates Confirmity to
+standards
+
+European CE European CE
+
+Certification number
+and date
+
+- *
+
+Confirmity to safety of
+electromagnetic
+compatibility
+
+IEC-60601-1-2:2001 (or
+equivalent BIS)
+
+*
+
+                               2 / 9
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/Ul0VkPpTUGvRT4kYYpV_42K6usNycsCXu1cdZcA5Acg
+
+
+ 
+
+Confirmity to safety
+standard
+
+IS - 13450 /
+IEC60601-1-2005
+
+*
+
+Performance
+Parameters
+
+Purpose ECG machine is
+primary equipment to
+record ECG signal with
+interpretation which is
+required for recording
+and analyzing the
+waveforms with
+software.
+
+ECG machine is
+primary equipment to
+record ECG signal with
+interpretation which is
+required for recording
+and analyzing the
+waveforms with
+software.
+
+Operating modes of
+ECG Machine
+
+Automatic, Manual and
+Rhythm
+
+*
+
+ECG machine should
+have ECG lead
+annotation facility
+
+Yes *
+
+Leads which is in ECG
+machine should be able
+to acquire
+simultaneously and
+interpret them
+
+12 *
+
+Number of channels 3 3
+
+ECG machine should
+acquire lead ECG for
+both adult and
+paediatric patients
+
+Yes *
+
+The ECG machine
+should have facility to
+show lead fail
+indication
+
+Yes *
+
+The ECG machine
+should have facility to
+show lead reversal
+indication
+
+Yes *
+
+The ECG machine
+should have facility to
+show the impedance to
+quality check of
+connection
+
+Yes *
+
+Acquisition time for
+ECG Machine in sec
+
+10 sec *
+
+Digital sampling rate
+for Pacemaker spike
+detection
+
+40000 s/sec/channel *
+
+Recording of digital
+sampling for
+pacemaker
+
+1000 s/sec/channel *
+
+ECG machine should
+have real time colour
+backlit display of ECG
+waveforms with signal
+
+Yes *
+
+                               3 / 9
+
+
+
+ 
+
+qualify indication for
+each lead
+
+ECG machine should
+have frequency filters
+
+Artifact, AC and low
+and high pass
+frequency filters
+
+*
+
+Number of ECGs
+which can be store
+in ECG Machine
+
+151-200 151-200
+
+ECG machine should
+have full screen
+preview of ECG
+report for quality
+assessment checks
+prior to print
+
+Yes Yes
+
+Type of inbuilt
+screen
+
+LCD LCD
+
+Size of screen in
+inches
+
+5 5
+
+Display resolution of
+ECG machine in pixels
+
+640 x 480 *
+
+ECG machine should
+have interpretation
+facility of the
+amplitudes, duration
+and morphologies of
+ECG waveforms and
+associated rhythm for
+adult and pediatric
+patient
+
+Yes *
+
+ECG machine should
+have alphanumeric
+keyboard for patient
+data entry
+
+Hard keys Hard keys
+
+Size of printing
+paper
+
+A4 A4
+
+Resolution of digital
+array printer using
+thermal sensitive paper
+in ECG Machine in dpi
+
+200 dpi x 500 dpi on 25
+mm/sec speed
+
+*
+
+ECG machine report
+format
+
+Report formats of 3x4;
+6x2, Rhythm for up to
+selected leads, 12 lead
+extended
+measurement, 1
+minute of continuous
+waveform data for 1
+selected lead
+
+*
+
+Provision of battery Yes Yes
+
+Battery capacity 50 ECG or 1 hour of
+continous rhythm
+
+50 ECG or 1 hour of
+continous rhythm
+
+                               4 / 9
+
+
+
+ 
+
+recording on single
+charge
+
+recording on single
+charge
+
+Connectivity to ECG
+Machine
+
+LAN LAN
+
+Storage on external
+portable memories
+
+USB support *
+
+The individual patient
+lead should be change
+without replacing the
+whole patient cable
+assembly
+
+Yes *
+
+Noise level in dba 35 *
+
+Weight of ECG Machine
+in Kg
+
+2.5 *
+
+Frequency in Hz 300 *
+
+Availability of latest
+interpretation
+software
+
+Yes Yes
+
+Wireless acquisition
+module with RF
+technology
+
+No Yes, No
+
+System should have
+the dedicated
+software to
+download the ECG
+form machine in PDF
+format
+
+Yes Yes
+
+Warranty in years 4 4
+
+User and service
+manual of ECG Machine
+
+Yes *
+
+Environmental
+Parameters
+
+Operating temperature
+and humidity
+
+temperature of 10-40
+degree C and relative
+humidity of 15-90%
+
+*
+
+Trolley Provision of trolley No No
+
+Material of Frame of
+trolley
+
+No Trolley Provided No Trolley Provided
+
+Material of Top of
+trolley
+
+No Trolley Provided No Trolley Provided
+
+Number of castors No Trolley Provided No Trolley Provided
+
+Number of brakes
+for castors
+
+No Trolley Provided No Trolley Provided
+
+Height of trolley in
+inch
+
+No Trolley Provided No Trolley Provided
+
+Provision of railing
+for top shelf
+
+No Trolley Provided No Trolley Provided
+
+Availability of
+suitable cable arm
+
+No Trolley Provided No Trolley Provided
+
+                               5 / 9
+
+
+
+ 
+
+having holder for
+ECG cables when not
+in use
+
+Power Supply Power input 220-240 V AC, 50 Hz
+fitted with Indian plug
+
+*
+
+Length of power cable
+in meter
+
+3 *
+
+Resettable over current
+breaker shall be fitted
+for protection
+
+Yes *
+
+Accessories ECG Machine 12
+leads with
+interpretation
+
+1 1
+
+Patient Cable 2 2
+
+Chest Electrodes
+Adult (set of Six)
+
+1 1
+
+Chest Electrodes
+Paediatric (set of
+Six)
+
+2 2
+
+Limb Electrodes 2 for adults and 2 for
+paediatric
+
+2 for adults and 2 for
+paediatric
+
+Thermal paper for
+500 patients
+
+1 SET 1 SET
+
+Power cable for
+charging
+
+Yes Yes
+
+Supplied with Clip
+electrode
+
+No Yes, No
+
+Reports Manufacturer shall be
+ISO certified
+
+ISO 13485 *
+
+ISO cetification deatils
+such as date and
+number
+
+- *
+
+Availability of test
+report from govt/
+NABL/ILAC
+accredited lab
+covering all
+parameters
+
+No No
+
+Test report number ,
+Incase test reports not
+availabble , put NA
+
+- *
+
+Test report date, Incase
+test reports not
+availabble , put NA
+
+- *
+
+Name of test lab ,
+Incase test reports not
+availabble , put NA
+
+- *
+
+Address of test lab , - *
+
+                               6 / 9
+
+
+
+ 
+
+Incase test reports not
+availabble , put NA
+
+Copies of all test
+reports to be
+provided to buyer on
+demand at time of
+supplies ,
+
+NA ,Incase test reports
+not availabble
+
+NA ,Incase test reports
+not availabble
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Pungsumbam
+Ibomcha Singh
+
+795004,Medical Directorate,
+Lamphelpat, Imphal
+
+9  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+2.Bid reserved for Make In India products: Procurement under this bid is reserved for purchase
+from Class 1 local suppliers as defined in public procurement (Preference to Make in India),
+Order 2017 as amended from time to time and its subsequent Orders/Notifications issued by
+concerned Nodal Ministry for specific Goods/Products. The minimum local content to qualify
+as a class 1 local supplier is denoted in the bid document 50%. All bidders must upload a
+certificate from the OEM regarding the percentage of the local content and the details of
+locations at which the local value addition is made along with their bid, failing which the bid
+is liable to be rejected. In case the bid value is more than Rs 10 Crore, the declaration
+relating to percentage of local content shall be certified by the statutory auditor or cost
+auditor, if the OEM is a company and by a practicing cost accountant or a chartered
+accountant for OEMs other than companies as per the Public Procurement (preference to
+Make-in -India) order 2017 dated 04.06.2020 . In case Buyer has selected Purchase
+preference to Micro and Small Enterprises clause in the bid, the same will get precedence
+over this clause.
+
+3. Indian suppliers of this item are not allowed to participate and/ or compete in procurement
+by some foreign governments. Bidders / products from such countries are not eligible / not
+allowed to participate in this bid in terms of clause 1 (d) of Public Procurement (Preference
+to Make in India) Order, 2017
+
+4.Procurement under this bid is reserved for purchase from Micro and Small Enterprises whose
+credentials are validated online through Udyog Aadhaar for that product category. If the
+bidder wants to avail the reservation benefit, the bidder must be the manufacturer of the
+offered product in case of bid for supply of goods. Traders are excluded from the purview of
+Public Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the
+bidder must be the Service provider of the offered Service. Relevant documentary evidence
+in this regard shall be uploaded along with the bid in respect of the offered product or
+service.
+
+5.Preference to Make In India products (For bids less than 200 Crore):Preference shall be given
+
+                               7 / 9
+
+
+
+ 
+
+to Class 1 local supplier as defined in public procurement (Preference to Make in India),
+Order 2017 as amended from time to time and its subsequent Orders/Notifications issued by
+concerned Nodal Ministry for specific Goods/Products. The minimum local content to qualify
+as a Class 1 local supplier is denoted in the bid document 50%. If the bidder wants to avail
+the Purchase preference, the bidder must upload a certificate from the OEM regarding the
+percentage of the local content and the details of locations at which the local value addition
+is made along with their bid, failing which no purchase preference shall be granted. In case
+the bid value is more than Rs 10 Crore, the declaration relating to percentage of local
+content shall be certified by the statutory auditor or cost auditor, if the OEM is a company
+and by a practicing cost accountant or a chartered accountant for OEMs other than
+companies as per the Public Procurement (preference to Make-in -India) order 2017 dated
+04.06.2020. Only Class-I and Class-II Local suppliers as per MII order dated 4.6.2020 will be
+eligible to bid. Non - Local suppliers as per MII order dated 04.06.2020 are not eligible to
+participate. In case Buyer has selected Purchase preference to Micro and Small Enterprises
+clause in the bid, the same will get precedence over this clause.
+
+6.Warranty period of the supplied products shall be 4 years from the date of final acceptance
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+7.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+8.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+9.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+10.Procurement under this bid is reserved for purchase from Micro and Small Enterprises from
+the State of Bid Inviting Authority whose credentials are validated online through Udyog
+Aadhaar for that product category. If the bidder wants to avail the reservation benefit, the
+bidder must be the manufacturer of the offered product in case of bid for supply of goods.
+Traders are excluded from the purview of Public Procurement Policy for Micro and Small
+Enterprises. In respect of bid for Services, the bidder must be the Service provider of the
+offered Service. Relevant documentary evidence in this regard shall be uploaded along with
+the bid in respect of the offered product or service.
+
+11.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+12.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial
+year, should be as indicated in the bid document. Documentary evidence in the form of
+certified Audited Balance Sheets of relevant periods or a certificate from the Chartered
+Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than
+3 year old, the average turnover in respect of the completed financial years after the date of
+constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of
+
+                               8 / 9
+
+
+
+ 
+
+CATEGORY RELATED TO primary product having highest bid value should meet this criterion.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               9 / 9
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

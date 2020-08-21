@@ -1,0 +1,431 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/715330
+  Dated: 18-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 25-07-2020 10:00:00
+
+Bid Opening Date/Time 25-07-2020 10:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Home Affairs
+
+Department Name Central Armed Police Forces
+
+Organisation Name Border Security Force (bsf)
+
+Office Name 38 Bn Bsf Roopnagar
+
+Total Quantity 7
+
+Item Category Pulse Oximeter
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Pulse Oximeter ( 7 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Conformity to Standards - *
+
+Certification number and
+date
+
+- *
+
+                               1 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/18S1VefBHWBMnqh-QFJl94AwFfVQ48AD9b_haazTWI4
+
+
+ 
+
+"Electrical safety conforms
+to standards for electrical
+safety"
+
+IEC-60601-1 or equivalent
+BIS
+
+*
+
+Performance Parameters Type of Pulse Oximeter FINGER TIP FINGER TIP
+
+Should work during motion
+and very low perfusion
+conditions
+
+Yes *
+
+Special Signal processing
+Technology (Motion
+artifact rejection)
+
+Nellcor Oximax Nellcor Oximax, Nellcor
+Compatible
+
+SPO2 probes Reusable Reusable
+
+Oxygen saturation Range 0-100% *
+
+Pulse rate 25-240 BPM *
+
+Display of SPO2 and PR digital display with
+plethysmograph with trends
+
+digital display with
+plethysmograph, digital
+display with
+plethysmograph with trends
+
+Accuracy ± 5 % *
+
+Type of Patient Adult,Pediatric,Neonatal Adult, Pediatric, Neonatal
+
+Should be shock proof Yes Yes, No
+
+Display (with contrast
+adjust-ability)
+
+LCD LCD, TFT
+
+Display should be
+Readable from at least 3
+feet
+
+Yes Yes, No
+
+Saturation displayed on
+the screen
+
+Yes Yes
+
+Pulse Rate displayed on
+the screen
+
+Yes Yes
+
+Perfusion Index
+displayed on the screen
+
+Yes Yes, No
+
+Status of battery
+charging displayed on
+the screen
+
+Yes Yes
+
+Sensor off /on status Yes Yes, No
+
+Audible and visual
+Alarms
+
+Yes Yes, No
+
+Alarm override facility
+should be present
+
+Yes Yes, No
+
+Trends 96 hrs 48 hrs, 72 hrs, 96 hrs
+
+Type of trend display Graphical Tabular, Graphical
+
+Data interval in sec 30 *
+
+Power source Battery operated Battery operated, Battery
+operated with external
+charger, Inbuilt re-
+chargeable battery and
+mains 220-240 V , 50 Hz AC
+operation
+
+Automatic switch from
+mains to battery in case
+of power failure
+
+NA Yes, NA
+
+RS 232C interface for
+data communication and
+
+Yes Yes, NA
+
+                               2 / 4
+
+
+
+ 
+
+transfer
+
+Should have provisions
+for wireless and blue
+tooth connectivity
+
+Yes Yes, NA
+
+Patient extension cable Not Provided Yes, Not Provided
+
+Power consumption in watts 3 *
+
+Operating Temperature "Ambient temperature of 0
+to 40 deg C and relative
+humidity of 15 to 90%"
+
+*
+
+Weight of the machine in kg 0.5 *
+
+Protective splash proof
+case for clean and
+strogage and safe
+transport provided
+
+No Yes, No
+
+Length of power cable NA 3m or more, NA
+
+Noise level in dB 20 *
+
+Display must allow easy
+viewing in all ambient light
+levels
+
+Yes *
+
+Probes Type of probe Adult,Pediatric,Neonatal Adult, Pediatric, Neonatal
+
+Probe usage Disposable Reusable, Disposable
+
+Number of probes
+provided (Hint: in case
+adult , pediatric and
+neonatal are selected for
+type of probe all the
+three have to be given
+and in case adult &
+pediatric are selected
+both are to be given)
+
+1 each 1 each, 2 each, 3 each, 4
+each
+
+NIBP Parameters Non invasive blood
+pressure (NIBP) provided
+
+No Yes, No
+
+Type of BP monitoring NA (If NIBP not provided) Adult, Pediatric, Neonatal,
+NA (If NIBP not provided)
+
+NIBP range in mmH NA (If NIBP not provided) 20-400, NA (If NIBP not
+provided)
+
+Cuff size NA (If NIBP not provided) Adult, Pediatric, Neonatal,
+Extra Large, NA (If NIBP not
+provided)
+
+Number of cuff's
+provided
+
+NA (If NIBP not provided) 1 each, 2 each, 3 each, 4
+each, NA (If NIBP not
+provided)
+
+Warranty in years
+(without probes)
+
+1 1, 2, 3, 4, 5
+
+Warranty for probes in
+years
+
+1 1, 2, Not Provided
+
+Reports Confirmity to
+Manufactures
+Certification
+
+ISO 9001 & ISO 13485 ISO 9001 & ISO 13485,
+ICMED 9001 & 13485, Both
+ISO 9001 & ISO 13485 &
+ICMED 9001 & 13485
+
+ISO/ ICMED Certification
+number and date
+
+- *
+
+Copies of all certifcations to
+be furnished to buyer on
+demand at time of supplies
+
+Yes *
+
+                               3 / 4
+
+
+
+ 
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Delivery Schedule (In number of days from
+contract start days)
+
+1 M D Khurshid Alam 736179,Commandant 38 BN BSF
+Roopnagar
+
+  Quantity Delivery to
+start after
+
+Delivery to be
+completed by
+
+7 1 10
+
+Bid Specific Additional Terms and Conditions
+1.Bidder / OEM has to give an undertaking that after expiry of warranty period, it will provide AMC Service for next 
+
+1 years for the offered products at the rate not more than 5 % of contract price per annum. Buyer reserves the
+right to enter into an AMC agreement ( covering preventive maintenance and servicing)with the Successful
+Bidder / OEM after expiry of the Warranty period at rate as mentioned above and the payment for the AMC
+charges would be made Monthly after rendering of the AMC Services of the relevant AMC period. Performance
+Security of the successful bidder shall be forfeited if it fails to accept the AMC contract when called upon by the
+buyer. The original Performance Security of contract will be returned only after submission and verification of
+AMC Performance Security for 2% of total AMC value valid up to AMC period plus 2 months (if there is no other
+claim). (Undertaking of acceptance to be uploaded with bid).
+
+2.Bidder / OEM has to give an undertaking that after expiry of warranty period, it will provide Comprehensive
+Maintenance Service for next 1 years for the offered products at the rate not more than 5 % of contract price per
+annum. Buyer reserves the right to enter into a CMC agreement with the Successful Bidder / OEM after expiry of
+the Warranty period at above mentioned rate and the payment for the CMC charges would be made Monthly
+after rendering of the CMC Services of the relevant CMC period. Performance Security of the successful bidder
+shall be forfeited if it fails to accept the CMC contract when called upon by the buyer. CMC would include cost of 
+2000 (Upload the undertaking). The original Performance Security of contract will be returned only after
+submission and verification of AMC Performance Security for 2% of total CMC value valid up to CMC period plus 2
+months (if there is no other claim).
+
+3.Over and above the normal Warranty terms as per GeM GTC, the successful bidder / OEM shall have to provide
+Comprehensive Warranty during the entire Standard warranty period as per contract. : The comprehensive
+warranty shall be covering the following scope 1 (Upload an undertaking with the bid confirming compliance by
+the bidder if Bidder is taking onus of this compliance. In case OEM is taking onus of this compliance, OEM
+undertaking is to be uploaded along with Bidder undertaking)
+
+4.Successful bidder will have to ensure that adequate number of dedicated technical service personals / engineers
+are designated / deployed for attending to the Service Request in a time bound manner and for ensuring Timely
+Servicing / rectification of defects during warranty period, as per Service level agreement indicated in the
+relevant clause of the bid.
+
+5.Timely Servicing / rectification of defects during warranty period: After having been notified of the defects /
+service requirement during warranty period, Seller has to complete the required Service / Rectification within 7
+days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of
+Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit
+the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the
+Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after
+which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and
+cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service /
+rectification to the Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

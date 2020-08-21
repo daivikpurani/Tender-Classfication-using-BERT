@@ -1,0 +1,699 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/703916
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 14:00:00
+
+Bid Opening Date/Time 20-07-2020 14:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 70 (Days)
+
+Ministry/State Name Haryana
+
+Department Name Police Department Haryana
+
+Organisation Name Haryana Prisons Panchkula
+
+Office Name Panchkula
+
+Total Quantity 144
+
+Item Category LED Luminaire (for Flood Light)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  Yes
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 5.00
+
+EMD Amount 55440
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 10.00
+
+Duration of ePBG required (Months). 3
+
+                               1 / 8
+
+
+
+ 
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+care taker
+Panchkula, Police Department Haryana, Haryana Prisons Panchkula ,
+(Shashi Kumar)
+
+Splitting
+
+  Bid splitting not applied.  
+
+LED Luminaire (for Flood Light) ( 144 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+STANDARDS LED Luminaire
+conformity to
+IS:10322/Part 5/Section
+5/2012 latest and IS:
+16107 (Part 2/Sec
+1):2012 latest
+
+Yes *
+
+Photo biological safety
+of LEDs used shall be
+as per IS:16108/2012
+(exempt group)
+
+Yes *
+
+Types of LED Luminaire
+as per the IS:
+16107(Part-2/
+Sec.-1)/2012
+
+Type B *
+
+Types of LED Modules
+as per the IS:
+16103(Part-2)/2012
+
+Type 3 *
+
+LED Rating/System
+Wattage/Rated
+Power
+
+70W 70W
+
+Luminaire System
+Efficacy (Lumen/watt)
+
+>/= 100 Lm/Watt *
+
+                               2 / 8
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/EX3qH1HOh9KDQMnVY1oidYe6TlajkKw7GGNOhJuAJhc
+
+
+ 
+
+Ingress Protection
+(IP Rating) as per
+IS:10322 (Part
+1):1982 latest
+
+IP67 IP65, IP67
+
+Mounting brackets
+(included)
+
+Adjustable *
+
+Warranty for free
+replacement (in
+Years)
+
+2 2
+
+ELECTRICAL
+EFFICIENCY
+
+Input operating
+Voltage range and
+frequency
+
+90 to 300 V olts AC at
+50 Hz+/-2 Hz
+
+90 to 300 V olts AC at
+50 Hz+/-2 Hz
+
+Automatic Higher Cut
+off voltage above 300
+volt
+
+Yes *
+
+Rated voltage 230 V AC 50 Hz 230 V AC 50 Hz
+
+AC Power Factor at full
+load
+
+≥ 0.95 *
+
+Driver Efficiency (in
+%age)
+
+≥85 *
+
+Total Harmonics
+Distortion (in %age)
+
+≤ 10 *
+
+"The total circuit power
+shall not be more than
+110 percent of the
+value declared by the
+manufacturer"
+
+Yes *
+
+OPTICAL LED chip Efficacy ≥130 Lm/Watt *
+
+Colour temperature
+(+/-500K)
+
+6000K 6000K
+
+Working life for LED
+(Minimum 50,000
+burning hours as per
+LM-80 report)
+
+Yes Yes
+
+Colour Rendering
+Index(CRI)
+
+≥70 *
+
+Beam Angle ≥120 *
+
+Optic lense materal (UV
+stabilised) (Write NA for
+without optic lense
+supply)
+
+Poly carbonate lense *
+
+THERMAL
+MANAGEMENT
+
+Heat sink should be die-
+cast aluminium along
+with sufficient heat sink
+fins to dissipate heat
+effectively
+
+Yes *
+
+Capacitor shall be rated
+for a temperature of
+
+Yes *
+
+                               3 / 8
+
+
+
+ 
+
+105 deg. celsius or
+better
+
+Junction temperature < 85 degC *
+
+Operating temperature
+range
+
+-20 deg C to +50 deg C *
+
+Operating Humidity
+Range
+
+10 % to 95% RH *
+
+PROTECTION Short circuit Protection Yes *
+
+Over load protecton Yes *
+
+Over Voltage protection Yes *
+
+Reverse polarity Yes *
+
+High voltage test (1.5
+KV for one minute
+between supply
+terminals and body of
+the unit)
+
+Yes *
+
+Insulation resistance
+between earth and
+current carrying part
+
+>100 M ohm *
+
+The luminaire shall be
+protected against
+surges and transients (
+Internal)
+
+>/=4KV *
+
+The luminaire shall be
+protected against
+surges and transients
+of >/=10KV (External)
+
+Yes *
+
+CONSTRUCTIONAL The Luminaires
+casing/housing (single
+piece housing) shall be
+pressure die casted
+aluminium alloy with
+higher thermal
+conductivity
+
+Yes *
+
+The luminaire body
+must be corrosion
+resistant epoxy powder
+coated
+
+Yes *
+
+All fastners must be of
+stainless steel
+
+Yes *
+
+The entire housing
+(both LED section and
+driver section) shall be
+dust and water proof
+having IP 66 protection
+as per IS:10322 (Part
+1):1982 latest
+
+Yes *
+
+Extruded silicon loop
+gasket shall be
+
+Yes *
+
+                               4 / 8
+
+
+
+ 
+
+provided in the lantern
+body to ensure a
+weather proof seal
+between the UV Glass
+cover and the metal
+housing to exclude the
+entry of the dust,
+water, insects etc.,
+
+Luminaries light
+transparency should be
+of Toughened glass
+
+Yes *
+
+Toughned transparent
+glass cover thickness
+
+>/=4 mm *
+
+Toughned Glass shall
+not get discoloured
+shall not suffer
+degration due to heat
+and ageing within
+warranty period
+
+Yes *
+
+Number of electronic
+control gear (power
+supplies)
+
+2 Nos. 2 Nos.
+
+Driver components
+shall be industrial
+grade or above
+
+Yes *
+
+PCB shall be FR4 grade
+minimum 0.8 to 1.0
+mm thick or more
+
+Yes *
+
+The Luminaires works
+on single phase three
+wires system (Phase,
+Neutral and Earth)
+
+Yes *
+
+Suitable connector
+shall be provided for
+LED connection
+between driver output
+and LED
+
+Yes *
+
+Length of ISI marked
+three core wire (shall
+be provided along with
+supply of material)
+
+50 cm *
+
+Light Source SMD LED Chip as per
+LM 80/IS16106
+
+*
+
+MARKING "Manufactures Name
+and and brand on the
+aluminium die cast
+body
+
+Engraved/Embossed *
+
+Manufacturer’s name,
+model number, serial
+number
+
+Yes *
+
+                               5 / 8
+
+
+
+ 
+
+Date of manufacture
+(month-year), and lot
+number as
+identification mark
+inside each unit and
+the outside of each
+packaging box
+
+Yes *
+
+The operation
+characteristics voltage
+and power be marked
+inside of each LED
+luminaire unit
+
+Yes *
+
+REPORTS AND
+CERTIFICATIONS
+
+LED Make OSRAM / NICHIA/CREE /
+SAMSUNG / SEOUL /
+LUMILED / PHILIPS /
+EDISON / SYSKA /
+LUMENMAX /
+EVERLIGHT /
+BRIDGELUX /
+NATIONSTAR / REFOND
+
+*
+
+System must have
+EMI/EMC compliance as
+applicable (Test reports
+shall be furnish on
+demand by
+buyer/consignee)
+
+Yes *
+
+LM 79 (Photometry)
+(Ref.IS:16106:2012)
+report from Central
+Government
+lab/NABL/ILAC
+accrediated lab.
+Reports shall be furnish
+on demany by buyer
+(LM-79 report shall
+have total lumen
+output, power, PF,
+Current in Amps, CRI &
+CCT etc.,)
+
+Yes *
+
+LM 80 & TM 21 (Part of
+LM 80) (Ref.
+IS:16105:2012) Reports
+and Photo biological
+report for LED report
+from Central
+Government lab
+/NABL/ILAC accrediated
+lab. Reports shall be
+furnish on demany by
+buyer (LM-80 report
+shall haveand the
+Pohoto Biological report
+of the LED Chip being
+used in the luminaire)
+
+Yes *
+
+                               6 / 8
+
+
+
+ 
+
+Availability of test
+Report from Central
+Government
+lab/NABL/ILAC
+accrediated lab to
+Indian Standrad
+IS:10322/part
+5/sec-5/2012 and IS
+16107 (Part 2/Sec 1) :
+2012
+
+Yes *
+
+Seller has to furnish
+Type test report on
+demand by
+buyer/consignee
+
+Yes *
+
+DC or AC supplied
+electronic control gear
+for LED Module shall
+comlpy as per IS:15885
+(Part 2/Sec.13)
+
+Yes *
+
+LED Luminaire for Flood
+Light shall comply with
+Complusory
+Registration(CRS) of
+BIS for safety as per IS
+10322 (Part 5/Section
+5): 2012 as applicable
+on the date
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Naresh Kumar 125001,Central Jail-2 Hisar 10  30
+
+2 Deepak Sharma 121001,District Jail
+Faridabad
+
+20  30
+
+3 Surender Kumar 124001,DISTRICT JAIL
+ROHTAK
+
+10  30
+
+4 Rajinder Singh 135001,District Jail 15  30
+
+                               7 / 8
+
+
+
+ 
+
+Yamunanagar
+
+5 Sanjeev Kumar 121102,DISTRICT JAIL
+PALWAL
+
+5  30
+
+6 Jai Kishan Chhillar 122107,DISTRICT JAIL
+GURUGRAM
+
+20  30
+
+7 Devi Dayal 123001,DISTRICT JAIL
+NARNAUL
+
+10  30
+
+8 Surender Dalal 123401,DISTRICT JAIL
+REWARI
+
+4  30
+
+9 Satvinder Kumar 131029,DISTRICT JAIL
+SONEPAT
+
+10  30
+
+10 Sanjay Singh 136118,District Jail
+Kurukshetra
+
+10  30
+
+11 Satyapal Singh
+Kasania
+
+125001,Central Jail-1 Hisar 10  30
+
+12 Amit Kumar 125055,DISTRICT JAIL SIRSA 10  30
+
+13 Dayanand 124103,District Jail Jhajjar 10  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               8 / 8
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

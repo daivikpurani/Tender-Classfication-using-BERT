@@ -1,0 +1,871 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/713127
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 15:00:00
+
+Bid Opening Date/Time 27-07-2020 15:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Madhya Pradesh
+
+Department Name Public Health And Family Welfare Department Madhya Pradesh
+
+Organisation Name N/a
+
+Office Name 7652241240
+
+Total Quantity 2
+
+Item Category Ventilator
+
+Bidder Turnover (Last 3 Years)  5 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  35 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years Of Experience and
+Turnover
+
+ Yes
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM Authorization
+Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the
+buyer
+
+Past Performance  80 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM {themselves or
+
+                               1 / 9
+
+
+
+ 
+
+through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central
+/ State Govt Organization / PSU / Public Listed Company for number of years as indicated in the bid document before the
+bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some
+quantity during each of the year. In case of bunch bids, the category of primary product having highest value should
+meet this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product during the
+last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document.
+Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the
+Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with
+the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have supplied same or similar
+Category Products for 80% of bid quantity, in at least one of the last three years before the bid opening date to any
+Central / State Govt Organization / PSU / Public Listed Company. Copies of relevant contracts (proving supply of
+cumulative order quantity in any one year) to be submitted along with bid in support of quantity supplied in the relevant
+year. In case of bunch bids, the category related to primary product having highest bid value should meet this criterion.
+
+Ventilator ( 2 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Certifications Certifications for the
+product
+
+- *
+
+Certificate number and date - *
+
+Confirmity to quality
+management standards
+
+ISO 9001 & ISO 13485 *
+
+Confirmity to electrical
+safety standards
+
+IEC 60601-1 or ISO
+80601-2-12 or BIS
+equivalent
+
+*
+
+Performance Parameters Purpose Ventilators used to provide
+invasive ventilation (e.g.,
+with an endotracheal tube
+or tracheostomy tube) or
+noninvasive ventilation
+(e.g., with a face mask).
+This device provide
+temporary or permanent
+respiration for patients who
+cannot breathe on their
+own, or who require
+assistance maintaining
+adequate ventilation
+
+*
+
+Suitable for ICU Yes *
+
+Patient type Adult & pediatric *
+
+Type of technology Compressor *
+
+If technology is compressor
+based
+
+Compressor should be
+standalone
+
+*
+
+Tidal volume 50 ml or less - 1500 ml or
+more
+
+*
+
+Peak Respiratory rate in
+breaths/min
+
+180 *
+
+Trigger mechanism Both pressure and flow *
+
+                               2 / 9
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/KAW_eyJZTpT3NcGby7OmnRhjqVhUtnejp7d83Dbwzi8
+
+
+ 
+
+Trigger flow sensitivity 1 to 10 LPM *
+
+Peak flow rate , LPM 240 *
+
+FiO2 21-100% *
+
+IE ratio 1:4 to 4:1 *
+
+PEEP/CPAP, cm H2O
+(increments of 1cm H2O)
+
+0-30 *
+
+Programmable/adjustable
+sign
+
+Yes *
+
+Ventilation monitoring
+facility
+
+Microprocessor Controlled
+ventilator with active
+exhalation valve
+
+*
+
+Leak volume compensation Yes *
+
+Volume accuracy 2-3% of full scale between
+10 to 80 LPM
+
+*
+
+Inspiratory time 0.3 to 2.5 sec *
+
+Pressure support 0-40 cm H2O *
+
+Inspiratory pause Yes *
+
+Auto 100% Increase O2
+button
+
+Yes *
+
+Control panel lock Yes *
+
+Facility for double lung
+ventilation
+
+No *
+
+Undergo Automatic
+calibration system on start
+up
+
+Yes *
+
+Modes and Monitored
+Parameters
+
+Loops displayed Flow/Volume,
+Pressure/Volume,
+Pressure/Flow
+
+*
+
+Graphic display have
+automatic scaling facility for
+waves
+
+Yes *
+
+Maximum trending time 24 *
+
+Lung recruitment tools (PV
+loops)/OLT(Open lung tools)
+
+Yes *
+
+Lung mechanics
+visualization tool
+
+Yes *
+
+Capnography/CO2
+monitoring
+
+No *
+
+Esophageal/transpulmonary
+pressure monitoring
+
+Yes *
+
+Stress index No *
+
+Modes of ventilation Volume controlled, Pressure
+Controlled, Pressure
+Support, SIMV with Pressure
+support ,SIMV with volume
+control with pressure
+support, ,CPAP/PEEP,Inverse
+Ratio Ventilation,Non
+invasisve ventilation,Apnea
+/back up ventilation,SIMV
+(VC) with Pressure support;
+SIMV (PC) with Pressure
+Support; SIMV (PRVC) with
+Pressure Support, Bi-phasic
+
+*
+
+                               3 / 9
+
+
+
+ 
+
+ASV(Adaptive support
+ventilation) ALT
+
+Yes *
+
+APRV Yes *
+
+MMV +PSV /ASV or ALPV or
+Automode
+
+Yes *
+
+Automatic weaning mode Yes *
+
+Displayed parameters Respiratory phase and type,
+Exhaled tidal & minute
+volume, Peak inspiratory
+pressure , Mean airway
+pressure, PEEP , Tidal
+volume, Leak volume,
+Minute volume,
+Spontaneous minute
+volume, FiO2 (analyzed %),
+Respiratory rate ,
+Inspiratory time, Expiratory
+time, IE ratio, mean &
+Plateau Pressure
+
+*
+
+RSBI No *
+
+Static compliance and
+resistance
+
+Yes *
+
+Low inflection point (LPI)
+and upper inflection point
+(UPI)
+
+No *
+
+Alarms Patient alarms Low/high FiO2, Low/high
+minute volume , Low
+inspiratory pressure , High
+pressure, Low PEEP , High
+PEEP, Apnea, Continuous
+high pressure/occlusion,
+Inverse IE, High respiratory
+rate, Breathing circuit
+disconnect
+
+*
+
+Equipment alarms Gas-supply failure , Power
+failure, Vent inoperative,
+Low battery, Self-diagnostic
+
+*
+
+Non-forced Slow Vital
+Capacity
+
+No *
+
+Physiologic Dead space No *
+
+Imposed work of Breathing (
+WOBi)
+
+No *
+
+Expiratory Time constant (
+Tcexp)
+
+Yes *
+
+Compliance static and
+dynamic
+
+Yes *
+
+Inspired and expired
+resistance
+
+Yes *
+
+Inspiratory and expiratory
+hold
+
+Yes *
+
+Spontaneous frequency Yes *
+
+Expiratory block is
+autoclavable and no routine
+calibration required
+
+Yes *
+
+Power disconnected Power supply unplugged *
+
+Patient Disconnected "PIP < (Desired Pressure x *
+
+                               4 / 9
+
+
+
+ 
+
+0.6)"
+
+High Inspiratory Pressure "PIP < (Desired Pressure x
+0.6)"
+
+*
+
+High PEEP "PEEP > Set PEEP + 2 or 6
+Consecutive cycles"
+
+*
+
+High Respiratory Rate RR > 70 *
+
+Power Sensor Failure Power sensor fails to
+respond
+
+*
+
+Ventilator Temperature
+Error
+
+The core temperature of
+ventilator CPU greater than
+85 °C
+
+*
+
+System Failure (Safe Mode) "Vital components inactive" *
+
+Low Tidal Volume VTi < Set VT * 0.75 for 6
+consecutive cycles
+
+*
+
+Alarm history >100 alarms
+or minimum 16 alarms
+/event
+
+Yes *
+
+Time for Displayed Trends
+Values
+
+48 hours *
+
+Power requirement and data
+management
+
+RS 232 output port Yes *
+
+USB/Memory card Yes *
+
+Availability of Remote
+alarm/display port
+
+Yes *
+
+Facility to Report (vent
+alarms and patient status)
+
+Yes *
+
+HLT Compliant out put Yes *
+
+Type of colored display TFT *
+
+Display should be touch
+screen
+
+Yes *
+
+Size of screen 10 inch or more *
+
+Power supply 220-240 V , 50 Hz AC single
+phase
+
+*
+
+Length of Power cord 3 *
+
+Provision of UPS No *
+
+Battery backup time
+(tolerance of 30 minutes
+minus and plus side
+allowed)
+
+4 *
+
+Type of battery Lithium - ion *
+
+Power of battery in watt/hr 60 *
+
+Programmable ultrasonic
+nebulizer
+
+External *
+
+Additional Accessories Patient tubing for Adult and
+pediatric
+
+2 each *
+
+NIV mask(Re usable)-
+medium and large
+
+2 Each *
+
+Type of flow sensor Reusable *
+
+No of reusable flow sensor 2 *
+
+No of disposable flow sensor NA for reusable *
+
+Autoclavable exhalation 2 *
+
+                               5 / 9
+
+
+
+ 
+
+valve/expiratory casette /
+filter
+
+Humidifier: Servo controlled
+with digital monitoring of
+inspired gas temperature
+with heating wire and arm
+holder
+
+NA *
+
+Trolley for ventillator with
+circuit holding arm
+
+Yes *
+
+Test lung for adult and
+pediatric
+
+1 Each *
+
+Miscellaneous Parameters Comprehensive Warranty 5 5.0
+
+Compressor certification EU CE *
+
+Compressor shall provide an
+oil free Medical air, with
+Peak output flow and Air
+quality complying with ISO
+compressed air purity class
+
+Yes *
+
+Medical Air Compressor
+should automatically
+activate in the event of wall
+air supply loss and
+replacement of internal
+filters should be performed
+without removing the
+compressor, have washable
+air filter
+
+Yes *
+
+Compressor should be from
+same manufacturer or OEM
+
+Yes *
+
+Certification to supply the
+spare parts
+
+OEM/Reseller ( if supplied by
+reseller shall ensure
+uninterputed availabilty of
+all spares for 10 years)
+
+*
+
+Availabilty of toll free facility
+for technical support
+maintened by OEM or
+authorised agencies
+
+Yes *
+
+User/Technical/Maintenance
+manuals to be supplied in
+English in hard and soft
+copy
+
+Yes *
+
+Details of equipments and
+procedures required for
+local calibration and routine
+maintenance to be supplied
+and advanced maintenance
+task documentation also to
+be furnished
+
+Yes *
+
+List of spares List of important spares and
+accessories, with their part
+numbers and price lists to
+be supplied to the buyer at
+the time of supplying the
+equipment
+
+*
+
+Installation and training Installation of equipment
+and training to be provided
+after completing supplies
+before acceptance
+
+*
+
+Service Center (24x7 The Principal Manufacturer *
+
+                               6 / 9
+
+
+
+ 
+
+service) must have direct
+Presence/approved service
+center In India
+
+Copies of reports and
+certifications to be furnished
+to buyer on demand at time
+of supplies
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Atul Kumar Singh 484001,KUSHA BHAU THAKARE
+JILA CHIKITSALAY SHAHDOL
+
+2  15
+
+Special terms and conditions for category Ventilator 
+
+1.(i) Comprehensive warranty: Comprehensive warranty shall include preventive maintenance including calibration
+as per technical/ service /operational manual of the manufacturer, service charges and spares,. During the
+warranty period commencing from date of the successful completion of warranty period, Service personnel shall
+visit each consignee site as recommended in the manufacturer’s technical/ service /operational manual, at least
+once in six months. warranty shall not be including the consumables .Further there will be 98% uptime warranty
+during warranty period on 24 (hrs) X 7 (days) X 365 (days) basis, with penalty, to extend warranty period by
+double the downtime period.(ii) Service centres: Details of Service outlets in India to render services for
+equipment to be furnished to buyer/consignees with complete address ,telephone numbers, e mails etc at time
+of making the supplies .It shall be the responsibility of seller to ensure that authorized service centres are
+available to cater to the areas where supplies are made within reasonable distance from where the service calls
+can be handled .Details of toll free numbers for service call and online registration of service requests also to be
+provided buyer/consignee at the time of supplies.(iii) Source of supply: It shall be responsibility of seller to
+provide Documents regarding source of equipments such as copy of Performa invoice or any other documents to
+establish that the products supplied are manufactured by OEM indicated and sourced from them .(iv) Packing
+and Marking: Medical equipments being very delicate and sensitive packing for the goods should be strong and
+durable enough to withstand transit including transhipment (if any), rough handling, open storage etc. without
+any damage, deterioration etc. .The size, weights and volumes of the packing cases, remoteness of the final
+destination of the goods, availability or otherwise of transport and handling facilities at all points during transit
+up to final destination,. Quality of packing, the manner of marking within & outside the packages and provision
+of accompanying documentation shall take in to consideration the type of medical equipments being supplied.
+The accessories shall be suitably labelled and packed .Each of the package shall be marked on three sides with
+indelible paint of proper quality: indicating contract number and date , brief description of goods including
+quantity ,. Packing list reference number , country of origin of goods and any other relevant details.(v) Spare
+Parts: Seller shall provide materials, information etc. pertaining to spare parts manufactured and supplied by the
+OEM . It shall be ensured that the required spares are available for purchase at least for 10 years from date of
+supplies .In case due to any reasons the production of the spare parts is discontinued sufficient advance notice
+should be given to the buyer/consignee before such discontinuation to provide adequate time to purchase the
+required spare parts etc. Further, OEM and their service centres/dealers shall carry sufficient inventories to
+assure ex-stock supply of consumables and spares for the equipments so that the same are available.OEM or
+reseller shall always accord most favoured client status to the buyer/consignee and shall give the most
+competitive price for spares and consumables of its machines/equipments supplied(vi) Installation, Training,
+Manuals: Seller shall be responsible to carry out Installation & commissioning, Supervision and Demonstration of
+the goods. They shall provide required jigs and tools for assembly, minor civil works for the completion of the
+installation and Training of Consignee’s representatives for operating and maintaining the equipment and
+Supplying required number of operation & maintenance manual for the goods. In case the category parameters
+are specifying any requirements regarding the installations , training and manuals the same shall also be
+applicable.(vii) Electrical safety checking: Sellers are required to make sure that they furnish the list of
+equipments for carrying out routine and preventive maintenance to buyer/consignee .They should make sure to
+periodically check the electrical safety aspects as per BIS Safety Standards or equivalent .In case they do not
+have required equipment for such testing should ensure that the equipments checked for electrical safety
+compliance through labs with facilities for such checking during every preventive maintenance call.(viii)
+Software: All software updates should be provided free of cost during warranty period
+
+                               7 / 9
+
+
+
+ 
+
+Bid Specific Additional Terms and Conditions
+1.Bidder financial standing: The bidder should not be under liquidation, court receivership or similar
+
+proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid.
+2.Consortium: In case of Contracts, wherein the seller alone does not have necessary expertise, the seller can
+
+form consortium with other sellers for submission of the bid, with one of the consortium company as leader.
+However, each and every member of the consortium shall be equally responsible for the complete execution of
+the project contract. An undertaking to this effect is to be uploaded with bid.
+
+3.End User Certificate: Wherever Bidders are insisting for End User Certificate from the Buyer, same shall be
+provided in Buyer’s standard format only.
+
+4.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last three
+years, ending on 31st March of the previous financial year, should be as indicated in the bid document.
+Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from
+the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution shall be taken into
+account for this criteria.
+
+5.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product
+during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid
+document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a
+certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant
+period shall be uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than 3
+year old, the average turnover in respect of the completed financial years after the date of constitution shall be
+taken into account for this criteria. In case of bunch bids, the OEM of CATEGORY RELATED TO primary product
+having highest bid value should meet this criterion.
+
+6.IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered
+office in India to provide after sales service support in India. The certificate to this effect should be submitted.
+
+7.Bid reserved for Make In India products: Procurement under this bid is reserved for purchase from Class 1 local
+suppliers as defined in public procurement (Preference to Make in India), Order 2017 as amended from time to
+time and its subsequent Orders/Notifications issued by concerned Nodal Ministry for specific Goods/Products. The
+minimum local content to qualify as a class 1 local supplier is denoted in the bid document 50%. All bidders must
+upload a certificate from the OEM regarding the percentage of the local content and the details of locations at
+which the local value addition is made along with their bid, failing which the bid is liable to be rejected. In case
+the bid value is more than Rs 10 Crore, the declaration relating to percentage of local content shall be certified
+by the statutory auditor or cost auditor, if the OEM is a company and by a practicing cost accountant or a
+chartered accountant for OEMs other than companies as per the Public Procurement (preference to Make-in
+-India) order 2017 dated 04.06.2020 . In case Buyer has selected Purchase preference to Micro and Small
+Enterprises clause in the bid, the same will get precedence over this clause.
+
+8.Indian suppliers of this item are not allowed to participate and/ or compete in procurement by some foreign
+governments. Bidders / products from such countries are not eligible / not allowed to participate in this bid in
+terms of clause 1 (d) of Public Procurement (Preference to Make in India) Order, 2017
+
+9.Procurement under this bid is reserved for purchase from Micro and Small Enterprises whose credentials are
+validated online through Udyog Aadhaar for that product category. If the bidder wants to avail the reservation
+benefit, the bidder must be the manufacturer of the offered product in case of bid for supply of goods. Traders
+are excluded from the purview of Public Procurement Policy for Micro and Small Enterprises. In respect of bid for
+Services, the bidder must be the Service provider of the offered Service. Relevant documentary evidence in this
+regard shall be uploaded along with the bid in respect of the offered product or service.
+
+10.Preference to Make In India products (For bids less than 200 Crore):Preference shall be given to Class 1 local
+supplier as defined in public procurement (Preference to Make in India), Order 2017 as amended from time to
+time and its subsequent Orders/Notifications issued by concerned Nodal Ministry for specific Goods/Products. The
+minimum local content to qualify as a Class 1 local supplier is denoted in the bid document 50%. If the bidder
+wants to avail the Purchase preference, the bidder must upload a certificate from the OEM regarding the
+percentage of the local content and the details of locations at which the local value addition is made along with
+their bid, failing which no purchase preference shall be granted. In case the bid value is more than Rs 10 Crore,
+the declaration relating to percentage of local content shall be certified by the statutory auditor or cost auditor, if
+the OEM is a company and by a practicing cost accountant or a chartered accountant for OEMs other than
+companies as per the Public Procurement (preference to Make-in -India) order 2017 dated 04.06.2020. Only
+Class-I and Class-II Local suppliers as per MII order dated 4.6.2020 will be eligible to bid. Non - Local suppliers as
+per MII order dated 04.06.2020 are not eligible to participate. In case Buyer has selected Purchase preference to
+Micro and Small Enterprises clause in the bid, the same will get precedence over this clause.
+
+11.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each
+Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If
+service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one
+within 30 days of award of contract. Payment shall be released only after submission of documentary evidence
+of having Functional Service Centre.
+
+12.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone
+No. for Service Support.
+
+13.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for
+
+                               8 / 9
+
+
+
+ 
+
+Service Support.
+14.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid
+
+document, ATC and Corrigendum if any.
+15.ISO 9001: The bidder must have ISO 9001 certification.
+16.Material Test Certificate Should Be Sent Along with The Supply. The Material Will Be Checked by Buyer’s Lab &
+
+the Results of the Lab will be the Sole Criteria for Acceptance of the Item.
+17.The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test
+
+certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid
+document.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               9 / 9
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,699 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/697532
+
+  Dated: 07-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 22-07-2020 20:00:00
+
+Bid Opening Date/Time 22-07-2020 20:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 70 (Days)
+
+Ministry/State Name Odisha
+
+Department Name Home Department Odisha
+
+Organisation Name Odisha Police
+
+Office Name State Police Headquarters
+
+Total Quantity 30
+
+Item Category Camera for CCTV System
+
+Bidder Turnover (Last 3 Years)  4 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  16 Lakh (s)
+
+Experience Criteria  1 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  10 %
+
+Bid to RA enabled  Yes
+
+Inspection Required  Yes
+
+Inspection to be carried out by Buyers own
+empanelled agency
+
+ Yes
+
+Type Of Inspection  Post Dispatch
+
+Name of the Empanelled Inspection
+Agency/ Authority
+
+ Board of Officers
+
+EMD Detail
+
+                               1 / 8
+
+
+
+ 
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 2.00
+
+EMD Amount 16200
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 5.00
+
+Duration of ePBG required (Months). 12
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+A.I.G. of Police (Provisoning), Odisha, Cuttack
+State Police Headquarters, Home Department Odisha, Odisha Police , Buxibazar,Cutttack,753001
+(Balakrushna Hota)
+
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 10% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+                               2 / 8
+
+
+
+ 
+
+Camera For CCTV System ( 30 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+CAMERA TYPE Type of Camera
+Housing
+
+BULLET CAMERA BULLET CAMERA
+
+IP Camera Yes Yes
+
+PTZ Camera Yes Yes
+
+IMAGE SENSOR Image Sensor Type CMOS CCD, CMOS
+
+Image Sensor Size 0.67 1, 0.67 Or higher
+
+Camera Image
+Sensing capacity
+(Picture Mode)
+
+4MP 4MP
+
+Resolution Full HD (1920 x 1080
+Pixel)
+
+Full HD (1920 x 1080
+Pixel)
+
+Day/Night Capable Yes Yes
+
+IR illumination
+Range(mtr)
+
+30 30
+
+OPTICS Lens Type Fixed *
+
+Focal Length(mm) 3 - 10 3 - 10
+
+Iris Control Yes *
+
+Focus Mode Zooming *
+
+VIDEO Frame Rate (fps) 60 25, 30, 50, 60
+
+Video Compression H.265 *
+
+Video Streaming Dual compressed
+stream
+
+Dual compressed
+stream
+
+PAN / TILT / ZOOM Panning Range 0-360 *
+
+Pan Speed (deg/sec) 240 240, 320
+
+Tilt Range below
+horizontal (deg)
+
+0-90 *
+
+Tilt Range above
+horizontal (deg)
+
+0-5 *
+
+Tilt Speed (deg/sec) 120 120
+
+Optical Zoom 20X 20X
+
+Digital Zoom 16X 16X
+
+                               3 / 8
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/9NUQVExhLP9hOvrhvIi-LhXyO6JBh9hmxqPukzmfmHs
+
+
+ 
+
+AUDIO Audio Support No Yes, No
+
+Audio Compression NA *
+
+Audio Streaming NA *
+
+Number of Audio Input
+Channel
+
+NA *
+
+Number of Audio
+Output Channel
+
+NA *
+
+External Microphone
+Support
+
+No *
+
+ALARM Alarm Support No Yes, No
+
+Number of Alarm
+Digital Input
+
+NA *
+
+Number of Alarm Relay
+Output
+
+NA *
+
+Pre/Post Alarm Buffer No *
+
+SECURITY Multi Level User
+ID/Password
+
+Yes *
+
+IP Address Filtering Yes *
+
+Encrypted Data
+Transmission
+
+HTTPS (SSL/TSL) *
+
+PERFORMANCE Minimum
+Illumination for
+Capturing Color
+Image
+
+0.5 0.6, 0.5, 0.2, 0.1, 0.05,
+0.01 Or lower
+
+Electronic Shutter
+Speed(sec)
+
+1/50 to 1/10000 *
+
+WDR (Wide Dynamic
+Range)
+
+DWDR 80 dB, 100 dB, 120 dB,
+DWDR
+
+SNR (Signal to Noise
+Ratio)
+
+50-60 40-50, 50-60, 60-70,
+70-80
+
+Auto Exposure Auto Level Control *
+
+FEATURES White Balance (
+Indoor/Out door/Manual
+Selectable)
+
+Yes *
+
+Auto Gain Control
+(On/Off selectable)
+
+Yes *
+
+Back Light
+Compensation
+
+Yes *
+
+Remote Administration
+(Remote configuration
+and status using web
+based tool)
+
+Yes *
+
+Remote System Update
+Over Network
+
+Yes *
+
+PC Client (PC Yes *
+
+                               4 / 8
+
+
+
+ 
+
+application client with a
+channel recording
+feature support)
+
+Web Client (Viewer
+through HTTP system
+configuration)
+
+Yes *
+
+On Screen Display in
+English
+
+Yes *
+
+ONVIF Support Yes *
+
+Presets 80 *
+
+Group Touring 12 *
+
+Privacy Zones 12 *
+
+NETWORK AND
+INTERFACE
+
+Supported Protocols HTTP *
+
+IP Support Dynamic *
+
+Signal Processing Digital Signal Process *
+
+IPv6 ready Yes *
+
+Wireless No *
+
+Simultaneous
+Connections
+
+80 *
+
+STORAGE On Board SD Card
+Support
+
+No *
+
+SD Card Memory(GB) NA *
+
+HOUSING Installation Type Outdoor Indoor, Outdoor
+
+Material of the
+Housing
+construction
+
+Alluminium Alluminium, Plastic
+
+Protection IP67 *
+
+Vandal Resistant
+Housing
+
+No *
+
+If Yes, IK rating NA *
+
+Mounting bracket Wall Mounted *
+
+Weight 0.22 *
+
+Dimensions (mm x mm
+x mm)
+
+- *
+
+POWER SUPPLY Power Input 12 V DC *
+
+Power Consumption 5 *
+
+Suitable Adapter Shall
+be Supplied to Make
+the Equipment Work on
+230 V (+/- 10 %), 50 Hz
+
+Yes *
+
+OPERATING
+CONDITIONS
+
+Operating Temperature
+Range
+
+-10 to +50 deg C *
+
+Relative Humidity Non 90 *
+
+                               5 / 8
+
+
+
+ 
+
+Condensing (%)
+
+WARRANTY / SERVICES Warranty 2 1, 2, 3, 4, 5 Or higher
+
+Time for
+Replacement of
+Defective Product
+During Warranty
+Period
+
+72 12, 24, 36, 48, 72 Or
+lower
+
+Supply of Compatible
+drivers and software
+included
+
+Yes *
+
+ENVIRONMENTAL /
+CERTIFICATION
+
+Availability of facility &
+infrastructure for
+verification of all
+parameters, features,
+and capability with
+Seller
+
+Yes *
+
+Availability of facility to
+test signal to noise
+ratio of camera at 0-01
+lux
+
+Yes *
+
+Conformity to Dry Heat
+test at 55 degree C for
+16 hours as per IS
+:9000 latest
+
+Yes *
+
+Conformity to Damp
+heat at 40 degree C -
+95% RH (cyclic test):
+two cycles of 16+8
+hours as per IS: 9000
+latest
+
+Yes *
+
+Conformity to Cold test
+at -10 / -20 degree C
+for 4 hours as per IS:
+9000 latest, as
+applicable
+
+Yes *
+
+BIS Registration for
+safety general
+requirements as per IS
+13252 (Part 1):latest
+
+Yes *
+
+Availability of Type
+Test Report from
+Central Govt
+/NABL/ILAC accredited
+lab to prove conformity
+to specification
+
+No *
+
+Test Report Number
+and Date
+
+- *
+
+Name and Address of
+Test Lab
+
+- *
+
+Certification FCC,CE *
+
+                               6 / 8
+
+
+
+ 
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Santosh Salim
+Bage
+
+751019,Biju Patnaik State
+Police Academy (BPSPA),
+Ranasinghpur,
+Bhubaneswar, 751019
+
+30  15
+
+Bid Specific Additional Terms and Conditions
+
+1.OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be
+ordered up to 25 percent at the time of placement of contract. The purchaser also reserves
+the right to increase the ordered quantity by up to 25% of the contracted quantity during the
+currency of the contract at the contracted rates. Bidders are bound to accept the orders
+accordingly.
+
+2.Malicious Code Certificate:
+
+The seller should upload following certificate in the bid:-
+(a) This is to certify that the Hardware and the Software being offered, as part of the
+contract, does not contain Embedded Malicious code that would activate procedures to :-
+  (i) Inhibit the desires and designed function of the equipment.
+  (ii) Cause physical damage to the user or equipment during the exploitation.
+  (iii) Tap information resident or transient in the equipment/network.
+(b) The firm will be considered to be in breach of the procurement contract, in case physical
+damage, loss of information or infringements related to copyright and Intellectual Property
+Right (IPRs) are caused due to activation of any such malicious code in embedded software.
+
+3. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+4.Nominated Inspection Agency: On behalf of the Buyer organization, any one of the
+following Inspection Agency would be conducting inspection of stores before acceptance:
+Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause
+has been selected in ATC): yes
+Post Receipt Inspection at consignee site before acceptance of stores: yes
+
+5.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+6.The bidder is required to upload, along with the bid, all relevant certificates such as BIS
+licence, type test certificate, approval certificates and other certificates as prescribed in the
+Product Specification given in the bid document.
+
+7.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+
+                               7 / 8
+
+
+
+ 
+
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+8.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial
+year, should be as indicated in the bid document. Documentary evidence in the form of
+certified Audited Balance Sheets of relevant periods or a certificate from the Chartered
+Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than
+3 year old, the average turnover in respect of the completed financial years after the date of
+constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of
+CATEGORY RELATED TO primary product having highest bid value should meet this criterion.
+
+9.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+10.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+11.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+12.Warranty period of the supplied products shall be 3 years from the date of final acceptance
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               8 / 8
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,890 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   RA Number: GEM/2020/RA/43632
+
+  Dated: 24-06-2020
+
+  
+
+RA Document
+RA Details
+
+RA Technical End Date/Time 04-07-2020 17:00:00
+
+RA Opening Date/Time 04-07-2020 17:30:00
+
+RA Life Cycle (From Publish Date) 90 (Days)
+
+RA Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence Production
+
+Organisation Name Bharat Earth Movers Limited (beml)
+
+Office Name ***********
+
+Total Quantity 2
+
+Item Category Workstation
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  80 %
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ RA splitting not applied.
+
+1. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 80% of bid quantity, in at least one of the last three
+
+                               1 / 9
+
+
+
+ 
+
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Workstation ( 2 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Processor Processor Make Intel Intel
+
+Processor
+Generation
+
+NA NA Or higher
+
+Number of Cores per
+Processor
+
+6 6, 8, 10, 12, 14, 16, 18,
+20, 22, 24, 26, 28, 30,
+32 Or higher
+
+Processor Base
+Frequency (GHz)
+
+3.6 3.6, 3.7, 3.8, 3.9, 4,
+4.1, 4.2, 4.3 Or higher
+
+Processor Turbo
+Frequency (GHz)
+
+3.9 *
+
+Processor
+Description
+
+Intel Xeon W Series Intel Xeon W Series,
+Intel Xeon Bronze
+Series, Intel Xeon Silver
+Series, Intel Xeon Gold
+Series, Intel Xeon
+Platinum Series Or
+higher
+
+Processor Number Intel Xeon W-2133 Intel Xeon W-2155,
+Intel Xeon W-2175,
+Intel Xeon W-2195,
+Intel Xeon E-2278G,
+Intel Xeon E-2288G,
+Intel Xeon W-3223,
+Intel Xeon W-3225,
+Intel Xeon W-3235,
+Intel Xeon W-3245,
+Intel Xeon W-3245M,
+Intel Xeon W-3265,
+Intel Xeon W-3265M,
+Intel Xeon W-3275,
+Intel Xeon W-3275M,
+Intel Xeon W-2235,
+Intel Xeon W-2255 Or
+higher
+
+Number of sockets 1 *
+
+                               2 / 9
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/tFcvkqsN0okIryqIR0DIO-L7X39iA5rWqO1cO_Lmxx4
+
+
+ 
+
+available on the
+motherboard
+
+Number of Sockets
+populated with the
+Processors
+
+1 1, 2 Or higher
+
+Cache (MB) 8.25 8.25 - 64.0 Or higher
+
+Out of Band
+Management
+
+NA *
+
+Type Form Factor Desktop Desktop
+
+Motherboard Chipset Number Intel C422 Intel C422, Intel C621,
+Intel C622, Intel C624,
+Intel X99, Intel X299 Or
+higher
+
+Expansion Slots (PCIe x
+1) (Number)
+
+1 *
+
+Expansion Slots (PCIe x
+4) (Number)
+
+1 *
+
+Expansion Slots (PCIe x
+8) (Number)
+
+1 *
+
+Expansion Slots (PCIe x
+16) (Number)
+
+2 *
+
+Expansion Slots (PCI)
+(Number)
+
+1 *
+
+Graphics Graphics Type Dedicated/Discrete Dedicated/Discrete
+
+Number of Graphic
+Cards
+
+1 1, 2, 3, 4 Or higher
+
+Graphic Card
+Description
+
+nVIDIA Quadro P4000
+8GB
+
+nVIDIA Quadro P4000
+8GB, nVIDIA Quadro
+RTX 4000 8GB, nVIDIA
+Quadro P5000 16GB,
+nVIDIA Quadro RTX
+5000 16GB, nVIDIA
+Quadro P6000 24GB,
+nVIDIA Quadro GP100
+16GB, nVIDIA Quadro
+RTX 6000 24GB, nVIDIA
+Quadro RTX 8000
+48GB, nVIDIA Quadro
+GV100 32GB, nVIDIA
+Tesla V100 SXM2 32GB
+Or higher
+
+Operating System Operating System
+(Factory Pre-Loaded)
+
+Windows 10
+Professional 64 bit
+
+Windows 10
+Professional 64 bit
+
+Recovery Image Media CD from the OEM /
+Stored in Partition of
+the Hard Disk / USB
+Drive from the OEM /
+On Line / Cloud
+
+*
+
+OS Certification Windows,Ubuntu *
+
+                               3 / 9
+
+
+
+ 
+
+Linux,Redhat Linux
+
+Applications Applications
+Compatible with the
+Workstation (Requisite
+document may be
+furnished as and when
+demanded by the
+buyer)
+
+Adobe After Effects
+CS/CC,Adobe Illustrator
+CC,Adobe Media
+Encoder CS/CC,Adobe
+Photoshop
+CS/CC,Adobe Premiere
+Pro CS/CC,Adobe
+SpeedGrade
+CC,Autodesk
+AutoCAD,Autodesk
+Inventor,Autodesk
+Maya,Autodesk
+MotionBuilder,Autodesk
+Mudbox,Avid Media
+Composer,PTC
+Creo,Siemens
+NX,ANSYS
+Workbench,Sonar
+Cakewalk,Maxon
+Cinema 4D,G1
+Autodesk
+Revit,Autodesk 3ds
+Max,Unreal Engine 4 by
+Epic Games
+
+*
+
+Memory RAM Type DDR4 *
+
+RAM Speed (MHz) 2666 *
+
+Type of Memory ECC RDIMM *
+
+RAM Size (GB) 64 64, 128, 256, 512,
+1024, 2048, 3072,
+4096, 96, 192, 384,
+768, 1536 Or higher
+
+Total Numbers of DIMM
+Slots Available
+
+8 *
+
+Number of DIMM Slots
+Populated
+
+4 *
+
+RAM Expandability
+upto using spare
+DIMM Slots (GB)
+
+256 256, 512, 1024, 3072,
+4096, 384, 1536, 2048,
+768 Or higher
+
+Primary Storage /Boot
+Drive
+
+Type of Drives used
+to populate the
+internal Bays
+
+SATA SATA
+
+Number of Drives 4 *
+
+RAID for Operating
+System
+
+0 0
+
+Capacity of each
+Drive (GB)
+
+1000 1000, 1024, 1200,
+1800, 2000, 2048,
+4000, 4096, 8000,
+6000 Or higher
+
+Secondary Storage Type of Drives used SATA SATA
+
+                               4 / 9
+
+
+
+ 
+
+to populate the
+Internal Bays
+
+Total number of
+Internal Bays available
+for SATA Drive
+
+5 *
+
+Number of Internal
+Bays populated with
+SATA Drive
+
+1 1, 2, 3, 4, 5, 6, 7, 8, 9,
+10 Or higher
+
+Each SATA Drive
+Capacity (GB)
+
+1000 1000, 2000, 4000,
+8000, 6000 Or higher
+
+Speed of each SATA
+Drive (RPM)
+
+7200 *
+
+Total SATA Drive
+Capacity (GB)
+
+1000 1000, 2000, 4000,
+8000, 3000, 5000,
+6000, 7000, 9000,
+12000, 16000, 20000,
+24000, 28000, 32000
+Or higher
+
+Total number of
+Internal Bays available
+for SAS Drive
+
+0 *
+
+Number of Internal
+Bays populated with
+SAS Drive
+
+0 0, 1, 2, 3, 4, 5, 6, 7, 8,
+9, 10 Or higher
+
+Capacity of each SAS
+Drive (GB)
+
+0 300, 600, 900, 1200,
+1800, 800, 0, 4000 Or
+higher
+
+Speed of each SAS
+Drive (RPM)
+
+0 *
+
+Total SAS Drive
+Capacity (GB)
+
+0 300, 600, 900, 1200,
+1800, 2100, 0, 4000 Or
+higher
+
+Total number of
+Internal Bays available
+for SSD
+
+0 *
+
+Number of Internal
+Bays populated with
+SSD Drive
+
+0 0, 1, 2, 3, 4, 5, 6, 7, 8,
+9, 10 Or higher
+
+Capacity of each SSD
+Drive (GB)
+
+0 128, 256, 512, 1024,
+2048, 800, 0 Or higher
+
+Total SSD Capacity
+(GB)
+
+0 128, 256, 384, 512,
+768, 1024, 2048, 4096,
+0, 5120 Or higher
+
+Total number of
+Internal Bays available
+for PCIe SSD
+
+1 *
+
+Number of Internal
+Bays populated with
+PCIe Drive
+
+1 1, 2, 3, 4, 5, 6, 7, 8 Or
+higher
+
+                               5 / 9
+
+
+
+ 
+
+Capacity of each
+PCIe Drive (GB)
+
+512 512, 1024, 2048 Or
+higher
+
+Total PCIe Drive
+Capacity (GB)
+
+512 512, 1024, 2048, 4096,
+1536 Or higher
+
+Class of PCIe Drives NA *
+
+RAID RAID level 0,1,5,1+0 *
+
+Number of RAID
+Controller Ports
+
+5 5, 6, 7, 8, 10 Or higher
+
+Speed of RAID
+Controller Ports
+(Gbps)
+
+6 6, 12 Or higher
+
+RAID Controller Cache
+(GB)
+
+0 *
+
+Connectivity Type of Ethernet Ports Single Gigabit NIC
+10/100/1000
+
+*
+
+Number of Ethernet
+Ports
+
+1 1, 2, 3, 4, 6 Or higher
+
+Wireless
+Connectivity
+
+No Yes, No Or higher
+
+If Yes, Type of
+Wireless
+Connectivity
+
+NA Wi-Fi 802.11b/g/n, Wi-Fi
+802.11ac, NA Or higher
+
+Bluetooth
+Connectivity
+
+No Yes, No Or higher
+
+If Yes, Version of
+Bluetooth Available
+
+0 4, 4.1, 4.2, 5, 0 Or
+higher
+
+Ports Number of USB Version
+2 Point 0 Ports
+
+0 *
+
+Number of USB Version
+3 point 0 / 3 point 1,
+Gen 1 Ports
+
+8 *
+
+Number of USB Version
+3 point 1, Gen 2 Ports
+
+0 *
+
+Number of USB Type C
+Ports
+
+2 *
+
+Number of VGA Ports 0 *
+
+Number of HDMI Ports 0 *
+
+Number of Mini DP
+Ports
+
+0 *
+
+Number of DP Ports 4 *
+
+Display Display Availability Monitor Monitor
+
+Display Size (cm) 68- 71 68- 71, 72- 81, 82 - 87,
+88 - 93, 94 - 97, 98 -
+105, 107 - 110, 111 -
+115, 116 - 120, 121 -
+
+                               6 / 9
+
+
+
+ 
+
+125, 126 - 130 Or
+higher
+
+Display Type Non Touch Non Touch, Touch Or
+higher
+
+Panel Type Flat Flat, Curved Or higher
+
+Panel Technology IPS IPS, OLED Or higher
+
+Display Resolution
+(Pixels)
+
+1920x1080 1920x1080, 1920 x
+1200, 3200x1800,
+3840 x 2160, 2560 x
+1080, 2560 x 1440,
+2560 x 1600, 3440 x
+1440, 3840 x 1600,
+5120 x 1440, 7680 x
+4320 Or higher
+
+LED Backlit Yes *
+
+TCO Compliance for
+Monitor
+
+TCO 07 *
+
+Colour Gamut 72% Color Gamut *
+
+Monitor Stand Standard *
+
+Power Maximum Power
+(Watts)
+
+950 *
+
+Minimum Power
+Efficiency (%)
+
+- *
+
+Power Management
+Unit
+
+Yes *
+
+Redundant Power
+Supply
+
+No Yes, No Or higher
+
+Input Devices Mouse Connectivity, If
+available
+
+Wired *
+
+Type of Mouse, If
+available
+
+Optical Scroll *
+
+Keyboard Connectivity,
+if available
+
+Wired *
+
+Type of Keyboard, if
+available
+
+Standard with Rupee
+Symbol
+
+*
+
+Type of Keyboard in
+case of Mobile
+Workstation
+
+NA *
+
+Generic Optical Drive - *
+
+Number of External
+Bays
+
+2 *
+
+Security S/W Based *
+
+Docking Station for
+Mobile Workstation
+
+No *
+
+Availability of Bundled
+Software
+
+Yes *
+
+                               7 / 9
+
+
+
+ 
+
+Type of Bundled
+Software
+
+Standard Performance
+Improvement Software
+
+*
+
+Finger Print Reader in
+case of Mobile
+Workstation
+
+NA *
+
+Carry Case in case of
+Mobile Workstation
+
+NA *
+
+Certification BIS Registration under
+CRS of Meity (Requisite
+certificate may be
+furnished as and when
+demanded by the
+buyer)
+
+Yes *
+
+BIS Registration
+Number and its Validity
+
+- *
+
+ROHS Compliance Yes *
+
+Other Certification
+Available (Requisite
+certificate may be
+furnished as and when
+demanded by the
+buyer)
+
+- *
+
+Operating Conditions Minimum Operating
+Temperature (Degree
+C)
+
+5 *
+
+Maximum Operating
+Temperature (DEgree
+C)
+
+35 *
+
+Minimum Operating
+Humidity (%RH)
+
+10 *
+
+Maximum Operating
+Humidity (%RH)
+
+90 *
+
+Warranty Battery Warranty in
+case of Mobile
+Workstation
+
+0 *
+
+On Site OEM
+Warranty (Year)
+
+3 3, 4, 5 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignee/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********BANGALORE 2  30 N/A
+
+                               8 / 9
+
+
+
+ 
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+2.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+3.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+4.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+5. ISO 9001: The bidder must have ISO 9001 certification.
+6.The bidder is required to upload, along with the bid, all relevant certificates such as BIS
+
+licence, type test certificate, approval certificates and other certificates as prescribed in the
+Product Specification given in the bid document.
+
+7.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 3 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+8.The Bidder / OEM {themselves or through reseller(s)}, should have executed project for
+supply and installation / commissioning of same or similar Category Products during
+preceding 3 financial years (i.e. current year and three previous financial years) as on
+opening of bid, as per following criteria:
+ 
+(i) Single order of at least 35% of estimated bid value; or
+(ii) Two orders of at least 20% each of estimated bid value; or
+(iii) Three orders of at least 15% each of estimated bid value.
+Satisfactory Performance certificate issued by respective Buyer Organization for the above
+Orders should be uploaded with bid. In case of bunch bids, the Category related to primary
+product having highest bid value should meet this criterion
+
+This RA is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               9 / 9
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

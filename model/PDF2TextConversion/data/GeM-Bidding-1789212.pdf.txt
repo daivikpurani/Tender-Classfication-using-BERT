@@ -1,0 +1,588 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/712848
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 13:00:00
+
+Bid Opening Date/Time 20-07-2020 13:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Railways
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Eastern Railway
+
+Total Quantity 1
+
+Item Category Desktop Computers
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Document required from seller  Certificate (Requested in ATC),OEM Authorization
+Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the
+buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Desktop Computers ( 1 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+
+                               1 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/T39cFoUT2kYeEw_l1f3Gcvqx78zQ9dp2WuZs29suoKQ
+
+
+ 
+
+(Allowed Values)
+
+Processor Processor Make Intel Intel
+
+Processor Generation 9 9.0 Or higher
+
+Number of Cores per
+Processor
+
+8 8 Or higher
+
+Processor Base Frequency
+(GHz)
+
+3 *
+
+Processor Description Intel Core i7 Intel Core i7, Intel Core i9 Or
+higher
+
+Processor Number Intel Core i7 9700 Intel Core i7 8700, Intel
+Core i7 8700K, Intel Core i7
+9700, Intel Core i9 9900,
+Intel Core i7 9700K, Intel
+Core i9 9900K, Intel Core i9
+9900KS, Intel Core i9
+9900KF, Intel Core i7
+9700KF Or higher
+
+Out of Band Management NA *
+
+Cache (MB) 12 *
+
+Motherboard Chipset Series Intel B Series Intel H Series, Intel B Series,
+Intel Q Series Or higher
+
+Expansion Slots (PCIe x 1)
+(Number)
+
+1 *
+
+Chipset Number Intel B 365 Intel Q 250, Intel Q 270,
+Intel Q 370, Intel B 365 Or
+higher
+
+Expansion Slots (PCIe x 4)
+(Number)
+
+0 *
+
+Expansion Slots (PCIe x 16)
+(Number)
+
+1 *
+
+Expansion Slots (PCI)
+(Number)
+
+1 *
+
+Expansion Slots (M Dot 2) 2 *
+
+Graphics Graphics Type Integrated *
+
+Graphic Card Description - *
+
+Size of Memory in Case of
+Dedicated Graphic Card
+(GB)
+
+0 *
+
+Size of VRAM in case of
+Integrated Graphics (MB)
+
+- *
+
+Operating System Operating System
+(Factory Pre-Loaded)
+
+DOS DOS
+
+Recovery Image Media - *
+
+OS Certification Windows *
+
+Memory Type of RAM DDR4 *
+
+RAM Size (GB) 8 8, 16, 32, 64 Or higher
+
+RAM Speed (MHz) 2666 *
+
+Total Numbers of DIMM
+Slots Available
+
+2 *
+
+Number of DIMM Slots
+populated
+
+1 *
+
+                               2 / 6
+
+
+
+ 
+
+RAM Expandability up to(
+using spare DIMM Slots
+in GB)
+
+32 32, 64, 128 Or higher
+
+Storage Total Number of Internal
+Bays available
+
+2 *
+
+Number of 2 point 5 inches
+internal Bays
+
+0 *
+
+Number of 3 point 5 inches
+Internal Bays
+
+2 *
+
+Number of 2 point 5 Inches
+Internal Bays Populated
+
+0 *
+
+Number of 3 point 5 Inches
+Internal Bays Populated
+
+1 *
+
+Type of Drives used to
+populate the Internal
+Bays
+
+HDD HDD
+
+Number of Internal Bays
+populated with HDD
+
+1 *
+
+Capacity of each HDD (GB) 1000 @7200 rpm *
+
+Total HDD Capacity (GB) 1000 1000, 1500, 2000, 2500,
+3000 Or higher
+
+Number of Internal Bays
+populated with SSD
+
+0 *
+
+Capacity of each SSD (GB) 0 *
+
+Total SSD Capacity (GB) 0 128, 256, 384, 512, 768, 0,
+1024, 2048 Or higher
+
+Number of Internal Bays
+populated with SSHD
+
+0 *
+
+Capacity of each SSHD (GB) NA *
+
+Total SSHD Capacity in
+addition to 8 GB Flash
+(GB)
+
+0 500, 1000, 2000, 0 Or
+higher
+
+Optane Memory (GB) 0 *
+
+Cabinet Cabinet Form Factor Tower (13.1 to 26 Litres) Tower (13.1 to 26 Litres)
+
+Cabinet Volume (Litres) - *
+
+External Bays (Number) 1 *
+
+Optical Drive N/A *
+
+Internal Speaker Yes *
+
+Audio-in Yes *
+
+Audio-out Yes *
+
+Headphone out Yes *
+
+Microphone-in Yes *
+
+Connectivity Wireless Connectivity No *
+
+If Yes, Type of Wireless
+Connectivity
+
+NA *
+
+Number of Ethernet Ports 1 *
+
+Type of Ethernet Ports 10/100/1000 on board
+Integrated Gigabit Port
+
+*
+
+Bluetooth Connectivity No *
+
+                               3 / 6
+
+
+
+ 
+
+If Yes, Version of Bluetooth
+Available
+
+0 *
+
+Ports Number of USB Version 2
+Point 0 Ports
+
+4 *
+
+Number of USB Version 3
+point 0 / 3 point 1, Gen 1
+Ports
+
+4 *
+
+Number of USB Version 3
+point 1, Gen 2 Ports
+
+0 *
+
+Number of USB Type C Ports 0 *
+
+Number of Serial Ports 0 *
+
+Number of Parallel Ports 0 *
+
+Number of VGA Ports 1 *
+
+Number of HDMI Ports 1 *
+
+Number of DP Ports 0 *
+
+Monitor Model of the Monitor - *
+
+Monitor Technology IPS IPS Or higher
+
+LED Backlit Monitor Size
+(INCHES)
+
+21.5 21.5, 22, 23, 24, 27, 23.8 Or
+higher
+
+Monitor Resolution
+(PIXELS)
+
+1920x1080 1920x1080, 1920 x 1200,
+3200x1800, 3840 x 2160,
+2560 x 1440 Or higher
+
+TCO Certification for Monitor - *
+
+Number of VGA Ports in the
+Monitor
+
+1 *
+
+Number of HDMI Ports in the
+Monitor
+
+1 *
+
+Number of Display Ports in
+the Monitor
+
+1 *
+
+Availability of Webcam
+integrated with Monitor
+
+No *
+
+If Yes, Resolution of
+Webcam
+
+NA *
+
+Availability of Speakers
+integrated with Monitor
+
+No *
+
+If Yes, Number of Speakers
+available
+
+0 *
+
+Power Power Supply Capacity
+(Watt)
+
+- *
+
+Minimum Power Efficiency
+Range (%)
+
+90 - 94 *
+
+Certification ROHS Compliance Yes *
+
+BEE / Energy Star for the
+given Model
+
+Yes *
+
+Input Devices Mouse Connectivity Wired *
+
+Type of Mouse Optical Scroll *
+
+Keyboard Connectivity Wired *
+
+Type of Keyboard Standard *
+
+Operating Conditions Minimum Operating 0 *
+
+                               4 / 6
+
+
+
+ 
+
+Temperature
+
+Maximum Operating
+Temperature
+
+40 *
+
+Minimum Operating
+Humidity (%RH)
+
+10 *
+
+Maximum Operating
+Humidity (%RH)
+
+90 *
+
+Warranty On Site OEM Warranty
+(Year)
+
+3 3, 5, 4 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Rajnish Kumar
+Tripathi
+
+711101,DRM Building Eastern
+Railway Howrah
+
+1  4
+
+Special terms and conditions for category Desktop Computers 
+
+1.As per notification of MEITY circulated vide letter no. F.No.33(1)/2017-IPHW..dated :14/09/2017, the minimum
+local content should be 45.percent to qualify as local or domestic manufacturer.\n\nSeller has to ensure that
+operating system software etc comes preloaded with machine from respective OEM . Any deviation in respect of
+genuinity and authenticity of OS will attract severe penalty on part of seller as law of the land and contractual
+provisions. Buyer are also requested to verify the key no of OS etc with server of Microsoft/Linux before
+accepting machines to avoid complexity at latter stage.
+
+Bid Specific Additional Terms and Conditions
+1.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each
+
+Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If
+service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one
+within 30 days of award of contract. Payment shall be released only after submission of documentary evidence
+of having Functional Service Centre.
+
+2.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone
+No. for Service Support.
+
+3.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for
+Service Support.
+
+4.ISO 9001: The bidder must have ISO 9001 certification.
+5.Procurement under this bid is reserved for purchase from Micro and Small Enterprises whose credentials are
+
+validated online through Udyog Aadhaar for that product category. If the bidder wants to avail the reservation
+benefit, the bidder must be the manufacturer of the offered product in case of bid for supply of goods. Traders
+are excluded from the purview of Public Procurement Policy for Micro and Small Enterprises. In respect of bid for
+Services, the bidder must be the Service provider of the offered Service. Relevant documentary evidence in this
+regard shall be uploaded along with the bid in respect of the offered product or service.
+
+6.Purchase preference to Micro and Small Enterprises (MSEs) from the State of Bid Inviting Authority : Purchase
+preference will be given to MSEs as Micro and Small Enterprises from the State of Bid inviting Authority whose
+credentials are validated online through Udyog Aadhaar for that product category. If the bidder wants to avail
+the Purchase preference, the bidder must be the manufacturer of the offered product in case of bid for supply of
+goods. Traders are excluded from the purview of Public Procurement Policy for Micro and Small Enterprises. In
+respect of bid for Services, the bidder must be the Service provider of the offered Service. Relevant documentary
+evidence in this regard shall be uploaded along with the bid in respect of the offered product or service. If L-1 is
+not an MSE and MSE Seller (s) has/have quoted price within L-1+ 15 % of margin of purchase preference /price
+band defined in relevant policy, such Seller shall be given opportunity to match L-1 price and contract will be
+awarded for percentage of 20% of total value as defined/ decided in relevant policy.
+
+7.Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to MSEs as
+defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012 dated 23.03.2012
+
+                               5 / 6
+
+
+
+ 
+
+issued by Ministry of Micro, Small and Medium Enterprises and its subsequent Orders/Notifications issued by
+concerned Ministry. If the bidder wants to avail the Purchase preference, the bidder must be the manufacturer of
+the offered product in case of bid for supply of goods. Traders are excluded from the purview of Public
+Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder must be the Service
+provider of the offered Service. Relevant documentary evidence in this regard shall be uploaded along with the
+bid in respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s) has/have quoted price
+within L-1+ 15% of margin of purchase preference /price band defined in relevant policy, such Seller shall be
+given opportunity to match L-1 price and contract will be awarded for percentage of 20% of total value.
+
+8.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+9.Timely Servicing / rectification of defects during warranty period: After having been notified of the defects /
+
+service requirement during warranty period, Seller has to complete the required Service / Rectification within 3
+days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of
+Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit
+the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the
+Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after
+which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and
+cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service /
+rectification to the Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

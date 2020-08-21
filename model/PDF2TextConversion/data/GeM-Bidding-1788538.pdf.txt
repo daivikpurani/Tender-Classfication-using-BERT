@@ -1,0 +1,363 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/712239
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 20:00:00
+
+Bid Opening Date/Time 27-07-2020 20:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Home Affairs
+
+Department Name Central Armed Police Forces
+
+Organisation Name Border Security Force (bsf)
+
+Office Name Frontier Bangalore
+
+Total Quantity 1
+
+Item Category portable single operated rectifier type dc arc welding set
+suitable for manual arc welding process
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Portable Single Operated Rectifier Type Dc Arc Welding Set Suitable For Manual Arc
+Welding Process ( 1 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Welding set conforming
+to IS:4559/1993 with
+latest amendments
+
+Yes Yes
+
+                               1 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/MSCLmzqj9kUgJeTUziSYDLK_VvI_kmaBfL9pfBf9oLs
+
+
+ 
+
+Capacitor conforming to
+IS:13340/2012
+
+Yes Yes
+
+BIS Marked No Yes, No
+
+If BIS marked provide CML
+No otherwise PUT NA
+
+- *
+
+Performance Parameters Type of welding set Conventional Rectifier type Conventional Rectifier type,
+Rectifier inverter
+based(IGTB) double bridge
+type
+
+Type of electrode - *
+
+Rating of Capacitor to
+improve power factor
+
+- *
+
+Type of power supply Three phase Single phase, Three phase
+
+Rated input voltage 415V,three Phase with
+trapping to compensate for
+variation in input supply
+
+240V,single Phase,
+415V,three Phase with
+trapping to compensate for
+variation in input supply
+
+Current rating for
+rectifier type power
+source in ampere
+
+400 150, 160, 180, 200, 300,
+400, 600, 900, 1200
+
+Maximum Continuous
+Automatic Current in
+ampere
+
+360 Any applicable numeric
+value
+
+Maximum Continuous
+Hand Welding Current in
+Amp
+
+600 Any applicable numeric
+value
+
+Open-Circuit Voltage in
+Volts
+
+100 Up to 100
+
+Min Welding load voltage
+(at min welding current)
+in Volts
+
+24 Any applicable numeric
+value
+
+Max Welding load
+Voltage(at max welding
+current) in Volts
+
+60 Any applicable numeric
+value
+
+Maximum continuous
+welding current at 100%
+duty cycle(Amp @ duty
+cycle)
+
+360 Any applicable numeric
+value
+
+Maximum continuous
+welding current at 60%
+duty cycle(Amp @ duty
+cycle)
+
+600 Any applicable numeric
+value
+
+Trolley mount for rectifier
+type(May select NA in case
+of IGTB type welding set)
+
+Yes *
+
+Type of welding current
+regulator
+
+Step less Type *
+
+Type of insulation level Class F *
+
+Type of cooling like natural
+air cool,force air cool etc
+
+- *
+
+Warranty in Years 3 1, 2, 3, 4, 5
+
+Dimensional and Material
+Parameters
+
+Dimension of electrode
+in mm
+
+6 Any applicable numeric
+value
+
+Overall Dimensions of
+Machine(L x D x H) (mm x
+
+- *
+
+                               2 / 4
+
+
+
+ 
+
+mm x mm)
+
+Weight of Machine in Kg 210 *
+
+Material of Wheel Cast Iron Wheel *
+
+Additional Parameters Type of wheel Bi-directional *
+
+Overload protection on DC
+and AC side
+
+Yes *
+
+Provision of Earthing Yes *
+
+Installation and
+Demonstration
+
+Yes *
+
+Machine shall be provided
+with safety features to
+protect operator from
+possible injuries
+
+Yes *
+
+Operating and Instruction
+Manual provided with
+machine
+
+Yes *
+
+Reports Availability of Type Test
+Report from Central Govt
+/NABL/ILAC Accredited lab
+
+Yes *
+
+Test report no - *
+
+Test report date - *
+
+Name of Lab - *
+
+Address of Lab - *
+
+Type of Tests report to be
+furnished to the buyer
+demand at the time of
+supplies
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Vinod M K 673509,Commandant 184
+Battalion,Border Security Force Ca
+mp,Areekarakunnu,Thanakkotoor-
+PO, Nadapuram, Calicut-,Distt,
+Kerala,South India.
+
+1  30
+
+Bid Specific Additional Terms and Conditions
+1.IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered
+
+office in India to provide after sales service support in India. The certificate to this effect should be submitted.
+2.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each
+
+Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If
+service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one
+within 30 days of award of contract. Payment shall be released only after submission of documentary evidence
+of having Functional Service Centre.
+
+3.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone
+No. for Service Support.
+
+4.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for
+Service Support.
+
+                               3 / 4
+
+
+
+ 
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,453 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/712428
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 10:00:00
+
+Bid Opening Date/Time 27-07-2020 10:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Army
+
+Office Name ***********
+
+Total Quantity 5
+
+Item Category Security and Protective Software including Antivirus
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+Estimated Bid Value  17850
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Security And Protective Software Including Antivirus ( 5 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+BASIC INFORMATION OF
+SECURITY AND PROTECTIVE
+
+Sub-Category Stand alone Stand alone, 3 User License
+
+                               1 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/0f-gO-R5WlC6PYGaAwOn6TauDiPoAIt9O9OKkt1p2oY
+
+
+ 
+
+SOFTWARE INCLUDING
+ANTIVIRUS (GOLDEN)
+
+Name of the OEM - *
+
+OEM Model / Part No. - *
+
+Product Id of OEM - *
+
+Software Version/ Name - *
+
+Date of Launch of Version - *
+
+FEATURES AND
+FUNCTIONALITY
+PARAMETERS(GOLDEN)
+
+Single License for multi-
+device
+
+Yes Yes, No
+
+Intrusion Detection
+System (IDS) / Intrusion
+Prevention System (IPS)
+
+Yes Yes, No
+
+Data Protection Yes Yes, No
+
+Cloud Protection Yes Yes, No
+
+Network Threat
+Protection
+
+Yes Yes, No
+
+Free Secure Cloud
+backup space
+
+No Yes, No
+
+If Yes, specify the free
+backup storage space
+available
+
+- *
+
+Installation and
+Demonstration
+
+No Yes, No
+
+No. of days Training
+Provided at Site
+
+0 0, upto to 5, 6 to 10
+
+Number of Years upto
+which Support
+(warranty) is available
+from OEM / Franchise
+online
+
+1 1, 3
+
+FEATURES AND
+FUNCTIONALITY
+PARAMETERS(GENERIC)
+
+Anti-Virus Yes *
+
+Anti-Malware Yes *
+
+Anti-Phishing Yes *
+
+Anti-Rootkit Yes *
+
+Anti-Spyware Yes *
+
+Anti-Trojan Yes *
+
+Anti-Worm Yes *
+
+Anti-Spam Yes *
+
+Anti-Adware Yes *
+
+Anti-Ransom ware Yes *
+
+Boot time protection Yes *
+
+Removable Media Scan Yes *
+
+Protection from Browser
+Exploits
+
+Yes *
+
+Incoming and Outgoing
+Email Protection
+
+Yes *
+
+Instant Messaging
+Protection
+
+Yes *
+
+On-Demand Scanning Yes *
+
+On-Access Scanning Yes *
+
+                               2 / 5
+
+
+
+ 
+
+Scheduled Scanning Yes *
+
+Vulnerability Scanning Yes *
+
+Automatically Clean
+Infected Files
+
+Yes *
+
+Scan Compressed File
+Formats
+
+Yes *
+
+Quarantine Feature Yes *
+
+Automatic USB Detection Yes *
+
+Registry Start Up Protection Yes *
+
+Browser Protection Yes *
+
+Malicious web page blocking Yes *
+
+Tamper Protection Yes *
+
+Parental Control Yes *
+
+Password Manager Yes *
+
+Heuristics Protection Yes *
+
+Firewall Yes *
+
+Web Protection Yes *
+
+Macro Protection Yes *
+
+Protection from PUA
+(Potential Unwanted
+Applications)
+
+Yes *
+
+Download Protection Yes *
+
+Behavioural Analysis &
+Vulnerability Protection
+
+Yes *
+
+Band width Management Yes *
+
+Proactive performance
+alerts
+
+Yes *
+
+Social media protection Yes *
+
+Online Identity protection Yes *
+
+Safe guards online
+transactions
+
+Yes *
+
+Network Attack Blocker Yes *
+
+Virus cleanup mode/Virtual
+sandbox
+
+Yes *
+
+System Watcher Yes *
+
+Backup and Restore Yes *
+
+Data Encryption Yes *
+
+Automatic Exploit
+Prevention
+
+Yes *
+
+File Shredder No *
+
+Virtual Key Board Yes *
+
+Automatic Updates Yes *
+
+Free 24-hour support Yes *
+
+Unique/Special features, if
+any
+
+- *
+
+SUPPORT HARDWARE Hard Disk Space Required - *
+
+                               3 / 5
+
+
+
+ 
+
+REQUIREMENT PARAMETERS RAM Size required - *
+
+Supported Devices (eg.
+Desktop, Laptop, Tablet,
+Server, Mobile, etc)
+
+- *
+
+Supported Operating
+Systems (eg. Windows, OS
+X, Linux, Solaris, Android,
+iOS, Ubuntu Touch,
+Windows Phone, etc.).
+
+- *
+
+Number of Devices/Users
+Managed
+
+- *
+
+GENERIC PARAMETERS OF
+SECURITY AND PROTECTIVE
+SOFTWARE INCLUDING
+ANTIVIRUS
+
+Free Upgradation to Higher
+Version with in support
+period
+
+Yes *
+
+Valid Licence copy to be
+provided
+
+Yes *
+
+Software supplied through Media & URL Link *
+
+AV Test Certified Yes *
+
+Any other Certifications - *
+
+List of items included in the
+package
+
+- *
+
+Hyper link to Data sheet - *
+
+No of Softwares sold 400 *
+
+Number of User Referance
+no. 1 with in Government
+Department email, phone
+no.Of concerned authority
+where Software/Appliance
+installed
+
+17 *
+
+Details of Government
+Department email, phone
+no.Of concerned authority
+where Software /Appliance
+installed for above.
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********JAMMU 5  30
+
+Bid Specific Additional Terms and Conditions
+1.IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered
+
+office in India to provide after sales service support in India. The certificate to this effect should be submitted.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+                               4 / 5
+
+https://gem.gov.in/termsCondition
+
+
+ 
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+http://www.tcpdf.org
+

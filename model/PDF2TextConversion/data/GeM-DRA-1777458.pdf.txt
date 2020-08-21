@@ -1,0 +1,1260 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   RA Number: GEM/2020/RA/44682
+
+  Dated: 13-07-2020
+
+  
+
+RA Document
+RA Details
+
+RA Technical End Date/Time 23-07-2020 13:00:00
+
+RA Opening Date/Time 23-07-2020 13:30:00
+
+RA Life Cycle (From Publish Date) 90 (Days)
+
+RA Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Human Resource Development
+
+Department Name Department Of Higher Education
+
+Organisation Name National Institute Of Technology (nit)
+
+Office Name Tadepalligudem
+
+Total Quantity 2
+
+Item Category Server
+
+Average Turnover (Last 3 Years)  5 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  30 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  80 %
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 3.00
+
+EMD Amount 31200
+
+ePBG Detail
+
+                             1 / 14
+
+
+
+ 
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 3.00
+
+Duration of ePBG required (Months). 36
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+Director
+Tadepalligudem, Department of Higher Education, National Institute of Technology (NIT), Ministry of
+Human Resource Development
+(Director)
+
+Splitting
+
+ RA splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 80% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Server ( 2 pieces ) ( Under PAC ) 
+
+Make dellemc
+
+                             2 / 14
+
+
+
+ 
+
+Model dellemcpoweredger440
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Processor Processor Architecture CISC(X86) *
+
+Processor Make Intel Intel
+
+Number of Cores per
+Processor
+
+8 8, 10, 12, 14, 16, 18,
+20, 22, 24, 26, 28, 30,
+32, 34, 36, 38, 40, 64,
+11 Or higher
+
+Processor Base
+Frequency (GHz)
+
+2.5 2.5, 2.6, 2.7, 2.8, 2.9,
+3, 3.1, 3.2, 3.3, 3.4,
+3.5, 3.6, 3.7, 3.8, 3.9, 4
+Or higher
+
+Processor Turbo
+Frequency (GHz)
+
+3.5 *
+
+Total Cache
+(L1+L2+L3)(MB)
+
+11 11.0 - 256.0 Or higher
+
+Processor Description/
+Number
+
+Intel Xeon Silver 4215 *
+
+Chassis Form Factor Rack *
+
+Size (RU) 1 *
+
+Motherboard Chipset compatible
+with CPU
+
+Intel C621 *
+
+Expansion Slots Gen 3
+(PCIe x1)
+
+0 *
+
+Expansion Slots Gen 3
+(PCIe x4)
+
+0 *
+
+Expansion Slots Gen 3
+(PCIe x8)
+
+0 *
+
+Expansion Slots Gen 3
+(PCIe x16)
+
+1 *
+
+Maximum number of
+Sockets available on
+Server
+
+2 2, 3, 4, 5, 6, 7, 8, 9, 10,
+11, 12, 13, 14, 15, 16
+Or higher
+
+Maximum number of
+Sockets populated
+with Processors
+available on Server
+
+2 2, 3, 4, 5, 6, 7, 8, 9, 10,
+11, 12, 13, 14, 15, 16
+Or higher
+
+Co Processor / GPU Availability of Co
+Processor /GPU
+
+No Yes, No Or higher
+
+                             3 / 14
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/c4l_FseW5eJjiqY4O6zgCOIiatRwBoTRRVNDvRhM_f0
+
+
+ 
+
+If Yes, Maximum
+Number of Slots
+available for Co-
+Processor/GPU
+
+0 *
+
+If Yes, Maximum
+Number of slots
+populated with Co
+processor/GPU
+
+0 *
+
+If Yes, Co Processor
+/GPU Description
+
+NA *
+
+Memory Type of RAM DDR4 SDRAM with ECC DDR4 SDRAM with ECC
+
+Total Number of DIMM
+Slots available
+
+16 *
+
+Number of DIMM Slots
+populated with DDR
+SDRAM
+
+2 *
+
+Number of DIMM Slots
+populated with DDR
+NVRAM
+
+0 *
+
+DDR SDRAM
+Size(GB)
+
+16 16.0 - 6144.0 Or higher
+
+DDR NVRAM Size
+(GB)
+
+0 0.0 - 1600.0 Or higher
+
+DDR SDRAM
+upgradable upto using
+spare DIMM Slots (GB)
+
+112 *
+
+DDR NVRAM
+upgradable upto using
+spare DIMM Slots (GB)
+
+0 *
+
+SSD Storage Type of Interface for
+SSD
+
+NA NA
+
+Type of SATA SSD NA *
+
+SATA SSD Hot
+Swappable
+
+NA *
+
+Endurance for SATA
+SSD (DWPD - Drive
+Writes Per Day) (X)
+
+0 *
+
+Total Number of Slots
+available for SATA SSD
+
+0 *
+
+Number of Slot
+Populated with SATA
+SSD
+
+0 *
+
+Capacity offered per
+SATA SSD (GB)
+
+0 *
+
+Total Capacity
+Offered with SATA
+SSD (GB)
+
+0 More than 0.0 Or
+higher
+
+                             4 / 14
+
+
+
+ 
+
+Type of SAS SSD NA *
+
+SAS SSD Hot
+Swappable
+
+NA *
+
+Endurance for SAS SSD
+(DWPD - Drive Writes
+Per Day) (X)
+
+0 *
+
+Total Number of Slots
+available for SAS SSD
+
+0 *
+
+Number of Slots
+populated with SAS
+SSD
+
+0 *
+
+Capacity Offered per
+SAS SSD (GB)
+
+0 *
+
+Total Capacity
+Offered with SAS
+SSD (GB)
+
+0 More than 0.0 Or
+higher
+
+Type of NVMe SSD NA *
+
+NVMe SSD Hot
+Swappable
+
+NA *
+
+Endurance for NVMe
+SSD (DWPD - Drive
+Writes Per Day) (X)
+
+0 *
+
+Total Number of Slots
+available for NVMe SSD
+
+0 *
+
+Number of Slots
+populated with NVMe
+SSD
+
+0 *
+
+Capacity Offered per
+NVMe SSD (GB)
+
+0 *
+
+Total Capacity
+Offered with NVMe
+SSD (GB)
+
+0 More than 0.0 Or
+higher
+
+HDD Storage Type of Interface for
+Hard Disk Drive
+
+SAS SAS
+
+Total number of Slots
+available for SATA
+Drive
+
+0 *
+
+Number of Slots
+populated with SATA
+Drive
+
+0 *
+
+Capacity offered per
+SATA Drive (GB)
+
+0 *
+
+SATA drive speed (hot
+plug or better) (RPM)
+
+NA *
+
+Total Storage
+Capacity offered
+with SATA Drive (GB)
+
+0 More than 0.0 Or
+higher
+
+                             5 / 14
+
+
+
+ 
+
+Total number of slots
+available for SAS drive
+
+8 *
+
+Number of Slots
+populated with SAS
+Drive
+
+3 *
+
+Capacity offered per
+SAS Drive (GB)
+
+300 *
+
+SAS drive Speed (Hot
+plug or better) (RPM)
+
+15K *
+
+Total Storage
+Capacity offered
+with SAS Drive (GB)
+
+900 More than 900.0 Or
+higher
+
+Total number of slots
+available for NL SAS
+drive
+
+0 *
+
+Number of Slots
+populated with NL SAS
+Drive
+
+0 *
+
+Capacity offered per NL
+SAS Drive
+
+0 *
+
+NL SAS drive speed
+(hot plug or better)
+(RPM)
+
+NA *
+
+Total Storage
+Capacity offered
+with NL SAS Drive
+(GB)
+
+0 More than 0.0 Or
+higher
+
+RAID RAID level 5 *
+
+No of RAID
+Controller Ports
+
+2 2, 3, 4, 5, 6, 7, 8 Or
+higher
+
+Speed of RAID
+Controller Ports
+(Gbps)
+
+6 6, 12 Or higher
+
+RAID Controller Cache
+(GB)
+
+0 *
+
+Ports & Interfaces Network Card
+Supported
+
+1G *
+
+Number of
+Networking Interface
+Cards (LAN)
+
+1 2, 3, 4, 5, 6, 7, 8, 1 Or
+higher
+
+Whether Network
+Interface Card
+Embedded
+
+Yes *
+
+Total Number of
+Ethernet Ports
+required in Server
+
+2x1G 2x1G
+
+Networking Interface
+Card Features
+
+Asset Feature
+Tracking,Security
+
+*
+
+                             6 / 14
+
+
+
+ 
+
+Management
+
+Server Network Ports
+should Support SR-IOV
+Feature
+
+No *
+
+Server network ports
+should support DPDK
+and it should deliver
+zero packet loss as per
+RFC 2544 and deliver
+100% line rate for all
+the packet sizes over
+64 Bytes, Vendor to
+submit latest DPDK test
+report for the same
+
+No *
+
+Number of Single
+port FC HBA card
+
+0 0, 1, 2, 3, 4 Or higher
+
+Number of Dual port
+FC HBA card
+
+0 0, 1, 2, 3, 4 Or higher
+
+Number of Quad port
+FC HBA card
+
+0 0, 1, 2, 3, 4 Or higher
+
+FC HBA Speed
+(Gbps)
+
+NA 8, 16, 32, NA Or higher
+
+vHBA Card Features
+Supported
+
+No *
+
+Number of
+Converged Network
+Adaptor (CNA)
+
+0 0, 1, 2, 3, 4 Or higher
+
+Number of Ports per
+CNA card
+
+NA Dual Port, Quad Port,
+NA Or higher
+
+CNA Port Speed
+(Gbps)
+
+0 10, 25, 40, 50, 100,
+200, 0 Or higher
+
+Length of LC-LC
+Cable per SFP+ Port
+(meter)
+
+0 5, 10, 15, 0 Or higher
+
+Length of LC-LC
+Cable per HBA Port
+(meter)
+
+0 5, 10, 15, 0 Or higher
+
+Length of LC-LC
+Cable per CNA Port
+(meter)
+
+0 5, 10, 15, 0 Or higher
+
+Length of Twinax
+Breakout Cables per
+Port (meter)
+
+0 *
+
+Video Controller
+(support VGA or above
+resolution)
+
+Yes *
+
+Keyboard Port No *
+
+Mouse Port No *
+
+                             7 / 14
+
+
+
+ 
+
+DVD ROM
+(Internal/Exrternal)
+
+No *
+
+USB Ports (version
+2point0/3point0)
+
+3 *
+
+Total number of Spare
+Bays Available for
+Future Upgradation
+(Internal)
+
+5 *
+
+Total number of Spare
+Bays Available for
+Future Upgradation
+(Hot Plugable)
+
+0 *
+
+Certifications Certifications/Compli
+ance (OS)
+
+Windows,Red Hat
+Linux,Suse
+Linux,Ubuntu
+
+Windows, Red Hat
+Linux, Suse Linux,
+Ubuntu
+
+Certification/Complianc
+e (Virtualization/Cloud
+Platform)
+
+VM ware,HyperV,Oracle
+Virtualization,Red Hat
+Virtualization
+
+*
+
+Features Management
+Features-1
+
+Remoter power On/
+Shutdown of
+server,,Remote
+Management of Server
+over LAN & WAN with
+SSL encryption through
+gigabit management
+port,,Should have
+virtual Media support
+with all required
+licenses.,Remote
+KVM,Server Health
+Logging,Out of Band
+Management
+
+Remoter power On/
+Shutdown of server,,
+Remote Management
+of Server over LAN &
+WAN with SSL
+encryption through
+gigabit management
+port,, Should have
+virtual Media support
+with all required
+licenses., Remote KVM,
+Server Health Logging,
+Out of Band
+Management
+
+Management
+Features-2
+
+Management of
+multiple Servers from
+single console with
+single source of truth
+for multiple
+sites.,Automated
+infrastructure
+management for patch
+upgrades, version
+upgrades
+,etc.,Simplified
+management with
+analytics driven
+actionable
+intelligence.,System
+tagging giving admin
+flexibility to provide
+metadata tags to each
+System to enable users
+to filter and sort
+systems based on user-
+
+*
+
+                             8 / 14
+
+
+
+ 
+
+assigned
+attributes,Hardware
+Profile based
+deployment to multiple
+Servers
+simultaneously,Policy
+template for
+deployment of single
+policy to multiple
+Servers
+simultaneously,Platfro
+m inventory and helath
+status,Server utilization
+statistics collection
+(including firmware
+updates and diagnostic
+tools),Should provide
+an alert in case the
+system is not part of
+OEM hardware
+complatibilty
+test,Solution should be
+open and
+programmable
+providing Rest API, SDK
+for programming
+lanugaes like Python ,
+power shell scripts
+etc.,Should have
+customizable
+dashboard to show
+overall
+faults/health/inventory
+for all managed
+infrastructure the
+solution should provide
+option to create unique
+dashboards for
+individual users.the
+user should be
+flexibility to select
+name for dshasboards
+and widgets (viz.
+health, utilization
+etc),Single pane of
+glass for auto
+Provisioning across
+Multi vendor & multi
+hypervisor
+platform,Self service
+portal deployment for
+automated
+provisioning,Real-time
+out-of-band hardware
+performance
+monitoring & alerting
+
+Security Features-1 Secure Boot(Firmware Secure Boot(Firmware
+
+                             9 / 14
+
+
+
+ 
+
+and Bios Level
+Security),Provision to
+lock the system on
+breach,Hardware root
+of trust/Dual Root of
+Trust,Server should
+provide policy based
+security,Server should
+provide server intrusion
+detection,,"Malicious
+Code Free design" (to
+be certified by OEM)
+
+and Bios Level
+Security), Provision to
+lock the system on
+breach, Hardware root
+of trust/Dual Root of
+Trust, Server should
+provide policy based
+security, Server should
+provide server intrusion
+detection,, "Malicious
+Code Free design" (to
+be certified by OEM)
+
+Security Features-2 Provision for
+Cryptographic firmware
+updates,Capability to
+stop execution of
+Application/Hyperviser/
+Operating System on
+predefined security
+breach,Secure
+/Automatic BIOS
+recovery,Network Card
+secure firmware boot,In
+case of any security
+breach system should
+provide the lock down
+feature
+
+*
+
+Server scalability to be
+achived within the box
+& without adding nodes
+
+Yes *
+
+support for high
+availability clustering
+and virtualization
+
+Yes *
+
+Generic Redundant Power
+Supply
+
+Yes *
+
+Hot Swappable
+(Redundant Power
+Supply)
+
+Yes *
+
+Power Supply
+Efficiency
+
+Gold Gold, Platinum,
+Titanium Or higher
+
+Redundant Fan Yes *
+
+Hot Swappable
+(Redundant Fan)
+
+No *
+
+Server Main Supply 230 +/- 10%Vac *
+
+Benchmark SPEC int_rate_base
+2017 for the product
+(must be available
+on SPEC dot ORG
+before evaluation)
+
+0 More than 0.0 Or
+higher
+
+SPEC fp_rate_2017
+for the product
+(must be available
+
+0 More than 0.0 Or
+higher
+
+                            10 / 14
+
+
+
+ 
+
+on SPEC dot ORG
+before evaluation)
+
+SPEC int_speed_base
+2017 for the product
+(must be available on
+SPEC dot ORG before
+evaluation)
+
+0 *
+
+SPEC fp_speed_2017
+for the product (must
+be available on SPEC
+dot ORG before
+evaluation)
+
+0 *
+
+Miscellaneous Maximum power
+consumption of the
+system (Watts)
+
+550 *
+
+BIS Registration under
+CRS of MeitY
+
+Yes *
+
+BIS Registration
+Number Under CRS of
+MeitY and its validity
+
+R-61000388 *
+
+Other Certifications
+Available
+
+UL *
+
+RoHS Compliance Yes *
+
+Availability of the type
+test report from Central
+Government / NABL /
+ILAC acredited
+laboratory covering
+verification of all
+features & functional
+parameters &
+environmental tests
+sequence
+
+No *
+
+a) Dry heat:test - for 16
+hrs at 45 deg C as per
+IS:
+9000/pt-3/sec-5/1977
+b) Cold test - for 4 hrs
+at 0 deg C as per IS:
+9000/pt-2/sec-4/1977
+c) Damp Heat Cyclic
+Test - for 2 cycles of 24
+hrs at 40 deg C & 95%
+RH as per IS:
+9000/pt-5/sec-1/1981
+
+NA *
+
+The server has been
+checked for all the
+parameters before
+conditioning, After
+completion of the
+environmental tests
+sequence, with a
+
+NA *
+
+                            11 / 14
+
+
+
+ 
+
+recovery period of 1 to
+2 hrs, the server found
+to be functional
+
+Test Report Number &
+date
+
+NA *
+
+Name & Address of Lab NA *
+
+Scope of Supply Installation and
+Commissioning shall be
+included in the scope of
+supply
+
+Yes *
+
+Warranty On Site OEM
+Warranty (Year)
+
+3 3, 4, 5, 7 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignee/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Jayaram Nakka 534101,Office of Director,
+NIT Andhra Pradesh,
+Tadepalligudem-534101,
+West Godavari District, A. P.
+
+2  15 N/A
+
+Bid Specific Additional Terms and Conditions
+
+1.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+2.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+3.Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have
+regularly, manufactured and supplied same or similar Category Products to any Central /
+State Govt Organization / PSU / Public Listed Company for 3 years before the bid opening
+date. Copies of relevant contracts to be submitted along with bid in support of having
+supplied some quantity during each of the year. In case of bunch bids, the primary product
+having highest value should meet this criterion.
+
+                            12 / 14
+
+
+
+ 
+
+4.Malicious Code Certificate:
+
+The seller should upload following certificate in the bid:-
+(a) This is to certify that the Hardware and the Software being offered, as part of the
+contract, does not contain Embedded Malicious code that would activate procedures to :-
+  (i) Inhibit the desires and designed function of the equipment.
+  (ii) Cause physical damage to the user or equipment during the exploitation.
+  (iii) Tap information resident or transient in the equipment/network.
+(b) The firm will be considered to be in breach of the procurement contract, in case physical
+damage, loss of information or infringements related to copyright and Intellectual Property
+Right (IPRs) are caused due to activation of any such malicious code in embedded software.
+
+5.OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be
+ordered up to 25 percent at the time of placement of contract. The purchaser also reserves
+the right to increase the ordered quantity by up to 25% of the contracted quantity during the
+currency of the contract at the contracted rates. Bidders are bound to accept the orders
+accordingly.
+
+6.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+7.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial
+year, should be as indicated in the bid document. Documentary evidence in the form of
+certified Audited Balance Sheets of relevant periods or a certificate from the Chartered
+Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than
+3 year old, the average turnover in respect of the completed financial years after the date of
+constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of
+CATEGORY RELATED TO primary product having highest bid value should meet this criterion.
+
+8. ISO 9001: The bidder must have ISO 9001 certification.
+9.Timely Servicing / rectification of defects during warranty period: After having been notified
+
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 15 days time limit. If the Seller fails to complete
+service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product
+shall be charged as penalty for each week of delay from the seller. Seller can deposit the
+penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty
+amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than
+10% of the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+10.Warranty period of the supplied products shall be 3 years from the date of final acceptance
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+11.The Bidder / OEM {themselves or through reseller(s)}, should have executed project for
+supply and installation / commissioning of same or similar Category Products during
+preceding 3 financial years (i.e. current year and three previous financial years) as on
+opening of bid, as per following criteria:
+ 
+(i) Single order of at least 35% of estimated bid value; or
+(ii) Two orders of at least 20% each of estimated bid value; or
+(iii) Three orders of at least 15% each of estimated bid value.
+Satisfactory Performance certificate issued by respective Buyer Organization for the above
+
+                            13 / 14
+
+
+
+ 
+
+Orders should be uploaded with bid. In case of bunch bids, the Category related to primary
+product having highest bid value should meet this criterion
+
+12.Bidders can also submit the EMD with Payment online through RTGS / internet banking in
+Beneficiary name DIRECTOR E M D ACCOUNT NIT-AP Account No. 35579546371 IFSC Code 
+SBIN0016305 Bank Name STATE BANK OF INDIA Branch address SATYAVATHI NAGAR,
+TADEPALLIGUDEM.
+ Bidder to indicate bid number and name of bidding entity in the transaction details field at
+the time of on-line transfer. Bidder has to upload scanned copy / proof of the Online Payment
+Transfer along with bid.
+
+13.Successful Bidder can submit the Performance Security in the form of Payment online
+through RTGS / internet banking also (besides PBG which is allowed as per GeM GTC). On-
+line payment shall be in Beneficiary name DIRECTOR E M D ACCOUNT NIT-AP Account No. 
+35579546371 IFSC Code SBIN0016305 Bank Name STATE BANK OF INDIA Branch address 
+STAYAVATHI NAGAR, TADEPALLIGUDEM. Successful Bidder to indicate Contract number and
+name of Seller entity in the transaction details field at the time of on-line transfer. Bidder
+has to upload scanned copy / proof of the Online Payment Transfer in place of PBG within 15
+days of award of contract.
+
+This RA is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                            14 / 14
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

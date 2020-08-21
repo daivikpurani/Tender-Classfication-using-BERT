@@ -1,0 +1,525 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/703593
+
+  Dated: 11-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 21-07-2020 12:00:00
+
+Bid Opening Date/Time 21-07-2020 12:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 80 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Air Force
+
+Office Name ***********
+
+Total Quantity 4
+
+Item Category Live Remote Temperature & Humidity Monitoring and
+Alert System
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Live Remote Temperature & Humidity Monitoring And Alert System ( 4
+pieces )
+
+Technical Specifications
+
+                               1 / 5
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+General Application of Type of
+IOT Device
+
+Live Remote
+Temperature &
+Humidity Monitoring
+and Alert System
+
+*
+
+Items covered in the
+System
+
+2.IOT Device for
+measuring &
+monitoring of
+temperature &
+Humidity
+
+2.IOT Device for
+measuring &
+monitoring of
+temperature &
+Humidity
+
+Activation &
+Demonstration of
+the product
+
+Yes Yes
+
+Demonstration Type onsite onsite
+
+Number of Years
+upto which Support
+is available from
+OEM/Seller
+
+2 2
+
+IoT Device Features of IOT
+Device
+
+1. To measure, observe
+and monitor
+Temperature &
+Humidity in a real time
+remotely and send
+alerts when there is
+deviation from defined
+temperature range.,2.
+Captures the location
+detail of monitoring
+unit.,3. User
+configurable sampling
+and data reporting
+frequency
+
+1. To measure, observe
+and monitor
+Temperature &
+Humidity in a real time
+remotely and send
+alerts when there is
+deviation from defined
+temperature range., 2.
+Captures the location
+detail of monitoring
+unit., 3. User
+configurable sampling
+and data reporting
+frequency
+
+Key components in
+the IoT device
+
+1. Temperature
+Sensor,2. Humidity
+Sensor,5. Battery
+
+1. Temperature Sensor,
+2. Humidity Sensor, 5.
+Battery
+
+Type of Monitoring Temperature,Humidity Temperature, Humidity
+
+No Of data readings
+stored in memory (in
+Thousand)
+
+2 2
+
+Sensor type Internal Internal
+
+Firmware NA *
+
+Visual display
+available in the
+offered product
+
+LCD LCD
+
+Make and Model of the - *
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/ssGL3udA1BEXVjno1h1voUiC_eZV4ogrH_g3z0Bglq4
+
+
+ 
+
+IOT Device
+
+OEM of the IOT Device - *
+
+Warranty on the IOT
+device (years)
+
+1 1
+
+Temperature Sensor Temperature Sensor
+Type
+
+Thermocouples *
+
+Sensitivity(in ˚C) ±0.5 ±0.5
+
+Temperature
+Resolution
+
+0.5 0.5
+
+Minimum Operating
+Temperature(in ˚C)
+(Hint: Select "0" if
+not applicable )
+
+-20 -30.0 - -20.0 Or lower
+
+Maximum Operating
+Temperature(in ˚C)
+(Hint: Select "0" if
+not applicable; )
+
+60 60.0 - 60.0 Or higher
+
+Humidity Sensor RH Sensor Type 1. Capacitive *
+
+Humidity Range(in %
+RH) (Hint: Select "0"
+if not applicable)
+
+100 100.0 - 100.0 Or higher
+
+Accuracy (in % RH) ±3 ±3
+
+Sensitivity(in % RH) ±0.1 ±0.1
+
+Communication Module Communication
+protocols Supported
+
+NA NA
+
+Microcontroller Bit core 8 8
+
+Core processor NA NA
+
+Memory type FLASH FLASH
+
+Memory Size in KB
+(Hint: Select "0" if
+not applicable; )
+
+32 32.0 - 2048.0 Or higher
+
+Battery Type of Battery Non-Rechargeable
+Battery
+
+Non-Rechargeable
+Battery
+
+Number of Batteries 2 2
+
+Chemistry of Battery Lithium Polymer Lithium Polymer
+
+Battery Size AAA *
+
+Capacity of Battery
+(in mAh) (Hint:
+Select "0" if not
+applicable; )
+
+0 0.0 - 6000.0 Or higher
+
+Operating Voltage(in
+volts) (Hint: Select "0"
+if not applicable)
+
+12 *
+
+Minimum Battery
+Back Up Time ( in
+
+0 0.0 - 30.0 Or higher
+
+                               3 / 5
+
+
+
+ 
+
+days) as per
+standard sampling
+and data reporting
+intervals (Hint:
+Select "0" if not
+applicable)
+
+Suitable Battery
+Charger Working on
+230 V AC ± 10 % ; 50
+Hz ± 10 %
+
+NA *
+
+SOFTWARE Deployment Option NA NA
+
+Features of Software
+for monitoring/
+Reports
+
+1. Graphical User
+Interface to configure,
+read, upgrade the
+device.,2. Software
+provides acess to data ,
+reports of temperature,
+humidity and
+location.,3. Admin
+rights to create and
+manage devices and
+users, assign devices to
+users.,4. Set
+temperature limits for
+individual devices for
+monitoring & alert .,5.
+User access to monitor
+each device and view/
+download reports.,6.
+Create and modify
+storage locations like
+warehouse, and
+subsequent locations.
+
+1. Graphical User
+Interface to configure,
+read, upgrade the
+device., 2. Software
+provides acess to data ,
+reports of temperature,
+humidity and location.,
+3. Admin rights to
+create and manage
+devices and users,
+assign devices to
+users., 4. Set
+temperature limits for
+individual devices for
+monitoring & alert ., 5.
+User access to monitor
+each device and view/
+download reports., 6.
+Create and modify
+storage locations like
+warehouse, and
+subsequent locations.
+
+Name of the software - *
+
+OEM Model / Part No - *
+
+Type of Licence NA NA
+
+Valid licence copy to
+be provided
+
+NA NA
+
+Software supplied
+through
+
+Media *
+
+Hyper link to the
+datasheet
+
+- *
+
+Operating system
+Supported
+
+Window,IOS *
+
+Generic Features Operating Modes Standard Run
+Mode,Delayed Start
+Run Mode
+
+*
+
+Standard Sampling
+Interval Range
+(Minutes)
+
+1-30 *
+
+                               4 / 5
+
+
+
+ 
+
+Standard Reporting
+Interval Range
+(Minutes)
+
+1-30 *
+
+Format in which GUI
+Report Available
+
+Excel,PDF *
+
+Programmable distinct
+Alarms for
+
+Deviations in
+Temperature &
+Humidity
+
+*
+
+Alarm Types Mobile Apps,Audio Mobile Apps, Audio
+
+Display Reading in Temperature,Humidity,
+date,time
+
+*
+
+Device Interface LED Status(Power -Up,
+low battery, charging,
+network )
+
+*
+
+Device Configuration
+modes
+
+Using User Interface
+programs by physically
+connecting device to
+the PC
+
+*
+
+List of items & number
+included in the scope of
+supply
+
+- *
+
+Supplied with
+Comphrensive User
+manual
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********BATHINDA 4  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

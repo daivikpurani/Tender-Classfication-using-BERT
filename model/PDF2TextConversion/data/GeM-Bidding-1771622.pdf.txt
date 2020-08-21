@@ -1,0 +1,654 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/696857
+
+  Dated: 03-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 24-07-2020 13:00:00
+
+Bid Opening Date/Time 24-07-2020 13:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 65 (Days)
+
+Ministry/State Name Pmo
+
+Department Name Department Of Atomic Energy
+
+Organisation Name Nuclear Power Corporation Of India Limited
+
+Office Name Rajasthan
+
+Total Quantity 1
+
+Item Category Cardiac Monitor with defibrillator
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Cardiac Monitor With Defibrillator ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+                               1 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/Rx-Aon9hFV9IjIom86Ebbgm0YxV_HNKdBa34jwxitKs
+
+
+ 
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Conformity to
+Certification
+
+- *
+
+Certification number
+and date
+
+- *
+
+Confirmity to
+Manufactures
+Certification
+
+ISO 9001 & ISO 13485 ISO 9001 & ISO 13485
+
+Conformity to Safety
+Standards
+
+IEC 60601-2-4 or
+Equivalent BIS
+
+*
+
+Performance
+Parameters
+
+Capability parameter
+of defibrillator
+
+ECG
+monitoring,external
+defibrillation, external
+pacing
+(transcutaneous),
+internal defibrillation
+and recording
+
+ECG
+monitoring,external
+defibrillation, external
+pacing
+(transcutaneous),
+internal defibrillation
+and recording
+
+Technology of
+defibrillator
+
+Biphasic technology *
+
+Modes in
+defibrillator
+
+Automated external
+defibrillation and
+manual
+
+Automated external
+defibrillation and
+manual
+
+Maximum energy
+selection in joules
+
+200 *
+
+Capability of ECG
+Monitoring
+
+ECG leads , multi
+function electrodes ,
+paddles
+
+*
+
+Number of wave-
+forms
+
+3 3
+
+Patient compatibility
+to defibrillate
+
+Adult ,pediatric
+patients
+
+Adult ,pediatric
+patients
+
+Type of display TFT TFT
+
+Size of display screen
+in inch
+
+6.5 *
+
+Provision to display
+ECG waveform on
+bright high resolution
+display
+
+Yes *
+
+Facility to have
+synchronized cardio
+version
+
+Yes Yes
+
+Ability to display
+CPR index on screen
+real time
+
+Yes Yes
+
+Ability to filter out
+CPR artefacts to see
+organised rhythms
+
+Yes Yes
+
+                               2 / 7
+
+
+
+ 
+
+without interrupting
+chest compression
+
+Provision of within built
+rechargeable battery
+
+Yes *
+
+Battery backup to
+deliver number of
+shocks at maximum
+energy
+
+100 *
+
+Weight of defibrillator
+with battery and
+paddles in Kg
+
+6.9 *
+
+Provision of in built
+recorder
+
+Yes Yes
+
+Provision of printing
+ECG trace & stored
+information
+
+Yes Yes
+
+Facility of External
+non-invasive pacing
+
+Yes Yes
+
+Type of external
+transcutaneous
+pacing modes
+
+Both Demand mode
+and fixed mode
+
+Both Demand mode
+and fixed mode
+
+Pulse width of
+External non-
+invasive pacing in
+milli seconds
+
+40 40
+
+Ability to measure
+chest compression
+rate and depth in
+real time with visual
+feedback on screen
+with rate and depth
+indicator
+
+Integrated with
+defibrillator
+
+Integrated with
+defibrillator
+
+Facility to monitor
+EtCO2
+
+No No
+
+Facility to monitor
+NIBP
+
+No No
+
+Facility to monitor
+SPO2
+
+No No
+
+Upgradability to
+monitor EtCO2
+
+Yes Yes
+
+Upgradability to
+monitor NIBP
+
+Yes Yes
+
+Upgradability to
+monitor SPO2
+
+Yes Yes
+
+ECG monitoring Using 5/6 lead Using 5/6 lead
+
+Provision of user
+selectable alarm
+settings
+
+Yes *
+
+                               3 / 7
+
+
+
+ 
+
+The machine should
+work on mains as well
+as on rechargeable
+battery
+
+Yes *
+
+Ability to select energy
+from paddles
+
+Yes *
+
+Ability to charge and
+discharge through
+paddles as well as from
+main unit
+
+Yes *
+
+Facility for internal
+defibrillation
+
+Yes Yes
+
+Charging time for
+maximum energy in
+seconds
+
+7 *
+
+Mechanism of self test
+of unit
+
+Automatic and manual *
+
+Unit should do self test
+with facility to give
+printout of defibrillator
+testing report and also
+have code ready
+indicator on unit
+
+Yes *
+
+Provision of
+stainless steel
+trolley with lockable
+castors
+
+Yes Yes
+
+Suitability of
+defibrillator for
+transport on ground
+(ambulance)
+
+Yes Yes
+
+Defibrillator suitable
+to use at high
+altitudes and in air
+craft
+
+Yes Yes
+
+Defibrillator should
+display selected
+energy
+
+Yes Yes
+
+Defibrillator should
+display delivered
+energy
+
+Yes Yes
+
+Suitability of
+defibrillator for
+transportation in air
+(aircraft)
+
+Yes Yes
+
+Availaibility of
+suitable protection
+for dust and water
+
+Yes Yes
+
+Accessories Li-ion Battery 1 1
+
+                               4 / 7
+
+
+
+ 
+
+ECG cable 1 1
+
+NIBP pediatric cuff
+with hose
+
+1 1
+
+NIBP adult cuff with
+hose
+
+1 1
+
+Reusable airway
+adaptor to be used
+with ETCO2 main
+stream / side stream
+sensor and cable
+
+Not provided Not provided
+
+Disposable airway
+adpater with EtCO2
+mainstream sensor
+and cable
+
+Not provided Not provided
+
+External defibrillator
+paddles (pediatric in
+built in adult)
+
+1 1
+
+Multi Function
+Defibrillator &
+Monitoring pads/gel
+sheets
+
+12 12
+
+Recorder paper roll 10 10
+
+Reusable CPR
+feedback sensor/or
+similar product
+reused
+
+1 1
+
+Miscellaneous
+Parameters
+
+Warranty in years 5 5
+
+Original User /
+Technical manuals to
+be supplied in English
+in hard and soft copy
+
+Yes *
+
+Original copy of
+operating and service
+manuals to be supplied
+in English in hard and
+soft copy
+
+Yes *
+
+Calibration and
+preventive
+maintenance certificate
+has to be provided as
+per requirement
+
+Yes *
+
+Installation,
+Demonstration and
+training to be provided
+at consignee end at
+any part of country
+
+Yes *
+
+The Principal
+Manufacturer Must
+Have Direct
+Presence/approved
+
+Yes *
+
+                               5 / 7
+
+
+
+ 
+
+service center In India
+
+Advanced maintenance
+task required shall be
+documented and
+procedures required for
+local calibration and
+routine maintenence
+and list of imp spare
+parts with accessories
+along with part
+numbers to be
+furnished
+
+Yes *
+
+Availabilty of toll free
+facility for technical
+support maintened by
+OEM or authorized
+agencies
+
+Yes *
+
+Provide Certificate from
+the principal that spare
+parts will be available
+from next 10 years at
+the time of supplies to
+the buyer
+
+Yes *
+
+Copies of all
+certifications to be
+provided to buyer on
+demand at time of
+supplies
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Gyan Mal Khatik 323303,Contracts & Material
+Management, Rawatbhata
+Rajasthan Site, Anushakti
+Via-Kota (Rajasthan) Phone
+No. 01475-242002, 242048
+Which is about 60 Kms.
+away from Kota.
+
+1  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2.Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be
+
+given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs)
+
+                               6 / 7
+
+
+
+ 
+
+Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises
+and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to
+avail the Purchase preference, the bidder must be the manufacturer of the offered product
+in case of bid for supply of goods. Traders are excluded from the purview of Public
+Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder
+must be the Service provider of the offered Service. Relevant documentary evidence in this
+regard shall be uploaded along with the bid in respect of the offered product or service. If L-1
+is not an MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of
+purchase preference /price band defined in relevant policy, such Seller shall be given
+opportunity to match L-1 price and contract will be awarded for percentage of 25% of total
+value.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

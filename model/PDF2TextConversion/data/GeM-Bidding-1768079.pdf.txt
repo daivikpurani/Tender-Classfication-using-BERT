@@ -1,0 +1,586 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/693629
+
+  Dated: 01-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 22-07-2020 16:00:00
+
+Bid Opening Date/Time 2020-07-22 16:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 65 (Days)
+
+Ministry/State Name Ministry Of Home Affairs
+
+Department Name Central Police Organisation
+
+Organisation Name N/a
+
+Office Name Delhi Police Headquarters
+
+Total Quantity 75
+
+Item Category breath alcohol analyzers
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  Yes
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 3.00
+
+EMD Amount 74471
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 10.00
+
+Duration of ePBG required (Months). 27
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+                               1 / 7
+
+
+
+ 
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+DCP/TRAFFIC (HQ)
+Delhi Police Headquarters, Central Police Organisation, N/A, Ministry of Home Affairs
+(Charanjit Pal Singh)
+
+Splitting
+
+  Bid splitting not applied.  
+
+Breath Alcohol Analyzers ( 75 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+TECHNOLOGY /
+PERFORMANCE
+
+Sensor Technology ElectroChemical - Fuel
+Cell (alcohol specific)
+
+ElectroChemical - Fuel
+Cell (alcohol specific)
+
+Sampling Method Deep Lung Exhalation
+Method
+
+*
+
+Sampling Error
+Detection
+
+Alarm on wrong
+sampling
+
+*
+
+Sampling modes Both Active and
+Passive
+
+*
+
+Measuring Range
+[mg / 100 ml BAC
+(Blood Alcohol
+Concentration)]
+
+0 to 500 0 to 500
+
+Accuracy +/- 5 % or better *
+
+Drift of the breath
+analyzer in 6 months
+period (mg / 100 ml
+BAC)
+
+2 0.0 - 2.0 Or lower
+
+Easily replaceable
+mouthpiece with
+Sputum Trap
+
+yes *
+
+Sample Taking
+Duration
+
+5 *
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/mV14UjtPUlD8tq0IMVU6u6f6W54C2lgvXR61Yfdx1V4
+
+
+ 
+
+Analytical Response
+Time (At '0' level of
+Alcohol)
+
+3 *
+
+Analytical Response
+Time for positive result
+
+15 *
+
+Recovery Time at (1/2)
+mg/ltr
+
+30 *
+
+Warm up Time (after
+putting on)
+
+15 *
+
+Time required for re-
+calibration
+
+12 *
+
+Barometric Pressure
+Range (hpa or millibar)
+
+1300 *
+
+Shelf Life of Fuel Cell 3 *
+
+RoHS Compliant Yes *
+
+The Equipment meet
+RFI requirement as per 
+EN:5008-1/1992(emissi
+on) and EN 50082-1:19
+97(immunity) or
+equivalent
+requirements
+
+Yes *
+
+PHYSICAL Weight 320 *
+
+Size ( mm x mm x mm
+)
+
+- *
+
+BATTERY OF ANALYZER Power Source Rechargeable Battery
+and also work through
+automobile 12 V DC
+Power.
+
+*
+
+Chemistry of
+Rechargeable Battery
+
+Li-ion *
+
+Battery Voltage 7.4 *
+
+Battery Backup Time
+(continuous duty)
+
+24 *
+
+Number of Spare
+Rechargeable Batteries
+supplied with the
+instrument
+
+0 *
+
+Low Battery indication yes *
+
+DISPLAY / INDICATOR /
+STORAGE / INTERFACE
+
+Display Type TFT LCD *
+
+Display Size 3.5 *
+
+Availability of audible
+beeper for over range,
+low battery etc
+
+yes *
+
+Record Entry Through
+Integrated/Touch
+
+Through
+Integrated/Touch
+
+                               3 / 7
+
+
+
+ 
+
+Screen Screen
+
+Minimum Record Fields Full Information as per
+the user's requirement
+such as Driver Name,
+Vehicle number,
+inspector name, test
+report with time, date,
+geolocation, instrument
+id, etc
+
+*
+
+Record Memory
+(Minimum)
+
+50000 50000
+
+Record Data
+Downloadable to PC
+
+yes *
+
+Data Interface USB,Bluetooth *
+
+GPS Yes *
+
+If yes, Capable to
+display the geolocation
+of test inspection /
+location
+
+yes *
+
+Camera No No
+
+If yes, Capable to
+capture the clear
+image of test target
+
+NA *
+
+PRINTER Printer With With
+
+Type of Printer Internal Thermal Printer Internal Thermal Printer
+
+Print Resolution (dpi) 203 *
+
+Printer consists of
+Inbuilt Rechargeable
+Battery, Paper for
+offence printouts,
+Charger
+
+yes *
+
+Minimum number of
+printouts that can be
+taken with the paper
+available with the
+Printer
+
+100 *
+
+"Minimum number of
+printouts that can be
+taken with single
+charge of the printer
+battery (Hint:-
+Minimum 60 prints, if
+'With Printer' May
+indicate '0' if not
+applicable)"
+
+100 *
+
+Bis Registration
+number for Printer
+under CRS of MeitY
+
+- *
+
+WARRANTY Warranty 2 2, 3, 4, 5 Or higher
+
+                               4 / 7
+
+
+
+ 
+
+STATUTORY
+REQUIREMENTS
+
+The equipment can be
+used as an evidential
+instrument for Traffic
+Law Enforcement, The
+instrument is hand
+held, portable and easy
+to operate
+
+Yes *
+
+If Yes, the equipment
+meets the
+requirements of the
+applicable latest
+Central Motor Vehicle
+Rules and all Govt
+notifications
+
+yes *
+
+Immunity to RF
+interface,meets
+requirement as per EN:
+5008-/1992(emission)
+and EN:50082-1:1997
+(immunity) or
+equivalent
+
+yes *
+
+OPERATING
+CONDITIONS
+
+Minimum Operating
+Temperature
+
+-10 *
+
+Maximum Operating
+Temperature
+
+55 *
+
+Relative Humidity Non
+Condensing (%)
+
+95 *
+
+ENVIRONMENTAL /
+CERTIFICATION
+
+Conformity to Dry Heat
+test at 50 degree C for
+16 hours as per IS
+:9000 latest
+
+Yes *
+
+Conformity to Damp
+heat at 40 degree C -
+95% RH (cyclic test):
+two cycles of 16+8
+hours as per IS: 9000
+latest
+
+Yes *
+
+Conformity to Cold test
+at - 5 / -10 / - 15 / -20
+degree C (as
+applicable) for 4 hours
+as per IS: 9000 latest
+
+Yes *
+
+Availability of Test
+Reports from Central
+Govt / NABL approved /
+ILAC accredited Lab to
+prove conformity to the
+specification
+
+Yes *
+
+Test Report Number
+and Date
+
+- *
+
+Name of the Lab and - *
+
+                               5 / 7
+
+
+
+ 
+
+Address
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Charanjit Pal
+Singh
+
+110012,DEV PRAKASH
+SHASTRI MARG, TODAPUR,
+PUSA ROAD,NEW DELHI
+
+75  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+2.Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt
+also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in
+the name of Dy. Commissioner of Police, Traffic HQ, Dev Parkash Shastri Marg, Pusa Road,
+Todapur, Delhi-110012 A/C (Name of the Seller). The bank should certify on it that the
+deposit can be withdrawn only on the demand or with the sanction of the pledgee. For
+release of Security Deposit, the FDR will be released in favour of bidder by the Buyer after
+making endorsement on the back of the FDR duly signed and stamped along with covering
+letter. Successful Bidder has to upload scanned copy of the FDR document in place of PBG
+and has to ensure delivery of hard copy of Original FDR to the Buyer within 15 days of award
+of contract.
+
+3. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+4.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+5.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+6.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+7.The bidder is required to upload, along with the bid, all relevant certificates such as BIS
+licence, type test certificate, approval certificates and other certificates as prescribed in the
+Product Specification given in the bid document.
+
+8.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 3 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+
+                               6 / 7
+
+
+
+ 
+
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

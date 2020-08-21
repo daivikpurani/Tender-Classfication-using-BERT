@@ -1,0 +1,398 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/707160
+
+  Dated: 11-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 21-07-2020 21:00:00
+
+Bid Opening Date/Time 21-07-2020 21:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence Reseach & Development
+
+Organisation Name Office Of Dg (ace)
+
+Office Name ***********
+
+Total Quantity 1
+
+Item Category Electronic Weighing Scales
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Electronic Weighing Scales ( 1 pieces )
+
+                               1 / 5
+
+
+
+ 
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+PERFORMANCE
+PARAMETERS
+
+Type of Electronic
+Weighing Machine
+
+Hanging/ Crane Scale Hanging/ Crane Scale
+
+Rated Load/
+Capacity(kg)
+
+10,000kg 10,000kg
+
+Resolution(gms) 2000 g 2000 g
+
+Class type Class-II Class-II
+
+Display led led
+
+Number of Display single single
+
+Speed of
+measurement
+
+10 More than 10.0 Or
+higher
+
+Internal calibration No No
+
+Number of scale
+division
+
+- *
+
+Tare provision automatic automatic
+
+Connectivity to
+Computer
+
+No No
+
+Number of USB ports NA *
+
+Number of RS232
+ports
+
+1 1
+
+Power Requirement mains operated mains operated
+
+Power Supply Single Phase Single Phase
+
+DC Operating voltage
+in Volts
+
+240 *
+
+Battery Backup Yes Yes
+
+Backup time(hour) 10 10
+
+Battery type rechargeable rechargeable
+
+Battery rating - *
+
+Type of Sensing
+Element
+
+Load Cell Load Cell
+
+Number of load cell/
+EMFC
+
+1 *
+
+Class of Protection IP 65 *
+
+Warranty in Years 1 1
+
+STANDARDS Conformity to Indian
+Standrad, IS:9281-3
+(1981) part I,II, III &
+Part IV (latest)
+
+Yes Yes
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/RuMQ9yjjOyhR2ybspLqVxNGy1Gdy9IjELSmKFY_on2M
+
+
+ 
+
+BIS Marked No No
+
+CM/L No if Yes
+otherwise Put NA
+
+- *
+
+CE Certified No No
+
+If CE certified then
+provide no and date,
+otherwise put NA
+
+- *
+
+DIMENSIONAL &
+MATERIAL
+PARAMETERS
+
+Material of platform - *
+
+Pan/ Platform Shape rectangular rectangular
+
+Pan/ Platform Size NA for Hanging Scale NA for Hanging Scale
+
+Dimensions of weighing
+machine (L X W X H ) in
+mm x mm x mm
+
+- *
+
+Weight of Weighing
+Machine
+
+- *
+
+ADDITIONAL FEATURES Overcharging
+protection
+
+Yes *
+
+Alarm for overload &
+Malfunctioning
+
+- *
+
+Operating Temperature
+Range
+
+- *
+
+Relative Humidity - *
+
+GPRS Module facility No *
+
+RFID Module No *
+
+RFID Wrist Band No *
+
+Bluetooth Module No *
+
+Back Grill No *
+
+Details of the optional
+Accessories provided
+with weighing scale
+
+- *
+
+Dust Proof Cover Yes *
+
+REPORTS Model approval
+certificate for each
+model from Director
+Legal Metrology
+
+Yes *
+
+Model approval
+certificate No & Date
+for each model
+
+- *
+
+Type Test Certificate
+including Environment
+conditions from
+Regional Reference and
+Standard Laboratory
+(RRSL)
+
+Yes *
+
+Availability of test Yes *
+
+                               3 / 5
+
+
+
+ 
+
+certificate from
+Government/ NABL/
+ILAC acredited lab to
+prove confirmity of
+specification as per (IS:
+9281-2 (1979)
+
+Test Report No & date - *
+
+Name of Lab - *
+
+Address of Lab - *
+
+Each weighing machine
+shall be supplied with
+calibration certificate
+under weights and
+measures act
+
+Yes *
+
+Model approval
+certificate,Type test
+and calibration
+certificate to be
+furnished if asked by
+buyer at the time of
+supplies
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********TIRUVALLUR 1  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+2.Warranty period of the supplied products shall be 2 years from the date of final acceptance
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+3. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+                               4 / 5
+
+
+
+ 
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

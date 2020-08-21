@@ -1,0 +1,473 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/697292
+
+  Dated: 03-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 22-07-2020 11:00:00
+
+Bid Opening Date/Time 22-07-2020 11:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence Reseach & Development
+
+Organisation Name Office Of Dg (ace)
+
+Office Name ***********
+
+Total Quantity 5
+
+Item Category magnetic stirrers
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  Yes
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Magnetic Stirrers ( 5 pieces )
+
+Technical Specifications
+
+                               1 / 5
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+CONFIGURATION AND
+FEATURES
+
+Number of stirring
+Positions
+
+1 1
+
+Calibration Automatic Calibration Automatic Calibration
+
+Type of Drive Motor Brushless Motor AC Brushless Motor AC
+
+Display
+Option/Output Read
+out Option
+
+Digital Digital
+
+Magnetic stirrer is: with a hot plate or
+some other means for
+heating the liquid
+
+with a hot plate or
+some other means for
+heating the liquid
+
+Timer Setting
+(Increment step) (sec)
+
+- *
+
+Minimum Speed
+Possible (RPM)
+
+1500 *
+
+Mangnetic stirrer
+Type
+
+variable speed variable speed
+
+Controler type Microprocessor
+Controlled
+
+Microprocessor
+Controlled
+
+IP rating or Ingress
+protection rating
+
+21 21.0 - 68.0 Or higher
+
+Programmable No No
+
+Direction change
+feature
+
+No *
+
+Speed Control
+Accuracy of set
+speed (+/-) (RPM)
+
+5 0.0 - 5.0 Or lower
+
+Maximum Stirring
+capacity per position
+
+3000 3000.0
+
+Top plate Material Ceramic Ceramic
+
+Timer Provided No *
+
+Base material Die cast aluminium *
+
+User Interface Digital Front Panel Digital Front Panel
+
+Pulse mode No *
+
+Type of Data Logging
+Option
+
+NOT AVAILABLE *
+
+Slip Detection No *
+
+Last run memory Yes Yes
+
+Accessories and spares
+included in standard
+pack
+
+- *
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/pGcZfbdPvNqqnhjaM9kiu5EYNRa1rbVMPwK5eMCxEfs
+
+
+ 
+
+CERTIFICATIONS Firm Certified to
+ISO9001:2008 or latest
+
+YES *
+
+Product is CE
+certified (Seller to
+furnish supporting
+document to Buyer
+on demand)
+
+Yes Yes
+
+EN/IEC directives - *
+
+Name and Address of
+the Lab
+
+- *
+
+Availability Of Test
+Report (to be furnished
+by Seller to Buyer on
+demand) from Central
+Govt/NABL/ILAC
+accredited laboratory
+to prove conformity to
+specifications
+
+No *
+
+Test Report details;
+Number, date of issue,
+name and address of
+issuing laboratory
+
+- *
+
+WARRANTY Warranty on
+Machine
+
+3 3, 5 Or higher
+
+MISC In built-in multi-step
+safety system to
+continuously
+monitor device
+operation and
+protect against
+damage should the
+operation exceed
+the pre-determined
+parameters:
+
+Unsafe Hotplate
+Temperature –
+Temperatures exceed
+safety
+Parameters,Probe
+Failure – Probe Break
+Or Become
+Disconnected
+
+Unsafe Hotplate
+Temperature –
+Temperatures exceed
+safety Parameters,
+Probe Failure – Probe
+Break Or Become
+Disconnected
+
+Weigh 5 *
+
+Ambient operating
+Temperature range 0
+to 50 degree
+
+Yes *
+
+Permissible Relative
+Humidity (%)
+
+80 *
+
+POWER SUPPLY Input Voltage with
+Phase (V)
+
+220 V, 50 Hz AC, single
+phase
+
+*
+
+Input Current (A) 15 *
+
+Power Consumption ( 1020 *
+
+SPEED Speed Mode Variable Speed Variable Speed
+
+Speed (RPM) 1500 *
+
+Minimum Speed
+increment step (RPM)
+
+100 *
+
+                               3 / 5
+
+
+
+ 
+
+Maximum Speed (RPM)
+of variable speed mode
+equipment
+
+1500 *
+
+DIMENSIONS External Dimension:
+Height )
+
+105 *
+
+External Dimension:
+Width
+
+220 *
+
+External Dimension:
+Depth
+
+330 330.0
+
+Body Material Die cast Aluminium Die cast Aluminium
+
+Finish of Body material Powder coated *
+
+STIR BAR Stir bar cover material PTFE *
+
+Stir Bar length 80 *
+
+TOP PLATE Top plate area shape Rectangular *
+
+Length of rectangular
+top plate area
+
+180 *
+
+Width of rectangular
+top plate area
+
+180 *
+
+Circular Top plate
+diameter
+
+0 *
+
+Top plate Finish Ceramic coated Ceramic coated
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********PUNE 5  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+3.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+                               4 / 5
+
+
+
+ 
+
+4.Over and above the normal Warranty terms as per GeM GTC, the successful bidder / OEM
+shall have to provide Comprehensive Warranty during the entire Standard warranty period
+as per contract. : The comprehensive warranty shall be covering the following scope ON
+FULL PRODUCT (Upload an undertaking with the bid confirming compliance by the bidder if
+Bidder is taking onus of this compliance. In case OEM is taking onus of this compliance, OEM
+undertaking is to be uploaded along with Bidder undertaking)
+
+5.Successful bidder will have to ensure that adequate number of dedicated technical service
+personals / engineers are designated / deployed for attending to the Service Request in a
+time bound manner and for ensuring Timely Servicing / rectification of defects during
+warranty period, as per Service level agreement indicated in the relevant clause of the bid.
+
+6.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 3 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+7.Warranty period of the supplied products shall be 3 years from the date of final acceptance
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+8.Preference to Make In India products (For bids less than 200 Crore):Preference shall be given
+to Class 1 local supplier as defined in public procurement (Preference to Make in India),
+Order 2017 as amended from time to time and its subsequent Orders/Notifications issued by
+concerned Nodal Ministry for specific Goods/Products. The minimum local content to qualify
+as a Class 1 local supplier is denoted in the bid document 50%. If the bidder wants to avail
+the Purchase preference, the bidder must upload a certificate from the OEM regarding the
+percentage of the local content and the details of locations at which the local value addition
+is made along with their bid, failing which no purchase preference shall be granted. In case
+the bid value is more than Rs 10 Crore, the declaration relating to percentage of local
+content shall be certified by the statutory auditor or cost auditor, if the OEM is a company
+and by a practicing cost accountant or a chartered accountant for OEMs other than
+companies as per the Public Procurement (preference to Make-in -India) order 2017 dated
+04.06.2020. Only Class-I and Class-II Local suppliers as per MII order dated 4.6.2020 will be
+eligible to bid. Non - Local suppliers as per MII order dated 04.06.2020 are not eligible to
+participate. In case Buyer has selected Purchase preference to Micro and Small Enterprises
+clause in the bid, the same will get precedence over this clause.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

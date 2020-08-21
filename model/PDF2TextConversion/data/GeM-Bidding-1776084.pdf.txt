@@ -1,0 +1,548 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/700909
+
+  Dated: 07-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 18-07-2020 18:00:00
+
+Bid Opening Date/Time 18-07-2020 18:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Micro Small And Medium Enterprises
+
+Department Name Na
+
+Organisation Name Fragrance And Flavour Development Centre (ffdc)
+Uttar Pradesh
+
+Office Name Kannauj Up
+
+Total Quantity 3
+
+Item Category Outdoor Unlicensed Band RF Radio
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Outdoor Unlicensed Band RF Radio ( 3 pieces )
+
+Technical Specifications
+
+                               1 / 6
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+RADIO SPECIFICATIONS GSR 38 (E)
+Unlicensed
+Frequency Band
+(MHz)
+
+5825 - 5875 5825 - 5875
+
+PSK Modulation
+Supported : 1) BPSK 2)
+QPSK
+
+In Compliance *
+
+QAM Supported : 1) 16
+QAM 2) 64 QAM
+
+In Compliance *
+
+256 QAM Supported No No
+
+Available Channel
+Bandwidth 1) 5 MHz 2)
+10 MHz 3) 20 MHz 4)
+40 MHz
+
+In Compliance *
+
+Integrated Antenna
+Gain ( dBi)
+
+18 *
+
+Integrated Antenna
+Azimuth (degree)
+
+24 *
+
+Number of External
+Antenna Port
+
+2 *
+
+MIMO Supported 2 x 2 2 x 2
+
+TX Power (dB) 19 *
+
+Rx Receiver Senstivity
+in (dB)
+
+-98 *
+
+Automatic Transmit
+Power Control Available
+
+Yes *
+
+Maximum Supported
+Link Distance with 36
+dBm EIRP (Km)
+
+5 *
+
+TDD Supported Yes *
+
+TDMA Supported Yes Yes
+
+OFDMA Supported No *
+
+Throughput (Mbps) 366 366.0 - 400.0 Or higher
+
+Configurable uplink
+throughput % of total
+product capacity
+
+85 *
+
+Configurable downlink
+throughput % of total
+product capacity
+
+85 *
+
+Spectral Efficiency (
+b/Hz)
+
+6 *
+
+Quality of Service Yes Yes
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/xtVYJmOJ-JoTrhA-6liCWZztMIvvfyh5wxfKu6h7eEQ
+
+
+ 
+
+according to IEEE
+802 point 1p, TOS/
+Diffserve
+
+GPS Synchronization
+Supported
+
+No No
+
+Forward Error
+Correction Feature
+
+Yes *
+
+LAN Interface
+10/100/1000 Base T
+interface
+
+Yes *
+
+MTU Size (Bytes) 1500 *
+
+Framing/Coding
+IEEE802 pointy 3/U
+standard Compliance
+
+Yes *
+
+SNMP Supported 1) v1
+2) v2 3) v3
+
+Yes *
+
+Local and Remote
+Management
+Supported
+
+Yes *
+
+Management VLAN
+supported
+
+Yes *
+
+VLAN Supported : 1)
+Trunking 2)
+Passthrough 3)
+Transparent 4) Q in Q
+(Double Tagging)
+
+Yes *
+
+Encyrption Method
+Supported
+
+AES 128 *
+
+DC 20 to 60 VDC Power
+supported
+
+Yes *
+
+AC 110-240v AC Power
+supported
+
+No *
+
+Radius Client
+Supported
+
+Yes *
+
+NTP Client Supported Yes *
+
+Number of CPE
+Supported
+
+50 50.0 - 200.0 Or higher
+
+Built-in Spectrum
+analyzer tool
+
+Yes *
+
+Management by Telnet Yes *
+
+Management by Web
+Interface
+
+Yes *
+
+Radio is capable to
+support Dynamic
+Bandwidth
+Allocation/CIR
+
+Yes *
+
+                               3 / 6
+
+
+
+ 
+
+Radio is capable to
+support NMS for
+Configuration and
+Monitoring
+
+Yes *
+
+IP v4 Compliant Yes *
+
+IP v6 Compliant Yes *
+
+Dual Stack IPv4 and
+IPv6 Compliant
+
+Yes Yes
+
+Power Consumption
+(Watt)
+
+13 *
+
+SAFETY AND
+PROTECTION
+
+Safety Standard
+IEC/UL-60950-1
+Compliance
+
+Yes *
+
+Safety Standard
+IEC/UL-60950-22
+Compliance
+
+Yes *
+
+Ingress Protection
+Rating (IP)
+
+66 66, 67 Or higher
+
+Lightening Protection
+Class and Standard
+
+IEC 61000-4-2 *
+
+OTHERS Equipment Type
+Approval Certificate
+available from WPC
+(Certificate shall be
+furnished when
+demanded by buyer)
+
+Yes *
+
+Equipment Type
+Approval Certificate
+number and its validity
+
+- *
+
+Minimum Operating
+Temperature (Degree
+C)
+
+-40 *
+
+Maximum Operating
+Temperature (Degree
+C)
+
+70 *
+
+Minimum Operating
+Humidity (RH) (%)
+
+90 *
+
+Dimensions (L xz B x H)
+( mm x mm x mm)
+
+- *
+
+Weight (grams) 1650 *
+
+ACCESSORIES Outdoor Twisted Pair
+Cable - 50 meter
+
+Yes *
+
+CAT 6 Cable shielding
+type UTP (Flame
+Retardant) - 50 meter
+
+No *
+
+CAT 6 Cable shielding
+type STP (Flame
+Retardant) - 50 meter
+
+No *
+
+                               4 / 6
+
+
+
+ 
+
+LMR600 Cable Length -
+1point 5 meter with
+connector both ends
+
+Yes *
+
+Surge Protection Unit Yes *
+
+WARRANTY AND
+INSTALLATION
+
+Installation and Site
+Survey is included in
+the scope of supply
+
+Yes *
+
+On Site OEM
+Warranty (Year)
+
+5 5
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Prabhaschandra
+Singh
+
+209726,FRAGRANCE &
+FLAVOUR DEVELOPMENT
+CENTRE (FFDC), INDUSTRIAL
+ESTATE, G.T. ROAD,
+MAKRAND NAGAR
+
+3  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+2.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+3.Bid reserved for Make In India products: Procurement under this bid is reserved for purchase
+from Class 1 local suppliers as defined in public procurement (Preference to Make in India),
+Order 2017 as amended from time to time and its subsequent Orders/Notifications issued by
+concerned Nodal Ministry for specific Goods/Products. The minimum local content to qualify
+as a class 1 local supplier is denoted in the bid document 50%. All bidders must upload a
+certificate from the OEM regarding the percentage of the local content and the details of
+locations at which the local value addition is made along with their bid, failing which the bid
+is liable to be rejected. In case the bid value is more than Rs 10 Crore, the declaration
+relating to percentage of local content shall be certified by the statutory auditor or cost
+auditor, if the OEM is a company and by a practicing cost accountant or a chartered
+accountant for OEMs other than companies as per the Public Procurement (preference to
+Make-in -India) order 2017 dated 04.06.2020 . In case Buyer has selected Purchase
+preference to Micro and Small Enterprises clause in the bid, the same will get precedence
+over this clause.
+
+4. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+5.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+
+                               5 / 6
+
+
+
+ 
+
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+6.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+7.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+8.Successful bidder will have to ensure that adequate number of dedicated technical service
+personals / engineers are designated / deployed for attending to the Service Request in a
+time bound manner and for ensuring Timely Servicing / rectification of defects during
+warranty period, as per Service level agreement indicated in the relevant clause of the bid.
+
+9.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 15 days time limit. If the Seller fails to complete
+service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product
+shall be charged as penalty for each week of delay from the seller. Seller can deposit the
+penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty
+amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than
+10% of the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

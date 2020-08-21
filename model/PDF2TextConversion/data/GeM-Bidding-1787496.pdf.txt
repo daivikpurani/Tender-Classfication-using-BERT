@@ -1,0 +1,535 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/711281
+
+  Dated: 15-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 25-07-2020 14:00:00
+
+Bid Opening Date/Time 25-07-2020 14:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 15 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Army
+
+Office Name ***********
+
+Total Quantity 1
+
+Item Category Security and Protective Software including Antivirus (
+PAC Only ) 
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+                               1 / 6
+
+
+
+ 
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+
+Security And Protective Software Including Antivirus ( 1 pieces ) ( Under
+PAC ) 
+
+Make quickheal
+
+Model antivirusqhtotalshield10userfor3years
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+BASIC INFORMATION
+OF SECURITY AND
+PROTECTIVE
+SOFTWARE INCLUDING
+ANTIVIRUS (GOLDEN)
+
+Sub-Category Stand alone Enterprise, Stand
+alone, Perpetual,
+Subscription, Renewal
+of licence for one year,
+1 User License, 3 User
+License, 5 User
+License, 10 User
+License
+
+Name of the OEM Quick Heal *
+
+OEM Model / Part No. shield 3year *
+
+Product Id of OEM IAS10 *
+
+Software Version/
+Name
+
+2018 *
+
+Date of Launch of
+Version
+
+2018 *
+
+FEATURES AND
+FUNCTIONALITY
+PARAMETERS(GOLDEN)
+
+Single License for
+multi-device
+
+No Yes, No
+
+Intrusion Detection
+System (IDS) /
+Intrusion Prevention
+System (IPS)
+
+Yes Yes, No
+
+Data Protection Yes Yes, No
+
+Cloud Protection Yes Yes, No
+
+Network Threat
+Protection
+
+Yes Yes, No
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/6zgPIw4GCANVHKBAdK-elglcGRfeANZlD67j7LyF2Uo
+
+
+ 
+
+Free Secure Cloud
+backup space
+
+No Yes, No
+
+If Yes, specify the free
+backup storage space
+available
+
+NO *
+
+Installation and
+Demonstration
+
+No Yes, No
+
+No. of days Training
+Provided at Site
+
+0 0, upto to 5, 6 to 10
+
+Number of Years
+upto which Support
+(warranty) is
+available from OEM /
+Franchise online
+
+3 3
+
+FEATURES AND
+FUNCTIONALITY
+PARAMETERS(GENERIC)
+
+Anti-Virus Yes *
+
+Anti-Malware Yes *
+
+Anti-Phishing Yes *
+
+Anti-Rootkit Yes *
+
+Anti-Spyware Yes *
+
+Anti-Trojan Yes *
+
+Anti-Worm Yes *
+
+Anti-Spam Yes *
+
+Anti-Adware Yes *
+
+Anti-Ransom ware Yes *
+
+Boot time protection Yes *
+
+Removable Media Scan Yes *
+
+Protection from
+Browser Exploits
+
+Yes *
+
+Incoming and Outgoing
+Email Protection
+
+Yes *
+
+Instant Messaging
+Protection
+
+Yes *
+
+On-Demand Scanning Yes *
+
+On-Access Scanning Yes *
+
+Scheduled Scanning Yes *
+
+Vulnerability Scanning Yes *
+
+Automatically Clean
+Infected Files
+
+Yes *
+
+Scan Compressed File
+Formats
+
+Yes *
+
+Quarantine Feature Yes *
+
+Automatic USB
+Detection
+
+Yes *
+
+                               3 / 6
+
+
+
+ 
+
+Registry Start Up
+Protection
+
+Yes *
+
+Browser Protection Yes *
+
+Malicious web page
+blocking
+
+Yes *
+
+Tamper Protection Yes *
+
+Parental Control Yes *
+
+Password Manager Yes *
+
+Heuristics Protection Yes *
+
+Firewall Yes *
+
+Web Protection Yes *
+
+Macro Protection Yes *
+
+Protection from PUA
+(Potential Unwanted
+Applications)
+
+Yes *
+
+Download Protection Yes *
+
+Behavioural Analysis &
+Vulnerability Protection
+
+Yes *
+
+Band width
+Management
+
+Yes *
+
+Proactive performance
+alerts
+
+Yes *
+
+Social media protection Yes *
+
+Online Identity
+protection
+
+Yes *
+
+Safe guards online
+transactions
+
+Yes *
+
+Network Attack Blocker Yes *
+
+Virus cleanup
+mode/Virtual sandbox
+
+Yes *
+
+System Watcher Yes *
+
+Backup and Restore Yes *
+
+Data Encryption Yes *
+
+Automatic Exploit
+Prevention
+
+Yes *
+
+File Shredder Yes *
+
+Virtual Key Board Yes *
+
+Automatic Updates Yes *
+
+Free 24-hour support Yes *
+
+Unique/Special
+features, if any
+
+advance features *
+
+                               4 / 6
+
+
+
+ 
+
+SUPPORT HARDWARE
+REQUIREMENT
+PARAMETERS
+
+Hard Disk Space
+Required
+
+1 GB *
+
+RAM Size required 1 GB *
+
+Supported Devices (eg.
+Desktop, Laptop,
+Tablet, Server, Mobile,
+etc)
+
+Desktop,Laptop *
+
+Supported Operating
+Systems (eg. Windows,
+OS X, Linux, Solaris,
+Android, iOS, Ubuntu
+Touch, Windows Phone,
+etc.).
+
+WINDOW 7 8.1 10 10.1 *
+
+Number of
+Devices/Users Managed
+
+10 *
+
+GENERIC PARAMETERS
+OF SECURITY AND
+PROTECTIVE
+SOFTWARE INCLUDING
+ANTIVIRUS
+
+Free Upgradation to
+Higher Version with in
+support period
+
+Yes *
+
+Valid Licence copy to
+be provided
+
+Yes *
+
+Software supplied
+through
+
+Media & URL Link *
+
+AV Test Certified Yes *
+
+Any other Certifications NA *
+
+List of items included in
+the package
+
+PAPER LICENSE OR CD *
+
+Hyper link to Data
+sheet
+
+YES *
+
+No of Softwares sold 300 *
+
+Number of User
+Referance no. 1 with in
+Government
+Department email,
+phone no.Of concerned
+authority where
+Software/Appliance
+installed
+
+20 *
+
+Details of Government
+Department email,
+phone no.Of concerned
+authority where
+Software /Appliance
+installed for above.
+
+YES IT IS AVAILABLE *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+                               5 / 6
+
+
+
+ 
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********JHANSI 1  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Bidder financial standing: The bidder should not be under liquidation, court receivership
+or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect
+with bid.
+
+2. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

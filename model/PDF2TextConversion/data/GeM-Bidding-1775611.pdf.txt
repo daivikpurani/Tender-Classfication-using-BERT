@@ -1,0 +1,478 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/700494
+
+  Dated: 07-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 21-07-2020 11:00:00
+
+Bid Opening Date/Time 21-07-2020 11:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Railways
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name East Central Railway
+
+Total Quantity 2
+
+Item Category Relay Testing Educational Kit
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 5
+
+
+
+ 
+
+Relay Testing Educational Kit ( 2 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+FEATURES AND
+FUNCTIONALITY
+PARAMETERS OF RELAY
+TESTING EDUCATIONAL
+KIT
+
+Available mode for
+testing relays kit
+
+Static relay,Single
+phase relay,Other
+
+Static relay, Single
+phase relay, Other
+
+If other then indicate
+available mode of relay
+testing kit (if not
+applicable then write
+NA)
+
+- *
+
+Input voltage of relay
+testing kit (in volts)
+
+250 *
+
+Input frequency of
+relay testing kit (in HZ)
+
+50 *
+
+Maximum AC Output
+current
+
+200 200
+
+AC Output voltage
+with AC current 2A
+
+250 250
+
+DC Output voltage
+with DC current 1/2A
+
+250 250
+
+Time measurment
+range in seconds
+
+99.99 *
+
+Provision of performing
+under voltage and over
+voltage relay operation
+by Relay Testing kit
+
+No *
+
+Provision of detecting
+over current relay
+
+Yes *
+
+Availability of
+Multimeter in relay
+testing kit
+
+Yes *
+
+Available Protection in
+Relay testing kit
+
+Overcurrent protection *
+
+Switches available for
+realy testing kit
+
+Current selector *
+
+Provision of built in
+fuse protection in relay
+testing kit
+
+Yes *
+
+Operational indicators
+available in relay
+testing kit
+
+Overload indicator *
+
+Provision of
+independent control of
+
+No *
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/J8sf40wX3aBXbfGscAvyErjoBejzuEVhOspfh05J-8k
+
+
+ 
+
+amplitude, frequency
+and phase angle
+
+Provision of self
+calibration
+
+Yes *
+
+Provision of
+simultaneous control of
+all available test
+signals
+
+Voltage signal,Current
+signal,AC/DC signal
+
+*
+
+Provision of LED / LCD
+display
+
+Yes *
+
+Provision of inbuilt
+timer for measurement
+of relay operation time
+
+Yes *
+
+Availability of features
+to test relays as per
+characteristics
+
+Yes *
+
+Faciltiy to check relay
+vector diagram in relay
+kit
+
+Yes *
+
+Provision of fault
+simulation in relay
+testing kit
+
+Yes *
+
+Provision of In-built
+analog monitoring and
+recording function
+
+No *
+
+Type of material used
+for case construction
+
+Aluminium,MS
+Sheet,Other
+
+*
+
+If other, then indicate
+type of material used
+for case construction
+
+- *
+
+Provision of CD (soft
+copy) with sample
+project code,
+programmer software,
+useful documents and
+instruction manual
+
+Yes *
+
+OPERATING CONDITION Minimum Operating
+tempature for relay
+testing kit in degree
+celsius
+
+-10,-5,0,+5,+10 *
+
+Maximum Operating
+tempature for relay
+testing kit in degree
+celsius
+
+35,45,55 *
+
+Operating Humidity for
+relay testing kit (RH)
+
+80%,85%,90%,95% *
+
+TEST CERTIFICATION
+AND PAST EXPERIENCE
+
+Whether the offered
+kit tested at Central
+Govt / NABL
+
+Yes Yes
+
+                               3 / 5
+
+
+
+ 
+
+approved / ILAC
+accredited Lab, any
+NABL accredited lab,
+govt
+lab/international lab
+to prove conformity
+to the specification
+
+If Yes, Test Report to
+be furnished to the
+Buyer on demand
+
+Yes *
+
+If yes, then indicate the
+name of the lab
+
+- *
+
+If yes, then indicate the
+test certificate number
+& date
+
+- *
+
+Whether manufacturer
+of offered product has
+national/international
+certification (such as
+ISO, TUV, etc)
+
+Yes *
+
+If yes, then indicate
+name of certification &
+certificate number and
+date
+
+- *
+
+Institute where the
+offered relay testing kit
+supplied in the past(
+Non biddable
+parameter)
+
+NIT,Central
+University,Others
+
+*
+
+Specify the names of
+the institute where the
+relay testing kit
+supplied in the past
+with complete address
+
+- *
+
+GENERIC PARAMETERS Installation and
+Demonstration
+included in the
+scope of supply
+
+Yes Yes
+
+List of items and its
+number included in the
+offered package
+
+- *
+
+Supplied with
+comprehensive user
+manual
+
+Yes *
+
+Warranty of Relay
+Testing kit
+
+2 2
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+                               4 / 5
+
+
+
+ 
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Gautam Kumar 801105,Office of DRM East
+Central Railway Danapur
+
+2  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2.Bid reserved for Make In India products: Procurement under this bid is reserved for purchase
+
+from Class 1 local suppliers as defined in public procurement (Preference to Make in India),
+Order 2017 as amended from time to time and its subsequent Orders/Notifications issued by
+concerned Nodal Ministry for specific Goods/Products. The minimum local content to qualify
+as a class 1 local supplier is denoted in the bid document 50%. All bidders must upload a
+certificate from the OEM regarding the percentage of the local content and the details of
+locations at which the local value addition is made along with their bid, failing which the bid
+is liable to be rejected. In case the bid value is more than Rs 10 Crore, the declaration
+relating to percentage of local content shall be certified by the statutory auditor or cost
+auditor, if the OEM is a company and by a practicing cost accountant or a chartered
+accountant for OEMs other than companies as per the Public Procurement (preference to
+Make-in -India) order 2017 dated 04.06.2020 . In case Buyer has selected Purchase
+preference to Micro and Small Enterprises clause in the bid, the same will get precedence
+over this clause.
+
+3.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

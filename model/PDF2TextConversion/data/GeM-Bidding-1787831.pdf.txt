@@ -1,0 +1,544 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/711584
+
+  Dated: 15-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 10:00:00
+
+Bid Opening Date/Time 27-07-2020 10:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence Reseach & Development
+
+Organisation Name Aeronautical Development Agency
+
+Office Name ***********
+
+Total Quantity 6
+
+Item Category Biometric Access Control System
+
+Experience Criteria  1 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 6
+
+
+
+ 
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+
+Biometric Access Control System ( 6 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Biometric Device Type Biometric Access
+Control Hardware
+Architecture
+
+Device with External
+Master Controller
+
+Device with External
+Master Controller,
+Device with in built
+Controller
+
+Type of Biometric
+Device
+
+Finger Print
+Scanning,RFID Card
+
+Finger Print Scanning,
+RFID Card
+
+Biometic Access
+Control Software
+Architechure
+
+Web Based (On
+premise server
+solution)
+
+Web Based (On
+premise server
+solution)
+
+Types of Biometric
+Credentials Required
+
+Finger + RFID Card Finger + RFID Card
+
+Type of RFID Card
+Supported
+
+NA Mifare, NA
+
+Maximum
+Fingerprint Template
+Storage Capacity
+(Number)
+
+2400 2400, 4800, 9600,
+25000, 50000, 100000
+Or higher
+
+Maximum Palm
+Templates Storage
+Capacity in Palm
+Vein Device
+(Number)
+
+100 100, 500, 1000, 10000,
+20000, 50000, 100000,
+200000, 0 Or higher
+
+Biometric Device
+Parameters
+
+Screen Type Non Touch Touch, Non Touch Or
+higher
+
+Microcontroller 32 bit *
+
+RAM (MB) 128 *
+
+Storage (GB) 0 *
+
+USB Ports for
+Communication/Data
+Transfer
+
+Yes *
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/NlNFoSQ0yAw7CgBBR3HMVxXVUDJuDNH96HzssuhTWvk
+
+
+ 
+
+If Yes, Number of
+USB Ports
+
+1 1, 2 Or higher
+
+LAN Connectivity Yes Yes
+
+If Yes, Type of LAN
+Connectivity
+
+Ethernet 10/100/1000 *
+
+Wi-Fi Connectivity No No
+
+If Yes, Type of Wi Fi
+Connectivity
+
+NA *
+
+Type of Data Supported 3G *
+
+Auxilary Input/Output
+Ports
+
+No *
+
+Tamper Detection No *
+
+Buzzer No *
+
+External Reader
+Support
+
+Yes *
+
+Exit Switch Support Yes *
+
+Door Lock Supported Yes *
+
+Type of Lock Supported EM Lock,Bolt
+Lock,Strike Lock
+
+*
+
+Biometric Matching
+Modes Supported
+
+1 : N *
+
+Access Control
+Management Software
+
+Operating System
+Support
+
+Windows 32-bit *
+
+Database Server
+Support
+
+MS SQL 2012 Standard *
+
+Web based User
+Friendly GUI
+Application
+
+Yes *
+
+DE Duplication function
+at local and central
+level
+
+No *
+
+Any time anywhere
+Enrolment
+
+Yes *
+
+Anyone anywhere
+Acesss
+
+Yes *
+
+Real-time monitoring of
+door controllers from
+centralized location
+
+No *
+
+Automatic Template
+Distribution of
+Biometric Templates on
+Assigned Devices to
+User
+
+Yes *
+
+Automatically push the
+data to server by the
+
+Yes *
+
+                               3 / 6
+
+
+
+ 
+
+door controller
+
+API Support for Third
+Party Software
+Integrations
+
+No *
+
+SMS Notifications
+Supported
+
+Yes *
+
+E-mail Notifications
+Supported
+
+No *
+
+Automatic E-mail
+Scheduler Facility for
+Different Reports
+
+No *
+
+Automatic Database
+Backup Facility at
+Scheduled Time
+
+No *
+
+Backend Database
+support
+
+MS SQL 2008 R2 or
+above
+
+*
+
+Multi Location
+Connectivity
+
+Yes *
+
+E map Feature No *
+
+Software Features Security Guard Tour
+Feature Support
+
+No *
+
+Employee Anti-
+passback Feature
+Support
+
+Yes *
+
+Door Interlocking
+Support
+
+Yes *
+
+2 Person
+Authentication Feature
+for Secured Area
+
+No *
+
+Customized Report
+Generation Facility
+
+No *
+
+Employee specific
+Multiple Access level
+Support
+
+Yes *
+
+Network Based
+Integration with
+External Access Barrier
+Devices
+
+No *
+
+Support of Integration
+with Video Surveillance
+
+No *
+
+Elevator Access Control
+Feature Support
+
+No *
+
+Fire Alarm Integration
+Support
+
+No *
+
+Certifications BIS Registration
+Under CRS of Meity
+
+Yes Yes
+
+                               4 / 6
+
+
+
+ 
+
+BIS Registration
+Number and its validity
+
+- *
+
+RoHS Compliance Yes *
+
+Other Certifications
+Available
+
+None *
+
+Type Test Certificate
+Covering all
+parameters and
+Environmental tests
+from STQC certified lab
+
+No *
+
+If Yes, TTC Number and
+Date
+
+- *
+
+If Yes, Name of the Lab - *
+
+If Yes, Address of the
+Lab
+
+- *
+
+Power Power Source
+Requirement
+
+230 V +/- 10% V AC, 50
+Hz
+
+*
+
+Battery Backup Unit
+Support
+
+No No
+
+Warranty Installation and
+commissioning is
+included in the
+scope of supply
+
+Yes Yes
+
+Warrranty (Years) 1 1, 2, 3 Or higher
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********BANGALORE 6  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+2.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+
+                               5 / 6
+
+
+
+ 
+
+Functional Service Centre.
+3.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+
+Dedicated/toll Free Telephone No. for Service Support.
+4.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+
+Telephone Numbers for Service Support.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

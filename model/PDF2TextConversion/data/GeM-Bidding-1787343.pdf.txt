@@ -1,0 +1,311 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/711147
+
+  Dated: 15-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 25-07-2020 18:00:00
+
+Bid Opening Date/Time 25-07-2020 18:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Coal
+
+Department Name Materials Management
+
+Organisation Name Mahanadi Coalfields Limited
+
+Office Name General Manager Materials Management Mcl Hqr
+
+Total Quantity 10
+
+Item Category SPARE / Add on Battery Packs for Transreceiver-
+Handheld
+
+Experience Criteria  1 Year (s)
+
+MSE Exemption for Years Of Experience  Yes
+
+Startup Exemption for Years Of Experience  Yes
+
+Document required from seller  Experience Criteria,Certificate (Requested in
+ATC),OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  Yes
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 4
+
+
+
+ 
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+
+SPARE / Add On Battery Packs For Transreceiver-Handheld ( 10 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+SPARE / Add on Battery
+Packs for Transreceiver-
+Handheld
+
+Battery Chemistry NiMh NiMh, Li-ion
+
+Rated Capacity (
+mAh )
+
+2300 2300
+
+"Nominal terminal
+Voltage (hint: 7- 2 V
+for NiMh batteries
+and 7-4 V for Li-ion
+and Li-polymer
+batteries)
+
+7.2 7.2
+
+OEM part number - *
+
+Governing
+Specification
+
+MHA QR MHA QR
+
+Governing
+Specification (MHA
+QR) has been seen
+and understood
+
+Yes Yes
+
+NAME of batery
+manufacturer and
+Battery Make
+
+- *
+
+Compatible MAKE of
+Transreceivers
+
+Kenwood Kenwood
+
+Compatible Model of
+Transreceivers
+supported
+
+TK-2207 TK-2207
+
+BIS certification to IS:
+16046 (latest) under
+Compulsory
+Registration Scheme
+(CRS)
+
+Yes *
+
+BIS REGISTRATION
+NUMBER
+
+- *
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/b0txoDiWx-O39trnlHHTvY197BgMlWsbexDr_kiZj6Q
+
+
+ 
+
+Additional Features, if
+any
+
+- *
+
+Warranty 12 12, 18 Or higher
+
+CERTIFICATION Availability of Test
+Reports from Central
+Govt / NABL
+approved / ILAC
+accredited Lab to
+prove Conformity to
+the Governing
+specification
+
+Yes Yes
+
+If Yes, Test Report to
+be furnished to the
+Buyer on demand
+
+Yes *
+
+Test Report No and
+Date
+
+- *
+
+Name of the Lab and
+Address
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+QR/Spcn document View
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 SUNIL TUKARAM
+DAJGUDE
+
+768211,Office of the Chief
+General Manager, Mahanadi
+Coalfields Limited,
+Lakhanpur Area, At/PO
+Bandhbahal, Via, Belpahar
+Dist Jharsuguda-768211
+
+10  30
+
+Bid Specific Additional Terms and Conditions
+
+1.OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be
+ordered up to 25 percent at the time of placement of contract. The purchaser also reserves
+the right to increase the ordered quantity by up to 25% of the contracted quantity during the
+currency of the contract at the contracted rates. Bidders are bound to accept the orders
+accordingly.
+
+2.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+3.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+                               3 / 4
+
+https://mkp.gem.gov.in/uploaded_documents/cms/tp/home_info_comm_pers_spar/51/16/877/CategorySchema/qr_spcn_document/2018/5/29/qr-ilovepdf-compressed_2018-05-29-18-05-50_f6e0d226f9f35e1c2ea458eb48dd9e19.pdf
+
+
+ 
+
+4.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+5.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+6.Warranty period of the supplied products shall be 5 years from the date of final acceptance
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

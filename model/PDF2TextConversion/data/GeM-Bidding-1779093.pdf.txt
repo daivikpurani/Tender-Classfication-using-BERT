@@ -1,0 +1,347 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/703628
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 21-07-2020 09:00:00
+
+Bid Opening Date/Time 21-07-2020 09:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Air Force
+
+Office Name ***********
+
+Total Quantity 24
+
+Item Category Battery chargers (For Transreceivers)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Battery Chargers (For Transreceivers) ( 24 pieces )
+
+Technical Specifications
+
+                               1 / 4
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC Battery Chargers for
+Rechargeable Battery
+Packs for
+
+Handheld transceivers *
+
+Battery charger type Rapid Standard, Rapid
+
+Type of battery for
+which charger is
+compatible
+
+NimH NimH, Li-ion, Ni-CD
+
+Number of
+independent
+charging stations
+
+1 1, 6, 6 (with sturdy
+powder coated body
+with cooling fan)
+
+Compatible Make of
+Transreceivers
+
+MOTOROLA *
+
+Compatible Model of
+Transreceivers
+supported
+
+GP-338 *
+
+PERFORMANCE Operating Voltage 230V AC +/-10% 50 Hz 230V AC +/-10% 50 Hz,
+200 V to 240 V 50 Hz
+AC , with Output
+voltage On load: 8.5V
+DC , Without load: 14 V
+to 21 V DC, 180 V to
+240 V 50 Hz AC , with
+output voltage on load
+15 V DC/4.8 A, 200 V to
+240 V 50 Hz AC , with
+Output voltage On
+load: 12.5V DC, 200 V
+to 240 V 50 Hz AC ,
+with Output voltage
+Onload: 9.5V DC ,
+Without load: 12.5 DC
+
+Charging current <1 Amp for Rapid
+charger
+
+<400mA for Standard
+charger, <1 Amp for
+Rapid charger, <1.25
+Amp for Rapid Charger
+
+Charging time shall be For Rapid charger: 1 to
+3 hrs (for batteries upto
+1800 mAh)
+
+*
+
+Charging status and
+for charged
+condition status
+
+LED Indications LED Indications, Apart
+from charged condition
+status LED Indications
+for battery is not
+charging/not making
+proper contact, When
+Battery is charged
+more than 90%, When
+battery is fully charged,
+When battery
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/ts2i9IwdXfLvC8mQ-f6Gcysf_QFpz2CNZhk1uDZocck
+
+
+ 
+
+temperature below 5
+deg. C or +50 deg. C
+
+Minimum operating
+temperature (in deg C.
+)
+
+0 *
+
+Maximum operating
+temperature ( in deg.
+C)
+
+55 *
+
+Minimum Cable
+length for the
+charger (in mtrs.,)
+
+1.5 1.5, 2
+
+PROTECTION AC surge protection Yes *
+
+Reverse Polarity
+protection
+
+Yes *
+
+Short circuit protection Yes *
+
+Over Current
+Protection
+
+Yes Yes, Yes, Including for
+input over voltage (AC)
+and over charging of
+batteries
+
+CERTIFICATIONS BIS Certification to IS:
+IS 13252 (Part 1) under
+compulsory registrtion
+scheme (CRS)
+
+Yes *
+
+BIS registration number
+- Must declare
+
+- *
+
+Warranty (in
+Months)
+
+24 12, 24
+
+Availability of Type test
+report from Central
+government/NABL/ILAC
+accrediated laoratory
+to prove conformity to
+the specification
+
+Yes *
+
+Test report number -
+Must declare
+
+- *
+
+Report date - Must
+declare
+
+- *
+
+Name of lab - Must
+declare
+
+- *
+
+Address of lab - Must
+declare
+
+- *
+
+Agreed to furnish all
+the test reports and
+certificates to the
+buyer/consignee on
+demand
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+                               3 / 4
+
+
+
+ 
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********Pathankot 24  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2.Timely Servicing / rectification of defects during warranty period: After having been notified
+
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 15 days time limit. If the Seller fails to complete
+service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product
+shall be charged as penalty for each week of delay from the seller. Seller can deposit the
+penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty
+amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than
+10% of the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+3.The bidder is required to upload, along with the bid, all relevant certificates such as BIS
+licence, type test certificate, approval certificates and other certificates as prescribed in the
+Product Specification given in the bid document.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

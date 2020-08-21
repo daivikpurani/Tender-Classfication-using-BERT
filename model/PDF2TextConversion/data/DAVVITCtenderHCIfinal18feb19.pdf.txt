@@ -1,0 +1,2179 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Tender Document 
+ 
+ 
+
+ 
+
+For Purchase of 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Server with Storage and Virtualization Software 
+ 
+ 
+
+ 
+At 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+IT Center 
+
+Devi Ahilya University 
+ 
+
+Takshashila Campus, Khandwa Road, Indore 
+Ph. 0731-2761358, https://www.dauniv.ac.in  
+
+(Tender No. DAVV/ITC/SERVER/2018-19/1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+1 
+
+
+
+                                                                                                Ref. No: DAVV/ITC/SERVER/2018-19/1-1 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Notice Inviting Tender 
+ 
+
+ 
+
+Online tenders are invited under two bid system (Technical and Financial) for purchase of 
+Server with Storage and Virtualization Software at IT Center Devi Ahilya 
+Vishwavidyalaya, Indore. The tender document may be downloaded on online payment of Rs. 
+2000/- (Rs. Two Thousand only ) at https://www.mptenders.gov.in (main portal)  
+
+The formats of Technical and financial bid, declaration, check list and terms & 
+conditions are given in Annexure I, II, III, IV & V respectively and the same are 
+available at https://www.mptenders.gov.in (main portal) and can be seen at DAVV web site 
+https://www.dauniv.ac.in 
+ 
+
+ 
+
+Sr No. Particulars Description 
+   
+1 Name Server with Storage and Virtualization Software 
+
+   
+
+2 Uploading/Publication of Tender 20
+th
+
+ Feburary 2019 by 0900 hrs. 
+ Document  
+   
+
+3 Downloading of Tender 20
+th
+
+ Feburary 2019 by 0930 hrs 
+ Document through website  
+
+ https:www.mptenders.gov.in  
+   
+
+4 Last date of bid submission 6
+th 
+
+ March  2019 by 1600 hrs. 
+   
+
+5 Technical bid opening 07
+th
+
+  March  2019  by 1605 hrs. 
+   
+
+6 Financial Bid Opening Date will be notified on University website 
+  https:// www.dauniv.ac.in 
+   
+7 Bid Security/Earnest Money INR Rs.1,60,000.00/- (Rs. One Lac Sixty Thousand 
+
+ Deposit (EMD) Only) to be paid online through e-procurement 
+  portal in favor of Registrar, Devi Ahilya 
+  Vishwavidyalaya, Indore. Bidder is required to 
+  upload the scanned copy of e-transaction details. 
+   
+8 Tender Fee INR Rs. 2000/- (Rupees Two Thousand only) 
+
+  (nonrefundable) + GST to be paid online through 
+  e-procurement portal in favor of Registrar, Devi 
+  Ahilya Vishwavidyalaya, Indore. Bidder is 
+  required to upload the scanned copy of e- 
+  transaction details. 
+   
+
+  2 
+
+
+
+1. The on line Technical Bid will be opened by the committee constituted for this purpose in presence 
+
+of the tenderers or authorized representatives interested to be present on prescribed date. The 
+
+financial bids of technically qualified tenderers will only be opened after technical evaluation by the 
+
+technical committee. The tenderers should bring ID proofs and representatives should bring the 
+
+authorization letter from their authorized signatory for attending the process of tender opening. 
+
+ 
+2. The online technical bid will be opened in Administrative office of the Registrar, Nalanda campus 
+
+DAVV, RNT Marg Indore. Bidders are requested to submit in offline mode in sealed envelope (i) 
+
+self attested copies of e-transaction details of tender fees and EMD (ii) signed copy of online 
+
+technical bid alongwith supporting documents mentioned in Technical Bid. The sealed enveloped 
+
+should be super scribed with name of Tender, reference no. and words written” kind attn. to Head IT 
+
+Center” on top of the envelope addressed to Registrar, Devi Ahilya Vishwavidyalaya, Nalanda 
+
+Campus, RNT Marg, Indore 452001. Sealed envelope should reach on or before last date of 
+
+technical bid submission. Bidders are requested to ensure early submission of required documents to 
+
+avoid delay in postal delivery. If any bid is found delayed in submission after due date such bid 
+ 
+
+will be rejected by the University. 
+ 
+
+NOTE: At any time till one day before the deadline for submission of Bids, DAVV may, for any 
+
+reason, whether at own initiative or in response to a clarification requested by a prospective Bidder, 
+
+modify the Bid Document by amendment. All the amendments made in the document would be 
+
+informed through the DAVV Website.All such amendments shall be binding on all the Bidders. The 
+
+Bidders are also advised to visit the aforementioned website on regular basis for checking necessary 
+
+updates. DAVValso reserves the rights to amend the dates. 
+
+ 
+ 
+
+ 
+
+Registrar, 
+DAVV 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+3 
+
+
+
+Ref: DAVV/ITC/SERVER/2018-19/1-1 
+ 
+
+ 
+
+[covering Letter] 
+ 
+
+To:  
+The Registrar  
+DAVV, Indore. 
+ 
+
+ 
+
+Dear Sir, 
+ 
+
+We, the undersigned, have examined the Tender Document, hereby offer to Server with 
+
+Storage and virtualization software. We are hereby submitting our proposal, which includes this 
+
+Pre-Qualification Information, Technical proposal and Commercial proposal. We have enclosed the 
+
+Earnest Money Deposit in the form of Bank Draft, as mentioned in the tender document. 
+ 
+All the rates quoted in our proposal are in accordance with the terms as specified in tender documents. 
+
+All the prices and other terms and conditions of this proposal are valid for a period of 180 calendar 
+
+days from the last date of submission of tenders. 
+ 
+We do hereby confirm that our prices include all taxes including GST or other tax. We have studied 
+
+the clauses relating to Indian Taxes and hereby declare that if any Tax, Surcharge on Tax and any 
+
+other Corporate Tax altered under the law, we shall pay the same. 
+ 
+We declare that our quoted product meets all technical specifications and other tender conditions. We 
+
+further declare that the rates stated in our proposal are in accordance with your terms and conditions 
+
+in the tender document. 
+ 
+We understand that you are not bound to accept any/ all Proposal(s) you receive. 
+ 
+ 
+
+ 
+
+Yours sincerely, 
+ 
+ 
+
+ 
+
+Signature with seal 
+ 
+ 
+
+ 
+
+Name and Designation of Authorized Signatory 
+ 
+ 
+
+ 
+
+Date & Place 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+4 
+
+
+
+Ref: DAVV/ITC/SERVER/2018-19/1-1 Annexure I 
+ 
+ 
+
+Online Technical Bid A 
+ 
+ 
+ 
+
+I. General Information 
+ 
+
+Sno. Particulars Details 
+   
+
+1 Name and Address of the Tenderer  
+
+   
+2 Year of establishment  
+
+   
+3 Contacts  
+
+   
+ Office Telephones  
+   
+ Mobile No.  
+   
+ Fax Number  
+   
+ e-mail address  
+
+   
+4 Category of tenderer (whether company,  
+
+ partnership firm or proprietary concern)  
+
+   
+5 Name  of  the Chief  Executive  and  
+
+ Telephone No  
+
+   
+6 GST Registration Nos.  
+
+   
+7 Income Tax PAN / GIR No  
+
+   
+ 
+
+ 
+
+Signature with seal: 
+ 
+
+Name and Designation of Authorized Signatory 
+ 
+
+ 
+
+Date & Place: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+5 
+
+
+
+II. Eligibility criteria for Pre-Qualification Information Sheet 
+ 
+
+ 
+
+SNo. Particulars   Details 
+      
+
+1 Annual Turnover for the  Last 3  Assessment Years (also attach proof): 
+      
+    2015-16  
+
+      
+    2016-17  
+
+      
+    2017-18  
+
+      
+2 Details of  order(s) executed Also  attach  
+
+ proof.     
+
+   
+3 ISO 9001 certificate (enclose proof)  
+
+     
+4 Amount to be paid.    
+
+  
+a. Tender form Fees Rs. 2000/- (nonrefundable)  
+
+ to be paid online. Bidder is required to  
+ upload the scanned copy of e-transaction  
+ details     
+
+b. EMD Amount Rs. 1,60,000/- (Rs. One Lac  
+ Sixty Thousand only) to be paid online  
+ through e-procurement portal in favor of  
+ Registrar, Devi Ahilya Vishwavidyalaya,  
+ Indore. Bidder is required to upload the  
+ scanned copy of e-transaction details  
+
+5 Other Certifications (if any) (enclose proof)  
+
+      
+ 
+ 
+ 
+
+ 
+
+III Technical Specifications of Equipment are as under: 
+ 
+ 
+
+All hardware MUST be sourced from reputed brands, must be NEW and comply with  
+Minimum technical specifications mentioned in online technical bid: 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+6 
+
+
+
+Online Technical Bid 
+ 
+
+(To be quoted Online on prescribed proforma only) 
+ 
+
+To, 
+ 
+
+The Registrar,  
+Devi Ahilya Vishwavidyalaya, 
+Nalanda Campus, RNT Marg, Indore. 
+
+ 
+ 
+
+Sub:- Quotation for server with storage and virtualization software at IT Centre Devi  
+Ahilya Vishwavidyalaya, Indore.  
+
+Sir, 
+
+ 
+
+This has reference to your call for submitting quotation for purchase of Server with Storage 
+
+and Virtualization Software at IT Center, Devi Ahilya Vishwavidyalaya, Indore. I have read all the 
+
+terms and the conditions as stipulated in the above. I have gone through all the terms and conditions 
+
+mentioned in the tender document and already given my acceptance for it. I confirm that I fulfill the 
+
+eligibility criteria as stipulated by you. 
+ 
+
+Sno.  Item Bid Requirement by DAVV Details Quoted by Bidder 
+ 
+
+      
+ 
+
+(A)  Detailed Server Specification    
+ 
+
+      
+ 
+
+1  Architecture Server with storage and Server with storage and virtualization 
+ 
+
+   virtualization software: Hyper software: Hyper Converged 
+ 
+
+   Converged Infrastructure (HCI) Infrastructure (HCI) 
+ 
+
+   - with 3 Nodes: Intel Xeon   
+ 
+
+   
+
+2.2GHz min. 10-cr Skylake or 
+  
+
+ 
+
+   No of Nodes      
+latest (6Nos.), 128GB RAM per 
+
+ 
+ 
+
+     
+ 
+
+   
+
+Processor (make and 
+ 
+
+ 
+
+   
+node, 12 TB per node (total 
+
+ 
+ 
+
+   model)      
+storage 36TB HDD)/ 960GB 
+
+ 
+ 
+
+   
+MgHz. 
+
+ 
+ 
+
+   3.5" SSD per node (3         
+   
+
+Core 
+ 
+
+ 
+
+   No.),/2*10G Ethernet Port per   
+     
+
+ 
+
+   node and Accessories bundled RAM per Node  
+ 
+
+   
+
+with virtualization software,3 Yr 
+   
+
+   Per Node HDD  
+ 
+
+   
+
+license and product support from 
+  
+
+ 
+
+   Per Node SDD      
+OEM. 
+
+ 
+ 
+
+     
+ 
+
+   
+
+No of 10Gbps Port 
+ 
+
+ 
+
+      
+ 
+
+       
+ 
+
+     Bundled Virtualization  
+ 
+
+     Software (name and  
+ 
+
+     version)  
+ 
+
+      
+ 
+
+2  Virtualization The proposed solution should Virtualization software  
+ 
+
+  software support one of the leading (Write Name of  
+ 
+
+   Virtualization Software's, from – Software and version)  
+ 
+
+   VMware, ESXi, Microsoft   
+ 
+
+   Hyper-V, Acropolis Hypervisor   
+ 
+
+   (AHV), Xen Server, open KVM.   
+ 
+
+   HCI solution must support   
+ 
+
+   industry Leading protocols NFS,   
+ 
+
+   iSCSI & SMB.   
+ 
+
+       
+ 
+
+     7 
+ 
+
+
+
+  The proposed HCI solution must Is it software defined?  
+  be 100% software defined and (Yes/No)  
+  should not leverage any     
+  specialized hardware. It must   
+  natively support container based   
+  application like Docker and open   
+  stack integration.        
+
+     
+  It should be possible to scale Does it support storage  
+  storage and compute as and  expansion without  
+  when needed without any  license and without any  
+  downtime. HCI should support downtime required?  
+  storage expansion without any (Yes/No)  
+  virtualization license for storage   
+  expansion and compute     
+  expansion capacity as and when   
+  needed          
+     
+
+  The proposed HCI solution must Does it support  
+  have metadata distributed on all metadata and cluster  
+  nodes in a cluster i.e. each node features? (Yes/No)  
+  in   the   cluster   should   carry   
+  information about data lying   
+  across every node in the cluster   
+  and       capacity   
+  utilization/distribution across all   
+  nodes has to be uniform at all   
+  times          
+  The proposed HCI  solution Does it able to create  
+  should be able to create multiple multiple LUNs for  
+  logical unit (LUN's) for storage storage with multiple  
+  with multiple  policy for policies for  
+  deduplication  and compression deduplication?  
+  across storage logical unit.  (Yes/No)  
+  The proposed HCI  solution Compliance (Yes/NO)  
+  should  be  capable  to  leverage   
+  SSD for not only caching but for   
+  capacity optimized read IOPS   
+  and  there  should  not  be  any   
+  limitation  on SSD overall   
+  caching on software defined   
+  storage.          
+  The proposed solution must have Does it support to  
+  capability to support nodes with hybrid configurations  
+  same/different CPU & Memory on cluster? (Yes/No)  
+  configurations in the same   
+  cluster,  The proposed solution   
+  should  support  hybrid  and  all   
+  flash nodes in same cluster for   
+  future scalability        
+  The proposed solution should be Is it capable to add  
+  capable of adding additional additional server and  
+  combined server and storage storage component  
+  components  with  high with no downtime?  
+  performance GPU capabilities, (Yes/No)  
+  seamlessly, with no downtime,   
+  to scale performance and   
+  capacity on demand       
+
+           8  
+
+
+
+  The Proposed HCI solution Compliance (Yes/No)  
+  should allow distributed caching   
+  of a particular disk or VM data,   
+  which  are  in  a  ‘multi-reader’   
+  scenario. (e.g. deployment   
+  servers, repositories, etc.) to   
+  avoid  boot  storm  and  multi   
+  network read operation across   
+  multi nodes.        
+  The proposed solution should Does it has options of  
+  have options to create multiple creating multiple data  
+  data stores for diversified stores on all storage  
+  application    requirements on tier? (Yes/No)  
+  deduplication/compression    
+  across all storage tier (Hybrid /   
+  All Flash)        
+  Proposed HCI solution should Does it support to fault  
+  support fault tolerance of at least tolerance of cluster?  
+  two   nodes   failure   within   a (Yes/No)  
+  cluster         
+
+3 Hypervisor Required Hypervisor License  Is Hypervisor License  
+ License should be perpetual and included perpetual? (Yes/No)  
+  into the solution.       
+     
+
+4 Supported The proposed solution must have support to which  
+ Hard Drives capability to support all industry industry drives?  
+  drives available ( SSD &     
+  SAS/SATA)        
+        
+
+5 Features The solution support for    Is it having  
+  automated upgrades of storage  management GUI and  
+  controllers through management automated upgradation  
+  GUI with no downtime and  of storage features?  
+  major impact on production  (Yes/No)  
+
+      
+  The proposed solution should  Is it having features of  
+  take native storage level    taking native storage  
+  snapshots with no impact to  level snapshots?  
+  guest performance     (Yes/No)  
+
+     
+  The proposed solution should be Is it capable of creating  
+  capable of creating instant   snapshots of Virtual  
+  snapshots of virtual     machines & clones? (  
+  machines(hypervisor agnostic) Yes/No)  
+  and maintained multiple copies   
+  of snapshots & clones      
+
+       
+  The platform should have   Compliance (Yes/No)  
+  capability to leverage SSD for    
+  IOPS hungry workload should    
+  be running from SSD only     
+            
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+9 
+
+
+
+  The proposed HCI solution must Does  it provide  
+  provide operations management operations  
+  and provide performance,  management,  
+  storage, CPU utilization per VM performance, storage,  
+       CPU, utilization per  
+       VM (Yes/No)  
+     
+
+6 Replication The solution should support data Does it support to data  
+  replication with data   replication over WAN?  
+  optimization over WAN   (Yes/No)  
+     
+
+  The proposed solution should be Does it support to  
+  capable of supporting multi-site multisite replication?  
+  (One to Many & Many to One) (Yes/No)  
+  replication       
+     
+
+7 Network Layer The solution should be providing Does it provide layer-2  
+  layer-2 VLAN for networking VLAN and integrated  
+  and integrated VM IP's   VM IP's management?  
+  Management capabilities   (Yes/No)  
+      
+
+8 Form Factor The platform should have  Does it support to  
+  support for rack /chassis   rack/chassis awareness  
+  awareness to support redundant for redundant data of  
+  data should go to different  different nodes?  
+  rack/chassis nodes    (Yes/No)  
+     
+
+9 Block & File The proposed HCI must support Compliance  
+ Services connectivity (HCI Storage  (Yes/No)  
+  extension) to 3rd party bare    
+  metal servers (for optimized DB   
+  licensing on physical servers) to   
+  HCI storage cluster & use the   
+  cluster capacity like a iSCSI,    
+  NFS target.       
+
+      
+  The proposed HCI should    
+  support native File Services over   
+  NFS/CIFS/SMB and file     
+  replication across clusters and   
+  data centers for local drive    
+  mapping for VDI users. If not   
+  supported, the NAS solution    
+  shall be provisioned for proving   
+  the file services.      
+
+        
+10 Management Platform must  provide Does  it support  
+
+  management through a web management through  
+  based  HTML  5  console.  Must web based HTML  
+  provide   storage, compute & console and is it  
+  hypervisor metrics on a per VM support to LDAP  
+  level as well as real-time health Active Directory  
+  andmonitoring of entire integration? (Yes/No)  
+  platform. Platform should   
+  support LDAP Active Directory   
+  integration       
+
+         
+ 
+ 
+
+10 
+
+
+
+   Does  it support  
+   monitoring via  
+  Platform must support SNMPv3 and email  
+  monitoring via SNMPv3 and alerting via SMTP?  
+  email alerting via SMTP (Yes/No)  
+
+  The  solution  should  have  call   
+  home capability for remote log   
+  collection and proactive support   
+  for  predictive  failure  hardware   
+  component.   
+
+11 Security The proposed HCI solution Does it support to data  
+  should support data at rest encryption without any  
+  encryption without any specific hardware?  
+  specialized hardware (Yes/No)  
+     
+
+  The solution should have out of Compliance (Yes/No)  
+  the box security compliance   
+  methodology in HCI solution to   
+  ensure highly secure   
+  environment. It should have at   
+  list two or more certifications. (   
+  e.g. NIST, FIPS140-2, EAL2   
+  CCC-Common Criteria   
+  Certified, DISA- approved   
+  STIG)   
+     
+
+12 Warranty & The proposed solution should Is it having online  
+ Support provide seamless upgrade for upgradation facility of  
+ Services Firmware, Hypervisor, Storage Firmware, Hypervisor,  
+  OS, BIOS and other such Storage OS, BIOS and  
+  functions which are required in other such functions?  
+  the HCI platform. The upgrade (Yes/No)  
+  should be online and should not   
+  mandate any kind of OEM   
+  engagement.   
+     
+
+  Shall include 24x7x365 Compliance (Yes/No)  
+  infrastructure maintenance and   
+  support for all hardware and   
+  software components of the   
+  proposed solution, including   
+  updates and patches as well as   
+  technical support available via   
+  telephone, email, and web   
+  during all hours (24 hours per   
+  day, 365 days per year)   
+     
+
+  Tenderer shall provide 3 years’ Mention warrenty  
+  comprehensive onsite warranty period and Compliance  
+  on all Hardware and Software. (Yes/No)  
+  All licenses provided, if any,   
+  shall be perpetual in nature. The   
+  Support should be provided   
+  24X7 (4 Hour Response).   
+
+13 Products The proposed Solution should be Compliance  
+ Certifications among the Leaders in Latest (Yes/No)  
+  Gartner Magic Quadrant   
+
+     
+
+   11  
+
+
+
+ 
+ 
+ 
+
+(B) TOR switch    
+     
+
+1 Architecture Bid Requirement by DAVV Details Quoted by Bidder 
+     
+  TOR Switch Make and 
+   Model Name : 
+  The switch should have have 24 No. of Ethernet ports 
+  x 1G/10G Base T ports and 2x   
+  QSFP+ 40GbE ports from day No. of QSFP+40GbE  
+  one ports 
+    
+
+  The Switch should support,1 RJ- No. of RJ-45 serial 
+  45 serial console port,1 RJ-45 console port (Mention 
+  out-of-band management port Port) 
+  and 1 USB 2.0 port   
+   No. of RJ-45 out of 
+   band management port 
+   (Mention Port) 
+   No. of USB 2.0 port 
+    
+
+  The switch should support dual Compliance (write 
+  power supply and 2 fan tray slots Yes/No) 
+   is 2 fan tray slots 
+   available?(Yes/No) 
+  The switch should have 1GB Is it  having Minimum 
+  flash, 2 GB SDRAM 1GB Flash?(Yes/No)) 
+   Is it  having 2GB 
+   SDRAM?(Write) 
+  The Switch should have 12 MB Is it having 12MB 
+  packet buffer size Packet buffer size 
+   (Write) 
+  The switch should have 10 Gbps Does it have Minimum 
+  Latency < 1µs (64-byte packets) 10 Gbps Latency? 
+   (Write) 
+  All the ports in the Switch are ports 1U 19" Rack- 
+  should be 1U 19” Rack- Mountable? (Yes/No) 
+  Mountable   
+  Minimum 800 Gbps  Is it having min. 1440 
+
+ 
+ 
+ 
+
+    switching capacity with min. 550 
+    mpps Gbps switching 
+
+   capacity? (Write) 
+  The switch shall have switching Does  it  have 
+  throughput upto 1070 million switching throughput 
+  pps up to 1070 million pps 
+   ?  
+  MAC Address table size of Does  it have MAC 
+  250,000 entries Address table size of 
+   280,000 entries? 
+  Switch should at least support Is it  supporting 
+  100,000 routing entries IPv4, 100,000 routing entries 
+  50,000 entries (IPv6) IPv4, 50,000 entries 
+   (IPv6)?   
+
+2 Quality of 
+Service (QoS)  
+
+ 
+ 
+ 
+ 
+
+12 
+
+
+
+  The Switch should support Strict Is it  supporting Strict  
+  Priority (SP), WRR, WDRR, Priority (SP), WRR,  
+  WFQ, SP+WRR, SP+WDRR, WDRR, WFQ,  
+  SP+WFQ, Configurable Buffer, SP+WRR, SP+WDRR,  
+  Time range, Queue Shaping, SP+WFQ,  
+  CAR with 8kbps granularity Configurable Buffer,  
+    Time range, Queue  
+    Shaping, CAR with  
+    8kbps ?  
+  The Switch should support Is it supporting packet  
+  packet filtering at L2 (Layer 2) filtering at L2 (Layer  
+  through L4 (Layer 4); flow 2) through L4 (Layer  
+  classification based on source 4); flow classification  
+  MAC address, destination MAC based on source MAC  
+  address, source IP (IPv4/IPv6) address, destination  
+  address, destination IP MAC address, source ?  
+  (IPv4/IPv6) address, port,   
+  protocol, and VLAN.   
+      
+
+3 Data center     
+ optimization     
+  The Switch should have cut- Is it having cut-through  
+  through and no blocking and no blocking  
+  architecture  architecture?  
+
+  
+
+The switch should support min. 
+four switches, which can be 
+combined to deliver unmatched 
+scalability of virtualized access 
+layer switches and flatter two-tier 
+networks and switch should 
+support single IP management 
+
+ 
+
+Compliance (Yes/No) 
+
+ 
+     
+
+  The Switch should have Is it having advanced  
+  Advanced modular operating modular operating  
+  system  system?  
+  The Switch should support Is it supporting  
+  Reversible airflow  Reversible airflow?  
+  The Switch should have Internal Does  it have Internal  
+  redundant and hot-pluggable redundant and hot-  
+  power supplies and dual fan pluggable power  
+  trays  supplies and dual fan  
+    trays ?  
+  The Switch should support for Is it supporting for  
+  IEEE 802.1Qbb Priority Flow IEEE 802.1Qbb  
+  Control (PFC), Data Center Priority Flow Control  
+  Bridging Exchange (DCBX), (PFC), Data Center  
+  IEEE 802.1Qaz Enhanced Bridging Exchange  
+  Transmission Selection (ETS), (DCBX), IEEE  
+  Explicit Congestion Notification 802.1Qaz Enhanced  
+  (ECN) for converged FCoE, Transmission Selection  
+  iSCSI and RoCE environments. ?  
+     
+
+  The Switch should support Is it supporting FCoE?  
+  FCoE    
+  The Switch should support Compliance (Yes/No)  
+  Jumbo frames sizes of up to   
+  10,000 bytes on Gigabit Ethernet   
+  and 10-Gigabit ports   
+      
+
+    13 
+
+
+
+  The Switch should support Compliance (Yes/No)  
+  VXLAN Layer 2 and Layer 3   
+  gateway support for up to 1000   
+  tunnels    
+  The Switch should support Is it supporting  
+  OVSDB for dynamic VXLAN OVSDB for dynamic  
+  configuration  VXLAN  
+    configuration?  
+  The Switch should support Compliance (Yes/No)  
+  EVPN    
+      
+
+4 Manageability     
+     
+
+  The Switch should support Is it supporting ingress  
+  ingress and egress port and egress port  
+  monitoring and traceroute and monitoring and  
+  ping  traceroute and ping?  
+  The Switch should support Is it supporting  
+  multiple configuration files to be multiple configuration  
+  stored to a flash image files to be stored to a  
+    flash image?  
+  The Switch should support Is it  supporting sFlow  
+  sFlow (RFC 3176)  (RFC 3176)?  
+  The Switch should support Is it  supporting  
+  SNMP v1, v2c and v3 SNMP v1, v2c and v3?  
+  The Switch should support Out- Is it  supporting Out-  
+  of-band interface  of-band interface?  
+  The Switch should support Is it  supporting  
+  Remote configuration and Remote configuration  
+  management  and management?  
+  The Switch should support Is it  supporting and  
+  ISSU and hot patching hot patching?  
+  The Switch should support Is it  supporting  
+  automatic configuration via automatic  
+  DHCP auto configuration configuration via  
+    DHCP auto  
+    configuration?  
+  The Switch should support Is it  supporting NTP,  
+  NTP, SNTP and PTP SNTP and PTP ?  
+
+5 Resiliency and     
+ high     
+ availability     
+  The Switch shall have the Compliance (Yes/No)  
+  capability to extend the control   
+  plane across multiple active   
+  switches making it a virtual   
+  switching fabric, enabling   
+  interconnected switches to   
+  perform as single Layer-2 switch   
+  and Layer-3 router    
+  The switch should support up to   
+  four switches can be combined   
+  to deliver unmatched scalability   
+  of virtualized access layer   
+  switches and flatter two-tier   
+  networks and switch should   
+  support single IP management   
+  up to six Switch    
+
+    14 
+
+
+
+  The Switch should support Is it  supporting IEEE  
+  IEEE 802.1w Rapid 802.1w Rapid  
+  Convergence Spanning Tree Convergence Spanning  
+  Protocol Tree Protocol?  
+  The Switch should support Is it  supporting IEEE  
+  IEEE 802.1s Multiple Spanning 802.1s Multiple  
+  Tree Spanning Tree?  
+  The Switch should support Is it  supporting Virtual  
+  Virtual Router Redundancy Router Redundancy  
+  Protocol (VRRP) Protocol (VRRP)?  
+  The Switch should support Is it  supporting   
+  Device Link Detection Protocol   
+  (DLDP) or equivalent protocol  DLDP or equivalent?  
+
+6 Layer 2    
+ switching    
+  The Switch should support Is it  supporting MAC-  
+  MAC-based VLAN based VLAN?  
+  The Switch should support Is it  supporting  
+  Address Resolution Protocol Address Resolution  
+  (ARP) and supports static, Protocol (ARP) and  
+  dynamic, and reverse ARP and supports static,  
+  ARP proxy dynamic, and reverse  
+   ARP and ARP proxy?  
+  The Switch should support Is it  supporting  IEEE  
+  IEEE 802.3x Flow Control 802.3x Flow Control?  
+  The Switch should support Is it  supporting  
+  Ethernet Link Aggregation Ethernet Link  
+   Aggregation?  
+  The Switch should support Is it  supporting  IEEE  
+  IEEE 802.3ad Link Aggregation 802.3ad Link  
+  of up to 128 groups of 32 ports Aggregation of up to  
+  and support for LACP, LACP 128 groups of 32 ports  
+  Local Forwarding First, and and support for LACP,  
+  LACP Short-time provides a LACP Local  
+  fast, resilient environment that is Forwarding First, and  
+  ideal for the data center LACP Short-time ?  
+     
+
+  The Switch should support STP Is it  supporting STP  
+  (IEEE 802.1D), Rapid STP (IEEE 802.1D), Rapid  
+  (RSTP, IEEE 802.1w), and STP (RSTP, IEEE  
+  Multiple STP (MSTP, IEEE 802.1w), and Multiple  
+  802.1s) STP (MSTP, IEEE  
+   802.1s)?  
+  The Switch should support for Is it  supporting for  
+  4,096 VLANs based on port, IGMP Snooping, Fast-  
+  MAC address, IPv4 subnet, Leave, and Group-  
+  protocol, and guest VLAN; Policy; IPv6 IGMP  
+  supports VLAN mapping Snooping provides  
+   Layer 2 optimization of  
+   multicast traffic?  
+  The Switch should support for Is it  supporting for  
+  IGMP Snooping, Fast-Leave, IGMP Snooping, Fast-  
+  and Group-Policy; IPv6 IGMP Leave, and Group-  
+  Snooping provides Layer 2 Policy; IPv6 IGMP  
+  optimization of multicast traffic Snooping provides  
+   Layer 2 optimization of  
+   multicast traffic?  
+  The Switch should support Is support  DHCP  
+  DHCP support at Layer 2 support at Layer 2?  
+
+ 
+
+15 
+
+
+
+7 Layer 3 
+services 
+
+ The Switch should support Is it  supporting 
+ Address Resolution Protocol Address Resolution 
+ (ARP) Protocol (ARP)? 
+ The Switch should determines Does  it determines the 
+ the MAC address of another IP MAC address of 
+ host in the same subnet; supports another IP host in the 
+ static ARPs; gratuitous ARP same subnet; supports 
+ allows detection of duplicate IP static ARPs; gratuitous 
+ addresses; proxy ARP allows ARP allows detection 
+ normal ARP operation between of duplicate IP ? 
+ subnets or when subnets are  
+ separated by a Layer 2 network  
+   
+
+ The Switch should support Is it  supporting 
+ simplifies the management of simplifies the 
+ large IP networks and supports management of large 
+ client and server; DHCP Relay IP networks and 
+ enables DHCP operation across supports client and 
+ subnets server; DHCP Relay 
+  enables DHCP 
+  operation across 
+  subnets? 
+ The Switch should support for Is it  supporting for 
+ Connectivity Fault Management Connectivity Fault 
+ (IEEE 802.1AG) and Ethernet in Management (IEEE 
+ the First Mile (IEEE 802.3AH); 802.1AG) and Ethernet 
+ provides additional monitoring in the First Mile (IEEE 
+ that can be used for fast fault 802.3AH); provides 
+ detection and recovery additional monitoring 
+  that ? 
+   
+
+8 Layer 3  
+ routing  
+ The Switch should support Is it  supporting 
+ Virtual Router Redundancy Virtual Router 
+ Protocol (VRRP) and VRRP Redundancy Protocol 
+ Extended (VRRP) and VRRP 
+  Extended? 
+ The Switch should support Is it  supporting 
+ Policy-based routing Policy-based routing? 
+ The Switch should support Is  it supporting Equal- 
+ Equal-Cost Multipath (ECMP) Cost Multipath 
+  (ECMP)? 
+
+9 Layer 3 IPv4  
+ routing  
+ The Switch should support Is  it supporting static 
+ static routes, RIP and RIPv2, routes, RIP and RIPv2, 
+ OSPF, BGP, and IS-IS OSPF, BGP, and IS- 
+  IS? 
+ The Switch should support Is it  supporting 
+ Border Gateway Protocol 4 Border Gateway 
+ (BGP-4) Protocol 4 (BGP-4)? 
+ Intermediate system to  
+ intermediate system (IS-IS)  
+ The Switch should support Is it  supporting Static 
+ Static IPv6 routing IPv6 routing?  
+ 
+ 
+ 
+
+ 
+
+16 
+
+
+
+  The Switch should support Is it  supporting  
+  separate stacks for IPv4 and separate stacks for  
+  IPv6 to ease the transition from IPv4 and IPv6 to ease  
+  an IPv4-only network to an the transition from an  
+  IPv6-only network design IPv4-only network to  
+   an IPv6-only network  
+   design?  
+  The Switch should support Is it  supporting  
+  Routing Information Protocol Routing Information  
+  next generation (RIPng) extends Protocol next  
+  RIPv2 to support IPv6 generation (RIPng)  
+  addressing extends RIPv2 to  
+   support IPv6  
+   addressing?  
+  The Switch should support Is it  supporting OSPF  
+  OSPF support for IPv6, BGP-4 support for IPv6, BGP-  
+  to support Multiprotocol BGP 4 to support  
+  (MBGP), including support for Multiprotocol BGP  
+  IPv6 addressing,IS-IS for IPv6 (MBGP), including  
+   support for IPv6  
+   addressing, IS-IS for  
+   IPv6?  
+
+10 Layer 3 IPv6    
+ routing    
+  The Switch should static Is it  supporting static  
+  routing, RIPng, OSPFv3, routing, RIPng,  
+  BGP4+ for IPv6, and IS-ISv6 OSPFv3, BGP4+ for  
+   IPv6, and IS-ISv6?  
+  Green IT and power   
+     
+
+  The Switch should able to shut Does  it able to shut off  
+  off unused ports and utilizes unused ports and  
+  variable-speed fans, reducing utilizes variable-speed  
+  energy costs fans, reducing energy  
+   costs?  
+
+11 Management    
+     
+
+  The Switch should allow users Does  it allow users to  
+  to copy switch files to and from copy switch files to  
+  a USB flash drive and from a USB flash  
+   drive?  
+  The Switch should support Is it  supporting  
+  Multiple configuration files and Multiple configuration  
+  stores easily to the flash image files and stores easily  
+   to the flash image?  
+  The Switch should SNMPv1, Does  it have SNMPv1,  
+  v2c, and v3 v2c, and v3?  
+  The Switch should support Dual Is it  supporting Dual  
+
+  
+flash images (two softwares in 
+flash memory) flash images?  
+
+  The Switch should provide support of local and  
+  support of local and remote remote logging of  
+  logging of events via SNMP events via SNMP (v2c  
+  (v2c and v3) and syslog; and v3) and syslog;  
+  provides log throttling and log provides log throttling  
+  filtering to reduce the number of and log filtering to  
+  log events generated reduce the  
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+17 
+
+
+
+  The Switch should provide a Is it providing a central  
+  central repository for system and repository for system  
+  network information; aggregates and network  
+  all logs, traps, and debugging information;  
+  information generated by the aggregates all logs,  
+  system and maintains them in traps, and debugging  
+  order of severity; outputs the information generated  
+  network information to multiple by the ?  
+  channels based on user-defined   
+  rules   
+     
+
+12 Security    
+     
+
+  The Switch should provide IP   
+  Layer 3 filtering based on   
+  source/destination IP   
+  address/subnet and   
+  source/destination TCP/UDP   
+  port number   
+     
+
+  The Switch should support Is it  supporting  
+  RADIUS/TACACS+ RADIUS/TACACS+?  
+  The Switch should support Is it  supporting  
+  Secure shell encrypt all Secure shell encrypt all  
+  transmitted data for secure transmitted data for  
+  remote CLI access over IP secure remote CLI  
+  networks access over IP  
+   networks?  
+  The Switch should support IEEE Is it  supporting IEEE  
+  802.1X and RADIUS network 802.1X and RADIUS  
+  logins network logins?  
+  The Switch should support allow Is it  supporting allow  
+  access only to specified MAC access only to specified  
+  addresses, which can be learned MAC addresses, which  
+  or specified by the administrator can be learned or  
+   specified by the  
+   administrator?  
+  The Switch should support Is it  supporting  
+  LLDP-MED (Media Endpoint LLDP-MED (Media  
+  Discovery) Endpoint Discovery)?  
+
+13 Software    
+ Defined    
+ Networking    
+ (SDN)    
+ Capability    
+  The Switch should have Open Does  it have Open  
+  Flow 1.3.1 protocol capability Flow 1.3.1 protocol  
+  to enable software-defined capability to enable  
+  networking from Day one software-defined  
+   networking from Day  
+   one?  
+  The Switch should Allow the Does  it Allow the  
+  separation of data (packet separation of data  
+  forwarding) and control (routing (packet forwarding)  
+  decision) paths, to be controlled and control (routing  
+  by an external SDN Controller, decision) paths, to be  
+  utilizing Open flow protocol controlled by an  
+   external SDN  
+   Controller, ?  
+
+     
+
+   18 
+
+
+
+14 Certification    
+     
+
+  The switch should have UL Compliance  
+  60950-1; certification? (Yes/No)  
+  EN 60825-1 Safety of Laser Attach proof  
+  Products-Part 1;   
+  EN 60825-2 Safety of Laser   
+  Products-Part 2,   
+  IEC 60950-1;   
+  CAN/CSA-C22.2 No. 60950-1;   
+  Emissions : VCCI Class A   
+     
+
+15 Warranty Onsite warranty support. 3 Years  
+     
+
+     
+(C) Migration of Migration of existing DAVV Agree  (Yes/No)  
+
+ DAVV network and in-house application   
+ existing services on HCI server. There   
+ applications are about 14 services running.   
+ and services Ex. Web service, LDAP   
+  authentication, DNS, E-mail,   
+  digital library etc. the bidder will   
+  have to ensure successful   
+  migration of these services on   
+  new server   
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+19 
+
+
+
+ 
+
+Ref: DAVV/ITC/SERVER/2018-19/1-1 Annexure II 
+ 
+ 
+
+ 
+
+Online Financial Bid C 
+(To be quoted Online on prescribed proforma only) 
+
+To, 
+ 
+
+The Registrar, 
+ 
+
+Devi Ahilya Vishwavidyalaya,  
+Nalanda Campus, RNT Marg, Indore. 
+
+ 
+
+Sub: – Quotation for Server with Storage and Virtualization Software at IT Center Devi 
+ 
+
+Ahilya Vishwavidyalaya, Indore. 
+ 
+
+Sir, 
+ 
+
+This has reference to your call for submitting quotation for Quotation for Server with Storage and 
+
+Virtualization Software at Devi Ahilya Vishwavidyalaya, Indore. I have read all the terms and the 
+
+conditions as stipulated in the above. I have gone through all the terms and conditions mentioned in the 
+
+tender document and already given my acceptance for it. I confirm that I fulfill the eligibility criteria as 
+
+stipulated by you. 
+ 
+
+I offer my rate in INR as under:  
+Sl Description  Amount  TAX (Rs.) Total 
+No  Qty (Rs.)   Amount 
+
+      (Rs.) 
+
+ Server with Storage and Virtualization one     
+ Software as per the details mentioned in      
+ (A), (B) and (C) of technical bid      
+
+       
+    Grand Total  
+    (in figure  
+    and in  
+    words)  
+       
+ 
+ 
+ 
+
+ 
+
+Signature of authorized signature: 
+ 
+
+Name and Designation of Authorized Signatory 
+ 
+
+Seal : 
+
+ 
+
+Date & Place: 
+ 
+
+ 
+
+20 
+
+
+
+Tender No.: DAVV/ITC/SERVER/2018-19/1-1 Annexure-III 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+DECLARATION 
+I/We………………………………………………………………….. do hereby declare that 
+ 
+our company/firm is not black listed by Government of India/ any state Govt./ public sector 
+
+undertaking/University and not involved in any litigation which threatens solvency of the 
+
+company/firm during last five years. 
+
+ 
+ 
+
+I/We further undertake that if above declaration probes to be wrong/incorrect or misleading 
+
+our tender/contract stands to be cancelled/terminated. 
+ 
+I/We solemnly declare that I/we have attached all the documents mentioned here above and 
+
+mentioned in the tender. I/We also understand that non-compliance of any documents will be 
+
+treated as no- respective tender and we will lose our claim to participate in the tender enquiry 
+
+automatically and our tender will be liable for rejection. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Signature of Authorized Person: 
+ 
+
+ 
+
+Name and designation : 
+ 
+
+ 
+
+Seal 
+ 
+
+ 
+
+Date: ……………… 
+Place: …………….. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+21 
+
+
+
+ 
+Tender No.: DAVV/ITC/SERVER/2018-19/1-1 Annexure IV 
+
+ 
+
+ 
+
+CHECK LIST FOR BIDDER TO BE SUBMITTED ALONG WITH TENDER 
+ 
+
+ 
+
+Mention Yes/No with the Details required: 
+ 
+
+1. Tender Document  
+2. E.M.D. ( To be paid online through e-procurement portal in  
+
+ favor of Registrar, Devi Ahilya Vishwavidyalaya, Indore. Bidder  
+ is required to upload the scanned copy of e-transaction details.)  
+   
+
+3. Technical Bid  (online and offline mode)  
+ I. Covering Letter  
+ II. General Information  
+ III. Eligibility Criteria for Pre-qualification  
+ IV. Technical Bid details  
+ V. all supporting documents required in above.  
+ VI. Non- blacklisted declaration mentioned in  
+  Annexure III  
+   
+
+4. All documentary evidences dully attested in offline mode  
+ and scanned copy (.pdf) in online mode.  
+
+5. Documents other than mentioned in technical bid (if any)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Signature of Authorized: 
+ 
+
+ 
+
+Name of the authorized Signature: 
+ 
+
+Seal of the Company 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+22 
+
+
+
+Annexure V 
+ 
+
+Devi Ahilya Vishwavidyalaya, Indore 
+IT Center 
+
+ 
+
+TERMS & CONDITIONS 
+ 
+
+On-line Bids are invited from the Reputed, experienced OEM (Original Equipment 
+Manufacturer) OR OEM Authorized Dealer for Supply & installation of Server Computer 
+with storage and virtualization software. 
+ 
+
+ 
+
+INSTRUCTIONS TO BIDDERS 
+ 
+ 
+ 
+
+1. EARNEST MONEY DEPOSIT (EMD):- 
+ 
+
+a) The EMD amount is interest free and will be refundable to the 
+unsuccessful bidders without any accrued interest on it. 
+
+ 
+b) The bid / proposal submitted without EMD, mentioned above, will be 
+
+summarily rejected.  
+c) The EMD will be forfeited: 
+
+ 
+· If a bidder withdraws its bid after closing date and time of bid and 
+
+during the period of bid validity. 
+ 
+
+· In case of a successful bidder, if the bidder fails to supply the server 
+computer in accordance with this Bid. 
+
+ 
+e) E-transaction details of EMD and tender fees along with other documents 
+
+mentioned in point no. 2 below shall be submitted in the Sealed envelope titled 
+"Server with storage and virtualization software Purchase at DAVV" in IT 
+Center, Central Library Building, Takshashila Campus, Devi Ahilya 
+Vishwavidyalaya, , Khandwa Road, Indore, on or before from end date & time 
+of online submission of bid. 
+
+ 
+2. Eligibility Criteria: 
+
+ 
+a. Minimum Turnover Rs. 10 Crore per financial year in last three years (2015-16, 
+
+2016-17, 2017-18)  
+b. The bidder Company should be ISO 9001 certified  
+c. The bidder must have executed at least one order for supply and installation of 
+
+server of similar capability with virtualization software preferably based on 
+HCI technology. 
+
+ 
+
+ 
+3. The seller/ bidder must submit following documents (duly signed and stamped) 
+
+in the sealed envelope one day before from end date & time of the technical bid 
+submission.  
+
+a. E-transaction details of EMD and tender fees.  
+b. Goods & Services Tax Identification Number (GSTIN) registration at Tax 
+
+Department of Government. 
+c. Permanent Account Number (PAN). 
+
+ 
+ 
+ 
+
+23 
+
+
+
+d. Reputed, experienced OEM (Original Equipment Manufacturer) OR OEM 
+Authorized Dealer may participate. If, bidder is an authorized dealer of OEM, he 
+must submit legible self-attested copy of authorization certificate issued by the 
+OEM (Original Equipment Manufacturer) for this particular e- bid. There will be 
+separate authorization letters for server and TOR switch by respective OEM(s). 
+
+ 
+
+e. Bidder must submit OEM authorization letter exclusively for this bid and it must 
+also be mentioned that all product support and services will be ensured by OEM 
+till warranty period. All products and services for quoted product will not reach 
+“END OF LIFE” for next five Years from the date of Commissioning. 
+
+ 
+f. All licenses provided, if any, shall be perpetual in nature. Any software 
+
+update/patches must be available without any extra cost. 
+
+ 
+g. Any hardware and/or software fault must be attended and thereafter the action 
+
+should be taken by the vendor immediately. The vendor is liable to pay penalty as 
+per the provision made. Vendor must provide contact details of its technical 
+support team as well as OEM’s technical team hierarchy in the form of Escalation 
+Matrix. 
+
+ 
+h. A self-certified letter in the format shown in annexure III by the authorized 
+
+signatory of the bidder must be submitted as an affidavit on non-judicial stamp 
+paper of Rs. 10/-. 
+
+ 
+i. Information Accessibility: Bidder must submit product details, specifications and 
+
+brochure. These documents to be made available in public domain. Also vendor 
+must mention the Official URL. 
+
+ 
+j. The successful Tenderer(s) will provide following: 
+
+ 
+(i) Supply and installation of equipment with storage and virtualization 
+
+software. 
+(ii) Migration of existing DAVV network and in-house application services on HCI 
+
+server. There are about 14 services running. Viz. Web service, LDAP, E-mail, 
+DHCP, Caching DNS, External DNS, Mat Lab, Cadence, digital library, Research 
+compendium, User management, MIS services, File tracking, and Sys Log . The 
+bidder will have to ensure successful migration of these services on the new 
+server.  
+
+(iii) Service during warranty period on site for 36 months from the date of 
+installation.  
+
+(iv) Hand holding support for 3 months from the date of installation.  
+(v) Advance & complete training of DAVV personnel. The trainer should be 
+
+from the OEM. The training would start after successful installation of 
+hardware and software in real environment. 
+
+ 
+4. DELIVERY PERIOD: 6 weeks from the date of placing the supply order. 
+
+ 
+
+ 
+
+5. BID REJECTION:- 
+ 
+
+The Bid will be rejected under any one or more of the following cases. 
+ 
+
+a) Non-production of original documents for verification, if required. 
+b) Non-submission of requisite Bid Security (EMD), before closing date & time of 
+
+submitting / uploading the bid on e-procurement web-site. 
+ 
+
+24 
+
+
+
+c) Not meeting the Technical Specifications. 
+d) If Bidder found indulging in malpractice of pooling of Bid.  
+e) Lack of requisite documents for Technical Bid during opening of bid 
+
+ 
+6. Penalty Provisions: 
+ 
+
+ Delay will be calculated from the date and time of registering the fault with 
+the Successful vendor. 
+
+ Service support for Virtualization related issues – 24 X 7 basis.
+Support for Hardware related  issue - NBD
+Failure to maintain above deadline would result in a penalty of Rs. 1000/day.
+
+
+ 
+
+6. PERFORMANCE SECURITY:- 
+ 
+
+a. The successful Bidder has to deposit a performance security, which will be the 
+5% (five percent) of the total quoted value of contract. The performance 
+security should be in the form of FDR / Bank Guarantee from a nationalized 
+scheduled and commercial bank in favour of Registrar, Devi Ahilya 
+Vishwavidyalaya, Indore. The Performance Security (Security Money) shall 
+bear no interest. The Performance Security should be valid for a period of 60 
+days beyond the completion of all warranty period. The performance security 
+will be forfeited in case the successful Bidder fails to supply as per the supply 
+order or fail to meet the obligations under warranty period. 
+
+ 
+b. Failure of the successful Bidder to furnish the Performance Security shall 
+
+constitute sufficient grounds for the annulment of the award and forfeiture of 
+the Bid security (EMD). 
+
+ 
+ 
+7. DELIVERY & INSPECTION 
+ 
+
+a. Delivery of items / goods will be made in the IT Center, Takshashila campus, 
+Devi Ahilya Vishwavidyalaya, Khandwa Road, Indore-452001 without any 
+extra cost.  
+
+b. The inspection of the Goods shall be carried out to check whether the Goods 
+are in conformity with the technical specifications mentioned in tender 
+document. 
+
+c. Firms fail to supply the items as per specification mentioned in the tender 
+document within stipulated time, its performance security will be forfeited.  
+
+d. Original Manuals, Data Sheets, Installation Documents and any other 
+documents relevant to the hardware, and software supplied by the Bidder. 
+
+ 
+
+General Terms and Conditions 
+ 
+
+1. The track record of the bidder should be clean and should not have any involvement 
+in illegal activities or financial misappropriation /frauds etc.  
+
+2. We do not intend to call vendors for financial negotiations. Vendor should, therefore, 
+quote their lowest possible rates.  
+
+3. The authorized person of bidding firm must put his signature on all the pages of the 
+tender documents invariably in having accepted all the terms and conditions in respect 
+of this tender work.  
+
+4. The bidder must be registered with Provident Fund, ESI, and GST and should have 
+PAN/TAN from Income Tax Department.  
+
+5. DAVV  may  modify  the  specifications  in  the  best  interest  of  the  University,  if 
+ 
+
+25 
+
+
+
+necessity arises. Any change or modification in the tender document will be notified 
+on University website https://www.dauniv.ac.in  
+
+6. DAVV reserves the right to reject any or all offers without assigning any reason 
+thereof.  
+
+7. Bids received after due date will be summarily rejected.  
+8. The bidders are required to submit the required details strictly in the specified format, 
+
+failing which; their tender is likely to be rejected.  
+9. Disputes Resolution: All questions, disputes and/or difference arising under or in 
+
+connection with this tender enquiry or in any way touching or relating to or 
+concerning the construction, meaning or effect or the terms herein, shall be referred to 
+the sole arbitration of Registrar, DAVV, Indore. The award of the arbitrator so 
+appointed shall be final and binding. All disputes shall be under jurisdiction of Indore 
+court only.  
+
+10. The lowest rate will not be the only basis of claim to get the order. 
+ 
+
+11. Payment conditions:   
+ 
+                Details                                Payment (% of  total cost) 
+ 
+
+(i) Hardware delivery and            -    80% 
+                     power on installation. 
+
+(ii) Successful installation of      -      10 % 
+          OS and Virtualization software.  
+(iii) Training and Migration of     -      10% 
+
+                           DAVV Application and services. 
+ 
+ 
+ 
+ 
+
+**** 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

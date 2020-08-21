@@ -1,0 +1,316 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/709271
+
+  Dated: 14-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 24-07-2020 12:00:00
+
+Bid Opening Date/Time 24-07-2020 12:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Air Force
+
+Office Name ***********
+
+Total Quantity 10
+
+Item Category Low Voltage Surge Protective Devices (Surge
+protector panel)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Low Voltage Surge Protective Devices (Surge Protector Panel) ( 10 pieces
+)
+
+Technical Specifications
+
+                               1 / 4
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC Governing specification "IS 16463 (Part 11) :
+2016 or IEC 61643-11 :
+2011"
+
+*
+
+No. of Phase 1 Phase 1 Phase, 3 Phase
+
+No. of ports Two-port SPD One-port SPD, Two-port
+SPD
+
+SPD Design Combination (Voltage
+switching and Voltage
+limiting)
+
+Voltage switching,
+Voltage limiting,
+Combination (Voltage
+switching and Voltage
+limiting)
+
+Classification Class I Class I, Class II, Class I
++ Class II Combination,
+Class III
+
+Installation Location Indoor Indoor, Outdoor
+
+Degree of protection
+for enclosures
+(According to IP
+code of IEC 60529)
+
+IP 20 IP 20, IP 54
+
+Temperature and
+humidity range
+
+Extended Normal, Extended
+
+Power system AC between 47 Hz and
+63 Hz
+
+*
+
+Preferred values of
+impulse discharge
+current Iimp for
+class I (in kA)
+
+25 1, 2, 5, 10, 12.5, 20,
+25, NA
+
+Preferred values of
+nominal discharge
+current for class II
+tests In (in kA)
+
+15 *
+
+Preferred values of
+open-circuit voltage
+for class III tests Uoc
+(in kV)
+
+20 *
+
+Preferred values of
+voltage protection
+level Up (in kV)
+
+0.9 *
+
+Preferred values of
+r.m.s. maximum
+continuous
+operating voltage Uc
+(in Volts)
+
+335 *
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/jTQs1-1YVQv-wfp0WcaQMVY8_gottjGCBCFKzU314VY
+
+
+ 
+
+Low Voltage Surge
+Protection Device
+shall have Status
+indicators (The
+manufacturer shall
+provide information
+about the function of
+the indicator and the
+actions to be taken
+after change of
+status indication)
+
+Yes Yes, No
+
+Terminal type Screw terminal Screw terminal,
+Screwless terminal
+
+Warranty for Surge
+Protection Device -
+(in years) - Minimum
+
+2 2, 4, 5, 10, 15, 20
+
+Installation and
+commissioning
+
+No Yes, No
+
+CERTIFICATIONS CE certification No Yes, No
+
+Availability of the test
+report from Central
+Govt./ NABL/ ILAC
+acredited lab
+conforming to the
+specification
+
+Yes *
+
+"Availability of
+Additional tests as
+applicable as per IS
+16463 (Part 11) :
+2016 or IEC
+61643-11 : 2011and
+test report from
+Central Govt./ NABL/
+ILAC acredited lab
+conforming to the
+specification"
+
+Yes Yes, No
+
+All the test reports and
+certificates shall furnish
+by the supplier to the
+buyer/consignee on
+demand
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti Address Quantity Delivery Days
+
+                               3 / 4
+
+
+
+ 
+
+ng Officer
+
+1 *********** ***********GHAZIABAD 10  15
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+2.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 3 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,828 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   RA Number: GEM/2020/RA/45218
+
+  Dated: 15-07-2020
+
+  
+
+RA Document
+RA Details
+
+RA Technical End Date/Time 27-07-2020 10:00:00
+
+RA Opening Date/Time 27-07-2020 10:30:00
+
+RA Life Cycle (From Publish Date) 90 (Days)
+
+RA Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Ministry Of Home Affairs
+
+Department Name Central Armed Police Forces
+
+Organisation Name Central Reserve Police Force (crpf)
+
+Office Name Dte. Genl.
+
+Total Quantity 224
+
+Item Category Rugged Tablet
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Certificate (Requested in ATC),OEM Authorization
+Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Inspection Required  No
+
+Estimated RA Value  36288000
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 1.00
+
+EMD Amount 362880
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 10.00
+
+Duration of ePBG required (Months). 38
+
+                               1 / 9
+
+
+
+ 
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+DIG (IT) DTE
+Dte. Genl., Central Armed Police Forces, Central Reserve Police Force (CRPF), Ministry of Home
+Affairs
+(Harjinder Singh)
+
+Splitting
+
+ RA splitting not applied.
+
+Rugged Tablet ( 224 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Processor Processor Make Intel Intel, ARM, Qualcomm,
+Cherrytrail, Baytrail,
+Exynos Or higher
+
+Processor Intel Core i5 Intel Celeron, Intel
+Atom x5, Intel Core i3,
+Intel Core i5, Intel Core
+m5, Intel Core i7, Intel
+Atom X7, ARM Cortex,
+Snapdragon Or higher
+
+Number of Cores per
+Processor
+
+2 2, 4, 6, 8 Or higher
+
+Processor Base
+Frequency (GHz)
+
+0.8 - 1.2 0.8 - 1.2, 1.21- 1.5,
+1.51 - 1.7, 1.71 - 2.0,
+2.01 - 2.5, 2.51 - 3.0 Or
+higher
+
+Processor Description - *
+
+Construction Material of Chassis Magnesium Alloy Magnesium Alloy
+
+Memory Type of RAM LPDDR3 *
+
+RAM Size (GB) 8 8, 16, 32 Or higher
+
+RAM Expandability upto NA *
+
+                               2 / 9
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/K4akoHbQmMq6hIky4oJKCO5BNQoBnE-pu9RXNXk8NNI
+
+
+ 
+
+(GB)
+
+Storage Internal Storage
+Capacity (GB)
+
+256 512, 1024 Or higher
+
+Micro SD Card Support Yes *
+
+Storage Expandable
+upto (Through Micro SD
+Card) (GB)
+
+256 *
+
+Graphics Graphics Type Integrated *
+
+Graphics Card
+Description
+
+HD *
+
+Operating System Operating System Windows 10 Pro or
+higher
+
+Windows 10 Pro or
+higher, Android 7.0 or
+higher Or higher
+
+Display Minimum Diagonal
+Display Size (Inch)
+
+7 7, 8, 10, 11.6, 12, 12.5,
+13.3, 14, 8.1, 10.1,
+10.4, 12.1 Or higher
+
+Display Resolution
+(Pixels)
+
+1280 x 800 1280 x 720, 1280 x
+800, 1366 x 768, 1920
+x 1080, 1920 x 1200,
+2160 x 1440 Or higher
+
+Minimum Display
+Brightness
+
+700 650, 700, 800, 1000,
+1200 Or higher
+
+Display Type Touch Touch Or higher
+
+Type of Touch Capacitive *
+
+Multi Touch Yes *
+
+Glove Touch Yes *
+
+Water Touch Yes *
+
+Camera Availability of Rear
+Camera
+
+Yes *
+
+If Yes, Rear Camera
+Resolution
+
+8 MP *
+
+Auto Focus Option Yes *
+
+Availability of Front
+Camera
+
+Yes *
+
+Front Camera
+Resolution
+
+2 MP *
+
+Flash Light Yes *
+
+Connectivity Wireless Connectivity Yes *
+
+If Yes, Type of Wi-fi
+Connectivity
+
+802.11 ac *
+
+Bluetooth Connectivity Yes *
+
+If Yes, Type of
+Bluetooth Connectivity
+
+4.0 or higher *
+
+NFC No *
+
+                               3 / 9
+
+
+
+ 
+
+RF Passthrough No *
+
+Ports & Connectors Number of USB 2 point
+0 Port
+
+0 *
+
+Number of USB 3 point
+0 Port
+
+1 *
+
+Number of Micro USB
+Port
+
+0 *
+
+Number of USB Type C
+Port
+
+0 *
+
+RJ 45 Integrated *
+
+Number of RJ 45 Port 0 *
+
+VGA Port Through Converter *
+
+Number of VGA Port 0 *
+
+HDMI Port Through Converter *
+
+Number of HDMI Port 0 *
+
+Serial Port Integrated *
+
+Number of Serial Port 0 *
+
+Internal Speaker Mono *
+
+Microphone Input 3.5mm Audio Jack *
+
+Docking Port Connector Yes *
+
+Additional Feature Dedicated GPS Yes *
+
+AGPS No *
+
+GNSS Yes *
+
+GNSS Accuracy upto 5 meter *
+
+Voice Calling No *
+
+Number of SIM Slots 1 *
+
+Cellular Data Support 4G/Lte *
+
+TPM Enabled Yes *
+
+If yes, type of Trusted
+Platform Module
+
+Hardware and Software
+Based
+
+*
+
+Inbuilt Barcode Scanner No *
+
+Integrated RFID No *
+
+Certification Availability of
+Ruggedness
+Certification to MIL STD
+810 G or latest from an
+independent test lab
+
+Yes *
+
+Ruggedness Certificate
+Number (Shall be
+furnished as and when
+demanded by the
+buyer)
+
+- *
+
+                               4 / 9
+
+
+
+ 
+
+Low Pressure (Altitude)
+Test in Compliance
+with MIL STD 810 G or
+latest
+
+Method 500.5 (
+Procedure II)
+
+*
+
+High Temperature Test
+in Compliance with MIL
+STD 810 G or latest
+
+Method 501.5 (
+Procedure II)
+
+*
+
+Low Temperature Test
+in Compliance with MIL
+STD 810 G or latest
+
+Method 502.5 (
+Procedure II)
+
+*
+
+Temperature Shock
+Test in Compliance
+with MIL STD 810 G or
+latest
+
+Method 503.5 (
+Procedure I)
+
+*
+
+Contamination by
+Fluids Test in
+Compliance with MIL
+STD 810 G or latest
+
+NA *
+
+Solar Radiation
+(Sunshine) Test in
+Compliance with MIL
+STD 810 G or latest
+
+NA *
+
+Rain Test in
+Compliance with MIL
+STD 810 G or latest
+
+Method 506.5 (
+Procedure III)
+
+*
+
+Humidity Test in
+Compliance with MIL
+STD 810 G or latest
+
+Method 507.5 (
+Procedure II)
+
+*
+
+Fungus Test in
+Compliance with MIL
+STD 810 G or latest
+
+NA *
+
+Salt Fog Test in
+Compliance with MIL
+STD 810 G or latest
+
+NA *
+
+Sand and Dust Test in
+Compliance with MIL
+STD 810 G or latest
+
+Method 510.5 (
+Procedure II)
+
+*
+
+Explosive Atmosphere
+Test in Compliance
+with MIL STD 810 G or
+latest
+
+Method 511.5 (
+Procedure I)
+
+*
+
+Immersion Test in
+Compliance with MIL
+STD 810 G or latest
+
+NA *
+
+Acceleration Test in
+Compliance with MIL
+STD 810 G or latest
+
+NA *
+
+Vibration Test in
+Compliance with MIL
+STD 810 G or latest
+
+Method 514.6 (
+Procedure I)
+
+*
+
+                               5 / 9
+
+
+
+ 
+
+Accoustic Noise Test in
+Compliance with MIL
+STD 810 G or latest
+
+NA *
+
+Shock Test in
+Compliance with MIL
+STD 810 G or latest
+
+Method 516.6 (
+Procedure IV)
+
+*
+
+Pyroshock Test in
+Compliance with MIL
+STD 810 G or latest
+
+NA *
+
+Acidic Atmosphere Test
+in Compliance with MIL
+STD 810 G or latest
+
+NA *
+
+Gunfire Shock Test in
+Compliance with MIL
+STD 810 G or latest
+
+NA *
+
+Temperature,
+Humidity, Vibration and
+Altitude Test in
+Compliance with MIL
+STD 810 G or latest
+
+NA *
+
+Icing/Frezzing Rain Test
+in Compliance with MIL
+STD 810 G or latest
+
+NA *
+
+Ballastic Shock Test in
+Compliance with MIL
+STD 810 G or latest
+
+NA *
+
+Vibro
+Accoustic/Temperature
+Test in Compliance
+with MIL STD 810 G or
+latest
+
+NA *
+
+Freeze/Thaw Test in
+Compliance with MIL
+STD 810 G or latest
+
+Method 524 (
+Procedure III)
+
+*
+
+Time Waveform
+Replication Test in
+Compliance with MIL
+STD 810 G or latest
+
+NA *
+
+Rail Impact Test in
+Compliance with MIL
+STD 810 G or latest
+
+NA *
+
+Multi-Exciter Test in
+Compliance with MIL
+STD 810 G or latest
+
+NA *
+
+Mechanical Vibrations
+of Shipboard
+Equipment (Type I -
+Environmental and
+Type II - Internally
+Excited) Test in
+
+NA *
+
+                               6 / 9
+
+
+
+ 
+
+Compliance with MIL
+STD 810 G or latest
+
+EMI/EMC
+Certification to MIL
+STD 461F or higher
+
+Yes Yes Or higher
+
+If Yes, EMC/EMI
+Certificate Number
+(Shall be furnished as
+and when demanded
+by the buyer)
+
+- *
+
+Ingress Protection
+Rating (IP Rating)
+
+65 65
+
+BIS Registration for
+Rugged Tablet along
+with Battery
+
+Yes *
+
+BIS Registration
+Number under CRS of
+Meity
+
+- *
+
+RoHS Compliance Yes *
+
+Other Certifications
+Available
+
+UL,CE,FCC *
+
+Hazardous Location
+Certification
+
+No *
+
+Type of Hazardous
+Location Zone
+
+NA *
+
+Type of Certification NA *
+
+Optional Input Devices Rugged Keyboard No *
+
+4 Way Directional
+Navpad Iwindow/Home
+Key, Power Key and
+Enter Key)
+
+No *
+
+Stylus Yes *
+
+Battery Type of Battery Li-Ion Li-Ion, Li-Polymer Or
+higher
+
+Batttery Capacity
+(mAH)
+
+6001-7000 *
+
+Minimum Battery
+Backup Time (hours)
+
+18 *
+
+Type of Battery
+Swapping
+
+Hot Swap *
+
+Generic Dimensions (L x H x B) - *
+
+Weight (With Battery in
+kg)
+
+- *
+
+Accessories Standard Accessories
+to be supplied with the
+Tablet
+
+Power Adaptor *
+
+                               7 / 9
+
+
+
+ 
+
+Optional Accessories Hand Strap Yes Yes Or higher
+
+Shoulder Carry Case No Yes, No Or higher
+
+Warranty Battery Warranty
+(Years)
+
+1 *
+
+Warranty (Years) 3 3, 5 Or higher
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignee/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Harjinder Singh 110003,DIRECTORATE
+GENERAL, CRPF, CGO
+COMPLEX, BLOCK NO.1, 3RD
+FLOOR, LODHI ROAD, NEW
+DELHI
+
+224  60 N/A
+
+Bid Specific Additional Terms and Conditions
+
+1. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+2.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+3. ISO 9001: The bidder must have ISO 9001 certification.
+4.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents
+
+sought in the Bid document, ATC and Corrigendum if any.
+5.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+
+Dedicated/toll Free Telephone No. for Service Support.
+6.Timely Servicing / rectification of defects during warranty period: After having been notified
+
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 7 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+7.For fulfilling the experience criteria any one of the following documents may be considered
+as valid proof for meeting the experience criteria:
+a. Purchase Order copy along with Invoice(s) with self-certification by the bidder that
+supplies against the invoices have been executed.
+b. Execution certificate by client with order value.
+c. Any other document in support of order execution like Third Party Inspection release note,
+etc.
+
+8.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+
+                               8 / 9
+
+
+
+ 
+
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+9.Malicious Code Certificate:
+
+The seller should upload following certificate in the bid:-
+(a) This is to certify that the Hardware and the Software being offered, as part of the
+contract, does not contain Embedded Malicious code that would activate procedures to :-
+  (i) Inhibit the desires and designed function of the equipment.
+  (ii) Cause physical damage to the user or equipment during the exploitation.
+  (iii) Tap information resident or transient in the equipment/network.
+(b) The firm will be considered to be in breach of the procurement contract, in case physical
+damage, loss of information or infringements related to copyright and Intellectual Property
+Right (IPRs) are caused due to activation of any such malicious code in embedded software.
+
+10.OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be
+ordered up to 25 percent at the time of placement of contract. The purchaser also reserves
+the right to increase the ordered quantity by up to 25% of the contracted quantity during the
+currency of the contract at the contracted rates. Bidders are bound to accept the orders
+accordingly.
+
+This RA is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               9 / 9
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,518 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/705991
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 17:00:00
+
+Bid Opening Date/Time 20-07-2020 17:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 80 (Days)
+
+Ministry/State Name Pmo
+
+Department Name Department Of Atomic Energy
+
+Organisation Name Nuclear Power Corporation Of India Limited
+
+Office Name Kakrapar Gujarat Site
+
+Total Quantity 15
+
+Item Category Pulse Oximeter
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+MSE Purchase Preference
+
+MSE Purchase Preference Yes
+
+ 
+
+1. Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to
+MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012
+dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and its subsequent
+
+                               1 / 6
+
+
+
+ 
+
+Orders/Notifications issued by concerned Ministry. If the bidder wants to avail the Purchase
+preference, the bidder must be the manufacturer of the offered product in case of bid for supply of
+goods. Traders are excluded from the purview of Public Procurement Policy for Micro and Small
+Enterprises. In respect of bid for Services, the bidder must be the Service provider of the offered
+Service. Relevant documentary evidence in this regard shall be uploaded along with the bid in
+respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s) has/have quoted
+price within L-1+ 15% of margin of purchase preference /price band defined in relevant policy, such
+Seller shall be given opportunity to match L-1 price and contract will be awarded for percentage of
+25% of total value.
+
+Pulse Oximeter ( 15 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Conformity to
+Standards
+
+- *
+
+Certification number
+and date
+
+- *
+
+"Electrical safety
+conforms to standards
+for electrical safety"
+
+IEC-60601-1 or
+equivalent BIS
+
+*
+
+Performance
+Parameters
+
+Type of Pulse
+Oximeter
+
+FINGER TIP FINGER TIP, HAND
+HELD, TABLE TOP
+
+Should work during
+motion and very low
+perfusion conditions
+
+Yes *
+
+Special Signal
+processing
+Technology (Motion
+artifact rejection)
+
+Masimo - SET
+technology
+
+Masimo - SET
+technology, Nellcor
+Oximax, Nellcor
+Compatible
+
+SPO2 probes Reusable Reusable, Disposable
+
+Oxygen saturation
+Range
+
+0-100% *
+
+Pulse rate 25-240 BPM *
+
+Display of SPO2 and
+PR
+
+digital display with
+plethysmograph
+
+digital display with bar
+graph, digital display
+with plethysmograph,
+digital display with
+plethysmograph with
+trends
+
+Accuracy ± 5 % *
+
+Type of Patient Adult,Pediatric,Neonata
+l
+
+Adult, Pediatric,
+Neonatal
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/q3Ily2o5OkF8O_uhXgJZBjnnR1sWNUo9uUkjjMEyIDg
+
+
+ 
+
+Should be shock
+proof
+
+Yes Yes, No
+
+Display (with
+contrast adjust-
+ability)
+
+LCD LCD, TFT
+
+Display should be
+Readable from at
+least 3 feet
+
+Yes Yes, No
+
+Saturation displayed
+on the screen
+
+Yes Yes, No
+
+Pulse Rate displayed
+on the screen
+
+Yes Yes, No
+
+Perfusion Index
+displayed on the
+screen
+
+Yes Yes, No
+
+Status of battery
+charging displayed
+on the screen
+
+Yes Yes, No
+
+Sensor off /on status Yes Yes, No
+
+Audible and visual
+Alarms
+
+Yes Yes, No
+
+Alarm override
+facility should be
+present
+
+Yes Yes, No
+
+Trends 48 hrs 48 hrs, 72 hrs, 96 hrs
+
+Type of trend
+display
+
+Tabular Tabular, Graphical
+
+Data interval in sec 1 *
+
+Power source Battery operated Battery operated,
+Battery operated with
+external charger,
+Inbuilt re-chargeable
+battery and mains
+220-240 V , 50 Hz AC
+operation
+
+Automatic switch
+from mains to
+battery in case of
+power failure
+
+NA Yes, NA
+
+RS 232C interface
+for data
+communication and
+transfer
+
+NA Yes, NA
+
+Should have
+provisions for
+wireless and blue
+tooth connectivity
+
+NA Yes, NA
+
+Patient extension Not Provided Yes, Not Provided
+
+                               3 / 6
+
+
+
+ 
+
+cable
+
+Power consumption in
+watts
+
+2 *
+
+Operating Temperature "Ambient temperature
+of 0 to 40 deg C and
+relative humidity of 15
+to 90%"
+
+*
+
+Weight of the machine
+in kg
+
+0.2 *
+
+Protective splash
+proof case for clean
+and strogage and
+safe transport
+provided
+
+Yes Yes, No
+
+Length of power
+cable
+
+3m or more 3m or more, NA
+
+Noise level in dB 42 *
+
+Display must allow
+easy viewing in all
+ambient light levels
+
+Yes *
+
+Probes Type of probe Adult,Pediatric,Neonata
+l
+
+Adult, Pediatric,
+Neonatal
+
+Probe usage Reusable Reusable, Disposable
+
+Number of probes
+provided (Hint: in
+case adult , pediatric
+and neonatal are
+selected for type of
+probe all the three
+have to be given and
+in case adult &
+pediatric are
+selected both are to
+be given)
+
+1 each 1 each, 2 each, 3 each,
+4 each
+
+NIBP Parameters Non invasive blood
+pressure (NIBP)
+provided
+
+Yes Yes, No
+
+Type of BP
+monitoring
+
+Neonatal Adult, Pediatric,
+Neonatal, NA (If NIBP
+not provided)
+
+NIBP range in mmH 20-400 20-400, NA (If NIBP not
+provided)
+
+Cuff size Adult,Pediatric,Neonata
+l,Extra Large
+
+Adult, Pediatric,
+Neonatal, Extra Large,
+NA (If NIBP not
+provided)
+
+Number of cuff's
+provided
+
+1 each 1 each, 2 each, 3 each,
+4 each, NA (If NIBP not
+provided)
+
+                               4 / 6
+
+
+
+ 
+
+Warranty in years
+(without probes)
+
+1 1, 2, 3, 4, 5
+
+Warranty for probes
+in years
+
+1 1, 2, Not Provided
+
+Reports Confirmity to
+Manufactures
+Certification
+
+ISO 9001 & ISO 13485 ISO 9001 & ISO 13485,
+ICMED 9001 & 13485,
+Both ISO 9001 & ISO
+13485 & ICMED 9001 &
+13485
+
+ISO/ ICMED
+Certification number
+and date
+
+- *
+
+Copies of all
+certifcations to be
+furnished to buyer on
+demand at time of
+supplies
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Kamleshkumar
+Gemalsinh
+Khengar
+
+394651,KAPS PLANT SITE,
+PO ANUMALA, DISTRICT
+TAPI, GUJARAT
+
+15  21
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2.Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be
+
+given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs)
+Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises
+and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to
+avail the Purchase preference, the bidder must be the manufacturer of the offered product
+in case of bid for supply of goods. Traders are excluded from the purview of Public
+Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder
+must be the Service provider of the offered Service. Relevant documentary evidence in this
+regard shall be uploaded along with the bid in respect of the offered product or service. If L-1
+is not an MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of
+purchase preference /price band defined in relevant policy, such Seller shall be given
+opportunity to match L-1 price and contract will be awarded for percentage of 38% of total
+value.
+
+3.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+4.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+
+                               5 / 6
+
+
+
+ 
+
+Telephone Numbers for Service Support.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

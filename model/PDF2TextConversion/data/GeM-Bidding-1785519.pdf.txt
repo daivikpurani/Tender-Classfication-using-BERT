@@ -1,0 +1,526 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/709496
+
+  Dated: 14-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 24-07-2020 14:00:00
+
+Bid Opening Date/Time 24-07-2020 14:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Uttar Pradesh
+
+Department Name Housing And Urban Planning Department Uttar
+Pradesh
+
+Organisation Name N/a
+
+Office Name Jhansi Development Authority
+
+Total Quantity 1
+
+Item Category diesel generators- DG Sets ( PAC Only ) 
+
+Bidder Turnover (Last 3 Years)  4 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  34 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  10 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+Estimated Bid Value  850000
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 1.00
+
+EMD Amount 8500
+
+                               1 / 6
+
+
+
+ 
+
+ePBG Detail
+
+Required No
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+ATP
+JHANSI DEVELOPMENT AUTHORITY, Housing and Urban Planning Department Uttar Pradesh, N/A,
+(Jitendra Singh Saharwar)
+
+Splitting
+
+ Bid splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 10% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Diesel Generators- DG Sets ( 1 pieces ) ( Under PAC ) 
+
+Make jaksonkirloskar
+
+Model 62.5kvakoelgreendg-3phacmecha1amf1.8mmsh
+
+                               2 / 6
+
+
+
+ 
+
+eetwithitc2yrswarranty
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+OUTPUT CAPACITY
+RATING/ PHASE
+
+Nominal Rated
+Capacity (KVA)
+
+62.5 62.5, 82.5, 100, 125,
+160, 180, 200, 250,
+320, 380, 400, 500,
+600, 750, 140, 75 Or
+higher
+
+No of Phase Three Phase Three Phase
+
+ENGINE Make of Engine KOEL
+GREEN/KIRLOSKAR
+
+*
+
+Model Number of
+Engine
+
+HA694TCI G1 *
+
+Capacity of Engine (cc) 3240 *
+
+Engine Power (kWm) 61 *
+
+ISI Marking to IS :10001
+for engine
+
+No *
+
+BIS license No, if
+applicable
+
+NA *
+
+Type of Engine
+cooling
+
+Air Cooled Air Cooled
+
+Type of governer Mechanical Mechanical, Electronic
+Or higher
+
+Class of governer A1 A0, A1 Or higher
+
+Number of cylinders
+(nos)
+
+6 *
+
+No of Strokes (nos) 4 *
+
+Rated RPM of Engine
+(RPM)
+
+1500 1500
+
+Overload capacity for
+one hour for every 11
+hours continuous
+running at full load (%)
+
+10 *
+
+Specific Fuel
+Consumption (gm/kWh)
+
+216 *
+
+Starting voltage (volt) 12 *
+
+ALTERNATOR AC GENERATOR(ALTER
+NATOR) Make
+
+KOEL
+GREEN/KIRLOSKAR
+
+*
+
+AC GENERATOR(ALTER
+NATOR) model Number
+
+KOEL
+GREEN/KIRLOSKAR
+
+*
+
+                               3 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/vjt6Qwxia622bL5Mc_Xv6ogh6ZEimu86oELcmtWE7CI
+
+
+ 
+
+Rating of AC Generator
+(KVA)
+
+62.5 *
+
+Power Factor of AC
+generator
+
+0.8 *
+
+Efficiency at rated
+Power factor at 75% of
+full Load
+
+92.6 *
+
+Compliance of
+Alternator to
+IS:13364(part-1)
+
+Yes *
+
+Type of alternator Brushless *
+
+Voltage Regulation
+Grade
+
+VG 3 *
+
+Alternator IP Rating IP 23 *
+
+Class of Insulation H *
+
+CONTROL PANEL Control Panel AMF AMF
+
+IP Rating of Control
+Panel
+
+IP 53 *
+
+ACOUSTIC ENCLOSURE Sheet Thickness 1.8 1.8, 2 Or higher
+
+Thickness of Foam 40 *
+
+Density of Foam for
+sound insulation
+
+28 *
+
+Noise level at 1 meter
+(dB)
+
+75 *
+
+BATTERY Battery Type &
+Specification
+
+Low Maintenance free
+to IS: 14257 for high
+cranking performance
+
+*
+
+Battery capacity (Ah) 100 *
+
+No of batteries 1 *
+
+TEST REPORTS Availability of Type test
+report for Engine from
+Central govt/NABL/ILAC
+accredited laboratory
+
+Yes *
+
+Test Report number
+and date(Engine)
+
+PROVIDED LATERON *
+
+Name and address of
+laboratory(Engine)
+
+PROVIDED LATERON *
+
+Availability of Type test
+report for Alternator
+from Central
+government/NABL/ILAC
+accredited laboratory
+
+Yes *
+
+Test Report number
+and date(Alternator)
+
+PROVIDED LATERON *
+
+Name and address of PROVIDED LATERON *
+
+                               4 / 6
+
+
+
+ 
+
+laboratory(Alternator)
+
+DG set meet
+requirements of Enviro
+nmental(Protection)
+Rules 1986, in respect
+of noise and emission
+norms, as described in
+STC
+
+Yes *
+
+WARRANTY /
+INSTALLATION &
+COMMISSIONING
+
+Warranty 2 2.0
+
+Installation &
+Commissioning
+
+With Installation With Installation
+
+Agreed to STC of the
+Product
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Jitendra Singh
+Saharwar
+
+284002,Commisionary
+Compound Jhansi
+
+1  30
+
+Special terms and conditions for category diesel generators- DG Sets 
+
+1. In addition to General Terms and Conditions of GeM, Special T&C shall be applicable for
+Diesel Generating Set/DG Set. click here to view the Special terms and conditions.
+
+Bid Specific Additional Terms and Conditions
+
+1.After award of contract – Successful Bidder shall have to get advance sample approved from
+buyer before bulk manufacturing / starting bulk supplies. Successful Bidder shall submit 5
+samples for Buyer's approval, within 5 days of award of contract. Buyer shall, as per contract
+specifications framework, either approve the advance sample or will provide complete list of
+modification required in the sample within 5 days of receipt of advance sample. Seller shall
+be required to ensure supply as per approved sample with modifications as communicated
+by Buyer. If there is delay from buyer side in approval of advance sample – the delivery
+period shall be refixed without LD for the period of delay in sample approval. In case, the
+sample is found to have major deviations / not conforming to the Contract specifications, the
+buyer at its discretion may call for fresh samples for approval before allowing bulk supplies
+or may terminate the contract after notifying the deviations to the seller.
+Unless otherwise provided in the contract, all samples required for test shall be supplied by
+the contractor free of cost. Where under the contract, the contractor is required to submit an
+advance sample, any expenses incurred by the contractor on or in connection with the
+production of stores in bulk, before the sample has been approved unconditionally shall be
+
+                               5 / 6
+
+
+
+ 
+
+borne by the Seller and he shall not claim any compensation in the event of such sample
+being found unacceptable by the Buyer / Consignee.
+
+2.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+3.Bidders can also submit the EMD with Banker’s Cheque in favour of dd payable at dd.
+Bidder has to upload scanned copy / proof of the BC along with bid and has to ensure
+delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date.
+
+4.Bidders can also submit the EMD with Account Payee Demand Draft in favour of jda payable
+at jda.
+Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure
+delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date.
+
+5.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+6.Staggered Delivery: The ordered items shall be supplied in a staggered manner. ( 1
+Quantity shall be supplied within 15 days of contract placement and thereafter 10 Quantity
+per Week)
+
+7.End User Certificate: Wherever Bidders are insisting for End User Certificate from the
+Buyer, same shall be provided in Buyer’s standard format only.
+
+8.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents
+sought in the Bid document, ATC and Corrigendum if any.
+
+9. ISO 9001: The bidder must have ISO 9001 certification.
+10.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+
+offered product during the last three years, ending on 31st March of the previous financial
+year, should be as indicated in the bid document. Documentary evidence in the form of
+certified Audited Balance Sheets of relevant periods or a certificate from the Chartered
+Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than
+3 year old, the average turnover in respect of the completed financial years after the date of
+constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of
+CATEGORY RELATED TO primary product having highest bid value should meet this criterion.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

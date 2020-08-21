@@ -1,0 +1,597 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/707356
+
+  Dated: 12-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 22-07-2020 14:00:00
+
+Bid Opening Date/Time 22-07-2020 14:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 40 (Days)
+
+Ministry/State Name Haryana
+
+Department Name Higher Education Department Haryana
+
+Organisation Name N/a
+
+Office Name Government College For Women, Mahendergarh
+
+Total Quantity 10
+
+Item Category Camera for CCTV System
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  Yes
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Camera For CCTV System ( 10 pieces )
+
+Technical Specifications
+
+                               1 / 7
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+CAMERA TYPE Type of Camera
+Housing
+
+DOME CAMERA DOME CAMERA
+
+IP Camera Yes Yes
+
+PTZ Camera No Yes, No
+
+IMAGE SENSOR Image Sensor Type CMOS CMOS
+
+Image Sensor Size 0.34 1, 0.67, 0.5, 0.34,
+0.357, 0.37, 0.4 Or
+higher
+
+Camera Image
+Sensing capacity
+(Picture Mode)
+
+4MP 4MP, 5MP
+
+Resolution D1 (704 x 480
+Pixel),HD (1280 x 720
+Pixel),Full HD (1920 x
+1080 Pixel)
+
+D1 (704 x 480 Pixel),
+HD (1280 x 720 Pixel),
+Full HD (1920 x 1080
+Pixel)
+
+Day/Night Capable Yes Yes
+
+IR illumination
+Range(mtr)
+
+30 30
+
+OPTICS Lens Type Fixed *
+
+Focal Length(mm) 3.6 2.8 - 12, 3.6
+
+Iris Control Yes *
+
+Focus Mode Auto *
+
+VIDEO Frame Rate (fps) 25,30 25, 30
+
+Video Compression H.264,H.265+,H.265+ *
+
+Video Streaming Triple compressed
+stream
+
+Dual compressed
+stream, Triple
+compressed stream
+
+PAN / TILT / ZOOM Panning Range NA *
+
+Pan Speed (deg/sec) NA 120, 240, 320, NA, 180
+
+Tilt Range below
+horizontal (deg)
+
+NA *
+
+Tilt Range above
+horizontal (deg)
+
+NA *
+
+Tilt Speed (deg/sec) NA 90, 120, NA
+
+Optical Zoom NA 12X, 20X, 30X, 36X,
+44X, NA
+
+Digital Zoom 16X 10X, 12X, 16X
+
+AUDIO Audio Support Yes Yes
+
+Audio Compression G.711 *
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/5X1epnMKUj7bFjbqDJmDia_nhNuxQS7Lf8r-zK2-9vs
+
+
+ 
+
+Audio Streaming One-Way *
+
+Number of Audio Input
+Channel
+
+1 *
+
+Number of Audio
+Output Channel
+
+1 *
+
+External Microphone
+Support
+
+Yes *
+
+ALARM Alarm Support Yes Yes, No
+
+Number of Alarm
+Digital Input
+
+1 *
+
+Number of Alarm Relay
+Output
+
+1 *
+
+Pre/Post Alarm Buffer Yes *
+
+SECURITY Multi Level User
+ID/Password
+
+Yes *
+
+IP Address Filtering Yes *
+
+Encrypted Data
+Transmission
+
+HTTPS (SSL/TSL) *
+
+PERFORMANCE Minimum
+Illumination for
+Capturing Color
+Image
+
+0.05 0.6, 0.5, 0.2, 0.1, 0.05,
+0.01 Or lower
+
+Electronic Shutter
+Speed(sec)
+
+1/3 to 1/10000 *
+
+WDR (Wide Dynamic
+Range)
+
+120 dB 120 dB
+
+SNR (Signal to Noise
+Ratio)
+
+50-60 40-50, 50-60
+
+Auto Exposure Auto Level Control *
+
+FEATURES White Balance (
+Indoor/Out door/Manual
+Selectable)
+
+Yes *
+
+Auto Gain Control
+(On/Off selectable)
+
+Yes *
+
+Back Light
+Compensation
+
+Yes *
+
+Remote Administration
+(Remote configuration
+and status using web
+based tool)
+
+Yes *
+
+Remote System Update
+Over Network
+
+Yes *
+
+PC Client (PC
+application client with a
+channel recording
+feature support)
+
+Yes *
+
+                               3 / 7
+
+
+
+ 
+
+Web Client (Viewer
+through HTTP system
+configuration)
+
+Yes *
+
+On Screen Display in
+English
+
+Yes *
+
+ONVIF Support Yes *
+
+Presets 1 *
+
+Group Touring 1 *
+
+Privacy Zones 4 *
+
+NETWORK AND
+INTERFACE
+
+Supported Protocols UDP,SNMP,IGMP,DHCP,
+RTP,RSTP,HTTP,SMTP,F
+TP,ICMP,HTTPS,DNS,DD
+NS,RTSP,RTCP,NTP,UPn
+P,QoS,TCP/IP
+
+*
+
+IP Support Static,Dynamic *
+
+Signal Processing Digital Signal Process *
+
+IPv6 ready Yes *
+
+Wireless No *
+
+Simultaneous
+Connections
+
+5 *
+
+STORAGE On Board SD Card
+Support
+
+Yes *
+
+SD Card Memory(GB) 256 *
+
+HOUSING Installation Type Indoor,Outdoor Indoor, Outdoor
+
+Material of the
+Housing
+construction
+
+Alluminium Alluminium
+
+Protection IP67 *
+
+Vandal Resistant
+Housing
+
+Yes *
+
+If Yes, IK rating IK 10 *
+
+Mounting bracket Wall Mounted *
+
+Weight 370 *
+
+Dimensions (mm x mm
+x mm)
+
+- *
+
+POWER SUPPLY Power Input 12 V DC,PoE *
+
+Power Consumption 7.5 *
+
+Suitable Adapter Shall
+be Supplied to Make
+the Equipment Work on
+230 V (+/- 10 %), 50 Hz
+
+Yes *
+
+OPERATING
+CONDITIONS
+
+Operating Temperature
+Range
+
+-20 to +50 deg C *
+
+                               4 / 7
+
+
+
+ 
+
+Relative Humidity Non
+Condensing (%)
+
+95 *
+
+WARRANTY / SERVICES Warranty 1 1, 2, 3, 4, 5 Or higher
+
+Time for
+Replacement of
+Defective Product
+During Warranty
+Period
+
+12 12, 24, 36, 48, 72 Or
+lower
+
+Supply of Compatible
+drivers and software
+included
+
+Yes *
+
+ENVIRONMENTAL /
+CERTIFICATION
+
+Availability of facility &
+infrastructure for
+verification of all
+parameters, features,
+and capability with
+Seller
+
+Yes *
+
+Availability of facility to
+test signal to noise
+ratio of camera at 0-01
+lux
+
+Yes *
+
+Conformity to Dry Heat
+test at 55 degree C for
+16 hours as per IS
+:9000 latest
+
+Yes *
+
+Conformity to Damp
+heat at 40 degree C -
+95% RH (cyclic test):
+two cycles of 16+8
+hours as per IS: 9000
+latest
+
+Yes *
+
+Conformity to Cold test
+at -10 / -20 degree C
+for 4 hours as per IS:
+9000 latest, as
+applicable
+
+Yes *
+
+BIS Registration for
+safety general
+requirements as per IS
+13252 (Part 1):latest
+
+Yes *
+
+Availability of Type
+Test Report from
+Central Govt
+/NABL/ILAC accredited
+lab to prove conformity
+to specification
+
+Yes *
+
+Test Report Number
+and Date
+
+- *
+
+Name and Address of
+Test Lab
+
+- *
+
+                               5 / 7
+
+
+
+ 
+
+Certification FCC,CE,UL *
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Mahender Singh 123029,Government College
+for Women, Mahendergarh,
+Narnaul Road,
+Mahendergarh
+
+10  15
+
+Bid Specific Additional Terms and Conditions
+
+1.Bidder financial standing: The bidder should not be under liquidation, court receivership
+or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect
+with bid.
+
+2. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+3.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+4. ISO 9001: The bidder must have ISO 9001 certification.
+5.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+6.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+7.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+8.Successful bidder will have to ensure that adequate number of dedicated technical service
+personals / engineers are designated / deployed for attending to the Service Request in a
+time bound manner and for ensuring Timely Servicing / rectification of defects during
+warranty period, as per Service level agreement indicated in the relevant clause of the bid.
+
+9.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 3 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+                               6 / 7
+
+
+
+ 
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,1422 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/697589
+
+  Dated: 03-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 15-07-2020 18:00:00
+
+Bid Opening Date/Time 15-07-2020 18:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Uttar Pradesh
+
+Department Name Public Works Department Uttar Pradesh
+
+Organisation Name N/a
+
+Office Name Uttar Pradesh
+
+Total Quantity 5
+
+Item Category Solar Power Plant (Roof Top) for ONGRID System,
+Three Phase
+
+Bidder Turnover (Last 3 Years)  28 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  28 Lakh (s)
+
+Experience Criteria  1 Year (s)
+
+MSE Exemption for Years Of Experience and
+Turnover
+
+ Yes
+
+Startup Exemption for Years Of Experience
+and Turnover
+
+ Yes
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  30 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+Estimated Bid Value  9150000
+
+EMD Detail
+
+Advisory Bank Bank of India
+
+EMD Percentage(%) 2.00
+
+EMD Amount 183000
+
+                             1 / 14
+
+
+
+ 
+
+ePBG Detail
+
+Advisory Bank Bank of India
+
+ePBG Percentage(%) 5.00
+
+Duration of ePBG required (Months). 62
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+unit in charge ( electrical )
+Uttar Pradesh, Rajkiya Nirman Nigam Limited
+(Girish Kumar Verma)
+
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 30% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+                             2 / 14
+
+
+
+ 
+
+Solar Power Plant (Roof Top) For ONGRID System, Three Phase ( 5 set )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC A Grid Tied Photo
+Voltaic (SPV) power
+plant consists of
+
+SPV array, Module
+Mounting Structure,
+Power Conditioning
+Unit (PCU) consisting of
+Maximum Power Point
+Tracker (MPPT),
+Inverter, and Controls
+and Protections,
+interconnect cables
+and switches
+
+SPV array, Module
+Mounting Structure,
+Power Conditioning
+Unit (PCU) consisting of
+Maximum Power Point
+Tracker (MPPT),
+Inverter, and Controls
+and Protections,
+interconnect cables
+and switches
+
+PV Array Mounting Mounted on a suitable
+structure
+
+Mounted on a suitable
+structure
+
+Grid tied SPV system
+is
+
+Without battery and
+designed with
+necessary features to
+supplement the grid
+power during day time.
+
+Without battery and
+designed with
+necessary features to
+supplement the grid
+power during day time.
+
+Components and parts
+used in the SPV power
+plants including the PV
+modules, metallic
+structures, cables,
+junction box, switches,
+PCUs etc
+
+as per relevant BIS or
+IEC or international
+specifications,as
+applicable
+
+*
+
+Installation and
+testing for complete
+system
+
+Yes including Civil
+Work, Designing,
+Fabrication, Cabling
+Work with suitable
+Bolts, Nuts, Clamps,
+Connectors and testing
+etc
+
+Yes including Civil
+Work, Designing,
+Fabrication, Cabling
+Work with suitable
+Bolts, Nuts, Clamps,
+Connectors and testing
+etc
+
+INVERTER Rated out put power
+of inverter (Kw)
+
+30 30
+
+Switching device IGBT IGBT
+
+No. of Phase (in
+Nos.)
+
+1 1
+
+Inverter output wave
+form
+
+Pure sine wave Pure sine wave
+
+Technology MPPT Based *
+
+No.of MPPT per
+inverter (in Nos.)
+
+2 2
+
+No. of string at input 2 sets 2 sets
+
+                             3 / 14
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/jXnRUrMEuVE6BTCMV8EJxjBO3jVnMQZEEitMvE3RAEg
+
+
+ 
+
+side of inverter (
+input port +ve and
+-ve) ( hint: 1 sets
+contains 1 +ve and 1
+-ve port)
+
+Maximum power
+point tracker
+
+Integrated in the
+PCU/inverter to
+maximize energy
+drawn from the array
+
+Integrated in the
+PCU/inverter to
+maximize energy
+drawn from the array
+
+Operating Voltage
+Range of Inverter
+
+200 V to 1000 V 200 V to 1000 V
+
+Over load support at
+Input side, DC
+
+20% of Maximum Input
+Voltage for 3 phase
+system
+
+20% of Maximum Input
+Voltage for 3 phase
+system
+
+Maximum input
+current for each
+MPPT (in A)
+
+28.5 28.5
+
+Service condition Outdoor Outdoor
+
+Ingress protection
+rating of inverter
+
+IP 65 (for outdoor use) IP 65 (for outdoor use)
+
+Cooling medium for
+inverter
+
+Nature air cooled Nature air cooled
+
+Manual switch for
+disconnecting DC
+supply
+
+Yes Yes
+
+Inverter mounting
+type
+
+Wall Mounted Wall Mounted
+
+Standard accessories
+for Inverter
+
+MC4 DC Connectors, AC
+Connectors, Mounting
+bracket, Nuts and Bolts
+and inverter manuals
+
+*
+
+Isolation between input
+DC and output AC
+
+Yes *
+
+INVERTER OUT PUT Maximum current for
+3 phase inverter (in
+A)
+
+50 50
+
+Output voltage (in V) 415 for 3 phase 415 for 3 phase
+
+Invert auto trip at
+output side
+
+Lower : at 304 V,
+Higher : at 460 V with
+adjustable
+
+Lower : at 304 V,
+Higher : at 460 V with
+adjustable
+
+Frequency range 50 Hz +/-3 *
+
+Grid Frequency
+Synchronization range
+
++ 3 Hz or more *
+
+Grid Voltage tolerance -20% and +15% *
+
+Overall Efficiency (in
+%)
+
+>96 >96
+
+Efficiency as per IEC 61683 / *
+
+                             4 / 14
+
+
+
+ 
+
+Measurements for
+Power conditioners /
+Inverters
+
+IS:61683
+
+Environmental Testing
+for Power conditioners /
+Inverters
+
+as per IEC 60068-2
+(1,2,14,30) /Equivalent
+BIS Std
+
+*
+
+PCU/inverter shall be
+capable of complete
+automatic operation for
+
+wake-up,
+synchronization and
+shutdown.
+
+*
+
+PROTECTION FOR
+INVERTER
+
+Out put over current
+protection
+
+Yes *
+
+Out put over voltage
+protection
+
+Yes *
+
+Short circuit protection Yes *
+
+Overlod protection 125% for 30 sec 125% for 30 sec
+
+Over temperature
+protection
+
+Yes at 65 Deg. C
+Cooling Fan will auto
+switch ON
+
+Yes at 65 Deg. C
+Cooling Fan will auto
+switch ON
+
+Surge protection Metal Oxide Varistor
+(MOV)
+
+Metal Oxide Varistor
+(MOV)
+
+Insulation
+Resistance
+Monitoring
+
+Yes Yes
+
+Grid Monitoring
+protection
+
+Yes Yes
+
+THD (in %) < 3% *
+
+Power factor at
+rated out put power
+
+> 0.9 > 0.9
+
+Inverter body material Aluminium Casting *
+
+SERVICE CONDITION Operating
+temperature
+
+-25 to +60 deg. C -25 to +60 deg. C
+
+Relative Humidity (in
+%)
+
+> 95 % non condensing *
+
+Maximum altitude
+above sea level (in m)
+
+4000 *
+
+DISPLAY FEATURES ON
+INVERTER
+
+Type of display LCD LCD
+
+Display parameters DC Voltage, DC
+Current, AC Voltage, AC
+Current, Out put
+frequency, Power
+Factor
+
+DC Voltage, DC
+Current, AC Voltage, AC
+Current, Out put
+frequency, Power
+Factor
+
+Display for Generating
+power data
+
+Daily, Weekly, Monthly,
+Yearly with total
+generation
+
+*
+
+Generating power
+Data storage facility
+
+Yes for 2 Years from
+the date of
+commissioning
+
+Yes for 2 Years from
+the date of
+commissioning
+
+                             5 / 14
+
+
+
+ 
+
+Interface facility for
+transmitting the
+generating power
+data for cloud
+storage
+
+With GPRS Dongle
+without SIM card
+
+With GPRS Dongle
+without SIM card
+
+Net meter Approved by
+Government of
+India/State
+Government authority
+concerned for
+connecting to Grid
+
+Approved by
+Government of
+India/State
+Government authority
+concerned for
+connecting to Grid
+
+Add on items - DC
+DISTRIBUTION BOARD
+
+DC Distribution
+panel to receive the
+DC output from the
+array field
+
+Yes with surge
+arrestors
+
+Yes with surge
+arrestors
+
+Ingress protection
+(Enclosure
+protection) of DC
+Distribution Box
+
+IP65 IP65
+
+Material of bus bar
+and size
+
+Copper, size as per
+inverter rating
+
+Copper, size as per
+inverter rating
+
+Circuit Breaker for
+input side (DC side)
+for each inverter
+
+MCB 15 A MCB 15 A
+
+Add on items - CABLE
+FOR INPUT
+
+ISI Marked
+Connecting cables
+according to Inverter
+rating for each
+system
+
+PV Module to Inverter
+DC
+
+PV Module to Inverter
+DC
+
+Electric Cable for
+Input
+
+1C x 4 Sq. mm, Copper
+Cable (as per
+IS:694:2010 latest)
+
+1C x 4 Sq. mm, Copper
+Cable (as per
+IS:694:2010 latest)
+
+Cable Length for PV
+Module to Inverter, DC
+(in m)
+
+10 *
+
+Add on items - AC
+DISTRIBUTION BOARD
+
+AC Distribution
+Panel Board (DPB)
+for controlling the
+AC power from
+PCU/inverter
+
+3 Phase 415 Volt +/-
+10%, 50 HZ +/-3 Hz
+
+3 Phase 415 Volt +/-
+10%, 50 HZ +/-3 Hz
+
+Panel construction Metal clad, totally
+enclosed, floor
+mounted, air insulated,
+cubical type with
+change over switch
+
+Metal clad, totally
+enclosed, floor
+mounted, air insulated,
+cubical type with
+change over switch
+
+Ingress protection
+(Enclosure
+protection) of AC
+Distribution Box
+
+IP65 for outdoor IP65 for outdoor
+
+All switches and the
+circuit breakers,
+
+IS:60947 part I, II and
+III.
+
+IS:60947 part I, II and
+III.
+
+                             6 / 14
+
+
+
+ 
+
+connectors should
+conform to
+
+Panels designed for
+minimum expected
+ambient
+temperature
+
+45 deg. C 45 deg. C
+
+Circuit Breaker for
+output side (AC side)
+for each inverter
+
+MCB 100 A MCB 100 A
+
+Add on items - CABLE
+FOR OUTPUT
+
+ISI marked
+Connecting cables
+according to Inverter
+rating for each
+system
+
+From Inverter to Net
+Meter and to mains at
+LT Bus bar while in grid
+tied mode
+
+From Inverter to Net
+Meter and to mains at
+LT Bus bar while in grid
+tied mode
+
+Conformity of the
+specification for
+cable
+
+3.5C x 10 Sq. mm,
+Copper Cable (as per
+IS:694:2010 latest)
+
+3.5C x 10 Sq. mm,
+Copper Cable (as per
+IS:694:2010 latest)
+
+Cable length for
+output side (from
+inverter to Net
+Meter for each
+system ) (in m )
+
+5 5
+
+Other Add on Items Cabling work at
+input side for each
+system
+
+With PVC Conduit pipe
+with necessary clamps
+and screws
+
+With PVC Conduit pipe
+with necessary clamps
+and screws
+
+Cabling work at
+Output side for each
+system
+
+With G.I. Cable Tray
+with fitment
+accessories
+
+With G.I. Cable Tray
+with fitment
+accessories
+
+Lightning arrestor for
+each unit
+
+Yes *
+
+Earthing for each
+inverter
+
+G.I. Pipe, G.I. Wires and
+earthing as per
+IS:3043-1987
+
+*
+
+Danger boards and
+signages
+
+1 No 1 No
+
+PV Module PV Module
+manufactured in
+
+India *
+
+PV Module conforming
+to
+
+IEC 61215/IS:14286
+latest for Crystalline
+silicon terrestrial
+
+*
+
+PV Moduels
+Constrution, Testing
+and Safety
+requirements
+
+as per IEC 61730 (Part
+1) and (Part 2) latest
+
+*
+
+PV Modules shall
+comply Salt Mist
+Corrosion testing
+
+as per
+IEC:61701/IS:61701
+latest
+
+*
+
+PV Module rating (in
+Wp)
+
+Range 250 - 1000 *
+
+                             7 / 14
+
+
+
+ 
+
+Tolerance for rated out
+put power of PV Module
+
++/-3% *
+
+No. of PV Module for
+each solar power plant
+system
+
+- *
+
+The peak-power point
+voltage and the peak-
+power point current of
+any supplied module
+
+not vary by more than
+2 %
+
+*
+
+Protective devices
+against surges at the
+PV module
+
+Yes *
+
+Material for Module
+Frame (Corrosion
+resistant)
+
+Anodized aluminum *
+
+Each PV Moudle supply
+with
+
+IV Curve sheet at STC *
+
+Each PV Module shall
+supply with RF ID tag
+with complet
+information about PV
+Modules
+
+Yes *
+
+ARRAY STRUCTURE Material of mounting
+structure
+
+Hot dip galvanized MS
+mounting structures
+
+*
+
+Angle of inclination as
+per the site conditions
+to take maximum
+insolation
+
+Yes for each mounting
+structure
+
+*
+
+Material of mounting
+structure for mounting
+the modules/
+panels/arrays
+
+Structural Steel, Grade:
+E300 (as per
+IS:2062:2011 latest)
+
+*
+
+Galvanization of the
+mounting structure
+
+as per IS:4759 latest *
+
+Structural material
+shall be corrosion
+resistant and
+electrolytically
+compatible
+
+Module frame,
+fasteners, nuts and
+bolts
+
+*
+
+Material of fastners Steel as per IS:1367
+(Pt.1):2002 latest
+
+*
+
+The structures design Designed to allow easy
+replacement of any
+module
+
+*
+
+Civil structures As per the load baring
+capacity of the roof and
+the suitable structures
+based on the quality of
+roof
+
+*
+
+                             8 / 14
+
+
+
+ 
+
+The total load of the
+structure (when
+installed with PV
+modules)
+
+Less than 60 kg/m2. on
+the terrace
+
+*
+
+Minimum clearance of
+the structure from the
+roof level
+
+300 mm *
+
+JUNCTION BOX The junction boxes Provided in the PV
+array for termination of
+connecting cables
+
+*
+
+Junction Box on PV
+Module
+
+Sealed type *
+
+Material of Junction
+Box
+
+FRP (Fibre reinforced
+plastics)
+
+FRP (Fibre reinforced
+plastics)
+
+Ingress protection
+(Degree of Protection)
+for Junction Box
+
+IP65 *
+
+Wires/cables
+termination
+
+Through Cable Lugs *
+
+Input and output
+termination
+
+Through single or
+double compression
+cable glands.
+
+*
+
+Copper bus
+bars/terminal blocks
+housed in the junction
+box with suitable
+termination threads
+
+Yes *
+
+Provision of earthing Yes *
+
+Surge protection device
+for each junction box
+
+Yes *
+
+Wind Load The Mounting
+structure shall be so
+designed to
+withstand the speed
+for the wind zone of
+the location where a
+PV system is
+proposed to be
+installed
+
+Yes Yes
+
+Compliance to wind
+velocity test for the
+Mounting structure
+of PV System
+
+as per IS 875:1987 part
+3 latest
+
+as per IS 875:1987 part
+3 latest
+
+Regional wind
+withstand capacity
+which the Mounting
+structure of PV
+system support is
+suitable to
+withstand (in
+
+180 180
+
+                             9 / 14
+
+
+
+ 
+
+Km/Hour)
+
+WARRANTY &
+GUARANTEE
+
+Minimum guarantee
+for maintaing of out
+put peak watt
+capacity
+
+> / = 90% at the end of
+10 years and >/= 80%
+at the end of 25 years
+
+> / = 90% at the end of
+10 years and >/= 80%
+at the end of 25 years
+
+Warranty for PV
+Modules from the date
+of supply as per MNRE
+specn
+
+>/=25 Years *
+
+The Warranty Card Contain the details of
+the system and
+information about the
+system and conditions
+of warranty
+
+*
+
+OPERATION and
+MAINTENANCE MANUAL
+for each solar PV
+module shall be furnish
+to the buyer /
+consignee
+
+Yes *
+
+All the test reports and
+certificates shall be
+furnish by the seller to
+buyer / consignee on
+demand
+
+Yes *
+
+Minimum area required
+for installation Solar
+panels (sq. mt) - Must
+declare in Sq. Mtr.
+
+- *
+
+Minimum area required
+for installation of Solar
+Inverter (sq. mt) - -
+Must declare in Sq. Mtr.
+
+- *
+
+Minimum area required
+for installation of Net
+Meter (sq. mt) - - Must
+declare in Sq. Mtr.
+
+- *
+
+In case of Grid failure,
+or low or high voltage
+
+Solar PV system out of
+synchronization and
+disconnected from the
+Grid
+
+*
+
+Provision for Isolation
+of inverter output with
+respect to the Grid
+
+Provided with 4 Pole
+Isolator
+
+*
+
+Locking facility for
+isolation switch
+
+Yes *
+
+CERTIFICATIONS PV Modules shall
+comply with BIS
+compulsory registration
+scheme and certificates
+shall furnish to buyer /
+
+Yes *
+
+                            10 / 14
+
+
+
+ 
+
+consignee on demand
+
+BIS CRS Certificate for
+PV Module
+
+as per IS:14286 (for
+Crystalline Silicon
+Terrestrial Photovoltaic
+(PV) modules )
+
+*
+
+BIS CRS Number - Must
+declare
+
+- *
+
+Availability of type test
+reports ofm Wind Load
+withstand test for
+Mounting strucutre
+including calculation
+sheet from Central
+Govt., Lab/NABL.ILAC
+acreediated lab to
+prove conformity of the
+specification and
+agreed to furnish test
+reports and certif
+
+Yes *
+
+Availability of type
+test reports for
+PCU/Inverter, PV
+Module to prove the
+conformity of the
+specifiction from
+
+Central Govt.LAB Central Govt.LAB
+
+Report Number - Must
+declare
+
+- *
+
+Report date - Must
+declare
+
+- *
+
+Name of Lab - Must
+declare
+
+- *
+
+Address of lab - Must
+declare
+
+- *
+
+Agreed to furnish all
+the test reports and
+certification to buyer /
+consignee on demand
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Subhash Chand 206001,UPRNN Ltd.
+Electrical Unit Etawah
+
+5  30
+
+                            11 / 14
+
+
+
+ 
+
+Bid Specific Additional Terms and Conditions
+
+1.Without prejudice to Buyer’s right to price adjustment by way of discount or any other right
+or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a
+written notice to the Seller, if:
+i) The Seller fails to comply with any material term of the Contract.
+ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within
+the stipulated Delivery Period or such inability otherwise becomes apparent.
+iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery
+Period and/or to replace/rectify any rejected or defective Material(s) promptly.
+iv) The Seller becomes bankrupt or goes into liquidation.
+v) The Seller makes a general assignment for the benefit of creditors.
+vi) A receiver is appointed for any substantial property owned by the Seller.
+vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has
+placed the Purchase Order on the Seller.
+
+2. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+3.Pre-dispatch inspection at Seller premises (Fee/Charges to be borne by the BUYER): Before
+dispatch, the goods will be inspected by Buyer / Consignee or their Authorized
+Representative or by Nominated External Inspection Agency (independently or jointly with
+Buyer or Consignee as decided by the Buyer) at Seller premises (or at designated place for
+inspection as declared / communicated by the seller) for their compliance to the contract
+specifications. Fee/Charges taken by the External inspection Agency and any external
+laboratories testing charges shall be borne by the Buyer. For in-house testing, the Sellers will
+provide necessary facilities free of cost. Seller shall notify the Buyer through e-mail about
+readiness of goods for pre-dispatch inspection and Buyer will notify the Seller about the
+Authorized Representative/ Nominated External Inspection Agency and the date for testing.
+The goods would be dispatched to consignee only after clearance in pre-dispatch inspection.
+Consignee's right of rejection as per GTC in respect of the goods finally received at his
+location shall in no way be limited or waived by reason of the goods having previously been
+inspected, tested and passed by Buyer/ Consignee or its Nominated External Inspection
+Agency prior to the goods' shipment. While bidding, the sellers should take into account 7
+days for inspection from the date of email offering the goods for inspection. Any delay in
+inspection beyond 7 days shall be on the part of the buyer and shall be regularised without
+Liquidated Damages.
+
+4.Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt
+also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in
+the name of UPRNN LTD A/C (Name of the Seller). The bank should certify on it that the
+deposit can be withdrawn only on the demand or with the sanction of the pledgee. For
+release of Security Deposit, the FDR will be released in favour of bidder by the Buyer after
+making endorsement on the back of the FDR duly signed and stamped along with covering
+letter. Successful Bidder has to upload scanned copy of the FDR document in place of PBG
+and has to ensure delivery of hard copy of Original FDR to the Buyer within 15 days of award
+of contract.
+
+5.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+6.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents
+sought in the Bid document, ATC and Corrigendum if any.
+
+7. ISO 9001: The bidder must have ISO 9001 certification.
+8.The bidder is required to upload, along with the bid, all relevant certificates such as BIS
+
+licence, type test certificate, approval certificates and other certificates as prescribed in the
+Product Specification given in the bid document.
+
+9.To be eligible for award of contract, Bidder / OEM must possess following Certificates / Test
+Reports on the date of bid opening (to be uploaded with bid): TO BE UPLOAD.
+
+                            12 / 14
+
+
+
+ 
+
+10.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+11.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial
+year, should be as indicated in the bid document. Documentary evidence in the form of
+certified Audited Balance Sheets of relevant periods or a certificate from the Chartered
+Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than
+3 year old, the average turnover in respect of the completed financial years after the date of
+constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of
+CATEGORY RELATED TO primary product having highest bid value should meet this criterion.
+
+12.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+13.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+14.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+15.Warranty period of the supplied products shall be 5 years from the date of final acceptance
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+16.Procurement under this bid is reserved for purchase from Micro and Small Enterprises from
+the State of Bid Inviting Authority whose credentials are validated online through Udyog
+Aadhaar for that product category. If the bidder wants to avail the reservation benefit, the
+bidder must be the manufacturer of the offered product in case of bid for supply of goods.
+Traders are excluded from the purview of Public Procurement Policy for Micro and Small
+Enterprises. In respect of bid for Services, the bidder must be the Service provider of the
+offered Service. Relevant documentary evidence in this regard shall be uploaded along with
+the bid in respect of the offered product or service.
+
+17.The Bidder / OEM {themselves or through reseller(s)}, should have executed project for
+supply and installation / commissioning of same or similar Category Products during
+preceding 3 financial years (i.e. current year and three previous financial years) as on
+opening of bid, as per following criteria:
+ 
+(i) Single order of at least 35% of estimated bid value; or
+(ii) Two orders of at least 20% each of estimated bid value; or
+(iii) Three orders of at least 15% each of estimated bid value.
+Satisfactory Performance certificate issued by respective Buyer Organization for the above
+Orders should be uploaded with bid. In case of bunch bids, the Category related to primary
+product having highest bid value should meet this criterion
+
+This Bid is also governed by the General Terms and Conditions
+
+                            13 / 14
+
+https://gem.gov.in/termsCondition
+
+
+ 
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                            14 / 14
+
+http://www.tcpdf.org
+

@@ -1,0 +1,300 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/710916
+
+  Dated: 15-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 25-07-2020 12:00:00
+
+Bid Opening Date/Time 25-07-2020 12:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Communications
+
+Department Name Department Of Posts
+
+Organisation Name Department Of Posts
+
+Office Name Wb Postal Circle, Department Of Posts, O/o The Ch
+Pmg, Wb Circle, Kolkata-700012
+
+Total Quantity 8
+
+Item Category dot matrix printers
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Dot Matrix Printers ( 8 pieces )
+
+Technical Specifications
+
+                               1 / 4
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Specification Number of Pins
+(Nos.)
+
+9 24, 9
+
+Number of Columns
+(Nos.)
+
+80 136, 80
+
+Print Speed at Draft
+Mode at 10 cpi (cps)
+
+260 Any applicable numeric
+value
+
+Print Speed at High
+Speed Draft Mode at
+10 cpi (cps)
+
+347 Any applicable numeric
+value
+
+Print Speed at NLQ
+Mode at 10 cpi for 9 pin
+only (cps)
+
+65 *
+
+Print Speed at LQ Mode
+at 10 cpi for 24 pin only
+(cps)
+
+0 *
+
+Input Data Buffer
+Capacity (KB)
+
+100 100
+
+Auto share feature No *
+
+Parallel Port Available *
+
+USB Available *
+
+Network Interface ( LAN
+)
+
+Not Available *
+
+Over all dimensions
+(Length x Width x
+Height) (mm)
+
+- *
+
+Weight (Kgs) 4.1 *
+
+Power Supply 230 V AC *
+
+Power Consumption-
+max in Print Mode
+(watts)
+
+27 *
+
+Power consumption-
+max in Standby Mode
+(watts)
+
+1 *
+
+BIS Registration under
+CRS of Meity
+
+Yes *
+
+BIS Registration
+Number
+
+- *
+
+Availability of test
+reports from Central
+Govt /NABL / ILAC
+accredited Lab showing
+conformity to the
+specification
+
+No *
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/UG9mWKy-gcDQHlnUfGeKz0_CeTTnv1uGJ1xDWLH23Q0
+
+
+ 
+
+If yes, Test Report
+Number
+
+- *
+
+If Yes, Test Report date - *
+
+If Yes, Name of Test lab - *
+
+If yes, Address of Test
+Lab
+
+- *
+
+On Site OEM
+Warranty (Years)
+
+2 2
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Barun Kumar
+Ghosh
+
+737103,O/o the Postmaster
+General, SIKKIM, Gangtok,
+Post Office- Rajbhawan, Pin-
+737103
+
+8  25
+
+Special terms and conditions for category dot matrix printers 
+
+1.As per notification of MEITY circulated vide letter no. F.No.33(1)/2017-IPHW..dated
+:14/09/2017, the minimum local content should be 55 percent to qualify as local or domestic
+manufacturer.
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+2.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 15 days time limit. If the Seller fails to complete
+service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product
+shall be charged as penalty for each week of delay from the seller. Seller can deposit the
+penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty
+amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than
+10% of the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+                               3 / 4
+
+https://gem.gov.in/termsCondition
+
+
+ 
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+http://www.tcpdf.org
+

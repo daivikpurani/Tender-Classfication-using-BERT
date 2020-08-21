@@ -1,0 +1,554 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/704935
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 14:00:00
+
+Bid Opening Date/Time 20-07-2020 14:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 80 (Days)
+
+Ministry/State Name Uttar Pradesh
+
+Department Name Medical Education Department Uttar Pradesh
+
+Organisation Name Sanjay Gandhi Post Graduate Institute Of Medical
+Sciences Lucknow
+
+Office Name Sgpgims Raibareily Road Lucknow
+
+Total Quantity 4
+
+Item Category Online UPS
+
+Bidder Turnover (Last 3 Years)  23 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  150 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  40 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 1.00
+
+EMD Amount 47600
+
+                               1 / 7
+
+
+
+ 
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 5.00
+
+Duration of ePBG required (Months). 62
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+Director, SGPGI
+Sgpgims Raibareily Road Lucknow, Medical Education Department Uttar Pradesh, Sanjay Gandhi
+Post Graduate Institute of Medical Sciences Lucknow , Account Number-10095237355 Name of
+Account -Director, SGPGI Name of Bank and Branch-State Bank of India, SGPGIMS, Lucknow-226014
+IFSC Code- SBIN0007789
+(Prof. R.k. Dhiman)
+
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 40% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+                               2 / 7
+
+
+
+ 
+
+Online UPS ( 4 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Generic Rating in KVA (KVA) 20.0 KVA 20.0 KVA
+
+Technology IGBT-PWM with inbuilt
+isolation transformer
+
+IGBT-PWM with inbuilt
+isolation transformer
+
+Input Power Three phase 300 V -
+450V sinewave,50Hz
+
+Three phase 300 V -
+450V sinewave,50Hz
+
+Output power Single phase 230V
++/-1% sinewave 50 Hz
+
+Single phase 230V
++/-1% sinewave 50 Hz
+
+Backup time
+(Minutes)
+
+120 120
+
+Minimum VAH (VAH) 72000 72000
+
+Warranty for UPS
+(Years)
+
+5 5
+
+Movable trolly for
+Batteries
+
+Without trollery but
+with rack
+
+Without trollery but
+with rack
+
+Warranty for battery 2 2
+
+Degree of Protection IP21 IP21
+
+Cabling 5 meters for
+input and out put
+
+With With
+
+Paralleling kit for
+synchronising
+
+With With
+
+Installation and
+Commissioning
+
+Yes *
+
+Constructional Minimum thickness of
+M.S.Sheet Enclosure
+duly painted (mm)
+
+1.2 *
+
+Type of Battery SMF-VRLA conforming
+to JISC:8702(Pt.I,II&III)
+
+SMF-VRLA conforming
+to JISC:8702(Pt.I,II&III)
+
+Functional Maximum overshoot
+and Under shoot of
+output rated voltage
+
+4 *
+
+Voltage Regulation
+from no load to full load
+(%)
+
+< / = 3% *
+
+20% Overload limit
+for minimum 10
+minutes
+
+Yes Yes
+
+Overall Efficiency
+(%)
+
+>/=90% >/=90%
+
+                               3 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/MFv9YDDlTVvyLl7NXSqS_09c1N_XeoxRm6bzTMvxhOg
+
+
+ 
+
+Total Harmonic
+Distortion(THD) (%)
+
+Maximum 3% *
+
+50% Overload limit
+for minimum 1
+minutes
+
+Yes Yes
+
+Protection Protection for under
+voltage at battery
+terminal at 10.5V per
+12 V battery
+
+Yes *
+
+Protection of Over
+voltage,Short Circuit &
+over load at UPS output
+terminal
+
+Yes *
+
+Metering And
+Indications
+
+Digital Metering in UPS
+for AC Input
+Voltage,Output AC Volt
+age,Current,Frequency,
+Battery Voltage and
+Current
+
+Yes *
+
+Indicators for mains
+presence,Battery
+charging and
+discharging,Output
+Over Load, Low Battery
+Voltage
+
+Yes *
+
+Reports And
+Certification
+
+Damp Heat : in
+accordance with
+IS:9000(part
+5/sec.2)1981 at
+Temperature of 40
+degree C,two cycles of
+(12+12) hours each
+2007)
+
+Yes *
+
+Dry Heat Test : in
+accordance with
+IS:9000 (part
+3/sec.5)1977
+(reaffirmed 2007) at 55
+degree C for 16 hrs
+
+Yes *
+
+Cold Test : in
+accordance with
+IS:9000 (Part
+2/Sec.4)1977
+(Reaffirmed 2007) at
+-10 degree C for 4 hrs.
+
+Yes *
+
+Availability of the Type
+Test Report from
+Central Govt.
+/NABL/ILAC Accredited
+lab covering all
+technical requirements.
+
+Yes *
+
+Type Test Certificate - *
+
+                               4 / 7
+
+
+
+ 
+
+No.
+
+Type Test Certificate
+date
+
+- *
+
+Name of Lab - *
+
+Address of Lab - *
+
+As per Meity
+(Government of India)
+guidelines UPS shall
+have valid BIS CRS
+certifications as
+applicable
+
+Not applicable
+presently
+
+*
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 ISHWAR CHANDRA
+NAWANI
+
+226014,SANJAY GANDHI
+POSTGRADUATE INSTITIUTE
+OF MEDICAL SCIENCES
+LUCKNOW 226014
+
+4  60
+
+Special terms and conditions for category Online UPS 
+
+1.Calculation of Minimum VAH based on Back up time Minimum VAH requirements would be
+calculated on the basis of following: (VAH Calculation: Battery Voltage x Battery Ah x No. of
+Batteries = VAH)UPS Rating15 Minutes30 Minutes60 Minutes90 Minutes120 Minutes180
+Minutes240 Minutes1 KVA400 VAH800 VAH1600 VAH2400 VAH3200 VAH4800 VAH6400
+VAH2 KVA800 VAH1600 VAH3200 VAH4800 VAH6400 VAH9600 VAH12800 VAH3 KVA1200
+VAH2400 VAH4800 VAH7200VAH9600 VAH14400 VAH19200 VAH5 KVA2000 VAH4000
+VAH8000 VAH12000 VAH16000 VAH24000 VAH32000 VAH6 KVA2400 VAH4800 VAH9600
+VAH14400 VAH19200 VAH28800 VAH38400 VAH7.5 KVA3000 VAH6000 VAH12000
+VAH18000 VAH24000 VAH36000 VAH48000 VAH10 KVA4000 VAH8000 VAH16000
+VAH24000 VAH32000 VAH48000 VAH64000 VAH15 KVA6000 VAH12000 VAH24000
+VAH36000 VAH48000 VAH72000 VAH96000 VAH20 KVA8000 VAH16000 VAH32000
+VAH48000 VAH64000 VAH96000 VAH128000 VAH30 KVA12000 VAH24000 VAH48000
+VAH72000 VAH96000 VAH144000 VAH192000 VAH40 KVA16000 VAH32000 VAH64000
+VAH96000 VAH128000 VAH192000 VAH256000 VAH60 KVA24000 VAH48000 VAH96000
+VAH144000 VAH192000 VAH288000 VAH384000 VAH80 KVA32000 VAH64000 VAH128000
+VAH192000 VAH256000 VAH384000 VAH512000 VAH100 KVA40000 VAH80000 VAH160000
+VAH240000 VAH320000 VAH480000 VAH640000 VAH
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+                               5 / 7
+
+
+
+ 
+
+2. ISO 9001: The bidder must have ISO 9001 certification.
+3.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+4.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+5.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+6.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+7.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial
+year, should be as indicated in the bid document. Documentary evidence in the form of
+certified Audited Balance Sheets of relevant periods or a certificate from the Chartered
+Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than
+3 year old, the average turnover in respect of the completed financial years after the date of
+constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of
+CATEGORY RELATED TO primary product having highest bid value should meet this criterion.
+
+8.Procurement under this bid is reserved for purchase from Micro and Small Enterprises whose
+credentials are validated online through Udyog Aadhaar for that product category. If the
+bidder wants to avail the reservation benefit, the bidder must be the manufacturer of the
+offered product in case of bid for supply of goods. Traders are excluded from the purview of
+Public Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the
+bidder must be the Service provider of the offered Service. Relevant documentary evidence
+in this regard shall be uploaded along with the bid in respect of the offered product or
+service.
+
+9.For fulfilling the experience criteria any one of the following documents may be considered
+as valid proof for meeting the experience criteria:
+a. Purchase Order copy along with Invoice(s) with self-certification by the bidder that
+supplies against the invoices have been executed.
+b. Execution certificate by client with order value.
+c. Any other document in support of order execution like Third Party Inspection release note,
+etc.
+
+10.The Bidder / OEM {themselves or through reseller(s)}, should have executed project for
+supply and installation / commissioning of same or similar Category Products during
+preceding 3 financial years (i.e. current year and three previous financial years) as on
+opening of bid, as per following criteria:
+ 
+(i) Single order of at least 35% of estimated bid value; or
+(ii) Two orders of at least 20% each of estimated bid value; or
+(iii) Three orders of at least 15% each of estimated bid value.
+Satisfactory Performance certificate issued by respective Buyer Organization for the above
+Orders should be uploaded with bid. In case of bunch bids, the Category related to primary
+product having highest bid value should meet this criterion
+
+11.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 3 days time limit. If the Seller fails to complete service
+
+                               6 / 7
+
+
+
+ 
+
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

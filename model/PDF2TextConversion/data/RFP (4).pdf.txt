@@ -1,0 +1,2679 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Projects & Development India Limited 
+( A Govt. of India Undertaking ) 
+
+Post Box No.125,A-14, Sector-1 , Noida - 201301 , 
+Dist. Gautambudh Nagar , Uttar Pradesh 
+Phone - 0120-2529842/43/47/51/53/54 
+
+Fax - 01202529801/2541493 
+
+INVITATION TO BID  
+
+    
+
+To : 
+
+Open Vendor 
+
+ITB Number 
+
+Type of Bid / 
+
+Type of Opening 
+
+Date of Issue 
+
+Bid Closing Date 
+
+11/PNMM/E/3501/2018-19/101004 
+
+Two Part / 
+
+Public Opening 
+
+20.04.2018 
+
+10-05-2018 Time : 11:30:00 AM 
+
+ 
+
+ 
+
+Tech. Bid Opening Date 	11-05-2018 Time : 11:30:00 AM 
+
+Price Bid Opening Date & Time TO BE INTIMATED LATER 
+
+Venue of Bid Opening 	PDIL, NOIDA 
+
+Earnest money Deposit 	RS.3,30,000/- 
+
+Delivery/Completion Period 	WITHIN 03 MONTHS OF ISSUE OF LOI/PO 
+
+ 
+
+  
+
+    
+
+Projects & Development India Limited (PDIL) is a Govt. of India Undertaking under the administrative control of the 
+
+Deptt. of Fertilizers, Ministry of Chemicals and Fertilizers. PDIL invites e-bids thro' CPP Portal for the undermentioned 
+
+item, subject to the terms and conditions and technical specification attached here in. 
+
+ 
+
+    
+
+SL. No. Material Description Quantity Unit 
+
+10 Supply & installation of DC & DR SAP Server for 1 AU 
+
+SAP ERP System 
+
+Fa.r & on behalf of 
+
+/16  ectsi& 	velopment India Ltd. 
+11 
+
+. R.-Sahu 
+
+Addl. General Manager (MM) 
+
+
+
+11/PNMM/E/3501/2018-19/101004 
+Page 1 of 20 
+
+Supply & Installation of DC/DR SERVERS and SAN Switches including Hardware & Software 
+at PDIL Noida & Vadodara 
+
+List of Contents 
+
+SI. No. Description 
+
+1.  Annexure I : Pre-Qualification Criteria 
+
+2.  Annexure II : Instruction to Bidders 
+
+3.  Annexure III : General Conditions of Purchase (GCP) 
+
+4.  Annexure IV : Check List 
+
+5.  Annexure V : Schedule of Rate 
+
+6.  Annexure VI : Format of details of payment 
+
+7.  Annexure VII : Declaration 
+
+8.  Annexure VIII : Scope of Wok 
+
+9.  Annexure IX : Bank Guarantee for Earnest Money Deposit 
+
+10.  Annexure X : Security Cum Performance Bank Guarantee 
+
+
+
+11/PNMM/E/3501/2018-19/101004 
+Page 2 of 20 
+
+ANNEXURE-1 
+Supply & Installation of DC/DR SERVERS and SAN Switches including Hardware & Software 
+
+at PDIL Noida & Vadodara 
+
+Pre Qualification Criteria (PQC) 
+
+A.Technical 
+
+1 The bidder has to be authorized Partner of OEM (M/s ORACLE for DR/DC SERVERS and M/s 
+BROCADE for SAN SWITCHES) of proposed DR/DC SERVERS, SAN SWITCHES and other 
+Hardware and Software mentioned at ANNEXURE-V111 
+
+Note: DC SERVER shall be installed at PDIL Noida & DR SERVER shall be installed 	at PDIL 
+Vadodara office. 
+
+Authorization letter from OEM (M/s ORACLE & M/s BROCADE) must be submitted by the 
+bidder to quote for subject Enquiry. 
+
+2 The bidder must be in the business of IT Services (Supply, Installation & Maintenance of DR, DC 
+SERVERS and SAN SWITCHES) for two years within five years from the date of closing of the bids.  
+
+3 The bidder should have ISO 9001:2008 / ISO 9001:2015 certified services. Copies of certificate must 
+be enclosed. 
+
+4 The bidder must have successfully executed Work order / Purchase order (P.0) for IT Services 
+(Supply, Installation & Maintenance of DR & DC SERVERS and SAN SWITCHES), within the last 
+five (5) years, as follows: 
+
+At least one (1) Contract / P.O. of value not less than Rs. 211 lakh 
+
+or 
+
+At least two (2) Contract / P.O. of value not less than Rs. 132 lakh each 
+
+or 
+
+At least three (3) Contract / P.O. of value not less than Rs. 105 lakh each. 
+
+The bidder is required to submit the following documents to meet the above criteria: 
+
+• Purchase Order 
+
+• Completion Certificate 
+
+B. Financial 
+
+st 
+5. Average Annual Financial turnover during the last 3 years, ending 31 march 2017, should be at 
+
+least Rs. 79 lakh. 
+st 
+
+6. Net  worth shall be positive as on 31 march 2017. 
+
+Note: To meet the above criteria 5 & 6, the bidder is required to submit copy of Audited Annual Report 
+
+(Balance sheet and profit & loss account) for the last 03 (three) financial years ending 31.03.2017. 
+
+Bidder may also submit chartered accountant's certified balance sheet, if Audited Annual Report 
+
+(Balance sheet and profit & loss account) is not available for latest financial report (2016-2017). 
+
+
+
+11/PNMM/E/3501/2018-19/101004 
+Page 3 of 20 
+
+ANNEXIURE — II 
+
+Supply & Installation of DC/DR SERVERS and SAN Switches including Hardware & Software 
+at PDIL Noida & Vadodara 
+
+Instruction to Bidders (e-Procurement) 
+
+1.0 A bidder who meets the Pre-Qualification Criteria (PQC) as per ITB and intents to quote against this 
+ITB may download the bidding document from PDIL website http://pdllin.com   OR Central Public 
+Procurement Portal https://eprocure.gov.in/cppp  and submit the Bid complete in all respect as per 
+terms & conditions of contract on or before the bid closing date and time. 
+
+2.0 Submission of Bids:  Bids shall be submitted as detailed below: 
+
+2.1 Bidders to submit the bids online through the Central Public Procurement Portal for e-Procurement 
+at https://eprocure.gov.in/eprocure/app)  
+
+1) Possession of valid Digital Signature Certificate (DSC) and enrollment/registration of the 
+contractors/bidders on the e-procurement / e-tender portal is a prerequisite for e-tendering. 
+
+2) Bidder should do the enrollment in the e-procurement site using the "Click here to Enroll" option 
+available on the home page. Portal enrollment is generally free of charge. During 
+enrollment/registration, the bidders should provide the correct/true information including valid 
+email_id. All the correspondence shall be made directly with the contractors/bidders through 
+email_id provided. 
+
+3) Bidder need to login to the site thro' their user ID/ password chosen during 
+enrollment/registration. 
+
+4) Then the Digital Signature Certificate (Class II or class III Certificates with signing key usage) 
+issued by SIFY / TCS / nCode / eMudra or any Certifying Authority recognized by CCA India on 
+eToken / SmartCard, should be registered. 
+
+5) The DSC that is registered only should be used by the bidder and should ensure safety of the 
+same. 
+
+6) Contractor/Bidder may go through the ITB / tenders published on the site and download the 
+required ITB documents/schedules for the tenders he/she is interested. 
+
+7) After downloading / getting the ITB / Tender document/schedules, the Bidder should go thro' 
+them carefully and then submit the documents as asked, otherwise bid will be rejected. 
+
+8) If there are any clarifications, this may be obtained online thro' the tender site, or thro' the 
+contact details. Bidder should take into account the corrigendum published before submitting the 
+bids online. 
+
+9) Bidder then logs in to the site through the secured log in by giving the user id/ password chosen 
+during enrolment/registration and then by giving the password of the eToken / SmartCard to 
+access DSC. 
+
+10) Bidder selects the tender which he/she is interested in by using the search option & then 
+moves it to the 'my tenders' folder. 
+
+11) From my tender folder, he / she selects the tender to view all the details indicated. 
+
+12) It is construed that the bidder has read all the terms and conditions before submitting their 
+offer. Bidder should go through the tender schedules carefully and upload the documents as 
+asked; otherwise, the bid will be rejected. 
+
+
+
+11/PNMM/E/3501/2018-19/101004 
+Page 4 of 20 
+
+13) Bidder, in advance, should get ready the bid documents to be submitted as indicated in the 
+tender document/schedule and generally, they can be in PDF/xls/rar/zip/dwf formats. If there is 
+more than one document, they can be clubbed together and can be provided in the requested 
+format. Each document to be uploaded through online for the tenders should be less than 2 
+MB. If any document is more than 2MB, it can be reduced through zip/rar and the same can be 
+uploaded, permitted. Bidder Bid documents may be scanned with 100 dpi with black and white 
+option. However of the file size is less than 1 MB the transaction uploading time will be very 
+fast. 
+
+14) If there are any clarifications, this may be obtained through the sits, or during the pre-bid 
+meeting if any. Bidder should take into account the corrigendum published from time to time 
+before submitting the online bids. 
+
+15) The Bidders can update well in advance, the documents such as certificates, annual report 
+details etc., under My Space option and these can be selected as per tender requirements and 
+then send along with bid documents during bid submission. this will facilitate the bid 
+submission process faster by reducing upload time of bids. 
+
+16) Bidder should submit the Tender Fee/ EMD as specified in the tender. The original should be 
+posted/couriered/given in person to the Tender Inviting Authority, within the bid submission due 
+date & time for the tender. Scanned copy of the instrument should be uploaded as part of the 
+offer. 
+
+17) While submitting the bids online, the bidder reads the terms & conditions and accepts the same 
+to proceed further to submit the bid packets. 
+
+18) The bidder has to select the payment option as offline to pay the Tender FEE / EMD as 
+applicable and enter details of the instruments. 
+
+19) The details of the DD / any other accepted instrument, physically sent, should tally with the 
+details available in the scanned copy and the data entered during bid submission time. 
+Otherwise submitted bid will not be acceptable. 
+
+20) The bidder has to digitally sign and upload the required bid documents one by one as 
+indicated. Bidders to note that the very act of using DSC for downloading the bids and 
+uploading their offers shall be deemed to be a confirmation that they have read all sections and 
+pages of the bid document including General conditions of contract without any exception and 
+have understood the entire document and are clear about the requirements of the tender 
+requirements. 
+
+21) The bidder has to upload the relevant files required as indicated in the cover content. In case of 
+any irrelevant files, the bid will be rejected. 
+
+22) If the price bid format is provided in a spread sheet file like BoQ_xxxx.xls, the rates offered 
+should be entered in the allotted space only and uploaded after filling the relevant columns. the 
+Price Bid / BOQ template must not be modified / replaced by the bidder; else the bid submitted 
+is liable to be rejected for the tender. 
+
+23) The bidders are requested to submit the bids through online e-tendering system to the Tender 
+Inviting Authority (TIA) well before the bid submission end date & time (as per Server System 
+Clock). the TIA will not be held responsible for any sort of delay or the difficulties faced during 
+the submission of bids online by the bidders at the eleventh hour. 
+
+24) After the bid submission (i.e after Clicking "Freeze Bid Submission" in the portal), the 
+acknowledgement number, given by the system should be printed by the bidder and kept as a 
+record of evidence for online submission of bid for the particular tender and will also act as an 
+entry pass to participate in the bid opening date. 
+
+25) The time settings fixed in the server side & displayed at the top of the tender site, will be valid 
+for all actions of requesting, bid submission, bid opening etc., in the e-tender system. the 
+bidders should follow this time during bid submission. 
+
+
+
+11/PNMM/E/3501/2018-19/101004 
+Page 5 of 20 
+
+26) All the data being entered by the bidders would be encrypted using PK1 encryption techniques 
+to ensure the secrecy of the data. The data entered will not viewable by unauthorized persons 
+during id submission & not be viewable by any one until the time of bid opening. 
+
+27) Any bid document that is uploaded to the server is subjected to symmetric encryption using a 
+system generated symmetric key. Further this key is subjected to asymmetric encryption using 
+buyers/bid openers public keys. Overall, the uploaded tender documents become readable 
+only after the tender opening by the authorized bid openers. 
+
+28) The confidentiality of the bids is maintained since the secured Socket Layer 128 confidentiality 
+technology is used. Date storage encryption of sensitive fields is done. 
+
+29) The bidder should logout of the tendering system using the normal logout option available at 
+the top right hand corner and not by selecting the (X) exit option in the browser. 
+
+30) For any queries regarding e-tendering process, the bidders are requested to contact as 
+provided in the tender document. Parallel for any further queries, the bidders are asked to 
+contact over phone: 1-800-233-7315 or send a mail over to cppp-nicnic.in. 
+
+2.2 Bidders are required to submit their bids under three envelopes as detailed below: 
+
+Envelope (A)  
+
+1) Earnest Money Deposit (EMD) as per Cl. 6.0 below. 
+OR 
+
+A copy of valid Registration Certificate, in case of NSIC/MSE registered Companies. 
+
+2) Annexure-VI Format of Bank Details (RTGS) for on line payment, all the details duly filled in. 
+
+Envelope-B: Un-priced Technical and Commercial Bid which comprises the following 
+documents: 
+a. Documents in support of 'Pre-Qualification Criteria" as per Annexure-I, attached. 
+
+b. Complete ITB documents duly signed & stamped in each page with "Deviations"/"Exception" 
+sheet (if any) and all Annexure duly filled in. 
+
+C. Price Confirmation Copy - A copy of Priced offer (Annexure-V), keeping price blank (hiding 
+the price) and in place indicating "Quoted" or "-NI ", as a confirmation of price quoted against the 
+enquired item and all applicable Taxes & Duties, shall be submitted. 
+
+d. Copy of Check List as Annexure-IV enclosed, duly filled by the bidder making all the points 
+clear and not leaving any voids. 
+
+e. Photo copy of PAN card. 
+
+f. GSTN of your company and HSN / SAC Code for the item / service against which bid is 
+invited. 
+
+g. Any other document as per the requirement specified in the ITB 
+
+Envelope-C: Price Bid 
+
+Price Schedule as per Annexure-V with quoted rates in Rs. and GST, as applicable, signed and 
+stamped. 
+
+
+
+11/PNMM/E/3501/2018-19/101004 
+Page 6 of 20 
+
+3.0 Opening of Bids  
+
+Bid opening will be Public. Envelope A and B only will be opened on Technical Bid Opening Date. 
+Price Bids (Envelope C) of only those bidders will be opened which will be considered technically 
+and commercially acceptable. 
+
+4.0 Evaluation of Bids 
+
+Bids shall be evaluated for Pre-Qualification Criteria (PQC) first and Techno-Commercial Bid 
+Evaluation shall be carried out, only for those Bids which shall meet the Pre-Qualification Criteria 
+(PQC). 
+
+Bids shall be scrutinized on Techno-Commercial parameters. Bids having unacceptable deviation 
+may be rejected at this stage. However, clarifications shall be sought from bidder for any 
+shortcoming found in their Bid at this stage. 
+
+The PRICE BID shall be opened only of those bidders who will be technically and commercially 
+suitable. 
+
+5.0 Price Evaluation Criteria 
+
+Price Evaluation of Bids shall be done considering the quoted prices, by the bidders in the Price 
+Schedule, along with taxes and duties and bidder shall be selected for award on overall lowest rate 
+quoted considering input Tax Credit on account of GST. 
+
+In case of any discrepancy, unit rate shall prevail for calculation to arrive at the total price. 
+
+In case a bidder does not fill up any amount and leaves it blank or writing 'N/A' or put against any 
+item of Price Schedule, it shall be deemed that cost of such item (s) is included in other item by the 
+bidder elsewhere in the quoted price. 
+
+Incomplete Price Schedule may result into rejection of bid. 
+
+6.0 Earnest Money Deposit (EMD) 
+
+Earnest money deposit shall be submitted by way of Demand Draft/ Banker's Cheque only drawn 
+on any Scheduled/ Nationalized Bank in favour of 'Projects & Development India Ltd'., Noida. EMD 
+may also be submitted in the form of Bank Guarantee as per the format enclosed as Annexure-IX. 
+Quotation/Bid without EMD may not be considered.  However, NSIC/MSE registered Companies 
+are exempted from submission of EMD provided a valid Certificate in this regard is submitted. 
+
+6.1 EMD shall be refunded: 
+• To the unsuccessful bidders after acceptance of order by the successful bidder(s). 
+• To the successful bidder(s) after deposition of Security money/ confirmation by the Bank of the 
+
+Security cum Performance Guarantee submitted by bidder 
+
+No interest shall be payable on EMD. 
+
+6.2 EMD may be forfeited without prejudice to any other right or remedy of PDIL including but not 
+limited to following circumstances: 
+
+a) If a bidder withdraws his bid during the period of bid validity specified by the bidder 
+OR 
+
+b) In the case of successful bidder, if the bidder fails to accept the order 
+OR 
+
+c) If a bidder is found to have furnished Mis-representation or wrongful declaration/ presentation of 
+qualifying data and other facts in their Bid.1 
+
+7.0 	Validity of Bids: 
+
+
+
+11/PNMM/E/3501/2018-19/101004 
+Page 7 of 20 
+
+Prices quoted should remain valid for our acceptance for a minimum period of 90 days from the 
+date of opening of technical bids. PDIL will not allow any revision in prices within validity period 
+after sealed tender are opened. 
+
+8.0 	If at any later date, it is found that documents, information and data submitted by the Bidder in the 
+Bid, and based on which the Bidder has been considered eligible or successful or has been 
+awarded the Contract is incorrect or false to the extent that had the correct or true information 
+been made available to the OWNER at the time of Bid evaluation, the bid would have been 
+declared ineligible or unsuccessful, the Bidder shall be forthwith disqualified or, as the case may 
+be, the contract awarded based on such incorrect or false information shall be cancelled and the 
+EMD/PBG/Security Deposit shall be liable to be forfeited. 
+
+9.0 	Bidders are required to carefully go through the entire scope of ENQUIRY, terms and conditions, 
+and other requirements before quoting. They should feel free to contact PDIL before submission 
+of bid if they have any query on it. Once the bid is submitted, PDIL will presume that the bidder 
+has understood thoroughly the Scope of Supply along with terms & conditions and all these are 
+acceptable to them. 
+
+10.0 Bids shall be typed or written in indelible ink and must be free from corrections / erasing / 
+overwriting etc. Any changes made must be authenticated with initial by the Bidder. 
+
+11.0 Bid shall be ideally in conformity to the Scope of supply/work along with all Terms & conditions, 
+stipulated in the ENQUIRY. PDIL shall appreciate to receive a Bid having no deviation. However, 
+under unavoidable circumstance, a Bidder may submit Deviations in a separate sheet, which 
+PDIL at its own liberty may accept or reject. Deviations found elsewhere inside the Bid document 
+shall not be considered. Deviations including condition(s), if any, found in the Price bid shall liable 
+for rejection of a Bid in totality. 
+
+12.0 PDIL reserves the right to reject any or all the bids without assigning any reason whatsoever and 
+does not bind itself to accept the lowest or any other bid. All bids in which any of the prescribed 
+conditions are to be fulfilled or are incomplete in any respect are liable to be rejected. PDIL is at 
+liberty to take any of the following actions in case of this ITB: 
+
+a) to cancel the tender without reference to the bidders. 
+b) to postpone the due date and time. 
+
+13.0 	Bidders shall not be entitled to claim any costs, charges, expenses or incidentals for or in 
+connection with the preparation and submission of their bids even though Project & development 
+of India Limited may withdraw the enquiry/tender or reject all bids. 
+
+14.0 	SITE VISIT:  If needed, Bidder can visit site (PDIL) before quoting their rates. For site visit and any 
+clarifications please contact to: 
+
+HOD (MM) 
+Projects & Development India Limited 
+PDIL Bhawan, A-14, Sector 1, 
+Noida — 201 301 
+Gautam Budh Nagar (UP) 
+Tel: 0120-2529842/43/47/51/91 (Extn. 344, 301),Fax: 0120 — 2529801 
+e-mail: prsahupdilin.com; anjaliCa 	mmpdilin.com; 
+
+15.0 	Bids submitted thro' FAX and e-mail will not be accepted. No request from any bidder to PDIL to 
+collect the bid from airlines, cargo agents etc. shall be entertained by PDIL. 
+
+16.0 	PDIL reserve the rights to assess bidder's capability and capacity to perform the contract 
+
+17.0 	Bids must be submitted on or before the closing date and time well in advance. Bids received late 
+are liable for rejection & no complaint shall be entertained in this regard for any reason 
+whatsoever. 
+
+18.0 To know more about PDIL, please visit our website http://www.pdilin.com   
+
+
+
+11/PNMM/E/3501/2018-19/101004 
+Page 8 of 20 
+
+ANNEXURE-Ill 
+
+Supply & Installation of DC/DR SERVERS and SAN Switches including Hardware & Software 
+at PDIL Noida & Vadodara 
+
+General Conditions of Purchase (GCP) 
+
+1.0 Scope of Purchase Order (P.0) 
+
+The Scope of P.O shall be as per 'Technical Scope' and/or 'Schedule of Rates', attached to the 
+ITB, unless & otherwise it is modified, at subsequent stage of bidding. 
+
+2.0 Firm Price 
+
+Price to be quoted shall be firm and subject to no escalation whatsoever during the 
+delivery/completion period including extended period, if any, except for any statutory variations i.e. 
+change in the rate of tax & duty and/or inclusion of any new tax & duty. 
+
+Bid with variable price will not be accepted. 
+
+3.0 Price Basis  
+
+For DC Server: FOR PDIL, NOIDA including risk in transit duly delivered, installed and accepted. 
+
+For DR Server: FOR PDIL, Vadodara-390023 (Gujarat) including risk in transit duly delivered, 
+installed and accepted. 
+
+4.0 Taxes and duties 
+
+	
+
+4.1 	Goods & Service Tax (GST): GST shall be paid EXTRA as applicable as per GST law. Bidder 
+shall clearly indicate the present applicable rate of GST in Percentage (%) along with 
+corresponding HSN / SAC Code and enclose a copy of GST registration certificate along with the 
+un-priced offer 
+
+PDIL shall avail Input Credit against payment of GST. Same will also be considered while 
+evaluating the price bid. Relevant necessary documents shall be provided by the Contractor to 
+enable PDIL avail the above credit set up. 
+
+4.2 Bidders have to ensure that they should file the Tax return on time to avail input Tax credit, else 
+the same shall be deducted from EMD/Security Deposit/Running Bills. 
+
+	
+
+4.3 	Statutory variation in taxes and duties including imposition of any new tax & duty, within the 
+scheduled Delivery/Completion period, as per P.0, shall be paid at actual on production of 
+documentary evidence. 
+
+4.3.1 In case of delay in supply, if there is any increase in the rate of tax & duty and/or there is 
+imposition of any new taxi duty by statutory authorities, PDIL shall restrict the payment of taxes & 
+duties, as prevalent on the scheduled delivery/ completion period only, as mentioned in the P.O 
+and amendment(s) there to. 
+
+4.3.2 If there is any decrease in applicable rate of taxes & duties &/or there is any withdrawal of any tax 
+& duty by statutory authorities, during the delivery/ completion period including extended/amended 
+period of P.0, shall accrue to PDIL's a/c. 
+
+	
+
+4.4 	PDIL shall provide E-way bill i.e. Road Permit, if required, on written request by the Supplier. 
+
+	
+
+5.0 	Effective date of P.O:  Shall be the Date of issuance of LOI / P.O. 
+
+
+
+11/PNMM/E/3501/2018-19/101004 
+Page 9 of 20 
+
+	
+
+6.0 	Delivery / Completion Period  
+
+The delivery of the material including installation and acceptance at PDIL Noida and PDIL 
+Vadodara as per Scope of Work, shall be completed within 03 Months from the effective date of 
+Purchase Order. 
+
+	
+
+7.0 	Payment Terms  
+
+	
+
+7.1 	For Supply, Installation DC & DR Server 
+
+100% payment shall be released within 30 days after Supply, Installation and acceptance of the 
+complete DC & DR Server for SAP ERP System duly certified by the Engineer-in-charge of 
+PDIL, on the invoice. 
+
+7.1.1 The above payments shall be released subject to submission of Security cum Performance 
+Guarantee / Security Deposit, if-applicable, as mentioned herein below, failing which the same 
+amount shall be deducted from the Supplier's Bill(s). 
+
+	
+
+7.2 	For One year Comprehensive Onsite OEM Warranty Support 
+
+100% quarterly payment shall be released within 30 days of submission of invoice duly certified 
+by Engineer In Charge of PDIL. The quarterly bills shall be submitted by the contractor with all 
+necessary documents to the Operator of the Contract. 
+
+	
+
+7.3 	All payments will be made by account payee cheque or direct transfer in bank account 
+through RTGS. 
+
+	
+
+7.4 	Tax deduction at source: Income tax, as applicable as per income tax act, shall be 
+deducted at source from the Supplier's bills and a certificate towards this deduction shall be 
+issued to the Supplier. 
+
+	
+
+8.0 	Warranty/ Guarrantee 
+
+`Comprehensive Onsite OEM Warranty Support including Services of Engineer(s) to be 
+deputed by the OEM / Contractor at site to attend and rectify the fault on 24 x 7 basis' for all 
+Hardware/ software items supplied & Installed as listed at SI.No. 1 to 6.15 of Scope of Work 
+(Annexure-VIII) for (01) one year period from the date of Installation of complete DC & DR 
+SERVERs for SAP ERP System (DC SERVER to be installed at PDIL, Noida and DR SERVER 
+to be installed at PDIL, Vadodara Office). 
+
+	
+
+9.0 	Security cum Performance Guarantee/Security Deposit 
+
+Security cum Performance Guarantee/ Security Deposit shall be applicable for P.O value more 
+than Rs. 2.00 lakh. 
+
+	
+
+9.1 	Security cum Performance Guarantee / Security Deposit for an amount equivalent to 10% of P.O 
+value shall be submitted within 15 days of issuance of P.0, in the form of Demand Draft 
+(DD)/Banker's Cheque. The same shall be valid to cover delivery/completion period plus 
+warranty/guarantee period, if any. 
+
+Bank Guarantee (BG) for Security cum Performance Guarantee/ Security Deposit shall be 
+entertained for value 	Rs 1.00 lac. PBG shall be valid to cover delivery/completion period plus 
+Comprehensive Onsite OEM Warranty Support plus three (03) months claim period thereafter 
+PBG shall be issued by any Scheduled Commercial Bank. Format of PBG is enclosed herewith at 
+Annexure-VII. 
+
+In the absence of submission of Security cum Performance Guarantee/ Security Deposit, the 
+equivalent amount after adjustment of EMD amt., if any, shall be adjusted from the bills. 
+
+
+
+11/PNMM/E/3501/2018-19/101004 
+Page 10 of 20 
+
+9.2 
+
+	
+
+9.3 	No interest shall be payable on Security cum Performance Guarantee /Security Deposit. 
+
+	
+
+9.4 	PDIL, however, reserves the right to en-cash / forfeit the Performance Guarantee / Security 
+Deposit, if the Supplier fails to execute the P.O and/or abide by all the terms and conditions of the 
+P.O. 
+
+	
+
+9.5 	Performance Guarantee / Security deposit shall be refunded after 30 days of completion of 
+
+10.0 Price reduction clause 
+
+In the event of delay in delivery/completion beyond contractual delivery/completion period, price 
+reduction @ 0.5% per week or part thereof subject to maximum 5% of total order value shall be 
+recovered from supplier's / Contractor's bill(s). 
+
+11.0 Insurance 
+
+Necessary insurance(s) to cover accident risk for his employees loss of life, material etc. to crew 
+or the third party to be arranged by supplier at his cost. 
+
+12.0 Statutory obligation and Safety Rules  
+
+The Contractor will have to follow all safety rules and measures during contract period and will be 
+fully responsible for implementing rules, obligations and statutory provisions of government and all 
+the consequences in the event of any eventuality. 
+
+The Contractor shall be responsible to observe and comply with all statutory requirement including 
+contract labour act 1970, minimum wage act — 1948 and EPF act 1952 etc. including all 
+amendments thereof in vague both of central and state government. PDIL shall be kept 
+indemnified against any action brought against it or any violation / non —compliance of any act /acts, 
+all expenses for compliance of above acts and regulations shall be borne by the contractor. 
+
+The Contractor shall comply with at his cost all safety norms such as Fire and Safety regulation act 
+as applicable at site. 
+
+The Contractor shall be responsible for all risk involved in respect of their personnel and material at 
+site and arrange proper insurance coverage at his cost. 
+
+Personnel deployed should be medically fit to work should posses good conduct and should have 
+no past criminal record and shall maintain high standard discipline, decency and decorum. PDIL 
+reserves the right at its sole discretion to ask for replacement of any person employed by the 
+contractor. 
+
+13.0 Termination 
+
+In the event of unsatisfactory performance, PDIL reserves right to cancel part or whole of the 
+order / contract and make alternate arrangement at any time during currency of contract on risk & 
+costs of contractor and / or forfeit security deposit 
+
+14.0 Force Majeure 
+
+The act of God, epidemic, wars, revolution, and official strike shall be treated as force majeure 
+condition. In event of occurrence of such condition neither party shall be responsible for delay in 
+performance provided that it is notified within 07 days of its occurrence. The Supplier shall provide 
+justification by documentation countersigned by the local chamber of commerce. 
+
+
+
+11/PNM M/0501/2018-19/101004 
+Page 11 of 20 
+
+15.0 Arbitration  
+
+All cases of dispute arising during execution of contract shall be resolved by mutual discussion of 
+parties operating the Contract. In the event of failure to do so, matter will be settled as per 
+Arbitration and Conciliation Act, 1996, as amended from time to time. 
+
+However, wherever applicable, in case of settlement of commercial disputes between PSEs inter 
+SE and PSE(s) and Government Department(s), the same shall be settled through Permanent 
+Machinery of Arbitrators (PMA) setup in the Department of Public Enterprises(DPEs) as per the 
+following Clause: 
+
+"In the event of any dispute or difference relating to the Interpretation and application of the 
+provisions of the contracts, such dispute or difference shall be referred by either party for 
+Arbitration to the sole Arbitrator in the Department of Public Enterprises to be nominated by the 
+Secretary to the Government of India in-charge of the Department of Public Enterprises. The 
+Arbitration and Conciliation Act, 1996 shall not be applicable to arbitration under this clause. The 
+award of the Arbitrator shall be binding upon the parties to the dispute, provided, however, any 
+party aggrieved by such award may make a further reference for setting aside or revision of the 
+award to the Law Secretary, Department of Legal Affairs, Ministry of Law & Justice, Government 
+of India. Upon such reference the dispute shall be decided by the Law Secretary or the Special 
+Secretary/Additional Secretary, when so authorized by the Law Secretary, whose decision shall 
+bind the Parties finally and conclusively. The Parties to the dispute will share equally the cost of 
+arbitration as intimated by the Arbitrator". 
+
+The performance under this contract, shall not stop for any reason, whatsoever, during the said 
+dispute / proceedings, unless the service provider is specifically directed by PDIL to desist from 
+working in this behalf. 
+
+16.0 Jurisdiction  
+
+The P.O shall be deemed to have been entered into at NoidaNadodara/Sindri, for PDIL's different 
+Unit, as the case may be and all cases of action in relation to the P.O shall, therefore, be deemed 
+to have been assigned within its jurisdiction for respective Unit/location. 
+
+
+
+11/PNM M/E/3501/2018-19/101004 
+Page 12 of 20 
+
+ANNEXURE —IV 
+Check List 
+
+(Bidder must confirm point by point and strike out whichever is not applicable) 
+
+Supply & Installation of DC/DR SERVERS and SAN Switches including Hardware & Software 
+at PDIL Noida & Vadodara 
+
+Name of Bidder: 
+
+Offer No.: 
+
+SI. No. Description Bidder's 
+Confirmation/ 
+Acceptance/ 
+Comments 
+
+1.0 Price: Firm, Duly delivered, installed and accepted at PDIL as per Clause 
+3.0 of Annexure-Ill 
+
+Confirmed 
+
+2.0 Validity of Offer: 90 days from Technical Bid Opening Date Confirmed 
+
+3.0 Price Confirmation Copy - A copy of Priced offer keeping price blank 
+(hiding the price) and in place indicating "Quoted" or "Ni ", as a confirmation 
+of price quoted against the enquired item and all applicable Taxes & Duties, 
+shall be submitted. 
+
+Submitted 
+
+4.0 Delivery 	Period: 	The 	delivery 	of the 	material 	including 	installation 	and 
+acceptance at PDIL Noida and PDIL Vadodara as per Scope of Work, shall 
+be completed within 03 Months from the effective date of LOI/PO. 
+
+Accepted 
+
+5.0 Payment Terms: As per clause 7.0 of Annexure-Ill of ITB. Accepted 
+
+6.0 Price reduction clause: As per Clause 10.0 of Annexure-Ill of ITB Accepted 
+
+7.0 (A) Whether the Company is registered as MSE (Micro & Small Enterprises). If 
+"Yes" 	indicate the registration 	No. 	and 	enclose a copy of Registration 
+Certificate 
+
+(B) Whether the M S E Company is owned by SC I ST (Yes I No) 
+
+8.0 Copy of PAN card Submitted 
+
+9.0 Copy of GST Registration Certificate Submitted 
+
+10.0 Name, Designation, email id, Telephone Nos. & Fax No. of 
+Contact Person For this enquiry (please fill right side) 
+
+It is confirmed that in case any of the terms and conditions mentioned in this summary are at variance with thos 
+indicated anywhere else in our offer; the condition indicated in his summary shall prevail. 
+
+Signature of Bidder: 
+Name: 
+Stamp: 
+Date : 
+
+Note: Bidder must ensure that all the above information and documents (duly signed and stamped) are 
+furnished along with the Technical Bid. 
+
+
+
+11/PNM M/E/3501/2018-19/101004 
+Page 13 of 20 
+
+ANNEXURE —V 
+
+Supply & Installation of DC/DR SERVERS and SAN Switches including Hardware & Software 
+at PDIL Noida & Vadodara 
+
+Schedule of Rates (SOR) 
+Bidder's Name: 
+Offer No.: 
+	
+
+Dated: 
+
+SI. No. Description HSN / 
+SAC 
+Code 
+
+U/M Total Lumpsum 
+Price 
+(Rs.) 
+
+GST Extra on 
+Total Lumpsum 
+
+Price 
+
+, 
+1.0 Supply 	& 	Installation 	of 
+
+DC/DR SERVERS and SAN 
+Switches 	 including 
+Hardwares & Softwares etc. 
+at PDIL Noida & Vadodara. 
+Detailed Scope of Work shall 
+be as per Annexure-VIII. 
+
+Lumpsum @ 	%  
+
+2.0 'Comprehensive Onsite OEM 
+Warranty Support including 
+Services of Engineer(s) to be 
+deputed 	by 	the 	OEM/ 
+Contractor at site to attend 
+and rectify the fault on 24 x 7 
+basis' 	for 	all 	Hardware/ 
+software items supplied & 
+Installed as listed at SI.No. 1 
+to 6.15 of Scope of Work 
+(Annexure-VIII) for (01) 	one 
+year period from the date of 
+Installation of complete DC & 
+DR SERVERs for SAP ERP 
+System (DC SERVER to be 
+installed at PDIL, Noida and 
+DR SERVER to be installed 
+at PDIL, Vadodara Office) . 
+
+Lumpsum @ 	oh, 
+
+Note:  
+
+I. 	Bidders are required to quote their rate strictly as per above format. 
+
+Un-priced copy of this "SOR" keeping price blank (hiding the price) and in place indicating 
+"Quoted" or "SI ", as a confirmation of price quoted against the enquired item(s) and all applicable 
+Taxes & Duties (in %), shall be submitted along with un-priced Techno-commercial Bid in 
+Envelope—B. 
+
+III. 	Price Evaluation of Bids shall be done considering the quoted prices, by the bidders in the 
+`SOR', along with taxes and duties and bidder shall be selected for award on overall lowest rate 
+quoted considering input Tax Credit on account of GST. 
+
+Signature of Bidder 
+Co's Name and Address 
+
+Date & Stamp 
+
+
+
+11/PNMM/E/3501/2018-19/101004 
+Page 14 of 20 
+
+Supply & Installation of DC/DR SERVERS and SAN Switches including Hardware & Software 
+at PDIL Noida & Vadodara 
+
+Format of Details for payment 
+
+Bidders are required to submit the following details on the company's letter head for online transfer to 
+
+amount to their account: 
+
+1.0 Contractor Name / Company Name 
+
+Address: 
+
+Phone No. 
+
+E-mail ID 
+
+2.0 a.  Name of the Bank 
+
+b.  Address of the Branch 
+
+c.  Telephone No. 
+
+d.  9 Digit Code number of the Bank and Branch 
+appearing on the MICR Cheque issued by the 
+Bank 
+
+e.  11 Digit NEFT/IFSC Code of the Bank Branch 
+
+f.  Account Type (SB/CC/CA) 
+
+g.  Bank Account No.(as appearing on the Cheque) 
+
+h.  Permanent Account Number (PAN) Under 
+Income Tax Act. 
+
+i.  GST Registration Number 
+
+j.  Name of Authorized Signatory 
+
+k.  Contact Person Name 
+
+We hereby declare that the particulars given above are correct and complete 
+
+Authorized signatory of the bidder 
+
+Title 
+Designation 
+Date: 
+
+
+
+11/PNM M/E/3501/2018-19/101004 
+Page 15 of 20 
+
+ANNEXURE-VII 
+
+Supply & Installation of DC/DR SERVERS and SAN Switches including Hardware & Software 
+at PDIL Noida & Vadodara 
+
+(Self Declaration on Bidder's Letter Head as per below Performa) 
+
+DECLARATION  
+
+To , 
+
+Projects and Development India Lid. 
+
+Noida — 201301 
+
+Subject : ITB No. 	 Dt. 	  
+
+Sir , 
+
+We hereby declare that M/s  	 is neither put on Holiday nor Black-listed by any 
+Government / PSU / Private firm or Financial Institution . 
+
+Signature 
+
+Name: 
+
+Designation: 
+
+Seal of the Bidder 
+
+
+
+11/PNMM/E/3501/2018-19/101004 
+Page 16 of 20 
+
+Annexure-IX 
+
+BANK GUARANTEE FOR EARNEST MONEY DEPOSIT 
+(BID BOND) 
+
+(REQUISITE STAMP TO BE PURCHASED ON NAME OF BANK) 
+
+In 	consideration 	of 
+(Purchaser) having its registered office at CIFT buildings , PO: SINDRI , Dist-
+Dhanbad , Jharkhand — 828122 (hereinafter called "the company" which 
+expression shall unless repugnant to the subject or context includes its 
+successors and assigns) having agreed to exempt m/s. 
+	  (bidder) (hereinafter called 'the said 
+tenderer(s)' which expression shall unless repugnant to the subject or 
+context includes his successors and assigns) from the demand under the 
+terms 	 and 	 conditions 	of 	tender 
+no 	 for 	 
+	 (hereinafter called " the said tender" of such bid security 
+deposit for the due fulfilment 	by the said tenderer(s) of the terms and 
+conditions contained in the said tender on production 	of bank 
+guarantee 	for 7US $ 	 (Rupees / US dollar 
+	 only). 
+
+We 	 (the bank) hereinafter 
+referred to as 'the bank' do hereby undertake to pay to the company an 
+amount not exceeding 7 US $ 	  (rupees/ us 
+dollar 	  only) against any loss or damage caused to or 
+suffered by the said company by reason of any breach by the said tenderer(s) 
+of any of the terms and conditions contained in the said tender. The decision 
+of the company as to any such breach having been committed and loss 
+suffered shall be binding on us. 
+
+2. 	We 	 bank do hereby undertake to pay the 
+amounts due and payable under this guarantee without any demur merely 
+on a demand from the company stating that the amount claimed is due by 
+way of loss or damage caused to or would cause to or suffered by the 
+company by reason of any breach by the said tenderer(s) of any of the 
+terms or conditions contained in the said tender or by reason of the said 
+tenderer's failure to keep the tender open. Any such demand made on 
+the bank shall be conclusive as regards the amount due and payable by the 
+bank under this guarantee. However, our liability under this guarantee shall be 
+restricted to an amount not exceeding 	  (Rs/US 
+dollar 	 only). 
+
+3 	We (the bank) further agree that the guarantee herein contained shall 
+remain in full force and effect during the period that would be taken for the 
+finalisation of the said tender and that it shall continue to be enforceable till 
+the said tender is finally decided and order placed on the successful 
+tenderer and/or till all the dues of the company under/or by virtue of the 
+said tender have been fully paid and its claims satisfied or discharged 
+
+
+
+11/PNMM/E/3501/2018-19/101004 
+Page 17 of 20 
+
+or till a duly authorised officer, of the company certified that the terms 
+and conditions of the said tender have been fully and properly carried 
+out by said tenderer(s) and accordingly discharges the guarantee. 
+
+4. Unless previously cancelled by the company, this indemnity will remain in 
+force up to 	 months from date of issue 
+of 	the 	guarantee 	i.e 	up 	to 
+
+	 and will stand automatically cancelled on the expiry of the said period 
+than contemplated hereunder. unless demand or claim 	under this 
+guarantee is made on bank in writing within three (03) months from the date 
+of the expiry of this guarantee, all the rights of the company against as 
+hereunder shall be forfeited and bank shall be relieved and discharged from 
+all liabilities hereunder. 
+
+5. The Bank hereby declares that it has the power to issue this guarantee and 
+the undersigned has full power to do so. 
+
+Dated 	 day of 	 200. 
+
+Corporate seal 
+
+ 
+
+for 	 bank. 
+
+    
+
+
+
+11/PNMM/E/3501/2018-19/101004 
+Page 18 of 20 
+
+Annexure-X 
+
+SECURITY CUM PERFORMANCE BANK GUARANTEE 
+(STAMP PAPER TO BE PURCHASED ON NAME OF BANK) 
+
+This guarantee made this 	  day of 	 (Year in four digits) 
+
+between 	a 	company incorporated in (mention name of the Bank/ 
+
+company) 	having its registered office at 
+	  (hereinafter called the "BANK" which expression 
+shall unless repugnant to the context or contrary to the meaning thereof include 
+its successors and assigns) of the one part; and M/s. 	  
+(Purchaser), a company incorporated in India under the Indian Companies Act 
+1956 and having its registered office at PDIL Bhawan , A-14 , Sector-1 , Noida —
+201301, Dist. — Gautambudh Nagar (U.P) (hereinafter called the "PURCHASER" 
+which expression shall include its successors and assigns) of the other part. 
+
+WHERE AS M/s 	 (Seller) a Company incorporated in 
+	 and 	having 	its 	Registered 	Office 	at 
+	 (hereinafter called the "COMPANY" which expression 
+shall include its successor and 	assigns) 	have 	secured order Number 
+	 dt. 	 For supply/ supply-cum-erection of 	at a 
+
+total cost of 	 plus site supervision services on per diem rate basis as 
+applicable from the PURCHASER / OWNER. 
+
+WHEREAS 
+
+1. It is one of the terms of the said order that the COMPANY shall furnish 
+to the PURCHASER/OWNER a guarantee of a BANK which shall be for 
+10% of the value of the order and shall be valid for the duration of supply of 
+the services covered by the said order and the period of defects liability in 
+respect of the said services plus claim period of six months. 
+
+2. The BANK has at the request of the COMPANY agreed to give in favour of 
+the PURCHASER a guarantee in manner hereinafter appearing which the 
+PURCHASER has agreed to accept. 
+
+NOW THIS DEED WITNESSETH AS FOLLOWS:- 
+
+1. 	In pursuance of the said agreement and in consideration of the 
+premises the BANK hereby unconditionally guarantees to the 
+PURCHASER due observance and fulfillment by the COMPANY of the 
+terms of the said order relating to the said equipment and of the 
+performance warrantees which is a part of the said order and agrees and 
+undertakes that if the COMPANY fails to observe and fulfil the said terms of 
+the said order and/or the performance warrantees then the BANK shall 
+immediately pay to the PURCHASER on demand such sum or sums of 
+money to the extent of 	 being 10% of the value of the said 
+order on account of losses and damages suffered by the PURCHASER as 
+may be claimed by the PURCHASER by reason of such non-observance 
+and non-fulfillment by the company as aforesaid and shall also indemnify 
+
+
+
+11/PNM M/E/3501/2018-19/101004 
+Page 19 of 20 
+
+the PURCHASER against all losses and damages which may be suffered 
+by the PURCHASER aforesaid and against all costs, charges, expenses 
+which may be incurred by the PURCHASER in connection herewith. 
+
+2. The BANK hereby agrees that the decision of the PURCHASER as to the 
+failure on the part of the COMPANY to fulfil their obligations as aforesaid 
+and/or as to the amount payable by the BANK to the PURCHASER 
+hereunder shall be final, conclusive and binding on the BANK. 
+
+3. All compensations and payments received by the PURCHASER from Bank 
+on behalf of the COMPANY shall be regarded as payments in gross and in 
+the event of the COMPANY BEING wound-up, the PURCHASER will be 
+entitled to prove against the properties of the COMPANY in respect of the 
+whole of the COMPANY's indebtedness to the PURCHASER without 
+any right on the part of the BANK to stand in the PURCHASER's 
+place in respect of or to claim the benefits of such 	imposition and 
+payment or any security held by the PURCHASER until the 
+PURCHASER shall have received the full amount of the PURCHASER's 
+claims against the COMPANY. 
+
+4. This guarantee shall be in addition to and shall not affect or be affected by 
+any other security now or hereafter held by the PURCHASER on account of 
+the moneys hereby intended to be secured and the PURCHASER at its 
+discretion and without any further consent from the BANK and without 
+affecting the liability of the BANK and the rights of the PURCHASER against 
+the BANK may be compound within given time or other indulgence to or 
+make any other arrangement with the COMPANY and nothing done or 
+omitted to be done by the PURCHASER in pursuance of any authority or 
+permission contained in the guarantee shall affect or discharge the liability 
+of the BANK. 
+
+5. Though as between the COMPANY and the BANK, the BANK is SURETY 
+only, the BANK agrees that as between the PURCHASER and the BANK, 
+the BANK is principal debtor to the PURCHASER. 
+
+	
+
+6 	This guarantee shall not be affected by any change in the constitution of the 
+BANK or the COMPANY nor shall this guarantee be affected by any change 
+in the constitution of the PURCHASER or any amalgamation or 
+absorption with any other body corporated and this guarantee will be 
+available to or enforceable by such body corporate. 
+
+	
+
+7 	The guarantee shall be continuing guarantee and continue to be in force 
+notwithstanding the discharge of the COMPANY by operation of law and shall 
+cease only on payment in full to the PURCHASER by the BANK of the 
+amount hereby guaranteed and on the claim of the PURCHASER against the 
+COMPANY on any account whatsoever being satisfied. 
+
+	
+
+8 	In order to give full effect to the provisions of this guarantee the 
+PURCHASER will be entitled to act as if the BANK were the principal debtor 
+to the PURCHASER and the BANK hereby waives all or any of its rights as 
+surety. 
+
+
+
+11/PNMM/E/3501/2018-19/101004 
+Page 20 of 20 
+
+9. This guarantee is irrevocable except with the written consent of the 
+PURCHASER. 
+
+10. This guarantee shall remain valid up to 	 
+
+11. Any notice by way of request demand or otherwise hereunder may be sent 
+by post to the BANK addressed as aforesaid and if sent by post it shall 
+be deemed to have been given at the time when it would be delivered in 
+due course of post and in proving such notice when given by post it shall be 
+sufficient to prove that the envelope containing the notice was posted and a 
+certificate signed by an officer of the PURCHASER that the envelope so 
+posted shall be conclusive. 
+
+12. These presents shall be governed by and construed in accordance with 
+Indian Law. 
+
+13. Notwithstanding anything stated above, the BANK's liability to the 
+PURCHASER under this guarantee shall be limited to 	 and the 
+guarantee will remain valid up to 	provided that unless a claim under this 
+guarantee is made by the PURCHASER against the BANK within three (03) 
+months of the said date of expiry of this guarantee, the claim shall be forfeited 
+and the BANK shall be relieved and discharged from all liabilities under this 
+guarantee. 
+
+IN WITNESS whereof the BANK has hereunto affixed its common seal the 
+day and year first above written. 
+
+THE COMMON SEAL OF THE ABOVE NAMED BANK has hereunto been 
+affixed in the presence of 
+
+
+
+ANNEXUREVII 
+
+Scope Of Work For Supply and Installation of DC & DR 
+SERVERs for SAP ERP System (DC SERVER to be 
+
+installed at PDIL, Noida and DR SERVER to be installed 
+at PDIL, Vadodara Office) 
+
+tft 	311 1 
+PDIL 
+
+PNERP/1/18/2018 
+	
+
+1 
+
+DOCUMENT NO. 	REV 
+Page 1 of 12 
+
+Scope Of Work 
+
+For 
+
+Supply and Installation of DC & DR SERVERs 
+for SAP ERP System 
+
+(DC SERVER to be installed at PDIL, Noida and DR SERVER 
+to be installed at PDIL, Vadodara Office) 
+
+1 20.04.2018 20.04.2018 ISSUE FOR ENQUIRY 
+, 
+
+SJ MJS MJS 
+
+0  16.03.2018 16.03.2018 ISSUE FOR ENQUIRY SJ MJS MJS 
+REV 
+
+crIDI1A kirt• 
+
+REV DATE 
+/VI nnnn nnos4 ff., 
+
+EFF DATE 
+intrIt•-• 
+
+PURPOSE PREPD REVWD APPD 
+All rights reserved 
+
+
+
+ANNEXUREVI1 
+
+ 
+
+Scope Of Work For Supply and Installation of DC & DR 
+SERVERs for SAP ERP System (DC SERVER to be 
+
+installed at PDIL, Noida and DR SERVER to be installed 
+at PDIL, Vadodara Office) 
+
+  
+
+   
+titt3TroTa 
+PDIL 
+
+PNERP/1/18/2018 
+
+DOCUMENT NO. 
+
+1 
+
+REV 
+
+ 
+
+ 
+
+Page 2 of 12 
+
+ 
+
+    
+
+CONTENTS 
+
+SECTION NUMBER 
+DESCRIPTION SHEET NUMBER 
+
+1.0 
+	
+
+OBJECTIVE OF THE NOTICE INVITING TENDER 
+
+2.0 
+	
+
+SCOPE OF REQUIREMENTS 	
+5-12 
+
+3.0 SAP /ERP HARDWARE/SOFTWARE AVAILABLE 
+WITH PDIL 
+
+13-17 
+
+3-4 
+
+1 20.04.2018 20.04.2018 ISSUE FOR ENQUIRY 
+
+0  16.03.2018 16.03.2018 ISSUE FOR ENQUIRY 
+REV  REV DATE EFF DATE PURPOSE 
+
+FORM NO: 02-0000-0021F1 REV2 PREPD 
+SJ 
+
+SJ 
+
+REVWD 
+MJS 
+
+MJS 
+
+APPD 
+MJS 
+
+MJS 
+
+All rights reserved 
+
+
+
+Scope Of Work For Supply and Installation of DC & DR 
+SERVERs for SAP ERP System (DC SERVER to be 
+
+installed at PDIL, Noida and DR SERVER to be installed 
+at PDIL, Vadodara Office) 
+
+PNERP/1/18/2018 
+
+DOCUMENT NO. REV 
+
+1 
+
+Page 3 of 12 
+
+SJ 
+	
+
+MJS 
+	
+
+MJS 
+
+SJ 
+	
+
+MJS 
+	
+
+MJS 
+PREPD REVWD APPD 
+
+All rights reserved 
+
+ANNEXUREVII 
+
+1.0 OBJECTIVE OF THE REQUEST FOR TENDER 
+
+The Existing ERP Servers were procured in the year 2010 on turn key basis and M/s HCL 
+Technologies were the successful Bidder to whom the contract was awarded for SAP ERP 
+implementation at PDIL for all locations. 
+
+It may be pertinent to mention that on 08.02.2011 , SAP ERP was made operational at all location of 
+PDIL within record span of 10 month period by implementing all NINE Modules of SAP ERP . 
+
+ERP Modules covered for implementation on at PDIL: 
+
+HR(Human Resource) 
+PM (Plant Maintenance) 
+PS(Project Management) 
+FICO(Finance) 
+SD(Business Development) 
+QM(Inspection Department) 
+DMS(Document Management System) 
+BI(Business Intelligence) 
+MM(Materials Management) 
+
+Comprehensive maintenance contract for all SAP ERP SERVERS by original equipment supplier M/s 
+ORACLE, including SAP ERP Support services contract by M/s HCL are presently expiring from 
+01.04.2018. 
+
+In line with its Disaster Recovery(DR) implementation plan for PDIL , PDIL proposes 
+to get Supply and Installation of DC & DR SERVERs for SAP ERP System (DC 
+SERVER to be installed at PDIL, Noida and DR SERVER to be installed at PDIL, 
+Vadodara Office). 
+
+Note: Existing SAP ERP SERVERS installed at PDIL Noida shall run upto the 
+last cut of date till our entire DC & DR SERVERS are installed at PDIL Noida & 
+Vadodara. 
+
+1 20.04.2018 20.04.2018 ISSUE FOR ENQUIRY 
+
+0 16.03.2018 16.03.2018 ISSUE FOR ENQUIRY 
+REV 
+
+FORM 
+REV DATE EFF DATE PURPOSE 
+
+NO: 02-0000-0021F1 REV2 
+
+
+
+Scope Of Work For Supply and Installation of DC & DR 
+SERVERs for SAP ERP System (DC SERVER to be 
+
+installed at PDIL, Noida and DR SERVER to be installed 
+at PDIL, Vadodara Office) 
+
+tt ar4Te 
+
+PDIL 
+PNERP/1/18/2018 
+
+DOCUMENT NO. 
+
+Page 4 of 12 
+REV 
+
+ANNEXUREVI1 
+
+The intent of this Notice Inviting Tender (NIT) is to seek tenders from prospective 
+bidders for Supply and Installation of DC & DR SERVERs for SAP ERP System 
+(DC SERVER to be installed at PDIL, Noida and DR SERVER to be installed at 
+PDIL, Vadodara Office). 
+
+The successful bidder has to own the entire responsibility of making the 
+system operational. The bidder has to demonstrate successful operation of 
+the entire system as envisaged in the objectives mentioned above. PDIL's  
+obligations will be limited to providing adequate space and power. Bidders  
+are required to include all items and accessories required to make the 
+system complete and operational in their offer.  
+
+it  
+
+1 20.04.2018 20.04.2018 ISSUE FOR ENQUIRY SJ MJS MJS 
+
+0  16.03.2018 16.03.2018 ISSUE FOR ENQUIRY SJ MJS MJS REV  REV DATE EFF DATE PURPOSE PREPD REVWD APPD FORM NO: 02-0000-0021F1 REV2 
+All rights reserved 
+
+
+
+ANNEXUREUIll 
+
+Scope Of Work For Supply and Installation of DC & DR 
+SERVERs for SAP ERP System (DC SERVER to be 
+
+installed at PDIL, Noida and DR SERVER to be installed 
+at PDIL, Vadodara Office) 
+
+t ant Rff 
+PDIL. 
+
+PNERP/1/18/2018 
+
+DOCUMENT NO. 
+Page 5 of 12 
+
+1 
+
+REV 
+
+2.0 SCOPE OF REQUIREMENTS 
+
+3.0 Supply & Installation of the followings DC/DR SERVERS and SAN Switches 
+including Hardwares & softwares etc. at PDIL Noida & Vadodara : 
+
+Line Number Part Number Part Description Quantity 
+DC SERVERS, ERP, BU,PROD,SM 
+
+1 7113718 SPARC T8-1 server: model family 2 
+1.1 7113714 SPARC T8-1 server: base with 1 SPARC M8 
+
+32-core 5.0 GHz processor (for factory 
+installation) 
+
+2 
+
+1.2 7114454 One 32 GB DDR4-2400 registered DIMM (for 
+factory installation) 
+
+16 
+
+1.3 7111107 One 1.2 TB 10000 rpm 2.5-inch SAS-3 HDD 
+with marlin bracket (for factory installation) 
+
+8 
+
+1.4 SE6Y9MF1Z Filler panel for disk drives (for factory 
+installation) 
+
+8 
+
+1.5 7101673 Sun Storage Dual 16 Gb Fibre Channel PCIe 
+Universal HBA, Qlogic (for factory installation) 
+
+4 
+
+1.6 1109A-Z Sun Dual 10GbE SFP+ PCIe Low Profile 
+Adapter 
+
+4 
+
+1.7 2129A Sun 10Gbps Dual Rate SFP+ SR 8 
+1.8 7101675 2 Sun Storage 16 Gb FC short wave optics, 
+
+Qlogic (for factory installation) 
+4 
+
+1.9 333A-25-10-IN Power cord: India, 2.5 meters, IS1293 plug, C13 
+connector, 10 A (for factory installation) 
+
+4 
+
+_<- 	, 	Et,.. A 
+1 20.04.2018 20.04.2018 ISSUE FOR ENQUIRY SJ MJS MJS 
+
+0  16.03.2018 16.03.2018 ISSUE FOR ENQUIRY SJ MJS MJS REV 
+FORM NO: 
+
+REV DATE EFF DATE PURPOSE PREPD REVWD APPD 02-0000-0021F1 REV2 
+All rights reserved 
+
+
+
+1 
+
+REV 
+
+tat 11' 
+PDIL 
+
+PNERP/1/18/2018 
+
+DOCUMENT NO. 
+
+Page 6 of 12 
+
+Scope Of Work For Supply and Installation of DC & DR 
+SERVERs for SAP ERP System (DC SERVER to be 
+
+installed at PDIL, Noida and DR SERVER to be installed 
+at PDIL, Vadodara Office) 
+
+ANNEXUREVIi 
+
+1.1 7114063 Oracle Solaris with fallback-boot image and 
+Oracle VM Server for SPARC preinstall (for 
+factory installation) 
+
+2 
+
+1.11 B61304 Oracle Standard System Installation Service, 
+Site Audit: Servers - Group II 
+
+2 
+
+1.12 B59411 Hardware Freight Fee 2 
+
+ERP, BI, DEV, QA DEV 
+2 7112914 SPARC S7-2L server: model family 1 
+
+2.1 7112875 SPARC S7-2L server: base with 2 SPARC S7 
+8-core 4.27 GHz processors (for factory 
+installation) 
+
+1 
+
+2.2 7112886 Eight 2.5-inch SAS-3 drive cage (for factory 
+installation) 
+
+1 
+
+2.3 7112909 One 32 GB DDR4-2400 DIMM (for factory 
+installation) 
+
+8 
+
+2.4 7111102 One 600 GB 10000 rpm 2.5-inch SAS-3 HDD 
+with marlin bracket (for factory installation) 
+
+4 
+
+2.5 6331A-N 2.5-inch HDD filler panel (for factory 
+installation) 
+
+4 
+
+2.6 7101673 Sun Storage Dual 16 Gb Fibre Channel PCIe 
+Universal HBA, Qlogic (for factory installation) 
+
+2 
+
+2.7 1109A-Z Sun Dual 10GbE SFP+ PCIe Low Profile 
+Adapter 
+
+2 
+
+2.8 333A-25-10-IN Power cord: India, 2.5 meters, IS1293 plug, C13 
+connector, 10 A (for factory installation) 
+
+2 
+
+2.9 7114240 Oracle Solaris with fallback-boot image and 
+Oracle VM Server for SPARC preinstall (for 
+factory installation) 
+
+1 
+
+2.1 7102748 PCIe filler panel (for factory installation) 2 
+
+1 20.04.2018 20.04.2018 ISSUE FOR ENQUIRY SJ MJS MJS 
+0  16.03.2018 16.03.2018 ISSUE FOR ENQUIRY SJ MJS MJS REV 
+
+FORM 
+REV DATE EFF DATE PURPOSE PREPD REVWD APPD NO: 02-0000-0021F1 REV2 
+
+All rights reserved 
+
+
+
+Scope Of Work For Supply and Installation of DC & DR 
+SERVERs for SAP ERP System (DC SERVER to be 
+
+installed at PDIL, Noida and DR SERVER to be installed 
+at PDIL, Vadodara Office) 
+
+xft Arore 
+PDIL 
+
+PNERP/1/18/2018 
+
+DOCUMENT NO. 
+
+Page 7 of 12 
+REV 
+
+1 
+
+ANNEXUREVII 
+
+2.11 7113249 Oracle Storage 12 Gb SAS PCIe HBA, internal 
+(for factory installation) 
+
+1 
+
+2.12 7101675 2 Sun Storage 16 Gb FC short wave optics, 
+Qlogic (for factory installation) 
+
+2 
+
+2.13 2129A Sun 10Gbps Dual Rate SFP+ SR 4 
+2.14 7114234 Cable management arm (for factory installation) 1 
+2.15 B61304 Oracle Standard System Installation Service, 
+
+Site Audit: Servers - Group II 
+1 
+
+2.16 B59411 Hardware Freight Fee 1 
+
+UNIFIED STORAGE 
+3 7112311 Oracle ZFS Storage ZS5-2 appliance (top-level 
+
+PTO model) 
+1 
+
+3.1 7112312 Oracle ZFS Storage ZS5-2: model family 1 
+3.1.1 7112310 Oracle ZFS Storage ZS5-2: controller 1 
+3.1.2 333A-25-10-IN Power cord: India, 2.5 meters, IS1293 plug, C13 
+
+connector, 10 A (for factory installation) 
+2 
+
+3.1.3 5394A PCIe filler panel (for factory installation) 4 
+3.1.4 7111036 One 16 GB DDR4-2133 DIMM (for factory 
+
+installation) 
+24 
+
+3.1.5 7113645 Cable: 3 meters, mini SAS HD to mini SAS HD 
+(for factory installation) 
+
+4 
+
+3.1.6 B61971 Oracle Standard System Installation Service, 
+Without Site Audit: Storage Disk - Group III 
+
+1 
+
+3.1.7 B59411 Hardware Freight Fee 1 
+3.2 7112312 Oracle ZFS Storage ZS5-2: model family 1 
+
+3.2.1 7112310 Oracle ZFS Storage ZS5-2: controller 1 
+3.2.2 333A-25-10-IN Power cord: India, 2.5 meters, IS1293 plug, C13 
+
+connector, 10 A (for factory installation) 
+2 
+
+3.2.3 5394A PCIe filler panel (for factory installation) 4 
+
+;-) 	'''ktrGq;i1 
+1 20.04.2018 20.04.2018 ISSUE FOR ENQUIRY SJ MJS MJS 
+
+0  16.03.2018 16.03.2018 ISSUE FOR ENQUIRY SJ MJS MJS REV  REV DATE EFF DATE PURPOSE PREPD REVWD APPD FORM NO: 02-0000-0021F1 REV2 
+All rights reserved 
+
+
+
+ANNEXUREVII 
+
+Scope Of Work For Supply and Installation of DC & DR 
+SERVERs for SAP ERP System (DC SERVER to be 
+
+installed at PDIL, Noida and DR SERVER to be installed 
+at PDIL, Vadodara Office) 
+
+PNERP/1/18/2018 
+
+DOCUMENT NO. REV 
+
+1 
+
+Page 8 of 12 
+
+3.2.4 7111036 One 16 GB DDR4-2133 DIMM (for factory 
+installation) 
+
+24 
+
+3.2.5 7113645 Cable: 3 meters, mini SAS HD to mini SAS HD 
+(for factory installation) 
+
+4 
+
+3.2.6 B59411 Hardware Freight Fee 1 
+3.3 7113150 Oracle Storage Drive Enclosure DE3-24P: 
+
+model family 
+1 
+
+3.3.1 7113126 Oracle Storage Drive Enclosure DE3-24P: base 
+chassis (for factory installation) 
+
+1 
+
+3.3.2 7111107 One 1.2 TB 10000 rpm 2.5-inch SAS-3 HDD 
+with marlin bracket (for factory installation) 
+
+20 
+
+3.3.3 7113122 One 2.5-inch eMLC SAS SSD write flash 
+accelerator with marlin bracket (for factory 
+installation) 
+
+4 
+
+3.3.4 333A-25-10-IN Power cord: India, 2.5 meters, IS1293 plug, C13 
+connector, 10 A (for factory installation) 
+
+2 
+
+3.3.5 7113644 Cable: 1 meter, mini SAS HD to mini SAS HD 
+(for factory installation) 
+
+2 
+
+3.3.6 B61473 Oracle Standard System Installation Service, 
+Basic: Storage Disk - Group I 
+
+1 
+
+3.3.7 B59411 Hardware Freight Fee 1 
+
+TAPE LIBRARY 
+4 7101764 StorageTek SL150 modular tape library: model 
+
+family 
+1 
+
+4.1 7114334 StorageTek SL150 modular library system: base 
+with 30 activated cartridge slots, 1 IBM LTO7 
+half-height 8 Gb FC tape drive without Oracle 
+Key Manager compatibility, and rackmounting 
+kit 
+
+1 
+
+4.2 7114335 StorageTek LTO tape drive: 1 IBM LTO7 8 Gb 
+FC without Oracle Key Manager compatibility 
+for StorageTek SL150 (for factory installation) 
+
+1 
+
+4.3 7101769 StorageTek SL150 modular tape library: power 
+supply (for factory installation) 
+
+1 
+
+- 	I c, , , u._-, 	- 7 	-"."711 1 20.04.2018 20.04.2018 ISSUE FOR ENQUIRY SJ MJS MJS 
+0  16.03.2018 16.03.2018 ISSUE FOR ENQUIRY SJ MJS MJS REV 	REV DATE 	EFF DATE 
+
+FORM 
+PURPOSE PREPD REVWD APPD NO: 02-0000-0021F1 REV2 
+
+All rights reserved 
+
+
+
+PNERP/1/18/2018 
+
+DOCUMENT NO. 
+
+Page 9 of 12 
+REV 
+
+1 
+
+ANNEXUREVII 
+
+Scope Of Work For Supply and Installation of DC & DR 
+SERVERs for SAP ERP System (DC SERVER to be 
+
+installed at PDIL, Noida and DR SERVER to be installed 
+at PDIL, Vadodara Office) 
+
+4.4 333A-25-10-IN Power cord: India, 2.5 meters, IS1293 plug, C13 
+connector, 10 A (for factory installation) 
+
+2 
+
+4.5 B61983 Oracle Standard System Installation Service, 
+Without Site Audit: Storage Tape - Group III 
+
+1 
+
+4.6 B61977 Oracle Standard System Installation Service, 
+Basic: Storage Tape - Group I 
+
+1 
+
+4.7 B59411 Hardware Freight Fee 1 
+
+SAN SWITCHES 
+
+5 7111726 Brocade 6505 Fibre Channel Switch: model 
+family 
+
+2 
+
+5.1 7111716 Brocade 6505 Fibre Channel Switch with 
+twelve 16 Gb activated ports and 12 short wave 
+SFPs 
+
+2 
+
+5.1.1 B59411 Hardware Freight Fee 2 
+5.2 7111717 Brocade 5100 Series Fibre Channel Switch and 
+
+Brocade 6500 Series Fibre Channel Switch: 
+integrated power supply and fan, port side 
+exhaust air flow 
+
+2 
+
+5.2.1 B59411 Hardware Freight Fee 2 
+5.3 X333A-25-10- 
+
+IN-N 
+Pvvrcord,India,2.5m,IS1293,10A,C13 4 
+
+5.3.1 B59411 Hardware Freight Fee 4 
+5.4 7103770 Brocade rack rail kit, supports 17.23 inches 
+
+switches 
+2 
+
+5.4.1 B59411 Hardware Freight Fee 2 
+5.5 7111719 Brocade 6505 Fibre Channel Switch: activation 
+
+permit for twelve ports with 16 Gb short wave 
+SFPs 
+
+2 
+
+5.5.1 B59411 Hardware Freight Fee 2 
+5.6 B62001 Oracle Standard System Installation Service, 
+
+Without Site Audit: Switches - Group II 
+2 
+
+p',611 1 20.04.2018 20.04.2018 ISSUE FOR ENQUIRY SJ MJS MJS 
+0  16.03.2018 16.03.2018 ISSUE FOR ENQUIRY SJ MJS MJS REV 
+
+FORM 
+REV DATE EFF DATE PURPOSE PREPD REVWD APPD NO: 02-0000-0021F1 REV2 
+
+All rights reserved 
+
+
+
+Scope Of Work For Supply and Installation of DC & DR 
+SERVERs for SAP ERP System (DC SERVER to be 
+
+installed at PDIL, Noida and DR SERVER to be installed 
+at PDIL, Vadodara Office) 
+
+alrom 
+PDIL 
+
+PNERP/1/18/2018 
+
+DOCUMENT NO. REV 
+
+1 
+
+Page 10 of 12 
+
+ANNEXUREVI1 
+
+DR SERVER 
+6 7112914 SPARC S7-2L server: model family 1 
+
+6.1 7112875 SPARC S7-2L server: base with 2 SPARC S7 
+8-core 4.27 GHz processors (for factory 
+installation) 
+
+1 
+
+6.2 7112886 Eight 2.5-inch SAS-3 drive cage (for factory 
+installation) 
+
+1 
+
+6.3 7112909 One 32 GB DDR4-2400 DIMM (for factory 
+installation) 
+
+8 
+
+6.4 7111107 One 1.2 GB 10000 rpm 2.5-inch SAS-3 HDD 
+with marlin bracket (for factory installation) 
+
+8 
+
+6.5 7101673 Sun Storage Dual 16 Gb Fibre Channel PCIe 
+Universal HBA, Qlogic (for factory installation) 
+
+2 
+
+6.6 1109A-Z Sun Dual 10GbE SFP+ PCIe Low Profile 
+Adapter 
+
+2 
+
+6.7 333A-25-10-IN Power cord: India, 2.5 meters, IS1293 plug, C13 
+connector, 10 A (for factory installation) 
+
+2 
+
+6.8 7114240 Oracle Solaris with fallback-boot image and 
+Oracle VM Server for SPARC preinstall (for 
+factory installation) 
+
+1 
+
+6.9 7102748 PCIe filler panel (for factory installation) 2 
+6.1 7113249 Oracle Storage 12 Gb SAS PCIe HBA, internal 
+
+(for factory installation) 
+1 
+
+6.11 7101675 2 Sun Storage 16 Gb FC short wave optics, 
+Qlogic (for factory installation) 
+
+2 
+
+6.12 2129A Sun 10Gbps Dual Rate SFP+ SR 4 
+6.13 7114234 Cable management arm (for factory installation) 1 
+6.14 B61304 Oracle Standard System Installation Service, 
+
+Site Audit: Servers - Group II 
+1 
+
+6.15 B59411 Hardware Freight Fee 1 
+
+, ---k— ''''.+- 4  
+tV.1 1 20.04.2018 20.04.2018 ISSUE FOR ENQUIRY SJ MJS MJS 
+
+0  16.03.2018 16.03.2018 ISSUE FOR ENQUIRY SJ MJS MJS REV 
+FORM 
+
+REV DATE EFF DATE PURPOSE PREPD REVWD APPD NO: 02-0000-0021F1 REV2 
+All rights reserved 
+
+
+
+SJ MJS MJS 
+7 glas--vt 
+
+SJ 
+PREPD 
+
+MJS 
+REVWD 
+
+MJS 
+APPD 
+
+All rights reserved 
+
+ANNEXUREVII1 
+
+xfttaTitr 
+PD! L_ 
+
+Scope Of Work For Supply and Installation of DC & DR 
+SERVERs for SAP ERP System (DC SERVER to be 
+
+installed at PDIL, Noida and DR SERVER to be installed 
+at PDIL, Vadodara Office) 
+
+PNERP/1/18/2018 
+
+DOCUMENT NO. 
+Page 11 of 12 
+
+1 
+
+REV 
+
+7 'Comprehensive 	Onsite 	OEM 	warranty 
+Support including Services of Engineer(s) to 
+be deputed by the OEM/ Contractor at site 
+to 	attend and rectify the fault on 24 x 7 
+basis' 	for 	all 	Hardware 	/software 	items 
+supplied & Installed as listed at sl.no. 1 to 
+6.15 above for (01) one year period from the 
+date of Installation 	of complete DC & DR 
+SERVERs for SAP ERP System 	(DC SERVER to be 
+installed at PDIL, Noida and DR SERVER to be 
+installed at PDIL, Vadodara Office) . 
+
+1 
+
+1 20.04.2018 20.04.2018 ISSUE FOR ENQUIRY 
+
+0 16.03.2018 16.03.2018 ISSUE FOR ENQUIRY 
+REV REV DATE EFF DATE PURPOSE 
+
+FORM NO: 02-0000-0021F1 REV2 
+
+
+
+Scope Of Work For Supply and Installation of DC & DR 
+SERVERs for SAP ERP System (DC SERVER to be 
+
+installed at PDIL, Noida and DR SERVER to be installed 
+at PDIL, Vadodara Office) 
+
+PNERP/1/18/2018 
+
+DOCUMENT NO. REV 
+
+1 
+
+Page 12 of 12 
+
+1 
+
+0 
+
+ANNEXUREWil 
+
+TERMS & CONDITIONS 
+
+1. Entire job of Supply and Installation of Entire DC & DR SERVERs for SAP ERP System 
+(DC SERVER to be installed at PDIL, Noida and DR SERVER to be installed at PDIL, 
+Vadodara Office) has to be completed within 3 months of issue of Purchase order by 
+PDIL. 
+
+2. Hardware/Softwares fault in SAP ERP SERVERS at respective location shall be 
+resolved on top most priority as per Comprehensive Onsite OEM warranty Support 
+including Hardwares/softwares etc. and deputation of OEM/Bidders Engineers at Site 
+to attend and rectify the fault on 24 x 7 basis for all the items listed at sl.no. 1 to 6.15 
+above . 
+
+3. PDIL reserves the right to accept/reject any quotation without assigning any reason 
+threof and its decisions shall be final and binding to the Bidders. 
+
+4. Existing SAP ERP SERVERS (Development, Quality , Production ) has been configured 
+under Solaris operating system and Solution Manager has been configured under 
+Windows Server 2008 operating system. Production SERVER on Node A and Node B 
+has been configured under cluster mode in such a way that if Production SERVER on 
+one node fails then another Production SERVER on another node operate instantly 
+without any manual intervention. JAVA and Business Intelligence are configured in 
+Development, Quality & Production SERVERS. 
+
+5. Proposed new SAP ERP SERVERS (Development, Quality , Production ) has to be 
+configured under Solaris operating system and Solution Manager has also to be 
+configured under Solaris operating system. Production SERVER on Node A and Node 
+B has to be configured under cluster mode in such a way that if Production SERVER on 
+one node fails then another Production SERVER on another node operate instantly 
+without any manual intervention. JAVA and Business Intelligence are configured in 
+Development, Quality & Production SERVERS. 
+
+6. Solution Manager has to be installed at DR site in such a way that if Solution Manager at 
+DC SERVER fails then we may operate DR Site Solution Manager without any manual 
+intervention. 
+
+7. Bidder has to do the installation of Entire DC/DR SERVERS with approval of PDIL so 
+that our Entire Existing SAP ERP SERVERS operation does not get affected as we are 
+running our entire Existing SAP ERP SERVERS on 24 x 7 Basis. 
+
+ISSUE FOR ENQUIRY SJ MJS MJS 
+
+ISSUE FOR ENQUIRY SJ MJS MJS 
+PURPOSE PREPD REVWD APPD 
+
+All rights reserved 
+FORM NO: 02-0000-0021F1 REV2 
+
+REV REV DATE 
+
+20.04.2018 
+
+16.03.2018 
+
+20.04.2018 
+
+16.03.2018 
+EFF DATE 
+
+
+
+r2) 
+
+Annexure A 
+
+SAP ERP HARDWARE/SOFTWARE available with PDIL 
+
+Description Qty, 
+
+ERP,BI Production & DMS: SE T5240(2 x 1.6GHz x 8 Core UT2+ CPU,96GB 
+RAM, 4 x 300GB SAS HDDs)- 2 Nos. 
+SE 15240 BASE 2x8CR 1.6GHZ 
+Sun SW Preinstall 05/09 S1OU7 
+Solaris 10 10/09 Media Kit 
+SE 15240 MEM MEZZ KIT 2 
+
+SE 8GB FBDIMM(2*4GB), 1.5V 16 
+
+SE TSx20 CABLE MGT ARM 	 :, 2 
+
+NORTH AMERICAN/ASIA PWRCD RoHS 4 
+
+SE 4GB FBDIMM(2*2GB), 1.5V 16 
+
+PCI-E 4G b FC Dual Port HBA 4 
+
+Sun Quad G bE x8 PCIe card UTP 
+SE 15240 8DISK HDD BKPLN 2 
+
+SE 300GB 10K 2.5 SAS HDD 8 
+
+SE T5xx0 DVD, 8X, RW 2 
+
+SE 15240 AC PSU 1100W 4 
+
+Hard Disk Filler Panel S 
+SE T5x20 EXPRESS RAIL KIT 
+
+SE 15240 STD LABEL 2 
+
+SE Shipping box 2U AC PSUs 2 
+
+Cluster Components 
+
+SC 3.2 ent SP Ent 15140, 15240 
+SC agent lic x HA Oracle 2 
+
+SC Ag Lit x SAP En tcse 2 
+
+Sun CI A t Lic HA Sol Contain 5 
+
+OPT SM NULL ENET CABLE 4 
+
+ERP & BI Dev: SE T5240(2 x 1.6GHz x 8 Core UT2+ CPU, 32GB RAM, 4 
+x 146GB SAS HDDs 
+SE 15240 BASE 2x8CR 1.6GHZ 
+
+Sun SW Preinstall 05/09 S1OU7 1 
+
+SE 4GB FBDIMM(2*2GB), 1.5V 8 
+
+SE T5x20 CABLE MGT ARM 1 
+
+NORTH AMERICAN/ASIA PWRCD RoHS 2 
+
+PCI-E 4Gb FC Single Port HBA 2 
+
+SE T5240 8DISK HDD BKPLN 1 
+
+SE 146GB 10K RPM 2.5" SAS 
+— 
+
+4 
+
+SE T5xx0 DVD, 8X, RW 1 
+
+SE T5240 AC PSU 1100W 2 
+
+Hard Disk Filler Panel 4 	- 
+SE T5x20 EXPRESS RAIL KIT 
+
+SE T5240 AIR DUCT 
+
+SE T5240 STD LABEL 1 
+
+SE Shipping box 2U AC PSUs 
+
+
+
+ERP & 51 QA & Backup: SE T5240(2 x 1.6GHz x 8 Core UT2 + CPU, 32GB RAM, 6 x 146GB SAS 
+HMO 
+
+SE T5240 BASE 2x8CR 1.6GHZ 
+Sun SW Preinstall 05/09 S1007 1 
+SE 4GB FBD1MM(2*2GB), 1.5V 8 
+SE T5x20 CABLE MGT ARM 1 
+NORTH AMERICAN/ASIA PWRCD RoHS 2 
+
+Sun PCI-E Dual Gige UTP 1 
+PCI-E 4Gb FC Dual Port HBA 2 
+
+SE T5240 8D1SK H DD BKPLN 1 
+
+SE 146GB 10K RPM 2.5" SAS 6 
+SE T5xxO DVD, 8X, RW 1 
+
+SE T5240 AC PSU 1100W 2 1  
+-I 
+
+Hard Disk Filler Panel 2 
+SE T5x20 EXPRESS RAIL KIT 1 
+
+SE T5240 AIR DUCT 1 
+
+SE T5240 STD LABEL 1 
+
+SE Shipping box 2U AC PSUs 
+Solution Manager: SF x4270(2 x 2.53GHz Quad Core CPU, 16GB RAM, 2 x 146GB SAS HDDs) 
+
+X4270 1 x Standard PSU 1 
+
+Win Sv 2008 Ent 32&64bit+25CAL 
+Cable Management Arm 1 
+NORTH AMERICAN/ASIA PWRCD RoHS 2 
+
+DVD+/-RW SATA-based drive ATO 1 
+
+146GB 10K RPM 2.5" SAS disk 2 
+PCI-E 4Gb FC Dual Port HBA 1 
+8-port Internal SAS HBA 1 
+1 x Intel Xeon E5540 (2.53GHz) 
+AC PSU 1050W 1 
+2GB (1 x 2 GB) DDR3-1333 
+
+Drive Bay Filler Panel 14 
+
+Tool-less Slide Rails 1 
+D1MM slot filler panel 10 
+
+2 X4270 X4275 CPU Heatsink XATO 
+
+Media and Doc kit for X4170 1 
+
+SAN Router: SF x4170(1 x 2.26Ghz Quad Core CPU, 4GB RAM, 2 x 146GB SAS HDDs) 
+X4170 1 x Standard PSU 1 
+
+H 
+Win Sv 2008 Ent 32&64bit+2.5CAL 1 
+
+Cable Management Arm 1 
+
+2 NORTH AMERICAN/ASIA PWRCD RoHS 
+2GB (1 x 2 GB) DDR3-1333 2 
+
+1 x Intel Xeon E5520 2.26GHz 1 
+
+DVD+/-RW SATA-based drive ATO 1 
+2 
+
+--1 
+146GB 10K RPM 2.5" SAS disk 
+8-port Internal SAS HBA 1 
+
+AC PSU 750W 1 
+
+X4170,SBX6270 CPU Fillers XATO 1 
+
+Drive Bay Filler Panel 6 
+
+Tool-less Slide Rails 1 
+
+DIMM slot filler panel 16 
+
+X4170 CPU Heatsink. XATO. 1 
+
+Media and Doc kit for X4170 1 
+
+Tape Library SL 48 with two LTo4 FC Drive & 48 slots 
+
+SL48 w/ 1HP LTo4 4GB FC 
+NORTH AMERICAN/ASIA PWRCD RoHS 2 
+
+SL48 Power Supply 
+L10 CLEAN CARTS-NO LABEL-513K - 
+
+1 
+
+LTO4,800G B,J EWL-CASE, HOR -I BL 1 
+
+
+
+()Ike 	'7) 
+
+SAN Storage ST 6180: Dual Raid Controller with 4GB Cache ,20 x 500GB Capacity & 2 x 5011GB 
+
+Hot Spare 
+6180-4G4P-DISKLESS-AC 1 
+
+1 CSM200A-0x1-RR-Diskless 
+Sun CSM200 500GB 7K SATA-HDD ... 
+
+22 
+
+6x80 CTRL Rack Rails 1 
+556000 42U Rack Kits 1 
+
+Tier1(61xx)-Base 8 Domains 1 
+NORTH AMERICAN/ASIA PWRCD RoHS it 
+
+Netvault Backbone Software Workgrotip Fdition For 
+Solaris Sparc — 1 
+(Netvault Backbone Version: 8.50) 
+
+1 
+
+1 Netvauit Backbone Software — Single Heterogeneous 
+Client 2 
+(Netvault Backbone Version: 8.50) 
+Backbone Software — Single Heterogenous Smart 
+Client 2 
+(Netvault Backbone Version: 8.50) 
+Backbone Software — Oracle Enterprises Edition APM 
+for Solaris Sparc — 2 
+(Netvault Backbone Version: 8.50) 
+
+Backbone Software— Dynamically Shared Devices (TM) 
+DSD License 1 + Media Slots 
+(Netvault Backbone Version: 8.50) 
+Cluster 2 SC 3.2 Enterprise SP FNT TS120 , T5240 
+
+Cluster 2 SC Agent Lic * HA Oracle 
+(Model No : Sparc Enterprise T5240) 
+
+Cluster 2 Sc Agent Lic * SAP Enqueue 
+(Model No : Sparc Enterprise T5240) 
+
+1 
+
+BOM Sun System 
+Part No. Qty Description 
+
+SAS ERP, BI Production & DMS : SF T5240 (2 x 1.661-i? x 8 Core tJT2 + CPU, 96GB RAM, x 300GB 
+HDDs) — 2 Nos. 	 _ 
+SEUAE142Z 2 SE T5240 BASE 2X8CR 1.6GHZ 
+SESY9SF1Z 	2 Sun SW Preinstall 05/09 $10U7 
+50129 — 10LC9A7M 2 Solaris 10 10/09 Media Kit 
+SEUY2MM2Z 2 SE T5240 MEM MEZZ KIT 
+SESY2C3Z 16 SE 8GB FBDIMM (2•4GB), 1.SV 
+
+SESY9CA12 2 SE T5x20 CABLE MGT ARM 
+X311L 4 NORTH AMERICAN/ASIA PWRCD RuHS 
+SESY2B32 	16 SE 4GB 	FBDIMM(2*2GB), 1.SV 
+
+SG-XPCIE2FC-EM4 4 PC1-E 4Gb FC Dual Port HBA 
+X4447A-Z 4 Sun Quad GbE x 8 PCIe card UTP 
+SEUY9BB2Z 2 SE T5240 8DISK HDD BKPLN 
+SESY3G112 8 SE 300GB 10K 2.5 SAS HDD 
+SESY9DVZZ 2 SE T.5xx0 DVD, 8X, ION 
+SFUY9PS517 4 SF T5740 AC AC PSI) 1100W 
+SESY9IVIF 2 8 Hard Disk Filler Panel 
+SESY9RK2Z 2 SE T5x20 EXPRESS RAIL KIT 
+SEUY9LS1Z 2 SE T5240 STD LABEL 
+SESY9BC1Z 2 SE Shipping box 2U AC PSUs 	 _ 
+
+4-At 
+
+
+
+l\ 	I 
+
+Cluster Components  
+CLUIS-320-A029 2 SC 3.2 ent SP Ent T5140, T5240  
+CLAIS-XXR-9999 2 SC agent tic x HA Oracle 
+
+CLAIS-XAI-9999 2 SC Ag Lic x SAP Enqueue  
+CLAIS-XXZ-9999 5 Sun CI Agt Lic HA Sol Contain  
+X3837A  4  OPT 51v1  NULL ENET  
+FRP & 131 DEV:  SE 15240(2 x 1.6GHZ x 8 Core UT2  C P U , 32GB RAM, 4 x 146GB SAS HD0s) 
+SFUAE142Z 1 SE T5240 BASE 2x8CR 1.6GHZ  
+SESY9SF12 1 Sun SW Preinstall 05/09  510U7 
+SESY2B3Z 8 SE 4GB FBDIIVIIVI(2*2GB) , 1.5V  
+
+SESY9CA1Z 1 SE T5x20 CABLE MGT ARM  
+X311L 2 NORTH AMERICAN/ASIA PWRCD RoHS 
+
+SG-XPCIE1FC-EM4  2 C:1-I 4Gb PC Single Port HBA  
+SEL/Y9DB2Z 1 SE 15240 8015K HOD BKPLN  
+SESY3C11Z 4 SE 146GB 10K RPM 2.5" SAS 
+SESY9DV2Z 1 SF TSxxO DVD,  8X, 11W 
+SEITY9PSS11. 2 SE T5240 AC PSU 1100W 
+SESY9ME1Z 4 Hard  Disk Filler Panel  
+SESY9RK2Z 1 SE T5x20 EXPRESS RAIL KIT 
+SEUY9AD1Z 1 SE 15240 AIR DUCT  
+
+SEUY9LS1Z 1 SE T5240 STD LABEL  
+SESY9BC1Z 1 SE Shipping box 2U AC: PSUs  
+ERP 84 DI QA  & Backup: SE T5240(2 x 1.6GHz  x 8 Core UT2-r- CPU, 32GB RAM, x 146GB SAS FID0si 
+
+SEUAE142Z 1 SE T5240 BASE 2x8CR 1.6Ghz  
+SESY9SF1Z 1 Sun SW Preinstall 05/09 S1OU7 
+SESY2B3Z 8 SE 4GB 13011V11v1(2*2GB), 1.5V  
+SESY9CA—Z 1 SE T5x20 CABLE MGT ARM 
+X311L 2 NORTH AMERICAN/ASIA PWRCD  RoHS 
+X7280A-2 1Sun PCI-E Dual Gige UTP  
+SG-XPC1E2FC-EM4 2 PCI E 4Gb FC Dual Port HBA 
+SEUY9BB2Z 1 SF T5740 8DISK HOD BKPLN 	  
+SESY3C11Z 6 SE 146GB  10K RPM 2.5" SAS  
+SESY9DV2Z 1 SE TSxxO DVD, 8X, RW 
+SEUY9PS51Z 2 SE T5240 AC PSU 1100W 
+SESY9IVIF1Z 2 Hard Disk Filler Panel 
+SESY9RK2Z 1 SE TSx20 EXPRESS RAIL KIT  
+SEUY9AD1Z 1 SE T5240 AIR DUCT 
+SEUY9LS1Z 1 SE T5240 STD LABEL  
+SESY9BC1Z 1 SE Shipping box 2U AC PSUs  
+Solution Manager: SF x4270(2 x x.53GI-17. Quad Core CPU. 16GB RAM, 2 x 146GB SAS HDDs) 
+
+X4270-S1-AA 1 X4270 1 X Standard PS 
+8125A-2 1 Win Sv 2008 Ent 32&64bit-4-25CAL 	  
+
+X6324A 1 Cable Management Arm  
+X311L 2 NORTH AMERICAN/ASIA  PWRCD RoHS  
+
+8375A 1 DVD+/-RW SATA-based drive ATO  
+RB-SS2CF-146G1OK 2 146GB 10K RPM  2.5" SAS disk 
+SG-XPCIE2EC-FM4 1 PCI-F. 4Gb FC Dual Port HBA 	 
+SG- PCIE8SAS-1-2 1 8-port Internal SAS HBA  
+5863A 1 x Intel Xeon f5540  (2.51GH7)  
+
+6328A 1 AC  PSU  1050W 
+
+5869A 8 208 (1 x 2 GB)  
+6331A 14 Drive Day Filler Panel 	  
+
+X6325A 1 Tool-less Slide Rails  
+5879A 10 DIMM slot filler panel  
+5899A 2 X4270 X4275 CPU Heatsink XATO 
+
+X5900A 1 Media and Doe kit for X4170 	 
+SAN Router: SF x4170(1 x 2.26GHz Quad Core CPU, 4GB RAM, 2 x  146GB SAS HDDs) 
+X4170-SI AA 1 X4170 1 x Standard PSU  
+8125A-2 1 Win Sv 2008 Ent 32&64bit+2SCAL 
+X6374A 1 Cable Management Arm 
+
+
+
+22 16PORT DLINK 10/100/1000 SWITCH DRBSB9B001319 
+
+23 SPORT USB KVM SWITCH AJ01849 
+
+24 BKB NETVAULT BU SERVER WORKGROUP EDITION 
+(100020-201) FOR SOLARIS (SPARC) PER MACHINE 
+
+ID MAINTENANCE RENEWAL 
+
+81-10-0169 BJS-BKB-
+PS-R 
+
+25 BKB NETVAULT BU SINGLE HETEROGENEOUS CLIENT 
+PER MACHINE ID MAINTENANCE RENEWAL 
+(200010-000) 
+
+81-10-0169 BOF-BK13- 
+PS-R 
+
+26 BKB SINGLE HETEROGENEOUS SMARTCLIENT PER 
+MACHINE ID MAINTENANCE RENEWAL (200080- 
+000) 
+
+81-10-0169 BHD-BKB-
+PS-R 
+
+27 BKB NETVAULT BU DYNAMICALLY SHARED DEVICE 
+OPTION PER DEVICE MAINTENANCE RENEWAL 
+(300290-000) 
+
+81-10-0169 BCM-BKB-
+PS-R 
+
+28 BKB 20 MEDIA SLOTS MAINTENANCE RENEWAL 
+(300530-000) 
+
+81-10-0169 BGQ-BKB-
+PS-R 
+
+29 BKB 30 MEDIA SLOTS MAINTENANCE RENEWAL 
+(300549-000) 
+
+81-10-0169 BGR-BKB-
+PS-R 
+
+30 BKB NETVAULT BU ORACLE APM FOR SOLARIS 
+(SPARC) PER MACHINE ID MAINTENANCE RENEWAL 
+(400310-210) 
+
+81-10-0169 BEO-BKB-
+PS-R 
+
+
+	Page 1
+	Page 2
+	Page 3
+	Page 4
+	Page 5
+	Page 6
+	Page 7
+	Page 8
+	Page 9
+	Page 10
+	Page 11
+	Page 12
+	Page 13
+	Page 14
+	Page 15
+	Page 16
+	Page 17
+	Page 18
+	Page 19
+	Page 20
+	Page 21
+	Page 22
+	Page 23
+	Page 24
+	Page 25
+	Page 26
+	Page 27
+	Page 28
+	Page 29
+	Page 30
+	Page 31
+	Page 32
+	Page 33
+	Page 34
+	Page 35
+	Page 36
+	Page 37
+	Page 38
+
+		2018-04-20T16:37:18+0530
+	eProcure
+	LEENA BANSAL
+
+
+
+

@@ -1,0 +1,495 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/691368
+
+  Dated: 29-06-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 18:00:00
+
+Bid Opening Date/Time 2020-07-20 18:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Chhattisgarh
+
+Department Name Home Department Chhattisgarh
+
+Organisation Name Chhattisgarh Police
+
+Office Name Director General Of Police, Police Headquarters
+Chhattisgah Naya Raipur
+
+Total Quantity 40
+
+Item Category hand held gps
+
+Bidder Turnover (Last 3 Years)  13 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  26 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  10 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 3.00
+
+EMD Amount 79800
+
+                               1 / 6
+
+
+
+ 
+
+ePBG Detail
+
+Required No
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+AIG OF POLICE (P&P)
+Director General Of Police, Police Headquarters Chhattisgah Naya Raipur, Home Department
+Chhattisgarh, Chhattisgarh Police ,
+(Deepmala Kashyap)
+
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 10% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+                               2 / 6
+
+
+
+ 
+
+Hand Held Gps ( 40 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC Type Hand Held *
+
+Built-in Antenna Yes *
+
+Dimensions (mm x mm
+x mm)
+
+- *
+
+Weight with Batteries
+(grams)
+
+348 *
+
+Channels (No.) 22 *
+
+Pre-loaded Handheld
+Software
+
+yes yes
+
+Compatible Office
+Software
+
+yes *
+
+Slip Resistant Grip Yes *
+
+Base Map Yes *
+
+WAAS Enabled Yes *
+
+Inbuilt Electronic
+Compass
+
+yes *
+
+Paperless
+Geocaching
+
+yes yes
+
+Sun and Moon
+Information
+
+yes *
+
+Inbuilt Barometric
+Altimeter Facility
+
+yes *
+
+Audio Microphone and
+Speaker, Recrd and
+Playback Option
+
+*
+
+PORT / CONNECTIVITY Bluetooth Connectivity yes *
+
+USB yes *
+
+STORAGE RAM (GB) 1 1.0
+
+Micro SD Card Slot yes yes
+
+Expandable upto (GB) 32 *
+
+DISPLAY Display Type Transflective Colour
+TFT
+
+*
+
+Display Size
+(Diagonal) (Inches)
+
+2.6 to 3 2.6 to 3
+
+Display Resolution - *
+
+                               3 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/h5YT-ygf_1oAPSZR6_hXn49bwiQibEBuaDwk8v9Feeo
+
+
+ 
+
+Touchscreen yes yes
+
+BATTERY Type of Battery Alkaline (Non-
+Rechargeable)
+
+*
+
+Battery Chemistry Ni-Cd *
+
+Battery capacity (Vah) 2 *
+
+Battery Back up (Hour)
+(N >= 16)
+
+18 *
+
+TRACK DETAILS Waypoints / Favorites /
+Locations (No.)
+
+5000 *
+
+Routes (No.) 200 *
+
+Track Log 10000 Points, 200
+saved Tracks
+
+*
+
+Area Calculation Yes *
+
+VARIOUS TEST Drop/ Free Fall Test Drop/ Free Fall Test in
+unpacked, Switched Off
+and normal handling
+conditions (Height- 1
+m, Total no. of falls- 2)
+
+*
+
+Vibration Test Vibration test in packed
+and Switched off
+condition (10-150 Hz,
+0.15mm / 2g, 10
+Sweep,cycles / axes
+
+*
+
+Bump Test Bump test in packed
+and Switched off
+condition &#x28;1000
+Bumps, 40 gm, in
+vertical position&#x29;
+
+*
+
+PERFORMANCE Processor - *
+
+Operating Temperature
+(Degree C)
+
+-20 *
+
+Operating Humidity
+(RH) (%)
+
+- *
+
+Accuracy - *
+
+Update Rate (Hz) 1 *
+
+Time taken to give first
+fix (Second)
+
+15 *
+
+ACCESSORIES Standard Accessories
+to be supplied with the
+equipment
+
+- *
+
+Carry Case Yes *
+
+SERVICE Warranty (Year) 1 1.0
+
+CERTIFICATION Ingress Protection (IP
+Rating)
+
+IPX7 *
+
+BIS Registration under NA for Alkaline (Non- *
+
+                               4 / 6
+
+
+
+ 
+
+Compulsory
+Registration Scheme
+
+Rechargable) batteries
+
+BIS Registration No and
+its validity
+
+- *
+
+TEST REPORT DETAILS Availability of Test
+Reports from Central
+Govt / NABL approved /
+ILAC acredited lab to
+prove conformity to the
+specification (Test
+Reports are to be
+furnished when
+demanded by the
+buyer)
+
+Yes *
+
+Test Report no. and
+date (Not a part of
+biddable parameter)
+
+- *
+
+Name and Address of
+the Lab (Not a part of
+biddable parameter)
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Deepmala
+Kashyap
+
+492002,POLICE
+HEADQUARTERS
+CHHATTISGARH, NAYA
+RAIPUR
+
+40  60
+
+Bid Specific Additional Terms and Conditions
+
+1.OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be
+ordered up to 25 percent at the time of placement of contract. The purchaser also reserves
+the right to increase the ordered quantity by up to 25% of the contracted quantity during the
+currency of the contract at the contracted rates. Bidders are bound to accept the orders
+accordingly.
+
+2. ISO 9001: The bidder must have ISO 9001 certification.
+3.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+                               5 / 6
+
+
+
+ 
+
+4.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial
+year, should be as indicated in the bid document. Documentary evidence in the form of
+certified Audited Balance Sheets of relevant periods or a certificate from the Chartered
+Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than
+3 year old, the average turnover in respect of the completed financial years after the date of
+constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of
+CATEGORY RELATED TO primary product having highest bid value should meet this criterion.
+
+5.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+6.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+7.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+8.The Bidder / OEM {themselves or through reseller(s)}, should have executed project for
+supply and installation / commissioning of same or similar Category Products during
+preceding 3 financial years (i.e. current year and three previous financial years) as on
+opening of bid, as per following criteria:
+ 
+(i) Single order of at least 35% of estimated bid value; or
+(ii) Two orders of at least 20% each of estimated bid value; or
+(iii) Three orders of at least 15% each of estimated bid value.
+Satisfactory Performance certificate issued by respective Buyer Organization for the above
+Orders should be uploaded with bid. In case of bunch bids, the Category related to primary
+product having highest bid value should meet this criterion
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

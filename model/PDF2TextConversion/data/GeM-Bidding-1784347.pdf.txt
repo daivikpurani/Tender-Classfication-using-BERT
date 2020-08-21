@@ -1,0 +1,804 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/708439
+
+  Dated: 14-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 11:00:00
+
+Bid Opening Date/Time 20-07-2020 11:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Ministry Of Railways
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name South Central Railway
+
+Total Quantity 62
+
+Item Category Multipara Monitor - Low End
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Past Performance,OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  20 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 2.00
+
+EMD Amount 96708
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 5.00
+
+Duration of ePBG required (Months). 38
+
+                               1 / 9
+
+
+
+ 
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+PFA SCR
+3rd Floor, Rail Nilyam, South Central Railway, Ministry of Railways, Secunderabad. Pin Code -
+500025
+(Pfa Scr)
+
+Splitting
+
+  Bid splitting not applied.  
+
+MSE Purchase Preference
+
+MSE Purchase Preference Yes
+
+ 
+
+1. Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to
+MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012
+dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and its subsequent
+Orders/Notifications issued by concerned Ministry. If the bidder wants to avail the Purchase
+preference, the bidder must be the manufacturer of the offered product in case of bid for supply of
+goods. Traders are excluded from the purview of Public Procurement Policy for Micro and Small
+Enterprises. In respect of bid for Services, the bidder must be the Service provider of the offered
+Service. Relevant documentary evidence in this regard shall be uploaded along with the bid in
+respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s) has/have quoted
+price within L-1+ 15% of margin of purchase preference /price band defined in relevant policy, such
+Seller shall be given opportunity to match L-1 price and contract will be awarded for percentage of
+25% of total value.
+2. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 20% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Multipara Monitor - Low End ( 62 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+                               2 / 9
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/OzxXJbl-KvpviThmVfgrF_wi5d6MmAR0Jt071dMFStE
+
+
+ 
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Conformity to
+Certifications
+
+- *
+
+Confirmity to
+Manufacturing
+Standards
+
+ISO 9001 & ISO 13485 *
+
+Conformity to Safety
+Standards
+
+ISO 80601-2-49 and IEC
+60601-1 or BIS
+equivalent
+
+*
+
+Performance
+Parameters
+
+Purpose Low-end monitors are
+designed to perform
+basic vital-signs
+monitoring. These
+monitors may also be
+appropriate for IPD as
+well as OPD patients
+
+*
+
+Type of Monitor Preconfigured / Non
+Modular
+
+Preconfigured / Non
+Modular
+
+Monitoring Parameters ECG,HR, NIBP, PR,
+respiratory rate, SpO2,
+and body temperature
+
+*
+
+ECG parameters Number of leads of
+ECG
+
+3 3
+
+12-lead
+interpretation for
+ECG
+
+No Yes, No
+
+Arrhythmia detection
+and analysis
+
+Yes *
+
+Number of leads
+analyzed for ECG in
+single time
+
+4 4
+
+Heart rate
+measurement range
+
+At-least 30 -250 BPM *
+
+Accuracy ± 5 BPM *
+
+Minimum gradation 1 bpm *
+
+Respiration Parameters Respiration Method Impedance
+pneumography
+
+*
+
+Display waveform of
+respiration
+
+Yes *
+
+Threshold control for
+respiration
+
+Yes *
+
+Respiration rate
+measurement range
+
+At-least 0-100 bpm *
+
+Minimum gradation of
+respiratory
+measurement
+
+1 BPM *
+
+                               3 / 9
+
+
+
+ 
+
+Pulse Oximetry
+Parameters
+
+Measurement
+technique
+
+Others Others
+
+Other Measuring
+Techniques (In case
+measurement
+technique is nelcor,
+masimo , draeger,
+oxisure, trusignal put
+NA otherwise indicate
+the measurement
+technique)
+
+- *
+
+Probe type supplied Adult Adult
+
+Type of adult probe Reusable Reusable
+
+Type of pediatric
+probe
+
+Reusable Reusable
+
+Type of neonatal
+probe
+
+Reusable Reusable
+
+SPO2 measurement
+range
+
+Atleast 40-70 % & 70 to
+99%
+
+*
+
+Accuracy of SPO2
+measurement
+
+Better than ±1 % for
+40-70 range & better
+than ± 3 % for 70-99
+range
+
+*
+
+Minimum Gradation 1% *
+
+NIBP Parameters Measurement
+technique for NIBP
+
+Step-deflation
+oscillometric
+
+*
+
+Cuff supplied Adult Adult
+
+Cuff size for Adult Large Large
+
+Cuff size for
+pediatric
+
+Not supplied Not supplied
+
+Cuff size for neonate Not supplied Not supplied
+
+Blood pressure
+monitoring range
+
+30-300mm/Hg *
+
+Gradation 1 mm/Hg or better *
+
+Temperature
+Parameters
+
+Number of channels
+for temperature
+
+2 2
+
+Probe type All ( esophageal, rectal
+, skin)
+
+All ( esophageal, rectal
+, skin)
+
+Temperature probe
+type
+
+Reusable *
+
+Temperature probe
+range
+
+Atleast 30 - 40 degree *
+
+Minimum gradation of
+temp probe
+
+1/10 degreeC *
+
+Accuracy in % ±1% *
+
+                               4 / 9
+
+
+
+ 
+
+Length of time of full
+disclosure of patient
+data in hr
+
+≥48 *
+
+Operating conditions Capable of operating
+continuously in
+ambient temperature
+of 0 to 50 de c and
+relative humidity of 15
+to 90% in ideal
+circumstances
+
+*
+
+Length of time of
+trending in hr
+
+≥24 *
+
+Alarms Opeartor can set audio
+visual alarm levels for
+low or high levels of
+each parameter
+independently
+
+Yes *
+
+Systolic BP - low and
+high
+
+Yes *
+
+Diastolic BP - low and
+high
+
+Yes *
+
+Mean BP - low and high Yes *
+
+Heart rate - low and
+high
+
+Yes *
+
+SPO2 - low and high Yes *
+
+Respiratory rate - low
+and high
+
+Yes *
+
+Temperature -low and
+high
+
+Yes *
+
+Alarm Volume should
+be adjustable
+
+Yes *
+
+Type of alarm Audio and Visual *
+
+Activating silence of
+alarm
+
+Yes *
+
+Duration of alarm
+silence in sec
+
+120 120
+
+Suspension of all
+alarms
+
+Yes *
+
+Latching of alarms Yes *
+
+Cuff leakage alarm Yes *
+
+Cuff disconnect alarm Yes *
+
+Alarm for
+inflation/deflation
+errors
+
+Yes *
+
+Low battery voltage
+indication
+
+Yes *
+
+                               5 / 9
+
+
+
+ 
+
+Sensor/ wire/probe
+disconnection alarm
+
+Yes *
+
+Networking Parameters Ethernet port Yes *
+
+Wireless No Yes, No
+
+USB port No Yes, No
+
+Connectivity
+provision with
+Central Nursing
+Station
+
+No Yes, No
+
+Display Parameters Type of display TFT TFT
+
+Display Size,inch
+with ±5% tolerance
+
+10 10
+
+Traces of display 6 or more *
+
+User Interface of
+display
+
+Rotary knob Rotary knob
+
+Inbuilt thermal
+Recorder (Printer)
+
+No Yes, No
+
+Display must allow
+easy viewing at all
+ambient light levels
+
+Yes *
+
+Standard Accessories Resusable SpO2
+probe
+
+Adult Adult
+
+Number of adult
+probe
+
+2 2
+
+Number of pediatric
+probe
+
+NA 1, 2, 5, NA
+
+Number of neonatal
+probe
+
+NA 1, 2, 5, NA
+
+ECG cable 3 lead 3 lead
+
+Number of ECG cable 1 1
+
+Skin and Rectal
+temperature probe
+
+1 *
+
+Additional Parameters Accessories to wall
+mount the monitor
+
+No Yes, No
+
+Weight of the Machine
+in kg
+
+4.5 *
+
+Noise level in dB 40 *
+
+Body of the monitor to
+be strong , durable and
+splash proof
+
+Yes *
+
+Should be supplied with
+protective case for
+clean storage and safe
+transport
+
+Yes *
+
+Power Requirements Type of power supply in 220-240, 50Hz Single *
+
+                               6 / 9
+
+
+
+ 
+
+VAC,Hz Phase
+
+Mains cable to be
+atleast 3m length
+Indian type 3 pin
+
+Yes *
+
+Type of battery
+backup
+
+Lithium-ion
+,rechargeable
+
+Lithium-ion
+,rechargeable
+
+Backup time in
+minutes
+
+120 120
+
+Recharging time of
+battery in hr
+
+≤6 ≤6
+
+Warranty, Servicing
+and Installation
+
+Original User /
+Technical manuals to
+be supplied in English
+in hard and soft copy
+
+Yes *
+
+Installation,
+Demonstration and
+training to be provided
+at consignee end at
+any part of country
+
+Yes *
+
+The Principal
+Manufacturer Must
+Have Direct
+Presence/approved
+service center In India
+
+Yes *
+
+Advanced maintenance
+task required shall be
+documented and
+procedures required for
+local calibration and
+routine maintenence
+and list of imp spare
+parts with accessories
+along with part
+numbers to be
+furnished
+
+Yes *
+
+Availability of toll
+free facility for
+technical support
+maintained by OEM
+or authorized
+agencies
+
+No Yes, No
+
+Comprehensive
+Warranty in Years
+
+3 3
+
+Copies of all
+certifications and
+reports to be provided
+to buyer on demand at
+time of supplies
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+                               7 / 9
+
+
+
+ 
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Md. Moazul Haque 500025,PCMD
+OFFICE,Ground Floor, Near
+Syndicate Bank, Rail
+Nilayam, South Central
+Railway, Secunderabad -
+500025
+
+62  15
+
+Bid Specific Additional Terms and Conditions
+
+1.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+2.Nominated Inspection Agency: On behalf of the Buyer organization, any one of the
+following Inspection Agency would be conducting inspection of stores before acceptance:
+Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause
+has been selected in ATC): No
+Post Receipt Inspection at consignee site before acceptance of stores: Authorised
+Representative of MD Lalaguda
+
+3.Preference to Make In India products (For bids less than 200 Crore):Preference shall be given
+to Class 1 local supplier as defined in public procurement (Preference to Make in India),
+Order 2017 as amended from time to time and its subsequent Orders/Notifications issued by
+concerned Nodal Ministry for specific Goods/Products. The minimum local content to qualify
+as a Class 1 local supplier is denoted in the bid document 50%. If the bidder wants to avail
+the Purchase preference, the bidder must upload a certificate from the OEM regarding the
+percentage of the local content and the details of locations at which the local value addition
+is made along with their bid, failing which no purchase preference shall be granted. In case
+the bid value is more than Rs 10 Crore, the declaration relating to percentage of local
+content shall be certified by the statutory auditor or cost auditor, if the OEM is a company
+and by a practicing cost accountant or a chartered accountant for OEMs other than
+companies as per the Public Procurement (preference to Make-in -India) order 2017 dated
+04.06.2020. Only Class-I and Class-II Local suppliers as per MII order dated 4.6.2020 will be
+eligible to bid. Non - Local suppliers as per MII order dated 04.06.2020 are not eligible to
+participate. In case Buyer has selected Purchase preference to Micro and Small Enterprises
+clause in the bid, the same will get precedence over this clause.
+
+4.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents
+sought in the Bid document, ATC and Corrigendum if any.
+
+5.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+6.Warranty period of the supplied products shall be 3 years from the date of final acceptance
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+
+                               8 / 9
+
+
+
+ 
+
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+7.Bidders can also submit the EMD with Payment online through RTGS / internet banking in
+Beneficiary name FA&CAO/SC Account No. 6233713116 IFSC Code SBIN0020244 Bank Name
+State Bank of India Branch address Himmatnagar, Secunderabad.
+ Bidder to indicate bid number and name of bidding entity in the transaction details field at
+the time of on-line transfer. Bidder has to upload scanned copy / proof of the Online Payment
+Transfer along with bid.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               9 / 9
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

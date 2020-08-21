@@ -1,0 +1,402 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/713741
+  Dated: 17-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 09:00:00
+
+Bid Opening Date/Time 27-07-2020 09:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Air Force
+
+Office Name ***********
+
+Total Quantity 1
+
+Item Category DSLR/ COMPACT / HANDHELD CAMCORDER or VIDEO CAMERAS
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+DSLR/ COMPACT / HANDHELD CAMCORDER Or VIDEO CAMERAS ( 1 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+TYPE Classification of Camera Video Video
+
+Type of Camera Handheld camcorders or
+Video Cameras
+
+Handheld camcorders or
+Video Cameras
+
+                               1 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/3N34HrYQDPyVir_JAbFNehuhDFJC7ndq-BmSyk1TxeI
+
+
+ 
+
+IMAGE SENSOR Image Sensor CMOS CMOS
+
+Sensor Size for Fixed
+Lens Camera (inch)
+
+1/5.8 1/5.8
+
+Sensor Size for
+Interchangeable Lens
+Camera (mmxmm)
+
+NA NA
+
+Effective Pixels (Mega
+Pixels)
+
+8 8
+
+ISO (Sensitivity of the
+image Sensor) Max
+
+3200 3200, 6400, 12800, 25600,
+32000, 40000, 51200 Or
+higher
+
+Supported Picture or image
+format
+
+JPEG *
+
+OPTICS Lens Mounting Fixed Fixed
+
+Mount type - *
+
+Type of Lens Zoom Lens *
+
+Minimum Focal Length 26.8 26.8
+
+Maximum Focal Length 800 800.0
+
+Minimum Lens Aperture
+(f/number)
+
+1.8 1.8
+
+Maximum Lens Aperture
+(f/number)
+
+4 4
+
+Optical Zoom 26X to 30X 26X to 30X
+
+Digital Zoom (X) 350 *
+
+Maximum Field of View 145 *
+
+Focus Mode Auto *
+
+Video Recording Video Recoding Yes Yes
+
+Maximum Recording
+Resolution (Pixels)
+
+Full HD (1920 x 1080) Full HD (1920 x 1080)
+
+Frame Rate 60 60
+
+Video Compression Format H.264,MPEG4 *
+
+Live Video Streaming Yes Yes
+
+Video Output Port Mini HDMI *
+
+Video file format MP4,XAVC *
+
+AUDIO Audio Recording Yes Yes
+
+Audio Recording Type Buit-in,External *
+
+Number of Audio Input Port 1 *
+
+Type of Audio input Port 3.5 mm (Stero mini jack) *
+
+Audio Output Yes Yes
+
+Number of Audio Output
+Port
+
+1 *
+
+Type of Audio output Port 3.5 mm (Stero mini jack) *
+
+DISPLAY Display Yes Yes
+
+Display Type LCD *
+
+Touch Screen Yes Yes
+
+Display Size (inch) 2.6 - 3 2.6 - 3
+
+                               2 / 4
+
+
+
+ 
+
+Vari Angle Screen Yes Yes
+
+View Finder No No
+
+FEATURES Flash External (Not inclusive in
+the scope of supply)
+
+External (Not inclusive in
+the scope of supply)
+
+GPS coordinates Stamping
+onto Videos / photographs
+
+No *
+
+Gyro Sensor No *
+
+Voice Control No *
+
+Connectivity Interface Wi-Fi,NFC *
+
+Control App *
+
+Supported Operating
+Systems for App
+
+Android *
+
+Picture control system Auto,standard,portrait,mono
+chrome,landscape
+
+*
+
+Noise reduction Feature Yes *
+
+Flash modes NA *
+
+Shutter type electronically controlled *
+
+Minimum Shutter Speed 1 *
+
+Maximum Shutter Speed 0.0001 *
+
+Drive modes single shooting *
+
+Additional features, if any - *
+
+STORAGE Storage Type Micro SD,SD,Memory Stick *
+
+Dual Slot No *
+
+SD Card Memory inclusive in
+the scope of supply (GB)
+
+16 *
+
+Memory Card expandable
+upto (GB)
+
+256 *
+
+In-built Memory(GB) 32 *
+
+BATTERY Power Source Rechargeable Battery *
+
+Battery Size, if Non
+Rechargeable Battery
+
+NA *
+
+Battery Chemistry, if
+Rechargeable Battery
+
+Li-Ion *
+
+Number of Batteries
+required for operation
+
+1 *
+
+Number of Batteries
+supplied (Inclusive in the
+Scope of Supply)
+
+1 *
+
+BATTERY CAPACITY (mAh) 980 *
+
+Battery Charger for
+Rechargeable Batteries
+
+Yes *
+
+OPERATING CONDITIONS Minimum Operating
+Temperature (for land
+use)
+
+0 0.0
+
+Maximum Operating
+Temperature (for land
+use)
+
+40 40.0
+
+Operating Humidity, Rh
+at 40 deg C
+
+65 65.0
+
+                               3 / 4
+
+
+
+ 
+
+GENERIC Housing construction Composite polycarbonate
+outer shell with metallic
+internal chassis
+
+Composite polycarbonate
+outer shell with metallic
+internal chassis
+
+IP Protection IP 21 IP 21
+
+Carry Case inclusive Yes Yes
+
+Weight 0.325 *
+
+Dimension (WxHxD)
+(mmxmmxmm)
+
+- *
+
+List of Items and Quantity of
+each item included in the
+offer
+
+- *
+
+WARRANTY Warranty 1 1.0
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********PUNE 1  15
+
+Bid Specific Additional Terms and Conditions
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of
+
+Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

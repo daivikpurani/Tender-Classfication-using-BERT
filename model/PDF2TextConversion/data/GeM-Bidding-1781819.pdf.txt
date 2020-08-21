@@ -1,0 +1,499 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/706115
+
+  Dated: 11-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 21-07-2020 20:00:00
+
+Bid Opening Date/Time 21-07-2020 20:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Odisha
+
+Department Name Planning And Convergence Department Odisha
+
+Organisation Name Director,economics & Statistics,orissa,bhubaneswar
+
+Office Name Bhubaneswar
+
+Total Quantity 760
+
+Item Category Smart Phone
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  10 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+Estimated Bid Value  12918480
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 2.00
+
+EMD Amount 258370
+
+ePBG Detail
+
+                               1 / 6
+
+
+
+ 
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 2.00
+
+Duration of ePBG required (Months). 26
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+SECTION OFFICER
+Bhubaneswar, Planning and Convergence Department Odisha, Director,Economics &
+Statistics,Orissa,Bhubaneswar,
+(Kulamani Khatua)
+
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 10% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Smart Phone ( 760 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+MEMORY RAM Size 6 4.0, 6.0, 8.0
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/TTbgoFICB0h9BPvFVy7cpA5uuoZpoGyIwOmJa0qhHaQ
+
+
+ 
+
+Internal Storage 128 64.0, 256.0, 128.0
+
+Storage Expandable
+up to (in GB)
+
+512 128, 256, 512
+
+GENERIC Technology GSM *
+
+Processor core Octa core Octa core
+
+Processor speed 2.3 2.2, 2.3, 2.5
+
+Operating system Android 8.x Oreo GMS
+certified
+
+Android 8.x Oreo GMS
+certified
+
+Chipset Qualcomm / Mediatek /
+Apple / Exynos /
+Snapdragon /
+Spreadtrum
+
+*
+
+Operating System
+auto upgradable to
+next level
+
+Yes Yes, No
+
+DISPLAY Display size 6.3 *
+
+Display type Amoled Touch Screen LCD Touch Screen, LED
+Backlit Touch Screen,
+Amoled Touch Screen,
+Retina, Retina HD, IPS
+Touch,
+TFT(24bits16points)
+
+Display Resolution
+(Horizontal x
+Vertical) (Pixel)
+
+FHD (Minimum 1920 x
+1080)
+
+q HD (Minimum 960 x
+540), HD (Minimum
+1280 x 720), FHD
+(Minimum 1920 x
+1080), UHD (Minimum
+2560 x 1440),
+FWVGA(Minimum
+854x480),
+FWVGA(Minimum
+800x480)
+
+Sun light readability
+(Nits)
+
+> 400 < / = 300, > 300 < / =
+350, > 350 < / = 400,
+> 400
+
+Display protection Corning Gorilla Glass 3
+or equivalent
+
+Corning Gorilla Glass 3
+or equivalent, Corning
+Gorilla Glass 4 or
+equivalent, Corning
+Gorilla Glass 5 or
+equivalent, Ion -
+Strengthened Glass,
+Scratch Resistant Glass
+
+FEATURES Response time of
+touch screen (in milli
+seconds)
+
+< / = 35 milli second < / = 35 milli second, >
+35 </= 45 milli second
+
+Life of touch screen
+Minimum 10 lakhs
+touches
+
+Yes *
+
+                               3 / 6
+
+
+
+ 
+
+Touch support Multi touch Single touch, Multi
+touch
+
+Rear Camera
+Resolution (Mega
+Pixel)
+
+>/=24 >/=12, >/=16, >/=24
+
+Front Camera
+Resolution (Mega
+Pixels)
+
+24 2, 5, 8, 12, 13, 16, 20,
+24
+
+SIM Card Slots Dual (SIM+SIM
++Memory card slot)
+
+Single, Dual
+(SIM+SIM/Memory
+card)/Dual (SIM+SIM +
+Memory card, Dual
+(SIM+SIM/Memory
+card), Dual (SIM+SIM
++Memory card slot)
+
+Type of SIM Nano Standard, Mini, Micro,
+Nano
+
+SAR Value (Watt/Kg) < 1.6 Watt/Kg *
+
+Support Unicode (all
+Indian
+Lang),GPS,AGPS,Geo
+Tag cam, Preload App
+as reqd by Govt Dept,
+Support all file formats
+for rec & playing
+image,audio & video
+files, All tech features
+to be NABL Lab
+approved along with
+OEM certificate
+
+Yes *
+
+OTG support Yes with cable Yes with cable, No
+
+CONNECTIVITY Connectivity 4G VoLTE 2G, 3G, 4G, 4G LTE, 4G
+VoLTE
+
+Wi-fi Connectivity 802.11b/g/n/ac/2.4
+GHz+5.0 GHz
+
+802.11b/g/n,
+802.11a/b/g/n,
+802.11a/b/g/n/ac,
+802.11b/g/n/ac/2.4
+GHz+5.0 GHz
+
+Bluetooth
+Connectivity
+
+4.3 or higher 3.0 or higher, 4.0 or
+higher, 4.1 or higher,
+4.2 or higher, 4.3 or
+higher
+
+BATTERY Battery Capacity
+(mAH) Minimum
+
+5500 3500, 4000, 4500,
+5000, 5500
+
+Type of Battery Lithium Polymer (Li-pol) Lithium-ion (Li-ion),
+Lithium Polymer (Li-
+pol), Nickel Cadmium
+(NiCd), NiMH (NiMH)
+
+ACCESSORIES Accessories: One
+wall charger with
+
+Yes Yes, No
+
+                               4 / 6
+
+
+
+ 
+
+USB/Data transfer
+cable
+
+Accessories: One ear
+phone
+
+Yes Yes, No
+
+Accessories: Mobile
+cover
+
+Back cover Flip cover, Back cover,
+No, Semi-rugged Back
+cover
+
+Accessories:
+Tempered glass
+
+No Yes, No, No, but with
+Screen protector
+
+Accessories: Carry
+pouch/Dust proof
+pouch
+
+No Yes, No
+
+CERTIFICATIONS BIS Registration
+conforming to IS:13252
+Part 1 with latest
+revision
+
+Yes *
+
+BIS Registration
+Number
+
+- *
+
+OEM warranty for
+smart phone
+
+1 1.0, 2.0
+
+OEM warranty for
+battery
+
+12 6, 12
+
+Availability of service
+centers all over India
+
+Yes *
+
+Warranty service Carry-in On-site, Carry-in
+
+CE certification Yes *
+
+CB/UL certification No *
+
+FCC certification No *
+
+ROHS certification Yes *
+
+Accessories Box Accessories wall charger with USB Flip cover, Back cover,
+Semi-rugged Back
+cover, Carry pouch,
+Dust proof pouch, Ear
+phone, Tempered
+glass, wall charger with
+USB, Data transfer
+cable
+
+Additional Features Sensors Fingerprint sensor Face unlock,
+Fingerprint sensor,
+Compass,
+Magnetometer,
+Proximity sensor,
+Accelerometer,
+Ambient light sensor,
+Gyroscope
+
+Colour Colour of
+Smartphone
+
+Black Black, White, Gold,
+Red, Blue, Green, Grey,
+Othet
+
+                               5 / 6
+
+
+
+ 
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Kulamani Khatua 751001,Arthaniti O
+Parishankhyan Bhawan,Unit
+V ,Bhubaneswar-751001
+
+760  15
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+2. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,3241 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Page 1 of 39 
+ 
+
+ 
+
+                         U.P. Electronics Corporation Limited 
+
+(U.P. Government Undertaking) 
+
+10 Ashok Marg, Lucknow-226001 
+
+ 
+
+Telephones: (0522) 2286808, 2286809, 4130303        Fax: (0522) 2288583 
+
+Website : www.uplc.in                                     E-mail : md@uplc.in, uplclko@gmail.com 
+
+ 
+
+Request for Proposal (RFP) 
+
+FOR 
+
+Digitization of Records including indexing and DMS Software  of 
+Property  of Allahabad Development Authority, Allahabad (U.P.)” 
+
+ 
+Bid REFERENCE   :  UPLC/Software / 2017-18/029 
+
+E-tender Portal    :   http://etender.up.nic.in 
+
+ 
+
+Critical Dates   
+
+SN Particulars Date Time 
+
+1  Publishing Date 13 Dec 2017 06:55 PM 
+
+2  Bid Submission Start Date 13 Dec 2017  6:55 PM 
+
+Onwards 
+
+3  Bid Submission End Date 22 Dec 2017 01:00 PM 
+
+4 Bid Opening Date 22 Dec 2017 01:30 PM 
+
+ 
+
+Place of Opening e-Bids       :  UP Electronics Corporation Ltd  
+
+                                                          10-Ashok Marg, 
+
+                                                                    Lucknow-226001 
+
+             
+
+ 
+
+This Document Contains –      38 pages 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+http://www.uplc.in/
+mailto:md@uplc.in
+mailto:uplclko@gmail.com
+
+
+ 
+
+Page 2 of 39 
+ 
+
+Index 
+ 
+
+SN Contents Page 
+
+Nos 
+
+1 e-Bid Notice 3 
+
+2 Introduction (About ADA) 5 
+
+3 SECTION I : Letter of Invitation 7 
+
+4 SECTION II: INSTRUCTIONS TO BIDDERS (ITB) 8 
+
+5 SECTION III: TERMS OF REFERENCE (TOR) AND SCOPE OF WORK 13 
+
+6 SECTION IV: BIDDER'S ELIGIBILITY CRITERIA  15 
+
+7 SECTION V – STANDARD TERMS AND CONDITIONS 16 
+
+8 SECTION VI-  TECHNICAL PROPOSAL SUBMISSION FORM (Annexure I & II) 26 
+
+9 DECLARATION FOR PROPOSAL SUBMISSION FORM (Annexure III) 37 
+
+10 FINANCIAL PROPOSAL SUBMISSION FORM (Annexure IV) 38 
+
+ 
+
+ 
+
+
+
+ 
+
+Page 3 of 39 
+ 
+
+ 
+
+e-Bid Notice 
+
+                                                                        FOR 
+
+Digitization of Records including indexing and DMS Software of 
+Property  of Allahabad Development Authority, Allahabad (U.P.)” 
+ Online e-bids are invited from experienced Service Providers, who are already empanelled 
+
+with U.P. Electronics Corporation Limited under Job Category II (IT enable services) and Service 
+
+Provider Category (“B”, “C”, “D”) only for Digitization of Records including indexing and 
+DMS Software  of Property  of Allahabad Development Authority, Allahabad (U.P.)” 
+
+  
+
+The e-bids are invited from 13 Dec 2017 to 22 Dec 2017and e-Bids shall be opened on the 
+
+22 Dec 2017or afterwards. The details of submission of e-Bids are available in the e-Bid 
+
+document uploaded on the e-tender portal http://etender.up.nic.in and website www.uplc.in. The 
+
+Corporation reserves the right to cancel any or all the e-Bids or annul the Bidding process without 
+
+assigning any reason there of.   
+
+ 
+
+ 
+
+Managing Director 
+
+                                        U.P. Electronics Corporation Ltd. 
+
+  10 Ashok Marg 
+
+ Lucknow-226001 
+
+ 
+
+ e-Bid Ref No: UPLC/Software / 2017-18/029                    
+
+http://www.uplc.in/
+
+
+ 
+
+Page 4 of 39 
+ 
+
+ 
+
+                      Request for Proposal  
+
+For 
+
+Digitization of Records including indexing and DMS Software  of 
+Property  of Allahabad Development Authority, Allahabad (U.P.)” 
+ 
+
+The Information Technology (I.T.) Act, 2000 enacted by Government of India provides the 
+
+necessary legal and regulatory frame work in which we will use IT in our daily lives.  This law 
+
+has created the right environment for the entry of the private entrepreneur and at the same time, 
+
+defines the standards of services to the consumers and mainly to the rural masses. 
+
+ 
+
+U.P. Electronics Corporation Ltd (UPLC) is the nodal agency appointed by the Government of 
+
+Uttar Pradesh to provide IT/ITES solutions to the departments. One of the main objectives of the 
+
+State Government’s IT effort is to provide speedy, transparent, accountable and efficient conduct 
+
+of Government Systems and Delivery of Services. The Government of UP shall use Information 
+
+Technology as a tool to reduce poverty. The Government is the largest service provider to the 
+
+rural masses who are handicapped by the lack of information. The UPLC, being the nodal agency 
+
+is committed to provide the necessary inventories for the spread of IT based education, healthcare, 
+
+agriculture and allied information in the rural areas. 
+
+SERVICES PROVIDED BY THE UPLC: 
+
+(i) To Provide IT Consultancy to Various State Government Establishments of Uttar Pradesh. 
+                        
+
+(ii)  To provide services as `System Integrator’ to Various State Government Establishments 
+of Uttar Pradesh. 
+
+(iii) To Provide Hardware Solutions with Installation, Commissioning and Warranty (ICW) to 
+meet out the requirement of Various State Government Establishments of Uttar Pradesh. 
+
+(iv)  To Provide Software Solutions to cater to the requirement of Various State Government 
+Establishments of Uttar Pradesh. 
+
+(v) To Provide IT&ITES Solution on a turnkey basis suitable for end-to-end or partial 
+functioning of State Government Establishments.   
+
+(vi)  To provide Computer Education and Training to the officials of various Government 
+Departments/ Organizations/Institutions 
+
+
+
+ 
+
+Page 5 of 39 
+ 
+
+About Allahabad Development Authority, Allahabad 
+(Web Site: http:// adaallahabad.in /) 
+
+ 
+
+ 
+
+Established in 1974 under the Uttar Pradesh Urban Planning & Development Act 1973, ADA has 
+
+progressed from small beginnings to embrace an overreaching authority in the development 
+
+scenario of Allahabad. In consonance with the aspirations of modern India, ADA aims at 
+
+coordinated and planned development of a historical city: to enable Allahabad to achieve pride of 
+
+place as the worthy capital of the largest State of the country which has played a very important 
+
+role in the Freedom Struggle, to extend urban infrastructure to absorb the pressures of a rapidly 
+
+changing society, and to provide an environment which would enable the utmost satisfaction level 
+
+of all sections of its inhabitants. 
+
+To fulfill its role, the Authority seeks to coordinate in accordance with a comprehensive Master 
+
+Plan along with the work of various other agencies involved in the creation and extension of urban 
+
+infrastructure.  
+
+The Objects of Authority 
+
+The objects of the Authority shall be to promote and secure the development of the development 
+
+area according to the plan and for that purpose the Authority shall have the power to acquire, hold, 
+
+manage and dispose of land and other property, to carry out building, engineering, mining and 
+
+other operations, to execute work in connection of supply of water and electricity, to dispose of 
+
+sewage and to provide and maintain other services and amenities and generally to do anything 
+
+necessary to expedient for purpose of such development and for purpose of incidental thereto: 
+
+Provided that save as provided in the U.P. Urban Planning and Development act nothing 
+
+contained in this Act shall be construed as authorizing the disregard by the Authority of any law 
+
+for the time being in force. been designed by the Development Authority keeping in mind the ever 
+
+growing population, latest trends, financial development and the rise in the tourism sector but the 
+
+perseverance of old architecture and conservation of cultural heritage of the city has been given 
+
+the almost importance. 
+
+
+
+ 
+
+Page 6 of 39 
+ 
+
+SECTION I: Letter of Invitation 
+
+Through this Request for Proposal (RFP), it is intended to invite e-Bids for the selection of 
+
+appropriate Software Agency/firm for the work of Digitization of Records including indexing 
+and DMS Software  of Property  of Allahabad Development Authority, Allahabad (U.P.)” 
+
+Bidders are advised to study the e-Bid document carefully.  
+
+1. Submission of e-Bids against this tender shall be deemed to have been done after careful study 
+and examination of the procedures, terms and conditions of the e-Bid document with full 
+
+understanding and its implications. 
+
+2. The Corporation may, at its own discretion, extend the date for submission of e-Bids. In such 
+case all the rights and obligations of the Corporation and Bidders previously subject to the 
+
+deadline will thereafter be subject to the deadline as extended.  
+
+3. Only those Service Providers who are empanelled in U.P. Electronics Corporation Ltd 
+under the Job Category – II (IT Enable Services) and Service {Provider Category                 
+
+(“B”, “C”, “D”) vide e-bid reference no  UPLC/ Software / Empanelment 06/2014-15, 
+
+UPLC/ Software / Empanelment 07/2015-16 UPLC/ Software / Empanelment 08/2015-16 
+
+and UPLC/ Software / Empanelment 09/2015-16 are eligible to participate in this Tender. e-
+
+Bids submitted by any other bidders will be treated as non responsive and will not be 
+
+considered against this e-Bid. 
+
+4. The e-Bid document is available on e-tender portal http://etender.up.nic.in and also on UPLC's 
+website www.uplc.in.   Interested Bidders May view, download the e-Bid document, seek 
+
+clarification and submit these e-Bids online only on e-tender portal  http://etender.up.nic.in, up 
+
+to the date and time mentioned in the table below:- 
+
+e-Bid Reference No. UPLC/Software / 2017-18/029 
+
+Purpose  Request For Proposal (RFP) for Digitization of Records including indexing 
+and DMS Software  of Property  of Allahabad Development Authority, 
+Allahabad (U.P.)” 
+
+Date of Publication of e-Bid notice 13 Dec 2017 on  e-tender portal http://etender.up.nic.in  and website 
+
+of UPLC  www.uplc.in  
+
+Last date for submission of e-Bids 22 Dec 2017up to 01:00 P.M.  
+
+Site for submission of e-Bid http://etender.up.nic.in 
+
+Web site address www.uplc.in 
+
+e-mail address uplcsoftware@gmail.com , md@uplc.in,                                
+
+uplclko@gmail.com  
+
+e-Bid Inviting Officer Managing Director 
+
+Date of opening of e-Bids 22 Dec 2017at 01:30 PM or afterwards 
+
+Venue of Opening of e-Bids UP Electronics Corporation Ltd,  
+
+10, Ashok Marg, Lucknow-226001 
+
+Contact numbers 0522-2286808, 0522-2286809,  0522- 4130303 
+
+Fax  number 0522-2288583 
+
+5. UPLC reserves the right to cancel any or all the e-Bids or annul the e-Bid process without 
+assigning any reason thereof.  
+
+6. All the required documents must be uploaded by the Bidders electronically in the PDF 
+format.  It is suggested that the PDF Files should be made in grayscale using the minimum 
+
+readable appropriate resolution so that the size of the files is minimized for fast uploading on the 
+
+e-Bid portal http://etender.up.nic.in. The required electronic documents for each document label 
+
+of Technical (Fee details, Annexure etc) schedules/packets can be clubbed together to make single 
+
+different files for each label. The size of single label file should not exceed 20-25 MB size. 
+
+http://etender.up.nic.in/
+http://www.uplc.in/
+http://www.uplc.in/
+mailto:uplcsoftware@gmail.com
+mailto:md@uplc.in
+mailto:uplclko@gmail.com
+
+
+ 
+
+Page 7 of 39 
+ 
+
+      SECTION II: INSTRUCTIONS TO BIDDERS (ITB) 
+
+ 
+
+1. DEFINITIONS 
+
+ 
+
+In this Contract, the following terms shall be interpreted:  
+
+ 
+
+a. “The Software Company/Firm” means only those Software Fims/Companies who are 
+empanelled in U.P. Electronics Corporation Ltd as Service Provides vide e-bid reference 
+
+no UPLC/Software /Empanelment 06/2013-14, UPLC/ Software / Empanelment 07/2014-15, 
+
+UPLC/ Software / Empanelment 08/2015-16 and UPLC/ Software / Empanelment 09/2015-16.  
+
+ 
+
+b. “e-Bid” means the Technical proposal and the financial proposal. 
+ 
+
+c. “Instructions to Bidders” means the document which provides interested Bidders with all 
+information needed to prepare their Bids. This document also details out the process for 
+
+the selection of the Consultant for the work mentioned in this tender document. 
+
+ 
+
+d. “Scope of work” (SOW) means  Scope of work mentioned in Section III: Terms of 
+Reference of the RFP which explains the objectives, Scope of  work, activities, tasks to be 
+
+performed, and expected results and deliverables of the assignment, respective 
+
+responsibilities of the Purchaser and the Bidder.  
+
+ 
+
+e. “The Contract rates” mean the charges for the various consultancy assignment payable to 
+the Consultant under the Contract for the full and proper performance of its contractual 
+
+obligations; 
+
+ 
+
+f. “Services” means the Development and implementation of application Software services 
+and other obligations of the Service provider covered under the Work Order/Contract; 
+
+ 
+
+g. “The Project Site”, where applicable, means the sites or offices of Special Secretary 
+Allahabad Development Authority, Allahabad. 
+
+h.   
+i. “Day” means a calendar day. 
+
+ 
+
+j. The “End-Customer/Client Department” means the Special Secretary Allahabad 
+Development Authority, Allahabad. 
+
+ 
+
+2. THE BIDDING DOCUMENT 
+
+ 
+
+1. Availability of e-Tender Document 
+This e-tender document is available on the e-tender portal http://etender.up.nic.in and 
+
+UPLC's website www.uplc.in to enable the Bidders to view and download the Bidding 
+
+document, submit their e-Bids online up to the last date and time mentioned in e-tender 
+
+document only on e-Bid portal http://etender.up.nic.in.  
+
+ 
+
+ 
+
+ 
+
+http://www.uplc.in/
+http://etender.up.nic.in/
+
+
+ 
+
+Page 8 of 39 
+ 
+
+ 
+
+2. Contents of e-Bid Document 
+The nature and types of various consultancy services required, Bidding procedure, 
+
+ terms and conditions etc. are prescribed in the e-bid document. The e-bid document  
+
+includes: 
+
+ 
+
+• SECTION I   : LETTER OF INVITATION 
+
+• SECTION II  : INSTRUCTIONS TO BIDDERS (ITB) 
+
+• SECTION III : TERMS OF REFERENCE (TOR) AND SCOPE OF WORK 
+
+• SECTION IV : BIDDER'S ELIGIBILITY CRITERIA  
+
+• SECTION V  : STANDARD TERMS AND CONDITIONS 
+
+• SECTION VI : TECHNICAL PROPOSAL SUBMISSION FORM (Annexure I & II) 
+
+• DECLARATION FOR PROPOSAL SUBMISSION FORM  (Annexure III) 
+
+• FINANCIAL PROPOSAL SUBMISSION FORM (Annexure IV) 
+
+ 
+
+The Bidders are expected to examine all the instructions, forms, terms and conditions, 
+
+requirements and qualifications in the e-tender documents. Failure to furnish all the 
+
+information required as per the Bidding documents or submission of an e-Bid not 
+
+responsive to the e-tender document in every respect will be at the Bidder’s risk and May 
+
+result in the rejection of his e-Bid.  
+
+ 
+
+3. Clarifications of e-Tender Documents 
+A prospective Bidder requiring any clarification of the e-tender documents may raise his 
+
+point of clarification to UPLC’s e-mail uplcsoftware@gmail.com, md@uplcl.in or 
+
+uplclko@gmail.com.  
+
+ 
+
+4. Amendment of e-Tender Document 
+At any time prior to the deadline for submission of eBids, the UPLC May, for any reason, 
+
+whether at its own initiative or in response to a clarification requested by a prospective 
+
+Bidder, modify the e-tender document by amendments. Such amendments shall be posted/ 
+
+uploaded on the e-tender portal http://etender.up.nic.in  through corrigendum and shall 
+
+form an integral part of the eBid documents. The relevant clauses of the e-tender 
+
+documents shall be treated as amended accordingly. 
+
+ 
+
+It shall be the sole responsibility of the prospective Bidders to check the e-tender portal 
+
+http://etender.up.nic.in and www.uplc.in from time to time for any amendment in the e-Bid 
+
+document. In case of failure to get the amendments, if any, the UPLC shall not be 
+
+responsible for any negligence on part of the Bidder. 
+ 
+
+In order to allow prospective Bidders a reasonable time to take the amendment into 
+
+account in preparing their e-Bids, UPLC at its discretion, May extend the deadline for the 
+
+submission of e-Bids. Such extensions shall be posted/up-loaded on the e-tender portal 
+
+http://etender.up.nic.in.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+mailto:uplcsoftware@gmail.com
+mailto:md@uplcl.in
+mailto:uplclko@gmail.com
+http://etender.up.nic.in/
+http://etender.up.nic.in/
+http://www.uplc.in/
+http://etender.up.nic.in/
+
+
+ 
+
+Page 9 of 39 
+ 
+
+3.    PREPARATION & SUBMISSION OF e-Bids 
+
+3.1 Documents Constituting the e-Bid 
+The e-Bids prepared by the Bidder shall comprise the following components: 
+
+e-Bids - e-Bids will comprise of: 
+ 
+
+a) Technical proposal submission form – Annexure I & II 
+b) Financial proposal submission form – Annexure III & IV 
+ 
+
+3.2 Documents Establishing Bidder’s Qualification 
+ 
+
+ The Bidder shall furnish, as part of Technical Proposal (Annexure I& II), documents 
+
+establishing the qualification to perform the Contract.  The documentary evidence in 
+
+support of the information furnished should be submitted by the Bidder electronically in 
+
+the PDF format.  The Bidder's eligibility criteria and selection procedure are defined in 
+
+Section IV of e-Tender document. 
+
+ 
+
+ It is suggested that the PDF files should be made in grayscale using the minimum readable 
+
+appropriate resolution so that the size of the files is minimized for fast uploading on the e-
+
+Bid portal.    
+
+ 
+
+4 Format and Signing of e-Bids 
+ 
+
+The Bidder shall prepare one electronic copy for the e-Bids.  
+
+ 
+
+Bidder or a person or persons duly authorized to bind the Bidder to the Contract. All the 
+
+pages/ documents of the e-Bid shall also be signed manually by the person authorized to 
+
+sign the e-Bids before converting them into PDF and uploading them as bidding 
+
+documents. 
+
+ 
+
+5 Submission of e-Bids 
+ 
+
+The e-Bid Submission module of e-tender portal http://etender.up.nic.in   enables the 
+
+Bidders to submit the e-Bid online against the e-tender published by the UPLC. Bid 
+
+Submission can be done only from the Bid Submission start date and time till the e-Bid 
+
+Submission end date and time given in the e-Bid. Bidders should start the Bid Submission 
+
+process well in advance so that they can submit their e-Bid in time. The Bidders should 
+
+submit their Bids considering the server time displayed in the e-tender portal. This server 
+
+time is the time by which the Bid submission activity will be allowed till the permissible 
+
+time on the last/end date of submission indicated in the e-tender schedule. Once the Bid 
+
+submission date and time is over, the Bidders cannot submit their e-Bid. For delay in 
+
+submission of e-Bids due to any reasons, the Bidders shall only be held responsible.  
+
+ 
+
+The Bidders have to follow the following instructions for submission of their e-Bids: 
+
+ 
+
+For participating in e-tender through the e-Biding system, it is necessary for the Bidders to 
+
+be the registered users of the e-tender portal http://etender.up.nic.in.  For this, the Bidders 
+
+have to register themselves by depositing a fee of Rs 6000/- (Rupees Six thousands only) 
+
+in the office of U.P. Electronics Corporation Limited, 10, Ashok Marg,  Lucknow-226 001 
+
+for getting a valid User ID and password and the required training/ assistance etc. on e-
+
+
+
+ 
+
+Page 10 of 39 
+ 
+
+tender portal http://etender.up.nic.in. The Bidders May contact U.P. Electronics 
+
+Corporation Limited at the contact details given in Section I of e-tender document. 
+
+ 
+
+In addition to the normal registration, the Bidder has to register with his/her Digital 
+
+Signature Certificate (DSC) in the e-Biding system and subsequently he/she will be 
+
+allowed to carry out his/her e-Bids submission activities. Registering the Digital Signature 
+
+Certificate (DSC) is a onetime activity till its validity. Before proceeding to register his/her 
+
+DSC, the Bidder should first log on to the e-Biding system using the User Login option on 
+
+the home page with the Login Id and Password with which he/ she has registered as 
+
+enumerated in the preceding paragraph above.  
+
+ 
+
+For successful registration of DSC on e-Procurement portal http://etender.up.nic.in the 
+
+Bidder must ensure that he/she should possess Class-2/ Class-3 DSC issued by any one of 
+
+certifying authorities approved by Controller of Certifying Authorities, Government of 
+
+India. The Bidder May also apply to office of U.P. Electronics Corporation Limited, 
+
+(UPLC) for getting  DSC at the address given in the preceding paragraph above on a 
+
+prescribed form available at UPLC’s website www.uplc.in along with the payment of fee 
+
+of Rs 1704/- per person, The Bidder is also advised to register his/her DSC on e-tender 
+
+portal well in advance before Bid submission end date so that he/she should not face any 
+
+difficulties while submitting his/her e-Bid against this e-tender. The Bidder can perform  
+
+User Login registration/creation and DSC registration exercise as described in preceding 
+
+paragraphs above even before e-Bid submission date starts. The UPLC shall not be held 
+
+responsible if the Bidder tries to submit his/her e-Bids at the last moment before end date 
+
+of submission but could not submit due to DSC registration or any other technical 
+
+problems. 
+
+ 
+
+The Bidder can search for active Bids through "Search Active Bids" link, select a Bid in 
+
+which he/she is interested in and then move it to ‘My Bids’ folder using the options 
+
+available in the e-Bid Submission menu. After selecting and viewing the Bid, for which 
+
+the Bidder intends to e-Bid, from "My Bids" folder, the Bidder can place his/her Bid by 
+
+clicking "Pay Offline" option available at the end of the view Bid details form. Before this, 
+
+the Bidder should download the Bid document and study hem carefully.  The Bidder 
+
+should keep all the documents ready as per the requirements of e-Bid document in the PDF 
+
+format. 
+
+ 
+
+After clicking the ‘Pay Offline’ option, the Bidder will be redirected to the Terms and 
+
+Conditions page. The Bidder should read the Terms & Conditions before proceeding to fill 
+
+in the Processing Fee offline payment details. After entering and saving the Processing fee 
+
+details, the Bidder should click "Encrypt & Upload" option given in the offline payment 
+
+details form so that "Bid Document Preparation and Submission" window appears to 
+
+upload the required documents Technical Proposal Submission Form etc (Annexure "I" to 
+
+Annexure "IV") of this e-tender document.  The details of the Demand Draft or any other 
+
+accepted instrument which is to be physically sent in original before Bid submission  and 
+
+date and time, should tally with the details available in the scanned copy and the data 
+
+entered during e-Bid submission time otherwise the e-Bid submitted will not be accepted. 
+
+Before uploading, the Bidder has to select the relevant Digital Signature Certificate. He 
+
+May be prompted to enter the Digital Signature Certificate password, if necessary. For 
+
+uploading, the Bidder should click "Browse" button against each document label in 
+
+Technical schedules/packets and then upload the relevant PDF files already prepared and 
+
+
+
+ 
+
+Page 11 of 39 
+ 
+
+stored in the Bidder's computer. The required documents for each document label 
+
+of Technical. Schedules/packets can be clubbed together to make single different 
+
+files for each label.  
+
+ 
+
+The Bidder should click "Encrypt" next for successfully encrypting and uploading of 
+
+required documents. During the above process, the Bid documents are digitally signed 
+
+using the DSC of the Bidder and then the documents are encrypted/locked electronically 
+
+with the DSC’s of the Bid openers to ensure that the Bid documents are protected, stored 
+
+and opened by concerned Bid openers only. 
+
+ 
+
+After successful submission of e-Bids, a page giving the summary of e-Bid submission 
+
+will be displayed confirming end of e-Bid submission process. The Bidder can take a 
+
+printout of the Bid summary using the "Print" option available in the window as an 
+
+acknowledgement for future reference. 
+
+ 
+
+6 Deadline for Submission of e-Bids 
+ 
+
+E-Bids must be submitted by the Bidders on e-tender portal http://etender.up.nic.in, not 
+
+later than the date and time specified in this e-tender document. 
+
+ 
+
+The UPLC May extend this deadline for submission of e-Bids by amending the e-tender 
+
+document in accordance with ITB Clause 4, in which case all rights and obligations of the 
+
+UPLC and Bidders previously subject to the deadline will thereafter be subject to the 
+
+deadline as extended. 
+
+ 
+
+UPLC shall not consider any request for date-extension for e-Bid-submission on account 
+
+of late downloading of e-tender (RFP) by any prospective Bidder. E-Bids should be 
+
+uploaded on e-tender portal http://etender.up.nic.in on or before 01:00 P.M. of                            
+
+22 Dec 2017. 
+
+ 
+
+7 Late e-Bids 
+ 
+
+The server time indicated in the Bid Management window on the e-tender portal 
+
+http://etender.up.nic.in will be the time by which the e-Bids submission activity will be 
+
+allowed till the permissible date and time scheduled in the e-tender. Once the e-Bids 
+
+submission date and time is over, the Bidder cannot submit his/ her Bid. Bidder has to start 
+
+the e-Bid Submission well in advance so that the submission process passes off smoothly. 
+
+The Bidder only, will be held responsible if his/ her e-Bids are not submitted in time due 
+
+to any reasons. 
+
+ 
+
+8 Withdrawal and Resubmission of e-Bids 
+ 
+
+At any point of time, a Bidder can withdraw his/ her e-Bids submitted online before the e-
+
+Bids submission end date and time. For withdrawing, the Bidder should first log in using 
+
+his/ her Login Id and Password and subsequently by his/ her Digital Signature Certificate 
+
+on the e-procurement portal http://etender.up.nic.in. The Bidder should then select "My 
+
+Bids" option in the Bid Submission menu. The page listing all the Bids submitted by the 
+
+Bidder will be displayed. Click "View" to see the details of the Bid to be withdrawn. After 
+
+selecting the "Bid Withdrawal" option, the Bidder has to click "Yes" to the message "Do 
+
+
+
+ 
+
+Page 12 of 39 
+ 
+
+you want to withdraw this Bid?" displayed in the Bid Information window for the 
+
+selected Bid. The Bidder also has to enter the Bid Withdrawing reasons and upload 
+
+the letter giving the reasons for withdrawing before clicking the ”Submit" button. The 
+
+Bidder has to confirm again by pressing "Ok" button before finally withdrawing his/ her 
+
+selected Bid. Once the Bidder has withdrawn his /her Bid he/she cannot re-submit this Bid 
+
+again. 
+ 
+
+The Bidder has to request the UPLC with a letter, attaching the proof of withdrawal and 
+
+submission of e-Bids Processing Fee in the office of Managing Director, UPLC, to return 
+
+back the e-Bids Processing Fee as per the procedure. 
+ 
+
+The Bidder can resubmit his/ her e-Bids as and when required till the Bid submission end 
+
+date and time. The e-Bids submitted earlier will be replaced by the new one. The payment 
+
+made by the Bidder earlier will be used for revised e-Bids and the new Bid submission 
+
+summary generated after the successful submission of the revised e-Bids will be 
+
+considered for evaluation purposes. For resubmission, the Bidder should first log in using 
+
+his/ her Login ID and Password and subsequently by his/ her Digital Signature Certificate 
+
+on the e-procurement portal http://etender.up.nic.in. The Bidder should then select "My 
+
+Bids" option in the Bid Submission menu. The page listing all the Bids submitted by the 
+
+Bidder will be displayed. Click "View" to see the details of the Bid to be resubmitted. 
+
+After selecting the "Bid Resubmission" option, click "Encrypt & Upload" to upload the 
+
+revised e-Bids documents by following the methodology provided in clauses 09 above. 
+ 
+
+The Bidders can submit their revised Bids as many times as possible by uploading their e-
+
+Bids documents within the scheduled date & time for submission of e-Bids. 
+ 
+
+No e-Bids can be resubmitted subsequently after the deadline for submission of e-Bids. 
+ 
+
+9 Receipt and Opening of e-Bids by the Purchaser 
+ 
+
+Bidders are advised to submit their e-bids in ‘Two-Bid’ system with Technical and 
+
+Financial bids separately on e-tender portal. 
+ 
+
+Please note that prices should not be quoted in the Technical Bid. The Prices should be 
+
+quoted in the Financial Bid only. On receipt on e-tender portal, the technical proposals will 
+
+be opened first by the Committee members in the office of U.P. Electronics Corporation 
+
+Ltd, Lucknow. 
+ 
+
+UPLC will open all e-Bids, in the presence of bidder’s authorized representatives who 
+
+choose to attend at 01:30 PM on 22 Dec 2017at UP Electronics Corporation Ltd, 10 
+
+Ashok Marg, Lucknow-226010. The bidder’s representatives who are present shall sign a 
+
+register evidencing their attendance. In the event of the specified date of e-Bid opening 
+
+being declared a holiday for the Purchaser, the e-Bids shall be opened at the appointed 
+
+time and place on the next working day. The bidder’s names and the presence and other 
+
+details as the Purchaser at its discretion May consider appropriate, will be announced at 
+
+the opening. The name of such bidders not meeting the qualification requirement shall be 
+
+notified subsequently. 
+
+ 
+
+After evaluation of technical e-Bids, UPLC shall notify those bidders whose e-Bids were 
+
+considered non-responsive to the Conditions of the Contract and not meeting the 
+
+Qualification Requirements indicating that they did not technically qualify for selection as 
+
+Consultant. UPLC will simultaneously notify the bidders, whose technical e-Bids were 
+
+considered acceptable and they have been short listed for opening of their financial e-bids. 
+
+
+
+ 
+
+Page 13 of 39 
+ 
+
+SECTION III: TERMS OF REFERENCE (TOR) AND SCOPE OF WORK 
+
+ 
+Digitization of Records including indexing and DMS Software  of Property  of 
+Allahabad Development Authority, Allahabad (U.P.)” 
+
+                               Scope of Work 
+ 
+
+1. Image needed to be indexed along with metadata. 
+
+2. Files images should be in PDF format. 
+
+3. Software needed to store and retrieve the scanned files /image based on 
+
+USER ID and PASSWORD. 
+
+4. Software should be enabled with category and subcategory as described by 
+
+ADA. 
+
+5. Scanned images needed to be uploaded by the URL provided by ADA. 
+
+6. Files images indexing should be linked with file barcodes affixed on the file. 
+
+7. Software license for minimum 100 people to begin with. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+Page 14 of 39 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+Page 15 of 39 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+Page 16 of 39 
+ 
+
+SECTION IV: BIDDER'S ELIGIBILITY CRITERIA 
+
+ 
+
+Only those bidders shall be eligible for bidding in this tender who are 
+
+empanelled in UPLC under  Job Category – II (IT Enable Services) and 
+
+Service Provider Category (“B”,“C”,“D”) only vide e-bid reference no 
+
+UPLC/Software /Empanelment 06/2013-14,  UPLC/ Software / 
+
+Empanelment 07/2014-15, UPLC/ Software / Empanelment 08/2015-16 
+
+and UPLC/ Software / Empanelment 09/2015-16. 
+
+a) Bids should comprise of following sections:  
+
+i) Technical Bid    
+
+ii) Financial Bid     
+ 
+
+b) Both the bids must be submitted separately on e-tender portal 
+http://etender.up.nic.in.  Prices   should not be quoted in the Technical Bid. 
+
+The prices should be quoted in the Financial Bid only. 
+
+c) The bidder should submit/upload  the following documents as mentioned in   SECTION 
+VI  (Annexure –I&II) of Technical Proposal Submission  along with the followings  
+
+for technical eligibility of the tender failing which your bid may be rejected:-   
+
+              (i)        Strategy and Work Plan of completing the entire job work 
+
+             (ii)       Requirement of Infrastructure (Hardware) for the execution of the entire Job 
+
+             (iii)      Past Experience in the field of scanning and digitization 
+
+ 
+
+  (iv)       Demo Screen Shots 
+
+  (v)        Business Process Logic (Annexure –II) 
+
+• Functional Requirement Specifications 
+
+• Software Architecture Diagram 
+
+• Business Use Cases of Each Module Based on UML Diagrams 
+
+• Sequence Diagram of Each Module Based on UML Diagrams 
+
+• Collaboration Diagram of Each Module Based on UML Diagrams 
+
+• Activity Diagram of Each Module Based on UML Diagrams 
+
+• Deployment Diagram of Each Module Based on UML Diagrams 
+
+• Proposed Hardware Requirement (if required). 
+
+• Proposed Development Technology 
+
+ 
+
+http://etender.up.nic.in/
+
+
+ 
+
+Page 17 of 39 
+ 
+
+        SECTION V – Standard Terms and Conditions 
+
+ 
+
+1. Prices 
+1.1 The total Prices (F.O.R. destination) quoted by the Service Provider should be F.O.R. 
+
+destination and inclusive of all prevalent Taxes e.g. VAT, Service Tax, Duties, License 
+
+fees, etc till delivery , installation and implementation of application software and all the 
+
+services to the end-customer.    
+
+1.2  If at any time during the said period, the Service Provider reduces the sale price, sells, or 
+
+offers to sell such Services and goods to any person/organization, Central or State 
+
+Government Departments etc as the case May be, at a price lower than the price chargeable 
+
+under the contract, the Service Provider shall forthwith notify such reduction, or sale or 
+
+offer to sell to the UP Electronics Corporation Ltd (UPLC) and the price payable under the 
+
+contract for the supply of Services and material after the date of coming into force of such 
+
+reduction or sale or offer to sell, shall stand correspondingly reduced. 
+
+2. Period of Validity of Offer 
+The offer shall remain valid for 150 days after the date of offer opening prescribed by 
+
+UPLC.   Any offer valid for a shorter period shall be rejected by UPLC as non-responsive.   
+
+3. UPLC's Centage Charges 
+UPLC's Centage Charges as per norms, would be added over and above the prices quoted by 
+
+the Vendor/negotiated prices payable to the Service Provider, before submission of final 
+
+proposal of UPLC to the end-customer, by UPLC. 
+
+4. Scope of Work 
+The Scope of Work shall be as per requirement of the end-customer, as mentioned in Section –
+
+III (Terms of Reference (TOR) And Scope of Work.  
+
+5. Time Schedule/Delivery Period 
+The supply or installation  of Software and training as per schedule mentioned in Section-III 
+
+and all other items and integrated Solution, if required in the project to the end-customer 
+
+should be completed within the time (75 days) specified by the end-customer/as per 
+
+requirement of the project.   
+
+6. Submission of Offer 
+The Service Provider should submit their e-bid duly signed and stamped by the authorized 
+
+Signatory on each and every page of the documents.    
+
+7. Evaluation of Offers 
+The Service Providers will upload their e-bid within stipulated time. The selection will be 
+
+based on the proven competence of technically qualified bidder and lowest bid. 
+
+8. Changes in Technical Specifications 
+8.1  UPLC reserves the rights to effect changes within the general scope of work in 
+
+consultation with the end-customer in any one or more of the following: 
+
+(a) technical specifications of the systems and Goods to be furnished under the scope of 
+work are to be specifically designed and manufactured to meet the requirement of 
+
+project for supply to end-customer; and the application software so developed on the 
+
+required SW environment to meet the requirement of project 
+
+(b) the method of transportation or packing; 
+(c) the place of delivery; and/or 
+(d) The Services to be provided by the Service Provider. 
+
+ 
+
+8.2 Any such change will be notified in writing, before opening of the financial 
+
+proposal/quotation.  In case, any of the Service Provider has already submitted its offer 
+
+before receiving the notification of changes from UPLC, will be allowed to submit its 
+
+
+
+ 
+
+Page 18 of 39 
+ 
+
+revised offer.  If any such change causes an increase or decrease in the cost, or the 
+
+time required for, the Supplier’s performance of any provisions under the Contract, 
+
+an equitable adjustment shall be made in the Contract Price or delivery schedule, or both, 
+
+and the Contract shall accordingly be amended. Any claims by the Supplier for adjustment 
+
+under this clause must be asserted within seven (7) days from the date of the Supplier’s 
+
+receipt of the Purchaser’s change order. 
+
+9. Right to negotiate 
+The negotiation, if required shall be carried out only with the technically qualified with the 
+
+lowest Bidder  by UPLC and/or end-customer / any other competent authority/ high power 
+
+purchase committee of the State Government as per the procedures/policy of the Government 
+
+of UP, prevailing at that point of time. 
+
+10. Award Criteria 
+10.1 The UPLC will determine to its satisfaction whether the Service Provider that is 
+
+selected as having submitted the lowest evaluated responsive offer, meets the criteria 
+
+specified, and is qualified to perform the contract satisfactorily.   
+
+10.2 Lowest (L-1) cost will be evaluated based on the total cost quoted (sr.no 1 to 5) 
+
+against Financial Bid (BOQ) – Annexure -IV. 
+
+10.3 The UPLC will award the contract/order to the lowest evaluated successful Service 
+
+Provider whose offer has been determined to be responsive to all the conditions of the contract 
+
+and meeting the Technical specification and qualification requirement of the end-customer.     
+
+11. Acceptance of the Bid 
+UPLC do not bind itself to accept the lowest or any bid, and reserves the right to:-  
+
+(a) Reject any or all offers with/without any reason 
+(b) Accept any offer of Service Provider without assigning any reason and also reduce 
+
+or extend the period of contract without assigning any reason. 
+
+(c) Accept any offer of Service Provider, who is capable to handle the project and/or 
+whose offer is viable. 
+
+ 
+
+12. Notification of Award 
+12.1 After receiving the firm Order from the end-customer, prior to the expiration of the 
+
+validity period (i.e. 150 days), UPLC will notify the successful Service Provider in writing by 
+
+letter/e-mail/fax, that its offer has been accepted. 
+
+12.2 The notification of award will constitute the formation of the Contract. 
+
+13. Signing of Contract 
+ 
+
+13.1  As soon as the UPLC notifies the successful Service Provider whose offer has been 
+
+accepted, the UPLC will send the Service Provider the Contract Form, incorporating all the 
+
+conditions of the contract between the parties i.e. UPLC and successful Service Provider, and 
+
+if required with the end-customer also. 
+
+13.2 Within 7 days of receipt of the Contract Form, the successful Service Provider 
+
+shall execute, sign and date the Contract and return it to the UPLC. 
+
+14. Inspection & Tests 
+ 
+
+Inspection and tests prior to web enabled application software for Work Progress Information 
+
+System (WPIS) and at final acceptance are as follows: 
+
+ 
+
+14.1 
+
+
+
+ 
+
+Page 19 of 39 
+ 
+
+(i) Service Provider shall intimate to the UPLC indicating that the developed Application 
+Software and are ready for inspection and the UPLC can send their representative for 
+
+inspection at their premises. After receipt of such intimation from the Service Provider, the 
+
+UPLC shall arrange for test.   The test will be conducted in the premises of the Service 
+
+Provider prior to supply and installation at final destination. For conducting the inspection and 
+
+tests at the premises of the Service Provider, all reasonable facilities and assistance, shall be 
+
+furnished by the Service Provider at no charge to the inspectors of the UPLC/end-customer. 
+
+The developed application Software, which is required to be carried out after approval of SRS, 
+
+Design document etc by the end-customer, such approved application Software should be 
+
+delivered and installed by the Service Provider at the respective sites within the time schedule 
+
+and integrate it with the Hardware environment for satisfactory performance of the project. For 
+
+site preparation, the Service Provider should furnish all details to the UPLC sufficiently in 
+
+advance so as to enable to the en-customer to get the works completed before receipt of the 
+
+equipment.  
+
+(ii)      The acceptance test will be conducted by the UPLC/end-customer, their consultant or any other 
+person nominated by the UPLC/end-customer, at its option. There shall not be any additional 
+
+charges for carrying out acceptance tests. The acceptance will involve trouble-free operation 
+
+during acceptance testing period. No malfunction, partial or complete failure of any part of 
+
+hardware or excessive heating of motors attached to printers, drivers etc. or bugs and 
+
+malfunctioning in the software should occur. The software should be complete in itself in 
+
+totality or module-wise as approved in the project by the end-customer.  During acceptance 
+
+tests, the items having the same or only higher technical specifications as given in the contract 
+
+shall be accepted. The Service Provider shall maintain necessary log in respect of the result of 
+
+the tests to establish to the entire satisfaction of the UPLC/end-customer.   An average uptake 
+
+efficiency of 98% for the duration of test period shall be considered as satisfactory.  
+
+(iii)       In the event of the developed Application Software and/or goods failing to pass the acceptance 
+test, if carried out at site of installation, a period specified by UPLC/end-customer will be 
+
+given to rectify the defects and clear the acceptance test, failing which the UPLC/end-
+
+customer reserves the rights to get the application SW/equipments replaced by the Service 
+
+Provider at no extra cost.  
+
+ 
+
+14.2 The UPLC’s rights to inspect, test and, where-ever necessary, reject the Goods 
+
+after the Goods’ arrival at Project Site shall in no way be limited or waived by reason of the 
+
+Goods having previously been inspected, tested and passed by the UPLC or its representative 
+
+prior to the Goods shipment. 
+
+14.3 Manual and Drawing 
+
+14.3.1 The technical/operational/user manual shall be in the English or Hindi language and in 
+
+such form and numbers as stated in the purchase order. Manual May be in CD/DVD 
+
+Format also. 
+
+14.3.3 The Service Provider at its own expense will provide necessary training to the officials 
+
+of the end-customer on the Software and Systems supplied by the Service Provider. 
+
+ 
+
+15. Incidental Services  
+All the incidental costs e.g. On-site delivery & satisfactory installation of all the items 
+
+and/or LAN/WAN/Networking as per purchase order;  Furnishing all the manuals as per 
+
+purchase order to the project sites; and Maintenance and repair of the equipment at each 
+
+location during the comprehensive warranty period including the cost of all spares shall be 
+
+
+
+ 
+
+Page 20 of 39 
+ 
+
+deemed to be included in the Contracted Value with the Service Provider and the 
+
+Service Provider should provide such services without claiming for any extra 
+
+charges for it. 
+
+16. Warranty and Maintenance Services 
+a) The Service Providers shall be responsible for providing technical support for the 
+
+successful running of the software/system so developed/ deployed as per the approved 
+
+project during the period of Warranty (one year or otherwise specifically mentioned in 
+
+the end-customer’s order, from the date of successful installation). 
+
+b) The Service Providers shall be required to provide maintenance support of the 
+developed software and/(or) hardware equipment etc, provided to the client, under the 
+
+Specific Job awarded to the Service Provider, for the period mutually agreed upon with 
+
+the client.   
+
+c) The UPLC shall promptly notify the Service Provider in writing of any claims arising 
+under this warranty. 
+
+d) During warranty period, any changes suggested after one month of feedback time shall 
+be take care of in the support period extending up to one year. The 
+
+defects/bugs/edit/modification of application software shall be rectified or repaired 
+
+whatever required, by the Service Provider, to the satisfaction of the user departments.   
+
+Period for correction of defects in the warranty period is 48 hrs.   p 
+17. UPLC’s right to vary Quantities at the Time of Award 
+
+ 
+
+The UPLC reserves the right at the time of Contract award to increase or decrease the quantity 
+
+of goods and services originally specified in the Schedule of Requirements without any 
+
+change in unit price or other terms and conditions. 
+
+If any such change causes an increase or decrease in the cost, or the time required for, the 
+
+Supplier’s performance of any provisions under the Contract, an equitable adjustment shall be 
+
+made in the Contract Price or delivery schedule, or both, and the Contract shall accordingly be 
+
+amended. Any claims by the Supplier for adjustment under this clause must be asserted within 
+
+seven (7) days from the date of the Supplier’s receipt of the Purchaser’s change order. 
+
+18. Payment Schedule 
+All payments from the client department shall be received through Cheque/Draft favouring U 
+
+P Electronics Corporation Limited, payable at Lucknow. The payment/ running payment 
+
+would be released to the Service Provider only after receipt of the payment from the end-
+
+customer and as per the terms and conditions of the Job order awarded to the Service Provider 
+
+by UPLC and review of the progress in project.  
+
+19. Performance Bank Guarantee 
+24.1 The Service Provider will have to submit a Bank Guarantee (BG) of 10% of order 
+
+value valid for warrantee period.  In case of delay in submitting the BG, corresponding 
+
+amount will be withheld by the Corporation out of payment payable to the service provider for 
+
+a period till satisfactory project completion, or for a period specifically mentioned by the 
+
+client department required for the smooth services during the Warranty period.   The 
+
+performance Bank Guarantee shall be denominated in Indian Rupees.   After submission of 
+
+Bank Guarantee in UPLC, its cognizance would be taken only after its verification from the 
+
+concerned Bank. 
+
+24.3 The proceeds of the performance Bank Guarantee shall be payable to the authority 
+
+in favor of whom the performance bank guarantees was prepared, as compensation for any 
+
+
+
+ 
+
+Page 21 of 39 
+ 
+
+loss resulting from the Service Provider’s failure to complete its obligations under the 
+
+Contract. 
+
+24.4 The Performance Bank Guarantee will be discharged by the UPLC/ end-customer 
+
+and returned to the Service Provider upon the written request as promptly as possible 
+
+following the date of its validity or completion of the Service Provider’s performance 
+
+obligations including any onsite warranty/extended warranty obligations, whichever is later, 
+
+under the contract. 
+
+ 
+
+20. Assignment/Sub-contracting 
+The Service Provider shall not assign/sub-contract, in whole or in parts its obligations to 
+
+perform under the Contract to any other firm except with the UPLC’s prior written 
+
+consent, but not absolving of Sub-Provider's ultimate responsibilities to successfully 
+
+implement the project in totality in proper functional performance. 
+
+21. Termination for Default 
+21.1 The UPLC May, without prejudice to any other remedy for breach of contract, by written 
+
+notice of default sent to the Service Provider, terminate the Contract in whole or part: 
+
+(a) If the Service Provider fails to deliver any or all of the Goods or services within the  
+period(s) specified in the Contract/Purchase Order, or within any extension thereof 
+
+granted by the UPLC/ end-customer  
+
+(b) If the Service Provider fails to perform any other obligation(s) under the Contract or 
+Purchase Order. 
+
+21.2 In the event the UPLC terminates the Contract in whole or in part, UPLC May procure, 
+
+upon such terms and in such manner as it deems appropriate. Goods or Services similar to 
+
+those undelivered, and the Service Provider shall be liable to the UPLC for any excess 
+
+costs for such similar Goods or Services. However, the Service Provider shall continue the 
+
+performance of the Contract to the extent not terminated. 
+
+22. Termination for Insolvency 
+The UPLC May at any time terminate the Contract by giving written notice to the Service 
+
+Provider, if the Service Provider becomes bankrupt or otherwise insolvent. In this event 
+
+termination will be without compensation to the Service Provider, provided that such 
+
+termination will not prejudice or affect any right of action or remedy which has accrued or 
+
+will accrue thereafter to the UPLC/end-customer. 
+
+23. Termination for Convenience 
+23.1 The UPLC, by written notice sent to the Service Provider May terminate the Contract, in 
+
+whole or in part, at any time for its convenience. The notice of termination shall specify 
+
+that termination is for the UPLC/end-customer’s convenience, the extent to which 
+
+performance of the Service Provider under the Contract is terminated, and the date upon 
+
+which such termination becomes effective. 
+
+23.2 The Goods that are complete and ready for shipment at the time of Service Provider’s 
+
+receipt of notice of termination shall be accepted by the UPLC/end-customer’s at the 
+
+Contract terms and prices. For the remaining Goods, the UPLC/end-customer’s May elect: 
+
+(a) To have any portion completed and delivered at the Contract terms and prices; 
+and/or 
+
+(b) To cancel the remainder and pay to the Service Provider an agreed amount for 
+partially Completed Goods. 
+
+ 
+
+
+
+ 
+
+Page 22 of 39 
+ 
+
+24. Service Provider Integrity 
+The Service Provider is responsible for and obliged to conduct all contracted activities 
+
+in accordance with the contracts using state-of-the-art equipments/SW solutions, methods and 
+
+economic principles and exercising all means available to achieve the performance specified in 
+
+the contract.  
+
+25. Service Provider’s Obligations  
+The Service Provider is obliged to work closely with the UPLC/end-customer’s staff, act 
+
+within its own authority and abide by directives issued by the UPLC/end-customer and 
+
+implement all the activities. The Service Provider shall abide by the job safety measures 
+
+prevalent in the country and will indemnify the UPLC from all demands or responsibilities 
+
+arising from consequences, accidents or loss of life and property due to negligence of the 
+
+Service Provider.  The Service Provider will pay all indemnities arising from such incidents 
+
+and will not hold the UPLC responsible or obligated. The Service Provider is responsible for 
+
+managing the activities of its personnel and will hold itself responsible for any misdemeanors. 
+
+The Service Provider will treat all data and information as confidential about the UPLC and 
+
+end-customer, obtained in the execution of his responsibilities, in strict confidence and will not 
+
+eveal such information to any other party without the prior written approval of the UPLC/end-
+
+customer. 
+
+26. Patent Right  
+In the event of any claim asserted by a third party of infringement of copy right, patent, 
+
+trademark or industrial design rights arising from the use of the services,  Goods or any parts 
+
+thereof in the country, the Service Provider shall act expeditiously to extinguish such claim. If 
+
+the Service Provider fails to comply and the UPLC is required to pay compensation to a third 
+
+party resulting from such infringement, the Service Provider shall be responsible for the 
+
+compensation including all expenses (court costs and lawyer fees etc), without delay on getting 
+
+demand notice   from UPLC. 
+
+ 
+
+27. Site Preparation and Installation  
+Incharge of the project site, deputed by the end-customer will be solely responsible for site 
+
+preparation in compliance with the technical and environmental specifications defined by 
+
+the Service Provider. The incharge of project site will identify the installation site before 
+
+the scheduled installation date to allow the Service Provider to perform a site inspection to 
+
+verify the appropriateness of the sites before the installation of the Hardware and 
+
+Software. 
+
+28. Software and System Installation 
+The Service Provider is responsible for all unpacking, the assemblies, installations of 
+
+required hardware and software, cabling between hardware units and connecting to power 
+
+supplies. The Service Provider will test all required hardware and software operations and 
+
+accomplish all adjustments necessary for successful and continuous operation of the 
+
+hardware and software at all installation sites. 
+
+29. Software and  System Maintenance  
+The Service Provider will accomplish preventive and breakdown maintenance activities to 
+
+ensure that all required Hardware execute without defect or interruption for at least 98% 
+
+up time for 24 hours a day, 7 days of the week of operation of the machine worked on a 
+
+quarterly basis. If any critical component of the entire configuration is out of service for 
+
+more than two days, the Service Provider shall immediately replace the defective unit at its 
+
+own cost. The Service Provider will ensure to respond to a project site visit and commence 
+
+
+
+ 
+
+Page 23 of 39 
+ 
+
+repair work on the equipment/ make functional the application Software within 24 
+
+hours of being notified of system malfunction. 
+
+30. Transfer of the Rights of the UPLC 
+All the items are being procured by the UPLC on behalf of end-customers (various 
+
+offices/institutions of Government of Uttar Pradesh).  Till successful installation and 
+
+commissioning of all the items, the UPLC will be responsible for monitoring of the 
+
+observance of the clauses under this contract.  After successful installation & 
+
+commissioning of all the items, all the rights, duties and obligations of the UPLC under 
+
+this contract, shall be exercised by the concerned offices/ institutions of Government of 
+
+Uttar Pradesh. 
+
+31. Code of Conduct 
+a) Relationship with Client: Dealings with client must be conducted in an ethical 
+
+manner, terms of agreement should be clearly and precisely expressed and fulfilled 
+
+in good faith; work undertaken should be carried out promptly and efficiently and 
+
+client’s interests properly safeguarded and confidentiality maintained. 
+
+b) Relationship with other Service Provider: Dealings with other Service Providers 
+must be conducted in a positive and professional manner and in utmost courtesy 
+
+and fairness; property rights, work results, confidential data and vendor/client 
+
+relations of Service Providers ought to be respected; and no engagement in 
+
+harmful, disappearing or predatory tactics will be entertained. 
+
+c) Relationship with Principals: Service Providers shall represent Principals in a fair 
+and business like manner in accordance with their contract, their property and other 
+
+rights; and provide full and accurate business records. 
+
+d) Relationship with Employees: Service Providers shall strive to employ high 
+caliber staff and offer fair and equal opportunities for growth and development. 
+
+Relevant training and constant upgrading of the employees has to be provided in 
+
+line with job responsibilities. Also, employees have to be informed of their 
+
+obligation to keep important data confidential. And of the fact that any professional 
+
+misconduct constituting of unauthorized disclosure of confidential nature or 
+
+violation of copyright laws will cause employers to take disciplinary action. 
+
+e) Relationship with Public: Service Providers shall promote effective use of 
+Information Technology as an instrument for social and economic good and act as 
+
+good corporate citizens and fulfill their responsibilities to the community. 
+
+f) Intellectual Property Protection: Service Providers shall neither use nor 
+encourage the use of Pirated Software in their own and their client’s organizations. 
+
+All Software and other related Software Products must be Original, Licensed and 
+
+genuine and must conform to the norms and guidelines of Information Technology 
+
+(IT) Act, 2000 and its amendments from time to time, failing which the 
+
+empanelment of Service Providers will automatically stand terminated. 
+
+ 
+32. Use Of Documents And Information For Software Projects 
+
+The Service Providers shall not, without UPLC's prior written consent, disclose any 
+
+document containing specification, plan, drawing, pattern, sample or information furnished 
+
+by or on behalf of end-customer in connection therewith to any person other than a person 
+
+employed by the Service Providers in the performance of the allotted job. Disclosure to 
+
+any such employed person shall be made in confidence and shall extend only as far as May 
+
+be necessary for purpose of such performance. 
+
+ 
+
+
+
+ 
+
+Page 24 of 39 
+ 
+
+33. Intellectual Property Rights(IPR) and Replication Rights 
+Application software plans, drawings, specifications, design, reports and other 
+
+documents prepared by the Service Providers in the execution of the allotted Job order 
+
+shall become and remain the exclusive property of the UPLC. The Source Code of the 
+
+Application Software and the documents will be the exclusive property of UPLC and 
+
+UPLC will have the Intellectual Property Rights (IPR) and Replication Rights on 
+
+developed software and documents. Service Providers will be obliged to submit at least 
+
+two copies of Software with Source Code and complete SRS and Complete Operational 
+
+documentation. The bound copies of Documentation of System Study, System 
+
+Requirement Specification (SRS) and Users Manuals are to be handed over to the end-
+
+customer after its completion at respective stages along with its soft copies on the latest 
+
+media available at that time. 
+
+34. Force Majeure  
+38.1 Notwithstanding the provisions of conditions of contract, the Service Provider shall not be 
+
+liable for forfeiture of its performance security, liquidated damages or termination for 
+
+default, if and to the extent that, its delay in performance or other failure to perform its 
+
+obligations under the Contract is the result of an event of Force Majeure. 
+
+38.2 For purpose of this Clause, “Force Majeure” means an event beyond the control of the 
+
+Service Provider and not involving the Service Provider’s fault or negligence and not 
+
+foreseeable. Such events May include, but are not limited to, acts of the UPLC either in its 
+
+sovereign or contractual capacity, wars or revolutions, fires, floods, epidemics, quarantine 
+
+restrictions and freight embargoes. If a Force Majeure situation arises the Service Provider 
+
+shall promptly notify the UPLC in writing of such conditions and the cause thereof. Unless 
+
+otherwise directed by the UPLC in writing, the Service Provider shall continue to perform 
+
+its obligations under the Contract as far as is reasonably practical, and shall seek all 
+
+reasonable alternative means for performance not prevented by the Force Majeure event. 
+
+ 
+
+35. Settlement of Disputes 
+39.1 If any dispute or difference of any kind whatsoever arises between the UPLC and the 
+
+Service Provider in connection with or arising out of the Contract both the parties shall 
+make every effort to resolve amicably such dispute or difference by mutual consultation. 
+
+39.2 If, the parties have failed to resolve their dispute or difference by such mutual consultation 
+within 30 (thirty) days, then aggrieved party May give notice to other party of its intention 
+to commence arbitration, as hereinafter provided, as to the matter in dispute, and no 
+arbitration in respect of this matter May be commenced unless such notice is given. 
+
+39.3 Any dispute or difference in respect of which a notice of intention to commence arbitration 
+has been given in accordance with this Clause shall be finally settled by arbitration. 
+Arbitration May be commenced prior to or after delivery of the Goods and services under 
+the Contract. 
+
+40. Arbitration 
+
+40.1 In case of dispute or difference arising between the UPLC and a Service Provider relating 
+to any matter arising out of or connected with the award of contract, such dispute or 
+difference shall be referred to Sole Arbitrator, the Principal Secretary/Secretary, IT & 
+Electronics Department, Govt of U.P.  or its nominee, to decide the dispute both in case 
+of foreign supply as well as Indian supply.  The provision of Arbitration and Conciliation 
+Act, 1996 shall apply. 
+
+
+
+ 
+
+Page 25 of 39 
+ 
+
+40.2 Arbitration proceedings shall be held at Lucknow, India, and the language of the 
+arbitration proceedings and that of all documents and communications between 
+the parties shall be in English or Hindi.    
+
+ 40.3 The decision of the Sole Arbitrator or its nominee shall be final and binding upon both 
+parties. The cost and expenses of arbitration proceedings will be paid as determined by 
+the Arbitrator. However the expenses incurred by each party in connection with the 
+preparation, presentation etc. of its proceedings shall be borne by each party itself.  
+
+40.5    Notwithstanding any reference to arbitration herein. 
+(a) The parties shall continue to perform their respective obligations under the Contract 
+
+unless they otherwise agree; and 
+(b) The UPLC shall pay the Service Provider any money due to the Service Provider. 
+
+40.6 All disputes shall be subject to the jurisdiction of the Courts at Lucknow only. 
+ 
+ 
+
+41.  Limitation of Liability 
+
+Except in cases of criminal negligence or willful misconduct, and in the case of Infringement 
+(a) the Service Provider shall not be liable to the UPLC/end-customer, whether in contract 
+
+tort, or otherwise, for any indirect or consequential loss of damage, loss of use, loss of 
+production, or loss of profits or interest costs, provided that this exclusion shall not apply 
+to any obligation of the Service Provider to pay liquidated damages to the UPLC; and 
+
+(b) the aggregate liability of the Service Provider to the UPLC/end-customer, whether under 
+the Contract, in tort or otherwise, shall not exceed the total value of items ordered under 
+this Contract provided that this limitation shall not apply to the cost of repairing or 
+replacing defective equipment.  
+
+42.  Governing Language 
+The Contract shall be written in English or Hindi language.   Subject to condition of 
+contract, English language version of the Contract shall govern its interpretation. All 
+correspondence and other documents pertaining to the Contract which are exchanged by 
+the parties shall be written in the same languages. 
+ 
+
+43. Applicable Law 
+The Contract shall be interpreted in accordance with the laws of the Union of India. 
+
+44. Notices  
+44.1 Any notice given by one party to the other pursuant to the award of Contract shall 
+
+be sent to other party in writing by e-mail or by Fax or by post and confirmed in 
+writing to the other Party’s address. For the purpose of all notices, the following 
+shall be the address of the UPLC and Service Provider  
+
+ UPLC: U.P. Electronics Corporation Ltd, 
+                            10, Ashok Marg, 
+                      Lucknow (U.P.) - 226 001 
+
+Service Provider: (To be filled in at the time of Contract execution) 
+  …………………………………. 
+             …………………………………. 
+
+                         …………………………………. 
+
+ A notice shall be effective when delivered or on the notice’s effective date whichever is later. 
+45. Acquaintance with all Conditions 
+
+The Service Provider acknowledged that he has made himself duly acquainted with all the 
+terms, conditions and circumstances under which the services/supplies required under the 
+contract will have to be made or furnished and with all the terms, clauses, conditions, 
+specifications and other details of the contract and the Service Provider shall not plead 
+
+
+
+ 
+
+Page 26 of 39 
+ 
+
+ignorance of any of those as excuse in case of complaint against or on rejection of 
+supplies and services tendered by him or with a view either to ask for encashment 
+of any rates agreed to in the contract or to evading any of his/her obligations under the 
+contract. 
+
+
+
+ 
+
+Page 27 of 39 
+ 
+
+ 
+
+SECTION VI - Technical Proposal Submission Form 
+
+Annexure -I 
+
+Bid Reference No:  UPLC/Software / 2017-18/029 
+
+ 
+
+1. Bidder’s General Information –  
+
+ 
+
+SN Particulars  Description/Details  Reference 
+
+Documents 
+
+Page 
+
+No. 
+
+A.  Name of Bidding Company 
+
+ 
+
+ 
+
+  
+
+   
+
+B. Contact Details 
+
+a) Address 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+c)Telephone with STD 
+
+Code  
+
+ 
+
+d)Mob No.– 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+e) Fax   
+
+ 
+
+  
+
+f) email  
+
+ 
+
+ 
+
+  
+
+g) Website   
+
+ 
+
+ 
+
+  
+
+h) Name of Managing 
+
+Director/ CEO 
+
+ 
+
+ 
+
+ 
+
+  
+
+C i) Strategy and Work Plan ( attached separate sheet) 
+
+ iv) Demo Screen Shots  ( attached separate sheet) 
+
+ iii) Past Experience in the 
+
+field of scanning and 
+
+digitization 
+
+( attached separate sheet) 
+
+D Job Category and Service 
+
+Provider Category in 
+
+which your firm is 
+
+empanelled.  
+
+(attached UPLC’s letter of Empanelment) 
+
+
+
+ 
+
+Page 28 of 39 
+ 
+
+ 
+
+2- Technical / Managerial Staff [Enclosed Separate Sheet if required] 
+
+   
+
+ 
+
+3.0 List your clientele with amount of project completed 
+
+Name of Client:  
+
+ 
+
+Approx. Value of Services (INR) 
+
+Assignment Name: Assignment Ref no: 
+
+Address:  
+
+ 
+
+Job Awarding Authority 
+
+Start date (Month / 
+
+Year): 
+
+Completion date (Month / 
+
+Year): 
+
+Job Completion Certificate Ref no: 
+
+NOTE:  
+
+1. Bidder must enclose copy of the LOI/LOA/WO/Agreement / Client certificate placed 
+by the Procurer /Department/sponsoring authority on the Bidder towards award of 
+
+Consultancy assignments. 
+
+2. Bidder must have sufficient infrastructure for smooth implementation of the project. 
+3. The Bidder must enclose separate sheets for each requirement. 
+
+ 
+
+  
+
+ 
+
+ 
+
+Signature……………… 
+
+In the capacity of……….. 
+
+Duly authorized to sign proposal for 
+
+and on behalf of………….. 
+
+Date…………………                                     
+
+Place……………..  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sl. 
+
+No. 
+Name 
+
+Qualification 
+Position Task 
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+    
+
+
+
+ 
+
+Page 29 of 39 
+ 
+
+Annexure II 
+
+Business Process Logic 
+
+Functional Requirement Specifications 
+
+Module Name- 
+
+No Man-days Required------------------------------------------ (from preparation of SRS to 
+
+deployment of Application/Module) 
+
+ 
+
+About the 
+
+module 
+
+ 
+
+Module Users  
+
+Triggering 
+
+points 
+
+ 
+
+Preconditions  
+
+Data/information 
+
+requirements 
+
+ 
+
+Key 
+
+performance 
+
+indicators 
+
+ 
+
+MIS reports  
+
+Successor 
+
+process 
+
+ 
+
+Assumptions  
+
+ 
+
+Requirement 
+
+ID 
+Functionality 
+
+App.001  
+
+App.002  
+
+App.003  
+
+App.004  
+
+App.005  
+
+App.006  
+
+App.007  
+
+App.008  
+
+App.009  
+
+App….  
+
+App….  
+
+App….n  
+
+ 
+
+The Bidder must submit this template for each module failing which the Bid Shall Be 
+
+Rejected 
+
+
+
+ 
+
+Page 30 of 39 
+ 
+
+ 
+
+Business Use Cases of Each Module Based on UML Diagrams 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The Bidder must submit the this template for each module failing which the Bid Shall Be 
+
+Rejected 
+
+
+
+ 
+
+Page 31 of 39 
+ 
+
+Sequence Diagram of Each Module Based on UML Diagrams 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The Bidder must submit the this template for each module failing which the Bid Shall Be 
+
+Rejected 
+
+ 
+
+
+
+ 
+
+Page 32 of 39 
+ 
+
+Collaboration Diagram of Each Module Based on UML Diagrams 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The Bidder must submit the this template for each module failing which the Bid Shall Be 
+
+Rejected 
+
+ 
+
+
+
+ 
+
+Page 33 of 39 
+ 
+
+Activity Diagram of Each Module Based on UML Diagrams 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The Bidder must submit the this template for each module failing which the Bid Shall Be 
+
+Rejected 
+
+ 
+
+
+
+ 
+
+Page 34 of 39 
+ 
+
+Deployment Diagram of Each Module Based on UML Diagrams 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The Bidder must submit the this template for each module failing which the Bid Shall Be 
+
+Rejected 
+
+ 
+
+
+
+ 
+
+Page 35 of 39 
+ 
+
+Software Architecture Diagram 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The Bidder must submit the this template for each module failing which the Bid Shall Be 
+
+Rejected 
+
+ 
+
+
+
+ 
+
+Page 36 of 39 
+ 
+
+Proposed Hardware Requirement (if required). 
+
+Sn Description  Required Hardware Quantity Detailed Specifications 
+1 Client (a) Desktop Computer  Processor with Chipset Clock 
+
+speed  
+
+RAM 
+
+HDD 
+
+DVD R/W 
+
+Ports 
+
+Operating System 
+
+(b) Printers   
+(c) Scanners   
+(d) Network Switches and Routers   
+(e) Mention any other Hardware requirement, 
+
+if any 
+  
+
+2 Data Centre/Hired 
+Web Space 
+
+(a) Application/Hosting Servers  Processor with Chipset Clock 
+speed  
+
+RAM 
+
+HDD 
+
+DVD R/W 
+
+Ports 
+
+Operating System with No of 
+
+Licenses etc 
+  (b) Database Servers  Processor with Chipset Clock 
+
+speed  
+
+RAM 
+
+HDD 
+
+DVD R/W 
+
+Ports 
+
+Operating System with No of 
+
+Licenses etc 
+  (c) Mention any other Server requirement, if 
+
+any 
+  
+
+  (d) Printers   
+
+  (e) Scanners   
+  (f) Network Switches and Routers   
+  (g) Mention any other Hardware requirement, 
+
+if any 
+  
+
+  (h) Data Base  Name of Database, Version 
+and No of Licensed 
+
+  (i) Middleware/Application Server Software  Name of Middleware 
+Like Tomcat/JBoss/ 
+
+Web logic/IIS etc 
+  (j) Other System Software, if required   
+  (j) If Web Space is Hired, then specify  Hired Size in GB…… 
+
+Service Provider Name- 
+
+Service Provider website- 
+
+Service Provider e-mail Id- 
+ 
+
+
+
+ 
+
+Page 37 of 39 
+ 
+
+ 
+
+ 
+
+Proposed Development Technology 
+
+SN Description Details Mention Yes/No 
+
+1 Structural 
+Architecture 
+
+Web Enabled  
+
+Web Enabled Multilingual  
+
+Cloud Based Web Enable (Please specify whether 
+
+Public/Private Cloud). In case of public cloud then mention 
+
+the Cloud Service Provider Name 
+
+ 
+
+Stand alone peer –to-peer with Database  
+
+If any Structural Architecture, please spefify…  
+
+2 Technology Windows  
+
+Open Source  
+
+3 Frame work Net  
+
+JEE  
+
+Spring  
+
+Hibernate  
+
+Struts  
+
+JSP  
+
+PHP  
+
+If any other Frame work, please specify  
+
+4 Middleware Web logic  
+
+JBoss  
+
+Tomcat  
+
+IIs  
+
+Apache  
+
+Oracle Application Server  
+
+If any other Frame work, please specify  
+
+5 Web Server If any Web Server, please specify  
+
+6 Data base My SQL  
+
+Oracle  
+
+MS SQL Server (specify version) and No of Licenses  
+
+If any Database, please specify  
+
+7 If any other 
+required, 
+
+please specify 
+
+  
+
+    
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+Page 38 of 39 
+ 
+
+ 
+
+    
+
+Annexure III 
+
+DECLARATION FOR PROPOSAL SUBMISSION FORM 
+
+ 
+
+The Managing Director, 
+
+UP Electronics Corporation Ltd. 
+
+10, Ashok Marg, Lucknow. 
+
+ 
+
+ 
+
+ 
+
+Sub:  Submission of Techno- Commercial Proposal against your letter 
+
+UPLC/Software / 2017-18/029, Dated 13 Dec 2017. 
+
+ 
+
+ 
+
+ 
+
+Dear Sir, 
+
+   
+
+Kindly refer your letter no. UPLC/Software / 2017-18/029, Dated 13 Dec 2017 on the 
+
+subject cited above and find enclosed our Techno-Commercial Proposal on your prescribed 
+
+format. 
+
+ 
+
+We as an Empanelled Software Service Provider registered with your Corporation vide 
+
+letter no:____________________________Dated__________, hereby declares that though we are 
+
+bound by the terms and conditions laid down while empanelling us as a Software Vendor. We 
+
+however specifically submitted that we are also bound by the terms and conditions of this tender 
+
+and also full fill the eligible criteria as mentioned in this tender in addition to terms and condition 
+
+aforesaid. 
+
+ 
+
+We are looking forward to take this opportunity. 
+
+ 
+
+ 
+
+ 
+
+  Regards. 
+
+ 
+
+ 
+
+ 
+
+        Your’s faithfully 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date:                          [authorized signatory] 
+
+Place:                              Name of Firm with address 
+
+                                     (Seal)  
+
+ 
+
+
+
+ 
+
+Page 39 of 39 
+ 
+
+ 
+
+ 
+
+ 
+
+Annexure IV 
+
+Financial Proposal Submission Form 
+ 
+
+Ref:  Submission of Proposal against your RFP Reference No. UPLC/Software / 2017-18/029 
+ 
+
+Our details financial proposal is as follows:  
+
+ 
+
+S.No. Description 
+
+  
+
+Quantity  Price 
+
+(Rs.) 
+
+GST 
+
+@18% 
+
+Grand 
+
+Total    
+
+(Rs.) 
+
+(1) (2)  (3) (4) 5=(3+4) 
+
+1 
+
+Digitization of Records including indexing and DMS 
+Software  of Property  of Allahabad Development 
+
+Authority, Allahabad (U.P.)” as per scope of work 
+
+  
+
+1.1 
+DMS  Software  
+
+(note: one time cost with 5 user license) 
+1 
+
+   
+
+1.2 
+
+Scanning including and indexing of 
+
+A4/A3/Legal size Papers size paper (Rate 
+
+per  A4/A3/Legal Page) 
+
+1 
+
+   
+
+1.3 
+Scanning including and indexing of A0 size 
+
+paper (Rate per A0 page) 
+1 
+
+   
+
+1.4 
+Data entry after extracting information from 
+
+files. (Rate per kilo byte) 
+1 
+
+   
+
+1.5 
+Annual maintenance cost (AMC) of 
+
+Software 
+1 
+
+   
+
+2 Optional 1    
+
+2.1 Barcoding Per Stickers 1    
+
+ Total     
+
+ Amount in Words:- 
+
+ 
+
+ 
+
+Date:                          [authorized signatory] 
+
+Place:                               Name of Firm with address 
+
+                                     (Seal) 
+
+

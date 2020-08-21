@@ -1,0 +1,957 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/710499
+
+  Dated: 14-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 15:00:00
+
+Bid Opening Date/Time 27-07-2020 15:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Railways
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Secr
+
+Total Quantity 1
+
+Item Category Anaesthesia Workstation
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Certificate (Requested in
+ATC),OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+                             1 / 10
+
+
+
+ 
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+
+Anaesthesia Workstation ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Conformity to
+standards
+
+- *
+
+Certification date and
+number
+
+- *
+
+Certification of
+manufactures
+
+ISO 9001 & ISO 13485 *
+
+ISO certification
+number and date
+
+- *
+
+Confirmity to medical
+electrical safety
+standards
+
+IEC60601-2-13 and BS
+EN 6060-1-1
+
+*
+
+Performance
+Parameters
+
+Purpose of
+anesthesia
+workstation
+
+Anesthetic machine in
+used to provide an
+accurate and
+continuous supply of
+medical gases mixed
+with an accurate
+concentration of
+anaesthetic vapour and
+deliver this to the
+patient at a safe 
+pressure and flow.
+
+Anesthetic machine in
+used to provide an
+accurate and
+continuous supply of
+medical gases mixed
+with an accurate
+concentration of
+anaesthetic vapour and
+deliver this to the
+patient at a safe 
+pressure and flow.
+
+Components of
+Anesthesia
+workstation
+
+Anesthesia machine ,
+Inbuilt ventilator ,
+vaporisor , Gas delivery
+system , Multi para
+monitor
+
+Anesthesia machine ,
+Inbuilt ventilator ,
+vaporisor , Gas delivery
+system , Multi para
+monitor
+
+Type of mounting for
+the Anesthesia
+workstation
+
+Trolley Mounting Wall Mounting, Trolley
+Mounting
+
+Material used for
+Anesthesia
+
+rust-proof ABS plastic
+with metal
+
+Non ferrous metals,
+Polymer, Epoxy powder
+
+                             2 / 10
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/frb0ss1VojjjuAR4fZbUrHxMMC15z90VqKAFdkNX1GA
+
+
+ 
+
+workstation reinforcements painted steel, Stainless
+steel, rust-proof ABS
+plastic with metal
+reinforcements
+
+Mode of integrated
+scavenging system
+with pressure relief
+valve
+
+Passive Active, Passive
+
+Minimum Battery
+backup for
+anesthesia
+workstation
+
+2 hour 45 Minute, 1 hour, 2
+hour
+
+Minimum Battery
+backup for
+Ventilator
+
+2 hour 45 Minute, 1 hour, 2
+hour
+
+Minimum Battery
+backup for monitor
+
+2 hour 45 Minutes, 1 hour, 2
+hour
+
+Facility of manual
+ventillation in case
+of electricity and
+battery failure
+
+Yes Yes, No
+
+Facility of gas and
+agent delivery in
+case of electricity
+and battery failure
+
+Yes Yes, No
+
+All the components
+likes anesthesia
+machine, integrated
+ventilator, vaporizer
+from the same
+manufacturer
+
+Yes (except for
+desoflurene vaporizer
+to be sourced from
+reputed OEM with
+complete warranty
+support and
+authorization )
+
+Yes, Yes (except for
+desoflurene vaporizer
+to be sourced from
+reputed OEM with
+complete warranty
+support and
+authorization )
+
+Patient monitor from
+same manufacturer
+
+Yes Yes, No
+
+Workstation should
+have minimum of two
+drawers to keep
+accessories, good
+mobility, anti static
+caster wheels with
+locking facility &
+conveniently placed
+handles for easy
+movement of the
+machine
+
+Yes *
+
+All software updates
+should be provided free
+of cost during Warranty
+period
+
+Yes *
+
+The anesthesia
+machine can be used
+safely up to 1000
+
+No Yes, No
+
+                             3 / 10
+
+
+
+ 
+
+gauss line while
+being used with MRI
+
+Should have Air/N₂O
+interlock
+
+Yes Yes, No
+
+Inspiratory time in sec 0.2 to 3 sec *
+
+Expiratory time 0.5 to 6 sec *
+
+Flow rate in lpm 0.2 to 6 lpm *
+
+Pressure relief 05 to 75 cm H20 *
+
+Warranty in years 3 3, 4, 5
+
+Gas Delivery System Availability of Pin index
+yokes for gases
+
+Oxygen and Nitrous
+oxide
+
+*
+
+Availability of Separate
+Pin index yokes for
+gases
+
+Oxygen , Nitrous oxide
+, Air
+
+*
+
+Availability of
+cascading type flow
+meters for O2, N2O and
+air
+
+Yes *
+
+Mode of gas mixing Pneumatic Electronic, Pneumatic
+
+Availability of
+rotameter control
+guards in anesthesia
+workstation
+
+Yes *
+
+Availability of pressure
+gauges for cylinder and
+pipelines in anesthesia
+workstation
+
+Yes *
+
+Availability of audible
+and visual oxygen
+failure alarms
+
+Yes *
+
+Minimum emergency
+oxygen flow in liter per
+minute
+
+35-70 *
+
+Type of hypoxic
+guard with
+automatic cutoff of
+N2O
+
+Mechanical Electronic, Mechanical
+
+Vaporizer Number of quick mount
+type vaporizer for easy
+interchangeability at a
+time
+
+2 *
+
+Number of selectable
+back bar
+
+2 *
+
+Facility of interlock for
+vaporizer
+
+Yes *
+
+Volume percentage of
+delivery range
+
+0 to 10 *
+
+                             4 / 10
+
+
+
+ 
+
+Minimum agent
+capacity for free
+volatile anesthetic
+agent in ml
+
+225 *
+
+Sensor connection shall
+be internal to prevent
+disconnection
+
+Yes *
+
+Vaporizer
+compatible to gases
+
+Sevoflurane Sevoflurane, Isoflurane,
+Desflurane, Halothane
+
+The vaporizer design
+should be maintenance
+free
+
+Yes *
+
+Vaporizer calibration
+requirement
+
+After every 5 years *
+
+Breathing System Breathing system
+should have fresh gas
+de-coupled /
+compensation , closed
+circle absorber system
+
+Yes *
+
+Range of pressure
+relief valve in mbar of
+breathing system
+
+5 to 75 *
+
+Number of steps in
+change over from
+spontaneous to bag
+ventilation
+
+single step *
+
+Number of reusable
+autoclavable closed
+silicone circuit supplied
+
+2 for adult and 2 for
+pediatric
+
+*
+
+Number of bains
+circuit (adult)
+supplied with
+workstation
+
+10 10, 15, 20
+
+Number of Jackson
+Rees circuit for
+pediatric patients
+supplied with
+workstation
+
+10 10, 15, 20
+
+Volume capacity of
+breathing system in
+liters
+
+1.7 1.5, 1.7
+
+Breathing system
+should have leak and
+compliance test
+
+Yes *
+
+Anesthesia Ventilator Available modes of
+operating ventilator
+
+Manual/spont, volume
+controlled , pressure
+controlled , SIMV/PS
+
+Manual/spont, volume
+controlled , pressure
+controlled , SIMV/PS,
+CMV, SIMV, AC, Sign
+
+Ventilator should be
+capable to pressure
+
+Yes Yes, No
+
+                             5 / 10
+
+
+
+ 
+
+support
+
+Integrated ventilator
+shall not require
+bellows to be change
+for adults and infants
+
+Yes *
+
+Tidal volume of
+ventilator in ml
+
+20 to 1400 ml *
+
+PEEP of ventilator in
+mbar
+
+0 to 20 mbar *
+
+Breathing frequency in
+BPM
+
+4 to 60 BPM *
+
+Inspiratory pause
+percentage of Ti
+
+0-50% *
+
+Screen size of
+Ventilator monitor in
+inches
+
+10 8, 10, 12, 15, 7
+
+Integrated ventilator
+shall be able to provide
+facility to monitor
+ETCO2 , Automatic
+identification of agents
+
+No *
+
+Ventilator should be
+able to ventilate with
+atmospheric air if total
+gas supply failure
+
+No *
+
+Monitor Type of monitor TFT TFT, LCD
+
+Size of monitor in
+inches
+
+12 *
+
+Monitor should not
+require lengthy start up
+procedure or
+calibration for display
+of parameters
+
+Yes *
+
+The graphical and
+numerical trend with
+split screen duration
+
+24 hours *
+
+Patient multipara
+monitor shall be able
+to display
+parameters
+
+HR, SpO2, NIBP, ECG,
+Temp, Agent
+identification (MAC)
+
+HR, SpO2, NIBP, ECG,
+Temp, HR, SpO2, NIBP,
+ECG, Temp, Agent
+identification (MAC), HR
+,SpO2,NIBP,ECG,Temp,
+Agent identification
+(MAC),NIMT/BIS,Entrop
+y
+
+NMT to be displayed No Yes, No
+
+Dual temperature to
+be displayed
+
+No Yes, No
+
+BIS/ENTROPY to be
+displayed
+
+No Yes, No
+
+                             6 / 10
+
+
+
+ 
+
+Capnography to be
+displayed
+
+Yes Yes, No
+
+EtCO2 to be
+displayed
+
+Yes Yes, No
+
+IBP1 and IBP2 to be
+displayed
+
+No Yes, No
+
+CO(cardiac output)
+to be displayed
+
+No Yes, No
+
+ECG monitoring with
+standard lead
+configuration, I,II,III,
+avL, avF&V filters so
+that it is protected
+against defibrillator,
+electro surgery
+potentials, arrhythmia
+analysis and ST
+segment analysis with
+trends
+
+Yes *
+
+NIBP should be
+determine with
+oscillometric method,
+should read systolic,
+diastolic and mean
+arterial pressure and
+pulse rate
+
+Yes *
+
+Pulse oximetery with
+sensors suitable for
+adults, pediatric&
+neonate
+
+Yes *
+
+ETCO2 measurement
+should be by infra –red
+absorption technique,
+measuring mode
+should be side stream
+or main stream and
+response time should
+be less than 3 seconds
+
+Yes *
+
+Monitor should be able
+to monitor and display
+all parameters in single
+screen
+
+Yes *
+
+Make of monitor if
+monitor provided is not
+from the same OEM
+and if from same OEM
+put NA
+
+- *
+
+System to be
+supplied with
+oxygen monitor
+
+Yes Yes, No
+
+Alarms Number of alarms 14 *
+
+                             7 / 10
+
+
+
+ 
+
+Alarms shall be
+adjustable to high / low
+limits with audio and
+visual alarms
+
+Yes *
+
+Power supply Length of main cable in
+meter with power
+socket of standard
+indian make to be
+provided
+
+5 *
+
+Power supply 220-240V AC, 50 Hz
+single phase
+
+*
+
+Additional Accessories Transparent re-usable
+silicon face mask size
+0,1, 2, 3, 4 & 5
+
+2 each *
+
+Breathing bag 2 Litre &
+500 ml
+
+2 each *
+
+3/5 ECG lead 2 *
+
+Nasopharyngeal/rectal
+and
+skinTemperatureprobes
+should be Provided
+
+2 *
+
+Re usable adult cuffs,
+reusable Paediatric cuff
+and sets of Disposables
+cuff for neonatal
+
+2 *
+
+ETCO2 line and
+adapters
+
+15 each *
+
+Mox regulator with 3
+meter high Pressure
+tubing
+
+1 *
+
+Provision for
+laryngscopes
+
+Not Provided Yes (adult and
+pediatric), Not Provided
+
+Reusable patient
+circuits
+
+1 1, 2, Not provided
+
+Reusable masks Not provided 2, 3, Not provided,
+Adult & Pediatric i
+piece on each sizes
+0,1,2,3,4 & 5
+
+SPO₂ sensor
+provided
+
+Not provided 1, Not provided, 2
+
+NIBP cuff Not Provided 1, Not Provided
+
+Skin and
+nasopharyngeal
+temperature probe
+
+Not provided 1, Not provided
+
+ETCO2 sample lines Not provided 1, Not provided, 10, 25,
+10
+
+Reusable IBP
+interface cables
+
+Not provided 1, Not provided
+
+                             8 / 10
+
+
+
+ 
+
+Disposable IBP
+transducers
+
+Not provided 1, Not provided, 5, 10
+
+BIS sensors Not provided 10, 20, 25, Not
+provided
+
+Accessories for wall
+mounting
+
+NA (If trolley mounting) Yes, NA (If trolley
+mounting)
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Kartick Chandra
+Bag
+
+492008,Sr DMM SECR DRM
+Office , South East Central
+Railway
+
+1  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+2.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+3.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+4.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+5.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+6.Timely Servicing / rectification of defects during warranty period: After having been notified
+
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 10 days time limit. If the Seller fails to complete
+service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product
+shall be charged as penalty for each week of delay from the seller. Seller can deposit the
+penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty
+amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than
+10% of the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+7.Successful Bidder can submit the Performance Security in the form of Account Payee
+Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in
+favour of FA & CAO/SECR/BILASPUR payable at RAIPUR. After award of contract, Successful
+Bidder can upload scanned copy of the DD in place of PBG and has to ensure delivery of
+
+                             9 / 10
+
+
+
+ 
+
+hard copy to the original DD to the Buyer within 15 days of award of contract.
+8.Warranty period of the supplied products shall be 3 years from the date of final acceptance
+
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                            10 / 10
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

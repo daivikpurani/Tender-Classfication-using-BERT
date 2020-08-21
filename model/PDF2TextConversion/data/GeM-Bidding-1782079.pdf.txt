@@ -1,0 +1,661 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/706357
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 19:00:00
+
+Bid Opening Date/Time 20-07-2020 19:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Gujarat
+
+Department Name Education Department Gujarat
+
+Organisation Name District Primary Education Project
+
+Office Name Vyara
+
+Total Quantity 3
+
+Item Category inverters solar inverter
+
+Bidder Turnover (Last 3 Years)  4 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  52 Lakh (s)
+
+Experience Criteria  2 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  80 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 3.00
+
+EMD Amount 40500
+
+                               1 / 8
+
+
+
+ 
+
+ePBG Detail
+
+Required No
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+DPEO
+VYARA, Education Department Gujarat, District Primary Education Project,
+(District Primary Education Officer,tapi)
+
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 80% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Inverters Solar Inverter ( 3 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+                               2 / 8
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/Gng964XKzAV4zbcVft8oFw53L8gn9qNu0VjZCzVcAn0
+
+
+ 
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC Rating of inverter
+(KVA)
+
+3.0 KVA 3.0 KVA
+
+ISI marked No No
+
+If ISI marked yes, CM/L
+No. must declare. If ISI
+mark No write NA
+
+- *
+
+Nos. of phase single single
+
+Inverter output wave
+form
+
+Pure sine wave Pure sine wave
+
+Ingress protection
+rating of inverter
+
+IP 23 for indoor use IP 23 for indoor use
+
+Built in protection
+for AC high/low
+voltage and
+frequency if
+connected to AC
+mains
+
+IP 23 for indoor use IP 23 for indoor use
+
+Display Type LCD LCD
+
+Area required for
+installation of Solar
+panels with mounting
+structure (sq. mt)
+
+- *
+
+Material of mounting
+structure
+
+Galvanised steel Galvanised steel
+
+CONSTRUCTIONAL Mode of operation To be used in
+conjunction with AC
+mains
+
+*
+
+Switching device IGBT IGBT
+
+Maximum power point
+tracking (MPPT)
+
+yes *
+
+Galvanic isolation
+between input DC and
+output AC
+
+yes *
+
+By-pass facility if
+connected to AC mains
+
+IP 23 for indoor use *
+
+Display parameters like
+DC voltage (V) DC
+current (A) AC
+voltage(V)
+
+YES *
+
+Sequence of power
+drawing
+
+(1) SPV (2) AC MAINS
+(IF CONNECTED WITH
+AC POWER) (3)
+BATTERY BANK
+
+*
+
+Nos. of modules in an
+array (NOS.)
+
+- *
+
+                               3 / 8
+
+
+
+ 
+
+Rating of individual PV
+module (Wp)
+
+- *
+
+Salt mist corrosion
+resistant material
+for body and frame
+of SPV module
+
+Galvanized steel Galvanized steel
+
+Provision for Solar
+generation meter
+
+yes *
+
+Provision for
+bidirectional meter (Net
+Meter)
+
+yes *
+
+Provision of anti
+rusting/ non corrosive
+mounting structure
+
+yes *
+
+Sustainability of
+wind speed. (KM/Hr)
+
+150 150
+
+Type of battery
+(KM/Hr)
+
+Tubular Gel Tubular Gel
+
+Capacity of battery
+bank (VAH)
+
+- *
+
+3 stage battery
+charging (float, boost
+and equalize stage) for
+long life of the battery
+
+yes *
+
+Reverse polarity
+protection
+
+yes *
+
+Complete installation
+work to be done by
+supplier
+
+yes *
+
+Gross weight of the
+inverter (kg)
+
+- *
+
+Reverse polarity
+protection for PV
+modules
+
+yes *
+
+FUNCTIONAL Inverter efficiency - *
+
+Total Harmonic
+distortion (%)
+
+- *
+
+Operating AC voltage
+range (Volts)
+
+- *
+
+Operating frequency
+range (Hz)
+
+- *
+
+Operating Temperature
+(degree cel)
+
+- *
+
+Operating relative
+humidity (%)
+
+- *
+
+Load power factor - *
+
+                               4 / 8
+
+
+
+ 
+
+Output regulation at
+rated voltage
+
+Yes *
+
+Over load Protection
+110% for 60 Seconds
+,125% for 30 Seconds
+and 150% for 5
+seconds
+
+yes *
+
+Efficiency of Solar
+panel (%)
+
+- *
+
+Battery backup time
+at rated load (Hour)
+
+4 4
+
+Battery bank Voltage
+(Volt)
+
+- *
+
+CERTIFICATIONS Conformity of inverter
+to environmental
+testing conditions as
+per IEC 600688-2
+(1,2,14,30) or
+equivalent BIS standard
+
+YES *
+
+90% performance
+warranty for SPV
+(years)
+
+10 *
+
+80% performance
+warranty for SPV
+(years)
+
+25 *
+
+TTC for PV module from
+any MNRE lab as per
+MNRE 2015-2016
+
+yes *
+
+OEM test report for
+indigenously produced
+PV module (s)
+
+yes *
+
+Availability of Type test
+report for inverter
+including
+environmental tests
+from Central
+government/NABL/ILAC
+accridiated laboratory
+to prove conformity to
+the specification
+
+yes *
+
+Test report number - *
+
+Date of test report - *
+
+Name and address of
+laboratory
+
+- *
+
+Type test report to be
+furnished on buyers
+demand
+
+yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+
+                               5 / 8
+
+
+
+ 
+
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Kishanbhai
+Radgabhai
+Kunkana
+
+394650,DISTRICT PRIMARY
+EDUCATION OFFICE,
+GROUND FLOOR, JILLA SEVA
+SADAN, BLOCK NO.-11,
+PANVADI, VYARA-394650
+DIST.-TAPI.
+
+3  15
+
+Bid Specific Additional Terms and Conditions
+
+1.Bidder financial standing: The bidder should not be under liquidation, court receivership
+or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect
+with bid.
+
+2.Malicious Code Certificate:
+
+The seller should upload following certificate in the bid:-
+(a) This is to certify that the Hardware and the Software being offered, as part of the
+contract, does not contain Embedded Malicious code that would activate procedures to :-
+  (i) Inhibit the desires and designed function of the equipment.
+  (ii) Cause physical damage to the user or equipment during the exploitation.
+  (iii) Tap information resident or transient in the equipment/network.
+(b) The firm will be considered to be in breach of the procurement contract, in case physical
+damage, loss of information or infringements related to copyright and Intellectual Property
+Right (IPRs) are caused due to activation of any such malicious code in embedded software.
+
+3.OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be
+ordered up to 25 percent at the time of placement of contract. The purchaser also reserves
+the right to increase the ordered quantity by up to 25% of the contracted quantity during the
+currency of the contract at the contracted rates. Bidders are bound to accept the orders
+accordingly.
+
+4.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+5.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+6.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial
+year, should be as indicated in the bid document. Documentary evidence in the form of
+certified Audited Balance Sheets of relevant periods or a certificate from the Chartered
+
+                               6 / 8
+
+
+
+ 
+
+Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than
+3 year old, the average turnover in respect of the completed financial years after the date of
+constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of
+CATEGORY RELATED TO primary product having highest bid value should meet this criterion.
+
+7. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+8.Bid reserved for Make In India products: Procurement under this bid is reserved for purchase
+from Class 1 local suppliers as defined in public procurement (Preference to Make in India),
+Order 2017 as amended from time to time and its subsequent Orders/Notifications issued by
+concerned Nodal Ministry for specific Goods/Products. The minimum local content to qualify
+as a class 1 local supplier is denoted in the bid document 50%. All bidders must upload a
+certificate from the OEM regarding the percentage of the local content and the details of
+locations at which the local value addition is made along with their bid, failing which the bid
+is liable to be rejected. In case the bid value is more than Rs 10 Crore, the declaration
+relating to percentage of local content shall be certified by the statutory auditor or cost
+auditor, if the OEM is a company and by a practicing cost accountant or a chartered
+accountant for OEMs other than companies as per the Public Procurement (preference to
+Make-in -India) order 2017 dated 04.06.2020 . In case Buyer has selected Purchase
+preference to Micro and Small Enterprises clause in the bid, the same will get precedence
+over this clause.
+
+9.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+10. ISO 9001: The bidder must have ISO 9001 certification.
+11.The bidder is required to upload, along with the bid, all relevant certificates such as BIS
+
+licence, type test certificate, approval certificates and other certificates as prescribed in the
+Product Specification given in the bid document.
+
+12.Warranty period of the supplied products shall be 1 years from the date of final acceptance
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+13.For fulfilling the experience criteria any one of the following documents may be considered
+as valid proof for meeting the experience criteria:
+a. Purchase Order copy along with Invoice(s) with self-certification by the bidder that
+supplies against the invoices have been executed.
+b. Execution certificate by client with order value.
+c. Any other document in support of order execution like Third Party Inspection release note,
+etc.
+
+14.The Bidder / OEM {themselves or through reseller(s)}, should have executed project for
+supply and installation / commissioning of same or similar Category Products during
+preceding 3 financial years (i.e. current year and three previous financial years) as on
+opening of bid, as per following criteria:
+ 
+(i) Single order of at least 35% of estimated bid value; or
+(ii) Two orders of at least 20% each of estimated bid value; or
+(iii) Three orders of at least 15% each of estimated bid value.
+Satisfactory Performance certificate issued by respective Buyer Organization for the above
+Orders should be uploaded with bid. In case of bunch bids, the Category related to primary
+
+                               7 / 8
+
+
+
+ 
+
+product having highest bid value should meet this criterion
+15.Bidders can also submit the EMD with Account Payee Demand Draft in favour of District
+
+Primary Education Officer,Tapi payable at Vyara,Tapi.
+Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure
+delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date.
+
+16.Bidders can also submit the EMD with Fixed Deposit Receipt made out or pledged in the
+name of District Primary Education Office,Tapi A/C (Name of the Seller). The bank should
+certify on it that the deposit can be withdrawn only on the demand or with the sanction of
+the pledgee. For release of EMD, the FDR will be released in favour of bidder by the Buyer
+after making endorsement on the back of the FDR duly signed and stamped along with
+covering letter.
+Bidder has to upload scanned copy / proof of the FDR along with bid and has to ensure
+delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date.
+
+17.Bidders can also submit the EMD with Banker’s Cheque in favour of District Primary
+Education Officer,Tapi payable at Vyara,Tapi.
+Bidder has to upload scanned copy / proof of the BC along with bid and has to ensure
+delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               8 / 8
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

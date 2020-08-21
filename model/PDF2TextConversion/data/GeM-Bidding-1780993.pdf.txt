@@ -1,0 +1,524 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/705362
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 14:00:00
+
+Bid Opening Date/Time 20-07-2020 14:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 80 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Army
+
+Office Name ***********
+
+Total Quantity 5
+
+Item Category Security and Protective Software including Antivirus
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Security And Protective Software Including Antivirus ( 5 pieces )
+
+Technical Specifications
+
+                               1 / 6
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+BASIC INFORMATION
+OF SECURITY AND
+PROTECTIVE
+SOFTWARE INCLUDING
+ANTIVIRUS (GOLDEN)
+
+Sub-Category 5 User License 5 User License
+
+Name of the OEM - *
+
+OEM Model / Part No. - *
+
+Product Id of OEM - *
+
+Software Version/
+Name
+
+- *
+
+Date of Launch of
+Version
+
+- *
+
+FEATURES AND
+FUNCTIONALITY
+PARAMETERS(GOLDEN)
+
+Single License for
+multi-device
+
+No Yes, No
+
+Intrusion Detection
+System (IDS) /
+Intrusion Prevention
+System (IPS)
+
+Yes Yes
+
+Data Protection Yes Yes
+
+Cloud Protection Yes Yes
+
+Network Threat
+Protection
+
+Yes Yes
+
+Free Secure Cloud
+backup space
+
+No Yes, No
+
+If Yes, specify the free
+backup storage space
+available
+
+- *
+
+Installation and
+Demonstration
+
+No Yes, No
+
+No. of days Training
+Provided at Site
+
+0 0, upto to 5, 6 to 10
+
+Number of Years
+upto which Support
+(warranty) is
+available from OEM /
+Franchise online
+
+1 1
+
+FEATURES AND
+FUNCTIONALITY
+PARAMETERS(GENERIC)
+
+Anti-Virus Yes *
+
+Anti-Malware Yes *
+
+Anti-Phishing Yes *
+
+Anti-Rootkit Yes *
+
+Anti-Spyware Yes *
+
+Anti-Trojan Yes *
+
+Anti-Worm Yes *
+
+Anti-Spam Yes *
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/CFAAY3ipT8uRNhkNF4keX_zUdWUioB3QwWNRjG8lz8I
+
+
+ 
+
+Anti-Adware Yes *
+
+Anti-Ransom ware Yes *
+
+Boot time protection Yes *
+
+Removable Media Scan Yes *
+
+Protection from
+Browser Exploits
+
+Yes *
+
+Incoming and Outgoing
+Email Protection
+
+Yes *
+
+Instant Messaging
+Protection
+
+Yes *
+
+On-Demand Scanning Yes *
+
+On-Access Scanning Yes *
+
+Scheduled Scanning Yes *
+
+Vulnerability Scanning Yes *
+
+Automatically Clean
+Infected Files
+
+Yes *
+
+Scan Compressed File
+Formats
+
+Yes *
+
+Quarantine Feature Yes *
+
+Automatic USB
+Detection
+
+Yes *
+
+Registry Start Up
+Protection
+
+Yes *
+
+Browser Protection Yes *
+
+Malicious web page
+blocking
+
+Yes *
+
+Tamper Protection Yes *
+
+Parental Control Yes *
+
+Password Manager No *
+
+Heuristics Protection Yes *
+
+Firewall Yes *
+
+Web Protection Yes *
+
+Macro Protection Yes *
+
+Protection from PUA
+(Potential Unwanted
+Applications)
+
+Yes *
+
+Download Protection Yes *
+
+Behavioural Analysis &
+Vulnerability Protection
+
+No *
+
+Band width
+Management
+
+Yes *
+
+                               3 / 6
+
+
+
+ 
+
+Proactive performance
+alerts
+
+Yes *
+
+Social media protection Yes *
+
+Online Identity
+protection
+
+Yes *
+
+Safe guards online
+transactions
+
+Yes *
+
+Network Attack Blocker Yes *
+
+Virus cleanup
+mode/Virtual sandbox
+
+Yes *
+
+System Watcher Yes *
+
+Backup and Restore Yes *
+
+Data Encryption No *
+
+Automatic Exploit
+Prevention
+
+Yes *
+
+File Shredder Yes *
+
+Virtual Key Board Yes *
+
+Automatic Updates Yes *
+
+Free 24-hour support Yes *
+
+Unique/Special
+features, if any
+
+- *
+
+SUPPORT HARDWARE
+REQUIREMENT
+PARAMETERS
+
+Hard Disk Space
+Required
+
+- *
+
+RAM Size required - *
+
+Supported Devices (eg.
+Desktop, Laptop,
+Tablet, Server, Mobile,
+etc)
+
+- *
+
+Supported Operating
+Systems (eg. Windows,
+OS X, Linux, Solaris,
+Android, iOS, Ubuntu
+Touch, Windows Phone,
+etc.).
+
+- *
+
+Number of
+Devices/Users Managed
+
+- *
+
+GENERIC PARAMETERS
+OF SECURITY AND
+PROTECTIVE
+SOFTWARE INCLUDING
+ANTIVIRUS
+
+Free Upgradation to
+Higher Version with in
+support period
+
+Yes *
+
+Valid Licence copy to
+be provided
+
+Yes *
+
+Software supplied
+through
+
+Media & URL Link *
+
+AV Test Certified Yes *
+
+                               4 / 6
+
+
+
+ 
+
+Any other Certifications - *
+
+List of items included in
+the package
+
+- *
+
+Hyper link to Data
+sheet
+
+- *
+
+No of Softwares sold 150 *
+
+Number of User
+Referance no. 1 with in
+Government
+Department email,
+phone no.Of concerned
+authority where
+Software/Appliance
+installed
+
+35 *
+
+Details of Government
+Department email,
+phone no.Of concerned
+authority where
+Software /Appliance
+installed for above.
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********KATHUA 5  30
+
+Bid Specific Additional Terms and Conditions
+
+1.After award of contract – Successful Bidder shall have to get Detailed Design Drawings
+approved from buyer before starting fabrication. Successful Bidder shall submit Detailed
+Design Drawings for Buyer's approval, within 10 days of award of contract. Buyer shall,
+either approve the drawings or will provide complete list of modification required in the
+drawings within 10 days. Seller shall be required to ensure supply as per approved Drawings
+with modifications as communicated by Buyer. If there is delay from buyer side in approval
+of drawing– the delivery period shall be refixed without LD for the period of delay in approval
+of Drawing.
+
+2.Staggered Delivery: The ordered items shall be supplied in a staggered manner. ( 0
+Quantity shall be supplied within 0 days of contract placement and thereafter 0 Quantity per
+Month)
+
+3.Bidder financial standing: The bidder should not be under liquidation, court receivership
+or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect
+with bid.
+
+                               5 / 6
+
+
+
+ 
+
+4.Consortium: In case of Contracts, wherein the seller alone does not have necessary
+expertise, the seller can form consortium with other sellers for submission of the bid, with
+one of the consortium company as leader. However, each and every member of the
+consortium shall be equally responsible for the complete execution of the project contract.
+An undertaking to this effect is to be uploaded with bid.
+
+5.End User Certificate: Wherever Bidders are insisting for End User Certificate from the
+Buyer, same shall be provided in Buyer’s standard format only.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

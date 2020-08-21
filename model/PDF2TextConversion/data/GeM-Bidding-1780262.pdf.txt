@@ -1,0 +1,569 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/704716
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 13:00:00
+
+Bid Opening Date/Time 20-07-2020 13:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Manipur
+
+Department Name Municipal Administration, Housing & Urban
+Development (mahud)
+
+Organisation Name Department Of Municipal Administration, Housing &
+Urban Development (mahud)
+
+Office Name Moirang Municipal Council
+
+Total Quantity 6
+
+Item Category Hopper Tipper Dumper
+
+Experience Criteria  1 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  40 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+Estimated Bid Value  4500000
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 0.50
+
+EMD Amount 22500
+
+ePBG Detail
+
+                               1 / 6
+
+
+
+ 
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 2.00
+
+Duration of ePBG required (Months). 3
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+Computer Operator
+Moirang Municipal Council, Municipal Administration, Housing & Urban Development (MAHUD),
+Department of Municipal Administration, Housing & Urban Development (MAHUD),
+(Mairembam Manglem Singh)
+
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 40% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Hopper Tipper Dumper ( 6 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Certification Chassis Certification ARAI *
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/u8UQreaYmdhKTCO3MjDhRpaEaCFvpZtOnlSwBrGK5Oo
+
+
+ 
+
+Chassis Certification
+ARAI/VRDE/ICAT No
+
+- *
+
+At the time of supply of
+the equipment, the
+chassis should not be
+more than 6 months
+old
+
+Yes *
+
+Generic Parameters Type of TIPPER Garbage Tipper Garbage Tipper
+
+Type of TIPPER if other
+tipper ,please declare
+type of Tipper,
+
+- *
+
+Make of Chassis - *
+
+Type of Chassis Frame - *
+
+Category of Vehicle
+for which Chassis to
+be used
+
+Light Capacity
+Commercial Vehicles
+
+Light Capacity
+Commercial Vehicles
+
+Type of Chasssis Chassis with Facecowl *
+
+Type of Fuel Diesel Diesel
+
+Vehicle Emission
+Complaince
+
+BS-VI BS-VI
+
+Fuel Consumption (
+declared by OEM as
+certified by Test
+Agency under Rule
+115of CMVR 1989)
+(Kmpl)
+
+19.6 *
+
+Speed, Max (Km/Hr) 80 *
+
+Max Engine Power
+BHP (BHP@rpm)
+
+70 More than 70.0 Or
+higher
+
+Rated RPM at Max
+Engine Power
+
+3300 *
+
+Max Engine Torque
+(N-M@rpm)
+
+170 More than 170.0 Or
+higher
+
+Rated RPM at Max
+Engine Torque
+
+2400 *
+
+Main Engine
+Aspiration
+
+Turbocharged Turbocharged
+
+No. of Cylinder in Main
+Engine (Nos)
+
+3 *
+
+Fuel Tank Capacity
+(Ltrs)
+
+40 *
+
+Gradeability of Vehicle
+with load( %)
+
+29 *
+
+Ground Clearance
+(mm)
+
+161 *
+
+Wheel Base (mm) 2350 *
+
+                               3 / 6
+
+
+
+ 
+
+Kerb Weight (Kg) 1218 *
+
+Gross Vehicle
+Weight (Kg)
+
+2590 More than 2590.0 Or
+higher
+
+Type of BIS MARKED
+Vehicle Tyre
+
+Tubeless *
+
+Chassis
+Transmission System
+
+Manual Manual
+
+Number of Speed/
+Forward Gears
+
+5 *
+
+Type of Steering Manual Manual, Power
+Operated
+
+Turning Radius,Min
+(mm)
+
+5500 Less than 5500.0 Or
+lower
+
+Speed Governers/ECU Yes *
+
+ABS Fitted No *
+
+Front Vehicle Brake - *
+
+Rear Vehicle Brake - *
+
+Type of Clutch - *
+
+Tipping Angle (Degree) 45 *
+
+Tipper Container cap
+acity/Volume(cubic
+metres)
+
+3.3 3.3 - 20.0 Or higher
+
+Consructional
+Parameters
+
+Size Of Front Tyres
+(mm)
+
+- *
+
+Size Of Rear Tyres
+(mm)
+
+- *
+
+Size of Wheel (mm) 355.6 *
+
+Tipper body Pivot
+length (mm)
+
+1420 *
+
+Tipper body Length
+(mm)
+
+2820 *
+
+Tipper Body Height
+(mm)
+
+849 *
+
+Overall Height of Tipper
+from Ground (mm)
+
+1920 *
+
+Body Plate Thickness
+(mm)
+
+1.6 *
+
+Main Frame Thickness
+(mm)
+
+3 *
+
+Hydraulic System Yes *
+
+Tipping Hydraulic
+Cylinders(Make)
+
+- *
+
+Hydraulic System
+Driven by
+
+Main Engine *
+
+                               4 / 6
+
+
+
+ 
+
+Tipper Container
+Material
+
+Mild Steel Mild Steel
+
+Thickness of sheet from
+tipper Collector
+Container Made (mm)
+
+1.6 *
+
+Dumping Height (mm) 700 *
+
+Engine Oil Pressure
+Level Indicator in
+Control Panel
+
+No *
+
+Fuel Gauge Indicator in
+Control Panel
+
+Yes *
+
+Engine Cooling Liquid
+Temperature Indicator
+in Control Panel
+
+Yes *
+
+Operating Hour Meter No *
+
+Locking/Unlocking of
+Tipper Discharge
+Container
+
+Yes *
+
+Lowering/Lifting of
+Tipper Discharge
+Container
+
+Yes *
+
+Counter Weight No *
+
+If yes Counter Weight
+(kg)
+
+0 *
+
+Paint Automotive Paint *
+
+Performance
+Parameters
+
+Standard Sparewheel
+and Tool Kit
+
+Yes *
+
+Warranty Time
+(Month)
+
+12 12.0
+
+No. Of Free Service
+(Nos)
+
+3 *
+
+Battery Warranty
+(Months)
+
+12 12, 24, 36 Or higher
+
+Warranty Distance
+(Km)(Unlimited during
+warranty Period)
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti Address Quantity Delivery Days
+
+                               5 / 6
+
+
+
+ 
+
+ng Officer
+
+1 MAIREMBAM
+MANGLEM SINGH
+
+795133,Sendra Road,
+Moirang Ward No. 5
+
+6  30
+
+Bid Specific Additional Terms and Conditions
+
+1.After award of contract – Successful Bidder shall have to get Detailed Design Drawings
+approved from buyer before starting fabrication. Successful Bidder shall submit Detailed
+Design Drawings for Buyer's approval, within 5 days of award of contract. Buyer shall, either
+approve the drawings or will provide complete list of modification required in the drawings
+within 7 days. Seller shall be required to ensure supply as per approved Drawings with
+modifications as communicated by Buyer. If there is delay from buyer side in approval of
+drawing– the delivery period shall be refixed without LD for the period of delay in approval of
+Drawing.
+
+2.Bidders can also submit the EMD with Payment online through RTGS / internet banking in
+Beneficiary name FOURTEEN FINANCE COMMISSION MMC MOIRANG Account No. 
+36451155320 IFSC Code SBIN0012265 Bank Name STATE BANK OF INDIA Branch address 
+MOIRANG, MANIPUR - 795133.
+ Bidder to indicate bid number and name of bidding entity in the transaction details field at
+the time of on-line transfer. Bidder has to upload scanned copy / proof of the Online Payment
+Transfer along with bid.
+
+3.Successful Bidder can submit the Performance Security in the form of Payment online
+through RTGS / internet banking also (besides PBG which is allowed as per GeM GTC). On-
+line payment shall be in Beneficiary name FOURTEEN FINANCE COMMISSION MMC MOIRANG
+Account No. 36451155320 IFSC Code SBIN0012265 Bank Name STATE BANK OF INDIA
+Branch address MOIRANG, MANIPUR - 795133. Successful Bidder to indicate Contract
+number and name of Seller entity in the transaction details field at the time of on-line
+transfer. Bidder has to upload scanned copy / proof of the Online Payment Transfer in place
+of PBG within 15 days of award of contract.
+
+4.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+5.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+6.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+7.For fulfilling the experience criteria any one of the following documents may be considered
+as valid proof for meeting the experience criteria:
+a. Purchase Order copy along with Invoice(s) with self-certification by the bidder that
+supplies against the invoices have been executed.
+b. Execution certificate by client with order value.
+c. Any other document in support of order execution like Third Party Inspection release note,
+etc.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

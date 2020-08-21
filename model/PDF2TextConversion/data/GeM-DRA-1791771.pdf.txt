@@ -1,0 +1,419 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   RA Number: GEM/2020/RA/45484
+
+  Dated: 17-07-2020
+
+  
+
+RA Document
+RA Details
+
+RA Technical End Date/Time 20-07-2020 16:00:00
+
+RA Opening Date/Time 20-07-2020 16:30:00
+
+RA Life Cycle (From Publish Date) 90 (Days)
+
+RA Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Delhi
+
+Department Name Health And Family Welfare Department Delhi
+
+Organisation Name N/a
+
+Office Name Ambedkar Nagar Hospital Dakshin Puri Delhi 110062
+
+Total Quantity 20
+
+Item Category blood pressure recording units
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+
+Splitting
+
+ RA splitting not applied.
+
+Blood Pressure Recording Units ( 20 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+                               1 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/CoDJl2_uNkQpnMtvOzA6mAjqbjOeGGRT5Xy-AdpgWNc
+
+
+ 
+
+CONFIGURATION
+DETAILS
+
+Type Of SPHYGMOM
+ANOMETERS or
+Blood Pressure
+recording unit:
+
+Digital Digital
+
+Conformity to Indian
+Standrad for SPHYG
+MOMANOMETERS
+
+NA for digital IS:3390 latest for
+Mercurial, IS 7652
+latest for Aneroid, NA
+for digital
+
+Measuring device Automated Automated
+
+Type Portable Portable
+
+ISI MARKED NA for digital Yes, NA for digital
+
+CM/L No and validity
+date
+
+- *
+
+Measurement
+Method
+
+others Oscillometric,
+Auscultatory method,
+others
+
+Display for Digital
+BP instrument:
+
+LCD(Liquid Crystal
+Digital) Display
+
+LCD(Liquid Crystal
+Digital) Display, NA for
+others
+
+Range: Pressure
+measurement (mmHg)
+
+0 to 300 *
+
+Range:Pulse
+measurement for
+digital with accuracy
+&plusmn; 5%. (per
+minute)
+
+40 to 200 *
+
+Accuracy:Pressure
+measurement (mmHg)
+
++/- 3 *
+
+Pressure Detection Capacitive Pressure
+sensor
+
+*
+
+Inflation Automatic Pressure
+Application by pump
+
+Automatic Pressure
+Application by pump,
+Manual
+
+Deflation and rapid
+Air Release
+
+Automatic Pressure
+Release Valve
+
+Automatic Pressure
+Release Valve, Manual
+
+Cuff Range Medium (22-32)cm Medium (22-32)cm
+
+Dimensions of the
+Equipment (mmXmm)
+
+- *
+
+Dimensions of the
+Display screen
+(mmXmm)
+
+- *
+
+Operating Temperature
+range
+
+0 to 55 degree Celsius *
+
+Stroage Temperature
+range
+
+(-10) to 55 degree
+Celsius
+
+*
+
+Automatic power off if
+system is idle for 3
+
+Yes *
+
+                               2 / 5
+
+
+
+ 
+
+minutes.
+
+Weight (in gram) - *
+
+Power Power Source: AA size chargeable
+battery set
+
+AA size chargeable
+battery set, Either
+Charageble Battery Set
+Or {220 Volt, 50 Hz AC
+Supply ]
+
+Type of AA Size
+chargeable Battery
+(AA Size)
+
+Alkaline Alkaline, Lithium, Ni-cd
+
+WARRANTY,
+CERTIFICATIONS, TEST
+REPORTS
+
+Warranty Period (in
+Year)
+
+1 1, 2, 3
+
+Availability of Type
+Test Report covering
+complete test
+parameters as per
+IS3390 latest for
+Mercurial and IS7652
+latest for Aneriod type,
+from any ILAC/NABL
+accredited/Central Gov
+LABFor digital type
+including
+Environmental test
+from any ILAC/NABL
+accredited/Central Gov
+LAB
+
+Yes *
+
+Type test report No and
+date
+
+- *
+
+Name and address of
+the Lab where test
+Conducted.
+
+- *
+
+CE Marking Certificate
+for B.P. Apparatus
+Model.
+
+Yes *
+
+Conformity to OILM-
+R-16-1 and OILM-
+R-16-2 for both Non-
+invasive mechanical
+sphygmomanometers
+and Non-invasive
+automated
+sphygmomanometers
+are for guidance and All
+the Gazette of india
+related to legal
+metrology issued time
+to time, are applicable
+to the specification as
+well as to the product.
+
+Yes *
+
+Others Certificate ie
+ROHS,WHO,GMP etc.
+
+- *
+
+                               3 / 5
+
+
+
+ 
+
+For Digital
+Sphygmomanometer
+,Availability of Type
+test reports consisting
+of verification of all the
+features & functional
+parameters &
+environmental tests
+sequences as under: a)
+Dry heat test (For 16
+hrs at a temp of
+55degree C in
+accordance with IS: 90
+00/part-3/section-3/197
+7)latest
+
+Yes *
+
+For Digital
+Sphygmomanometer
+Cold test(For 4 hrs at a
+temp of (-10) degree C
+in accordance with IS: 9
+000/part-2/section-3/19
+77latest c) Damp Heat
+Cyclic Test ( For 2
+cycles of 24 hrs at a
+temp 55 degree C &
+95% RH in accordance
+with IS: 9000/part-5/sec
+tion-1/1981)latest
+Note:- The BP
+Instrument shall be
+checked for all the
+parameters before
+conditioning After
+completion of the
+above environmental
+tests sequence, with a
+recovery period of 1 to
+2 hrs, BP Instrument
+shall be functional "
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignee/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Sudhir Kumar 110062,AMBEDKAR NAGAR
+HOSPITAL, DAKSHIN PURI,
+NEW DELHI
+
+20  2
+
+                               4 / 5
+
+
+
+ 
+
+Bid Specific Additional Terms and Conditions
+
+1.Provisions for workmen compensation, insurance, public liability, property damage,
+insurance etc. to be ensured by the contractor. Also, safety measures prescribed for working
+in Extra High Voltage & use of personnel protective equipment must be adhered to.
+
+This RA is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

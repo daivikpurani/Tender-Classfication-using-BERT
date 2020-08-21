@@ -1,0 +1,839 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   RA Number: GEM/2020/RA/44158
+
+  Dated: 13-07-2020
+
+  
+
+RA Document
+RA Details
+
+RA Technical End Date/Time 23-07-2020 17:00:00
+
+RA Opening Date/Time 23-07-2020 17:30:00
+
+RA Life Cycle (From Publish Date) 90 (Days)
+
+RA Offer Validity (From End Date) 40 (Days)
+
+Ministry/State Name Ministry Of Science And Technology
+
+Department Name Department Of Scientific And Industrial Research
+(dsir)
+
+Organisation Name Council Of Scientific And Industrial Research (csir)
+
+Office Name Csir-national Chemical Laboratory
+
+Total Quantity 1
+
+Item Category Water Quality Meters / Analyzers
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+
+Splitting
+
+ RA splitting not applied.
+
+Water Quality Meters / Analyzers ( 1 pieces )
+
+                               1 / 8
+
+
+
+ 
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+TYPE / NOMENCLATURE
+/ PROTECTION
+
+Type of Meter /
+Analyzer
+
+Bench Type Bench Type
+
+Functional
+nomenclature
+
+Multi Parameter Water
+Quality Analyzer
+
+Multi Parameter Water
+Quality Analyzer
+
+Ingress Protection
+(Main Unit)
+
+NA being Bench Top NA being Bench Top
+
+Calibration Manual Manual
+
+MEASURED WATER
+QUALITY PARAMETERS
+
+Dissolved Oxygen
+(DO)
+
+No No
+
+DO % Stauration No No
+
+Conductivity No No
+
+Resistivity No No
+
+Salinity No No
+
+Total Dissolved
+Solids (TDS)
+
+No No
+
+pH Yes Yes
+
+Oxidation Reduction
+Potential (ORP)
+
+No No
+
+Ammonium No No
+
+Nitrate No No
+
+Chloride No No
+
+Turbidity No No
+
+Depth No No
+
+Temperature Yes Yes
+
+Atmospheric
+Pressure
+
+No No
+
+MEASUREMENT OF
+DISSOLVED OXYGEN
+(DO) / DO % Saturation
+
+Dissolved Oxygen
+(DO) measurement
+Principle
+
+NA NA
+
+Sensor / Probe/
+Electrode Type
+
+NA NA
+
+Measurement Range
+for DO Content ( in
+ppm or mg/l )
+
+NA NA
+
+Resolution ( in ppm or
+mg/l )
+
+NA *
+
+DO Accuracy ( +/- ) 0 *
+
+                               2 / 8
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/xN3WDa13YpBMyGHthk5L7EfIHzBo3s2Be19gMO21sgw
+
+
+ 
+
+Measurement Range
+for DO % Saturation
+( in % )
+
+NA NA
+
+Resolution ( in % ) NA *
+
+DO % Accuracy (+/- ) 0 *
+
+MEASUREMENT OF
+CONDUCTIVITY (EC)
+
+Conductivity
+measurement
+principle
+
+NA NA
+
+Sensor/
+Probe/Electrode
+Type
+
+NA NA
+
+Material of Electrode NA NA
+
+Measurement Range
+( in µS/cm )
+
+NA NA
+
+Resolution ( in mho or
+µS/cm )
+
+NA *
+
+EC Accuracy ( +/- ) 0 *
+
+MEASUREMENT OF
+RESISTIVITY
+
+Resitivity
+measurement
+principle
+
+NA NA
+
+Lowest
+Measurement Value
+for Resistivity (in
+ohm-cm)
+
+NA NA
+
+Highest
+Measurement Value
+for Resistivity (in
+Mega ohm-cm)
+
+NA NA
+
+Resolution ( in ohm-
+cm)
+
+NA *
+
+Resistivity Accuracy(+/-
+)
+
+0 *
+
+MEASUREMENT OF
+SALINITY
+
+Salinity
+measurement
+principle
+
+NA NA
+
+Measurement Range
+( in parts per
+thousand or g/l or
+PSU)
+
+NA NA
+
+Resolution (in g/l) NA *
+
+Salinity Accuracy ( +/- ) 0 *
+
+MEASUREMENT OF
+TOTAL DISSOLVED
+SOLIDS (TDS)
+
+TDS measurement
+principle
+
+NA NA
+
+TDS Measurement
+Range ( in parts per
+thousand or g/l )
+
+NA NA
+
+                               3 / 8
+
+
+
+ 
+
+Resolution ( in g/l ) NA *
+
+TDS Accuracy ( +/- ) 0 *
+
+MEASUREMENT OF pH pH measurement
+principle
+
+Electro chemical Electro chemical
+
+Sensor / Probe /
+Electrode Type
+
+Glass Electrode Glass Electrode
+
+Number of Sensors /
+Electrodes
+
+Combination Electrode
+(2 Electrode)
+
+Combination Electrode
+(2 Electrode)
+
+pH Measurement
+Range
+
+0-14 0-14
+
+Resolution ( in pH
+number )
+
+0.01 *
+
+pH Accuracy ( +/- ) 1 *
+
+MEASUREMENT OF
+OXIDATION REDUCTION
+POTENTIAL (ORP)
+
+ORP measurement
+principle
+
+NA NA
+
+Sensor / Probe/
+Electrode Type
+
+NA Platinum Electrode, Ion
+Selective Electrode
+(ISE), NA
+
+Number of Sensors
+/Electrodes
+
+NA NA
+
+Lowest
+Measurement Value
+for ORP (in mV )
+
+NA NA
+
+Highest
+Measurement Value
+for ORP (in mV )
+
+NA NA
+
+Resolution ( in ± mV ) NA *
+
+ORP Accuracy ( +/- ) 0 *
+
+MEASUREMENT OF
+AMMONIUM
+
+Sensor / Probe/
+Electrode Type
+
+NA Ion Selective Electrode,
+NA
+
+Measurement Range
+( in ppm or mg/l )
+
+NA NA
+
+Resolution ( in ppm or
+mg/l )
+
+NA *
+
+Ammonium Accuracy (
++/- )
+
+0 *
+
+MEASUREMENT OF
+NITRATE
+
+Sensor / Probe/
+Electrode Type
+
+NA Ion Selective Electrode,
+NA
+
+Measurement Range
+( in ppm or mg/l )
+
+NA 0-100, 0-200, 0-300,
+0-400, 0-500, 0-600,
+NA
+
+Resolution ( in ppm or
+mg/l )
+
+NA *
+
+Nitrate Accuracy ( +/- ) 0 *
+
+MEASUREMENT OF Sensor/Probe/Electro NA NA
+
+                               4 / 8
+
+
+
+ 
+
+CHLORIDE de Type
+
+Measurement Range
+( in ppm or mg/l )
+
+NA 0-400, 0-600, 0-800,
+0-1000, 0-1200,
+0-1500, NA
+
+Resolution ( in ppm or
+mg/l )
+
+NA *
+
+Chloride Accuracy ( +/-
+)
+
+0 *
+
+MEASUREMENT OF
+TURBIDITY
+
+Turbidity
+measurement
+principle
+
+NA NA
+
+Light Source NA NA
+
+Measurement of
+scattered light
+
+NA NA
+
+Lowest
+Measurement Value
+for Turbidity (in FNU
+or NTU )
+
+NA NA
+
+Highest
+Measurement Value
+for Turbidity (in FNU
+or NTU )
+
+NA NA
+
+Resolution ( in FNU or
+FTU )
+
+NA *
+
+Turbidity Accuracy ( +/-
+)
+
+0 *
+
+MEASUREMENT OF
+TEMPERATURE
+
+Sensor/Probe Type NA NA
+
+Lowest
+Measurement Value
+for Temperature (˚C)
+
+-5 -5
+
+Highest
+Measurement Value
+for Temperature (˚C)
+
+100 100
+
+Resolution (˚C) NA *
+
+Temperature Accuracy
+( +/- )
+
+0 *
+
+MEASUREMENT OF
+PRESSURE
+
+Sensor /Probe Type NA NA
+
+Lowest
+Measurement Value
+for Pressure (in
+mmHg )
+
+NA NA
+
+Highest
+Measurement Value
+for Pressure (in
+mmHg )
+
+NA NA
+
+Resolution ( in mmHg ) NA *
+
+                               5 / 8
+
+
+
+ 
+
+Pressure Accuracy ( +/-
+)
+
+0 *
+
+MEASUREMENT OF
+DEPTH
+
+Measurement
+Method
+
+NA NA
+
+Depth Measurement
+Range (in meters)
+
+NA NA
+
+Length of Cable
+connecting peobe
+(inclusive in the
+scope of supply)
+
+0 0.0
+
+COMPENSATION /
+CORRECTION
+
+Temperature
+correction
+
+Automatic Automatic
+
+Salinity Correction NA NA
+
+Barometric Pressure
+correction
+
+NA NA
+
+DISPLAY / STORAGE Type of Display LCD with Backlight *
+
+Display Digit Size 20 *
+
+Number of Digits in
+Display
+
+3 *
+
+Number of parameters
+diplayed
+simultaneously
+
+1 *
+
+Memory (in Data Sets) 1000 *
+
+Internal memory (GB) 0 *
+
+In-built GPS No *
+
+Date /time Stamp in
+Entries
+
+Yes *
+
+Connectivity interface USB *
+
+POWER SOURCE Power Source Rechargeable
+Battery,Mains (230 ±10
+Volts / 50 Hz AC)
+
+*
+
+Battery Size, if Non
+Rechargeable Battery
+
+NA *
+
+Battery Chemistry, if
+Rechargeable Battery
+
+Li-ion *
+
+Voltage of each Battery 3.7 *
+
+Number of Batteries
+required for operation
+
+1 *
+
+Number of Batteries
+Inclusive in the Scope
+of Supply
+
+1 *
+
+Battery Capacity (mAh) 0 *
+
+Battery Life 50 *
+
+Suitable Adapter to be Yes *
+
+                               6 / 8
+
+
+
+ 
+
+supplied to make the
+equipment Work on
+230 V ± 10 %, 50 Hz
+
+GENERIC Armour housing of
+Sensor / Probe
+
+Plastic *
+
+Probe / Sensor /
+Electrode supplied with
+equipment
+
+No *
+
+Number of elctrodes
+supplied
+
+0 *
+
+Weight 1 *
+
+Dimensions ( mm x mm
+x mm )
+
+- *
+
+Carry Case included in
+the scope of supply
+
+No *
+
+Any other features - *
+
+List of Items and
+Quantity of each item
+included in the offer
+
+- *
+
+OPERATING
+CONDITIONS
+
+Minimum Operating
+Temperature
+
+0 0.0
+
+Maximum Operating
+Temperature
+
+50 50.0
+
+Operating Humidity,
+Rh at 40 deg C
+
+95 95.0
+
+WARRANTY Warranty on
+Equipment
+
+2 2.0
+
+Warranty on Probe /
+Electrode
+
+6 6.0
+
+Warranty on Cables
+for Connecting Probe
+
+1 1.0
+
+CERTIFICATION Availability of Test
+Reports from Central
+Govt / NABL
+approved / ILAC
+accredited Lab to
+prove conformity to
+the specification
+
+No No
+
+If Yes, Test Report to
+be furnished to the
+Buyer on demand
+
+NA *
+
+Test Report No and
+Date
+
+- *
+
+Name of the Lab and
+Address
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+                               7 / 8
+
+
+
+ 
+
+Additional Specification Documents
+
+ Consignee/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Krishnaraj
+Tukaram Jadhav
+
+411008,CSIR - National
+Chemical Laboratory, Dr.
+Homi Bhabha Road, Pune -
+411008 Maharashtra
+
+1  30 N/A
+
+Bid Specific Additional Terms and Conditions
+
+1. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+2.The buyer organization is an institution eligible for concessional rates of GST as notified by
+the Government of India. The goods for which bids have been invited fall under classification
+of GST concession and the conditions for eligibility of concession are met by the institution.
+A certificate to this effect will be issued by Buyer to the Seller after award of the Contract.
+Sellers are requested to submit their bids after accounting for the Concessional rate of GST.
+Applicable Concessional rate of GST : 5%
+Notification No.and date : 45,47/2017 dated 14/11/2017
+
+This RA is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               8 / 8
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

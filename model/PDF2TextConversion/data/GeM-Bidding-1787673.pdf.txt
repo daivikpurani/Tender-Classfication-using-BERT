@@ -1,0 +1,426 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/711441
+
+  Dated: 15-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 15:00:00
+
+Bid Opening Date/Time 27-07-2020 15:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Madhya Pradesh
+
+Department Name Department Of Higher Education Madhya Pradesh
+
+Organisation Name N/a
+
+Office Name Bhopal1
+
+Total Quantity 2
+
+Item Category Inverter with sine wave output
+
+OEM Average Turnover (Last 3 Years)  3 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  30 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+                               1 / 5
+
+
+
+ 
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 30% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Inverter With Sine Wave Output ( 2 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC Inverter Governing
+specification
+
+Generally conforming
+to IS:13314
+
+*
+
+Rating in KVA & Min.
+VAH Capacity of
+Battery
+
+1.5 KVA/6480 VAH 1.5 KVA/6480 VAH
+
+Technology MOSFET-PWM MOSFET-PWM
+
+Energy Star Rating 4 Star 4 Star
+
+Trolley with trolley with trolley
+
+Type of Battery Tubular battery
+confirming to IS:13369
+
+Tubular battery
+confirming to IS:13369
+
+Backup time (Minutes) Minimum 180 Minutes *
+
+CONSTRUCTIONAL Thickness of sheet for
+trolley (in mm)
+
+1.2 *
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/S2V1qY5cbhKEchDxxU-JbZWl-fj0fUxHIPZcxfTY_kI
+
+
+ 
+
+minimum
+
+Trolley Material CRCA Steel *
+
+Type of enclosure CRCA Steel *
+
+Thickness of sheet for
+enclosure ( in mm)
+minimum
+
+1.2 *
+
+Inverter shall have by
+pass facility
+
+Yes *
+
+FUNCTIONAL Total Harmonic
+distortion
+
+</=5% *
+
+Input Single Phase sine
+wave(120 to 260 V)
+
+*
+
+Output Single Phase sine wave
+230 V
+
+*
+
+Inverter Efficiency (%) >/=87% *
+
+Overload Time (in
+Minutes)
+
+>/=10 *
+
+Overload of rated load
+(in %)
+
+>/=10 *
+
+PROTECTION Battery cut-off voltage
+to protect from
+overdischarge (in Volt)
+
+>10.5 *
+
+Degree of protection IP 21 *
+
+METERING AND
+INDICATIONS
+
+The inverters shall be
+provided with output
+voltage and current
+meters conforming to
+IS 2419 : 1979 and of
+an accuracy class not
+inferior to 2.5 in
+accordance with IS
+1248 : 1983
+
+Yes *
+
+CERTIFICATIONS Availability of the Type
+Test Report from
+Central Govt.
+/NABL/ILAC Accredited
+lab
+
+Yes *
+
+Climatic test report as
+per clause 7.10.1 of IS
+13314
+
+yes *
+
+Type Test Certificate
+No.
+
+- *
+
+Name of Lab - *
+
+Type Test Certificate
+date
+
+- *
+
+Address of Lab - *
+
+                               3 / 5
+
+
+
+ 
+
+Inverter shall have
+valid BIS CRS
+certifications for < / =
+10 KVA
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Alka Varma 462016,SAROJNI NAIDU
+GOVERNMENT GIRLS POST
+GRADUATE COLLEGE, MAIN
+ROAD 2, SHIVAJI NAGAR,
+
+2  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Bidders shall quote only those products in the bid which are not obsolete in the market and
+has at least 3 years residual market life i.e. the offered product shall not be declared end-of-
+life by the OEM before this period.
+
+2.Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have
+regularly, manufactured and supplied same or similar Category Products to any Central /
+State Govt Organization / PSU / Public Listed Company for 3 years before the bid opening
+date. Copies of relevant contracts to be submitted along with bid in support of having
+supplied some quantity during each of the year. In case of bunch bids, the primary product
+having highest value should meet this criterion.
+
+3. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+4.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+5.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents
+sought in the Bid document, ATC and Corrigendum if any.
+
+6. ISO 9001: The bidder must have ISO 9001 certification.
+7.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+8.For fulfilling the experience criteria any one of the following documents may be considered
+as valid proof for meeting the experience criteria:
+a. Purchase Order copy along with Invoice(s) with self-certification by the bidder that
+supplies against the invoices have been executed.
+b. Execution certificate by client with order value.
+c. Any other document in support of order execution like Third Party Inspection release note,
+etc.
+
+9.Successful bidder will have to ensure that adequate number of dedicated technical service
+personals / engineers are designated / deployed for attending to the Service Request in a
+time bound manner and for ensuring Timely Servicing / rectification of defects during
+warranty period, as per Service level agreement indicated in the relevant clause of the bid.
+
+                               4 / 5
+
+
+
+ 
+
+10.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+11.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial
+year, should be as indicated in the bid document. Documentary evidence in the form of
+certified Audited Balance Sheets of relevant periods or a certificate from the Chartered
+Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than
+3 year old, the average turnover in respect of the completed financial years after the date of
+constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of
+CATEGORY RELATED TO primary product having highest bid value should meet this criterion.
+
+12.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+13.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+14.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+15.The Bidder / OEM {themselves or through reseller(s)}, should have executed project for
+supply and installation / commissioning of same or similar Category Products during
+preceding 3 financial years (i.e. current year and three previous financial years) as on
+opening of bid, as per following criteria:
+ 
+(i) Single order of at least 35% of estimated bid value; or
+(ii) Two orders of at least 20% each of estimated bid value; or
+(iii) Three orders of at least 15% each of estimated bid value.
+Satisfactory Performance certificate issued by respective Buyer Organization for the above
+Orders should be uploaded with bid. In case of bunch bids, the Category related to primary
+product having highest bid value should meet this criterion
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

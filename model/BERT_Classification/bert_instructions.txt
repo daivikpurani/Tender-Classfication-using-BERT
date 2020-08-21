@@ -1,0 +1,1 @@
+This codes needs to be run on Jupyter Notebook as it is of .ipynb format. It contains various external packages and libraries that needs to be downloaded on the system, and whose list is provided in the requirements document. One run_classifier.py code needs to be stored in the same folder as the main code as it imports packages from it.

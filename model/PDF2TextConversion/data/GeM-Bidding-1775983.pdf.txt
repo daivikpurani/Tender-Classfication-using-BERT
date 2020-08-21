@@ -1,0 +1,330 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/700819
+
+  Dated: 07-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 11:00:00
+
+Bid Opening Date/Time 20-07-2020 11:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Army
+
+Office Name ***********
+
+Total Quantity 10
+
+Item Category thin client computers
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Thin Client Computers ( 10 pieces )
+
+Technical Specifications
+
+                               1 / 4
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Configuration Type Desktop Thin Client Desktop Thin Client
+
+Processor make Intel Intel
+
+Chipset Intel *
+
+Operating system,
+Number of Core &
+Processor Speed
+
+Windows embedded
+Standard 10 or higher
+with browser Quad
+Core, Min 2 Ghz
+
+Windows embedded
+Standard 10 or higher
+with browser Quad
+Core, Min 2 Ghz
+
+Graphics Integrated Integrated
+
+Type of RAM DDR4 *
+
+RAM Size (GB) 4 4, 8, 16 Or higher
+
+Storage (Powered
+Flash) (GB)
+
+128 128, 256, 512 Or
+higher
+
+Printer support Local and Network *
+
+Wi-Fi Connectivity NA NA
+
+Display/Monitor Display / Monitor Available Available
+
+Display Type Discrete in case of
+Desktop Thin Client
+
+Discrete in case of
+Desktop Thin Client
+
+Display Size (Inch) 18.5 18.5
+
+Ports USB port 2.0 (Nos) 4 *
+
+USB port 3.0 or higher
+(Nos)
+
+1 *
+
+Serial Port 1 *
+
+Parallel Port 1 *
+
+USB C 0 *
+
+VGA Port 1 *
+
+DVI Port 0 *
+
+Audio Single audio/single
+3.5mm port for Mic in
+and speaker out
+
+*
+
+Display Port 0 *
+
+HDMI 1 *
+
+Networking port Ethernet 10/100/1000 *
+
+Input Output Devices Keyboard Standard With USB
+Interface
+
+*
+
+Mouse 2 button scroll optical
+mouse with USB
+interface
+
+*
+
+Certifications BIS Registration under
+CRS of Meity
+
+Yes *
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/rlGA6zZ03EUZRa3j87EDbUBtJyQn0Ftph0TGsK4yXJo
+
+
+ 
+
+Miscellaneous Networking Protocols TCP/IP with DNS and
+DHCP, twisted pair
+(RJ-45), point to point
+protocol (PPP), PPP over
+ethernet (PPPoE), point
+to ponit tunneling
+protocol (PPTP), wake
+on LAN
+
+*
+
+Terminal server
+protocols
+
+Integrated microsoft
+RDP /Citrix ICA./VM
+Ware
+
+*
+
+Operating System &
+Management Software
+
+Windows embedded OS
+with IE 10.0 browser or
+higher enterprise client
+management software
+from the same OEM
+
+*
+
+Additional features DHCP/FTP enabled
+flash upgrade, VNC
+server & txtpad, multi
+user/ single user log on
+support locally.
+
+*
+
+Power Supply (Watts) 45 *
+
+Carry case No *
+
+On Site OEM
+Warranty (Year)
+
+3 3, 5 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********JALPAIGURI 10  30
+
+Bid Specific Additional Terms and Conditions
+
+1. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+2.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+3.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+
+                               3 / 4
+
+
+
+ 
+
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+4.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+5.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+6.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 10 days time limit. If the Seller fails to complete
+service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product
+shall be charged as penalty for each week of delay from the seller. Seller can deposit the
+penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty
+amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than
+10% of the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

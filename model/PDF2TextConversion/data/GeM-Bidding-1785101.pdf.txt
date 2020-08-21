@@ -1,0 +1,500 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/709112
+
+  Dated: 14-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 24-07-2020 11:00:00
+
+Bid Opening Date/Time 24-07-2020 11:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence Reseach & Development
+
+Organisation Name Office Of Dg (ecs)
+
+Office Name ***********
+
+Total Quantity 6
+
+Item Category Computer Printers
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 3.00
+
+EMD Amount 24298
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 5.00
+
+Duration of ePBG required (Months). 26
+
+                               1 / 6
+
+
+
+ 
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+Stores Officer
+Dare, Department of Defence Reseach & Development, Office of DG (ECS), Ministry of Defence
+(S Sagaya Raju)
+
+Splitting
+
+  Bid splitting not applied.  
+
+Computer Printers ( 6 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Specifications Cartridge
+Technology
+
+Composite Cartridge Composite Cartridge,
+separate toner and
+drum Or higher
+
+Printing Technology Laser Laser
+
+Type of Printing Mono Mono
+
+Paper Size A4 A4, A3 Or higher
+
+Print Speed per
+minute as per
+ISO/IEC 24734 in
+(A4) Size - Mono
+
+62 65, 70, 71, 75, 80, 85,
+90, 95, 100, 105, 110,
+62 Or higher
+
+Print Speed per
+minute as per
+ISO/IEC 24734 in
+(A4) - Color
+
+0 4, 7, 8, 10, 12, 15, 16,
+18, 20, 25, 30, 35, 40,
+45, 50, 55, 60, 65, 70,
+75, 80, 85, 90, 95, 100,
+105, 110, 26, 27, 31,
+38, 4.4, 5, 5.7, 5.8, 6.8,
+10.4, 15.5, 21, 24, 33,
+46, 34, 19, 0, 14 Or
+higher
+
+Resolution (Dpi) 600x600 *
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/-us0pgaSNvocCIOHBmlN9y2r0-EvqhjeURMnmzaK-Tw
+
+
+ 
+
+Memory (MB) 1024 *
+
+Hard Disk Capacity
+(GB)
+
+0 *
+
+Processor Speed 792 MHz *
+
+Duplexing Feature Yes Yes Or higher
+
+Duplex Print Speed (
+IPM)
+
+41 *
+
+Network Connectivity Yes *
+
+Network Interface, if
+available
+
+Ethernet 10/100/1000 *
+
+Wireless
+Connectivity
+
+No Yes, No Or higher
+
+If Yes, Type of Wireless
+Connectivity
+
+NA *
+
+USB Port Yes *
+
+Number of Main
+Paper Trays
+
+1 1, 2, 3, 4, 5 Or higher
+
+Each Main Paper Tray
+Capacity
+
+500 *
+
+Bypass Tray Facility Yes Yes Or higher
+
+If Yes, Bypass Tray
+Capacity
+
+100 *
+
+Yield of the
+cartridge/Ink Tank/Ink
+Pack supplied with
+Machine as per ISO/IEC:
+19798/2007(E) for
+Cyan colour (Number of
+prints)
+
+0 *
+
+Yield of the
+cartridge/Ink Tank/Ink
+Pack supplied with
+Machine as per ISO/IEC:
+19798/2007(E) for
+Yellow colour (Number
+of prints)
+
+0 *
+
+Yield of the
+cartridge/Ink Tank/Ink
+Pack supplied with
+Machine as per ISO/IEC:
+19752/2004(E) for
+Black (Number of
+prints)
+
+11000 *
+
+Life of Drum in terms of
+number of Prints in
+case of Separate Drum
+and Toner cartridge
+technology -Cyan
+
+0 *
+
+                               3 / 6
+
+
+
+ 
+
+Life of Drum in terms of
+number of Prints in
+case of Separate Drum
+and Toner cartridge
+technology - Yellow
+
+0 *
+
+Life of Drum in terms of
+number of Prints in
+case of Separate Drum
+and Toner cartridge
+technology - Magenta
+
+0 *
+
+Life of Drum in terms of
+number of Prints in
+case of Separate Drum
+and Toner cartridge
+technology - Black
+
+0 *
+
+Duty Cycle (No of
+Prints/month)
+
+280000 *
+
+Minimum Operating
+Temperature (Degree
+C)
+
+10 *
+
+Maximum Operating
+Temperature (Degree
+C)
+
+30 *
+
+Minimum Operating
+Humidity (%RH)
+
+20 *
+
+Maximum Operating
+Humidity (% RH)
+
+80 *
+
+BIS Registration under
+CRS of Meity
+
+Yes *
+
+BIS Registration no - *
+
+Other Certifications
+Available
+
+RoHS *
+
+Dimensions(In mm x
+mm x mm )
+
+- *
+
+Weight (In kg) - *
+
+On site OEM
+warranty (Years)
+
+2 3, 5, 2, 4 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+                               4 / 6
+
+
+
+ 
+
+1 *********** ***********BANGALORE 6  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+2.The buyer organization is an institution eligible for concessional rates of GST as notified by
+the Government of India. The goods for which bids have been invited fall under classification
+of GST concession and the conditions for eligibility of concession are met by the institution.
+A certificate to this effect will be issued by Buyer to the Seller after award of the Contract.
+Sellers are requested to submit their bids after accounting for the Concessional rate of GST.
+Applicable Concessional rate of GST : 5%
+Notification No.and date : 45/2017 dated 14/11/2017
+
+3.Warranty The following Warranty clause will form part of the contract placed on successful
+Bidder :-
+(a) The Seller warrants that the goods supplied under the contract conform to Defence Food
+Specification prescribed and shall perform according to the said Defence Food Specification
+in any climate and under all conditions of storage and movement in India (the warranty
+period of the item is as given in the Defence Food Specification attached from the date of
+acceptance of stores).
+(b) The Seller warrants for a period of warranty as prescribed (the warranty period of the
+item is as given in the Defence Food Specification attached) from the date of acceptance of
+stores, that the goods/ stores supplied under the contract shall be free from all types of
+defects.
+(c) Once the stocks are accepted by the verdict of CFL/ FIU, stocks are dispatched to various
+depots and stocked/issued to troops for consumption. This does not mean that the
+responsibility of supplier is over. At any point of time, the DGST or his authorised
+representative (s) may draw samples from the stocks supplied from locations where they are
+held at that point of time to confirm that the stocks supplied by the supplier are meeting the
+concerned DFS. Prior to drawl of such samples, the supplier will be intimated by the fastest
+means by the supply depot where the stocks are held to make available the authorised
+representative of the supplier within three working days in whose presence the sample will
+be drawn. Failing which, the sample will be drawn unilaterally and the decision on the same
+will be final and no representation in this regard will be accepted later.
+(d) If within the period of warranty, after analysis of the samples drawn as per Para (c)
+above, the goods are reported by the Buyer to have failed to meet the quality parameters as
+per the Defence Food Specifications, the stock will be declared as “Failed to Perform within
+Warranty Period”. In the event of the supplies or part of it having been declared (during the
+period of warranty) as “Failed to Perform within Warranty Period” by the Director General of
+Supplies and Transport, QMG’s Branch, IHQ of MoD (Army), in New Delhi or any officer acting
+on his behalf  whose opinion as to whether or not the particular consignment is meeting the
+quality as per DFS for the item, will  be final  and  the  seller will avail any one options as
+specified in the succeeding paras within a maximum period of 45 days from the date the
+notification letter is dispatched for such defect by the buyer, failing which, the buyer will
+take actions as deemed fit to recover from the supplier the price thereof together with all
+incidental and freight charges incurred from the place of delivery to the place where the
+supplies were ultimately condemned.  The opinion of the BUYER or any officer acting on his
+behalf in regard to these charges will be final. This opinion shall be regarded as having been
+made without committing Govt in any way nor will such decision prejudice the Govt rights.
+(e) Claims shall be prepared by the supply depots for the cost of affected quantity
+including GST and all incidental charges including transportation charges if any, and other
+incidental charges if any through CDP (APO). The stocks shall be segregated at the supply
+depot. The supplier is given two options in this eventuality. Option 1- Supplierwill make good
+
+                               5 / 6
+
+
+
+ 
+
+the loss amounting the claim prepared by the concerned supply depot by depositing the
+money to PCDA (Delhi) within 30 days of intimation sent by APO to the supplier and supplier
+shall lift the stock (only once supplier has made the payment to PCDA(Delhi)) from locations
+where they are stored at that time within 45 days of date of issue letter by APO (with copy to
+all) on his own cost, failing which the stock shall be destroyed by a board of officers. It shall
+be the sole responsibility of the supplier to lift such stocks declared failed to perform within
+warranty in the stipulated time. Option 2- the Seller shall replace the same free of charge,
+within a maximum period of 45 days from the date the notification letter is dispatched for
+such defect by the buyer, failing which the stores will be destroyed in situ at SELLER’s risk
+and cost by a station board of officers. No DP extensions for the purpose is required and
+consequently the firm will have to furnish a fresh validity of PBG submitted, at APO. The
+fresh stock intended to replace with the affected stock, will undergo similar QC procedure as
+followed during initial acceptance of the stocks. The supplier will transport fit stocks to the
+supply depot where the affected stocks are held by his own cost and expense.
+(f) The seller will intimate the buyer within 10 days of intimation dispatched by APO wrt the
+defect in such an event, the option he is willing to adopt along with the documents as under
+:-
+  (i) If the seller is willing for option 1, the intimation letter will also accompany the proof of
+the deposition of the claimable amount at PCDA Delhi.
+  (ii) If the seller is willing for option 2, the intimation letter will include the extension of the
+PBG for a corresponding period as per the warranty period mentioned in the DFS.
+(g) In case, the seller fails to make good the loss or replace the affected stocks as desired,
+after the stipulated time period of 45 days, such stocks will be destroyed insitu. Appropriate
+legal action will be initiated against the supplier there after. Supplier cannot claim on the
+destruction of such stocks irrespective of the outcome of the legal action.
+(h) Such stocks which are stored in forward depots/ units from where it cannot be retrieved
+for handing over to suppliers shall be destroyed by board of officers.
+(j) The declaration by the Buyer or any officer acting on his behalf communicated to the
+SUPPLIER in writing that a particular consignment has been condemned will be taken by the
+SUPPLIER as the conclusive evidence of the proper communication of that consignment
+provided that such communication is issued by the Buyer within 45 days of the expiry of the
+warranty period. Nothing herein contain shall prejudice any other right of the BUYER in that
+behalf under this contract or otherwise.
+(k) Warranty in case of any preponement of supplies at the request of the supplier will be
+valid as per the original Delivery Period.  A confirmation for the same will be issued in writing
+by the supplier.
+(l) The Supplier will have to refund to the government any claim under the warranty clause
+and other claim(s) that may arise out or under this agreement as soon as a demand to that
+effect is made by the Buyer failing which such claims will be recovered by adjustment
+against the performance security deposits.  Should this sum be not sufficient to cover the
+full amount recoverable, the Supplier shall pay the remaining balance due to the
+government on demand. In respect of contracts providing for an execution by the Supplier of
+guarantee regarding maintenance of the wholesomeness of stores supplied, the
+performance security deposit or such portion thereof as may be decided by the Buyer may
+be withheld till the expiry of the warranty period relating to final supplies.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,678 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/709354
+
+  Dated: 14-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 24-07-2020 12:00:00
+
+Bid Opening Date/Time 24-07-2020 12:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Ministry Of Power
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Bhakra Beas Management Board, Chandigarh
+
+Total Quantity 1
+
+Item Category Potable water purification system with inbuilt water
+cooler.
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Certificate (Requested in
+ATC),OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+                               1 / 7
+
+
+
+ 
+
+Potable Water Purification System With Inbuilt Water Cooler. ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standard Parameter Certification for the
+product
+
+CE CE
+
+Certification No and
+Date
+
+- *
+
+Manufacturers Quality
+System Certifications
+
+- *
+
+Manufacturers
+Environment
+Management System
+Certifications
+
+- *
+
+Manufacturers Health
+and Safety
+Management System
+Certifications
+
+- *
+
+Conformity to
+Standard for
+Ultraviolet system
+
+NA if UV not provided NA if UV not provided
+
+Output Water
+Conforming standard
+
+IS 10500 (latest) *
+
+Performance Parameter Type of water
+purification
+technology
+
+RO RO
+
+Power consumptions
+of system (with ± 5%
+tolerance) (in watt)
+
+300 300
+
+Maximum Input
+Water TDS allow to
+the system
+
+2000 2000
+
+Input water hardness 500 ppm or less *
+
+Input water pH 6.5 to 8.5 *
+
+Input water chlorine 0.2 ppm *
+
+Input water iron 0.2 ppm *
+
+Input water turbidity Less than 5 NTU *
+
+Operation mode Fully automatic with
+auto cut off
+
+Fully automatic with
+auto cut off
+
+Availability of sediment
+and activated carbon
+filter
+
+Yes *
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/N6iF1ZMyhFwkwhTIOzpOtal-4TPtBBC5fePeGuumOB0
+
+
+ 
+
+Ultraviolet (UV)
+LAMP
+
+No Yes, No Or higher
+
+Ultraviolet (UV) Lamp
+power in watts (Hint
+put zero in case UV is
+not available)
+
+0 *
+
+Provision of Arsenic
+removal
+
+No Yes, No Or higher
+
+Provision of Fluoride
+removal
+
+No Yes, No Or higher
+
+Provision of Chloride
+removal
+
+no Yes, no Or higher
+
+Alkaline filter No Yes, No Or higher
+
+Storage tank In-built *
+
+Material of water
+Storage Tank
+
+ABS Food Grade ABS Food Grade
+
+Storage tank
+capacity up to float
+valve level (in liter)
+
+10 10
+
+Stages of purification 3 *
+
+No of RO Membranes
+provided
+
+0 *
+
+RO Membrane rating NA NA
+
+RO Membrane
+flushing
+
+NA NA
+
+No of Particulate filter
+provided
+
+0 *
+
+Particulate Filter
+size
+
+10 inch 10 inch
+
+Particulate Filter
+Porosity
+
+10 micron 10 micron
+
+No of Activated Carbon
+filter provided
+
+0 *
+
+Activated Carbon
+filter Size
+
+10 Inch 10 Inch
+
+No of Antiscalant filter
+provided
+
+0 *
+
+Antiscalant- where
+silica is up to 10
+ppm/where Mica is
+up to 100 ppm
+
+No Yes, No Or higher
+
+Nano Silver leaching
+filtration
+
+No Yes, No Or higher
+
+Minimum inlet
+pressure
+
+0.3 KG/CM2 0.3 KG/CM2
+
+                               3 / 7
+
+
+
+ 
+
+Maximum inlet
+pressure
+
+3.5 KG/CM2 *
+
+Maximum Inlet water
+temperature
+
+35 degree celsius *
+
+Digital display No Yes, No Or higher
+
+Real time TDS
+display
+
+No Yes, No Or higher
+
+Real time pH Display No Yes, No Or higher
+
+High pressure pump Yes Yes Or higher
+
+Raw water/Chemical
+Raw water/Chemical
+Cleaning pump
+
+Yes Yes Or higher
+
+Recovery percentage
+at 27 degree
+centigrade
+
+70-80 70-80
+
+Filteration water
+capacity in liter/
+hour
+
+35 35
+
+TDS removal
+percentage from RO
+Membrane
+
+90% 90%
+
+Pressure vessel
+Sand Filter
+
+No Yes, No Or higher
+
+Pressure vessel
+Carbon Filter
+
+No Yes, No Or higher
+
+Pressure Vessel Dual
+Media Filter
+
+No Yes, No Or higher
+
+Body of filter ABS Food grade ABS Food grade
+
+Membrane Housing Yes Yes Or higher
+
+Number of candles 2 2
+
+Cooler Parameters Type of compressor Rotary Rotary
+
+Refrigerant Used R22 R22
+
+Refrigeration
+temperature
+
+15 to 17 15 to 17
+
+Type of Condenser Fin type/tube type *
+
+Evaporator material Cooper *
+
+Water Storage tank
+insulation
+
+PUF thermal insulation *
+
+Provision for Hot
+water
+
+No Yes, No Or higher
+
+Number of Cold
+Water Faucets
+
+1 1
+
+Number of Normal
+Water Faucets
+
+1 1
+
+                               4 / 7
+
+
+
+ 
+
+Number of Hot
+Water Faucets
+
+Na Na
+
+Water flow rate
+through Faucets( in
+liter per hour)
+
+50 *
+
+Cooling capacity at
+comfort level (17 ± 1
+degree celsius) (in
+liter per hour)
+
+10 10
+
+Installation Type Floor Mounted Floor Mounted
+
+Power supply SINGLE PHASE ( 230 ±
+10 % VOLT,%0 Hz)
+
+SINGLE PHASE ( 230 ±
+10 % VOLT,%0 Hz)
+
+Maximum running
+current in ampere at
+rated condition
+
+4.5 ± 10 % *
+
+Warranty in years
+including electronic
+,electric parts,
+replacement of
+filters twice a year)
+
+NA NA
+
+Warranty period
+without Filter ,
+electronic and
+electrical parts
+
+1 1
+
+Warranty period
+without Filter &
+inclusive of
+electronic and
+electrical parts
+
+NA NA
+
+Additional Parameters Availabilty of type
+test Test REPORT for
+Filtering Size of
+Particles
+
+Yes Yes Or higher
+
+TYPE Test certificate No
+and date for Filtering
+Size of Particles
+
+- *
+
+Name and Address of
+laboratory which
+conducted Test for
+Filtering Size of
+Particles:
+
+- *
+
+Availability of Test
+Report on Microbial
+Efficacy from
+Govt/NABL/ilac Lab
+
+Yes Yes Or higher
+
+Test certificate No and
+date for Microbial
+Efficacy
+
+- *
+
+Name of the lab for
+Microbial Efficacy
+
+- *
+
+                               5 / 7
+
+
+
+ 
+
+Avaialbility of type
+test certificate from
+NABL/ILAC Lab
+design evaluation
+report as per IS
+14724
+
+Yes Yes Or higher
+
+Copies of certifications
+and reports to be given
+to buyer at time of
+supplies
+
+Yes *
+
+User/Technical/Mainten
+ance manuals to be
+supplied in English in
+hard and soft copy
+
+Yes *
+
+Availability of toll
+free centres for
+customer support
+
+Yes Yes Or higher
+
+Installation and
+Commissioning
+inclusive in the
+scope of Supply*
+
+Yes Yes Or higher
+
+Availablity of NABL
+Accredited
+Laboratory Facility
+with OEM
+
+Yes Yes Or higher
+
+Name and Address of
+NABL Accredited lab
+with OEM , If Not
+available put NA
+
+- *
+
+Inlet Pipe & Fitting
+from raw water
+scorces to water
+purification system
+
+Not applicable Not applicable
+
+Pipe & Fitting from
+Out let to purified
+water tank
+
+Not applicable Not applicable
+
+Pipe and pipe fitting
+material
+
+PVC *
+
+Electrical fitting and
+plug points
+
+To be arranged by
+buyer /consignee
+
+To be arranged by
+buyer /consignee
+
+ISI marked
+Electronic and
+electrical parts
+provided
+
+No Yes, No Or higher
+
+Open installation of
+Water pipe fitting and
+waste water pipe line
+fitting provided
+
+Yes *
+
+Scope Civil Work if
+any required during
+
+All Civil work shall be
+responsibility of buyer
+
+All Civil work shall be
+responsibility of buyer
+
+                               6 / 7
+
+
+
+ 
+
+installation
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Kuldip Singh 140124,Bhakra Beas
+Management Board,
+Irrigation Wing, NANGAL
+TOWNSHIP
+
+1  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 15 days time limit. If the Seller fails to complete
+service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product
+shall be charged as penalty for each week of delay from the seller. Seller can deposit the
+penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty
+amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than
+10% of the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

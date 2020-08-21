@@ -1,0 +1,944 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/687350
+
+  Dated: 29-06-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 11-07-2020 12:00:00
+
+Bid Opening Date/Time 2020-07-11 12:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Coal
+
+Department Name Materials Management
+
+Organisation Name Mahanadi Coalfields Limited
+
+Office Name General Manager Materials Management Mcl Hqr
+
+Total Quantity 1
+
+Item Category Automated Hematology Analyser ( 5 Part )
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years Of Experience  Yes
+
+Startup Exemption for Years Of Experience  Yes
+
+Document required from seller  Experience Criteria,Certificate (Requested in
+ATC),OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  Yes
+
+Inspection Required  No
+
+Estimated Bid Value  1300000
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 2.00
+
+EMD Amount 26000
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 10.00
+
+Duration of ePBG required (Months). 2
+
+                             1 / 11
+
+
+
+ 
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+MCL Central Hospital Area
+MC, CENTRAL HOSPITAL AREA, TALCHER
+(Mcl Central Hospital Area)
+
+Splitting
+
+ Bid splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+
+Automated Hematology Analyser ( 5 Part ) ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Certifications for the
+product
+
+- *
+
+Certification number
+and date
+
+- *
+
+Confirmity to quality
+management standards
+
+ISO 9001 & ISO 13485 *
+
+Confirmity to electrical
+safety standards
+
+IEC 61010-1,IEC
+61010-2-081,IEC
+61010-2-101 or BIS
+equivalent
+
+*
+
+                             2 / 11
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/g_S48m2ObPbG7cC7hemvr0NAIx_4_afRlId9fb7h708
+
+
+ 
+
+Performance
+Parameters
+
+UMDNS Name and
+Code
+
+"Analyzers, Laboratory,
+Hematology, Cell
+Counting, Automated
+[17-741] Analyzers,
+Laboratory,
+Hematology, Cell
+Counting,
+Semiautomated
+[17-742] Analyzers,
+Point-of-Care, Whole
+Blood, Hematology
+[18-513] Computer
+Aided Detection
+Systems, Pathology
+Slide, Blood Cell
+Classification [24-248]"
+
+*
+
+Clinical Purpose Hematology Analyzers
+are used to count and
+characterize blood cells
+for disease detection
+and monitoring. Basic
+analyzers return a
+complete blood
+count(CBC) with a
+5-part differential white
+blood cell(WBC)
+count.Sophisticated
+analyzers measure cell
+morphology and can
+detect small cell
+populations to
+diagnose rare blood
+conditions.
+
+*
+
+Type of Configuration benchtop *
+
+Type of system
+offered
+
+closed system closed system
+
+Type of automation fully automatic *
+
+Equipment should have
+automatic start up,shut
+down and sample
+analysis
+
+Yes *
+
+Analysis principle LASER based scatter
+analysis
+
+LASER based scatter
+analysis
+
+Type of cell counting 5 part WBC differential
+with Retics and NBRC
+enumeration capability
+
+5 part WBC differential
+with Retics and NBRC
+enumeration capability
+
+Should have multi
+channel analyssi for
+better resolution and
+reproductability
+
+Yes *
+
+Analysis available WBC,Lympho#,Lympho
+%,Neutrophil#,Neutrop
+hil %,Basophil#,Basoph
+
+*
+
+                             3 / 11
+
+
+
+ 
+
+il%,Easinophil #,Easino
+phil%,Monocyte#,Mono
+cyte%,RBC,HGB,MCV,P
+CV,MCH,MCHC,RDW-
+SD,RDW CV,PLT,MPV,P
+DW,PLT,PLCR,PLCC,HCT
+,PCT,RET#,RET%,NRBC
+#,
+
+NRBC% No Yes, No
+
+Availability of body f
+luid(CSF,synovial,ser
+ous) parameters like
+WBC-BF,RBC-BF,MN
+#,MN%,PMN%,PMN#
+,TC-BF#
+
+Yes Yes
+
+IPF analysis Yes Yes
+
+PLT-0 Analysis Yes Yes
+
+PLT-F Analysis Yes Yes, No
+
+IG % analysis Yes Yes
+
+IG# analysis Yes Yes
+
+RET-HE analysis Yes Yes
+
+HFR analysis Yes Yes
+
+LFR analysis Yes Yes
+
+MFR analysis Yes Yes
+
+IRFanalysis Yes Yes
+
+Discrete analysis
+modes available
+
+CBC,CBC+DIFF,CBC+R
+ETIC,CBC+RETIC+DIFF
+
+CBC,CBC+DIFF,CBC+R
+ETIC,CBC+RETIC+DIFF,
+CBC+NRBC,CBC+Diff+
+NRBC, CBC,CBC+DIFF,
+CBC+RETIC,CBC+RETI
+C+DIFF
+
+Analysis method for
+WBC
+
+Tri angle Laser flow
+cytometry
+
+Tri angle Laser flow
+cytometry
+
+method for platelet
+measurement
+
+electrical impedance dual angle light
+scatter/fluroscent dye
+based, electrical
+impedance
+
+RBC Measurement
+method
+
+electrical impedance light scatter measuring
+technique, electrical
+impedance
+
+Hb measurement cyanide free
+colorimtery
+
+cyanide free
+colorimtery
+
+Retic measurement on board light
+scatter(flouroscent
+dye/retic stain based)
+for reticulocyres
+
+on board light
+scatter(flouroscent
+dye/retic stain based)
+for reticulocyres
+
+no of sample racks 1 1
+
+                             4 / 11
+
+
+
+ 
+
+to cater to different
+tube sizes
+
+Maximum sample
+Aspiration volume
+needed in all modes
+
+100 µl or less 100 µl or less
+
+Minimum sample
+volume required in
+all modes
+
+20µl or less 20µl or less
+
+Throughput capacity
+in CBC/Differential
+
+50-60 50-60, > 100
+
+Throughput capacity
+in Retic mode
+
+45 or more 45 or more
+
+Type of modes of
+sample running
+
+Open vial Open vial, Closed vial
+
+Linearity of Platelet " 0 to 3000 * 10 3 cells/
+micro litres"
+
+*
+
+RBC Linearity 0 to 8 x 10^6 per
+micro litre or more
+
+*
+
+Hemoglobin linearity 0 to 25 gm per litre 0 to 25 gm per litre
+
+Rectic linearity 0 to 24.5 0 to 24.5
+
+WBC linearity " 0 to 300 * 1000 cells/
+micro litres"
+
+*
+
+Directly measures MCV Yes *
+
+Time taken by the
+analyser to produce the
+test results(Analysis
+time) in seconds
+
+40-60 *
+
+Availability of Auto
+dilution
+
+Yes Yes
+
+should have clot
+detection facility
+
+Yes Yes
+
+Automatic probe wipe Yes *
+
+Extended Analyses for
+cytopenic samples
+
+Yes *
+
+Number of reagents 5 *
+
+Quality assurance
+system with calibration
+and controls
+
+Yes *
+
+Atleast 3 quality control
+programs
+
+Yes *
+
+Type of Calibration Both manual and
+automatic
+
+automatic, Both
+manual and automatic
+
+Direct aspiration for
+capillary blood from
+finger prick
+
+No Yes, No
+
+                             5 / 11
+
+
+
+ 
+
+Floating discriminator
+for platelets and RBC
+counting for reliable
+RBC and PLT data
+
+Yes *
+
+Separate diluting
+nozzles for RBC and
+WBC
+
+Yes Yes
+
+Double bathing
+mechanism
+
+Yes Yes
+
+Upgradable to
+integrate with
+attachment
+
+No "Fully automated
+slidemaker & slide
+stainer", No
+
+Data Management and
+Display
+
+Type of data
+management
+
+inbuilt system inbuilt system
+
+Display LCD LCD, LED
+
+PC hard disk NA >500 GB, NA
+
+Inbuilt monitor size
+in inches
+
+>5 >5
+
+Processor of PC
+Provided with
+system
+
+NA (If PC not provided) I 5 or more, NA (If PC
+not provided)
+
+RAM NA (If PC not provided) 4 GB, 8 GB, NA (If PC
+not provided)
+
+HDD NA (If PC not provided) 500 GB, 1 TB, NA (If PC
+not provided)
+
+PC Monitor size in
+inches if PC provided
+externally
+
+NA (for Inbuilt based) 17 INCHES OR MORE,
+NA (for Inbuilt based)
+
+The processor and RAM
+of the board system
+should be latest version
+
+Yes *
+
+HIS/LIS Interface RS232 RS232
+
+Type of external
+storage
+
+USB USB
+
+No of USB Port
+provided
+
+2 2, 3, 4
+
+Printer facility No Yes, No
+
+Type of printer unit External External
+
+Printer type LASER printer LASER printer
+
+Display and print
+provided
+
+scatter plot and
+histograms
+
+*
+
+Auto loader facility Yes *
+
+Facility for user defined
+flagging
+
+Yes *
+
+"Database capability >= 50000 >= 50000
+
+                             6 / 11
+
+
+
+ 
+
+of storing sets of
+results and
+graphics"
+
+L J Plot facility Yes Yes
+
+delta check for
+cumulative review
+
+Yes Yes
+
+On line QC option Yes Yes
+
+patient moving
+average
+
+Yes Yes
+
+QC File management Yes Yes
+
+Facility for workload
+recording
+
+Yes *
+
+"Flagging in event of
+unacceptable control
+data"
+
+Yes *
+
+Ability to transmit
+results to host
+computer
+
+Yes *
+
+Make of PC provided
+(Reputed make PC to
+be provided )
+
+- *
+
+Type of user
+Interface or data
+entry
+
+all three all three
+
+Have auto cleaning
+function in the
+analyser’s software
+
+Yes *
+
+Power Requirements Type of power supply in
+VAC,Hz
+
+100-240 VAC,50-60 Hz *
+
+Power Backup facility UPS *
+
+Type of UPS Online *
+
+Rating of UPS in KVA 1 KVA 1 KVA
+
+Back up time in
+minutes
+
+30 min 30 min
+
+AVAILABILITY OF
+Sufficient Number of
+Quality control
+fileswhich store 100 or
+more XB Analysis
+
+Yes *
+
+ACCESSORIES ,SPARE
+PARTS AND
+CONSUMABLES
+
+"Offered equipment
+unit to be supplied
+with sufficient
+consumables (with
+at least 2/3rd of
+total shelf life)
+required for,
+sufficient to carry
+out haematological
+
+1000 1000
+
+                             7 / 11
+
+
+
+ 
+
+testing of samples"
+
+Should have on board
+regent facility and
+automatic reagent
+inventory management
+
+Yes *
+
+Net work integration
+with lab information
+system feature
+
+Yes Yes
+
+Operating temperature
+and humidity
+
+"Capable of operating
+continuously in
+ambient temperature
+of 10 to 35 deg C and
+relative humidity of 15
+to 85% in ideal
+circumstances"
+
+*
+
+Miscellaneous
+Parameters
+
+Warranty in years 3 3
+
+Number of
+installations in
+Central /State/PSU
+Govt Hospitals (
+Hint: Seller should
+supply a performace
+certificate of the
+device to the buyer
+incase demaneded
+after placement of
+order)
+
+More than 3 More than 3
+
+OEM/Reseller ( if
+supplied by reseller
+shall ensure
+uninterputed availabilty
+of all spares for 10
+years)
+
+Yes *
+
+Availability of toll
+free facility for
+technical support
+maintened by OEM
+or authorised
+agencies
+
+Yes Yes
+
+During the warranty
+period it shall be
+ensured that all the
+break down calls are
+attended with in 48 hrs
+and the complete
+details of service
+agents / contact details
+should be furnished to
+buyer and consignee at
+time of supplies
+
+Yes *
+
+User/Technical/Mainten
+ance manuals to be
+supplied in English in
+
+Yes *
+
+                             8 / 11
+
+
+
+ 
+
+hard and soft copy
+
+Details of equipments
+and procedures
+required for local
+calibration and routine
+maintenance to be
+supplied and advanced
+maintenance task
+documentation also to
+be furnished
+
+Yes *
+
+List of important spares
+and accessories, with
+their part numbers to
+be supplied to the
+buyer at the time of
+supplying the
+equipment
+
+Yes *
+
+Installation and
+Demonstration of
+equipment and training
+to be provided after
+completing supplies
+before acceptance
+
+Yes *
+
+The Principal
+Manufacturer must
+have direct
+Presence/approved
+service center In India
+
+Yes *
+
+Copies of reports and
+certifications to be
+furnished to buyer on
+demand at time of
+supplies
+
+Yes *
+
+Calibration certificates
+as per NABH
+requirement
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Ghanshyam Sahu 759103,MAHANADI
+COALFIELDS LIMITED, NSCH,
+PO Dera, Talcher
+
+1  30
+
+                             9 / 11
+
+
+
+ 
+
+Bid Specific Additional Terms and Conditions
+
+1.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+2.Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have
+regularly, manufactured and supplied same or similar Category Products to any Central /
+State Govt Organization / PSU / Public Listed Company for 3 years before the bid opening
+date. Copies of relevant contracts to be submitted along with bid in support of having
+supplied some quantity during each of the year. In case of bunch bids, the primary product
+having highest value should meet this criterion.
+
+3.Bidders can also submit the EMD with Account Payee Demand Draft in favour of MCL
+CENTRAL HOSPITAL AREA payable at TALCHER.
+Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure
+delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date.
+
+4.Successful Bidder can submit the Performance Security in the form of Account Payee
+Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in
+favour of MCL CENTRAL HOSPITAL AREA payable at TALCHER. After award of contract,
+Successful Bidder can upload scanned copy of the DD in place of PBG and has to ensure
+delivery of hard copy to the original DD to the Buyer within 15 days of award of contract.
+
+5.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+6.Bid reserved for Make In India products: Procurement under this bid is reserved for purchase
+from local supplier as defined in public procurement (Preference to Make in India), Order
+2017 as amended from time to time and its subsequent Orders/Notifications issued by
+concerned Nodal Ministry for specific Goods/Products. The minimum local content to qualify
+as a local supplier, should be as per relevant notification / order issued by the nodal ministry
+as available on the website of Department of Promotion of Industries and Internal Trade
+(DPIIT). All bidders must upload a certificate from the OEM regarding the percentage of the
+local content and the details of locations at which the local value addition is made along with
+their bid, failing which the bid is liable to be rejected. In case the bid value is more than Rs
+10 Crore, the declaration relating to percentage of local content shall be certified by the
+statutory auditor or cost auditor, if the OEM is a company and by a practicing cost
+accountant or a chartered accountant for OEMs other than companies as per the Public
+Procurement (preference to Make-in -India) order 2017 dated 29.5.2019. In case Buyer has
+selected Purchase preference to Micro and Small Enterprises clause in the bid, the same will
+get precedence over this clause.
+
+7. ISO 9001: The bidder must have ISO 9001 certification.
+8.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+
+Telephone Numbers for Service Support.
+9.Timely Servicing / rectification of defects during warranty period: After having been notified
+
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 7 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+                            10 / 11
+
+https://gem.gov.in/termsCondition
+
+
+ 
+
+Powered by TCPDF (www.tcpdf.org)
+
+                            11 / 11
+
+http://www.tcpdf.org
+

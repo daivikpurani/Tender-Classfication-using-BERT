@@ -1,0 +1,685 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/710907
+
+  Dated: 15-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 25-07-2020 11:00:00
+
+Bid Opening Date/Time 25-07-2020 11:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Army
+
+Office Name ***********
+
+Total Quantity 2
+
+Item Category Video Recorder for CCTV System
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  10 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 7
+
+
+
+ 
+
+1. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 10% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Video Recorder For CCTV System ( 2 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+TYPE Type of Recording
+Device
+
+NVR NVR, DVR, Hybrid Video
+Recorder (HVR), NVR
+with Failover/Redundan
+cy(10:01)
+
+IP Camera Support Yes Yes, No
+
+PTZ Camera control
+Support
+
+Yes Yes, No
+
+Housing
+construction
+
+Alluminium Alluminium, Plastic
+
+Mounting Wall Mounted *
+
+Rack Mount
+configuration
+
+1U *
+
+Capability of Recorder
+to Work with Other
+Makes of CCTV
+Cameras (ONVIF
+support)
+
+Yes *
+
+VIDEO Number of Video
+Input Channels
+
+16 4, 8, 16, 32, 64, 128,
+256
+
+Number of Non-IP
+based Video input
+Channels for HVR
+
+NA 4, 8, 16, 32, 64, 128,
+NA
+
+Number of IP based
+Video input
+Channels for HVR
+
+16 4, 8, 16, 32, 64, 128,
+NA
+
+Number of Video
+Output Channels
+
+1 1, 2, 4, 8, 16, 32, 64
+
+Recording
+Resolution
+
+Full HD (1920 x 1080) D1 (704 x 480), HD
+(1280 x 720), Full HD
+(1920 x 1080), 4K
+(3840 × 2160), 12 MP
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/L6ycwMvBOoYdJNbvL46BMTvBKFQhp5lR1iqMrq1aVTY
+
+
+ 
+
+(4000 X 3000)
+
+Supported
+Compression
+Technique
+
+H.264,H.265,MPEG-4,MJ
+PEG,H.265+,H.264+
+
+*
+
+Maximum Number of
+cameras to be viewed
+on a single display
+
+16 *
+
+Total number of
+simultaneous local
+views
+
+4 *
+
+Simultaneous
+Monitoring Connections
+for All Cameras (Users
+in Local Network for
+Client Connection)
+
+16 *
+
+Recording Speed for all
+channels (fps)
+
+25 *
+
+Minimum Through put
+(Mbps)
+
+96 *
+
+Display Image Rate Real time per channel *
+
+AUDIO Audio Support Yes *
+
+Audio Input NA *
+
+Audio Output 1 *
+
+Audio Compression G.726,G.711,G.722.1,A-
+Law,U-
+Law,MP2L2,AAC,NA
+
+*
+
+Minimum Number of
+Simultaneous Channels
+for Two-way Audio
+Support
+
+1 *
+
+SECURITY Type of Encryption NA *
+
+Multi Level User ID /
+Password
+
+Yes *
+
+ALARM Alarm Support No *
+
+Alarm Input NA *
+
+Alarm Output NA *
+
+Pre / Post Alarm Buffer No *
+
+Pre-Alarm Recording 0 *
+
+Post-Alarm Recording 0 *
+
+Video Content Analytics
+(VCA)
+
+Trip-wire
+Detection,Motion
+Detection,Crossing
+line,Intrusion
+Detection,Face
+Recognition,Object cou
+nting,Tampering,Object
+
+*
+
+                               3 / 7
+
+
+
+ 
+
+Removal,Number Plate
+Recognition,NA
+
+NETWORK PROTOCOLS
+/ INTERFACE /
+OPERATING SYSTEM
+
+Operating System
+Supported
+
+Windows *
+
+Supported Network
+Protocols
+
+UDP,SNMP,IGMP,DHCP,
+RTP,RSTP,HTTP,HTTPS,
+DNS,DDNS,RTSP,RTCP,
+NTP,UPnP,SMTP,FTP,IC
+MP,QoS,TCP/IP,NA (for
+DVR)
+
+*
+
+Supported Interface Ethernet,HDMI,VGA,US
+B
+
+*
+
+Physical Layer of
+Ethernet
+
+10/100/1000 Base
+TX,NA
+
+*
+
+Number of Ethernet
+Ports
+
+1 *
+
+Number of HDMI Ports 1 *
+
+Number of VGA Ports 1 *
+
+Number of CVBS Ports 0 *
+
+Number of USB Ports 2 *
+
+Number of Serial Ports 0 *
+
+Number of PoE Ports 0 *
+
+Supported SIM Slot NA *
+
+Number of SIM Slots 0 *
+
+FEATURES Video Loop Support No *
+
+Video Recorder
+supports recording on
+NAS Directly
+
+No *
+
+Remote Administration
+(Remote Configuration
+And Status Using Web
+Based Tool)
+
+Yes *
+
+System Update
+(Remote System
+Update Over Network
+Using Web Client)
+
+Yes *
+
+PC Client (PC
+Application Client With
+A Channel Recording
+Feature Support)
+
+Yes *
+
+Web Client (Viewer
+through HTTP system
+configuration)
+
+Yes *
+
+On Screen Display (In
+English)
+
+Yes *
+
+Drivers / Compatible Yes *
+
+                               4 / 7
+
+
+
+ 
+
+Software (Wherever
+Applicable) Part Of
+Supply
+
+Recording schedule
+support
+
+Yes *
+
+Bandwidth Control Yes *
+
+Camera Notification Spot (POP up Window)
+on Event,E-mail
+
+*
+
+Network transmission
+Speed
+
+Real time display @ D1
+resolution
+
+*
+
+Other features, if any - *
+
+PLAYBACK / VIEW /
+MANAGEMENT
+
+Search Date,Time,Event,Log,M
+otion,Bookmarks
+
+*
+
+Bookmarks Forward,Backward,adju
+stable playback
+speed,Full Screen,Next
+Camera,Previous
+Camera,Repeat
+
+*
+
+Page preview Video Window *
+
+Total Management Group
+add,Delete,Group
+management
+
+*
+
+Camera Add,Edit,Delete,Use
+Master account,Use
+Specific account
+
+*
+
+STORAGE Internal Hard Drive
+Interface
+
+SATA II *
+
+Number of Hard Disks
+(inclusive in the scope
+of supply)
+
+1 *
+
+Storage Capacity of
+each Hard Disk (TB)
+
+4 *
+
+Total Storage
+Capacity(TB)
+
+4 *
+
+Internal Storage
+Expandable upto (TB)
+
+4 *
+
+Number of Hard Disks
+supported
+
+1 *
+
+Redundancy Option NA *
+
+POWER SUPPLY Power Input 230 ± 10%, 50Hz *
+
+Power Consumption 10 *
+
+Suitable Adapter to be
+Supplied to Make the
+Equipment Work on
+230 V ± 10 %, 50 Hz
+
+Yes *
+
+Redundant Power No *
+
+                               5 / 7
+
+
+
+ 
+
+Supply
+
+OPERATING
+CONDITIONS
+
+Minimum Operating
+Temperature
+
+-10 *
+
+Maximum Operating
+Temperature
+
+55 *
+
+Relative Humidity Non
+Condensing at 40 deg
+C
+
+90 *
+
+WARRANTY / SERVICES Warranty 1 1, 2, 3, 4, 5
+
+Time for
+Replacement of
+Defective Product
+During Warranty
+Period
+
+48 12, 24, 36, 48, 72, 96
+
+ENVIRONMENTAL /
+CERTIFICATION
+
+Availability of facility
+and infrastructure for
+verification of all the
+parameters, features
+and capability with the
+Seller
+
+Yes *
+
+Conformity to Dry Heat
+test at Specified
+Maximum Operating
+Temperature for 16
+hours as per IS :9000
+latest
+
+Yes *
+
+Conformity to Damp
+heat at 40 degree C -
+95% RH (cyclic test):
+two cycles of 16+8
+hours as per IS: 9000
+latest
+
+Yes *
+
+Conformity to Cold test
+at Specified Minimum
+Operating Temperature
+for 4 hours as per IS:
+9000 latest
+
+Yes *
+
+Availability of Test
+Report from Central
+Govt/NABL/ILAC
+accredited lab to prove
+conformity to
+specification
+
+- *
+
+Test Report Number
+and Date
+
+- *
+
+Name and Address of
+Test Lab
+
+- *
+
+Certification FCC,CE,UL,CB,CSA,NIL *
+
+LIST OF ITEMS List of Items and
+Quantity of each item
+
+- *
+
+                               6 / 7
+
+
+
+ 
+
+included in the offer
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********BARDHAMAN 2  30
+
+Bid Specific Additional Terms and Conditions
+
+1.For fulfilling the experience criteria any one of the following documents may be considered
+as valid proof for meeting the experience criteria:
+a. Purchase Order copy along with Invoice(s) with self-certification by the bidder that
+supplies against the invoices have been executed.
+b. Execution certificate by client with order value.
+c. Any other document in support of order execution like Third Party Inspection release note,
+etc.
+
+2.The Bidder / OEM {themselves or through reseller(s)}, should have executed project for
+supply and installation / commissioning of same or similar Category Products during
+preceding 3 financial years (i.e. current year and three previous financial years) as on
+opening of bid, as per following criteria:
+ 
+(i) Single order of at least 35% of estimated bid value; or
+(ii) Two orders of at least 20% each of estimated bid value; or
+(iii) Three orders of at least 15% each of estimated bid value.
+Satisfactory Performance certificate issued by respective Buyer Organization for the above
+Orders should be uploaded with bid. In case of bunch bids, the Category related to primary
+product having highest bid value should meet this criterion
+
+3.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+4.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+5.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

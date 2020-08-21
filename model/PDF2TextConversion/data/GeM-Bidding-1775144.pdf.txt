@@ -1,0 +1,427 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/700059
+
+  Dated: 06-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 21-07-2020 12:00:00
+
+Bid Opening Date/Time 21-07-2020 12:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Power
+
+Department Name Na
+
+Organisation Name Northern Regional Power Committee Ministry Of
+Power
+
+Office Name Nhpc Limited, Tld-iv Ps, Kalijhora, Dist. Darjeeling,
+Pin-734320 , West Bengal
+
+Total Quantity 10
+
+Item Category LED Tube for Railway coaches - Retrofitment
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+LED Tube For Railway Coaches - Retrofitment ( 10 pieces )
+
+Technical Specifications
+
+                               1 / 5
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC Technical requirements
+for Energy effiecient
+LED Tube for
+retrofitment in railway
+passenger coahces
+
+as per ICF/ELEC/960
+dt.4.12.17 issued by
+O/o CDE/Elec. ICF,
+Chennai-38
+
+*
+
+Specification seen and
+understood
+
+Yes *
+
+Type of Tube Type B - 18 W (max.) -
+4 feet
+
+Type A - 9W (max,) - 2
+feet, Type B - 18 W
+(max.) - 4 feet, Type C -
+5 W (max.,)
+
+Operating voltage
+range available as
+input
+
+90 to 170 V AC 90 to 170 V AC, 90 to
+140 V AC /DC
+
+Supply voltage
+(Nominal)
+
+110 V AC/DC 110 V AC/DC, 127 V AC
+
+The over voltage trip
+shall be set between
+
+200 V to 205 V AC
+(RMS)/DC
+
+*
+
+As soon as voltge
+comes below 200 V AC
+(RMS)/DC , the tube
+shall switch on
+automotically
+
+Yes *
+
+The driver shall be in built with tube in built with tube,
+separate unit design
+
+Ingress protcton as
+per IEC:60529 latest
+
+IP20 for internal driver IP20 for internal driver,
+IP65 for external driver
+
+Construction as per Cl 5.0 of
+ICF/ELEC/960
+dt.4.12.17
+
+*
+
+Total harmonic
+distortion (THD) shall
+be
+
+</= 10 % *
+
+The Power factor of
+LED tube shall be
+
+>/= 0.9 *
+
+LED driving current <80% of absolute
+maximum forward
+current
+
+*
+
+LED Controller ( Driver
+) Internal or External
+shall be EMI/EMC
+compliant
+
+Yes *
+
+The working life of LED >/=40,000 hours *
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/hblmflAEOx37tZqaGk9eS-MEvChDg9k5oCyDd_MM9go
+
+
+ 
+
+Tube shall be
+
+Suitable for continuous
+operation of
+
+24 hrs/day *
+
+LED Junction
+temperature shall be
+
+<85 deg. C *
+
+Colour Temperature of
+white colour LED
+
+5700 K - 6500 K *
+
+Average Illumination
+level of tube (in LUX)
+
+90 for Type-A 90 for Type-A, 130 for
+Type-B, 90 for Type C
+
+Beam angle / View
+angle (typical)
+
+>/= 120 Degree *
+
+Adequate heat sink
+with proper thermal
+management shall be
+provided
+
+Yes *
+
+SERVICE CONDITION Maximum ambient air
+temperature (in deg C)
+
+55 *
+
+Minimum ambient air
+temperature (in deg C)
+
+-5 *
+
+Max Relative humidity 98% *
+
+Atmosphere Extremely
+dusty and desert
+weather and desert
+terrain in certain areas
+The dust contents in air
+may reach as high
+values as
+
+1.6 mg/m3 *
+
+The equipment shall be
+designed to work in
+coastal area in humid,
+salt laden and
+corrosive atmosphere
+
+Yes *
+
+The altitude (above sea
+level) - in meter
+
+<1200 m *
+
+Annual rainfall with
+thunder storm
+
+1750 to 6250 mm *
+
+Max pH value 8.5 *
+
+Sulphate 7 mg/iitre *
+
+Max concentration of
+chlorine
+
+6 mg/litre *
+
+Max Conductivity 130 micro sec/cm *
+
+WARRANTY/CERTIFICAT
+ION
+
+Replacement
+guarantee from the
+date of commissioning
+
+60 Months *
+
+Replacement
+guarantee from date of
+supply
+
+66 Months *
+
+                               3 / 5
+
+
+
+ 
+
+Seller shall furnish LM
+80 & TM 21 report to
+buyer on demand for
+Lumen maintenance
+and lift test
+
+Yes *
+
+LED used shall be
+(Certificate shall
+furnish to the buyer on
+demand)
+
+UL certified with UL
+Number
+
+*
+
+Type test, Acceptance
+test and Routine test
+
+as per Cl.7.4 of
+ICF/ELEC/960 specn.,
+dt.4.12.17 issued by
+O/o CDE/Elec. ICF,
+Chennai-38
+
+*
+
+Availability of type test
+reports from any
+Central Govt laboratory
+/ ILAC approved
+laboratory / NABL
+aproved laboratory
+Type test reports shall
+be furnished as and
+when requested to do
+so by Purchaser,Indent
+or,Consignee etc, Test
+reports as per Specn
+No ICF/ELEC/960
+dt-4-12-17 issued by
+O/o CDE/Elec ICF,
+Chennai-38
+
+Yes *
+
+Test Report Number - *
+
+Test Report Date - *
+
+Name of testing lab - *
+
+Address of testing lab - *
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 AMRISH CHANDRA
+SUMAN
+
+734008,NHPC LIMITED,
+TEESTA LOW DAM-IV POWER
+STATION, KALIJHORA BAZAR,
+P.O. KALIJHORA,
+
+10  30
+
+Bid Specific Additional Terms and Conditions
+
+                               4 / 5
+
+
+
+ 
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

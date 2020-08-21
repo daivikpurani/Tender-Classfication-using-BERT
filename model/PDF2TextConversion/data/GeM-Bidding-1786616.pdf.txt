@@ -1,0 +1,485 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/710500
+
+  Dated: 14-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 24-07-2020 18:00:00
+
+Bid Opening Date/Time 24-07-2020 18:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Railways
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Office Of The Principal Chief Materials Manager, East
+Coast Railway, North Block, 2nd Floor,
+Chandrasekharpur, Bhubaneswar-751017.
+
+Total Quantity 1
+
+Item Category Mass Non Invasive Thermic Visualiser for Skin (Digital
+Thermal Scanner/Imager -HumanBody)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Past Performance
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  20 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+Estimated Bid Value  350000
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+                               1 / 5
+
+
+
+ 
+
+ Bid splitting not applied.
+
+1. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 20% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Mass Non Invasive Thermic Visualiser For Skin (Digital Thermal
+Scanner/Imager -HumanBody) ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Display Display Type LED DIsplay *
+
+Display size
+(External)
+
+42 19.0, 42.0
+
+Certification and Safety IP Protection Others *
+
+Safety certification CE *
+
+General Features Image capture,
+review and save
+mechanism
+
+One handed image
+capture Manually &
+Automatic Alarm based
+image capture, review
+and save capability
+
+One handed image
+capture Manually &
+Automatic Alarm based
+image capture, review
+and save capability
+
+Storage medium PC PC
+
+Size of Memory +500 GB *
+
+File formats JPEG with Temperature
+Data
+
+*
+
+Digital camera/ Visual
+Camera Resolution
+(Mpixel)
+
+N ≥ 1MP *
+
+Facility for the
+adjustment/ selection
+of the time/date etc
+
+Available *
+
+Interface for image
+transfer
+
+USB Cable with suitable
+drivers for downloading
+to PC
+
+*
+
+Focus Automatic *
+
+Measurement Modes Hot Cursor,Face Detect
+Rectangle with Max
+
+Face Detect Rectangle
+with Max Temp, Hot
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/vpXA3iSOaEezji2rl2BJDfeXpnho3ePZ2DaV0iSbyFI
+
+
+ 
+
+Temp Cursor
+
+Temperature Alarm Both Both
+
+Software capable of
+Automatic Face
+locking mechanism
+to only capture
+Humans
+
+Available Available
+
+Software Capable of
+Artifical Intelligence
+to Calibrate Alarm
+Thresholds as per
+applicable Ambient
+Temperature
+
+Available Available
+
+Software to have
+Automatic Screened
+Human Count &
+Image Data Storage
+feature
+
+Available Available
+
+Generic Size/ dimension 150 *
+
+Weight (including
+batteries)
+
+1500 *
+
+Automatic active
+temperature
+stabilization system of
+camera
+
+Yes *
+
+Provision for through-
+the-lens direct
+temperature
+measurement
+capability
+
+Yes *
+
+Tripod Mounting UNC 1/4"-20 Inbuilt *
+
+Warranty 1 *
+
+Lens Measurement
+Features
+
+Horizontal Field of View
+of Standard lens
+(degree)
+
+20-25 *
+
+Vertical Field of View of
+Standard lens
+
+14-20 *
+
+IFOV of Standard
+lens (mRad)
+
+1.5 1.3, 1.5
+
+Operating Condition Minimum Operating
+Temperature
+
+0 *
+
+Maximum Operating
+Temperature
+
+40 *
+
+Operating Humidity
+(RH) (%)
+
+95 *
+
+Other Accessories
+Included
+
+USB Cable, Manual,
+Laptop/PC, Industrial
+Tripod
+
+Available *
+
+                               3 / 5
+
+
+
+ 
+
+Performance Features Type Hand held along with
+TRIPOD & External
+Display along with
+PC/Laptop
+
+Hand held along with
+TRIPOD & External
+Display along with
+PC/Laptop
+
+Detector Resolution
+(minimum Pixels)
+
+100000 100000, 110592,
+120000, 2073600
+
+Temperature Range
+of Objects (Min)
+
+20 20.0
+
+Temperature
+measuring stability
+of reading (or
+better)
+
+± 0.5°C ± 0.5°C, ± 0.3°C
+
+Minimum Focus
+distance
+
+0.25 *
+
+Image capture
+frequency/ frame
+rate
+
+50 50.0
+
+Image Detector Type Focal Plane Array (FPA)
+Uncooled Micro
+bolometer (for fever
+measurment & animal
+husbandry thermal
+imager)
+
+*
+
+Thermal sensitivity
+(NETD) @30°C
+
+0.05 0.05, 0.04
+
+User selectable
+Emissivity
+setting/correction
+
+0.1 *
+
+Infrared spectral band
+(micrometer) (Min)
+
+8 *
+
+Image Palettes Others *
+
+Temperature Range
+of Objects (Max)
+
+50 50.0
+
+Infrared spectral band
+(micrometer) (Max)
+
+14 *
+
+Power requirements Power Requirements 12V DC Adapter *
+
+Suitable
+charger/adapter
+provided
+
+Available *
+
+Test Report Details and
+tests
+
+The equipment
+supplied with
+calibration certificate
+
+Yes *
+
+Availability of the test
+report from Central
+Govt/ NABL/ ILAC
+accredited lab to prove
+conformity to the
+specification
+
+Yes *
+
+                               4 / 5
+
+
+
+ 
+
+Test Report Number
+and date for the
+specification test (not a
+part of biddable
+parameter)
+
+- *
+
+Name and address of
+the Lab for the
+specification test (not a
+part of biddable
+parameter)
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Biswajit Sahu 751017,Office of the Dy.
+Chief Materials Manager
+(CRW). East Coast Railway,
+Chandrasekharpur,
+Mancheswar, Bhubaneswar.
+Pin-751017.
+
+1  21
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+2.For fulfilling the experience criteria any one of the following documents may be considered
+as valid proof for meeting the experience criteria:
+a. Purchase Order copy along with Invoice(s) with self-certification by the bidder that
+supplies against the invoices have been executed.
+b. Execution certificate by client with order value.
+c. Any other document in support of order execution like Third Party Inspection release note,
+etc.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,641 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/707098
+
+  Dated: 11-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 15:00:00
+
+Bid Opening Date/Time 27-07-2020 15:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 45 (Days)
+
+Ministry/State Name Ministry Of Textiles
+
+Department Name Na
+
+Organisation Name National Institute Of Fashion Technology (nift) Head
+Office New Delhi
+
+Office Name Nift Campus Near Gulmohar Park Hauzkhas, New
+Delhi 110016
+
+Total Quantity 1
+
+Item Category Laptop-Notebook ( PAC Only ) 
+
+Bidder Turnover (Last 3 Years)  1 Lakh (s)
+
+Experience Criteria  2 Year (s)
+
+MSE Exemption for Years Of Experience and
+Turnover
+
+ Yes
+
+Startup Exemption for Years Of Experience
+and Turnover
+
+ Yes
+
+Document required from seller  Experience Criteria,Bidder Turnover,Certificate
+(Requested in ATC),OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+                               1 / 7
+
+
+
+ 
+
+ Bid splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+
+Laptop-Notebook ( 1 pieces ) ( Under PAC ) 
+
+Make apple
+
+Model applemacbookpro13inch10gen.mwp52hna(spac
+egrey)mwp82hna(silver)
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Construction Form Factor Standard Standard, Convertible,
+Detachable
+
+Chassis Material CNC Alluminium *
+
+Hinges Metallic *
+
+Processor Processor Make Intel Intel, AMD, Microsoft
+
+Processor
+Generation
+
+10 7, 8, 0, 9, 10, 1 Or
+higher
+
+Number of Cores per
+Processor
+
+4 2, 4, 6, 8 Or higher
+
+Processor Base
+Frequency (GHz)
+
+2 *
+
+Processor
+Description
+
+Intel Core i5 *
+
+Processor Number Intel Core i5, Turbo
+Boost up to 3.8GHz,
+with 6MB shared L3
+cache
+
+*
+
+Out of Band
+Management
+
+NA *
+
+Cache (MB) 6 *
+
+Motherboard Expansion Slots (M Dot
+2)
+
+0 *
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/x0IJck-WzNmRhC2BznrQF5WEQoEqhgl-OSiX7uTJyxc
+
+
+ 
+
+Graphics Graphics Type Integrated *
+
+Graphic Card
+Description
+
+Intel IRIS Plus *
+
+Size of Memory in
+Case of Dedicated
+Graphic Card (GB)
+
+0 0, 1, 2, 3, 4, 6 Or
+higher
+
+Size of VRAM in case of
+Integrated Graphics
+(MB)
+
+0 *
+
+Operating System Operating System
+(Factory Pre-Loaded)
+
+Mac OS Mojave Windows 10
+Professional, Linux,
+DOS, Windows 10
+Home, Mac OS Mojave,
+Windows 10 Pro ( 64
+bits)
+
+Recovery Image Media CD from the OEM /
+Stored in Partition of
+the Hard Disk / USB
+Drive from the OEM /
+On Line / Cloud
+
+*
+
+OS Certification Mac OS Windows, Linux, Mac
+OS, NA
+
+Memory Type of RAM LPDDR4 *
+
+RAM Size (GB) 16 4, 8, 16, 32 Or higher
+
+RAM Speed (MHz) 3733 *
+
+Total Numbers of DIMM
+Slots Available
+
+0 *
+
+Number of DIMM Slots
+populated
+
+0 *
+
+RAM Expandability
+up to( using spare
+DIMM Slots in GB)
+
+0 8, 16, 32, 0 Or higher
+
+Storage Type of Drives used
+to populate the
+Internal Bays
+
+SSD HDD, SSD, SSHD,
+SSED, PCIe SSD
+
+Number of Internal
+Bays populated with
+HDD
+
+0 *
+
+Capacity of each HDD
+(GB)
+
+NA *
+
+Total HDD Capacity
+(GB)
+
+0 500, 1000, 1500, 2000,
+2500, 3000, 0 Or
+higher
+
+Number of Internal
+Bays populated with
+SSD
+
+0 *
+
+Capacity of each SSD
+(GB)
+
+1024 128, 256, 512, 1024,
+2048, 0
+
+                               3 / 7
+
+
+
+ 
+
+Total SSD Capacity
+(GB)
+
+1024 128, 256, 384, 512,
+768, 1024, 1280, 2048,
+4096, 0 Or higher
+
+Number of Internal
+Bays populated with
+SSHD
+
+0 *
+
+Capacity of each
+SSHD (GB)
+
+NA 8 GB Flash + 500 GB
+@5400 rpm, 8 GB Flash
++ 1000 GB @5400 rpm,
+8 GB Flash + 2000 GB
+@5400 rpm, NA Or
+higher
+
+Total SSHD Capacity
+in addition to 8 GB
+Flash (GB)
+
+0 500, 1000, 1500, 0 Or
+higher
+
+Optane Memory (GB) 0 *
+
+Connectivity Wireless
+Connectivity
+
+Yes Yes, No
+
+If Yes, Type of Wireless
+Connectivity
+
+Wi-Fi 802.11ac *
+
+Number of Ethernet
+Ports
+
+0 *
+
+If available, Type of
+Ethernet Ports
+
+NA *
+
+Bluetooth
+Connectivity
+
+Yes Yes, No
+
+If Yes, Version of
+Bluetooth Available
+
+5 *
+
+Ports Number of USB Version
+2 Point 0 Ports
+
+0 *
+
+Number of USB Version
+3 point 0 / 3 point 1,
+Gen 1 Ports
+
+0 *
+
+Number of USB Version
+3 point 1, Gen 2 Ports
+
+0 *
+
+Number of USB Type C
+Ports
+
+2 *
+
+Number of Serial Ports 0 *
+
+Number of VGA Ports 0 *
+
+Number of HDMI Ports 0 *
+
+Number of DP Ports 0 *
+
+Number of Thunderbolt
+Port
+
+2 *
+
+Display Display Size (Inch) 13.3 *
+
+Display Type Non Touch Non Touch, Touch Or
+higher
+
+                               4 / 7
+
+
+
+ 
+
+Display Technology LED HD Backlit *
+
+Panel Technology IPS IPS, TN, VA Or higher
+
+Display Resolution
+(Pixels)
+
+2560 x 1600 *
+
+Availability of
+Webcam integrated
+with Display
+
+Yes Yes, No
+
+If Yes, Resolution of
+Webcam
+
+FHD VGA, HD, FHD, NA Or
+higher
+
+Infra Red Webcam No Yes, No
+
+Miscellaneous Optical Drive NA Integrated, External,
+NA Or higher
+
+Type of Optical Drive N/A *
+
+Internal Speaker
+(Dual)
+
+Yes Yes, No
+
+Audio-in No *
+
+Audio-out No *
+
+Headphone out Yes *
+
+Microphone-in No *
+
+Type of Keyboard Standard *
+
+Backlit Keyboard Yes *
+
+Spill Resistant
+Keyboard
+
+No *
+
+Pointing
+Device/Touchpad
+
+Touchpad with multi-
+touch gestures enabled
+
+*
+
+Finger Print Reader Yes *
+
+Hardware Trusted
+Platform Enabled
+
+Yes *
+
+Carry Case No Yes, No
+
+If Yes, Type of Carry
+Case
+
+NA *
+
+Security Lock Slot No *
+
+If Yes,Availability of
+Cable Lock
+
+No *
+
+Weight (Including
+Battery) (Kilogram)
+
+1.4 *
+
+Power Battery Type Integrated *
+
+Battery Chemistry Li - Polymer *
+
+Battery Capacity (Watt
+Hour)
+
+58 *
+
+Battery Backup Time
+(Hours)
+
+10 *
+
+                               5 / 7
+
+
+
+ 
+
+Certification BIS Registration under
+CRS of Meity
+
+Yes *
+
+BIS Registration
+Number and its validity
+
+R-41000450 *
+
+BEE / Energy Star for
+the given Model
+
+Yes *
+
+ROHS Compliance Yes *
+
+Other Certifications
+available
+
+CE,FCC *
+
+Operating Conditions Minimum Operating
+Temperature
+
+10 *
+
+Maximum Operating
+Temperature
+
+35 *
+
+Minimum Operating
+Humidity (%RH)
+
+0 *
+
+Maximum Operating
+Humidity (%RH)
+
+90 *
+
+Warranty Battery Warranty 1 1, 3, 4 Or higher
+
+On Site OEM
+Warranty (Year)
+
+1 1, 3, 5, 4
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Vikram Verma 110016,NATIONAL
+INSTITUTE OF FASHION
+TECHNOLOGY, NEAR
+GULMOHAR PARK,HAUZ
+KHAS, NEW DELHI 110016
+
+1  15
+
+Special terms and conditions for category Laptop-Notebook 
+
+1.As per notification of MEITY circulated vide letter no. F.No.33(1) /2017-IPHW..dated:
+14/09/2017, the minimum local content should be 40 percent to qualify as local or domestic
+manufacturer.
+
+Bid Specific Additional Terms and Conditions
+
+1.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+
+                               6 / 7
+
+
+
+ 
+
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+2. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+3.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+4.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+5.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+6.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents
+sought in the Bid document, ATC and Corrigendum if any.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

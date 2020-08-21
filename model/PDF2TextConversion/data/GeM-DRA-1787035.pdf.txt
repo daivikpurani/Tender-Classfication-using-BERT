@@ -1,0 +1,394 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   RA Number: GEM/2020/RA/45207
+
+  Dated: 15-07-2020
+
+  
+
+RA Document
+RA Details
+
+RA Technical End Date/Time 25-07-2020 11:00:00
+
+RA Opening Date/Time 25-07-2020 11:30:00
+
+RA Life Cycle (From Publish Date) 90 (Days)
+
+RA Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Ministry Of Corporate Affairs
+
+Department Name Na
+
+Organisation Name Indian Institute Of Corporate Affairs (iica)
+
+Office Name Manesar
+
+Total Quantity 5
+
+Item Category Wireless Access Point
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+
+Splitting
+
+ RA splitting not applied.
+
+Wireless Access Point ( 5 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+                               1 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/0Ok1ajR639rJ4ZQ3ek2nNsZ4tXVX7eMLr1tkNFOXcM0
+
+
+ 
+
+Specification Type of Access Point Stand alone Stand alone
+
+Deployment Indoor Indoor
+
+Mounting Ceiling *
+
+Antenna Type Internal *
+
+Number Of Radios Dual *
+
+Frequency Band 2.4 GHz & 5.0 GHz *
+
+Supported Wi-fi
+Standards
+
+802.11ac Wave 2 *
+
+Wireless Speed Up
+to (Mbps)
+
+Aggregated data rate
+1.6Gbps (1,300 Mbps in
+the 5GHz band and 300
+Mbps in the 2.4GHz
+band)
+
+aggregateddatarate1.6
+gbps(1300mbpsinthe5g
+hzbandand300mbpsint
+he2.4ghzband)
+
+Max Wireless Signal
+Range im Mts
+
+30 Mtrs 30mtrs
+
+Channel Width (MHz) 80 *
+
+Maximum Data Rate
+MBps
+
+1600 *
+
+Supported
+Encryption
+
+WEP,WPA-
+PSK,WPATKIP,WPA2 AE
+S,802.11i,EAP-
+TLS.,WPA AES
+
+WPA-PSK, WEP, WPA2
+AES, 802.11i, EAP-TLS.,
+WPA-TKIP, WPA AES
+
+Dedicated Console Port Available *
+
+Receiver Sensitivity in
+db
+
+-95 *
+
+Transmit power
+(tx)(dBm)
+
+21 *
+
+Radio Resource
+Management such for
+power
+channel,coverage hole
+detection and
+performance
+optimization
+
+Available *
+
+Support for Load
+Balancing between 2-4
+Ghz and 5 Ghz
+
+Available *
+
+Support for
+Configurable Carrier
+Threshold
+
+Available *
+
+Device Management Web-based
+Configuration Interface
+(GUI)
+
+*
+
+Support for Mesh
+Networking
+
+Available *
+
+Support for QoS for Available *
+
+                               2 / 4
+
+
+
+ 
+
+Voice over Wireless
+
+Support for MU-MIMO Available *
+
+Number of MIMO
+supported & Spatial
+Streams
+
+3 X 3 :3 *
+
+Number of WLAN
+(SSID) per AP
+
+16 *
+
+Maximum clients Nos 200 *
+
+Support for
+Autonomous access-
+point option
+
+Available *
+
+USB Ports Available *
+
+Number of
+10/100/1000 port
+
+1 *
+
+mGig support Not Available *
+
+Fiber port (in case of
+outdoor AP)
+
+Not Available *
+
+Support for Bluetooth
+Low Energy (BLE)
+support on AP
+
+Available *
+
+Support for Beam
+forming
+
+Available *
+
+Operate as a sensor for
+wireless IPS
+
+Available *
+
+Support for QoS and
+Video Call Admission
+Control capabilities
+
+Available *
+
+Support for Rogue
+access point detection
+
+Available *
+
+Support for Wireless
+Intrusion Protection
+System
+
+Available *
+
+WPC certified Yes *
+
+Wi-Fi CERTIFIED Yes *
+
+Support non-Wi-Fi
+detection for off-
+channel rogues and
+Containment for both
+radio while serving the
+client simaltaniously
+
+Available *
+
+Powering options (Such
+as AC/DC, 802/3af PoE,
+802/3at PoE+), specify
+
+802.3af PoE,802.3at
+PoE+
+
+*
+
+Power POE (Watt) 13 *
+
+Environmental
+Standard : plenum-
+
+Yes *
+
+                               3 / 4
+
+
+
+ 
+
+rated (UL2043) for
+Indoor and IP67 for
+Outdoor
+
+Operating Temperature
+Range (Degree C)
+
+- *
+
+Operating Humidity
+(%RH)
+
+- *
+
+Dimension (mm x mm
+x mm)
+
+- *
+
+Weight (grams) - *
+
+On Site OEM
+Warranty (Years)
+
+3 3
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignee/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Vineet Aggarwal 122052,Indian Institute of
+Corporate Affairs Ministry of
+Corporate Affairs Govt. of
+India, Plot No. 6,7, 8, Sector
+5, IMT, Manesar
+
+5  15 N/A
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+This RA is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

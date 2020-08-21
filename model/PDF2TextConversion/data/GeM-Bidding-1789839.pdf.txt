@@ -1,0 +1,463 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/713434
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 16:00:00
+
+Bid Opening Date/Time 27-07-2020 16:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Chemicals And Fertilizers
+
+Department Name Department Of Chemicals And Petrochemicals
+
+Organisation Name Brahmaputra Cracker And Polymer Limited (bcpl) Guwahati
+Assam
+
+Office Name Lepetkata
+
+Total Quantity 3
+
+Item Category breath alcohol analyzers
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Breath Alcohol Analyzers ( 3 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+TECHNOLOGY /
+PERFORMANCE
+
+Sensor Technology ElectroChemical - Fuel Cell
+(alcohol specific)
+
+ElectroChemical - Fuel Cell
+(alcohol specific),
+
+                               1 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/oJOwNb4I4w1r5PF8kGJbOLBnWxxP_QHeD_mg1Gr136g
+
+
+ 
+
+Semiconducter Alcohol
+Sensor
+
+Sampling Method Deep Lung Exhalation
+Method
+
+*
+
+Sampling Error Detection Alarm on wrong sampling *
+
+Sampling modes Both Active and Passive *
+
+Measuring Range [mg /
+100 ml BAC (Blood
+Alcohol Concentration)]
+
+0 to 500 0 to 500
+
+Accuracy +/- 5 % or better *
+
+Drift of the breath
+analyzer in 6 months
+period (mg / 100 ml BAC)
+
+1 0.0 - 1.0 Or lower
+
+Easily replaceable
+mouthpiece with Sputum
+Trap
+
+yes *
+
+Sample Taking Duration 3 *
+
+Analytical Response Time
+(At '0' level of Alcohol)
+
+5 *
+
+Analytical Response Time
+for positive result
+
+20 *
+
+Recovery Time at (1/2)
+mg/ltr
+
+20 *
+
+Warm up Time (after putting
+on)
+
+12 *
+
+Time required for re-
+calibration
+
+12 *
+
+Barometric Pressure Range
+(hpa or millibar)
+
+1300 *
+
+Shelf Life of Fuel Cell 2 *
+
+RoHS Compliant Yes *
+
+The Equipment meet RFI
+requirement as per
+EN:5008-1/1992(emission)
+and EN
+50082-1:1997(immunity) or
+equivalent requirements
+
+Yes *
+
+PHYSICAL Weight 360 *
+
+Size ( mm x mm x mm ) - *
+
+BATTERY OF ANALYZER Power Source Rechargeable Battery and
+also work through
+automobile 12 V DC Power.
+
+*
+
+Chemistry of Rechargeable
+Battery
+
+Li-ion *
+
+Battery Voltage 7.4 *
+
+Battery Backup Time
+(continuous duty)
+
+24 *
+
+Number of Spare
+Rechargeable Batteries
+supplied with the
+instrument
+
+0 *
+
+Low Battery indication yes *
+
+                               2 / 5
+
+
+
+ 
+
+DISPLAY / INDICATOR /
+STORAGE / INTERFACE
+
+Display Type TFT LCD *
+
+Display Size 4.5 *
+
+Availability of audible
+beeper for over range, low
+battery etc
+
+yes *
+
+Record Entry Through Integrated/Touch
+Screen
+
+Through Integrated/Touch
+Screen
+
+Minimum Record Fields Full Information as per the
+user's requirement such as
+Driver Name, Vehicle
+number, inspector name,
+test report with time, date,
+geolocation, instrument id,
+etc
+
+*
+
+Record Memory
+(Minimum)
+
+50000 50000
+
+Record Data Downloadable
+to PC
+
+yes *
+
+Data Interface USB,Wifi *
+
+GPS Yes *
+
+If yes, Capable to display
+the geolocation of test
+inspection / location
+
+yes *
+
+Camera Yes Yes
+
+If yes, Capable to capture
+the clear image of test
+target
+
+yes *
+
+PRINTER Printer With With
+
+Type of Printer Internal Thermal Printer Internal Thermal Printer
+
+Print Resolution (dpi) 200 *
+
+Printer consists of Inbuilt
+Rechargeable Battery,
+Paper for offence printouts,
+Charger
+
+yes *
+
+Minimum number of
+printouts that can be taken
+with the paper available
+with the Printer
+
+27 *
+
+"Minimum number of
+printouts that can be taken
+with single charge of the
+printer battery (Hint:-
+Minimum 60 prints, if 'With
+Printer' May indicate '0' if
+not applicable)"
+
+100 *
+
+Bis Registration number for
+Printer under CRS of MeitY
+
+- *
+
+WARRANTY Warranty 1 1, 2, 3, 4, 5 Or higher
+
+STATUTORY REQUIREMENTS The equipment can be used
+as an evidential instrument
+for Traffic Law Enforcement,
+The instrument is hand
+held, portable and easy to
+operate
+
+Yes *
+
+If Yes, the equipment meets yes *
+
+                               3 / 5
+
+
+
+ 
+
+the requirements of the
+applicable latest Central
+Motor Vehicle Rules and all
+Govt notifications
+
+Immunity to RF
+interface,meets
+requirement as per
+EN:5008-/1992(emission)
+and EN:50082-1:1997
+(immunity) or equivalent
+
+yes *
+
+OPERATING CONDITIONS Minimum Operating
+Temperature
+
+-20 *
+
+Maximum Operating
+Temperature
+
+60 *
+
+Relative Humidity Non
+Condensing (%)
+
+95 *
+
+ENVIRONMENTAL /
+CERTIFICATION
+
+Conformity to Dry Heat test
+at 50 degree C for 16 hours
+as per IS :9000 latest
+
+Yes *
+
+Conformity to Damp heat at
+40 degree C - 95% RH
+(cyclic test): two cycles of
+16+8 hours as per IS: 9000
+latest
+
+Yes *
+
+Conformity to Cold test at -
+5 / -10 / - 15 / -20 degree C
+(as applicable) for 4 hours
+as per IS: 9000 latest
+
+Yes *
+
+Availability of Test Reports
+from Central Govt / NABL
+approved / ILAC accredited
+Lab to prove conformity to
+the specification
+
+Yes *
+
+Test Report Number and
+Date
+
+- *
+
+Name of the Lab and
+Address
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Dhrupad Rajkhowa 786006,M/s Brahmaputra Cracker
+And Polymer Limited, Contract &
+Procurement Department,
+Administrative Building, Lepetkata
+- 786006 Dibrugarh (Assam)
+
+3  30
+
+Bid Specific Additional Terms and Conditions
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2.ISO 9001: The bidder must have ISO 9001 certification.
+
+                               4 / 5
+
+
+
+ 
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

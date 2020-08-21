@@ -1,0 +1,253 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/703440
+
+  Dated: 08-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 18-07-2020 20:00:00
+
+Bid Opening Date/Time 18-07-2020 20:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Army
+
+Office Name ***********
+
+Total Quantity 50
+
+Item Category AEK Camera
+
+Bidder Turnover (Last 3 Years)  1 Lakh (s)
+
+Experience Criteria  2 Year (s)
+
+MSE Exemption for Years Of Experience and
+Turnover
+
+ Yes
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Bidder Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 3
+
+
+
+ 
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+
+AEK Camera ( 50 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Camera Capture Type Plain live capture Plain live capture
+
+Image Quality Full Frontal (0x01) as
+per ISO/IEC 19794-5
+
+Full Frontal (0x01) as
+per ISO/IEC 19794-5
+
+Image Resolution
+Minimum (Pixels)
+
+1080p 1080p Or higher
+
+Capture mode Manual Capture with
+Auto Focus and Auto
+Lighting Adjustment
+
+Manual Capture with
+Auto Focus and Auto
+Lighting Adjustment
+
+Native Sensor
+Resolution
+
+99 99.0 - 99.0 Or higher
+
+Connectivity High Speed USB 2.0,
+USB-IF certified
+
+High Speed USB 2.0,
+USB-IF certified
+
+Lens Fixed, SLR *
+
+Power Supply Through USB *
+
+Mount Tripod *
+
+Operating Temperature
+Range ( Degree C )
+
+0 – 50 *
+
+Operating Humidity
+(%RH)
+
+10 - 90 *
+
+Durability (Shock
+Resistant)
+
+IP 54 IP 54
+
+Safety Standard UL *
+
+Software API Compliant with UIDAI
+Device Capture API
+specification
+
+Compliant with UIDAI
+Device Capture API
+specification
+
+Rotatable with Fixed
+Base (Degree)
+
+360 *
+
+                               2 / 3
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/p_crlR9KVtOckC2PButH2wDjVXZybhFWlYGQUqnaaV0
+
+
+ 
+
+Operating System
+Compatibility
+
+Linux *
+
+Warranty (Year) 5 5 Or higher
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********GANJAM 50  15
+
+Bid Specific Additional Terms and Conditions
+
+1. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+2.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+3. ISO 9001: The bidder must have ISO 9001 certification.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               3 / 3
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

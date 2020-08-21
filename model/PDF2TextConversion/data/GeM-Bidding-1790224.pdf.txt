@@ -1,0 +1,462 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/713787
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 18:00:00
+
+Bid Opening Date/Time 27-07-2020 18:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Jammu & Kashmir
+
+Department Name Housing And Urban Development Department Jammu And
+Kashmir
+
+Organisation Name N/a
+
+Office Name Directorate Of Urban Local Bodies Kashmir
+
+Total Quantity 3
+
+Item Category Hopper Tipper Dumper ( PAC Only ) 
+
+Bidder Turnover (Last 3 Years)  15 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Bidder Turnover,Certificate (Requested in
+ATC)
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the
+buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+Estimated Bid Value  3105000
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM {themselves or
+through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central
+/ State Govt Organization / PSU / Public Listed Company for number of years as indicated in the bid document before the
+
+                               1 / 5
+
+
+
+ 
+
+bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some
+quantity during each of the year. In case of bunch bids, the category of primary product having highest value should
+meet this criterion.
+
+Hopper Tipper Dumper ( 3 pieces ) ( Under PAC ) 
+
+Make ensol
+
+Model ensolemat-2.5
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Certification Chassis Certification ARAI *
+
+Chassis Certification
+ARAI/VRDE/ICAT No
+
+AAON0350 *
+
+At the time of supply of the
+equipment, the chassis
+should not be more than 6
+months old
+
+Yes *
+
+Generic Parameters Type of TIPPER Garbage Tipper Box body Tipper, Rock body
+construction Tipper,
+Garbage Tipper, Other
+tipper
+
+Type of TIPPER if other
+tipper ,please declare type
+of Tipper,
+
+Garbage tipper *
+
+Make of Chassis TATA MOTORS *
+
+Type of Chassis Frame Conventional *
+
+Category of Vehicle for
+which Chassis to be used
+
+Light Capacity Commercial
+Vehicles
+
+Light Capacity Commercial
+Vehicles, Medium Capacity
+Commercial Vehicles, Heavy
+Capacity Commercial
+Vehicles
+
+Type of Chasssis Chassis with Facecowl *
+
+Type of Fuel Diesel Diesel, CNG, Petrol
+
+Vehicle Emission
+Complaince
+
+BS-VI BS-VI
+
+Fuel Consumption (
+declared by OEM as certified
+by Test Agency under Rule
+115of CMVR 1989) (Kmpl)
+
+18 *
+
+Speed, Max (Km/Hr) 80 *
+
+Max Engine Power BHP
+(BHP@rpm)
+
+44 Any applicable numeric
+value
+
+Rated RPM at Max Engine
+Power
+
+44 *
+
+Max Engine Torque (N-
+M@rpm)
+
+110 Any applicable numeric
+value
+
+Rated RPM at Max Engine 110 *
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/Fwug6eoAphVd7vhcaZRriBCivYkLP9TIDzlRyhGgVA8
+
+
+ 
+
+Torque
+
+Main Engine Aspiration Natural Aspiration Natural Aspiration,
+Turbocharged,
+Supercharged,
+Turbocharged+
+Supercharged,
+Turbocharged Intercooled
+
+No. of Cylinder in Main
+Engine (Nos)
+
+2 *
+
+Fuel Tank Capacity (Ltrs) 30 *
+
+Gradeability of Vehicle with
+load( %)
+
+43 *
+
+Ground Clearance (mm) 175 *
+
+Wheel Base (mm) 2250 *
+
+Kerb Weight (Kg) 1120 *
+
+Gross Vehicle Weight
+(Kg)
+
+2120 Any applicable numeric
+value
+
+Type of BIS MARKED Vehicle
+Tyre
+
+Radial *
+
+Chassis Transmission
+System
+
+Manual Automatic, Manual
+
+Number of Speed/ Forward
+Gears
+
+5 *
+
+Type of Steering Power Operated Manual, Power Operated
+
+Turning Radius,Min (mm) 4750 Any applicable numeric
+value
+
+Speed Governers/ECU Yes *
+
+ABS Fitted No *
+
+Front Vehicle Brake Disc *
+
+Rear Vehicle Brake Drum *
+
+Type of Clutch Single plate dry *
+
+Tipping Angle (Degree) 45 *
+
+Tipper Container
+capacity/Volume(cubic
+metres)
+
+2.5 0.5 - 20
+
+Consructional Parameters Size Of Front Tyres (mm) 165 R 14-8PR *
+
+Size Of Rear Tyres (mm) 165 R 14-8PR *
+
+Size of Wheel (mm) 355 *
+
+Tipper body Pivot length
+(mm)
+
+400 *
+
+Tipper body Length (mm) 1725 *
+
+Tipper Body Height (mm) 700 *
+
+Overall Height of Tipper
+from Ground (mm)
+
+1500 *
+
+Body Plate Thickness (mm) 2 *
+
+Main Frame Thickness (mm) 3 *
+
+Hydraulic System Yes *
+
+Tipping Hydraulic
+Cylinders(Make)
+
+Wipro/Marshal/equ. *
+
+                               3 / 5
+
+
+
+ 
+
+Hydraulic System Driven by Main Engine *
+
+Tipper Container
+Material
+
+Mild Steel Mild Steel, Stainless Steel,
+Aluminium, Chromium Alloy
+Based
+
+Thickness of sheet from
+tipper Collector Container
+Made (mm)
+
+2 *
+
+Dumping Height (mm) 1250 *
+
+Engine Oil Pressure Level
+Indicator in Control Panel
+
+Yes *
+
+Fuel Gauge Indicator in
+Control Panel
+
+Yes *
+
+Engine Cooling Liquid
+Temperature Indicator in
+Control Panel
+
+Yes *
+
+Operating Hour Meter No *
+
+Locking/Unlocking of Tipper
+Discharge Container
+
+Yes *
+
+Lowering/Lifting of Tipper
+Discharge Container
+
+Yes *
+
+Counter Weight No *
+
+If yes Counter Weight (kg) 0 *
+
+Paint Automotive Paint *
+
+Performance Parameters Standard Sparewheel and
+Tool Kit
+
+Yes *
+
+Warranty Time (Month) 12 Any applicable numeric
+value
+
+No. Of Free Service (Nos) 3 *
+
+Battery Warranty
+(Months)
+
+12 12, 24, 36 Or higher
+
+Warranty Distance
+(Km)(Unlimited during
+warranty Period)
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Mushtaq Ahmad Parry 193222,Habitat Centre Bemina
+Srinagar
+
+3  30
+
+Bid Specific Additional Terms and Conditions
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of
+
+Goods
+2.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone
+
+No. for Service Support.
+3.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for
+
+Service Support.
+
+                               4 / 5
+
+
+
+ 
+
+4.Warranty period of the supplied products shall be 1 years from the date of final acceptance of goods or after
+completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee
+location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The
+seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller
+should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service
+group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to
+be uploaded along with the bid
+
+5.ISO 9001: The bidder must have ISO 9001 certification.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,379 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/711999
+
+  Dated: 15-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 11:00:00
+
+Bid Opening Date/Time 27-07-2020 11:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Railways
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Eastern Railway
+
+Total Quantity 25
+
+Item Category Astronomical Timer for Street Light Control (Timer
+Controls)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Certificate (Requested in ATC)
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 5
+
+
+
+ 
+
+Astronomical Timer For Street Light Control (Timer Controls) ( 25 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+CONSTRUCTIONAL No. of phase Single Single
+
+Power
+rating/indicative
+current rating for
+relay on 230 V basis
+and 0.6 PF
+
+1 Phase, 6 kW/43A 1 Phase, 6 kW/43A
+
+System Rated Voltage
+(+/-10%)
+
+230 Volt, 50 Hz *
+
+IP Rating IP 54 *
+
+Manually settable timer
+with 12 programmes
+spreaded over a year
+as defined programme
+
+Yes *
+
+Manual ON / OFF Yes *
+
+Intermediate ON-OFF Yes *
+
+ON/OFF Timing
+accuracy
+
+</=60 seconds *
+
+GENERIC ATSC is an intelligent
+steeetlight control
+timer that can be used
+to control serveral
+existing street light
+units
+
+Yes *
+
+Network/Communica
+tion support through
+GPRS and with GPS
+
+No No
+
+Each ATSC has built in
+networking support
+that communicates to
+the central server that
+can control each phase
+independently and log
+the performance of all
+or a cluster of
+streetlights (If ''NO''
+write NA)
+
+NA *
+
+Built in feature
+Astronomical timer
+
+Yes *
+
+ATSC shall display of
+Longituide, Latitude,
+
+Yes *
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/SqYp6pz-W1HUKxCmcECLjv4VWZWPyum3IOMpmQKTAjA
+
+
+ 
+
+Date, Time, Voltage,
+Current and On time
+and Off time
+
+Display of Energy in
+Kwh and Measurement
+of energy (in kWh) (
+non utility) with
+resolution 1%
+
+No *
+
+PROTECTION Over Voltage Protection
+per phase
+
+260 Volt +/- 5 Volt *
+
+Under Voltage
+Protection per phase
+
+160 Volt +/- 5 Volt *
+
+Over Load (Minimum
+10% of rated load)
+Protection per phase
+
+Yes *
+
+Dimensions (Lmm x
+Wmm x Hmm) - must
+declare
+
+- *
+
+OPERATING
+CONDITIONS
+
+Operating Temperature
+Range
+
+-10 to +50 deg C *
+
+Relative Humidity (%) 95% *
+
+WARRANTY Warranty (in Years) 1 1
+
+ENVIRONMENTAL /
+CERTIFICATION
+
+Conformity to Dry Heat
+test at 55 degree C for
+16 hours as per IS
+:9000 (Part
+3/Sec.5):1977 latest
+
+Yes *
+
+Conformity to Damp
+heat at 40 degree C -
+95% RH (cyclic test):
+two cycles of 12+12
+hours as per IS: 9000
+(Part 5/Sec.2):1981
+latest
+
+Yes *
+
+Conformity to Cold test
+at -10 degree C for 4
+hours as per IS: 9000
+(Part 2/Secc.4):1977
+latest, as applicable
+
+Yes *
+
+Availability of Type
+Test Report from
+Central
+Govt./NABL/ILAC
+accredited lab to prove
+conformity to
+specification
+
+Yes *
+
+All the test reports shall
+furnish to the
+buyer/consignee on
+demand
+
+Yes *
+
+                               3 / 5
+
+
+
+ 
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Prakash Chand
+Meena
+
+711101,DRM Building
+Eastern Railway Howrah
+
+25  20
+
+Bid Specific Additional Terms and Conditions
+
+1.Procurement under this bid is reserved for purchase from Micro and Small Enterprises whose
+credentials are validated online through Udyog Aadhaar for that product category. If the
+bidder wants to avail the reservation benefit, the bidder must be the manufacturer of the
+offered product in case of bid for supply of goods. Traders are excluded from the purview of
+Public Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the
+bidder must be the Service provider of the offered Service. Relevant documentary evidence
+in this regard shall be uploaded along with the bid in respect of the offered product or
+service.
+
+2.Purchase preference to Micro and Small Enterprises (MSEs) from the State of Bid Inviting
+Authority : Purchase preference will be given to MSEs as Micro and Small Enterprises from
+the State of Bid inviting Authority whose credentials are validated online through Udyog
+Aadhaar for that product category. If the bidder wants to avail the Purchase preference, the
+bidder must be the manufacturer of the offered product in case of bid for supply of goods.
+Traders are excluded from the purview of Public Procurement Policy for Micro and Small
+Enterprises. In respect of bid for Services, the bidder must be the Service provider of the
+offered Service. Relevant documentary evidence in this regard shall be uploaded along with
+the bid in respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s)
+has/have quoted price within L-1+ 15 % of margin of purchase preference /price band
+defined in relevant policy, such Seller shall be given opportunity to match L-1 price and
+contract will be awarded for percentage of 20% of total value as defined/ decided in relevant
+policy.
+
+3.Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be
+given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs)
+Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises
+and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to
+avail the Purchase preference, the bidder must be the manufacturer of the offered product
+in case of bid for supply of goods. Traders are excluded from the purview of Public
+Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder
+must be the Service provider of the offered Service. Relevant documentary evidence in this
+regard shall be uploaded along with the bid in respect of the offered product or service. If L-1
+is not an MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of
+purchase preference /price band defined in relevant policy, such Seller shall be given
+opportunity to match L-1 price and contract will be awarded for percentage of 20% of total
+value.
+
+4.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+
+                               4 / 5
+
+
+
+ 
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

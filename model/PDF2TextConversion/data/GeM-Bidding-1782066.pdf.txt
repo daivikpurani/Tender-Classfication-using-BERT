@@ -1,0 +1,647 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/706344
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 19:00:00
+
+Bid Opening Date/Time 20-07-2020 19:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 80 (Days)
+
+Ministry/State Name Ministry Of Railways
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Eastern Railway
+
+Total Quantity 1
+
+Item Category Virtual Reality Welding Simulator
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Virtual Reality Welding Simulator ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+                               1 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/ba7NSgn7RRtRfbaCcMjvfmJ9bLm57VG_vndRffMP3K0
+
+
+ 
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standard parameters Conformity to
+Certifications
+
+CE CE
+
+Certification number
+and date
+
+- *
+
+Performance
+parameters
+
+Purpose Virtual Simulation
+Device for Welding
+Trade is used to train
+students
+
+*
+
+Type of welding
+simulator
+
+Virtual Reality Type *
+
+Simulation
+Methodology
+
+Virtual Virtual
+
+Process Support by
+welding simulator
+
+SMAW,GMAW,GTAW,RO
+BOTIC,2 STEP/4
+STEP,STICK,MIG
+
+SMAW, GMAW, GTAW,
+ROBOTIC, 2 STEP/4
+STEP, STICK, MIG
+
+Type of Display LCD LCD
+
+Touch screen display Yes Yes
+
+Size of monitor in
+inch
+
+21-24 21-24
+
+Random Access
+Memory in GB
+
+8 GB 8 GB
+
+Size of hard disk in
+GB
+
+250 GB 250 GB
+
+Processor Intel I 5 Intel I 5
+
+Opearating System Win 10 Win 10
+
+Welding Position
+competency
+
+1G 2G 3G 4G 5G FOR
+PIPE,1F 2F 3F,Butt Fillet
+, T,Pipe to pipe,Pipe to
+plate
+
+1G 2G 3G 4G 5G FOR
+PIPE, 1F 2F 3F, Butt
+Fillet , T, Pipe to pipe,
+Pipe to plate
+
+Play Back Option Yes Yes
+
+Tracking System Magnetic Tracking
+System
+
+Magnetic Tracking
+System
+
+Work piece
+parameters
+
+Work angle, travel
+angle, speed and
+nozzle to- plate
+distance , torch angle
+and straightness
+
+Work angle, travel
+angle, speed and
+nozzle to- plate
+distance , torch angle
+and straightness
+
+Difficulty levels Basic,Intermediate and
+Advance
+
+Basic,Intermediate and
+Advance
+
+Workpiece Haptic workpieces Haptic workpieces
+
+Material Thickness
+selection in mm
+
+0.8 to 15 mm *
+
+Number of Built in
+lesson for Students
+
+Min 100 *
+
+                               2 / 7
+
+
+
+ 
+
+Number of Built in
+lesson for Instructors
+
+Min 100 *
+
+Provision of lessons
+shall be editable
+
+Yes *
+
+Language of unit English , Hindi English , Hindi
+
+Connectivity both both
+
+Provision of Multi
+Pass Welding
+Support
+
+Yes Yes
+
+Provision of Cross
+Sectional View option
+
+Yes *
+
+Provision for Weld Gap
+Checking
+
+Yes *
+
+Height & Tilt
+Adjustment option for
+work piece
+
+Yes *
+
+Polarity Selection
+Option
+
+DC and AC DC and AC
+
+Live Insta Correct
+Feedback system
+
+Yes *
+
+Inbuilt Intelligence to
+prevent welding at
+wrong positions
+
+Yes *
+
+RFID Based card
+access system
+
+Yes Yes
+
+User login Facility Yes *
+
+Administrative and
+trainer login
+
+Available on monitor
+screen and could
+evaluate students
+activity Data backup
+and calibration facility
+
+*
+
+Administrative and
+trainer option
+
+1. Evaluate students
+activity 2.Back up of
+data of student activity
+3. Calibration of system
+4.Video playback with
+option of viewing from
+diff angles
+
+*
+
+Ability to track
+complete history of
+students
+
+Yes Yes
+
+Provision to Records
+trainee’s virtual
+weld assessment
+and gives
+personalized
+feedback
+
+Yes with Ghost
+playback and recording
+
+Yes with Ghost
+playback and recording
+
+Report Features Yes Yes
+
+                               3 / 7
+
+
+
+ 
+
+shall be On Screen
+and exportable to
+excel with score
+cards
+
+Grading feature Actual Weld v/s Ideal
+Weld
+
+*
+
+Evaluation results Marks or graphs or
+both. Software must
+suggest pass/fail after
+completion of each
+course
+
+Marks or graphs or
+both. Software must
+suggest pass/fail after
+completion of each
+course
+
+Machine Alerts Wrong parameter
+selection , touching
+work piece
+
+*
+
+Protection against over current , over
+voltage, under voltage ,
+short current
+
+*
+
+Provision of helmet 3 D view helmet 3 D view helmet
+
+Weight of Unit in Kg 50-95 kg *
+
+Input Supply 220-240 V, AC , 1 Ph ,
+50-60 Hz
+
+220-240 V, AC , 1 Ph ,
+50-60 Hz
+
+Input current in ampere 0.5 to 11 A *
+
+Length of power cable
+in meter
+
+3 *
+
+Maximum Power
+Consumption in
+watts
+
+400 400
+
+Additional Parameters Provision of UPS Yes *
+
+Software With lifetime license
+including main OS such
+as windows and
+upgradeable
+
+*
+
+Maintenance and
+update
+
+Offline Offline
+
+Provision of
+networking
+simulator
+
+Yes Yes
+
+Simulator Learning
+Module CD
+
+1 No. *
+
+Apron Shield 1 No. *
+
+Gloves 1 Pair *
+
+VR gun attachments
+(STICK and/or MIG)
+
+1 1
+
+workstation USB
+Cable
+
+1 1
+
+Warranty in years 1 1
+
+                               4 / 7
+
+
+
+ 
+
+Accessories parameters SMAW TORCH WITH
+ELECTRODE
+
+Yes Yes
+
+WORK PIECE PLATES
+FOR LAP JOINT, BUTT
+JOINT, FILLET JOINT,
+PIPE BUT JOINT AND
+PIPE FILLET JOINTS
+
+YES YES
+
+WORK STAND
+APPROPRIATE TO FIX
+THE JOB IN ALL
+POSITIONS
+
+YES YES
+
+SOFTWARE FOR
+OFFLINE ACCESS TO
+BE PROVIDED IN
+DVD/CD/PEN DRIVE
+
+YES YES
+
+ROUTER WITH
+CABLES
+
+YES YES
+
+UPS POWER BACKUP YES YES
+
+DISPLAY SCREEN
+TOUCH SCREEN
+FACILITY FOR EASY
+CONTROLING OF THE
+MACHINE
+
+Yes Yes
+
+Reports ISO certification of the
+manufacturer
+
+ISO 9001 2015 *
+
+ISO cetification deatils
+such as date and
+number
+
+- *
+
+Availability of test
+report from govt/
+NABL/ILAC
+accredited lab
+covering all
+parameters
+
+No No
+
+Test report number ,
+Incase test reports not
+availabble , put NA
+
+- *
+
+Test report date, Incase
+test reports not
+availabble , put NA
+
+- *
+
+Name of test lab ,
+Incase test reports not
+availabble , put NA
+
+- *
+
+Address of test lab ,
+Incase test reports not
+availabble , put NA
+
+- *
+
+Copies of all
+certifications and
+reports to be
+provided to buyer on
+
+NA ,Incase test reports
+not availabble
+
+NA ,Incase test reports
+not availabble
+
+                               5 / 7
+
+
+
+ 
+
+demand at time of
+supplies ,
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Sunny Bishwajeet 713301,DRM Building,
+Eastern Railway, Asansol
+
+1  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+2. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+3.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+4.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+5.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+6.Nominated Inspection Agency: On behalf of the Buyer organization, any one of the
+following Inspection Agency would be conducting inspection of stores before acceptance:
+Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause
+has been selected in ATC): No
+Post Receipt Inspection at consignee site before acceptance of stores: Yes
+
+7.Material Test Certificate Should Be Sent Along with The Supply. The Material Will Be Checked
+by Buyer’s Lab & the Results of the Lab will be the Sole Criteria for Acceptance of the Item.
+
+8.Successful bidder will have to ensure that adequate number of dedicated technical service
+personals / engineers are designated / deployed for attending to the Service Request in a
+time bound manner and for ensuring Timely Servicing / rectification of defects during
+warranty period, as per Service level agreement indicated in the relevant clause of the bid.
+
+9.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 15 days time limit. If the Seller fails to complete
+service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product
+shall be charged as penalty for each week of delay from the seller. Seller can deposit the
+penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty
+amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than
+
+                               6 / 7
+
+
+
+ 
+
+10% of the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

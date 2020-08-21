@@ -1,0 +1,333 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/700519
+
+  Dated: 07-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 22-07-2020 12:00:00
+
+Bid Opening Date/Time 22-07-2020 12:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Pmo
+
+Department Name Department Of Atomic Energy
+
+Organisation Name N/a
+
+Office Name Directorate Of Purchase And Stores
+
+Total Quantity 600
+
+Item Category ac static watthour meters-Energy meter
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 2.00
+
+EMD Amount 17808
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 10.00
+
+Duration of ePBG required (Months). 12
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+                               1 / 4
+
+
+
+ 
+
+Beneficiary: 
+The President of India (acting through the Director, Purchase & Stores)
+Department of Atomic Energy, N/A, PMO, Government of India, 1st floor, Vikram Sarabhai Bhavan,
+Anushaktinagar, Mumbai - 400 094.
+(Krishnaji Ganpatrao Bilaskar, Apo)
+
+Splitting
+
+  Bid splitting not applied.  
+
+Ac Static Watthour Meters-Energy Meter ( 600 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+FEATURES Number of phases single phase two wire single phase two wire
+
+Reference Voltage 240 240.0
+
+Basic Current Ib 20 20.0
+
+Rated maximum
+current (I max) as
+(%) of lb
+
+400 400.0
+
+Accuracy Class 1 1
+
+GENERIC Features
+/requirements
+conforming to the
+STC of the product
+
+yes yes
+
+Requirement of
+External Current
+Transformer
+
+No *
+
+CERTIFICATION ISI marked to IS
+13779/99 with latest
+amendments
+
+Yes *
+
+CM/L No(Not a part of
+biddable parameter)
+
+- *
+
+ADDITIONAL FEATURES Additional
+features/functions, if
+any
+
+- *
+
+TEST REPORT DETAILS Availability of Test
+Reports from Central
+
+yes yes
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/luy2TU0NB9773h1mDFQhw6xxtWiubYkJdpc4ftZBNI8
+
+
+ 
+
+Govt / NABL
+approved / ILAC
+acredited lab to
+prove conformity to
+the specification
+
+Test Report number
+and date (Not a part of
+biddable parameter)
+
+- *
+
+Name and address of
+laboratory (Not a part
+of biddable parameter)
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Ramavath Vijay
+Kumar
+
+500062,HRPSU, NFC, P.O.
+ECIL,
+
+600  30
+
+Special terms and conditions for category ac static watthour meters-Energy meter 
+
+1. In addition to general terms and conditions to the GeM, following are the special T&C
+1.All Electronic Meters shall meet the latest requirements of Central Electricity
+
+Authority (Installation & Operation of meters)Regulations.
+2.Meters shall be provided with following anti-tampering features:
+
+1.The meter shall not get damaged or rendered non-functional and shall
+operate accurately even if any phase and neutral are interchanged. LED or
+LCD indication shall be provided on the meter wherever such tamper occurs
+for indication purpose.
+
+2.The meter shall register energy even when the return path of the load
+current is not terminated back at the meter and in such a case the circuit
+shall be completed through the earth. In case of metallic bodies, the earth
+terminal shall be brought out and provided on the outside of the case.
+
+3.Meter shall operate accurately even when incoming mains is connected to
+outgoing terminals and load is connected to incoming terminals. LED or LCD
+indication shall be provided on the meter wherever such tamper occurs.
+
+4.Three Phase meters shall have anti tampering features like Phase sequence
+reversal, current reversal, missing potential and missing neutral.
+
+5. In the case of 3 phase/4 wire system, the meter shall keep working even in
+the presence of any two wires i.e.even in the absence of neutral and any one
+phase or any two phases.
+
+6. In case of whole current meters and LV-CT operated meter, the meter shall
+be capable of recording energy correctly even if input and output terminals
+are interchanged.
+
+7.The registration must occur whether input phase or neutral wire are
+
+                               3 / 4
+
+
+
+ 
+
+connected properly or they are interchanged at the input terminals.
+8.The meter shall be factory calibrated and shall be sealed suitably before
+
+dispatch.
+9.Neutral missing feature: Meter will register energy even if neutral is
+
+disconnected from both ends and load is earthed in single phase.
+3.The meter shall be immune to external influences in respect of parameters covered
+
+in IS:13779/99 with latest amendments.
+4.All the three phase meters shall have data storage capacity for at least 35 days in a
+
+non-volatile memory.
+5.The meter shall have down loading facilities of metered data through Common Meter
+
+Reading Instrument(CMRI).
+6.The terminal block, terminal cover and meter case shall ensure reasonable safety
+
+against spread of fire.
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2.Bidders can also submit the EMD with Account Payee Demand Draft in favour of Pay and
+
+Accounts Officer, CAU, DPS payable at Mumbai.
+Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure
+delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date.
+
+3.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 15 days time limit. If the Seller fails to complete
+service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product
+shall be charged as penalty for each week of delay from the seller. Seller can deposit the
+penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty
+amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than
+10% of the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+4.Successful Bidder can submit the Performance Security in the form of Account Payee
+Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in
+favour of Pay & Accounts Officer, CAU, DPS payable at Mumbai. After award of contract,
+Successful Bidder can upload scanned copy of the DD in place of PBG and has to ensure
+delivery of hard copy to the original DD to the Buyer within 15 days of award of contract.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,334 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/703823
+
+  Dated: 13-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 23-07-2020 18:00:00
+
+Bid Opening Date/Time 23-07-2020 18:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 80 (Days)
+
+Ministry/State Name Ministry Of Coal
+
+Department Name Materials Management
+
+Organisation Name Northern Coalfields Limited
+
+Office Name Singrauli
+
+Total Quantity 4
+
+Item Category KVM Switch
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+KVM Switch ( 4 pieces )
+
+Technical Specifications
+
+                               1 / 4
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Type Type Analog Analog
+
+Physical Housing Metal *
+
+Mounting Rack *
+
+Size (RU) 2 *
+
+Computer Connections Number of Computer
+Connection Available
+
+8 *
+
+Port Selection Port Selection Medium Push Button *
+
+LED Indicators for
+various Interfaces
+
+Yes *
+
+Interfaces / Connectors
+On Console
+
+Number of USB Type
+A (female) Ports
+
+0 0, 1, 2, 3, 4, 5, 6 Or
+higher
+
+Number of HDMI
+(female) Ports
+
+0 0, 1, 2, 3, 4, 5, 6 Or
+higher
+
+Number of 3 point 5
+mm Audio Jack
+(Female)
+
+0 0, 1, 2, 3, 4 Or higher
+
+Number of RJ 45
+Ports
+
+0 0, 1, 2 Or higher
+
+Interfaces / Connectors
+On KVM
+
+Number of USB Type
+A (female) Port
+
+0 0, 1, 2, 3, 4, 5, 6 Or
+higher
+
+Number of HDMI
+(female) Port
+
+0 0, 1, 2, 3, 4, 5, 6 Or
+higher
+
+Number of 3 point
+5mm Audio Jack
+(Female)
+
+0 0, 1, 2, 3, 4 Or higher
+
+Number of RJ 45 Port 0 0, 1, 2 Or higher
+
+Features Support for
+Cascading Multiple
+KVM switches
+
+No Yes, No
+
+If Yes, Number of KVM
+Switches supported for
+cascading
+
+1 *
+
+Multipltform Support Windows,Linux,Mac Windows, Linux, Mac
+
+Supported
+Resolutions
+
+1920 x 1080 1920 x 1080, 1920 x
+1200, 1920 x 1280,
+2048 x 1536, 2560 x
+1600, 3840 x 2160 Or
+higher
+
+Power on detection – If
+one of the computers is
+powered off, it will
+automatically switch to
+
+No *
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/Sk-Hz-ve2zLJTOxp-gmKpoLmzYJgnGXmtn8X15ccvGA
+
+
+ 
+
+the next powered-on
+computer
+
+Multi View Support No *
+
+Power Power Source DC (Through Adaptor) *
+
+Maximum Power
+Consumption (Watt)
+
+34 *
+
+Operating Conditions Minimum Operating
+Temperature (Degree
+C)
+
+0 *
+
+Maximum Operating
+Temperature (Degree
+C)
+
+50 *
+
+Minimum Operating
+Humidity (%RH)
+
+0 *
+
+Maximum Operating
+Humidity (%RH)
+
+80 *
+
+Certification BIS Registration under
+CRS of Meity
+
+No *
+
+If yes, BIS Registration
+number
+
+- *
+
+Other Certifications
+available
+
+UL *
+
+Warranty and
+Insatallation
+
+Scope of supply Installation, Integration
+and Commissioning is
+included in the scope of
+supply
+
+Installation, Integration
+and Commissioning is
+included in the scope of
+supply
+
+On Site OEM
+Warranty (Year)
+
+2 1, 2, 3, 4 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Binay Kumar
+Singh
+
+486887,REGIONAL STORES,
+NCL, AMLOHRI PROJECT, PO
+- AMLOHRI DISTT -
+SINGRAULI M.P.
+
+4  15
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+
+                               3 / 4
+
+
+
+ 
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

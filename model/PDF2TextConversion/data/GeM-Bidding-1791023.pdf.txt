@@ -1,0 +1,568 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/714493
+  Dated: 17-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 13:00:00
+
+Bid Opening Date/Time 20-07-2020 13:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Delhi
+
+Department Name Health And Family Welfare Department Delhi
+
+Organisation Name N/a
+
+Office Name Ambedkar Nagar Hospital Dakshin Puri Delhi 110062
+
+Total Quantity 10
+
+Item Category Multipara Monitor - Low End
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Multipara Monitor - Low End ( 10 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Conformity to Certifications - *
+
+Confirmity to Manufacturing
+Standards
+
+ISO 9001 & ISO 13485 *
+
+                               1 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/o0EkOzu4n6BS4p9Am4K6zKVvQ0U4yEjEXHN44W3GTH0
+
+
+ 
+
+Conformity to Safety
+Standards
+
+ISO 80601-2-49 and IEC
+60601-1 or BIS equivalent
+
+*
+
+Performance Parameters Purpose Low-end monitors are
+designed to perform basic
+vital-signs monitoring.
+These monitors may also be
+appropriate for IPD as well
+as OPD patients
+
+*
+
+Type of Monitor Preconfigured / Non Modular Preconfigured / Non
+Modular, Modular
+
+Monitoring Parameters ECG,HR, NIBP, PR,
+respiratory rate, SpO2, and
+body temperature
+
+*
+
+ECG parameters Number of leads of ECG 5 5
+
+12-lead interpretation
+for ECG
+
+No Yes, No
+
+Arrhythmia detection and
+analysis
+
+Yes *
+
+Number of leads
+analyzed for ECG in
+single time
+
+5 3, 4, 5
+
+Heart rate measurement
+range
+
+At-least 30 -250 BPM *
+
+Accuracy ± 5 BPM *
+
+Minimum gradation 1 bpm *
+
+Respiration Parameters Respiration Method Impedance pneumography *
+
+Display waveform of
+respiration
+
+Yes *
+
+Threshold control for
+respiration
+
+Yes *
+
+Respiration rate
+measurement range
+
+At-least 0-100 bpm *
+
+Minimum gradation of
+respiratory measurement
+
+1 BPM *
+
+Pulse Oximetry Parameters Measurement technique Nellcor Nellcor, Masimo, Draeger
+OxiSure, TruSignal, Others
+
+Other Measuring Techniques
+(In case measurement
+technique is nelcor, masimo
+, draeger, oxisure, trusignal
+put NA otherwise indicate
+the measurement
+technique)
+
+- *
+
+Probe type supplied Adult,Pediatric,Neonatal Adult, Pediatric, Neonatal
+
+Type of adult probe Reusable Reusable
+
+Type of pediatric probe Reusable Disposable, Reusable, NA
+
+Type of neonatal probe Disposable Disposable, Reusable, NA
+
+SPO2 measurement range Atleast 40-70 % & 70 to
+99%
+
+*
+
+Accuracy of SPO2
+measurement
+
+Better than ±1 % for 40-70
+range & better than ± 3 %
+for 70-99 range
+
+*
+
+Minimum Gradation 1% *
+
+                               2 / 6
+
+
+
+ 
+
+NIBP Parameters Measurement technique for
+NIBP
+
+Step-deflation oscillometric *
+
+Cuff supplied Adult,Pediatric,Neonatal Adult, Pediatric, Neonatal
+
+Cuff size for Adult Large Small, Medium, Large, Extra
+Large, Not supplied
+
+Cuff size for pediatric Standard Standard, Not supplied
+
+Cuff size for neonate Standard Standard, Not supplied
+
+Blood pressure monitoring
+range
+
+30-300mm/Hg *
+
+Gradation 1 mm/Hg or better *
+
+Temperature Parameters Number of channels for
+temperature
+
+1 1, 2
+
+Probe type skin skin, rectal, esophageal, All
+( esophageal, rectal , skin)
+
+Temperature probe type Reusable *
+
+Temperature probe range Atleast 30 - 40 degree *
+
+Minimum gradation of temp
+probe
+
+1/10 degreeC *
+
+Accuracy in % ±1% *
+
+Length of time of full
+disclosure of patient data in
+hr
+
+≥48 *
+
+Operating conditions Capable of operating
+continuously in ambient
+temperature of 0 to 50 de c
+and relative humidity of 15
+to 90% in ideal
+circumstances
+
+*
+
+Length of time of trending in
+hr
+
+≥24 *
+
+Alarms Opeartor can set audio
+visual alarm levels for low or
+high levels of each
+parameter independently
+
+Yes *
+
+Systolic BP - low and high Yes *
+
+Diastolic BP - low and high Yes *
+
+Mean BP - low and high Yes *
+
+Heart rate - low and high Yes *
+
+SPO2 - low and high Yes *
+
+Respiratory rate - low and
+high
+
+Yes *
+
+Temperature -low and high Yes *
+
+Alarm Volume should be
+adjustable
+
+Yes *
+
+Type of alarm Audio and Visual *
+
+Activating silence of alarm Yes *
+
+Duration of alarm silence
+in sec
+
+120 120, 300
+
+Suspension of all alarms Yes *
+
+Latching of alarms Yes *
+
+                               3 / 6
+
+
+
+ 
+
+Cuff leakage alarm Yes *
+
+Cuff disconnect alarm Yes *
+
+Alarm for inflation/deflation
+errors
+
+Yes *
+
+Low battery voltage
+indication
+
+Yes *
+
+Sensor/ wire/probe
+disconnection alarm
+
+Yes *
+
+Networking Parameters Ethernet port Yes *
+
+Wireless No Yes, No
+
+USB port Yes Yes, No
+
+Connectivity provision
+with Central Nursing
+Station
+
+Yes Yes, No
+
+Display Parameters Type of display TFT LCD, LED, TFT
+
+Display Size,inch with
+±5% tolerance
+
+12 10, 12, 15, 17, 19
+
+Traces of display 6 or more *
+
+User Interface of display Touchscreen Touchscreen
+
+Inbuilt thermal Recorder
+(Printer)
+
+No Yes, No
+
+Display must allow easy
+viewing at all ambient light
+levels
+
+Yes *
+
+Standard Accessories Resusable SpO2 probe Adult,Pediatric,Neonatal Adult, Pediatric, Neonatal
+
+Number of adult probe 1 1, 2, 5, NA
+
+Number of pediatric
+probe
+
+1 1, 2, 5, NA
+
+Number of neonatal
+probe
+
+2 1, 2, 5, NA
+
+ECG cable 5 lead 5 lead
+
+Number of ECG cable 1 1, 2, 5, Not supplied
+
+Skin and Rectal
+temperature probe
+
+1 *
+
+Additional Parameters Accessories to wall
+mount the monitor
+
+Yes Yes, No
+
+Weight of the Machine in kg 5 *
+
+Noise level in dB 50 *
+
+Body of the monitor to be
+strong , durable and splash
+proof
+
+Yes *
+
+Should be supplied with
+protective case for clean
+storage and safe transport
+
+Yes *
+
+Power Requirements Type of power supply in
+VAC,Hz
+
+220-240, 50Hz Single Phase *
+
+Mains cable to be atleast
+3m length Indian type 3 pin
+
+Yes *
+
+Type of battery backup Lithium-ion ,rechargeable Lithium-ion ,rechargeable
+
+                               4 / 6
+
+
+
+ 
+
+Backup time in minutes 120 60, 120
+
+Recharging time of
+battery in hr
+
+≤6 ≤6, NA for UPS
+
+Warranty, Servicing and
+Installation
+
+Original User / Technical
+manuals to be supplied in
+English in hard and soft
+copy
+
+Yes *
+
+Installation, Demonstration
+and training to be provided
+at consignee end at any
+part of country
+
+Yes *
+
+The Principal Manufacturer
+Must Have Direct
+Presence/approved service
+center In India
+
+Yes *
+
+Advanced maintenance task
+required shall be
+documented and
+procedures required for
+local calibration and routine
+maintenence and list of imp
+spare parts with accessories
+along with part numbers to
+be furnished
+
+Yes *
+
+Availability of toll free
+facility for technical
+support maintained by
+OEM or authorized
+agencies
+
+Yes Yes, No
+
+Comprehensive Warranty
+in Years
+
+3 3
+
+Copies of all certifications
+and reports to be provided
+to buyer on demand at time
+of supplies
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Sudhir Kumar 110062,AMBEDKAR NAGAR
+HOSPITAL, DAKSHIN PURI, NEW
+DELHI
+
+10  2
+
+Bid Specific Additional Terms and Conditions
+1.Provisions for workmen compensation, insurance, public liability, property damage, insurance etc. to be ensured
+
+by the contractor. Also, safety measures prescribed for working in Extra High Voltage & use of personnel
+protective equipment must be adhered to.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+                               5 / 6
+
+https://gem.gov.in/termsCondition
+
+
+ 
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+http://www.tcpdf.org
+

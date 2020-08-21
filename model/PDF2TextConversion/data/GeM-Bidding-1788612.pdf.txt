@@ -1,0 +1,236 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/712308
+  Dated: 15-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 21:00:00
+
+Bid Opening Date/Time 27-07-2020 21:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Lakshadweep
+
+Department Name Information Technology Department Lakshadweep
+
+Organisation Name N/a
+
+Office Name Lakshadweep
+
+Total Quantity 20
+
+Item Category slap scanner ( PAC Only ) 
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Document required from seller  OEM Authorization Certificate
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the
+buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Slap Scanner ( 20 pieces ) ( Under PAC ) 
+
+Make 3m
+
+Model gemalto3mcogentslapfingerprintscanner
+
+Technical Specifications
+
+                               1 / 3
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Specification Computer Mode Plain live scan capture *
+
+Image Acquisition
+Requirements
+
+Setting level 31 or higher Setting level 31 or higher
+
+Image Evaluation frame rate continuous image capture *
+
+Capture Mode Auto capture with built-0in
+quality check (incorporates
+NIST QUALITY
+CONSIDERATIONS)
+
+*
+
+Capture Area (mm x mm) More than 76 x 80 *
+
+Connectivity USB 2.0, USB-IF certified *
+
+Power Through USB *
+
+Dimension (W X H X D) (mm
+x mm x mm)
+
+160 x 160 x 160 *
+
+Weight (Kg) less than 2.5 Kg *
+
+Operating Temperature
+Range (degree C)
+
+0 – 50 *
+
+Humidity (RH) Non
+Condensing
+
+10 - 90 *
+
+Durability (Shock Resistant) Yes *
+
+Ingress Protection Rating IP 54 *
+
+Availability of Device
+Certification from STQC
+
+Yes *
+
+STQC Certificate number ENROL/FPS/GEM/42 *
+
+STQC Certificate Date 02/07/2018 *
+
+Safety Standards UL certified (if applicable) *
+
+Software API Compliant with UIDAI Device
+Capture API specification
+V1.0 RC3
+
+*
+
+Operating System
+Compatibility
+
+Linux/Windows *
+
+On Site OEM Warranty
+(Years)
+
+3 3
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Shihabudheen S M 682003,Lakshadweep
+Administration Office Indira
+Gandhi Road, Willindon Island
+Kochi
+
+20  15
+
+                               2 / 3
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/vFAS50xlO-PZ2nrPPtHffvi-wnivFeaM_0VpCniZLdg
+
+
+ 
+
+Bid Specific Additional Terms and Conditions
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               3 / 3
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,4613 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - Draft RFP DAS_V2.0.docx
+
+
+ 
+
+2018 
+ 
+ 
+ 
+
+ 
+
+RFP	 for	 Supply	 &	 Installation	 of	 Direct	
+Access	 Storage	 (DAS)	 for	 RSDC	 through	
+Open	Competitive	e-Bidding 
+
+ 
+F5(1127)/DoIT/Tech/2018/00920/2018  dated 01/06/2018 
+
+ 
+ 
+ 
+
+Mode of Bid Submission Online though e-Procurement/ e-Tendering system at 
+
+http://eproc.rajasthan.gov.in  
+
+Procuring Authority Commissioner, 
+
+Deptt. of IT&C, Govt. of Rajasthan  
+
+II Floor, Yojna Bhawan, Tilak Marg, C-Scheme, 
+
+Jaipur (Rajasthan) 
+
+Last Date & Time of Submission of Bid As per NIT 
+
+Date & Time of Opening of Technical Bid As per NIT 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+II Floor, Yojana Bhawan, Tilak Marg, C-Scheme, Jaipur (Rajasthan) 
+
+Phone: 0141-5103902, 2221482 Fax: 0141-2222011 
+
+Web: http://doitc.rajasthan.gov.in, Email: proc.cell.doitc@rajasthan.gov.in 
+
+ 
+ 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 2 of 57 
+ 
+ 
+
+ABBREVIATIONS & DEFINITIONS 
+
+Act 
+The  Rajasthan  Transparency  in  Public Procurement Act, 2012 (Act No. 21 of 
+2012) and Rules thereto 
+
+Authorised Signatory The bidder’s representative/ officer vested (explicitly, implicitly, or through 
+conduct) with the powers to commit the authorizing organization to a binding 
+agreement. Also called signing officer/ authority having the Power of Attorney 
+(PoA) from the competent authority of the respective Bidding firm. 
+
+BG Bank Guarantee 
+
+Bid/ eBid A formal offer made in pursuance of an invitation by a procuring entity and 
+includes any tender, proposal  or quotation in electronic format 
+
+Bid Security 
+A security provided to the procuring entity by a bidder for securing the fulfilment 
+of any obligation in terms of the provisions of the bidding documents. 
+
+Bidding Document 
+Documents issued by the procuring entity, including any amendments thereto, that 
+set out the terms and conditions of the given procurement and includes the 
+invitation to bid 
+
+BoM Bill of Material 
+
+CMC Contract Monitoring Committee 
+
+Competent Authority An authority or officer to whom  the  relevant  administrative  or  financial  powers 
+have  been  delegated  for  taking  decision  in  a  matter relating to procurement. 
+Commissioner, DoIT&C, GoR in this bidding document. 
+
+Contract/ Procurement 
+Contract 
+
+A contract entered into between the procuring entity and a successful bidder 
+concerning the subject matter of procurement 
+
+Day A calendar day as per GoR/ GoI. 
+
+DOIT&C Department of Information Technology and Communications, Government of 
+Rajasthan. 
+
+FOR/ FOB Free on Board or Freight on Board 
+
+GoI/ GoR Govt. of India/ Govt. of Rajasthan 
+
+Goods 
+
+All articles, material, commodities, electricity, livestock, furniture, fixtures, raw 
+material, spares, instruments, software, machinery, equipment, industrial  plant,  
+vehicles,  aircraft,  ships,  railway rolling  stock     and  any  other  category  of  
+goods, whether in solid, liquid or gaseous form, purchased or otherwise acquired 
+for the use of a procuring entity as  well  as  services  or  works  incidental  to  the 
+supply  of  the  goods  if  the  value  of  services  or works or both does not exceed 
+that of the goods themselves 
+
+ICT Information and Communication Technology. 
+
+IFB 
+Invitation for Bid (A document published by the  procuring  entity  inviting  Bid  
+relating  to  the subject matter of procurement and any amendment thereto and 
+includes notice inviting Bid and request for proposal) 
+
+INR Indian Rupee 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 3 of 57 
+ 
+ 
+
+IT Information Technology 
+
+ITB Instruction to Bidders 
+
+LD Liquidated Damages 
+
+LoI Letter of Intent 
+
+NCB A bidding process in which qualified bidders only from within India are allowed 
+to participate 
+
+NIB Notice Inviting Bid 
+
+Notification A notification published in the Official Gazette 
+
+OEM Original Equipment Manufacturer 
+
+PAN Permanent Account Number 
+
+PBG Performance Bank Guarantee 
+
+PC Procurement/ Purchase Committee 
+
+PQ Pre-Qualification 
+
+Procurement Process 
+The  process  of procurement extending from the issue of invitation to Bid till the 
+award of the procurement contract or cancellation of the procurement process, as 
+the case may be 
+
+Procurement/ Public 
+Procurement 
+
+The acquisition by purchase, lease, license or otherwise of works, goods or 
+services, including award of Public Private Partnership projects, by a procuring 
+entity whether directly or through an agency with which a contract for procurement 
+services is entered into, but does not include any acquisition without consideration, 
+and “procure” or “procured” shall be construed accordingly 
+
+PSD/ SD Performance Security Deposit/ Security Deposit 
+
+Purchaser/ Tendering 
+Authority/ Procuring 
+Entity 
+
+Person or entity that is a recipient of a good or service provided by a seller (bidder) 
+under a purchase order or contract of sale. Also called buyer. DoIT&C, GoR in this 
+RFP document. 
+
+RISL RajCOMP Info Services Limited 
+
+RSDC Rajasthan State Data Centre or any of its wings 
+
+State Government Government of Rajasthan (GoR) 
+
+STQC Standardisation Testing and Quality Certification, Govt. of India 
+
+TPA Third Party Auditors 
+
+GST Goods and Services Tax 
+
+WO/ PO Work Order/ Purchase Order 
+ 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 4 of 57 
+ 
+ 
+
+1. INVITATION FOR BID (IFB) & NOTICE INVITING BID (NIB)  
+F5(1127)/DoIT/Tech/2018 /                                                                                        dated 01.06.2018 
+
+Name & Address of the 
+
+Procuring Entity 
+
+• Name: Commissioner, DoIT&C, GoR 
+• Address: IT Building, Yojana Bhawan Campus, Tilak Marg,C-Scheme, 
+
+Jaipur (Rajasthan) 
+
+Name & Address of the 
+Project Officer In-charge 
+(POIC) 
+
+• Name: Rajeev Gujral 
+• Designation: Sr. Project Officer 
+• Address: IT Building, Yojana Bhawan Campus, Tilak Marg, C-Scheme, 
+
+Jaipur (Rajasthan) 
+Subject Matter of 
+Procurement 
+
+Supply & Installation of Direct Access Storage (DAS) for RSDC 
+
+Bid Procedure 
+Single-stage: two part (envelop) open competitive e-Bid procedure at 
+http://eproc.rajasthan.gov.in 
+
+Bid Evaluation Criteria  
+(Selection Method) 
+
+Lowest evaluated Technically responsive bidder will be awarded the 
+Contract 
+
+Websites for downloading 
+Bidding Document, 
+Corrigendum’s, Addendums 
+etc. 
+
+• Websites: http://sppp.rajasthan.gov.in, http://eproc.rajasthan.gov.in, 
+http://doitc.rajasthan.gov.in 
+
+Fees 
+
+• Bidding document fee: Rs. 5,000 (Rupees Five thousand only) in Cash 
+challan/ Demand Draft/BC in favour of “Technical Director, DoIT&C” 
+payable at “Jaipur”.  
+
+• RISL Processing Fee: Rs. 1,000 (Rupees one thousand only) in Demand 
+Draft/BC in favour of “Managing Director, RISL” payable at “Jaipur”. 
+
+• EMD/Bid Security: Amount (INR): Rs. 5,00,000/- (Rupees Five Lakhs 
+only) [2% of the estimated procurement cost] in the form of DD/BC/BG 
+in favour of “Technical Director, DoIT&C” payable at “Jaipur”.. 
+
+Estimated Procurement 
+Cost 
+
+Rs. 2,50,000,00/- (Rupees Two Crores and Fifty Lakhs only) excl. taxes 
+
+Bid Security and Mode of 
+Payment 
+
+• Mode of Payment: Banker’s Cheque or Demand Draft 
+
+Period of download of 
+Bidding Document (Start/ 
+End Date) 
+
+• 01.06.2018 to 02.07.2018 
+
+Date/ Time/ Place of PreBid 
+Meeting 
+
+• Date: 08.06.2018, 3.30 PM  
+• Place: DoIT&C, Committee Room, Second Floor, IT Building, Yojana 
+
+Bhawan Campus, Tilak Marg, C-Scheme, Jaipur (Rajasthan) 
+• Prebid queries to be emailed in the specified format (in word file format 
+
+only) at proc.cell.doitc@rajasthan.gov.in 
+
+Manner, Start/ End Date for 
+the submission of Bids 
+
+• Manner: Online at e-Procurement website  
+(http://eproc.rajasthan.gov.in) 
+
+• 25.06.2018 to 02.07.2018, 4 PM 
+Submission of Banker’s 
+Cheque/ Demand Draft for 
+Tender Fee, Bid Security, 
+and Processing Fee* 
+
+• Till 02.07.2018, 4 PM 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 5 of 57 
+ 
+ 
+
+Date/ Time/ Place of 
+Technical Bid Opening 
+
+• Date: 02.07.2018, 5:30 PM  
+• Place: DoIT&C, Committee Room, Second Floor, IT Building, Yojana 
+
+Bhawan Campus, Tilak Marg, C-Scheme, Jaipur (Rajasthan) 
+Date/ Time/ Place of 
+Financial Bid Opening 
+
+Will be intimated later to the Technically qualified bidders 
+
+Bid Validity 90 days from the bid opening date 
+ 
+
+Note: 
+1) Bidder (authorised signatory) shall submit their offer on-line in Electronic formats both for technical and financial 
+
+proposal. However, DD for Tender Fees, RISL Processing Fees and Bid Security should be submitted physically at 
+the office of Tendering Authority as prescribed in NIB and scanned copy of same should also be uploaded along 
+with the technical Bid/ cover. 
+
+2) * In case, any of the bidders fails to physically submit the Banker’s Cheque/ Demand Draft for Tender Fee, Bid 
+Security, and RISL Processing Fee up to time and date mentioned in the NIB, its Bid shall not be accepted.  
+
+a. The Banker’s Cheque/ Demand Draft for Bidding document fee and Bid Security should be drawn in 
+favour of “Technical Director, DoIT&C” and  
+
+b. The RISL Processing Fee in favour of “Managing Director, RISL” payable at “Jaipur” from any 
+Scheduled Commercial Bank. 
+
+3) To participate in online bidding process, Bidders must procure a Digital Signature Certificate (Type III) as per 
+Information Technology Act-2000 using which they can digitally sign their electronic bids. Bidders can procure the 
+same from any CCA approved certifying agency, i.e. TCS, Safecrypt, Ncode etc. Bidders who already have a valid 
+Digital Signature Certificate (DSC) need not procure a new DSC. Also, bidders must register on 
+http://eproc.rajasthan.gov.in (bidders already registered on http://eproc.rajasthan.gov.in before 30-09-2011 must 
+register again). 
+
+4) DoIT&C will not be responsible for delay in online submission due to any reason. For this, bidders are requested 
+to upload the complete bid well advance in time so as to avoid 11th hour issues like slow speed; choking of web 
+site due to heavy load or any other unforeseen problems.  
+5) Bidders are also advised to refer "Bidders Manual Kit" available at e-Procurement website for further details 
+
+about the e-Tendering process. 
+6) Training for the bidders on the usage of e-Tendering System (e-Procurement) is also being arranged by DoIT&C 
+
+on a regular basis. Bidders interested for training may contact e-Procurement Cell, DoIT&C for booking the training 
+slot. 
+ Contact No: 0141-4022688 (Help desk 10 am to 6 pm on all working days) 
+ e-mail: eproc@rajasthan.gov.in 
+ Address : e-Procurement Cell, RISL, YojanaBhawan, Tilak Marg, C-Scheme, Jaipur 
+
+7) The procuring entity reserves the complete right to cancel the bid process and reject any or all of the Bids. 
+8) No contractual obligation whatsoever shall arise from the bidding document/ bidding process unless and until a 
+
+formal contract is signed and executed between the procuring entity and the successful bidder. 
+9) Procurement entity disclaims any factual/ or other errors in the bidding document (the onus is purely on the 
+
+individual bidders to verify such information) and the information provided therein are intended only to help the 
+bidders to prepare a logical bid-proposal. 
+
+10)The provisions of RTPPA Act 2012 and Rules thereto shall be applicable for this procurement. Furthermore, in case 
+of any inconsistency in any of the provisions of this bidding document with the RTPP Act 2012 and Rules thereto, 
+the later shall prevail. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 6 of 57 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2. PROJECT PROFILE & BACKGROUND INFORMATION 
+
+1) Project Profile 
+
+a) Government of Rajasthan aims to utilize the benefits of Information Technology to bring about radical 
+
+changes in the way various processes are carried out presently to improve the Accountability, 
+
+Transparency & Effectiveness in Government administration. The ultimate objective is to arm the 
+
+Government with IT enabled systems to assist them in carrying out their day-to-day functions to help 
+
+deliver G2G, G2B and G2E services. 
+
+b) DoITC through RajComp Info Services Ltd. is State level implementing department for various flagship 
+
+core IT infrastructure Projects of the State namely few;  RSDC, RajSWAN, RajNet, Multi-layered 
+
+Security Framework etc. 
+
+c) DoITC is presently using MS-Exchange Server 2016 as its Mailing Solution for hosting Email A/c of 
+
+state govt. employees. Looking to the increasing mailbox capacities and new mailbox creation requests 
+
+from multiple departments the existing storage is 80% populated. Hence, it is proposed to procure and 
+
+deploy dedicated Direct Attached Storage (DAS) for MS-Exchange Mailbox Servers (2 Nos.) in DAG 
+
+Cluster.  
+
+d) The Bidder shall Supply, Install, configure, integrate and commission the devices at RSDC, Jaipur and 
+
+thereafter provide Comprehensive onsite support & maintenance services for a period of Three years 
+
+from the date of commissioning.  
+
+ 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 7 of 57 
+ 
+ 
+
+3. QUALIFICATION/ ELIGIBILITY CRITERIA 
+
+1) A bidder participating in the procurement process shall possess the following minimum pre-qualification/ 
+
+eligibility criteria. 
+
+S. 
+No. 
+
+Basic 
+Requirement 
+
+Specific Requirements Documents Required 
+
+1 Legal Entity  
+  
+
+The bidder should be a Proprietorship firm duly 
+registered either under the Rajasthan Shops & 
+Commercial Establishments Act, 1958 or any 
+other Act of State/ Union, as applicable for dealing 
+in the subject matter of procurement 
+(Note: A self-certified declaration regarding the 
+non-applicability of registration to any Act should 
+be submitted by the bidder) 
+
+OR 
+A company registered under Indian Companies 
+Act, 1956  
+
+OR 
+A partnership firm registered under Indian 
+Partnership Act, 1932.  
+
+OR 
+Limited Liability Partnership firm registered 
+under Limited Liability Partnership Act, 2008. 
+
+Copy of valid 
+Registration Certificate 
+
+2 Financial 
+Turnover, Net 
+Worth & Other 
+documents 
+
+1. Average Annual Turnover from IT/ITeS for 
+last three financial years i.e. 2014-15 to 2016-
+17 (as per the published audited balance 
+sheets) should be at least equal to estimated 
+cost of procurement.  
+
+2. The net worth of the bidder, as on 31/03/2017 
+should be Positive. 
+
+3. Copy of PAN Card 
+4. Copy of GST Registration 
+
+CA Certificate with CA’s 
+Registration Number/ 
+Seal  
+ 
+ 
+ 
+Relevant documents 
+
+4 Technical 
+Capability  
+
+The bidder must have successfully completed 
+supply order of IT Infrastructure amounting to not 
+less than Rs. 2 Crores. The order date should be on 
+or after 01.04.2014. 
+ 
+
+Copies of supply order & 
+its installation document 
+
+Or 
+Copies of supply order & 
+its work completion 
+certificate 
+
+5 Mandatory Undertaking A Self Certified letter as 
+per Annexure-4: Self-
+Declaration  
+
+6 Certification of bidder - Copy of a valid ISO 
+9001:2008 (or 
+latest) certificate  
+
+- Copy of a valid ISO 
+27001:2013 (or 
+latest) certificate 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 8 of 57 
+ 
+ 
+
+4. SCOPE OF WORK, DELIVERABLES & TIMELINES 
+
+1) Details of work (SoW) 
+
+DoITC invites proposals for Supply, Installation & Maintenance of Direct Access Storage (DAS) for RSDC 
+
+(details as per Annexure-1: Bill of Material and Annexure-2: Technical Specifications) for a period of Three 
+
+Years.  
+
+Bidder shall: -  
+
+A. Supply, Installation, Support & Maintenance and Training 
+i. Supply items as per Annexure-1: Bill of Material and Annexure-2: Technical Specifications. 
+
+ii. Install & Integrate the supplied items at RSDC, Jaipur and obtain installation certificate for it from 
+
+the designated officer(s).  
+
+The purchaser may change the installation location at a later stage.  
+
+iii. Bidder shall arrange OEM Taining on the administration and usage of the supplied/ installed devices 
+
+(End to End) to designated officers of DoIT&C/ RISL after installation of the deliverables. The 
+
+training to be provided shall be of 2 days duration and schedule for the same shall be given by the 
+
+purchaser. The bidder shall provide the related training materials in hard & soft copy to all the 
+
+participants (tentatively 15).  
+
+B. Operations & Maintenance for a Period of Three Years from the Date of Installation 
+i. Bidder shall be responsible for providing updates, patches & upgrades to the solution for 3 years 
+
+from the date of supply/installation and as and when released by OEM. 
+
+ii. Bidder shall be responsible for providing warranty services for 3 years from the date of 
+
+supply/installation and as and when released by OEM. 
+
+ 
+2) Project Deliverables, Milestones & Time Schedule  
+
+S. 
+No. 
+
+Project Activity/ Scope of 
+Work 
+
+Deliverables 
+(Reports/ Docs./ Infra.) 
+
+Timelines  
+
+1.  Completion of Activity as 
+mentioned in section 4. (1)-A 
+(as above) 
+
+i. Delivery Challan 
+ii. Installation Report 
+iii. OEM Warranty certificate  
+
+Within 60 days from the 
+date of issuance of work 
+order 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 9 of 57 
+ 
+ 
+
+5. INSTRUCTION TO BIDDER (ITB) 
+
+1) Downloading of Bidding/ Tender Documents 
+
+a) The bidding documents shall be available from the date of publication of NIB and shall be stopped as 
+
+per NIB. The complete bidding document shall also be placed on the SPPP and e-Procurement portal. 
+
+The Bidder shall be permitted to download the bidding document from the websites. 
+
+2) Pre-bid Clarifications 
+
+a) As  per NIT 
+
+b) Prospective bidder shall attend the pre-bid meeting after submission of Bid document fees as per NIT  
+
+3) Changes in the Bidding Document 
+
+a) At any time, prior to the deadline for submission of  Bid, the procuring entity may for any reason,  
+
+whether on its own initiative or as a result of a request for clarification by bidder/authorised partner, 
+
+modify the bidding documents by issuing an addendum in accordance with the provisions below. 
+
+b) In case, any modification is made to the bidding document or any clarification is issued which materially 
+
+affects the terms contained in the bidding document, the procuring entity shall publish such modification 
+
+or clarification in the same manner as the publication of the initial bidding document. 
+
+c) In case, a clarification or modification is issued to the bidding document, the procuring entity may, prior 
+
+to the last date for submission of Bid, extend such time limit in order to allow the bidder sufficient time 
+
+to take into account the clarification or modification, as the case may be, while submitting their Bid. 
+
+d) Bidder/authorised partner, who has submitted his Bid in response to the original invitation, shall have 
+
+the opportunity to modify or re-submit it, as the case may be, within the period of time originally allotted 
+
+or such extended time as may be allowed for submission of Bid, when changes are made to the bidding 
+
+document by the procuring entity; provided that the Bid last submitted or the Bid as modified by the 
+
+bidder shall be considered for evaluation. 
+
+4) Period of Validity of Bid 
+
+a) Bid submitted by the bidder shall remain valid during the period specified in the NIB/ bidding 
+
+document. A Bid valid for a shorter period shall be rejected by the procuring entity as non-responsive 
+
+Bid. 
+
+b) Prior to the expiry of the period of validity of Bid, the procuring entity, in exceptional circumstances, 
+
+may request the bidder to  extend  the  bid  validity  period  for  an  additional specified period of  time. 
+
+The Bidder may refuse the request and such refusal shall be treated as withdrawal of Bid and in such 
+
+circumstances bid security, if applicable shall not be forfeited. 
+
+5) Format and Signing of Bid 
+
+a) Bidder must submit their Bid online at e-Procurement portal i.e. http://eproc.rajasthan.gov.in. 
+
+b) All the documents uploaded should be digitally signed with the DSC of authorized signatory and 
+
+uploaded only in PDF format with clear readability and prescribed filename as mentioned in the table 
+
+below. 
+
+c) A Single stage-Two part/ cover system shall be followed for the Bid: - 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 10 of 57 
+ 
+ 
+
+a. Technical Bid, including fee details, eligibility & technical documents 
+
+b. Financial Bid 
+
+d) The technical bid shall consist of the following documents: - 
+
+S. No. Documents Type Document Format 
+Fee Details 
+
+1.  RISL Processing Fee (e-Procurement Instrument/ Proof of submission 
+Eligibility Documents 
+
+2.  Bidder’s Authorisation Certificate As per Annexure-3 and copy of 
+PoA/ Board resolution stating that 
+Auth. Signatory (DSC holder) can 
+sign the bid/ contract on behalf of 
+the firm. 
+
+3.  All the documents mentioned in the “Eligibility 
+Criteria”, in support of the eligibility 
+
+As per the format mentioned 
+against the respective eligibility 
+criteria clause 
+
+Documents 
+4.  Self-Declaration, Certificate of Conformity/ 
+
+No Deviation and Declaration by Bidders 
+As per Annexure-4 
+
+5.  Manufacturer’s Authorisation Form (MAF) As per Annexure-5 
+6.  Undertaking on Authenticity of Comp. Equip. As per Annexure-6  
+7.  Components Offered + Technical specifications 
+
+compliance sheet for all items only on OEM’s 
+letter-head 
+
+As per Annexure-7 
+
+Note: Please note that the bidder shall not upload Seal and Signed copy of RFP Document on the 
+eProc. 
+
+b) Financial bid shall include the following documents: - 
+
+S. No. Documents Type Document Format 
+1.  Financial Bid - Format As per BoQ (.XLS) format available on e-Procurement 
+
+portal 
+ 
+
+c) The Bidder should ensure that all the required documents, as mentioned in this bidding document, are 
+
+submitted along with the Bid and in the prescribed format only. Non-submission of the required 
+
+documents or submission of the documents in a different format/ contents may lead to the rejections of 
+
+the Bid submitted by the bidder/authorised partner. 
+
+6) Cost & Language of Bidding 
+
+a) The bidder shall bear all costs associated with the preparation and submission of its Bid, and the 
+
+procuring entity shall not be responsible or liable for those costs, regardless of the conduct or outcome 
+
+of the bidding process. 
+
+b) The Bid, as well as all correspondence and documents relating to the Bid exchanged by the bidder and 
+
+the procuring entity, shall be written only in English Language. Supporting documents and printed 
+
+literature that are part of the Bid may be in another language provided they are accompanied by an 
+
+accurate translation of the relevant passages in English/ Hindi language, in which case, for purposes of 
+
+interpretation of the Bid, such translation shall govern. 
+
+ 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 11 of 57 
+ 
+ 
+
+7) Deadline for the submission of Bid 
+
+a) Bid shall be received online at e-Procurement portal and up to the time and date specified in the NIB. 
+
+b) Normally, the date of submission and opening of Bid would not be extended. In exceptional 
+
+circumstances or when the bidding document are required to be substantially modified as a result of 
+
+discussions in pre-bid meeting/ conference or otherwise and the time with the prospective Bidder for 
+
+preparation of Bid appears insufficient, the date may be extended by the procuring entity. In such case 
+
+the publicity of extended time and date shall be given in the manner, as was given at the time of issuing 
+
+the original NIB and shall also be placed on the State Public Procurement Portal, if applicable. It would 
+
+be ensured that after issue of corrigendum, reasonable time is available to the bidder for preparation 
+
+and submission of their Bid. The procuring entity shall also publish such modifications in the bidding 
+
+document in the same manner as the publication of initial bidding document. If, in the office of the Bid 
+
+receiving and opening authority, the last date of submission or opening of Bid is a non-working day, 
+
+the Bid shall be received or opened on the next working day. 
+
+ 
+
+8) Withdrawal, Substitution, and Modification of Bid 
+
+a) If permitted on e-Procurement portal, a bidder may withdraw its Bid or re-submit its Bid (technical and/ 
+
+or financial cover) as per the instructions/ procedure mentioned at e-Procurement website under the 
+
+section "Bidder's Manual Kit". 
+
+b) Bid withdrawn shall not be opened and processes further. 
+
+c) No bid shall be withdrawn, substituted, or modified after the last time and date fixed for receipt of Bid. 
+
+9) Opening of Bid 
+
+a) The Bid shall be opened by the bid opening & evaluation committee on the date and time mentioned in 
+
+the NIB in the presence of the bidder or their authorised representatives who choose to be present.  
+
+b) The committee may co-opt experienced persons in the committee to conduct the process of Bid opening. 
+
+c) The committee shall prepare a list of the bidder or their representatives attending the opening of Bid 
+
+and obtain their signatures on the same. The list shall also contain the representative’s name and 
+
+telephone number and corresponding bidders’ names and addresses. The authority letters, if any, 
+
+brought by the representatives shall be attached to the list. The list shall be signed by all the members 
+
+of Bid opening committee with date and time of opening of the Bid. 
+
+d) All the documents comprising of technical Bid/ cover shall be opened & downloaded from the e-
+
+Procurement website (only for the bidder who have submitted the prescribed fee(s) to RISL). 
+
+e) The committee shall conduct a preliminary scrutiny of the opened technical Bid to assess the prima-
+
+facie responsiveness and ensure that the: - 
+
+a. bid is accompanied by processing fee (if applicable); 
+
+b. bid is valid for the period, specified in the bidding document; 
+
+c. bid is unconditional and the bidder has agreed to give the required performance security; and 
+
+d. other conditions, as specified in the bidding document are fulfilled. 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 12 of 57 
+ 
+ 
+
+e. any other information which the committee may consider appropriate. 
+
+f) No Bid shall be rejected at the time of Bid opening except the Bid not accompanied with the proof of 
+
+payment or instrument of the required processing fee. 
+
+g) The Financial Bid cover shall be kept unopened and shall be opened later on the date and time intimated 
+
+to the bidder who qualify in the evaluation of technical Bid. 
+
+10) Selection Method: The Lowest financially evaluated & technically responsive bidder shall be selected for 
+
+award of contract. 
+
+11) Clarification of Bid 
+
+a) To assist in the examination, evaluation, comparison and qualification of the Bid, the bid evaluation 
+
+committee may, at its discretion, ask Bidder for a clarification regarding its Bid. The committee’s 
+
+request for clarification and the response of the bidder shall be through the e-Procurement portal. 
+
+b) Any clarification submitted by Bidder with regard to its Bid that is not in response to a request by the 
+
+committee shall not be considered. 
+
+c) No change in the prices or substance of the Bid shall be sought, offered, or permitted, except to confirm 
+
+the correction of arithmetic errors discovered by the committee in the evaluation of the financial Bid. 
+
+d) No substantive change to qualification information or to a submission, including changes aimed at 
+
+making unqualified bidder/authorised partner, qualified or an unresponsive submission, responsive 
+
+shall be sought, offered or permitted. 
+
+12) Evaluation & Tabulation of Technical Bid 
+
+a) Determination of Responsiveness 
+a. The bid evaluation committee shall determine the responsiveness of a Bid on the basis of bidding 
+
+document and the provisions of criteria as mentioned in the bidding document. 
+
+b. A responsive Bid is one that meets the requirements of the bidding document without any material 
+
+deviation, reservation, or omission where: - 
+
+i. “deviation” is a departure from the requirements specified in the bidding document; 
+
+ii. “reservation” is the setting of limiting conditions or withholding from complete acceptance  of 
+
+the requirements specified in the bidding document; and 
+
+iii. “Omission” is the failure to submit part or all of the information or documentation required in 
+
+the bidding document. 
+
+c. A material deviation, reservation, or omission is one that,  
+
+i. if accepted, shall:- 
+
+1. affect in any substantial way the scope, quality, or performance of the subject matter   of 
+
+procurement specified in the bidding documents; or 
+
+2. limits in any substantial way, inconsistent with the bidding documents, the procuring 
+
+entity’s rights or the bidder’s obligations under the proposed contract; or 
+
+ii. if rectified, shall unfairly affect the competitive position of other bidders presenting responsive 
+
+Bid, if applicable. 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 13 of 57 
+ 
+ 
+
+d. The bid evaluation committee shall examine the technical aspects of the Bid in particular, to confirm 
+
+that all requirements of bidding document have been met without any material deviation, 
+
+reservation or omission. 
+
+e. The procuring entity shall regard a Bid as responsive if it conforms to all requirements set out in 
+
+the bidding document, or it contains minor deviations that do not materially alter or depart from the 
+
+characteristics, terms, conditions and other requirements set out in the bidding document, or if it 
+
+contains errors or oversights that can be corrected without touching on the substance of the Bid. 
+
+b) Non-material Non-conformities in Bid 
+a. The bid evaluation committee may waive any non-conformities in the Bid that do not   constitute a 
+
+material deviation, reservation or omission, the Bid shall be deemed to be substantially responsive. 
+
+b. The bid evaluation committee may request the bidder to submit the necessary information or 
+
+document like audited statement of accounts/ CA Certificate, Registration Certificate, GST/VAT/ 
+
+CST clearance certificate, ISO/ CMMi Certificates, etc. within a  reasonable period of time. Failure 
+
+of the Bidder to comply with the request may result in the rejection of its Bid. 
+
+c. The bid evaluation committee may rectify non-material nonconformities or omissions on the basis 
+
+of the information or documentation received from the bidder under (b) above. 
+
+c) Technical Evaluation Criteria: Bid shall be evaluated based on the compliance of the documents 
+submitted in the technical bid. 
+
+d) Tabulation of Technical Bid 
+a. If Technical Bid has been invited, they shall be tabulated by the bid evaluation committee to 
+
+evaluate the qualification of the Bidder against the criteria for qualification set out in the bidding 
+
+document.  
+
+b. The members of bid evaluation committee shall give their recommendations regarding meeting of 
+
+bidder in required qualification in evaluation of Technical Bid and sign it. 
+
+e) The bidder/authorised partner, if qualified in the technical evaluation shall be informed in writing about 
+
+the date, time and place of opening of the financial Bid.  
+
+13) Evaluation & Tabulation of Financial Bid: Subject to the provisions of “Acceptance of Successful Bid 
+
+and Award of Contract” below, the procuring entity shall take following actions for evaluation of financial 
+
+Bid:- 
+
+a) The financial Bid of the Bidder (if qualified in technical evaluation) shall be opened online at the 
+
+notified time, date and place by the bid evaluation committee in the presence of the bidder or their 
+
+representatives who choose to be present; 
+
+b) the process of opening of the financial Bid shall be similar to that of technical Bid. 
+
+c) the names of the bidder , the rates given and conditions put, if any, shall be read out and recorded; 
+
+d) conditional Bid is liable to be rejected; 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 14 of 57 
+ 
+ 
+
+e) the evaluation shall include all costs and all taxes and duties applicable to the bidder as per law of the 
+
+Central/ State Government/ Local Authorities, and the evaluation criteria specified in the bidding 
+
+documents shall only be applied; 
+
+f) it shall be ensured that the offer recommended for sanction is justifiable looking to the prevailing market 
+
+rates of the goods, works or service required to be procured. 
+
+14) Correction of Arithmetic Errors in Financial Bid: The bid evaluation committee shall correct 
+
+arithmetical errors in substantially responsive Bid, on the following basis, namely: - 
+
+a) if there is a discrepancy between the unit price and the total price that is obtained by multiplying the 
+
+unit price and quantity, the unit price shall prevail and the total price shall be corrected, unless in the 
+
+opinion of the bid evaluation committee there is an obvious misplacement of the decimal point in the 
+
+unit price, in which case the total price as quoted shall govern and the unit price shall be corrected; 
+
+b) if there is an error in a total corresponding to the addition or subtraction of subtotals, the subtotals shall 
+
+prevail and the total shall be corrected; and 
+
+c) if there is a discrepancy between words and figures, the amount in words shall prevail, unless the 
+
+amount expressed in words is related to an arithmetic error, in which case the amount in figures shall 
+
+prevail subject to clause (a) and (b) above. 
+
+15) Price/ purchase preference  
+
+Price and/ or purchase preference (including bidding document fees, EMD and Performance Security) 
+
+notified by the State Government (GoR), Price preference policy for MSME enterprise (as per new circular 
+
+on Nov. 19, 2015) & any other notification issued by GoR for price preference and as mentioned in the 
+
+bidding document shall be considered in the evaluation of Bids and award of Rate contract. 
+
+16) Negotiations 
+
+a) Except in case of procurement by method of single source procurement or procurement by competitive 
+
+negotiations, to the extent possible, no negotiations shall be conducted after the pre-bid stage. All 
+
+clarifications needed to be sought shall be sought in the pre-bid stage itself. 
+
+b) Negotiations may, however, be undertaken when the rates are considered to be much higher than the 
+
+prevailing market rates. 
+
+c) The bid evaluation committee shall have full powers to undertake negotiations. Detailed reasons and 
+
+results of negotiations shall be recorded in the proceedings. 
+
+d) The Bidder shall be informed in writing either through messenger or by registered letter and e-mail (if 
+
+available). A minimum time of seven days shall be given for calling negotiations. In case of urgency 
+
+the bid evaluation committee, after recording reasons, may reduce the time, provided the Bidder has 
+
+received the intimation and consented to regarding holding of negotiations. 
+
+e) Negotiations shall not make the original offer made by the bidder inoperative. The bid evaluation 
+
+committee shall have option to consider the original offer in case the bidder decides to increase rates 
+
+originally quoted or imposes any new terms or conditions. 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 15 of 57 
+ 
+ 
+
+f) In case of non-satisfactory achievement of rates from bidder/authorised partner, the bid evaluation 
+
+committee may choose to make a written counter offer to the bidder and if this is not accepted by him, 
+
+the committee may decide to reject and re-invite Bid. 
+
+g) In case the rates even after the negotiations are considered very high, fresh Bid shall be invited. 
+
+17) Exclusion of Bid/ Disqualification 
+
+a) A procuring entity shall exclude/ disqualify a Bid, if: - 
+
+a. the information submitted, concerning the qualifications of the bidder/authorised partner, was false 
+
+or constituted a misrepresentation; or 
+
+b. the information submitted, concerning the qualifications of the bidder/authorised partner, was 
+
+materially inaccurate or incomplete; and  
+
+c. the bidder is not qualified as per pre-qualification/ eligibility criteria mentioned in the bidding 
+
+document; 
+
+d. the Bid materially departs from the requirements specified in the bidding document or it contains 
+
+false information; 
+
+e. the bidder/authorised partner, submitting the Bid, his agent or any one acting on his behalf, gave or 
+
+agreed to give, to any officer or employee of the procuring entity or other governmental authority 
+
+a gratification in any form, or any other thing of value, so as to unduly influence the procurement 
+
+process; 
+
+f. a bidder/authorised partner, in the opinion of the procuring entity, has a conflict of interest 
+
+materially affecting fair competition. 
+
+b) A Bid shall be excluded/ disqualified as soon as the cause for its exclusion/ disqualification is 
+
+discovered. 
+
+c) Every decision of a procuring entity to exclude a Bid shall be for reasons to be recorded in writing and 
+
+shall be: - 
+
+a. communicated to the bidder in writing;  
+
+b. published on the State Public Procurement Portal, if applicable. 
+
+18) Acceptance of the successful Bid and award of contract 
+
+a) The procuring entity after considering the recommendations of the bid evaluation committee and the 
+
+conditions of Bid, if any, financial implications, trials, sample testing and test reports, etc., shall accept 
+
+or reject the successful Bid. If any member of the bid evaluation committee, has disagreed or given its 
+
+note of dissent, the matter shall be referred to the next higher authority, as per delegation of financial 
+
+powers, for decision. 
+
+b) Decision on Bid shall be taken within original validity period of Bid and time period allowed to 
+
+procuring entity for taking decision. If the decision is not taken within the original validity period or 
+
+time limit allowed for taking decision, the matter shall be referred to the next higher authority in 
+
+delegation of financial powers for decision. 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 16 of 57 
+ 
+ 
+
+c) Before award of the contract, the procuring entity shall ensure that the price of successful Bid is 
+
+reasonable and consistent with the required quality. 
+
+d) A Bid shall be treated as successful only after the competent authority has approved the procurement in 
+
+terms of that Bid. 
+
+e) The procuring entity shall award the contract to the bidder whose offer has been determined to be the 
+
+lowest or most advantageous in accordance with the evaluation criteria set out in the bidding document 
+
+and if the bidder has been determined to be qualified to perform the contract satisfactorily on the basis 
+
+of qualification criteria fixed for the bidder in the bidding document for the subject matter of 
+
+procurement. 
+
+f) Prior to the expiration of the period of bid validity, the procuring entity shall inform the successful 
+
+bidder/authorised partner, in writing, that its Bid has been accepted. 
+
+g) As soon as a Bid is accepted by the competent authority, its written intimation shall be sent to the 
+
+concerned bidder by registered post or email and asked to execute an agreement in the format given in 
+
+the bidding documents on a non-judicial stamp of requisite value and deposit the amount of performance 
+
+security or a performance security declaration, if applicable, within  a period specified in the bidding 
+
+documents or where the period is not specified in the bidding documents then within fifteen days from 
+
+the date on which the letter of acceptance or letter of intent is dispatched to the bidder/authorised 
+
+partner. 
+
+h) If the issuance of formal letter of acceptance is likely to take time, in the meanwhile a Letter of Intent 
+
+(LOI) may be sent to the bidder. The acceptance of an offer is complete as soon as the letter of 
+
+acceptance or letter of intent is posted and/ or sent by email (if available) to the  address of the bidder 
+
+given in the bidding document. Until a formal contract is executed, the letter of acceptance or LOI shall 
+
+constitute a binding contract. 
+
+i) After the contract, contract /agreement with the successful bidder is signed and its performance security 
+
+is obtained. 
+
+19) Information and publication of award: Information of award of contract shall be communicated to Bidder 
+
+and published on the respective website(s) as specified in NIB. 
+
+20) Procuring entity’s right to accept or reject Bid: The Procuring entity reserves the right to accept or reject 
+
+Bid, and to annul (cancel) the bidding process and reject Bid at any time prior to award of contract, without 
+
+thereby incurring any liability to the bidder/authorised partner. 
+
+21) Right to vary quantity 
+
+a) If the procuring entity does not procure any subject matter of procurement or procures less than the 
+
+quantity specified in the bidding  documents  due  to  change  in  circumstances,  the  bidder shall  not  
+
+be  entitled  for  any  claim  or  compensation. 
+
+b) Repeat orders for extra items or additional quantities may be placed on the rates and conditions given 
+
+in the contract (if the original order was given after inviting open competitive Bids). Delivery or 
+
+completion period may also be proportionately increased.  
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 17 of 57 
+ 
+ 
+
+The limits of repeat order shall be as under: - 
+
+a. 50% of the quantity of the individual items and 50% of the value of original contract in case of 
+
+works; and 
+
+b. 50% of the value of goods or services of the original contract. 
+
+22) Performance Security 
+
+a) Prior to execution of agreement, Performance security shall be solicited from successful bidder except 
+
+the departments of the State Government and undertakings, corporations, autonomous bodies, registered 
+
+societies, co-operative societies which are owned or controlled or managed by the State Government 
+
+and undertakings of the Central Government. However, a performance security declaration shall be 
+
+taken from them. The State Government may relax the provision of performance security in particular 
+
+procurement or any class of procurement.  
+
+b) The amount of performance security shall be 5 %, of the amount of supply/work order in case of 
+
+procurement of goods and services. In case of Small Scale Industries (SSI) of Rajasthan, it shall be 1% 
+
+of the amount of quantity ordered for supply of goods and in case of sick industries, other than SSI, 
+
+whose cases are pending before the Board of Industrial and Financial Reconstruction (BIFR), it shall 
+
+be 2% of the amount of supply order. 
+
+c) Performance security shall be furnished in any one of the following forms: - 
+
+a. Bank Draft or Banker's Cheque of a scheduled bank; 
+
+b. National    Savings    Certificates    and    any    other script/ instrument under National  Savings 
+
+Schemes for promotion of small savings issued by a Post Office in Rajasthan, if the same can 
+
+be pledged under the relevant rules. They shall be accepted at their surrender value at the time 
+
+of bid and formally transferred in the name of procuring entity with the approval of Head Post 
+
+Master; 
+
+c. Bank guarantee/s of a scheduled bank. It shall be got verified from the issuing bank. Other 
+
+conditions regarding bank guarantee shall be same as mentioned in the bidding document for 
+
+bid security; 
+
+d. Fixed Deposit Receipt (FDR) of a scheduled bank. It shall be in the name of procuring entity 
+
+on account of bidder and discharged by the bidder in advance. The procuring entity shall ensure 
+
+before accepting the FDR that the bidder furnishes an undertaking from the bank to make 
+
+payment/ premature payment of the FDR on demand to the procuring entity without 
+
+requirement of consent of the bidder concerned. In the event of forfeiture of the performance 
+
+security, the Fixed Deposit shall be forfeited along with interest earned on such Fixed Deposit. 
+
+d) Performance security furnished in the form specified in clause [b.] to [d.] of (c) above shall remain valid 
+
+for a period of 60 days beyond the date of completion of all contractual obligations of the 
+
+bidder/authorised partner, including warranty obligations and maintenance and defect liability period. 
+
+e) Forfeiture of Security Deposit: Security amount in full or part may be forfeited, including interest, if 
+
+any, in the following cases:- 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 18 of 57 
+ 
+ 
+
+a. When any terms and condition of the contract is breached. 
+
+b. When the bidder fails to make complete supply satisfactorly as per the scope of tender 
+
+document. 
+
+c. if the bidder breaches any provision of code of integrity, prescribed for bidder/authorised 
+
+partner, specified in the bidding document. 
+
+f) Notice will be given to the bidder with reasonable time before PSD deposited is forfeited.  
+
+g) No interest shall be payable on the PSD. 
+
+h) The PSD shall be returned/ refunded after completion of the Contract period. 
+
+23) Execution of agreement 
+
+a) A procurement contract shall come into force from the date on which Agreement is signed. 
+
+b) The successful bidder shall sign the procurement contract within 10 days from the date on which the 
+
+letter of acceptance or letter of intent is despatched to the successful bidder. 
+
+c) If the bidder/authorised partner, who’s Bid has been accepted, fails to sign a written procurement 
+
+contract or fails to furnish the required performance security within specified period, the procuring 
+
+entity shall take action against the successful bidder as per the provisions of the bidding document and 
+
+Act. The procuring entity may, in such case, cancel the procurement process or if it deems fit in 
+
+accordance with the criteria and procedures set out in the bidding document. 
+
+d) The bidder will be required to execute the agreement on a non-judicial stamp of specified value at its 
+
+cost and to be purchased from anywhere in Rajasthan only. 
+
+24) Confidentiality 
+
+a) Notwithstanding anything contained in this bidding document but subject to the provisions of any other 
+
+law for the time being in force providing for disclosure of information, a procuring entity shall not 
+
+disclose any information if such disclosure, in its opinion, is likely to: - 
+
+a. impede enforcement of any law; 
+
+b. affect the security or strategic interests of India;  
+
+c. affect  the  intellectual property rights or legitimate commercial interests of bidders; 
+
+d. affect the legitimate commercial interests of the procuring entity in situations that may include when 
+
+the procurement relates to a project in which the procuring entity is to make a competitive bid, or 
+
+the intellectual property rights of the procuring entity. 
+
+b) The procuring entity shall treat all communications with bidder related to the procurement process in 
+
+such manner as to avoid their disclosure to competing bidders or to any other person not authorised to 
+
+have access to such information. 
+
+c) The procuring entity may impose on bidder and sub-contractors, if there are any for fulfilling the terms 
+
+of the procurement contract, conditions aimed at protecting information, the disclosure of which 
+
+violates (a) above. 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 19 of 57 
+ 
+ 
+
+d) In addition to the restrictions specified above, the procuring entity, while procuring a subject matter of 
+
+such nature which requires the procuring entity to maintain confidentiality, may impose condition for 
+
+protecting confidentiality of such information. 
+
+25) Cancellation of procurement process 
+
+a) If any procurement process has been cancelled, it shall not be reopened but it shall not prevent the 
+
+procuring entity from initiating a new procurement process for the same subject matter of procurement, 
+
+if required. 
+
+b) A procuring entity may, for reasons to be recorded in writing, cancel the process of procurement 
+
+initiated by it - 
+
+a. at any time prior to the acceptance of the successful Bid; or 
+
+b. after the  successful  Bid is  accepted  in  accordance with (d) and (e) below. 
+
+c) The procuring entity shall not open any Bid or proposals after taking a decision to cancel the 
+
+procurement and shall return such unopened Bid or proposals. 
+
+d) The decision of the procuring entity to cancel the procurement and reasons for such decision shall be 
+
+immediately communicated to bidder/authorised partner. 
+
+e) If the bidder who’s Bid has been accepted as successful fails to sign any written procurement contract 
+
+as required, or fails to provide any required security for the performance of the contract, the procuring 
+
+entity may cancel the procurement process. 
+
+f) If a bidder is convicted of any offence under the Act, the procuring entity may: - 
+
+a. cancel the relevant procurement process if the Bid of the convicted bidder has been declared as 
+
+successful but no procurement contract has been entered into; 
+
+b. rescind (cancel)  the relevant contract or forfeit the payment of all or a part of the contract value if 
+
+the procurement contract has been entered into between the procuring entity and the convicted 
+
+bidder/authorised partner. 
+
+26) Code of Integrity for Bidders 
+
+a) No person participating in a procurement process shall act in contravention of the code of integrity 
+
+prescribed by the State Government. 
+
+b) The code of integrity include provisions for: - 
+
+a. Prohibiting 
+
+i. any  offer,  solicitation  or  acceptance  of  any bribe, reward or gift or any material benefit, 
+
+either directly or indirectly, in exchange for an unfair advantage in the procurement process 
+
+or to otherwise influence the procurement process; 
+
+ii. any omission,  including  a  misrepresentation that misleads or attempts to mislead so as to 
+
+obtain a financial or other benefit or avoid an obligation; 
+
+iii. any collusion, bid rigging or anti-competitive behaviour to impair the transparency, fairness 
+
+and progress of the procurement process; 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 20 of 57 
+ 
+ 
+
+iv. improper use of information shared between the procuring entity and the bidder with an intent 
+
+to gain unfair advantage in the procurement process or for personal gain; 
+
+v. any financial or business transactions between the bidder and any officer or employee of the 
+
+procuring entity; 
+
+vi. any coercion including impairing or harming or threatening to do the same, directly or 
+
+indirectly, to any party or to its property to influence the procurement process; 
+
+vii. any obstruction of any investigation or audit of a procurement process; 
+
+b. disclosure of conflict of interest; 
+
+c. disclosure by the bidder of any previous transgressions with any entity in India or any other country 
+
+during the last three years or of any debarment by any other procuring entity. 
+
+c) Without prejudice to the provisions below, in case of any breach of the code of integrity by bidder or 
+
+prospective bidder/authorised partner, as the case may be, the procuring entity may take appropriate 
+
+measures including: - 
+
+a. exclusion of  the bidder from  the  procurement process; 
+
+b. calling-off of pre-contract negotiations and forfeiture or encashment of bid security; 
+
+c. forfeiture or encashment of any other security or bond relating to the procurement; 
+
+d. recovery of payments made by the procuring entity along with interest thereon at bank rate; 
+
+e. cancellation of the relevant contract and recovery of compensation for loss incurred by the 
+
+procuring entity; 
+
+f. debarment of the bidder from participation in future procurements of the procuring entity for a 
+
+period not exceeding three years. 
+
+27) Conflict of Interest: A bidder may be considered to be in conflict of interest with one or more parties in a 
+
+bidding process if, including but not limited to:- 
+
+a) they have controlling partners in common; 
+
+b) they receive or have received any direct or indirect subsidy from any of  them; 
+
+c) they have the same legal representative for purposes of the bid; 
+
+d) they have a relationship with each other, directly or through common third parties, that puts them in a 
+
+position to have access to information about or influence on the bid of another; 
+
+e) A bidder participates in more than one bid in the same bidding process. However, this does not limit 
+
+the inclusion of the same sub-contractor, not otherwise participating as bidder/authorised partner, in 
+
+more than one bid; or 
+
+f) A bidder or any of its affiliates participated as a consultant in the preparation of the design or technical 
+
+specifications of the subject matter of procurement of the bidding process. All bidder shall provide in 
+
+Eligibility Criteria documents, a statement that the bidder is neither associated nor has been associated 
+
+directly or indirectly, with the consultant or any other   entity   that   has   prepared   the   design, 
+
+specifications and other documents for the subject matter of procurement or being proposed as Project 
+
+Manager for the contract. 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 21 of 57 
+ 
+ 
+
+28) Interference with Procurement Process: A bidder/authorised partner, who: - 
+
+a) withdraws from the procurement process after opening of financial bid; 
+
+b) withdraws  from  the  procurement  process  after being declared the successful bidder/authorised 
+
+partner; 
+
+c) fails to enter into procurement contract after being declared the successful bidder/authorised partner; 
+
+d) fails to provide performance security or any other document or security required in terms of the 
+
+bidding documents   after   being   declared   the successful bidder/authorised partner, without valid 
+
+grounds,  
+
+shall,   in   addition   to   the   recourse   available   in   the   bidding document  or  the  contract,  be  
+
+punished  with  fine  which  may extend to fifty lakh rupees or ten per cent of the assessed value of 
+
+procurement, whichever is less. 
+
+29) Appeals 
+
+a) Subject to “Appeal not to lie in certain cases” below, if any bidder or prospective  bidder is aggrieved 
+
+that any decision, action or omission of the  procuring  entity  is  in  contravention  to  the provisions of 
+
+the Act or the rules or guidelines issued there-under, he may file an appeal to such officer of the 
+
+procuring entity, as may be designated by it for the purpose, within a period of 10 days from the date 
+
+of such decision or action, omission, as the case may be, clearly giving the specific ground or grounds 
+
+on which he feels aggrieved: 
+
+a. Provided that after the declaration of bidder as successful in terms of “Award of Contract”, the 
+
+appeal may be filed only by bidder who has participated in procurement proceedings: 
+
+b. Provided further that in case a procuring entity evaluates the technical Bid before the opening of 
+
+the financial Bid, an appeal related to the matter of financial Bid may be filed only by bidder whose 
+
+technical Bid is found to be acceptable. 
+
+b) The officer to whom an appeal is filed under (a) above shall deal with the appeal as expeditiously as 
+
+possible and shall endeavour to dispose it of within 30 days from the date of filing of the appeal. 
+
+c) If the officer designated under (a) above fails to dispose of the appeal filed under that sub-section within 
+
+the period specified in (b) above, or if the Bidder or prospective bidder or the procuring entity is 
+
+aggrieved by the order passed, the bidder or prospective Bidder or the procuring entity, as the case may 
+
+be, may file a second appeal to an officer or authority designated by the State Government in this behalf 
+
+within 15 days from the expiry of the period specified in (b) above or of the date of receipt of the order 
+
+passed under (b) above, as the case may be. 
+
+d) The officer or authority to which an appeal is filed under (c) above shall deal with the appeal as 
+
+expeditiously as possible and shall endeavour to dispose it of within 30 days from the date of filing of 
+
+the appeal: 
+
+e) The officer or authority to which an appeal may be filed under (a) or (d) above shall be :  
+
+First Appellate Authority: Secretary, IT&C, GoR 
+
+Second Appellate Authority: Secretary(Budget), Finance Department, GoR 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 22 of 57 
+ 
+ 
+
+f) Form of Appeal:  
+
+a. Every appeal under (a) and (c) above shall be as per Annexure-13 along with as many copies 
+
+as there are respondents in the appeal. 
+
+b. Every appeal shall be accompanied by an order appealed against, if any, affidavit verifying the 
+
+facts stated in the appeal and proof of payment of fee. 
+
+c. Every appeal may be presented to First Appellate Authority or Second Appellate Authority, as 
+
+the case may be, in person or through registered post or authorised representative. 
+
+g) Fee for Appeal: Fee for filing appeal: 
+
+a. Fee for first appeal shall be rupees two thousand five hundred and for second appeal shall be 
+
+rupees ten thousand, which shall be non-refundable. 
+
+b. The fee shall be paid in the form of bank demand draft or banker’s cheque of a Scheduled Bank 
+
+payable in the name of Appellate Authority concerned. 
+
+h) Procedure for disposal of appeal: 
+
+a. The First Appellate Authority or Second Appellate Authority, as the case may be, upon filing 
+
+of appeal, shall issue notice accompanied by copy of appeal, affidavit and documents, if any, 
+
+to the respondents and fix date of hearing. 
+
+b. On the date fixed for hearing, the First Appellate Authority or Second Appellate Authority, as 
+
+the case may be, shall,- 
+
+i. hear all the parties to appeal present before him; and 
+
+ii. peruse or inspect documents, relevant records or copies thereof relating to the matter. 
+
+c. After hearing the parties, perusal or inspection of documents and relevant records or copies 
+
+thereof relating to the matter, the Appellate Authority concerned shall pass an order in writing 
+
+and provide the copy of order to the parties to appeal free of cost. 
+
+d. The order passed under (c) shall also be placed on the State Public Procurement Portal. 
+
+i) No information which would impair the protection of essential security interests of India, or impede the 
+
+enforcement of law or fair competition, or prejudice the legitimate commercial interests of the bidder 
+
+or the procuring entity, shall be disclosed in a proceeding under an appeal. 
+
+30) Stay of procurement proceedings: While hearing of an appeal, the officer or authority hearing the appeal 
+
+may, on an application made in this behalf and after affording a reasonable opportunity of hearing to the 
+
+parties concerned, stay the procurement proceedings pending disposal of the appeal, if he, or it, is satisfied 
+
+that failure to do so is likely to lead to miscarriage of justice. 
+
+31) Vexatious Appeals & Complaints: Whoever intentionally files any vexatious, frivolous or malicious 
+
+appeal or complaint under the “The Rajasthan Transparency Public Procurement Act 2012”, with the 
+
+intention of delaying or defeating any procurement or causing loss to any procuring entity or any other 
+
+bidder, shall be punished with fine which may extend to twenty lakh rupees or five per cent of the value of 
+
+procurement, whichever is less. 
+
+32) Offences by Firms/ Companies 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 23 of 57 
+ 
+ 
+
+a) Where an offence under “The Rajasthan Transparency Public Procurement Act 2012” has been 
+
+committed by a company, every person who at the time the offence was committed was in charge of 
+
+and was responsible to the company for the conduct of the business of the company, as well as the 
+
+company, shall be deemed to be guilty of having committed the offence and shall be liable to be 
+
+proceeded against and punished accordingly: 
+
+Provided that nothing contained in this sub-section shall render any such person liable for any 
+
+punishment if he proves that the offence was committed without his knowledge or that he had 
+
+exercised all due diligence to prevent the commission of such offence. 
+
+b) Notwithstanding anything contained in (a) above, where an offence under this Act has been 
+
+committed by a company and it is proved that the offence has been committed with the consent or 
+
+connivance of or is attributable to any neglect on the part of any director, manager, secretary or other 
+
+officer of the company, such director, manager, secretary or other officer shall also be deemed to be 
+
+guilty of having committed such offence and shall be liable to be proceeded against and punished 
+
+accordingly. 
+
+c) For the purpose of this section- 
+
+a. "company" means a body corporate and includes a limited liability partnership, firm, 
+
+registered society or co- operative society, trust or other association of individuals; and 
+
+b. "director" in relation to a limited liability partnership or firm, means a partner in the firm. 
+
+d) Abetment of certain offenses: Whoever abets an offence punishable under this Act, whether or not 
+
+that offence is committed in consequence of that abetment, shall be punished with the punishment 
+
+provided for the offence. 
+
+33) Debarment from Bidding 
+
+a) A bidder shall be debarred by the State Government if he has been convicted of an offence 
+
+a. under the Prevention of   Corruption Act, 1988 (Central Act No. 49 of 1988); or 
+
+b. under the Indian Penal Code, 1860 (Central Act No. 45 of 1860) or any other law for the time 
+
+being in force, for causing any loss of life or  property or causing  a  threat  to  public  health  
+
+as  part  of execution of a  public procurement contract. 
+
+b) Bidder debarred under (a) above shall not be eligible to participate in a procurement process of any 
+
+procuring entity for a period not exceeding three years commencing from the date on which he was 
+
+debarred. 
+
+c) If a procuring entity finds that bidder has breached the code of integrity prescribed in terms of “Code 
+
+of Integrity for bidders” above, it may debar the bidder for a period not exceeding three years. 
+
+d) Where the entire bid security or the entire performance security or any substitute thereof, as the case 
+
+may be, of bidder has been forfeited by a procuring entity in respect of any procurement process or 
+
+procurement contract, the bidder may be debarred from participating in any procurement process 
+
+undertaken by the procuring entity for a period not exceeding three years. 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 24 of 57 
+ 
+ 
+
+e) The State Government or a procuring entity, as the case may be, shall not debar Bidder under this 
+
+section unless such bidder has been given a reasonable opportunity of being heard. 
+
+34) Monitoring of Contract  
+
+a) An officer or a committee of officers named Contract Monitoring Committee (CMC) may be 
+
+nominated by procuring entity to monitor the progress of the contract during its delivery period.  
+
+b) During the delivery period the CMC shall keep a watch on the progress of the contract and shall 
+
+ensure that quantity of goods and service delivery is in proportion to the total delivery period given, 
+
+if it is a severable contract, in which the delivery of the goods and service is to be obtained 
+
+continuously or is batched. If the entire quantity of goods and service is to be delivered in the form 
+
+of completed work or entire contract like fabrication work, the process of completion of work may be 
+
+watched and inspections of the selected bidder/authorised partner’s premises where the work is being 
+
+completed may be inspected. 
+
+c) If delay in delivery of goods and service is observed a performance notice would be given to the 
+
+selected Bidder to speed up the delivery. 
+
+d) Any change in the constitution of the firm, etc. shall be notified forth with by the contractor in writing 
+
+to the procuring entity and such change shall not relieve any former member of the firm, etc., from 
+
+any liability under the contract.  
+
+e) No new partner/ partners shall be accepted in the firm by the selected Bidder in respect of the contract 
+
+unless he/ they agree to abide by all its terms, conditions and deposits with the procuring entity 
+
+through a written agreement to this effect. The bidder/authorised partner’s receipt for 
+
+acknowledgement or that of any partners subsequently accepted as above shall bind all of them and 
+
+will be sufficient discharge for any of the purpose of the contract. 
+
+f) The selected Bidder shall not assign or sub-let his contract or any substantial part thereof to any other 
+
+agency without the permission of procuring entity. 
+
+  
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 25 of 57 
+ 
+ 
+
+6. GENERALTERMS AND CONDITIONS OF TENDER & CONTRACT 
+
+The procurement process under this bidding document, terms & conditions mentioned herein are governed by 
+
+the RTPP Act, 2013. Bidder should read these conditions carefully and comply strictly while sending their Bid. 
+
+Definitions 
+
+For the purpose of clarity, the following words and expressions shall have the meanings hereby assigned to 
+
+them: - 
+
+a) “Contract” means the Agreement entered into between the Purchaser and the successful/ selected 
+
+bidder/authorised partner, together with the Contract Documents referred to therein, including all 
+
+attachments, appendices, and all documents incorporated by reference therein. 
+
+b) “Contract Documents” means the documents listed in the Agreement, including any amendments thereto. 
+
+c) “Contract Price” means the price payable to the successful/ selected bidder as specified in the Agreement, 
+
+subject to such additions and adjustments thereto or deductions there from, as may be made pursuant to the 
+
+Contract. 
+
+d) “Day” means a calendar day. 
+
+e) “Delivery” means the transfer of the Goods from the successful/ selected bidder to the Purchaser in 
+
+accordance with the terms and conditions set forth in the Contract. 
+
+f) “Completion” means the fulfilment of the related services by the successful/ selected bidder in accordance 
+
+with the terms and conditions set forth in the Contract. 
+
+g) “Goods” means all of the commodities, raw material, machinery and equipment, and/or other materials that 
+
+the successful/ selected bidder is required to supply to the Purchaser under the Contract. 
+
+h) “Purchaser” means the entity purchasing the Goods and related services, as specified in the bidding 
+
+document. 
+
+i) “Related Services” means the services incidental to the supply of the goods, such as insurance, installation, 
+
+training and initial maintenance and other similar obligations of the successful/ selected bidder under the 
+
+Contract. 
+
+j) “Subcontractor” means any natural person, private or government entity, or a combination of the above, 
+
+including its legal successors or permitted assigns, to whom any part of the Goods to be supplied or 
+
+execution of any part of the related services is subcontracted by the successful/ selected bidder. 
+
+k) “Supplier/ Successful or Selected bidder/authorised partner” means the person, private or government 
+
+entity, or a combination of the above, whose Bid to perform the Contract has been accepted by the Purchaser 
+
+and is named as such in the Agreement, and includes the legal successors or permitted assigns of the 
+
+successful/ selected Bidder . 
+
+l) “The Site,” where applicable, means the designated project place(s) named in the bidding document. 
+
+Note: The bidder shall be deemed to have carefully examined the conditions, specifications, size, make and 
+
+drawings, etc., of the goods to be supplied and related services to be rendered. If the bidder has any doubts as 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 26 of 57 
+ 
+ 
+
+to the meaning of any portion of these conditions or of the specification, drawing, etc., he shall, before 
+
+submitting the Bid and signing the contract refer the same to the procuring entity and get clarifications. 
+
+1) Contract Documents 
+
+Subject to the order of precedence set forth in the Agreement, all documents forming the Contract (and 
+
+all parts thereof) are intended to be correlative, complementary, and mutually explanatory. 
+
+2) Interpretation 
+
+a) If the context so requires it, singular means plural and vice versa. 
+
+b) Entire Agreement: The Contract constitutes the entire agreement between the Purchaser and the 
+
+Supplier/ Selected bidder and supersedes all communications, negotiations and agreements (whether 
+
+written or oral) of parties with respect thereto made prior to the date of Contract. 
+
+c) Amendment: No amendment or other variation of the Contract shall be valid unless it is in writing, is 
+
+dated, expressly refers to the Contract, and is signed by a duly authorized representative of each party 
+
+thereto. 
+
+d) Non-waiver: Subject to the condition (f) below, no relaxation, forbearance, delay, or indulgence by 
+
+either party in enforcing any of the terms and conditions of the Contract or the granting of time by 
+
+either party to the other shall prejudice, affect, or restrict the rights of that party under the Contract, 
+
+neither shall any waiver by either party of any breach of Contract operate as waiver of any subsequent 
+
+or continuing breach of Contract. 
+
+e) Any waiver of a party’s rights, powers, or remedies under the Contract must be in writing, dated, and 
+
+signed by an authorized representative of the party granting such waiver, and must specify the right 
+
+and the extent to which it is being waived. 
+
+f) Severability: If any provision or condition of the Contract is prohibited or rendered invalid or 
+
+unenforceable, such prohibition, invalidity or unenforceability shall not affect the validity or 
+
+enforceability of any other provisions and conditions of the Contract. 
+
+3) Language 
+
+a) The Contract as well as all correspondence and documents relating to the Contract exchanged by the 
+
+successful/ selected bidder and the Purchaser, shall be written in English language only. Supporting 
+
+documents and printed literature that are part of the Contract may be in another language provided 
+
+they are accompanied by an accurate translation of the relevant passages in the language specified in 
+
+the special conditions of the contract, in which case, for purposes of interpretation of the Contract, 
+
+this translation shall govern. 
+
+b) The successful/ selected bidder shall bear all costs of translation to the governing language and all 
+
+risks of the accuracy of such translation. 
+
+4) Joint Venture, Consortium or Association 
+
+Joint venture, consortium is not allowed to bid. 
+
+5) Eligible Goods and Related Services 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 27 of 57 
+ 
+ 
+
+a) For purposes of this Clause, the term “goods” includes commodities, raw material, machinery, 
+
+equipment, and industrial plants; and “related services” includes services such as insurance, 
+
+transportation, supply, installation, integration, testing, commissioning, training, and initial 
+
+maintenance.  
+
+b) All articles/ goods being bid, other than those marked in the Bill of Material (BoM) should be the 
+
+ones which are produced in volume and are used by a large number of users in India/ abroad. All 
+
+products quoted by the successful/ selected Bidder must be associated with specific make and model 
+
+number, item code and names and with printed literature describing configuration and functionality. 
+
+Any deviation from the printed specifications should be clearly mentioned in the offer document by 
+
+the bidder/authorised partner. Also, the bidder is to quote/ propose only one make/ model against the 
+
+respective item. 
+
+c) The OEM/ Vendor of the quoted product must have its own registered spares depot in India having 
+
+adequate inventory of the equipment being quoted for providing the necessary spares as per the 
+
+requirements of this bidding document. 
+
+d) The OEM/ Vendor of the quoted product should also have its direct representation in India in terms 
+
+of registered office for at least past 3 years. The presence through any Distribution/ System Integration 
+
+partner agreement will not be accepted. 
+
+e) Bidder  must quote products in accordance with above clause “Eligible goods and related services”. 
+
+6) Service of Notice, Documents & Orders 
+
+a) A notice, document or order shall be deemed to be served on any individual by - 
+
+a. delivering it to the person personally; or 
+
+b. leaving it at, or sending it by post to, the address of   the   place   of   residence   or business of 
+
+the person last known; 
+
+c. on a body corporate by leaving it at, or sending it by post to, the registered office of the body 
+
+corporate. 
+
+b) When the procedure laid down in (a) above is followed, service shall be deemed to be effected by 
+
+properly addressing, preparing and posting the document, notice or order, as the case may be. 
+
+7) Scope of Supply 
+
+a) Subject to the provisions in the bidding document and contract, the goods and related services to be 
+
+supplied shall be as specified in the bidding document. 
+
+b) Unless otherwise stipulated in the Contract, the scope of supply shall include all such items not 
+
+specifically mentioned in the Contract but that can be reasonably inferred from the Contract as being 
+
+required for attaining delivery and completion of the goods and related services as if such items were 
+
+expressly mentioned in the Contract. 
+
+c) The bidder shall not quote and supply and hardware/ software that is likely to be declared as End of 
+
+Sale in next 6 months and End of Service/ Support for a period of 3 Years from the last date of bid 
+
+submission. If any of the hardware/ software is found to be declared as End of Sale/ Service/ Support, 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 28 of 57 
+ 
+ 
+
+then the bidder shall replace all such hardware/ software with the latest ones having equivalent or 
+
+higher specifications without any financial obligation to the purchaser. 
+
+8) Delivery & Installation 
+
+a) Subject to the conditions of the contract, the delivery of the goods and completion of the related 
+
+services shall be in accordance with the delivery and completion schedule specified in the bidding 
+
+document. The details of supply/ shipping and other documents to be furnished by the successful/ 
+
+selected bidder are specified in the bidding document and/ or contract. 
+
+b) The contract for the supply can be repudiated at any time by the purchase officer, if the supplies are 
+
+not made to his satisfaction after giving an opportunity to the bidder of being heard and recording the 
+
+reasons for repudiation. 
+
+c) The Supplier/ Selected bidder shall arrange to supply, install and commission the ordered materials/ 
+
+system as per specifications within the specified delivery/ completion period at various departments 
+
+and/ or their offices/ locations mentioned in the PO/ WO. 
+
+d) Shifting the place of Installation: The user will be free to shift the place of installation within the same 
+
+city /town/ district/ division. The successful/ selected bidder shall provide all assistance, except 
+
+transportation, in shifting of the equipment. However, if the city/town is changed, additional charges 
+
+of assistance in shifting and providing maintenance services for remaining period would be decided 
+
+mutually. 
+
+e) All title of the assets is to be transferred to purchaser or its nominated agencies on the day of the 
+
+successful delivery/ installation/ commissioning of the supplied items. All expenses occurred during 
+
+transfer of titleship of assets shall be borne by the selected  bidder/authorised partner. 
+
+9) Supplier’s/ Selected Bidder/Authorised Partner’s Responsibilities 
+
+The Supplier/ Selected Bidder shall supply all the goods and related services included in the scope of 
+
+supply in accordance with the provisions of bidding document and/ or contract. 
+
+10) Purchaser’s Responsibilities 
+
+a) Whenever the supply of goods and related services requires that the Supplier/ Selected bidder obtain 
+
+permits, approvals, and import and other licenses from local public authorities, the Purchaser shall, if 
+
+so required by the Supplier/ Selected bidder/authorised partner, make its best effort to assist the 
+
+Supplier/ Selected bidder in complying with such requirements in a timely and expeditious manner. 
+
+b) The Purchaser shall pay all costs involved in the performance of its responsibilities, in accordance 
+
+with the general and special conditions of the contract. 
+
+11) Contract Price 
+
+a) The Contract Price shall be paid as specified in the contract subject to any additions and adjustments 
+
+thereto, or deductions there from, as may be made pursuant to the Contract. 
+
+b) Prices charged by the Supplier/ Selected bidder for the Goods delivered and the Related Services 
+
+performed under the Contract shall not vary from the prices quoted by the Supplier/ Selected bidder 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 29 of 57 
+ 
+ 
+
+in its bid, with the exception of any price adjustments authorized in the special conditions of the 
+
+contract. 
+
+12) Recoveries from Supplier/ Selected Bidder/Authorised partner 
+
+a) Recoveries of liquidated damages, short supply, breakage, rejected articles shall ordinary be made 
+
+from bills.  
+
+b) Amount may also be withheld to the extent of short supply, breakages, and rejected articles and in 
+
+case of failure in satisfactory replacement by the supplier along with amount of liquidated damages 
+
+shall be recovered from his dues and security deposit available with the department.  
+
+c) In case, recovery is not possible recourse will be taken under Rajasthan PDR Act or any other law in 
+
+force. 
+
+13) Taxes & Duties 
+
+a) The TDS as applicable, shall be deducted at source/ paid by the purchaser as per prevailing rates.  
+
+b) For goods supplied from outside India, the successful/ selected bidder shall be entirely responsible 
+
+for all taxes, stamp duties, license fees, and other such levies imposed outside the country.  
+
+c) For goods supplied from within India, the successful/ selected bidder shall be entirely responsible for 
+
+all taxes, duties, license fees, etc., incurred until delivery of the contracted Goods to the Purchaser. 
+
+d) If any tax exemptions, reductions, allowances or privileges may be available to the successful/ 
+
+selected bidder in India, the Purchaser shall use its best efforts to enable the successful/ selected bidder 
+
+to benefit from any such tax savings to the maximum allowable extent. However, it is clarified that 
+
+for the purpose concessional Sales Tax, no “C-Form/ D-Form”, or any other form by whatever name 
+
+it may be called, shall be released by Purchaser to the selected bidder under any circumstances for 
+
+any of activities under the SoW of this bidding document. 
+
+14) Copyright 
+
+The copyright in all drawings, design documents, source code and other materials containing data and 
+
+information furnished to the Purchaser by the Supplier/ Selected Bidder herein shall remain vested in the 
+
+Supplier/ Selected Bidder , or, if they are furnished to the Purchaser directly or through the Supplier/ 
+
+Selected bidder by any third party, including suppliers of materials, the copyright in such materials shall 
+
+remain vested in such third party. 
+
+15) Confidential Information 
+
+a) The Purchaser and the Supplier/ Selected bidder shall keep confidential and shall not, without the 
+
+written consent of the other party hereto, divulge to any third party any drawings, documents, data, 
+
+or other information furnished directly or indirectly by the other party hereto in connection with the 
+
+Contract, whether such information has been furnished prior to, during or following completion or 
+
+termination of the Contract.  
+
+b) The Supplier/ Selected bidder may furnish to its Subcontractor, if permitted, such documents, data, 
+
+and other information it receives from the Purchaser to the extent required for the Subcontractor to 
+
+perform its work under the Contract, in which event the Supplier/ Selected bidder shall obtain from 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 30 of 57 
+ 
+ 
+
+such Subcontractor an undertaking of confidentiality similar to that imposed on the Supplier/ Selected 
+
+bidder/authorised partner. 
+
+c) The Purchaser shall not use such documents, data, and other information received from the Supplier/ 
+
+Selected bidder for any purposes unrelated to the Contract. Similarly, the Supplier/ Selected bidder 
+
+shall not use such documents, data, and other information received from the Purchaser for any purpose 
+
+other than the design, procurement, or other work and services required for the performance of the 
+
+Contract. 
+
+d) The obligation of a party under sub-clauses above, however, shall not apply to information that: - 
+
+i. the Purchaser or Supplier/ Selected bidder need to share with other institutions participating in 
+
+the Contract;  
+
+ii. now or hereafter enters the public domain through no fault of that party; 
+
+iii. can be proven to have been possessed by that party at the time of disclosure and which was not 
+
+previously obtained, directly or indirectly, from the other party; or 
+
+iv. otherwise lawfully becomes available to that party from a third party that has no obligation of 
+
+confidentiality. 
+
+e) The above provisions shall not in any way modify any undertaking of confidentiality given by either 
+
+of the parties hereto prior to the date of the Contract in respect of the supply or any part thereof. 
+
+f) The provisions of this clause shall survive completion or termination, for whatever reason, of the 
+
+Contract. 
+
+16) Specifications and Standards 
+
+a) All articles supplied shall strictly conform to the specifications, trademark laid down in the bidding 
+
+document and wherever articles have been required according to ISI/ ISO/ other applicable 
+
+specifications/ certifications/ standards, those articles should conform strictly to those specifications/ 
+
+certifications/ standards. The supply shall be of best quality and description. The decision of the 
+
+competent authority/ purchase committee whether the articles supplied conform to the specifications 
+
+shall be final and binding on the supplier/ selected bidder. 
+
+b) Technical Specifications and Drawings 
+
+i. The Supplier/ Selected bidder shall ensure that the goods and related services comply with the 
+
+technical specifications and other provisions of the Contract. 
+
+ii. The Supplier/ Selected bidder shall be entitled to disclaim responsibility for any design, data, 
+
+drawing, specification or other document, or any modification thereof provided or designed by 
+
+or on behalf of the Purchaser, by giving a notice of such disclaimer to the Purchaser. 
+
+iii. The goods and related services supplied under this Contract shall conform to the standards 
+
+mentioned in bidding document and, when no applicable standard is mentioned, the standard shall 
+
+be equivalent or superior to the official standards whose application is appropriate to the country 
+
+of origin of the Goods. 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 31 of 57 
+ 
+ 
+
+c) Wherever references are made in the Contract to codes and standards in accordance with which it 
+
+shall be executed, the edition or the revised version of such codes and standards shall be those 
+
+specified in the bidding document. During Contract execution, any changes in any such codes and 
+
+standards shall be applied only after approval by the Purchaser and shall be treated in accordance with 
+
+the general conditions of the contract. 
+
+17) Packing and Documents 
+
+a) The Supplier/ Selected bidder shall provide such packing of the Goods as is required to prevent their 
+
+damage or deterioration during transit to their final destination, as indicated in the Contract. During 
+
+transit, the packing shall be sufficient to withstand, without limitation, rough handling and exposure 
+
+to extreme temperatures, salt and precipitation, and open storage. Packing case size and weights shall 
+
+take into consideration, where appropriate, the remoteness of the final destination of the Goods and 
+
+the absence of heavy handling facilities at all points in transit. 
+
+b) The packing, marking, and documentation within and outside the packages shall comply strictly with 
+
+such special requirements as shall be expressly provided for in the Contract, including additional 
+
+requirements, if any, specified in the contract, and in any other instructions ordered by the Purchaser. 
+
+18) Insurance 
+
+a) The goods will be delivered at the destination godown in perfect condition. The Goods supplied under 
+
+the Contract shall be fully insured against loss by theft, destruction or damage incidental to 
+
+manufacture or acquisition, transportation, storage, fire, flood, under exposure to weather and delivery 
+
+at the designated project locations, in accordance with the applicable terms. The insurance charges 
+
+will be borne by the supplier and Purchaser will not be required to pay such charges if incurred. 
+
+b) The goods will be delivered at the FOR destination in perfect condition.  
+
+19) Transportation: The supplier/ selected bidder shall be responsible for transport by sea, rail and road or 
+
+air and delivery of the material in the good condition to the consignee at destination. In the event of any 
+
+loss, damage, breakage or leakage or any shortage the bidder shall be liable to make good such loss and 
+
+shortage found at the checking/ inspection of the material by the consignee. No extra cost on such account 
+
+shall be admissible. 
+
+20) Testing charges: Testing charges shall be borne by the Government. In case of test results showing that 
+
+supplies are not upto the prescribed standards or specifications, the testing charges shall be payable by 
+
+the selected bidder/authorised partner. 
+
+21) Rejection 
+
+a) Articles not approved during inspection or testing shall be rejected and will have to be replaced by 
+
+the selected bidder at his own cost within the time fixed by the Purchase Officer.  
+
+b) If, however, due to exigencies of purchaser’s work, such replacement either in whole or in part, is not 
+
+considered feasible, the Purchase Officer after giving an opportunity to the selected bidder of being 
+
+heard shall for reasons to be recorded, deduct a suitable amount from the approved rates.  The 
+
+deduction so made shall be final. 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 32 of 57 
+ 
+ 
+
+c) The rejected articles shall be removed by the supplier/ Bidder within 15 days of intimation of 
+
+rejection, after which Purchase Officer shall not be responsible for any loss, shortage or damage and 
+
+shall have the right to dispose of such articles as he thinks fit, at the selected bidder/authorised 
+
+partner’s risk and on his account. 
+
+22) Freight 
+
+a) All goods must be sent freight paid through Railways or goods transport. If goods are sent freight to 
+
+pay the freight together with departmental charge 5% of the freight will be recovered from the 
+
+supplier’s bill. 
+
+b) R.R. should be sent under registered cover through Bank only. 
+
+c) In case supply is desired to be sent by the purchase officer by passenger train, the entire railway 
+
+freight will be borne by the bidder/authorised partner. 
+
+d) Remittance charges on payment made shall be borne by the bidder/authorised partner. 
+
+23) Payments 
+
+a) Advance Payment will not be made except in rare and special cases. In case of advance payment 
+
+being made, it will be against proof of despatch and to the extent as prescribed in financial powers by 
+
+rail/ reputed goods transport companies, etc., and prior inspection, if any. The balance, if any, will be 
+
+paid on receipt of the consignment in good condition with the certificate to that effect endorsed on 
+
+the inspection not given to the bidder/authorised partner. 
+
+b) Unless otherwise agreed between the parties, payment for the delivery of the stores will be made on 
+
+submission of bill in proper form by the bidder to the Purchase Officer in accordance with G.F.& A.R 
+
+all remittance charges will be borne by the bidder/authorised partner. 
+
+c) In case of disputed items, disputed amount shall be withheld and will be paid on settlement of the 
+
+dispute. 
+
+d) Payment in case of those goods which need testing shall be made only when such tests have been 
+
+carried out, test results received conforming to the prescribed specification. 
+
+24) Liquidated Damages (LD) 
+
+a) In case of extension in the delivery period with liquidated damages the recovery shall be made on the 
+
+basis of following percentages of value of items with the bidder has failed to supply and install:- 
+
+• delay up to one fourth period of the prescribed delivery period: 2.5% 
+
+• delay exceeding one fourth but not exceeding half of the prescribed period: 5.0% 
+
+• delay exceeding half but not exceeding three fourth of the prescribed period: 7.5% 
+
+• delay exceeding three fourth of the prescribed period: 10% 
+
+b) Fraction of a day in reckoning period of delay in supplies shall be eliminated if it is less than half a 
+
+day. 
+
+c) The maximum amount of liquidated damages shall be 10% of the contract value.  
+
+d) If the supplier requires an extension of time in completion of contractual supply on account of 
+
+occurrence of any hindrance, he shall apply in writing to the authority, which has placed the supply 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 33 of 57 
+ 
+ 
+
+order, for the same immediately on occurrence of the hindrance but not after the stipulated date of 
+
+completion of supply. 
+
+e) Delivery period may be extended with or without liquidated damages if the delay in the supply of 
+
+goods is on account of hindrances beyond the control of the bidder. 
+
+25) Bidder must make their own arrangements to obtain import licence, if necessary. If Bidder imposes 
+
+conditions which are in addition to or in conflict with the conditions mentioned herein, his bid is liable to 
+
+summary rejection. In any case none of such conditions will be deemed to have been accepted unless 
+
+specifically mentioned in the letter of acceptance of bid issued by the Purchase Officer. 
+
+26) Settlement of Disputes: If any dispute arise out of the contract with regard to the interpretation, meaning 
+
+and breach of the terms of the contract, the matter shall be referred to by the Parties to the Head of the 
+
+Department who will appoint his senior most deputy as the Sole Arbitrator of the dispute who will not be 
+
+related to this contract and whose decision shall be final. 
+
+The Arbitration and Conciliation Act 1996, the rules there under and any statutory modification or re-
+
+enactment’s thereof, shall apply to the arbitration proceedings. 
+
+ 
+
+27) All legal proceedings, if necessary arise to institute may by any of the parties (Government of Contractor) 
+
+shall have to be lodged in courts situated in Rajasthan and not elsewhere. 
+
+28) Warranty 
+
+a) The Bidder must supply all items with comprehensive on-site OEM warranty valid as mentioned in 
+
+BoM from the date of the goods / service, or any portion thereof as the case may be, have been 
+
+delivered/installed/accepted as per OEM policy at the final destination(s) indicated in the bidding 
+
+document. However, if delay of installation is more than a month’s time due to the reasons ascribed 
+
+to the bidder/authorised partner, the warranty shall start from the date of last successful installation 
+
+of the items covered under the PO.  
+
+b) The Bidder must provide software assurance services for software items, manuals and OEM support, 
+
+updates, upgrades, patches, and errata for the whole contract period as per this warranty clause. This 
+
+shall comprise support through email, telephone & on-line, as the case may be. At the time of item 
+
+delivery, the selected Bidder shall submit a certificate/ undertaking mentioning the fact that the item 
+
+supplied are covered under comprehensive warranty & support for the prescribed period. 
+
+c) The purchaser shall give a written notice to the selected Bidder stating the nature of any defect 
+
+together with all available evidence thereof, promptly following the discovery thereof. The purchaser 
+
+shall afford all reasonable opportunity for the selected Bidder to inspect such defects. Upon receipt 
+
+of such notice, the selected Bidder shall expeditiously cause to repair the defective item or parts 
+
+thereof or replace the defective item or parts thereof with brand new genuine/ authentic ones having 
+
+similar or higher specifications, at no cost to the Purchaser. Any item repaired or replaced by the 
+
+selected Bidder shall be delivered at the respective location without any additional costs to the 
+
+purchaser. 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 34 of 57 
+ 
+ 
+
+d) If having been notified, the selected Bidder fails to remedy the defect within the period specified, the 
+
+purchaser may proceed to take within a reasonable period such remedial action as may be necessary, 
+
+in addition to other recourses available in terms and conditions of the contract and bidding document.  
+
+29) Patent Indemnity 
+
+a) The supplier/ selected Bidder shall, subject to the Purchaser’s compliance with sub-clause (b) below, 
+
+indemnify and hold harmless the Purchaser and its employees and officers from and against any and 
+
+all suits, actions or administrative proceedings, claims, demands, losses, damages, costs, and expenses 
+
+of any nature, including attorney’s fees and expenses, which the Purchaser may suffer as a result of 
+
+any infringement or alleged infringement of any patent, utility model, registered design, trademark, 
+
+copyright, or other intellectual property right registered or otherwise existing at the date of the 
+
+Contract by reason of: - 
+
+i. the installation of the Goods by the supplier/ selected bidder or the use of the Goods in the country 
+
+where the Site is located; and  
+
+ii. the sale in any country of the products produced by the Goods. 
+
+Such indemnity shall not cover any use of the Goods or any part thereof other than for the purpose 
+
+indicated by or to be reasonably inferred from the Contract, neither any infringement resulting from 
+
+the use of the Goods or any part thereof, or any products produced thereby in association or 
+
+combination with any other equipment, plant, or materials not supplied by the supplier/ selected 
+
+bidder/authorised partner, pursuant to the Contract. 
+
+b) If any proceedings are brought or any claim is made against the Purchaser arising out of the matters 
+
+referred to above, the Purchaser shall promptly give the supplier/ selected bidder a notice thereof, and 
+
+the supplier/ selected bidder may at its own expense and in the Purchaser’s name conduct such 
+
+proceedings or claim and any negotiations for the settlement of any such proceedings or claim. 
+
+c) If the supplier/ selected bidder fails to notify the Purchaser within thirty (30) days after receipt of such 
+
+notice that it intends to conduct any such proceedings or claim, then the Purchaser shall be free to 
+
+conduct the same on its own behalf. 
+
+d) The Purchaser shall, at the supplier’s/ selected bidder/authorised partner’s request, afford all available 
+
+assistance to the supplier/ selected bidder in conducting such proceedings or claim, and shall be 
+
+reimbursed by the supplier/ selected bidder for all reasonable expenses incurred in so doing. 
+
+e) The Purchaser shall indemnify and hold harmless the supplier/ selected bidder and its employees, 
+
+officers, and Subcontractors (if any) from and against any and all suits, actions or administrative 
+
+proceedings, claims, demands, losses, damages, costs, and expenses of any nature, including attorney’s 
+
+fees and expenses, which the supplier/ selected bidder may suffer as a result of any infringement or 
+
+alleged infringement of any patent, utility model, registered design, trademark, copyright, or other 
+
+intellectual property right registered or otherwise existing at the date of the Contract arising out of or in 
+
+connection with any design, data, drawing, specification, or other documents or materials provided or 
+
+designed by or on behalf of the Purchaser. 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 35 of 57 
+ 
+ 
+
+ 
+
+30) Limitation of Liability 
+
+Except in cases of gross negligence or wilful misconduct: - 
+
+a) neither party shall be liable to the other party for any indirect or consequential loss or damage, loss 
+
+of use, loss of production, or loss of profits or interest costs, provided that this exclusion shall not 
+
+apply to any obligation of the supplier/ selected bidder to pay liquidated damages to the Purchaser; 
+
+and 
+
+b) the aggregate liability of the supplier/ selected bidder to the Purchaser, whether under the Contract, 
+
+in tort, or otherwise, shall not exceed the amount specified in the Contract, provided that this 
+
+limitation shall not apply to the cost of repairing or replacing defective equipment, or to any obligation 
+
+of the supplier/ selected bidder to indemnify the Purchaser with respect to patent infringement. 
+
+31) Force Majeure 
+
+a) The supplier/ selected bidder shall not be liable for forfeiture of its PSD, LD, or termination for default 
+
+if and to the extent that it’s delay in performance or other failure to perform its obligations under the 
+
+Contract is the result of an event of Force Majeure. 
+
+b) For purposes of this Clause, “Force Majeure” means an event or situation beyond the control of the 
+
+supplier/ selected bidder that is not foreseeable, is unavoidable, and its origin is not due to negligence 
+
+or lack of care on the part of the supplier/ selected bidder/authorised partner. Such events may include, 
+
+but not be limited to, acts of the Purchaser in its sovereign capacity, wars or revolutions, fires, floods, 
+
+epidemics, quarantine restrictions, and freight embargoes. 
+
+c) If a Force Majeure situation arises, the supplier/ selected bidder shall promptly notify the purchaser 
+
+in writing of such conditions and cause thereof within 15 days of occurrence of such event. Unless 
+
+otherwise directed by purchaser, the supplier/ selected bidder shall continue to perform its obligations 
+
+under the contract as far as reasonably practical. 
+
+d) If the performance in whole or part or any obligation under the contract is prevented or delayed by 
+
+any reason of Force Majeure for a period exceeding 60 days, either party at its option may terminate 
+
+the contract without any financial repercussion on either side. 
+
+e) In case a Force Majeure situation occurs with the purchaser, the purchaser may take the case with the 
+
+supplier/ selected bidder on similar lines. 
+
+32) Change Orders and Contract Amendments 
+
+a) The Purchaser may at any time order the supplier/ selected bidder through Notice in accordance with 
+
+clause “Notices” above, to make changes within the general scope of the Contract in any one or more 
+
+of the following: - 
+
+i. drawings, designs, or specifications, where Goods to be furnished under the Contract are to be 
+
+specifically manufactured for the Purchaser; 
+
+ii. the method of shipment or packing; 
+
+iii. the place of delivery; and 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 36 of 57 
+ 
+ 
+
+iv. the related services to be provided by the supplier/ selected bidder. 
+
+b) If any such change causes an increase or decrease in the cost of, or the time required for, the supplier’s/ 
+
+selected bidder/authorised partner’s performance of any provisions under the Contract, an equitable 
+
+adjustment shall be made in the Contract Price or in the Delivery and Completion Schedule, or both, 
+
+and the Contract shall accordingly should be amended. Any claims by the supplier/ selected bidder for 
+
+adjustment under this clause must be asserted within thirty (30) days from the date of the supplier’s/ 
+
+selected bidder/authorised partner’s receipt of the Purchaser’s change order. 
+
+c) Prices to be charged by the supplier/ selected bidder for any related services that might be needed but 
+
+which were not included in the Contract shall be agreed upon in advance by the parties and shall not 
+
+exceed the prevailing rates charged to other parties by the supplier/ selected  Bidder for similar services. 
+
+33) Termination 
+
+a) Termination for Default 
+i. The procuring entity may, without prejudice to any other remedy for breach of contract, by written 
+
+a written notice of default of at least 30 days sent to the supplier/ selected bidder/authorised 
+
+partner, terminate the contract in whole or in part: - 
+
+a. If the supplier/ selected bidder fails to deliver any or all quantities of the service within the 
+
+time period specified in the contract, or any extension thereof granted by purchaser; or 
+
+b. If the supplier/ selected bidder fails to perform any other obligation under the contract within 
+
+the specified period of delivery of service or any extension granted thereof; or 
+
+c. If the supplier/ selected bidder/authorised partner, in the judgement of the Purchaser, is found 
+
+to be engaged in corrupt, fraudulent, collusive, or coercive practices in competing for or in 
+
+executing the contract. 
+
+d. If the supplier/ selected bidder commits breach of any condition of the contract. 
+
+ii. If purchaser terminates the contract in whole or in part, amount of PSD may be forfeited. 
+
+iii. Before cancelling a contract and taking further action, advice of senior most finance person 
+
+available in the office and of legal adviser or legal assistant posted in the office, if there is one, 
+
+may be obtained. 
+
+iv. As on effective date of termination, Tendering Authority may pay: 
+
+a. the unpaid value of all the assets supplied by the Bidder and accepted by the purchaser in 
+
+accordance with the RFP specifications in order to take over the possession of the assets / 
+
+application.  
+
+b. all the services delivered by the Bidder and accepted by the purchaser, the consideration 
+
+payable shall be based on service rate as per agreement.  
+
+b) Termination for Insolvency 
+
+purchaser may at any time terminate the Contract by giving a written notice of at least 30 days to the 
+
+supplier/ selected bidder/authorised partner, if the supplier/ selected bidder become bankrupt or 
+
+otherwise insolvent. In such event, termination will be without compensation to the supplier/ selected 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 37 of 57 
+ 
+ 
+
+bidder/authorised partner, provided that such termination will not prejudice or affect any right of 
+
+action or remedy that has accrued or will accrue thereafter to purchaser. 
+
+c) Termination for Convenience 
+i. Purchaser, by a written notice of at least 30 days sent to the supplier/ selected bidder may 
+
+terminate the Contract, in whole or in part, at any time for its convenience. The Notice of 
+
+termination shall specify that termination is for the Purchaser’s convenience, the extent to which 
+
+performance of the supplier/ selected bidder under the Contract is terminated, and the date upon 
+
+which such termination becomes effective. 
+
+ii. Depending on merits of the case the supplier/ selected bidder may be appropriately compensated 
+
+on mutually agreed terms for the loss incurred by the contract if any due to such termination. 
+
+iii. The Goods that are complete and ready for shipment within twenty-eight (28) days after the 
+
+supplier’s/ selected bidder/authorised partner’s receipt of the Notice of termination shall be 
+
+accepted by the Purchaser at the Contract terms and prices. For the remaining Goods, the 
+
+Purchaser may elect: 
+
+a. To have any portion completed and delivered at the Contract terms and prices; and/or 
+
+b. To cancel the remainder and pay to the supplier/ selected bidder an agreed amount for 
+
+partially completed Goods and Related Services and for materials and parts previously 
+
+procured by the supplier/ selected bidder/authorised partner. 
+
+iv. As on effective date of termination, Tendering Authority may pay: 
+
+a. the unpaid value of all the assets supplied by the Bidder and accepted by the purchaser in 
+
+accordance with the RFP specifications in order to take over the possession of the assets / 
+
+application.  
+
+b. all the services delivered by the Bidder and accepted by the purchaser, the consideration 
+
+payable shall be based on service rate as per agreement.  
+
+34) Exit Management  
+
+a) Preamble 
+
+i. The word ‘parties’ include the procuring entity and the selected bidder/authorised partner. 
+
+ii. This Schedule sets out the provisions, which will apply on expiry or termination of the Project 
+
+Implementation and Operations and Management of SLA. 
+
+iii. In the case of termination of the Project Implementation and/ or Operation and Management SLA 
+
+due to illegality, the Parties shall agree at that time whether, and if so during what period, the 
+
+provisions of this Schedule shall apply. 
+
+iv. The Parties shall ensure that their respective associated entities carry out their respective 
+
+obligations set out in this Exit Management Schedule. 
+
+b) Transfer of Assets  
+
+i. The selected bidder may continue work on the assets for the duration of the exit management 
+
+period which may be a six months period from the date of expiry or termination of the agreement, 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 38 of 57 
+ 
+ 
+
+if required by purchaser to do so. During this period, the selected bidder will transfer all the assets 
+
+in good working condition and as per the specifications of the bidding document including the 
+
+ones being upgraded to the department/ designated agency. The security deposit/ performance 
+
+security submitted by selected bidder will only be returned after the successful transfer of the 
+
+entire project including its infrastructure.  
+
+ii. The selected bidder, if not already done, will transfer all the Software Licenses under the name 
+
+of the purchaser as desired by the procuring entity during the exit management period. 
+
+iii. The purchaser during the project implementation phase and the operation and management phase 
+
+shall be entitled to serve notice in writing to the selected bidder at any time during the exit 
+
+management period requiring the selected bidder to provide purchaser or its nominated agencies 
+
+with a complete and up-to-date list of the assets within 30 days of such notice.  
+
+iv. Upon service of a notice, as mentioned above, the following provisions shall apply: - 
+
+a. In the event, if the assets which to be transferred to purchaser is mortgaged to any financial 
+
+institutions by the selected bidder/authorised partner, the selected bidder shall ensure that all 
+
+such liens and liabilities have been cleared beyond any doubt, prior to such transfer. All 
+
+documents regarding the discharge of such lien and liabilities shall be furnished to purchaser 
+
+or its nominated agencies. 
+
+b. All title of the assets to be transferred to purchaser or its nominated agencies pursuant to 
+
+clause(s) above shall be transferred on the last day of the exit management period. All 
+
+expenses occurred during transfer of assets shall be borne by the selected  bidder/authorised 
+
+partner. 
+
+c. That on the expiry of this clause, the selected bidder and any individual assigned for the 
+
+performance of the services under this clause shall handover or cause to be handed over all 
+
+confidential information and all other related material in its possession, including the entire 
+
+established infrastructure supplied by selected  Bidder to purchaser.    
+
+d. That the products and technology delivered to purchaser during the contract term or on expiry 
+
+of the contract duration should not be sold or re-used or copied or transferred by selected 
+
+bidder to other locations apart from the locations mentioned in the this bidding document 
+
+without prior written notice and approval of purchaser. Supplied hardware, software & 
+
+documents etc., used by selected bidder for purchaser shall be the legal properties of 
+
+purchaser. 
+
+c) Cooperation and Provision of Information during the exit management period 
+
+i. The selected bidder will allow purchaser or its nominated agencies access to the information 
+
+reasonably required to define the current mode of operation associated with the provision of the 
+
+services to enable purchaser or its nominated agencies to assess the existing services being 
+
+delivered. 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 39 of 57 
+ 
+ 
+
+ii. The selected bidder shall provide access to copies of all information held or controlled by them 
+
+which they have prepared or maintained in accordance with the Project Implementation, the 
+
+Operation and Management SLA and SOWs relating to any material aspect of the services 
+
+provided by the selected bidder/authorised partner. purchaser or its nominated agencies shall be 
+
+entitled to copy all such information comprising of details pertaining to the services rendered and 
+
+other performance data. The selected bidder shall permit purchaser or its nominated agencies and/ 
+
+or any replacement operator to have reasonable access to its employees and facilities as 
+
+reasonably required by purchaser or its nominated agencies to understand the methods of delivery 
+
+of the services employed by the selected Bidder  and to assist appropriate knowledge transfer. 
+
+d) Confidential Information, Security and Data 
+
+The selected bidder will promptly on the commencement of the exit management period supply to 
+
+purchaser or its nominated agencies the following: 
+
+i. Documentation relating to Intellectual Property Rights; 
+
+ii. Project related data and confidential information; 
+
+iii. All current and updated  data as is reasonably required for purposes of purchaser or its nominated 
+
+agencies transitioning the services to its replacement selected bidder in a readily available format 
+
+nominated by purchaser or its nominated agencies; and 
+
+iv. All other information (including but not limited to documents, records and agreements) relating 
+
+to the services reasonably necessary to enable purchaser or its nominated agencies, or its 
+
+replacement operator to carry out due diligence in order to transition the provision of the services 
+
+to purchaser or its nominated agencies, or its replacement operator (as the case may be). 
+
+v. Before the expiry of the exit management period, the selected bidder shall deliver to purchaser or 
+
+its nominated agencies all new or up-dated materials from the categories set out above and shall 
+
+not retain any copies thereof, except that the selected bidder shall be permitted to retain one copy 
+
+of such materials for archival purposes only. 
+
+e) Transfer of certain agreements 
+
+i. On request by Procuring entity or its nominated agencies, the selected bidder shall effect such 
+
+assignments, transfers, innovations, licenses and sub-licenses as Procuring entity or its nominated 
+
+agencies may require in favour of procuring entity or its nominated agencies, or its replacement 
+
+operator in relation to any equipment lease, maintenance or service provision agreement between 
+
+selected bidder and third party leasers, operators, or operator, and which are related to the services 
+
+and reasonably necessary for carrying out of the replacement services by purchaser or its 
+
+nominated agencies, or its replacement operator. 
+
+ii. Right of Access to Premises: At any time during the exit management period and for such period 
+
+of time following termination or expiry of the SLA, where assets are located at the selected 
+
+bidder/authorised partner’s premises, the selected bidder will be obliged to give reasonable rights 
+
+of access to (or, in the case of assets located on a third party's premises, procure reasonable rights 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 40 of 57 
+ 
+ 
+
+of access to purchaser or its nominated agencies, and/ or any replacement operator in order to 
+
+inventory the assets. 
+
+f) General Obligations of the selected Bidder  
+
+i. The selected bidder shall provide all such information as may reasonably be necessary to effect 
+
+as seamless during handover as practicable in the circumstances to purchaser or its nominated 
+
+agencies or its replacement operator and which the operator has in its possession or control at any 
+
+time during the exit management period. 
+
+ii. The selected bidder shall commit adequate resources to comply with its obligations under this 
+
+Exit Management Clause. 
+
+g) Exit Management Plan 
+
+i. The selected bidder shall provide purchaser or its nominated agencies with a recommended exit 
+
+management plan ("Exit Management Plan") which shall deal with at least the following aspects 
+
+of exit management in relation to the SLA as a whole and in relation to the Project 
+
+Implementation, the Operation and Management SLA and SOWs. 
+
+ii. A detailed program of the transfer process that could be used in conjunction with a replacement 
+
+operator including details of the means to be used to ensure continuing provision of the services 
+
+throughout the transfer process or until the cessation of the services and of the management 
+
+structure to be used during the transfer; and  
+
+iii. Plans for the communication with such of the selected bidder/authorised partner's, staff, suppliers, 
+
+customers and any related third party as are necessary to avoid any material detrimental impact 
+
+on purchasers operations as a result of undertaking the transfer; and 
+
+iv. If applicable, proposed arrangements and Plans for provision of contingent support in terms of 
+
+business continuance and hand holding during the transition period, to purchaser or its nominated 
+
+agencies, and Replacement Operator for a reasonable period, so that the services provided 
+
+continue and do not come to a halt. 
+
+v. Each Exit Management Plan shall be presented by the selected bidder to and approved by 
+
+purchaser or its nominated agencies. 
+
+vi. In the event of termination or expiry of SLA, Project Implementation, Operation and 
+
+Management SLA or SOWs each party shall comply with the Exit Management Plan. 
+
+vii. During the exit management period, the selected bidder shall use its best efforts to deliver the 
+
+services. 
+
+viii. Payments during the Exit Management period shall be made in accordance with the Terms of 
+
+Payment Clause. 
+
+ix. It would be the responsibility of the selected bidder to support new operator during the transition 
+
+period. 
+
+  
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 41 of 57 
+ 
+ 
+
+7. SPECIAL TERMS AND CONDITIONS OF TENDER & CONTRACT 
+
+1) Payment Terms and Schedule 
+
+a) Payment schedule - Payments to the bidder/authorised partner, after successful completion of the target 
+
+milestones (including specified project deliverables), would be made as under: - 
+
+S. 
+No. 
+
+Milestone/ Phase Deliverables Payable Amount 
+
+ 
+1. 
+
+Completion of Activity as 
+mentioned in section 4. 
+(1) (A ) 
+
+• Delivery Challan for ordered items 
+• OEM Warranty Certificates for 
+
+Hardware & software items 
+(wherever applicable) 
+
+• Installation Report verified by the 
+respective District Nodal Officer 
+
+• UAT by purchaser 
+• Training Certificate of training 
+
+conducted as in scope of work 
+
+95 % of total work order 
+value  
+
+ 
+
+2 Submission of BG 
+against the due payment 
+
+• *BG of 5% amount of the Work order 
+value 
+
+Remaining 5 % of total 
+work order value  
+ 
+
+3 Completion of Warranty 
+Period 
+
+Satisfactory performance report signed 
+by OIC/Nodal Officer 
+
+Return of both BG (of 
+10% WO Value). 
+
+*BG submitted against the due payment shall be treated as PSD and will be returned after completion of 
+Project and due penalty adjusted (if any). 
+
+ 
+
+b) The supplier’s/ selected  bidder’s request for payment shall be made to the purchaser in writing, 
+
+accompanied by invoices describing, as appropriate, the goods delivered and related services 
+
+performed, and by the required documents submitted pursuant to general conditions of the contract and 
+
+upon fulfilment of all the obligations stipulated in the Contract. 
+
+c) Due payments shall be made promptly by the purchaser, generally within sixty (60) days after 
+
+submission of an invoice or request for payment by the supplier/ selected  bidder/authorised partner, 
+
+and the purchaser has accepted it.  
+
+d) The currency or currencies in which payments shall be made to the supplier/ selected bidder under this 
+
+Contract shall be Indian Rupees (INR) only. 
+
+e) All remittance charges will be borne by the supplier/ selected  bidder/authorised partner. 
+
+f) In case of disputed items, the disputed amount shall be withheld and will be paid only after settlement 
+
+of the dispute. 
+
+g) Payment in case of those goods which need testing shall be made only when such tests have been carried 
+
+out, test results received conforming to the prescribed specification. 
+
+h) Any penalties/ liquidated damages, as applicable, for delay and non-performance, as mentioned in this 
+
+bidding document, will be deducted from the payments for the respective milestones. 
+
+i) Taxes, as applicable, will be deducted/ paid, as per the prevalent rules and regulations. 
+
+2) Service Level Standards/ Requirements/ Agreement 
+
+a) Service level requirements 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 42 of 57 
+ 
+ 
+
+i. Service level plays an important role in defining the Quality of Services (QoS). The prime objective 
+
+of service levels is to ensure high quality of services from selected bidder/authorised partner, in a 
+
+efficient manner to the identified users under this procurement. 
+
+ii. The service level shall be tracked on a periodic basis and have penalty clauses on non-adherence to 
+
+any of them. The Bidder shall submit reports on all the service levels to the Purchaser in accordance 
+
+with the specified formats and reporting periods and provide clarification, if required. The service 
+
+levels defined below provide for target level of services required, measurements thereof and 
+
+associated penalties. 
+
+S. 
+No. 
+
+Measurement 
+Parameter 
+
+Service Level Penalty 
+
+1.  Time taken for 
+attending the issue  
+
+Within 24 hours of lodging the 
+complaint  
+
+No penalty 
+
+2.  Time taken for 
+attending the issue  
+ 
+
+After 24 hours of lodging the 
+complaint 
+
+₹ 5,000/- per 24 hours  
+
+In case the supplier fails to rectify the defect(s) within 15 calendar days, it may be considered as 
+
+breach of contract. Further, in case the fault is not resolved within 24 hours or lodging the complaint 
+
+three times in a year, it may be considered as breach of contract. Maximum applicable penalty shall 
+
+be 10% of the total contract value. 
+
+3) Change Requests/ Management  
+
+a) An institutional mechanism will be set up for taking decisions regarding requests for changes. The 
+
+Purchase Committee will set up a Change Control Committee with members from the procurement 
+
+agency and the selected bidder/authorised partner. If it is unable to reach an agreement, the decision of 
+
+the Purchase Committee will be final. 
+
+b) purchaser may at any time, by a written order given to the bidder/authorised partner, make changes 
+
+within the general scope of the Agreement in any one or more of the following: -  
+
+o Designs, specifications, requirements which software or service to be provided under the 
+
+Agreement are to be specifically developed and rendered for purchaser. 
+
+o The method of deployment, shipping or packing. 
+
+o Schedule for Installation Acceptance. 
+
+o The place of delivery and/or the services to be provided by the bidder/authorised partner. 
+
+c) The change request/ management procedure will follow the following steps: - 
+
+o Identification and documentation of the need for the change - The information related to 
+
+initiator, initiation date and details of change required and priority of the change will be 
+
+documented by purchaser. 
+
+o Analysis and evaluation of the Change Request - Impact of the change in terms of the estimated 
+
+effort, changed schedule, cost and the items impacted will be analysed and documented by the  
+
+bidder/authorised partner. 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 43 of 57 
+ 
+ 
+
+o Approval or disapproval of the change request – purchaser will approve or disapprove the 
+
+change requested including the additional payments for software development, quoted man-
+
+month rate shall be used for cost estimation, efforts of all technical resources- project manager, 
+
+analyst, software developer, testing engineer, database architecture etc. shall be taken into 
+
+account for total man-month estimation to carry out the s/w development resulting from the 
+
+change request. For all technical resources irrespective of their experience and specialisation, 
+
+the quoted man-month rate shall be used. Efforts of support staff shall not be taken into 
+
+consideration for this purpose. 
+
+o Implementation of the change – The change will be implemented in accordance to the agreed 
+
+cost, effort, and schedule by the selected bidder. 
+
+o Verification of the change - The change will be verified by purchaser on implementation of the 
+
+change request. 
+
+d) All changes outside the scope of supplies agreed to herein which may have likely financial implications 
+
+in terms of the overall cost/ time of the project shall be undertaken by bidder only after securing the 
+
+express consent of purchaser. In the event that the consent of purchaser is not received then the change 
+
+will not be carried out. 
+
+e) While approving any change request, if required, purchaser may ask Bidder to deploy the required 
+
+resources on-site. 
+
+f) If any such change outside the scope of supplies agreed to herein causes an increase or decrease in cost 
+
+of, or the time required for, firm’s performance of any provisions under the Agreement, equitable 
+
+adjustments shall be made in the Agreement Price or Delivery Schedule, or both, and the Agreement 
+
+shall accordingly be amended. Any claims by firm for adjustment under this must be asserted within 30 
+
+(thirty) days from the date of SI receiving the purchaser change order which shall not be unreasonably 
+
+withheld or delayed. 
+
+ 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 44 of 57 
+ 
+ 
+
+ANNEXURE-1: BILL OF MATERIAL (BoM) 
+
+ 
+
+Note: The quoted components must be supplied with 3 Years comprehensive OEM on-site warranty 
+
+(24x7x7365). 
+
+ 
+
+ 
+
+                                                                    Name of the Bidder        :  
+Date  :                                  Authorised Signatory      : 
+Place :                                  Seal of the Organization : 
+
+  
+
+S.No. Item Description Qty 
+1 Direct Access Storage (DAS) for RSDC 02 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 45 of 57 
+ 
+ 
+
+ANNEXURE-2: TECHNICAL SPECIFICATIONS 
+
+Note: All the specifications below are minimum specifications and higher specifications shall be used wherever 
+
+necessary/ required. Deviation on higher side shall only be considered and no extra weightage shall be awarded 
+
+for such deviations.  
+
+The bidder is required to submit the technical compliance statement for each item on OEM’s letter-head only.  
+
+ 
+
+Make and Model :  
+
+S 
+
+No. 
+Item Description 
+
+OEM 
+
+Compliance 
+
+(Y/N) 
+
+1.  Storage type Direct Access Storage (DAS)  
+
+2.  Connecting 
+
+ports 
+
+Should have minimum of 4 * 10 Gbps iSCSI and 4 * 16 Gbps FC  
+
+3.  Management 
+
+Software 
+
+Must include Storage Manager software, to centrally manage all 
+
+Storage subsystems, Multi-path (Load Balancing & Failover), LUN 
+
+masking. 
+
+ 
+
+4.  O/S Support Support for multiple Operating Systems connecting to it (including 
+
+MS-Windows and RHEL)  
+
+ 
+
+5.  Capacity Storage should be supplied with 100 TB of usable space from day one 
+
+(excluding all overhead configuration like RAID (RAID 5 or 
+
+equivalent) configuration formatting and hot spare disk). Also, 40% of 
+
+total usable capacity to be populated using Enterprise Class SSD drives 
+
+(up to 4TB) and remaining 60% usable space to be populated using 
+
+SAS (up to 4TB and 10K RPM and preferably 2.5") 
+
+ 
+
+6.  
+Software 
+
+licenses 
+
+Snapshot, Snapshot restore, volume copy/ clone, synchronous and 
+
+asynchronous replication, SSD cache, Thin Provisioning, Auto-tiering 
+
+etc. for the supplied capacity 
+
+ 
+
+7.  System 
+
+capabilities 
+
+Volume expansion, Capacity expansion, RAID-level migration, 
+
+Dynamic segment size migration, System event monitor etc. 
+
+ 
+
+8.  Controllers Dual, both Active, Storage Array shall be given with Minimum of 
+
+64GB cache in a single unit. 
+
+ 
+
+9.  Protocol 
+
+Support  
+
+FCP, iSCSI  
+
+10.  Cache Safety Cache should be mirrored and battery-backed-up /disk-destaged to 
+
+provide protection of data. 
+
+ 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 46 of 57 
+ 
+ 
+
+11.  Redundancy 
+
+and High 
+
+Availability   
+
+Offered Storage Array shall be configured in a No Single Point of 
+
+failure configuration including Array Controller card, Cache memory, 
+
+FAN, Power supply etc. Offered storage shall support online non-
+
+disruptive firmware upgrade for both Controller and disk drives.  
+
+ 
+
+12.  Rack 
+
+Support  
+
+Suitable for industry-standard Racks and PDUs  
+
+13.  Alerts Automated alerts for Improving service response times and storage 
+
+health check 
+
+ 
+
+14.  DAS Support Storage should connected directly to servers without SAN switch  
+
+15.  Quality OEM must be a Leader in Gartner Magic Quadrant for Storage 
+
+systems. 
+
+ 
+
+16.  Other All required cables, connectors, patch chords, passive components for 
+
+all the populated interfaces to be included from day one. Also, power 
+
+chord to be included should by of C-Type only.  
+
+ 
+
+17.  Warranty 3 Years comprehensive onsite OEM support/ maintenance from the 
+
+date of installation (24  x 7 x 365) 
+
+ 
+
+  
+
+ 
+
+  
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 47 of 57 
+ 
+ 
+
+ANNEXURE-3: BIDDER’S AUTHORIZATION CERTIFICATE{to be filled by the bidder} 
+
+ 
+
+To, 
+
+{Procuring entity}, 
+
+______________________________, 
+
+______________________________, 
+
+ 
+
+ 
+
+I/ We {Name/ Designation} hereby declare/ certify that {Name/ Designation} is hereby authorized to sign 
+
+relevant documents on behalf of the company/ firm in dealing with NIB reference No. 
+
+______________________ dated _________. He/ She is also authorized to attend meetings & submit technical 
+
+& commercial information/ clarifications as may be required by you in the course of processing the Bid. For 
+
+the purpose of validation, his/ her verified signatures are as under. 
+
+    
+
+ 
+
+Thanking you, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name of the Bidder: -      Verified Signature: 
+
+Authorised Signatory: - 
+
+Seal of the Organization: - 
+
+Date:     
+
+Place:     
+
+ 
+
+  
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 48 of 57 
+ 
+ 
+
+ANNEXURE-4: SELF-DECLARATION {to signed by selected bidder} 
+To, 
+{Procuring entity}, 
+ 
+In response to the NIB Ref. No. _____________________________ dated ___________ for {Project Title}, 
+as an Owner/ Partner/ Director/ Auth. Sign.of ____________________________________, I/ We hereby 
+declare that presently our Company/ firm _________________, at the time of bidding,: - 
+
+a) possess the necessary professional, technical, financial and managerial resources and competence 
+required by the Bidding Document issued by the Procuring Entity; 
+
+b) have fulfilled my/ our obligation to pay such of the taxes payable to the Union and the State Government 
+or any local authority as specified in the Bidding Document; 
+
+c) is having unblemished record and is not declared ineligible for corrupt & fraudulent practices either 
+indefinitely or for a particular period of time by any State/ Central government/ PSU/ UT. 
+
+d) does not have any previous transgressions with any entity in India or any other country during the last 
+three years 
+
+e) does not have any debarment by any other procuring entity 
+f) is not insolvent in receivership, bankrupt or being wound up, not have its affairs administered by a court 
+
+or a judicial officer, not have its business activities suspended and is not the subject of legal proceedings 
+for any of the foregoing reasons; 
+
+g) does not have, and our directors and officers not have been convicted of any criminal offence related to 
+their professional conduct or the making of false statements or misrepresentations as to their 
+qualifications to enter into a procurement contract within a period of three years preceding the 
+commencement of the procurement process, or not have been otherwise disqualified pursuant to 
+debarment proceedings; 
+
+h) does not have a conflict of interest as mentioned in the bidding document which materially affects the 
+fair competition. 
+
+i) will comply with the code of integrity as specified in the bidding document. 
+ 
+
+Also, this is to certify that, the specifications of goods which I/ We have mentioned in the Technical bid, and 
+which I/ We shall supply if I/ We am/ are awarded with the work, are in conformity with the minimum technical 
+specifications of the bidding document and that there are no deviations of any kind from the requirement 
+specifications.  
+ 
+Also, I/ we have thoroughly read the bidding document and by signing this certificate, we hereby submit our 
+token of unconditional acceptance to all the terms & conditions of the bidding document without any deviations 
+and assumptions.  
+ 
+I/ We also certify that the price I/ we have quoted is inclusive of all the taxes to meet the desired Standards set 
+out in the bidding Document. 
+ 
+I/ We also declare that I am/we are bonafide/ Manufacturers/ Whole Sellers/ Sole distributor/ Authorised dealer/ 
+dealers/ sole selling/ Marketing agent in the goods/ stores/ equipment for which I/ We have quoted. 
+If this declaration is found to be incorrect then without prejudice to any other action that may be taken, my/ our 
+security may be forfeited in full and the bid, if any, to the extent accepted may be cancelled. 
+ 
+If this declaration is found to be incorrect then without prejudice to any other action that may be taken as per 
+the provisions of the applicable Act and Rules thereto prescribed by GoR, my/ our security may be forfeited in 
+full and our bid, to the extent accepted, may be cancelled. 
+ 
+Thanking you, 
+  
+Name of the Bidder: -                                                                                              Date: 
+Authorised Signatory: -                                                                                            Place:    
+Seal of the Organization: - 
+
+ 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 49 of 57 
+ 
+ 
+
+ANNEXURE-5: MANUFACTURER’S AUTHORIZATION FORM (MAF)  
+
+To be filled by the OEM (indicative format) 
+
+To, 
+
+{Procuring Entity}, 
+
+______________________________, 
+
+ 
+
+Subject: Issue of the Manufacturer’s Authorisation Form (MAF) 
+
+Reference: NIB/ RFP Ref. No. _____________________ dated ________ 
+
+ 
+
+Sir, 
+
+We {name and address of the OEM} who are established and reputed original equipment manufacturers 
+
+(OEMs) having factories at {addresses of manufacturing location} do hereby authorize {M/s 
+
+__________________________} who is our {Distributor/ Channel Partner/ Retailer/ Others <please 
+
+specify>} to bid, negotiate and conclude the contract with you against the aforementioned reference for 
+
+the following Hardware/ Software manufactured by us: - 
+
+{OEM will mention the details of all the proposed product(s) with their make/ model.}  
+
+We undertake to provide OEM Warranty & support for the offered Hardware/ Software, as mentioned 
+
+above, for 3 Years. 
+
+ 
+
+We hereby confirm that the offered Hardware/ Software is not likely to be declared as End-of-Sale within 
+
+next 6 months from the last date of bid submission. 
+
+ 
+
+We hereby confirm that the offered Hardware/ Software is not likely to be declared as End-of-Service/ 
+
+Support within next 3 years from the last date of bid submission. 
+
+ 
+
+Yours faithfully, 
+
+For and on behalf of M/s (Name of the manufacturer) 
+
+ 
+
+(Authorized Signatory) 
+
+Name, Designation & Contact No.: 
+
+Address: ___________________________________ 
+
+Seal: 
+
+ 
+  
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 50 of 57 
+ 
+ 
+
+ANNEXURE-6: UNDERTAKING ON AUTHENTICITY OF COMPUTER EQUIPMENTS 
+
+{to be filled by the bidder(On Rs. 100/- Non-judicial stamp paper)} 
+
+ 
+
+To, 
+
+{Procuring Entity}, 
+
+______________________________, 
+
+ 
+
+Reference: NIB No. :___________________________________ Dated:__________ 
+
+ 
+
+This has reference to the items being supplied/quoted to you vide bid ref. no. ___________ dated ___________. 
+
+ 
+
+We hereby undertake that all the components/parts/assembly/ software used in the equipment shall be genuine, 
+
+original and new components /parts/assembly/software from respective OEMs of the products and that no 
+
+refurbished/duplicate/ second hand components/ parts/ assembly/ software are being used or shall be used. In 
+
+respect of licensed operating system, we undertake that the same shall be supplied along with the authorized 
+
+license certificate with our name/logo. Also, that it shall be sourced from the authorized source for use in India.  
+
+ 
+
+In case, we are found not complying with above at the time of delivery or during installation, for the equipment 
+
+already billed, we agree to take back the equipment already supplied at our cost and return any amount paid to 
+
+us by you in this regard and that you will have the right to forfeit our Bid Security/ SD/ PSD for this bid or 
+
+debar/ black list us or take suitable action against us. 
+
+ 
+
+ 
+
+Authorized Signatory 
+
+Name: 
+
+Designation: 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 51 of 57 
+ 
+ 
+
+ANNEXURE-7: COMPONENTS OFFERED – BOM{to be filled by the bidder} 
+
+ 
+
+Please fill the following BOM for all the offered components. 
+
+S.No. Product Details 
+
+(Only one make and model) 
+
+Detailed 
+
+Technical 
+
+Specification 
+
+Reference** 
+
+OEM Details  
+
+(Name, Address, E-Mail, 
+
+Mobile Nos.) 
+
+1.  {Item No. xx}  
+
+2.  {Item No. xx}  
+
+3.  {Item No. xx}  
+
+ 
+
+** Please attach Technical specifications compliance sheet (on OEM letter head only) and provide reference 
+
+number in this column. (Deviations, if any, should be appropriately mentioned & highlighted in the compliance/ 
+
+deviation column of the respective table as provided above in the Annexure-2: Technical Specifications) 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 52 of 57 
+ 
+ 
+
+ANNEXURE -8: FINANCIAL BID FORMAT  
+
+{to be submitted by the bidder only in BoQ format (.XLS) available at e-Procurement portal} 
+Sr. 
+No 
+
+Name of Item Qty Unit Price 
+Excluding 
+
+GST  
+(In Rs.) 
+
+Applicable 
+GST  
+
+(in Rs.) 
+
+Unit Price 
+(In Rs.) 
+
+(Inclusive 
+of GST) 
+
+Total 
+Amount  
+(In Rs.) 
+
+1 2 3 4 5 6 =(4+5) 7= 3x6 
+
+1. Direct Access Storage (DAS) for RSDC 02     
+
+Total Amount (In Figures):  
+
+Total Amount (In Words):  
+
+ 
+NOTE: The prices offered by the bidder for the above-mentioned items should include all incidental charges 
+and will be evaluated on composite basis i.e., price of the above-mentioned items and shall be considered for 
+award of contract. 
+ 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 53 of 57 
+ 
+ 
+
+ANNEXURE-9: BANK GUARANTEE FORMAT – PERFORMANCE SECURITY (PBG) 
+(To be stamped in accordance with Stamp Act and on a Stamp Paper purchased from Rajasthan 
+State only and to be issued by a Nationalised/ Scheduled bank having its branch at Jaipur and 
+payable at par at Jaipur, Rajasthan) 
+ 
+To,  
+The Secretary & Commissioner, 
+Department of Information Technology & Communications (DoIT&C), 
+IT Building, YojanaBhawan Campus, Tilak Marg,  
+C-Scheme, Jaipur-302005 (Raj). 
+ 
+1. In consideration of the Department of IT&C, Govt. of Rajasthan (hereinafter called "DoIT&C") 
+
+having agreed to exempt M/s ..........................(hereinafter called "the said Contractor(s)"  from the 
+demand, under the terms and conditions of an Work Order No...................................dated 
+.....................made between the DoIT&C and .......................(Contractor) for the work ................. 
+of Security Deposit for the due fulfilment by the said Contractor (s) of the terms and conditions 
+contained in the said work order, on production of a Bank Guarantee for Rs...................(Rupees 
+........................................only), we ...................(indicate the name of the Bank), (hereinafter 
+referred to as "the Bank") at the request of ..................Contractor(s) do hereby undertake to pay 
+to the DoIT&Can amount not exceeding Rs...................(Rupees..................................only) on 
+demand. 
+
+2. We................. (Indicate the name of Bank), do hereby undertake to pay Rs.................... 
+(Rupees............................only), the amounts due and payable under this guarantee without any 
+demur or delay, merely on a demand from the DoIT&C. Any such demand made on the bank by 
+the DoIT&Cshall be conclusive as regards the amount due and payable by the Bank under this 
+guarantee. The Bank Guarantee shall be completely at the disposal of the DoIT&Cand 
+We....................... (Indicate the name of Bank), bound ourselves with all directions given by 
+DoIT&Cregarding this Bank Guarantee. However, our liability under this guarantee shall be 
+restricted to an amount not exceeding Rs...................... (Rupees....................only). 
+
+3. We.......................(indicate the name of Bank), undertake to pay to the DoIT&Cany money so 
+demanded notwithstanding any dispute or disputes raised by the contractor(s) in any suit or 
+proceeding pending before any Court or Tribunal or Arbitrator etc. relating thereto, our liability 
+under these presents being absolute, unequivocal and unconditional. 
+
+4. We.....................(indicate the name of Bank) further agree that the performance guarantee herein 
+contained shall remain in full force and effective up to <DATE> and that it shall continue to be 
+enforceable for above specified period till all the dues of DoIT&Cunder or by virtue of the said 
+Agreement have been fully paid and its claims satisfied or discharged or till the DoIT&Ccertifies 
+that the terms and conditions of the said Agreement have been fully and properly carried out by 
+the said Contractor(s) and accordingly discharges this guarantee.   
+
+5. We ...........................(indicate the name of Bank) further agree with the DoIT&Cthat the 
+DoIT&Cshall have the fullest liberty without our consent and without affecting in any manner our 
+obligations hereunder to vary any of the terms and conditions of the said work order or to extend 
+time of performance by the said Contractor(s) from time to time or to postpone for any time or 
+from time to time any of the powers exercisable by the DoIT&Cagainst the said Contractor(s) and 
+to forbear or enforce any of the terms and conditions relating to the said work order and we shall 
+not be relieved from our liability by reason of any such variation, or extension being granted to the 
+said Contractor(s) or for any forbearance, act or omission on the part of the DoIT&Cor any 
+indulgence by the DoIT&Cto the said Contractor(s) or by any such matter or thing whatsoever 
+which would but for this provision, have effect of so relieving us. 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 54 of 57 
+ 
+ 
+
+6. The liability of............................. (indicate the name of Bank), under this guarantee will not be 
+discharged due to the change in the constitution of the Bank or the contractor(s). 
+
+7. We.............................. (indicate the name of Bank), lastly undertake not to revoke this guarantee 
+except with the previous consent of the DoIT&Cin writing.  
+
+8. This performance Guarantee shall remain valid and in full effect, until it is decided to be discharged 
+by the DoIT&C. Notwithstanding anything mentioned above, our liability against this guarantee is 
+restricted to Rs........................... (Rupees..............................only). 
+
+9. It shall not be necessary for the DoIT&Cto proceed against the contractor before proceeding 
+against the Bank and the guarantee herein contained shall be enforceable against the Bank 
+notwithstanding any security which the DoIT&Cmay have obtained or obtain from the contractor. 
+
+10. We.............................. (indicate the name of Bank) verify that we have a branch at Jaipur, 
+Rajasthan. We undertake that this Bank Guarantee shall be payable at any of its branch at Jaipur, 
+Rajasthan. If the last day of expiry of Bank Guarantee happens to be a holiday of the Bank, the 
+Bank Guarantee shall expire on the close of the next working day. 
+
+11. We hereby confirm that we have the power(s) to issue this guarantee in your favour under the 
+memorandum and articles of Association/constitution of our bank and the undersigned is/are the 
+recipient of authority by express delegation of power(s) and has/have full power(s) to execute this 
+guarantee for the power of attorney issued by the bank. 
+
+ 
+Dated..........................day of....................For and on behalf of the <Bank> (indicate the Bank) 
+ 
+ 
+
+Signature 
+ 
+ 
+
+(Name & Designation) 
+ 
+ 
+
+Bank's Seal 
+ 
+
+ 
+The above performance Guarantee is accepted by the DoIT&C 
+
+For and on behalf of the DoIT&C 
+ 
+
+ 
+Signature 
+
+ 
+(Name & Designation) 
+
+ 
+
+  
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 55 of 57 
+ 
+ 
+
+ANNEXURE-10: DRAFT AGREEMENT FORMAT {to be mutually signed by selected bidder and 
+procuring entity} 
+
+This Contract is made and entered into on this ______day of ________, 2018 by and between Department of 
+Information Technology & Communications, Govt. of Rajasthan, having its head office at IT Building Yojana 
+Bhawan Campus, Tilak Marg, C-Scheme, Jaipur-302005, Rajasthan (herein after referred to as Purchaser/ 
+DoIT&C) which term or expression, unless excluded by or repugnant to the subject or context, shall include his 
+successors in office and assignees on ONE PART 
+ 
+And 
+M/s__________________, a company registered under _______________ with its registered office at 
+_____________________ (herein after referred as the “Successful Bidder/ Supplier”) which term or 
+expression, unless excluded by or repugnant to the subject or context, shall include his successors in office 
+and assignees on the OTHER PART. 
+ 
+Whereas, 
+Purchaser is desirous of appointing an agency for <project title>as per the Scope of Work and Terms and 
+Conditions as set forth in the RFP document dated _________ of <NIB No _________________>. 
+ 
+And whereas  
+The supplier represents that it has the necessary experience for carrying out the overall work as referred to 
+herein and has submitted a bid and subsequent clarifications for providing the required services against said 
+NIB and RFP document issued in this regard, in accordance with the terms and conditions set forth herein and 
+any other reasonable requirements of the Purchaser from time to time. 
+ 
+And whereas  
+Purchaser has accepted the bid of supplier and has placed the Work Order vide Letter No. 
+__________________dated _______, on which M/s__________ has given their acceptance vide their Letter 
+No._____________ dated ____________. 
+And whereas 
+The supplier has deposited a sum of Rs. ________________/- (Rupees _________________) in the form of 
+__________________ ref no. _________________ dated ______________ of ____________ Bank and valid 
+up to _____________ as security deposit for the due performance of the contract. 
+ 
+Now it is hereby agreed to by and between both the parties as under: - 
+
+1. The NIB Ref. No. ____________________________ dated ___________ and RFP document dated 
+_________ issued by DoIT&C along with its enclosures/ annexures, wherever applicable, are deemed to 
+be taken as part of this contract and are binding on both the parties executing this contract. 
+
+2. In consideration of the payment to be made by DoIT&C to supplier at the rates set forth in the work order 
+no. ____________________ dated_________ will duly supply the said articles set forth in “Annexure-I: Bill 
+of Material” thereof and provide related services in the manner set forth in the RFP, along with its 
+enclosures/ annexures and Technical Bid along with subsequent clarifications submitted by supplier. 
+
+3. The DoIT&C do hereby agree that if supplier shall duly supply the said articles and provide related services 
+in the manner aforesaid observe and keep the said terms and conditions of the RFP and Contract, the 
+DoIT&Cwill pay or cause to be paid to supplier, at the time and the manner set forth in the said conditions 
+of the RFP, the amount payable for each and every project milestone & deliverable. The mode of Payment 
+will be as specified in the RFP document. 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 56 of 57 
+ 
+ 
+
+4. The timelines for the prescribed Scope of Work, requirement of services and deployment of technical 
+resources shall be effected from the date of work order i.e. ____________ and completed by supplier within 
+the period as specified in the RFP document. 
+
+5. In case of extension in the delivery and/ or installation period/ completion period with liquidated damages, 
+the recovery shall be made on the basis of following percentages of value of stores/ works which supplier 
+has failed to supply/ install/ complete: - 
+
+a) Delay up to one fourth period of the prescribed delivery period, successful 
+installation & completion of work 
+
+2.5% 
+
+b) Delay exceeding one fourth but not exceeding half of the prescribed delivery period, 
+successful installation & completion of work. 
+
+5.0% 
+
+c) Delay exceeding half but not exceeding three fourth of the prescribed delivery 
+period, successful installation & completion of work. 
+
+7.5% 
+
+d) Delay exceeding three fourth of the prescribed delivery period, successful 
+installation & completion of work. 
+
+10.0% 
+
+Note:     
+i. Fraction of a day in reckoning period of delay in supplies/ maintenance services shall be eliminated 
+
+if it is less than half a day. 
+ii. The maximum amount of agreed liquidated damages shall be 10%. 
+iii. If supplier requires an extension of time in completion of contractual supply on account of occurrence 
+
+of any hindrances, he shall apply in writing to the authority which had placed the work order, for the 
+same immediately on occurrence of the hindrance but not after the stipulated date of completion of 
+supply.  
+
+iv. Delivery period may be extended with or without liquidated damages if the delay in the supply of 
+goods in on account of hindrances beyond the control of supplier. 
+
+6. All disputes arising out of this agreement and all questions relating to the interpretation of   this agreement 
+shall be decided as per the procedure mentioned in the RFP document. 
+
+ 
+
+In witness whereof the parties have caused this contract to be executed by their Authorized Signatories on this 
+
+_____day of _______________, 2018. 
+
+Signed By: Signed By: 
+
+ 
+ 
+() 
+Designation:,  
+Company: 
+
+ 
+ 
+ 
+(Authorized Signatory) 
+
+Department of IT&C, Govt. of Rajasthan 
+
+ 
+ 
+In the presence of: 
+
+ 
+ 
+In the presence of: 
+
+ 
+ 
+Designation: 
+Company: 
+
+ 
+ 
+ 
+Designation: 
+Department of IT&C, Govt. of Rajasthan 
+
+ 
+ 
+Designation: 
+Company: 
+
+ 
+ 
+Designation: 
+Department of IT&C, Govt. of Rajasthan 
+
+
+
+ 
+ 
+
+                                                              Draft RFP for Supply and Installation of DAS for RSDC 
+
+Page 57 of 57 
+ 
+ 
+
+ANNEXURE-11: MEMORANDUM OF APPEAL UNDER THE RTPP ACT, 2012 
+ 
+
+Appeal No ………of …………… 
+Before the ………………………… (First/ Second Appellate Authority) 
+ 
+1. Particulars of appellant: 
+
+a. Name of the appellant: <please specify> 
+b. Official address, if any: <please specify> 
+c. Residential address: <please specify> 
+
+ 
+2. Name and address of the respondent(s):  
+
+a. <please specify> 
+b. <please specify> 
+c. <please specify> 
+
+ 
+3. Number and date of the order appealed against and name and designation of the officer/ authority who 
+
+passed the order (enclose copy), or a statement of a decision, action or omission of the procuring entity in 
+contravention to the provisions of the Act by which the appellant is aggrieved: <please specify> 
+
+ 
+4. If the Appellant proposes to be represented by a representative, the name and postal address of the 
+
+representative: <please specify> 
+ 
+5. Number of affidavits and documents enclosed with the appeal: <please specify> 
+
+ 
+
+6. Grounds of appeal (supported by an affidavit): <please specify> 
+ 
+
+7. Prayer: <please specify> 
+ 
+ 
+Place …………………………………….  
+ 
+Date …………………………………… 
+ 
+ 
+
+Appellant's Signature 
+ 
+
+

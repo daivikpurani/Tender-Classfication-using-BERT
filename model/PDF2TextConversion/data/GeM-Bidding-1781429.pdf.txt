@@ -1,0 +1,601 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/705753
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 16:00:00
+
+Bid Opening Date/Time 20-07-2020 16:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Petroleum And Natural Gas
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Numaligarh Refinery Limited
+
+Total Quantity 5
+
+Item Category Camera for CCTV System
+
+Experience Criteria  1 Year (s)
+
+MSE Exemption for Years Of Experience  Yes
+
+Startup Exemption for Years Of Experience  Yes
+
+Document required from seller  Experience Criteria,Past Performance,Certificate
+(Requested in ATC),OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  50 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+MSE Purchase Preference
+
+                               1 / 7
+
+
+
+ 
+
+MSE Purchase Preference Yes
+
+ 
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to
+MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012
+dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and its subsequent
+Orders/Notifications issued by concerned Ministry. If the bidder wants to avail the Purchase
+preference, the bidder must be the manufacturer of the offered product in case of bid for supply of
+goods. Traders are excluded from the purview of Public Procurement Policy for Micro and Small
+Enterprises. In respect of bid for Services, the bidder must be the Service provider of the offered
+Service. Relevant documentary evidence in this regard shall be uploaded along with the bid in
+respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s) has/have quoted
+price within L-1+ 15% of margin of purchase preference /price band defined in relevant policy, such
+Seller shall be given opportunity to match L-1 price and contract will be awarded for percentage of
+25% of total value.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 50% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Camera For CCTV System ( 5 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+CAMERA TYPE Type of Camera
+Housing
+
+BULLET CAMERA BULLET CAMERA
+
+IP Camera Yes Yes
+
+PTZ Camera No No
+
+IMAGE SENSOR Image Sensor Type CMOS CMOS
+
+Image Sensor Size 0.34 1, 0.67, 0.5, 0.34,
+0.357, 0.37, 0.4 Or
+higher
+
+Camera Image
+Sensing capacity
+
+4MP 4MP
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/kG1mi_l3JwwyvS9xEj0neS6TYP3xladGibGCb7Wrs6c
+
+
+ 
+
+(Picture Mode)
+
+Resolution D1 (704 x 480
+Pixel),HD (1280 x 720
+Pixel),Full HD (1920 x
+1080 Pixel)
+
+D1 (704 x 480 Pixel),
+HD (1280 x 720 Pixel),
+Full HD (1920 x 1080
+Pixel)
+
+Day/Night Capable Yes Yes
+
+IR illumination
+Range(mtr)
+
+50 50
+
+OPTICS Lens Type Motorized Varifocal *
+
+Focal Length(mm) 2.8 - 12 2.8 - 12
+
+Iris Control Yes *
+
+Focus Mode Auto,Zooming *
+
+VIDEO Frame Rate (fps) 25,30 25, 30
+
+Video Compression H.264,H.265,H.265+ *
+
+Video Streaming Dual compressed
+stream
+
+Dual compressed
+stream
+
+PAN / TILT / ZOOM Panning Range NA *
+
+Pan Speed (deg/sec) NA NA
+
+Tilt Range below
+horizontal (deg)
+
+NA *
+
+Tilt Range above
+horizontal (deg)
+
+NA *
+
+Tilt Speed (deg/sec) NA NA
+
+Optical Zoom NA NA
+
+Digital Zoom 16X 16X
+
+AUDIO Audio Support Yes Yes
+
+Audio Compression G.722.1,G.711,A-Law,U-
+Law
+
+*
+
+Audio Streaming Two-Way *
+
+Number of Audio Input
+Channel
+
+1 *
+
+Number of Audio
+Output Channel
+
+1 *
+
+External Microphone
+Support
+
+Yes *
+
+ALARM Alarm Support Yes Yes
+
+Number of Alarm
+Digital Input
+
+1 *
+
+Number of Alarm Relay
+Output
+
+1 *
+
+Pre/Post Alarm Buffer Yes *
+
+SECURITY Multi Level User Yes *
+
+                               3 / 7
+
+
+
+ 
+
+ID/Password
+
+IP Address Filtering Yes *
+
+Encrypted Data
+Transmission
+
+HTTPS (SSL/TSL) *
+
+PERFORMANCE Minimum
+Illumination for
+Capturing Color
+Image
+
+0.05 0.05, 0.01 Or lower
+
+Electronic Shutter
+Speed(sec)
+
+1/25 to 1/50000 *
+
+WDR (Wide Dynamic
+Range)
+
+120 dB 120 dB
+
+SNR (Signal to Noise
+Ratio)
+
+60-70 60-70
+
+Auto Exposure Auto Level
+Control,Electronic Level
+Control
+
+*
+
+FEATURES White Balance (
+Indoor/Out door/Manual
+Selectable)
+
+Yes *
+
+Auto Gain Control
+(On/Off selectable)
+
+Yes *
+
+Back Light
+Compensation
+
+Yes *
+
+Remote Administration
+(Remote configuration
+and status using web
+based tool)
+
+Yes *
+
+Remote System Update
+Over Network
+
+Yes *
+
+PC Client (PC
+application client with a
+channel recording
+feature support)
+
+Yes *
+
+Web Client (Viewer
+through HTTP system
+configuration)
+
+Yes *
+
+On Screen Display in
+English
+
+Yes *
+
+ONVIF Support Yes *
+
+Presets 0 *
+
+Group Touring 0 *
+
+Privacy Zones 4 *
+
+NETWORK AND
+INTERFACE
+
+Supported Protocols UDP,SNMP,IGMP,DHCP,
+RTP,RSTP,HTTP,SMTP,F
+TP,ICMP,HTTPS,DNS,DD
+NS,RTSP,RTCP,NTP,UPn
+
+*
+
+                               4 / 7
+
+
+
+ 
+
+P,QoS,TCP/IP
+
+IP Support Static,Dynamic *
+
+Signal Processing Digital Signal Process *
+
+IPv6 ready Yes *
+
+Wireless No *
+
+Simultaneous
+Connections
+
+20 *
+
+STORAGE On Board SD Card
+Support
+
+Yes *
+
+SD Card Memory(GB) 128 *
+
+HOUSING Installation Type Indoor,Outdoor Indoor, Outdoor
+
+Material of the
+Housing
+construction
+
+Alluminium Alluminium
+
+Protection IP67 *
+
+Vandal Resistant
+Housing
+
+No *
+
+If Yes, IK rating NA *
+
+Mounting bracket Pole Mounted *
+
+Weight 0.815 *
+
+Dimensions (mm x mm
+x mm)
+
+- *
+
+POWER SUPPLY Power Input 12 V DC,PoE *
+
+Power Consumption 14 *
+
+Suitable Adapter Shall
+be Supplied to Make
+the Equipment Work on
+230 V (+/- 10 %), 50 Hz
+
+NA *
+
+OPERATING
+CONDITIONS
+
+Operating Temperature
+Range
+
+-20 to +50 deg C *
+
+Relative Humidity Non
+Condensing (%)
+
+95 *
+
+WARRANTY / SERVICES Warranty 3 3, 4, 5 Or higher
+
+Time for
+Replacement of
+Defective Product
+During Warranty
+Period
+
+48 12, 24, 36, 48 Or lower
+
+Supply of Compatible
+drivers and software
+included
+
+Yes *
+
+ENVIRONMENTAL /
+CERTIFICATION
+
+Availability of facility &
+infrastructure for
+verification of all
+parameters, features,
+
+Yes *
+
+                               5 / 7
+
+
+
+ 
+
+and capability with
+Seller
+
+Availability of facility to
+test signal to noise
+ratio of camera at 0-01
+lux
+
+Yes *
+
+Conformity to Dry Heat
+test at 55 degree C for
+16 hours as per IS
+:9000 latest
+
+Yes *
+
+Conformity to Damp
+heat at 40 degree C -
+95% RH (cyclic test):
+two cycles of 16+8
+hours as per IS: 9000
+latest
+
+Yes *
+
+Conformity to Cold test
+at -10 / -20 degree C
+for 4 hours as per IS:
+9000 latest, as
+applicable
+
+Yes *
+
+BIS Registration for
+safety general
+requirements as per IS
+13252 (Part 1):latest
+
+Yes *
+
+Availability of Type
+Test Report from
+Central Govt
+/NABL/ILAC accredited
+lab to prove conformity
+to specification
+
+Yes *
+
+Test Report Number
+and Date
+
+- *
+
+Name and Address of
+Test Lab
+
+- *
+
+Certification FCC,CE,UL *
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Arun Gogoi 785699,Numaligarh Refinery
+Limited, General Manager
+(Commercial) PO-NRP,
+
+5  20
+
+                               6 / 7
+
+
+
+ 
+
+Numaligarh
+
+Bid Specific Additional Terms and Conditions
+
+1.The bidder is required to upload, along with the bid, all relevant certificates such as BIS
+licence, type test certificate, approval certificates and other certificates as prescribed in the
+Product Specification given in the bid document.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

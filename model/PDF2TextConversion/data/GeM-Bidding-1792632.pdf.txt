@@ -1,0 +1,362 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/715940
+  Dated: 18-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 28-07-2020 12:00:00
+
+Bid Opening Date/Time 28-07-2020 12:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence Production
+
+Organisation Name Indian Ordnance Factories
+
+Office Name ***********
+
+Total Quantity 1
+
+Item Category Digital Storage Oscilloscope
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Digital Storage Oscilloscope ( 1 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+INPUT CHANNELS Type of input channels Analog Analog, Analog and Digital
+(Mixed Signal)
+
+Number of Analog
+Channels
+
+4 2, 4
+
+                               1 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/MTxqMep7xA_ssaa11iL5FC8j04fhQX7wcdDK-VQUBho
+
+
+ 
+
+Record Length Per
+Analog Channel
+Simultaneously
+
+10M points 2500 points, 10000 points,
+1M points, 4M points, 10M
+points, 100K points, 20M
+points, 5oM points, 2M
+points
+
+Sampling Rate Per
+Analog Channel
+Simultaneously
+
+1 GS/sec 250 MS/sec, 500 MS/sec, 1
+GS/sec, 2 GS/sec, 4 GS/sec,
+5 GS/sec, 10 GS/sec, 20
+GS/sec, 2.5 GS/sec, 40
+GS/sec
+
+Digital Channels no yes, no
+
+Number of Digital
+Channels
+
+NA 8, 16, NA
+
+Record Length Per
+Digital Channel
+Simultaneously
+
+NA *
+
+Sampling Rate Per
+Digital Channel
+Simultaneously
+
+NA 500MS/sec, 1GS/sec,
+2GS/sec, NA
+
+PERFORMANCE FEATURES Bandwidth 200 *
+
+Bandwidth Upgradability no yes, no
+
+Operating System Non -Windows Windows, Non -Windows, NA
+
+DISPLAY Display Type colour TFT colour LCD, colour TFT,
+colour LED, monochrome
+CRT
+
+Minimum Display Size 10 *
+
+MEASUREMENTS FEATURES Vertical Sensitivity 1mV/Div to 5 V/Div *
+
+Vertical Resolution 10 *
+
+Frequency Analysis Feature yes *
+
+In-built Frequency Counter yes *
+
+In-built Function Generator no *
+
+Time Base Range - *
+
+Time Base Accuracy 5 *
+
+GENERIC Minimum Detectable Pulse
+Width
+
+7 *
+
+Memory Upgradability no *
+
+Segmented Memory Feature
+Availability
+
+no *
+
+Waveform Update Rate
+(Waveform/sec)
+
+50000 *
+
+Coupling AC,DC,GND *
+
+Trigger Types Edge,pulse
+width,video,External,pattern
+
+*
+
+Measurements Math function-Add, subtract,
+multiply, divide,Automatic
+Measurements of Amplitude
+and time,Time & Voltage
+cursors,FFT (magnitude)
+
+*
+
+Acquisition Modes Normal,Peak
+Detect,Averaging,High
+Resolution,Roll
+Mode,Sample,Envelope
+
+*
+
+                               2 / 4
+
+
+
+ 
+
+I/O Interface USB,LAN Port/GPIB,Software
+for waveform analysis
+
+*
+
+Power Source 230 V AC *
+
+Any other features,if
+applicable
+
+- *
+
+ACCESSORIES Standard Accessories to be
+supplied
+
+- *
+
+OPERATING CONDITION Minimum Operating
+Temperature
+
+0 *
+
+Maximum Operating
+Temperature
+
+50 *
+
+Operating Humidity (RH) 90 *
+
+SERVICE Warranty 5 1, 2, 3, 4, 5 Or higher
+
+TEST REPORT DETAILS &
+TESTS
+
+conformity to Dry Heat for
+16 hrs at specified
+maximum temp , in
+accordance with IS:9000/par
+t-3/section-5/1977 latest
+
+yes *
+
+conformity to Damp Heat
+(Cyclic)Test for 2 Cycles of
+24 h each at a temp of 40
+degree C & 95% RH in
+accordance with
+IS:9000/part-5/section-1/
+1991 latest
+
+yes *
+
+conformity to Cold Test for 4
+hrs at specified minimum
+temp in accordance with IS:
+9000/part-2/section-4/1977
+latest
+
+yes *
+
+Availability of Test
+Reports from Central
+Govt / NABL approved /
+ILAC acredited lab to
+prove conformity to the
+specification
+
+yes yes, NO
+
+Test Report Number and
+date for specification(not a
+part of biddable parameter)
+
+- *
+
+Name and Address of the
+Test lab(not a part of
+biddable parameter)
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********BALANGIR 1  90
+
+Bid Specific Additional Terms and Conditions
+
+                               3 / 4
+
+
+
+ 
+
+1.Timely Servicing / rectification of defects during warranty period: After having been notified of the defects /
+service requirement during warranty period, Seller has to complete the required Service / Rectification within 10
+days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of
+Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit
+the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the
+Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after
+which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and
+cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service /
+rectification to the Buyer.
+
+2.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of
+Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

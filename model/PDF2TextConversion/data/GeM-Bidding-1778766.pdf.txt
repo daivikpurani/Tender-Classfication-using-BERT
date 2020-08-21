@@ -1,0 +1,647 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/703334
+
+  Dated: 14-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 24-07-2020 19:00:00
+
+Bid Opening Date/Time 24-07-2020 19:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Military Engineer Services
+
+Office Name ***********
+
+Total Quantity 10
+
+Item Category LED Luminaire for High Bay Lighting ( PAC Only ) 
+
+OEM Average Turnover (Last 3 Years)  10 Lakh (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Certificate (Requested in ATC),OEM Authorization
+Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 7
+
+
+
+ 
+
+1. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+
+LED Luminaire For High Bay Lighting ( 10 pieces ) ( Under PAC ) 
+
+Make na
+
+Model orbit250w
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+STANDARDS Description of store LED High Bay Lighting
+for ceiling suspension
+type
+
+*
+
+Safety requirements for
+Electronic Control Gear
+for LED Modules
+
+as per IS:15885 (Part
+2/Sec.13)
+
+*
+
+DC or AC supplied
+electronic control gear
+for LED modules -
+Performance
+requirements
+
+as per IS:16104:2012
+latest
+
+*
+
+Method of
+Measurement of Lumen
+Maintenance of solid
+state light (LED)
+sources
+
+as per IS:16105:2012
+latest
+
+*
+
+Method of Electrical
+and Photometric
+Measurements solid
+state light (LED)
+sources
+
+as per IS:16106:2012
+latest
+
+*
+
+LED Luminaire and
+Module
+
+as per IS:10322/Part
+5/Section 1/2012, IS:
+16107 (Part 2/Sec
+1):2012 -Type-B, and
+as per IS:
+16103(Part-2)/2012 -
+Type-3 latest
+
+*
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/tQvhMDKjuFT5hORQ1l9dK8ZpIau-1M9CZyek-4HtwDE
+
+
+ 
+
+"Photo biological safety
+of LEDs "
+
+as per IS:16108/2012
+(Exempt Group)
+
+*
+
+Enclosure protection
+(Ingress Protection)
+
+as per
+IS/IEC:60529:2001
+latest
+
+*
+
+Comply with BIS CRS
+for DC or AC Supplied
+Electronic Control gear
+for LED Modules
+
+Yes. as per IS:15885
+(Part 2/Sec.13)
+
+*
+
+BIS CRS Number - Must
+declare
+
+NA *
+
+Installation and
+commissioning
+
+No No
+
+Scope of installation
+and commissioning
+
+Not applicable Not applicable
+
+RATINGS Rated voltage (in Volts) 240 V, AC *
+
+Frequency (in Hz) 50 +/-2Hz *
+
+Operating input
+voltage range (in
+Volts)
+
+160 to 265 160 to 265
+
+Luminaire System
+Wattge (in Watts)
+
+250 250
+
+LED chip Efficacy
+(Lumen/watt)
+
+≥ 130 *
+
+Luminaire System
+Efficacy - Lumen output
+- (Lumen/watt)
+
+≥ 120 *
+
+Color Temperature
+(CCT) +/- 500 K (in
+Kelvin)
+
+4500 K 4500 K
+
+Colour Rendering Index
+(CRI) (in % age)
+
+≥ 70 *
+
+Power Factor (PF) ≥ 0.95 at full load *
+
+Total Harmonics
+Distortion (in %age)
+
+≤ 10 *
+
+Beam angle of light
+source (in degree)
+
+≥ 120 *
+
+Junction temperature
+(in deg. C)
+
+< 85 *
+
+"Temperature rating of
+capacitor (in deg. C)
+
+105 *
+
+LED Life ≥ 50000 Hours *
+
+Ingress Protection
+(IP) Rating of
+Luminaire (agreed to
+furnish test
+certificates to buyer
+
+IP 66 IP 66
+
+                               3 / 7
+
+
+
+ 
+
+/ consignee on
+demand)
+
+Impact resistance (If
+claimbed "Yes" -
+agreed to furnish
+test certificates to
+buyer / consignee on
+demand)
+
+Yes. IK07 (as per IEC
+62262:2002)
+
+Yes. IK07 (as per IEC
+62262:2002)
+
+Minimum operating
+temperature range
+(in deg. C)
+
+-10 to 0 -10 to 0
+
+Maximum operating
+temperature range
+(in deg. C)
+
+55 55.0 - 60.0 Or higher
+
+Humidity - RH (in %
+age)
+
+10 to 95 *
+
+PROTECTION Short circuit Protection Yes *
+
+Over load protecton Yes *
+
+Over Voltage protection Yes *
+
+Other protection Reverse polarity *
+
+SAFETY High voltage witstand
+test between supply
+terminals and body of
+the unit
+
+1.5 KV for 1 Minute *
+
+Insulation resistance
+between earth and
+current carrying part
+
+≥ 100 M ohm *
+
+The luminaire shall
+be protected against
+surges and
+transients ( Internal)
+
+≥ 5 KV ≥ 5 KV
+
+The luminaire shall
+be protected against
+surges and
+transients (External)
+
+≥ 10 KV ≥ 10 KV
+
+Flame/Fire proof
+compliance (If
+claimbed - agreed to
+furnish test
+certificates to buyer
+/ consignee on
+demand)
+
+No No
+
+Other compliacne (If
+claimbed - agreed to
+furnish test
+certificates to buyer
+/ consignee on
+demand)
+
+No No
+
+CONSTRUCTION Shape of Luminaire Round Round
+
+                               4 / 7
+
+
+
+ 
+
+Type of mounting Metallic adjustable
+Brackets with Eye Bolt
+
+Metallic adjustable
+Brackets with Eye Bolt
+
+Installation height
+range from floor
+level (in m) - Must
+declare
+
+15 15
+
+Lamp housing (single
+piece housing)
+
+Pressure die cast
+aluminium alloy
+
+*
+
+Heat sink along with
+sufficient heat sink fins
+to dissipate heat
+effectively
+
+Yes *
+
+Type of coating Epoxy powder coated *
+
+Colour of Luminaire White *
+
+Material of Lamp
+(Luminaire) cover
+
+Heat Resistant
+Toughened Glass
+
+*
+
+Material of all fastners Stainless Steel *
+
+Weather proof gasket Yes *
+
+Optic Lens No No
+
+Luminaire comprises
+with separate
+compartment for
+control gear
+
+Yes *
+
+Suitable connector
+between driver output
+and LED
+
+Yes *
+
+Type of Control Gear Constant Current Constant Current
+
+Number of electronic
+control gear on each
+luminaire (power
+supplies) - (in Nos.)
+
+1 1
+
+PCB Grade FR4 *
+
+Type of LED SMD LED Chip ( surface
+Mounting Device)
+
+*
+
+Luminaire fitted with
+connecting cables
+for input power
+
+ISI Marked 3 Core cable
+for input power (
+Length:250 mm )
+
+ISI Marked 3 Core cable
+for input power (
+Length:250 mm )
+
+Accessories for each
+luminaire
+
+Die cast aluminium
+brackets
+
+Die cast aluminium
+brackets
+
+MARKING Manufactures Name
+and brand on the
+Luminaire body
+
+Engraved/ Embossed *
+
+Marking/Identificatio
+n details on inside of
+each luminaire and
+outside of each
+packing box
+
+System Wattage System Wattage
+
+                               5 / 7
+
+
+
+ 
+
+Marking/Identificatio
+n details on each
+control gear
+
+Manufacturer's Name Manufacturer's Name
+
+CERTIFICATIONS Warranty period (in
+Months)
+
+24 24, 36, 48, 60 Or
+higher
+
+Availability of test
+reports from Central
+Govt. Lab/NABL/ILAC
+accrediated
+laboratory to prove
+conformity of the
+specification
+
+No No
+
+Test report number and
+date if claimbed "Yes"
+If No write NA
+
+NA *
+
+Name and addres of
+lab (If No test reports
+write NA)
+
+NA *
+
+Agreed to furnish LM
+79 , LM 80 reports
+from Central
+Government
+lab/NABL/ILAC
+accrediated lab
+
+Yes as per
+IS:16106:2012 latest
+and as per
+IS:16105:2012 latest
+
+Yes as per
+IS:16106:2012 latest
+and as per
+IS:16105:2012 latest
+
+Agreed to furnish TM
+21 report from
+Central Government
+lab/NABL/ILAC
+accredited lab
+
+No No
+
+Agree to furnish Photo
+Biological report from
+Central Government
+lab/NABL/ILAC
+accredited lab
+
+Yes *
+
+Agreed to furnish BIS
+CRS certificate for DC
+or AC Supplied
+Electronic Control gear
+for LED Modules from
+BIS
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti Address Quantity Delivery Days
+
+                               6 / 7
+
+
+
+ 
+
+ng Officer
+
+1 *********** ***********HYDERABAD 10  90
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2. ISO 9001: The bidder must have ISO 9001 certification.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

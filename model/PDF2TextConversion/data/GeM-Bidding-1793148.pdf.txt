@@ -1,0 +1,389 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/716411
+  Dated: 18-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 21-07-2020 16:00:00
+
+Bid Opening Date/Time 21-07-2020 16:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 50 (Days)
+
+Ministry/State Name Ministry Of Railways
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name West Central Railway
+
+Total Quantity 10
+
+Item Category Pulse Oximeter
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Document required from seller  OEM Authorization Certificate
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the
+buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Pulse Oximeter ( 10 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+                               1 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/GNfeCh43lW6w9AqwvmOTrOrR9v7aRDa_MU2GqEKZ_n0
+
+
+ 
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Conformity to Standards - *
+
+Certification number and
+date
+
+- *
+
+"Electrical safety conforms
+to standards for electrical
+safety"
+
+IEC-60601-1 or equivalent
+BIS
+
+*
+
+Performance Parameters Type of Pulse Oximeter FINGER TIP FINGER TIP
+
+Should work during motion
+and very low perfusion
+conditions
+
+Yes *
+
+Special Signal processing
+Technology (Motion
+artifact rejection)
+
+Masimo - SET technology Masimo - SET technology
+
+SPO2 probes Reusable Reusable
+
+Oxygen saturation Range 0-100% *
+
+Pulse rate 25-240 BPM *
+
+Display of SPO2 and PR digital display with
+plethysmograph
+
+digital display with
+plethysmograph
+
+Accuracy ± 5 % *
+
+Type of Patient Pediatric,Neonatal Pediatric, Neonatal
+
+Should be shock proof Yes Yes
+
+Display (with contrast
+adjust-ability)
+
+LCD LCD
+
+Display should be
+Readable from at least 3
+feet
+
+Yes Yes
+
+Saturation displayed on
+the screen
+
+Yes Yes
+
+Pulse Rate displayed on
+the screen
+
+Yes Yes
+
+Perfusion Index
+displayed on the screen
+
+No No
+
+Status of battery
+charging displayed on
+the screen
+
+Yes Yes
+
+Sensor off /on status Yes Yes
+
+Audible and visual
+Alarms
+
+Yes Yes
+
+Alarm override facility
+should be present
+
+No No
+
+Trends 48 hrs 48 hrs
+
+Type of trend display Tabular Tabular
+
+Data interval in sec 10 *
+
+Power source Battery operated Battery operated
+
+Automatic switch from
+mains to battery in case
+of power failure
+
+NA NA
+
+RS 232C interface for
+data communication and
+
+NA NA
+
+                               2 / 4
+
+
+
+ 
+
+transfer
+
+Should have provisions
+for wireless and blue
+tooth connectivity
+
+NA NA
+
+Patient extension cable Not Provided Not Provided
+
+Power consumption in watts 2 *
+
+Operating Temperature "Ambient temperature of 0
+to 40 deg C and relative
+humidity of 15 to 90%"
+
+*
+
+Weight of the machine in kg 0.2 *
+
+Protective splash proof
+case for clean and
+strogage and safe
+transport provided
+
+No No
+
+Length of power cable NA NA
+
+Noise level in dB 42 *
+
+Display must allow easy
+viewing in all ambient light
+levels
+
+Yes *
+
+Probes Type of probe Pediatric,Neonatal Pediatric, Neonatal
+
+Probe usage Reusable Reusable
+
+Number of probes
+provided (Hint: in case
+adult , pediatric and
+neonatal are selected for
+type of probe all the
+three have to be given
+and in case adult &
+pediatric are selected
+both are to be given)
+
+1 each 1 each
+
+NIBP Parameters Non invasive blood
+pressure (NIBP) provided
+
+Yes Yes
+
+Type of BP monitoring Neonatal Neonatal
+
+NIBP range in mmH 20-400 20-400
+
+Cuff size Pediatric,Neonatal,Extra
+Large,NA (If NIBP not
+provided)
+
+Pediatric, Neonatal, Extra
+Large, NA (If NIBP not
+provided)
+
+Number of cuff's
+provided
+
+1 each 1 each
+
+Warranty in years
+(without probes)
+
+1 1
+
+Warranty for probes in
+years
+
+1 1
+
+Reports Confirmity to
+Manufactures
+Certification
+
+ISO 9001 & ISO 13485 ISO 9001 & ISO 13485
+
+ISO/ ICMED Certification
+number and date
+
+- *
+
+Copies of all certifcations to
+be furnished to buyer on
+demand at time of supplies
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+                               3 / 4
+
+
+
+ 
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Sunanda Patil 482002,MEDICAL DIRECTOR,
+CENTRAL HOSPITAL INDIRA
+MARKET JABALPUR
+
+10  15
+
+Bid Specific Additional Terms and Conditions
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2.ISO 9001: The bidder must have ISO 9001 certification.
+3.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone
+
+No. for Service Support.
+4.IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered
+
+office in India to provide after sales service support in India. The certificate to this effect should be submitted.
+5.Bidder financial standing: The bidder should not be under liquidation, court receivership or similar
+
+proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

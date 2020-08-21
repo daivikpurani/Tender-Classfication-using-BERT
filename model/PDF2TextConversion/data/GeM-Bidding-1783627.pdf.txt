@@ -1,0 +1,638 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/707787
+
+  Dated: 13-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 28-07-2020 10:00:00
+
+Bid Opening Date/Time 28-07-2020 10:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence Reseach & Development
+
+Organisation Name Office Of Dg (ace)
+
+Office Name ***********
+
+Total Quantity 1
+
+Item Category Storage System
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  Yes
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 2.00
+
+EMD Amount 33600
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 10.00
+
+Duration of ePBG required (Months). 38
+
+                               1 / 7
+
+
+
+ 
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+DIRECTOR SASE
+Sase Chandigarh, Department of Defence Reseach & Development, Office of DG (ACE), Ministry of
+Defence
+(The Director)
+
+Splitting
+
+ Bid splitting not applied.
+
+Storage System ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Specification Storage System
+Type
+
+SAN SAN
+
+Group2 Storage Capacity
+(TB)
+
+50 50.0 - 5000.0 Or higher
+
+Group3 Hardware Form Factor
+of Storage System (RU)
+
+2 *
+
+Disk Disk Type NL-SAS NL-SAS
+
+Speed of dual ported
+disk drive in Gbps
+
+12 *
+
+Total Numbers of Drive
+Slots
+
+192 *
+
+Number of Drive
+Slots Populated with
+drives of different
+type in the Storage
+System
+
+12 7, 12
+
+Total no of drive slot
+populated with SSD
+
+0 *
+
+Total no of drive slot
+populated with Flash
+Drive
+
+0 *
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/Ay5xZaf2na-SDj09CtYJrJYX_SZUSLvlP_-4GNpmKGY
+
+
+ 
+
+Total no of drive slot
+populated with SAS
+
+0 *
+
+Total no of drive slot
+populated with NL-SAS
+
+12 *
+
+Drive Type Wise
+Storage Capacity of
+System in GB
+
+- *
+
+Automated Storage
+tiering feature
+across the populated
+Drives types( in case
+of multiple drive
+system)
+
+Yes Yes
+
+Automated Storage
+tiering Software
+License Included
+
+Yes *
+
+Hot Spares Yes *
+
+Number of Populated
+Disks per Hot Spare
+
+12 *
+
+Provision for additional
+Capacity
+
+No *
+
+If Yes, Number of Drive
+Slots available to
+achieve additional
+capacity
+
+- *
+
+Connectivity/Port Type of Front end Ports - *
+
+Number of Front end
+Ports
+
+4 4
+
+Speed of front end
+Ports in Gbps
+
+16 More than 10.0 Or
+higher
+
+Type of Back end Ports - *
+
+Number of Back end
+Ports
+
+4 More than 4.0 Or
+higher
+
+Speed of Back end
+ports in Gbps
+
+6 More than 6.0 Or
+higher
+
+Number of Remote
+Replication Ports(
+FC/Ethernet)
+
+NA *
+
+Controllers Number of
+Controllers/VSD/
+Node available in the
+storage System on
+common back plane
+without using
+external
+switch/device OR
+without common
+backplane using
+switches
+
+2 2
+
+                               3 / 7
+
+
+
+ 
+
+RAID Level Support 0,1,5,6,10 *
+
+Active-Active
+Controllers Configured
+in HA
+
+Yes *
+
+Active Stand by
+Controller Configured in
+HA
+
+No *
+
+System Cache Cache Availability
+Type
+
+Global Global, Federrated
+
+Total Configurable
+Cache (GB)
+
+16 16, 64, 128
+
+Group4 Wide Stripping or
+equivalent feature
+
+Yes *
+
+Group5 No of Snapshot Copies
+Per Volume
+
+64 *
+
+License for Snapshot
+included
+
+Yes *
+
+Data Replication Remote Replication Yes *
+
+Remote Replication
+license included
+
+No *
+
+Synchronized
+Replication Support
+
+No *
+
+Synchronous
+Replication license
+included
+
+No *
+
+Asynchronous
+Replication Support
+
+Yes *
+
+Asynchronuos
+Replication license
+included
+
+No *
+
+3-DC Zero Data Loss
+Support
+
+No *
+
+If Yes, Supported
+Replication Topology
+for 3-DC Zero Data
+Loss
+
+- *
+
+Group6 Type of Data
+Compression
+
+NA *
+
+Type of Data
+Deduplication
+
+NA *
+
+No Single point of
+Failure with Non-
+Disruptive replacement
+of Hardware
+
+Yes *
+
+The Storage provide
+Non disruptive
+Firmware /Microcode
+
+Yes *
+
+                               4 / 7
+
+
+
+ 
+
+upgrade
+
+Firmware upgrade
+without any controller
+reboot
+
+No *
+
+Encryption Mode Encryption Required No *
+
+Type of Data at Rest
+Encryption
+
+NA *
+
+Group7 Storage management
+software for
+configuration and multi-
+pathing(part of the
+supply).
+
+YES *
+
+Group8 Multi-pathing and load
+balancing and fail over
+software (part of
+supply) with license for
+windows/Linux servers
+or shall support native
+multipathing of OS.
+
+YES *
+
+Group 9 Protocols Supported by
+the storage system
+from day one
+
+- *
+
+Group 10 Operating System
+Platform and Clustering
+Supported by the
+Storage from day one
+
+- *
+
+Group11 Operating Temp Range - *
+
+Group12 Storage Temp Range - *
+
+Group13 Operating Humidity
+(Rh)
+
+- *
+
+Group14 Storage Humidity (Rh) - *
+
+Group15 BIS Registration under
+CRS of MeiTY
+
+Yes *
+
+If Yes, BIS Registration
+No under CRS of MeiTY
+otherwise indicate N/A
+
+- *
+
+BIS Registration
+Certificate shall be
+furnished when
+demanded by the
+buyer
+
+Yes *
+
+Group16 Storage System is
+compliant with IPv6
+
+Yes *
+
+Group17 Standby power
+consumption of System
+in Watt
+
+- *
+
+Group18 Scope of Supply It includes installation,
+commissioning &
+
+*
+
+                               5 / 7
+
+
+
+ 
+
+integration togather
+with all necessary
+software to make the
+system fully functional
+as intended.
+
+Group19 On Site OEM
+Warranty
+
+3 3, 5
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********CHANDIGARH 1  60
+
+Bid Specific Additional Terms and Conditions
+
+1.Non return of Hard Disk: As per Buyer organization’s Security Policy,Faulty Hard Disk of
+Servers/Desktop Computers/ Laptops etc. will not be returned back to the OEM/supplier
+against warranty replacement.
+
+2.Bidders shall quote only those products in the bid which are not obsolete in the market and
+has at least 5 years residual market life i.e. the offered product shall not be declared end-of-
+life by the OEM before this period.
+
+3.Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid
+documents. Buyers can match and verify the Data Sheet with the product specifications
+offered. In case of any unexplained mismatch of technical parameters, the bid is liable for
+rejection.
+
+4.The buyer organization is an institution eligible for concessional rates of GST as notified by
+the Government of India. The goods for which bids have been invited fall under classification
+of GST concession and the conditions for eligibility of concession are met by the institution.
+A certificate to this effect will be issued by Buyer to the Seller after award of the Contract.
+Sellers are requested to submit their bids after accounting for the Concessional rate of GST.
+Applicable Concessional rate of GST : 5%
+Notification No.and date : 47/2017 dated 14/11/2017
+
+5.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+6. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+7.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+                               6 / 7
+
+
+
+ 
+
+8.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+9.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+10.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents
+sought in the Bid document, ATC and Corrigendum if any.
+
+11.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 7 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+12.Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt
+also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in
+the name of The Director SASE A/C (Name of the Seller). The bank should certify on it that
+the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For
+release of Security Deposit, the FDR will be released in favour of bidder by the Buyer after
+making endorsement on the back of the FDR duly signed and stamped along with covering
+letter. Successful Bidder has to upload scanned copy of the FDR document in place of PBG
+and has to ensure delivery of hard copy of Original FDR to the Buyer within 15 days of award
+of contract.
+
+13.Bidders can also submit the EMD with Account Payee Demand Draft in favour of The Director
+SASE payable at Chandigarh.
+Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure
+delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date.
+
+14.Bidders can also submit the EMD with Fixed Deposit Receipt made out or pledged in the
+name of The Director SASE A/C (Name of the Seller). The bank should certify on it that the
+deposit can be withdrawn only on the demand or with the sanction of the pledgee. For
+release of EMD, the FDR will be released in favour of bidder by the Buyer after making
+endorsement on the back of the FDR duly signed and stamped along with covering letter.
+Bidder has to upload scanned copy / proof of the FDR along with bid and has to ensure
+delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date.
+
+15.Bidders can also submit the EMD with Banker’s Cheque in favour of The Director SASE
+payable at Chandigarh.
+Bidder has to upload scanned copy / proof of the BC along with bid and has to ensure
+delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

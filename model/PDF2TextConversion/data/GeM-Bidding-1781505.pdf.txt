@@ -1,0 +1,1791 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/705825
+
+  Dated: 13-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 23-07-2020 17:00:00
+
+Bid Opening Date/Time 23-07-2020 17:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Electronics And Information Technology
+
+Department Name Na
+
+Organisation Name National Informatics Centre (nic)
+
+Office Name National Informatics Centre-head Quaters
+
+Total Quantity 1
+
+Item Category API MANAGEMENT SOFTWARE
+
+Bidder Turnover (Last 3 Years)  450 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  3600 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years Of Experience and
+Turnover
+
+ Yes
+
+Startup Exemption for Years Of Experience
+and Turnover
+
+ Yes
+
+Document required from seller  Experience Criteria,Bidder Turnover,OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  Yes
+
+Inspection Required  No
+
+Estimated Bid Value  100000000
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 2.00
+
+EMD Amount 2000000
+
+ePBG Detail
+
+                             1 / 16
+
+
+
+ 
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 5.00
+
+Duration of ePBG required (Months). 62
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+Deputy director
+National Informatics Centre-head Quaters, NA, National Informatics Centre (NIC), Ministry of
+Electronics and Information Technology
+(P.r.dabral)
+
+Splitting
+
+ Bid splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+
+API MANAGEMENT SOFTWARE ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+BASIC INFORMATION Types of API
+Management
+
+1. Software 1. Software
+
+                             2 / 16
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/sa1RbOs9m6xTiPyGOjLesuLCbXZxHWliETzdb1KjcSQ
+
+
+ 
+
+Solution
+
+If Software, then OS
+supported
+
+2. Linux,Linux,Ubuntu,R
+edHat
+
+2. Linux, Linux, Ubuntu,
+RedHat
+
+Offered items are 2. Product and
+Technical Support
+Service
+
+2. Product and
+Technical Support
+Service
+
+Type of Product
+Module
+
+1. Gateway Module .,2.
+Consumer/Developer
+Module .,3. Publisher
+Module.,4. API Security
+Management Module,5.
+API Manager
+Module.,6.Reporting /
+Analytics / Alerts
+Module .
+
+1. Gateway Module ., 2.
+Consumer/Developer
+Module ., 3. Publisher
+Module., 4. API Security
+Management Module,
+5. API Manager
+Module., 6.Reporting /
+Analytics / Alerts
+Module .
+
+Deployment option 1. On-site/On-
+premise/Private
+Cloud,3. Hybrid cloud.
+
+1. On-site/On-
+premise/Private Cloud,
+3. Hybrid cloud.
+
+If On Site/Premise of
+Buyer as pure SW
+installation then If
+on-site, then
+
+1. Container Based,2.
+Server/VM based
+Deployment
+
+1. Container Based, 2.
+Server/VM based
+Deployment
+
+If On-site, then typical
+size of
+container/VM/Server
+instance in terms of
+CPU/Memory/Storage
+
+- *
+
+If On-site, then
+Sizing per
+Container/VM/Server
+Instance (in TPS)
+Hint :- Select'0' if
+not applicable
+
+500 500.0 - 100000.0 Or
+higher
+
+Maximum
+Throughput Per
+Second (TPS)
+handled by the
+product in
+production
+deployment (Hint :-
+Select '0' if not
+applicable)
+
+5000 5000.0 - 100000.0 Or
+higher
+
+OEM Model / Part No - *
+
+Software Description - *
+
+Software Version - *
+
+Date of Launch of
+Version
+
+- *
+
+Training Options On-Site
+classroom,Training
+Material,Virtual
+
+On-Site classroom,
+Virtual, Training
+Material
+
+                             3 / 16
+
+
+
+ 
+
+No of days Training
+Provided
+
+5 5
+
+Number of Years
+upto which Support
+is available from
+OEM
+
+5 5
+
+SCOPE OF LICENCE Types of Licence 1.Perpetual 1.Perpetual
+
+Licencing option 1. Per Core,2. Per
+VCPU,7. Transactions
+Per Second
+
+1. Per Core, 2. Per
+VCPU, 7. Transactions
+Per Second
+
+If API Calls Per
+Second in the above
+then TPS
+(Transaction per
+second) of the
+offered product
+(Hint Select '0' if not
+applicable)
+
+0 0.0 - 100000.0 Or
+higher
+
+If Gateway in the
+above then TPS
+(Transaction per
+second) of the
+offered product
+(Hint :- Select '0' if
+not applicable)
+
+0 0 - 100000
+
+"If Subscription
+Based, Duration of
+Subscription (in
+months) (Hint :
+Select '0' if not
+applicable)"
+
+0 0 - 60
+
+Gateway Module Gateway
+Deployment
+Features
+
+1) Support deployment
+of multiple API
+gateways as per
+requirements either
+centrally or distributed
+as per Buyer(user)
+infrastructure.,2)
+Support deployment of
+API gateways across
+multiple locations, data
+centers,Buyer(user)
+cloud and the same to
+be manageable
+through single
+centralized console.,3)
+Support independent
+auto-scalability of API
+gateways instances.,4)
+Support individual
+deployment of API
+Gateways for each or
+combined API services
+
+1) Support deployment
+of multiple API
+gateways as per
+requirements either
+centrally or distributed
+as per Buyer(user)
+infrastructure., 2)
+Support deployment of
+API gateways across
+multiple locations, data
+centers,Buyer(user)
+cloud and the same to
+be manageable
+through single
+centralized console., 3)
+Support independent
+auto-scalability of API
+gateways instances., 4)
+Support individual
+deployment of API
+Gateways for each or
+combined API services
+
+                             4 / 16
+
+
+
+ 
+
+per tenant wise.,5)
+Support deployment of
+API Gateways in
+containers format for
+micro services
+applications.,6)
+Capable to run
+separate API gateway
+deployment &
+instances for each
+tenant of API
+Management
+solution.,7) Support
+direct integration from
+application code using
+plugins for access
+control & traffic
+reporting to reduce
+another layer of API
+gateway deployments
+for network sensitive
+applications.
+
+per tenant wise., 5)
+Support deployment of
+API Gateways in
+containers format for
+micro services
+applications., 6)
+Capable to run
+separate API gateway
+deployment &
+instances for each
+tenant of API
+Management solution.,
+7) Support direct
+integration from
+application code using
+plugins for access
+control & traffic
+reporting to reduce
+another layer of API
+gateway deployments
+for network sensitive
+applications.
+
+API Gateway Policies
+Features
+
+1) Provide out of the
+box features / policies /
+plugins to enable /
+disable capabilities in
+API gateway as per
+requirements.,2)
+Support addition,
+customization, deletion
+of features / policies /
+plugins into API
+gateway.,3) Support
+Cross-Origin Resource
+Sharing (CORS)
+through its API gateway
+& to be customizable to
+define the values from
+centralized admin
+console.,4) Support
+modification of
+upstream URL based on
+request path.,5)
+Support blacklisting /
+whitelisting of IPs for
+each API gateway
+instance through
+centralized admin
+console of tenant.,6)
+Support anonymous
+access for selected
+exposed APIs through
+its gateway.,7) Support
+control of HTTP request
+and response headers
+through API
+gateway.,8) Support
+
+1) Provide out of the
+box features / policies /
+plugins to enable /
+disable capabilities in
+API gateway as per
+requirements., 2)
+Support addition,
+customization, deletion
+of features / policies /
+plugins into API
+gateway., 3) Support
+Cross-Origin Resource
+Sharing (CORS)
+through its API gateway
+& to be customizable to
+define the values from
+centralized admin
+console., 4) Support
+modification of
+upstream URL based on
+request path., 5)
+Support blacklisting /
+whitelisting of IPs for
+each API gateway
+instance through
+centralized admin
+console of tenant., 6)
+Support anonymous
+access for selected
+exposed APIs through
+its gateway., 7)
+Support control of HTTP
+request and response
+headers through API
+gateway., 8) Support
+
+                             5 / 16
+
+
+
+ 
+
+customizable access
+logging per service for
+auditing purpose
+through API gateway
+
+customizable access
+logging per service for
+auditing purpose
+through API gateway
+
+Support API gateway
+plugin for
+
+1) Java,3) PHP,2)
+.Net,4) Node.JS,5)
+Ruby,6) Python,7) Curl
+
+1) Java, 2) .Net, 3) PHP,
+4) Node.JS, 5) Ruby, 6)
+Python, 7) Curl
+
+Consumer/Developer
+Module
+
+Consumer/Developer
+Module Features
+
+1) Provide out of the
+box integrated
+developer & partner
+portal for API
+documentation,
+onboarding & self-
+service.,2) Provide
+customizable developer
+portal for creating rich
+user experiences.,3)
+Support self-sign up &
+unlimited developer
+accounts.,4) Support
+self-signup with
+mandatory tenant
+admin approval.,5)
+Support separate
+developer dashboard
+for each tenants,6)
+Support self-signup
+without mandatory
+admin approval only for
+specific API access
+plans and if enabled by
+admin.,7 Support
+creation of multiple
+users under one
+consumer/developer
+account.,8) Provide
+messages &
+notification services
+under developer portal
+for collaboration and
+ease of
+communications.,9)
+Provide Messages and
+notification services
+under developer portal
+for new versions of
+subscribed APIs.,10)
+Developer portal allows
+easy discovery of APIs
+through browse ,
+search by provider ,
+tags or name.,11)
+Developer portal has
+option for API Testing &
+Evaluation.,12)
+Developer Portal has
+
+1) Provide out of the
+box integrated
+developer & partner
+portal for API
+documentation,
+onboarding & self-
+service., 2) Provide
+customizable developer
+portal for creating rich
+user experiences., 3)
+Support self-sign up &
+unlimited developer
+accounts., 4) Support
+self-signup with
+mandatory tenant
+admin approval., 5)
+Support separate
+developer dashboard
+for each tenants, 6)
+Support self-signup
+without mandatory
+admin approval only for
+specific API access
+plans and if enabled by
+admin., 7 Support
+creation of multiple
+users under one
+consumer/developer
+account., 8) Provide
+messages &
+notification services
+under developer portal
+for collaboration and
+ease of
+communications., 9)
+Provide Messages and
+notification services
+under developer portal
+for new versions of
+subscribed APIs., 10)
+Developer portal allows
+easy discovery of APIs
+through browse ,
+search by provider ,
+tags or name., 11)
+Developer portal has
+option for API Testing &
+Evaluation., 12)
+Developer Portal has
+
+                             6 / 16
+
+
+
+ 
+
+the option to provide
+Feedback on API and
+Forum support - to
+generate queries with
+respect to APIs they
+consume.,13)
+Developer portal has
+the option to
+automatically generate
+client side code in
+popular languages like
+Javascript, node.js,
+Python, Ruby, PHP,
+Java, .net
+
+the option to provide
+Feedback on API and
+Forum support - to
+generate queries with
+respect to APIs they
+consume., 13)
+Developer portal has
+the option to
+automatically generate
+client side code in
+popular languages like
+Javascript, node.js,
+Python, Ruby, PHP,
+Java, .net
+
+Publisher Module Publisher Module
+Features
+
+1) Support REST &
+SOAP APIs.,2) Defining
+API specifications using
+standards like Swagger
+2.0 and open API
+specification(OAS) 3.0,
+provides option to
+upgrade APIs defined in
+older version to latest
+standards. The system
+able to autogenerte
+WSDL or Swagger with
+ISO standard.,3) The
+API management
+solution able to
+accomodate multiple
+versions in production
+simultaneously, either
+to accomodate older
+clients or different
+technologies like SOAP,
+REST and JSON.,4)
+Manage API lifecycle to
+Create, Prototype,
+Publish, Block,
+Deprecate, and
+retire.,5) Provide REST
+API to integrate with
+any external 3rd Party /
+Client applications.,6)
+Provide REST API's for
+API configuration
+management including
+but not limited to
+account management,
+service management,
+security, analytics
+etc.,7) Provide an
+interface for its own API
+documentations and
+testing.,8) Support for
+publishing modern
+RESTful APIs for
+
+1) Support REST &
+SOAP APIs., 2) Defining
+API specifications using
+standards like Swagger
+2.0 and open API
+specification(OAS) 3.0,
+provides option to
+upgrade APIs defined in
+older version to latest
+standards. The system
+able to autogenerte
+WSDL or Swagger with
+ISO standard., 3) The
+API management
+solution able to
+accomodate multiple
+versions in production
+simultaneously, either
+to accomodate older
+clients or different
+technologies like SOAP,
+REST and JSON., 4)
+Manage API lifecycle to
+Create, Prototype,
+Publish, Block,
+Deprecate, and retire.,
+5) Provide REST API to
+integrate with any
+external 3rd Party /
+Client applications., 6)
+Provide REST API's for
+API configuration
+management including
+but not limited to
+account management,
+service management,
+security, analytics etc.,
+7) Provide an interface
+for its own API
+documentations and
+testing., 8) Support for
+publishing modern
+RESTful APIs for
+
+                             7 / 16
+
+
+
+ 
+
+Web,mobile and IoT
+consumption. Option to
+orchestrate modern
+REST and OData APIs
+from existing or legace
+backend APIs,9) APIs
+from multiple data
+sources—including
+RDBMS, NoSQL,
+existing APIs and
+JSON—provide an
+efficient point-and-click
+interface that supports
+pagination, optimistic
+locking, filtering,
+sorting and more.
+
+Web,mobile and IoT
+consumption. Option to
+orchestrate modern
+REST and OData APIs
+from existing or legace
+backend APIs, 9) APIs
+from multiple data
+sources—including
+RDBMS, NoSQL,
+existing APIs and
+JSON—provide an
+efficient point-and-click
+interface that supports
+pagination, optimistic
+locking, filtering,
+sorting and more.
+
+API Security
+Manager Module
+Features
+
+1) Support API
+authentication using
+system auto generated
+API app id & API key
+combination. The
+application is identified
+via the App ID and
+authenticated via the
+App Key.,2) Support API
+authentication using
+JWT Token / OpenID
+Connect.,3) Provide
+option to regenerate
+the API keys either by
+tenant admin or
+directly by API
+consumer organization
+admin / developer.,4)
+Provide option to use
+custom key instead of
+auto generated for API
+authentication.,5)
+Capable to include
+single sign on solution
+for JWT token
+generation / OpenID
+connect token
+generation &
+authentication.,6)
+Support all methods for
+authentication
+parameters locations
+as following - headers,
+query parameters,
+body parameters, HTTP
+basic authentication
+etc.,7) Support
+customization of key
+parameter name
+through web admin
+user interface.,8)
+
+1) Support API
+authentication using
+system auto generated
+API app id & API key
+combination. The
+application is identified
+via the App ID and
+authenticated via the
+App Key., 2) Support
+API authentication
+using JWT Token /
+OpenID Connect., 3)
+Provide option to
+regenerate the API
+keys either by tenant
+admin or directly by API
+consumer organization
+admin / developer., 4)
+Provide option to use
+custom key instead of
+auto generated for API
+authentication., 5)
+Capable to include
+single sign on solution
+for JWT token
+generation / OpenID
+connect token
+generation &
+authentication., 6)
+Support all methods for
+authentication
+parameters locations
+as following - headers,
+query parameters,
+body parameters, HTTP
+basic authentication
+etc., 7) Support
+customization of key
+parameter name
+through web admin
+user interface., 8)
+
+                             8 / 16
+
+
+
+ 
+
+Provide tenant admin
+capabilities to suspend
+Application /API/ Key/
+Authentication access
+in case of any
+suspicious activity.,9)
+Provide tenant admin
+capabilities to resume
+the suspended
+Application /API /
+Authentication access
+post rectifications.,10)
+Support defining host
+header and secret
+token for every
+upstream backend call
+to secure and
+authenticate naked
+backend APIs.,11)
+Capture and report API
+response codes.,12)
+Support for different
+resource authorization
+schemes like Oauth
+2.0, Openld, X.509 and
+SAML(Security
+Assertion Markup
+Langauge ),13) Issue
+and accept different
+types of credentials for
+authentication.,14)
+Protection against
+malicious REST queries,
+XML and JSON payloads
+at the API Gateway. p)
+Threat protection, bot
+detection and token -
+fraud detection.,15)
+Threat protection, bot
+detection and token -
+fraud detection.,16)
+Harden security for
+XML threat and XML
+virus protection,
+payload attack
+protection , M-DOS
+denial of,17) FIPS
+compliant 140-2
+compliant.,18)
+Supports cryptography
+, TLS, SSL , max
+payload , JSON payload
+control. t) Protection
+against OWASP
+vulnerabilities e.g SQL
+Injections, cross-site
+scripting, DDoS attacks
+
+Provide tenant admin
+capabilities to suspend
+Application /API/ Key/
+Authentication access
+in case of any
+suspicious activity., 9)
+Provide tenant admin
+capabilities to resume
+the suspended
+Application /API /
+Authentication access
+post rectifications., 10)
+Support defining host
+header and secret
+token for every
+upstream backend call
+to secure and
+authenticate naked
+backend APIs., 11)
+Capture and report API
+response codes., 12)
+Support for different
+resource authorization
+schemes like Oauth
+2.0, Openld, X.509 and
+SAML(Security
+Assertion Markup
+Langauge ), 13) Issue
+and accept different
+types of credentials for
+authentication., 14)
+Protection against
+malicious REST queries,
+XML and JSON payloads
+at the API Gateway. p)
+Threat protection, bot
+detection and token -
+fraud detection., 15)
+Threat protection, bot
+detection and token -
+fraud detection., 16)
+Harden security for
+XML threat and XML
+virus protection,
+payload attack
+protection , M-DOS
+denial of, 17) FIPS
+compliant 140-2
+compliant., 18)
+Supports cryptography
+, TLS, SSL , max
+payload , JSON payload
+control. t) Protection
+against OWASP
+vulnerabilities e.g SQL
+Injections, cross-site
+scripting, DDoS attacks
+
+                             9 / 16
+
+
+
+ 
+
+etc for apps and
+APIs,19) Enable cross-
+origin resource sharing
+(CORS) support for
+your API,20) Mobile/IoT
+security extends to
+new endpoints by
+integrating with
+Identity Access
+Management system(s)
+with mobile and IoT
+apps.
+
+etc for apps and APIs,
+19) Enable cross-origin
+resource sharing
+(CORS) support for
+your API, 20) Mobile/IoT
+security extends to
+new endpoints by
+integrating with
+Identity Access
+Management system(s)
+with mobile and IoT
+apps.
+
+API Management
+Module
+
+API Management
+Features
+
+1) Provide centralized
+web based , rolebased
+access control to its
+user interface to
+configure, manage and
+monitor API services.,2)
+Admin console to
+integrate with industry
+standarad LDAP/Active
+directiory
+solution,Single Sign
+On.,3) Support high
+availability and
+scalability out of the
+box.,4) API
+Management can be
+configured to
+dynamically scale up or
+down as
+needed.,5)Scalable
+with effective
+throttling, prioritization,
+caching and routing.,6)
+Provide traffic throttling
+based on tenant admin
+defined configurations
+& rules to be easy
+customizable through
+web user interface.,7)
+Provide multitenancy in
+single centralized
+deployment.,8) Tenant
+admins able to create
+multiple user plans
+along with custom
+features for consumer
+to subscribe.,9)
+Support tenant admins
+mandatory approval for
+API access plan signup.
+This feature is
+configurable.,10)
+Support rate limit
+configurations in
+various ways e.g.
+
+1) Provide centralized
+web based , rolebased
+access control to its
+user interface to
+configure, manage and
+monitor API services.,
+2) Admin console to
+integrate with industry
+standarad LDAP/Active
+directiory
+solution,Single Sign
+On., 3) Support high
+availability and
+scalability out of the
+box., 4) API
+Management can be
+configured to
+dynamically scale up or
+down as needed.,
+5)Scalable with
+effective throttling,
+prioritization, caching
+and routing., 6) Provide
+traffic throttling based
+on tenant admin
+defined configurations
+& rules to be easy
+customizable through
+web user interface., 7)
+Provide multitenancy in
+single centralized
+deployment., 8) Tenant
+admins able to create
+multiple user plans
+along with custom
+features for consumer
+to subscribe., 9)
+Support tenant admins
+mandatory approval for
+API access plan signup.
+This feature is
+configurable., 10)
+Support rate limit
+configurations in
+various ways e.g.
+
+                            10 / 16
+
+
+
+ 
+
+minutes / hour / day
+etc.,11) Support
+configuring features &
+access policies based
+on API versions
+identified through
+request URL's.,12)
+Management
+dashboard for real time
+monitoring for
+collective
+measurement.
+
+minutes / hour / day
+etc., 11) Support
+configuring features &
+access policies based
+on API versions
+identified through
+request URL's., 12)
+Management
+dashboard for real time
+monitoring for
+collective
+measurement.
+
+Reporting / Analytics /
+Alerts Module
+
+Reporting / Analytics
+/ Alerts Features
+
+1) Provide out of the
+box reports to tenant
+admins to track how
+developers are utilizing
+APIs against their quota
+and provide custom, ad-
+hoc reporting into the
+health and per
+formance of API for
+forecasting or
+analysis.,2) Provide out
+of the box statistics to
+API consumer
+organization through
+developer/partner
+portal.,3) Integrate with
+existing email systems
+to send email
+notifications.,4) Provide
+alerts & notifications to
+tenant admins & API
+consumers through
+web user interface and
+email both.,5) Mobile
+app analytics track
+applications as they
+move from
+development through
+testing to
+production.,6) Provide
+notifications by
+invoking webhooks in
+case of occurrence of
+configured events.,7)
+Ability to generate
+Audit trail reports
+
+1) Provide out of the
+box reports to tenant
+admins to track how
+developers are utilizing
+APIs against their quota
+and provide custom, ad-
+hoc reporting into the
+health and per
+formance of API for
+forecasting or analysis.,
+2) Provide out of the
+box statistics to API
+consumer organization
+through
+developer/partner
+portal., 3) Integrate
+with existing email
+systems to send email
+notifications., 4)
+Provide alerts &
+notifications to tenant
+admins & API
+consumers through
+web user interface and
+email both., 5) Mobile
+app analytics track
+applications as they
+move from
+development through
+testing to production.,
+6) Provide notifications
+by invoking webhooks
+in case of occurrence of
+configured events., 7)
+Ability to generate
+Audit trail reports
+
+TECHNICAL SUPPORT
+SERVICE
+
+Technical Support
+Service provided by
+
+1. OEM,2. VENDOR/SEL
+LER/CHANNEL
+PARTNER/SYSTEM
+INTEGRATOR
+
+1. OEM, 2. VENDOR/SEL
+LER/CHANNEL
+PARTNER/SYSTEM
+INTEGRATOR
+
+Period for
+Product/Technical
+Support included in
+the scope of supply
+
+60 60.0 - 60.0 Or higher
+
+                            11 / 16
+
+
+
+ 
+
+(Hint : Select '0' if
+not applicable)
+
+Scope of
+Product/Technical
+Support provided by
+the OEM are
+
+2. Updation with
+Patches Bug Fixes and
+Repair of known Issues;
+
+*
+
+If Technical support
+provided by channel 
+partner/vendor/syste
+m integrator/seller
+then whether they
+are authorized by
+OEM
+
+Yes Yes
+
+Scope of Technical
+Support for channel 
+partner/vendor/syste
+m integrator/seller
+are
+
+1. Software
+Upgradation,2.
+Updation with Patches
+Bug Fixes and Repair of
+known Issues;,3.
+Remote (via Telephone,
+Email, Video Calling,
+etc.),4. 24 x 7 x 365
+Onsite Support.,5.
+Installation support,6.
+Integration support
+
+1. Software
+Upgradation, 2.
+Updation with Patches
+Bug Fixes and Repair of
+known Issues;, 3.
+Remote (via Telephone,
+Email, Video Calling,
+etc.), 4. 24 x 7 x 365
+Onsite Support., 5.
+Installation support, 6.
+Integration support,
+7.Configuration
+support, 8.End to End
+Workflow
+Implementation
+support, 9. User
+Acceptance Testing of
+all modules.
+
+SLA FOR TECHNICAL
+SUPPORT SERVICE
+
+High Severity
+Priority Issue, P1
+Consists of
+
+1. Any fault which
+causes failure of a
+critical feature,2.
+Significant loss of
+visibility of application
+performance or
+irreparable loss of data
+within the application
+(such as connectivity to
+the host server),3.
+Customer declared
+critical issue with the
+concurrence of
+customer and vendor
+management,4. Any
+fault that keeps the
+system from meeting
+significantly
+documented standards
+or performance
+specifications,5. Any
+fault that keeps the
+system from meeting
+regulatory and safety
+
+1. Any fault which
+causes failure of a
+critical feature, 2.
+Significant loss of
+visibility of application
+performance or
+irreparable loss of data
+within the application
+(such as connectivity to
+the host server), 3.
+Customer declared
+critical issue with the
+concurrence of
+customer and vendor
+management, 4. Any
+fault that keeps the
+system from meeting
+significantly
+documented standards
+or performance
+specifications, 5. Any
+fault that keeps the
+system from meeting
+regulatory and safety
+
+                            12 / 16
+
+
+
+ 
+
+standards,6. Discovery
+of application bug with
+NO short-term
+workaround.
+
+standards, 6. Discovery
+of application bug with
+NO short-term
+workaround.
+
+"Response Time for
+Technical Support
+Level Commitment
+for High Severity
+Priority Issue (P1)
+(Maximum in Hours)
+(Hint : Select '0' if
+not applicable)"
+
+2 2
+
+"Penalty for Non
+Adharence to P1
+Response Time of
+Technical Support
+Value (Cumulative
+Maximum 5 % of
+Technical Support
+Value)"
+
+NA 0.05 % per Hour, 0.1 %
+per Hour, NA
+
+Medium Severity
+Priority Issue, P2
+Consists of
+
+1. Any fault which
+causes failure of a non-
+critical feature of the
+application,2.
+Application is running
+at a degraded capacity
+with potential risk of
+losing critical data,3.
+Failures in application
+performance that
+requires additional
+dedicated resources to
+maintain core
+application elements
+
+1. Any fault which
+causes failure of a non-
+critical feature of the
+application, 2.
+Application is running
+at a degraded capacity
+with potential risk of
+losing critical data, 3.
+Failures in application
+performance that
+requires additional
+dedicated resources to
+maintain core
+application elements
+
+"Response Time for
+Technical Support
+Level Commitment
+for Medium Severity
+Priority Issue (P2)
+(Maximum in days)
+(Hint :- Select'0' if
+not applicable) "
+
+1 1
+
+"Penalty for Non
+Adharence to P2
+Response Time of
+Technical Support
+Value (Cumulative
+Maximum 3 %
+Technical Support
+Value)"
+
+NA 0.25 % per Day,, NA
+
+Low Severity Priority
+Issue, P3 Consists of
+
+1. Loss of
+administrative
+capabilities (non-
+P1/non-P2),2. Loss of
+
+1. Loss of
+administrative
+capabilities (non-
+P1/non-P2), 2. Loss of
+
+                            13 / 16
+
+
+
+ 
+
+full feature
+functionality (non-
+P1/non-P2),3. Discovery
+of application bug with
+a short-term
+workaround,4. Any
+remote upgrade or
+support not associated
+with resolution of a P1
+or P2 issue
+
+full feature
+functionality (non-
+P1/non-P2), 3.
+Discovery of
+application bug with a
+short-term workaround,
+4. Any remote upgrade
+or support not
+associated with
+resolution of a P1 or P2
+issue
+
+"Response Time for
+Technical Support
+Level Commitment
+for Low Severity
+Priority Issue (P3)
+(Maximum in days)
+(Hint :- Select '0' if
+not applicable)"
+
+2 2
+
+"Penalty for Non
+Adharence to P3
+Response Time of
+Technical Support
+Value (Cumulative
+Maximum 2 %
+Technical Support
+Value)"
+
+NA 0.25 % per Day, NA
+
+RECOMMENDED
+HARDWARE
+REQUIREMENT
+PARAMETER FOR ON-
+PREMISE DEPLOYMENT
+
+Number of servers
+required
+
+- *
+
+CPU required - *
+
+Operating Systems
+supported
+
+1. Linux *
+
+Storage Requirement
+(in GB)
+
+- *
+
+Supported Web
+Browsers
+
+- *
+
+Any Specific, hardware
+component required to
+enhance performance
+and accuracy ?
+
+- *
+
+GENERIC PARAMETERS Valid Licence copy to
+be provided
+
+YES *
+
+Software supplied
+through
+
+URL Link *
+
+Security Certification
+from Cert-In
+
+- *
+
+Hyper link to Data
+sheet
+
+- *
+
+Total Number of
+installation of the
+
+10 *
+
+                            14 / 16
+
+
+
+ 
+
+product during last 5
+years
+
+Number of Software
+deployment/Installed in
+Govt/PSU Department
+from OEM
+
+4 *
+
+Details of Government
+Department/PSU email,
+phone no of concerned
+authority where
+Software installed for
+above
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Mohan Shyam 110003,A BLOCK CGO
+COMPLEX NATIONAL
+INFORMATICS CENTRE NEW
+DELHI
+
+1  42
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+2.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+3.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+4.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+5.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+6.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial
+year, should be as indicated in the bid document. Documentary evidence in the form of
+certified Audited Balance Sheets of relevant periods or a certificate from the Chartered
+
+                            15 / 16
+
+
+
+ 
+
+Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than
+3 year old, the average turnover in respect of the completed financial years after the date of
+constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of
+CATEGORY RELATED TO primary product having highest bid value should meet this criterion.
+
+7.Pre-dispatch inspection at Seller premises (Fee/Charges to be borne by the BUYER): Before
+dispatch, the goods will be inspected by Buyer / Consignee or their Authorized
+Representative or by Nominated External Inspection Agency (independently or jointly with
+Buyer or Consignee as decided by the Buyer) at Seller premises (or at designated place for
+inspection as declared / communicated by the seller) for their compliance to the contract
+specifications. Fee/Charges taken by the External inspection Agency and any external
+laboratories testing charges shall be borne by the Buyer. For in-house testing, the Sellers will
+provide necessary facilities free of cost. Seller shall notify the Buyer through e-mail about
+readiness of goods for pre-dispatch inspection and Buyer will notify the Seller about the
+Authorized Representative/ Nominated External Inspection Agency and the date for testing.
+The goods would be dispatched to consignee only after clearance in pre-dispatch inspection.
+Consignee's right of rejection as per GTC in respect of the goods finally received at his
+location shall in no way be limited or waived by reason of the goods having previously been
+inspected, tested and passed by Buyer/ Consignee or its Nominated External Inspection
+Agency prior to the goods' shipment. While bidding, the sellers should take into account 7
+days for inspection from the date of email offering the goods for inspection. Any delay in
+inspection beyond 7 days shall be on the part of the buyer and shall be regularised without
+Liquidated Damages.
+
+8.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 3 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+9. ISO 9001: The bidder must have ISO 9001 certification.
+10.Warranty period of the supplied products shall be 5 years from the date of final acceptance
+
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                            16 / 16
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

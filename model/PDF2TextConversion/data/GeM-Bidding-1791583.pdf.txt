@@ -1,0 +1,272 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/714991
+  Dated: 17-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 15:00:00
+
+Bid Opening Date/Time 27-07-2020 15:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Air Force
+
+Office Name ***********
+
+Total Quantity 2
+
+Item Category bar code reader equipment
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Bar Code Reader Equipment ( 2 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Specification Type Corded Corded
+
+Form Factor Hand Held Hand Held
+
+                               1 / 3
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/WUNGFbGGilk6XaAVYIy952Mvjna8HSWCcy4TQm-ann0
+
+
+ 
+
+Scan System Laser Laser
+
+Scan Rate (Scans per
+second/ frames per
+second)
+
+300 More than 300.0 Or higher
+
+Communication Interface USB *
+
+Print Contrast Ratio (%) 25 *
+
+Resolution (mil) 4 *
+
+Bar Code Density (mil) 4 *
+
+Minimum Depth of Field
+(mm)
+
+10 *
+
+Maximum Depth of field
+(mm)
+
+178 *
+
+Ambient Light Immunity
+(Lux)
+
+100000 *
+
+Light Source (nm) 617 *
+
+Compatible Bar code
+Symbologies: (UPC-A/UPC-E,
+EAN 13, JAN-13, CODABAR,
+ADD-ON-2, code-93,
+Industrial Codes,
+Interleaved 2 or 5, EAN 128
+etc)
+
+Yes *
+
+Compatible Bar code
+Symbologies : ( Micro PDF,
+PDf-417, Data Matrix, QR
+Code/UCC, EAN Composites,
+Aztec etc)
+
+No *
+
+Radio Interface N/A *
+
+Radio Communication
+Frequency (Ghz)
+
+2.5 *
+
+Working Range (meters) 3 *
+
+Power Supply/Battery - *
+
+Housing Material of Scanner Reinforced Plastic *
+
+Drop Resistance (Ft) 5 *
+
+Operating Temperature
+Range (Degree C)
+
+- *
+
+Operating Humidity (%RH) - *
+
+IP Rating - *
+
+BIS Registration under CRS
+of Meity
+
+Yes *
+
+BIS Registration number - *
+
+Safety Certifications - *
+
+Overall Dimensions (LxWxH)
+(mm x mm x mm)
+
+- *
+
+Net Weight (Kg) 0.1 *
+
+Availability of Test Reports
+from Central
+Govt/NABL/ILAC accredited
+Lab showing conformity to
+the specifications
+
+No *
+
+If Yes,Test Report Number - *
+
+                               2 / 3
+
+
+
+ 
+
+If Yes,Test Report Date - *
+
+If Yes, Name of Test Lab - *
+
+If Yes, Address of the Test
+Lab
+
+- *
+
+On Site OEM Warranty
+(Year)
+
+3 3
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********NAINITAL 2  15
+
+Bid Specific Additional Terms and Conditions
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone
+
+No. for Service Support.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               3 / 3
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

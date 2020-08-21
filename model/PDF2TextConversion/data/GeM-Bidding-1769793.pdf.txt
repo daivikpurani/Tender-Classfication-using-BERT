@@ -1,0 +1,471 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/695182
+
+  Dated: 02-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 23-07-2020 11:00:00
+
+Bid Opening Date/Time 23-07-2020 11:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 65 (Days)
+
+Ministry/State Name Pmo
+
+Department Name Department Of Atomic Energy
+
+Organisation Name Nuclear Power Corporation Of India Limited
+
+Office Name Rajasthan
+
+Total Quantity 1
+
+Item Category Table Top Autoclave
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Table Top Autoclave ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+                               1 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/Eue5ym3C7z9nbmiUsgnP8a6bo96Nnx9m-wEzP3IidmU
+
+
+ 
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Accessories,
+Consumables &
+Warranty
+
+Accessories: Each Tabletop
+autoclave unit shall be
+supplied along with:
+One Rack unit with 5
+levels and one set of
+suitable sized
+instrument trays.
+
+Each Tabletop
+autoclave unit shall be
+supplied along with:
+One Rack unit with 5
+levels and one set of
+suitable sized
+instrument trays.
+
+Warranty 3 3, 5 Or higher
+
+Consumables:
+Sterilizer unit to be
+supplied with
+consumables
+sufficient to carry
+out sterilization
+cycles (No)
+
+sufficient for 50
+sterilization cycles
+
+sufficient for 50
+sterilization cycles,
+sufficient for 100
+sterilization cycles Or
+higher
+
+Configuration Type Table top or bench top
+steam steriliser
+
+*
+
+Sterilizer chamber
+capacity in L (usable
+volume)
+
+20 - 25 liter 20 - 25 liter
+
+Type of cycle
+processes available
+
+B-process B-process
+
+Sterilizer Chamber
+Type
+
+Circular Circular
+
+Steriliser chamber
+material
+
+SS 316 or better grade
+steel
+
+*
+
+Working Pressure of
+Chamber
+
+2.2 *
+
+Design Pressure of
+Chamber
+
+3.8 *
+
+Chamber pre-
+heating facility:
+Equipped with
+electrically heated
+jacket for preheating
+on standby mode:
+
+Yes Yes
+
+Type of Sterilizer
+Chamber Door
+
+Radially Opening Door Radially Opening Door
+
+Steriliser Chamber door
+Locking facility
+
+At least two locking
+bolts
+
+*
+
+Sterilizer Chamber
+door Operation:
+
+Manual Manual
+
+Door sealing: By elastomeric rubber
+gasket suitable to
+withstand temperature
+upto 140 degree C &
+pressure upto 20-30 psi
+
+*
+
+                               2 / 5
+
+
+
+ 
+
+Inlet Air Filtration: Yes, Atmospheric air
+shall enter the
+sterilisation chamber
+after its filtering by a
+disposable air filter
+provided in the
+equipment.
+
+*
+
+Air Filter efficiency: >= 99.998% *
+
+Sterilising Cycle
+Processes available:
+
+121 degree C
+Wrapped,134 degree C
+Wrapped,134 degree C
+Flash/Rapid open
+instrument cycle,134
+degree C textile,Test
+programs: Bowie &
+Dick, Leak Test
+
+121 degree C Wrapped,
+134 degree C Wrapped,
+134 degree C
+Flash/Rapid open
+instrument cycle, 134
+degree C textile, Test
+programs: Bowie &
+Dick, Leak Test
+
+Sterilizer has water
+circulation system so
+that no drain point
+and fixed water
+inlets are required:
+
+Yes Yes
+
+Water Storage Tank:
+Inbuilt water reservoir
+with Storage capacity
+of 3-5 litre with easy
+access for cleaning to
+avoid biofilm available:
+
+Yes *
+
+Steriliser have
+inbuilt steam
+generator designed
+for integrated
+energy storing
+system for building
+up power for
+sterilisation load in
+shot time:
+
+Yes Yes
+
+Type of control system
+available for Steriliser
+cycle operation:
+
+Microprocessor based
+PLC system specifically
+designed for
+sterilisation operations,
+with CPU processor
+with battery back up,
+digital input/output
+controls, analog
+measuring inputs &
+COM ports for printer
+and PC connectivity.
+Automatic process
+checking, self checking
+of safety devices and
+failure correction
+should be possible by
+the control system.
+
+*
+
+                               3 / 5
+
+
+
+ 
+
+Power Source: 220 Volt, 50 Hz AC
+electric supply
+
+*
+
+Power supply: 220 volt, 50 Hz AC
+electric supply single
+phase
+
+*
+
+Number of Trays in
+sterillser chamber
+
+2 2, 3, 4, 5 Or higher
+
+Sterilliser Loading
+Type:
+
+Top Loading Top Loading
+
+Audio- visual Alarm
+facility available for
+notifying:
+
+Temperature sensor
+failure,Pressure sensor
+failure,Phase time
+out,Door improperly
+closed,Power failure
+(no alarm if duration of
+power failure < 10
+sec),Safety device
+malfunctioning,Low
+water level,Cassette
+improperly closed
+
+Temperature sensor
+failure, Pressure sensor
+failure, Phase time out,
+Door improperly
+closed, Power failure
+(no alarm if duration of
+power failure < 10
+sec), Safety device
+malfunctioning, Low
+water level, Cassette
+improperly closed
+
+Overall Size Overall Height: 400 *
+
+Overall Width: 400 *
+
+Overall Depth: 500 *
+
+Quality and
+Certifications
+
+Compliance of
+Chamber for
+Chamber Pressure
+Equipment
+Directives (PED) AND
+EN 13445 norms:
+
+Yes Yes
+
+Quality Compliance
+available for quality
+systems as per as
+per ISO 9001:2000 ,
+EN ISO 13485:2003,
+ISO 14001:2004:
+
+Yes Yes
+
+Certifications: - *
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Gyan Mal Khatik 323303,Contracts & Material
+Management, Rawatbhata
+
+1  30
+
+                               4 / 5
+
+
+
+ 
+
+Rajasthan Site, Anushakti
+Via-Kota (Rajasthan) Phone
+No. 01475-242002, 242048
+Which is about 60 Kms.
+away from Kota.
+
+Special terms and conditions for category Table Top Autoclave 
+
+1.Seller shall be responsible for supply, installation and training for the ordered product.
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+2.Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be
+given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs)
+Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises
+and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to
+avail the Purchase preference, the bidder must be the manufacturer of the offered product
+in case of bid for supply of goods. Traders are excluded from the purview of Public
+Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder
+must be the Service provider of the offered Service. Relevant documentary evidence in this
+regard shall be uploaded along with the bid in respect of the offered product or service. If L-1
+is not an MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of
+purchase preference /price band defined in relevant policy, such Seller shall be given
+opportunity to match L-1 price and contract will be awarded for percentage of 25% of total
+value.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

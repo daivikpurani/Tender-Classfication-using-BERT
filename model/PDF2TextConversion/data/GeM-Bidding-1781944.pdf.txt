@@ -1,0 +1,985 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/706228
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 21-07-2020 18:00:00
+
+Bid Opening Date/Time 21-07-2020 18:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Railways
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Eastern Railway
+
+Total Quantity 1
+
+Item Category Ultrasound Scanning Machine
+
+Experience Criteria  1 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Certificate (Requested in
+ATC),OEM Authorization Certificate,OEM Annual
+Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  Yes
+
+Inspection Required  Yes
+
+Inspection to be carried out by Buyers own
+empanelled agency
+
+ Yes
+
+Type Of Inspection  Pre Dispatch
+
+Name of the Empanelled Inspection
+Agency/ Authority
+
+ RITES
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 5.00
+
+EMD Amount 56250
+
+                             1 / 11
+
+
+
+ 
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 2.00
+
+Duration of ePBG required (Months). 38
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+Sr.DMM/HWH
+Eastern Railway, NA, N/A, Ministry of Railways
+(Tarun Kumar Ghosh)
+
+Splitting
+
+ Bid splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+
+Ultrasound Scanning Machine ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Product certification - *
+
+Certification number
+and date
+
+- *
+
+Confirmity to
+Manufacturer's
+Certification
+
+ISO 9001 & ISO 13485 *
+
+                             2 / 11
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/dUtp6QqEEKyUTG3PCAC9LM7mtKDX2Hc4HFKEkUNGJeg
+
+
+ 
+
+Confirmity to
+Performance and safety
+standards specific to
+the device
+
+IEC 60601-2-37 or
+equivalent BIS
+
+*
+
+Performance
+Parameters
+
+Scope of supply General-purpose
+ultrasonic scanning
+systems provide two-
+dimensional (2-D) B-
+mode images of soft
+tissues without
+subjecting patients to
+ionizing radiation. It
+intends to primarily for
+abdominal,
+obstetric/gynecologic
+(OB/GYN), small-parts,
+and vascular imaging
+
+*
+
+UMDNS Code and
+names(Hint: This is for
+indicating the relevant
+universal medical
+devices nomenclature
+for the category of
+product )
+
+"Scanning Systems,
+Ultrasonic, Abdominal
+[16-241] Scanning
+Systems, Ultrasonic,
+General-Purpose
+[15-976] Scanning
+Systems, Ultrasonic,
+Obstetric/Gynecologic
+[15-657] Scanning
+Systems, Ultrasonic,
+Small-Parts [18-052]
+Scanning Systems,
+Ultrasonic, Vascular
+[15-957]"
+
+*
+
+Types of Probes &
+Features
+
+Applications- Abdomen,
+abdominal vascular,
+urology, OB/GYN,
+neonatal brain, small
+parts (breast, thyroid,
+scrotal, prostate, MSK)
+
+Yes *
+
+Flat linear array 5-10 MHz (±2) *
+
+Convex array 2.5-5 MHz (±2) *
+
+Microconvex array Yes Yes Or higher
+
+Volume Convex
+Probe
+
+Yes Yes Or higher
+
+Volume Linear Probe No Yes, No Or higher
+
+Volume TV Probe No Yes, No Or higher
+
+E- Breast
+Elastography
+
+No Yes, No Or higher
+
+E- Thyroid
+Elastography
+
+No Yes, No Or higher
+
+Liver Elastography No Yes, No Or higher
+
+Intraoperative Probe No Yes, No Or higher
+
+                             3 / 11
+
+
+
+ 
+
+Gel Warmer No Yes, No Or higher
+
+Dedicated 3-D/4-D Yes Yes Or higher
+
+Scan Modes B-mode Yes *
+
+M-mode Yes *
+
+Contrast harmonic
+imaging with angio
+mode
+
+No Yes, No Or higher
+
+Tissue harmonic
+imaging mode
+
+Yes *
+
+Provision of Harmonic
+imaging in Linear
+Probes
+
+Yes *
+
+Color Doppler imaging
+(CDI)
+
+Yes *
+
+Color Doppler 3-D/4-D
+option
+
+Yes *
+
+Power Doppler imaging
+(PDI)
+
+Yes *
+
+Power Doppler 3-D/4-D
+option
+
+Yes *
+
+Continuous wave Yes *
+
+Pulsed wave Yes *
+
+Duplex mode Yes *
+
+Triplex mode Yes *
+
+Tissue Doppler imaging Yes *
+
+Contrast-enhanced
+ultrasound (CEUS)
+option
+
+No Yes, No Or higher
+
+Tissue
+synchronization,
+tissue velocity
+
+No Yes, No Or higher
+
+Gain control in two
+dimensions for
+additional level of
+flexibility for image
+quality control
+
+Yes *
+
+"Provision for higher
+resolution "
+
+Real time high
+frequency 2D
+
+*
+
+Probes supplied shall
+be in latest generation
+bandwidth
+
+Yes *
+
+Provision for higher
+sensitivity for low
+frequency doppler in
+all probes
+
+No Yes, No Or higher
+
+                             4 / 11
+
+
+
+ 
+
+Number of Channels
+in color doppler
+system
+
+128 or more (if
+channels are being
+designated as physical
+channels)
+
+128 or more (if
+channels are being
+designated as physical
+channels)
+
+Live 3 D imaging in
+color doppler system
+
+Yes Yes Or higher
+
+Colour Doppler
+system with all
+application packages
+,Quad loop for serial
+studies with high
+frame rate revies,
+harmonic imaging
+capability in all
+modes and
+integrated stress
+echo package digital
+storage and retrieval
+
+Yes Yes Or higher
+
+Number of grey shades
+for sharp contrast
+resolutions in db
+
+256 or more *
+
+High-definition acoustic
+zoom provision for
+enlarging sections of
+2D and Colour flow
+images with more
+acoustic information for
+greater clarity and
+detail while
+maintaining an optimal
+frame rate
+
+Yes *
+
+Colour Flow Imaging
+Optin
+
+Yes *
+
+Provision of Tissue
+Colorization (B-
+Colour) for improved
+contrast resolution
+
+Yes Yes Or higher
+
+All application
+packages should be
+inbuilt into the system
+
+Yes *
+
+Cine Loop Features Yes Yes Or higher
+
+Cine Loop Memory in
+MB
+
+12394 *
+
+Frame grabber
+facility for post
+analysis
+
+Yes Yes Or higher
+
+Facility of Various maps
+for pre and post
+processing
+
+Yes *
+
+User defined system
+and application presets
+
+Yes *
+
+                             5 / 11
+
+
+
+ 
+
+for multi-user
+department
+
+Number of
+transducer/probe
+ports
+
+4 4
+
+System should be
+capable of
+generating real time
+live 3- D images
+
+Yes Yes
+
+Contrast agent
+imaging
+
+No Yes, No Or higher
+
+Color Doppler system
+with all applications
+package, quad loop for
+serial studies with high
+frame rate, harmonic
+imaging capability in all
+modes and digital
+storage and retrieval
+
+Yes *
+
+IMAGE DISPLAY AND
+PROCESSING
+
+DICOM 3 COMPLIANT Yes Yes Or higher
+
+Adjustable transmit
+focus
+
+Yes *
+
+Automated B-mode
+(2-D) image
+
+Yes Yes Or higher
+
+Automated CDI
+image optimization
+
+Yes Yes Or higher
+
+Automated PW
+Doppler image
+optimization
+
+Yes Yes Or higher
+
+Dynamic receive focus Yes *
+
+Grayscale levels 256 *
+
+Image magnification
+(zoom)
+
+Yes *
+
+Real-time image Yes *
+
+Frozen image Yes *
+
+Touch Screen No Yes, No Or higher
+
+Monitor shall have high-
+resolution
+
+Yes *
+
+"Provision of Tilt and
+Swivel monitor should
+be able to view in all
+angles and all light
+conditions"
+
+Yes *
+
+Monitor display size,
+cm (in)
+
+39.6 (15.6) widescreen
+high-resolution monitor
+
+39.6 (15.6) widescreen
+high-resolution monitor
+
+Split screen Twin View and Live
+Quad Screen
+
+Twin View and Live
+Quad Screen
+
+                             6 / 11
+
+
+
+ 
+
+Single/dual monitors Single Single
+
+Depth, cm ≥30 (11.8) *
+
+Pre processing Yes *
+
+Post processing Yes *
+
+Selectable dynamic
+range
+
+Yes *
+
+Spectrum analyzer Yes *
+
+DIGITAL IMAGE
+STORAGE
+
+Yes *
+
+Cine loop playback Yes *
+
+Max number frames 12394 *
+
+Digital storage hard
+drive, GB
+
+500 *
+
+Speckle-tracking strain
+and strain rate
+
+Yes *
+
+Exam protocols Yes *
+
+Automated Yes *
+
+Digital calipers Yes *
+
+Exam presets Yes *
+
+Customizable presets Yes *
+
+On-screen annotation Yes *
+
+DVD/CD Writer Yes Yes Or higher
+
+Flash Memory Yes *
+
+USB connector Yes *
+
+"Facility for high
+definition digital
+acquisition, review and
+editing of complete
+patient studies"
+
+Yes *
+
+Type of processor i7 or latest i7 or latest
+
+RAM capacity of PC
+in GB (hint: In caase
+PC not provided put
+zero)
+
+≥ 4 ≥ 4
+
+Processor speed in
+GHZ
+
+≥ 3 ≥ 3
+
+Frame Grabber
+incorporated
+
+Yes Yes Or higher
+
+Connectivity
+between USG and PC
+
+Yes Yes Or higher
+
+PC with all software
+inclusive interfaced
+with USG machine
+
+Yes Yes Or higher
+
+                             7 / 11
+
+
+
+ 
+
+laser Color printer
+provided with
+computer for
+reporting
+
+No Yes, No Or higher
+
+Inkjet printer
+provided with
+computer for
+reporting
+
+No Yes, No Or higher
+
+CD/DVD Produced
+should be playable
+on any system
+
+Yes Yes Or higher
+
+Glossy Colour Print
+Paper supplied
+
+NA NA
+
+Dicom Interfacability
+Dicom to PACS
+
+Yes Yes Or higher
+
+Interfacability Dicom
+to RIS
+
+No Yes, No Or higher
+
+USG sytem supplied
+should be upgradable
+to next generation
+system on site
+
+Yes *
+
+Power Requirements Power input, VAC 220-240VAC, 50Hz
+fitted with Indian plug
+
+*
+
+Resettable over
+current breaker shall
+be fitted for
+protection
+
+Yes Yes Or higher
+
+Power backup Inbuilt battery Inbuilt battery
+
+Back up time in
+minutes
+
+60 60
+
+Suitable Servo
+Controlled Stabilizer
+/ CVT should be
+provided
+
+No Yes, No Or higher
+
+Miscellaneous
+Parameters
+
+Warranty in years 3 3
+
+Number of
+installations of the
+USG machines in
+Central /State/PSU
+Govt Hospitals(
+Note: Seller should
+supply a performace
+certificate of the
+device to the buyer
+if demanded after
+placement of order)
+
+More than 3 More than 3
+
+User/Technical/Mainten
+ance manuals to be
+supplied in English in
+hard and soft copy
+
+Yes *
+
+                             8 / 11
+
+
+
+ 
+
+Demonstration of
+equipment and training
+to be provided after
+completing supplies &
+Installation before
+acceptance
+
+Yes *
+
+The Principal
+Manufacturer must
+have direct
+Presence/approved
+service center In India
+
+Yes *
+
+Copies of reports and
+certifications to be
+furnished to buyer on
+demand at time of
+supplies
+
+Yes *
+
+Certificate from the
+principal that spare
+parts will be available
+for next 10 years shall
+be provided at the time
+of supplies
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Arunangshu
+Sarkar
+
+711101,ORTHOPEDIC
+HOSPITAL,EASTERN
+RAILWAY,222 CHURCH
+ROAD,HOWRAH 711101
+
+1  20
+
+Bid Specific Additional Terms and Conditions
+
+1.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+2.Nominated Inspection Agency: On behalf of the Buyer organization, any one of the
+following Inspection Agency would be conducting inspection of stores before acceptance:
+Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause
+has been selected in ATC): RITES
+Post Receipt Inspection at consignee site before acceptance of stores: Consignee
+
+3.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+
+                             9 / 11
+
+
+
+ 
+
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+4.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+5.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+6.Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have
+regularly, manufactured and supplied same or similar Category Products to any Central /
+State Govt Organization / PSU / Public Listed Company for 1 year before the bid opening
+date. Copies of relevant contracts to be submitted along with bid in support of having
+supplied some quantity during each of the year. In case of bunch bids, the primary product
+having highest value should meet this criterion.
+
+7.Procurement under this bid is reserved for purchase from Micro and Small Enterprises from
+the State of Bid Inviting Authority whose credentials are validated online through Udyog
+Aadhaar for that product category. If the bidder wants to avail the reservation benefit, the
+bidder must be the manufacturer of the offered product in case of bid for supply of goods.
+Traders are excluded from the purview of Public Procurement Policy for Micro and Small
+Enterprises. In respect of bid for Services, the bidder must be the Service provider of the
+offered Service. Relevant documentary evidence in this regard shall be uploaded along with
+the bid in respect of the offered product or service.
+
+8.Purchase preference to Micro and Small Enterprises (MSEs) from the State of Bid Inviting
+Authority : Purchase preference will be given to MSEs as Micro and Small Enterprises from
+the State of Bid inviting Authority whose credentials are validated online through Udyog
+Aadhaar for that product category. If the bidder wants to avail the Purchase preference, the
+bidder must be the manufacturer of the offered product in case of bid for supply of goods.
+Traders are excluded from the purview of Public Procurement Policy for Micro and Small
+Enterprises. In respect of bid for Services, the bidder must be the Service provider of the
+offered Service. Relevant documentary evidence in this regard shall be uploaded along with
+the bid in respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s)
+has/have quoted price within L-1+ 15 % of margin of purchase preference /price band
+defined in relevant policy, such Seller shall be given opportunity to match L-1 price and
+contract will be awarded for percentage of 20% of total value as defined/ decided in relevant
+policy.
+
+9.Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be
+given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs)
+Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises
+and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to
+avail the Purchase preference, the bidder must be the manufacturer of the offered product
+in case of bid for supply of goods. Traders are excluded from the purview of Public
+Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder
+must be the Service provider of the offered Service. Relevant documentary evidence in this
+regard shall be uploaded along with the bid in respect of the offered product or service. If L-1
+is not an MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of
+purchase preference /price band defined in relevant policy, such Seller shall be given
+opportunity to match L-1 price and contract will be awarded for percentage of 20% of total
+value.
+
+10.Pre-dispatch inspection at Seller premises (Fee/Charges to be borne by the BUYER): Before
+dispatch, the goods will be inspected by Buyer / Consignee or their Authorized
+Representative or by Nominated External Inspection Agency (independently or jointly with
+Buyer or Consignee as decided by the Buyer) at Seller premises (or at designated place for
+inspection as declared / communicated by the seller) for their compliance to the contract
+specifications. Fee/Charges taken by the External inspection Agency and any external
+
+                            10 / 11
+
+
+
+ 
+
+laboratories testing charges shall be borne by the Buyer. For in-house testing, the Sellers will
+provide necessary facilities free of cost. Seller shall notify the Buyer through e-mail about
+readiness of goods for pre-dispatch inspection and Buyer will notify the Seller about the
+Authorized Representative/ Nominated External Inspection Agency and the date for testing.
+The goods would be dispatched to consignee only after clearance in pre-dispatch inspection.
+Consignee's right of rejection as per GTC in respect of the goods finally received at his
+location shall in no way be limited or waived by reason of the goods having previously been
+inspected, tested and passed by Buyer/ Consignee or its Nominated External Inspection
+Agency prior to the goods' shipment. While bidding, the sellers should take into account 7
+days for inspection from the date of email offering the goods for inspection. Any delay in
+inspection beyond 7 days shall be on the part of the buyer and shall be regularised without
+Liquidated Damages.
+
+11.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+12.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 3 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                            11 / 11
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

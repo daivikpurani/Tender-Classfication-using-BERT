@@ -1,0 +1,400 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/696258
+
+  Dated: 03-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 23-07-2020 15:00:00
+
+Bid Opening Date/Time 23-07-2020 15:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 45 (Days)
+
+Ministry/State Name Ministry Of Power
+
+Department Name Power Grid Corporation Of India Limited
+
+Organisation Name Power Grid Corporation Of India Limited
+
+Office Name Corporate Office Gurgaon
+
+Total Quantity 1
+
+Item Category portable single operated rectifier type dc arc welding
+set suitable for manual arc welding process
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Portable Single Operated Rectifier Type Dc Arc Welding Set Suitable For
+Manual Arc Welding Process ( 1 pieces )
+
+Technical Specifications
+
+                               1 / 5
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Welding set
+conforming to
+IS:4559/1993 with
+latest amendments
+
+Yes Yes
+
+Capacitor
+conforming to
+IS:13340/2012
+
+Yes Yes
+
+BIS Marked No No
+
+If BIS marked provide
+CML No otherwise PUT
+NA
+
+- *
+
+Performance
+Parameters
+
+Type of welding set Rectifier inverter
+based(IGTB) double
+bridge type
+
+Rectifier inverter
+based(IGTB) double
+bridge type
+
+Type of electrode - *
+
+Rating of Capacitor to
+improve power factor
+
+- *
+
+Type of power
+supply
+
+Three phase Three phase
+
+Rated input voltage 415V,three Phase with
+trapping to
+compensate for
+variation in input
+supply
+
+415V,three Phase with
+trapping to
+compensate for
+variation in input
+supply
+
+Current rating for
+rectifier type power
+source in ampere
+
+400 400.0
+
+Maximum
+Continuous
+Automatic Current in
+ampere
+
+310 310.0
+
+Maximum
+Continuous Hand
+Welding Current in
+Amp
+
+400 400.0
+
+Open-Circuit Voltage
+in Volts
+
+85 85.0
+
+Min Welding load
+voltage (at min
+welding current) in
+Volts
+
+20 20.0
+
+Max Welding load
+Voltage(at max
+welding current) in
+Volts
+
+36 36.0
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/nUcXwcUPqLQEE7C26WRvmGbesDFJjuaq-LYYR7fQz9M
+
+
+ 
+
+Maximum
+continuous welding
+current at 100% duty
+cycle(Amp @ duty
+cycle)
+
+310 310.0
+
+Maximum
+continuous welding
+current at 60% duty
+cycle(Amp @ duty
+cycle)
+
+400 400.0
+
+Trolley mount for
+rectifier type(May
+select NA in case of
+IGTB type welding set)
+
+NA *
+
+Type of welding current
+regulator
+
+Step less Type *
+
+Type of insulation level Class H *
+
+Type of cooling like
+natural air cool,force
+air cool etc
+
+- *
+
+Warranty in Years 2 2
+
+Dimensional and
+Material Parameters
+
+Dimension of
+electrode in mm
+
+6.3 6.3, 4.0, 5.0, 6.0
+
+Overall Dimensions of
+Machine(L x D x H)
+(mm x mm x mm)
+
+- *
+
+Weight of Machine in
+Kg
+
+40 *
+
+Material of Wheel Cast Iron Wheel *
+
+Additional Parameters Type of wheel Bi-directional *
+
+Overload protection on
+DC and AC side
+
+Yes *
+
+Provision of Earthing Yes *
+
+Installation and
+Demonstration
+
+Yes *
+
+Machine shall be
+provided with safety
+features to protect
+operator from possible
+injuries
+
+Yes *
+
+Operating and
+Instruction Manual
+provided with machine
+
+Yes *
+
+Reports Availability of Type
+Test Report from
+Central Govt
+/NABL/ILAC Accredited
+lab
+
+Yes *
+
+                               3 / 5
+
+
+
+ 
+
+Test report no - *
+
+Test report date - *
+
+Name of Lab - *
+
+Address of Lab - *
+
+Type of Tests report to
+be furnished to the
+buyer demand at the
+time of supplies
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Sai Reddy Vedulla 572136,"POWERGRID
+CORPORATION OF INDIA
+LIMITED, 400/220 kV
+PAVAGADA POOLING
+STATION, Kyatagancherlu-
+Vill, Venkatamanahalli-Post,
+Pavagada-Taluk, Tumkur
+Dist, Karnataka-572136"
+
+1  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+3.Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid
+documents. Buyers can match and verify the Data Sheet with the product specifications
+offered. In case of any unexplained mismatch of technical parameters, the bid is liable for
+rejection.
+
+4.Warranty period of the supplied products shall be 2 years from the date of final acceptance
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+                               4 / 5
+
+https://gem.gov.in/termsCondition
+
+
+ 
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+http://www.tcpdf.org
+

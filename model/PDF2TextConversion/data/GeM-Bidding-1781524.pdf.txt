@@ -1,0 +1,950 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/705843
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 17:00:00
+
+Bid Opening Date/Time 20-07-2020 17:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Manipur
+
+Department Name Information Technology Department Manipur
+
+Organisation Name Manipur State Information Technology Society (msits)
+
+Office Name New Secretariat, Imphal
+
+Total Quantity 4
+
+Item Category Online UPS Modular Type ( PAC Only ) 
+
+Bidder Turnover (Last 3 Years)  1 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  1 Lakh (s)
+
+Experience Criteria  1 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  10 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+
+                             1 / 11
+
+
+
+ 
+
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 10% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Online UPS Modular Type ( 4 pieces ) ( Under PAC ) 
+
+Make numeric
+
+Model trimodhe
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC Online UPS Modular
+type should supoort for
+Data Centres, Network
+operating centres,
+Security operation
+centres, State and
+District centres,
+Command and Control
+centre etc., across the
+Country to provide
+impetus to the e-
+
+Yes *
+
+                             2 / 11
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/qEd6ePBZqzF3JnW-KdYZYpigK9cbmoAI_hpe1nBl4A4
+
+
+ 
+
+Governnance services
+e.g.Public food
+distribution, e Way bill,
+Counseling, e-Office,
+IVFRT etc., services
+under Digital India
+Programme
+
+Modular type UPS
+equipped with
+microprocessor/Digital
+signal processor and
+power modules, Power
+expansion facility,
+LCD/Digital display
+upto maximum
+expandable capcity,
+Cable entry, RS 232
+port and SNMP port
+with each power
+module and with
+suitabale rack
+(compatible maximum
+expandable) with
+complete lockable door
+having visibility for
+maximum expandable
+capacity
+
+Yes *
+
+Output power
+capacity including re
+dudancy/Expandable
+(Rack facility)
+upto/Minimum
+backuptime
+(including
+redudancy)
+/Minimum VAH (VAH
+shall be calculate
+Battery voltage x
+Battery Ah x No. of
+batteries = Total
+VAH)
+
+8KVA/16KVA/6
+minutes/2160 VAH
+
+8KVA/16KVA/6
+minutes/2160 VAH
+
+VAH tolerance -1% of the defined
+capacity
+
+*
+
+Hot swappable power
+module
+
+Yes *
+
+Battery module using
+two or more strings in
+parallel for redudanct
+supply and battery
+module shall be fuse
+protected
+
+Yes *
+
+Inverter Technology PWM with IGBT, double
+conversion
+
+*
+
+                             3 / 11
+
+
+
+ 
+
+Output wave form Pure sine wave *
+
+Country of origin for
+Inverter
+
+India *
+
+Noise level </= 55 dB </= 55 dB
+
+Type of cool (Minumum
+2 Fans for each power
+module)
+
+Air cooled *
+
+Parallel (Power
+Modules) load sharing
+redundant operation
+with all accessories
+
+Yes *
+
+Installation and
+commissioning
+
+Yes *
+
+UPS shall be supply
+with insallation and
+operation manual
+
+Yes *
+
+INPUT Input AC Three Phase *
+
+In put Voltage Range 340 V to AC to 470 V
+AC 3 Phase
+
+340 V to AC to 470 V
+AC 3 Phase
+
+Input frequency
+range
+
+50 +/-6% Hz 50 +/-6% Hz
+
+Input power factor at
+full output load leading
+to unity with active
+power factor correction
+(APFC) (from 25% load
+to 100% load)
+
+>/=0.99 *
+
+Distortion (current) < / = 3% < / = 3%
+
+UPS shall have DG set
+compatibility
+
+Yes *
+
+OUTPUT Output AC Three Phase *
+
+Out put voltage 380/400/415, 3 phase,
+4 wire
+
+*
+
+Voltage regulation
+(Steady state) at No
+load to full load, 0.6 lag
+to Unity PF, During
+entire back up time,
+Complete input voltage
+range
+
++/-1% *
+
+Output powr factor >/=0.99 >/=0.99
+
+Frequency 50 Hz +/-0.5 % Hz *
+
+CONSTRUCTION Minimum thickness
+(in mm) of Rack
+Enclosure for
+Modular UPS duly
+powder coated
+
+1.2 1.2
+
+                             4 / 11
+
+
+
+ 
+
+UPS shall be free from
+workmanship defects,
+sharp edges, nicks,
+scratches,burst, etc. All
+fasteners shall be fixed
+properly. The
+equipment shall be
+complete with all parts
+and all parts shall be
+functional
+
+Yes *
+
+UPS enclosure's
+degree of protection
+as per IS:13947
+(Part 1)/1993 latest
+
+IP21 IP21
+
+Standard quality Out
+put terminals shall be
+provided for output
+connection
+
+Yes *
+
+UPS shall have static
+and manual by pass
+facility
+
+Yes *
+
+UPS shall be supplied
+with required rated
+power cable (Copper)
+
+5 Meters *
+
+Total Harmonic
+Distrotion (THD) for
+100% linear load
+
+< 3% < 3%
+
+Total Harmonic
+Distrotion (THD) for
+100% non-linear load
+
+< 5% < 5%
+
+Operating temeprature 0 deg C to +40 deg C *
+
+Humidity Upto 95% non-
+condensing
+
+*
+
+Operational: 1000
+meters above sea level
+at 40 deg. C maximum
+
+Yes *
+
+Crest factor on full non-
+linear load
+
+Not less than 3:1 *
+
+Over all efficiency on
+rated full load of 0.8
+PF (min.) AC output
+
+>/=90% >/=90%
+
+Inverter efficiency
+on rated full load of
+0.8 PF (min.) AC
+output
+
+>/=95% >/=95%
+
+UPS shall withstand
+Over load capacity -
+125% (Output with
+mains AC-AC)
+
+for 5 Minutes
+(Minimum)
+
+for 5 Minutes
+(Minimum)
+
+                             5 / 11
+
+
+
+ 
+
+UPS shall withstand
+Over load capacity -
+150% (Output with
+mains AC-AC)
+
+for 60 seconds
+(Minimum)
+
+*
+
+UPS shall withstand
+Over load capacity -
+125% (Output in
+battery run DC-AC)
+
+for 30 Seconds
+(Minimum)
+
+for 30 Seconds
+(Minimum)
+
+UPS shall withstand
+Over load capacity -
+150% (Output in
+battery run DC-AC)
+
+for 30 seconds
+(Minimum)
+
+*
+
+Load power factor 0.8
+lagging to unity
+
+Yes *
+
+Transient response
+time (for 100% load
+change, output must
+remain within +/-1%
+and recovery)
+
+<20 milli seconds *
+
+PROTECTION Short circuit protection Yes *
+
+Over load protection Yes *
+
+Over temperature
+protection
+
+Yes *
+
+In put low/high voltage
+control
+
+Yes *
+
+DC low/high voltage
+trip
+
+Yes *
+
+Back feed protection
+for both, mains and
+bypass input
+
+Yes *
+
+BATTERY Battery shall
+conforming to
+JISC:8702(Pt.I,II&III)
+latest or equivalent BIS
+standard
+
+Yes *
+
+Battery type SMF VRLA SMF VRLA
+
+Country of origin for
+Battery
+
+India *
+
+Battery recharge
+time (after complete
+discharge to 90%
+charge) and charge
+rating: Battery
+recharge time to
+90% charge after
+100% DoD
+
+8 to 10 hours 8 to 10 hours
+
+Battery charger (One in
+each power module)
+should be capable to
+
+Yes *
+
+                             6 / 11
+
+
+
+ 
+
+charge battery on C10
+rating
+
+Battery cutoff voltage
+during back up
+
+Not less than 10.5 V *
+
+Batteries shall
+supply with
+
+With metal rack With metal rack
+
+Modular UPS shall
+supply with DC Cable
+from UPS to battery
+and batteries to UPS ,
+Battery interlink cables,
+battery breaker
+
+Yes *
+
+Meters, Indicators and
+Display
+
+All the meters and
+display LCD/Digital
+type shall support for
+maximum expanadable
+capacity
+
+Yes *
+
+Input: Voltage line to
+line and line to neutral,
+currents, frequency,
+power factor display
+
+Yes *
+
+Bypass: Phase voltage,
+line to line voltge,
+frequency display
+
+Yes *
+
+UPS Output: Phase
+voltage, phase
+currents, line-line
+voltage, power factors,
+frequency display
+
+Yes *
+
+Local load: Load of
+each phase (% age of
+total load), Active
+power (KW), Apparent
+power (KVA), and
+Ractive power (KVAR)
+of each phase, load
+crest factor display
+
+Yes *
+
+Battery: Battery bus
+voltage, battery charge
+and discharge current,
+forecasted battery back
+up time, battery
+capacity (Ah)
+
+Yes *
+
+Parrallel load (for
+parallel operation
+system): Apparent
+power (KVA) of each
+phase, Active power
+(KW) of each phase,
+reactive power (KVAR)
+of each phase
+
+Yes *
+
+                             7 / 11
+
+
+
+ 
+
+UPS shall have an
+indication for Mains on,
+Load on battery,
+Inverter, Battery level,
+Load level, Inverter
+over load
+
+Yes *
+
+UPS shall have audible
+alaram for over
+temperature, mains
+failure, battery low,
+inverter overload
+
+Yes *
+
+Communication
+interface: SNMP/MODB
+US/HTTP/JAVA/UPSMON/
+SMTP etc., and 2 serial
+port USB/ RS232,
+RS485, 1 logic level
+port, 4 Dry contacts
+ports
+
+Yes *
+
+Log History storage
+facility with display
+(minium 200 events)
+
+Yes *
+
+WARRANTY AND
+SERVICES
+
+Warranty for
+Modular UPS (on site
+comprehensive
+warranty) (in years)
+
+3 3
+
+Warranty for battery
+(replacement
+warranty) (in years)
+
+2 2
+
+After sales and
+complaint service
+
+within 48 hours within 48 hours
+
+PAN India service
+support on 24 x 7
+basis
+
+Yes Yes
+
+AMC support
+available after 3
+year warranty
+
+Yes Yes
+
+Quarterly preventive
+maintenance
+
+Yes Yes
+
+Manufacturer shall
+provide and support
+for installation,
+commissioning,
+spares, technical
+support all over
+India
+
+Yes Yes
+
+Availability of spares
+in close proximity
+(Spares should be
+easily available close
+to the site)
+
+Yes Yes
+
+                             8 / 11
+
+
+
+ 
+
+CERTIFICATIONS ISO: 9001 Certification Yes *
+
+ISO: 14001 Certification Yes *
+
+Environmental
+compliance certificate
+RoHS
+
+Yes *
+
+CE Certification and
+marking
+
+Yes Yes
+
+UPS shall meet and
+comply with the
+General and safety
+requirements as per
+IEC:62040-1
+
+Yes *
+
+UPS shall meet and
+comply with the
+Electromagnetic
+compatibility (EMC)
+requirements as per
+IEC:62040-2
+
+Yes *
+
+Damp Heat Test : in
+accordance with
+IS:9000(part
+5/sec.2)1981 at
+Temperature of 40
+degree C,two cycles
+of (12+12) hours
+each 2007)
+
+No No
+
+Dry Heat Test : in
+accordance with
+IS:9000 (part
+3/sec.5)1977
+(reaffirmed 2007) at
+55 degree C for 16
+hrs
+
+No No
+
+Cold Test : in
+accordance with
+IS:9000 (Part
+2/Sec.4)1977
+(Reaffirmed 2007) at
+-10 degree C for 4
+hrs.
+
+No No
+
+Availability of the Type
+Test Report from
+Central Govt.
+/NABL/ILAC Accredited
+lab covering all
+technical requirements.
+
+Yes *
+
+All the test reports and
+certificates shall furnish
+by the supplier to the
+buyer/consignee on
+demand
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+
+                             9 / 11
+
+
+
+ 
+
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Thiyam Geetarani
+Devi
+
+795001,4th floor, New
+Secretariat, Western Block,
+Imphal West
+
+4  45
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+2.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+3.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial
+year, should be as indicated in the bid document. Documentary evidence in the form of
+certified Audited Balance Sheets of relevant periods or a certificate from the Chartered
+Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than
+3 year old, the average turnover in respect of the completed financial years after the date of
+constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of
+CATEGORY RELATED TO primary product having highest bid value should meet this criterion.
+
+4. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+5.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+6.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+7.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+8.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 3 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+
+                            10 / 11
+
+
+
+ 
+
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+9.Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have
+regularly, manufactured and supplied same or similar Category Products to any Central /
+State Govt Organization / PSU / Public Listed Company for 1 year before the bid opening
+date. Copies of relevant contracts to be submitted along with bid in support of having
+supplied some quantity during each of the year. In case of bunch bids, the primary product
+having highest value should meet this criterion.
+
+10.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+11.Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid
+documents. Buyers can match and verify the Data Sheet with the product specifications
+offered. In case of any unexplained mismatch of technical parameters, the bid is liable for
+rejection.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                            11 / 11
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

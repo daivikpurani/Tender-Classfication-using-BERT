@@ -1,0 +1,344 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/701698
+
+  Dated: 07-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 18-07-2020 19:00:00
+
+Bid Opening Date/Time 18-07-2020 19:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Micro Small And Medium Enterprises
+
+Department Name Na
+
+Organisation Name Fragrance And Flavour Development Centre (ffdc)
+Uttar Pradesh
+
+Office Name Kannauj Up
+
+Total Quantity 7
+
+Item Category Router
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Router ( 7 pieces )
+
+Technical Specifications
+
+                               1 / 4
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Ungrouped Type of Router WAN WAN
+
+No. of Gigabit
+Ethernet
+(10/100/1000 Base-T
+) Interface Ports
+
+1 More than 1.0 Or
+higher
+
+No. Of Serial WAN Port 1 *
+
+No. 1G SFP Slot (
+Fiber / Copper)
+
+0 More than 0.0 Or
+higher
+
+No. of 10G SFP+ Slot
+(Fiber / Copper)
+
+0 More than 0.0 Or
+higher
+
+No. of v.35 WAN
+Interface
+
+0 *
+
+No. of E1 (G.703) WAN
+Interface
+
+0 *
+
+Number of Gigabit
+Ethernet (10/100/1000
+Base-T ) LAN Ports
+
+1 *
+
+Ethernet LAN PORT PoE *
+
+Packet forwarding
+rate (MPPS)
+
+0 More than 0.0 Or
+higher
+
+Aggregated
+Throughput (Mbps)
+
+450 *
+
+Suppopt for Redundant
+Power Supply
+
+External *
+
+No. of 3G/4G Interface
+Card
+
+0 *
+
+No. of Free Slots (Low
+density)
+
+0 *
+
+No. of Free Slots
+(High density)
+
+0 More than 0.0 Or
+higher
+
+Routing Protocols from
+day-1
+
+- *
+
+Network Management
+Protocols
+
+- *
+
+IPsec Throughput
+(Mbps)
+
+867 More than 867.0 Or
+higher
+
+IPsec Encryption - *
+
+Security Protocol - *
+
+Support for QoS Available *
+
+Wattage (Watt) 6.5 *
+
+Dimension / Form 1 *
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/kfG7sNxZP0LEI8bkXrYfOD_PyM4lGgYQC3eHEEoOhxk
+
+
+ 
+
+Factor(RU)
+
+Operating Temperature
+Range(Degree C)
+
+- *
+
+Operating Humidity
+(RH) (%)e
+
+- *
+
+IPv6 Ready Yes *
+
+On Site OEM
+Warranty (Year)
+
+1 1
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Prabhaschandra
+Singh
+
+209726,FRAGRANCE &
+FLAVOUR DEVELOPMENT
+CENTRE (FFDC), INDUSTRIAL
+ESTATE, G.T. ROAD,
+MAKRAND NAGAR
+
+7  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+2.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+3. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+4.Bid reserved for Make In India products: Procurement under this bid is reserved for purchase
+from Class 1 local suppliers as defined in public procurement (Preference to Make in India),
+Order 2017 as amended from time to time and its subsequent Orders/Notifications issued by
+concerned Nodal Ministry for specific Goods/Products. The minimum local content to qualify
+as a class 1 local supplier is denoted in the bid document 50%. All bidders must upload a
+certificate from the OEM regarding the percentage of the local content and the details of
+locations at which the local value addition is made along with their bid, failing which the bid
+is liable to be rejected. In case the bid value is more than Rs 10 Crore, the declaration
+relating to percentage of local content shall be certified by the statutory auditor or cost
+auditor, if the OEM is a company and by a practicing cost accountant or a chartered
+accountant for OEMs other than companies as per the Public Procurement (preference to
+Make-in -India) order 2017 dated 04.06.2020 . In case Buyer has selected Purchase
+preference to Micro and Small Enterprises clause in the bid, the same will get precedence
+over this clause.
+
+5.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+
+                               3 / 4
+
+
+
+ 
+
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+6.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+7.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+8.Successful bidder will have to ensure that adequate number of dedicated technical service
+personals / engineers are designated / deployed for attending to the Service Request in a
+time bound manner and for ensuring Timely Servicing / rectification of defects during
+warranty period, as per Service level agreement indicated in the relevant clause of the bid.
+
+9.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 15 days time limit. If the Seller fails to complete
+service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product
+shall be charged as penalty for each week of delay from the seller. Seller can deposit the
+penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty
+amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than
+10% of the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

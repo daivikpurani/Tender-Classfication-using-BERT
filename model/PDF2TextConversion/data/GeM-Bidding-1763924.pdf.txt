@@ -1,0 +1,304 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/689817
+
+  Dated: 27-06-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 13-07-2020 14:00:00
+
+Bid Opening Date/Time 2020-07-13 14:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Army
+
+Office Name ***********
+
+Total Quantity 100
+
+Item Category Cat 6 Patch cord
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years Of Experience  Yes
+
+Document required from seller  Experience Criteria
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 4
+
+
+
+ 
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+
+Cat 6 Patch Cord ( 100 meter )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC Cate 6 patch cord
+conforming to
+ANSI/TIA/EIA-568 C.2 or
+ISO/IEC:11801 latest
+
+Yes *
+
+Patch cord type :
+Category 6 Unshield
+ed/Unshielded
+twisted pair or
+Category 6
+Foiled/Unshileded
+twisted pair
+
+CAT6 U/UTP CAT6 U/UTP
+
+Patch cord colour Blue Blue
+
+Conductor diameter 24 to 26 AWG *
+
+Length of Patch cord
+(Mtrs)
+
+2.0 2.0
+
+CONSTRUCTIONAL Applications: 0BASE-T,
+100BASE-TX Fast
+Ethernet, 1000BASE-T
+(IEEE802.3) , 100VG-
+AnyLAN (IEEE802.12),
+250 MHz Broadband
+Video, Voice, T1, ISDN,
+155/ 622 Mbps ATM ,
+Power over Ethernet
+(POE, POE+, 4 PPOE)
+
+Yes *
+
+Termination type /
+Connection type
+
+Insulation Piercing
+Connection (IPC)
+
+*
+
+Modular plug RJ45 *
+
+Plug insertion durability ≥ 750 mating cycles" *
+
+Conductor Materail Stranded copper *
+
+Conductor Insulation Polyethelene *
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/rNoC7Ke_7rZnvzsZMDqcm-gG8ntMM2K67y5M8DeEoK8
+
+
+ 
+
+Material
+
+Cable jacket material Low Smoke zero
+halogen (LSZH)
+
+Low Smoke zero
+halogen (LSZH)
+
+Storage temperature
+range
+
+-20 deg.C to +60 deg.C -20 deg.C to +60 deg.C
+
+Operating
+temperature range
+
+-20 deg.C to +60 deg.C -20 deg.C to +60 deg.C
+
+CERTIFICATIONS Category 6 pacth cord
+shall have valid verified
+certificate in channel
+from ETL /3P /GHMT
+/Delta/Intertek /UL as
+per CAT 6 standards
+ANSI//TIA/EIA-568 C.2
+latest or ISO/IEC:11801
+latest
+
+Yes *
+
+If "Yes" Certificate
+number - Must declare
+
+- *
+
+UL Marking on Cable No No
+
+Availability of complete
+and satisfactory type
+test Report from
+Central Government /
+NABL/ ILAC accredited
+laboratory as per
+Governing Specification
+
+Yes *
+
+Test report number - *
+
+Report date - *
+
+Name and address of
+lab
+
+- *
+
+All the test reports shall
+furnish to the
+buyer/consignee on
+demand
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********AJMER 100  30
+
+                               3 / 4
+
+
+
+ 
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2.Timely Servicing / rectification of defects during warranty period: After having been notified
+
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 15 days time limit. If the Seller fails to complete
+service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product
+shall be charged as penalty for each week of delay from the seller. Seller can deposit the
+penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty
+amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than
+10% of the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

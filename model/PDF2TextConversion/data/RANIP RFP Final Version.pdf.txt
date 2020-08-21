@@ -1,0 +1,4814 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 1 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+SUPPLY, INSTALLATION AND COMMISSIONING 
+
+OF NETWORKING SOLUTION AT GSRTC 
+ 
+ 
+ 
+ 
+ 
+ 
+
+REQUEST FOR PROPOSAL 
+ 
+
+Reference No: STG / EDP / NETWORKING/103 
+DATED 14.02.2018. 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+GUJARAT STATE ROAD TRANSPORT CORPORATION 
+
+CENTRAL OFFICE, CENTRAL WORKSHOP COMPOUND, NARODA 
+PATIA, 
+
+AHMEDABAD 
+Website: http://www.gsrtc.in 
+
+Tel No. 079-22801271; Fax 079-22803065 
+
+http://www.gsrtc.in/
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 2 
+
+ 
+
+ 
+
+ 
+SCHEDULE TENDER NOTICE 
+
+E-TENDER No: STG/EDP/NETWORKING/103 
+
+Item description Supply, Installation and Commissioning of Networking Solution at GSRTC 
+
+Locations Central Office, Nr RANIP BUS PORT, GSRTC, Ahmedabad 
+Contract period 3 years warranty 
+Bid Validity 180 days 
+
+ 
+ 
+ 
+Tender fee(non- refundable) 
+
+Rs. 5000+900 (GST@18% on Tender Fee/-)  in  
+the  form  of  Demand  Draft  (DD) issued by 
+nationalized bank / scheduled bank in favor of 
+“GSRTC Collection Account” Payable at 
+Ahmedabad. Combined single draft of Rs. 5900/- is 
+also accepted. 
+
+Earnest Money Deposit(EMD- 
+Refundable) 
+
+Rs. 5 , 0 0 , 0 0 0 / - in the form of Demand Draft 
+(DD)  issued by nationalized bank / scheduled bank 
+OR in the form of Bank Guarantee in  favor of 
+“GSRTC Collection Account”  Payable at 
+Ahmedabad. 
+
+E- Tendering Website details https://www.nprocure.com 
+Tender Floating Date 14.02.2018 
+Last Date & Time of queries 
+submission 17.02.2018  18:00 HRS 
+
+Issue of Clarification 19.02.2018 
+Last Date & Time of online Bid 
+submission.   26.02.2018 18:00 HRS 
+
+Last Date & Time of physical 
+submission of Tender Fee, EMD & 
+all necessary documents. 
+
+26.02.2018 18:00 HRS 
+
+Date & Time for on-line opening 
+of Technical Bid 27.02.2018  12:00 HRS 
+
+Date & time for on-line opening of 
+Financial Bid. 28.02.2018   12:00 HRS 
+
+ 
+
+ 
+ 
+
+GSRTC reserves its right to reject any or all tenders or split the job between more than 
+
+one bidder without assigning any reason thereof. 
+
+https://www.nprocure.com/
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 3 
+
+ 
+
+ 
+
+ 
+Definitions 
+
+ 
+Request for Proposal (RFP) – Formal procurement document in which a service or need 
+
+is identified, but no specific method to achieve it has been chosen. The purpose of an 
+
+RFP is to permit the consultant community to suggest various approaches to meet the 
+
+need at a given price. 
+ 
+
+Addendum – An addendum is issued when supplemental information has been added to 
+
+the RFP since its original posting. 
+ 
+
+Amendment -An amendment is issued when information in the RFP has been changed 
+
+since its original posting. 
+ 
+
+GSRTC – Gujarat State Road Transport Corporation. 
+ 
+ 
+
+GOG -Government of Gujarat. 
+ 
+ 
+
+Bid- A formal offer submitted in response to this RFP. 
+ 
+ 
+
+Bidder- Individual or Company (firm, state agency, etc.) submitting a proposal in order t 
+
+attain a contract with GSRTC. 
+ 
+
+Contract- Individual or company whose proposal has been accepted by GSRTC and is 
+
+awarded a fully executed written contract. 
+ 
+
+Letter of Intent- The letter issued by GSRTC issued to the successful bidder intimating 
+
+the acceptance of bidder’s bid and intimating desire of GSRTC to award work order to 
+
+that bidder. 
+ 
+
+Proposal- A formal offer submitted in response to this solicitation. 
+ 
+ 
+
+Service-level  Agreement  (SLA)-  A  service  contract  where  the  level  of  service  is 
+
+formally defined. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 4 
+
+ 
+
+ 
+
+Eligibility Criteria 
+ 
+
+Sr.No. Eligibility Criteria Supporting document (should be notary 
+  
+ 
+
+A 
+
+Bidder shall be either Original Equipment Manufacture 
+or shall be Authorized System Integrator Partner 
+having direct purchase and quoted for this tender. (MAF is 
+mandatory for all quoted items)  
+
+Certificate/Authorization letter specific 
+to tender must been closed by 
+authorized representative of the OEM 
+with technical bid. In case the bidder is 
+system Integrator partner MAF and 
+declaration from OEM that production 
+quoted is not end of life and it shall 
+support spares, patches for the quoted 
+products shall available for next 5 years 
+from the date acceptance of the system. 
+
+B 
+Bidder shall be registered in India under Companies Act 
+1956 and Companies Act  2013 at least for 3 years on 
+31.12.2017 
+
+Certificate of Incorporation 
+(Mandatory). 
+
+C 
+Bidder shall have valid  certificate of ISO 9001:2008 or 
+above and at least 3 years shall be completed as on 
+31.12.2017 
+
+Copy of Certification. 
+
+D 
+
+Bidder’s Average Annual Turnover of the Company 
+Registered in India during last 3 years ending 31.03.17 
+shall be at least Rs. 10 Crore in India. 
+ 
+Note: The annual turnover is taken for last three 
+financial years ending 31.03.17 i.e. FY 2014-15, 
+2015-16 & 2016-17 
+
+CA certified copy of the last three years 
+(i.e. 2014-15, 2015-16 & 2016-17) 
+audited finance statements or Audited 
+Balance sheet along compulsory CA 
+certified statement. 
+
+E 
+Bidder should have positive net-worth as per 
+last audited balance sheet ending on 31-03-17 
+
+CA certified and audited balance sheet  
+last  year ending on 31-03-17 
+
+F 
+
+Bidder should have successfully executed  network project  
+in any one of the following in last five years: 
+ 
+ One project of minimum 200 LAN /WAN nodes and 
+worth of at least Rs. 50 lacs. 
+ 
+ Two projects of minimum 100 LAN /WAN nodes and 
+worth of at least Rs.  35 lacs each; 
+ 
+ Three project of minimum 50 LAN /WAN nodes and 
+worth of at least Rs. 25 lacs each 
+
+Copy of purchase Order and completion 
+certificate shall be enclosed by the 
+bidder. 
+
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 5 
+
+ 
+
+ 
+
+G 
+Bidder must have on its roll at least 25 technically 
+qualified employee for IT projects execution. 
+
+An undertaking by an authorized 
+signatory of the company needs to be 
+submitted in this regard. 
+
+H 
+
+Bidder  shall  not  be  blacklisted / banned/ disqualified  /  
+declared  ineligible  /  declared having  dissatisfactory  
+performance  by  any government / quasi- government 
+authority in India for supply of materials / carrying 
+out operations and maintenance work. 
+
+An undertaking by an authorized 
+signatory of the company needs to be 
+submitted in this regard. Also, enclose 
+contact details of authorized personnel 
+shall be attached for reference 
+
+Mandatory Documents to be submitted in technical bid to be verified for pre- qualification. Failure 
+to which, Bidder will be technically disqualified. 
+
+I Bidder should be registered for GST. 
+Copy of the registration should be 
+submitted with this bid. 
+
+J 
+Bidder shall have sales & service set up office in 
+Gujarat since last 5 years as on tender floating date. 
+
+Office & service center address proof 
+document (like telephone bill, 
+electricity bill or rent agreement) should 
+be submitted. (Any type of  
+consortium/JV/sub-contract would not 
+be allowed) 
+
+K 
+
+A power of attorney should be accompanied by the 
+board resolution authorizing the Director/ competent 
+authority to execute POA and such authorized official 
+shall sign all Bid 
+Documents/deeds/declarations/undertaking/commun 
+ications etc. The authorized official shall represent the 
+Bidder in connection with this project. 
+
+Original power of attorney on a stamp 
+paper of Rs. 100/- (Rupees Hundred 
+only) for this project along with board 
+resolution of the company. 
+ 
+
+ 
+Note: 
+1.        Proper indexing should be done with page no’s mentioned. 
+
+ 
+2. The bidder must fulfill all the above criteria to be technically qualified and adequate 
+
+documentary proof should be submitted for verification. If any of the above criteria are not met 
+
+then such bid will not be considered for further processing. 
+
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 6 
+
+ 
+
+ 
+
+ 
+SECTION 1: INTRODUCTION 
+
+ 
+Gujarat  State  Road  Transport  Corporation  (GSRTC)  is  passenger  transport  organization 
+
+providing bus services both within Gujarat and neighboring states. 
+ 
+
+GSRTC came into existence on 1st May, 1960 on formation of Gujarat. From a modest beginning 
+
+of 7 divisions, 76 depots and 7 divisional workshops and a fleet of 1,767 buses it has gone to...... 
+ 
+
+    16 Divisions 
+ 
+
+    125 Depots 
+ 
+
+    226 bus stations 
+ 
+
+    1554 pickup stands 
+ 
+
+    8300 buses 
+ 
+ 
+
+This remarkable growth is an outcome of unflagging effort of more than 40,000 workforce, 
+
+dynamic management and sustained support from the state govt. It has built up formidable 
+
+technical facilities. 
+ 
+
+These are: 
+ 
+ 
+
+ Three  level  maintenance  and  repair  facility  126  depot  workshops,  16  divisional 
+
+workshops and a central workshop. 
+
+    7 tire retreading plant 
+ 
+
+    Bus body building plant (1000 bus bodies /year). 
+ 
+
+    Ticket printing press 
+ 
+ 
+
+GSRTC is in search for a complete solution to accomplish requirements of Networking Solution 
+
+with the aid of today technology along with available migration path to emerging technologies in 
+
+future. This RFP is against the requirement for a Networking solution system for the purpose of 
+
+better and quick management within the organization. 
+ 
+
+Documents for contractor’s pre-qualification are invited for project namely supply, installation 
+
+and commissioning of Networking Solution at Central Office, Near Ranop Bus Port, GSRTC  
+
+Gujarat State Road Transport Corporation, General contractors backed up specialists who wish to 
+
+bid for the qualification as set out in this documents. 
+
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 7 
+
+ 
+
+ 
+
+ 
+Section 2: INVITATION FOR BIDS & INSTRUCTION TO BIDDERS 
+
+ 
+2.1.   Invitation for bids bind the OEM legally 
+ 
+
+This invitation to bid is for “Supply, Installation and Commissioning of Networking 
+
+Solution at Ranip Central office, Near Ranip Bus Port, GSRTC”. At the time of submission 
+
+of the bid document the bidder has to submit the bid processing fee as a non-refundable 
+
+amount Rs. 5900/- (Rs 5000 Fee + Rs. 900 GST @18%) in the form of Demand Draft in 
+
+favor of “GSRTC Collection Account” payable at Ahmedabad. Bidder has to submit 
+
+refundable EMD of Rs. 500000/-(Rupees Five Lac only) in the form of Demand Draft 
+
+OR in the form of Bank Guarantee in favor of “GSRTC Collection Account” payable 
+
+at Ahmedabad. Failure to furnish any of the above mentioned would result in rejection of 
+
+the bid. 
+ 
+ 
+
+2.1.1  Reserve Rights of GSRTC 
+ 
+
+GSRTC may for any reasons add/ modify /amend/relax/cancel any terms / conditions / 
+
+criteria of the tender document during any stage of the tendering process and such 
+
+amendments shall be binding on all the bidders. GSRTC at its own discretions without 
+
+assigning any reason or incurring any liability to assist in the evaluation a comparison and 
+
+an examination of bid GSRTC may at its sole discretion ask the bidder for a clarification of 
+
+its bid including breakdown of unit rates etc. the request received within the prescribed 
+
+timeframe GSRTC reserves the right to make its own discretion and these changes shall be 
+
+binding to the bidders. 
+ 
+
+2.1.2 Pre-bid queries 
+ 
+
+Bidder shall have to submit the queries related to the RFP on or before 17.02.2018 at 18:00 
+
+HRS. Any queries submitted after query submission deadline shall not be entertained. All 
+
+the queries shall be submitted through an email in pre-defined excel sheet. email id for pre-
+
+bid queries submission- edpgsrtc@gmail.com edpmanager@gsrtc.in.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+mailto:edpgsrtc@gmail.com
+mailto:edpmanager@gsrtc.in
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 8 
+
+ 
+
+ 
+
+ Format of Pre-bid queries submission. 
+
+Request for Clarification Format 
+Bidder’s Request for Clarification  
+
+ 
+ 
+ 
+Remarks 
+(if any) 
+
+Name of Organization 
+Submitting Request 
+
+Name & Position 
+of 
+
+Person 
+Submitting 
+
+Request 
+
+Full Formal Address of 
+the organization 
+
+including phone, fax and 
+email points of 
+
+contact 
+
+ 
+S. 
+No 
+
+Bidding Document 
+Reference(s) 
+
+(Section 
+number/page) 
+
+ 
+Content of 
+
+RFP 
+requiring 
+
+Clarification 
+
+ 
+Points of clarification 
+
+Required 
+
+     
+
+ 
+
+ 
+ 
+
+2.1.3  Issue of Clarification 
+ 
+
+GSRTC will publish the clarification / addendum / amendment / corrigendum online at 
+
+www.nprocure.com. 
+ 
+
+2.1.4  Due Diligence 
+ 
+
+The bidder is expected to examine all instruction, forms, terms and specification in the 
+
+bidding document. The bid must be precise, complete and in the prescribed format as per 
+
+bidding document or submission of a bid not responsive to the bidding documents in entry 
+
+respect will be at the bidder’s risk and may result in rejection of the bid. 
+ 
+
+2.1.5  Cost of Bidding 
+ 
+
+The Bidder shall bear all cost associated with the preparation and submission of its bid. 
+
+GSRTC will in no case be held responsible or liable for this bidding process. 
+ 
+
+2.2.   Preparation of Bids 
+ 
+
+2.2.1 Language of bid 
+ 
+
+The bid prepared by the bidder as well as all correspondence and documents relating to the 
+
+bid exchange by the bidder and GSRTC shall be written in English language only. 
+ 
+
+http://www.nprocure.com/
+http://www.nprocure.com/
+http://www.nprocure.com/
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 9 
+
+ 
+
+ 
+
+2.2.2 Qualification of the bidder 
+ 
+
+ Pre-qualification criteria – bidder has to upload all documents online and submit all 
+
+supporting documents in a separate envelop along with tender fee and EMD Clearly 
+
+inscribing “Request for Proposal (RFP) for Networking Solution at Central office, Ranip, 
+
+GSRTC” 
+
+ The Bidder shall submit self-undertaking stating compliance with technical specifications 
+
+as well as acceptance of all terms & conditions of this RFP. No exceptions or deviations 
+
+will be acceptable to GSRTC. 
+
+ In-case the bidder fails to submit the entire relevant documentary evidences; same bid is 
+
+liable for rejection without assigning any reason thereof. 
+
+ The Bidder shall also include the undertaking from respective OEMs on availability of 
+
+spare parts and other necessary installations for keeping the whole Networking solution 
+
+system operational shall be provided and installed by the bidder at Bidder’s cost for 3 
+
+years. No payment shall be made for the spares and other necessary installation to be 
+
+provided and installed for maintaining the whole networking project in operation. 
+
+ The Bidder is one who has submitted the bid response for “Supply, Installation & 
+
+Commissioning of Networking Solution at GSRTC”. The bidder must be able to provide 
+
+complete product line of the solution offered. 
+ 
+
+2.2.3 Bill of Material 
+ 
+Estimated quantities of items for the project are tabulated below. 
+ 
+
+Bill of Material 
+Supply UOM QTY 
+
+1 Core switch -  
+(As per Technical Specification) 
+
+Nos. 1 
+
+2 Access Switch Non POE -  
+(As per Technical Specification) 
+
+Nos. 11 
+
+3 Access Switch POE -  
+(As per Technical Specification) 
+
+Nos. 2 
+
+4 Multimode SFP Module -  
+(As per Technical Specification) 
+
+Nos. 10 
+
+5 Indoor Access Point -  
+(As per Technical Specification) 
+
+Nos. 12 
+
+6 6 Core optical Fiber Armored Multi-Mode OM3 -  
+(As per Technical Specification) 
+
+Mtr. 300 
+
+7 Unloaded LIU 12 Port -  
+(As per Technical Specification) 
+
+Nos. 5 
+
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 10 
+
+ 
+
+ 
+
+8 ADAPTOR LC Multi-Mode OM3 -  
+(As per Technical Specification) 
+
+Nos. 10 
+
+9 PIGTAIL LC Multi Mode OM3 -  
+(As per Technical Specification) 
+
+Nos. 36 
+
+10 Optical Fiber Patch Cords LC-LC OM3  - 3 mtr -  
+(As per Technical Specification) 
+
+Nos. 8 
+
+11 Cat 6 4 Pair U/UTP Cable -  
+(As per Technical Specification) 
+
+Box 40 
+
+12 CAT 6 Jack I/O -  
+(As per Technical Specification) 
+
+Nos. 252 
+
+13 CAT 6 LSZH Patch cord 1mtr -  
+(As per Technical Specification) 
+
+Nos. 282 
+
+14 CAT 6 LSZH Patch cord 2 Mtr -  
+(As per Technical Specification) 
+
+Nos. 272 
+
+15 CAT 6 UTP Patch Panel, 24 port Loaded - 
+(As per Technical Specification) 
+
+Nos. 13 
+
+16 Face Plate - Single/Dual- 
+(As per Technical Specification) 
+
+Nos. 252 
+
+17 Standard Back box -  
+(As per Technical Specification) 
+
+Nos. 252 
+
+18 42U Network Rack -  
+(As per Technical Specification) 
+
+Nos. 1 
+
+19 29 U Network Rack -  
+(As per Technical Specification) 
+
+Nos. 4 
+
+20 25MM PVC Conduit with accessories -  (Standard ISI) Mtr. 4050 
+
+21 32MM HDPE Pipe with accessories -  (Standard ISI) Mtr. 200 
+
+22 32MM Flexible Pipe Rain Force -  (Standard) Mtr. 500 
+
+ 
+Services UOM QTY 
+
+1 Core switch Installation Charges Nos. 1 
+
+2 Access Switch Non POE  & POE Installation Charges  Nos. 13 
+
+3 Indoor Access Point Installation Charges  Nos. 12 
+
+4 6 Core Optical Fiber Armored Multi-Mode Laying Charges Mtr. 300 
+
+5 Unloaded LIU 12 Port Installation Charges  Nos. 5 
+
+6 PIGTAIL LC Multi Mode OM3  Splicing Charges & OTDR Testing Nos. 36 
+
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 11 
+
+ 
+
+ 
+
+7 Cat 6 4 Pair U/UTP Cable Laying & Pulling Charges Mtr. 12200 
+
+8 CAT 6 Jack I/O termination with Faceplate & back box installation Charges including Ferruling, Labeling, Node Scanning  Nos. 252 
+
+9 CAT 6 UTP Patch Panel, 24 port Loaded Termination Charges Nos. 13 
+
+10 42U Network Rack - Installation Charges  Nos. 1 
+
+11 29U Network Rack - Installation Charges  Nos. 4 
+
+12 Laying of 25MM PVC Conduit with Accessories Charges Mtr. 4550 
+
+13 Laying of 32MM HDPE Pipe with  Accessories Charges Mtr. 200 
+
+14 Project Management Charges & Documentation Charges LS 1 
+ 
+
+ 
+2.2.4 Financial Bid Evaluation 
+
+ 
+Commercial  bid  of  the  tender  will  be  opened  of  only  those  bidders  who  qualifies 
+
+i n  the technical evaluation. The bidder bids lowest rate will be L1 and contract will be 
+
+awarded to the L1 bidder.      
+
+2.2.5 Overview of Evaluation process 
+
+ 
+All evaluation will be carried out by GSRTC as detailed below. The decision of GSRTC at 
+
+every stage will be final in this regard. 
+ 
+
+2.2.6 Preliminary Scrutiny 
+ 
+
+The technical proposal will be opened on the mentioned date in this Bid Documents at 
+
+GSRTC’s office. The bidder not submitting tender fees & EMD shall be straight away 
+
+rejected for further tender evaluation. 
+ 
+
+2.2.7 Evaluation of Technical bids 
+ 
+
+The Technical Bid will be examined on the basis of eligibility criteria, responsiveness to 
+
+the evaluation methodology and the scope of work and other details as mentioned herein 
+
+the document. 
+ 
+
+ 
+ 
+ 
+
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 12 
+
+ 
+
+ 
+
+2.2.8 Evaluation of Commercial bids 
+ 
+
+The commercial bids will be opened for the technically qualified bidder only. The bidder 
+
+who has quoted lowest rate may be awarded the contract. 
+ 
+
+2.2.9 Final Negotiations & Award of Contract 
+ 
+
+GSRTC  may  enter  into  negotiations  with  the  selected  bidder  to  identify  any  needed 
+
+revisions to the proposal, both technical and commercial. GSRTC reserves the right to 
+
+award the contract, based on initial offers received or otherwise, without discussion and 
+
+without conducting any further negotiations. Further, the selected bidder may not reassign 
+
+any award made as the result of this bid, without prior written consent from GSRTC. 
+ 
+
+2.2.10 Undertaking 
+ 
+
+An undertaking from the bidder stating the compliance with all the conditions of the 
+
+contract and technical specifications of this bidding document will be required to GSRTC. 
+ 
+
+2.2.11 Technical Bid 
+ 
+ 
+
+Technical Bid shall comprise covering letter, technical proposal and other required 
+
+documents such as brochures, product details etc. Refer annexure I for the technical bid 
+
+contents and formats. Please note that no price schedule shall be indicated / submitted in / 
+
+as a part of the technical bid and it shall only be quoted in the online financial bid format 
+
+only. The technical bid shall be submitted online at http://www.nprocure.com and in case 
+
+bid submitted online will be considered final. 
+ 
+
+Bidders are requested to note the following: 
+ 
+ 
+ 
+
+ Bidder shall include the details of solution architecture of the integrated solution in the 
+
+technical bid. 
+
+ Bidder shall include the COMPLIANCE STATEMENT as a separate section in the 
+
+technical bid. 
+
+ Bidder shall include in a separate sheet the ASSUMPTION & DEVIATION on technical 
+
+specification,   installation   & commissioning etc. as a separate section in the technical 
+
+bid. 
+
+ 
+
+ 
+
+http://www.nprocure.com/
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 13 
+
+ 
+
+ 
+
+ Bidder  shall  include  make,  model  and  technical  specification  of  each  and  every 
+
+equipments in the technical bid. 
+
+ Bidder shall include any additional hardware or software required to make their solution 
+
+fully functional as per requirement. 
+
+ Bidder  must  include  UNPRICED  price  bid  giving  details  of  Bill  of  materials  and 
+
+percentage tax applicable on each item. 
+
+ 
+
+2.2.12 Financial Bid 
+ 
+The bidder shall strictly adhere to the format of the financial bid as specified in Annexure 
+
+ 
+
+II of the bid document. The financial bid shall be submitted online only at 
+
+https://www.nprocure.com. The financial bid submitted in any other form and format 
+
+shall not be considered valid and is liable for rejection. 
+
+ 
+2.2.13 Bid Price 
+ 
+
+I. Prices in the price schedule 
+The Bidder shall quote price in clear terms. Break up shall abide by the format for finance bid 
+
+described in annexure II. The rates quoted shall be inclusive of GST or any other taxes/cess /duty 
+
+imposed from time to time. The bidder shall bear the cost of all the taxes applicable. The costs of 
+
+the all taxes are deemed to be included in the quoted rate in the price bid of the bid. 
+ 
+
+II. Fixed Price 
+Prices quoted by the Bidder shall be fixed and no variation will be allowed under any 
+
+circumstances during the project period. No open ended bid shall be entertained and the same is 
+
+liable to be rejected straightaway. 
+ 
+ 
+
+III. Separation of price components 
+ 
+ 
+
+The price components furnished by the bidder shall be solely for the purpose of facilitating the 
+
+comparison of bids by GSRTC and shall not in any way limit GSRTC’s right to contract on any 
+
+of the terms offered. 
+
+2.2.14 Earnest Money Deposit (EMD) 
+ 
+
+a)  Requirement of EMD 
+The bid security is required to protect the GSRTC against the risk of bidder’s conduct which 
+
+shall warrant the security’s forfeiture. 
+
+ 
+
+https://www.nprocure.com/
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 14 
+
+ 
+
+ 
+
+b)  Refund of EMD to unsuccessful Bidder 
+ 
+
+Unsuccessful Bidder’s EMD shall be refunded within 60 days after the issuing LOI to the 
+
+successful bidder. 
+
+c)  Refund of EMD to successful Bidder 
+ 
+
+The successful Bidder EMD will be refunded against the submission of performance guarantee 
+
+upon the bidder signing the contract. 
+
+ 
+d)  Forfeiture of EMD 
+
+ 
+The EMD can be forfeited if a bidder... 
+ 
+
+    Withdraws his bid during the period of bid form or does not accept the correction of 
+errors or… 
+
+ 
+
+    In case the successful bidder fails 
+ 
+
+    To sign the contract within the specified time or.... 
+ 
+
+    To furnish performance guarantee within the specified time. 
+ 
+ 
+
+2.2.15   Period of validity of bids 
+ 
+
+Bids shall valid for 180 days after the date of bid opening prescribed by the GSRTC. The 
+
+GSRTC  holds  the  rights  to  reject  a  bid  valid  for  a  period  shorter  than  180  days  as  non- 
+
+responsive, without any correspondence. 
+
+2.2.16   Format and signing of bid 
+ 
+
+a. Number of copies of bid 
+ 
+
+The bidder shall submit technical bid online at https://www.nprocure.com and shall also submit the 
+
+technical bid in two copies (one original and one duplicate) in physical form in sealed cover 
+
+separately. In the event of any discrepancy between them, the original bid submitted online shall 
+
+govern. The bid shall be submitted at the below address: 
+
+ 
+EDP Manager, 
+
+EDP Cell, Central Office GSRTC, 
+Central Workshop Compound, Naroda Patia, Ahmedabad – 382 346. 
+
+ 
+b. Validation of interlineations in Bid 
+
+ 
+Any interlineations, erasures, alterations, additions or overwriting shall be valid only if the 
+
+person or persons signing the bid have authenticated the same with signature. 
+ 
+
+https://www.nprocure.com/
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 15 
+
+ 
+
+ 
+
+ 
+2.2.17  Sealing and marking of Bids 
+
+ 
+2.2.17.1           Enclosing of Bides 
+
+ 
+The hard copy of the all the technical bids along with brochures / specification / other documents 
+
+ 
+
+shall be placed in sealed envelopes clearly marking “Technical Bid”. The Bidder shall submit the 
+Technical bid, tender fees and EMD, sealed in separate covers, shall be placed in one bid cover 
+
+clearly marked as “Supply, Installation& Commissioning of Networking Solution at GSRTC” 
+
+All the pages shall be signed and stamped by the authorized signatory of the bidder, except 
+
+published materials such as brochures, product catalogues etc,. 
+
+ 
+2.2.17.2           Responsibility of Bidder 
+
+ 
+If  the  envelope  is  not  lacquer  sealed  and  marked  as  required,  GSRTC  will  assume  no 
+
+ 
+
+responsibility for the bid’s misplacement or premature opening. 
+ 
+ 
+
+2.2.17.3           Rejection of Bid 
+ 
+
+Any condition put forth by the bidder non-conforming the bid requirements shall not be 
+
+entertained at all and such bid shall be rejected. The Technical Bid and the commercial document 
+
+shall be submitted in the prescribed format. The commercial bid shall be uploaded online only 
+
+through https://www.nprocure.com along with physical submission of technical & pre- 
+
+qualifications documents only. Commercial bids submitted in any other form and format shall be 
+
+rejected Commercial bids submitted physically shall be liable for rejection. All the necessary 
+
+documents required for the bid submission should be strictly uploaded on  www.nprocure.com 
+
+No documents/papers that  is  found wanting as  a part  of bid  submission/evolution  shall  be 
+
+accepted after the bid submission closing time. If any required document is missing as a part of 
+
+bid submission then that bid may be liable for rejection. Bids submitted by Telex, fax or email 
+
+will not be entertained. Any bid not authenticated or not secured, will be rejected straightway by 
+
+GSRTC without any further correspondence, as non responsive. A bid that does not meet all pre- 
+
+qualification criteria or is not responsive or not fulfilling technical evaluation will be rejected by 
+
+GSRTC, and may not subsequently be made responsive by correction or withdrawal of the non- 
+
+conforming deviation or reservation by the bidder. 
+
+ 
+ 
+ 
+ 
+ 
+
+https://www.nprocure.com/
+http://www.nprocure.com/
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 16 
+
+ 
+
+ 
+
+2.2.18         Modification and withdrawal of bids 
+ 
+
+2.2.18.1           Written Notice 
+ 
+The bidder may modify or withdraw its bid after the bid’s submission, provided that GSRTC 
+
+receives the written notice of the modification or withdrawal, before the expiration of deadline 
+
+stipulated for submission of bids. 
+ 
+
+2.2.18.2           Signing and marking of Notice 
+ 
+
+The bidder’s modification or withdrawal notice shall be prepared, sealed, marked and dispatched 
+
+in accordance with the provisions of tender. A duly signed withdrawal notice may also be sent by 
+
+fax or post so as to reach the designated office before the expiration of deadline for submission 
+
+of bids. 
+
+2.2.18.3           Last Date for Notice 
+ 
+
+No bid shall be modified subsequent to the deadline for submission of bids. No bid shall be 
+
+withdrawn in the interval between the deadline for submission of bids and the expiration of 
+
+period of bid validity specified by the bidder on the bid form. Withdrawal of a bid during this 
+
+interval shall result in forfeiture of the bid security paid by the bidder. 
+
+2.2.19 Deadline for submission of bids 
+ 
+
+As mentioned  
+ 
+
+   2.2.19.1     Last date for submission 
+ 
+ 
+
+In the event of the specified date for the submission of bids being declared a holiday for the 
+ 
+
+GSRTC, the bids will be received up to the approved time on the next working day. 
+ 
+
+2.2.19.2   Extension for last date for submission 
+ 
+
+GSRTC may at own discretion; extend this deadline for submission of bids by amending the bid 
+
+document, in which case all rights and obligations of the GSRTC and bidders previously subject 
+
+to the deadline shall thereafter be subject to the deadline as extended. 
+ 
+
+2.2.20  Late bids 
+Any bid received by the GSRTC after the deadline for submission of bids stipulated by the 
+
+ 
+
+GSRTC shall be summarily rejected and returned unopened to the bidder. GSRTC shall not be 
+
+responsible for any postal delay or non-receipt / non-delivery of the document. No 
+
+correspondence for this shall be entertained. 
+ 
+
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 17 
+
+ 
+
+ 
+
+2.2.21         Opening of Bids 
+ 
+
+2.2.21.1 Opening of technical and commercial Bids 
+ 
+
+GSRTC will open all technical bids at GSRTC’s office in the presence of GSRTC officials along 
+
+with bidder’s representatives as per date mentioned in the tender document. Commercial bids 
+
+will  be  opened  at  GSRTC’s  office  in  presence  of  GSRTC  officials  along  with  technically 
+
+qualified successful bidder’s representative as per date mentioned in the tender document. 
+ 
+
+2.2.21.2 Bids not considered for evaluation 
+ 
+
+Bids that are rejected during the preliminary / pre-qualification / technical evaluation process 
+
+shall not be considered for further evaluation irrespective of the circumstances. 
+
+ 
+2.2.22         Preliminary Examination 
+
+ 
+2.2.22.1           Completeness of Bids 
+
+ 
+All the necessary documents required for the bid submission should be strictly compiled. No 
+
+documents that are found essential as a part of bid submission/evaluation shall be accepted after 
+
+the bid submission closing time. If any required document is missing as a part of bid submission, 
+
+then that bid may be liable for rejection straightaway. 
+
+2.2.22.2           Rectification of Errors 
+ 
+
+Arithmetical error will be rectified on the following basis: 
+ 
+ 
+
+ If there is a discrepancy between the unit price and the total price that is obtained by 
+
+multiplying the unit price and quantity, the unit price shall prevail and the total price shall 
+
+be corrected. 
+ 
+ 
+
+ If there is a discrepancy between the rates in words and figures, the rate in words will be 
+
+govern. If the supplier does not accept the correction of errors, his bid will be rejected 
+
+and his EMD may be forfeited. 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 18 
+
+ 
+
+ 
+
+2.3    Warranty and Support service for 3 years  
+ 
+
+It is mandatory for the bidder to quote for the bid including 3 years warranty support service. 
+
+Bidders shall very clearly indicate their warranty period in years as part of the technical proposal. 
+
+The bidder shall do and perform maintenance whenever complain raise by GSRTC. Support 
+
+service shall be comprehensive (manpower & spare-parts etc.) in nature, it shall be responsibility 
+
+of the bidder to replace any defective part without any additional cost. The defective part so 
+
+replaced shall be the property of the bidder. Bidder shall keep enough spares with them during 
+
+warranty. 
+
+Total support period required – 3 years 
+ 
+ 
+
+Maintenance Support Service 
+ 
+
+The bidder is expected to transfer the knowledge to the GSRTC officials nominated Technical 
+
+Term but however shall commit one dedicated technical person as overall support for the entire 
+
+contract period. At GSRTC’s option, the vendor shall provide ongoing maintenance support and 
+
+/ or further system development services for the entire system over three years period or any 
+
+period as agreed. 
+
+ 
+The bidder should submit valid letter from all the OEMs confirming the following: 
+
+ 
+
+ Authorization to bid against this tender issued in the name of bidder 
+ 
+
+ Confirm that the products quoted are not “End of life Products” 
+ 
+
+ Undertake that the support including spares, patches for the quoted products and /or 
+upgraded version shall be available for next 5 years. 
+
+ 
+ 
+ 
+
+2.4    Project schedule 
+ 
+
+ 
+The vendor shall complete and implement the project within 40 days from the date of award of 
+
+contract. The implementation schedule specified in the agreement shall be strictly adhered to. If 
+
+anything delays from GSRTC end, will be exempted from penalty. 
+ 
+
+2.5    Project Management 
+ 
+
+Successful bidder shall nominate one technically competent person as project manager who will 
+
+be single point of contact from the service provider end during the total contract period of 3 
+
+years. 
+ 
+ 
+
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 19 
+
+ 
+
+ 
+
+ 
+ 
+
+2.6    Notification of Award 
+ 
+
+2.6.1    Notification to Bidder 
+ 
+
+The bidder whose bid has been accepted shall be notified of the award by GSRTC prior to the 
+
+expiration of the period of validity of the proposal by registered letter / E-mail / Fax. This letter 
+
+(hereinafter called the “Letter of Intent”) shall state the sum that GSRTC shall pay the bidder in 
+
+consideration of the execution, completion maintenance of the work as prescribed by the contract 
+
+(hereinafter called the “Contract Value”) in accordance with Payment Terms. The bidder shall 
+
+acknowledge in writing the receipt of the Latter of Intent and shall send his acceptance to enter 
+
+into the contract within (5) clear working days from the receipt of the Letter of Intent. 
+
+ 
+2.6.2    Signing of agreement 
+
+ 
+The agreement shall be signed on all the pages by the person(s) duly authorized to bind the 
+
+bidder to the contract. After the signing of agreement the bidder shall initiate the execution of the 
+
+work as stipulated and specified in the agreement. 
+ 
+
+2.6.3    Expenses for the agreement 
+ 
+
+The incidental expenses of execution of agreement / contract shall be borne by the successful 
+
+bidder. 
+ 
+
+2.7    Performance Guarantee 
+ 
+
+Within 15 working days of the receipt of intimation of award from the GSRTC, the successful 
+
+bidder  shall  furnish  the  performance  guarantee  of  10%  of  the  total  contract  value,  in 
+
+accordance with the conditions of contract in the form of Bank Guarantee / Banker’s Cheque 
+
+from a nationalized bank drawn in favor of “GSRTC Collection Account” payable at 
+
+Ahmadabad. The EMD submitted earlier by the successful bidder shall be refunded against the 
+
+submission of performance guarantee and such performance and such performance guarantee 
+
+shall be retained by GSRTC during contract execution period and would be refunded on 
+
+successful execution and handing over of the project. Performance Guarantee shall be 
+
+returned to the bidder after completion of total 3 (Three) years warranty period. The 
+
+Performance Guarantee / Security Deposit must be having validity of 3 months of claim 
+
+period after completion of the contract) from the date of submission. 
+
+ 
+
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 20 
+
+ 
+
+ 
+
+ 
+2.8   Annulment of Award 
+
+ 
+Failure of the successful bidder to comply with pre-qualification criteria, evaluation criteria and 
+
+other terms and conditions set out in the Tender document shall constitute stuffiest ground 
+
+for the annulment of the award of contract and forfeiture of the Security Deposit / Performance 
+
+guarantee in which event GSRTC, may make the award to the next lowest evaluated bidder 
+
+after negotiations. 
+
+2.9    Payment terms, Schedule of payment 
+ 
+
+The Bidder’s request for payment shall be  made to the GSRTC in writing accompanied by the 
+
+details of work executed , supported with evidence of accomplishment of the item wise work. 
+ 
+ 
+
+Milestone Payment Cumulative Payment 
+On   delivery   of   hardware   at   all   site   and   its 
+verification and acceptance by GSRTC 70% 70% 
+
+On  successful  completion  of  supply ,  installation, 
+commissioning & maintenance Networking solution 
+system  running  for  30  days  without  failure  and 
+supply of all manuals and software , completion of 
+training 
+
+30% 100% 
+
+ 
+ 
+
+2.11 TAXES & DUTIES 
+ 
+
+ The bidder shall bear and pay all taxes, duties, levels, cess and charges assessed on the 
+
+bidder, its subcontractor or their employees by all municipal, state or national government 
+
+authority in connection with the contract in and outside of the country where the site is 
+
+located and no adjustment or variation will be allowed for changes thereof. 
+
+ If there is changes in taxes rates / application of new tax on direct transaction between 
+
+GSRTC and bidder, such increase shall be reimbursed by GSRTC or in case of reduction, 
+
+such benefit shall be passed on to GSRTC. 
+
+  For the purpose of the contract it is agreed that the contract price specified in letter of 
+
+acceptance / purchase order / contract Agreement is based on the taxes, duties, levies and 
+
+charges prevailing on the date of bid submission in   India and Gujarat where the site is 
+
+located (Unless otherwise revised by mutual consent). 
+
+  All taxes and duties forming part of the contract price shall be paid by the GSRTC only on 
+
+submission of documentary proof of payment of such taxes. 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 21 
+
+ 
+
+ 
+
+  Each party hereto agrees to indemnify and keep indemnified and saved harmless at all 
+
+times the other party against any loss , cost, expenses or damage suffered or incurred by it, 
+
+by reason of its failure to pay taxes, duties etc. Which it is obliged to pay pursuant to the 
+
+provision of this clause and / or arising out of its failure to comply with its obligations 
+
+under this clause. 
+
+  Tax deductions at source will be made by the GSRTC on payments made to the bidder as 
+
+per the applicable central and state laws. 
+
+  Form –C shall not be issued by the GSRTC. 
+ 
+
+  All payments to the bidder shall be subject to applicable withholding (whether applicable 
+
+as of the date of this contract imposed / required by any municipal, local, state or national 
+
+government authorities or any other Government Instrumentality at any time during the 
+
+subsistence of the contract) or statutory deduction as required in respect of income tax as 
+
+well as any other Taxes (Including but not limited to building and other construction 
+
+worker’s welfare cess). The GSRTC shall issue necessary tax deduction / withholding 
+
+certificates to the bidder. If the bidder obtains appropriate lower withholding orders (as per 
+
+GSRTC’s satisfaction) withholding may be carried out at such lower rates. 
+
+  The risk of all tax positions taken by bidder shall be borne solely by the Bidder. 
+ 
+ 
+
+2.12  Liquidated damages 
+ 
+
+1)  The bidder acknowledges that time is the essence of the contract and in case of any delay 
+
+in completion of the project the said delay shall cause substantial damages to owner. The 
+
+bidder here by agrees without prejudice to any other right or remedy available to the 
+
+owner under the contract to pay liquidated damages at rates mentioned herein. 
+
+Bidder and owner agrees that the amount fixed as liquidated damages herein are 
+
+reasonable and are a genuine pre-estimate of the minimum loss and damages that the 
+
+owner would suffer due to  due to delay in completion and the bidder shall not question 
+
+the rate off liquidate damages in court of law or rise any question otherwise. 
+
+Bidder guarantees that it will complete the project within the time specified in clause 21 
+
+or within such extended time as specified by the owner. Failure to achieve completion of 
+
+the project as per time schedule shall lead to application of liquidated damages @ 0.5% of 
+
+the total contract price per week or part there of subject to a maximum 10% of the total 
+
+contract price. Once the maximum is reached, the owner shall have right to terminate the 
+
+contract, pursuant to clause 35 without prejudice to its rights for claiming further general 
+
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 22 
+
+ 
+
+ 
+
+damages under the law. However the payment of liquidated damages shall not in any way 
+
+relieve the contractor from any of its obligations, duties and responsibilities to complete 
+
+facilities or from any other obligations and liabilities of the contractor under the contract. 
+ 
+
+2)  No bonus will be given for earlier completion of the project. 
+ 
+ 
+
+In addition to this we should also ensure that for delay in services / unsatisfactory 
+
+services during Maintenance period there is LD as per Service Level Agreement (SLA) 
+ 
+
+2.13  Service Level Agreement 
+ 
+
+The successful bidder has to maintain the service response time during entire contract 
+
+period. The services response time & subsequent liquidated damages (agreed to be genuine 
+
+pre- estimate of loss) applicable (in case of failure of maintaining the service response time) 
+
+is as mentioned below: 
+ 
+
+ The Maximum Time To Attend (i.e. time required for successful bidder’s maintenance 
+
+engineer to report at the after a request call / e-mail / fax is made or letter is written by 
+
+GSRTC) shall not exceed 24 hours. 
+
+ The Maximum Time To Repair (replacement Time): In case of failure of any 
+
+hardware the successful bidder will be liable to replace the damaged / faulty parts within 
+
+2 working days after fault detection. In case of shipment of hardware to OEM service 
+
+center for repair / replacement purpose, the total period taken from dismantling of 
+
+hardware from site, shipment OEM service center & reinstallation of the repaired / 
+
+replaced hardware at site should not exceed 7 working days. 
+
+ 
+
+  The successful bidder has to maintain the service response time during entire contract 
+
+period.  The  service  response  time  &  subsequent  liquidated  damages  (agreed  to  be 
+
+genuine pre-estimate of losses) applicable (in case of failure of maintaining the service 
+
+response time) is as mentioned bellow: 
+ 
+
+Description Time period beyond the 
+MTTA / MTTR 
+
+Liquidated Damages 
+
+ 
+ 
+ 
+ 
+Response 
+
+Up to 1 Day Rs. 1,000/- 
+From 2 days to 4 days Rs. 2,000/- 
+From 4 days to 10 days Rs.5,000/- 
+More than 10 days Rs. 5,000/- for first 10 days and Rs. 
+
+2,000/- per day there after 
+ 
+
+ 
+
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 23 
+
+ 
+
+ 
+
+2.14  Additional Work 
+ 
+
+In case there is an increase in the number of location / quantity of materials during the course 
+
+of the implementation / post implementation the bidder shall be given the additional work on 
+
+a pro-rata basis depending on the quoted rate. The quoted rates of all terms will be valid for 
+
+period of 365 days from the date of LOI/ PO issued by GSRTC to the successful bidder. 
+ 
+
+2.15  Modification of scope of work 
+ 
+
+In case of modification of scope of work GSRTC shall be liable to pay higher or lower than 
+
+the contract price as is mutually decided between GSRTC and the Bidder at the time of 
+
+modification. 
+ 
+
+2.16  Suspension 
+ 
+
+GSRTC may by written notice to the successful bidder, suspend all payments if the bidder 
+
+fails to perform any of its obligations under this contract including carrying out of the 
+
+services provided that such notice of suspension 
+
+(a)  Shall specify the nature of failure 
+ 
+
+(b)  Shall  request  the  bidder  to  remedy  such  failure  within  a  period  not  exceeding  30 
+
+(thirty)days after receipt of such notice of failure. 
+ 
+ 
+
+2.17 Termination of Contract 
+ 
+
+2.17.1 Termination for Default 
+ 
+
+The GSRTC shall without prejudice, to any other remedy for breach of contract by written 
+
+notice of default sent to the qualified Bidder, terminated the contact in whole or in part if 
+
+ 
+  The qualified bidder fails to deliver any or all of the obligations within the time period(s) 
+
+ 
+
+Specified in the contract or any extension thereof granted by the GSRTC. 
+ 
+
+  The qualified bidder fails to perform any other obligation under the contract. 
+ 
+ 
+
+2.17.2 Termination for Insolvency, Dissolution etc. 
+ 
+
+GSRTC shall at any time terminate the contract by giving written notice to the qualified Bidder 
+
+without compensation to the qualified Bidder, if the qualified Bidder becomes bankrupt or 
+
+otherwise insolvent or in case of dissolution of firm or winding up of company, provided that 
+
+such termination shall not prejudice or effect any right or action or remedy which has accrued 
+
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 24 
+
+ 
+
+ 
+
+thereafter to the GSRTC. 
+ 
+
+  Termination for Convenience: GSRTC reserves the right to terminate by prior written 
+
+notice, the whole or part of the contract without compensation to the bidder. The notice 
+
+of termination shall specify that termination be for GSRTC’s convenience, the extent to 
+
+which performance of work under the contract is terminated and the date on which such 
+
+termination becomes effective. 
+ 
+
+  No Claim Certificate: The qualified Bidder shall not be entitled to make any claim, 
+
+whatsoever, against GSRTC under or by virtue of or arising out of this contract nor shall 
+
+the GSRTC entertain or consider any such claim after Bidder shall have signed a “no 
+
+claim” certificate in favor of the GSRTC in such forms as shall be required by the 
+
+GSRTC after the works are finally accepted. 
+
+ 
+2.18  Rights to Data 
+
+ 
+GSRTC shall retain all right, title and interest in and to any and all data, entered or generated 
+
+by the Selected Vendor for GSRTC pursuant to this agreement and any modifications thereto 
+
+or works derived there from. 
+
+2.19  Relationship between the Parties 
+ 
+
+Nothing mentioned herein shall be constructed as relationship of GSRTC and contract or of 
+
+principal and agent as between GSRTC and Bidder. The subject to this contract has complete 
+
+charge of personal, if any, performing the services under this Project from time to time. The 
+
+Bidder shall be fully responsible for the services performed by or on their behalf hereunder. 
+
+2.20  Standards of Performance 
+ 
+
+ 
+The party awarded with the contract shall perform the services and carry out their obligations 
+
+under the Contract with due diligence, efficiency and economy in accordance with generally 
+
+accepted professional standards and practices. The party shall always act in respect of any 
+
+matter relating to this contract as faithful advisor to GSRTC and shall always support and 
+
+ 
+
+Safeguard the legitimate interests of GSRTC, in any dealings with the third party.  The 
+
+awarded party shall abide by all the provisions / Acts/ Rules etc. of compliance prevalent in 
+
+the country. The bidder shall conform to the standards laid down in Bid Document in totality. 
+
+ 
+ 
+ 
+
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 25 
+
+ 
+
+ 
+
+2.21 Delivery and Documents 
+ 
+
+The  Bidder  shall  submit  all  the  deliverables  on  the  date  as  per  schedule.  In  case  of 
+
+termination of the Contract, the entire document used by Bidder in the execution of project 
+
+shall become property of GSRTC. 
+
+2.22 Confidentiality 
+ 
+
+The Selected Vendor and its personal shall not, either during the term or after expiration of 
+
+this contract, disclose any proprietary or confidential information relating to the services, 
+
+contract or the GSRTC’s business or operations without the prior written consent of GSRTC. 
+ 
+
+2.23  Government Law, jurisdiction and Arbitration 
+ 
+
+The contract shall be governed in accordance with the laws of India. Any dispute between the 
+
+parties  arising  out  of  the  Contract  shall  be  referred  for  determination  by arbitration  as 
+
+prescribed in the Arbitration & Conciliation Act, 1996 as amended from time to time. The 
+
+Arbitration Tribunal shall consist of a Sole Arbitration to be appointed by GSRTC. The 
+
+arbitration, Gujarat. Subject to the arbitration agreement as mentioned above, the Parties 
+
+submit to exclusive jurisdiction of courts at Ahmedabad in relation to any matter arising out 
+
+of this agreement. 
+
+2.24 Notice 
+ 
+
+Any notice request or consent required or permitted to be given or made pursuant to this 
+
+contract shall be in writing. 
+
+2.25 Miscellaneous 
+ 
+
+ All intermediate products and end product of the work assignment carried out by the 
+ 
+
+Bidder, in any form, will be the sole property of GSRTC. 
+ 
+
+ In the event the Bidder Company or the concerned Division of the company is taken over / 
+
+bought over by another company, all the obligations under the agreement with GSRTC, 
+
+should be passed on the compliance by the new company new division in the negotiation 
+
+for their transfer. 
+ 
+ 
+
+ Bidder has to submit the certificate to that Company’s Director / Individual is not related 
+ 
+
+to any Employees working in the GSRTC. 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 26 
+
+ 
+
+ 
+
+2.26  Force Majeure 
+ 
+
+Force  Majeure  means  such  of  the  following  factors  which  substantially  affect  the 
+
+performance of the contract, such as: natural phenomena, including but not limited to floods, 
+
+draughts,  earthquakes  and  Epidemics;  acts  of  any  Government,  domestic  or  foreign, 
+
+including but not limited to war, declared or undeclared, quarantines, embargoes; illegal 
+
+strikes and legal lockouts in respect of PA scope of work provided; 
+
+Either party shall within fifteen (15) days from the occurrence of such a cause notify the 
+
+other in writing of such causes. The Bidder shall not be liable for delays in performing their 
+
+obligations resulting from any Force Majeure cause as referred to and/ or defined above. 
+
+However if such an event lasts for a period of 90 days or then either party shall have an 
+
+option to terminate this Agreement forthwith without any liability after intimating the other 
+
+party the same. Bidder shall however be entitled to receive payments for all the services 
+
+rendered by it under this Agreement prior to termination of contract. 
+ 
+
+2.27  Inspection 
+ 
+
+The Bidder shall: 
+ 
+ 
+
+ Facilitate the GSRTC officials or its nominated official / nominated third party / 
+
+delegated authority to inspect, supervise assess including without limitation to Revenue 
+
+Authorities and Certifying Authorities the system installed at the permission and other 
+
+arrangements to ensure the effectiveness after giving prior notice of 7 days in writing or by 
+
+way of surprise check if any malfunctioning or deficient operations is reported and  
+
+GSRTC officials or its nominated official / nominated third party / delegated 
+
+authority is of opinion to conduct such surprise checks to ensure the consistency of 
+
+performance or any other aspect of the services under the contract. 
+ 
+
+ Facilitate and provide all assistance to GSRTC officials or its nominated official /    
+    nominated third party / delegated authority. 
+
+ 
+ Allow at bidder’s cost and facilitate examination by officials or its nominated official /  
+    nominated third party / delegated authority pertaining to the system at intervals as  
+     mutually decided between GSRTC and the Bidder. 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+2.28 Fraud and corruption 
+
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 27 
+
+ 
+
+ 
+
+ 
+In pursuit (pursuance) of this policy GSRTC, 
+
+ 
+I. Defines for the purpose of this provision the terms set forth as follows: 
+
+ 
+a) “Corrupt practice” means the offering, giving, receiving or soliciting of anything of value 
+
+to influence the action of GSRTC, official by any personal of consortium in procurement 
+
+process or in contract execution. 
+
+b) “Fraudulent  practice”  means  a  misrepresentation  of  facts,  in  order  to  influence  a 
+
+procurement process or the execution of a contract, to the detriment  of GSRTC, and 
+
+includes collusive practices among the bidders  (prior to or after Proposal submission) 
+
+designed to establish bids at artificially high or non-competitive levels and to deprive the 
+ 
+
+GSRTC, of the benefits of free and open competition. 
+ 
+
+c) “Unfair trade practices” means supply of services different from what is order on. 
+ 
+
+d) “Coercive practices” means harming or threatening to harm, directly or indirectly, persons 
+ 
+
+or their property to influence their participation in the execution of contract. 
+ 
+
+II.   GSRTC will reject a proposal for award, if it determines that the bidder recommended for 
+
+award has engaged in corrupt, fraudulent, unfair trade practices or coercive practices. 
+
+III.   GSRTC shall declare a firm ineligible, either indefinitely or for a stated period of time, for 
+
+awarding the contract,  if it any time determines that the firm has  engaged in  corrupt, 
+
+fraudulent, unfair trade and coercive practices in competing for, or in executing, the contact. 
+
+2.29 Negotiation 
+ 
+
+It is absolutely essential for the bidders to quote the lowest price at the time of making offer 
+
+in their own interest. GSRTC, however, shall have the discretion to choose to enter into any 
+
+price negotiations or not. 
+
+2.30 Award of Contract 
+ 
+
+GSRTC reserves the right to accept or reject any bid, to award entire or a part of tender 
+
+items, and to annul the bidding process and reject all bids at any time before the contract 
+
+award, without thereby incurring any liability to the affected Bidder or Bidders. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.31 Contact Details 
+
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 28 
+
+ 
+
+ 
+
+ 
+All inquiries concerning this procurement shall to be addressed to the following: 
+
+ 
+ 
+
+EDP Manager, 
+EDP Cell, Central Office GSRTC, 
+
+Central Workshop Compound, Naroda Patia, Ahmedabad – 382346 
+Email: edpmanager@gsrtc.in, edpgsrtc@gmail.com 
+
+ 
+Prospective Bidders are specifically directed NOT to contact any other person apart from the 
+
+one  mentioned  above  in  this  Bid  Document  for  meetings,  conferences  or  technical 
+
+discussions that are related to the Bid Document. Unauthorized contract shall be cause for 
+
+immediate rejection of the Bidder’s Bid Document response. Substantive questions shall be 
+
+dealt with in writing. 
+
+2.32 Insurance 
+ 
+
+I.      General 
+ 
+
+The  bidder  shall  at  his  own  expense  arrange,  secure  and  maintain  with  reputable 
+
+insurance companies to the satisfaction of the Owner as follows. The bidder at his cost 
+
+shall arrange, secure and, maintain insurance as may be necessary and to its full value for 
+
+all such amounts to protect the works progress from time to time and the interest of the 
+
+Owner against all risks as detailed herein. The form and other limit of such insurance, as 
+
+defined herein together with the under works thereof in each case shall be acceptable to 
+
+the Owner.  However  irrespective  of  acceptance  of  the  works,  the  responsibility  to 
+
+maintain adequate insurance coverage at all times during the period of contract (i.e. till 
+
+the date of the commissioning & acceptance by the customer). 
+
+However, it is the responsibility of the customer to provide adequate security to the onsite 
+
+materials once delivered by the contractor at the respective sites. The Bidder’s failure in 
+
+this  regard  shall  not  relieve  of  any  of  his  responsibility and  obligations  under  this 
+
+contract. All costs on account of insurance liabilities covered under contract shall be 
+
+Bidder’s account and shall be included in the contract price. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+II.      Compliance of labor / Employee related acts 
+
+mailto:edpmanager@gsrtc.in,%20edpgsrtc@gmail.com
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 29 
+
+ 
+
+ 
+
+ 
+The bidder shall be liable to adhere strictly all rules & regulations related to employees/ 
+labor laws such as Provident Fund, Employees State Insurance, and Professional Tax etc. 
+
+ 
+III.      Any other insurance 
+
+ 
+The bidder shall also carry any and all other insurance, which he may be required under 
+
+any law or regulation from time to time without any extra cost of GSRTC. 
+
+IV.      Accident or injury to workmen 
+ 
+
+GSRTC shall not be liable for or in respect of any damages or compensation payable law 
+
+in respect or in consequences of any accident or injury to any workmen or other person in 
+
+the employment of the Bidder or Technology Partner or any Sub-bidder or Technology 
+
+Partner 
+
+V.      Transit Insurance 
+ 
+
+ 
+In respect of all items are to be transported by the Bidder to the site of work, the cost 
+
+transit insurance shall be borne by the Bidder and quoted price shall be inclusive of this 
+
+cost. 
+
+2.33 Third party inspection 
+ 
+
+The prime applicant shall facilitate at its own cost, GSRTC or its nominated / delegated 
+
+authority to inspect, supervise, and assess all the equipment installed at the premises and 
+
+other infrastructure arrangements. 
+
+2.34 Evaluation Methodology 
+ 
+GSRTC will evaluate and compare the bids determined to be substantially responsive. It 
+
+ 
+
+is GSRTC’s intent to select the tender that is most advantageous to GSRTC. 
+ 
+
+Technical bid Qualification criteria: Bidders shall comply with all the technical 
+
+criteria mentioned in Annexure-I. The Compliance shall be clear stated as YES or NO. 
+
+Any other statement will be considered as misleading and bidder will be straight way 
+
+disqualified. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+SECTION 3: SCOPE OF WORK 
+
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 30 
+
+ 
+
+ 
+
+ 
+3.1. THE SITE: 
+
+ 
+The proposed location is located at RANIP CENTRAL OFFICE, Near Ranip Bus Port, 
+Ahmedabad. 
+
+ 
+3.2. THE SCOPE: 
+
+ 
+1.  The scope for the Networking solution system, bidder has to supply, installation, testing 
+
+and commissioning of the Networking Solution / system as mentioned in Bill of 
+
+Material and related accessories. Bill of material has been prepared as per the current 
+
+requirements. In future network may expand. Therefore scope of cabling expansion 
+
+for the same should be considered and conduiting should be done accordingly. So 
+
+expansion can be implemented without new piping/ conduiting/ trenching. The  scope  
+
+includes  all  the  minor  civil  work  if  required  to complete the work, weather it is 
+
+mentioned or not mentioned in the BOQ. The GSRTC will approve that installation work 
+
+of the bidder and if there are any comments on the installation, the bidder has to rectify it 
+
+immediately as required by the GSRTC, without any extra charges. 
+
+2.   The  rates  of  items  shall  be  including  of  all  charges  like  Transportation,  Loading, 
+
+Unloading, Insurance, Packing, Forwarding, etc. all inclusive charges what so ever, 
+
+weather it is mentioned in the BOQ or not. No extra charges will be paid to the bidder for 
+
+any item in this matter. 
+
+3.   The rates of items shall be excluding taxes. Taxes will be as applicable. 
+ 
+
+4.   Bidder who is awarded the work should visit the site immediately within fifteen days of 
+
+the LOI and survey all the site in accordance with the scope of work to be carried  out 
+
+and if he found any discrepancy in the BOQ and at site, if there is any requirement of 
+
+extra items or major excess in the quantity, he should immediately brought in the notice 
+
+of GSRTC officials so that the GSRTC can take necessary action in time, otherwise the 
+
+bidder will not get any extra payment or time limit for such items. However if GSRTC 
+
+authority suggest any work which is not included in the tender and to be executed as an 
+
+extra item / excess item, agency has to carry out the work as per tender terms and 
+
+conditions and agency cannot deny to execute the same. 
+
+5.   The  contractor  should  submit  his  final  design  for  the  approval  as  per  his  make 
+
+specifications which he is going to be use at site along with the final estimated quantity to 
+
+be  required,  especially  all  numbered  quantity.  Bidder can start his ordering and 
+
+installation only after this approval from GSRTC. 
+
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 31 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+6.   The final responsibilities for all the work and civil work related to Networking 
+
+solution and electrical work are lies with the bidder and if he found any improper work 
+
+and if because of that if he envisaged any problems in the installation work later on which 
+
+affect the installation, he should immediately inform and brought to the notice of GSRTC. 
+
+7.   The bidder has to carry out the installation work as per the bills of quantities and the 
+
+specifications enclosed herewith. Deviations in specifications and in the approved make 
+
+will not be acceptable at all in any case. 
+
+8.   The  bidder  has  to  get  the  approval  from  GSRTC  before  placing  the  order  of  any 
+
+equipment so the make and the quality is to be approved within the time frame. 
+
+9.   Bidder has to get approvals of drawings by GSRTC and client sites only after dispatch 
+
+clearance is given by the consultant and client. Necessary storage space for materials at 
+
+various sites shall be provided by the client prior to starting installation .The material 
+
+shall be received at client sites only after dispatch clearance. The client shall 
+
+acknowledge receipt of various materials dispatched by the bidder from time to time. 
+
+10. If the bidder wants to refer any drawing he can contact the client and the consultant as the 
+
+drawings are confidential matter. 
+
+11. The time is critical for the contract. It is compulsory for the bidder to complete all his 
+
+installation work within 4 months failing to which the bidder will be panelized as per the 
+
+penalty clause. 
+ 
+ 
+ 
+
+3.3. THE ADDITIONAL RESPONSIBILITY PRE QUALIFICATION SITE VISITS 
+ 
+
+If GSRTC wants to verify the projects personally for which bidder claims under 
+
+experience in technical bid, all the arrangements and expenses shall be bared by the 
+
+contractor for the site visit. If he fails to do so, Bidder is liable for rejection in the 
+
+technical bid. 
+
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 32 
+
+ 
+
+ 
+
+3.4. INSTALLATION METHOD 
+ 
+ 
+ 
+
+ 
+
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 33 
+
+ 
+
+ 
+
+ 
+3.5. INSPECTION& FINAL ACCEPTANCE 
+
+ 
+
+a.   Inspection of networking solution shall be organized by contractor at GSRTC officials and 
+will be the part of the same as inspecting agency. 
+
+ 
+b.   Final Acceptance will be given by the authority after successful completion of the project. 
+
+Support service period will begin from the day of final acceptance awarded by GSRTC 
+
+nominated authority. 
+
+c. The contractor has to prove all the specification mentioned in the tender for active and    
+
+passive with the data sheets/catalogues. 
+
+d.   The contractor has to show all the minor materials specifications at site along with the data 
+
+sheets and prove that the specifications of the equipment offered by him is exactly matching 
+
+with all the specifications mentioned in the tender document and as raised by the inspection 
+
+authority. 
+
+e. The contractor has to show the detail installation procedures and guidelines to be followed at 
+
+site by the installation agency by proper method and with the proper tools and tackles. 
+
+Bidder has to submit the standard installation and testing procedures of all the equipment 
+
+offered. 
+
+ 
+3.6. CONFIRMATION FROM SUPPLIER 
+
+ 
+The contractor has to provide the following written confirmation from the manufacturer. 
+
+ 
+
+ 
+1.   Authorization letter from Manufacturers on the name of Bidder particularly for this 
+
+work. Tender number should be clearly mentioned in the MAF Letter. 
+ 
+
+2.   Maximum  delivery period  for  the  equipment  to  supply  at  site  duly  signed  by the 
+contractor for the confirmation of the timely order to the manufacturer from his side. 
+
+ 
+
+3.   All the parts and technical services will be available for his materials installed at site for 
+
+the period of at least five years.
+
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 34 
+
+ 
+
+ 
+
+4.   If the material is found faulty during the defect liability period he will replace the same 
+
+within 48 hours. If supplier is denying for the same, the contractor has to give the 
+
+conformation  to  keep  the  required  spare  material  immediately  replace  the  faulty 
+
+material at site. 
+ 
+
+5.   All manufactures have to submit their written confirmation of his equipment to be use 
+
+with equipment without any problem and they have no objection using that equipment 
+
+with make equipment, which is going to be used at site by the contractor. 
+ 
+
+6.   Written confirmation for submitting the report for satisfactory installation and stability 
+report of his product/system. 
+
+ 
+
+3.7. THE TRAINING 
+ 
+
+The contractor shall also provide training to the end user about entire working of the system. 
+
+The contractor has to appoint proper training staff after the commissioning and configuration 
+
+of the project. The training may be given in two hour or three batches where the detailed 
+
+training for the system and its working procedures, precautions considered to handle the 
+
+system, operation, maintenance, service etc. has to be explained. 
+ 
+ 
+
+The contractor also has to prepare the proper user-friendly training manual for all the training 
+
+staff who is taking the training with proper user-friendly language with proper screen shots 
+
+and pictures to explain the working and methodology of the system, in local language also. 
+
+ 
+3.8. CONFIDENTIAL POLICY 
+
+ 
+The contractor has to follow all the rules and regulations of the guidelines and has to follow 
+
+strictly to all the rules and privacy. Some of the guidelines are as follows, however it is not 
+
+limiting to the same.  Contractor  has  to  contact  the  GSRTC  authority  and  get  all  the 
+
+guidelines to carry out the work in the GSRTC premises. 
+
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 35 
+
+ 
+
+ 
+
+ 
+1.   All the drawing and paper works are very confidential property of GSRTC authority. 
+
+ 
+
+Contractor has to submit the privacy agreement with the client in their format. All the 
+
+responsibility lies with the contractor of the privacy of the documents handed over to him 
+
+for execution. 
+
+2.   The staff of the contractor should not invoice with any activity related to GSRTC or the 
+
+prisons. If there is any such incident occurs in the GSRTC due to this, the entire 
+
+responsibility lies with the contractor only. 
+
+3.   The staffs of the contractor has to pay extra attention or care to handle any equipment’s, 
+
+tools or tackles, big amount cash, mobile, match sticks, lighter, ladder, cable, etc., which 
+
+can be snatched by any prison and which can be used by the prison to escape from the 
+
+GSRTC or to stab the other person In the GSRTC or to do suicide attempt by him. No 
+
+such equipment’s are allowed inside the GSRTC BUS DEPOTS without the permission 
+
+of the GSRTC authority. In the case of any eventuality occurs, it is entirely contractor’s 
+
+responsibility and be held responsible for the same. 
+
+4.   No activity is allowed in the GSRTC by any staff of the contractor that affects to the 
+ 
+
+GSRTC security and peace. 
+ 
+ 
+
+3.9. Warranty 
+ 
+ 
+
+Warranty period shall be 3 years from the date of completion and handing over the entire 
+
+project. During the warrantee period the contractor shall be responsible for 
+
+repairing/replacement of faulty item without any cost to the GSRTC. In case of arbitration or 
+
+force majeure prevails and warranty voids, contractor has to bear the cost of executing the 
+
+insurance policy. 
+
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 36 
+
+ 
+
+ 
+
+ 
+ANNEXURE-I TECHNICAL SPECIFICATION 
+
+ 
+
+Core Switch Compliance Yes/No  
+Remarks  
+(If any) 
+
+Sr.No Generic Requirements      
+  Generic Requirements      
+
+1 Switch should be 1RU with minimum 12 no. of 1 Gig SFP ports and 
+upgradable to additional 2 nos. of 10 Gig SFP+ ports.  
+
+  
+  
+
+2 Switch should supplied with 10 nos. of MM transceiver module     
+
+3 
+Switch should have minimum 480 Gbps of stacking bandwidth with 
+dedicated stacking ports and cables with minimum 4 switches in a 
+single stack.  
+
+  
+  
+
+4 Switching system shall have minimum 68 Gbps of switching fabric 
+and minimum 50.5 Mpps of forwarding rate.  
+
+  
+  
+
+5 Switch should have 4 GB RAM and 2 GB Flash     
+
+6 Switch should have hot swappable 1:1 redundant internal power 
+supply.  
+
+  
+  
+
+7 Power supply, fan modules and interface modules should be hot 
+swappable.  
+
+  
+  
+
+8 Switching system shall have minimum 32K MAC Addresses and 1K 
+active Vlans. 
+
+  
+  
+
+9 Switch should support minimum 2K ACLs, 4K Multicast and 8K 
+Unicast Routes for IPv4 and IPv6.  
+
+  
+  
+
+10 
+Should support IEEE Standards of Ethernet: IEEE 802.1D, 802.1s, 
+802.1w, 802.1x, 802.3ad, 802.3x, 802.1p, 802.1Q, 802.3, 802.3u, 
+802.3ab, 802.3z.  
+
+  
+  
+
+11 
+Should have static routing, OSPF, OSPFv3, BGP, HSRP for 
+IPv6/VRRPv3, VRF (Virtual routing and forwarding), IGMP v1/v2/v3 
+and PIM multicast routing.  
+
+  
+  
+
+12 Shall have 802.1p class of service, marking, classification, policing 
+and shaping. Should support strict priority queue.  
+
+  
+  
+
+13 Switch should support management features like SSHv2, SNMPv2c, 
+SNMPv3, NTP, RADIUS and TACACS+ .  
+
+  
+  
+
+14 Switch should support port security, DHCP snooping, Dynamic ARP 
+inspection, IP Source guard, BPDU Guard, Spanning tree root guard.  
+
+  
+  
+
+15 
+Switch should support IPv6 Binding Integrity Guard, IPv6 Snooping, 
+IPv6 RA Guard, IPv6 DHCP Guard, IPv6 Neighbor Discovery 
+Inspection and IPv6 Source Guard. 
+
+  
+  
+
+16 Should support 802.1x authentication and accounting, IPv4 and IPv6 
+ACLs and Dynamic VLAN assignment.  
+
+  
+  
+
+17 Switch shall support application visibility and traffic monitoring with 
+minimum 24 K netFlow/sflow/jflow entries. 
+
+  
+  
+
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 37 
+
+ 
+
+ 
+
+18 
+Switch shall conform to UL 60950 or IEC 60950 or CSA 60950 or EN 
+60950 Standards for Safety requirements of Information Technology 
+Equipment.  
+
+  
+  
+
+19 
+Switch shall conform to EN 55022 Class A/B or CISPR22 Class A/B 
+or CE Class A/B or FCC Class A/B Standards for EMC (Electro 
+Magnetic Compatibility) requirements.  
+
+  
+  
+
+20 Switch / Switch’s Operating System should be tested and certifiedfor 
+EAL 2/NDPP or above under Common Criteria Certification.  
+
+  
+  
+
+21 Switch should be IPv6 Certified/IPv6 logo ready.      
+
+22 OEM should be “Leader” in published Gartner Magic Quadrant for last 3 years i.e. 2015, 2016, 2017   
+ 
+
+Access Network Switch Compliance Yes/No  
+Remarks  
+(If any) 
+
+Sr.No Generic Requirements      
+  Generic Requirements      
+
+1 Switch should be 1RU with minimum 24 nos. 10/100/1000 Base-T 
+ports and additional 4 nos. SFP uplinks ports.     
+
+2 
+
+Switch should have slot/ports(excluding uplinks) for minimum 48 
+Gbps of stacking bandwidth with dedicated stacking ports and cables 
+with minimum 8 switch in stack. Stacking functionality not required 
+from Day1.      
+
+3 Switch should support external/internal power supply.      
+
+4 Switch shall have minimum 88 Gbps of switching fabric and 65 Mpps 
+of forwarding rate.      
+
+5 Shall have minimum 12 K MAC Addresses and 250 active V lans.     
+
+6 
+Should support IEEE Standards of Ethernet: IEEE 802.1D, 802.1s, 
+802.1w, 802.1x, 802.3ad, 802.3x, 802.1p, 802.1Q, 802.3, 802.3u, 
+802.3ab, 802.3z.      
+
+7 Shall have 802.1p class of service, marking, classification, policing 
+and shaping. Should support strict priority queuing.      
+
+8 Switch should support management features like SSHv2, SNMPv2c, 
+SNMPv3, NTP, RADIUS and TACACS+ .      
+
+9 Switch should support port security, DHCP snooping, Dynamic ARP 
+inspection, IP Source guard, BPDU Guard, Spanning tree root guard.      
+
+10 
+Switch should support IPv6 Binding Integrity Guard, IPv6 Snooping, 
+IPv6 RA Guard, IPv6 DHCP Guard, IPv6 Neighbor Discovery 
+Inspection and IPv6 Source Guard.     
+
+11 Switch must have support for L3 functionality like static routing, RIP, 
+PIM, OSPF and PBR from Day1   
+
+12 Should support 802.1x authentication and accounting, IPv4 and IPv6 
+ACLs and Dynamic VLAN assignment.      
+
+13 Switch shall support application visibility and traffic monitoring with 
+minimum 12 K net Flow/s flow/j flow entries.     
+
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 38 
+
+ 
+
+ 
+
+14 
+Switch shall conform to UL 60950 or IEC 60950 or CSA 60950 or EN 
+60950 Standards for Safety requirements of Information Technology 
+Equipment.      
+
+15 
+Switch shall conform to EN 55022 Class A/B or CISPR22 Class A/B 
+or CE Class A/B or FCC Class A/B Standards for EMC (Electro 
+Magnetic Compatibility) requirements.      
+
+16 Switch / Switch’s Operating System should be tested and certified for 
+EAL 2/NDPP or above under Common Criteria Certification.      
+
+17 Switch should be IPv6 Certified/IPv6 logo ready.      
+
+18 OEM should be “Leader” in published Gartner Magic Quadrant for last 3 years i.e. 2015, 2016, 2017   
+ 
+ 
+ 
+
+Access Switch - 24 Port (PoE) Compliance Yes/No  
+Remarks  
+(If any) 
+
+Sr.No Generic Requirements      
+
+1 
+Switch should be 1RU with minimum 24 nos. 10/100/1000 Base-T 
+ports with PoE+ capability and minimum 370W of PoE Power and 
+additional 4 nos. SFP uplinks ports. 
+
+  
+  
+
+2 
+
+Switch should have slot/ports(excluding uplinks) for minimum 48 
+Gbps of stacking bandwidth with dedicated stacking ports and cables 
+with minimum 8 switch in stack. Stacking functionality not required 
+from Day1 
+
+  
+
+  
+3 Switch should support external/internal internal power supply.      
+
+4 Switch shall have minimum 88 Gbps of switching fabric and 65 Mpps of forwarding rate.      
+5 Shall have minimum 12 K MAC Addresses and 250 active Vlans.     
+
+6 
+Should support IEEE Standards of Ethernet: IEEE 802.1D, 802.1s, 
+802.1w, 802.1x, 802.3ad, 802.3x, 802.1p, 802.1Q, 802.3, 802.3u, 
+802.3ab, 802.3z.  
+
+  
+  
+
+7 Shall have 802.1p class of service, marking, classification, policing and shaping. Should support strict priority queuing.      
+
+8 Switch should support management features like SSHv2, SNMPv2c, SNMPv3, NTP, RADIUS and TACACS+ .      
+
+9 Switch should support port security, DHCP snooping, Dynamic ARP inspection, IP Source guard, BPDU Guard, Spanning tree root guard.      
+
+10 
+Switch should support IPv6 Binding Integrity Guard, IPv6 Snooping, 
+IPv6 RA Guard, IPv6 DHCP Guard, IPv6 Neighbor Discovery 
+Inspection and IPv6 Source Guard. 
+
+  
+  
+
+11 Should support 802.1x authentication and accounting, IPv4 and IPv6 ACLs and Dynamic VLAN assignment.      
+
+12 Switch shall support application visibility and traffic monitoring with minimum 12 K netFlow/sflow/jflow entries.     
+
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 39 
+
+ 
+
+ 
+
+13 
+Switch shall conform to UL 60950 or IEC 60950 or CSA 60950 or EN 
+60950 Standards for Safety requirements of Information Technology 
+Equipment.  
+
+  
+  
+
+14 
+Switch shall conform to EN 55022 Class A/B or CISPR22 Class A/B 
+or CE Class A/B or FCC Class A/B Standards for EMC (Electro 
+Magnetic Compatibility) requirements.  
+
+  
+  
+
+15 Switch / Switch’s Operating System should be tested and certifiedfor EAL 2/NDPP or above under Common Criteria Certification.      
+16 Switch should be IPv6 Certified/IPv6 logo ready.      
+
+17 OEM should be “Leader” in published Gartner Magic Quadrant for last 3 years i.e. 2015, 2016, 2017   
+ 
+
+42U Network Rack 
+
+Sr.no Specification 
+Compliance 
+
+Yes/No  
+Remarks 
+(If any) 
+
+1  600W*1000D Network rack 42U     
+
+2 
+
+Basic frame: Frame of sturdy frame section construction, consisting 
+of 9 x folded rolled hollow frame section punched in 25mm DIN pitch 
+pattern. All profile edges are radiuses. The corners are stiffened with 
+welded zinc die-cast corner connectors, Front and rear perforated door. 
+Top cover with cable entry and Bottom open. 42 U 19" L type angle 
+Front & Rear on 6 x punched section. Color RAL 9005 or RAL 7035 
+
+    
+
+3 
+Painting/ Coating : Primary Dip Coat = 20-30 Microns Power Coat = 
+80-120 Microns, ISO 9001, EN ISO 14001 and OHSAS 18001 
+approvals required for manufacturing facility 
+
+    
+
+4 Top mounted FAN (Set of 4)     
+5 5 /15A, 10 Socket PDU with MCB     
+6 Castors with brake and without brake (2+2)     
+7 Component Shelf (1 nos.)     
+8 2 side panels Screw fitted     
+9 Key lock, locking system     
+
+10 Captive Hardware (Pack of 20)     
+ 
+
+29U Network Rack 
+
+Sr.no Specification 
+Compliance 
+
+Yes/No  
+Remarks 
+(If any) 
+
+1  600W*600D Network rack 29U     
+
+2 
+
+Basic frame: Frame of sturdy frame section construction, consisting of 
+9 x folded rolled hollow frame section punched in 25mm DIN pitch 
+pattern. All profile edges are radiuses. The corners are stiffened with 
+welded zinc die-cast corner connectors, Front and rear perforated door. 
+Top cover with cable entry and Bottom open. 29 U 19" L type angle 
+Front & Rear on 6 x punched section. Color RAL 9005 or RAL 7035 
+  
+
+    
+
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 40 
+
+ 
+
+ 
+
+3 
+Painting/ Coating : Primary Dip Coat = 20-30 Microns Power Coat = 
+80-120 Microns, ISO 9001, EN ISO 14001 and OHSAS 18001 
+approvals required for manufacturing facility 
+
+    
+
+4 Top mounted FAN (Set of 4)     
+5 5 /15A, 10 Socket PDU with MCB     
+6 Castors with brake and without brake (2+2)     
+7 Component Shelf (1 nos.)     
+8 2 side panels Screw fitted     
+9 Key lock, locking system     
+
+10 Captive Hardware (Pack of 20)     
+ 
+ 
+
+6 core optical Fiber Armored Multi-Mode OM3 
+
+Sr.no Feature Specification Compliance Yes/No  
+Remarks 
+(If any) 
+
+1 Cable Type 
+
+Optical fibers in water blocked loose tube, taped, 
+corrugated steel tape armored (STA) polyethylene 
+(HDPE) outer sheathed embedded with two steel 
+wires on the periphery. The cables are with UV 
+Stabilized PE Jacket and 
+protected from Rodent attacks. complying to 
+ISO/IEC 11801, EN50173, ANSI/TIA 568-C.3, 
+Telcordia GR-20; suitable for use in indoor / 
+outdoor ducts, direct burial and backbone cabling 
+
+    
+
+2 Fiber Type 
+
+Multi-Mode, 50/125 micron primary coated 
+buffers, OM3 (IEC 60793-2-50, B1.3 and ITU T 
+G652.d). Shall be manufactured using Vapor 
+Axial Deposition technology. 
+
+    
+
+  Construction type     
+
+3 Number of 
+elements 
+
+1     
+
+4 Tube:  Polybutylene, Terephthalate(PBT)     
+5 Tube color:  White     
+6 Tube diameter 3.0/2.0 mm nominal OD/ID     
+8 No of fibers: 4/6/8/12     
+
+9 Fiber color 
+sequence 
+
+Blue, Orange, Green, Brown, Slate (Grey), White, 
+Red,  Black, Yellow, Violet, Pink, Aqua     
+
+10 Water Blocking 
+Thixotropic Gel (Tube)  Petroleum Jelly 
+(Interstices)     
+
+11 Core Wrapping Polyethylene Terephthalate     
+
+12 Armoring: Corrugated Steel Tape Armor (ECCS Tape)  Thickness > 0.125mm     
+
+13 
+Peripheral 
+Strength 
+Member 
+
+Two Steel wires (0.9 mm dia)     
+
+14 Ripcord: 
+Polyester based yarns below armored tape for 
+easy ripping     
+
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 41 
+
+ 
+
+ 
+
+15 Outer Sheath 
+UV Stabilized 
+Polyethylene (HDPE)     
+
+16 Sheath thickness 2.0 mm nominal     
+17 Sheath color Black     
+  Standards     
+
+18   
+
+complying to ISO/IEC 11801 2nd Edition, type 
+OS1/OS2; AS/ACIF S008; AS/NZS 3080 ; 
+TIA/EIA 568.C.3; IEC-60793-1, 60793-2  
+EN50173, ANSI/TIA 568-C.3, Telcordia GR-20; 
+suitable for use in indoor / outdoor ducts, direct 
+burial and backbone cabling 
+
+    
+
+  Mechanical characteristics     
+
+19 
+Dimensions and 
+
+Mass Overall 
+Cable (Nominal): 
+
+9.0 MM     
+
+20 Mass (Nominal) 80 kg/km     
+21 Cable length 2 km ± 10%     
+
+22 
+Max. Bending 
+Radius (during 
+
+installation) 
+20 X Overall diameter     
+
+23 
+Max. Bending 
+Radius (during 
+
+full load): 
+10 X Overall diameter     
+
+24 
+Max. Tensile 
+
+Strength-Short 
+Term 
+
+1500N     
+
+25 
+Max. Crush 
+
+Resistance-Short 
+Term: 
+
+2000N/10 cm     
+
+26 
+Operating 
+
+Temperature 
+range 
+
+-40°C ±70°C     
+
+  Optical characteristics     
+
+27 
+Mode Field 
+Diameter @ 
+
+850nm 
+50 + 3.0 μm     
+
+28 Cladding Diameter 125 + 2.0 μm     
+
+  Electrical/Optical Characteristics     
+
+29 Attenuation 
+
+Characteristics - Optical Performance 
+Max. Attenuation (Cable with fibers) 
+At 850 nm: 3.0 dB/km 
+At 1330 nm: 1.0 dB/km 
+
+    
+
+  Min Bandwidth     
+
+30   At 850 nm: 2000MHz At 1300 nm: 500MHz     
+
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 42 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Unloaded LIU 12 Port 
+Sr. 
+No.  Specification 
+
+Compliance 
+Yes/No  
+
+Remarks (If 
+any) 
+
+1 
+Supply and Installation LIU 12 PORT RACK MOUNT BLK with 
+Splice Tray and Cable spool FIBER PATCH PANELS – RACK 
+MOUNT 
+
+    
+
+2 Characteristic Min. Required Specification     
+
+3  Have sufficient slots accommodate duplex LC adapters individually. 
+    
+
+4  Should have fiber management provision inside     
+5  Have earthing lugs and other accessories.     
+6  Panel cover should be slide out for easy maintenance     
+
+7 
+ Provide self-adhesive, clear label holders (transparent plastic 
+window type) and white designation labels with the panel, for front 
+panel labeling. 
+
+    
+
+8 LC Adaptor Module Panel     
+9 Blank slot of LIU should be filled with blanking plate     
+
+ 
+ 
+
+ADAPTOR LC Multi Mode OM3 
+
+Sr.No Specification Compliance Yes/No  
+Remarks 
+(If any) 
+
+  
+
+General      
+Supply And Installation ADAPTOR LC MM -ZR-SLEEVE                                                                                           
+SL QUAD ADAPTORS P/N. 
+
+    
+
+Characteristic Min. Required Specification     
+
+Features All SC adaptors should be duplex type with shutter for 
+protection.  Adapters should be snap mount for easy insertion and 
+removal.  
+
+    
+
+Features     
+
+Adapters should be with a shutter providing a barrier against 
+harmful light emissions and with either precise zirconia ceramic or 
+rugged phosphor bronze alignment sleeves 
+
+    
+
+It should be with Small footprint, RoHS Compliant, Zirconia, 
+phosphor bronze and polymer alignment sleeves, Unique shuttered 
+feature protects from harmful light emissions. Available upon 
+application 
+
+    
+
+It should be in multimode     
+
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 43 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+PIGTAIL LC Multi Mode OM3 
+
+Sr.no Specification Compliance Yes/No  
+Remarks 
+(If any) 
+
+  
+
+General     
+Supply And Installation PIGTAIL LC MM SIMPLEX LENGTH-   
+(Fiber Cable Pigtail  Splicing / Fusion Inclusive fixing of LIU )                                                                                                                                                          
+Optical Fiber Optic Pigtails  
+
+    
+
+Characteristic Min. Required  Specification     
+
+Features Connector Type:- LC-Style, Pre-terminated Pigtails offer 
+premium factory-controlled optical performance on a variety of 
+connectors that enable fast, economical installation. Pre-terminated 
+leads are ideal for mission-critical backbone applications such as Data 
+center tie cables and low optical loss backbone riser cables 
+
+    
+
+MM connectors:- 500 cycles, Beige     
+ Ferrules:- Pre-radiuses Ceramic Ferrules     
+ Attenuation:- Not more than 0.75 dB per mated pair       
+Features     
+
+Characteristics 
+Cable: 900um Buffered 
+Outside Diameter: 900um 
+Buffer Diameter: 900um tight buffer 
+Minimum bend radius: install: 30 mm 
+Operating Temperature: -20ºC to 75ºC 
+Retention Strength: 100N 
+Cable Sheath: LS0H 
+
+    
+
+Features and Benefits:  
+Standard or custom assemblies 
+Precision ferrule end face geometry 
+Controlled fiber protrusion 
+Factory polished, tested and serialized. 
+
+    
+
+Standards: 
+ISO/IEC 1108:2008. ANSI/TIA/EIA- 
+568-C.3, EIA 492, Tele Cordia GR-409, 
+ICEA-596, OS2-STD ITU-T-G652 D 
+LS0H* IEC 61034-1&2, IEC-60332-1 
+IEC 60754-1&2 standards 
+
+    
+
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 44 
+
+ 
+
+ 
+
+ 
+Optical Fiber Patch Cords LC-LC OM3  - 3 mtr 
+
+Sr.no Specification Compliance Yes/No  
+Remarks  
+(If any) 
+
+  
+
+Features:      
+
+Optical Fiber Patch Cords should be with LSZH jacket as standard. Patch 
+cords should be offer factory –controlled performance in a variety of 
+connector, ISO performance standards and lengths. It has taken specific 
+attention to the end-face geometry and fiber core alignment to ensure 
+reliability and optimized performance 
+
+ 
+
+  
+
+Features and Benefits:  
+100% Factory Tested – Guaranteed performance 
+LS0H Jacket Standard – Reduces toxic/corrosive gasses emitted during 
+combustion. Plenun and PVC 
+also available 
+Multiple Formats available - Available in Simplex, 
+Duplex, Single Mode, Multi-Mode and a variety of 
+connector options 
+
+    
+
+Mechanical Characteristics 
+Cordage O.D.: 2.0mm +/- 0.1mm x 
+4.1mm +/- 0.2mm 
+Buffer Diameter: 900μ 
+Primary Coating: 245μ 
+Strength Member: Aramid Yarn 
+Jacket Material: LS0H IEC 61034-1 & 2, 
+IEC-60332-1, IEC-60754- 
+1 & 2 
+Minimum Bend Radius: Install: 3.0cm. 
+Long Term Bend Radius: 2.0cm 
+Operating Temperature: -40°C to +85°C 
+
+    
+
+Standards:  
+ISO/IEC 1108:2008, ANSI/TIA/EIA 568.C.3, ANSI/TIA/ 
+EIA-492, TELECORDIA GR-409, ICEA-596 
+OS2 -STD ITU-T-652D 
+
+    
+
+ 
+ 
+ 
+
+Cat 6 4 Pair U/UTP Cable 
+
+Sr.no Technical Specification Compliance Yes/No  
+Remarks 
+(If any) 
+
+1 Type Unshielded twisted pair cabling system, TIA / EIA 568-C.2 Category 6 Cabling system 
+    
+
+2 Network support 
+
+Supports ultrahigh speed data networks such 
+as Gigabit Ethernet (1000 Base-T and 1000 
+Base-TX) 
+and beyond. 
+
+    
+
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 45 
+
+ 
+
+ 
+
+3 TIA / EIA 568-B.1 
+ETL Verified, UL Listed and UL channel 
+verified- All three Certificates are mandatory 
+
+    
+
+4 IEEE 802.3ab Zero-bit Error, ETL verified     
+
+5 Warranty 
+
+25-year systems warranty; Warranty to cover 
+Bandwidth of the specified and installed 
+cabling system, and the installation costs. 
+Site certificate must be issued by OEM  
+
+    
+
+6 
+
+Performance 
+characteristics to be 
+provided along with 
+bid 
+
+Attenuation, Pair-to-pair and PS NEXT, 
+ELFEXT and PSELFEXT, Return Loss, 
+ACR and PS ACR for 4-connector channel 
+
+    
+
+7 Manufacturer All passive cabling must be from same OEM     
+8 Conductors 23 AWG solid bare copper     
+9 Insulation Polyethylene     
+
+10 Jacket PVC     
+11 Filler PE     
+
+12 Approvals 
+UL Listed and UL Channel verified     
+ETL verified to TIA / EIA Cat 6     
+
+13 Frequency tested up to  600 MHz minimum     
+14 Outer dia 6.2 mm     
+15 Packing Box of 305 meters     
+16 shipping weight 305m reel in a box 24kg     
+17 Impedance 100 Ohms + / - 15 ohms     
+
+18 
+
+Performance 
+characteristics to be 
+provided along with 
+bid 
+
+Attenuation, Pair-to-pair and PS NEXT, 
+ELFEXT and PSELFEXT, Return Loss, 
+ACR and PS ACR 
+
+    
+
+19 Delay Skew:  45ns Max     
+20 Impedance:  100 ± 15 Ohms     
+21 Current Rating:  1.5 A Max     
+
+22 Conductor DC 
+Resistance:  
+
+66.5Ω/km 
+    
+
+23 Voltage:  150VAC     
+24 NVP 67%     
+25 Propagation delay:  535ns/100m @250MHz     
+26 Mutual Capacitance:  5.6nF/100m Nominal     
+27 Insulation Resistance:  500 MΩ Minimum     
+28 Dielectric Strength:  1000 V RMS     
+29 Contact Resistance:  10 mΩ Max     
+30 Fire Propagation Test UL 1581 VW1, IEC 60332.1, EN0256-2-1     
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 46 
+
+ 
+
+ 
+
+ 
+CAT 6 Jack I/O 
+
+Sr. 
+No.  Specification 
+
+Compliance 
+Yes/No  
+
+Remarks 
+(If any) 
+
+1 
+Cat6  Data Gate Jack with Spring loaded Shuttered in-out effect & 
+Face Plate with tagging from OEM for Data / Voice / Other 
+application,    (ii) FACE PLATE 
+
+    
+
+2 Specification     
+3 Features Single Gang square plate, 86mmx86mm     
+
+4  Write on labels in transparent plastic window – supplied with plate 
+    
+
+5  Screw hole covers – to be supplied with plate     
+6  Plug in Icons – Icon tree – to be supplied with plate     
+
+7  Should be able to support variety of jacks – UTP, STP, Fiber, Coax etc. INFORMATION OUTLET 
+    
+
+8 Characteristic Min. Required  Specification     
+9 Features Category 6, TIA568B.2-1 – 250MHz     
+
+10  All information outlets for 100 W, 22-24 AWG copper cable shall: 
+    
+
+11 Use insulation displacement connectors (IDC)      
+
+12  Allow for a minimum of 200 re-terminations without signal degradation below standards compliance limits. 
+    
+
+13  Be constructed of high impact, flame-retardant thermoplastic with color and icon options for better visual identification. 
+
+    
+
+14  With spring loaded shutter      
+15  With Terminator cap     
+16  IDC posts should be pointed     
+17  568A/B configuration     
+
+18 
+ Information outlet (RJ45 jack) should be covered under ETL 
+Verification program for compliance with TIA568B.2-1, ETL 
+certificate to be submitted with offer 
+
+    
+
+19 Mechanical : Jack Connector Plastic Housing: Polycarbonate, UL94V-0 rated or equivalent 
+    
+
+20  Operating Life: Minimum 750 insertion cycles     
+21  Contact Material: Copper alloy     
+22  Contact Plating: 50 µinches gold over 100 µinches nickel     
+23  Plastic Housing: Polycarbonate, UL94V-0 rated or equivalent     
+24  Operating Life: Minimum 200 Re-terminations     
+25  IDC Contact Plating: Tin Plate (tin/lead)      
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 47 
+
+ 
+
+ 
+
+ 
+CAT 6 LSZH Patch cord 1mtr /  2 Mtr 
+
+Sr. No.  Specification Compliance Yes/No  
+Remarks 
+(If any) 
+
+1 Cat 6 U/UTP Patch Cord LSZH - 1m / 2m MOUNTING CORDS     
+2 Characteristic Min. Required  Specification     
+3 Features Category 6 Equipment cords     
+
+4 
+
+ The work area equipment cords shall, at a minimum comply with 
+proposed ANSI/TIA/EIA-568-B.2-1 Commercial Building Cabling 
+Standards Transmission Performance Specifications for 4 pair 100W 
+Category 6 Cabling.  
+
+    
+
+5 
+ Category 6 modular equipment cords: Shall be round, and consist of 
+eight insulated 24 AWG, stranded copper conductors, arranged in four 
+color-coded twisted-pairs within a flame-retardant jacket. 
+
+    
+
+6  Equipped with modular 8-position modular plugs on both ends, wired straight through with standards compliant wiring.      
+
+7  Should have 50 micro inches of gold plating over nickel contacts.      
+
+8  Modular cords should include a molded strain relief boot.      
+
+9  Should be covered by ETL verification program for compliance with TIA 568B.2-1.  Certificate to be submitted with bid.     
+
+10 Mechanical – Cable Conductor size: 24 AWG stranded bare copper     
+
+11  Max O.D.: 5.6mm (.22”)     
+12  Jacket: PVC LSZH     
+13  Temperature range: -20oC to +60oC     
+
+14 Mechanical Characteristics – Plug Operating life: Minimum 750 insertion cycles     
+
+15  Contact material: Copper alloy     
+16  Contact plating: 50µ” Gold/100µ”Nickel     
+
+17  Plug dimensions & tolerances compliant with FCC Part 68 and IEC 60603-7     
+
+18  Approvals: UL, CSA     
+19 Electrical Characteristics – Plug Max voltage: 150 VAC (max)     
+20  Max current: 1.5A @ 25oC     
+21  Operating temperature: -40 C to 85 C     
+
+ 
+
+
+
+ 
+ 
+
+Request for Proposal (RFP) for Networking Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 48 
+
+ 
+
+ 
+
+CAT 6 UTP Patch Panel, 24 port Loaded 
+Sr. 
+No.  Specification 
+
+Compliance 
+Yes/No  
+
+Remarks 
+(If any) 
+
+1 Cat 6 24 Port Loaded Patch Panel  - 1U 24 PORT JACK PANEL     
+2 Characteristic Min. Required  Specification     
+
+3 Features Be made of powder coated steel, in 24 port configurations. 
+    
+
+4  Allow for a minimum of 200 re-terminations without signal degradation below standards compliance limit. 
+    
+
+5  Have port identification numbers on the front of the panel.     
+
+6 
+ Should have self-adhesive, clear label holders (transparent plastic 
+window type) and white designation labels with the panel, with optional 
+color labels / icons. 
+
+    
+
+7 
+ Should be upgradeable as Intelligent Patch Panel without changing the 
+existing Patch Panel hardware and by simple retro fitting of intelligent 
+sensors as and when required. 
+
+    
+
+8  Each port / jack on the panel should be individually removable on field from the panel. 
+    
+
+9  Should have integrated rear cable management shelf.     
+
+10  Should be covered by ETL verification program for compliance with TIA 568B.2-1.  
+    
+
+11  Shutter on the jack panel port is mandatory     
+12 Mechanical Characteristics     
+
+13 Jack Connector Plastic Housing: Polycarbonate, UL94V-0 rated or equivalent 
+    
+
+14  Operating Life: Minimum 750 insertion cycles     
+15  Contact Material: Copper Alloy     
+16  Contact Plating: 50µ” Gold/100µ” Nickel     
+17  Contact Force: 100g minimum     
+18  Plug Retention Force: 15 lb.     
+
+19 IDC Connector Plastic Housing: Polycarbonate, UL94V-0 rated or equivalent 
+    
+
+20  Operating Life: Minimum 200 re-terminations     
+21  Contact Material: Copper Alloy     
+22  IDC Contact Plating: Tin/Lead Plate     
+23  Contact Force: 100g minimum     
+24  Wire Accommodation: 22-24 AWG solid     
+
+
+
+ 
+ 
+
+Request For Proposal (RFP) for Video Conferencing Solution at GSRTC 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FACE PLATE 
+Sr. 
+No.  Min. Required  Specification 
+
+Compliance 
+Yes/No  
+
+Remarks (If 
+any) 
+
+1 
+
+Characteristic & Features     
+Single Gang square plate, 86mmx86mm     
+Write on labels in transparent plastic window – supplied with 
+plate     
+
+Screw hole covers – to be supplied with plate     
+Plug in Icons – Icon tree – to be supplied with plate     
+Should be able to support variety of jacks – UTP, STP, Fiber, 
+Coax etc.     
+
+Standard Back box 
+Sr. 
+No.  Specification 
+
+Compliance 
+Yes/No  
+
+Remarks (If 
+any) 
+
+2 Supply and Installation BACK BOX -(Surface Mount Box) For Single 86mmx86mm     
+
+
+
+ 
+ 
+
+Request For Proposal (RFP) for Video Conferencing Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 50 
+
+ 
+
+ 
+
+Document Compliance (Yes/No) 
+Page No. of the 
+
+Physical Bid 
+Concept, Design and Solution- Bidder shall provide a narrative 
+and graphical description in sufficient detail to clearly define 
+the proposed concept(s) 
+
+  
+
+Products to be used, their availability and their specifications   
+Technical compliance with reference (to submit Brochures/ 
+specifications) 
+
+  
+
+All Hardware requirements, system software and application 
+software 
+
+  
+
+Sample Project Management Plan, including reasonable target 
+dates, major tasks and steps 
+
+  
+
+ 
+
+Compliance Check List- To be submitted as part of technical Bid 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Please note that list is the minimum documents to be enclosed. However, bidder shall 
+submit more documents to meet the tender requirement. 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+
+Request For Proposal (RFP) for Video Conferencing Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 51 
+
+ 
+
+ 
+
+List of Documents to be enclosed to be submitted as part of Technical Bid 
+ 
+
+ 
+
+Sr.No. Eligibility Criteria Supporting document (should be notary 
+ 
+
+ 
+ 
+
+A 
+
+Bidder shall be either Original Equipment Manufacture 
+or shall be Authorized System Integrator Partner having 
+direct purchase and quoted for this tender. (MAF is 
+mandatory for all quoted items)  
+
+Certificate/Authorization letter 
+specific to tender must been 
+closed by authorized 
+representative of the OEM with 
+technical bid. In case the bidder 
+is system Integrator partner MAF 
+and declaration from OEM that 
+production quoted is not end of 
+life and it shall support spares, 
+patches for the quoted products 
+shall available for next 5 years 
+
+      
+ B 
+
+Bidder shall be registered in India under Companies Act 
+1956 and Companies Act  2013 at least for 3 years on 
+31.12.2017 
+
+Certificate of Incorporation 
+(Mandatory). 
+
+C 
+Bidder shall have valid  certificate of ISO 9001:2008 or 
+above and at least 3 years shall be completed as on 
+31.12.2017 
+
+Copy of Certification. 
+
+D 
+
+Bidder’s Average Annual Turnover of the Company 
+Registered in India during last 3 years ending 31.03.17 
+shall be at least Rs. 10 Crore in India. 
+ 
+Note: The annual turnover is taken for last three 
+financial years ending 31.03.17 i.e. FY 2014-15, 2015-
+16 & 2016-17 
+
+CA certified copy of the last 
+three years (i.e. 2014-15, 2015-
+16 & 2016-17) audited finance 
+statements or Audited Balance 
+sheet along compulsory CA 
+certified statement. 
+
+E 
+Bidder should have positive net-worth as per 
+last audited balance sheet ending on 31-03-17 
+
+CA certified and audited balance 
+sheet 
+
+      
+
+F 
+
+Bidder should have successfully executed  network project  
+in any one of the following in last five years: 
+ 
+ One project of minimum 200 LAN /WAN nodes and 
+worth of atleast Rs. 50 lacs. 
+ 
+ Two projects of minimum 100 LAN /WAN nodes and 
+worth of atleast Rs.  35 lacs each; 
+ 
+ Three project of minimum 50 LAN /WAN nodes and 
+worth of atleast Rs. 25 lacs each 
+
+Copy of purchase Order and 
+completion certificate shall be 
+enclosed by the bidder. 
+
+
+
+ 
+ 
+
+Request For Proposal (RFP) for Video Conferencing Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 52 
+
+ 
+
+ 
+
+G 
+Bidder must have on its roll at least 25 technically qualified 
+employee for IT projects execution. 
+
+An undertaking by an authorized 
+signatory of the company needs 
+to be submitted in this regard. 
+
+H 
+
+Bidder  shall  not  be  blacklisted / banned/ disqualified  /  
+declared  ineligible  /  declared having  dissatisfactory  
+performance  by  any government / quasi- government 
+authority in India for supply of materials / carrying out 
+operations and maintenance work. 
+
+An undertaking by an authorized 
+signatory of the company needs 
+to be submitted in this regard. 
+Also, enclose 
+contact details of authorized 
+personnel 
+
+     Mandatory Documents to be submitted in technical bid to be verified for pre- qualification. 
+Failure to which, Bidder will be technically disqualified. 
+
+I Bidder should be registered for GST 
+Copy of the registration should 
+be submitted with this bid. 
+
+J 
+Bidder shall have sales & service set up office in 
+Gujarat since last 5 years as on tender as on floating date. 
+
+Office & service center address 
+proof document (like telephone 
+bill, electricity bill or rent 
+agreement) should be submitted. 
+(Any type of  consortium/JV/sub-
+contract would not be accepted) 
+
+K 
+
+A power of attorney should be accompanied by the board 
+resolution authorizing the Director/ competent authority to 
+execute POA and such authorized official shall sign all Bid 
+Documents/deeds/declarations/undertaking/communications 
+etc. The authorized official shall represent the Bidder in 
+connection with this project. 
+
+Original power of attorney on a 
+stamp paper of Rs. 100/- (Rupees 
+Hundred only) for this project 
+along with board resolution of the 
+company. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+
+Request For Proposal (RFP) for Video Conferencing Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 53 
+
+ 
+
+ 
+
+Experience Details 
+ 
+
+Sr. 
+No. 
+
+Name of the 
+customer with 
+address of 
+installation 
+
+Scope 
+of 
+Work 
+
+Technical details/ 
+Specifications(Equivalent to the 
+specification requested in the RFP) 
+
+Value of 
+the 
+Project in 
+INR 
+
+1     
+
+2     
+
+3     
+
+4     
+
+5     
+
+ 
+Please add additional lines if required... 
+
+ 
+Make and Model List 
+
+ 
+
+Sr. 
+No. Name of the Item Make Model 
+
+Supporting 
+Document 
+Submitted 
+or Not? 
+
+1     
+
+2     
+
+3     
+
+4     
+
+5     
+
+ 
+ 
+
+Please add additional lines if required... 
+
+
+
+ 
+ 
+
+Request For Proposal (RFP) for Video Conferencing Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 63 
+
+ 
+
+ 
+
+ANNEXURE II- COMMERCIAL BID (BOM A) 
+ 
+
+ANNEXURE II- COMMERCIAL BID 
+
+Sr. 
+No. Description of Item 
+
+UO
+M 
+
+Quantit
+y 
+
+Unit 
+Rate 
+
+Total Amount 
+without Tax 
+
+Tax rate in 
+Percentage 
+
+Total Tax 
+Amount 
+
+Total Amount 
+with Tax 
+
+(A) (B) (C)=(C=A*B) (%) (D) (E) (E=C*D) (F) (F=C+E) 
+SUPPLY PART- A 
+
+1 Core switch -  (As per Technical Specification) 
+No
+s. 1           
+
+2 Access Switch Non POE -  (As per Technical Specification) 
+No
+s. 11           
+
+3 Access Switch POE -  (As per Technical Specification) 
+No
+s. 2           
+
+4 Multimode SFP Module -  (As per Technical Specification) 
+No
+s. 10           
+
+5 Indoor Access Point -  (As per Technical Specification) 
+No
+s. 12           
+
+6 
+6 Core optical Fiber Armored 
+Multi-Mode OM3 -  
+(As per Technical Specification) 
+
+Mtr
+. 300           
+
+7 Unloaded LIU 12 Port -  (As per Technical Specification) 
+No
+s. 5           
+
+8 
+ADAPTOR LC Multi-Mode 
+OM3 -  
+
+    
+
+No
+s. 10       
+
+    
+
+9 PIGTAIL LC Multi Mode OM3 -  (As per Technical Specification) 
+No
+s. 36           
+
+10 
+Optical Fiber Patch Cords LC-LC 
+OM3  - 3 mtr -  
+(As per Technical Specification) 
+
+No
+s. 8           
+
+11 Cat 6 4 Pair U/UTP Cable -  (As per Technical Specification) 
+Bo
+x 40           
+
+12 CAT 6 Jack I/O -  (As per Technical Specification) 
+No
+s. 252           
+
+
+
+ 
+ 
+
+Request For Proposal (RFP) for Video Conferencing Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 64 
+
+ 
+
+ 
+
+13 CAT 6 LSZH Patch cord 1mtr -  (As per Technical Specification) 
+No
+s. 282           
+
+14 CAT 6 LSZH Patch cord 2 Mtr -  (As per Technical Specification) 
+No
+s. 272           
+
+15 
+CAT 6 UTP Patch Panel, 24 port 
+Loaded - 
+(As per Technical Specification) 
+
+No
+s. 13           
+
+16 Face Plate - Single/Dual- (As per Technical Specification) 
+No
+s. 252           
+
+17 Standard Back box -  (As per Technical Specification) 
+No
+s. 252           
+
+18 42U Network Rack -  (As per Technical Specification) 
+No
+s. 1           
+
+19 29 U Network Rack -  (As per Technical Specification) 
+No
+s. 4           
+
+20 
+25MM PVC Conduit with 
+accessories -  
+(Standard ISI) 
+
+Mtr
+. 4050           
+
+21 
+32MM HDPE Pipe with 
+accessories -  
+(Standard ISI) 
+
+Mtr
+. 200           
+
+22 
+32MM Flexible Pipe Rain Force 
+-  
+(Standard) 
+
+Mtr
+. 500           
+
+ 
+ 
+
+
+
+ 
+ 
+
+Request For Proposal (RFP) for Video Conferencing Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 65 
+
+ 
+
+ 
+
+ 
+ 
+
+Sr. 
+No. Description of Item UOM 
+
+Quantity Unit Rate 
+Total Amount 
+without Tax 
+
+Tax rate in 
+Percentage 
+
+Total Tax 
+Amount 
+
+Total 
+Amount 
+with Tax 
+
+(A) (B) (C)=(C=A*B) (%) (D) (E) (E=C*D) (F) (F=C+E) 
+
+SERVICES PART- B 
+1 Core switch Installation Charges Nos. 1           
+
+2 Access Switch Non POE  & POE Installation Charges  Nos. 13           
+
+3 Indoor Access Point Installation Charges  Nos. 12           
+
+4 6 Core Optical Fiber Armored Multi-Mode Laying Charges Mtr. 300           
+
+5 Unloaded LIU 12 Port Installation Charges  Nos. 5           
+
+6 PIGTAIL LC Multi Mode OM3  Splicing Charges & OTDR Testing Nos. 36           
+
+7 Cat 6 4 Pair U/UTP Cable Laying & Pulling Charges Mtr. 12200           
+
+8 
+
+CAT 6 Jack I/O termination with 
+Faceplate & back box installation Charges 
+including Ferruling, Labeling, Node 
+Scanning  
+
+Nos. 252           
+
+9 CAT 6 UTP Patch Panel, 24 port Loaded Termination Charges Nos. 13           
+
+10 42U Network Rack - Installation Charges  Nos. 1           
+
+11 29U Network Rack - Installation Charges  Nos. 4           
+
+12 Laying of 25MM PVC Conduit with Accessories Charges Mtr. 4550           
+
+
+
+ 
+ 
+
+Request For Proposal (RFP) for Video Conferencing Solution at GSRTC 
+
+Sign and seal of authorize person of Bidder Page 66 
+
+ 
+
+ 
+
+13 Laying of 32MM HDPE Pipe with  Accessories Charges Mtr. 200           
+
+14 Project Management Charges & Documentation Charges LS 1           
+
+         
+Grand Total PART - A + B      
+
+ 
+ 
+ 
+ 
+
+Note:     (1) L1 will be finalized on the Grand Total Amount without taxes. However, GSRTC may ask L1 bidder to match lowest prices of an    
+       individual items where other bidder have given lower prices.  
+
+ 
+(2) Any changes in Govt. Taxes/ Duties would be applicable as on actual at the time of invoice processing. 
+
+ 
+(3) Quantity may be increased or decreased at the time of actual deployment. 
+ 
+
+ 
+
+

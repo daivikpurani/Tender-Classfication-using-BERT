@@ -1,0 +1,449 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/687492
+
+  Dated: 26-06-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 06-07-2020 09:00:00
+
+Bid Opening Date/Time 2020-07-06 09:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Andaman & Nicobar
+
+Department Name Health Department Andaman & Nicobar
+
+Organisation Name N/a
+
+Office Name Directorate Of Health Services
+
+Total Quantity 1
+
+Item Category designing software
+
+Experience Criteria  1 Year (s)
+
+MSE Exemption for Years Of Experience  Yes
+
+Startup Exemption for Years Of Experience  Yes
+
+Document required from seller  Experience Criteria
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  Yes
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+
+Splitting
+
+ Bid splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+
+                               1 / 5
+
+
+
+ 
+
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+
+Designing Software ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+BASIC INFORMATION
+OF DESIGNING
+SOFTWARE(GOLDEN)
+
+Software Domain /
+Type
+
+Renewal of licence for
+one year
+
+Renewal of licence for
+one year
+
+Name of Software - *
+
+Name of the OEM - *
+
+OEM Model / Part
+No/Product Id of OEM
+
+- *
+
+Software
+Version/Version Name
+
+- *
+
+Date of Launch of
+Version
+
+- *
+
+FEATURES AND
+FUNCTIONALITY
+PARAMETERS(GOLDEN)
+
+Advance surfacing Yes Yes
+
+Composite Material
+Design
+
+Yes Yes
+
+Conceptual design Yes Yes
+
+Direct Modeling Yes Yes
+
+Electrical cable and
+Conduit design
+
+Yes Yes
+
+Mesh CAD Models Yes Yes
+
+Mold design Yes Yes
+
+Parametric Modeling Yes Yes
+
+Plastic Parts Design Yes Yes
+
+Weldments Yes Yes
+
+2D System Analysis Yes Yes
+
+Circuit Simulation Yes Yes
+
+Fluid Flow
+Simulation
+
+Yes Yes
+
+Human Simulation Yes Yes
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/N-3Vtaz0SBEKhAgeewd02SLd7H-Y-OGwBimmnRUpcuk
+
+
+ 
+
+Motion Simulation Yes Yes
+
+Stress Analysis Yes Yes
+
+Structural Validation Yes Yes
+
+Sustainability
+Analysis
+
+Yes Yes
+
+If yes, Other
+Simulation/ Analysis
+Features
+
+- *
+
+Photorealistic
+Images
+
+Yes Yes
+
+Walk-Through
+Animation
+
+Yes Yes
+
+If yes, Other Animation
+/Rendering Features
+
+- *
+
+Compare Costs Yes Yes
+
+Output Cost Report Yes Yes
+
+Automatic Cost
+Estimation
+
+Yes Yes
+
+No. of days Training
+Provided at Site
+
+upto 5 upto 5
+
+Number of Years
+upto which Support
+is available from
+OEM / Franchise
+online (Years)
+
+1 1, 2, 3, 5, 10 Or higher
+
+FEATURES AND
+FUNCTIONALITY
+PARAMETERS(GENERIC)
+
+2D Drawing Yes *
+
+3D Modeling Yes *
+
+Fastening Systems Yes *
+
+Large Assembly Design Yes *
+
+Piping Tubing Design Yes *
+
+Sheet Metal Design Yes *
+
+Collision and
+Interference Check
+
+Yes *
+
+Assembly Animation Yes *
+
+Rendering Yes *
+
+Bill of Materials Yes *
+
+If yes, Other Cost
+Estimation Features
+
+- *
+
+Annotations Yes *
+
+Dimensions Yes *
+
+Tolerance Yes *
+
+Wireframes Yes *
+
+                               3 / 5
+
+
+
+ 
+
+Other Documentation
+Features
+
+- *
+
+SUPPORTED
+HARDWARE
+REQUIREMENT
+PARAMETERS
+
+Hard Disk Space
+Required
+
+- *
+
+RAM Size required - *
+
+CPU required - *
+
+Operating Systems
+supported (Driver)
+
+- *
+
+Supported Devices - *
+
+Supported Database - *
+
+GENERIC PARAMETERS
+OF DESIGNING
+SOFTWARE
+
+Free Upgradation to
+Higher Version
+
+YES *
+
+Maximum user
+handling capability
+
+- *
+
+Concurrent user
+handling capability
+
+- *
+
+Valid Licence copy to
+be provided
+
+YES *
+
+Mode of License to be
+delivered
+
+Paper License *
+
+Software supplied
+through
+
+Media *
+
+Installation and
+Demonstration
+
+No *
+
+List of items included in
+the package
+
+- *
+
+Hyper link to Data
+sheet
+
+- *
+
+No of Softwares sold 60 *
+
+Number of User
+Referance no. 1 with in
+Government
+Department email,
+phone no.Of concerned
+authority where
+Software/Appliance
+installed
+
+10 *
+
+Details of Government
+Department email,
+phone no.Of concerned
+authority where
+Software /Appliance
+installed for above.
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+                               4 / 5
+
+
+
+ 
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Sandeep Bedi 744104,Procurement Cell,
+Directorate of Health
+Services (Near Cellular Jail),
+Atlanta Point, Port Blair
+
+1  60
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

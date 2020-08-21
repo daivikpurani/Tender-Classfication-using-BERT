@@ -1,0 +1,490 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/707958
+
+  Dated: 13-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 23-07-2020 13:00:00
+
+Bid Opening Date/Time 23-07-2020 13:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 80 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Army
+
+Office Name ***********
+
+Total Quantity 2
+
+Item Category Portable X Ray Machine
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 6
+
+
+
+ 
+
+Portable X Ray Machine ( 2 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Certification - *
+
+Certification number
+and date
+
+- *
+
+Type test approval
+from AREB required
+
+Yes *
+
+AREB approval
+certificate number of
+Particular Model
+
+- *
+
+Confirmity to
+manufacturing
+standards
+
+ISO 13485 *
+
+Performance
+Parameters
+
+Purpose Mobile radiographic
+units (Portable X ray
+Machines) are used for
+radiographic imaging of
+patients who cannot be
+moved to the radiology
+department and who
+are in areas, such as
+intensive and critical
+care units or operating
+and emergency rooms.
+These devices are used
+mainly for general
+adult two-dimensional
+(2-D) radiographic
+studies (predominantly
+for chest x-rays) as well
+as pediatric, neonatal,
+and orthopedic imaging
+
+*
+
+UMDNS Name and
+Code
+
+Radiographic Unit,
+Mobile - 13-272
+
+*
+
+Type of frequency
+Generator
+
+High frequency High frequency
+
+Frequency generator
+output in kW
+
+3.5 3.5
+
+Voltage Output
+range in kV
+
+40 to 100 40 to 100
+
+Tube Current in mA 70 70
+
+Maximum Exposure
+time in milli sec
+
+upto 10 upto 10
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/fGv4pi-LvEWlt1H_lnC8wZH8Y2uduEgK-P-6ck1SYZ4
+
+
+ 
+
+mAs Range 0.5 to 200 0.5 to 200
+
+Nominal focal spot
+size in mm
+
+1 to 2 1 to 2
+
+Inherent Filtration of x-
+ray
+
+Yes *
+
+Collimator provided Yes *
+
+Type of Collimator Manual Manual
+
+Focal Spot size in
+mm
+
+1-2 1-2
+
+Heat storage capacity
+in kHU
+
+40 *
+
+Automatic exposure
+control device
+provided
+
+No No
+
+Digital display for kV &
+mAs supplied
+
+Yes *
+
+Electronic timer
+supplied
+
+Yes *
+
+Provision of
+Anatomical
+programming
+radiography(APR)
+
+Yes Yes
+
+X-ray tube system Stationary Anode Stationary Anode
+
+Anode speed in rpm (
+Hint: for rotating anode
+the speed should be
+2500 or more and for
+stationary anode 0)
+
+0 *
+
+The unit should be
+easily positioned (from
+either side of the bed)
+for imaging in all
+possible projections
+
+Yes *
+
+Portable X-ray machine
+shall be easily
+transportable and
+steering on caster
+wheel
+
+Yes *
+
+Provision of effective
+braking system for
+parking,transport and
+emergency braking
+
+Yes *
+
+Lead Aprons - Full body
+and Skirt type
+
+4 No each (0.5pb) *
+
+No of Thyroid shield
+and Gonald Shield
+
+4 No each *
+
+X-ray exposure
+command control
+
+Hand switch *
+
+                               3 / 6
+
+
+
+ 
+
+Power Cable length in
+meter
+
+5 *
+
+X- ray film Cassette
+holder available
+
+Yes Yes
+
+X-ray film cassette
+holder size in mm x
+mm
+
+35 x 43 35 x 43
+
+Power supply Single Phase AC (
+220-240 V,50 Hz)
+
+*
+
+Power plug (16 amp)
+compatible to standard
+wall outlet shall be
+supplied
+
+Yes *
+
+Tube protection against
+overload provided
+
+Yes *
+
+Portable X ray machine
+should be made in
+small footprint and
+hidden cable design for
+easy and efficient
+cleaning
+
+Yes *
+
+Operating temperature
+and humidity
+
+10 - 28 deg C and
+relative humidity of
+15-90%
+
+*
+
+Number of
+installations of the
+Portable X- ray
+machines in Central
+/State/PSU Govt
+Hospitals( Hint:
+Seller should furnish
+a performance
+certificate of the
+device to the buyer
+if demanded after
+placement of the
+order)
+
+>3 >3, <3
+
+OEM and Reseller (if
+supplier is re-seller)
+shall ensure
+uninterrupted
+availability of all spares
+for 10 years
+
+Yes *
+
+Availability of toll
+free facility for
+technical support
+maintened by OEM
+or authorized
+agencies
+
+Yes Yes
+
+User/Technical/Mainten
+ance manuals to be
+
+Yes *
+
+                               4 / 6
+
+
+
+ 
+
+supplied in English in
+hard and soft copy
+
+Demonstration of
+equipment and training
+to be provided after
+completing supplies
+before acceptance
+
+Yes *
+
+Warranty in years 3 3
+
+Reports The Principal
+Manufacturer must
+have direct
+Presence/approved
+service center In India
+
+Yes *
+
+Copies of reports and
+certifications to be
+furnished to buyer on
+demand at time of
+supplies
+
+Yes *
+
+QA, QC and other tests
+as per NABH shall be
+carried out by OEM or
+authorized agency of
+OEM
+
+Yes *
+
+Copies of all calibration
+and test reports to be
+submitted at the time
+of Supply of Machine
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********KOLKATA 2  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+This Bid is also governed by the General Terms and Conditions
+
+                               5 / 6
+
+https://gem.gov.in/termsCondition
+
+
+ 
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+http://www.tcpdf.org
+

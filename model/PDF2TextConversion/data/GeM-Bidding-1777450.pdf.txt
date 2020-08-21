@@ -1,0 +1,426 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/702144
+
+  Dated: 08-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 12:00:00
+
+Bid Opening Date/Time 20-07-2020 12:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence Reseach & Development
+
+Organisation Name Office Of Dg ( Ns & M)
+
+Office Name ***********
+
+Total Quantity 3
+
+Item Category digital multimeter
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Digital Multimeter ( 3 pieces )
+
+Technical Specifications
+
+                               1 / 5
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+FEATURES Type Benchtop Benchtop
+
+Display (Digits) 4.5 4.5
+
+Measurement Type True RMS True RMS
+
+Counts 50000 50000, 60000, 70000,
+80000, 90000, 100000,
+200000 Or higher
+
+MEASUREMENTS DC Voltage Range 1000 1000.0
+
+DC Voltage Accuracy 0.05 0.05
+
+DC Voltage
+resolution
+
+0.001 0.001
+
+AC Voltage Range 600 600.0
+
+AC Voltage Accuracy 0.08 0.08
+
+AC Voltage
+resolution
+
+0.001 0.001
+
+DC Current Range 10 10.0
+
+DC Current Accuracy 0.05 0.05
+
+DC Current
+resolution
+
+0.001 0.001
+
+AC Current Range 10 10.0
+
+AC Current Accuracy 0.5 0.5
+
+AC Current
+resolution
+
+0.01 0.01
+
+Resistance Range 100 100.0
+
+Resistance Accuracy 0.08 0.08
+
+Resistance
+resolution
+
+0.001 0.001
+
+Capacitance Range (
+Micro farad )
+
+1 to 100 1 to 100
+
+Capacitance
+Accuracy ( % )
+
+1.5 1.5
+
+Capacitance
+resolution ( nF )
+
+NA NA
+
+Frequency Range (
+KHz )
+
+300 300
+
+Frequency Accuracy
+( % )
+
+0.1 0.1
+
+Frequency resolution
+( Hz )
+
+NA NA
+
+Temperature Range -50 to 1000 -50 to 1000
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/BtKED28yzxUGwMS3JSFYEiFwiansoSBi5Tk22B0Kiyo
+
+
+ 
+
+( Degree C )
+
+Temperature
+Accuracy ( % )
+
+1.5 1.5
+
+Temperature
+resolution ( Degree
+C )
+
+NA NA
+
+OTHER FEATURES Continuity test and
+Diode test
+
+Available *
+
+Data logging Available *
+
+If Data Logging Feature
+is Available, Internal
+Memory
+
+min. 2000 points/ 500
+readings
+
+*
+
+Computer Interface
+along with software
+
+Available *
+
+Dimensions ( mm X
+mm X mm )
+
+- *
+
+Weight 4.92 *
+
+Other Features - *
+
+SAFETY Safety Rating Category II 600 V of IEC
+61010.
+
+Category II 600 V of IEC
+61010.
+
+Safety Certification UL,CE *
+
+POWER REQUIREMENTS Power Requirements 230 V +/-10% AC, 50
+Hz +/- 3% through
+Adaptor
+
+*
+
+if Battery Operated,
+then Type of Battery
+
+NA *
+
+if rechargeable , then
+chemistry of the
+battery
+
+NA *
+
+if Non-rechargeable ,
+then size of the battery
+/ cell
+
+NA *
+
+number of non-
+rechargeable the
+battery / cell
+
+NA *
+
+Voltage of
+rechargeable Battery
+
+0 *
+
+capacity of
+rechargeable
+battery(milli Ampere
+Hour)
+
+0 *
+
+Suitable charger /
+adaptor provided
+
+YES *
+
+ACCESSORIES Standard Accessories
+Supplied with the
+Equipment
+
+- *
+
+                               3 / 5
+
+
+
+ 
+
+WARRANTY Warranty 3 3.0
+
+OPERATING CONDITION Minimum Operating
+Temperature
+
+0 *
+
+Maximum Operating
+Condition
+
+50 *
+
+Operating Humidity
+(RH)
+
+80 *
+
+TEST REPORT DETAILS The equipment
+supplied with
+calibration certificate
+
+YES *
+
+conformity to Dry Heat
+for 16 hrs at a specified
+maximum temp in
+accordance with IS:900
+0/part-3/section-5/1977
+latest
+
+No *
+
+conformity to Cold Test
+for 4 hrs at a specified
+minimum temp in
+accordance with IS:900
+0/part-2/section-4/1977
+latest
+
+No *
+
+conformity to Damp
+Heat (Cyclic)Test for 2
+Cycles of 24 hrs each
+at a temp of 40 degree
+C & 95% RH
+
+No *
+
+Availability of Test
+Reports from Central
+Govt/NABL/ILAC
+approved accredited
+lab to prove conformity
+to the specification
+
+Yes *
+
+Test Report Number
+and date for the
+specification test
+
+- *
+
+Name and address of
+the Lab for the
+specification test
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti Address Quantity Delivery Days
+
+                               4 / 5
+
+
+
+ 
+
+ng Officer
+
+1 *********** ***********THANE 3  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

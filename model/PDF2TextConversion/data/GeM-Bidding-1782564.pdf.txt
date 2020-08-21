@@ -1,0 +1,383 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/706799
+
+  Dated: 11-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 28-07-2020 12:00:00
+
+Bid Opening Date/Time 28-07-2020 12:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 70 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Air Force
+
+Office Name ***********
+
+Total Quantity 6
+
+Item Category digital earth resistance meter
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+Estimated Bid Value  65490
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Digital Earth Resistance Meter ( 6 pieces )
+
+Technical Specifications
+
+                               1 / 4
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+FEATURES Display type 4 digit LCD display 4 digit LCD display
+
+Measurable Earth
+resistance range
+selection
+
+Range selection
+through a switch
+
+Range selection
+through a switch
+
+Method for
+resistance
+measurement
+
+3-pole 3-pole
+
+Counts 2000 2000
+
+Number of the stakes 3 *
+
+Material of the stakes - *
+
+Length of the Stakes 30 *
+
+Diameter of the Stakes 8 *
+
+Number of the Test
+Leads
+
+3 *
+
+Length of the Test
+Leads
+
+18 *
+
+Number of Test Leads
+with Clamps
+
+3 *
+
+Length of Test Leads
+with Clamps
+
+18 *
+
+OTHER FEATURES Internal Memory
+(Number of record)
+
+1 *
+
+External memory Through SD Card *
+
+Interface USB *
+
+Minimum Open Circuit
+Output voltage
+
+23 *
+
+Over range indication Available *
+
+Stakeless test(Clamp
+On)
+
+No No
+
+MEASUREMENTS Number of Measurable
+Range
+
+2 *
+
+Measurable Ranges
+(Ohm)
+
+1 to 1999 *
+
+Measurable Earth
+resistance resolution
+(Ohm)
+
+0.01 *
+
+Measurable Earth
+resistance accuracy
+
+±1.5 % ±1 count *
+
+Facility to Measure Yes *
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/VsrJQfNu6oPYAUW-OzbTroqXqi9_jJ9TxSNxMyTwCMw
+
+
+ 
+
+Earth Voltage
+
+If Yes,Measurable Earth
+Voltage range
+
+250 *
+
+If Yes,Measurable Earth
+Voltage accuracy
+
+0.6 *
+
+If Yes,Measurable Earth
+Voltage resolution
+
+0.6 *
+
+Other features - *
+
+GENERIC Weight of the tester 850 *
+
+Dimensions (cm x cm x
+cm)
+
+- *
+
+POWER REQUIREMENTS Type of Battery Rechargeable *
+
+if rechargeable , then
+chemistry of the
+battery
+
+lithium ion *
+
+if Non-rechargeable ,
+then size of the battery
+/ cell
+
+9-V rectangular battery *
+
+Number of non-
+rechargeable the
+battery / cell
+
+NA *
+
+Voltage of
+rechargeable Battery
+
+9 *
+
+Capacity of
+rechargeable battery
+(milliamperehour)
+
+50720 *
+
+Suitable charger /
+adaptor provided
+
+yes *
+
+Battery backup time 72 *
+
+Low battery indication Available *
+
+ACCESSORIES Details of All
+connecting Cables and
+accessories to be
+supplied along with the
+tester
+
+- *
+
+TEST REPORT DETAILS The equipment
+supplied with
+calibration certificate
+
+yes *
+
+conformity to Dry Heat
+for 16 hours at a
+temperature of 55
+degree C in accordance
+with IS:9000/part-3/sec
+tion-5/1977 latest
+
+No *
+
+conformity to Damp
+Heat (Cyclic)Test for 2
+Cycles of 24 h each at
+
+No *
+
+                               3 / 4
+
+
+
+ 
+
+a temperature of 40
+degree C & 95% RH in
+accordance with IS:900
+0/part-5/section-1/
+1991 latest
+
+conformity to Cold test
+at 0 degree C for four
+hours as per IS: 9000(
+Part 2 /section 4) latest
+
+No *
+
+Availability of Test
+Reports from Central
+Govt / NABL approved /
+ILAC acredited lab to
+prove confromity to the
+specification
+
+No *
+
+Test Report Number
+and date for the
+specification test
+
+- *
+
+Name and address of
+the Lab for the
+specification test
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********BATHINDA 6  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

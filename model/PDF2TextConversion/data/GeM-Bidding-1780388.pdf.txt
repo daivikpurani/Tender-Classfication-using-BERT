@@ -1,0 +1,479 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/704817
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 10:00:00
+
+Bid Opening Date/Time 20-07-2020 10:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Air Force
+
+Office Name ***********
+
+Total Quantity 1
+
+Item Category Fixed Clean Agent Gas based Fire Suppression
+System
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  Yes
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Fixed Clean Agent Gas Based Fire Suppression System ( 1 pieces )
+
+Technical Specifications
+
+                               1 / 5
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC Clean Agent Gas based
+Fire Suppression
+System suitable upto 2
+metre cube volume
+
+Designed to fight fires
+that occur in the
+enclosed space of
+electric panels/closed
+cabinets/Racks The
+system's split second
+detection and
+activation ensures that
+the fires are killed in
+the nascent stage
+inside the most
+vulnerable spaces
+
+*
+
+Types of Electrical or
+Server Cabinets
+(Construction)
+
+Open Cabinet with
+natural Airflow
+
+*
+
+Type of Clean agent
+with zero ODP(ozone
+depleting potential) as
+per NFPA 2001 to be
+used for fire
+suppression
+
+- *
+
+Clean Agent listing UL *
+
+CONSTRUCTIONAL Container (Containing
+the clean agent)
+
+BS EN 3-8 *
+
+Electrical non
+conductive Clean Agent
+Type
+
+Yes *
+
+Clean agent Capacity
+of cylinder in Kg
+
+2 *
+
+Length of Heat Sensing
+Tube (HST) made of
+special modified
+polymide (PA) in
+(meter) approved by
+LPCB / UL LISTED
+
+10 *
+
+Internal Diameter of
+Heat Sensing Tube
+
+4mm *
+
+Out side diameter of
+heat sensing tube
+
+6mm *
+
+Prepressurised Tube Heat Sensing Tubing
+should be pressureized
+with dry nitrogen gas
+confirming to IS: 1747
+and connected to an
+extinguishing agent
+container via a
+pressure release valve.
+
+*
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/SLFP1JDV9PLxjNQ19GxZLWnbcOKdLpuCsT5wLjZTtC0
+
+
+ 
+
+Pressure Valve Direct low pressure
+type with inbuilt
+pressure gauge,
+integrated ball valve
+for open / close within
+the valve body.
+
+*
+
+Reed switch to monitor
+the valve position using
+the reed switch relay to
+indicate valve
+open/closed position
+
+With *
+
+Number of outlets to
+connect the heat
+sensing tube
+
+Two *
+
+Valve operation Pneumatic *
+
+Monitoring Panel An audio visual
+monitoring panel Micro
+controller based design
+to check the health of
+the system and the
+pressure in the tube
+
+*
+
+Power back up for
+Monitoring Panel
+
+12V, 7.2 Ah SMF
+batteries (2 Nos)
+
+*
+
+Indication on
+Monitoring Panel
+
+Ac Power ON, system
+ON ,system discharge,
+valve
+closed/open,Pressure
+Healthy , Battery Low
+indication by LED
+indicator
+
+*
+
+Third Party Intigration
+facility to intigrate with
+other fire safety device
+like smoke detection
+system panel etc
+
+Yes *
+
+Electric Buzzer 50 dB piezo electric
+buzzer
+
+*
+
+Pressure switches to
+sense the drop in
+pressure
+
+Yes *
+
+Option to connect upto
+4 systems in one panel
+
+Yes *
+
+If not connect 4 system
+in one panel please
+declare
+
+- *
+
+Suitable valve for
+closing & releasing
+
+Yes *
+
+Straight connectors/
+elbow connectors/ T
+connectors for
+
+Yes *
+
+                               3 / 5
+
+
+
+ 
+
+connecting HST in case
+wherever required
+
+End of line adapter Yes *
+
+End of line plug Yes *
+
+Conventional electric
+sounder suitable to
+operate between
+temperature -20⁰C to
++60⁰C,with a sound of
+minimum 60 decibles
+with variable tones in
+Red Colour and IP-66
+Rated
+
+With *
+
+PERFORMANCE Ozone Depleting
+Potential
+
+Zero *
+
+HST Tube type multi layer and UV
+protected
+
+*
+
+Max Working Pressure 20 Bar *
+
+Burst Pressure at 20 ⁰C 108 *
+
+Operating Temperature
+range shall be -20⁰ C to
+60⁰ C
+
+-20⁰ C to 60⁰ C *
+
+System operating
+pressure
+
+15 bar *
+
+CERTIFICATION Complete system
+testing and
+certification
+
+LPCB Standard LPS
+1666:Issue 1.0
+
+LPCB Standard LPS
+1666:Issue 1.0
+
+Test report of the Heat
+sensing tube
+
+Yes *
+
+Marking of OEM /
+Supplier Name & year
+of production on the
+tube
+
+Yes *
+
+Valve Certification TPED certificate for
+valve in conformity to
+EN ISO
+10297:2006/Pi/CE
+Marked
+
+*
+
+For panel having
+ventilation or exhaust
+fan adequate safety
+factor for clean agent
+as per LPS 1666 to be
+provided
+
+Yes *
+
+System operation and
+maintenance manual to
+be submitted along
+with the supplies
+
+Yes *
+
+Design lifespan period 10 *
+
+                               4 / 5
+
+
+
+ 
+
+(Min 5 years)
+
+Test Report No and
+Date
+
+- *
+
+Name and Address of
+the Lab
+
+- *
+
+Test Reports to be
+furnished to the buyer
+on demand
+
+Yes *
+
+Warranty of the
+complete system
+(years)
+
+2 2
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********GHAZIABAD 1  20
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+2.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 3 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

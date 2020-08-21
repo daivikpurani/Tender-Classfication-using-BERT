@@ -1,0 +1,657 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/694818
+
+  Dated: 02-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 23-07-2020 10:00:00
+
+Bid Opening Date/Time 23-07-2020 10:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Air Force
+
+Office Name ***********
+
+Total Quantity 1
+
+Item Category Cardiac Monitor with defibrillator
+
+Bidder Turnover (Last 3 Years)  2 Lakh (s)
+
+Experience Criteria  1 Year (s)
+
+MSE Exemption for Years Of Experience  Yes
+
+Startup Exemption for Years Of Experience  Yes
+
+Document required from seller  Experience Criteria
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  Yes
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+
+                               1 / 7
+
+
+
+ 
+
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+
+Cardiac Monitor With Defibrillator ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Conformity to
+Certification
+
+- *
+
+Certification number
+and date
+
+- *
+
+Confirmity to
+Manufactures
+Certification
+
+ISO 9001 & ISO 13485 ISO 9001 & ISO 13485,
+ICMED 9001 & 13485
+
+Conformity to Safety
+Standards
+
+IEC 60601-2-4 or
+Equivalent BIS
+
+*
+
+Performance
+Parameters
+
+Capability parameter
+of defibrillator
+
+ECG
+monitoring,external
+defibrillation, external
+pacing
+(transcutaneous),
+internal defibrillation
+and recording
+
+ECG
+monitoring,external
+defibrillation, external
+pacing
+(transcutaneous),
+internal defibrillation
+and recording
+
+Technology of
+defibrillator
+
+Biphasic technology *
+
+Modes in
+defibrillator
+
+Automated external
+defibrillation and
+manual
+
+Automated external
+defibrillation and
+manual
+
+Maximum energy
+selection in joules
+
+360 *
+
+Capability of ECG
+Monitoring
+
+ECG leads , multi
+function electrodes ,
+paddles
+
+*
+
+Number of wave-
+forms
+
+3 3, 4
+
+Patient compatibility
+to defibrillate
+
+Adult ,pediatric
+patients
+
+Adult ,pediatric
+patients
+
+Type of display TFT TFT, LCD
+
+Size of display screen 7 *
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/1vbU9hdm_0f88tAFeFw8Wqqhosi3-wPE0-payqExEjE
+
+
+ 
+
+in inch
+
+Provision to display
+ECG waveform on
+bright high resolution
+display
+
+Yes *
+
+Facility to have
+synchronized cardio
+version
+
+Yes Yes
+
+Ability to display
+CPR index on screen
+real time
+
+Yes Yes
+
+Ability to filter out
+CPR artefacts to see
+organised rhythms
+without interrupting
+chest compression
+
+Yes Yes
+
+Provision of within built
+rechargeable battery
+
+Yes *
+
+Battery backup to
+deliver number of
+shocks at maximum
+energy
+
+100 *
+
+Weight of defibrillator
+with battery and
+paddles in Kg
+
+5.5 *
+
+Provision of in built
+recorder
+
+Yes Yes
+
+Provision of printing
+ECG trace & stored
+information
+
+Yes Yes
+
+Facility of External
+non-invasive pacing
+
+Yes Yes
+
+Type of external
+transcutaneous
+pacing modes
+
+Both Demand mode
+and fixed mode
+
+Both Demand mode
+and fixed mode
+
+Pulse width of
+External non-
+invasive pacing in
+milli seconds
+
+40 40
+
+Ability to measure
+chest compression
+rate and depth in
+real time with visual
+feedback on screen
+with rate and depth
+indicator
+
+Defibrillator with
+external sensors
+
+Integrated with
+defibrillator,
+Defibrillator with
+external sensors
+
+Facility to monitor
+EtCO2
+
+Yes Yes
+
+Facility to monitor Yes Yes
+
+                               3 / 7
+
+
+
+ 
+
+NIBP
+
+Facility to monitor
+SPO2
+
+Yes Yes
+
+Upgradability to
+monitor EtCO2
+
+No Yes, No
+
+Upgradability to
+monitor NIBP
+
+No Yes, No
+
+Upgradability to
+monitor SPO2
+
+No Yes, No
+
+ECG monitoring Using 3 lead Using 12 leads, Using 3
+lead, Using 5/6 lead
+
+Provision of user
+selectable alarm
+settings
+
+Yes *
+
+The machine should
+work on mains as well
+as on rechargeable
+battery
+
+Yes *
+
+Ability to select energy
+from paddles
+
+Yes *
+
+Ability to charge and
+discharge through
+paddles as well as from
+main unit
+
+Yes *
+
+Facility for internal
+defibrillation
+
+Yes Yes
+
+Charging time for
+maximum energy in
+seconds
+
+5 *
+
+Mechanism of self test
+of unit
+
+Automatic and manual *
+
+Unit should do self test
+with facility to give
+printout of defibrillator
+testing report and also
+have code ready
+indicator on unit
+
+Yes *
+
+Provision of
+stainless steel
+trolley with lockable
+castors
+
+Yes Yes
+
+Suitability of
+defibrillator for
+transport on ground
+(ambulance)
+
+Yes Yes
+
+Defibrillator suitable
+to use at high
+altitudes and in air
+craft
+
+Yes Yes
+
+                               4 / 7
+
+
+
+ 
+
+Defibrillator should
+display selected
+energy
+
+Yes Yes
+
+Defibrillator should
+display delivered
+energy
+
+Yes Yes
+
+Suitability of
+defibrillator for
+transportation in air
+(aircraft)
+
+Yes Yes
+
+Availaibility of
+suitable protection
+for dust and water
+
+Yes Yes
+
+Accessories Li-ion Battery 1 1, Not provided
+
+ECG cable 1 1, 2, Not provided
+
+NIBP pediatric cuff
+with hose
+
+1 1
+
+NIBP adult cuff with
+hose
+
+1 1
+
+Reusable airway
+adaptor to be used
+with ETCO2 main
+stream / side stream
+sensor and cable
+
+1 1
+
+Disposable airway
+adpater with EtCO2
+mainstream sensor
+and cable
+
+Not provided One each for incubated
+and non intubated
+patient, 2 each for
+incubated and non
+incubated patient, Not
+provided
+
+External defibrillator
+paddles (pediatric in
+built in adult)
+
+1 1
+
+Multi Function
+Defibrillator &
+Monitoring pads/gel
+sheets
+
+5 10, 12, Not provided, 5
+
+Recorder paper roll 10 10
+
+Reusable CPR
+feedback sensor/or
+similar product
+reused
+
+1 1, 2, Not provided
+
+Miscellaneous
+Parameters
+
+Warranty in years 5 5
+
+Original User /
+Technical manuals to
+be supplied in English
+in hard and soft copy
+
+Yes *
+
+Original copy of
+operating and service
+
+Yes *
+
+                               5 / 7
+
+
+
+ 
+
+manuals to be supplied
+in English in hard and
+soft copy
+
+Calibration and
+preventive
+maintenance certificate
+has to be provided as
+per requirement
+
+Yes *
+
+Installation,
+Demonstration and
+training to be provided
+at consignee end at
+any part of country
+
+Yes *
+
+The Principal
+Manufacturer Must
+Have Direct
+Presence/approved
+service center In India
+
+Yes *
+
+Advanced maintenance
+task required shall be
+documented and
+procedures required for
+local calibration and
+routine maintenence
+and list of imp spare
+parts with accessories
+along with part
+numbers to be
+furnished
+
+Yes *
+
+Availabilty of toll free
+facility for technical
+support maintened by
+OEM or authorized
+agencies
+
+Yes *
+
+Provide Certificate from
+the principal that spare
+parts will be available
+from next 10 years at
+the time of supplies to
+the buyer
+
+Yes *
+
+Copies of all
+certifications to be
+provided to buyer on
+demand at time of
+supplies
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+                               6 / 7
+
+
+
+ 
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********HYDERABAD 1  21
+
+Bid Specific Additional Terms and Conditions
+
+1.Warranty period of the supplied products shall be 5 years from the date of final acceptance
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

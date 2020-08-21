@@ -1,0 +1,411 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/703240
+
+  Dated: 08-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 18:00:00
+
+Bid Opening Date/Time 20-07-2020 18:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Ministry Of Electronics And Information Technology
+
+Department Name Na
+
+Organisation Name Centre For Development Of Advanced Computing (c-
+dac)
+
+Office Name West
+
+Total Quantity 70
+
+Item Category Wireless Access Point
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+Estimated Bid Value  5342400
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Wireless Access Point ( 70 pieces )
+
+                               1 / 5
+
+
+
+ 
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Specification Type of Access Point Controller Based Controller Based
+
+Deployment Indoor Indoor
+
+Mounting Ceiling *
+
+Antenna Type Internal *
+
+Number Of Radios Dual *
+
+Frequency Band 2.4 GHz,5.0 GHz,2.4
+GHz & 5.0 GHz
+
+*
+
+Supported Wi-fi
+Standards
+
+802.11a,802.11b/g,802
+.11
+b/g/n,802.11ac,802.11
+a/b/g/n/ac,802.11ac
+Wave 1,802.11ac Wave
+2
+
+*
+
+Wireless Speed Up
+to (Mbps)
+
+Support Renewal of
+Arista C130 Up to 800
+Mbps for 2.4 GHz & Up
+to 1.733 Gbps for 5
+GHz
+
+Any applicable text(s)
+
+Max Wireless Signal
+Range im Mts
+
+50 Any applicable text(s)
+
+Channel Width (MHz) 160 *
+
+Maximum Data Rate
+MBps
+
+1733 *
+
+Supported
+Encryption
+
+WEP,WPA-
+PSK,WPATKIP,WPA2 AE
+S,802.11i,EAP-TLS.,WEP
+,WPA-PSK,WPA-TKIP,80
+2.11,EAP-TLS,WPA AES
+
+*
+
+Dedicated Console Port Available *
+
+Receiver Sensitivity in
+db
+
+-94 *
+
+Transmit power
+(tx)(dBm)
+
+27 *
+
+Radio Resource
+Management such for
+power
+channel,coverage hole
+detection and
+performance
+optimization
+
+Available *
+
+Support for Load Available *
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/t1hoSY0x6ql7PgzE3FhO7s2tC_tRb4CaWrTWKWyq3tk
+
+
+ 
+
+Balancing between 2-4
+Ghz and 5 Ghz
+
+Support for
+Configurable Carrier
+Threshold
+
+Available *
+
+Device Management Web-based
+Configuration Interface
+(GUI)
+
+*
+
+Support for Mesh
+Networking
+
+Available *
+
+Support for QoS for
+Voice over Wireless
+
+Available *
+
+Support for MU-MIMO Available *
+
+Number of MIMO
+supported & Spatial
+Streams
+
+4 x 4 :4 *
+
+Number of WLAN
+(SSID) per AP
+
+16 *
+
+Maximum clients Nos 512 *
+
+Support for
+Autonomous access-
+point option
+
+Available *
+
+USB Ports Available *
+
+Number of
+10/100/1000 port
+
+2 *
+
+mGig support Not Available *
+
+Fiber port (in case of
+outdoor AP)
+
+Not Available *
+
+Support for Bluetooth
+Low Energy (BLE)
+support on AP
+
+Not Available *
+
+Support for Beam
+forming
+
+Available *
+
+Operate as a sensor for
+wireless IPS
+
+Available *
+
+Support for QoS and
+Video Call Admission
+Control capabilities
+
+Available *
+
+Support for Rogue
+access point detection
+
+Available *
+
+Support for Wireless
+Intrusion Protection
+System
+
+Available *
+
+WPC certified Yes *
+
+Wi-Fi CERTIFIED Yes *
+
+                               3 / 5
+
+
+
+ 
+
+Support non-Wi-Fi
+detection for off-
+channel rogues and
+Containment for both
+radio while serving the
+client simaltaniously
+
+Available *
+
+Powering options (Such
+as AC/DC, 802/3af PoE,
+802/3at PoE+), specify
+
+AC/DC With With Power
+Addopter,802.3af
+PoE,802.3at PoE+
+
+*
+
+Power POE (Watt) 21.5 *
+
+Environmental
+Standard : plenum-
+rated (UL2043) for
+Indoor and IP67 for
+Outdoor
+
+Yes *
+
+Operating Temperature
+Range (Degree C)
+
+- *
+
+Operating Humidity
+(%RH)
+
+- *
+
+Dimension (mm x mm
+x mm)
+
+- *
+
+Weight (grams) - *
+
+On Site OEM
+Warranty (Years)
+
+3 3
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Vinayak Waman
+Sutar
+
+411008,C-DAC C-DAC
+Innovation Park, Panchavati,
+Pashan
+
+70  15
+
+Bid Specific Additional Terms and Conditions
+
+1.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+                               4 / 5
+
+https://gem.gov.in/termsCondition
+
+
+ 
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+http://www.tcpdf.org
+

@@ -1,0 +1,427 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/710366
+
+  Dated: 14-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 11:00:00
+
+Bid Opening Date/Time 27-07-2020 11:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Karnataka
+
+Department Name Forest Department Karnataka
+
+Organisation Name N/a
+
+Office Name Karnataka
+
+Total Quantity 1
+
+Item Category Gas Analyser
+
+Bidder Turnover (Last 3 Years)  1 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  1 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  70 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+
+                               1 / 5
+
+
+
+ 
+
+Splitting
+
+ Bid splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 70% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Gas Analyser ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Gases Measurements Number of Gases
+Can be examined
+
+5 5
+
+Leak Test Manual Manual
+
+Technical Parameter Technology Used to
+check the
+parameters
+
+Electrochemical Electrochemical
+
+Optional Sensors SOx SOx
+
+Body Material Aluminium *
+
+Low Battery Voltage
+Cut off
+
+Yes *
+
+Sample train NA NA
+
+Number of Impringer 1 1
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/bAGe-cRHIC2mLYzuyu5HWa5mC6koSRUSHIlkd69B6Eo
+
+
+ 
+
+Mandatory Gases
+Option
+
+Parameters to check
+- CO,CO2,HC,O2
+
+Yes Yes
+
+CO (Carbon Monoxide) 0 – 15.5% *
+
+Accuracy of CO in % 1 *
+
+Resolution of CO in % 0.001 *
+
+CO2 (Carbon Dioxide) 0 – 21.0% *
+
+Accuracy of CO2% 1 *
+
+HC (Hydro Carbon) 0 – 20000 PPM *
+
+Accuracy of HC in % 1 *
+
+22 1 *
+
+O2 (Oxygen) 0 – 25% *
+
+Accuracy of O2 in % 1 *
+
+Resolution of O2 IN % 0.01 *
+
+Parameters to check
+- Nox, Sox
+
+Yes Yes
+
+NOx 0 – 5000 PPM *
+
+Accuracy of NOx in % 1 *
+
+Resolution of Nox in
+PPM
+
+1 *
+
+Sox 0-5000 PPM *
+
+Accuracy of SOx in % 1 *
+
+Resolution of Sox in
+PPM
+
+1 *
+
+Features Optional Test
+Parameters
+
+Temperature Temperature
+
+Response time (for
+sample probe of three
+metre length)
+
+30 *
+
+Warm-up time at
+25˚C and above
+
+2 2.0
+
+Warm up time at 0˚C in
+Minutes
+
+0-4 *
+
+Standard
+Accessories
+
+Sampling tube Sampling tube
+
+Inbuilt Printer Yes Yes
+
+Buttons Soft Touch Keys Soft Touch Keys
+
+Display Type LCD LCD
+
+Separate window for
+displaying
+PEF/RPM/λ/AFR/NOx
+& Oil temperature
+values
+
+No No
+
+                               3 / 5
+
+
+
+ 
+
+Confirms to ISO 3930
+Standards
+
+No No
+
+Display Optional
+Parameters
+
+NA NA
+
+Gas scrubber for
+cleaning of impure
+particles
+
+Yes *
+
+HC residue test No *
+
+Digital span
+calibrationDigital span
+calibration
+
+Yes *
+
+Power supply 230V AC ± 10% *
+
+Operating temperature
+Min Range Display in
+deg celsius
+
+-10 - 0 *
+
+Operating temperature
+Max Range Display in
+deg celsius
+
+50-60 *
+
+Handheld Yes Yes
+
+Technical
+Specifications
+
+Product Dimensions Product Overall
+Dimension (Length) in
+cm
+
+50-100 *
+
+Product Overall
+Dimension (Width) in
+cm
+
+50-100 *
+
+Product Overall
+Dimension(Height) in
+cm
+
+50-100 *
+
+Purchase Guidelines Warranty in years 1 1.0
+
+User/Technical/Mainten
+ance manuals to be
+supplied
+
+Yes *
+
+Demonstration of
+equipment and
+training to be
+provided to buyer on
+demand
+
+Yes Yes
+
+Test reports and
+certifications to be
+furnished to buyer on
+demand
+
+Yes *
+
+Calibration tests
+Certificate
+
+Yes Yes
+
+Standards Confirmity to standard
+as per Centeral and
+State Government
+
+Yes *
+
+                               4 / 5
+
+
+
+ 
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Jennifer Vincent 560078,Hasiru Bhavana,
+Doesanipalya Forest
+Campus, Vinayakanagara
+Circle, 5th Phase J P Nagar
+
+1  30
+
+Bid Specific Additional Terms and Conditions
+
+1. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

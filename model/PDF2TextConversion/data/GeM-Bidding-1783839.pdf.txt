@@ -1,0 +1,570 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/707977
+
+  Dated: 13-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 24-07-2020 16:00:00
+
+Bid Opening Date/Time 24-07-2020 16:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Cabinet Secretariat
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Cabinet Secretariat (sr)
+
+Total Quantity 1
+
+Item Category Tablet Computers ( PAC Only ) 
+
+OEM Average Turnover (Last 3 Years)  3 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,OEM Authorization Certificate,OEM Annual
+Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  40 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+                               1 / 6
+
+
+
+ 
+
+ Bid splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 40% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Tablet Computers ( 1 pieces ) ( Under PAC ) 
+
+Make apple
+
+Model apple11-inchipadprowifi128gb-my232hna(space
+grey)my252hna(silver)smartfolioapp
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Operating System Operating System
+Details
+
+iOS 12.0 or Higher Android Oreo 8.0 or
+Higher, iOS 12.0 or
+Higher Or higher
+
+Display Display Size
+(Minimum) (Inch)
+
+11 11, 11.5, 12, 12.5, 12.9
+Or higher
+
+Display Resolution
+(Pixels)
+
+2388 x 1668 2560 x 1600, 2732 x
+2048, 2388 x 1668 Or
+higher
+
+Display Type IPS *
+
+Type of Touch Screen Capacitive *
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/4-JBzFb3y7JkVag6O1PStfmouRhBV7NSmx1-PiRqTgc
+
+
+ 
+
+Display Colour 16 Million *
+
+Multitouch Support Yes *
+
+Brightness
+(Minimum) (Nits)
+
+600 600 Or higher
+
+Technology Mobile Commn
+Technology
+
+NA *
+
+Connectivity Connectivity Type Wifi Wifi, Wifi + Cellular Or
+higher
+
+Cellular Data
+Support
+
+NA 3G, 4G / LTE, VoLTE,
+NA, GSM/Edge Or
+higher
+
+GPS No Yes, No Or higher
+
+AGPS Yes Yes Or higher
+
+Number of GSM SIM
+Available
+
+0 0, 1, 2 Or higher
+
+Cellular Voice Calling No No
+
+Wi-Fi Connectivity Type 802.11 b/g/n,802.11a/b
+/g/n,802.11 ac
+
+*
+
+Bluetooth Connectivity
+(Minimum Version)
+
+5 *
+
+Processor Processor Speed
+(Minimum) (GHz)
+
+NA for iPad 1.3 to 1.5, 1.51 to 1.8,
+1.8 to 1.99, 2.0 &
+higher, NA for iPad Or
+higher
+
+Processor Core
+(Number)
+
+NA for iPad 2, 4, 6, 8, NA for iPad
+Or higher
+
+Processor Architecture 64 Bit *
+
+Processor Make Apple *
+
+Memory RAM Type NA for iPad *
+
+RAM Size (GB) NA for iPad 1, 1.5, 2, 3, 4, 8, NA for
+iPad Or higher
+
+Storage Internal Storage
+Capacity (GB)
+
+128 128, 256, 512, 1024 Or
+higher
+
+Micro SD Card Support No *
+
+Storage upgradable
+upto (Through Micro SD
+Card) (GB)
+
+NA *
+
+Camera Rear Camera (Mega
+Pixel)
+
+12 12, 13 Or higher
+
+Front Camera (Mega
+Pixel)
+
+7 7, 8 Or higher
+
+Video Recording
+Resolution
+
+1080p *
+
+Video Recording Frame 30 *
+
+                               3 / 6
+
+
+
+ 
+
+Rate (fps)
+
+Digital Zoom Yes *
+
+Geotagging Feature Yes *
+
+General Battery Capacity
+(minimum) (mAH)
+
+4001 - 5000 4001 - 5000, 5001 -
+6000, 6001 - 7000,
+7001 & higher Or
+higher
+
+Weight including
+Battery (max) (Grams)
+
+600 *
+
+Dimensions (Length x
+Breadth x Thickness)
+(mm x mm x mm)
+
+247.6x178.5.5.9 *
+
+Docking Compatibility No *
+
+Certification Specific Absorption
+Rate (SAR)
+
+</= 1.6 Watts/Kg *
+
+BIS Registration Under
+CRS of Meity for Tablet
+alongwith Battery
+
+Yes *
+
+BIS Regn number And
+its validity
+
+R-41000477 *
+
+Google Mobile Service
+Certification for Android
+OS
+
+NA for Windows and
+iOS
+
+*
+
+Other Certifications
+Available (Details of the
+relevant certificate
+number and the
+name/ID of
+corresponding notified
+Bodies shall be
+provided as and when
+demanded by the
+buyer)
+
+CE,FCC,RoHS *
+
+Standard Accessories Standard Accessories
+to be supplied with the
+Tablet
+
+USB Cable & Charger *
+
+Additional Accessories
+(OEM / Third Party)
+
+OTG Cable No Yes, No Or higher
+
+Docking Station No Yes, No Or higher
+
+Compatible Carry
+Case
+
+No Yes, No Or higher
+
+Compatible Smart
+Cover
+
+Yes Yes Or higher
+
+Compatible Active
+Stylus
+
+No Yes, No Or higher
+
+Ear Phone No Yes, No Or higher
+
+Miscellaneous USB Ports Type C *
+
+                               4 / 6
+
+
+
+ 
+
+Audio Port Type C *
+
+Additional Features Accelerometer,Gyrosco
+pe
+
+*
+
+Inbuilt Speaker Yes *
+
+If Yes, Type of Inbuilt
+Speaker
+
+Stereo *
+
+Other Options Availability of Mobile
+Device Management
+(MDM) Support
+
+No No
+
+Mobile Device
+Management (MDM)
+License and Support
+(Year)
+
+0 0, 1, 2, 3 Or higher
+
+Mobile Device
+Management
+Hosting (MDM)
+
+NA NA
+
+Device Enrolment
+Program (DEP) for
+automation of MDM
+and Supervision of
+iOS devices
+
+Yes Yes
+
+Device Enrolment
+Program (DEP)
+License and Support
+(Year)
+
+2 2, 3 Or higher
+
+Operating Conditions Minimum Operating
+Temperature (Degree
+C)
+
+0 *
+
+Maximum Operating
+Temperature (Degree
+C)
+
+35 *
+
+Minimum Operating
+Humidity (%RH)
+
+5 *
+
+Maximum Operating
+Humidity (%RH)
+
+95 *
+
+Warranty Availabiliy of Service
+Centre for Warranty
+Obligation
+
+State Level State Level, District
+Level Or higher
+
+OEM Warranty
+including Battery
+
+Carry In *
+
+OEM Warranty
+Period for Battery
+(Year)
+
+2 2 Or higher
+
+OEM Warranty
+Period for Tablet
+(Year)
+
+2 2 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+
+                               5 / 6
+
+
+
+ 
+
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Ramachandra
+Mishra
+
+110003,Pt. Deendayal
+Antyodaya Bhawan, 10th
+Floor, B-2 Wing CGO
+Complex, Lodhi Road New
+Delhi-110003
+
+1  30
+
+Bid Specific Additional Terms and Conditions
+
+1. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+2.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+3.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+4.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+5.Successful bidder will have to ensure that adequate number of dedicated technical service
+personals / engineers are designated / deployed for attending to the Service Request in a
+time bound manner and for ensuring Timely Servicing / rectification of defects during
+warranty period, as per Service level agreement indicated in the relevant clause of the bid.
+
+6.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 3 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

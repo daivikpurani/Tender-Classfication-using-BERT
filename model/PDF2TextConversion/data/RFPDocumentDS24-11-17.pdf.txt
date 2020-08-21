@@ -1,0 +1,3448 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RECEIPT
+
+
+(a state government undertaking/gfj;k.kk ljdkj dk midze½ 
+
+Haryana State Electronics Development Corporation Limited 
+
+gfj;k.kk jkT; bySDVªksfuDl fodkl fuxe fyfeVsM 
+
+ Hartron Technology Park, Plot No 25A, Sector -18(Part), Gurugram, Tel: 0124-, 2347040, 2455540, 0172-2560073 
+Page 1 of 35 
+
+ 
+
+  
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+RFP FOR DEVELOPMENT OF 
+DOCUMENT MANAGEMENT SYSTEM 
+
+FOR MUNICIPAL CORPORATION, 
+GURUGRAM 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+        (a state government undertaking/gfj;k.kk ljdkj dk midze½ 
+
+   Haryana State Electronics Development Corporation Limited 
+
+gfj;k.kk jkT; bySDVªksfuDl fodkl fuxe fyfeVsM 
+
+                          Plot No. 25-A, Electronic City, Sector-18(Part) 
+                                                       Gurugram 
+ 
+
+  
+
+
+
+(a state government undertaking/gfj;k.kk ljdkj dk midze½ 
+
+Haryana State Electronics Development Corporation Limited 
+
+gfj;k.kk jkT; bySDVªksfuDl fodkl fuxe fyfeVsM 
+
+ Hartron Technology Park, Plot No 25A, Sector -18(Part), Gurugram, Tel: 0124-, 2347040, 2455540, 0172-2560073 
+Page 2 of 35 
+
+ 
+
+  
+
+ 
+e-TENDER NO. HARTRON/DS/01/2017-18 
+
+ 
+e-Tender Notice for engaging reputed Company/Agency for the job of development of 
+
+Document Management System on behalf of Municipal Corporation, Gurugram.   
+
+ 
+ Online bids are invited under two-bid system, for development & 
+
+implementation of Document Management System on behalf of Municipal Corporation, 
+
+Gurugram from reputed Companies/Agencies, dealing in software application 
+
+development and Document Management System, through e-tendering.  
+ 
+
+The Bidders can submit their bid along with requisite documents (Online) as 
+per the dates mentioned in the key dates:- 
+
+                                          Key Dates 
+
+Sr. 
+No. 
+
+Department Stage Bidder’s Stage 
+Start date and 
+
+time 
+Closing date and 
+
+time 
+
+1 - 
+Tender Document 
+Download and Bid 
+
+Preparation 
+
+24.11.2017 
+12:00 Noon  
+
+18.12.2017 up to 
+5:00 PM. 
+
+2 Pre Bid Meeting 
+ 
+
+06.12.2017 at 11:00 AM Venue: 
+
+HARTRON Technology Park 
+
+ Plot No. 25-A, Electronic City, 
+
+Sector-18(Part) 
+
+Gurugram-122 015(India) 
+
+3 Technical Bid Opening  - 19.12.2017 at 11:00 AM. 
+
+4 
+Technical Presentation & 
+Opening of Financial Bid 
+
+- 
+To be intimated later after 
+examining Technical Bids 
+
+ 
+
+The tender documents can be downloaded free of cost from the portal eProcurement 
+
+system https://etenders.hry.nic.in 
+
+ 
+The bidders are also required to submit a hard copy of the technical bid along-with duly 
+signed and stamped tender document downloaded from the website in the O/o Sh. M. 
+K. Sardana, Project Manager, Plot No. 25-A, Electronic City, Sector-18(Part), Gurugram 
+within 2 days after closing of submission date, in addition to online bid submission as 
+per the instructions given in the RFP document.  
+ 
+
+ 
+
+The address for all the above activities is:- 
+ 
+ 
+
+Managing Director 
+Haryana State Electronics Development Corporation Ltd., (HARTRON) 
+
+              HARTRON Technology Park, Plot No. 25-A, Electronic City, Sector-18(Part) 
+
+ Gurugram-122 015(India) 
+
+ 
+
+https://etenders.hry.nic.in/
+
+
+(a state government undertaking/gfj;k.kk ljdkj dk midze½ 
+
+Haryana State Electronics Development Corporation Limited 
+
+gfj;k.kk jkT; bySDVªksfuDl fodkl fuxe fyfeVsM 
+
+ Hartron Technology Park, Plot No 25A, Sector -18(Part), Gurugram, Tel: 0124-, 2347040, 2455540, 0172-2560073 
+Page 3 of 35 
+
+ 
+
+  
+
+ 
+TABLE OF CONTENTS 
+
+ 
+
+ 
+
+Clause 
+No. 
+
+ Page 
+No. 
+
+SECTION-1 
+1. Instructions to bidder on Electronic Tendering System 4-5 
+
+2. Introduction 6 
+
+3. Scope of work 6-10 
+
+4. Methodology 10 
+
+5. Document Management System Planning & Implementation 10 
+
+6. Training 11 
+
+7. Change Request Handling 11 
+
+8. Intellectual Property Rights 11 
+
+9. General Requirements 11 
+
+10. System Documentation 12 
+
+11. Vendors Responsibilities 12-13 
+
+12. MD, Hartron right to accept any bid or to reject any or all 
+bids 
+
+13 
+
+13. EMD     13 
+
+14. Eligibility Criteria for Bidders 13-16 
+
+15. Evaluation of Bids 16-18 
+
+16. Validity of Rates 18 
+
+17. Termination of Job 18 
+
+18. Warranty & Services 18 
+
+19. Penalty for delay 19 
+
+20. Payments terms 19 
+
+21. Jurisdiction 19 
+
+22. Terms & Conditions 19-21 
+
+23. Applicable Law 21 
+
+24. Schedule and time line for delivery of the project      21 
+
+SECTION -2 
+
+1. Bid requirement 22 
+
+2. Contents of bid 22 
+
+ANNEXURES 
+A. Business details 23 
+
+T1 Bidder particulars 26 
+
+T2 Bid Form 28 
+
+C1 Commercial Bid  29 
+
+X Affidavit 31 
+
+Y Affidavit 33 
+
+Z Affidavit 34 
+ 
+
+  
+
+
+
+(a state government undertaking/gfj;k.kk ljdkj dk midze½ 
+
+Haryana State Electronics Development Corporation Limited 
+
+gfj;k.kk jkT; bySDVªksfuDl fodkl fuxe fyfeVsM 
+
+ Hartron Technology Park, Plot No 25A, Sector -18(Part), Gurugram, Tel: 0124-, 2347040, 2455540, 0172-2560073 
+Page 4 of 35 
+
+ 
+
+  
+
+ 
+
+1.Instructions to bidder on Electronic Tendering System 
+ 
+
+These conditions will over-rule the conditions stated in the tender documents, wherever 
+
+relevant and applicable. 
+
+1.1 Registration of bidders on eProcurement  Portal:- 
+
+All the bidders intending to participate in the tenders processed online are required 
+
+to get registered on the centralized e - Procurement Portal i.e. 
+
+https://etenders.hry.nic.in. 
+
+Please visit the website for more details. 
+ 
+
+1.2 Obtaining a Digital Certificate:  
+
+1.2.1 The Bids submitted online should be encrypted and signed electronically with a 
+
+Digital Certificate to establish the identity of the bidder bidding online. These Digital 
+
+Certificates are issued by an Approved Certifying Authority, by the Controller of 
+
+Certifying Authorities, Government of India. 
+
+1.2.2 A Digital Certificate is issued upon receipt of mandatory identity (i.e. Applicant’s 
+
+PAN Card) and Address proofs and verification form duly attested by the Bank 
+
+Manager / Post Master / Gazetted Officer. Only upon the receipt of the required 
+
+documents, a digital certificate can be issued. For more details please visit the 
+
+website – https://etenders.hry.nic.in. 
+
+1.2.3 The bidders may obtain Class-II or III digital signature certificate from any Certifying 
+
+Authority or Sub-certifying Authority authorized by the Controller of Certifying 
+
+Authorities.  
+
+1.2.4 Bid for a particular tender must be submitted online using the digital certificate      
+
+(Encryption & Signing), which is used to encrypt and sign the data during of bid 
+
+preparation stage.  In case, during the process  of a particular tender, the user loses 
+
+his digital certificate (due to virus attack, hardware problem, operating system or 
+
+any other problem) he will not be able to submit the bid online. Hence, the users are 
+
+advised to keep a backup of the certificate and also keep the copies at safe place 
+
+under proper security (for its use in case of emergencies). 
+
+1.2.5 In case of online tendering, if the digital certificate issued to the authorized user of 
+
+a firm is used for signing and submitting a bid, it will be considered equivalent to a 
+
+no-objection certificate/power of attorney /lawful authorization to that User. The 
+
+firm has to authorize a specific individual through an authorization certificate signed 
+
+by all partners to use the digital certificate as per Indian Information Technology Act 
+
+2000. Unless the certificates are revoked, it will be assumed to represent adequate 
+
+authority of the user to bid on behalf of the firm in the department tenders as per 
+
+Information Technology Act 2000. The digital signature of this authorized user will be 
+
+binding on the firm.  
+
+1.2.6 In case of any change in the authorization, it shall be the responsibility of 
+
+management / partners of the firm to inform the certifying authority about the  
+
+            change and to obtain the digital signatures of the new person / user on behalf of the 
+
+firm / company.  The procedure for application of a digital certificate however will 
+
+remain the same for the new user. 
+
+https://etenders.hry.nic.in/
+
+
+(a state government undertaking/gfj;k.kk ljdkj dk midze½ 
+
+Haryana State Electronics Development Corporation Limited 
+
+gfj;k.kk jkT; bySDVªksfuDl fodkl fuxe fyfeVsM 
+
+ Hartron Technology Park, Plot No 25A, Sector -18(Part), Gurugram, Tel: 0124-, 2347040, 2455540, 0172-2560073 
+Page 5 of 35 
+
+ 
+
+  
+
+1.2.7 The same procedure holds true for the authorized users in a private/Public limited   
+
+company. In this case, the authorization certificate will have to be signed by the 
+
+directors of the company 
+ 
+
+1.3 Pre-requisites for online bidding: 
+
+In order to bid online on the portal https://etenders.hry.nic.in, the user machine 
+
+must be updated with the latest Java & DC setup. The link for downloading latest 
+
+java applet & DC setup are available on the Home page of the e-tendering Portal.  
+ 
+
+1.4   Online Viewing of Detailed Notice Inviting Tenders: 
+
+The bidders can view the detailed N.I.T and the time schedule (Key Dates) for all the 
+
+tenders floated through the single portal eProcurement system on the Home Page at 
+
+https://etenders.hry.nic.in. 
+ 
+
+1.5    Download of Tender Documents: 
+
+The tender documents can be downloaded from the eProcurement portal 
+
+https://etenders.hry.nic.in. 
+ 
+
+1.6      Key Dates: 
+
+The bidders are strictly advised to follow dates and times as indicated in the online 
+
+Notice Inviting Tenders. The date and time shall be binding on all bidders. All online 
+
+activities are time tracked and the system enforces time locks that ensure that no 
+
+activity or transaction can take place outside the start and end dates and the time of 
+
+the stage as defined in the online Notice Inviting Tenders. 
+ 
+
+1.7       Bid Preparation (Technical & Financial) Online Payment of Tender Document Fee, 
+
+eService fee, EMD fees of online Bids: 
+ 
+
+1.7.1 The cost of tender document is Rs. 2500/- to be deposited on line through RTGS/NEFT 
+
+/DD in favour of Haryana State Electronics Development Corporation and upload scan 
+
+copy receipt of tender document. Submit proof of payment. 
+ 
+
+1.7.2  Earnest Money of Rs. 25,000/- as specified for the above work to be deposited on 
+
+line through RTGS/NEFT/DD in favour of Haryana State Electronics Development 
+
+Corporation while applying for issuance of tender documents also upload scan copy 
+
+receipt of EMD. Submit proof of payment. 
+   
+
+RTGS Detail:- 
+
+HARTRON 
+
+Particulars of Bank Account for payment through RTGS  
+
+Beneficiary Name  
+Haryana State Electronics Development Corporation 
+Limited 
+
+Bank Name  Central Bank of India 
+
+Bank Address  Mullahera, Gurgaon, Haryana -122015 
+
+Bank Account No.  1739803592 
+
+Bank IFSC CBIN0281204 
+Hartron Pan Card No: AABCH1532Q 
+
+Hartron  GSTIN No.: 06AABCH1532Q2ZH 
+ 
+
+The bidders shall quote the prices in price bid format. 
+
+https://etenders.hry.nic.in/
+https://etenders.hry.nic.in/
+
+
+(a state government undertaking/gfj;k.kk ljdkj dk midze½ 
+
+Haryana State Electronics Development Corporation Limited 
+
+gfj;k.kk jkT; bySDVªksfuDl fodkl fuxe fyfeVsM 
+
+ Hartron Technology Park, Plot No 25A, Sector -18(Part), Gurugram, Tel: 0124-, 2347040, 2455540, 0172-2560073 
+Page 6 of 35 
+
+ 
+
+  
+
+2. INTRODUCTION: 
+ 
+
+Municipal Corporation, Gurugram require service for scanning & digitization of approx. 10 
+
+lakh pages which include official records documents/files (which may be printed or 
+
+handwritten) through a document management system; for easy search, retrieval and 
+
+utilization of information.  Accordingly, offers in the form of sealed quotations are invited.  
+
+3. SCOPE OF WORK 
+ 
+
+A software solution in the form of Document Management System (DMS) is to be 
+
+developed by the developer/vendor. The scope of services to be provided by the vendor is 
+
+as under:  
+
+3.1 Requirements analysis: The developer/vendor is expected to work closely with the 
+
+user department for gathering and interpreting facts, analyzing end-user information 
+
+needs, requirements as also other necessary details that would be crucial for the 
+
+development of the DMS solution and submit the analysis report.   
+
+3.2 Requirements definition: Once the requirement analysis is done, the vendor is 
+
+required to clearly define and document the product requirements and get them 
+
+approved from the department through a SRS (Software Requirement 
+
+Specification) document which consists of all the product requirements to be designed 
+
+and developed for the project. The document should specify the modules & sub-modules 
+
+to be developed by the vendor etc. 
+
+3.3 Development of Software:    
+
+The successful Bidder shall develop DMS (Document Management System) specific to the 
+
+needs of the MC Gurugram. Broadly the scope entails  
+
+a) DMS is required to be web enabled and is to be developed using open source 
+
+technologies and should follow standard software development life cycle. 
+
+b) DMS provided by the successful Bidder is required to be platform independent and 
+
+capable of archival, management and retrieval as per the requirements of the tender 
+
+document.  
+
+c) The modules of DMS are required to be capable of multiple accesses with security 
+
+features and facility for updation/versioning. 
+
+d) The successful Bidder may be asked to modify or make provisions for additional 
+
+reports based on search parameters.  
+
+e) All Licensed copy of the application software used, DMS solution and database design 
+
+as may be developed by the firm or its employees for and during execution of the 
+
+work shall be provided to HARTRON, the cost will be borne by the firm/bidder and the 
+
+firm shall execute necessary documents for the same in favour of HARTRON. 
+
+f) Software testing 
+
+ 
+
+
+
+(a state government undertaking/gfj;k.kk ljdkj dk midze½ 
+
+Haryana State Electronics Development Corporation Limited 
+
+gfj;k.kk jkT; bySDVªksfuDl fodkl fuxe fyfeVsM 
+
+ Hartron Technology Park, Plot No 25A, Sector -18(Part), Gurugram, Tel: 0124-, 2347040, 2455540, 0172-2560073 
+Page 7 of 35 
+
+ 
+
+  
+
+3.3.1 Broad features: The broad features of the envisaged Document Management             
+
+System (DMS) are as follows:  
+
+i. Creating Hierarchy of Documents like Division, Sub Division, Department, File 
+
+Type, Document Name etc. 
+
+ii. Upload multiple pages files and option to create Tags. 
+
+iii. Divide multipage file into individual pages and tag them separately. 
+
+iv. Create multiple storage location and option to keep document as per hierarchy. 
+
+v. Create database of files for quick search and search by key words/barcodes, File 
+
+Name, File Type, Creation Date and defined Tags etc. 
+
+vi. Provisions for selection and storage of subject portion of documents/pages for the 
+
+correspondence portion of the file being scanned and accordingly creation of 
+
+thumbnail of the selected image. 
+
+vii. Application compatibility with SSL, which is best security protocol, used for 
+
+Banking Transaction. 
+
+viii. Access control system. 
+
+ix. Advance Features (Optional) depending upon the user department requirements 
+
+such as file resizing before upload and encryption of files on server. 
+
+x. The developer/vendor will also be expected to impart comprehensive Training to 
+
+the users on the developed DMS i.e. to the officers/officials in the department 
+
+hierarchy and to Hartron operators. 
+
+xi. The DMS prepared by the developer/bidder should take into consideration the 
+
+most efficient ways to organize and access data. 
+
+xii. The vendor/DMS software developer will have to assist the department for the 
+
+development, deployment and operations of the DMS and is expected to provide 
+
+support through a qualified and dedicated manpower at least for a period of one 
+
+year after the implementation of the software.  
+
+xiii. The DMS solution should be able to do the page level tagging of both noting and 
+
+correspondence portion of the file which shall have noting pages searchable by 
+
+number and correspondence portion searchable by date, as per the details 
+
+mentioned/provided by the department. A thumbnail of the image portion of the 
+
+subject part in the correspondence portion of the file will be created for reference 
+
+on index page.  
+
+xiv. Provisions be made for storage and retrieval from cloud.  
+
+ 
+
+           In addition to the above-mentioned broad scope of work, the Company/Agency is 
+
+expected to innovate, improve upon and add any additional components that are deemed 
+
+necessary for the development and implementation of the Software. 
+
+
+
+(a state government undertaking/gfj;k.kk ljdkj dk midze½ 
+
+Haryana State Electronics Development Corporation Limited 
+
+gfj;k.kk jkT; bySDVªksfuDl fodkl fuxe fyfeVsM 
+
+ Hartron Technology Park, Plot No 25A, Sector -18(Part), Gurugram, Tel: 0124-, 2347040, 2455540, 0172-2560073 
+Page 8 of 35 
+
+ 
+
+  
+
+ 3.3.2 Proposed System: The system should necessarily integrate the following     
+features for smooth functioning: 
+
+ 
+
+The system should allow collection of information along the hierarchy. The 
+
+system should allow reviewing, commenting and approving by various personnel 
+
+in the hierarchy.  The system should support movement of information across 
+
+and within department. 
+
+i) Document Maintenance, Management and Accessibility 
+ 
+
+ii) The system should ensure that all the documents are digitalized & stored 
+
+in a structured manner for easy access and retrieval with proper controls. 
+
+ 
+
+File searching should be possible by file name, creation date, Document Type 
+
+and Tags assigned during upload. A thumbnail of the image portion of the 
+
+subject part in the correspondence portion of the file be created to aid access 
+
+and retrieval.  
+
+ 
+
+The solution should be easy to configure and implement, so as to integrate into 
+
+existing infrastructure and applications. It should also display archive records in a 
+
+non-proprietary format that can be read on any operating system, without special 
+
+software or any viewers, into the foreseeable future.  Documents stored in the 
+
+system should retain its original format and run in its native application when 
+
+retrieved.  The system should duly allow for easy transfer of database and 
+
+images to any other system. 
+
+ 
+
+The solution should offer a comprehensive range of cost-effective services for 
+
+Document Management System as under:  
+ 
+
+ Document Scanning 
+
+ Data conversion (TIFF to RTF, PDF, HTML, XML) 
+ 
+
+The solution should include conversion of image files like JPEG, TIFF, PDF etc. to 
+
+XML, PDF, HTML etc. Following features are required 
+  
+
+ Direct upload of Scanned Document to DMS 
+
+ Storage of digitized data as per the recommendations of the department 
+
+etc.  
+  
+
+ Provide Image processing libraries that support image enhancements such 
+
+as changing contrast, zoom in/out, cleaning etc. and other imaging features 
+
+like compression and extraction etc. 
+
+ 
+
+ Facility to upload scanned batches from different field offices with Auto 
+
+folder/Subfolder creation document filing & indexing on user defined fields. 
+
+
+
+(a state government undertaking/gfj;k.kk ljdkj dk midze½ 
+
+Haryana State Electronics Development Corporation Limited 
+
+gfj;k.kk jkT; bySDVªksfuDl fodkl fuxe fyfeVsM 
+
+ Hartron Technology Park, Plot No 25A, Sector -18(Part), Gurugram, Tel: 0124-, 2347040, 2455540, 0172-2560073 
+Page 9 of 35 
+
+ 
+
+  
+
+ 
+
+ System ability to provide Compression of scanned image files in TIF Format. 
+ 
+
+3.3.3 Architecture and Scalability: 
+ 
+
+ System should be scalable, Multi-tier architecture with each tier fully 
+
+independent with support. 
+
+ 
+
+ The system shall support separate Document/Image server for better 
+
+management of documents and store only metadata information in 
+
+database. 
+
+ 
+
+ Support distributed Document Repositories for document upload and access 
+
+at local level, which can be replicated with central repository at scheduled 
+
+intervals. 
+
+3.3.4 Storage & Archival of Documents 
+ 
+
+ Categorization of documents in folders-subfolders. There should not be any 
+
+limit on the number of folder and levels of sub folder. 
+
+ Extensive document and folder level operation such as move /copy, e-mail, 
+
+download, delete, metadata association etc.   
+
+ Indexing of the documents on user defined parameters. The index system 
+
+should create an organized document filtering system and make retrieval 
+
+simple and efficient. 
+ 
+
+ Association of the key words with the documents 
+ 
+
+ 
+
+3.3.5 DMS Administration 
+ 
+
+ Adequate administrative controls and security features with ability to set 
+
+access controls at multiple levels. 
+
+ 
+
+ It should support multiple levels of access rights like read, create, modify, 
+
+delete etc. on documents and folders. 
+
+ 
+
+ Roles and Privileges: Super User, Administrator Login, Group Manager and 
+
+User profiles. 
+
+ 
+
+ The system shall support extensive reporting facility at document, folder and 
+user level 
+
+  
+
+ DMS should Support various Meta Data Types like Numeric, Float, text etc. 
+  
+
+3.3.6 Retrieval 
+ 
+
+A retrieval system should retrieve right documents fast and easy.  Documents 
+
+should be stored in HTML, XML or PDF format. 
+
+
+
+(a state government undertaking/gfj;k.kk ljdkj dk midze½ 
+
+Haryana State Electronics Development Corporation Limited 
+
+gfj;k.kk jkT; bySDVªksfuDl fodkl fuxe fyfeVsM 
+
+ Hartron Technology Park, Plot No 25A, Sector -18(Part), Gurugram, Tel: 0124-, 2347040, 2455540, 0172-2560073 
+Page 10 of 35 
+
+ 
+
+  
+
+ Extensive search facility to retrieve documents or Folders/Files 
+
+3.3.7 Document View & Reporting 
+ 
+
+Document viewing should be readily available to those who need it, with the 
+
+flexibility to control access rights to the system and should be accessible in the 
+
+office or at different locations over the Intranet or over the Internet. 
+
+ Server based Inbuilt Document Image Viewer for displaying image 
+
+document without native viewer 
+
+ Viewer should be platform independent and support all standard browsers. 
+
+3.4 Software Testing: Before launching of the application, a complete functional testing of all 
+
+the modules and functionalities be carried out. 
+
+3.5 Security Audit of the Software is required to be done. 
+
+3.6 Hosting of the software: The hosting of the software shall be done on cloud based 
+
+servers. The price of cloud based hosting may be taken by HARTRON/end user at a later 
+
+stage before making the system live.  
+ 
+
+4. METHODOLOGY 
+ 
+
+The system integrator shall be required to independently arrive at the methodology, 
+
+based on globally acceptable standards and best practices, suitable for the 
+
+Department by providing state-of-art technology which aids scanning & cloud storage 
+
+using both contact scanners as well as overhead non contact scanners. 
+
+ 
+
+5. DOCUMENT MANAGEMENT SYSTEM PLANNING AND IMPLEMENTATION 
+ 
+
+ Provide the necessary resources:  services, consulting and software to Implement and 
+
+maintain the Document Management System. The plan shall include total solution for 
+
+Document Management System. 
+
+ Do requirement gathering from user and customize DMS as per requirements of user. 
+
+ Conduct sessions to understand user problems and improve the satisfaction level of 
+
+users. 
+
+ Do User Acceptance Test and submit the report to Project Manager. 
+
+ The vendor may suggest about the required Hardware specifications for running the 
+
+Document Management System after completion of the job. 
+ 
+
+ The vendor will provide support till the completion of the project i.e. scanning & 
+
+digitization of all the pages provided by the department and will provide dedicated 
+
+manpower to guide & troubleshoot which includes interaction with MCG 
+
+officers/officials, creation of unique file no’s., barcodes, defining & coding their 
+
+hierarchy, providing training etc. 
+
+ 
+
+
+
+(a state government undertaking/gfj;k.kk ljdkj dk midze½ 
+
+Haryana State Electronics Development Corporation Limited 
+
+gfj;k.kk jkT; bySDVªksfuDl fodkl fuxe fyfeVsM 
+
+ Hartron Technology Park, Plot No 25A, Sector -18(Part), Gurugram, Tel: 0124-, 2347040, 2455540, 0172-2560073 
+Page 11 of 35 
+
+ 
+
+  
+
+  
+6. TRAINING 
+
+ 
+
+The training program should be comprehensive and should be conducted for all users as 
+
+well as officers of the Department.  Vendor shall provide training free of charge to the end 
+
+user, whenever, required by the user. Vendor is expected to conduct maximum 3-5 training 
+
+sessions for the end user. 
+
+ 
+
+7. CHANGE REQUESTS HANDLING 
+ 
+
+On successful implementation of the developed modules and user acceptance testing the 
+
+vendor shall also be optionally required to provide the support for change requests 
+
+management.  During the period if any new module or extra functionality is required to be 
+
+developed or need of some major changes occurs in the than existing functionalities; that 
+
+shall be handled under change requests management.  During this period the vendor shall 
+
+facilitate the department with following team members, whenever required:- 
+
+ Project Manager/Team lead (Minimum experience 7 year) 
+
+ Developer (Minimum experience 3 years) 
+
+ Designer (Minimum experience 3 years) 
+
+ Tester (Minimum experience 3 years) 
+
+ Business Analyst (Minimum experience 4 years) 
+
+Note: - Bidder must quote the man month cost for change requests management requirement 
+
+for employing above profiles separately as optional cost. 
+
+ 
+8. INTELLECTUAL PROPERTY RIGHTS (IPR) 
+
+ 
+The successful Bidder shall handover the complete software solution to the HARTRON with 
+
+the source code and the Intellectual Property Rights (IPR) including copyrights of the entire 
+
+software solution along-with documentation, if any. 
+
+  
+9. GENERAL REQUIREMENTS 
+
+ 
+
+ The Rates must be valid for the period of 180 days from the date of opening of bid.  
+
+Any offer falling short of the validity period is liable for rejection. 
+
+ The successful bidder shall provide proper documentation, IPR handover to HARTRON 
+
+that includes Source code, APIs, coding level documentation, etc. Application Source 
+
+Code along with complete database would be the property of HARTRON and the 
+
+development Company should hand over all admin, user Id password, hosting, 
+
+database server details etc. to HARTRON along with all software details, deliverables 
+
+etc. at the time of deployment of application for future use by HARTRON. The 
+
+successful vendor will relinquish all ownership of the application developed to 
+
+HARTRON. 
+
+ 
+
+
+
+(a state government undertaking/gfj;k.kk ljdkj dk midze½ 
+
+Haryana State Electronics Development Corporation Limited 
+
+gfj;k.kk jkT; bySDVªksfuDl fodkl fuxe fyfeVsM 
+
+ Hartron Technology Park, Plot No 25A, Sector -18(Part), Gurugram, Tel: 0124-, 2347040, 2455540, 0172-2560073 
+Page 12 of 35 
+
+ 
+
+  
+
+ 
+ 
+
+10. SYSTEM DOCUMENTATION    
+ 
+The selected Bidder shall provide complete documentation of the following:- 
+
+ 
+
+ Administrator’s Manual: This manual shall provide a complete overview and detailed 
+
+implementation instructions. 
+
+ Operator Manual:  This manual shall provide a detailed user friendly operational 
+
+description of the software as well as other pertinent operational details.  The 
+
+manual shall be short, simple, and shall include pictures showing the various 
+
+operator procedures. 
+
+ 
+11. VENDOR RESPONSIBILITIES 
+
+ 
+
+ Nominate a senior person in the capacity of a manager, who will serve as the single 
+
+point of contact for the department and shall attend all meetings related to the project.  
+ 
+
+ Plan and execute the project through a suitably qualified technical team. As part of this 
+
+requirement, submit a project plan and keep it updated at all times.  
+ 
+
+ Finalize the detailed requirements and suggest any improvements to the processes being 
+
+followed. Design, develop, test and release the software solution consistent with 
+
+applicable guidelines of State/ GoI.  
+ 
+
+ Carry out necessary acceptance tests including certifications (as may be applicable) and 
+
+report the test results including satisfactory conformance to requirements.  
+ 
+
+ Provide implementation and other support services, as proposed and mutually agreed 
+
+upon, to ensure that the solution is rolled out to all the participating stakeholders and is 
+
+smoothly operational as per the work (project) plan that is agreed upon.  
+ 
+
+ During the maintenance and support period, successful bidder shall provide IT 
+
+operations and administration of the installed solution in conformity with the State’s IT 
+
+policies, fix software defects, enhance the software as per an agreed plan and provide 
+
+such other technical support and hand-holding necessary for the smooth functioning of 
+
+the overall solution covered under the scope of the project in conformity with the agreed 
+
+performance criteria.  
+ 
+
+ The selected bidder agrees to make good any defects and shortcomings in the software 
+
+that is part of the agreed requirements.  
+ 
+
+ In the event of a major scope change involving significant time and effort over and 
+
+above routine maintenance and support, the selected bidder shall facilitate the 
+
+assessment of impact to technical matters, timelines, Cost and also justify the effort 
+
+involved. Further, the bidder agrees to implement these changes after obtaining 
+
+approval from the competent authority.  Only in case of significant changes to the 
+
+solution by Department itself, the request for such change requests shall be accepted. 
+ 
+
+ Facilitate audit and assessments, as and when required. 
+ 
+
+
+
+(a state government undertaking/gfj;k.kk ljdkj dk midze½ 
+
+Haryana State Electronics Development Corporation Limited 
+
+gfj;k.kk jkT; bySDVªksfuDl fodkl fuxe fyfeVsM 
+
+ Hartron Technology Park, Plot No 25A, Sector -18(Part), Gurugram, Tel: 0124-, 2347040, 2455540, 0172-2560073 
+Page 13 of 35 
+
+ 
+
+  
+
+ Submit periodic reports and support project reviews as may be agreed and necessary.  
+ 
+
+12. MD, HARTRON right to accept any Bid or to reject any or all bids. 
+ 
+
+The MD, HARTRON reserves the right to accept or reject any or all bids without assigning 
+any reason. 
+
+ 
+12.1  HARTRON officer/official will be at any point of time, be free to visit the premises 
+
+where the job is being executed to ensure that the process is followed as specified 
+
+in the tender. Any fault on part of any tenderer is liable for the cancellation of the 
+order/imposing suitable penalty. 
+
+ 
+12.2  The HARTRON reserves the right to allot the work to one party or to distribute the 
+
+work to all the parties as the circumstances demand at the time of allotment of 
+work keeping in view urgency and interest of Corporation as well as capacity of 
+
+party/bidder. 
+
+ 
+13. Earnest Money Deposit (EMD) 
+
+ 
+
+a.   The cost of tender document is Rs. 2500/- to be deposited on line through RTGS/NEFT 
+
+/DD in favour of Haryana State Electronics Development Corporation and upload scan 
+
+copy receipt of tender document. Submit proof of payment. 
+
+b.  Earnest Money of Rs. 25000 /- as specified for the above work to be deposited on line 
+
+through RTGS/NEFT/DD in favour of Haryana State Electronics Development 
+
+Corporation while applying for issuance of tender documents also upload scan copy 
+
+receipt of EMD. Submit proof of payment. 
+
+c.  If the validity of the tender is extended the validity of EMD will also have to be 
+
+extended. 
+
+d.   No interest shall be payable by the Corporation on the Earnest Money deposited by 
+Bidder. 
+
+e.  Earnest money is liable to be forfeited if, at any time, it is found that the tenderer 
+had, with malafied intention, tried to cheat or otherwise misrepresent to the 
+
+Corporation.  
+
+ The EMD is liable to be forfeited if the Bidder withdraws or amends   impairs 
+
+or derogates from the tender in any respect within the period of validity of the 
+Tender. 
+
+ The EMD of the unsuccessful Bidders shall be returned by the Corporation 
+
+within 45 days after placement of contract. Bidders are advised to send a pre-
+receipt along with their bids to facilitate refund of earnest money in time. 
+
+ The Corporation can change the scope of work, term & condition etc. at any 
+
+stage before finalization of rates. 
+ In case, the date of opening falls on Holiday, Gazetted or subsequently 
+
+declared, the tender will be opened on the next working day. 
+
+ 
+14. Eligibility Criteria for Bidders: 
+
+ 
+14.1 Bidders General Qualifications: 
+
+ 
+i. This e-tender is open to all firms/companies from within India, who are eligible to do 
+
+business under relevant Indian laws as in force at the time of bidding. 
+ 
+ii. Firm/company declared by any State/ Central Govt. Department to be ineligible to 
+
+participate for corrupt, fraudulent or any other unethical business practices shall not 
+be eligible during the period for which such ineligibility is declared. 
+
+ 
+
+
+
+(a state government undertaking/gfj;k.kk ljdkj dk midze½ 
+
+Haryana State Electronics Development Corporation Limited 
+
+gfj;k.kk jkT; bySDVªksfuDl fodkl fuxe fyfeVsM 
+
+ Hartron Technology Park, Plot No 25A, Sector -18(Part), Gurugram, Tel: 0124-, 2347040, 2455540, 0172-2560073 
+Page 14 of 35 
+
+ 
+
+  
+
+iii. The bidder should be an established organization and must have adequate 
+experience of executing customized software development projects in open source 
+technologies for State/Central Government/ PSU units. 
+
+iv. Breach of general or specific instructions for bidding, general and special conditions 
+of contract with the concerned department/Hartron may attract a proceeding to 
+declare a firm/company ineligible for a certain period or certain number of 
+consecutive tender calls. 
+
+ 
+
+v. Breach of any of the conditions of this tender document, work order, arrangement, 
+contract with GOH may attract a proceeding to declare a firm/company ineligible for 
+a certain period or certain number of consecutive tender calls at the option of 
+HARTRON. 
+
+ 
+
+a. Minimum Eligibility Criteria: 
+ 
+
+Sr. 
+
+No. 
+Clause Document Required 
+
+1. Processing fee for Tender Document should 
+
+have been submitted 
+The Payment for Tender 
+
+Document Fee and eService Fee 
+
+INR 2,500/- (Rupee Two 
+
+Thousand Five Hundred Only) 
+
+(Non-refundable) to be deposited 
+
+on line through RTGS/NEFT/DD 
+
+by eligible 
+
+bidders/company/Agency .  
+
+2. The Bidder must be registered in India 
+under the Companies Act 1956 having its 
+
+registered office in India or a Partnership 
+
+Firm registered under the Partnership Act, 
+1932 or registered under LLP Act, 2008 for 
+
+the last five years as on 31.03.2017. 
+Certified Copy must be attached. 
+
+Attested copy of the Certificate of 
+
+Incorporation. 
+
+3. The Company/Agency should have average 
+
+Turnover of Rs. 5 Crores in  last  3  Financial  
+
+Years  (2014-15, 2015-16, 2016-17) from IT 
+
+software development services  
+
+ Audited Balance sheet and 
+
+Profit & Loss account 
+
+statement of the Bidder for 
+
+each of the last 3 audited 
+
+financial years. 
+ 
+
+ Certificate   duly signed by 
+
+Company Secretary of the 
+
+Bidder confirming the positive 
+
+net-worth for the last three 
+
+financial years. 
+
+4. The Bidder should be a profit making 
+
+company before tax in each of the last three 
+
+audited financial years (2014-15, 2015-16, 
+
+2016-17). 
+
+ Audited Balance sheet and 
+
+Profit & Loss account 
+
+statement of the Bidder for 
+
+each of the last 3 audited 
+
+financial years. 
+ 
+
+ Certificate   duly signed by 
+
+Company Secretary of the 
+
+Bidder confirming the positive 
+
+net-worth for the last three 
+
+financial years. 
+
+
+
+(a state government undertaking/gfj;k.kk ljdkj dk midze½ 
+
+Haryana State Electronics Development Corporation Limited 
+
+gfj;k.kk jkT; bySDVªksfuDl fodkl fuxe fyfeVsM 
+
+ Hartron Technology Park, Plot No 25A, Sector -18(Part), Gurugram, Tel: 0124-, 2347040, 2455540, 0172-2560073 
+Page 15 of 35 
+
+ 
+
+  
+
+5. The Company/Agency must have adequate 
+experience for development & 
+
+implementation of customized IT software in 
+the last five preceding years in a 
+
+State/Central Government/ PSU for at least 
+
+10 different projects/departments out of 
+which at least five projects should be in the 
+
+State of Haryana.  
+
+ Work Order / Client Certificate/ 
+
+Project citations/Define of 
+
+satisfactory execution & 
+
+payment recd. etc. 
+
+6.  The Company/Agency must be an 
+established organization and should have 
+
+experience of executing customized software 
+development project of atleast 
+
+  
+
+1 Project of value Rs 1 Crore for Haryana 
+Government department  
+
+        Or 
+2 Projects of value not less than Rs 40 lacs 
+
+each for Haryana Government department  
+
+ Work Order / Client Certificate/ 
+
+Project citations/Define of 
+
+satisfactory execution & 
+
+payment recd. etc. 
+
+7. The Bidder should have all necessary 
+
+licenses, permissions, consents, NOCs, 
+
+approvals as required under law for carrying 
+
+out its business.  The Bidder should have 
+
+currently valid GST No. and PAN No.  
+
+Copies of GST No. & PAN No. 
+
+Undertaking be provided by the 
+
+bidder that he has all the 
+
+requisite approvals/ NOCs etc., as 
+
+required under law to carry out 
+
+its business. 
+
+8. The Signatory signing the Bid on behalf of 
+
+the Bidder should be duly authorized by the 
+
+Board of Directors of the Bidding 
+
+Company/partner in the case of partnership 
+
+firm/proprietor in the case of proprietorship 
+
+firm to sign the Bid on their behalf. 
+
+A Certificate from the Company 
+
+Secretary of the Bidder certifying 
+
+that the Bid signatory is 
+
+authorized by the Board of 
+
+Directors of the Company to do 
+
+so, with acceptance of board 
+
+resolution, resolutions number 
+
+and date/ partner in case of 
+
+partnership firm/proprietor in the 
+
+case of proprietorship firm to sign 
+
+the Bid on their behalf.  
+
+9. EMD should have been submitted. The Payment for EMD Rs. 
+
+25,000/- (Rupees Twenty Five 
+
+thousand only) can be made 
+
+online directly through RTGS / 
+
+NEFT / DD and the bidder would 
+
+remit the funds at least T + 1 
+
+day (Transaction + One day)in 
+
+advance to the last day and make 
+
+the payment via RTGS / NEFT/DD 
+
+to the beneficiary account 
+
+number as mentioned in the 
+
+challan.  
+
+
+
+(a state government undertaking/gfj;k.kk ljdkj dk midze½ 
+
+Haryana State Electronics Development Corporation Limited 
+
+gfj;k.kk jkT; bySDVªksfuDl fodkl fuxe fyfeVsM 
+
+ Hartron Technology Park, Plot No 25A, Sector -18(Part), Gurugram, Tel: 0124-, 2347040, 2455540, 0172-2560073 
+Page 16 of 35 
+
+ 
+
+  
+
+10. The bidder should have minimum 40 regular 
+
+IT professional employees on its payroll as 
+
+on 31.03.2017 and should have an office in 
+
+Tri-city (Chandigarh / Mohali / Panchkula) or 
+
+NCR. 
+
+a.      Proof of address of Office 
+
+location – Electricity bill, Rent 
+
+Agreement, Water Bill, BSNL 
+
+telephone bill 
+
+b. Proof of Head count – Self 
+
+certificate from company HR 
+
+head on company letter head 
+
+11. In case the entity is a defaulter in paying 
+
+any dues to any of the Govt. Departments 
+
+a) If yes, the bidder is not eligible to bid 
+
+for the tender 
+
+b) If no, affidavit to this effect to be 
+submitted  
+
+Affidavit signed by authorized 
+
+signatory as attached at 
+
+(Annexure-X) to be submitted 
+
+on non judicial stamp paper of 
+
+Rs. 10 duly attested by notary 
+
+public. 
+
+12. Information/documents/experience 
+
+certificates submitted by entity along with 
+
+the tender are genuine and true and nothing 
+
+has been concealed therein. 
+
+Affidavit signed by authorized 
+
+signatory as attached at 
+
+(Annexure-Y) to be submitted 
+
+on non judicial stamp paper of 
+
+Rs. 100 duly attested by notary 
+
+public. 
+
+13. Selected company should not have been 
+
+black listed  in  the  last  five  years  by  any 
+
+Government entity in India (Centre / State 
+
+organizations/ Departments/ Institutions.) 
+
+for breach of any applicable law or violation 
+
+of regulatory   prescriptions   or   breach   of 
+
+agreement as on date of submission of Bid. 
+
+ 
+
+Affidavit signed by authorized 
+
+signatory as attached at 
+
+(Annexure-Z) to be submitted 
+
+on non judicial stamp paper of 
+
+Rs. 10 duly attested  by notary 
+
+public 
+
+ 
+
+Any Bid failing to meet the above stated Qualification criteria shall be summarily rejected 
+and will not be considered for further evaluation. 
+ 
+
+14.2 In case of changes in taxation laws: 
+ 
+
+In case there is delay in supply by the successful bidder/supplier and there is any 
+
+change in the tax implications because of changes in any of the applicable laws of 
+
+the country, the additional burden/benefit shall be borne/enjoyed by the successful 
+
+bidder/supplier. 
+
+ 
+
+15. Evaluation of Bids 
+ 
+
+The bids will be in two parts (Technical and Financial) as indicated in the Tender. The bids will be 
+evaluated using 70: 30 scoring criteria for technical and financial bids. The technical bids shall be 
+evaluated using Technical Bid evaluation criteria. Only Bidders securing more than 60 marks will be 
+treated as Technically qualified and eligible for opening of financial bids. The technical and financial 
+scores secured by each bidder will be added using weightage of 70% and 30% respectively to 
+compute a Composite Bid Score. The bidder securing the highest Composite Bid Score will be 
+adjudicated as the Best Value Bidder for award of the Project. 
+ 
+
+An evaluation committee consisting of officials from Department will evaluate the bids of all the 
+bidders both technically and commercially as per the following schedule/pattern. 
+
+ 
+
+i. Only Technical bid shall be opened on the day of opening of the technical bids. 
+ii. Conditional bids shall be summarily rejected. 
+
+
+
+(a state government undertaking/gfj;k.kk ljdkj dk midze½ 
+
+Haryana State Electronics Development Corporation Limited 
+
+gfj;k.kk jkT; bySDVªksfuDl fodkl fuxe fyfeVsM 
+
+ Hartron Technology Park, Plot No 25A, Sector -18(Part), Gurugram, Tel: 0124-, 2347040, 2455540, 0172-2560073 
+Page 17 of 35 
+
+ 
+
+  
+
+iii. The Technical bids:-The documents furnished by each bidder with its Technical 
+Bid and will be examined to see whether the qualifications and specific requirements 
+mentioned in the tender document are fulfilled. 
+
+iv. Technical bids shall be evaluated using ‘Technical Bid Evaluation Criteria’. List 
+of evaluation criteria is given below. The bidders securing more than 60 percent 
+score in technical bid shall be treated as Technically Qualified Bidders. 
+
+v. The Commercial Bids of those bidders who satisfy the parameters laid out in the 
+Pre-Qualification cum Technical Bid will only be opened. The place, date and time of 
+the opening of the Commercial Bids shall be notified separately. 
+
+vi. The technical and financial scores secured by each bidder will be added using 
+weightage of 70% and 30% respectively to compute a Composite Bid Score. 
+
+vii. Financial Bids that are less than 50% of the average bid price will be disqualified 
+[the average bid price is computed by adding all Financial Bid values of ALL the 
+
+technically qualified bidders and dividing the same by the number of bidders]. 
+viii. L1 Calculation shall be done using following formula:- 
+
+The bidder with lowest financial bid (L1) will be awarded 100% financial score. 
+
+Financial Scores for other than L1 bidders will be evaluated using the following 
+formula:  
+
+Financial Score of a Bidder = {(Financial Bid of L1/Financial Bid of the Bidder) X 100}% (Adjusted to two decimal 
+places)  
+
+ix. The technical and financial scores secured by each bidder will be added using 
+weightage of 70% and 30% respectively to compute a Composite Bid Score 
+
+x. The bidder securing the highest Composite Bid Score will be adjudicated as the 
+Best Value Bidder for award of the Project. 
+
+xi. In the event the bid composite bid scores are ‘tied’, the bidder securing the highest 
+
+technical score will be adjudicated as the Best Value Bidder for award of the 
+Project. 
+
+ 
+
+Technical Bid evaluation criteria 
+ 
+
+S 
+No 
+
+Criteria Description Max.marks 
+
+1 
+Turnover 
+Requirements 
+
+Bidder should not be a loss making organization for the 
+last three years. It must be having an average annual 
+turnover of minimum Rs. 5.0 Crore for last three 
+financial years from IT software services. 10 marks shall 
+be awarded for having an average annual turnover of 
+minimum Rs. 5.0 Crore for last three financial years. One 
+mark shall be awarded for an additional slab of Rs. 50.00 
+Lakhs, limiting to maximum 15 marks. 
+
+15 
+
+2 
+e-Governance 
+Experience 
+
+• Bidder's experience of customized software 
+development work in the State of Haryana  (1 to 4 
+projects = 5 pts, 5 to 9 projects= 10 pts, 10 projects or 
+more projects = 15 pts) 
+• Bidder's experience of customized software 
+development work for Central / State or PSU units of 
+value more than Rs 20 lac (5 marks for 1 project upto a 
+maximum of 15 marks for 3 projects) 
+
+30 
+
+3 Team Strength 
+
+Capability of Bidder in supporting successful 
+implementation in State of Haryana with respect to team 
+size.  Bidder should have minimum 40 employees on its 
+payroll as on or before 31st March 2017.  
+(10 marks shall be awarded for 40 employees and 1 
+additional mark for every additional 10 employees 
+limiting to maximum 15). 
+
+15 
+
+
+
+(a state government undertaking/gfj;k.kk ljdkj dk midze½ 
+
+Haryana State Electronics Development Corporation Limited 
+
+gfj;k.kk jkT; bySDVªksfuDl fodkl fuxe fyfeVsM 
+
+ Hartron Technology Park, Plot No 25A, Sector -18(Part), Gurugram, Tel: 0124-, 2347040, 2455540, 0172-2560073 
+Page 18 of 35 
+
+ 
+
+  
+
+4 
+Technical 
+presentation 
+
+Presentation about company profile, quality of 
+constitution of team and the technical proposal with 
+special attention paid to approach, methodology and 
+understanding of the requirements. Completeness of the 
+proposed solution relative to other bidders. All activities 
+to be undertaken during development, implementation 
+and maintenance. Capability in executing open source 
+technologies projects for government units. 
+
+30 
+
+5 Value Addition 
+What value does the bidder proposes to add in the 
+department with their proposed solution 10 
+
+Total 100 
+
+ 
+
+16. Validity of Rates: 
+ 
+
+The Rates must be valid for the period of 180 days from the date of opening of bid. Any 
+
+offer falling short of the validity period is liable for rejection. 
+
+ 
+
+17. TERMINATION OF JOB 
+ 
+
+17.1 Termination for Insolvency 
+ 
+
+HARTRON may at any time terminate the work order / contract by giving written notice 
+of four weeks to the agency, without any compensation to the agency, if the agency 
+
+becomes bankrupt or otherwise insolvent. 
+
+ 
+a. Termination for default 
+
+ 
+
+a. Default is said to have occurred 
+ 
+
+ If the agency fails to deliver any or all of the services within the time period(s) 
+
+specified in the work order or any extension thereof granted by HARTRON. 
+ 
+
+ If the agency fails to perform any other obligation(s) under the contract / work 
+
+order. 
+
+b. If the agency, in either of the above circumstances, does not take remedial steps 
+
+within a period of 15 days after receipt of the default notice from HARTRON (or 
+
+takes longer period in spite of what HARTRON may authorize in writing), 
+
+HARTRON may terminate the contract / work order in whole or in part. In addition 
+
+to above, HARTRON may at its discretion also take the following actions.  
+ 
+
+ HARTRON may transfer upon such terms and in such manner, as it deems 
+appropriate work order for similar service to other agency and the defaulting 
+
+agency will be liable to compensate HARTRON for any extra expenditure 
+
+involved towards support service to complete the scope of work totally.  
+ 
+
+18.  Warranty & Services 
+
+ 
+
+1. The Bidder is expected to offer most competitive prices with highest possible 
+
+discounts for the items. 
+
+ 
+
+2. The Bidder can make the necessary modification with the prior permission of 
+
+department in the required software during the contract period.  
+
+
+
+(a state government undertaking/gfj;k.kk ljdkj dk midze½ 
+
+Haryana State Electronics Development Corporation Limited 
+
+gfj;k.kk jkT; bySDVªksfuDl fodkl fuxe fyfeVsM 
+
+ Hartron Technology Park, Plot No 25A, Sector -18(Part), Gurugram, Tel: 0124-, 2347040, 2455540, 0172-2560073 
+Page 19 of 35 
+
+ 
+
+  
+
+ 
+
+19. Penalty for delay 
+ 
+
+Delay in meeting the timelines defined by the concerned department/HARTRON, beyond 
+
+the due date of delivery, will invite a penalty of 3% per day of the delayed project value. 
+
+If the delay is of more than 15 days, then the work may be withdrawn and got executed 
+
+through other bidder(s) at the risk and expense of the defaulting bidder. Thereafter, the 
+
+contract will be treated cancelled, Security Deposit will be forfeited and no payment will 
+
+be made for the supplied material.  
+
+ 
+
+20. Payment Terms:  
+ 
+
+i) 10% payment will be processed in Advance as mobilization funds along with the work 
+order 
+
+ii) 20% payment will be processed after preparation of SRS and approval from the 
+concerned department.  
+ 
+
+iii) 40% payment will be processed on development of the software and its successful 
+execution. 
+
+ 
+
+iv) Balance 30% Payments will be processed after security audit.   
+
+v) All payments will be made subject to deduction of TDS (Tax Deduction at Source) as 
+per Income-Tax Act 1961 ad other taxes, if any, as per Government of India rules. 
+
+ 
+
+21. Jurisdiction: - All disputes will be settled with the jurisdiction of Panchkula 
+
+or Chandigarh only.    
+
+ 
+
+22. Terms & Conditions 
+ 
+
+1 The development work of Document Management System should be completed with-in 
+
+stipulated time period. 
+
+2. The HARTRON reserves the right to withdraw/revoke/cancel the whole or any part of the 
+
+Tender at any stage without assigning any reason. 
+ 
+
+3. A senior level Consultant must be engaged by Firm/Agency for supervision of work on 
+
+regular basis. 
+
+ 
+
+4. Bi-monthly Progress Report should be submitted by Firm/ Agency for monitoring the work 
+
+progress.  
+
+ 
+
+5. The documents to be digitized will normally be in the size of A4/ A5 in stitched files/ 
+
+volumes. 
+ 
+
+ 
+
+6. While on the assignment, the Firm/ Agency will not make or retain any digital copy of the 
+
+documents/ records for any purpose, whatsoever except for submitting the Hard Discs to 
+
+the Client Department, Haryana as per terms of the job. 
+
+
+
+(a state government undertaking/gfj;k.kk ljdkj dk midze½ 
+
+Haryana State Electronics Development Corporation Limited 
+
+gfj;k.kk jkT; bySDVªksfuDl fodkl fuxe fyfeVsM 
+
+ Hartron Technology Park, Plot No 25A, Sector -18(Part), Gurugram, Tel: 0124-, 2347040, 2455540, 0172-2560073 
+Page 20 of 35 
+
+ 
+
+  
+
+7. Firm/Agency will depute one qualified person for Support after the successful completion 
+
+of the job. 
+
+ 
+
+8. The Bidder shall perform the services and carry out its obligations under the Contract with 
+
+due diligence and efficiency, in accordance with generally accepted techniques and 
+
+practice used in the industry and with professional engineering and training/consulting 
+
+standards recognized by national/international professional bodies and shall observe 
+
+sound management, technical and engineering practices. It shall employ appropriate 
+
+advanced technology and safe and effective equipment, machinery, material and methods. 
+
+The Bidder shall always act, in respect of any matter relating to this Contract, as faithful 
+
+advisors to HARTRON and shall, at all times, support and safeguard HARTRON’s legitimate 
+
+interests in any dealings with Third parties.  
+  
+
+9. HARTRON reserves the right to access the performance of the bidder prior to 
+
+commencement or in between the work progress. The assessment may cover all areas 
+
+related to the assigned work order, especially methodology, manpower, infrastructure etc.  
+
+HARTRON reserves the right to cancel the work order assigned to the bidder at any time 
+
+which includes the time after the completion of assigned work without assigning any 
+
+reason for the same.  In case the work order is cancelled then the costs incurred will be 
+
+borne by the bidder and under no circumstances the bidder shall be eligible for any 
+
+payment or damages from the HARTRON. 
+
+ 
+
+10. The selected bidder shall not, without HARTRON’s prior written consent, disclose the 
+
+Contract, or any provision thereof, or any specification, plan, drawing, pattern, sample of 
+
+information furnished by or on behalf of HARTRON in connection therewith, to any person 
+
+other than a person employed by the Bidder in the Performance of the Contract.  
+
+Disclosure to any such employed person shall be made in confidence and shall extend only 
+
+so far as may be necessary for purpose of such performance. 
+
+ 
+
+11. The selected bidder or his employees will not disclose the content of documents given for 
+
+scanning/archiving and the details of HARTRON software, to any person or allow its 
+
+unauthorized use.  The selected bidder should not also disclose the above to any of its 
+
+existing or future clients.  
+
+ 
+
+12. The selected bidder shall indemnify the HARTRON against all third party claims of 
+
+infringement of patent, trademark/copyright or industrial design rights arising from the 
+
+use of the supplied software/ hardware/ manpower etc. and related series or any part 
+
+thereof.  
+
+ 
+
+13. If the selected bidder is not able to fulfill its obligations under the contract, which includes 
+
+non-completion of the work, HARTRON reserves the right to select another bidder to 
+
+
+
+(a state government undertaking/gfj;k.kk ljdkj dk midze½ 
+
+Haryana State Electronics Development Corporation Limited 
+
+gfj;k.kk jkT; bySDVªksfuDl fodkl fuxe fyfeVsM 
+
+ Hartron Technology Park, Plot No 25A, Sector -18(Part), Gurugram, Tel: 0124-, 2347040, 2455540, 0172-2560073 
+Page 21 of 35 
+
+ 
+
+  
+
+accomplish the work.  Any costs, damages etc. resulting out of the same shall have to be 
+
+borne by the selected bidder. 
+
+ 
+
+14. Alternations if any in the tender should be attested properly by the bidder, failing which 
+
+the tender is liable to be rejected. 
+
+ 
+23.  APPLICABLE LAW 
+
+ 
+
+The work order will be governed by the laws and procedures established by Hartron and 
+
+State of Haryana, within the framework of applicable legislation and enactment made from 
+
+time to time concerning such commercial dealings/processing. 
+
+ 
+
+24. Schedule and time line for delivery of the project 
+
+ 
+
+Project has to be completed within timelines. Components for completion of project and 
+
+various milestones is as under from the date of award of contract including testing and 
+
+implementation of the proposed system: 
+  
+
+S 
+
+No 
+
+Milestone Time  
+
+1 Analysis of the Project T+1 week 
+
+2 Submission of Detailed Project Plan T+2 week 
+
+3 
+ 
+
+ 
+
+i) Any suggestions for changes by Department and 
+Sign Off and acceptance by Department.  
+ii)Resubmission after modifications suggested by Department 
+
+and After Modification Sign Off and acceptance by Department 
+
+T+3week  
+ 
+
+4 Preparation of data design and application architecture for the 
+
+system, development of appropriate screen layouts and forms 
+
+for the users, further coordination and collection of any 
+
+required data from MCG, Gurugram. 
+
+T+6 week 
+
+5 Development & finalization of the DMS T+14 week 
+
+6 
+ 
+
+Modification/Updations as per requirement and Implementation 
+such as Hosting on cloud server and Security Audit and also 
+Hosting on the local Server/System and provide training. 
+
+T+16 week 
+ 
+
+T: Start date of Project 
+
+Mid Term Review & Audit and Midterm evaluation may be done to critically review the progress 
+
+of the work and performance of the successful bidder. Hartron, at its discretion may also appoint 
+
+third party for the same. The bidder will have to provide access to all information  that  may  
+
+be  required  by  Hartron/third  party  to  successfully  complete  the review/audit. 
+
+  
+
+
+
+(a state government undertaking/gfj;k.kk ljdkj dk midze½ 
+
+Haryana State Electronics Development Corporation Limited 
+
+gfj;k.kk jkT; bySDVªksfuDl fodkl fuxe fyfeVsM 
+
+ Hartron Technology Park, Plot No 25A, Sector -18(Part), Gurugram, Tel: 0124-, 2347040, 2455540, 0172-2560073 
+Page 22 of 35 
+
+ 
+
+  
+
+Section 2: Bid Requirements 
+ 
+
+1. Offers are invited for on behalf of Haryana State Electronics Dev. Corpn. Ltd., (HARTRON) 
+
+from the reputed Companies/Parties as ‘Associates’ for the Development of Document 
+
+Management System.  
+
+ 
+
+1.1 The Bidder must quote for the complete job as per the Tender Document.  Offer for part 
+
+job shall not be considered and will be rejected without further reference.   
+
+ 
+1.2 The Bid Documents are not transferable and the cost of the tender document is not 
+
+refundable under any circumstances. 
+
+ 
+
+1.3 Telex/E-Mail/Fax bids and incomplete bids will be summarily rejected. 
+ 
+
+1.4 All pages of the Bid being submitted must be signed and sequentially numbered by the 
+
+Bidder. 
+
+ 
+
+2. Contents of Bid 
+ 
+
+The Bids prepared by the Bidder shall comprise of the following two components: 
+ 
+
+ 
+2.1 Technical Bid comprising the following are to be filled as per the formats provided in 
+
+the Tender Document. 
+
+ 
+
+i) Bidder must enclose duly filled and signed Annexure ‘A’. 
+ii) Earnest Money 
+iii) Bidders Particulars (Annexure-T1) 
+iv) Bid Form (Annexure-T2) 
+v) Bidder must also enclose the required documents as defined in Eligibility Criteria 
+
+for Bidders (Clause 14). 
+
+vi) Bidder presentation 
+ 
+
+ 
+2.2 Commercial Bid  
+
+ 
+
+2.2.1 Commercial Bid for Development of Document Management System Job 
+(Annexure-C1). 
+
+ 
+The Technical and Commercial Bid must be sealed in separate envelop and then both the 
+
+bids should be put in envelop mentioning “Bid for Development of Document Management 
+
+System”. 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+
+
+(a state government undertaking/gfj;k.kk ljdkj dk midze½ 
+
+Haryana State Electronics Development Corporation Limited 
+
+gfj;k.kk jkT; bySDVªksfuDl fodkl fuxe fyfeVsM 
+
+ Hartron Technology Park, Plot No 25A, Sector -18(Part), Gurugram, Tel: 0124-, 2347040, 2455540, 0172-2560073 
+Page 23 of 35 
+
+ 
+
+  
+
+ 
+
+BUSINESS DETAIL              (Annexure-‘A’) 
+ 
+1. Name of the Bidder:____________________________________ 
+ 
+
+2. Incorporation as Sole Proprietor/Partnership/Private Limited or 
+
+Limited Firm: _____________________________ in the year 
+
+__________ at ___________ 
+ 
+
+3. Whether any Legal/Arbitration/proceeding is instituted the Bidder or the 
+
+Bidder has lodged any claim in connection with works carried out by them.  
+
+If yes, please give details. 
+ 
+
+4. Whether the bidder complies with the requirement of Registration under 
+
+the Contract Labour (Regulation and Abolition) Act  : Yes/No 
+
+5.    Bidder’s Profile:  
+ 
+
+Address :  
+ 
+ 
+
+Name of 
+Premises/Building/Village 
+
+:  
+
+Area/Locality/Taluka/sub-
+Division 
+
+:  
+
+Town/City/District :  
+
+State/Union Territory :  
+
+Name of the top executive 
+with designation 
+
+:  
+
+Telephone No’s. :  
+
+E-mail address :  
+
+GST No. :  
+
+PAN No./TIN No. of the 
+Company (Please attach 
+photocopy)  
+
+:  
+
+
+
+(a state government undertaking/gfj;k.kk ljdkj dk midze½ 
+
+Haryana State Electronics Development Corporation Limited 
+
+gfj;k.kk jkT; bySDVªksfuDl fodkl fuxe fyfeVsM 
+
+ Hartron Technology Park, Plot No 25A, Sector -18(Part), Gurugram, Tel: 0124-, 2347040, 2455540, 0172-2560073 
+Page 24 of 35 
+
+ 
+
+  
+
+6. List of minimum four Development of software System for government 
+departments– furnish detail of such projects in each of the last three years: 
+ 
+
+S. 
+No. 
+
+Year 
+
+Name of the 
+client with 
+
+address and 
+phone no. 
+
+Software 
+Developed 
+
+(Brief 
+Detail) 
+
+Project 
+Start 
+Date 
+
+Project 
+Completion 
+
+Date 
+
+1.      
+
+2.      
+
+3.      
+
+4.      
+
+5.      
+
+6.      
+
+7.      
+
+ 
+7. EMD details:   
+
+Particulars 
+Amount 
+
+(Rs.) 
+Draft No. Date Bank Branch 
+
+EMD      
+
+ 
+
+Documents in support of the above may be furnished with page numbers indicated 
+in the index. Please use separate sheets wherever necessary. 
+ 
+8. Checklist for Technical bid evaluation 
+
+S# Clause Documents Required 
+
+1.  The Bidder’s turnover for last three financial years 
+from IT software services and bidder’s profitability 
+
+statement. 
+
+Audited Balance sheets / Turnover 
+certificate from CA 
+
+2.  The Bidder's experience of development of 
+customized software development projects in the 
+State of Haryana 
+
+Work orders or successful 
+completion certificates 
+
+3.  The Bidder's experience of development of 
+customized software projects of Central / State or 
+PSU units of value more than Rs 20 lac 
+
+Work orders or successful 
+completion certificates 
+
+4.  Local address and manpower capacity of the 
+bidder 
+
+Relevant address proof and self 
+declaration for manpower 
+
+ 
+                                
+
+
+
+(a state government undertaking/gfj;k.kk ljdkj dk midze½ 
+
+Haryana State Electronics Development Corporation Limited 
+
+gfj;k.kk jkT; bySDVªksfuDl fodkl fuxe fyfeVsM 
+
+ Hartron Technology Park, Plot No 25A, Sector -18(Part), Gurugram, Tel: 0124-, 2347040, 2455540, 0172-2560073 
+Page 25 of 35 
+
+ 
+
+  
+
+9.  Any other details: 
+
+ 
+ 
+
+ 
+
+  
+
+ 
+   
+
+ 
+
+ ___________________________________________ 
+ 
+ ____________________________________________________ 
+ 
+ 
+ 
+Date:                                                                 Signature of Tenderer 
+    
+
+Name :___________________________________________ 
+ 
+   Status/ Designation :___________________________ 
+        
+       (Seal)    
+Note : Furnish separate profiles, if desired. 
+
+ 
+ 
+
+********** 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+(a state government undertaking/gfj;k.kk ljdkj dk midze½ 
+
+Haryana State Electronics Development Corporation Limited 
+
+gfj;k.kk jkT; bySDVªksfuDl fodkl fuxe fyfeVsM 
+
+ Hartron Technology Park, Plot No 25A, Sector -18(Part), Gurugram, Tel: 0124-, 2347040, 2455540, 0172-2560073 
+Page 26 of 35 
+
+ 
+
+  
+
+(Enclose with Technical Bid) 
+ 
+
+     Annexure – T1 
+ 
+
+ 
+BIDDERS PARTICULARS 
+
+ 
+BIDDERS SHOULD FURNISH ANSWERS TO ALL THE QUESTIONS BELOW. 
+ 
+BIDDERS MAY PLEASAE NOTE THAT IF THE ANSWER SO FURNISHED ARE NOT 
+CLEAR AND/OR ARE EVASIVE, THE ENTRY WILL BE LIABLE TO BE IGNORED. 
+ 
+ 
+
+1. Tender No. HARTRON/DS/01/2017-18 
+ 
+2. What is your permanent  
+
+Income Tax A/C No.   :_____________________ 
+ 
+
+3. GST & PAN NO.    :_____________________ 
+ 
+
+4. Please indicate Name &  
+full address of your Banker  :_____________________ 
+
+ 
+       ______________________ 
+ 
+5. Business name and Constitution of the firm. 
+ 
+
+Is the firm registered under:- 
+ 
+(a) The Indian Companies Act, 1956 (b) The India Partnership Act, 
+
+1932 (Please also give name of partners) (c) Any act, if not who 
+are the owners.  (Please give full names and address). 
+
+ 
+6. State whether required Computer related Hardware and 
+
+manpower is held for the execution of the job. 
+ 
+7. For Partnership firms state whether they are registered or not 
+
+registered under Indian Partnership Act, 1932.  Should the 
+answer to this question by a Partnership firm be in the 
+affirmative, please state further:- 
+
+ 
+(a) Whether by the Partnership agreement, authority to refer disputes 
+
+concerning the business of the partnership to arbitration has been 
+conferred on the partner who has signed the tender. 
+
+(b) If the answer to (a) is in the negative, whether there is any general 
+power of attorney executed by all the partners of the firm 
+authorizing the partners who signed the tender to refer dispute 
+concerning business of the partnership to arbitration. 
+
+
+
+(a state government undertaking/gfj;k.kk ljdkj dk midze½ 
+
+Haryana State Electronics Development Corporation Limited 
+
+gfj;k.kk jkT; bySDVªksfuDl fodkl fuxe fyfeVsM 
+
+ Hartron Technology Park, Plot No 25A, Sector -18(Part), Gurugram, Tel: 0124-, 2347040, 2455540, 0172-2560073 
+Page 27 of 35 
+
+ 
+
+  
+
+(c) If the answer to either (a) or (b) is in the affirmative furnish a copy 
+of either the partnership agreement or the general power of 
+attorney as the case may be. 
+
+N.B.: 
+ 
+
+(1) Please attach to the tender a copy of either document on which 
+reliance is placed for authority of partners or the partners signing 
+the tender to refer disputes to arbitration.  The copy should be 
+attested by a Notary Public or its execution should be admitted by 
+Affidavit on a properly stamped paper by all the partners. 
+
+ 
+(2) Where authority to refer disputes to arbitration has not been given 
+
+to the partners signing the tender the tenders must be signed by 
+every partner of the firm. 
+
+ 
+8. Mention specifically that whether the price tendered by you is to 
+
+the best of your knowledge and belief, not more than the price 
+usually charged by you for the job of the same nature.  If not 
+state the reasons thereof, if any, also indicate the margins of 
+difference. 
+
+ 
+9. Please confirm that you have read all the instructions carefully 
+
+and have complied with accordingly. 
+ 
+ 
+ 
+Signature of Witness:     Signature of Tenderer 
+Full name & address of 
+Witness in Block letters   
+
+ 
+ 
+(1) Full name and address of the persons 
+
+       Signing (In BLOCK letters) 
+     (2) Whether signing as Proprietor/Partner 
+      Constituted Attorney/duly authorized 
+         by the Company. 
+Date:          (seal) 
+Place: 
+ 
+ 
+ 
+ 
+ 
+ 
+                                       
+
+
+
+(a state government undertaking/gfj;k.kk ljdkj dk midze½ 
+
+Haryana State Electronics Development Corporation Limited 
+
+gfj;k.kk jkT; bySDVªksfuDl fodkl fuxe fyfeVsM 
+
+ Hartron Technology Park, Plot No 25A, Sector -18(Part), Gurugram, Tel: 0124-, 2347040, 2455540, 0172-2560073 
+Page 28 of 35 
+
+ 
+
+  
+
+                             (Enclose with Technical Bid)    
+                                                                                                     
+
+Annexure-T2 
+ 
+
+BID FORM 
+        
+
+Date:___/___/___ 
+ 
+
+Managing Director 
+Haryana State Electronics Dev. Corpn. Ltd.,(HARTRON) 
+Hartron  Technology Park 
+Plot No 25A, Sector -18(Part), 
+Gurugram-122015. 
+
+ 
+Sir, 
+
+Having examined the Bidding Documents of Tender 
+HARTRON/DS/01/2017-18, we, the undersigned, offer for Development of 
+Document Management System in conformity with the said Bidding Documents 
+for same as may be ascertained in accordance with the Schedule of Prices 
+provided in the Commercial Bid from time to time. 
+ 
+
+We undertake, if our bid is accepted, to commence the work immediately 
+as specified in the work order within 01 week calculated from the date of receipt 
+of your Notification of Award.   
+
+ 
+We agree to abide by this bid for a period of one years and it shall remain 
+
+binding upon us and may be accepted at any time before expiration of that 
+period.  Until a formal contract is prepared and executed, this bid, together with 
+your written acceptance thereof and your notification of award, shall constitute a 
+binding Contract between us. 
+
+ 
+We understand that you are not bound to accept the lowest or any bid you 
+
+may receive.  We also understand that you have the right to split the total order 
+among the Bidders. 
+ 
+Dated____________Day of _______________ 2017 _____________ 
+ 
+             
+
+                                                                          Signature & Seal 
+  ________________ 
+
+         (in the Capacity of) 
+ 
+Only Authorized to sign bid for and on behalf of_______________________ 
+
+ 
+ 
+ 
+ 
+
+
+
+(a state government undertaking/gfj;k.kk ljdkj dk midze½ 
+
+Haryana State Electronics Development Corporation Limited 
+
+gfj;k.kk jkT; bySDVªksfuDl fodkl fuxe fyfeVsM 
+
+ Hartron Technology Park, Plot No 25A, Sector -18(Part), Gurugram, Tel: 0124-, 2347040, 2455540, 0172-2560073 
+Page 29 of 35 
+
+ 
+
+  
+
+ 
+ANNEXURE – C1 
+
+ 
+ 
+
+COMMERCIAL BID 
+ 
+
+To 
+ 
+
+Managing Director 
+Haryana State Electronics Dev. Corpn. Ltd.,(HARTRON) 
+Hartron  Technology Park 
+Plot No 25A, Sector -18(Part), 
+Gurugram-122015. 
+ 
+
+Ref: Tender No. HARTRON/DS/01/2017-18 
+ 
+
+Sir, 
+ 
+We declare: 
+ 
+1. We hereby offer the following rates for DEVELOPMENT OF DOCUMENT 
+
+MANAGEMENT SYSTEM for Scanning/tagging of legacy documents of Municipal 
+Corporation. (Taxes Extra, if applicable):- 
+
+ 
+ 
+
+Rate for the development of Document Management System: 
+
+ 
+The bidders are requested to give the rate as under: 
+
+Sr. 
+
+No. 
+
+Description Rate Taxes Amount 
+
+1.* 
+
+ 
+
+ 
+ 
+
+Complete Software-DMS 
+
+development, implementation and 
+
+technical support upto one year. 
+
+ 
+
+ 
+
+  
+
+Rates for Technical Support after one year 
+
+(on yearly basis) may also be provided. 
+
+   
+
+Man month rates for Handling Change 
+
+requests for following profiles 
+
+ Project Manager/Team lead 
+
+ Developer 
+
+ Designer 
+
+ Tester 
+
+ Business Analyst 
+
+ 
+
+   
+
+ 
+*L1 will be calculated on the basis of rates mentioned at S.No.1 above. 
+
+  
+
+2. We hereby certify that we have read and understood the terms and conditions of 
+the tender and the conditions of the Contract applicable to the tender and we do 
+hereby undertake to supply as per these terms and conditions.  
+
+ 
+
+
+
+(a state government undertaking/gfj;k.kk ljdkj dk midze½ 
+
+Haryana State Electronics Development Corporation Limited 
+
+gfj;k.kk jkT; bySDVªksfuDl fodkl fuxe fyfeVsM 
+
+ Hartron Technology Park, Plot No 25A, Sector -18(Part), Gurugram, Tel: 0124-, 2347040, 2455540, 0172-2560073 
+Page 30 of 35 
+
+ 
+
+  
+
+3. Certified that the Bidder is: 
+ 
+
+A sole proprietorship firm and the person signing the tender is the sole 
+proprietor/constituted attorney of the sole proprietor. 
+
+Or 
+a partnership firm, and the person signing the tender is a partner of the firm and 
+he has authority to refer to arbitration disputes concerning the business of the 
+partnership by virtue of the partnership agreement/by virtue of general power of 
+attorney. 
+ 
+ 
+
+Or 
+a company and the person signing the tender is the constituted attorney. 
+ 
+
+NOTE: Delete whatever is not applicable.  All corrections/deletions should invariably be duly 
+
+attested by the person authorized to sign the tender document. 
+
+  
+4. We do hereby undertake that until a formal Contract is prepared and executed, 
+
+this bid, together with your written acceptance thereof and placement of letter of 
+intent awarding the Contract shall constitute a binding Contract between us. 
+ 
+
+5. We agree to abide by all the conditions mentioned in this Tender Document 
+issued by the  Hartron and also the further conditions of the said Tender Notice 
+given in the attached sheets (all the pages of which have been signed by us in 
+token  of  acceptance  of  the  terms  mentioned therein). We understand that 
+HARTRON is not bound to accept the offer and that HARTRON has the right to 
+reject the offer without assigning any reasons whatsoever. 
+
+ 
+Dated: this _________________ day of ___________2017 
+
+ 
+ 
+Signature of Bidder 
+
+ 
+
+Details of enclosures: 
+
+ 
+
+Name:_________________________ 
+
+Full address:_____________________ 
+
+_______________________________ 
+
+Telephone No.____________________ 
+
+E-mail:_________________________ 
+
+Fax No.________________________ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+(a state government undertaking/gfj;k.kk ljdkj dk midze½ 
+
+Haryana State Electronics Development Corporation Limited 
+
+gfj;k.kk jkT; bySDVªksfuDl fodkl fuxe fyfeVsM 
+
+ Hartron Technology Park, Plot No 25A, Sector -18(Part), Gurugram, Tel: 0124-, 2347040, 2455540, 0172-2560073 
+Page 31 of 35 
+
+ 
+
+  
+
+ 
+                                                                                                   Annexure – X 
+
+Affidavit 
+
+(On non-judicial stamp paper of Rs. 10/-) 
+
+I, 
+
+________________________________________________________________S/o 
+
+____________________________________________________________________ 
+
+R/o________________________________________________________________on 
+
+behalf of the entity ___________________________________do hereby solemnly 
+
+and declare as under:- 
+
+ 
+
+1. That I hereby confirm that my/our firm/ company M/s 
+
+___________________________________ have not been convicted of any 
+
+non-bail able offence, by any of the courts. 
+
+ 
+2. That I hereby confirm that my /our firm / company M/s 
+
+____________________________ have not been convicted, or reasonably 
+
+suspected of committing or conniving at the commission of any offence 
+
+under any of the laws applicable in the country. 
+
+ 
+3. That I hereby confirm and declare that none of my/ our group/sister 
+
+concern / associate company is participating / submitting this tender. 
+
+ 
+4. That I hereby confirm and declare that my / our firm / company M/s 
+
+___________________ has not been black listed/ de-listed or put on 
+
+holiday by any institutional agencies/ Govt. Deptt./ Public Sector 
+
+Undertaking, in the last Two years. 
+
+ 
+5. That I hereby confirm and declare that my/ our firm / company M/s 
+
+_____________________We have paid all rents, royalties and all public 
+
+demands such as income-tax, sales tax, GST and all other taxes and 
+
+revenues payable to the Government of India or to the Government of 
+
+any State or to any local authority and that at present there are no 
+
+arrears of such rents, royalties, taxes and revenues due and outstanding 
+
+
+
+(a state government undertaking/gfj;k.kk ljdkj dk midze½ 
+
+Haryana State Electronics Development Corporation Limited 
+
+gfj;k.kk jkT; bySDVªksfuDl fodkl fuxe fyfeVsM 
+
+ Hartron Technology Park, Plot No 25A, Sector -18(Part), Gurugram, Tel: 0124-, 2347040, 2455540, 0172-2560073 
+Page 32 of 35 
+
+ 
+
+  
+
+and that no attachments or warrants have been served on us in respect of 
+
+sales-tax, income-tax, GST, Govt. Revenues and other taxes. 
+
+ 
+Place: 
+
+Dated:  
+
+     Deponent                  
+
+ 
+
+Verification: Verified that the above statement of mine is true and 
+
+correct to the best of my knowledge and belief and nothing has been 
+
+concealed therein. 
+
+ 
+
+Deponent 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+(a state government undertaking/gfj;k.kk ljdkj dk midze½ 
+
+Haryana State Electronics Development Corporation Limited 
+
+gfj;k.kk jkT; bySDVªksfuDl fodkl fuxe fyfeVsM 
+
+ Hartron Technology Park, Plot No 25A, Sector -18(Part), Gurugram, Tel: 0124-, 2347040, 2455540, 0172-2560073 
+Page 33 of 35 
+
+ 
+
+  
+
+Annexure-Y 
+
+AFFIDAVIT 
+
+(To be submitted by bidder on non-judicial stamp paper of Rs. 100/-)  
+
+ 
+
+Affidavit of Mr. _______________________________________________________                            
+
+S/o_______________________________________________________________R/o 
+
+_____________________________________________________________________ 
+
+I, the deponent above named do hereby solemnly affirm and declare as under: 
+
+ 
+
+1. That I am the Proprietor/Authorized signatory of M/s 
+
+______________________________ having its Head Office/Regd. Office at 
+
+_________________________________________. 
+
+2. That the information/documents/Experience certificates submitted by 
+
+M/s _____________________________________ along-with the tender for 
+
+__________________(Name of work)___________________ to the 
+
+Corporation are genuine and true and nothing has been concealed. 
+
+3. I shall have no objection in case the Corporation verified them from 
+
+issuing authority (ies). I shall also have no objection in providing the 
+
+original copy of the document(s), in case the Corporation demands so, for 
+
+verification. 
+
+4. I hereby confirm that in case, any document, information & / or 
+
+certificate submitted by me found to be incorrect / false / fabricated, 
+
+the Corporation at its discretion may disqualify / reject / terminate the 
+
+bid/contract and also forfeit the EMD / All dues. 
+
+5. I shall have no objection in case Corporation verifies any or all Bank 
+
+Guarantee(s) under any of the clause(s) of Contract including those issued 
+
+towards EMD and Performance Guarantee from the Zonal Branch / office 
+
+issuing Bank and I/We shall have no right or claim on my submitted EMD 
+
+before the Corporation receives said verification.  
+
+ 
+
+ 
+
+ 
+
+
+
+(a state government undertaking/gfj;k.kk ljdkj dk midze½ 
+
+Haryana State Electronics Development Corporation Limited 
+
+gfj;k.kk jkT; bySDVªksfuDl fodkl fuxe fyfeVsM 
+
+ Hartron Technology Park, Plot No 25A, Sector -18(Part), Gurugram, Tel: 0124-, 2347040, 2455540, 0172-2560073 
+Page 34 of 35 
+
+ 
+
+  
+
+ 
+
+Annexure-Z 
+
+Affidavit 
+
+(On non-judicial stamp paper of Rs.10/-) 
+
+ 
+I, ________________________________________________________________S/o 
+
+____________________________________________________________________ 
+
+R/o________________________________________________________________on 
+
+behalf of the entity ___________________________________do hereby solemnly 
+
+affirm and declare as under: -  
+
+ 
+1. That I hereby confirm that my/our firm/ company M/s 
+
+___________________________________ have not been convicted of any 
+
+non-bail able offence, by any of the courts. 
+
+ 
+2. That I hereby confirm that my /our firm / company M/s 
+
+____________________________ have not been convicted, or reasonably 
+
+suspected of committing or conniving at the commission of any offence 
+
+under any of the laws applicable in the country. 
+
+ 
+3. That I hereby confirm and declare that none of my/ our group/sister 
+
+concern / associate company is participating / submitting this tender. 
+
+ 
+4. That I hereby confirm and declare that my / our firm / company M/s 
+
+___________________ has not been black listed/ de-listed or put on 
+
+holiday by any institutional agencies/ Govt. Deptt./ Public Sector 
+
+Undertaking, in the last Two years. 
+
+ 
+5. That I hereby confirm and declare that my/ our firm / company M/s 
+
+_____________________ has paid all rents, royalties and all public 
+
+demands such as income-tax, sales tax, GST and all other taxes and 
+
+revenues payable to the Government of India or to the Government of 
+
+any State or to any local authority and that at present there are no 
+
+arrears of such rents, royalties, taxes and revenues due and outstanding 
+
+
+
+(a state government undertaking/gfj;k.kk ljdkj dk midze½ 
+
+Haryana State Electronics Development Corporation Limited 
+
+gfj;k.kk jkT; bySDVªksfuDl fodkl fuxe fyfeVsM 
+
+ Hartron Technology Park, Plot No 25A, Sector -18(Part), Gurugram, Tel: 0124-, 2347040, 2455540, 0172-2560073 
+Page 35 of 35 
+
+ 
+
+  
+
+and that no attachments or warrants have been served on us in respect of 
+
+sales-tax, income-tax, GST, Govt. Revenues and other taxes. 
+
+ 
+6. That in the past five years prior to the date of this application, I or any 
+
+principal of the entity has not been deemed to be in default on any 
+
+contract, or have not been forcefully terminated from any contract of 
+
+any Organization. 
+
+ 
+7. That I hereby confirm and declare that my /our firm / company M/s 
+
+_______________________ has not been blacklisted/ debarred by any 
+
+central, state Government department/organization. 
+
+ 
+8. That I hereby confirm and declare that my/our firm / company M/s 
+
+________________________ that there has been no litigation with any 
+
+Government department/ organization on account of similar services. 
+
+ 
+9. That I hereby confirm and declare that my / our firm / company M/s 
+
+_____________________ has not undergone any legal proceedings of 
+
+whatever kind in the past three years. 
+
+ 
+10. I hereby confirm that in case, any document, information & / or 
+
+certificate submitted by me found to be incorrect / false / fabricated, 
+
+the Corporation at its discretion may disqualify / reject / terminate the 
+
+bid/contract and also forfeit the EMD / All dues.  May take any 
+
+appropriate legal action against me. 
+
+ 
+Place: 
+Dated:           
+          Deponent 
+ 
+Verification:  Verified that the above statement of mine is true and correct to 
+the best of my knowledge and belief and nothing has been concealed therein. 
+ 
+Place: 
+Dated:           
+          Deponent  
+
+

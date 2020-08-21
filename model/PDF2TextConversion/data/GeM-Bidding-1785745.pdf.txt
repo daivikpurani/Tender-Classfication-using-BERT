@@ -1,0 +1,860 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/709699
+
+  Dated: 14-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 25-07-2020 14:00:00
+
+Bid Opening Date/Time 25-07-2020 14:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Railways
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Office Of The Principal Chief Material Manager,north
+Eastern Railway, Gorakhpur
+
+Total Quantity 3
+
+Item Category Clinical incubators or infant warmers
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Certificate (Requested in ATC),OEM Authorization
+Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                             1 / 10
+
+
+
+ 
+
+Clinical Incubators Or Infant Warmers ( 3 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Definition and Clinical
+Purpose
+
+Definition Mains electricity (AC-
+powered) mobile
+device that contains an
+infrared (IR) heating
+element(s) designed to
+emit controlled, evenly
+distributed overhead
+heat to the body of a
+newborn/infant patient
+requiring supplemental
+heat. This device is
+equipped with wheels
+so that it can easily be
+moved to different
+areas of a room, ward,
+or department.
+
+*
+
+Clinical purpose
+&Overview of
+functional
+requirements
+
+It is an electrically
+powered device with a
+radiant heating source
+intended to maintain
+the thermal balance of
+an infant by direct
+radiation of energy in
+the infrared region of
+the electromagnetic
+spectrum. It is a
+microprocessor
+controlled unit with
+heater placed on the
+over head panel. This
+work on both servo and
+manual mode options
+to maintain the baby
+temperature at the set
+value. There are two
+modes of operation
+manual and baby
+(servo) mode. It has
+Digital displays reading
+the set and baby
+observed temperatures
+seperately.
+
+*
+
+Technical
+Characteristics (specific
+to this type of device)
+
+facility to display skin
+set, skin observed
+temperature in degree
+
+Yes *
+
+                             2 / 10
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/eCOGGHDzmNqIglumpHoYo1LzrHJqXb2Bmye2amaIdLY
+
+
+ 
+
+C and heat power
+separately
+
+have user friendly
+touch panel control
+
+Yes *
+
+Type of heater: quartz infrared ceramic, quartz
+infrared
+
+Audiovisual alarm
+facility for:
+
+Overheating beyond
+set temperature
+range,Spurt in Heater
+output i.e. more than
+60% heater output for
+10 minutes system
+should raise alarm and
+cutoff heater,Power
+failure,Heater
+failure,Patient
+temperature
+less/Greater than
+required/set
+temperature,Probe
+failure
+
+Overheating beyond
+set temperature range,
+Spurt in Heater output
+i.e. more than 60%
+heater output for 10
+minutes system should
+raise alarm and cutoff
+heater, Power failure,
+Heater failure, Patient
+temperature
+less/Greater than
+required/set
+temperature, Probe
+failure
+
+Warmer head should
+be rotatable in
+different direction,
+so as to allow taking
+X-ray
+
+Yes Yes
+
+Observation light
+Luminance and Colour
+temperature
+
+> = 1000 Lux , Colour
+temperature range
+from 3700K to 5100K
+
+*
+
+Battery back up facility
+for Power failure
+indication during power
+fail
+
+Yes *
+
+desired temperature
+range
+
+25 to 40 degree C *
+
+setable temperature 32
+to 38 deg C
+
+32 to 38 deg C *
+
+temperature resolution
+should be:
+
+<= 0.1 degree C *
+
+Temperature accuracy
+should be
+
+<= 0.2 degree C *
+
+facility to lock the
+keyboard to avoid
+unwanted user
+modification of the set
+parameters
+
+Yes *
+
+should have separate
+Bassinet trolley, bed
+should be tilt-able and
+have suitable provision
+for x-ray cassette
+
+Yes *
+
+                             3 / 10
+
+
+
+ 
+
+holder, Mattress foam
+density should be
+minimum 25 kg/cm3,
+transparent collapsible
+side walls easily
+detachable for cleaning
+
+Should have a Feather
+Touch operation with
+large digital display
+and comprehensive
+alarms, Control Panel
+should be liquid proof
+and allow easy and
+hygienic disinfection
+
+Yes *
+
+Manual Mode can
+adjust Heater Output
+10 -100 %, with 10%
+increment, an auditory
+and visual alarm shall
+be given at least every
+15 min
+
+Yes *
+
+Under manual mode,
+heater cut off / switch
+off , if the maximum
+irradiance at any point
+of the mattress area
+exceeds a total
+irradiance level of 10
+mW/cm2 (between 10
+to 30 minutes)
+
+Yes *
+
+Bed height from Floor - *
+
+Bed Distance from the
+heat source
+
+- *
+
+should have lockable
+castor wheels
+
+Yes *
+
+Green indicator light
+shall be indicate that
+warmer is ready for
+normal use
+
+Yes *
+
+Markings on the
+bassinet and X-Ray
+cassette holder to
+enable proper
+positioning of the baby
+while doing the X-Ray
+
+Yes *
+
+Number of tubing ports
+(edges covered by
+silicon rings) on the
+side walls (For cable
+management)
+
+4 *
+
+Height of the side walls
+over the mattress
+
+1100 *
+
+                             4 / 10
+
+
+
+ 
+
+Provision of X-Ray
+cassette tray of at least
+750 mm X 350 mm
+size, suitable to adopt
+<= 20mm thick X-Ray
+cassette
+
+Yes *
+
+bay bed should be
+crevice free for ease of
+cleaning, infection
+control
+
+Yes *
+
+mattress used should
+be of biocompatible
+material
+
+Yes *
+
+Skin temperature probe
+should be small in size
+[Diameter <= 10 mm &
+Height <= 4 mm] with
+biocompatible Baby
+contact material
+
+Yes *
+
+Mobility, portability On castors (2 of the
+castors should have
+brakes) & Castor size
+>= 4 inch.
+
+*
+
+Settings Settings with facility to
+clearly display the
+selected mode,Option
+of Selecting either
+Manual mode and Baby
+(Servo) mode settings,
+Provision for Set
+temperature range (in
+servo mode) from 32 to
+38 deg C
+
+Yes *
+
+User's interface Manual and Servo
+controlled temperature
+regulation
+
+*
+
+Software and/or
+standard of
+communication(where
+ever required)
+
+LED Display and inbuilt
+software; Interruption
+and restoration of the
+power supply does not
+change the preset
+values
+
+*
+
+Others: 1. Device shall not
+overbalance when
+placed in any transport
+position of normal use
+on a 10° inclined plane
+from the horizontal
+plane. 2. Transformers
+of devcie shall be
+protected against
+overheating in the
+event of short circuit or
+
+*
+
+                             5 / 10
+
+
+
+ 
+
+overload of any output
+winding. 3. Patient
+leakage current should
+be less than 100 μA in
+normal condition 4.
+Temperature on the
+baby mattress should
+not exceed 43 deg C
+when the warmer is
+operating under steady
+temperature condition
+5. Temperature of
+HEATER GUARDS
+should not exceed 85
+°C in normal use. 6.
+The Temperature
+differences on the
+mattress shall not
+exceed 2 °C.
+
+PHYSICAL
+CHARACTERISTICS
+
+Overall Height of
+equipment
+
+1880 *
+
+Overall Width of
+equipment
+
+- *
+
+Overall Length of
+equipment
+
+- *
+
+Overall weight of
+equipment
+
+- *
+
+Heat source
+Configuration
+
+>= 60 degree angle
+adjustment must be
+possible in the heat
+source, it should
+provide shielding to the
+infant in case of
+breakage of
+tubes/bulbs and all
+surfaces to be made of
+corrosion resistant
+material
+
+*
+
+Noise Auditory alarm shall
+have a sound level of
+at least 65 dBA at a
+distance of 3 m from
+the front of the infant
+radiant warmer, and
+the sound level of the
+alarm shall not exceed
+80 dBA on the mattress
+
+*
+
+Heat dissipation Should maintain
+desired set
+temperature and
+uniform heat
+distribution in baby
+cradle
+
+*
+
+                             6 / 10
+
+
+
+ 
+
+ENERGY SOURCE Power Requirements 220 to 240V, 50 Hz AC,
+± 10% of input
+
+*
+
+Battery operated Power failure indication
+during power fail
+
+*
+
+Protection OVP, earth leakage
+protection
+
+*
+
+Power consumption 560 *
+
+Compatible to
+alternate energy
+supply source; Solar
+Heating in addition
+to AC power source):
+
+Yes Yes
+
+Thermal reflector to fix
+the skin probe
+
+>= 50 units to be
+supplied with each
+equipment unit
+
+*
+
+ENVIRONMENTAL AND
+DEPARTMENTAL
+CONSIDERATIONS
+
+Atmosphere /
+Ambiance
+
+Operating condition:
+-Capable of operating
+continuously in
+ambient temperature
+of 0 to 50 deg C and
+relative humidity of 15
+to 90% in ideal
+circumstances. - an
+ambient air velocity is
+less than 0.3 m/s.
+
+*
+
+User's care, Cleaning,
+Disinfection & Sterility
+issues
+
+Complete unit to be
+easily washable and
+sterilizable using both
+alcohol and chlorine
+agents.
+
+*
+
+STANDARDS AND
+SAFETY
+
+Certificates, - *
+
+Performance and safety
+standards (specific to
+the device type); Local
+and/or international
+
+IEC-60601-1-2:2007
+Medical electrical
+equipment Part 1-2:
+General requirements
+for basic safety and
+essential performance -
+Collateral standard:
+Electromagnetic
+compatibility
+-Requirements and
+tests (Or Equivalent
+BIS). Shall neet IEC
+60601 -2- 21: 2009
+Medical Electrical
+Equipment - Part 2¬21:
+Particular Requirement
+for the basic safety and
+essential performance
+of infant radiant
+warmers . should meet
+IEC 60601-1:2005(or
+
+*
+
+                             7 / 10
+
+
+
+ 
+
+latest) standard
+requirements. Baby
+contact material should
+be biocompatible.
+Manufacturer should be
+ISO 13485 certified
+
+Availability of Type
+Test report from any
+Govt/ NABL accredited
+/iLAC approved
+laboratory (To be
+produced by Seller on
+Buyer's demand if
+indicated available)
+
+Yes *
+
+TRAINING AND
+INSTALLATION
+
+Pre-installation
+requirements for the
+equipment
+
+Availability of 5 amp/15
+Amp. Electrical socket
+(2 nos) for each
+warmer at Buyer's
+facility.
+
+*
+
+Documentation
+required to be provided
+by Seller:
+
+User & Operating
+manual,Certificate of
+Calibration, Factory
+inspection report, user
+training manual
+
+*
+
+WARRANTY Warranty Scope Shall be onsite and
+comprehensive i.e. with
+free service and spares
+
+*
+
+Warranty period for
+equipment(Other
+than nickel chrome
+wire filament and
+tube of quartz, that
+shall have lifetime
+warranty)
+
+5 5 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Umesh Maurya 273012,Lalit Narayan Mishra
+Railway Hospital, North
+Eastern Railway, Gorakhpur
+
+3  30
+
+Bid Specific Additional Terms and Conditions
+
+                             8 / 10
+
+
+
+ 
+
+1.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+2.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+3.Bid reserved for Make In India products: Procurement under this bid is reserved for purchase
+from Class 1 local suppliers as defined in public procurement (Preference to Make in India),
+Order 2017 as amended from time to time and its subsequent Orders/Notifications issued by
+concerned Nodal Ministry for specific Goods/Products. The minimum local content to qualify
+as a class 1 local supplier is denoted in the bid document 50%. All bidders must upload a
+certificate from the OEM regarding the percentage of the local content and the details of
+locations at which the local value addition is made along with their bid, failing which the bid
+is liable to be rejected. In case the bid value is more than Rs 10 Crore, the declaration
+relating to percentage of local content shall be certified by the statutory auditor or cost
+auditor, if the OEM is a company and by a practicing cost accountant or a chartered
+accountant for OEMs other than companies as per the Public Procurement (preference to
+Make-in -India) order 2017 dated 04.06.2020 . In case Buyer has selected Purchase
+preference to Micro and Small Enterprises clause in the bid, the same will get precedence
+over this clause.
+
+4.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents
+sought in the Bid document, ATC and Corrigendum if any.
+
+5.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+6.Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid
+documents. Buyers can match and verify the Data Sheet with the product specifications
+offered. In case of any unexplained mismatch of technical parameters, the bid is liable for
+rejection.
+
+7.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+8. ISO 9001: The bidder must have ISO 9001 certification.
+9.Procurement under this bid is reserved for purchase from Micro and Small Enterprises whose
+
+credentials are validated online through Udyog Aadhaar for that product category. If the
+bidder wants to avail the reservation benefit, the bidder must be the manufacturer of the
+offered product in case of bid for supply of goods. Traders are excluded from the purview of
+Public Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the
+bidder must be the Service provider of the offered Service. Relevant documentary evidence
+in this regard shall be uploaded along with the bid in respect of the offered product or
+service.
+
+10.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+11.Successful bidder will have to ensure that adequate number of dedicated technical service
+personals / engineers are designated / deployed for attending to the Service Request in a
+time bound manner and for ensuring Timely Servicing / rectification of defects during
+warranty period, as per Service level agreement indicated in the relevant clause of the bid.
+
+12.The bidder is required to upload, along with the bid, all relevant certificates such as BIS
+licence, type test certificate, approval certificates and other certificates as prescribed in the
+Product Specification given in the bid document.
+
+13.Warranty period of the supplied products shall be 5 years from the date of final acceptance
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+
+                             9 / 10
+
+
+
+ 
+
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                            10 / 10
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

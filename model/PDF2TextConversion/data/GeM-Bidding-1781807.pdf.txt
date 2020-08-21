@@ -1,0 +1,492 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/706103
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 17:00:00
+
+Bid Opening Date/Time 20-07-2020 17:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Madhya Pradesh
+
+Department Name Urban Development And Environment Department
+
+Organisation Name N/a
+
+Office Name Municipal Corporation Katni
+
+Total Quantity 50
+
+Item Category LED Tube for Railway coaches - Retrofitment
+
+Experience Criteria  1 Year (s)
+
+MSE Exemption for Years Of Experience  Yes
+
+Startup Exemption for Years Of Experience  Yes
+
+Document required from seller  Experience Criteria,Certificate (Requested in
+ATC),OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  Yes
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+
+                               1 / 6
+
+
+
+ 
+
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+
+LED Tube For Railway Coaches - Retrofitment ( 50 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC Technical requirements
+for Energy effiecient
+LED Tube for
+retrofitment in railway
+passenger coahces
+
+as per ICF/ELEC/960
+dt.4.12.17 issued by
+O/o CDE/Elec. ICF,
+Chennai-38
+
+*
+
+Specification seen and
+understood
+
+Yes *
+
+Type of Tube Type A - 9W (max,) - 2
+feet
+
+Type A - 9W (max,) - 2
+feet
+
+Operating voltage
+range available as
+input
+
+90 to 170 V AC 90 to 170 V AC
+
+Supply voltage
+(Nominal)
+
+110 V AC/DC 110 V AC/DC
+
+The over voltage trip
+shall be set between
+
+200 V to 205 V AC
+(RMS)/DC
+
+*
+
+As soon as voltge
+comes below 200 V AC
+(RMS)/DC , the tube
+shall switch on
+automotically
+
+Yes *
+
+The driver shall be separate unit design separate unit design
+
+Ingress protcton as
+per IEC:60529 latest
+
+IP65 for external driver IP65 for external driver
+
+Construction as per Cl 5.0 of
+ICF/ELEC/960
+dt.4.12.17
+
+*
+
+Total harmonic
+distortion (THD) shall
+be
+
+</= 10 % *
+
+The Power factor of
+LED tube shall be
+
+>/= 0.9 *
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/PvSLQncfcdl5QCaBE8VG0jtiA0PJMcH80FsEunKPXkk
+
+
+ 
+
+LED driving current <80% of absolute
+maximum forward
+current
+
+*
+
+LED Controller ( Driver
+) Internal or External
+shall be EMI/EMC
+compliant
+
+Yes *
+
+The working life of LED
+Tube shall be
+
+>/=40,000 hours *
+
+Suitable for continuous
+operation of
+
+24 hrs/day *
+
+LED Junction
+temperature shall be
+
+<85 deg. C *
+
+Colour Temperature of
+white colour LED
+
+5700 K - 6500 K *
+
+Average Illumination
+level of tube (in LUX)
+
+90 for Type-A 90 for Type-A
+
+Beam angle / View
+angle (typical)
+
+>/= 120 Degree *
+
+Adequate heat sink
+with proper thermal
+management shall be
+provided
+
+Yes *
+
+SERVICE CONDITION Maximum ambient air
+temperature (in deg C)
+
+55 *
+
+Minimum ambient air
+temperature (in deg C)
+
+-5 *
+
+Max Relative humidity 98% *
+
+Atmosphere Extremely
+dusty and desert
+weather and desert
+terrain in certain areas
+The dust contents in air
+may reach as high
+values as
+
+1.6 mg/m3 *
+
+The equipment shall be
+designed to work in
+coastal area in humid,
+salt laden and
+corrosive atmosphere
+
+Yes *
+
+The altitude (above sea
+level) - in meter
+
+<1200 m *
+
+Annual rainfall with
+thunder storm
+
+1750 to 6250 mm *
+
+Max pH value 8.5 *
+
+Sulphate 7 mg/iitre *
+
+Max concentration of
+chlorine
+
+6 mg/litre *
+
+                               3 / 6
+
+
+
+ 
+
+Max Conductivity 130 micro sec/cm *
+
+WARRANTY/CERTIFICAT
+ION
+
+Replacement
+guarantee from the
+date of commissioning
+
+60 Months *
+
+Replacement
+guarantee from date of
+supply
+
+66 Months *
+
+Seller shall furnish LM
+80 & TM 21 report to
+buyer on demand for
+Lumen maintenance
+and lift test
+
+Yes *
+
+LED used shall be
+(Certificate shall
+furnish to the buyer on
+demand)
+
+UL certified with UL
+Number
+
+*
+
+Type test, Acceptance
+test and Routine test
+
+as per Cl.7.4 of
+ICF/ELEC/960 specn.,
+dt.4.12.17 issued by
+O/o CDE/Elec. ICF,
+Chennai-38
+
+*
+
+Availability of type test
+reports from any
+Central Govt laboratory
+/ ILAC approved
+laboratory / NABL
+aproved laboratory
+Type test reports shall
+be furnished as and
+when requested to do
+so by Purchaser,Indent
+or,Consignee etc, Test
+reports as per Specn
+No ICF/ELEC/960
+dt-4-12-17 issued by
+O/o CDE/Elec ICF,
+Chennai-38
+
+Yes *
+
+Test Report Number - *
+
+Test Report Date - *
+
+Name of testing lab - *
+
+Address of testing lab - *
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+                               4 / 6
+
+
+
+ 
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Sudhir Mishra 483501,MAHARANI LAXMI
+BAI WARD, , KATNI
+
+50  15
+
+Bid Specific Additional Terms and Conditions
+
+1.OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be
+ordered up to 25 percent at the time of placement of contract. The purchaser also reserves
+the right to increase the ordered quantity by up to 25% of the contracted quantity during the
+currency of the contract at the contracted rates. Bidders are bound to accept the orders
+accordingly.
+
+2.Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have
+regularly, manufactured and supplied same or similar Category Products to any Central /
+State Govt Organization / PSU / Public Listed Company for 1 year before the bid opening
+date. Copies of relevant contracts to be submitted along with bid in support of having
+supplied some quantity during each of the year. In case of bunch bids, the primary product
+having highest value should meet this criterion.
+
+3.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+4.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+5.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+6.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+7. ISO 9001: The bidder must have ISO 9001 certification.
+8.Material Test Certificate Should Be Sent Along with The Supply. The Material Will Be Checked
+
+by Buyer’s Lab & the Results of the Lab will be the Sole Criteria for Acceptance of the Item.
+9.The bidder is required to upload, along with the bid, all relevant certificates such as BIS
+
+licence, type test certificate, approval certificates and other certificates as prescribed in the
+Product Specification given in the bid document.
+
+10.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 5 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+11.Warranty period of the supplied products shall be 1 years from the date of final acceptance
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+
+                               5 / 6
+
+
+
+ 
+
+Centres near consignee destinations are to be uploaded along with the bid
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

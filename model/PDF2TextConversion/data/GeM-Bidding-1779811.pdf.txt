@@ -1,0 +1,404 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/704300
+
+  Dated: 09-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 17:00:00
+
+Bid Opening Date/Time 20-07-2020 17:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Petroleum And Natural Gas
+
+Department Name Corporate It
+
+Organisation Name Balmer Lawrie & Co Ltd
+
+Office Name East
+
+Total Quantity 1
+
+Item Category portable single operated rectifier type dc arc welding
+set suitable for manual arc welding process
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+                               1 / 5
+
+
+
+ 
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+
+Portable Single Operated Rectifier Type Dc Arc Welding Set Suitable For
+Manual Arc Welding Process ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Welding set
+conforming to
+IS:4559/1993 with
+latest amendments
+
+Yes Yes
+
+Capacitor
+conforming to
+IS:13340/2012
+
+Yes Yes
+
+BIS Marked No Yes, No
+
+If BIS marked provide
+CML No otherwise PUT
+NA
+
+- *
+
+Performance
+Parameters
+
+Type of welding set Rectifier inverter
+based(IGTB) double
+bridge type
+
+Rectifier inverter
+based(IGTB) double
+bridge type
+
+Type of electrode - *
+
+Rating of Capacitor to
+improve power factor
+
+- *
+
+Type of power
+supply
+
+Single phase Single phase
+
+Rated input voltage 240V,single Phase 240V,single Phase
+
+Current rating for
+rectifier type power
+source in ampere
+
+200 200.0
+
+Maximum
+Continuous
+Automatic Current in
+ampere
+
+250 250.0
+
+Maximum
+Continuous Hand
+Welding Current in
+
+250 250.0
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/0uPlZ-i_I0UsDlzXtumnm_cSO74TyIKrb9HYKaJb3y0
+
+
+ 
+
+Amp
+
+Open-Circuit Voltage
+in Volts
+
+90 90.0
+
+Min Welding load
+voltage (at min
+welding current) in
+Volts
+
+24 24.0
+
+Max Welding load
+Voltage(at max
+welding current) in
+Volts
+
+48 48.0
+
+Maximum
+continuous welding
+current at 100% duty
+cycle(Amp @ duty
+cycle)
+
+200 200.0
+
+Maximum
+continuous welding
+current at 60% duty
+cycle(Amp @ duty
+cycle)
+
+250 250.0
+
+Trolley mount for
+rectifier type(May
+select NA in case of
+IGTB type welding set)
+
+NA *
+
+Type of welding current
+regulator
+
+Step less Type *
+
+Type of insulation level Class F *
+
+Type of cooling like
+natural air cool,force
+air cool etc
+
+- *
+
+Warranty in Years 1 1
+
+Dimensional and
+Material Parameters
+
+Dimension of
+electrode in mm
+
+4 4.0
+
+Overall Dimensions of
+Machine(L x D x H)
+(mm x mm x mm)
+
+- *
+
+Weight of Machine in
+Kg
+
+8 *
+
+Material of Wheel Cast Iron Wheel *
+
+Additional Parameters Type of wheel Bi-directional *
+
+Overload protection on
+DC and AC side
+
+Yes *
+
+Provision of Earthing Yes *
+
+Installation and
+Demonstration
+
+Yes *
+
+Machine shall be Yes *
+
+                               3 / 5
+
+
+
+ 
+
+provided with safety
+features to protect
+operator from possible
+injuries
+
+Operating and
+Instruction Manual
+provided with machine
+
+Yes *
+
+Reports Availability of Type
+Test Report from
+Central Govt
+/NABL/ILAC Accredited
+lab
+
+Yes *
+
+Test report no - *
+
+Test report date - *
+
+Name of Lab - *
+
+Address of Lab - *
+
+Type of Tests report to
+be furnished to the
+buyer demand at the
+time of supplies
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Subhadip
+Chattaraj
+
+700088,P-3/1, Transport
+Depot Road , Kolkata
+-700088, West Bengal
+
+1  15
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+2.The bidder is required to upload, along with the bid, all relevant certificates such as BIS
+licence, type test certificate, approval certificates and other certificates as prescribed in the
+Product Specification given in the bid document.
+
+3.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+4.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+                               4 / 5
+
+
+
+ 
+
+5.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

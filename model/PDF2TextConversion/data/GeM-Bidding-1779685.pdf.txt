@@ -1,0 +1,556 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/704182
+
+  Dated: 09-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 14-07-2020 14:00:00
+
+Bid Opening Date/Time 14-07-2020 14:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 80 (Days)
+
+Ministry/State Name Ministry Of Tourism
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name India Tourism Development Corporate Limited
+
+Total Quantity 1
+
+Item Category Portable Ventilator
+
+Bidder Turnover (Last 3 Years)  2 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  14 Lakh (s)
+
+Experience Criteria  1 Year (s)
+
+MSE Exemption for Years Of Experience and
+Turnover
+
+ Yes
+
+Startup Exemption for Years Of Experience
+and Turnover
+
+ Yes
+
+Document required from seller  Experience Criteria,OEM Authorization
+Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  Yes
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+                               1 / 6
+
+
+
+ 
+
+ Bid splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+
+Portable Ventilator ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards UMDNS Code 18-098 *
+
+Certifications for the
+product
+
+- *
+
+Certification number
+and date
+
+- *
+
+Confirmity to quality
+management standards
+
+ISO 9001 & ISO 13485 *
+
+Confirmity to electrical
+safety standards
+
+IEC 60601-1 or ISO
+80601-2-12 or BIS
+equivalent
+
+*
+
+Vibration resistance
+certification
+
+EN 794-3 EN 794-3
+
+Aviation Standards: Should have
+airworthiness as per
+RTCA DO-160D aviation
+standards
+
+Should have
+airworthiness as per
+RTCA DO-160D aviation
+standards
+
+Performance
+Parameters
+
+Scope of item Portable transport
+ventilators are defined
+as mechanical
+ventilators that are
+specifically designed to
+facilitate intrahospital
+
+*
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/w9K5iHsRp8kjXnBPuIF2LGBbYNYwjRQDx4ySWmiHc2o
+
+
+ 
+
+and/or interfacility
+transport of ventilated
+patients. These devices
+are relatively small and
+lightweight, and can be
+hand-carried if
+necessary during
+transport. Transport
+ventilators may provide
+basic or advanced
+modes of ventilation for
+neonatal, pediatric,
+and/or adult patients
+
+Clinical application Portable transport
+ventilators are
+designed to take the
+place of manual
+ventilation or "bagging"
+during emergency or
+transport situations
+
+*
+
+Patient type Adult & pediatric Adult & pediatric
+
+Tidal volume in ml 50 ml or less - 1500 ml
+or more
+
+50 ml or less - 1500 ml
+or more
+
+Respiration rate,
+breaths/min
+
+Upto 80 *
+
+Trigger mechanism Pressure or flow *
+
+FiO2 % 21-100 *
+
+Inspiratory flow rate,
+L/min
+
+Upto 120 *
+
+Inspiratory pressure,
+cm H2O
+
+Upto 50 *
+
+IE ratio 1:3 to 1:1 1:3 to 1:1
+
+PEEP/CPAP, cm H2O 0-20 *
+
+Pressure support, cm
+H2O
+
+Upto 35 or more *
+
+Panel lock Yes *
+
+Operating modes Assist/control modes A/C volume breaths
+and A/C pressure
+breaths
+
+*
+
+SIMV modes SIMV volume breaths ,
+SIMV pressure breaths,
+Spontaneous/CPAP
+mode , CPAP pressure
+support , Non-invasive
+ventilation , Apnea-
+backup vent mode
+
+*
+
+Monitored/ Displayed
+Parameters
+
+Peak inspiratory
+pressure, Mean airway
+pressure, PEEP
+
+*
+
+                               3 / 6
+
+
+
+ 
+
+pressure, Tidal volume,
+Minute volume, FiO2,
+Respiratory rate,
+Inspiratory time,
+Expiratory time, IE ratio
+
+Patient Alarms Low/high FiO2,
+Low/high minute
+volume , Low
+inspiratory pressure ,
+High pressure, Low
+PEEP , High PEEP ,
+Apnea, Continuous high
+pressure/occlusion,
+Inverse IE, High
+respiratory rate,
+Breathing circuit
+disconnect
+
+*
+
+Equipment Alarms Gas-supply failure ,
+Power failure, Vent
+inoperative, Low
+battery, Self-diagnostic
+
+*
+
+Type of display LED LED
+
+Size of display in inches 8 *
+
+Patient Transport
+Capability
+
+Mounting of the
+equipment
+
+Rail mounted Rail mounted
+
+Rail mount or trolley
+mount should be of the
+same OEM
+
+Yes *
+
+Hand carrying during
+transport
+
+Yes *
+
+MRI compatibility of
+equipment
+
+No Yes, No
+
+Magnetic field
+strength , T
+
+NA for non MRI
+compatible
+
+NA for non MRI
+compatible
+
+Guass line restriction in
+G (in case of non MRI
+compatible put NA)
+
+- *
+
+Built in air source Turbine Turbine
+
+Should work with External high pressure
+source/cylinders and
+low flow Oxygen supply
+
+*
+
+Power source Mains and battery
+operated
+
+Mains and battery
+operated
+
+Battery type Li-ion *
+
+Should be able to
+work with car /
+ambulance battery
+
+Yes Yes
+
+Power supply 220-240 V , 50 Hz AV
+single phase
+
+220-240 V , 50 Hz AV
+single phase
+
+                               4 / 6
+
+
+
+ 
+
+Operating time in
+hrs
+
+More than 5 hrs More than 5 hrs
+
+Weight (including
+battery) in kgs
+
+3.25 *
+
+Warranty in years 3 3
+
+Additional Accessories Reusable silicon
+breathing circuits
+
+1 Adult, 1 pediatric, 1
+neonatal
+
+1 Adult, 1 pediatric, 1
+neonatal
+
+NV mask 1 Adult, 1 pediatric, 1
+neonatal
+
+1 Adult, 1 pediatric, 1
+neonatal
+
+Length of Power cord in
+m
+
+3 m *
+
+Charging adapter to be
+supplied
+
+Yes *
+
+Reports Number of supplies in
+Central /State/PSU Govt
+Hospitals ( Hint: Seller
+should supply a
+performace certificate
+of the device to the
+buyer incase
+demaneded after
+placement of order)
+
+<3 *
+
+OEM/Reseller ( if
+supplied by reseller
+shall ensure
+uninterputed availabilty
+of all spares for 10
+years)
+
+Yes *
+
+Availability of toll free
+facility for technical
+support maintened by
+OEM or authorized
+agencies
+
+Yes *
+
+User/Technical/Mainten
+ance manuals to be
+supplied in English in
+hard and soft copy
+
+Yes *
+
+Demonstration of
+equipment and training
+to be provided after
+completing supplies
+before acceptance
+
+Yes *
+
+The Principal
+Manufacturer must
+have direct
+Presence/approved
+service center In India
+
+Yes *
+
+Copies of reports and
+certifications to be
+furnished to buyer on
+
+Yes *
+
+                               5 / 6
+
+
+
+ 
+
+demand at time of
+supplies
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Aamir Khan 470661,Dr. R K Bajaj CMHO
+Chief Medical Officer Distt.
+Damoh Madhya Pradesh -
+470661
+
+1  10
+
+Bid Specific Additional Terms and Conditions
+
+1. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+2.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+3.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+
+Dedicated/toll Free Telephone No. for Service Support.
+4.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+
+Telephone Numbers for Service Support.
+5.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents
+
+sought in the Bid document, ATC and Corrigendum if any.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

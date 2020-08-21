@@ -1,0 +1,396 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/709358
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 11:00:00
+
+Bid Opening Date/Time 27-07-2020 11:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Pmo
+
+Department Name Department Of Atomic Energy
+
+Organisation Name Nuclear Power Corporation Of India Limited
+
+Office Name Kaiga Karnataka
+
+Total Quantity 5
+
+Item Category Pulse Oximeter
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+MSE Purchase Preference
+
+MSE Purchase Preference Yes
+
+ 
+
+1. Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to MSEs as defined in
+Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued by Ministry of
+Micro, Small and Medium Enterprises and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder
+wants to avail the Purchase preference, the bidder must be the manufacturer of the offered product in case of bid for
+supply of goods. Traders are excluded from the purview of Public Procurement Policy for Micro and Small Enterprises. In
+respect of bid for Services, the bidder must be the Service provider of the offered Service. Relevant documentary
+evidence in this regard shall be uploaded along with the bid in respect of the offered product or service. If L-1 is not an
+MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of purchase preference /price band defined in
+relevant policy, such Seller shall be given opportunity to match L-1 price and contract will be awarded for percentage of
+25% of total value.
+
+                               1 / 4
+
+
+
+ 
+
+Pulse Oximeter ( 5 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Conformity to Standards - *
+
+Certification number and
+date
+
+- *
+
+"Electrical safety conforms
+to standards for electrical
+safety"
+
+IEC-60601-1 or equivalent
+BIS
+
+*
+
+Performance Parameters Type of Pulse Oximeter FINGER TIP FINGER TIP
+
+Should work during motion
+and very low perfusion
+conditions
+
+Yes *
+
+Special Signal processing
+Technology (Motion
+artifact rejection)
+
+Nellcor Oximax Nellcor Oximax
+
+SPO2 probes Disposable Disposable
+
+Oxygen saturation Range 0-100% *
+
+Pulse rate 25-240 BPM *
+
+Display of SPO2 and PR digital display with bar
+graph
+
+digital display with bar
+graph
+
+Accuracy ± 5 % *
+
+Type of Patient Adult,Pediatric Adult, Pediatric
+
+Should be shock proof Yes Yes
+
+Display (with contrast
+adjust-ability)
+
+TFT TFT
+
+Display should be
+Readable from at least 3
+feet
+
+Yes Yes
+
+Saturation displayed on
+the screen
+
+No No
+
+Pulse Rate displayed on
+the screen
+
+Yes Yes
+
+Perfusion Index
+displayed on the screen
+
+Yes Yes
+
+Status of battery
+charging displayed on
+the screen
+
+Yes Yes
+
+Sensor off /on status Yes Yes
+
+Audible and visual
+Alarms
+
+Yes Yes
+
+Alarm override facility
+should be present
+
+Yes Yes
+
+Trends 48 hrs 48 hrs
+
+Type of trend display Graphical Graphical
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/qPMwZDRj2iVAmlFRcZOJvrmVS-cHS2X-aEG2YnCzVvE
+
+
+ 
+
+Data interval in sec 0 *
+
+Power source Battery operated Battery operated
+
+Automatic switch from
+mains to battery in case
+of power failure
+
+NA NA
+
+RS 232C interface for
+data communication and
+transfer
+
+NA NA
+
+Should have provisions
+for wireless and blue
+tooth connectivity
+
+NA NA
+
+Patient extension cable Not Provided Not Provided
+
+Power consumption in watts 0 *
+
+Operating Temperature "Ambient temperature of 0
+to 40 deg C and relative
+humidity of 15 to 90%"
+
+*
+
+Weight of the machine in kg 15 *
+
+Protective splash proof
+case for clean and
+strogage and safe
+transport provided
+
+No No
+
+Length of power cable NA NA
+
+Noise level in dB 0 *
+
+Display must allow easy
+viewing in all ambient light
+levels
+
+Yes *
+
+Probes Type of probe Adult,Pediatric Adult, Pediatric
+
+Probe usage Disposable Disposable
+
+Number of probes
+provided (Hint: in case
+adult , pediatric and
+neonatal are selected for
+type of probe all the
+three have to be given
+and in case adult &
+pediatric are selected
+both are to be given)
+
+1 each 1 each
+
+NIBP Parameters Non invasive blood
+pressure (NIBP) provided
+
+No No
+
+Type of BP monitoring NA (If NIBP not provided) NA (If NIBP not provided)
+
+NIBP range in mmH NA (If NIBP not provided) NA (If NIBP not provided)
+
+Cuff size NA (If NIBP not provided) NA (If NIBP not provided)
+
+Number of cuff's
+provided
+
+NA (If NIBP not provided) NA (If NIBP not provided)
+
+Warranty in years
+(without probes)
+
+1 1
+
+Warranty for probes in
+years
+
+Not Provided Not Provided
+
+Reports Confirmity to
+Manufactures
+Certification
+
+ISO 9001 & ISO 13485 ISO 9001 & ISO 13485
+
+ISO/ ICMED Certification
+number and date
+
+- *
+
+                               3 / 4
+
+
+
+ 
+
+Copies of all certifcations to
+be furnished to buyer on
+demand at time of supplies
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Praveen Kumar
+Lagudu
+
+581400,Plant Site, Kaiga
+Generating Station, PO: Kaiga
+
+5  15
+
+Bid Specific Additional Terms and Conditions
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2.Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to MSEs as
+
+defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012 dated 23.03.2012
+issued by Ministry of Micro, Small and Medium Enterprises and its subsequent Orders/Notifications issued by
+concerned Ministry. If the bidder wants to avail the Purchase preference, the bidder must be the manufacturer of
+the offered product in case of bid for supply of goods. Traders are excluded from the purview of Public
+Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder must be the Service
+provider of the offered Service. Relevant documentary evidence in this regard shall be uploaded along with the
+bid in respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s) has/have quoted price
+within L-1+ 15% of margin of purchase preference /price band defined in relevant policy, such Seller shall be
+given opportunity to match L-1 price and contract will be awarded for percentage of 25% of total value.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,331 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/703791
+
+  Dated: 09-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 24-07-2020 13:00:00
+
+Bid Opening Date/Time 24-07-2020 13:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Labour And Employment
+
+Department Name Na
+
+Organisation Name Employees Provident Fund Organisation (epfo)
+
+Office Name Regional Office, Visakhapatnam
+
+Total Quantity 15
+
+Item Category thin client computers
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+Estimated Bid Value  350000
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Thin Client Computers ( 15 pieces )
+
+Technical Specifications
+
+                               1 / 4
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Configuration Type Desktop Thin Client Desktop Thin Client
+
+Processor make Intel Intel
+
+Chipset Intel *
+
+Operating system,
+Number of Core &
+Processor Speed
+
+Windows embedded
+Standard 10 or higher
+with browser Quad
+Core, Min 2 Ghz
+
+Windows embedded
+Standard 10 or higher
+with browser Quad
+Core, Min 2 Ghz
+
+Graphics Integrated Integrated
+
+Type of RAM DDR3 *
+
+RAM Size (GB) 4 4, 8, 16 Or higher
+
+Storage (Powered
+Flash) (GB)
+
+16 16, 32, 64, 128, 256,
+512 Or higher
+
+Printer support Local and Network *
+
+Wi-Fi Connectivity NA NA
+
+Display/Monitor Display / Monitor Not Available Not Available
+
+Display Type Discrete in case of
+Desktop Thin Client
+
+Discrete in case of
+Desktop Thin Client
+
+Display Size (Inch) 111 111
+
+Display Resolution
+(Pixels)
+
+- *
+
+Ports USB port 2.0 (Nos) 3 *
+
+USB port 3.0 or higher
+(Nos)
+
+1 *
+
+Serial Port 2 *
+
+Parallel Port 1 *
+
+USB C 0 *
+
+VGA Port 1 *
+
+DVI Port 1 *
+
+Audio Single audio/single
+3.5mm port for Mic in
+and speaker out
+
+*
+
+Display Port 0 *
+
+HDMI 0 *
+
+Networking port Ethernet 10/100/1000 *
+
+Input Output Devices Keyboard Standard With USB
+Interface
+
+*
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/iQVGcOusediUcKVgkdvQvjQDmRZ_NrEJ1hh2LxV-cg0
+
+
+ 
+
+Mouse 2 button scroll optical
+mouse with USB
+interface
+
+*
+
+Certifications BIS Registration under
+CRS of Meity
+
+Yes *
+
+BIS Registration
+Number
+
+- *
+
+Miscellaneous Networking Protocols TCP/IP with DNS and
+DHCP, twisted pair
+(RJ-45), point to point
+protocol (PPP), PPP over
+ethernet (PPPoE), point
+to ponit tunneling
+protocol (PPTP), wake
+on LAN
+
+*
+
+Terminal server
+protocols
+
+Integrated microsoft
+RDP /Citrix ICA./VM
+Ware
+
+*
+
+Operating System &
+Management Software
+
+Windows embedded OS
+with IE 10.0 browser or
+higher enterprise client
+management software
+from the same OEM
+
+*
+
+Additional features DHCP/FTP enabled
+flash upgrade, VNC
+server & txtpad, multi
+user/ single user log on
+support locally.
+
+*
+
+Power Supply (Watts) 45 *
+
+Carry case No *
+
+On Site OEM
+Warranty (Year)
+
+3 3, 5 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Vamsi Mohan
+Vempadapu
+
+530009,EMPLOYEES
+PROVIDENT FUND
+ORGANISATION
+MARRIPALEM VUDA LAYOUT
+
+15  30
+
+Bid Specific Additional Terms and Conditions
+
+                               3 / 4
+
+
+
+ 
+
+1.Without prejudice to Buyer’s right to price adjustment by way of discount or any other right
+or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a
+written notice to the Seller, if:
+i) The Seller fails to comply with any material term of the Contract.
+ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within
+the stipulated Delivery Period or such inability otherwise becomes apparent.
+iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery
+Period and/or to replace/rectify any rejected or defective Material(s) promptly.
+iv) The Seller becomes bankrupt or goes into liquidation.
+v) The Seller makes a general assignment for the benefit of creditors.
+vi) A receiver is appointed for any substantial property owned by the Seller.
+vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has
+placed the Purchase Order on the Seller.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

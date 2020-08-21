@@ -1,0 +1,497 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/713830
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 19:00:00
+
+Bid Opening Date/Time 27-07-2020 19:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Maharashtra
+
+Department Name Information Technology Department Maharashtra
+
+Organisation Name Maharashtra Information Technology Corporation Ltd
+
+Office Name Mumbai
+
+Total Quantity 2
+
+Item Category Firewall - NGFW ( PAC Only ) 
+
+Bidder Turnover (Last 3 Years)  25 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  200 Lakh (s)
+
+Experience Criteria  1 Year (s)
+
+MSE Exemption for Years Of Experience and
+Turnover
+
+ Yes
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Document required from seller  Experience Criteria,OEM Authorization Certificate,OEM Annual
+Turnover
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the
+buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+Estimated Bid Value  5000000
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 0.50
+
+EMD Amount 25000
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 2.00
+
+Duration of ePBG required (Months). 36
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant
+
+                               1 / 5
+
+
+
+ 
+
+category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for
+Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+Administrator
+Mumbai, Information Technology Department Maharashtra, Maharashtra Information technology Corporation Ltd,
+(Johnson Elis Correia)
+
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM {themselves or
+through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central
+/ State Govt Organization / PSU / Public Listed Company for number of years as indicated in the bid document before the
+bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some
+quantity during each of the year. In case of bunch bids, the category of primary product having highest value should
+meet this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product during the
+last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document.
+Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the
+Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with
+the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for this criteria.
+
+Firewall - NGFW ( 2 pieces ) ( Under PAC ) 
+
+Make paloaltonetworks
+
+Model pa3220
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Specification Type NGFW NGFW Or higher
+
+Form Factor (RU) 2 2
+
+Features Layer 3 - Layer
+4,NAT,VPN,Application
+Visibility and Control
+(AVC),User Identity,Next
+Generation Intrusion
+Prevention System
+(IPS),Zero Day Protection /
+Advance Malware
+protection,Web Security
+Essentials / URL Filtering
+
+Layer 3 - Layer 4, NAT, VPN,
+Application Visibility and
+Control (AVC), User Identity,
+Next Generation Intrusion
+Prevention System (IPS),
+Zero Day Protection /
+Advance Malware
+protection, Web Security
+Essentials / URL Filtering
+
+Traffic handled TCP,UDP,HTTP/TCP,TCP/UDP *
+
+Packet Size (KB) 64 *
+
+Throughput with all
+features enabled(Under
+
+2200 2000, 2200, 2300, 3000,
+3500, 4000, 4750, 5000,
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/Vx1IrT2TmSsxg_4ySY3KR_r3e64UKWfkestBKUkAWug
+
+
+ 
+
+Test Condition) (Mbps) 6000, 7000, 8500, 9000,
+10000, 11000, 12000,
+13000, 15000, 19000,
+20000, 22000, 25000,
+26000, 27000, 29000,
+30000, 32000, 34000,
+35000, 39000, 40000,
+42000, 43000, 44000,
+45000, 48000, 50000,
+52000, 54000, 55000,
+60000, 64000, 69000,
+70000, 75000, 80000,
+95000, 120000, 130000,
+132000, 148000, 153000,
+168000, 234000, 260000,
+285000, 570000, 1200000
+Or higher
+
+Throughput (Real
+World/Prod
+Performance)(Under Test
+Condition) (Mbps)
+
+2200 2000, 2200, 2300, 2600,
+3000, 4600, 4700, 4750,
+5000, 6000, 7000, 8500,
+9000, 9216, 10000, 11000,
+12000, 13000, 15000,
+19000, 20000, 21000,
+22000, 23000, 25000,
+26000, 27000, 29000,
+30000, 32000, 33500,
+34000, 35000, 39000,
+40000, 42000, 43000,
+45000, 48000, 50000,
+53000, 54000, 55000,
+60000, 64000, 65000,
+69000, 70000, 75000,
+120000, 130000, 132000,
+135000, 148000, 153000,
+168000, 234000, 260000,
+320000 Or higher
+
+Concurrent
+Session/Concurrent
+Connection
+
+1M 1M, 1.2M, 1.5M, 2M, 3M, 4M,
+5M, 8M, 9M, 10M, 15M, 20M,
+25M, 30M, 32M, 35M,
+39.5M, 40M, 55M, 60M,
+63M, 64M Or higher
+
+New session/Connection
+per second
+
+50K 40K, 50K, 57K, 64K, 68K,
+75K, 84K, 118K, 120K,
+130K, 150K, 160K, 172K,
+175K, 185K, 200K, 250K,
+263K, 265K, 284K, 295K,
+300K, 350K, 380K, 390K,
+450K, 490K, 500K, 800K,
+848K, 850K, 900K, 1.1M,
+1.75M, 3.5M, 7.5M, 225K,
+425K Or higher
+
+Type of Interface Supported
+Multiselect
+
+10G SFP+ *
+
+Number of GE Copper
+interface
+
+12 *
+
+Number of 10G SFP+
+interface
+
+4 *
+
+Number of QSFP+ 40 G
+interface
+
+0 *
+
+Number of GE Small Form-
+Factor Pluggable (SFP)
+interface
+
+8 *
+
+Number of QSFP28 100 G 0 *
+
+                               3 / 5
+
+
+
+ 
+
+interface
+
+Number ofcol /WAN Ports 16 *
+
+Number of Ipsec VPN Peers
+supported (Site to Site)
+
+4000 *
+
+Number of Ipsec VPN Peers
+supported (Client to Site)
+
+1000 *
+
+Number of SSL VPN Peers
+supported (Client to Site)
+
+1000 *
+
+Type of Storage Disk SSD *
+
+Storage Capacity (GB) 240 *
+
+Power Supplies Dual Dual *
+
+Hot Swappable Power
+Supply
+
+Yes *
+
+Redundant Fan Yes *
+
+Hot Swappable (Redundant
+Fan)
+
+Yes *
+
+Type of Processor x86 *
+
+High Availability Support Yes *
+
+If Yes, High Availability
+from day 1
+
+active-active active-active Or higher
+
+Interface Expansion slots
+supprted
+
+0 *
+
+Firewall Policies - License Yes *
+
+Details of the Firewall
+Policies for the Firewall
+provided with the License
+
+Web Security Essentials /
+URL Filtering,IPS
+License,Application Visibility
+License,APT (Advance
+Persistant Threat) License
+(Anti Malware Protection ,
+C& C attacks, Geo IP
+Protection, Zero Day Threat
+Protection),Gateway Anti
+virus,Gateway Anti spam
+
+*
+
+NGIPS Sigature supported 10000 *
+
+Security Intelligence IP,URL,Domain,Passively
+detect End Point,IOC
+Intelligence
+
+*
+
+Certification Common Criteria
+/NDPP/NSS/ICSALabs,NONE
+
+*
+
+Minimum Operating
+Temperature (Degree C)
+
+0 *
+
+Maximum Operating
+Temperature (Degree C)
+
+50 *
+
+Minimum Operating
+Humidity (%RH)
+
+5 *
+
+Maximum Operating
+Humidity (%RH)
+
+75 *
+
+IPv6 Ready from day 1 Yes *
+
+On Site OEM Warranty
+(Year)
+
+3 3, 5 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+                               4 / 5
+
+
+
+ 
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Arthi Petricia Chettiar 400005,Maharashtra Information
+Technology Corporation LTD, Unit
+10,7th Floor ,Center 1, World
+Trade Center Cuff Parade,
+Colaba,Mumbai
+
+2  30
+
+Bid Specific Additional Terms and Conditions
+1.Without prejudice to Buyer’s right to price adjustment by way of discount or any other right or remedy available
+
+to Buyer, Buyer may terminate the Contract or any part thereof by a written notice to the Seller, if:
+i) The Seller fails to comply with any material term of the Contract.
+ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within the stipulated
+Delivery Period or such inability otherwise becomes apparent.
+iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery Period and/or to
+replace/rectify any rejected or defective Material(s) promptly.
+iv) The Seller becomes bankrupt or goes into liquidation.
+v) The Seller makes a general assignment for the benefit of creditors.
+vi) A receiver is appointed for any substantial property owned by the Seller.
+vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has placed the Purchase
+Order on the Seller.
+
+2.IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered
+office in India to provide after sales service support in India. The certificate to this effect should be submitted.
+
+3.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each
+Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If
+service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one
+within 30 days of award of contract. Payment shall be released only after submission of documentary evidence
+of having Functional Service Centre.
+
+4.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone
+No. for Service Support.
+
+5.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for
+Service Support.
+
+6.Warranty period of the supplied products shall be 3 years from the date of final acceptance of goods or after
+completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee
+location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The
+seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller
+should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service
+group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to
+be uploaded along with the bid
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

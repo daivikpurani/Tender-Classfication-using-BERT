@@ -1,0 +1,424 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/711697
+
+  Dated: 15-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 25-07-2020 17:00:00
+
+Bid Opening Date/Time 25-07-2020 17:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Electronics And Information Technology
+
+Department Name Na
+
+Organisation Name Centre For Development Of Advanced Computing (c-
+dac)
+
+Office Name Mohali - Punjab
+
+Total Quantity 1
+
+Item Category oxygen concentrator
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+Estimated Bid Value  70000
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Oxygen Concentrator ( 1 pieces )
+
+Technical Specifications
+
+                               1 / 5
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Flow Rate Flow Rate
+(Minimum) at 93% +
+- 3% oxygen purity
+(Litres per minute)
+
+5 5
+
+Type Type of Oxygen
+Concentrator
+
+Portable *
+
+Oxygen outlet and
+pressure and tank
+capacity
+
+Oxygen outlet(s) Single or Dual Single or Dual
+
+Outlet pressure (KPa) 75 *
+
+Oxygen Concentration
+monitor available
+
+Yes *
+
+Oxygen tank
+capacity (Ltrs)
+
+5 5.0 - 25.0 Or higher
+
+Power Source and
+Battery
+
+Power Source Electrical Operated Electrical Operated
+
+Average Power
+Consumption (Watt)
+
+500 *
+
+Power Efficiency
+(W/LPM)
+
+- *
+
+Battery duration in
+hours (If Battery
+operated or
+Electrical cum
+Battery operated)
+
+3 3, 6, 9, 12 Or higher
+
+Battery Charging (If
+Battery operated or
+Electrical cum Battery
+operated) (Hrs)
+
+2 *
+
+operating temperature
+humidity and altitude
+
+Operating temperature
+Range
+
+(from 12 degree C to
+32 degree C or better
+for portable type
+
+*
+
+Operating humidity up
+to 95%
+
+Yes *
+
+Operating altitude
+Range up to (in
+meters) above sea
+level
+
+500 500.0 - 10000.0 Or
+higher
+
+Type of Operation Type of operation Continuous Flow Type Continuous Flow Type
+
+Air Delivery Adjustable Air Delivery
+mechanism
+
+Yes *
+
+Continuous flow rate
+(Litre per Minute) up to
+
+5 *
+
+Noise Level Noise Level (dB) Less than 40 db Less than 40 db
+
+Alarms and Alerts Digital Display LED *
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/HvwQHunCulpR8AvtcfrbhJx_iY8Q5sS85b5Sr-Kf6VI
+
+
+ 
+
+Audio Alarm YES *
+
+Visual Alarm YES *
+
+Alert of technical fault YES *
+
+Alert of wrong Battery YES *
+
+Alert of Depleted
+Battery
+
+YES *
+
+Alert of high Breath
+rate
+
+YES *
+
+Alert of low oxygen
+purity
+
+YES *
+
+Alert of No Breath YES *
+
+Alert for No flow YES *
+
+Alert for Low flow YES *
+
+Alert for High flow YES *
+
+Alert of Low Pressure YES *
+
+Alert of High Pressure YES *
+
+Alert of High
+temperature
+
+YES *
+
+Alert for Power failure YES *
+
+Alert for service
+requirement
+
+YES *
+
+Weight and Dimensions Weight (Kg) 20 Less than 20.0 Or lower
+
+Dimension (height)
+(mm)
+
+452 *
+
+Dimensions (Length)
+(mm)
+
+350 *
+
+Dimensions (Width)
+(mm)
+
+521 *
+
+Flame Retardancy Flame Retardant Yes Yes
+
+Warranty Manufacturer
+warranty Period
+(Years)
+
+1 1, 2, 3 Or higher
+
+Spare part availability YES *
+
+standards and
+certifications
+
+Comply with
+International
+Standards
+
+Yes Yes
+
+Name of International
+standards
+
+- *
+
+FDA approved Yes *
+
+Conformity to ISO
+80601-2-69:2014 of the
+Medical Electrical
+Equipment &ndash;
+
+Yes *
+
+                               3 / 5
+
+
+
+ 
+
+Part 2-69: Particular
+requirements for basic
+safety and essential
+performance of oxygen
+concentrator
+equipment
+
+Availability of test
+report CE or EC
+certification (to be
+furnished by Seller to
+Buyer on demand) in
+accordance with
+Appendix II(excluding
+section 4) of medical
+device directive
+93/42/EC &amp; its
+amendment or
+equivalent
+
+Yes *
+
+Availability of Test
+Report(To be furnished
+by Seller to Buyer on
+demand) from Central
+Govt /NABL/ILAC
+accredited lab to prove
+conformity to
+specification
+
+No *
+
+Test report number and
+date
+
+- *
+
+Name and address of
+the Lab
+
+- *
+
+specification Continious flow
+setting
+
+1 LPM 1 LPM
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Daljit Singh Jolly 160071,C-DAC , A-34, Phase
+VIII, Industrial Area, Mohali
+
+1  15
+
+Bid Specific Additional Terms and Conditions
+
+1. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+
+                               4 / 5
+
+
+
+ 
+
+to this effect should be submitted.
+2.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+
+Commissioning of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

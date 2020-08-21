@@ -1,0 +1,581 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/708710
+
+  Dated: 14-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 24-07-2020 11:00:00
+
+Bid Opening Date/Time 24-07-2020 11:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 80 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence Production
+
+Organisation Name Indian Ordnance Factories
+
+Office Name ***********
+
+Total Quantity 1
+
+Item Category Video Conferencing End Point
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 5.00
+
+Duration of ePBG required (Months). 14
+(a). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+PCA (FYS)
+PCA(FYS), KOLKATA
+(Principal Controller Of Accounts)
+
+Splitting
+
+                               1 / 7
+
+
+
+ 
+
+ Bid splitting not applied.
+
+Video Conferencing End Point ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Specification Type of End Point Point to Point
+upgradable
+
+Point to Point
+upgradable
+
+Does it require
+mandatory registration
+with MCU
+
+NA *
+
+Video Conferencing
+System Resolution
+
+1080p, 60 fps 1080p, 60 fps, 4K, 30
+fps, 4K, 60 fps Or
+higher
+
+Minimum Bandwidth
+Required for Specified
+video quality at End
+point/far-site end
+(Kbps)
+
+1024 *
+
+Type of Camera Non PTZ Non PTZ, PTZ Or higher
+
+Camera Positioning
+System
+
+Automatic Voice
+Activated
+
+Automatic Voice
+Activated, Face
+Detection Or higher
+
+Type of sensor CMOS *
+
+Camera Control
+(focusing, brightness,
+and white balance)
+
+Automatic *
+
+Multiple Camera
+System in case of
+Automatic Voice
+activated
+CameraTracking
+
+Single *
+
+Optical zoom NA 3X, 4X, 5X, 10X, 12X,
+20X, 22X, 30X, 2X, NA
+Or higher
+
+Digital zoom 3X *
+
+Field of View at zoom
+(Degree)
+
+80 *
+
+Pan range Minimum to
+Maximum (+/- Degree)
+
+0 *
+
+Tilt Range (Degree) 0 *
+
+                               2 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/qWQ3qa6HNfEvaWpSn_XZaIUxbJhOpluDTEALgiHhTF8
+
+
+ 
+
+Cord and Connector to
+be supplied
+
+Yes *
+
+System delivers Full HD
+video and voice & Full
+HD content for an
+overall Full HD
+experience at specified
+bandwidth
+
+Yes *
+
+Video coding support
+Protocol
+
+H.264AVC,H.265 *
+
+System has G-722/
+G-711/ G-729 or
+equivalent nt wideband
+audio coding support
+
+Yes *
+
+System supports
+sharing of video and
+graphics content
+during the video call
+
+1080p, 30fps 1080p, 30fps, 1080p,
+60fps, 4k, 30fps, 4k,
+60fps Or higher
+
+It is possible to see
+both the near and far
+site on one Screen thus
+making most efficient
+use of a single display
+area
+
+Yes *
+
+System is equipped
+with one or more Omni
+directional High
+Definition Microphones
+as required to cover
+large conference room
+
+Yes *
+
+Number of microphone
+supported
+
+2 *
+
+Number of
+microphone supplied
+
+1 1, 2, 3, 4, 5, 6, 7, 8 Or
+higher
+
+Number of camera
+support from the same
+OEM
+
+1 *
+
+Number of Ethernet
+connection points for
+System supports for
+RJ-45, 10/100/1000
+Mbps Base-T Ethernet
+connection
+
+1 *
+
+Wi Fi Connectivity Yes Yes Or higher
+
+If Yes, Type of Wi Fi
+Connectivity
+
+Integrated Integrated Or higher
+
+System supports AES
+encryption video calls;
+System has Encryption
+On and Off capability
+
+Yes *
+
+                               3 / 7
+
+
+
+ 
+
+Video Codec shall
+support 16:9 format
+
+Yes *
+
+Power supply: 230 + or
+- 10% volts, 50 Hz
+
+Yes *
+
+Shall come with easy to
+use infra-red hand held
+remote control / Touch
+Panel with operating
+distance
+
+Yes *
+
+All equipment are in
+compliance with the
+requirements of ITU-T
+(SIP Protocol & H Dot
+323) Standard related
+to Video Conferencing
+
+Yes *
+
+System to be IPv6
+ready from day one
+
+Yes *
+
+System uses standards
+based protocols & the
+offered system is inter
+operable with any
+existing H-323
+AVC/SVC based VC
+equipment in a P to P
+call on VC end point; All
+H/W and S/W required
+to make it
+interoperable is
+included in the scope of
+supply
+
+Yes *
+
+Number of Input DVI
+Ports
+
+0 *
+
+Number of Input HDMI
+or equivalent Ports
+
+1 *
+
+Number of Input USB
+Ports
+
+0 *
+
+Number of Output DVI
+Port
+
+0 *
+
+Number of Output
+HDMI or equivalent Port
+
+2 *
+
+Number of output USB
+Port
+
+0 *
+
+Calendering Feature No *
+
+Recording @1080p
+on the end point
+
+No Yes, No Or higher
+
+System supplied
+complete with the
+following components
+from the same OEM (a)
+Codec (b) Camera (c)
+
+Yes *
+
+                               4 / 7
+
+
+
+ 
+
+At least one
+Microphones with
+suitable connectivity
+(d) Remote
+Control/Touch Panel (e)
+Data sharing capability
+using H/W or S/W (f)
+Necessary Cables
+
+Type of Microphone Integrated *
+
+System is also
+tropicalized and report
+available from
+ILAC/NABL/Govt Lab
+with all add on
+including
+Environmental
+Sequence
+
+No *
+
+(a) Dry Heat- For 16 hrs
+at 55 deg C as per IS:9
+000/pt-3/sec-5/1977(b)
+Cold-For 4 hrs at 0 deg
+C as per
+IS:9000/pt-2/sec-4/197
+7 (c) Damp Heat- For 2
+Cycles of 24 h each at
+40 deg C & 95% RH as
+per IS:9000/pt-
+5/sec-1/1991 (All
+Reaffirmed 2007)
+
+No *
+
+After each
+environmental test and
+a recovery period of
+two hours, the video
+conferencing system
+has been checked for
+complete functional
+parameters, and the
+results found
+satisfactory
+
+No *
+
+Type Test Report from
+ILAC/NABL/Govt lab
+confirming
+conformance to above
+technical specifications
+- to be made available
+to buyer
+
+No *
+
+BIS Registration under
+CRS of Meity
+
+Yes *
+
+BIS Registration
+Number and its Validity
+
+- *
+
+UL/CE certification Yes *
+
+If Yes, UL/CE certificate
+Number
+
+- *
+
+                               5 / 7
+
+
+
+ 
+
+(Corresponding UL/CE
+Certificate to be
+furnished when
+demanded by the
+buyer)
+
+Minimum Operating
+temperature (Degree
+C)
+
+0 *
+
+Maximum Operating
+Temperature (Degree
+C)
+
+40 *
+
+Minimum Operating
+humidity (%RH)
+
+10 *
+
+Maximum Operating
+humidity (%RH)
+
+90 *
+
+Free installation and
+commissioning
+
+Yes *
+
+On Site OEM
+Warranty (Year)
+
+1 1, 3, 5 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********DEHRADUN 1  60
+
+Bid Specific Additional Terms and Conditions
+
+1.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+2.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+3.Warranty period of the supplied products shall be 1 years from the date of final acceptance
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+
+                               6 / 7
+
+
+
+ 
+
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

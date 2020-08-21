@@ -1,0 +1,304 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   RA Number: GEM/2020/RA/44730
+
+  Dated: 08-07-2020
+
+  
+
+RA Document
+RA Details
+
+RA Technical End Date/Time 20-07-2020 14:00:00
+
+RA Opening Date/Time 20-07-2020 14:30:00
+
+RA Life Cycle (From Publish Date) 90 (Days)
+
+RA Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence Reseach & Development
+
+Organisation Name Aeronautical Development Agency
+
+Office Name ***********
+
+Total Quantity 3
+
+Item Category Layer 2 Access Switch
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+
+Splitting
+
+ RA splitting not applied.
+
+Layer 2 Access Switch ( 3 pieces ) ( Under PAC ) 
+
+Make cisco
+
+                               1 / 4
+
+
+
+ 
+
+Model l2a-cisco-ws-3850-24p-s-5y
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Specification Type of Switch Managed Managed
+
+Technology PoE+ PoE+
+
+Number of 1G
+Copper Ports
+
+24 24
+
+Number of 10G
+Copper Ports
+
+0 0
+
+No. of 1 G SFP Port
+(Uplink)
+
+4 4
+
+No. of 10 G SFP+
+Port (Uplink)
+
+0 0
+
+Multi-Gigabit
+Support
+
+No No
+
+Redundant Power
+supply ( from day
+one)
+
+Supported & Part of
+Supply
+
+Supported & Part of
+Supply
+
+Console Port Available *
+
+Switching Capacity
+-Non Blocking (Gbps)
+
+92 *
+
+Throughput (MPPS) 68.4 *
+
+Operating System available *
+
+Dedicated Stacking
+Port/Slot ( from day
+one)
+
+available *
+
+Stacking Bandwidth
+(Gbps)
+
+480 *
+
+Basic Layer-3 Protocol StaticRouting,RIPng,EIG
+RPstub,OSPF routed
+Access,PBR
+
+*
+
+Security Feature PBR,Port-based
+ACLs,Port
+security,Dynamic ARP
+inspection, IP source
+guard
+
+*
+
+Management Protocol GUI, CLI, Telnet, TFTP,
+SNMPv1, SNMPv2/v2c,
+SNMPv3, NTP, RMON,
+SSHv2
+
+*
+
+QoS 802.1p,Eight queues *
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/PV5kTiUVR02OruTcOKekRSLnmCq3ry7_IdKKEvqUoLI
+
+
+ 
+
+per port,CAR,
+WRED/WTD,Shaping,
+policing/rate limiting,
+Strict Priority queueing
+
+Operating Temperature
+Range (Degree C)
+
+-5 to 45 C *
+
+Operating Humidity
+(RH)(%)
+
+10 to 95% *
+
+IPv6 Ready from day
+one and dully certified
+
+Yes *
+
+PoE Power Budget (
+Watt )
+
+435 *
+
+on Site OEM
+Warranty
+
+5 5
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignee/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********BANGALORE 3  30 N/A
+
+Bid Specific Additional Terms and Conditions
+
+1.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+2.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+3.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+4.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+5.The buyer organization is an institution eligible for concessional rates of GST as notified by
+
+the Government of India. The goods for which bids have been invited fall under classification
+of GST concession and the conditions for eligibility of concession are met by the institution.
+A certificate to this effect will be issued by Buyer to the Seller after award of the Contract.
+Sellers are requested to submit their bids after accounting for the Concessional rate of GST.
+Applicable Concessional rate of GST : 5%
+Notification No.and date : 45 or 47/2017 dated 14/11/2017
+
+This RA is also governed by the General Terms and Conditions
+
+---Thank You---
+
+                               3 / 4
+
+https://gem.gov.in/termsCondition
+
+
+ 
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+http://www.tcpdf.org
+

@@ -1,0 +1,380 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/700574
+
+  Dated: 07-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 17-07-2020 13:00:00
+
+Bid Opening Date/Time 17-07-2020 13:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 80 (Days)
+
+Ministry/State Name Ministry Of Human Resource Development
+
+Department Name Department Of Higher Education
+
+Organisation Name Tezpur University
+
+Office Name Tezpur
+
+Total Quantity 1
+
+Item Category Digital Storage Oscilloscope
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Digital Storage Oscilloscope ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+                               1 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/XjtlN9iEIFvBtYJV_kFwqsJT6Y9bWEpqcNgbP5tqKZo
+
+
+ 
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+INPUT CHANNELS Type of input
+channels
+
+Analog Analog
+
+Number of Analog
+Channels
+
+2 2
+
+Record Length Per
+Analog Channel
+Simultaneously
+
+1M points 1M points
+
+Sampling Rate Per
+Analog Channel
+Simultaneously
+
+1 GS/sec 1 GS/sec
+
+Digital Channels no no
+
+Number of Digital
+Channels
+
+NA NA
+
+Record Length Per
+Digital Channel
+Simultaneously
+
+NA NA
+
+Sampling Rate Per
+Digital Channel
+Simultaneously
+
+NA 2GS/sec, NA
+
+PERFORMANCE
+FEATURES
+
+Bandwidth 100 100.0
+
+Bandwidth
+Upgradability
+
+no no
+
+Operating System Non -Windows Non -Windows
+
+DISPLAY Display Type colour TFT colour TFT
+
+Minimum Display
+Size
+
+7 7.0
+
+MEASUREMENTS
+FEATURES
+
+Vertical Sensitivity 500μV/Div to 10 V/div *
+
+Vertical Resolution 8 *
+
+Frequency Analysis
+Feature
+
+no *
+
+In-built Frequency
+Counter
+
+yes *
+
+In-built Function
+Generator
+
+no *
+
+Time Base Range - *
+
+Time Base Accuracy 50 50.0
+
+GENERIC Minimum Detectable
+Pulse Width
+
+10 *
+
+Memory Upgradability no *
+
+Segmented Memory
+Feature Availability
+
+yes *
+
+Waveform Update Rate 50000 *
+
+                               2 / 4
+
+
+
+ 
+
+(Waveform/sec)
+
+Coupling AC,DC,GND *
+
+Trigger Types Edge,pulse width,video,
+pattern/state,External
+
+*
+
+Measurements Math function-Add,
+subtract, multiply,
+divide,Automatic
+Measurements of
+Amplitude and time,FFT
+(phase),low-pass
+filter,Time & Voltage
+cursors,FFT
+(magnitude)
+
+*
+
+Acquisition Modes Normal,Peak
+Detect,Averaging,High
+Resolution
+
+*
+
+I/O Interface USB *
+
+Power Source 230 V AC *
+
+Any other features,if
+applicable
+
+- *
+
+ACCESSORIES Standard Accessories
+to be supplied
+
+- *
+
+OPERATING CONDITION Minimum Operating
+Temperature
+
+0 *
+
+Maximum Operating
+Temperature
+
+50 *
+
+Operating Humidity
+(RH)
+
+95 *
+
+SERVICE Warranty 3 3, 4, 5 Or higher
+
+TEST REPORT DETAILS
+& TESTS
+
+conformity to Dry Heat
+for 16 hrs at specified
+maximum temp , in
+accordance with IS:900
+0/part-3/section-5/1977
+latest
+
+yes *
+
+conformity to Damp
+Heat (Cyclic)Test for 2
+Cycles of 24 h each at
+a temp of 40 degree C
+& 95% RH in
+accordance with IS:900
+0/part-5/section-1/
+1991 latest
+
+yes *
+
+conformity to Cold Test
+for 4 hrs at specified
+minimum temp in
+accordance with IS:900
+0/part-2/section-4/1977
+latest
+
+yes *
+
+                               3 / 4
+
+
+
+ 
+
+Availability of Test
+Reports from Central
+Govt / NABL
+approved / ILAC
+acredited lab to
+prove conformity to
+the specification
+
+yes yes
+
+Test Report Number
+and date for
+specification(not a part
+of biddable parameter)
+
+- *
+
+Name and Address of
+the Test lab(not a part
+of biddable parameter)
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Upakul Sarmah 784028,Post Office -
+Napaam
+
+1  45
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

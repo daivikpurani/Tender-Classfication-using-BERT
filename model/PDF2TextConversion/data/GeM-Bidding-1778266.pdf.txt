@@ -1,0 +1,367 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/702884
+
+  Dated: 08-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 16:00:00
+
+Bid Opening Date/Time 20-07-2020 16:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Ministry Of Railways
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Stores Ncr Hq
+
+Total Quantity 25
+
+Item Category battery chargers
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Certificate (Requested in ATC)
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 4
+
+
+
+ 
+
+Battery Chargers ( 25 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Ungrouped
+
+GENERIC Charger technology SMPS Based SMPS Based
+
+Compatibility with
+battery type (User
+Selectable)
+
+Lead acid &amp;
+Tubular &amp;VRLA-
+SMF
+
+Lead acid &amp;
+Tubular &amp;VRLA-
+SMF
+
+Number of
+Independent
+charging stations (in
+numbers)
+
+1 1
+
+CONSTRUCTIONAL Input Voltage Range
+(VAC)
+
+160 volt 270 volt (ISI
+MARKED POWER CORD
+TO BE PROVIDED)
+
+*
+
+AC surge protection AC surge protection at
+Input side with MOV
+(Metal Oxide Varistor)
+
+*
+
+Soft start and Soft stop
+feature without inrush
+current
+
+Yes *
+
+Facility for charging
+deep discharged
+battery through pulse
+charging.
+
+yes *
+
+Not to charge battery
+in case one or more
+cells are internally
+short/ Battery voltage
+less than 10.5V
+
+Yes *
+
+Digital display of
+output voltage and
+current
+
+Yes *
+
+LED Indication for
+Charging Status,
+Charged condition
+status and reverse
+polarity
+
+Yes *
+
+Cabinet Material CRCA Sheet *
+
+Cabinet Thickness
+(mm)
+
+minimum 1.2 mm *
+
+Length of Charging
+Cable for each station.
+(metre)
+
+Minimum 1.5 mtrs.
+Length (ISI MARKED
+Cable)
+
+*
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/qHS10fUb6VJH1pMN4V5zwILvxMGMCA35WShwtNKLcdg
+
+
+ 
+
+Size of Charging Cable
+for each station. (sq.
+mm)
+
+min. 6 sq.mm as per
+IS:694 ISI MARKED
+FLEXIBLE Cu cable per
+station
+
+*
+
+FUNCTIONAL Battery/battery bank
+Voltage (Volts)
+
+12 Volts per station *
+
+Capacity of the battery
+to be charged(User
+Selectable) (AH)
+
+7 aH TO 120 aH *
+
+Maximum Charger
+output current (Amp)
+
+12 Ampere per station *
+
+Charging Cut-off
+Voltage per 12V
+battery (Volts)
+
+14.5 volt +/-0.2 volt *
+
+Efficiency (%) > / = 75% *
+
+Ripple (Peak to Peak at
+Full Load) (millivolts)
+
+<100 *
+
+Reverse Polarity
+Protection
+
+Yes *
+
+Short Circuit Protection Yes *
+
+Over Current Protection Yes *
+
+Over voltage cutoff
+protection
+
+Over voltage protection
+at 280 volt at input and
+automatic recovery at
+270 volt when the
+voltage is reduced from
+280 volt
+
+*
+
+Cut-in voltage for
+charging a discharged
+battery (Volts)
+
+Cut-in voltage shall be
+10.5 Volt
+
+*
+
+Cut-off voltage for
+charging a discharged
+battery (Volts)
+
+Cut-off voltage shall be
+14.5 V + / - 0.2 Volt
+
+*
+
+Minimum operating
+temperature (Degree
+Celsius)
+
+-10 *
+
+Maximum operating
+temperature (Degree
+Celsius)
+
++55 *
+
+CERTIFICATIONS Availability of Type
+Test Report from
+Central Government
+/NABL/ILAC Accredited
+lab To prove conformity
+to the specification
+
+Yes *
+
+Type Test report No. - *
+
+Test report date - *
+
+                               3 / 4
+
+
+
+ 
+
+Name of Lab - *
+
+Address of Lab - *
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Rajesh Kumar 284001,SSE/Tele/BL/JHS
+Near DRM office North
+Central Railway Jhansi
+
+25  15
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,535 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/701668
+
+  Dated: 08-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 23-07-2020 19:00:00
+
+Bid Opening Date/Time 23-07-2020 19:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Uttar Pradesh
+
+Department Name Energy Department Uttar Pradesh
+
+Organisation Name Uttar Pradesh Power Corporation Limited (uppcl)
+
+Office Name Shakti Bhawan
+
+Total Quantity 2
+
+Item Category Email security software / appliances transaction
+security and virus protection software
+
+Bidder Turnover (Last 3 Years)  30 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  395 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  80 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 2.00
+
+EMD Amount 198481
+
+                               1 / 6
+
+
+
+ 
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 10.00
+
+Duration of ePBG required (Months). 36
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+Accounts Officer
+Central Payment Cell, Uttar Pradesh Power Corporation Limited (UPPCL) , Lucknow
+(Accounts Officer Central Payment Cell)
+
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 80% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Email Security Software / Appliances Transaction Security And Virus
+Protection Software ( 2 pieces )
+
+                               2 / 6
+
+
+
+ 
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+BASIC INFORMATION
+OF E-MAIL SECURITY
+SOFTWARE (GOLDEN)
+
+Category Appliance Appliance
+
+Software Type/
+Domain
+
+Secure Mail Gateway Secure Mail Gateway
+
+Type of license Subscription Subscription
+
+Name of Software - *
+
+OEM Model / Part No. - *
+
+Software Description - *
+
+Software Version - *
+
+Date of Launch of
+Version
+
+- *
+
+FEATURES &
+FUNCTIONALITY
+PARAMETERS
+(GOLDEN)
+
+E-Mail
+Authentication
+Technology
+Supported
+
+Sender Policy
+Framework (SPF)
+
+Sender Policy
+Framework (SPF)
+
+Digital signature
+feature
+
+Yes Yes
+
+Encryption feature Yes Yes
+
+Data Leakage
+Protection / Data
+Loss Prevention
+capability
+
+Yes Yes
+
+Sandboxing
+capability
+
+Yes Yes
+
+Threat Intelligence
+capability
+
+Yes Yes
+
+E-Mail
+Authentication
+capability
+
+Yes Yes
+
+Deployment options On-Premises (Client
+Server)
+
+On-Premises (Client
+Server)
+
+Installation and
+Demonstration
+
+Yes Yes
+
+No. of days Training
+Provided at Site
+(Days)
+
+0 0
+
+Number of Years
+upto which Support
+is available from
+OEM / Franchise
+online (Years)
+
+3 3
+
+                               3 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/HM98Bh51XGIyVEqAIOpMcIFZ9CdfamBvdH24Xcqzr_s
+
+
+ 
+
+Maximum user
+handling capability
+(Users)
+
+Above 10000 Above 10000
+
+FEATURES &
+FUNCTIONALITY
+PARAMETERS
+(GENERIC)
+
+Anti-spam feature Yes *
+
+Anti-malware feature Yes *
+
+Anti-phishing feature Yes *
+
+Anti-Ransomware
+feature
+
+Yes *
+
+Anti-Bulk mail feature No *
+
+Content filtering
+feature
+
+Yes *
+
+SUPPORTED
+HARDWARE
+REQUIREMENT
+PARAMETERS
+
+Hard Disk Space
+Required
+
+- *
+
+RAM Size required - *
+
+CPU required - *
+
+Other specifications, if
+any
+
+- *
+
+Operating Systems
+supported (Driver)
+
+- *
+
+Supported Devices - *
+
+Supported Servers - *
+
+Min Processor bench
+mark score required
+
+- *
+
+GENERIC PARAMETERS
+OF E-MAIL SECURITY
+SOFTWARE
+
+Free Upgradation to
+Higher Version
+within support
+period
+
+YES YES
+
+Concurrent user
+handling capability
+
+- *
+
+Valid Licence copy to
+be provided
+
+YES *
+
+Software supplied
+through
+
+Media & URL Link *
+
+Certifications /
+Benchmarking of
+Software Products
+
+- *
+
+List of items included in
+the package
+
+- *
+
+Hyper link to Data
+sheet
+
+- *
+
+No of Software sold 1500 *
+
+Number of User
+Reference no 1 with in
+Government
+Department email,
+
+2 *
+
+                               4 / 6
+
+
+
+ 
+
+phone no Of concerned
+authority where
+Appliance/ Software
+installed
+
+Details of Government
+Department email,
+phone no Of concerned
+authority where
+Appliance/ Software
+installed for above
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Anshuman Upreti 226001,14 Ashok Marg,
+Shakti Bhawan Lucknow
+
+2  45
+
+Bid Specific Additional Terms and Conditions
+
+1. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+2.Bidders can also submit the EMD with Account Payee Demand Draft in favour of Accounts
+Officer Central Payment Cell UPPCL payable at Lucknow.
+Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure
+delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date.
+
+3.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+4. ISO 9001: The bidder must have ISO 9001 certification.
+5.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+6.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial
+year, should be as indicated in the bid document. Documentary evidence in the form of
+certified Audited Balance Sheets of relevant periods or a certificate from the Chartered
+Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than
+3 year old, the average turnover in respect of the completed financial years after the date of
+constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of
+
+                               5 / 6
+
+
+
+ 
+
+CATEGORY RELATED TO primary product having highest bid value should meet this criterion.
+7.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+
+Telephone Numbers for Service Support.
+8.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+
+Dedicated/toll Free Telephone No. for Service Support.
+9.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+10.Bidders can also submit the EMD with Fixed Deposit Receipt made out or pledged in the
+name of Accounts Officer Central Payment Cell UPPCL Lucknow A/C (Name of the Seller). The
+bank should certify on it that the deposit can be withdrawn only on the demand or with the
+sanction of the pledgee. For release of EMD, the FDR will be released in favour of bidder by
+the Buyer after making endorsement on the back of the FDR duly signed and stamped along
+with covering letter.
+Bidder has to upload scanned copy / proof of the FDR along with bid and has to ensure
+delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date.
+
+11.Bidders can also submit the EMD with Payment online through RTGS / internet banking in
+Beneficiary name Accounts Officer, Central Payment Cell, UPPCL, Lucknow Account No. 
+10101987510 IFSC Code SBIN0003347 Bank Name State Bank of India Branch address 14,
+Ashok Marg, Hazratganj, Lucknow.
+ Bidder to indicate bid number and name of bidding entity in the transaction details field at
+the time of on-line transfer. Bidder has to upload scanned copy / proof of the Online Payment
+Transfer along with bid.
+
+12.Bidders can also submit the EMD with Banker’s Cheque in favour of Accounts Officer Central
+Payment Cell UPPCL  payable at Lucknow.
+Bidder has to upload scanned copy / proof of the BC along with bid and has to ensure
+delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date.
+
+13.Successful Bidder can submit the Performance Security in the form of Account Payee
+Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in
+favour of Accounts Officer Central Payment Cell UPPCL payable at Lucknow. After award of
+contract, Successful Bidder can upload scanned copy of the DD in place of PBG and has to
+ensure delivery of hard copy to the original DD to the Buyer within 15 days of award of
+contract.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

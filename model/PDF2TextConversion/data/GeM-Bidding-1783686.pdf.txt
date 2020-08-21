@@ -1,0 +1,659 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/707844
+
+  Dated: 13-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 23-07-2020 12:00:00
+
+Bid Opening Date/Time 23-07-2020 12:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 80 (Days)
+
+Ministry/State Name Pmo
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Satish Dhawan Space Centre Shar
+
+Total Quantity 5
+
+Item Category Ventilator for Adult & Paediatric Ventilation
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,OEM
+Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  50 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 10.00
+
+Duration of ePBG required (Months). 62
+(a). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+                               1 / 8
+
+
+
+ 
+
+Beneficiary: 
+SR. ACCOUNTS OFFICER, SCF
+GOVT.OF INDIA, DEPARTMENT OF SPACE, SATISH DHAWAN SPACE CENTRE, SRIHARIKOTA -524124
+(Sr.accounts Officer, Scf)
+
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 50% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Ventilator For Adult & Paediatric Ventilation ( 5 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Set 1 Usage: Medical ventilator is
+suitable for adult &
+Paediatric ventilation. It
+is a ventilator/a
+machine designed to
+move breathable air
+into and out of the
+lungs, to provide
+breathing for a patient
+who is physically
+unable to breathe, or
+breathing insufficiently.
+
+*
+
+Ventilation monitoring
+facility:
+
+The Ventillator is a
+Microprocessor
+
+*
+
+                               2 / 8
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/8KQXM2dfOSSoMThXnjELyPb7AsNvtui8dKlQ1_Ue_3k
+
+
+ 
+
+Controlled ventilator
+with integrated facility
+for Ventilation
+monitoring.
+
+Ventilator Features Have Standard hinged
+arm holder for holding
+the circuit:
+
+Yes *
+
+Have Coloured Touch
+screen:
+
+Yes *
+
+Colour Touch screen
+Size (diagonal):
+
+15 15, 17 Or higher
+
+Has facility to measure
+and display 3 waves-
+Pressure and Time,
+Volume and Time and
+Flow and Time, 2 loops
+(P-V, F-V) with facility
+of saving of 2 Loops for
+reference:
+
+Yes *
+
+Has Status indicator for
+Ventilator mode,
+Battery life, patient
+data, alarm settings,
+clock etc:
+
+Yes *
+
+Has Graphic display
+to have automatic
+scaling facility for
+waves:
+
+Yes Yes
+
+Has Trending facility
+of minimum duration
+of:
+
+48 48 Or higher
+
+Facility for automatic
+compliance & Leakage
+compensation for
+circuit available:
+
+Yes *
+
+Ventilator
+Settings/Range
+Parameters
+
+Tidal Volume: 20 ml – 2000 ml 20 ml – 2000 ml
+
+Pressure (insp) : 2 – 90 cm H2O *
+
+Pressure Ramp/Flow
+pattern:
+
+Yes *
+
+Respiratory Rate : 1 to 150 bpm *
+
+I : E Ratio : 5:1 to 1:10 *
+
+CPAP/PEEP : 0 – 50 cm H2O *
+
+Pressure support : 2 – 75 cmH2O *
+
+FIO2 : 21 – 100% 21 – 100%
+
+Pause Time : 0- 2 sec *
+
+Pressure trigger : 0.5 – 15cmH2O *
+
+Flow Trigger : 0.2 – 12 LPM *
+
+                               3 / 8
+
+
+
+ 
+
+Available parameter
+monitoring facility of
+Ventilator
+
+Airway Pressure
+(Peak & plateau)
+
+Yes Yes
+
+Tidal volume
+(Inspired & Expired)
+
+Yes Yes
+
+Minute volume
+(Inspired and
+Expired)
+
+Yes Yes
+
+Spontaneous Minute
+Volume
+
+Yes Yes
+
+Total Frequency Yes Yes
+
+FIO2 dynamic Yes Yes
+
+Use selector Alarms
+for all measured &
+monitored
+parameters
+
+Yes Yes
+
+Intrinsic PEEP and
+PEEPi Volume (or
+trapped Volume)
+
+Yes Yes
+
+Resistance ( Rinsp &
+Rexp)& Compliance (
+Cdyn & Cstat)
+
+Yes Yes
+
+Respiratory
+mechanics:
+
+Yes Yes
+
+Ventilation Modes &
+Other Features
+
+Modes of Ventilation
+available: Volume
+controlled, Pressure
+Controlled, Pressure
+Support, SIMV
+(Pressure Control and
+volume control) with
+pressure support,
+CPAP/PEEP, Inverse
+Ratio Ventilation,Non
+Invasive ventilation,
+Apnea /backup
+ventilation, MMV+PSV /
+ASV (Adaptive Support
+Ventilation) or
+equivalent, APRV /
+bivent /Bi-level / BiPAP
+or equivalent & PRVC
+
+Yes *
+
+Expiratory block is
+autoclavable and no
+routine calibration
+required:
+
+Yes *
+
+Nebuliser with
+capability to deliver
+particle size of 3 to 5
+micron & to be used in
+both Off and On line
+
+Yes *
+
+                               4 / 8
+
+
+
+ 
+
+Apnea /backup
+ventilation with
+Automatic switch over
+from spontaneous to
+back and vica-versa
+
+Yes *
+
+Automatic Patient
+connection and
+disconnection
+Detection facility
+
+Yes *
+
+Non-forced Slow Vital
+Capacity , physiologic
+Dead space, RSBI,
+Imposed work of
+Breathing ( WOBi),
+Expiratory Time
+constant ( Tcexp)
+
+Yes *
+
+Medical Air Compressor Ventilator has Stand-
+alone Medical Air
+compressor snap fit
+with the Ventilator
+module to provide
+an oil free Medical
+air, with Peak output
+flow should be
+minimum 160 LPM
+and Air quality
+complying with ISO
+compressed air
+purity class:
+
+Yes, Medical Ventilator
+has Stand-alone
+Medical Air
+compressor.
+
+Yes, Medical Ventilator
+has Stand-alone
+Medical Air
+compressor. Or higher
+
+Medical Air Compressor
+should automatically
+activate in the event of
+wall air supply loss and
+replacement of internal
+filters should be
+performed without
+removing the
+compressor, have
+washable air filter:
+
+Yes *
+
+Reusable face mask &
+nasal Mask
+
+Reusable face & nasal
+mask shall be with
+textured dual flap
+silicone cushion flap for
+easy fit/Removable
+forehead support and
+pad are to match the
+angle of patient’s
+forehead
+Stability//Provision of
+selector shall be for
+easy fit and angle
+headgear
+attachments//Shall be
+autoclavable
+
+Yes *
+
+                               5 / 8
+
+
+
+ 
+
+Accessories Accessories to be
+supplied with each
+unit of the
+equipment:
+
+Adult & Paediatric
+autoclavable silicone
+breathing circuits: 02
+Each, Reusable Masks
+(Medium, Large) with
+each machine: 02 sets
+each, Reusable and
+autoclavable Flow
+sensor and exhalation
+valve - 2 each,
+Accessories for non
+invasive ventilation: 2
+sets, Humidifier: Servo
+controlled with digital
+monitoring of inspired
+gas temperature
+complete with heating
+wire - 01 no & (Filter
+paper for humidifier for
+100 uses : 01 lot)
+
+Adult & Paediatric
+autoclavable silicone
+breathing circuits: 02
+Each, Reusable Masks
+(Medium, Large) with
+each machine: 02 sets
+each, Reusable and
+autoclavable Flow
+sensor and exhalation
+valve - 2 each,
+Accessories for non
+invasive ventilation: 2
+sets, Humidifier: Servo
+controlled with digital
+monitoring of inspired
+gas temperature
+complete with heating
+wire - 01 no & (Filter
+paper for humidifier for
+100 uses : 01 lot) Or
+higher
+
+Certification &
+Warranty
+
+Whether Ventilator
+unit along with
+medical air
+compressor unit are
+US FDA certified:
+
+No No
+
+Whether Ventilator
+unit along with
+medical air
+compressor unit are
+European CE
+certified:
+
+No No
+
+Manufacturer is ISO
+certified for quality
+standards:
+
+Yes Yes
+
+Equipment meets
+IEC-60601-1-2: General
+Requirements of Safety
+for Electromagnetic
+Compatibility or should
+comply with
+89/366/EEC; EMC-
+directive
+
+Yes *
+
+Warranty Period: 5 5 Or higher
+
+Power Supply Offered Equipment
+works on 220-240V AC
+as well as batteries,
+Mains adaptor to be
+supplied:
+
+Yes *
+
+Whether offered
+Ventilator unit to be
+supplied with
+suitable Servo
+
+No No
+
+                               6 / 8
+
+
+
+ 
+
+controlled Stabilizer/
+CVT (along with
+minimum 30 minutes
+power back up for
+ventilation) :
+
+Resettable over current
+breaker shall be fitted
+for protection of
+equipment:
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Alahari Lakshmi
+Prasunamba
+
+524124,Keepakam, Satish
+Dhawan Space Centre, ISRO
+Sriharikota
+
+5  30
+
+Special terms and conditions for category Ventilator for Adult & Paediatric Ventilation 
+
+1.1. Installation of the equipment shall be done by the Seller at Buyer's facility on turn key
+basis without any additional charges payable for the same. Successful installation of the
+equipment by Seller shall be prerequisite for acceptance of the ordered supplies. \n2.
+Warranty: The equipment shall be under Comprehensive Warranty, for the period specified
+by Seller reckoned from the date of satisfactory installation, commissioning, trial run &
+handing over of equipment to Buyer. The Seller shall ensure 95% up time on 24 (hrs) X 7
+(days) X 365 (days) basis under warranty of complete equipment. In case the down time
+exceed the 5% limit, extension of the warranty period will be twice the excess downtime
+period. Buyer shall also have right to exercise remedies available as per the contract terms
+& conditions to deal with the Seller\u2019s unfulfilled warranty obligations. All software
+updates should be provided free of cost during Warranty period.\n3. Training: On Site
+training to personnel of the Buyer shall be provided by Seller for operation and maintenance
+of the equipment to the satisfaction of the Buyer.
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+2.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+3.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+
+                               7 / 8
+
+
+
+ 
+
+Dedicated/toll Free Telephone No. for Service Support.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               8 / 8
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

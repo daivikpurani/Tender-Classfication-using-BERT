@@ -1,0 +1,661 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/677402
+
+  Dated: 02-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 23-07-2020 15:00:00
+
+Bid Opening Date/Time 23-07-2020 15:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 65 (Days)
+
+Ministry/State Name Ministry Of Coal
+
+Department Name Neyveli Uttar Pradesh Power Limited
+
+Organisation Name Neyveli Uttar Pradesh Power Limited
+
+Office Name Nuppl
+
+Total Quantity 1
+
+Item Category buses
+
+Experience Criteria  1 Year (s)
+
+MSE Exemption for Years Of Experience  Yes
+
+Startup Exemption for Years Of Experience  Yes
+
+Document required from seller  Experience Criteria
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 10.00
+
+Duration of ePBG required (Months). 26
+(a). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+
+                               1 / 8
+
+
+
+ 
+
+NEYVELI UTTAR PRADESH POWER Limited
+Ghatampur Thermal Power Project Administrative Office, Near Lahurimau – Kasimpur Village
+Ghatampur Thesil, Samuhi P.O. – 208 001 Kanpur Nagar Dist., Uttar Pradesh
+(Neyveli Uttar Pradesh Power Limited)
+
+Splitting
+
+ Bid splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+
+Buses ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Generic Parameters Vehicle Seating
+Capacity (Nos.)
+
+40 40.0 - 60.0 Or higher
+
+Type of Fuel Diesel Diesel
+
+Vehicle Emission
+Complaince
+
+BS-VI *
+
+Colour of the Vehicle - *
+
+Vehicle Colour Type Solid Solid
+
+Vehicle Mileage (
+declared by OEM as
+certified by Test
+Agency under Rule
+115of CMVR 1989)
+
+8.49 8.49 - 50.0 Or higher
+
+Top Speed (Kmph) 80 *
+
+Acceleration
+(0-100KmPH) (sec)
+
+18.1 *
+
+Gradeability of Vehicle
+(Degree)
+
+- *
+
+Air Conditioning Without Without
+
+Engine BHP@rpm
+(Hp@rpm)
+
+- 140hp3200rpm
+
+                               2 / 8
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/Atwk9ZcFobPLQXi-H0md7BlTsb-0iXGZoXgSgljmQ98
+
+
+ 
+
+Engine Torque
+Max@rpm (N-
+m@rpm)
+
+- 400nm1200-2500rpm
+
+No. of Cylinder in
+Engine (Nos.)
+
+4 More than 4.0 Or
+higher
+
+Type of Vehicle Body Chassis Frame Chassis Frame
+
+No. of Doors (Nos.) 1 *
+
+Fuel Tank Capacity
+(Ltrs.)
+
+160 *
+
+Length of Vehicle
+Body (mm)
+
+9584 More than 9584.0 Or
+higher
+
+Width of Vehicle
+Body (mm)
+
+2164 More than 2164.0 Or
+higher
+
+Height of Vehicle
+Body (mm)
+
+2960 More than 2960.0 Or
+higher
+
+Ground Clearance
+(mm)
+
+202 More than 202.0 Or
+higher
+
+Wheel Base (mm) 5240 More than 5240.0 Or
+higher
+
+Boot Space
+Availability
+
+No No
+
+Boot Space (if Yes)
+(Ltrs.)
+
+0 *
+
+Kerb Weight (Kg) 6480 6480.0
+
+Gross Vehicle Weight
+(Kg)
+
+9800 *
+
+Size Of Tyre (mm) - *
+
+Size of Wheel (mm) - *
+
+Vehicle Transmission
+System
+
+Manual Manual
+
+No. of Speed/
+Forward Gears
+(Nos.)
+
+6 More than 6.0 Or
+higher
+
+Type of Wheel drive Two Wheel Drive (Rear
+Wheel)
+
+Two Wheel Drive (Rear
+Wheel)
+
+Drive Axle Rear Rear
+
+Type of Steering Power Power
+
+Turning Radius (mm) 9700 Less than 9700.0 Or
+lower
+
+Vehicle Brake ABS
+Fitted
+
+Yes Yes
+
+Front Vehicle Brake Drum Brake *
+
+Rear Vehicle Brake Drum Brake *
+
+Vehicle Air Intake TurboCharged TurboCharged
+
+                               3 / 8
+
+
+
+ 
+
+System
+
+Speed Governor with
+valid certification
+
+Yes *
+
+Performance
+Parameters
+
+Low Fuel warning Light Yes *
+
+Battery Warranty
+(Month)
+
+12 More than 12.0 Or
+higher
+
+Warranty Time
+(Month)
+
+24 More than 24.0 Or
+higher
+
+Unlimited Warranty
+Distance (Km)during
+warranty period
+
+yes yes
+
+Warranty Distance
+(Km) If not Unlimited
+during warranty period
+
+0 *
+
+No. Of Free Service 5 *
+
+Transportation
+Charges including
+transient insurance
+and temporary
+registration (Rs/Km)
+
+- 20
+
+Certification Vehicle Certification
+ARAI/VRDE/ICAT No
+
+- aaon0390
+
+Conformity to GSR
+287(E)
+
+Yes Yes
+
+Constructional
+Parameters
+
+Body Specification - *
+
+Hat type tube diameter 0 *
+
+Hat type tube
+diameter/or other
+frame( thickness)
+
+1.6 *
+
+Base Frame Structure
+ISMC/ for Monocoque
+
+yes *
+
+Exterior Panel
+thickness of side body
+and roof/ for
+Monocoque
+
+1 *
+
+Interior Panel thickness
+of side body and roof/
+for Monocoque
+
+0.55 *
+
+Flooring Made Out from
+ISI Marked 12 mm thick
+BWR grade plywood
+covered with
+vinyle/Aluminium sheet
+
+Yes *
+
+Seating Plan Yes *
+
+Doors Yes *
+
+Glasses Yes *
+
+                               4 / 8
+
+
+
+ 
+
+Top portion of fixed
+glass window & bottom
+portion in two halves in
+sliding pattern
+
+Yes *
+
+Passenger
+Compartment - Roof
+light
+
+Yes *
+
+Over Head Storage
+cabinet/Railing,
+
+Yes *
+
+Hand Rail,Hanging
+Hook,
+
+Yes *
+
+Day and Night View
+Mirror
+
+No *
+
+Fire Extingusher Yes *
+
+BIS marked
+Pneumatic Tyres and
+tubes for both front
+and rear
+
+Yes Yes
+
+Driver Airbag No *
+
+Exhaust Fan No *
+
+Central Locking No *
+
+First Aid Box, Swiveling
+Fan, etc
+
+Yes *
+
+Other fitments:-
+Electric bell and Siren
+
+No *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Sameer Tigga 208001,OFFICE: Ghatampur
+Thermal Power Project Site
+Office, Near Lahurimau –
+Kasimpur Village Ghatampur
+Thesil, Samuhi P.O. – 208
+001 Kanpur Nagar Dist.,
+Uttar Pradesh. (About 70
+Kms from Kanpur City) https
+://goo.gl/maps/uLd5EJnhhMQ
+2
+
+1  90
+
+Special terms and conditions for category buses 
+
+                               5 / 8
+
+
+
+ 
+
+1.Following Special Terms and Conditions (STC) would supersede the General Terms and
+Conditions (GTC) in respect of items under these categories as notified in the respective
+product category specifications
+
+1.SELLER
+1.Net Dealer Price (NDP), Discount on NDP and Total Price inclusive of Mark-up
+
+and all taxes will be indicated by Seller while offering these products on GeM.
+The mark up will not be applicable for Defence Buyer for vehicles exclusively
+offered for Defence buyer. The vehicle for Defence Buyer will be quoted
+separately with suffix Defence against each model.
+
+2.The Buyer must arrange for and provide Road Permit/s as necessary for entry
+of goods into the State where the consignee is located. The Buyer /
+Consignee should also provide the Seller with necessary Octroi Exemption
+Certificate immediately after issue of Contract to avoid payment of Town
+Duty / Octroi. Road Toll Tax, Entry Tax and / or any other Local Taxes and
+Duties such as Octroi / Sales Tax if paid by the Seller will be reimbursed by
+the paying authority against production of relevant payment receipt/s.
+
+3.The freight charges will be extra and shall be calculated by seller at the time
+of invoicing by multiplying distance with freight per KM indicated in contract
+specification.
+
+4.Sellers must give below mentioned minimum discount on the prevailing MRP
+while offering their products on GeMTractors - 20%Ambulances - 12%Buses -
+20%Automotive Chassis Fitted with Engine - 15%Built up Trucks - 15%Prison
+Van Police Vehicles - 15%Troop Carrier Police Vehicles - 15%Water Truck
+Cabin Truck with Water Tank - 15%Cars - 12%Utility Vehicles - 12%Electric
+Cars - 12%Motor cycles - 12%
+
+5.Delivery Period shall be 90 days. Delivery period for Built-up Vehicles like
+Troop Carriers, Water Tankers and Buses shall be 120 days considering extra
+time involved in fabrication.
+
+6.OEMs shall ensure that the prices offered on GeM by them for a particular
+model is the lowest and no supply shall be made to any Buyer, Government
+or Private, at a price lower or equal to that of GeM. In case of violation of this,
+GeM administration will review for removal of the model from GeM including
+other action as stipulated in General Terms and Conditions of GeM.
+
+7.All manufacturers of Automobiles having ARAI,VRDE, ICAT etc of offered
+model may upload their vehicles on GeM as per above guidelines. These
+guidelines are applicable only on GeM and Government Buyers shall utilize
+the portal for making on-line purchases through GeM.
+
+2.BUYER
+1.The total price inclusive of all does not include freight charge and, therefore,
+
+it shall be extra and to be calculated on freight per KM indicated in Contract
+Specifications.
+
+2.The Contract will indicate the total amount inclusive of all taxes only without
+freight charges. Therefore, while blocking the amount 5% additional amount
+will be blocked over and above the total price inclusive of all taxes to cover
+the fund requirement for freight charges on approximate basis.
+
+3.After supply of vehicles, the Seller while submitting the invoice will indicate
+the freight amount at actual or calculate as mentioned above on per KM basis
+whichever is lower and the same should be verified by the Buyer, before
+payment.
+
+4.Defence Buyer will select the vehicle offered with suffix Defence for placing
+their Contract. The total price for Defence Buyer for a particular model does
+not include mark-up.
+
+5.No Buyer other than Defence Buyer will select vehicle with suffix Defence. In
+case Buyer does so, the responsibility for non-supply of vehicle rest with
+Buyer.
+
+6.No Government Buyer Central/State/PSU/Autonomous body/Academic
+Institute/Local Bodies etc. shall place any order at GeM prices outside GeM.
+
+                               6 / 8
+
+
+
+ 
+
+Buyers shall note that prices on GeM are only applicable, if the procurement
+is made through GeM portal. Using GeM prices for procurement outside GeM
+portal is strictly prohibited. Such action will violate the basic principles of
+transparency and accountability enshrined in GeM. If done outside GeM the
+laid down procedure for tendering should be followed.
+
+7.For any bulk purchases, a comparison of rates and discounts may be made
+for similar vehicles and bidding may be considered as the preferred option.
+
+8.Ceiling of direct buying for PAC as mentioned in GTC will not be applicable for
+Vehicles under above mentioned categories as in these categories, only
+those models are up loaded on GeM for which manufactures agreed to accept
+discount on MRP negotiated time to time as mentioned above against each
+type of Vehicle. As such, Buyer may go for Direct Purchase even beyond Rs.
+50,000/- for Vehicles under these categories. However, if Buyer decides to go
+for bidding for these products on account of large quantity or for any other
+reason, the manufactures of the vehicles are exempted from submission of
+Earnest Money Deposit and Performance Security.
+
+Bid Specific Additional Terms and Conditions
+
+1.Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have
+regularly, manufactured and supplied same or similar Category Products to any Central /
+State Govt Organization / PSU / Public Listed Company for 1 year before the bid opening
+date. Copies of relevant contracts to be submitted along with bid in support of having
+supplied some quantity during each of the year. In case of bunch bids, the primary product
+having highest value should meet this criterion.
+
+2.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+3.Timely Servicing / rectification of defects during warranty period: After having been notified
+
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 3 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+4.Successful Bidder can submit the Performance Security in the form of Account Payee
+Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in
+favour of NEYVELI UTTAR PRADESH POWER LIMITED payable at kanpur. After award of
+contract, Successful Bidder can upload scanned copy of the DD in place of PBG and has to
+ensure delivery of hard copy to the original DD to the Buyer within 15 days of award of
+contract.
+
+5.Successful Bidder can submit the Performance Security in the form of Payment online
+through RTGS / internet banking also (besides PBG which is allowed as per GeM GTC). On-
+line payment shall be in Beneficiary name Neyveli Uttar Pradesh Power Limited Account No. 
+33780367147 IFSC Code SBIN0011607 Bank Name State Bank of India Branch address Panki
+Branch, Kanpur. Successful Bidder to indicate Contract number and name of Seller entity in
+the transaction details field at the time of on-line transfer. Bidder has to upload scanned
+copy / proof of the Online Payment Transfer in place of PBG within 15 days of award of
+contract.
+
+6.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+7.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+8.The bidder is required to upload, along with the bid, all relevant certificates such as BIS
+
+                               7 / 8
+
+
+
+ 
+
+licence, type test certificate, approval certificates and other certificates as prescribed in the
+Product Specification given in the bid document.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               8 / 8
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

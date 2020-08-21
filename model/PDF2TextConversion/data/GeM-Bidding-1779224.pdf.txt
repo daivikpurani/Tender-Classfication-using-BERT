@@ -1,0 +1,469 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/703751
+
+  Dated: 09-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 13:00:00
+
+Bid Opening Date/Time 20-07-2020 13:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Haryana
+
+Department Name General Administration And Administrative Reforms
+Department Haryana
+
+Organisation Name N/a
+
+Office Name Municipal Corporation Gurugram
+
+Total Quantity 1
+
+Item Category diesel generators- DG Sets ( PAC Only ) 
+
+Bidder Turnover (Last 3 Years)  26 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  200 Lakh (s)
+
+Experience Criteria  1 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  10 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank AXIS BANK LTD
+
+EMD Percentage(%) 2.00
+
+EMD Amount 107000
+
+                               1 / 6
+
+
+
+ 
+
+ePBG Detail
+
+Advisory Bank AXIS BANK LTD
+
+ePBG Percentage(%) 2.00
+
+Duration of ePBG required (Months). 1
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+Commissioner
+EMD/EPBG in Favor of Commissioner Municipal Corporation Gurugram.
+(Commissioner Municipal Corporation Gurugram)
+
+Splitting
+
+ Bid splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 10% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+Diesel Generators- DG Sets ( 1 pieces ) ( Under PAC ) 
+
+Make sudhirpowerlimited-cummins
+
+                               2 / 6
+
+
+
+ 
+
+Model c500d5p
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+OUTPUT CAPACITY
+RATING/ PHASE
+
+Nominal Rated
+Capacity (KVA)
+
+500 500, 600, 750 Or
+higher
+
+No of Phase Three Phase Three Phase
+
+ENGINE Make of Engine Cummins *
+
+Model Number of
+Engine
+
+KTAA19-G10 *
+
+Capacity of Engine (cc) 18600 *
+
+Engine Power (kWm) 450 *
+
+ISI Marking to IS :10001
+for engine
+
+No *
+
+BIS license No, if
+applicable
+
+00 *
+
+Type of Engine
+cooling
+
+Liquid Cooled Liquid Cooled
+
+Type of governer Electronic Mechanical, Electronic
+Or higher
+
+Class of governer A0 A0, A1 Or higher
+
+Number of cylinders
+(nos)
+
+6 *
+
+No of Strokes (nos) 4 *
+
+Rated RPM of Engine
+(RPM)
+
+1500 1500
+
+Overload capacity for
+one hour for every 11
+hours continuous
+running at full load (%)
+
+9 *
+
+Specific Fuel
+Consumption (gm/kWh)
+
+206.8 *
+
+Starting voltage (volt) 12 *
+
+ALTERNATOR AC GENERATOR(ALTER
+NATOR) Make
+
+Stamford *
+
+AC GENERATOR(ALTER
+NATOR) model Number
+
+500 KVA Frame *
+
+Rating of AC Generator
+(KVA)
+
+500 *
+
+Power Factor of AC 0.8 *
+
+                               3 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/5wdK9ZLvFbzK8ruhZyHWnpewQYN2fkHayogkCbJ0GhE
+
+
+ 
+
+generator
+
+Efficiency at rated
+Power factor at 75% of
+full Load
+
+95.3 *
+
+Compliance of
+Alternator to
+IS:13364(part-1)
+
+Yes *
+
+Type of alternator Brushless *
+
+Voltage Regulation
+Grade
+
+VG 2 *
+
+Alternator IP Rating IP 23 *
+
+Class of Insulation H *
+
+CONTROL PANEL Control Panel AMF AMF
+
+IP Rating of Control
+Panel
+
+IP 53 *
+
+ACOUSTIC ENCLOSURE Sheet Thickness 1.6 1.6, 1.8, 2 Or higher
+
+Thickness of Foam 95 *
+
+Density of Foam for
+sound insulation
+
+95 *
+
+Noise level at 1 meter
+(dB)
+
+72.5 *
+
+BATTERY Battery Type &
+Specification
+
+Low Maintenance free
+to IS: 14257 for high
+cranking performance
+
+*
+
+Battery capacity (Ah) 100 *
+
+No of batteries 2 *
+
+TEST REPORTS Availability of Type test
+report for Engine from
+Central govt/NABL/ILAC
+accredited laboratory
+
+Yes *
+
+Test Report number
+and date(Engine)
+
+ARAI/MOEF ; 29/03/14 *
+
+Name and address of
+laboratory(Engine)
+
+ARAI PUNE *
+
+Availability of Type test
+report for Alternator
+from Central
+government/NABL/ILAC
+accredited laboratory
+
+Yes *
+
+Test Report number
+and date(Alternator)
+
+N12B092215; 31/05/12 *
+
+Name and address of
+laboratory(Alternator)
+
+DGS&D Pune *
+
+DG set meet
+requirements of Enviro
+nmental(Protection)
+
+Yes *
+
+                               4 / 6
+
+
+
+ 
+
+Rules 1986, in respect
+of noise and emission
+norms, as described in
+STC
+
+WARRANTY /
+INSTALLATION &
+COMMISSIONING
+
+Warranty 2 2.0
+
+Installation &
+Commissioning
+
+With Installation With Installation
+
+Agreed to STC of the
+Product
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Mahender Singh 122001,GTPL Building C1,
+Infocity, Sector 34
+Gurugram
+
+1  30
+
+Special terms and conditions for category diesel generators- DG Sets 
+
+1. In addition to General Terms and Conditions of GeM, Special T&C shall be applicable for
+Diesel Generating Set/DG Set. click here to view the Special terms and conditions.
+
+Bid Specific Additional Terms and Conditions
+
+1.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+2. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+3.Bidders can also submit the EMD with Payment online through RTGS / internet banking in
+Beneficiary name Commissioner Municipal Corporation Gurugram Account No. 
+919010070385214 IFSC Code UTIB0001787 Bank Name Axis Bank Ltd  Branch address 
+Laxmi Bazar Gurugram.
+ Bidder to indicate bid number and name of bidding entity in the transaction details field at
+the time of on-line transfer. Bidder has to upload scanned copy / proof of the Online Payment
+Transfer along with bid.
+
+4.To be eligible for award of contract, Bidder / OEM must possess following Certificates / Test
+Reports on the date of bid opening (to be uploaded with bid): Yes .
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+                               5 / 6
+
+https://gem.gov.in/termsCondition
+
+
+ 
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+http://www.tcpdf.org
+

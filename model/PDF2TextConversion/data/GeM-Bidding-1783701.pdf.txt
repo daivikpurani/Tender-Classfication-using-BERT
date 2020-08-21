@@ -1,0 +1,483 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/707856
+
+  Dated: 13-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 23-07-2020 15:00:00
+
+Bid Opening Date/Time 23-07-2020 15:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Tamil Nadu
+
+Department Name Higher Education Department Tamil Nadu
+
+Organisation Name Bharathiar University
+
+Office Name Tamil Nadu
+
+Total Quantity 1
+
+Item Category SPECTROPHOTOMETER
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+SPECTROPHOTOMETER ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+                               1 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/FS78XH-lpkTTRXWQmCtuoTS2MofaaZlvHDWn4DtasBs
+
+
+ 
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+LIGHT SOURCE Light Source Deuterium
+Lamp,Tungsten
+Halogen Lamp,Halogen
+Lamp
+
+Halogen Lamp,
+Deuterium Lamp,
+Tungsten Halogen
+Lamp
+
+Diffraction Grating
+(lines/mm)
+
+1200 1200
+
+Switching of Light
+Source
+
+Automatic Automatic
+
+Wavelength Setting
+And Scanning
+
+Automatic Automatic
+
+TYPE Type of
+Spectrophotometer
+
+UV - VISIBLE UV - VISIBLE
+
+Type of Optical
+System
+
+Double Beam Double Beam
+
+Monochromator
+Type
+
+Holographic Grating Holographic Grating
+
+Detector Type Photodiode Photodiode
+
+Spectral Bandwidth
+Type
+
+Fixed Bandwidth Fixed Bandwidth
+
+OPTICAL
+PERFORMANCE
+
+Source Wavelength -
+Minimum
+
+190 190.0
+
+Source Wavelength -
+Maximum
+
+1100 1100, 1500, 2000,
+2500, 2700, 3000,
+3200, 3300, 1650 Or
+higher
+
+Resolution 0.002 0.002
+
+Wavelength
+Accuracy (+/-)
+
+0.1 0.1
+
+Bandwidth (nm) 1 1
+
+If variable band width,
+Specify the incremental
+step value(mm)
+
+NA *
+
+Scanning Speed
+(nm/min)
+
+3000 *
+
+Focal length (mm) 300 and above 300 and above
+
+Photometric
+measurement modes
+
+Transmittance,Absorba
+nce,Concentration
+(Wavelength, time)
+
+Transmittance,
+Absorbance,
+Concentration
+(Wavelength, time)
+
+Photometric
+Absorbance (Max)
+(Abs) (+/-)
+
+3 3
+
+Photometric
+Absorbance
+
+0.001 0.001 - 0.001 Or lower
+
+                               2 / 5
+
+
+
+ 
+
+Accuracy (Max) (+/-)
+
+Photometric
+Transmittance (Max)
+(+/-)
+
+100 100.0
+
+Photometric
+Transmittance
+Accuracy (Max) (+/-)
+
+0.001 0.0 - 0.001 Or lower
+
+Photometric
+Reflectance (Max)
+(+/-)
+
+100 100.0
+
+Photometric
+Reflectance Accuracy
+(Max) (+/-)
+
+0.002 *
+
+Stray Light Correction Automatic *
+
+Baseline Correction Automatic *
+
+GENERIC Display Through PC Through PC
+
+Display type LCD with Backlight LCD with Backlight
+
+Display Size 4 4.0 - 30.0 Or higher
+
+Test result printing Through external
+printer
+
+Through external
+printer
+
+If inbuilt printer,
+Type of printer
+
+Dot matrix Dot matrix
+
+Suitable software for
+connecting PC & Printer
+
+Yes *
+
+Connectivity USB,RS 232 *
+
+Internal storage(GB) 0 0.0 - 80.0 Or higher
+
+Sample
+switching/selection
+
+Automatic *
+
+Capacity of Sample
+holder / Sample
+Carousel
+
+2 *
+
+Mximum Path Length
+of sample
+
+10 10.0
+
+Number of Cuvettes
+supplied-inclusive in
+the scope of supply
+
+10 10
+
+Power Supply 230 V ± 10, 50 Hz *
+
+Any other
+features/accesories
+covered in scope of
+supply
+
+- *
+
+Spares and
+Consumables
+inclusive in the
+scope of supply
+
+Yes Yes
+
+                               3 / 5
+
+
+
+ 
+
+List of Items and
+Quantity of each item
+included in the offer
+
+- *
+
+OPERATING
+CONDITIONS
+
+Minimum Operating
+Temperature
+
+5 5.0
+
+Maximum Operating
+Temperature
+
+45 45.0
+
+Operating Humidity
+(RH) (%) at 40
+degree C
+
+90 90.0
+
+WARRANTY Onsite Warranty 1 1.0
+
+Availability of
+Spares (at extra
+cost)
+
+2 2.0
+
+Certification Availability of UL/CE
+Certification as per
+EN 61010-1:2010
+Safety requirements
+for electrical
+equipment for
+measurement,
+control, and
+laboratory use
+General
+requirements
+
+Yes Yes
+
+Conformance to
+EMC/EMI as per EN
+61326-1:2013
+Electrical equipment
+for measurement,
+control and
+laboratory use
+
+No No
+
+Availability of Test
+Reports from Central
+Govt / NABL
+approved / ILAC
+acredited lab to
+prove conformity to
+the specification
+
+No No
+
+If yes test report to
+furnished,to the buyer
+on demand
+
+Yes *
+
+Test Report number
+and date
+
+- *
+
+Name and address of
+the Lab
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+                               4 / 5
+
+
+
+ 
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Jayalakshmi P 641046,The Registrar,
+Bharathiar University,
+Coimbatore 641046
+
+1  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Bidder financial standing: The bidder should not be under liquidation, court receivership
+or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect
+with bid.
+
+2.Consortium: In case of Contracts, wherein the seller alone does not have necessary
+expertise, the seller can form consortium with other sellers for submission of the bid, with
+one of the consortium company as leader. However, each and every member of the
+consortium shall be equally responsible for the complete execution of the project contract.
+An undertaking to this effect is to be uploaded with bid.
+
+3.End User Certificate: Wherever Bidders are insisting for End User Certificate from the
+Buyer, same shall be provided in Buyer’s standard format only.
+
+4.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+5.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+6.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+7.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

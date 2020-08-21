@@ -1,0 +1,808 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/666676
+
+  Dated: 09-06-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 30-06-2020 17:00:00
+
+Bid Opening Date/Time 2020-06-30 17:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Agriculture And Farmers Welfare
+
+Department Name Department Of Agriculture Cooperation And Farmers
+Welfare
+
+Organisation Name N/a
+
+Office Name Southern Region Farm Machinery Training&testing
+Institute,anantapur
+
+Total Quantity 1
+
+Item Category AC SPV Deep well (submersible) Pumping Systems
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+AC SPV Deep Well (submersible) Pumping Systems ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+                               1 / 9
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/WDGC5Upo0qOkWQ_qm-7Kd61uXDozy2sce64_BdWSJBM
+
+
+ 
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+PV ARRAY Operation of SPV
+Pumping System
+
+The SPV water
+pumping system should
+be operated with a
+required PV array
+capacity measured
+under Standard Test
+Conditions (STC).
+
+*
+
+Number of modules in
+series and parallel
+could be used to obtain
+the required PV array
+power output
+
+22 *
+
+The power output of
+individual PV modules
+used in the PV array,
+under STC (in Watts
+peak(Wp))
+
+315 *
+
+Source of PV Module Indigenously produced
+PV module (s)
+containing mono/ multi
+crystalline silicon solar
+cells
+
+*
+
+PV module certification Certificate as per IEC
+61215 specifications or
+equivalent National or
+International/
+Standards
+
+*
+
+Safety Qualification
+Testing
+
+Modules must qualify
+to IEC 61730 Part I and
+II for safety
+qualification testing
+
+*
+
+Efficiency of the PV
+module (%)
+
+16.2 *
+
+Fill factor for PV
+module(%)
+
+70 *
+
+The terminal box on
+the module should
+have a provision for
+“Opening” for replacing
+the cable, if required
+
+Yes *
+
+Dimension of PV
+module (mm x mm x
+mm)
+
+- *
+
+Marking On PV module Name Plate fixed inside
+the module which will
+give: 1. Name of the
+Manufacturer or
+Distinctive Logo 2.
+Model Number 3. Serial
+
+*
+
+                               2 / 9
+
+
+
+ 
+
+Number 4. Year of
+manufacture
+
+GENERIC Solar Deep well
+(submersible) Pumping
+Systems: With AC
+Induction Motor Pump
+Set and a suitable
+Inverter
+
+Solar Photovoltaic
+(SPV) Water Pumping
+Systems comprising PV
+Array, Submersible
+Pump Set,
+MPPT(Maximum Power
+Point Tracke) ,Inverter
+for A.C. Motors
+,Electronic Protections ,
+Interconnect Cables
+and “On-Off” switch are
+basically for “Irrigation”
+applications. However,
+these may also be used
+for “Drinking Water
+Applications wherever
+such capacities are
+required”
+
+*
+
+Conformity to Indian
+Standrad for Solar
+Deep well
+(submersible) Pumping
+Systems
+
+Ministry of New and
+Renewable Energy
+,Jawaharlal Nehru
+National Solar Mission
+,Solar Photovoltic
+Water Pumping System
+-2015-16
+
+*
+
+Model Number as
+per MNRE
+specification
+
+Model-X *
+
+Capacity of Solar PV
+Water Pumps with
+PV module
+
+6750 Wp 1200 Wp, 1800 Wp,
+3000 Wp, 4800 Wp,
+6750 Wp, 9000 Wp
+
+Motor Pump Set Types of Submersible
+pump set
+
+BIS Marked
+Submersible Pumpsets
+to IS:8034 latest for
+use in borewells for
+handling clear cold
+water having ISI
+Marked motor to
+IS:9283 latest of wet
+type for continuous
+rating synchronous,Cat
+egory-B,Duty Type-S1
+
+*
+
+Submersible motor
+pump with controller
+Capacity
+
+7.5 7.5
+
+Power Supply Three Phase AC
+through suitable
+Variable Frequency
+Drive(VFD)
+
+*
+
+Numbers of poles of
+motor
+
+2 *
+
+                               3 / 9
+
+
+
+ 
+
+Motor speed(rpm) 2900 *
+
+Bore Size 150 *
+
+Delivery Size 50 *
+
+Suction Head 7 *
+
+The suction/ delivery
+pipe (GI/HDPE), electric
+cables, floating
+assembly, civil work
+and other fittings
+required to install the
+Motor Pump set
+
+yes, inclusive *
+
+Material of Suction Pipe ISI Marked HDPE Pipe
+to IS 4985
+
+*
+
+Length of Suction Pipe 5 *
+
+Material of Delivery
+Pipe
+
+ISI Marked HDPE Pipe
+to IS 4985
+
+*
+
+Length of Delivery Pipe 5 *
+
+All parts of the pump
+and the motor of the
+submersible pumps
+should be made of
+stainless steel
+
+Yes *
+
+Pump and all external
+parts of motor used in
+submersible pump
+which are in contact
+with water, are of
+stainless steel
+
+Yes *
+
+Marking on Motor pump The following details
+should be marked
+indelibly on the motor
+pump set a) Name of
+the Manufacturer or
+Distinctive Logo. b)
+Model Number. c)
+Serial Number.
+
+*
+
+MOUNTING
+STRUCTURES AND
+TRACKING SYSTEM
+
+Mounting on metallic
+structures
+
+The PV modules should
+be mounted on metallic
+structures of adequate
+strength and
+appropriate design
+
+*
+
+Mounting Structure
+Type
+
+Pole type structure *
+
+Strength of mounting
+structure
+
+suitable to withstand
+load of modules and
+high wind velocities up
+to 150 km per hour
+
+*
+
+The support structure
+used in the pumping
+
+Yes *
+
+                               4 / 9
+
+
+
+ 
+
+system should be hot
+dip galvanized iron with
+minimum 80 micron
+thickness
+
+Tracking system Manual Manual, Passive, Auto
+Tracking, NA
+
+Arrangement for
+seasonal tilt angle
+adjustment
+
+For manual tracking,
+arrangement for
+seasonal tilt angle
+adjustment and three
+times manual tracking
+in a day should be
+provided
+
+*
+
+Inverter for Motor Yes *
+
+Remote Monitoring of
+Pump
+
+Provision for remote
+monitoring of the
+installed pumps must
+be made in the
+controllers or the
+inverters either through
+an integral
+arrangement or
+through an externally
+fitted arrangement
+
+*
+
+Provision to ascertain
+the daily water output,
+the power generated
+by the PV array, the UP
+TIME of the pump
+during the year,
+Number of days the
+pump was unused or
+under
+breakdown/repairs
+
+Yes *
+
+ELECTRONICS AND
+PROTECTIONS
+
+Maximum Power Point
+Tracker (MPPT)
+
+Maximum Power Point
+Tracker (MPPT) should
+be included to
+optimally use the Solar
+panel and maximize
+the water discharge.
+
+*
+
+Inverter to operate an
+AC Pump
+
+Yes *
+
+IP protection for
+Inverter to operate an
+AC Pump
+
+The inverter must have
+IP 54 protection or
+must be housed in a
+cabinet having at least
+IP54 protection.
+
+*
+
+Adequate protections
+should be incorporated
+against dry operation
+of motor pump set,
+lightning, hails and
+storms
+
+Yes *
+
+                               5 / 9
+
+
+
+ 
+
+Full protection against
+open circuit, accidental
+short circuit and
+reverse polarity should
+be provided
+
+Yes *
+
+ON/OFF SWITCH A good reliable switch
+suitable for AC/DC use
+is to be provided.
+Sufficient length of
+cable should be
+provided for
+interconnection of the
+PV array, Controller /
+Inverter and the motor
+pump set.
+
+*
+
+Spares Required Spares for
+trouble free operation
+during the Warrantee
+period should be
+provided along with the
+system.
+
+*
+
+OPERATION AND
+MAINTENANCE MANUAL
+
+An Operation and
+Maintenance Manual, in
+English and the local
+language, should be
+provided with the solar
+PV pumping system.
+The Manual should
+have information about
+solar energy,
+photovoltaic, modules,
+AC motor pump set,
+tracking system,
+mounting structures,
+electronics and
+switches. It should also
+have clear instructions
+about mounting of PV
+module, DO's and
+DONT's and on regular
+maintenance and
+Trouble Shooting of the
+pumping system. Name
+and address of the
+person or Centre to be
+contacted in case of
+failure or complaint
+should also be
+provided. A warranty
+card for the modules
+and the motor pump
+set should also be
+provided to the
+beneficiary.
+
+*
+
+PERFORMANCE Shut Off Dynamic 70 45, 70, 75, 100, 150
+
+                               6 / 9
+
+
+
+ 
+
+Head
+
+Water Output on a
+clear sunny day with
+three times tracking
+of SPV panel, under
+the “Average Daily
+Solar Radiation”
+
+87,750 litres per day
+from a total head of 70
+meters
+
+*
+
+Minimum water output
+from a Solar PV Water
+Pumping System For
+AC Induction Motor
+Pump Set with a
+suitable Inverter from a
+Total Dynamic Head of
+10 metres and with the
+shut off head being at
+least 12 meters
+
+NA *
+
+Minimum water output
+from a Solar PV Water
+Pumping System For
+AC Induction Motor
+Pump Set with a
+suitable Inverter from a
+Total Dynamic Head of
+20 meters and with the
+shut off head being at
+least 25 metres
+
+NA *
+
+Minimum water output
+from a Solar PV Water
+Pumping System For
+AC Induction Motor
+Pump Set with a
+suitable Inverter from a
+Total Dynamic Head of
+30 metres and the shut
+off head being at least
+45 meters
+
+NA *
+
+Minimum water output
+from a Solar PV Water
+Pumping System For
+AC Induction Motor
+Pump Set with a
+suitable Inverter from a
+Total Dynamic Head of
+50 metres and the shut
+off head being at least
+70 meters
+
+NA *
+
+Minimum water output
+from a Solar PV Water
+Pumping System For
+AC Induction Motor
+Pump Set with a
+suitable Inverter from a
+Total Dynamic Head of
+
+13 liters of water per
+watt peak of PV array
+
+*
+
+                               7 / 9
+
+
+
+ 
+
+70 metres and the shut
+off head being at least
+100 meters
+
+Minimum water output
+from a Solar PV Water
+Pumping System For
+AC Induction Motor
+Pump Set with a
+suitable Inverter from a
+Total Dynamic Head of
+100 meters and the
+shut off head being at
+least 150 meters
+
+NA *
+
+CERTIFICATION BIS CM/L number and
+validity of ISI marked
+Submersible Pump
+
+- *
+
+Availability of Type
+Test Report to prove
+conformity of
+parameters as per
+MNRE specification
+form MNRE empanelled
+for solar pump
+laboratory
+
+Yes *
+
+Test Certificate No and
+Date
+
+- *
+
+Name of the Lab where
+test Conducted
+
+- *
+
+Test Report to be
+furnished to the buyer
+on demand
+
+Yes *
+
+The type of pump set
+used must match the
+total dynamic head
+requirement of the site
+Moreover, it should be
+appropriately tested
+and certified by the
+authorized test centres
+of the Ministry to meet
+the performance and
+water discharge norms
+
+Yes *
+
+Scope of Supply with errection and
+commissioning at
+consignee end
+
+*
+
+Warranty The PV Modules must
+be warranted for
+output wattage, which
+should not be less than
+90% at the end of 10
+years and 80% at the
+end of 25 years. The
+whole Pumping system
+
+*
+
+                               8 / 9
+
+
+
+ 
+
+including pump shall be
+warranted for 5 years.
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Tejbir Singh 515731,SOUTHERN REGION
+FARM MACHINERY
+TRAINING&TESTING
+INSTITUTE GARLADINNE
+ANANTAPUR
+
+1  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               9 / 9
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

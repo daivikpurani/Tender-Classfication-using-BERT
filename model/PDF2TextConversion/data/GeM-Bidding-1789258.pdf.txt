@@ -1,0 +1,608 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/712894
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 19:00:00
+
+Bid Opening Date/Time 27-07-2020 19:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Ministry Of Railways
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name South Central Railway
+
+Total Quantity 10
+
+Item Category High Flow Nasal Oxygen Therapy Unit
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Document required from seller  Past Performance,Certificate (Requested in ATC),OEM
+Authorization Certificate
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the
+buyer
+
+Past Performance  20 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 2.00
+
+EMD Amount 80000
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 10.00
+
+Duration of ePBG required (Months). 26
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant
+category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for
+Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+                               1 / 6
+
+
+
+ 
+
+Beneficiary: 
+PFA SCR
+3rd Floor, Rail Nilyam, South Central Railway, Ministry of Railways, Secunderabad. Pin Code - 500025
+(Pfa Scr)
+
+Splitting
+
+  Bid splitting not applied.  
+
+MSE Purchase Preference
+
+MSE Purchase Preference Yes
+
+ 
+
+1. Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to MSEs as defined in
+Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued by Ministry of
+Micro, Small and Medium Enterprises and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder
+wants to avail the Purchase preference, the bidder must be the manufacturer of the offered product in case of bid for
+supply of goods. Traders are excluded from the purview of Public Procurement Policy for Micro and Small Enterprises. In
+respect of bid for Services, the bidder must be the Service provider of the offered Service. Relevant documentary
+evidence in this regard shall be uploaded along with the bid in respect of the offered product or service. If L-1 is not an
+MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of purchase preference /price band defined in
+relevant policy, such Seller shall be given opportunity to match L-1 price and contract will be awarded for percentage of
+25% of total value.
+2. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have supplied same or similar
+Category Products for 20% of bid quantity, in at least one of the last three years before the bid opening date to any
+Central / State Govt Organization / PSU / Public Listed Company. Copies of relevant contracts (proving supply of
+cumulative order quantity in any one year) to be submitted along with bid in support of quantity supplied in the relevant
+year. In case of bunch bids, the category related to primary product having highest bid value should meet this criterion.
+
+High Flow Nasal Oxygen Therapy Unit ( 10 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERAL FEATURES Product Description High Flow Nasal Oxygen
+Therapy Unit
+
+*
+
+Purpose To deliver warm and
+humidified oxygen at high
+flow for the treatment of
+Hypoxemic patients with
+respiratory distress
+
+*
+
+Application Compliant for use on
+patients in ICU, wards,
+emergency department as
+well as for patients on home
+oxygen therapy
+
+*
+
+Patient Application Single system for treating
+infants, pediatric and adult
+patients
+
+*
+
+PRODUCT INFORMATION Delivers Warm and Humidified
+Oxygen
+
+*
+
+Flow generator In-built *
+
+Delivery range 2 to 60 litres/minute *
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/LxrALgpICB3DfXdg9q8hjVBMouQRMOCAQf6m7GxIOSY
+
+
+ 
+
+Flow range of generator for
+Pediatric mode
+
+2 - 25 litres/minute *
+
+Flow range of generator for
+Adult mode
+
+10 - 60 litres/minute *
+
+Air/oxygen blender In-buit *
+
+FiO2 monitoring Yes *
+
+Delivery range of oxygen
+concentration (FiO2)
+
+21% to 100 % *
+
+Accuracy for FiO2 ± 2.5 % *
+
+Air source Inbuilt without need for
+external compressor
+
+*
+
+Humidifier Integrated heated
+humidifier
+
+*
+
+Humidity > 33 mg/L at 37° C Target
+and > 10 mg/L at 34° C &
+31° C Target
+
+*
+
+Max temperature of
+delivered gas
+
+43 *
+
+Patient Interface Nasal cannula *
+
+Disinfection of device Thermal Disinfection mode *
+
+Heated disinfection tube for
+sterilization of the device
+provided
+
+Yes *
+
+Provided with a flow meter
+assembly with clamp and
+markings to read flows
+above 60 liters along with a
+high pressure tubing to
+connect with an oxygen
+source
+
+Yes *
+
+Provision of External SD
+card slot
+
+No *
+
+Storage of records NA *
+
+Salient Features NA *
+
+DISPLAY Type of display LCD Color Display *
+
+Parameters monitored and
+displayed
+
+Flow,FiO2,Temperature,Hum
+idity,Faults
+
+*
+
+ALARMS Alarms available Tubes disconnect leaks
+alarm,Tube blockages
+alarm,Mismatching of tubes
+(Adult vs Pediatric)
+alarm,Alarm for oxygen
+concentration high and
+low,Hardware fault alarm
+with error codes,Power
+failure alarm,Alarm for low
+water level before the water
+completely dries out in the
+humidifier
+
+*
+
+Type of alarm indication Both audible and visual
+alarms
+
+*
+
+ACCESSORIES Accessories provided One trolley/Pole with castors
+having a mounting
+platform/tray and a rack
+
+*
+
+Material of Pole/Trolley Mild Steel *
+
+                               3 / 6
+
+
+
+ 
+
+Number of hooks in the pole 2 *
+
+Number of castor wheels in
+the pole
+
+4 *
+
+CONSUMABLES Consumables provided Breathing circuit
+(Adult),Breathing circuit
+(Pediatric),Humidification
+chamber,Adult nasal
+cannula,Pediatric nasal
+cannula,Air filters
+
+Breathing circuit (Adult),
+Breathing circuit (Pediatric),
+Humidification chamber,
+Adult nasal cannula,
+Pediatric nasal cannula, Air
+filters
+
+Number of Breathing circuit
+(Adult)
+
+50 *
+
+Number of Breathing circuit
+(Pediatric)
+
+50 *
+
+Number of Humidification
+Chamber
+
+50 *
+
+Number of Adult Nasal
+cannula of assorted sizes
+
+50 *
+
+Number of Paediatric Nasal
+cannula of assorted sizes
+
+50 *
+
+Material of Nasal cannula kink proof material and
+having adhesive wiggle
+pads to stick on skin care
+
+*
+
+Number of Air filters NA *
+
+ELECTRICAL REQUIREMENTS Power Source 230 ± 10 Volts AC / 50 Hz *
+
+OPERATING & STORAGE
+ENVIRONMENT
+
+Minimum operating
+temperature
+
+- *
+
+Maximum operating
+temperature
+
+- *
+
+Maximum operating relative
+humidity
+
+- *
+
+Minimum storage
+temperature
+
+- *
+
+Maximum storage
+temperature
+
+- *
+
+CERTIFICATIONS & REPORTS Availability of conformity
+certificate/test report of the
+equipment from OEM to
+prove conformity to the
+declared specifications
+
+Yes *
+
+Product certifications US-FDA,EU-CE (from notified
+body)
+
+*
+
+Manufacturer certifications ISO: 13485 (Latest) *
+
+Protection against electric
+shock
+
+Class II type protection
+against electric shock
+
+*
+
+Compliance to other safety
+standards
+
+IEC-60601-1 *
+
+Ingress Protection Rating IP 21 *
+
+Submission of all necessary
+certifications, test reports to
+the buyer along with
+supplies
+
+Yes *
+
+INSTALLATION & TRAINING Supplier to perform
+installation, safety and
+operation checks before
+
+Yes *
+
+                               4 / 6
+
+
+
+ 
+
+handover
+
+The supplier/vendor shall
+provide free of cost training
+to the personnel in
+operation
+
+Yes *
+
+WARRANTY Onsite comprehensive
+warranty
+
+2 *
+
+ADDITIONAL
+REQUIREMENTS
+
+OEM/Reseller shall ensure
+uninterrupted availability of
+all spares and components
+for atleat 5 years from the
+date of purchase
+
+Yes *
+
+User/Technical/Operating/M
+aintenance manuals to be
+supplied in English in hard
+and soft copy
+
+Yes *
+
+Product catalog, technical
+write up in English to be
+provided both in hard and
+electronic copies
+
+Yes *
+
+Details of equipments and
+procedures required for
+local calibration and routine
+maintenance to be supplied
+
+Yes *
+
+The Principal Manufacturer
+must have direct
+Presence/approved service
+center In India
+
+Yes *
+
+Time to provide temporary
+backup support in case of
+malfunction/breakdown
+
+within 48 hrs *
+
+Additional requirement NA *
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Md. Moazul Haque 500025,PCMD OFFICE,Ground
+Floor, Near Syndicate Bank, Rail
+Nilayam, South Central Railway,
+Secunderabad - 500025
+
+10  15
+
+Bid Specific Additional Terms and Conditions
+1.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting the bid, Manufacturers
+
+Authorisation Form (MAF)/Certificate with OEM details such as name, designation, address, e-mail Id and Phone
+No. required to be furnished along with the bid.
+
+2.Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection
+Agency would be conducting inspection of stores before acceptance:
+Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in
+ATC): No
+Post Receipt Inspection at consignee site before acceptance of stores: Authorised Person of MD/LGD
+
+3.Bidders can also submit the EMD with Payment online through RTGS / internet banking in Beneficiary name 
+
+                               5 / 6
+
+
+
+ 
+
+FA&CAO/SC Account No. 6233713116 IFSC Code SBIN0020244 Bank Name State Bank of India Branch address 
+Himmatnagar Secunderabad.
+ Bidder to indicate bid number and name of bidding entity in the transaction details field at the time of on-line
+transfer. Bidder has to upload scanned copy / proof of the Online Payment Transfer along with bid.
+
+4.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of
+Goods
+
+5.Preference to Make In India products (For bids less than 200 Crore):Preference shall be given to Class 1 local
+supplier as defined in public procurement (Preference to Make in India), Order 2017 as amended from time to
+time and its subsequent Orders/Notifications issued by concerned Nodal Ministry for specific Goods/Products. The
+minimum local content to qualify as a Class 1 local supplier is denoted in the bid document 50%. If the bidder
+wants to avail the Purchase preference, the bidder must upload a certificate from the OEM regarding the
+percentage of the local content and the details of locations at which the local value addition is made along with
+their bid, failing which no purchase preference shall be granted. In case the bid value is more than Rs 10 Crore,
+the declaration relating to percentage of local content shall be certified by the statutory auditor or cost auditor, if
+the OEM is a company and by a practicing cost accountant or a chartered accountant for OEMs other than
+companies as per the Public Procurement (preference to Make-in -India) order 2017 dated 04.06.2020. Only
+Class-I and Class-II Local suppliers as per MII order dated 4.6.2020 will be eligible to bid. Non - Local suppliers as
+per MII order dated 04.06.2020 are not eligible to participate. In case Buyer has selected Purchase preference to
+Micro and Small Enterprises clause in the bid, the same will get precedence over this clause.
+
+6.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each
+Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If
+service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one
+within 30 days of award of contract. Payment shall be released only after submission of documentary evidence
+of having Functional Service Centre.
+
+7.Successful bidder will have to ensure that adequate number of dedicated technical service personals / engineers
+are designated / deployed for attending to the Service Request in a time bound manner and for ensuring Timely
+Servicing / rectification of defects during warranty period, as per Service level agreement indicated in the
+relevant clause of the bid.
+
+8.Warranty period of the supplied products shall be 2 years from the date of final acceptance of goods or after
+completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee
+location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The
+seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller
+should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service
+group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to
+be uploaded along with the bid
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

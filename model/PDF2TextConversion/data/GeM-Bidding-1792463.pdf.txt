@@ -1,0 +1,378 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/715787
+  Dated: 18-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 28-07-2020 10:00:00
+
+Bid Opening Date/Time 28-07-2020 10:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 80 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence Production
+
+Organisation Name Bharat Electronics Limited (bel)
+
+Office Name ***********
+
+Total Quantity 14
+
+Item Category lead acid battery
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+MSE Purchase Preference
+
+MSE Purchase Preference Yes
+
+ 
+
+1. Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to MSEs as defined in
+Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued by Ministry of
+Micro, Small and Medium Enterprises and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder
+wants to avail the Purchase preference, the bidder must be the manufacturer of the offered product in case of bid for
+supply of goods. Traders are excluded from the purview of Public Procurement Policy for Micro and Small Enterprises. In
+respect of bid for Services, the bidder must be the Service provider of the offered Service. Relevant documentary
+evidence in this regard shall be uploaded along with the bid in respect of the offered product or service. If L-1 is not an
+MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of purchase preference /price band defined in
+relevant policy, such Seller shall be given opportunity to match L-1 price and contract will be awarded for percentage of
+25% of total value.
+
+                               1 / 4
+
+
+
+ 
+
+Lead Acid Battery ( 14 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Generic Types of Lead Acid of
+Battery
+
+Small sized Valve Regulated
+Lead -Acid Batteries (SMF)
+conforming to JISC:
+8702/1998 (Part 1,2 & 3)
+with latest amendments
+
+Small sized Valve Regulated
+Lead -Acid Batteries (SMF)
+conforming to JISC:
+8702/1998 (Part 1,2 & 3)
+with latest amendments
+
+Nominal Voltage of
+Battery (volts)
+
+12.0 Volt 12.0 Volt
+
+Material of container Polypropylene Polypropylene
+
+Rated Capacity at C20
+discharge (AH)
+
+75 75, 75.0
+
+Warranty (Years) 2 Years 2 Years
+
+Battery Condition Charged *
+
+CONSTRUCTIONAL Dimensions (L x W x H) (mm
+x mm x mm)
+
+As per relevant IS
+Specifications
+
+*
+
+Volume of Electrolyte (ml) - *
+
+Weight of Dry Battery (Kg)
+shall be as per relevant IS:
+Specn., corresponding Ah
+
+Yes. *
+
+No.of cells per Battery (No.) 6 Cells for 12 Volt battery *
+
+Certifications Availability of Test Reports
+from Central
+Govt./NABL/ILAC
+accrediated Lab showing
+conformity to the
+specifications
+
+Yes *
+
+Address of the Lab - *
+
+Name of the Lab - *
+
+Test Report No. - *
+
+Test Report Date - *
+
+Compulsory Registration
+(CRS) of BIS for safety as
+per IS 16046 as applicable.
+Secondary Cells and
+(Batteries containing
+Alkaline or other non-acid
+Electrolytes-Safety
+Requirements for Portable
+sealed secondary cells, and
+for Batteries made from
+them for use in portable
+applications
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/HvCrgvwr6Sn5smmN0v5DIB51qcs8kGqQqbfzrZWutU0
+
+
+ 
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********GHAZIABAD 14  30
+
+Special terms and conditions for category lead acid battery 
+
+1.Battery serial number list shall be furnish by the seller along with the supply of the battery to Buyer
+
+Bid Specific Additional Terms and Conditions
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of
+
+Goods
+2.Buyback for Non PFMS/Non GPA:
+
+ 1. GST will apply on the value of buyback and separate invoice is to be prepared by Government
+buyer/Consignee for buyback items offline outside the GeM system. Vendor should work out input credit for that
+GST applicable on the buy back while quoting the product/services.
+ 2. Input GST Credit consideration by seller- seller shall offer the prices in the bid by the total amount of new
+goods including GST- total amount of old goods quoted by the firm excluding GST. This is because GST charged
+by buyer on buy-back value will be available for full ITC (input tax credit) on the hands of bidder. Therefore, for
+the purpose of quoting in the bid and evaluation, value as quoted by the bidder (excluding any GST on buy back)
+as indicated in column G below will be considered.
+Illustrative examples for bidders are as under for understanding of the seller.
+
+Excel sheet for explanation to Buyback ATC
+S.no Cost of
+
+Fresh Good
+(A)
+
+%age of
+GST on
+
+Fresh Good
+as
+
+considered
+by seller at
+the time of
+quote (B).
+
+GST
+Amount on
+Fresh Good
+
+(C)
+
+Cost of
+Buyback
+item (D)
+
+%age of
+GST on
+
+Buyback
+items (E)
+
+as fixed by
+buyer in
+the bid
+
+GST
+Amount on
+Buyback
+
+item (F) as
+applicable
+at the time
+of invoice
+by buyer
+
+Quote of
+the Bidder (
+G={A+C-
+
+D})
+
+1 100 28 28 20 8 1.6 108
+2 100 9 9 20 8 1.6 89
+3 110 10 11 24 8 1.92 97
+
+Seller after the award of the GeM contract, will indicate all column A to G which will not alter their quoted price
+indicated in Colum-G
+
+3. Successful lowest bidder has to provide detailed cost break up of tendered items as well as buy back items
+separately after award of contract through email to the government buyer/consignee.
+4. The seller of new item /service provider shall deposit the cost of invoiced buy back item with GST to the buyer
+for allowing seller to lift up the material from the buyer/consignee premise.
+5. Transportation of buy back items from buyer premises shall be arranged by the seller itself without any extra
+cost.
+6. Government Buyer organisation /consignee will issue invoice of buy back items to the seller at the cost of
+buyback to be indicated to the buyer by the seller offline after receipt of order. This in no case will modify the bid
+in any manner.
+7. The seller will be entirely responsible for the safe disposal of old items without affecting the environment in
+any manner as per prevailing statutory rules and Act/ law of the land.
+8. The seller may visit the site and inspect the condition of buy back item in advance before quoting for the bid.
+9. Receipt of payment by the buyer for Old items and invoicing by buyer will be out of GeM portal.
+10. Government Buyer will upload the details of old goods along with the bid in the corrigendum with minimum
+price.
+11. If the minimum price (Optional) is indicated and sellers of new item who are not agreeing to take back the
+old item at equal to or above that minimum price should not participate in the bid.
+12. In case they participate into the bid and afterwards indicates the price of old goods, less than the minimum
+price shown by Government Buyer in corrigendum, EMD of the bidder will be forfeited.
+13. Item Details Consignee wise will be indicated in the corrigendum like -
+ 1. Consignee wise
+ 2. Item Description
+ 3. Serial Number
+ 4. Model
+ 5. Brand
+ 6. Year of manufacturing
+ 7. Purchased on
+
+                               3 / 4
+
+
+
+ 
+
+ 8. Age
+ 9. Size, Rating, Designation
+ 10. Quantity
+ 11. Min price (Optional)
+ 12. Unit
+ 13. Working Guidelines (/Functional/Non-Functional)
+ 14. Remarks
+14. The successful bidder shall remove the old goods from the premise of the Government buyer/consignee at
+the time of the supply, installation and commis-sioning of fresh goods. Seller will be entitled for payment only
+after removal of old goods from Government buyer/consignee/user’s premise and after supplying the fresh
+goods in terms of contract.
+15. Note: This clause of ATC shall be operated by non PFMS; non GPA buyer i.e. all PSU working through their
+ERP and not integrated with GPA.
+
+3.OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25
+percent at the time of placement of contract. The purchaser also reserves the right to increase the ordered
+quantity by up to 25% of the contracted quantity during the currency of the contract at the contracted rates.
+Bidders are bound to accept the orders accordingly.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,298 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/689809
+
+  Dated: 27-06-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 13-07-2020 14:00:00
+
+Bid Opening Date/Time 2020-07-13 14:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Army
+
+Office Name ***********
+
+Total Quantity 3
+
+Item Category CAT 6 Patch Panel
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years Of Experience  Yes
+
+Startup Exemption for Years Of Experience  Yes
+
+Document required from seller  Experience Criteria
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 4
+
+
+
+ 
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+
+CAT 6 Patch Panel ( 3 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+CONSTRUCTIONAL Applications: 0BASE-T,
+100BASE-TX Fast
+Ethernet, 1000BASE-T
+(IEEE802.3) , 100VG-
+AnyLAN (IEEE802.12),
+250 MHz Broadband
+Video, Voice, T1, ISDN,
+155/ 622 Mbps ATM ,
+Power over Ethernet
+(POE, POE+, 4 PPOE)
+
+Yes *
+
+Material of patch
+panel
+
+Steel Steel
+
+Modular plug fitting
+(RJ 45)
+
+Individual ports for
+loaded
+
+Individual ports for
+loaded
+
+Plug insertion durability ≥ 750 mating cycles" *
+
+Holder for connector /
+module
+
+Yes *
+
+Dust protection for
+information outlet
+
+No Yes, No
+
+GENERIC CAT 6 patch Panel
+conforming to
+ANSI/TIA/EIA-568 C.2
+latest or ISO/IEC:11801
+latest
+
+Yes *
+
+Patch panel
+suitability for
+(Category 6 Unshield
+ed/Unshielded
+twisted pair or
+Category 6
+Foiled/Unshileded
+twisted pair)
+
+CAT 6 U/UTP CAT 6 U/UTP
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/IFH0EdQFRqyjxG8HRe4oLoCE2geSI0Cl1ox8ad6qWR0
+
+
+ 
+
+Height of patch
+panel
+
+2 U 2 U
+
+No. of ports (RJ 45) 24 Ports Loaded 24 Ports Loaded
+
+Cable Management
+(Rear side)
+
+With With
+
+CERTIFICATIONS Category 6 pacth panel
+/ information outlet
+shall have valid verified
+certificate in channel
+from ETL /3P /GHMT
+/Delta/UL/Intertek as
+per CAT 6 standards
+ANSI//TIA/EIA-568 C.2
+latest or ISO/IEC:11801
+latest
+
+Yes *
+
+If "Yes" Certificate
+Number - Must declare
+
+- *
+
+Availability of complete
+and satisfactory type
+test Report from
+Central Government /
+NABL/ ILAC accredited
+laboratory as per
+Governing Specification
+
+Yes *
+
+Test report number - *
+
+Report date - *
+
+Name and address of
+lab
+
+- *
+
+All the test reports shall
+furnish to the
+buyer/consignee on
+demand
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********AJMER 3  30
+
+Bid Specific Additional Terms and Conditions
+
+                               3 / 4
+
+
+
+ 
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+2.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 5 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

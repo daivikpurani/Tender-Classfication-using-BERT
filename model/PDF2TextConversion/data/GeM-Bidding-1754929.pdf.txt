@@ -1,0 +1,453 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/681622
+
+  Dated: 22-06-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 02-07-2020 12:00:00
+
+Bid Opening Date/Time 2020-07-02 12:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Power
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Bhakra Beas Management Board, Chandigarh
+
+Total Quantity 4
+
+Item Category Low Voltage Surge Protective Devices (Surge
+protector panel)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Low Voltage Surge Protective Devices (Surge Protector Panel) ( 4 pieces )
+
+Technical Specifications
+
+                               1 / 5
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC Governing specification "IS 16463 (Part 11) :
+2016 or IEC 61643-11 :
+2011"
+
+*
+
+No. of Phase 1 Phase 1 Phase, 3 Phase
+
+No. of ports One-port SPD One-port SPD, Two-port
+SPD
+
+SPD Design Voltage limiting Voltage switching,
+Voltage limiting,
+Combination (Voltage
+switching and Voltage
+limiting)
+
+Classification Class I Class I, Class II, Class I
++ Class II Combination,
+Class III
+
+Installation Location Indoor Indoor, Outdoor
+
+Degree of protection
+for enclosures
+(According to IP
+code of IEC 60529)
+
+IP 20 IP 20, IP 54
+
+Temperature and
+humidity range
+
+Normal Normal, Extended
+
+Power system AC between 47 Hz and
+63 Hz
+
+*
+
+Preferred values of
+impulse discharge
+current Iimp for
+class I (in kA)
+
+NA 1, 2, 5, 10, 12.5, 20,
+25, NA
+
+Preferred values of
+nominal discharge
+current for class II
+tests In (in kA)
+
+NA *
+
+Preferred values of
+open-circuit voltage
+for class III tests Uoc
+(in kV)
+
+NA *
+
+Preferred values of
+voltage protection
+level Up (in kV)
+
+10 *
+
+Preferred values of
+r.m.s. maximum
+continuous
+operating voltage Uc
+(in Volts)
+
+45 *
+
+Low Voltage Surge
+Protection Device
+
+No Yes, No
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/rCUlUNvl0NvrdbEVbHcDOhamLWEuKJKunhyqeddn0PE
+
+
+ 
+
+shall have Status
+indicators (The
+manufacturer shall
+provide information
+about the function of
+the indicator and the
+actions to be taken
+after change of
+status indication)
+
+Terminal type Screw terminal Screw terminal,
+Screwless terminal
+
+Warranty for Surge
+Protection Device -
+(in years) - Minimum
+
+2 2, 4, 5, 10, 15, 20
+
+Installation and
+commissioning
+
+No Yes, No
+
+CERTIFICATIONS CE certification No Yes, No
+
+Availability of the test
+report from Central
+Govt./ NABL/ ILAC
+acredited lab
+conforming to the
+specification
+
+Yes *
+
+"Availability of
+Additional tests as
+applicable as per IS
+16463 (Part 11) :
+2016 or IEC
+61643-11 : 2011and
+test report from
+Central Govt./ NABL/
+ILAC acredited lab
+conforming to the
+specification"
+
+No Yes, No
+
+All the test reports and
+certificates shall furnish
+by the supplier to the
+buyer/consignee on
+demand
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Hitender Singh 175019,Superintend 4  15
+
+                               3 / 5
+
+
+
+ 
+
+Procurement Store &
+Disposal Division, Bhakra
+Beas Management Board,
+SUNDER NAGAR
+
+Bid Specific Additional Terms and Conditions
+
+1.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+2.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+3.Buyback for Non PFMS/Non GPA:
+ 1. GST will apply on the value of buyback and separate invoice is to be prepared by
+Government buyer/Consignee for buyback items offline outside the GeM system. Vendor
+should work out input credit for that GST applicable on the buy back while quoting the
+product/services.
+ 2. Input GST Credit consideration by seller- seller shall offer the prices in the bid by the total
+amount of new goods including GST- total amount of old goods quoted by the firm excluding
+GST. This is because GST charged by buyer on buy-back value will be available for full ITC
+(input tax credit) on the hands of bidder. Therefore, for the purpose of quoting in the bid and
+evaluation, value as quoted by the bidder (excluding any GST on buy back) as indicated in
+column G below will be considered.
+Illustrative examples for bidders are as under for understanding of the seller.
+
+Excel sheet for explanation to Buyback ATC
+S.no Cost of
+
+Fresh
+Good (A)
+
+%age of
+GST on
+Fresh
+
+Good as
+consider
+
+ed by
+seller at
+the time
+of quote
+
+(B).
+
+GST
+Amount
+on Fresh
+Good (C)
+
+Cost of
+Buyback
+item (D)
+
+%age of
+GST on
+
+Buyback
+items (E)
+as fixed
+by buyer
+in the bid
+
+GST
+Amount
+
+on
+Buyback
+item (F)
+
+as
+applicabl
+e at the
+time of
+invoice
+
+by buyer
+
+Quote of
+the
+
+Bidder (G
+={A+C-
+
+D})
+
+1 100 28 28 20 8 1.6 108
+2 100 9 9 20 8 1.6 89
+3 110 10 11 24 8 1.92 97
+
+Seller after the award of the GeM contract, will indicate all column A to G which will not
+alter their quoted price indicated in Colum-G
+
+3. Successful lowest bidder has to provide detailed cost break up of tendered items as well
+as buy back items separately after award of contract through email to the government
+buyer/consignee.
+4. The seller of new item /service provider shall deposit the cost of invoiced buy back item
+with GST to the buyer for allowing seller to lift up the material from the buyer/consignee
+premise.
+5. Transportation of buy back items from buyer premises shall be arranged by the seller
+itself without any extra cost.
+
+                               4 / 5
+
+
+
+ 
+
+6. Government Buyer organisation /consignee will issue invoice of buy back items to the
+seller at the cost of buyback to be indicated to the buyer by the seller offline after receipt of
+order. This in no case will modify the bid in any manner.
+7. The seller will be entirely responsible for the safe disposal of old items without affecting
+the environment in any manner as per prevailing statutory rules and Act/ law of the land.
+8. The seller may visit the site and inspect the condition of buy back item in advance before
+quoting for the bid.
+9. Receipt of payment by the buyer for Old items and invoicing by buyer will be out of GeM
+portal.
+10. Government Buyer will upload the details of old goods along with the bid in the
+corrigendum with minimum price.
+11. If the minimum price (Optional) is indicated and sellers of new item who are not agreeing
+to take back the old item at equal to or above that minimum price should not participate in
+the bid.
+12. In case they participate into the bid and afterwards indicates the price of old goods, less
+than the minimum price shown by Government Buyer in corrigendum, EMD of the bidder will
+be forfeited.
+13. Item Details Consignee wise will be indicated in the corrigendum like -
+ 1. Consignee wise
+ 2. Item Description
+ 3. Serial Number
+ 4. Model
+ 5. Brand
+ 6. Year of manufacturing
+ 7. Purchased on
+ 8. Age
+ 9. Size, Rating, Designation
+ 10. Quantity
+ 11. Min price (Optional)
+ 12. Unit
+ 13. Working Guidelines (/Functional/Non-Functional)
+ 14. Remarks
+14. The successful bidder shall remove the old goods from the premise of the Government
+buyer/consignee at the time of the supply, installation and commis-sioning of fresh goods.
+Seller will be entitled for payment only after removal of old goods from Government
+buyer/consignee/user’s premise and after supplying the fresh goods in terms of contract.
+15. Note: This clause of ATC shall be operated by non PFMS; non GPA buyer i.e. all PSU
+working through their ERP and not integrated with GPA.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

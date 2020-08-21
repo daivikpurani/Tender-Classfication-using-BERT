@@ -1,0 +1,672 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/707422
+
+  Dated: 12-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 24-07-2020 11:00:00
+
+Bid Opening Date/Time 24-07-2020 11:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Railways
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Central Railway Hq Stores Deptt.
+
+Total Quantity 14
+
+Item Category All in One PC
+
+Experience Criteria  2 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Certificate
+(Requested in ATC),OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  30 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+Estimated Bid Value  601300
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 8
+
+
+
+ 
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 30% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+All In One PC ( 14 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Processor Processor Make Intel Intel
+
+Processor
+Generation
+
+8 8.0 Or higher
+
+Number of Cores per
+Processor
+
+4 4, 6, 8 Or higher
+
+Processor Base
+Frequency (GHz)
+
+1.6 *
+
+Processor
+Description
+
+Intel Core i3 Intel Core i3, Intel Core
+i5, Intel Core i7, Intel
+Core i9 Or higher
+
+Processor Number Intel Core i3 8100 Intel Core i3 8100, Intel
+Core i3 8300, Intel Core
+i5 7400T, Intel Core i5
+7500T, Intel Core i5
+7400, Intel Core i5
+7600T, Intel Core i5
+8400T, Intel Core i5
+7500, Intel Core i5
+8500T, Intel Core i5
+7600, Intel Core i5
+7600K, Intel Core i5
+8400, Intel Core i5
+8500, Intel Core i5
+8600, Intel Core i5
+
+                               2 / 8
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/tjkthlN5I_50rnzypBDm8zXgWqVnlhx3Z0PNMdYFgc4
+
+
+ 
+
+8600K, Intel Core i7
+7700T, Intel Core i7
+7700, Intel Core i7
+8700T, Intel Core i7
+7700K, Intel Core i5
+8250U, Intel Core i7
+8700, Intel Core i3
+8130U, Intel Core i5
+8700K, Intel Core i5
+Turbo Boost 3.6 GHz,
+Intel Core i5 Turbo
+Boost 4.1 GHz, Intel
+Core i5 Turbo Boost 4.3
+GHz, Intel Core i5
+Turbo Boost 4.6 GHz,
+Intel Core i3, Intel Core
+i3 9100, Intel Core i3
+9300, Intel Core i3
+9320, Intel Core i5
+9400, Intel Core i5
+9500, Intel Core i5
+9600, Intel Core i7
+9700, Intel Core i9
+9900, Intel Core i5
+9500T, Intel Core i7
+9700T Or higher
+
+Out of Band
+Management
+
+NA *
+
+Cache (MB) 9 *
+
+Motherboard Chipset Series Intel Q Series Intel H Series, Intel B
+Series, Intel Q Series,
+OEM Or higher
+
+Chipset Number Intel Q 370 Intel H110, Intel H270,
+Intel H310, Intel H370,
+Intel B250, Intel B360,
+Intel Q 250, Intel Q
+270, Intel Q 370, On
+OEM Motherboard Or
+higher
+
+Expansion Slots (M Dot
+2)
+
+0 *
+
+Graphics Graphics Type Integrated *
+
+Graphic Card
+Description
+
+- *
+
+Size of Memory in
+Case of Dedicated
+Graphic Card (GB)
+
+0 0, 1, 2, 3, 4, 8 Or
+higher
+
+Size of VRAM in case of
+Integrated Graphics
+(MB)
+
+0 *
+
+Operating System Operating System
+(Factory Pre-Loaded)
+
+Windows 10
+Professional
+
+Windows 10
+Professional
+
+                               3 / 8
+
+
+
+ 
+
+Recovery Image Media CD from the OEM /
+Stored in Partition of
+the Hard Disk / USB
+Drive from the OEM /
+On Line / Cloud,
+
+*
+
+OS Certification Windows *
+
+Memory Type of RAM DDR4 *
+
+RAM Size (GB) 4 4, 8, 16, 32 Or higher
+
+RAM Speed (MHz) 2400 *
+
+Total Numbers of DIMM
+Slots Available
+
+2 *
+
+Number of DIMM Slots
+populated
+
+1 *
+
+RAM Expandability
+up to( using spare
+DIMM Slots in GB)
+
+32 16, 32, 64 Or higher
+
+Storage Type of Drives used
+to populate the
+Internal Bays
+
+HDD HDD
+
+Number of Internal
+Bays populated with
+HDD
+
+1 *
+
+Capacity of each HDD
+(GB)
+
+1000 @7200 rpm *
+
+Total HDD Capacity
+(GB)
+
+1000 1000, 1500, 2000,
+2500, 3000 Or higher
+
+Number of Internal
+Bays populated with
+SSD
+
+0 *
+
+Capacity of each SSD
+(GB)
+
+0 *
+
+Total SSD Capacity
+(GB)
+
+0 128, 256, 384, 512,
+768, 1024, 2048, 4096,
+0 Or higher
+
+Optane Memory (GB) 0 *
+
+Display Display Size
+(INCHES)
+
+21.5 21.5, 22, 23.6, 23.8,
+27, 34, 37.5 Or higher
+
+Display Type Non Touch Non Touch, Touch Or
+higher
+
+Panel Technology TN IPS, TN, VA Or higher
+
+Display Resolution
+(PIXELS)
+
+1920x1080 1920x1080, 1920 x
+1200, 3200x1800,
+3840 x 2160, 3440 x
+1440, 4096x2304,
+5120x2880 Or higher
+
+Availability of No Yes, No
+
+                               4 / 8
+
+
+
+ 
+
+Webcam integrated
+with Display
+
+If yes, Resolution of
+Webcam
+
+HD *
+
+Availability of Speakers
+integrated with Display
+
+No *
+
+If Yes, Number of
+Speakers available
+
+0 *
+
+Connectivity Wireless Connectivity No *
+
+If Yes, Type of Wireless
+Connectivity
+
+Wi-Fi 802.11b/g/n *
+
+Number of Ethernet
+Ports
+
+1 *
+
+Type of Ethernet Ports 10/100/1000 on board
+Integrated Gigabit Port
+
+*
+
+Bluetooth Connectivity Yes *
+
+If Yes, Version of
+Bluetooth Available
+
+4.1 *
+
+Ports Number of USB Version
+2 Point 0 Ports
+
+0 *
+
+Number of USB Version
+3 point 0 / 3 point 1,
+Gen 1 Ports
+
+1 *
+
+Number of USB Version
+3 point 1, Gen 2 Ports
+
+0 *
+
+Number of USB Type C
+Ports
+
+0 *
+
+Number of Serial Ports 1 *
+
+Number of VGA Ports 0 *
+
+Number of HDMI Ports 1 *
+
+Number of DP Ports 0 *
+
+Generic Optical Drive DVD R/W *
+
+Audio-in No *
+
+Audio-out No *
+
+Headphone out No *
+
+Microphone-in No *
+
+Stand Standard *
+
+Power Power Supply Integrated *
+
+Power Supply Capacity
+(Watt)
+
+220 *
+
+Minimum Power
+Efficiency Range (%)
+
+85 - 90 *
+
+Certification BIS Registration under Yes *
+
+                               5 / 8
+
+
+
+ 
+
+CRS of Meity
+
+BIS Registration
+Number and its Validity
+
+- *
+
+ROHS Compliance Yes *
+
+BEE / Energy Star for
+the given Model
+
+Yes *
+
+Other Certification
+Available
+
+UL,CE *
+
+Input Devices Mouse Connectivity Wired *
+
+Type of Mouse Optical Scroll *
+
+Keyboard Connectivity Wired *
+
+Type of Keyboard Standard *
+
+Operating Conditions Minimum Operating
+Temperature
+
+15 *
+
+Maximum Operating
+Temperature
+
+32 *
+
+Minimum Operating
+Humidity (%RH)
+
+20 *
+
+Maximum Operating
+Humidity (%RH)
+
+80 *
+
+Warranty On Site OEM
+Warranty (Year)
+
+3 3, 5 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Ashok Kumar Devi
+Prasad Tiwari
+
+400001,DRM office, Annext
+Bldg, 2nd floor, , CSMT,
+Mumabai
+
+14  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Bidder financial standing: The bidder should not be under liquidation, court receivership
+or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect
+with bid.
+
+2.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting
+the bid, Manufacturers Authorisation Form (MAF)/Certificate with OEM details such as name,
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid.
+
+3.Bidders shall quote only those products in the bid which are not obsolete in the market and
+has at least 3 years residual market life i.e. the offered product shall not be declared end-of-
+
+                               6 / 8
+
+
+
+ 
+
+life by the OEM before this period.
+4.Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid
+
+documents. Buyers can match and verify the Data Sheet with the product specifications
+offered. In case of any unexplained mismatch of technical parameters, the bid is liable for
+rejection.
+
+5.Nominated Inspection Agency: On behalf of the Buyer organization, any one of the
+following Inspection Agency would be conducting inspection of stores before acceptance:
+Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause
+has been selected in ATC): NA
+Post Receipt Inspection at consignee site before acceptance of stores: By CONSIGNEE
+
+6.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and
+Commissioning of Goods
+
+7.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents
+sought in the Bid document, ATC and Corrigendum if any.
+
+8. ISO 9001: The bidder must have ISO 9001 certification.
+9.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+10.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+11.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+12.Warranty period of the supplied products shall be 3 years from the date of final acceptance
+of goods or after completion of installation, commissioning & testing of goods (if included in
+the scope of supply), at consignee location. OEM Warranty certificates must be submitted by
+Successful Bidder at the time of delivery of Goods. The seller should guarantee the
+rectification of goods in case of any break down during the guarantee period. Seller should
+have well established Installation, Commissioning, Training, Troubleshooting and
+Maintenance Service group in INDIA for attending the after sales service. Details of Service
+Centres near consignee destinations are to be uploaded along with the bid
+
+13.For fulfilling the experience criteria any one of the following documents may be considered
+as valid proof for meeting the experience criteria:
+a. Purchase Order copy along with Invoice(s) with self-certification by the bidder that
+supplies against the invoices have been executed.
+b. Execution certificate by client with order value.
+c. Any other document in support of order execution like Third Party Inspection release note,
+etc.
+
+14.The Bidder / OEM {themselves or through reseller(s)}, should have executed project for
+supply and installation / commissioning of same or similar Category Products during
+preceding 3 financial years (i.e. current year and three previous financial years) as on
+opening of bid, as per following criteria:
+ 
+(i) Single order of at least 35% of estimated bid value; or
+(ii) Two orders of at least 20% each of estimated bid value; or
+(iii) Three orders of at least 15% each of estimated bid value.
+Satisfactory Performance certificate issued by respective Buyer Organization for the above
+Orders should be uploaded with bid. In case of bunch bids, the Category related to primary
+product having highest bid value should meet this criterion
+
+15.Bid reserved for Make In India products: Procurement under this bid is reserved for purchase
+from Class 1 local suppliers as defined in public procurement (Preference to Make in India),
+Order 2017 as amended from time to time and its subsequent Orders/Notifications issued by
+concerned Nodal Ministry for specific Goods/Products. The minimum local content to qualify
+as a class 1 local supplier is denoted in the bid document 50%. All bidders must upload a
+
+                               7 / 8
+
+
+
+ 
+
+certificate from the OEM regarding the percentage of the local content and the details of
+locations at which the local value addition is made along with their bid, failing which the bid
+is liable to be rejected. In case the bid value is more than Rs 10 Crore, the declaration
+relating to percentage of local content shall be certified by the statutory auditor or cost
+auditor, if the OEM is a company and by a practicing cost accountant or a chartered
+accountant for OEMs other than companies as per the Public Procurement (preference to
+Make-in -India) order 2017 dated 04.06.2020 . In case Buyer has selected Purchase
+preference to Micro and Small Enterprises clause in the bid, the same will get precedence
+over this clause.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               8 / 8
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,478 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/714270
+  Dated: 17-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 11:00:00
+
+Bid Opening Date/Time 27-07-2020 11:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Railways
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Central Railway Hq Stores Deptt.
+
+Total Quantity 4
+
+Item Category Computer Printers
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Certificate (Requested in
+ATC),OEM Authorization Certificate
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the
+buyer
+
+Past Performance  50 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+Estimated Bid Value  68000
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM {themselves or
+through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central
+/ State Govt Organization / PSU / Public Listed Company for number of years as indicated in the bid document before the
+bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some
+
+                               1 / 5
+
+
+
+ 
+
+quantity during each of the year. In case of bunch bids, the category of primary product having highest value should
+meet this criterion.
+2. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have supplied same or similar
+Category Products for 50% of bid quantity, in at least one of the last three years before the bid opening date to any
+Central / State Govt Organization / PSU / Public Listed Company. Copies of relevant contracts (proving supply of
+cumulative order quantity in any one year) to be submitted along with bid in support of quantity supplied in the relevant
+year. In case of bunch bids, the category related to primary product having highest bid value should meet this criterion.
+
+Computer Printers ( 4 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Specifications Cartridge Technology Composite Cartridge Composite Cartridge,
+separate toner and drum Or
+higher
+
+Printing Technology Laser Laser
+
+Type of Printing Mono Mono
+
+Paper Size A4 A4, A3 Or higher
+
+Print Speed per minute
+as per ISO/IEC 24734 in
+(A4) Size - Mono
+
+25 25, 27, 28, 30, 35, 38, 40,
+43, 45, 47, 50, 52, 55, 60,
+61, 65, 70, 71, 75, 80, 85,
+90, 95, 100, 105, 110, 26,
+31, 32, 62, 33, 41, 46, 56,
+29, 34 Or higher
+
+Print Speed per minute
+as per ISO/IEC 24734 in
+(A4) - Color
+
+0 4, 7, 8, 10, 12, 15, 16, 18,
+20, 25, 30, 35, 40, 45, 50,
+55, 60, 65, 70, 75, 80, 85,
+90, 95, 100, 105, 110, 26,
+27, 31, 38, 4.4, 5, 5.7, 5.8,
+6.8, 10.4, 15.5, 21, 24, 33,
+46, 34, 19, 0, 14 Or higher
+
+Resolution (Dpi) 1200x1200 *
+
+Memory (MB) 128 *
+
+Hard Disk Capacity (GB) 0 *
+
+Processor Speed 750 MHz *
+
+Duplexing Feature Yes Yes Or higher
+
+Duplex Print Speed ( IPM) 14 *
+
+Network Connectivity Yes *
+
+Network Interface, if
+available
+
+Ethernet 10/100 *
+
+Wireless Connectivity Yes Yes Or higher
+
+If Yes, Type of Wireless
+Connectivity
+
+Wireless (802.11 b/g/n) *
+
+USB Port Yes *
+
+Number of Main Paper
+Trays
+
+1 1, 2, 3, 4, 5 Or higher
+
+Each Main Paper Tray
+Capacity
+
+250 *
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/59qGP80u5NmbpgchWi2phr5803Dsq4BAiL3Tgpp12vU
+
+
+ 
+
+Bypass Tray Facility Yes Yes Or higher
+
+If Yes, Bypass Tray Capacity 10 *
+
+Yield of the cartridge/Ink
+Tank/Ink Pack supplied with
+Machine as per ISO/IEC:
+19798/2007(E) for Cyan
+colour (Number of prints)
+
+0 *
+
+Yield of the cartridge/Ink
+Tank/Ink Pack supplied with
+Machine as per ISO/IEC:
+19798/2007(E) for Yellow
+colour (Number of prints)
+
+0 *
+
+Yield of the cartridge/Ink
+Tank/Ink Pack supplied with
+Machine as per ISO/IEC:
+19752/2004(E) for Black
+(Number of prints)
+
+1500 *
+
+Life of Drum in terms of
+number of Prints in case of
+Separate Drum and Toner
+cartridge technology -Cyan
+
+0 *
+
+Life of Drum in terms of
+number of Prints in case of
+Separate Drum and Toner
+cartridge technology -
+Yellow
+
+0 *
+
+Life of Drum in terms of
+number of Prints in case of
+Separate Drum and Toner
+cartridge technology -
+Magenta
+
+0 *
+
+Life of Drum in terms of
+number of Prints in case of
+Separate Drum and Toner
+cartridge technology - Black
+
+0 *
+
+Duty Cycle (No of
+Prints/month)
+
+30000 *
+
+Minimum Operating
+Temperature (Degree C)
+
+14 *
+
+Maximum Operating
+Temperature (Degree C)
+
+34 *
+
+Minimum Operating
+Humidity (%RH)
+
+11 *
+
+Maximum Operating
+Humidity (% RH)
+
+85 *
+
+BIS Registration under CRS
+of Meity
+
+Yes *
+
+BIS Registration no - *
+
+Other Certifications
+Available
+
+UL,CE *
+
+Dimensions(In mm x mm x
+mm )
+
+- *
+
+Weight (In kg) - *
+
+On site OEM warranty
+(Years)
+
+3 3, 5, 4 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+
+                               3 / 5
+
+
+
+ 
+
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Devadurgam Pavan
+Kumar
+
+413001,DRM OFFICE CENTRAL
+RAILWAY SOLAPUR
+
+4  30
+
+Bid Specific Additional Terms and Conditions
+1.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each
+
+Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If
+service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one
+within 30 days of award of contract. Payment shall be released only after submission of documentary evidence
+of having Functional Service Centre.
+
+2.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting the bid, Manufacturers
+Authorisation Form (MAF)/Certificate with OEM details such as name, designation, address, e-mail Id and Phone
+No. required to be furnished along with the bid.
+
+3.Bidder financial standing: The bidder should not be under liquidation, court receivership or similar
+proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid.
+
+4.Bidders shall quote only those products in the bid which are not obsolete in the market and has at least 5 years
+residual market life i.e. the offered product shall not be declared end-of-life by the OEM before this period.
+
+5.Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid
+document, ATC and Corrigendum if any.
+
+6.Indian suppliers of this item are not allowed to participate and/ or compete in procurement by some foreign
+governments. Bidders / products from such countries are not eligible / not allowed to participate in this bid in
+terms of clause 1 (d) of Public Procurement (Preference to Make in India) Order, 2017
+
+7.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone
+No. for Service Support.
+
+8.Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid documents. Buyers can
+match and verify the Data Sheet with the product specifications offered. In case of any unexplained mismatch of
+technical parameters, the bid is liable for rejection.
+
+9.For fulfilling the experience criteria any one of the following documents may be considered as valid proof for
+meeting the experience criteria:
+a. Purchase Order copy along with Invoice(s) with self-certification by the bidder that supplies against the
+invoices have been executed.
+b. Execution certificate by client with order value.
+c. Any other document in support of order execution like Third Party Inspection release note, etc.
+
+10.Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have regularly,
+manufactured and supplied same or similar Category Products to any Central / State Govt Organization / PSU /
+Public Listed Company for 3 years before the bid opening date. Copies of relevant contracts to be submitted
+along with bid in support of having supplied some quantity during each of the year. In case of bunch bids, the
+primary product having highest value should meet this criterion.
+
+11.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for
+Service Support.
+
+12.ISO 9001: The bidder must have ISO 9001 certification.
+13.IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered
+
+office in India to provide after sales service support in India. The certificate to this effect should be submitted.
+14.OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25
+
+percent at the time of placement of contract. The purchaser also reserves the right to increase the ordered
+quantity by up to 25% of the contracted quantity during the currency of the contract at the contracted rates.
+Bidders are bound to accept the orders accordingly.
+
+15.Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of
+Goods
+
+16.Timely Servicing / rectification of defects during warranty period: After having been notified of the defects /
+service requirement during warranty period, Seller has to complete the required Service / Rectification within 7
+days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of
+Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit
+the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the
+Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after
+which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and
+
+                               4 / 5
+
+
+
+ 
+
+cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service /
+rectification to the Buyer.
+
+17.Successful bidder will have to ensure that adequate number of dedicated technical service personals / engineers
+are designated / deployed for attending to the Service Request in a time bound manner and for ensuring Timely
+Servicing / rectification of defects during warranty period, as per Service level agreement indicated in the
+relevant clause of the bid.
+
+18.The Bidder / OEM {themselves or through reseller(s)}, should have executed project for supply and installation /
+commissioning of same or similar Category Products during preceding 3 financial years (i.e. current year and
+three previous financial years) as on opening of bid, as per following criteria:
+ 
+(i) Single order of at least 35% of estimated bid value; or
+(ii) Two orders of at least 20% each of estimated bid value; or
+(iii) Three orders of at least 15% each of estimated bid value.
+Satisfactory Performance certificate issued by respective Buyer Organization for the above Orders should be
+uploaded with bid. In case of bunch bids, the Category related to primary product having highest bid value
+should meet this criterion
+
+19.Without prejudice to Buyer’s right to price adjustment by way of discount or any other right or remedy available
+to Buyer, Buyer may terminate the Contract or any part thereof by a written notice to the Seller, if:
+i) The Seller fails to comply with any material term of the Contract.
+ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within the stipulated
+Delivery Period or such inability otherwise becomes apparent.
+iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery Period and/or to
+replace/rectify any rejected or defective Material(s) promptly.
+iv) The Seller becomes bankrupt or goes into liquidation.
+v) The Seller makes a general assignment for the benefit of creditors.
+vi) A receiver is appointed for any substantial property owned by the Seller.
+vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has placed the Purchase
+Order on the Seller.
+
+20.1. The Seller shall not assign the Contract in whole or part without obtaining the prior written consent of buyer.
+2. The Seller shall not sub-contract the Contract in whole or part to any entity without obtaining the prior written
+consent of buyer.
+3. The Seller shall, notwithstanding the consent and assignment/sub-contract, remain jointly and severally liable
+and responsible to buyer together with the assignee/ sub-contractor, for and in respect of the due performance
+of the Contract and the Sellers obligations there under.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

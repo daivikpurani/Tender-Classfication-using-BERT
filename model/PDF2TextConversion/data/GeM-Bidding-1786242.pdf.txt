@@ -1,0 +1,409 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/710165
+
+  Dated: 14-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 24-07-2020 17:00:00
+
+Bid Opening Date/Time 24-07-2020 17:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Delhi
+
+Department Name Training And Technical Education Department Delhi
+
+Organisation Name N/a
+
+Office Name South West
+
+Total Quantity 120
+
+Item Category interactive panels and accessories
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 5.00
+
+EMD Amount 210000
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 10.00
+
+Duration of ePBG required (Months). 14
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+                               1 / 5
+
+
+
+ 
+
+Beneficiary: 
+Registrar
+NSUT, Sector-3, Dwarka, New Delhi-110078
+(Sanjeeve Thakur)
+
+Splitting
+
+  Bid splitting not applied.  
+
+Interactive Panels And Accessories ( 120 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Specification Display Type LCD LCD
+
+Display Panel
+Diagonal size (mm)
+
+337 337
+
+Width of The
+Effective Display
+Area of The Panel
+(mm)
+
+294 294
+
+Height of The
+Effective Display
+Area of The Panel
+(mm)
+
+166 166
+
+Backlight
+Technology
+
+LED LED
+
+Display Resolution
+(Pixels)
+
+1920X1080 1920X1080
+
+Display Brightness
+(Nits)
+
+200 200
+
+Display Aspect Ratio 16:9 *
+
+Touch interface pen driven pen driven
+
+Touch Technology Electromagnetic Electromagnetic
+
+Number of touch
+points (Number)
+
+1 1
+
+Response time (milli
+seconds)
+
+26 26
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/yfwgEl2d94zby2_ojo9a_eQ-1jeBLx_g-3_X50h-1to
+
+
+ 
+
+Operating System
+Compatibility
+
+- *
+
+Number of Input HDMI
+ports
+
+1 *
+
+Number of USB 2.0
+ports (Nos.)
+
+1 *
+
+Number of USB 3.0
+ports (Nos.)
+
+0 *
+
+Number of Audio Input
+ports (Number)
+
+0 *
+
+Number of audio output
+ports (Nos.)
+
+0 *
+
+Number of RS-232 C
+ports (Nos.)
+
+0 *
+
+Number of RJ 45 ports
+(Nos.)
+
+0 *
+
+Number of VGA-IN
+ports (Number)
+
+0 *
+
+Number of VGA-OUT
+ports (Number)
+
+0 *
+
+Provision of in built
+speakers
+
+No No
+
+Provision for wall
+mounting
+
+Yes *
+
+Bluetooth connectivity No *
+
+Wi-Fi connectivity No *
+
+Number of electronic
+pen or stylus to be
+supplied with the board
+(Nos)
+
+1 *
+
+Details of software
+provided
+
+- *
+
+Power Supply Voltage
+in AC (Volts)
+
+100-240 *
+
+Power consumption
+(Watts)
+
+10 *
+
+Operating Temperature
+Range (degree celsius)
+
+- *
+
+Operating Humidity
+(%)RH
+
+- *
+
+Installation Kit to be
+supplied alongwith the
+Panel
+
+Yes *
+
+All connecting Cables
+and accessories to be
+supplied along with the
+
+Yes *
+
+                               3 / 5
+
+
+
+ 
+
+Panel
+
+BIS Registration under
+CRS of Meity
+
+Yes *
+
+BIS Registration
+Number & its Validity
+
+- *
+
+Availability of test
+reports from Central
+Govt /NABL / ILAC
+accredited Lab
+covering all the
+parameters
+
+No *
+
+Test Report Number - *
+
+Test Report date - *
+
+Name of Test lab - *
+
+Address of the Test lab - *
+
+On Site OEM
+Warranty (Year)
+
+1 1
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Dilip Kumar 110078,NSIT, Sector-3,
+Dwarka, New Delhi-110078
+
+120  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+2.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+3.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+4.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 3 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+
+                               4 / 5
+
+
+
+ 
+
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

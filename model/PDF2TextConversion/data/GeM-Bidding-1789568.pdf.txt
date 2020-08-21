@@ -1,0 +1,403 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/713182
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 15:00:00
+
+Bid Opening Date/Time 27-07-2020 15:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Army
+
+Office Name ***********
+
+Total Quantity 4
+
+Item Category Computer Printers
+
+OEM Average Turnover (Last 3 Years)  2 Lakh (s)
+
+Experience Criteria  1 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM Authorization
+Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the
+buyer
+
+Past Performance  80 %
+
+Bid to RA enabled  Yes
+
+Inspection Required  Yes
+
+Inspection to be carried out by Buyers own
+empanelled agency
+
+ Yes
+
+Type Of Inspection  Post Dispatch
+
+Name of the Empanelled Inspection Agency/
+Authority
+
+ Board of Officers
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 4
+
+
+
+ 
+
+MSE Purchase Preference
+
+MSE Purchase Preference Yes
+
+ 
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM {themselves or
+through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central
+/ State Govt Organization / PSU / Public Listed Company for number of years as indicated in the bid document before the
+bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some
+quantity during each of the year. In case of bunch bids, the category of primary product having highest value should
+meet this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product during the
+last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document.
+Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the
+Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with
+the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for this criteria.
+3. Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to MSEs as defined in
+Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued by Ministry of
+Micro, Small and Medium Enterprises and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder
+wants to avail the Purchase preference, the bidder must be the manufacturer of the offered product in case of bid for
+supply of goods. Traders are excluded from the purview of Public Procurement Policy for Micro and Small Enterprises. In
+respect of bid for Services, the bidder must be the Service provider of the offered Service. Relevant documentary
+evidence in this regard shall be uploaded along with the bid in respect of the offered product or service. If L-1 is not an
+MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of purchase preference /price band defined in
+relevant policy, such Seller shall be given opportunity to match L-1 price and contract will be awarded for percentage of
+25% of total value.
+4. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have supplied same or similar
+Category Products for 80% of bid quantity, in at least one of the last three years before the bid opening date to any
+Central / State Govt Organization / PSU / Public Listed Company. Copies of relevant contracts (proving supply of
+cumulative order quantity in any one year) to be submitted along with bid in support of quantity supplied in the relevant
+year. In case of bunch bids, the category related to primary product having highest bid value should meet this criterion.
+
+Computer Printers ( 4 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Specifications Cartridge Technology Composite Cartridge Composite Cartridge,
+separate toner and drum Or
+higher
+
+Printing Technology Laser Laser
+
+Type of Printing Mono Mono, Colour
+
+Paper Size A4 A4, A3 Or higher
+
+Print Speed per minute
+as per ISO/IEC 24734 in
+(A4) Size - Mono
+
+12 *
+
+Print Speed per minute
+as per ISO/IEC 24734 in
+(A4) - Color
+
+0 4, 7, 8, 10, 12, 15, 16, 18,
+20, 25, 30, 35, 40, 45, 50,
+55, 60, 65, 70, 75, 80, 85,
+90, 95, 100, 105, 110, 26,
+27, 31, 38, 4.4, 5, 5.7, 5.8,
+6.8, 10.4, 15.5, 21, 24, 33,
+46, 34, 19, 0, 14 Or higher
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/oi6He4x3AhTc9mEMkqOYuTqJOeQqcOuG5LhVLDBqFV8
+
+
+ 
+
+Resolution (Dpi) 600x600 *
+
+Memory (MB) 2 *
+
+Hard Disk Capacity (GB) 0 *
+
+Processor Speed 0 *
+
+Duplexing Feature No Yes, No Or higher
+
+Duplex Print Speed ( IPM) 0 *
+
+Network Connectivity No *
+
+Network Interface, if
+available
+
+NA *
+
+Wireless Connectivity No Yes, No Or higher
+
+If Yes, Type of Wireless
+Connectivity
+
+NA *
+
+USB Port Yes *
+
+Number of Main Paper
+Trays
+
+1 1, 2, 3, 4, 5 Or higher
+
+Each Main Paper Tray
+Capacity
+
+150 *
+
+Bypass Tray Facility No Yes, No Or higher
+
+If Yes, Bypass Tray Capacity 1 *
+
+Yield of the cartridge/Ink
+Tank/Ink Pack supplied with
+Machine as per ISO/IEC:
+19798/2007(E) for Cyan
+colour (Number of prints)
+
+0 *
+
+Yield of the cartridge/Ink
+Tank/Ink Pack supplied with
+Machine as per ISO/IEC:
+19798/2007(E) for Yellow
+colour (Number of prints)
+
+0 *
+
+Yield of the cartridge/Ink
+Tank/Ink Pack supplied with
+Machine as per ISO/IEC:
+19752/2004(E) for Black
+(Number of prints)
+
+2000 *
+
+Life of Drum in terms of
+number of Prints in case of
+Separate Drum and Toner
+cartridge technology -Cyan
+
+0 *
+
+Life of Drum in terms of
+number of Prints in case of
+Separate Drum and Toner
+cartridge technology -
+Yellow
+
+0 *
+
+Life of Drum in terms of
+number of Prints in case of
+Separate Drum and Toner
+cartridge technology -
+Magenta
+
+0 *
+
+Life of Drum in terms of
+number of Prints in case of
+Separate Drum and Toner
+cartridge technology - Black
+
+3000 *
+
+Duty Cycle (No of
+Prints/month)
+
+10000 *
+
+                               3 / 4
+
+
+
+ 
+
+Minimum Operating
+Temperature (Degree C)
+
+15 *
+
+Maximum Operating
+Temperature (Degree C)
+
+70 *
+
+Minimum Operating
+Humidity (%RH)
+
+45 *
+
+Maximum Operating
+Humidity (% RH)
+
+95 *
+
+BIS Registration under CRS
+of Meity
+
+Yes *
+
+BIS Registration no - *
+
+Other Certifications
+Available
+
+RoHS,UL,CE,FCC *
+
+Dimensions(In mm x mm x
+mm )
+
+- *
+
+Weight (In kg) - *
+
+On site OEM warranty
+(Years)
+
+1 1, 3, 5, 2, 4 Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********AJMER 4  10
+
+Bid Specific Additional Terms and Conditions
+1.After award of contract – Successful Bidder shall have to get advance sample approved from buyer before bulk
+
+manufacturing / starting bulk supplies. Successful Bidder shall submit 1 samples for Buyer's approval, within 10
+days of award of contract. Buyer shall, as per contract specifications framework, either approve the advance
+sample or will provide complete list of modification required in the sample within 15 days of receipt of advance
+sample. Seller shall be required to ensure supply as per approved sample with modifications as communicated
+by Buyer. If there is delay from buyer side in approval of advance sample – the delivery period shall be refixed
+without LD for the period of delay in sample approval. In case, the sample is found to have major deviations / not
+conforming to the Contract specifications, the buyer at its discretion may call for fresh samples for approval
+before allowing bulk supplies or may terminate the contract after notifying the deviations to the seller.
+Unless otherwise provided in the contract, all samples required for test shall be supplied by the contractor free of
+cost. Where under the contract, the contractor is required to submit an advance sample, any expenses incurred
+by the contractor on or in connection with the production of stores in bulk, before the sample has been approved
+unconditionally shall be borne by the Seller and he shall not claim any compensation in the event of such sample
+being found unacceptable by the Buyer / Consignee.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

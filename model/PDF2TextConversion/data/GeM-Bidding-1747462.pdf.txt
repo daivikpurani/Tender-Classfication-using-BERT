@@ -1,0 +1,702 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/674754
+
+  Dated: 22-06-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 06-07-2020 17:00:00
+
+Bid Opening Date/Time 2020-07-06 17:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Gujarat
+
+Department Name Health & Family Welfare Department Gujarat
+
+Organisation Name Gujarat Cancer & Research Institute
+
+Office Name West
+
+Total Quantity 1
+
+Item Category HBA1C/Hemoglobinopathy Analyzer
+
+Bidder Turnover (Last 3 Years)  30 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  150 Lakh (s)
+
+Experience Criteria  2 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM
+Authorization Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Past Performance  50 %
+
+Bid to RA enabled  Yes
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 3.00
+
+EMD Amount 180000
+
+ePBG Detail
+
+                               1 / 9
+
+
+
+ 
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 10.00
+
+Duration of ePBG required (Months). 60
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+Biomedical Engineer
+The Gujarat Cancer & Research Institute, Civil Hospital Campus, M. P. Shah Cancer Hospital Campus,
+New Civil Hospital Rd, Asarwa, Ahmedabad, Gujarat 380016
+(Sathwara Drashti)
+
+Splitting
+
+ Bid splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial year,
+should be as indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant
+indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for
+this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have
+supplied same or similar Category Products for 50% of bid quantity, in at least one of the last three
+years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed
+Company. Copies of relevant contracts (proving supply of cumulative order quantity in any one
+year) to be submitted along with bid in support of quantity supplied in the relevant year. In case of
+bunch bids, the category related to primary product having highest bid value should meet this
+criterion.
+
+HBA1C/Hemoglobinopathy Analyzer ( 1 pieces )
+
+Technical Specifications
+
+                               2 / 9
+
+
+
+ 
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Standards Certification for product - *
+
+Certification number
+and date
+
+- *
+
+Conformity to
+Manufacturing
+Standards
+
+ISO 9001 & ISO 13485 *
+
+Confirming Standards
+for Electrical Safety
+
+IEC- 60601 with latest
+amendments or BIS
+equivalent
+
+*
+
+Performance
+Parameters
+
+Type of technology CAPILLARY
+TECHNOLOGY
+
+*
+
+Configuration and
+usage of the system
+
+Automated &
+Integrated system for
+testing and screening
+of HbA1c,
+Thalassaemia and
+Hemoglobinopathy as
+specified in the
+category parameters
+
+*
+
+Hemoglobins which
+can be screen and
+quantitated
+
+HBA, HBA2, HBF HBA, HBA2, HBF, HBA,
+HBA2, HBF , HBA1C,
+HBA1C
+
+System has ability to
+detect the most
+commonly occurring
+abnormal hemoglobins
+like Hb S, Hb D, Hb E,
+Hb C, Hb Q-India
+
+Yes *
+
+Detection of rare
+abnormal hemoglobin
+
+Yes *
+
+System shall be
+supplied with complete
+ready to use kit with all
+the buffers to run the
+system
+
+Yes *
+
+Sample volume
+required in ml
+
+2 *
+
+Sample Throughput
+time in minutes
+
+9 *
+
+Number of samples
+the Analyser is
+capable to analyse
+(minimum),
+concurrently
+
+120 More than 120.0 Or
+higher
+
+                               3 / 9
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/DmIWL96L_hGsObTFuZpYJo1A1T4d-m_38syqTebFcnY
+
+
+ 
+
+Equipmemt shall be
+supplied with an offline
+digital library database
+with more than 200
+chromatograms of fully
+classifed abnormal
+hemoglobins and
+thalassemia
+
+Yes *
+
+System have standards
+for instruments
+calibrations ensuring
+accurate quantitation
+of results
+
+In - kit/external *
+
+Type of pump with
+programmable solvent
+delivery system
+
+Pneumatic pump *
+
+Availability of a bi-
+directional Laboratory
+Interface System (LIS)
+
+Yes *
+
+Alarm Facility Have a visible alarm
+system for low buffer in
+the mobile phase
+reservoirs, low level
+value for cartridge
+injections and overflow
+for the waste tank, as
+well as built in alarms
+for calibration failure
+
+*
+
+System is capable of
+positive sample
+identification using a
+Barcode reader after
+processing is
+completed
+
+Yes *
+
+System have an inbuilt
+system check facility
+which checks that all
+the system parameters
+(eg, cartridge, buffer,
+reagent, waste etc) are
+ready before the
+sample analysis
+
+Yes *
+
+System the facility of
+primary tube sampling
+and direct dilution of
+the samples without
+manual intervention
+
+Yes *
+
+System have a dual
+program mode to
+perform either HbA1c
+or HbA2/Hb F/HbA
+(applicable if both
+HBA1C and
+
+NA *
+
+                               4 / 9
+
+
+
+ 
+
+HBA2/HBF/HBA is
+available)
+
+Changing of reagents
+in dual mode
+
+System require
+changing of reagents
+while switching from
+HbA1c to HbA/HbA2/Hb
+F/ testing mode
+
+*
+
+System should be able
+to detect correct A1c
+values in presence of
+abnormal Hemoglobin
+variants like HbD, HbE,
+HbS & HbC
+
+Yes *
+
+System offers both
+NGSP & IFCC value
+reporting on the same
+patient report
+
+Yes *
+
+Has facility to print a
+hard copy report giving
+identification and
+information on the
+subtype and quantity of
+hemoglobins detected,
+to view current and
+stored chromatograms/
+Electrophorogram &
+should enable storage
+of chromatograms /
+Electrophorogram
+
+Yes *
+
+Printer External *
+
+Type of printer Laser *
+
+System to supplied
+with Seller’s
+commitment to provide
+normal & abnormal
+controls for Hb A2, Hb
+F, Hb S & HBA1C as
+applicable for supplied
+model & provide
+quality control program
+to help compare results
+
+Yes *
+
+Availability of external
+quality assurance
+service (EQAS) for
+Hemoglobin variants
+and offline library of
+chromatograms for
+result interpretation
+
+Yes *
+
+Availability of Software
+and capability for real
+time viewing of the
+analysis of the sample
+
+Yes *
+
+                               5 / 9
+
+
+
+ 
+
+Data Management
+System Parameters
+
+Data management
+system
+
+PC Based *
+
+Hard disk provided 80 GB or more *
+
+Screen size in inches 14 *
+
+Display LCD *
+
+USB port 2 *
+
+Connectivity to internet Yes *
+
+Miscellaneous
+Parameters
+
+Comprehensive
+Warranty in years
+
+5 5
+
+System is NGSP
+(National
+Glycohemoglobin
+Standardisation
+Program) Certified and
+traceable to IFCC
+reference method
+
+Yes *
+
+Number of
+installations in
+Central /State/PSU
+Govt Hospitals (
+Hint: Seller should
+supply a performace
+certificate of the
+device to the buyer
+incase demaneded
+after placement of
+order)
+
+More than 3 No installations, Upto 3,
+More than 3
+
+Availability of toll free
+facility for technical
+support maintened by
+OEM or authorized
+agencies
+
+Yes *
+
+User/Technical/Mainten
+ance manuals to be
+supplied in English in
+hard and soft copy
+
+Yes *
+
+Installation and
+demonstration of
+equipment and training
+to be provided after
+completing supplies
+before acceptance
+
+Yes *
+
+The Principal
+Manufacturer must
+have direct
+Presence/approved
+service center In India
+
+Yes *
+
+Copies of reports and
+certifications to be
+furnished to buyer on
+
+Yes *
+
+                               6 / 9
+
+
+
+ 
+
+demand at time of
+supplies
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Sathwara Drashti 380016,The Gujarat Cancer
+and Research Institute Civil
+Hospital Campus, Asarwa,
+Ahmedabad-380 016.
+Gujarat, INDIA
+
+1  60
+
+Bid Specific Additional Terms and Conditions
+
+1.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+2.Registration / Empanelment Requirement: Contract shall be awarded to only such
+sellers , who are registered / empanelled / approved / enlisted with Trivitron Healthcare Pvt.
+Ltd. for the required goods / service category on the date of bid opening. Prospective bidders
+(if not already registered), are advised to get themselves registered with the said
+registration authority before bid opening date. (It is certified that the registration is granted
+by the registering agency as per Rule 150 of GFR following a fair, transparent and
+reasonable procedure.)
+
+3.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+4.Bidders can also submit the EMD with Payment online through RTGS / internet banking in
+Beneficiary name The Gujarat Cancer And Research Institute Account No. 1056869966 IFSC
+Code CBIN0282047 Bank Name CENTRAL BANK OF INDIA Branch address CHAMANPURA
+BRANCH, AHMEDABAD-380016.
+ Bidder to indicate bid number and name of bidding entity in the transaction details field at
+the time of on-line transfer. Bidder has to upload scanned copy / proof of the Online Payment
+Transfer along with bid.
+
+5.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+6.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+7.Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have
+regularly, manufactured and supplied same or similar Category Products to any Central /
+
+                               7 / 9
+
+
+
+ 
+
+State Govt Organization / PSU / Public Listed Company for 3 years before the bid opening
+date. Copies of relevant contracts to be submitted along with bid in support of having
+supplied some quantity during each of the year. In case of bunch bids, the primary product
+having highest value should meet this criterion.
+
+8. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+9.Malicious Code Certificate:
+
+The seller should upload following certificate in the bid:-
+(a) This is to certify that the Hardware and the Software being offered, as part of the
+contract, does not contain Embedded Malicious code that would activate procedures to :-
+  (i) Inhibit the desires and designed function of the equipment.
+  (ii) Cause physical damage to the user or equipment during the exploitation.
+  (iii) Tap information resident or transient in the equipment/network.
+(b) The firm will be considered to be in breach of the procurement contract, in case physical
+damage, loss of information or infringements related to copyright and Intellectual Property
+Right (IPRs) are caused due to activation of any such malicious code in embedded software.
+
+10.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial
+year, should be as indicated in the bid document. Documentary evidence in the form of
+certified Audited Balance Sheets of relevant periods or a certificate from the Chartered
+Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than
+3 year old, the average turnover in respect of the completed financial years after the date of
+constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of
+CATEGORY RELATED TO primary product having highest bid value should meet this criterion.
+
+11.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+12.Successful Bidder can submit the Performance Security in the form of Account Payee
+Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in
+favour of THE GUJARAT CANCER AND RESEARCH INSTITUTE payable at AHMEDABAD,
+GUJARAT. After award of contract, Successful Bidder can upload scanned copy of the DD in
+place of PBG and has to ensure delivery of hard copy to the original DD to the Buyer within
+15 days of award of contract.
+
+13.Successful Bidder can submit the Performance Security in the form of Payment online
+through RTGS / internet banking also (besides PBG which is allowed as per GeM GTC). On-
+line payment shall be in Beneficiary name THE GUJARAT CANCER AND RESEARCH INSTITUTE
+Account No. 1056869966 IFSC Code CBIN0282047 Bank Name CENTRAL BANK OF INDIA
+Branch address CHAMANPURA BRANCH, AHMEDABAD-380016. Successful Bidder to indicate
+Contract number and name of Seller entity in the transaction details field at the time of on-
+line transfer. Bidder has to upload scanned copy / proof of the Online Payment Transfer in
+place of PBG within 15 days of award of contract.
+
+14.Timely Servicing / rectification of defects during warranty period: After having been notified
+of the defects / service requirement during warranty period, Seller has to complete the
+required Service / Rectification within 3 days time limit. If the Seller fails to complete service
+/ rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be
+charged as penalty for each week of delay from the seller. Seller can deposit the penalty
+with the Buyer directly else the Buyer shall have a right to recover all such penalty amount
+from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of
+the total contract value after which the Buyer shall have the right to get the service /
+rectification done from alternate sources at the risk and cost of the Seller besides forfeiture
+of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the
+
+                               8 / 9
+
+
+
+ 
+
+Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               9 / 9
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

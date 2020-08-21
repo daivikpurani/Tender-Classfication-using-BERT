@@ -1,0 +1,818 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   RA Number: GEM/2020/RA/42512
+
+  Dated: 09-06-2020
+
+  
+
+RA Document
+RA Details
+
+RA Technical End Date/Time 19-06-2020 18:00:00
+
+RA Opening Date/Time 19-06-2020 18:30:00
+
+RA Life Cycle (From Publish Date) 90 (Days)
+
+RA Offer Validity (From End Date) 15 (Days)
+
+Ministry/State Name Haryana
+
+Department Name Development And Panchayats Department Haryana
+
+Organisation Name N/a
+
+Office Name Chandigarh
+
+Total Quantity 4
+
+Item Category Laptop-Notebook
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ RA splitting not applied.
+
+Laptop-Notebook ( 4 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Construction Form Factor Standard Standard, Convertible,
+Detachable
+
+                               1 / 9
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/hPEUqnjTIwimQXsiIYu9e7ToUPT8rAmIzDBi7uKdSl4
+
+
+ 
+
+Chassis Material ABS Plastic *
+
+Hinges Metallic *
+
+Processor Processor Make AMD Intel, AMD, Microsoft
+
+Processor
+Generation
+
+7 7, 8, 0, 9, 10, 1 Or
+higher
+
+Number of Cores per
+Processor
+
+2 2, 4, 6, 8 Or higher
+
+Processor Base
+Frequency (GHz)
+
+3 *
+
+Processor
+Description
+
+AMD PRO A6 *
+
+Processor Number AMD PRO A6 7350B *
+
+Out of Band
+Management
+
+NA *
+
+Cache (MB) 1 *
+
+Motherboard Expansion Slots (M Dot
+2)
+
+1 *
+
+Graphics Graphics Type Integrated *
+
+Graphic Card
+Description
+
+- *
+
+Size of Memory in
+Case of Dedicated
+Graphic Card (GB)
+
+0 0, 1, 2, 3, 4, 6 Or
+higher
+
+Size of VRAM in case of
+Integrated Graphics
+(MB)
+
+- *
+
+Operating System Operating System
+(Factory Pre-Loaded)
+
+Windows 10 Home Windows 10
+Professional, Linux,
+DOS, Windows 10
+Home, Mac OS Mojave,
+Windows 10 Pro ( 64
+bits)
+
+Recovery Image Media - *
+
+OS Certification Windows Windows, Linux, Mac
+OS, NA
+
+Memory Type of RAM DDR4 *
+
+RAM Size (GB) 4 4, 8, 16, 32 Or higher
+
+RAM Speed (MHz) 1866 *
+
+Total Numbers of DIMM
+Slots Available
+
+2 *
+
+Number of DIMM Slots
+populated
+
+1 *
+
+RAM Expandability
+up to( using spare
+DIMM Slots in GB)
+
+16 8, 16, 32, 0 Or higher
+
+                               2 / 9
+
+
+
+ 
+
+Storage Type of Drives used
+to populate the
+Internal Bays
+
+HDD HDD, SSD, SSHD,
+SSED, PCIe SSD
+
+Number of Internal
+Bays populated with
+HDD
+
+1 *
+
+Capacity of each HDD
+(GB)
+
+1000 @5400 rpm *
+
+Total HDD Capacity
+(GB)
+
+1000 500, 1000, 1500, 2000,
+2500, 3000, 0 Or
+higher
+
+Number of Internal
+Bays populated with
+SSD
+
+0 *
+
+Capacity of each SSD
+(GB)
+
+0 128, 256, 512, 1024,
+2048, 0
+
+Total SSD Capacity
+(GB)
+
+0 128, 256, 384, 512,
+768, 1024, 1280, 2048,
+4096, 0 Or higher
+
+Number of Internal
+Bays populated with
+SSHD
+
+0 *
+
+Capacity of each
+SSHD (GB)
+
+NA 8 GB Flash + 500 GB
+@5400 rpm, 8 GB Flash
++ 1000 GB @5400 rpm,
+8 GB Flash + 2000 GB
+@5400 rpm, NA Or
+higher
+
+Total SSHD Capacity
+in addition to 8 GB
+Flash (GB)
+
+0 500, 1000, 1500, 0 Or
+higher
+
+Optane Memory (GB) 0 *
+
+Connectivity Wireless
+Connectivity
+
+Yes Yes, No
+
+If Yes, Type of Wireless
+Connectivity
+
+Wi-Fi 802.11ac *
+
+Number of Ethernet
+Ports
+
+1 *
+
+If available, Type of
+Ethernet Ports
+
+10/100/1000 on board
+Integrated Gigabit Port
+
+*
+
+Bluetooth
+Connectivity
+
+Yes Yes, No
+
+If Yes, Version of
+Bluetooth Available
+
+4.1 *
+
+Ports Number of USB Version
+2 Point 0 Ports
+
+1 *
+
+Number of USB Version
+3 point 0 / 3 point 1,
+
+2 *
+
+                               3 / 9
+
+
+
+ 
+
+Gen 1 Ports
+
+Number of USB Version
+3 point 1, Gen 2 Ports
+
+0 *
+
+Number of USB Type C
+Ports
+
+0 *
+
+Number of Serial Ports 0 *
+
+Number of VGA Ports 0 *
+
+Number of HDMI Ports 1 *
+
+Number of DP Ports 0 *
+
+Number of Thunderbolt
+Port
+
+- *
+
+Display Display Size (Inch) 14 *
+
+Display Type - Non Touch, Touch Or
+higher
+
+Display Technology LED HD Backlit
+Antiglare
+
+*
+
+Panel Technology TN IPS, TN, VA Or higher
+
+Display Resolution
+(Pixels)
+
+1366x768 *
+
+Availability of
+Webcam integrated
+with Display
+
+Yes Yes, No
+
+If Yes, Resolution of
+Webcam
+
+HD VGA, HD, FHD, NA Or
+higher
+
+Infra Red Webcam No Yes, No
+
+Miscellaneous Optical Drive NA Integrated, External,
+NA Or higher
+
+Type of Optical Drive N/A *
+
+Internal Speaker
+(Dual)
+
+Yes Yes, No
+
+Audio-in No *
+
+Audio-out No *
+
+Headphone out Yes *
+
+Microphone-in Yes *
+
+Type of Keyboard Standard *
+
+Backlit Keyboard No *
+
+Spill Resistant
+Keyboard
+
+No *
+
+Pointing
+Device/Touchpad
+
+Touchpad with multi-
+touch gestures enabled
+
+*
+
+Finger Print Reader No *
+
+Hardware Trusted No *
+
+                               4 / 9
+
+
+
+ 
+
+Platform Enabled
+
+Carry Case Yes Yes, No
+
+If Yes, Type of Carry
+Case
+
+Back Pack *
+
+Security Lock Slot Yes *
+
+If Yes,Availability of
+Cable Lock
+
+No *
+
+Weight (Including
+Battery) (Kilogram)
+
+1.55 *
+
+Power Battery Type - *
+
+Battery Chemistry Li - ion *
+
+Battery Capacity (Watt
+Hour)
+
+40 *
+
+Battery Backup Time
+(Hours)
+
+6 *
+
+Certification BIS Registration under
+CRS of Meity
+
+Yes *
+
+BIS Registration
+Number and its validity
+
+- *
+
+BEE / Energy Star for
+the given Model
+
+Yes *
+
+ROHS Compliance Yes *
+
+Other Certifications
+available
+
+- *
+
+Operating Conditions Minimum Operating
+Temperature
+
+0 *
+
+Maximum Operating
+Temperature
+
+35 *
+
+Minimum Operating
+Humidity (%RH)
+
+10 *
+
+Maximum Operating
+Humidity (%RH)
+
+90 *
+
+Warranty Battery Warranty 3 1, 3, 4 Or higher
+
+On Site OEM
+Warranty (Year)
+
+3 1, 3, 5, 4
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignee/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti Address Quantity Delivery Days
+
+                               5 / 9
+
+
+
+ 
+
+ng Officer
+
+1 Sachin 127040,BDPO TOSHAM
+HANSHI ROAD TOSHAM
+
+4  16 N/A
+
+Special terms and conditions for category Laptop-Notebook 
+
+1.As per notification of MEITY circulated vide letter no. F.No.33(1) /2017-IPHW..dated:
+14/09/2017, the minimum local content should be 40 percent to qualify as local or domestic
+manufacturer.
+
+Bid Specific Additional Terms and Conditions
+
+1.Malicious Code Certificate:
+
+The seller should upload following certificate in the bid:-
+(a) This is to certify that the Hardware and the Software being offered, as part of the
+contract, does not contain Embedded Malicious code that would activate procedures to :-
+  (i) Inhibit the desires and designed function of the equipment.
+  (ii) Cause physical damage to the user or equipment during the exploitation.
+  (iii) Tap information resident or transient in the equipment/network.
+(b) The firm will be considered to be in breach of the procurement contract, in case physical
+damage, loss of information or infringements related to copyright and Intellectual Property
+Right (IPRs) are caused due to activation of any such malicious code in embedded software.
+
+2.OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be
+ordered up to 25 percent at the time of placement of contract. The purchaser also reserves
+the right to increase the ordered quantity by up to 25% of the contracted quantity during the
+currency of the contract at the contracted rates. Bidders are bound to accept the orders
+accordingly.
+
+3. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+4.Pre-dispatch inspection at Seller premises (Fee/Charges to be borne by the BUYER): Before
+dispatch, the goods will be inspected by Buyer / Consignee or their Authorized
+Representative or by Nominated External Inspection Agency (independently or jointly with
+Buyer or Consignee as decided by the Buyer) at Seller premises for their compliance to the
+contract specifications. Fee/Charges taken by the External inspection Agency and any
+external laboratories testing charges shall be borne by the Buyer. For in-house testing, the
+Sellers will provide necessary facilities free of cost. Seller shall notify the Buyer through e-
+mail about readiness of goods for pre-dispatch inspection and Buyer will notify the Seller
+about the Authorized Representative/ Nominated External Inspection Agency and the date
+for testing. The goods would be dispatched to consignee only after clearance in pre-dispatch
+inspection. Consignee's right of rejection as per GTC in respect of the goods finally received
+at his location shall in no way be limited or waived by reason of the goods having previously
+been inspected, tested and passed by Buyer/ Consignee or its Nominated External
+Inspection Agency prior to the goods' shipment. While bidding, the sellers should take into
+account 7 days for inspection from the date of email offering the goods for inspection. Any
+delay in inspection beyond 7 days shall be on the part of the buyer and shall be regularised
+without Liquidated Damages.
+
+5.Procurement under this bid is reserved for purchase from Micro and Small Enterprises whose
+credentials are validated online through Udyog Aadhaar for that product category. If the
+bidder wants to avail the reservation benefit, the bidder must be the manufacturer of the
+offered product in case of bid for supply of goods. Traders are excluded from the purview of
+Public Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the
+bidder must be the Service provider of the offered Service. Relevant documentary evidence
+
+                               6 / 9
+
+
+
+ 
+
+in this regard shall be uploaded along with the bid in respect of the offered product or
+service.
+
+6.Procurement under this bid is reserved for purchase from Micro and Small Enterprises from
+the State of Bid Inviting Authority whose credentials are validated online through Udyog
+Aadhaar for that product category. If the bidder wants to avail the reservation benefit, the
+bidder must be the manufacturer of the offered product in case of bid for supply of goods.
+Traders are excluded from the purview of Public Procurement Policy for Micro and Small
+Enterprises. In respect of bid for Services, the bidder must be the Service provider of the
+offered Service. Relevant documentary evidence in this regard shall be uploaded along with
+the bid in respect of the offered product or service.
+
+7.For clothing and allied items, if pre-dispatch Inspection clause has been selected in the Bid,
+the Inspection Agency shall forward sample from the accepted lot duly identified/ sealed by
+it, as Reference Sample to each consignee (one reference sample per consignee) for
+comparing the lot received at consignee end with such reference sample. Such reference
+samples will be treated as part of supplied quantity from the lot and cost shall be borne by
+the Buyer.
+
+8.Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder
+during the last three years, ending on 31st March of the previous financial year, should be as
+indicated in the bid document. Documentary evidence in the form of certified Audited
+Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost
+Accountant indicating the turnover details for the relevant period shall be uploaded with the
+bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the
+average turnover in respect of the completed financial years after the date of constitution
+shall be taken into account for this criteria.
+
+9.OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the
+offered product during the last three years, ending on 31st March of the previous financial
+year, should be as indicated in the bid document. Documentary evidence in the form of
+certified Audited Balance Sheets of relevant periods or a certificate from the Chartered
+Accountant / Cost Accountant indicating the turnover details for the relevant period shall be
+uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than
+3 year old, the average turnover in respect of the completed financial years after the date of
+constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of
+CATEGORY RELATED TO primary product having highest bid value should meet this criterion.
+
+10. ISO 9001: The bidder must have ISO 9001 certification.
+11.The bidder is required to upload, along with the bid, all relevant certificates such as BIS
+
+licence, type test certificate, approval certificates and other certificates as prescribed in the
+Product Specification given in the bid document.
+
+12.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+13.Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have
+Dedicated/toll Free Telephone No. for Service Support.
+
+14.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of
+Telephone Numbers for Service Support.
+
+15.Buyback for Non PFMS/Non GPA:
+ 1. GST will apply on the value of buyback and separate invoice is to be prepared by
+Government buyer/Consignee for buyback items offline outside the GeM system. Vendor
+should work out input credit for that GST applicable on the buy back while quoting the
+product/services.
+ 2. Input GST Credit consideration by seller- seller shall offer the prices in the bid by the total
+amount of new goods including GST- total amount of old goods quoted by the firm excluding
+GST. This is because GST charged by buyer on buy-back value will be available for full ITC
+(input tax credit) on the hands of bidder. Therefore, for the purpose of quoting in the bid and
+evaluation, value as quoted by the bidder (excluding any GST on buy back) as indicated in
+
+                               7 / 9
+
+
+
+ 
+
+column G below will be considered.
+Illustrative examples for bidders are as under for understanding of the seller.
+
+Excel sheet for explanation to Buyback ATC
+S.no Cost of
+
+Fresh
+Good (A)
+
+%age of
+GST on
+Fresh
+
+Good as
+consider
+
+ed by
+seller at
+the time
+of quote
+
+(B).
+
+GST
+Amount
+on Fresh
+Good (C)
+
+Cost of
+Buyback
+item (D)
+
+%age of
+GST on
+
+Buyback
+items (E)
+as fixed
+by buyer
+in the bid
+
+GST
+Amount
+
+on
+Buyback
+item (F)
+
+as
+applicabl
+e at the
+time of
+invoice
+
+by buyer
+
+Quote of
+the
+
+Bidder (G
+={A+C-
+
+D})
+
+1 100 28 28 20 8 1.6 108
+2 100 9 9 20 8 1.6 89
+3 110 10 11 24 8 1.92 97
+
+Seller after the award of the GeM contract, will indicate all column A to G which will not
+alter their quoted price indicated in Colum-G
+
+3. Successful lowest bidder has to provide detailed cost break up of tendered items as well
+as buy back items separately after award of contract through email to the government
+buyer/consignee.
+4. The seller of new item /service provider shall deposit the cost of invoiced buy back item
+with GST to the buyer for allowing seller to lift up the material from the buyer/consignee
+premise.
+5. Transportation of buy back items from buyer premises shall be arranged by the seller
+itself without any extra cost.
+6. Government Buyer organisation /consignee will issue invoice of buy back items to the
+seller at the cost of buyback to be indicated to the buyer by the seller offline after receipt of
+order. This in no case will modify the bid in any manner.
+7. The seller will be entirely responsible for the safe disposal of old items without affecting
+the environment in any manner as per prevailing statutory rules and Act/ law of the land.
+8. The seller may visit the site and inspect the condition of buy back item in advance before
+quoting for the bid.
+9. Receipt of payment by the buyer for Old items and invoicing by buyer will be out of GeM
+portal.
+10. Government Buyer will upload the details of old goods along with the bid in the
+corrigendum with minimum price.
+11. If the minimum price (Optional) is indicated and sellers of new item who are not agreeing
+to take back the old item at equal to or above that minimum price should not participate in
+the bid.
+12. In case they participate into the bid and afterwards indicates the price of old goods, less
+than the minimum price shown by Government Buyer in corrigendum, EMD of the bidder will
+be forfeited.
+13. Item Details Consignee wise will be indicated in the corrigendum like -
+ 1. Consignee wise
+ 2. Item Description
+ 3. Serial Number
+ 4. Model
+ 5. Brand
+ 6. Year of manufacturing
+ 7. Purchased on
+ 8. Age
+ 9. Size, Rating, Designation
+ 10. Quantity
+ 11. Min price (Optional)
+ 12. Unit
+
+                               8 / 9
+
+
+
+ 
+
+ 13. Working Guidelines (/Functional/Non-Functional)
+ 14. Remarks
+14. The successful bidder shall remove the old goods from the premise of the Government
+buyer/consignee at the time of the supply, installation and commis-sioning of fresh goods.
+Seller will be entitled for payment only after removal of old goods from Government
+buyer/consignee/user’s premise and after supplying the fresh goods in terms of contract.
+15. Note: This clause of ATC shall be operated by non PFMS; non GPA buyer i.e. all PSU
+working through their ERP and not integrated with GPA.
+
+This RA is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               9 / 9
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

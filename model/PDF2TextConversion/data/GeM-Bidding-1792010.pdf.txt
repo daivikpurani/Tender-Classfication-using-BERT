@@ -1,0 +1,469 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/715389
+  Dated: 17-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 21-07-2020 11:00:00
+
+Bid Opening Date/Time 21-07-2020 11:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Bihar
+
+Department Name Health & Family Welfare Department Bihar
+
+Organisation Name Bihar Medical Services And Infrastructure Corporation Limited
+(bmsicl)
+
+Office Name 4th Floor Bihar State Building Construction Corpo
+
+Total Quantity 100000
+
+Item Category Viral RNA Extraction Kits
+
+Bidder Turnover (Last 3 Years)  56 Lakh (s)
+
+OEM Average Turnover (Last 3 Years)  400 Lakh (s)
+
+Experience Criteria  1 Year (s)
+
+MSE Exemption for Years Of Experience and
+Turnover
+
+ Yes
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder
+Turnover,Certificate (Requested in ATC),OEM Authorization
+Certificate,OEM Annual Turnover
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the
+buyer
+
+Past Performance  10 %
+
+Bid to RA enabled  Yes
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 5
+
+
+
+ 
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM {themselves or
+through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central
+/ State Govt Organization / PSU / Public Listed Company for number of years as indicated in the bid document before the
+bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some
+quantity during each of the year. In case of bunch bids, the category of primary product having highest value should
+meet this criterion.
+2. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product during the
+last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document.
+Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the
+Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with
+the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in
+respect of the completed financial years after the date of constitution shall be taken into account for this criteria.
+3. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have supplied same or similar
+Category Products for 10% of bid quantity, in at least one of the last three years before the bid opening date to any
+Central / State Govt Organization / PSU / Public Listed Company. Copies of relevant contracts (proving supply of
+cumulative order quantity in any one year) to be submitted along with bid in support of quantity supplied in the relevant
+year. In case of bunch bids, the category related to primary product having highest bid value should meet this criterion.
+
+Viral RNA Extraction Kits ( 100000 Test )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+PRODUCT INFORMATION Species Reactivity Human Samples *
+
+Samples from which Viral
+RNA can be extracted
+
+Plasma,Serum,CSF,Urine,Ot
+her cell-free body fluids,Cell-
+culture
+supernatant,Nasopharyngea
+l swab,Oropharyngeal
+Swabs
+
+Plasma, Serum, CSF, Urine,
+Other cell-free body fluids,
+Cell-culture supernatant,
+Nasopharyngeal swab,
+Oropharyngeal Swabs
+
+Isolation Technology Silica technology (silica
+membranes column)
+
+Silica technology (silica
+membranes column)
+
+Sample volume for
+processing
+
+100 µl - 200 µl 100 µl - 200 µl
+
+Elution volume 40 µl - 80 µl 40 µl - 80 µl
+
+Process of extraction Centrifugation Centrifugation
+
+Yield of the Viral RNA
+(Recovery)
+
+90 *
+
+Time per batch (at least
+24) extraction
+
+30 1.0 - 30.0 Or lower
+
+The kit should have
+carrier RNA or enhancer
+buffer to enhance
+quantity of eluted viral
+RNA
+
+Yes Yes
+
+Contents Includes all reagents and
+plastiware required for viral
+RNA Extraction with Original
+kit inserts in English
+
+*
+
+The reagents must be
+sufficient in quantity to
+enable testing of small
+number of samples at a
+time
+
+Yes *
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/oV1P9QNUZNwnvHuKiuIk0GkTBAO1Ptcu88J2lALTmAo
+
+
+ 
+
+Kit Compatibility Manual Platform Manual Platform
+
+Extracted viral RNA of high
+purity and free from protein,
+genomic DNA, Nucleases
+and other contaminants and
+inhibitors
+
+Yes *
+
+All reagents provided in the
+kit for extraction of viral
+RNA shall be RNase Free
+
+Yes *
+
+Elution buffer contains
+necessary components to
+prevent microbial growth
+and contamination with
+Rnases
+
+Yes *
+
+Optimized for use with
+biological fluids and cell-free
+samples such as serum,
+plasma, swabs, and cell
+culture medium
+
+Yes *
+
+Details of viral RNA
+Extraction protocols
+provided with the kit
+
+Yes *
+
+Storage temperature of Kit - *
+
+Storage & Shipping
+temperature
+
+Room Temprature Room Temprature
+
+The cumulative time
+temperature indicator
+technology used on each kit
+(prequalified by WHO)
+
+NA *
+
+GENERAL FEATURES Type of Kit Viral RNA Extraction Kit *
+
+Purpose To isolate genomic viral RNA
+from whole blood, plasma,
+serum, lymphocytes,
+cultured cells, swabs, CSF
+and tissues
+
+*
+
+Applications PCR,qPCR,real-timePCR *
+
+PACKAGING Pack Size of the Kit (Number
+of Test or Reactions)
+
+100 *
+
+ADDITIONAL
+REQUIREMENTS
+
+Magnetic Stands to be
+provided if If the RNA
+extraction Kit offered is
+Magnetic Bead Type
+
+NA NA
+
+Number of Magnetic
+Stand Provided
+
+NA NA
+
+Capacity of magnetic
+stand (Minimum)
+
+NA NA
+
+Thermoshaker to be
+provided if If the RNA
+extraction Kit offered is
+Magnetic Bead Type
+
+NA NA
+
+Number of thermoshaker
+provided
+
+NA NA
+
+Capacity of of
+thermoshaker
+
+NA NA
+
+Size of Tubes NA NA
+
+Minimum Speed range NA NA
+
+                               3 / 5
+
+
+
+ 
+
+for Thermoshaker
+
+Maximum Temperature
+Setting
+
+NA NA
+
+CERTIFICATIONS & REPORTS The kit approved from the
+statutory authority in its
+country of origin
+
+Yes *
+
+Imported kits registered and
+licensed in India by DCGI &
+Indigenous manufactured
+kits licensed by the
+authority defined under
+Drugs and Cosmetics act
+1940 and Medical Devices
+Rules, 2017 as amended till
+date
+
+Yes *
+
+Availability of
+certificate/License from the
+Drugs Controller General of
+India (DCGI) for import (in
+case of imported kits) and
+marketing of the item
+
+Yes *
+
+Valid Drug License number - *
+
+Availability of Test report of
+each batch of the product to
+prove the conformity to the
+declared specification
+
+In house Test report from
+the manufacturer
+
+*
+
+Manufacturer facility
+certifications
+
+ISO:13485 (Latest) *
+
+Product certifications/
+Approval
+
+Kit evaluated and validated
+by ICMR-NIV-Pune or any
+other ICMR validation
+centers
+
+*
+
+Submission of all required
+certifications, licenses , test
+reports and any other
+specific certification
+requirement as imposed by
+country of origin to the
+buyer at the time of bidding
+in case of bidding/ at the
+time of supply in case of
+direct order
+
+Yes *
+
+SHELF LIFE Shelf life from the date
+of manufacture
+
+12 12, 18, 24 Or higher
+
+Minimum shelf life of the
+product at the time of
+delivery to the consignee
+
+3/4 th of total shelf life *
+
+ADVANCE SAMPLE Agree to provide advance
+sample of the product for
+buyer's approval before
+commencement of supply in
+case of bidding
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+                               4 / 5
+
+
+
+ 
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Firoj Khan 803201,Bihar State Warehousing
+Corporation. Bazar Samiti , Fatuha
+
+100000  7
+
+Bid Specific Additional Terms and Conditions
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

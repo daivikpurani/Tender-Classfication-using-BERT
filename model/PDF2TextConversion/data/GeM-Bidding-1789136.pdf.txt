@@ -1,0 +1,394 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/712780
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 13:00:00
+
+Bid Opening Date/Time 27-07-2020 13:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Border Road Organisation
+
+Office Name ***********
+
+Total Quantity 4
+
+Item Category water baths
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Water Baths ( 4 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Water Bath Chamber
+Dimensions, Capacity and
+Construction
+
+Chamber Length of offered
+product:
+
+- *
+
+Chamber Width of offered - *
+
+                               1 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/0aOReGPEz_iaqU9zdyOuody_1htMi9pV4hLmK75gpNM
+
+
+ 
+
+product:
+
+Chamber Depth of offered
+product:
+
+- *
+
+Water bath Chamber
+Capacity
+
+>over 14 to 18 litre 2 to 4 litre, > over 4 to 6
+litre, >over 8 to 10 litre,
+>over 10 to 14 litre, >over
+14 to 18 litre, >over 18 to
+22 litre, >over 22 to 26 litre,
+>over 26 to 30 litre, over 6
+to 8 litre, over 30 to 34 Litre
+
+Chamber Construction: Double walled rectangular
+chamber
+
+single walled rectangular
+chamber, Double walled
+rectangular chamber,
+Double walled rectangular
+chamber with mineral
+wool/solid insulation
+material filling in between
+
+Material of inner Chamber
+and lid Construction:
+
+Stainless Steel (SS 304) *
+
+Material of Outer
+Chamber Construction:
+
+Epoxy / Powder coated
+Stainless Steel SS304
+
+Epoxy coated/Powder
+coated mild steel, Epoxy /
+Powder coated Stainless
+Steel SS304
+
+Weight (kg) 8 *
+
+Number of racks
+provided with Water
+bath unit
+
+2 0, 2, 4, 6, 8, 10, 12, 14
+
+Number of 75 mm
+diameter Holes provided:
+
+0 0, 6, 8, 12, 15, 24
+
+Heating Arrangement
+Parameters
+
+Heat source: Heating shall be done by a
+immersion heater.
+
+*
+
+Heating Capacity (>=): 1000 800, 1000, 1500, 2000,
+2400, 2500, 3000, 200,
+1200
+
+Control Panel and Display
+Unit
+
+Control Panel has: ON/Off Switch,Power mains
+Indicator,Temperature
+controller
+
+ON/Off Switch, Heating &
+Temprature (Set & Actual)
+Indicators, Power mains
+Indicator, Temperature
+controller, Circulation
+Controller (if Water bath has
+circulation facility),
+Refrigeration Controller (if
+Water bath has chamber
+refrigeration facility),
+Shaking Controller (if Water
+bath has shaking facility)
+
+Adjustable shaking
+frequency in rpm
+
+NA 20-200, NA
+
+Type of Temperature
+controller
+
+Thermostat based control Thermostat based control,
+Digital controller cum
+Indicator PID Based control
+Or higher
+
+Water bath Display type: Analog Display Analog Display, Digital
+(numerical/application
+specific) backlit LCD display,
+LED
+
+Integrated circulation
+pump for temperature
+homogeneity
+
+No Yes, No Or higher
+
+                               2 / 4
+
+
+
+ 
+
+Removable bottom plate
+and shaking inserts
+
+No Yes, No Or higher
+
+Water bath Temperature Temperature range of
+bath chamber:
+
+5°C above ambient to
+99.9°C
+
+5°C above ambient to
+99.9°C, 5°C above ambient
+to 90°C, 5°C above ambient
+to 95°C, 20°C to 99.9°C,
+10°C to 100°C
+
+Temperature control
+sensitivity:
+
+±0.5°C or better ±0.5°C or better, ±0.2°C or
+better, ±0.1°C or better Or
+higher
+
+Least temperature
+increment Step available
+
+0.1 degree C 5 degree C, 1 degree C, 0.1
+degree C, 0.01 degree C Or
+higher
+
+Temperature Accuracy: ±1°C or better ±5°C or better, ±1°C or
+better, ±0.5°C or better,
+±0.2°C or better, ±0.1°C or
+better Or higher
+
+Safety Features: Low fluid Alarm Low fluid Alarm, High limit
+Alarm, Over temperature
+Alarm & cutoff, Redundant
+safety thermostat
+
+Power Requirement,
+Certifications and Warranty
+
+Power requirement: 220 V 50 Hz Single Phase
+AC
+
+220 V 50 Hz Single Phase
+AC, 440 V 50Hz three phase
+AC
+
+Availability of Test
+Report from Central
+Govt/NABL/ILAC
+accredited lab to prove
+conformity to
+specification
+
+No Yes, No
+
+Manufactured by ISO
+9001:2008 or latest certified
+firm:
+
+YES *
+
+Equipment has CE
+certification
+
+No Yes, No
+
+Warranty Period: 3 3, 5 Or higher
+
+Cover Lid/cover Provided No *
+
+Shape of Cover Rectangular *
+
+Timer Unit Timer Provided Yes Yes, No
+
+Timer Setting ( minimum
+increment step)
+
+5 0 - 300
+
+Miscellaneous Features Drain plug in Chamber
+provided
+
+No Yes, No
+
+Data Logging facility
+through (RS
+232/USB/HDMI/Bluetooth
+etc) to computer
+available:
+
+No Yes, No
+
+Steel holder for tubes and
+Flasks provided:
+
+- *
+
+Drain screw for emptying
+of water bath
+
+No Yes, No Or higher
+
+Seamless and waterproof
+keypad
+
+No Yes, No Or higher
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+
+                               3 / 4
+
+
+
+ 
+
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********JODHPUR 4  30
+
+Bid Specific Additional Terms and Conditions
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

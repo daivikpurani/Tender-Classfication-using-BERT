@@ -1,0 +1,347 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/682793
+
+  Dated: 22-06-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 02-07-2020 20:00:00
+
+Bid Opening Date/Time 2020-07-02 20:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 80 (Days)
+
+Ministry/State Name Ministry Of Coal
+
+Department Name Materials Management
+
+Organisation Name Northern Coalfields Limited
+
+Office Name Singrauli
+
+Total Quantity 27
+
+Item Category Battery chargers (For Transreceivers)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 4
+
+
+
+ 
+
+Battery Chargers (For Transreceivers) ( 27 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC Battery Chargers for
+Rechargeable Battery
+Packs for
+
+Handheld transceivers *
+
+Battery charger type Rapid Standard, Rapid
+
+Type of battery for
+which charger is
+compatible
+
+NimH NimH, Li-ion, Ni-CD
+
+Number of
+independent
+charging stations
+
+1 1, 6, 6 (with sturdy
+powder coated body
+with cooling fan)
+
+Compatible Make of
+Transreceivers
+
+MOTOROLA *
+
+Compatible Model of
+Transreceivers
+supported
+
+GP-328 *
+
+PERFORMANCE Operating Voltage 230V AC +/-10% 50 Hz 230V AC +/-10% 50 Hz,
+200 V to 240 V 50 Hz
+AC , with Output
+voltage On load: 8.5V
+DC , Without load: 14 V
+to 21 V DC, 180 V to
+240 V 50 Hz AC , with
+output voltage on load
+15 V DC/4.8 A, 200 V to
+240 V 50 Hz AC , with
+Output voltage On
+load: 12.5V DC, 200 V
+to 240 V 50 Hz AC ,
+with Output voltage
+Onload: 9.5V DC ,
+Without load: 12.5 DC
+
+Charging current <1 Amp for Rapid
+charger
+
+<400mA for Standard
+charger, <1 Amp for
+Rapid charger, <1.25
+Amp for Rapid Charger
+
+Charging time shall be For Rapid Charger: 2 to
+4 hrs (for batteries
+from 2000 mAh to 3000
+mAh)
+
+*
+
+Charging status and
+for charged
+condition status
+
+LED Indications LED Indications, Apart
+from charged condition
+status LED Indications
+for battery is not
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/zsYPRr40Pobf3Z0SvY-YJerFGj5B7vV_95X09qxYkdM
+
+
+ 
+
+charging/not making
+proper contact, When
+Battery is charged
+more than 90%, When
+battery is fully charged,
+When battery
+temperature below 5
+deg. C or +50 deg. C
+
+Minimum operating
+temperature (in deg C.
+)
+
+0 *
+
+Maximum operating
+temperature ( in deg.
+C)
+
+55 *
+
+Minimum Cable
+length for the
+charger (in mtrs.,)
+
+1.5 1.5, 2
+
+PROTECTION AC surge protection Yes *
+
+Reverse Polarity
+protection
+
+Yes *
+
+Short circuit protection Yes *
+
+Over Current
+Protection
+
+Yes Yes, Yes, Including for
+input over voltage (AC)
+and over charging of
+batteries
+
+CERTIFICATIONS BIS Certification to IS:
+IS 13252 (Part 1) under
+compulsory registrtion
+scheme (CRS)
+
+Yes *
+
+BIS registration number
+- Must declare
+
+- *
+
+Warranty (in
+Months)
+
+12 12, 24
+
+Availability of Type test
+report from Central
+government/NABL/ILAC
+accrediated laoratory
+to prove conformity to
+the specification
+
+Yes *
+
+Test report number -
+Must declare
+
+- *
+
+Report date - Must
+declare
+
+- *
+
+Name of lab - Must
+declare
+
+- *
+
+Address of lab - Must
+declare
+
+- *
+
+Agreed to furnish all
+the test reports and
+
+Yes *
+
+                               3 / 4
+
+
+
+ 
+
+certificates to the
+buyer/consignee on
+demand
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Anurag Krishna
+Agrawal
+
+231220,REGIONAL STORES,
+BINA PROJECT, NCL, PO -
+BINA, DISTT - SONBHADRA
+U.P.
+
+27  20
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,196 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/715063
+  Dated: 17-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 16:00:00
+
+Bid Opening Date/Time 27-07-2020 16:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence
+
+Organisation Name Indian Air Force
+
+Office Name ***********
+
+Total Quantity 40
+
+Item Category Hard disk drives
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Document required from seller  OEM Authorization Certificate
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the
+buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+Hard Disk Drives ( 40 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+                               1 / 2
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/DCb-G7ulFfTl_FgkjE6-cJaW8MkC7kVZG6CzMj1fZac
+
+
+ 
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Specification Capacity of Drive (GB) 1024 1024
+
+Type of Drive SSD SSD
+
+Media Diameter (cm) 9 *
+
+Rotational Speed (rpm) 5400 *
+
+Interface Type SATA *
+
+Synchronous Transfer Rate
+(Maximum) (MB/s)
+
+160 *
+
+Buffer (MB) 64 *
+
+Cache (MB) 64 *
+
+Rated Power (Watt) 1.8 *
+
+Rated for 24/7/365
+operation
+
+Yes *
+
+Physical Size(Height) (mm) 25.1 *
+
+Physical Size(Width) (mm) 100 *
+
+Operating Temperature
+Range (Degree C)
+
+- *
+
+Performance (Sequential
+Read) (MB/s)
+
+300 *
+
+Performance (Sequential
+write) (Mb/p)
+
+200 *
+
+Warranty (Years) 1 1
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********AGRA 40  30
+
+Bid Specific Additional Terms and Conditions
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               2 / 2
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

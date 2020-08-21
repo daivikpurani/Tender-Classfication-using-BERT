@@ -1,0 +1,392 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/704003
+
+  Dated: 10-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 14:00:00
+
+Bid Opening Date/Time 20-07-2020 14:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 15 (Days)
+
+Ministry/State Name Gujarat
+
+Department Name Education Department Gujarat
+
+Organisation Name N/a
+
+Office Name Registrar The M S University Baroda,gujarat
+
+Total Quantity 1
+
+Item Category Electronic Weighing Scales
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+Electronic Weighing Scales ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+                               1 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/n-auMvmoFNIVjFjc62b9RSRQgD6NuEAxsTFaPwMb0gw
+
+
+ 
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+PERFORMANCE
+PARAMETERS
+
+Type of Electronic
+Weighing Machine
+
+electronic weighing
+scale
+
+electronic weighing
+scale
+
+Rated Load/
+Capacity(kg)
+
+220 gm 220 gm
+
+Resolution(gms) 0.1mg 0.1mg
+
+Class type Class-I Class-I
+
+Display lcd lcd
+
+Number of Display single single
+
+Speed of
+measurement
+
+3 More than 3.0 Or
+higher
+
+Internal calibration No No
+
+Number of scale
+division
+
+- *
+
+Tare provision Manual Manual
+
+Connectivity to
+Computer
+
+Yes Yes
+
+Number of USB ports NA *
+
+Number of RS232
+ports
+
+NA NA
+
+Power Requirement mains operated mains operated
+
+Power Supply Single Phase Single Phase
+
+DC Operating voltage
+in Volts
+
+12 *
+
+Battery Backup No No
+
+Backup time(hour) NA NA
+
+Battery type NA NA
+
+Battery rating - *
+
+Type of Sensing
+Element
+
+EMFC EMFC
+
+Number of load cell/
+EMFC
+
+1 *
+
+Class of Protection IP 54 *
+
+Warranty in Years 1 1
+
+STANDARDS Conformity to Indian
+Standrad, IS:9281-3
+(1981) part I,II, III &
+Part IV (latest)
+
+Yes Yes
+
+BIS Marked No No
+
+CM/L No if Yes
+otherwise Put NA
+
+- *
+
+                               2 / 4
+
+
+
+ 
+
+CE Certified No No
+
+If CE certified then
+provide no and date,
+otherwise put NA
+
+- *
+
+DIMENSIONAL &
+MATERIAL
+PARAMETERS
+
+Material of platform - *
+
+Pan/ Platform Shape circular circular
+
+Pan/ Platform Size 90 m dia 90 m dia
+
+Dimensions of weighing
+machine (L X W X H ) in
+mm x mm x mm
+
+- *
+
+Weight of Weighing
+Machine
+
+- *
+
+ADDITIONAL FEATURES Overcharging
+protection
+
+Yes *
+
+Alarm for overload &
+Malfunctioning
+
+- *
+
+Operating Temperature
+Range
+
+- *
+
+Relative Humidity - *
+
+GPRS Module facility No *
+
+RFID Module No *
+
+RFID Wrist Band No *
+
+Bluetooth Module No *
+
+Back Grill No *
+
+Details of the optional
+Accessories provided
+with weighing scale
+
+- *
+
+Dust Proof Cover Yes *
+
+REPORTS Model approval
+certificate for each
+model from Director
+Legal Metrology
+
+Yes *
+
+Model approval
+certificate No & Date
+for each model
+
+- *
+
+Type Test Certificate
+including Environment
+conditions from
+Regional Reference and
+Standard Laboratory
+(RRSL)
+
+No *
+
+Availability of test
+certificate from
+Government/ NABL/
+ILAC acredited lab to
+prove confirmity of
+
+Yes *
+
+                               3 / 4
+
+
+
+ 
+
+specification as per (IS:
+9281-2 (1979)
+
+Test Report No & date - *
+
+Name of Lab - *
+
+Address of Lab - *
+
+Each weighing machine
+shall be supplied with
+calibration certificate
+under weights and
+measures act
+
+Yes *
+
+Model approval
+certificate,Type test
+and calibration
+certificate to be
+furnished if asked by
+buyer at the time of
+supplies
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Chakrabarty
+Bishwajit
+
+390001,FACULTY OF
+TECHNOLOGY AND
+ENGINEERING, THE
+MAHARAJA SAYAJIRAO
+UNIVERSITY OF BARODA,
+POST BOX NO. 51,
+KALABHAVAN
+VADODARA-390001
+
+1  30
+
+Bid Specific Additional Terms and Conditions
+
+1. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should
+have a registered office in India to provide after sales service support in India. The certificate
+to this effect should be submitted.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,547 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/713143
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 15:00:00
+
+Bid Opening Date/Time 27-07-2020 15:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ladakh
+
+Department Name Information Technology Department
+
+Organisation Name Information Technology Department Ladakh
+
+Office Name Office Of Secretary Itd Ladakh
+
+Total Quantity 1
+
+Item Category Laptop-Notebook ( PAC Only ) 
+
+Bidder Turnover (Last 3 Years)  1 Lakh (s)
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Past Performance,Bidder Turnover,OEM
+Authorization Certificate
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by the
+buyer
+
+Past Performance  80 %
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ Bid splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM {themselves or
+through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central
+/ State Govt Organization / PSU / Public Listed Company for number of years as indicated in the bid document before the
+bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some
+quantity during each of the year. In case of bunch bids, the category of primary product having highest value should
+
+                               1 / 6
+
+
+
+ 
+
+meet this criterion.
+2. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have supplied same or similar
+Category Products for 80% of bid quantity, in at least one of the last three years before the bid opening date to any
+Central / State Govt Organization / PSU / Public Listed Company. Copies of relevant contracts (proving supply of
+cumulative order quantity in any one year) to be submitted along with bid in support of quantity supplied in the relevant
+year. In case of bunch bids, the category related to primary product having highest bid value should meet this criterion.
+
+Laptop-Notebook ( 1 pieces ) ( Under PAC ) 
+
+Make apple
+
+Model applemacbookpro16inchmvvj2hna(spacegrey)mvvl2hna(si
+lver)
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Construction Form Factor Standard Standard
+
+Chassis Material CNC Alluminium *
+
+Hinges Metallic *
+
+Processor Processor Make Intel Intel
+
+Processor Generation 9 9.0 Or higher
+
+Number of Cores per
+Processor
+
+6 6, 8 Or higher
+
+Processor Base Frequency
+(GHz)
+
+2.6 *
+
+Processor Description Intel Core i7 Intel Core i7, Intel Core i9 Or
+higher
+
+Processor Number Intel Core i7, Turbo Boost up
+to 4.5GHz, with 12MB
+shared L3 cache
+
+Intel Core i7 9750H, Intel
+Core i7 9850H, Intel Core i9,
+Turbo Boost up to 4.8GHz,
+with 16MB shared L3 cache,
+Intel Core i9-9880H, Intel
+Core i7, Turbo Boost up to
+4.5GHz, with 12MB shared
+L3 cache, Intel Core i9
+9980HK, Intel Core i9
+8950HK Or higher
+
+Out of Band Management NA *
+
+Cache (MB) 12 *
+
+Motherboard Expansion Slots (M Dot 2) 0 *
+
+Graphics Graphics Type Dedicated/Discrete *
+
+Graphic Card Description AMD Radeon Pro 5300M *
+
+Size of Memory in Case
+of Dedicated Graphic
+Card (GB)
+
+4 4, 6 Or higher
+
+Size of VRAM in case of
+Integrated Graphics (MB)
+
+0 *
+
+Operating System Operating System
+(Factory Pre-Loaded)
+
+Mac OS Mojave Mac OS Mojave
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/YQ3RMIkLBlrlDfuVyZ5U992pHzqN7eNH4jRQpxlCfYw
+
+
+ 
+
+Recovery Image Media CD from the OEM / Stored in
+Partition of the Hard Disk /
+USB Drive from the OEM /
+On Line / Cloud
+
+*
+
+OS Certification Mac OS Mac OS
+
+Memory Type of RAM DDR4 *
+
+RAM Size (GB) 16 16, 32 Or higher
+
+RAM Speed (MHz) 2666 *
+
+Total Numbers of DIMM
+Slots Available
+
+0 *
+
+Number of DIMM Slots
+populated
+
+0 *
+
+RAM Expandability up to(
+using spare DIMM Slots
+in GB)
+
+0 8, 16, 32, 0 Or higher
+
+Storage Type of Drives used to
+populate the Internal
+Bays
+
+SSD SSD
+
+Number of Internal Bays
+populated with HDD
+
+0 *
+
+Capacity of each HDD (GB) NA *
+
+Total HDD Capacity (GB) 0 500, 1000, 1500, 2000,
+2500, 3000, 0 Or higher
+
+Number of Internal Bays
+populated with SSD
+
+0 *
+
+Capacity of each SSD
+(GB)
+
+512 512
+
+Total SSD Capacity (GB) 512 512, 768, 1024, 1280, 2048,
+4096 Or higher
+
+Number of Internal Bays
+populated with SSHD
+
+0 *
+
+Capacity of each SSHD
+(GB)
+
+NA 8 GB Flash + 500 GB @5400
+rpm, 8 GB Flash + 1000 GB
+@5400 rpm, 8 GB Flash +
+2000 GB @5400 rpm, NA Or
+higher
+
+Total SSHD Capacity in
+addition to 8 GB Flash
+(GB)
+
+0 500, 1000, 1500, 0 Or
+higher
+
+Optane Memory (GB) 0 *
+
+Connectivity Wireless Connectivity Yes Yes
+
+If Yes, Type of Wireless
+Connectivity
+
+Wi-Fi 802.11ac *
+
+Number of Ethernet Ports 0 *
+
+If available, Type of
+Ethernet Ports
+
+NA *
+
+Bluetooth Connectivity Yes Yes
+
+If Yes, Version of Bluetooth
+Available
+
+5 *
+
+Ports Number of USB Version 2
+Point 0 Ports
+
+0 *
+
+Number of USB Version 3 0 *
+
+                               3 / 6
+
+
+
+ 
+
+point 0 / 3 point 1, Gen 1
+Ports
+
+Number of USB Version 3
+point 1, Gen 2 Ports
+
+0 *
+
+Number of USB Type C Ports 2 *
+
+Number of Serial Ports 0 *
+
+Number of VGA Ports 0 *
+
+Number of HDMI Ports 0 *
+
+Number of DP Ports 0 *
+
+Number of Thunderbolt Port 2 *
+
+Display Display Size (Inch) 16 16 Or higher
+
+Display Type Non Touch Non Touch, Touch Or higher
+
+Display Technology LED HD Backlit *
+
+Panel Technology IPS IPS Or higher
+
+Display Resolution
+(Pixels)
+
+3072 x 1920 3840 x 2160, 3240x2160 Or
+higher
+
+Availability of Webcam
+integrated with Display
+
+Yes Yes
+
+If Yes, Resolution of
+Webcam
+
+FHD FHD Or higher
+
+Infra Red Webcam No No
+
+Miscellaneous Optical Drive NA Integrated, External, NA Or
+higher
+
+Type of Optical Drive N/A *
+
+Internal Speaker (Dual) Yes Yes
+
+Audio-in No *
+
+Audio-out No *
+
+Headphone out Yes *
+
+Microphone-in No *
+
+Type of Keyboard Standard *
+
+Backlit Keyboard Yes *
+
+Spill Resistant Keyboard No *
+
+Pointing Device/Touchpad Touchpad with multi-touch
+gestures enabled
+
+*
+
+Finger Print Reader Yes *
+
+Hardware Trusted Platform
+Enabled
+
+Yes *
+
+Carry Case No No
+
+If Yes, Type of Carry Case NA *
+
+Security Lock Slot No *
+
+If Yes,Availability of Cable
+Lock
+
+No *
+
+Weight (Including Battery)
+(Kilogram)
+
+2 *
+
+Power Battery Type Integrated *
+
+Battery Chemistry Li - Polymer *
+
+                               4 / 6
+
+
+
+ 
+
+Battery Capacity (Watt
+Hour)
+
+100 *
+
+Battery Backup Time
+(Hours)
+
+11 *
+
+Certification BIS Registration under CRS
+of Meity
+
+Yes *
+
+BIS Registration Number
+and its validity
+
+R-41000450 *
+
+BEE / Energy Star for the
+given Model
+
+Yes *
+
+ROHS Compliance Yes *
+
+Other Certifications
+available
+
+CE,FCC *
+
+Operating Conditions Minimum Operating
+Temperature
+
+10 *
+
+Maximum Operating
+Temperature
+
+35 *
+
+Minimum Operating
+Humidity (%RH)
+
+0 *
+
+Maximum Operating
+Humidity (%RH)
+
+90 *
+
+Warranty Battery Warranty 1 1, 3, 4 Or higher
+
+On Site OEM Warranty
+(Year)
+
+1 1
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 Stanzein Sedol 194101,UT Secretariat Ladakh,
+Leh
+
+1  15
+
+Special terms and conditions for category Laptop-Notebook 
+
+1.As per notification of MEITY circulated vide letter no. F.No.33(1) /2017-IPHW..dated: 14/09/2017, the minimum
+local content should be 40 percent to qualify as local or domestic manufacturer.
+
+Bid Specific Additional Terms and Conditions
+1.Upload Manufacturer authorization: Wherever Authorised Distributors are submitting the bid, Manufacturers
+
+Authorisation Form (MAF)/Certificate with OEM details such as name, designation, address, e-mail Id and Phone
+No. required to be furnished along with the bid.
+
+2.Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for
+Service Support.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+                               5 / 6
+
+https://gem.gov.in/termsCondition
+
+
+ 
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+http://www.tcpdf.org
+

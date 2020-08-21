@@ -1,0 +1,460 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/707593
+
+  Dated: 13-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 28-07-2020 10:00:00
+
+Bid Opening Date/Time 28-07-2020 10:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Defence
+
+Department Name Department Of Defence Production
+
+Organisation Name Indian Ordnance Factories
+
+Office Name ***********
+
+Total Quantity 4
+
+Item Category Digital Storage Oscilloscope
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  OEM Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  Yes
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 3.00
+
+EMD Amount 17370
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 5.00
+
+Duration of ePBG required (Months). 62
+
+                               1 / 6
+
+
+
+ 
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+THE GENERAL MANAGER
+Ordnance Factory Ambajhari Nagpur, Maharashtra, Department of Defence Production, Indian
+Ordnance Factories, Ministry of Defence
+(The General Manager)
+
+Splitting
+
+  Bid splitting not applied.  
+
+MSE Purchase Preference
+
+MSE Purchase Preference Yes
+
+ 
+
+1. Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to
+MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012
+dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and its subsequent
+Orders/Notifications issued by concerned Ministry. If the bidder wants to avail the Purchase
+preference, the bidder must be the manufacturer of the offered product in case of bid for supply of
+goods. Traders are excluded from the purview of Public Procurement Policy for Micro and Small
+Enterprises. In respect of bid for Services, the bidder must be the Service provider of the offered
+Service. Relevant documentary evidence in this regard shall be uploaded along with the bid in
+respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s) has/have quoted
+price within L-1+ 15% of margin of purchase preference /price band defined in relevant policy, such
+Seller shall be given opportunity to match L-1 price and contract will be awarded for percentage of
+25% of total value.
+
+Digital Storage Oscilloscope ( 4 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+INPUT CHANNELS Type of input
+channels
+
+Analog Analog
+
+Number of Analog
+Channels
+
+4 4
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/gtCCWW91IzpdX1wQzzgZj7nztHD0_fN_9ehhtsSW5qo
+
+
+ 
+
+Record Length Per
+Analog Channel
+Simultaneously
+
+10M points 10M points
+
+Sampling Rate Per
+Analog Channel
+Simultaneously
+
+2 GS/sec 2 GS/sec
+
+Digital Channels no no
+
+Number of Digital
+Channels
+
+NA NA
+
+Record Length Per
+Digital Channel
+Simultaneously
+
+NA NA
+
+Sampling Rate Per
+Digital Channel
+Simultaneously
+
+NA 2GS/sec, NA
+
+PERFORMANCE
+FEATURES
+
+Bandwidth 100 100.0
+
+Bandwidth
+Upgradability
+
+yes yes
+
+Operating System Non -Windows Non -Windows
+
+DISPLAY Display Type colour TFT colour TFT
+
+Minimum Display
+Size
+
+8.5 8.5
+
+MEASUREMENTS
+FEATURES
+
+Vertical Sensitivity 1mV/Div to 5 V/Div *
+
+Vertical Resolution 8 *
+
+Frequency Analysis
+Feature
+
+yes *
+
+In-built Frequency
+Counter
+
+yes *
+
+In-built Function
+Generator
+
+no *
+
+Time Base Range - *
+
+Time Base Accuracy 25 25.0
+
+GENERIC Minimum Detectable
+Pulse Width
+
+5 *
+
+Memory Upgradability yes *
+
+Segmented Memory
+Feature Availability
+
+yes *
+
+Waveform Update Rate
+(Waveform/sec)
+
+200000 *
+
+Coupling AC,DC,GND *
+
+Trigger Types Edge,pulse width,video,
+pattern/state,External,
+Zone Qualified triggerin
+g,runt,setup/hold,patte
+rn,burst
+
+*
+
+                               3 / 6
+
+
+
+ 
+
+Measurements Math function-Add,
+subtract, multiply,
+divide,Automatic
+Measurements of
+Amplitude and time,FFT
+(phase),low-pass
+filter,Frequency
+Domain function,Time
+& Voltage cursors,FFT
+(magnitude),Automatic
+Measurements related
+to
+combination,histogram
+and communication
+
+*
+
+Acquisition Modes Normal,Peak
+Detect,Averaging,High
+Resolution,Roll Mode,S
+ample,Envelope,Wavef
+orm database
+
+*
+
+I/O Interface USB,LAN
+Port/GPIB,Software for
+waveform analysis
+
+*
+
+Power Source 230 V AC *
+
+Any other features,if
+applicable
+
+- *
+
+ACCESSORIES Standard Accessories
+to be supplied
+
+- *
+
+OPERATING CONDITION Minimum Operating
+Temperature
+
+0 *
+
+Maximum Operating
+Temperature
+
+55 *
+
+Operating Humidity
+(RH)
+
+80 *
+
+SERVICE Warranty 5 5 Or higher
+
+TEST REPORT DETAILS
+& TESTS
+
+conformity to Dry Heat
+for 16 hrs at specified
+maximum temp , in
+accordance with IS:900
+0/part-3/section-5/1977
+latest
+
+yes *
+
+conformity to Damp
+Heat (Cyclic)Test for 2
+Cycles of 24 h each at
+a temp of 40 degree C
+& 95% RH in
+accordance with IS:900
+0/part-5/section-1/
+1991 latest
+
+yes *
+
+conformity to Cold Test
+for 4 hrs at specified
+minimum temp in
+
+yes *
+
+                               4 / 6
+
+
+
+ 
+
+accordance with IS:900
+0/part-2/section-4/1977
+latest
+
+Availability of Test
+Reports from Central
+Govt / NABL
+approved / ILAC
+acredited lab to
+prove conformity to
+the specification
+
+yes yes
+
+Test Report Number
+and date for
+specification(not a part
+of biddable parameter)
+
+- *
+
+Name and Address of
+the Test lab(not a part
+of biddable parameter)
+
+- *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 *********** ***********NAGPUR 4  30
+
+Bid Specific Additional Terms and Conditions
+
+1.Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be
+given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs)
+Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises
+and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to
+avail the Purchase preference, the bidder must be the manufacturer of the offered product
+in case of bid for supply of goods. Traders are excluded from the purview of Public
+Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder
+must be the Service provider of the offered Service. Relevant documentary evidence in this
+regard shall be uploaded along with the bid in respect of the offered product or service. If L-1
+is not an MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of
+purchase preference /price band defined in relevant policy, such Seller shall be given
+opportunity to match L-1 price and contract will be awarded for percentage of 25% of total
+value.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+                               5 / 6
+
+https://gem.gov.in/termsCondition
+
+
+ 
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+http://www.tcpdf.org
+

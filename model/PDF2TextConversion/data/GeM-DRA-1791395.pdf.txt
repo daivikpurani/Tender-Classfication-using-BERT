@@ -1,0 +1,511 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   RA Number: GEM/2020/RA/45468
+
+  Dated: 17-07-2020
+
+  
+
+RA Document
+RA Details
+
+RA Technical End Date/Time 20-07-2020 14:00:00
+
+RA Opening Date/Time 20-07-2020 14:30:00
+
+RA Life Cycle (From Publish Date) 90 (Days)
+
+RA Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Delhi
+
+Department Name Health And Family Welfare Department Delhi
+
+Organisation Name N/a
+
+Office Name Ambedkar Nagar Hospital Dakshin Puri Delhi 110062
+
+Total Quantity 2
+
+Item Category Portable Ventilator
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+
+Splitting
+
+ RA splitting not applied.
+
+Portable Ventilator ( 2 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+                               1 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/qgdsKqIeT2K9ZoqC3pVi7tjx7uDKnTu9lavcjAlyx8c
+
+
+ 
+
+Standards UMDNS Code 18-098 *
+
+Certifications for the
+product
+
+- *
+
+Certification number
+and date
+
+- *
+
+Confirmity to quality
+management standards
+
+ISO 9001 & ISO 13485 *
+
+Confirmity to electrical
+safety standards
+
+IEC 60601-1 or ISO
+80601-2-12 or BIS
+equivalent
+
+*
+
+Vibration resistance
+certification
+
+EN 794-3 EN 794-3, Not available
+
+Aviation Standards: Should have
+airworthiness as per
+RTCA DO-160D aviation
+standards
+
+Should have
+airworthiness as per
+RTCA DO-160D aviation
+standards, NA in case
+not compatible for air
+craft use
+
+Performance
+Parameters
+
+Scope of item Portable transport
+ventilators are defined
+as mechanical
+ventilators that are
+specifically designed to
+facilitate intrahospital
+and/or interfacility
+transport of ventilated
+patients. These devices
+are relatively small and
+lightweight, and can be
+hand-carried if
+necessary during
+transport. Transport
+ventilators may provide
+basic or advanced
+modes of ventilation for
+neonatal, pediatric,
+and/or adult patients
+
+*
+
+Clinical application Portable transport
+ventilators are
+designed to take the
+place of manual
+ventilation or "bagging"
+during emergency or
+transport situations
+
+*
+
+Patient type Adult & pediatric Adult & pediatric,
+Pediatric and neonatal
+
+Tidal volume in ml 50 ml or less - 1500 ml
+or more
+
+50 ml or less - 1500 ml
+or more
+
+Respiration rate,
+breaths/min
+
+Upto 80 *
+
+                               2 / 6
+
+
+
+ 
+
+Trigger mechanism Pressure or flow *
+
+FiO2 % 21-100 *
+
+Inspiratory flow rate,
+L/min
+
+Upto 120 *
+
+Inspiratory pressure,
+cm H2O
+
+Upto 50 *
+
+IE ratio 1:3 to 1:1 1:3 to 1:1
+
+PEEP/CPAP, cm H2O 0-20 *
+
+Pressure support, cm
+H2O
+
+Upto 35 or more *
+
+Panel lock Yes *
+
+Operating modes Assist/control modes A/C volume breaths
+and A/C pressure
+breaths
+
+*
+
+SIMV modes SIMV volume breaths ,
+SIMV pressure breaths,
+Spontaneous/CPAP
+mode , CPAP pressure
+support , Non-invasive
+ventilation , Apnea-
+backup vent mode
+
+*
+
+Monitored/ Displayed
+Parameters
+
+Peak inspiratory
+pressure, Mean airway
+pressure, PEEP
+pressure, Tidal volume,
+Minute volume, FiO2,
+Respiratory rate,
+Inspiratory time,
+Expiratory time, IE ratio
+
+*
+
+Patient Alarms Low/high FiO2,
+Low/high minute
+volume , Low
+inspiratory pressure ,
+High pressure, Low
+PEEP , High PEEP ,
+Apnea, Continuous high
+pressure/occlusion,
+Inverse IE, High
+respiratory rate,
+Breathing circuit
+disconnect
+
+*
+
+Equipment Alarms Gas-supply failure ,
+Power failure, Vent
+inoperative, Low
+battery, Self-diagnostic
+
+*
+
+Type of display LED LCD, LED, TFT
+
+Size of display in inches 5.5 *
+
+Patient Transport
+Capability
+
+Mounting of the
+equipment
+
+Rail mounted Rail mounted, Trolley
+mounted
+
+                               3 / 6
+
+
+
+ 
+
+Rail mount or trolley
+mount should be of the
+same OEM
+
+Yes *
+
+Hand carrying during
+transport
+
+Yes *
+
+MRI compatibility of
+equipment
+
+Yes Yes, No
+
+Magnetic field
+strength , T
+
+3 T 3 T, NA for non MRI
+compatible
+
+Guass line restriction in
+G (in case of non MRI
+compatible put NA)
+
+- *
+
+Built in air source Air compressor Air compressor, Turbine
+
+Should work with External high pressure
+source/cylinders and
+low flow Oxygen supply
+
+*
+
+Power source Mains and battery
+operated
+
+Mains and battery
+operated
+
+Battery type Li-ion *
+
+Should be able to
+work with car /
+ambulance battery
+
+Yes Yes
+
+Power supply NA for battery operated 220-240 V , 50 Hz AV
+single phase, NA for
+battery operated
+
+Operating time in
+hrs
+
+More than 5 hrs More than 5 hrs
+
+Weight (including
+battery) in kgs
+
+5.6 *
+
+Warranty in years 5 3, 5
+
+Additional Accessories Reusable silicon
+breathing circuits
+
+2 adult, 2 pediatric , 2
+neonatal
+
+2 adult, 2 pediatric , 2
+neonatal
+
+NV mask 2 adult, 2 pediatric , 2
+neonatal
+
+1 Adult, 1 pediatric, 1
+neonatal, 2 adult, 2
+pediatric , 2 neonatal
+
+Length of Power cord in
+m
+
+3 m *
+
+Charging adapter to be
+supplied
+
+Yes *
+
+Reports Number of supplies in
+Central /State/PSU Govt
+Hospitals ( Hint: Seller
+should supply a
+performace certificate
+of the device to the
+buyer incase
+demaneded after
+placement of order)
+
+>3 *
+
+                               4 / 6
+
+
+
+ 
+
+OEM/Reseller ( if
+supplied by reseller
+shall ensure
+uninterputed availabilty
+of all spares for 10
+years)
+
+Yes *
+
+Availability of toll free
+facility for technical
+support maintened by
+OEM or authorized
+agencies
+
+Yes *
+
+User/Technical/Mainten
+ance manuals to be
+supplied in English in
+hard and soft copy
+
+Yes *
+
+Demonstration of
+equipment and training
+to be provided after
+completing supplies
+before acceptance
+
+Yes *
+
+The Principal
+Manufacturer must
+have direct
+Presence/approved
+service center In India
+
+Yes *
+
+Copies of reports and
+certifications to be
+furnished to buyer on
+demand at time of
+supplies
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignee/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Sudhir Kumar 110062,AMBEDKAR NAGAR
+HOSPITAL, DAKSHIN PURI,
+NEW DELHI
+
+2  2
+
+Bid Specific Additional Terms and Conditions
+
+1.Provisions for workmen compensation, insurance, public liability, property damage,
+insurance etc. to be ensured by the contractor. Also, safety measures prescribed for working
+in Extra High Voltage & use of personnel protective equipment must be adhered to.
+
+                               5 / 6
+
+
+
+ 
+
+This RA is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

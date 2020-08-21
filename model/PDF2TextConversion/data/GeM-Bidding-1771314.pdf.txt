@@ -1,0 +1,409 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/696574
+
+  Dated: 03-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 24-07-2020 13:00:00
+
+Bid Opening Date/Time 24-07-2020 13:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 60 (Days)
+
+Ministry/State Name Ministry Of Home Affairs
+
+Department Name Department Of Home
+
+Organisation Name Directorate Of Forensic Science Services (dfss)
+
+Office Name Central Forensic Science Laboratory Kolkata
+
+Total Quantity 1
+
+Item Category Eye Detect System for Lie Detection
+
+Experience Criteria  3 Year (s)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Bidder Turnover,OEM
+Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+EMD Detail
+
+Advisory Bank State Bank of India
+
+EMD Percentage(%) 2.00
+
+EMD Amount 46964
+
+ePBG Detail
+
+Required No
+
+(a). EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting
+
+                               1 / 5
+
+
+
+ 
+
+document for the relevant category as per GeM GTC with the bid. Under MSE category, only
+manufacturers for goods and Service Providers for Services are eligible for exemption from EMD.
+Traders are excluded from the purview of this Policy.
+
+(b). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+Director
+Central Forensic Science Laboratory Kolkata, Department of Home, Directorate of Forensic Science
+Services (DFSS), Ministry of Home Affairs
+(B. Badoniya)
+
+Splitting
+
+ Bid splitting not applied.
+
+1. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM
+{themselves or through reseller(s)} should have regularly, manufactured and supplied same or
+similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for
+number of years as indicated in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity during each of
+the year. In case of bunch bids, the category of primary product having highest value should meet
+this criterion.
+
+Eye Detect System For Lie Detection ( 1 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Generic Parameters Parameter Check Measure Eye Pupil
+Dilation,Blinking
+rate,reading
+behavior,fixation
+
+*
+
+Product Application Detection of analyzing
+psycho-physiological
+parameter
+
+*
+
+Deception Detection
+Technology Used
+
+Yes *
+
+Sensor Type Infrared Sensor *
+
+Maximum time for Test
+duration for Eye Detect
+in minutes
+
+30 *
+
+Additional Features Free Upgradation to *
+
+                               2 / 5
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/Aqg2_YXwWKiNvdMMetkOwrlKKZq-Zr39smtl14dNHjU
+
+
+ 
+
+Higher Version,Valid
+Licence
+Copy,Compatible
+Softwares,Certifications
+/ Benchmarking of
+Software Products
+
+Sensor Availability Yes *
+
+Absolute Accuracy
+(%)
+
+80-90 70-80, 80-90, 90-100
+
+Scope of supply
+items in the offered
+product are
+
+Pre-loaded and
+customized Eye Detect
+software with mini
+PC,Infrared Sensor (Eye
+Tracker),Headphone,Wi
+reless Keyboard &
+Mouse,Chin Rest
+
+Pre-loaded and
+customized Eye Detect
+software with mini PC,
+Infrared Sensor (Eye
+Tracker), Headphone,
+Wireless Keyboard &
+Mouse, Chin Rest
+
+Sensor Warranty 1 1, 2, 3, 4, 5 Or higher
+
+Interface USB *
+
+Minimum time for Test
+duration for Eye Detect
+in minutes
+
+15 *
+
+Limitations Work with Bifocal
+Lens & Glasses
+
+No Yes, No
+
+Pupil Size 0.5 *
+
+Camera Mounted on
+Desktop Screen
+Resolution in Mega
+Pixel
+
+2.1 *
+
+Regional Language
+provided on Buyer
+Demand
+
+Yes Yes
+
+No. of Test License
+comes with Machine
+
+200 200, 300, 400, 500,
+Unlimited
+
+Default Available
+Languages for
+Screening Test
+
+English *
+
+Age Limit 60 *
+
+Illeterate Person Can
+be Examine
+
+No *
+
+Catract Eye can be
+examine
+
+No *
+
+Bifocal Lens/Glasses
+limit Range in Diopter
+
+()1.5 *
+
+Life Time Test Free
+with Eye Detect
+System
+
+No Yes, No
+
+PC Configuration Processor Generation 7th *
+
+                               3 / 5
+
+
+
+ 
+
+Screen Size in cm 12.5 *
+
+RAM Capacity in Gb 4 4, 8, 16, NA(If PC not
+Supplied)
+
+PC Warranty in
+Years
+
+1 1, 2, 3, 4, 5, NA(If PC
+not Supplied)
+
+PC Supplied with EYE
+Detect System
+
+Yes Yes
+
+Ports and Slots USB Ports,HDMI
+Port,Ethernet
+Port,Power Adapter,Key
+board,Mouse
+
+*
+
+Operating System Windows 10 *
+
+Hard Disk Capacity
+in Gb
+
+512 128, 256, 512, 1024,
+NA(If PC not Supplied)
+
+Processor Type i5 *
+
+Installation & training Number of Years upto
+which Support is
+available
+
+5 *
+
+No of people to be
+trained in training
+program
+
+5-10 *
+
+No. of days of training
+program
+
+2 *
+
+Training Provided at
+Site
+
+Yes *
+
+Installation and
+Demonstration of
+the offered product
+
+Yes Yes
+
+No of training sessions
+executed
+
+2 *
+
+Certifications ISO Certified No *
+
+System Warranty 1 1, 2, 3, 4, 5 Or higher
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 SAMIRAN
+KHASKEL
+
+700014,30 GORACHAND
+ROAD, PARK CIRCUS,
+KOLKATA
+
+1  30
+
+                               4 / 5
+
+
+
+ 
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Supply Installation Testing
+Commissioning of Goods and Training of operators and providing Statutory Clearances
+required (if any)
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               5 / 5
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

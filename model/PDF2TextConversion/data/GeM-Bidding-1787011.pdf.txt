@@ -1,0 +1,588 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     Bid Number: GEM/2020/B/710861
+  Dated: 16-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 27-07-2020 14:00:00
+
+Bid Opening Date/Time 27-07-2020 14:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Ministry Of Coal
+
+Department Name Materials Management
+
+Organisation Name Nlc
+
+Office Name Materials Management
+
+Total Quantity 300
+
+Item Category LED Luminaire (for Flood Light)
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience and
+Turnover
+
+ No
+
+Bid to RA enabled  Yes
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Advisory Bank State Bank of India
+
+ePBG Percentage(%) 10.00
+
+Duration of ePBG required (Months). 24
+(a). EMD & Performance security should be in favour of Beneficiary, wherever it is applicable.
+
+Beneficiary: 
+Additional Deputy General Manager/NLCIL/Neyveli
+Additional Deputy General Manager/NLCIL/Neyveli Office of the Chief General Manager, Materials Management Complex,
+Dr. Rajendra Prasad Road, Block-27, Neyveli-7,Tamilnadu
+(Sumathy Karuppannasamy)
+
+Splitting
+
+  Bid splitting not applied.  
+
+                               1 / 6
+
+
+
+ 
+
+LED Luminaire (for Flood Light) ( 300 pieces )
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+STANDARDS LED Luminaire conformity to
+IS:10322/Part 5/Section
+5/2012 latest and IS: 16107
+(Part 2/Sec 1):2012 latest
+
+Yes *
+
+Photo biological safety of
+LEDs used shall be as per
+IS:16108/2012 (exempt
+group)
+
+Yes *
+
+Types of LED Luminaire as
+per the IS: 16107(Part-2/
+Sec.-1)/2012
+
+Type B *
+
+Types of LED Modules as
+per the IS:
+16103(Part-2)/2012
+
+Type 3 *
+
+LED Rating/System
+Wattage/Rated Power
+
+120W 120W
+
+Luminaire System Efficacy
+(Lumen/watt)
+
+>/= 100 Lm/Watt *
+
+Ingress Protection (IP
+Rating) as per IS:10322
+(Part 1):1982 latest
+
+IP66 IP66
+
+Mounting brackets
+(included)
+
+Adjustable *
+
+Warranty for free
+replacement (in Years)
+
+2 2
+
+ELECTRICAL EFFICIENCY Input operating Voltage
+range and frequency
+
+140 to 270 V olts AC at 50
+Hz+/-2 Hz with auto cutt off
+at below 120V
+
+140 to 270 V olts AC at 50
+Hz+/-2 Hz with auto cutt off
+at below 120V
+
+Automatic Higher Cut off
+voltage above 300 volt
+
+Yes *
+
+Rated voltage 230 V AC 50 Hz 230 V AC 50 Hz
+
+AC Power Factor at full load ≥ 0.95 *
+
+Driver Efficiency (in %age) ≥85 *
+
+Total Harmonics Distortion
+(in %age)
+
+≤ 10 *
+
+"The total circuit power shall
+not be more than 110
+percent of the value
+declared by the
+manufacturer"
+
+Yes *
+
+OPTICAL LED chip Efficacy ≥130 Lm/Watt *
+
+Colour temperature
+(+/-500K)
+
+6000K 6000K
+
+Working life for LED
+(Minimum 50,000
+burning hours as per
+LM-80 report)
+
+Yes Yes
+
+                               2 / 6
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/Scuq1_q1au0scOe4y--1sh4Lrv46Mx7w0mwjJpLO_g4
+
+
+ 
+
+Colour Rendering Index(CRI) ≥70 *
+
+Beam Angle ≥120 *
+
+Optic lense materal (UV
+stabilised) (Write NA for
+without optic lense supply)
+
+Poly carbonate lense *
+
+THERMAL MANAGEMENT Heat sink should be die-cast
+aluminium along with
+sufficient heat sink fins to
+dissipate heat effectively
+
+Yes *
+
+Capacitor shall be rated for
+a temperature of 105 deg.
+celsius or better
+
+Yes *
+
+Junction temperature < 85 degC *
+
+Operating temperature
+range
+
+-20 deg C to +50 deg C *
+
+Operating Humidity Range 10 % to 95% RH *
+
+PROTECTION Short circuit Protection Yes *
+
+Over load protecton Yes *
+
+Over Voltage protection Yes *
+
+Reverse polarity Yes *
+
+High voltage test (1.5 KV for
+one minute between supply
+terminals and body of the
+unit)
+
+Yes *
+
+Insulation resistance
+between earth and current
+carrying part
+
+>100 M ohm *
+
+The luminaire shall be
+protected against surges
+and transients ( Internal)
+
+>/=5KV *
+
+The luminaire shall be
+protected against surges
+and transients of >/=10KV
+(External)
+
+Yes *
+
+CONSTRUCTIONAL The Luminaires
+casing/housing (single piece
+housing) shall be pressure
+die casted aluminium alloy
+with higher thermal
+conductivity
+
+Yes *
+
+The luminaire body must be
+corrosion resistant epoxy
+powder coated
+
+Yes *
+
+All fastners must be of
+stainless steel
+
+Yes *
+
+The entire housing (both
+LED section and driver
+section) shall be dust and
+water proof having IP 66
+protection as per IS:10322
+(Part 1):1982 latest
+
+Yes *
+
+Extruded silicon loop gasket
+shall be provided in the
+lantern body to ensure a
+weather proof seal between
+the UV Glass cover and the
+
+Yes *
+
+                               3 / 6
+
+
+
+ 
+
+metal housing to exclude
+the entry of the dust, water,
+insects etc.,
+
+Luminaries light
+transparency should be of
+Toughened glass
+
+Yes *
+
+Toughned transparent glass
+cover thickness
+
+>/=4 mm *
+
+Toughned Glass shall not
+get discoloured shall not
+suffer degration due to heat
+and ageing within warranty
+period
+
+Yes *
+
+Number of electronic
+control gear (power
+supplies)
+
+2 Nos. 2 Nos.
+
+Driver components shall be
+industrial grade or above
+
+Yes *
+
+PCB shall be FR4 grade
+minimum 0.8 to 1.0 mm
+thick or more
+
+Yes *
+
+The Luminaires works on
+single phase three wires
+system (Phase, Neutral and
+Earth)
+
+Yes *
+
+Suitable connector shall be
+provided for LED connection
+between driver output and
+LED
+
+Yes *
+
+Length of ISI marked three
+core wire (shall be provided
+along with supply of
+material)
+
+50 cm *
+
+Light Source SMD LED Chip as per LM
+80/IS16106
+
+*
+
+MARKING "Manufactures Name and
+and brand on the aluminium
+die cast body
+
+Engraved/Embossed *
+
+Manufacturer’s name,
+model number, serial
+number
+
+Yes *
+
+Date of manufacture (month-
+year), and lot number as
+identification mark inside
+each unit and the outside of
+each packaging box
+
+Yes *
+
+The operation
+characteristics voltage and
+power be marked inside of
+each LED luminaire unit
+
+Yes *
+
+REPORTS AND
+CERTIFICATIONS
+
+LED Make OSRAM / NICHIA/CREE /
+SAMSUNG / SEOUL /
+LUMILED / PHILIPS / EDISON
+/ SYSKA / LUMENMAX /
+EVERLIGHT / BRIDGELUX /
+NATIONSTAR / REFOND
+
+*
+
+System must have EMI/EMC
+compliance as applicable
+(Test reports shall be
+
+Yes *
+
+                               4 / 6
+
+
+
+ 
+
+furnish on demand by
+buyer/consignee)
+
+LM 79 (Photometry)
+(Ref.IS:16106:2012) report
+from Central Government
+lab/NABL/ILAC accrediated
+lab. Reports shall be furnish
+on demany by buyer (LM-79
+report shall have total
+lumen output, power, PF,
+Current in Amps, CRI & CCT
+etc.,)
+
+Yes *
+
+LM 80 & TM 21 (Part of LM
+80) (Ref. IS:16105:2012)
+Reports and Photo biological
+report for LED report from
+Central Government lab
+/NABL/ILAC accrediated lab.
+Reports shall be furnish on
+demany by buyer (LM-80
+report shall haveand the
+Pohoto Biological report of
+the LED Chip being used in
+the luminaire)
+
+Yes *
+
+Availability of test Report
+from Central Government
+lab/NABL/ILAC accrediated
+lab to Indian Standrad
+IS:10322/part 5/sec-5/2012
+and IS 16107 (Part 2/Sec 1)
+: 2012
+
+Yes *
+
+Seller has to furnish Type
+test report on demand by
+buyer/consignee
+
+Yes *
+
+DC or AC supplied electronic
+control gear for LED Module
+shall comlpy as per
+IS:15885 (Part 2/Sec.13)
+
+Yes *
+
+LED Luminaire for Flood
+Light shall comply with
+Complusory
+Registration(CRS) of BIS for
+safety as per IS 10322 (Part
+5/Section 5): 2012 as
+applicable on the date
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by Buyer will generally
+be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporting
+Officer
+
+Address Quantity Delivery Days
+
+1 SRINIVASAN
+KALIYAPERUMAL
+
+607807,PERMANENT CENTRAL
+STORES, NLC INDIA LIMITED,
+NEYVELI 607807
+
+300  45
+
+Bid Specific Additional Terms and Conditions
+
+                               5 / 6
+
+
+
+ 
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2.Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to MSEs as
+
+defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012 dated 23.03.2012
+issued by Ministry of Micro, Small and Medium Enterprises and its subsequent Orders/Notifications issued by
+concerned Ministry. If the bidder wants to avail the Purchase preference, the bidder must be the manufacturer of
+the offered product in case of bid for supply of goods. Traders are excluded from the purview of Public
+Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder must be the Service
+provider of the offered Service. Relevant documentary evidence in this regard shall be uploaded along with the
+bid in respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s) has/have quoted price
+within L-1+ 15% of margin of purchase preference /price band defined in relevant policy, such Seller shall be
+given opportunity to match L-1 price and contract will be awarded for percentage of 25% of total value.
+
+3.Timely Servicing / rectification of defects during warranty period: After having been notified of the defects /
+service requirement during warranty period, Seller has to complete the required Service / Rectification within 15
+days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of
+Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit
+the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the
+Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after
+which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and
+cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service /
+rectification to the Buyer.
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               6 / 6
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

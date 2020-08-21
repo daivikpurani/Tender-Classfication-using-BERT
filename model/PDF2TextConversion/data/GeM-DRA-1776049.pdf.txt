@@ -1,0 +1,321 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   RA Number: GEM/2020/RA/44586
+
+  Dated: 07-07-2020
+
+  
+
+RA Document
+RA Details
+
+RA Technical End Date/Time 24-07-2020 14:00:00
+
+RA Opening Date/Time 24-07-2020 14:30:00
+
+RA Life Cycle (From Publish Date) 90 (Days)
+
+RA Offer Validity (From End Date) 30 (Days)
+
+Ministry/State Name Kerala
+
+Department Name Local Self Government Department Kerala
+
+Organisation Name Commissionerate Of Rural Development
+
+Office Name Aryad Block Panchayat
+
+Total Quantity 10
+
+Item Category Inverter with sine wave output
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Document required from seller  Experience Criteria,Bidder Turnover,OEM
+Authorization Certificate
+*In case any bidder is seeking exemption from
+Experience / Turnover Criteria, the supporting
+documents to prove his eligibility for exemption must
+be uploaded for evaluation by the buyer
+
+Inspection Required  No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+
+Splitting
+
+ RA splitting not applied.
+
+Inverter With Sine Wave Output ( 10 pieces )
+
+                               1 / 4
+
+
+
+ 
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+GENERIC Inverter Governing
+specification
+
+Generally conforming
+to IS:13314
+
+*
+
+Rating in KVA & Min.
+VAH Capacity of
+Battery
+
+1 KVA/4320 VAH 0.8 KVA/3456 VAH, 1
+KVA/4320 VAH, 1.5
+KVA/6480 VAH, 2
+KVA/8640 VAH, 3
+KVA/12960 VAH, 5
+KVA/21600 VAH, 7.5
+KVA/32400 VAH, 10
+KVA/43200 VAH
+
+Technology MOSFET-PWM MOSFET-PWM, IGBT-
+PWM
+
+Energy Star Rating 3 Star 3 Star, 4 Star, 5 Star
+
+Trolley with trolley with trolley, without
+trolley
+
+Type of Battery Tubular battery
+confirming to IS:13369
+
+Tubular battery
+confirming to IS:13369,
+VRLA battery
+confirming to
+JISC:8702(Pt.I,II&III)
+
+Backup time (Minutes) Minimum 180 Minutes *
+
+CONSTRUCTIONAL Thickness of sheet for
+trolley (in mm)
+minimum
+
+1.2 *
+
+Trolley Material CRCA Steel *
+
+Type of enclosure CRCA Steel *
+
+Thickness of sheet for
+enclosure ( in mm)
+minimum
+
+1.2 *
+
+Inverter shall have by
+pass facility
+
+Yes *
+
+FUNCTIONAL Total Harmonic
+distortion
+
+</=5% *
+
+Input Single Phase sine
+wave(120 to 260 V)
+
+*
+
+Output Single Phase sine wave
+230 V
+
+*
+
+Inverter Efficiency (%) >/=87% *
+
+Overload Time (in
+Minutes)
+
+>/=10 *
+
+                               2 / 4
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/yKco6iUoRtJhd3fefZn1ut4tMvGpho7xuYxfyx5B_M4
+
+
+ 
+
+Overload of rated load
+(in %)
+
+>/=10 *
+
+PROTECTION Battery cut-off voltage
+to protect from
+overdischarge (in Volt)
+
+>10.5 *
+
+Degree of protection IP 21 *
+
+METERING AND
+INDICATIONS
+
+The inverters shall be
+provided with output
+voltage and current
+meters conforming to
+IS 2419 : 1979 and of
+an accuracy class not
+inferior to 2.5 in
+accordance with IS
+1248 : 1983
+
+Yes *
+
+CERTIFICATIONS Availability of the Type
+Test Report from
+Central Govt.
+/NABL/ILAC Accredited
+lab
+
+Yes *
+
+Climatic test report as
+per clause 7.10.1 of IS
+13314
+
+yes *
+
+Type Test Certificate
+No.
+
+- *
+
+Name of Lab - *
+
+Type Test Certificate
+date
+
+- *
+
+Address of Lab - *
+
+Inverter shall have
+valid BIS CRS
+certifications for < / =
+10 KVA
+
+Yes *
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignee/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Indira K S 688522,Block Panchayat
+Office,Aryad Kalavoor
+P.O,Alappuzha,Kerala
+
+10  35 N/A
+
+Bid Specific Additional Terms and Conditions
+
+                               3 / 4
+
+
+
+ 
+
+1.Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the
+State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of
+goods having on-site warranty). If service center is not already there at the time of bidding,
+successful bidder / OEM shall have to establish one within 30 days of award of contract.
+Payment shall be released only after submission of documentary evidence of having
+Functional Service Centre.
+
+This RA is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               4 / 4
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

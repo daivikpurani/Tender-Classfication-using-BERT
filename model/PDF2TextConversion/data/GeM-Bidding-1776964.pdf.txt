@@ -1,0 +1,272 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   Bid Number: GEM/2020/B/701699
+
+  Dated: 09-07-2020
+
+  
+
+Bid Document
+Bid Details
+
+Bid End Date/Time 20-07-2020 20:00:00
+
+Bid Opening Date/Time 20-07-2020 20:30:00
+
+Bid Life Cycle (From Publish Date) 90 (Days)
+
+Bid Offer Validity (From End Date) 75 (Days)
+
+Ministry/State Name Ministry Of Power
+
+Department Name Na
+
+Organisation Name N/a
+
+Office Name Nhpc Ltd
+
+Total Quantity 4
+
+Item Category Layer 2 Access Switch
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+Bid to RA enabled  No
+
+Inspection Required  No
+
+Estimated Bid Value  106200
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+  Bid splitting not applied.  
+
+MSE Purchase Preference
+
+MSE Purchase Preference Yes
+
+ 
+
+1. Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to
+
+                               1 / 3
+
+
+
+ 
+
+MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012
+dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and its subsequent
+Orders/Notifications issued by concerned Ministry. If the bidder wants to avail the Purchase
+preference, the bidder must be the manufacturer of the offered product in case of bid for supply of
+goods. Traders are excluded from the purview of Public Procurement Policy for Micro and Small
+Enterprises. In respect of bid for Services, the bidder must be the Service provider of the offered
+Service. Relevant documentary evidence in this regard shall be uploaded along with the bid in
+respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s) has/have quoted
+price within L-1+ 15% of margin of purchase preference /price band defined in relevant policy, such
+Seller shall be given opportunity to match L-1 price and contract will be awarded for percentage of
+25% of total value.
+
+Layer 2 Access Switch ( 4 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Specification Type of Switch Web Managed Web Managed
+
+Technology PoE+ PoE+
+
+Number of 1G
+Copper Ports
+
+8 8
+
+Number of 10G
+Copper Ports
+
+0 0
+
+No. of 1 G SFP Port
+(Uplink)
+
+2 2
+
+No. of 10 G SFP+
+Port (Uplink)
+
+0 0
+
+Multi-Gigabit
+Support
+
+No No
+
+Redundant Power
+supply ( from day
+one)
+
+Not available Not available
+
+Console Port Not Available *
+
+Switching Capacity
+-Non Blocking (Gbps)
+
+20 *
+
+Throughput (MPPS) 14.88 *
+
+Operating System available *
+
+Dedicated Stacking
+Port/Slot ( from day
+one)
+
+Not available *
+
+Stacking Bandwidth
+(Gbps)
+
+20 *
+
+                               2 / 3
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/YJXlyO2gw4aHNuAkxFDQSp9GQkVkmlz5oOyUKYIAF-E
+
+
+ 
+
+Basic Layer-3 Protocol - *
+
+Security Feature - *
+
+Management Protocol - *
+
+QoS - *
+
+Operating Temperature
+Range (Degree C)
+
+- *
+
+Operating Humidity
+(RH)(%)
+
+- *
+
+IPv6 Ready from day
+one and dully certified
+
+Yes *
+
+PoE Power Budget (
+Watt )
+
+120 *
+
+on Site OEM
+Warranty
+
+3 3
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignees/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+1 Manoj Kumar
+Singh
+
+737134,Teesta V Power
+Station Balutar
+
+4  15
+
+Bid Specific Additional Terms and Conditions
+
+1.Scope of supply (Bid price to include all cost components) : Only supply of Goods
+
+This Bid is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               3 / 3
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+

@@ -1,0 +1,703 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+   RA Number: GEM/2020/RA/42596
+
+  Dated: 10-06-2020
+
+  
+
+RA Document
+RA Details
+
+RA Technical End Date/Time 20-06-2020 17:00:00
+
+RA Opening Date/Time 20-06-2020 17:30:00
+
+RA Life Cycle (From Publish Date) 90 (Days)
+
+RA Offer Validity (From End Date) 15 (Days)
+
+Ministry/State Name Haryana
+
+Department Name Development And Panchayats Department Haryana
+
+Organisation Name N/a
+
+Office Name Chandigarh
+
+Total Quantity 4
+
+Item Category Laptop-Notebook
+
+MSE Exemption for Years of Experience and
+Turnover
+
+ No
+
+Startup Exemption for Years of Experience
+and Turnover
+
+ No
+
+EMD Detail
+
+Required No
+
+ePBG Detail
+
+Required No
+Splitting
+
+ RA splitting not applied.
+
+Laptop-Notebook ( 4 pieces )
+
+Technical Specifications
+
+* As per GeM Category Specification
+
+Specification Specification Name Values Bid Requirement
+(Allowed Values)
+
+Construction Form Factor Standard Standard, Convertible,
+Detachable
+
+                               1 / 7
+
+https://bidplus.gem.gov.in/bidding/bid/showCatalogue/rnXmcv1Om3J7-W1vSXWZjIZNW8n6boh9zWtivYrNdXk
+
+
+ 
+
+Chassis Material ABS Plastic *
+
+Hinges Metallic *
+
+Processor Processor Make AMD Intel, AMD, Microsoft
+
+Processor
+Generation
+
+7 7, 8, 0, 9, 10, 1 Or
+higher
+
+Number of Cores per
+Processor
+
+2 2, 4, 6, 8 Or higher
+
+Processor Base
+Frequency (GHz)
+
+2.5 *
+
+Processor
+Description
+
+AMD Ryzen 3 *
+
+Processor Number AMD Ryzen 3 2200U *
+
+Out of Band
+Management
+
+NA *
+
+Cache (MB) 5 *
+
+Motherboard Expansion Slots (M Dot
+2)
+
+2 *
+
+Graphics Graphics Type Integrated *
+
+Graphic Card
+Description
+
+- *
+
+Size of Memory in
+Case of Dedicated
+Graphic Card (GB)
+
+0 0, 1, 2, 3, 4, 6 Or
+higher
+
+Size of VRAM in case of
+Integrated Graphics
+(MB)
+
+- *
+
+Operating System Operating System
+(Factory Pre-Loaded)
+
+Windows 10
+Professional
+
+Windows 10
+Professional, Linux,
+DOS, Windows 10
+Home, Mac OS Mojave,
+Windows 10 Pro ( 64
+bits)
+
+Recovery Image Media - *
+
+OS Certification Windows Windows, Linux, Mac
+OS, NA
+
+Memory Type of RAM DDR4 *
+
+RAM Size (GB) 8 4, 8, 16, 32 Or higher
+
+RAM Speed (MHz) 2400 *
+
+Total Numbers of DIMM
+Slots Available
+
+2 *
+
+Number of DIMM Slots
+populated
+
+1 *
+
+RAM Expandability
+up to( using spare
+DIMM Slots in GB)
+
+16 8, 16, 32, 0 Or higher
+
+                               2 / 7
+
+
+
+ 
+
+Storage Type of Drives used
+to populate the
+Internal Bays
+
+HDD HDD, SSD, SSHD,
+SSED, PCIe SSD
+
+Number of Internal
+Bays populated with
+HDD
+
+1 *
+
+Capacity of each HDD
+(GB)
+
+1000 @5400 rpm *
+
+Total HDD Capacity
+(GB)
+
+1000 500, 1000, 1500, 2000,
+2500, 3000, 0 Or
+higher
+
+Number of Internal
+Bays populated with
+SSD
+
+0 *
+
+Capacity of each SSD
+(GB)
+
+0 128, 256, 512, 1024,
+2048, 0
+
+Total SSD Capacity
+(GB)
+
+0 128, 256, 384, 512,
+768, 1024, 1280, 2048,
+4096, 0 Or higher
+
+Number of Internal
+Bays populated with
+SSHD
+
+0 *
+
+Capacity of each
+SSHD (GB)
+
+NA 8 GB Flash + 500 GB
+@5400 rpm, 8 GB Flash
++ 1000 GB @5400 rpm,
+8 GB Flash + 2000 GB
+@5400 rpm, NA Or
+higher
+
+Total SSHD Capacity
+in addition to 8 GB
+Flash (GB)
+
+0 500, 1000, 1500, 0 Or
+higher
+
+Optane Memory (GB) 0 *
+
+Connectivity Wireless
+Connectivity
+
+Yes Yes, No
+
+If Yes, Type of Wireless
+Connectivity
+
+Wi-Fi 802.11ac *
+
+Number of Ethernet
+Ports
+
+1 *
+
+If available, Type of
+Ethernet Ports
+
+10/100/1000 on board
+Integrated Gigabit Port
+
+*
+
+Bluetooth
+Connectivity
+
+Yes Yes, No
+
+If Yes, Version of
+Bluetooth Available
+
+4.2 *
+
+Ports Number of USB Version
+2 Point 0 Ports
+
+1 *
+
+Number of USB Version
+3 point 0 / 3 point 1,
+
+2 *
+
+                               3 / 7
+
+
+
+ 
+
+Gen 1 Ports
+
+Number of USB Version
+3 point 1, Gen 2 Ports
+
+0 *
+
+Number of USB Type C
+Ports
+
+0 *
+
+Number of Serial Ports 0 *
+
+Number of VGA Ports 0 *
+
+Number of HDMI Ports 1 *
+
+Number of DP Ports 0 *
+
+Number of Thunderbolt
+Port
+
+- *
+
+Display Display Size (Inch) 14 *
+
+Display Type - Non Touch, Touch Or
+higher
+
+Display Technology LED HD Backlit *
+
+Panel Technology TN IPS, TN, VA Or higher
+
+Display Resolution
+(Pixels)
+
+1366x768 *
+
+Availability of
+Webcam integrated
+with Display
+
+Yes Yes, No
+
+If Yes, Resolution of
+Webcam
+
+VGA VGA, HD, FHD, NA Or
+higher
+
+Infra Red Webcam No Yes, No
+
+Miscellaneous Optical Drive NA Integrated, External,
+NA Or higher
+
+Type of Optical Drive N/A *
+
+Internal Speaker
+(Dual)
+
+Yes Yes, No
+
+Audio-in Yes *
+
+Audio-out Yes *
+
+Headphone out Yes *
+
+Microphone-in Yes *
+
+Type of Keyboard Standard *
+
+Backlit Keyboard No *
+
+Spill Resistant
+Keyboard
+
+No *
+
+Pointing
+Device/Touchpad
+
+Touchpad with multi-
+touch gestures enabled
+
+*
+
+Finger Print Reader No *
+
+Hardware Trusted
+Platform Enabled
+
+Yes *
+
+                               4 / 7
+
+
+
+ 
+
+Carry Case Yes Yes, No
+
+If Yes, Type of Carry
+Case
+
+Back Pack *
+
+Security Lock Slot Yes *
+
+If Yes,Availability of
+Cable Lock
+
+No *
+
+Weight (Including
+Battery) (Kilogram)
+
+1.52 *
+
+Power Battery Type - *
+
+Battery Chemistry Li - ion *
+
+Battery Capacity (Watt
+Hour)
+
+41 *
+
+Battery Backup Time
+(Hours)
+
+6 *
+
+Certification BIS Registration under
+CRS of Meity
+
+Yes *
+
+BIS Registration
+Number and its validity
+
+- *
+
+BEE / Energy Star for
+the given Model
+
+Yes *
+
+ROHS Compliance Yes *
+
+Other Certifications
+available
+
+- *
+
+Operating Conditions Minimum Operating
+Temperature
+
+0 *
+
+Maximum Operating
+Temperature
+
+35 *
+
+Minimum Operating
+Humidity (%RH)
+
+10 *
+
+Maximum Operating
+Humidity (%RH)
+
+90 *
+
+Warranty Battery Warranty 3 1, 3, 4 Or higher
+
+On Site OEM
+Warranty (Year)
+
+3 1, 3, 5, 4
+
+  * Specifications highlighted in bold are the Golden Parameters.
+  * Bidders may note that In respect of non-golden Parameters, the specifications 'Values' chosen by
+Buyer will generally be preferred over 'Bid requirement ( allowed Values) by the Buyer.
+
+Additional Specification Documents
+
+ Consignee/Reporting Officer and Quantity
+
+S.No. Consignee/Reporti
+ng Officer
+
+Address Quantity Delivery Days
+
+                               5 / 7
+
+
+
+ 
+
+1 Sachin 127040,BDPO TOSHAM
+HANSHI ROAD TOSHAM
+
+4  15 N/A
+
+Special terms and conditions for category Laptop-Notebook 
+
+1.As per notification of MEITY circulated vide letter no. F.No.33(1) /2017-IPHW..dated:
+14/09/2017, the minimum local content should be 40 percent to qualify as local or domestic
+manufacturer.
+
+Bid Specific Additional Terms and Conditions
+
+1.Buyback for Non PFMS/Non GPA:
+ 1. GST will apply on the value of buyback and separate invoice is to be prepared by
+Government buyer/Consignee for buyback items offline outside the GeM system. Vendor
+should work out input credit for that GST applicable on the buy back while quoting the
+product/services.
+ 2. Input GST Credit consideration by seller- seller shall offer the prices in the bid by the total
+amount of new goods including GST- total amount of old goods quoted by the firm excluding
+GST. This is because GST charged by buyer on buy-back value will be available for full ITC
+(input tax credit) on the hands of bidder. Therefore, for the purpose of quoting in the bid and
+evaluation, value as quoted by the bidder (excluding any GST on buy back) as indicated in
+column G below will be considered.
+Illustrative examples for bidders are as under for understanding of the seller.
+
+Excel sheet for explanation to Buyback ATC
+S.no Cost of
+
+Fresh
+Good (A)
+
+%age of
+GST on
+Fresh
+
+Good as
+consider
+
+ed by
+seller at
+the time
+of quote
+
+(B).
+
+GST
+Amount
+on Fresh
+Good (C)
+
+Cost of
+Buyback
+item (D)
+
+%age of
+GST on
+
+Buyback
+items (E)
+as fixed
+by buyer
+in the bid
+
+GST
+Amount
+
+on
+Buyback
+item (F)
+
+as
+applicabl
+e at the
+time of
+invoice
+
+by buyer
+
+Quote of
+the
+
+Bidder (G
+={A+C-
+
+D})
+
+1 100 28 28 20 8 1.6 108
+2 100 9 9 20 8 1.6 89
+3 110 10 11 24 8 1.92 97
+
+Seller after the award of the GeM contract, will indicate all column A to G which will not
+alter their quoted price indicated in Colum-G
+
+3. Successful lowest bidder has to provide detailed cost break up of tendered items as well
+as buy back items separately after award of contract through email to the government
+buyer/consignee.
+4. The seller of new item /service provider shall deposit the cost of invoiced buy back item
+with GST to the buyer for allowing seller to lift up the material from the buyer/consignee
+premise.
+5. Transportation of buy back items from buyer premises shall be arranged by the seller
+itself without any extra cost.
+6. Government Buyer organisation /consignee will issue invoice of buy back items to the
+seller at the cost of buyback to be indicated to the buyer by the seller offline after receipt of
+order. This in no case will modify the bid in any manner.
+7. The seller will be entirely responsible for the safe disposal of old items without affecting
+the environment in any manner as per prevailing statutory rules and Act/ law of the land.
+8. The seller may visit the site and inspect the condition of buy back item in advance before
+quoting for the bid.
+9. Receipt of payment by the buyer for Old items and invoicing by buyer will be out of GeM
+
+                               6 / 7
+
+
+
+ 
+
+portal.
+10. Government Buyer will upload the details of old goods along with the bid in the
+corrigendum with minimum price.
+11. If the minimum price (Optional) is indicated and sellers of new item who are not agreeing
+to take back the old item at equal to or above that minimum price should not participate in
+the bid.
+12. In case they participate into the bid and afterwards indicates the price of old goods, less
+than the minimum price shown by Government Buyer in corrigendum, EMD of the bidder will
+be forfeited.
+13. Item Details Consignee wise will be indicated in the corrigendum like -
+ 1. Consignee wise
+ 2. Item Description
+ 3. Serial Number
+ 4. Model
+ 5. Brand
+ 6. Year of manufacturing
+ 7. Purchased on
+ 8. Age
+ 9. Size, Rating, Designation
+ 10. Quantity
+ 11. Min price (Optional)
+ 12. Unit
+ 13. Working Guidelines (/Functional/Non-Functional)
+ 14. Remarks
+14. The successful bidder shall remove the old goods from the premise of the Government
+buyer/consignee at the time of the supply, installation and commis-sioning of fresh goods.
+Seller will be entitled for payment only after removal of old goods from Government
+buyer/consignee/user’s premise and after supplying the fresh goods in terms of contract.
+15. Note: This clause of ATC shall be operated by non PFMS; non GPA buyer i.e. all PSU
+working through their ERP and not integrated with GPA.
+
+This RA is also governed by the General Terms and Conditions
+
+---Thank You---
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               7 / 7
+
+https://gem.gov.in/termsCondition
+http://www.tcpdf.org
+
